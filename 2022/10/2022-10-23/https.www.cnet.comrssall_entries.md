@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## The Absolute Best Sci-Fi Movies on HBO Max     - CNET
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 23:08:29+00:00
- - tags: None
 
 HBO Max has a wide range of sci-fi flicks, from newer gems to absolute classics.
 
@@ -12,7 +11,6 @@ HBO Max has a wide range of sci-fi flicks, from newer gems to absolute classics.
  - [https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-stream-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-stream-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 23:05:12+00:00
- - tags: None
 
 This week, see in Halloween with Guillermo del Toro's Cabinet of Curiosities.
 
@@ -20,7 +18,6 @@ This week, see in Halloween with Guillermo del Toro's Cabinet of Curiosities.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-tv-shows-on-hbo-max-to-watch/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-tv-shows-on-hbo-max-to-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 21:43:46+00:00
- - tags: None
 
 Check out the hidden gems in HBO Max's collection.
 
@@ -28,7 +25,6 @@ Check out the hidden gems in HBO Max's collection.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-see/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-see/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 21:34:24+00:00
- - tags: None
 
 Begin Halloween with the giant stash of impeccable horror movies on Netflix.
 
@@ -36,7 +32,6 @@ Begin Halloween with the giant stash of impeccable horror movies on Netflix.
  - [https://www.cnet.com/tech/services-and-software/yankees-vs-astros-livestream-how-to-watch-game-4-of-the-alcs-online/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/yankees-vs-astros-livestream-how-to-watch-game-4-of-the-alcs-online/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 21:02:03+00:00
- - tags: None
 
 New York faces elimination against Houston today on TBS.
 
@@ -44,7 +39,6 @@ New York faces elimination against Houston today on TBS.
  - [https://www.cnet.com/tech/services-and-software/chiefs-vs-49ers-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/chiefs-vs-49ers-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 19:22:02+00:00
- - tags: None
 
 Want to watch the Kansas City Chiefs take on the San Francisco 49ers? Here's everything you need to catch Sunday's 1:25 p.m. PT game on Fox.
 
@@ -52,7 +46,6 @@ Want to watch the Kansas City Chiefs take on the San Francisco 49ers? Here's eve
  - [https://www.cnet.com/tech/services-and-software/seahawks-vs-chargers-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/seahawks-vs-chargers-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 19:13:02+00:00
- - tags: None
 
 Want to catch the Seattle Seahawks against the Los Angeles Chargers? Here's everything you need to catch Sunday's 1:25 p.m. PT game on Fox.
 
@@ -60,7 +53,6 @@ Want to catch the Seattle Seahawks against the Los Angeles Chargers? Here's ever
  - [https://www.cnet.com/tech/services-and-software/jets-vs-broncos-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/jets-vs-broncos-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 19:06:02+00:00
- - tags: None
 
 Looking to watch the New York Jets play the Denver Broncos? Here's everything you need to stream Sunday's 4:05 p.m. ET game on CBS.
 
@@ -68,7 +60,6 @@ Looking to watch the New York Jets play the Denver Broncos? Here's everything yo
  - [https://www.cnet.com/deals/get-home-for-the-holidays-with-big-savings-on-travel-essentials-at-woot/#ftag=CADf328eec](https://www.cnet.com/deals/get-home-for-the-holidays-with-big-savings-on-travel-essentials-at-woot/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 18:19:56+00:00
- - tags: None
 
 Make your journey home as easy as possible with big savings on luggage, chargers, wallets and other travel gear and accessories.
 
@@ -76,7 +67,6 @@ Make your journey home as easy as possible with big savings on luggage, chargers
  - [https://www.cnet.com/culture/entertainment/secrets-behind-the-netflix-love-is-blind-dating-pods/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/secrets-behind-the-netflix-love-is-blind-dating-pods/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 17:45:00+00:00
- - tags: None
 
 Dating show Love Is Blind is back for season 3. Here's how the pods were designed to help cast members partner up.
 
@@ -84,7 +74,6 @@ Dating show Love Is Blind is back for season 3. Here's how the pods were designe
  - [https://www.cnet.com/culture/entertainment/great-british-baking-show-meet-the-man-who-rescues-disastrous-bakes/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/great-british-baking-show-meet-the-man-who-rescues-disastrous-bakes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 17:40:00+00:00
- - tags: None
 
 Illustrator Tom Hovey's drawings are the show's delicious secret ingredient. But don't expect to see him in the tent much.
 
@@ -92,7 +81,6 @@ Illustrator Tom Hovey's drawings are the show's delicious secret ingredient. But
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-hbo-recap-the-queen-who-never-was/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-hbo-recap-the-queen-who-never-was/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 17:31:00+00:00
- - tags: None
 
 The penultimate episode of HBO's Game of Thrones prequel puts a shine on two of the show's leading ladies: Queen Alicent and Princess Rhaenys.
 
@@ -100,7 +88,6 @@ The penultimate episode of HBO's Game of Thrones prequel puts a shine on two of 
  - [https://www.cnet.com/tech/services-and-software/phillies-vs-padres-livestream-how-to-watch-game-5-of-the-nlcs-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/phillies-vs-padres-livestream-how-to-watch-game-5-of-the-nlcs-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 17:28:03+00:00
- - tags: None
 
 Philadelphia and San Diego play Game 5 on FS1 Sunday, and you don't need cable to watch.
 
@@ -108,7 +95,6 @@ Philadelphia and San Diego play Game 5 on FS1 Sunday, and you don't need cable t
  - [https://www.cnet.com/culture/entertainment/hbos-house-of-the-dragon-finale-what-time-it-airs-in-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbos-house-of-the-dragon-finale-what-time-it-airs-in-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 17:28:00+00:00
- - tags: None
 
 The season finale of House of the Dragon airs on HBO this Sunday.
 
@@ -116,7 +102,6 @@ The season finale of House of the Dragon airs on HBO this Sunday.
  - [https://www.cnet.com/tech/services-and-software/packers-vs-commanders-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/packers-vs-commanders-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 16:05:02+00:00
- - tags: None
 
 Want to watch the Green Bay Packers play the Washington Commanders? Here's everything you need to see Sunday's 1 p.m. ET game on Fox.
 
@@ -124,7 +109,6 @@ Want to watch the Green Bay Packers play the Washington Commanders? Here's every
  - [https://www.cnet.com/deals/save-over-40-on-apples-sleek-magic-trackpad-2-today-only-at-woot/#ftag=CADf328eec](https://www.cnet.com/deals/save-over-40-on-apples-sleek-magic-trackpad-2-today-only-at-woot/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 16:03:09+00:00
- - tags: None
 
 Deals on Apple devices don't happen every day, so don't miss out if you're hoping to grab a Trackpad at this price.
 
@@ -132,7 +116,6 @@ Deals on Apple devices don't happen every day, so don't miss out if you're hopin
  - [https://www.cnet.com/tech/services-and-software/giants-vs-jaguars-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/giants-vs-jaguars-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 16:03:02+00:00
- - tags: None
 
 Want to see the New York Giants take on the Jacksonville Jaguars? Here's everything you need to watch Sunday's 1 p.m. ET game on Fox.
 
@@ -140,7 +123,6 @@ Want to see the New York Giants take on the Jacksonville Jaguars? Here's everyth
  - [https://www.cnet.com/tech/services-and-software/nfl-week-7-how-to-watch-chiefs-vs-49ers-steelers-vs-dolphins-redzone-and-more-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-week-7-how-to-watch-chiefs-vs-49ers-steelers-vs-dolphins-redzone-and-more-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 16:00:08+00:00
- - tags: None
 
 We are nearing the NFL season's midway point.
 
@@ -148,7 +130,6 @@ We are nearing the NFL season's midway point.
  - [https://www.cnet.com/how-to/10-winter-hardy-plants-that-will-survive-a-snowstorm/#ftag=CADf328eec](https://www.cnet.com/how-to/10-winter-hardy-plants-that-will-survive-a-snowstorm/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 16:00:03+00:00
- - tags: None
 
 Here's how to find plants that won't give up the ghost when it gets (really) cold outside.
 
@@ -156,7 +137,6 @@ Here's how to find plants that won't give up the ghost when it gets (really) col
  - [https://www.cnet.com/tech/services-and-software/lions-vs-cowboys-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/lions-vs-cowboys-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:56:02+00:00
- - tags: None
 
 Want to watch the Detroit Lions take on the Dallas Cowboys? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -164,7 +144,6 @@ Want to watch the Detroit Lions take on the Dallas Cowboys? Here's everything yo
  - [https://www.cnet.com/tech/services-and-software/falcons-vs-bengals-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/falcons-vs-bengals-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:54:02+00:00
- - tags: None
 
 Want to see the Atlanta Falcons play the Cincinnati Bengals? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -172,7 +151,6 @@ Want to see the Atlanta Falcons play the Cincinnati Bengals? Here's everything y
  - [https://www.cnet.com/tech/services-and-software/bucs-vs-panthers-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bucs-vs-panthers-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:51:02+00:00
- - tags: None
 
 Want to catch the Tampa Bay Buccaneers play the Carolina Panthers? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -180,7 +158,6 @@ Want to catch the Tampa Bay Buccaneers play the Carolina Panthers? Here's everyt
  - [https://www.cnet.com/science/elon-musk-says-neuralink-show-tell-delayed-a-month/#ftag=CADf328eec](https://www.cnet.com/science/elon-musk-says-neuralink-show-tell-delayed-a-month/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:45:02+00:00
- - tags: None
 
 The startup aims to develop a device that lets humans directly interact with computers​ via their brains.
 
@@ -188,7 +165,6 @@ The startup aims to develop a device that lets humans directly interact with com
  - [https://www.cnet.com/deals/amazon-is-offering-up-to-50-off-select-echo-devices-and-refurb-fire-tablets/#ftag=CADf328eec](https://www.cnet.com/deals/amazon-is-offering-up-to-50-off-select-echo-devices-and-refurb-fire-tablets/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:33:34+00:00
- - tags: None
 
 Upgrade your home with a new smart speaker or display, or snag a powerful Fire tablet at a big discount.
 
@@ -196,7 +172,6 @@ Upgrade your home with a new smart speaker or display, or snag a powerful Fire t
  - [https://www.cnet.com/how-to/5-clever-and-unexpected-ways-to-use-your-fire-pit/#ftag=CADf328eec](https://www.cnet.com/how-to/5-clever-and-unexpected-ways-to-use-your-fire-pit/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:00:20+00:00
- - tags: None
 
 From driving away bugs to grilling, there are plenty of surprising uses for fire pits that you can use all year long.
 
@@ -204,7 +179,6 @@ From driving away bugs to grilling, there are plenty of surprising uses for fire
  - [https://www.cnet.com/tech/home-entertainment/you-can-buy-a-bigger-tv-than-you-think/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/you-can-buy-a-bigger-tv-than-you-think/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:00:11+00:00
- - tags: None
 
 Fifty inches? Tiny. Sixty inches? Boring. The numbers may seem huge, but you can probably get a bigger TV than you might assume.
 
@@ -212,7 +186,6 @@ Fifty inches? Tiny. Sixty inches? Boring. The numbers may seem huge, but you can
  - [https://www.cnet.com/tech/gaming/best-mobile-horror-games-to-play-in-the-dark-this-halloween/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/best-mobile-horror-games-to-play-in-the-dark-this-halloween/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 15:00:08+00:00
- - tags: None
 
 These creepy mobile games will keep you up all night.
 
@@ -220,7 +193,6 @@ These creepy mobile games will keep you up all night.
  - [https://www.cnet.com/culture/entertainment/best-horror-movies-on-hbo-max-in-october/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-horror-movies-on-hbo-max-in-october/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 14:00:03+00:00
- - tags: None
 
 Searching for something spooky? Try HBO Max.
 
@@ -228,7 +200,6 @@ Searching for something spooky? Try HBO Max.
  - [https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch-october/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch-october/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 13:00:30+00:00
- - tags: None
 
 Catch Torn Hearts, a horror movie about rising country music artists who meet a reclusive legendary singer.
 
@@ -236,7 +207,6 @@ Catch Torn Hearts, a horror movie about rising country music artists who meet a 
  - [https://www.cnet.com/how-to/how-to-keep-your-lawn-looking-great-even-in-the-fall-and-winter/#ftag=CADf328eec](https://www.cnet.com/how-to/how-to-keep-your-lawn-looking-great-even-in-the-fall-and-winter/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 13:00:19+00:00
- - tags: None
 
 We've got a guide to help you navigate lawn care all year.
 
@@ -244,7 +214,6 @@ We've got a guide to help you navigate lawn care all year.
  - [https://www.cnet.com/how-to/is-teflon-safe/#ftag=CADf328eec](https://www.cnet.com/how-to/is-teflon-safe/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 13:00:15+00:00
- - tags: None
 
 Certain nonstick cookware made before a certain year may contain harmful PFOAs. Here's how to tell if your Teflon or nonstick cookware is safe to use.
 
@@ -252,7 +221,6 @@ Certain nonstick cookware made before a certain year may contain harmful PFOAs. 
  - [https://www.cnet.com/health/personal-care/plum-plump-is-hands-down-the-best-budget-skin-cream-for-locking-in-moisture/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/plum-plump-is-hands-down-the-best-budget-skin-cream-for-locking-in-moisture/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 13:00:02+00:00
- - tags: None
 
 Give the gift of radiant, hydrated skin with Glow Recipe's Plum Plump hyaluronic cream.
 
@@ -260,7 +228,6 @@ Give the gift of radiant, hydrated skin with Glow Recipe's Plum Plump hyaluronic
  - [https://www.cnet.com/how-to/9-things-in-your-home-that-you-forget-to-clean-regularly/#ftag=CADf328eec](https://www.cnet.com/how-to/9-things-in-your-home-that-you-forget-to-clean-regularly/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 12:30:02+00:00
- - tags: None
 
 From your ceiling fan to your remote control, these home items and appliances are probably filthy.
 
@@ -268,7 +235,6 @@ From your ceiling fan to your remote control, these home items and appliances ar
  - [https://www.cnet.com/science/inside-the-worlds-largest-digital-camera/#ftag=CADf328eec](https://www.cnet.com/science/inside-the-worlds-largest-digital-camera/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 12:00:07+00:00
- - tags: None
 
 Next year the LSST Camera will start a decade-long project to map the entire sky, and help answer some of the universe's biggest questions.
 
@@ -276,7 +242,6 @@ Next year the LSST Camera will start a decade-long project to map the entire sky
  - [https://www.cnet.com/how-to/how-to-boost-your-solar-panel-performance-through-snow-and-ice-this-winter/#ftag=CADf328eec](https://www.cnet.com/how-to/how-to-boost-your-solar-panel-performance-through-snow-and-ice-this-winter/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 12:00:03+00:00
- - tags: None
 
 Protect your panels and get the most energy from them when there's not as much sun to go around.
 
@@ -284,7 +249,6 @@ Protect your panels and get the most energy from them when there's not as much s
  - [https://www.cnet.com/videos/we-get-an-up-close-look-at-the-worlds-largest-digital-camera/#ftag=CADf328eec](https://www.cnet.com/videos/we-get-an-up-close-look-at-the-worlds-largest-digital-camera/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 12:00:01+00:00
- - tags: None
 
 Scientists at the SLAC National Accelerator Laboratory recently took the lens cap off the world's largest digital camera. The camera will be the centerpiece of an advanced telescope at the Vera C. Rubin Observatory in Chile.
 
@@ -292,7 +256,6 @@ Scientists at the SLAC National Accelerator Laboratory recently took the lens ca
  - [https://www.cnet.com/personal-finance/pitching-a-4-day-work-week-to-your-boss-is-easier-than-you-think/#ftag=CADf328eec](https://www.cnet.com/personal-finance/pitching-a-4-day-work-week-to-your-boss-is-easier-than-you-think/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 11:45:02+00:00
- - tags: None
 
 Some companies have started pilot four-day work weeks -- and it's hard to argue against their findings.
 
@@ -300,7 +263,6 @@ Some companies have started pilot four-day work weeks -- and it's hard to argue 
  - [https://www.cnet.com/tech/computing/how-to-factory-reset-a-macbook-windows-laptop-or-chromebook-to-sell-or-give-away/#ftag=CADf328eec](https://www.cnet.com/tech/computing/how-to-factory-reset-a-macbook-windows-laptop-or-chromebook-to-sell-or-give-away/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 11:00:16+00:00
- - tags: None
 
 Before you part with your laptop, make sure to wipe any trace of your data from it, and make it feel as new as possible.
 
@@ -308,7 +270,6 @@ Before you part with your laptop, make sure to wipe any trace of your data from 
  - [https://www.cnet.com/tech/mobile/friendly-reminder-to-clear-your-iphone-cache-every-month/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/friendly-reminder-to-clear-your-iphone-cache-every-month/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 10:15:06+00:00
- - tags: None
 
 A bloated browser cache could be slowing down your online activity.
 
@@ -316,7 +277,6 @@ A bloated browser cache could be slowing down your online activity.
  - [https://www.cnet.com/deals/turn-your-amazon-return-into-a-5-coupon-in-5-easy-steps/#ftag=CADf328eec](https://www.cnet.com/deals/turn-your-amazon-return-into-a-5-coupon-in-5-easy-steps/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 10:15:02+00:00
- - tags: None
 
 Learn how to get a free $5 coupon each time you return your Amazon packages.
 
@@ -324,7 +284,6 @@ Learn how to get a free $5 coupon each time you return your Amazon packages.
  - [https://www.cnet.com/culture/did-you-know-you-can-legally-buy-unclaimed-mail-packages-heres-how/#ftag=CADf328eec](https://www.cnet.com/culture/did-you-know-you-can-legally-buy-unclaimed-mail-packages-heres-how/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 02:00:02+00:00
- - tags: None
 
 Some Amazon and USPS packages never make it to their destinations. When that happens, you can buy those packages online and in person. But watch out for scams.
 
@@ -332,6 +291,5 @@ Some Amazon and USPS packages never make it to their destinations. When that hap
  - [https://www.cnet.com/how-to/dont-buy-distilled-water-save-money-and-make-it-yourself-in-5-easy-steps/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-buy-distilled-water-save-money-and-make-it-yourself-in-5-easy-steps/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-23 01:00:03+00:00
- - tags: None
 
 You can make distilled water with supplies you likely already have in your kitchen

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Most of the casualties in Seoul are teens or people in their 20s, fire chief says
  - [https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_25b0dbcb1c8085fc35369a014c084db5](https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_25b0dbcb1c8085fc35369a014c084db5)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 23:00:40.574183+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_57dbc6fa5dbf6edb0d5c005abf3e4167](https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_57dbc6fa5dbf6edb0d5c005abf3e4167)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 21:03:31.634858+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@
  - [https://www.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_57dbc6fa5dbf6edb0d5c005abf3e4167](https://www.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_57dbc6fa5dbf6edb0d5c005abf3e4167)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 20:01:24.123708+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@
  - [https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths/index.html](https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 20:01:24.103646+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@
  - [https://www.cnn.com/videos/politics/2022/10/29/obama-georgia-speech-herschel-walker-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/29/obama-georgia-speech-herschel-walker-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 19:49:51+00:00
- - tags: None
 
 Former President Obama campaigned for Democratic candidates Raphael Warnock and Stacey Abrams in Georgia. Obama criticized Republican Senate candidate Herschel Walker for his lack of experience.
 
@@ -44,7 +39,6 @@ Former President Obama campaigned for Democratic candidates Raphael Warnock and 
  - [https://www.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths/index.html](https://www.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 19:01:22.426575+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Former President Obama campaigned for Democratic candidates Raphael Warnock and 
  - [https://edition.cnn.com/webview/asia/live-news/seoul-south-korea-halloween-deaths/index.html](https://edition.cnn.com/webview/asia/live-news/seoul-south-korea-halloween-deaths/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 19:01:22.259169+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@ Former President Obama campaigned for Democratic candidates Raphael Warnock and 
  - [https://www.cnn.com/videos/world/2022/10/29/south-korea-seoul-update-halloween-festival-cardiac-arrest-ripley-nr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/29/south-korea-seoul-update-halloween-festival-cardiac-arrest-ripley-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 18:17:44+00:00
- - tags: None
 
 Dozens of people in South Korea's capital of Seoul are receiving medical assistance after an incident during Halloween festivities in the city, according to Yonhap News Agency. CNN's Will Ripley reports.
 
@@ -68,7 +60,6 @@ Dozens of people in South Korea's capital of Seoul are receiving medical assista
  - [https://www.cnn.com/videos/world/2022/10/29/brazil-presidential-election-guns-god-fake-news-newton-nr-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/10/29/brazil-presidential-election-guns-god-fake-news-newton-nr-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 17:50:38+00:00
- - tags: None
 
 Gun laws have become a key battleground — alongside religion— ahead of Brazil's presidential election run-off vote between Jair Bolsonaro and his left-wing rival Luiz Inácio Lula da Silva. CNN international correspondent Paula Newton reports.
 
@@ -76,7 +67,6 @@ Gun laws have become a key battleground — alongside religion— ahead of Brazi
  - [https://www.cnn.com/2022/10/29/politics/paul-pelosi-attack-david-depape/index.html](https://www.cnn.com/2022/10/29/politics/paul-pelosi-attack-david-depape/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 16:51:29+00:00
- - tags: None
 
 The man who is alleged to have attacked Paul Pelosi, the husband of House Speaker Nancy Pelosi, in the couple's San Francisco home on Friday is expected to be charged with multiple felonies Monday, according San Francisco law enforcement officials. He is expected to be arraigned on Tuesday.
 
@@ -84,7 +74,6 @@ The man who is alleged to have attacked Paul Pelosi, the husband of House Speake
  - [https://www.cnn.com/2022/10/29/asia/south-korea-halloween-cardiac-arrest-intl/index.html](https://www.cnn.com/2022/10/29/asia/south-korea-halloween-cardiac-arrest-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 16:26:10+00:00
- - tags: None
 
 Dozens of people in South Korea's capital of Seoul are receiving medical assistance after an incident during Halloween festivities in the city, according to Yonhap News Agency.
 
@@ -92,7 +81,6 @@ Dozens of people in South Korea's capital of Seoul are receiving medical assista
  - [https://www.cnn.com/2022/10/29/europe/russia-ukraine-grain-deal-suspended-intl/index.html](https://www.cnn.com/2022/10/29/europe/russia-ukraine-grain-deal-suspended-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 16:05:59+00:00
- - tags: None
 
 Russia will suspend its participation in the United Nations-brokered grain export deal with Ukraine after drone attacks on the Crimean city of Sevastopol, the country's defense ministry announced Saturday.
 
@@ -100,7 +88,6 @@ Russia will suspend its participation in the United Nations-brokered grain expor
  - [https://www.cnn.com/2022/10/29/us/rescue-fishing-vessel-collides-container-ship-virginia/index.html](https://www.cnn.com/2022/10/29/us/rescue-fishing-vessel-collides-container-ship-virginia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 15:42:01+00:00
- - tags: None
 
 The US Coast Guard, with an assist from good Samaritans, rescued 13 people from a sinking fishing boat after it collided with a container ship about 60 miles off the coast of Virginia on Friday.
 
@@ -108,7 +95,6 @@ The US Coast Guard, with an assist from good Samaritans, rescued 13 people from 
  - [https://www.cnn.com/2022/10/29/world/mars-meteorites-science-newsletter-wt-scn/index.html](https://www.cnn.com/2022/10/29/world/mars-meteorites-science-newsletter-wt-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 15:39:52+00:00
- - tags: None
 
 You never forget your first Mars mission.
 
@@ -116,7 +102,6 @@ You never forget your first Mars mission.
  - [https://www.cnn.com/2022/10/29/sport/jake-paul-anderson-silva-fight-time-spt-intl/index.html](https://www.cnn.com/2022/10/29/sport/jake-paul-anderson-silva-fight-time-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 14:37:56+00:00
- - tags: None
 
 When Anderson Silva was breaking records as the most dominant MMA fighter of his generation, Jake Paul was a child watching at home, transfixed by the Brazilian's achievements.
 
@@ -124,7 +109,6 @@ When Anderson Silva was breaking records as the most dominant MMA fighter of his
  - [https://www.cnn.com/2022/10/29/business/tesla-cyberquad-recall/index.html](https://www.cnn.com/2022/10/29/business/tesla-cyberquad-recall/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 14:25:25+00:00
- - tags: None
 
 The Tesla Cyberquads for Kids, made by Radio Flyer, has been recalled because it doesn't meet federal safety standards. Owners are being offered a full refund after they disable the electric all-terrain vehicle.
 
@@ -132,7 +116,6 @@ The Tesla Cyberquads for Kids, made by Radio Flyer, has been recalled because it
  - [https://www.cnn.com/2022/10/29/investing/us-treasuries-risk/index.html](https://www.cnn.com/2022/10/29/investing/us-treasuries-risk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 14:19:04+00:00
- - tags: None
 
 The market for US Treasuries, worth roughly $24 trillion, is considered the world's most important. Its smooth operation directly impacts both America's ability to run its government, and the health of the broader financial system, which hinges on the view among traders that US debt is a safe bet.
 
@@ -140,7 +123,6 @@ The market for US Treasuries, worth roughly $24 trillion, is considered the worl
  - [https://www.cnn.com/2022/10/29/entertainment/kanye-west-antisemitism-anti-black/index.html](https://www.cnn.com/2022/10/29/entertainment/kanye-west-antisemitism-anti-black/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 14:03:41+00:00
- - tags: None
 
 On the surface, the case of Kanye West seems pretty cut and dry.
 
@@ -148,7 +130,6 @@ On the surface, the case of Kanye West seems pretty cut and dry.
  - [https://www.cnn.com/travel/article/mauna-loa-volcano-unrest-hawaii-trnd/index.html](https://www.cnn.com/travel/article/mauna-loa-volcano-unrest-hawaii-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 13:41:35+00:00
- - tags: None
 
 The Hawaii County Civil Defense Agency on Friday issued a volcano advisory alert after 36 small earthquakes were detected between Thursday and Friday near Mauna Loa, earth's largest active volcano, which "continues to be in a state of heightened unrest," according to an update from the United States Geological Survey.
 
@@ -156,7 +137,6 @@ The Hawaii County Civil Defense Agency on Friday issued a volcano advisory alert
  - [https://www.cnn.com/2022/10/29/opinions/halloween-should-be-evil-magic-thomas/index.html](https://www.cnn.com/2022/10/29/opinions/halloween-should-be-evil-magic-thomas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 13:38:46+00:00
- - tags: None
 
 There's a time and a place for empathy. On a plane with a screaming baby, when a sick colleague leaves work early and when friends blithely announce plans for a destination wedding, a little empathy can go a long way. As I recently discovered, however, there is one occasion from which empathy should be banished forever: Halloween.
 
@@ -164,7 +144,6 @@ There's a time and a place for empathy. On a plane with a screaming baby, when a
  - [https://www.cnn.com/2022/10/29/world/emperor-penguins-threatened-species-climate-scn/index.html](https://www.cnn.com/2022/10/29/world/emperor-penguins-threatened-species-climate-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 13:16:23+00:00
- - tags: None
 
 As Antarctica's emperor penguins are increasingly threatened by the climate crisis, the flightless seabirds will receive new protections under the Endangered Species Act, or ESA.
 
@@ -172,7 +151,6 @@ As Antarctica's emperor penguins are increasingly threatened by the climate cris
  - [https://www.cnn.com/2022/10/29/politics/cody-keenan-q-and-a/index.html](https://www.cnn.com/2022/10/29/politics/cody-keenan-q-and-a/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 13:06:47+00:00
- - tags: None
 
 The idea for Cody Keenan's New York Times best-selling first book came from a viral tweet storm.
 
@@ -180,7 +158,6 @@ The idea for Cody Keenan's New York Times best-selling first book came from a vi
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-29-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-29-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 12:55:20.251995+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ The idea for Cody Keenan's New York Times best-selling first book came from a vi
  - [https://edition.cnn.com/2022/10/29/politics/us-midterm-elections-explainer/index.html](https://edition.cnn.com/2022/10/29/politics/us-midterm-elections-explainer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 12:55:20.113040+00:00
- - tags: None
 
 https://cnn.it/3DIPTK0
 
@@ -196,7 +172,6 @@ https://cnn.it/3DIPTK0
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-29-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-29-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 12:55:20.023978+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ https://cnn.it/3DIPTK0
  - [https://www.cnn.com/2022/10/29/sport/antony-spin-reaction-manchester-united-spt-intl/index.html](https://www.cnn.com/2022/10/29/sport/antony-spin-reaction-manchester-united-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 12:39:20+00:00
- - tags: None
 
 It was a moment of exquisite but ultimately unnecessary skill.
 
@@ -212,7 +186,6 @@ It was a moment of exquisite but ultimately unnecessary skill.
  - [https://www.cnn.com/2022/10/29/us/real-vampires-new-orleans-atlanta-cec/index.html](https://www.cnn.com/2022/10/29/us/real-vampires-new-orleans-atlanta-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 12:28:56+00:00
- - tags: None
 
 When Maven Lore was being fitted for his first set of fangs, a switch within him flipped on.
 
@@ -220,7 +193,6 @@ When Maven Lore was being fitted for his first set of fangs, a switch within him
  - [https://www.cnn.com/2022/10/29/sport/la-lakers-lebron-james-timberwolves-spt-intl/index.html](https://www.cnn.com/2022/10/29/sport/la-lakers-lebron-james-timberwolves-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 11:51:08+00:00
- - tags: None
 
 LeBron James made history on Friday but could do little to stop the LA Lakers' nightmare start to the season from continuing.
 
@@ -228,7 +200,6 @@ LeBron James made history on Friday but could do little to stop the LA Lakers' n
  - [https://www.cnn.com/2022/10/29/us/cbp-officer-reunites-baby-delivered-border-trnd/index.html](https://www.cnn.com/2022/10/29/us/cbp-officer-reunites-baby-delivered-border-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 11:07:52+00:00
- - tags: None
 
 A US Customs and Border Protection officer was reunited with a young girl who he helped deliver at the US-Mexico border six years ago.
 
@@ -236,7 +207,6 @@ A US Customs and Border Protection officer was reunited with a young girl who he
  - [https://www.cnn.com/2022/10/29/tech/elon-musk-twitter-concentration-of-power/index.html](https://www.cnn.com/2022/10/29/tech/elon-musk-twitter-concentration-of-power/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 11:04:41+00:00
- - tags: None
 
 In late May, something unusual happened at Twitter. Shareholders voted to approve two proposals to change how the company operates — and did so against Twitter's recommendations.
 
@@ -244,7 +214,6 @@ In late May, something unusual happened at Twitter. Shareholders voted to approv
  - [https://www.cnn.com/2022/10/29/us/north-carolina-lottery-dale-earnhardt-trnd/index.html](https://www.cnn.com/2022/10/29/us/north-carolina-lottery-dale-earnhardt-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 10:03:25+00:00
- - tags: None
 
 One North Carolina man's longtime support of NASCAR legend Dale Earnhardt paid off big-time when he won over $200,000 in the lottery.
 
@@ -252,7 +221,6 @@ One North Carolina man's longtime support of NASCAR legend Dale Earnhardt paid o
  - [https://www.cnn.com/2022/10/29/politics/steny-hoyer-interview-help-america-vote-act-anniversary/index.html](https://www.cnn.com/2022/10/29/politics/steny-hoyer-interview-help-america-vote-act-anniversary/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 10:01:55+00:00
- - tags: None
 
 The first piece of modern federal legislation to address the infrastructure of voting systems across the country, known as Help America Vote Act, celebrates its 20th anniversary on Saturday.
 
@@ -260,7 +228,6 @@ The first piece of modern federal legislation to address the infrastructure of v
  - [https://www.cnn.com/2022/10/29/africa/ngarannam-boko-haram-nigeria-intl-cmd/index.html](https://www.cnn.com/2022/10/29/africa/ngarannam-boko-haram-nigeria-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 09:44:19+00:00
- - tags: None
 
 It is a sight Ya Lewa Aji says she can never forget: a baby strapped to her mother's back, shot dead while the mother lay lifeless on the floor.
 
@@ -268,7 +235,6 @@ It is a sight Ya Lewa Aji says she can never forget: a baby strapped to her moth
  - [https://www.cnn.com/2022/10/29/us/sam-baker-kid-climbing-el-capitan-saturday-trnd/index.html](https://www.cnn.com/2022/10/29/us/sam-baker-kid-climbing-el-capitan-saturday-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 09:29:43+00:00
- - tags: None
 
 An 8-year-old boy became the youngest person to finish climbing El Capitan in California's Yosemite National Park on Friday, according to his father, who has been by his side and cheering him on since the pair began their journey earlier this week.
 
@@ -276,7 +242,6 @@ An 8-year-old boy became the youngest person to finish climbing El Capitan in Ca
  - [https://www.cnn.com/2022/10/29/business/mcdonalds-happy-meal-history-trnd/index.html](https://www.cnn.com/2022/10/29/business/mcdonalds-happy-meal-history-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 09:02:39+00:00
- - tags: None
 
 McDonald's said this week that it sold half of its new Happy Meals geared toward adults in just four days. But four decades ago, when the first Happy Meal debuted, the company didn't quite get it.
 
@@ -284,7 +249,6 @@ McDonald's said this week that it sold half of its new Happy Meals geared toward
  - [https://www.cnn.com/2022/10/29/politics/midterm-elections-women-swing-voters/index.html](https://www.cnn.com/2022/10/29/politics/midterm-elections-women-swing-voters/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 09:01:08+00:00
- - tags: None
 
 Republicans are bullish that this could the year of the "security mom" -- the moment when women who abandoned the GOP during Donald Trump's presidency gravitate back toward Republican nominees who are speaking to their worries about the economic and physical security of their families.
 
@@ -292,7 +256,6 @@ Republicans are bullish that this could the year of the "security mom" -- the mo
  - [https://www.cnn.com/travel/article/how-to-avoid-survive-cobra-bite/index.html](https://www.cnn.com/travel/article/how-to-avoid-survive-cobra-bite/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 08:19:58+00:00
- - tags: None
 
 Thailand is full of snakes -- more than 200 species, including cobras. That might be unsettling for some people, but it was ideal for Prangmart Charoenwai as a boy in southern Thailand.
 
@@ -300,7 +263,6 @@ Thailand is full of snakes -- more than 200 species, including cobras. That migh
  - [https://www.cnn.com/travel/article/travel-news-halloween-italian-cuisine/index.html](https://www.cnn.com/travel/article/travel-news-halloween-italian-cuisine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 08:09:54+00:00
- - tags: None
 
 In travel news this week, we bring you America's eeriest cities, the world's most elusive shipwrecks and National Geographic's top places to visit in 2023.
 
@@ -308,7 +270,6 @@ In travel news this week, we bring you America's eeriest cities, the world's mos
  - [https://www.cnn.com/2022/10/29/us/colorado-missing-hiker-rescue-train-trnd/index.html](https://www.cnn.com/2022/10/29/us/colorado-missing-hiker-rescue-train-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 08:04:50+00:00
- - tags: None
 
 A Colorado train passenger helped lead to the rescue of a missing, injured hiker after she spotted her through a train window.
 
@@ -316,7 +277,6 @@ A Colorado train passenger helped lead to the rescue of a missing, injured hiker
  - [https://www.cnn.com/2022/10/29/world/russia-drone-attack-crimea-intl-hnk/index.html](https://www.cnn.com/2022/10/29/world/russia-drone-attack-crimea-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 07:04:33+00:00
- - tags: None
 
 Russian Black Sea warships have repelled a drone attack in Sevastopol Bay, a Russian official in Crimea said on Saturday.
 
@@ -324,7 +284,6 @@ Russian Black Sea warships have repelled a drone attack in Sevastopol Bay, a Rus
  - [https://www.cnn.com/2022/10/29/europe/russian-army-ukraine-blake-cec/index.html](https://www.cnn.com/2022/10/29/europe/russian-army-ukraine-blake-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 06:06:27+00:00
- - tags: None
 
 It was one of the strangest episodes in military history, an event so unusual that it was first treated as a myth.
 
@@ -332,7 +291,6 @@ It was one of the strangest episodes in military history, an event so unusual th
  - [https://www.cnn.com/2022/10/29/americas/brazil-trump-playbook-analysis-intl-latam/index.html](https://www.cnn.com/2022/10/29/americas/brazil-trump-playbook-analysis-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 05:38:24+00:00
- - tags: None
 
 After Donald Trump's 2020 reelection bid failed, some supporters claimed that the media and social media had been unfair to the former President -- a narrative that continues to resonate among his base today.
 
@@ -340,7 +298,6 @@ After Donald Trump's 2020 reelection bid failed, some supporters claimed that th
  - [https://www.cnn.com/2022/10/29/americas/brazil-elections-gun-religion-intl-latam/index.html](https://www.cnn.com/2022/10/29/americas/brazil-elections-gun-religion-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 04:43:38+00:00
- - tags: None
 
 The thundering sound of gunfire reverberates through a room during a seemingly endless barrage.
 
@@ -348,7 +305,6 @@ The thundering sound of gunfire reverberates through a room during a seemingly e
  - [https://www.cnn.com/2022/10/29/asia/us-north-korea-nuclear-policy-unchanged-intl-hnk/index.html](https://www.cnn.com/2022/10/29/asia/us-north-korea-nuclear-policy-unchanged-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 04:35:57+00:00
- - tags: None
 
 The United States said on Friday its policy towards North Korea had not changed after a senior US official responsible for nuclear policy raised some eyebrows by saying Washington would be willing to engage in arms-control talks with Pyongyang.
 
@@ -356,7 +312,6 @@ The United States said on Friday its policy towards North Korea had not changed 
  - [https://www.cnn.com/2022/10/28/asia/tropical-storm-nalgae-paeng-philippines-intl-hnk/index.html](https://www.cnn.com/2022/10/28/asia/tropical-storm-nalgae-paeng-philippines-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 02:54:41+00:00
- - tags: None
 
 Tropical Storm Nalgae has killed at least 72 people and injured 33 in the Philippines, the country's disaster agency said Saturday.
 
@@ -364,7 +319,6 @@ Tropical Storm Nalgae has killed at least 72 people and injured 33 in the Philip
  - [https://www.cnn.com/videos/world/2022/10/29/russia-wagner-group-leader-confronts-putin-ukraine-war-bell-pkg-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/10/29/russia-wagner-group-leader-confronts-putin-ukraine-war-bell-pkg-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 01:49:13+00:00
- - tags: None
 
 Yevgeny Prigozhin, the leader of a brutal, private army known as the Wagner Group, is now challenging Russia's Minister of Defense Sergei Shoigu. American officials believe Prigozhin confronted President Vladimir Putin himself about the mismanagement of the war. CNN's Melissa Bell reports.
 
@@ -372,7 +326,6 @@ Yevgeny Prigozhin, the leader of a brutal, private army known as the Wagner Grou
  - [https://www.cnn.com/style/article/singapore-supertall-skyscraper-shenton-way/index.html](https://www.cnn.com/style/article/singapore-supertall-skyscraper-shenton-way/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 01:12:39+00:00
- - tags: None
 
 Singapore is set to welcome its first ever "supertall" skyscraper, a term used to describe buildings that exceed 300 meters (984 feet) in height.
 
@@ -380,7 +333,6 @@ Singapore is set to welcome its first ever "supertall" skyscraper, a term used t
  - [https://www.cnn.com/2022/10/28/europe/ukraine-russia-war-winter-intl-cmd/index.html](https://www.cnn.com/2022/10/28/europe/ukraine-russia-war-winter-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 00:42:59+00:00
- - tags: None
 
 As winter edges ever closer in Ukraine, Alla Melnychuk and her neighbors are racing against the time to save what little they have left.
 
@@ -388,6 +340,5 @@ As winter edges ever closer in Ukraine, Alla Melnychuk and her neighbors are rac
  - [https://www.cnn.com/2022/10/28/asia/north-korea-nuclear-threat-solution-analysis-intl-hnk/index.html](https://www.cnn.com/2022/10/28/asia/north-korea-nuclear-threat-solution-analysis-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-29 00:22:29+00:00
- - tags: None
 
 As a statement of intent, it was about as blunt as they get.

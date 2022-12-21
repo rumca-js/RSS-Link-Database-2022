@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## WhatsApp is getting Facebook’s Bitmoji-style avatars
  - [https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars](https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 20:49:42+00:00
- - tags: None
 
 <figure>
       <img alt="WhatApp logo on a green, black, and white background" src="https://cdn.vox-cdn.com/thumbor/ybn5KACpRNkRJOnS-Rur1qJiEgY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71530349/STK110_whats_app_Kradtke_02.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 18:06:33+00:00
- - tags: None
 
 <figure>
       <img alt="A leaked image showing Ecobee’s video doorbell" src="https://cdn.vox-cdn.com/thumbor/xS6WgXEsRYPtFuyTbb5tGKrcLzY=/0x134:2000x1467/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71529938/ecobee_smart_doorbell_2.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/22/23417796/kerbal-space-program-2-early-access-release-date-intercept-games](https://www.theverge.com/2022/10/22/23417796/kerbal-space-program-2-early-access-release-date-intercept-games)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 17:50:59+00:00
- - tags: None
 
 <figure>
       <img alt="A stock photo with a render of Kerbal Space Program 2" src="https://cdn.vox-cdn.com/thumbor/PCe239T-BF_TWwcTc7iBquIbmoU=/99x0:422x215/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71529885/header.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/10/22/23417664/google-lawsuit-republicans-rnc-discriminatory-spam-filtering-policies-politics](https://www.theverge.com/2022/10/22/23417664/google-lawsuit-republicans-rnc-discriminatory-spam-filtering-policies-politics)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 14:46:53+00:00
- - tags: None
 
 <figure>
       <img alt="The Gmail logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/g4UqmdP44FfAu0C7WGJmDV5rvlI=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71529387/acastro_STK459_10.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/23413159/lg-gram-17-2022-review-price-specs-features](https://www.theverge.com/23413159/lg-gram-17-2022-review-price-specs-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 14:00:00+00:00
- - tags: None
 
 <p>There is nothing else like this on the market</p>
   <p>
@@ -67,7 +62,6 @@
  - [https://www.theverge.com/2022/10/22/23416218/apple-magic-trackpad-2-anker-charger-tile-pro-bluetooth-tracker-xbox-elite-controller-core-deal-sale](https://www.theverge.com/2022/10/22/23416218/apple-magic-trackpad-2-anker-charger-tile-pro-bluetooth-tracker-xbox-elite-controller-core-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 13:47:58+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the Apple Magic Trackpad 2 on a wooden surface" src="https://cdn.vox-cdn.com/thumbor/TItNL_SYQleUUIlIhBGvaKIdZ5s=/0x0:2500x1667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71529210/apple-imac-0042.0.0.jpg" />
@@ -80,7 +74,6 @@
  - [https://www.theverge.com/2022/10/22/23417241/tivo-os-smart-tv-platform-xperi](https://www.theverge.com/2022/10/22/23417241/tivo-os-smart-tv-platform-xperi)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A TV running TiVo OS." src="https://cdn.vox-cdn.com/thumbor/SR4lSzWn3anohHPMqNNzqJ8VaeI=/142x0:1762x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71529043/TiVo_OS_NCIS_Comp_TV.0.jpeg" />

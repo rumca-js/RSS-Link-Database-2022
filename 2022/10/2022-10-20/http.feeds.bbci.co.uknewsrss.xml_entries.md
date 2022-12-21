@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## China Covid: The politics driving the hellish lockdowns
  - [https://www.bbc.co.uk/news/world-asia-china-63310524?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63310524?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:52:05+00:00
- - tags: None
 
 Parts of Beijing are now being locked down as China's Communist Party holds a historic Congress.
 
@@ -12,7 +11,6 @@ Parts of Beijing are now being locked down as China's Communist Party holds a hi
  - [https://www.bbc.co.uk/news/world-us-canada-63293633?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63293633?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:46:17+00:00
- - tags: None
 
 A closer look at Ron DeSantis, who supporters believe could be the next Republican president.
 
@@ -20,7 +18,6 @@ A closer look at Ron DeSantis, who supporters believe could be the next Republic
  - [https://www.bbc.co.uk/news/world-europe-63327290?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63327290?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:31:01+00:00
- - tags: None
 
 Far-right Giorgia Meloni could be sworn in as PM soon, despite a row with ally Silvio Berlusconi.
 
@@ -28,7 +25,6 @@ Far-right Giorgia Meloni could be sworn in as PM soon, despite a row with ally S
  - [https://www.bbc.co.uk/news/uk-politics-63339578?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63339578?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:30:32+00:00
- - tags: None
 
 Liz Truss leaves her successor a party in chaos, spiralling prices, rising interest rates and squeezed budgets.
 
@@ -36,7 +32,6 @@ Liz Truss leaves her successor a party in chaos, spiralling prices, rising inter
  - [https://www.bbc.co.uk/news/world-latin-america-63339203?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63339203?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:23:00+00:00
- - tags: None
 
 The UN says Colombia has increased its cultivation of the plant - the main ingredient in cocaine.
 
@@ -44,7 +39,6 @@ The UN says Colombia has increased its cultivation of the plant - the main ingre
  - [https://www.bbc.co.uk/sport/football/63339447?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63339447?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:13:34+00:00
- - tags: None
 
 Leeds boss Jesse Marsch apologises for failing to acknowledge club's fans after 2-0 loss to fellow strugglers Leicester City.
 
@@ -52,7 +46,6 @@ Leeds boss Jesse Marsch apologises for failing to acknowledge club's fans after 
  - [https://www.bbc.co.uk/news/science-environment-63291104?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63291104?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:13:10+00:00
- - tags: None
 
 A huge marine reserve in the Pacific Ocean has benefits for both fish and fishers, scientists say.
 
@@ -60,7 +53,6 @@ A huge marine reserve in the Pacific Ocean has benefits for both fish and fisher
  - [https://www.bbc.co.uk/news/health-63336928?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63336928?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:09:00+00:00
- - tags: None
 
 The system can no longer operate effectively, the Care Quality Commission warns, as delays mount.
 
@@ -68,7 +60,6 @@ The system can no longer operate effectively, the Care Quality Commission warns,
  - [https://www.bbc.co.uk/news/business-63330237?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63330237?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:02:50+00:00
- - tags: None
 
 Some 7.8 million people in UK finding bills "a heavy burden", a watchdog warns.
 
@@ -76,7 +67,6 @@ Some 7.8 million people in UK finding bills "a heavy burden", a watchdog warns.
  - [https://www.bbc.co.uk/sport/football/63339467?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63339467?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 23:00:28+00:00
- - tags: None
 
 After Steven Gerrard's Aston Villa departure, BBC Sport looks at some of the possible contenders to replace him.
 
@@ -84,7 +74,6 @@ After Steven Gerrard's Aston Villa departure, BBC Sport looks at some of the pos
  - [https://www.bbc.co.uk/news/blogs-the-papers-63338939?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63338939?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 22:52:12+00:00
- - tags: None
 
 The race to become the next PM after Liz Truss's resignation leads most of the papers.
 
@@ -92,7 +81,6 @@ The race to become the next PM after Liz Truss's resignation leads most of the p
  - [https://www.bbc.co.uk/news/uk-scotland-62394463?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62394463?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 22:00:06+00:00
- - tags: None
 
 Katie Macleod travelled the world while managing to keep working as a freelance graphic designer.
 
@@ -100,7 +88,6 @@ Katie Macleod travelled the world while managing to keep working as a freelance 
  - [https://www.bbc.co.uk/sport/football/63238010?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63238010?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:58:01+00:00
- - tags: None
 
 Manager Jesse Marsch is booed by Leeds fans as Leicester City secure a valuable Premier League victory to move off the bottom of the table.
 
@@ -108,7 +95,6 @@ Manager Jesse Marsch is booed by Leeds fans as Leicester City secure a valuable 
  - [https://www.bbc.co.uk/sport/av/football/63339294?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63339294?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:57:07+00:00
- - tags: None
 
 Under pressure Steven Gerrard says he "won't quit" as Aston Villa boss after a 3-0 defeat to Fulham - but is out of a job soon afterwards.
 
@@ -116,7 +102,6 @@ Under pressure Steven Gerrard says he "won't quit" as Aston Villa boss after a 3
  - [https://www.bbc.co.uk/sport/football/62775410?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62775410?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:56:04+00:00
- - tags: None
 
 Steven Gerrard leaves his role as Aston Villa boss after Thursday's 3-0 defeat at Fulham which leaves them just outside the relegation zone.
 
@@ -124,7 +109,6 @@ Steven Gerrard leaves his role as Aston Villa boss after Thursday's 3-0 defeat a
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63331994?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63331994?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:48:46+00:00
- - tags: None
 
 It comes after trustees commissioned a sculptor who had not entered a submission to make the statue.
 
@@ -132,7 +116,6 @@ It comes after trustees commissioned a sculptor who had not entered a submission
  - [https://www.bbc.co.uk/news/uk-politics-63338171?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63338171?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:36:15+00:00
- - tags: None
 
 Candidates have yet to declare, but Chancellor Jeremy Hunt and Michael Gove rule themselves out.
 
@@ -140,7 +123,6 @@ Candidates have yet to declare, but Chancellor Jeremy Hunt and Michael Gove rule
  - [https://www.bbc.co.uk/sport/rugby-union/63327835?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63327835?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:31:40+00:00
- - tags: None
 
 Flanker Marlie Packer will captain an almost entirely changed England XV in the side's final Rugby World Cup pool game against South Africa on Saturday.
 
@@ -148,7 +130,6 @@ Flanker Marlie Packer will captain an almost entirely changed England XV in the 
  - [https://www.bbc.co.uk/sport/football/63321387?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63321387?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:29:09+00:00
- - tags: None
 
 Millie Bright's first-half volley earns Chelsea victory over Paris St-Germain in their opening Champions League Group A game.
 
@@ -156,7 +137,6 @@ Millie Bright's first-half volley earns Chelsea victory over Paris St-Germain in
  - [https://www.bbc.co.uk/news/world-us-canada-63338375?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63338375?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 21:25:13+00:00
- - tags: None
 
 Hans Niemann is suing grandmaster Magnus Carlsen and others after they accused him of cheating.
 
@@ -164,7 +144,6 @@ Hans Niemann is suing grandmaster Magnus Carlsen and others after they accused h
  - [https://www.bbc.co.uk/sport/football/63238011?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63238011?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 20:46:27+00:00
- - tags: None
 
 Fulham increase the pressure on Aston Villa manager Steven Gerrard with a deserved victory at Craven Cottage.
 
@@ -172,7 +151,6 @@ Fulham increase the pressure on Aston Villa manager Steven Gerrard with a deserv
  - [https://www.bbc.co.uk/news/world-us-canada-63338929?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63338929?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 20:43:08+00:00
- - tags: None
 
 The case was brought by Anthony Rapp, who had been seeking around $40m (£36m) in damages.
 
@@ -180,7 +158,6 @@ The case was brought by Anthony Rapp, who had been seeking around $40m (£36m) i
  - [https://www.bbc.co.uk/news/uk-63338899?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63338899?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 20:32:51+00:00
- - tags: None
 
 Altrincham voters are bemused by the latest political moves, calling events a "complete shambles".
 
@@ -188,7 +165,6 @@ Altrincham voters are bemused by the latest political moves, calling events a "c
  - [https://www.bbc.co.uk/news/world-europe-63329266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63329266?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 19:47:29+00:00
- - tags: None
 
 Tehran has experts on the ground in Crimea helping with drone attacks on Ukraine, the White House says.
 
@@ -196,7 +172,6 @@ Tehran has experts on the ground in Crimea helping with drone attacks on Ukraine
  - [https://www.bbc.co.uk/news/uk-politics-63335671?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63335671?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 19:22:23+00:00
- - tags: None
 
 The outgoing PM won power promising radical change, but it ended in disaster, after just 45 days.
 
@@ -204,7 +179,6 @@ The outgoing PM won power promising radical change, but it ended in disaster, af
  - [https://www.bbc.co.uk/news/uk-politics-63334457?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63334457?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 18:57:02+00:00
- - tags: None
 
 The UK prime minister's short time in office had some dramatic twists and turns.
 
@@ -212,7 +186,6 @@ The UK prime minister's short time in office had some dramatic twists and turns.
  - [https://www.bbc.co.uk/sport/football/63319350?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63319350?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 18:52:21+00:00
- - tags: None
 
 Granit Xhaka scores the winner as Arsenal edge closer to the last 16 of the Europa League with a narrow win over PSV Eindhoven at the Emirates.
 
@@ -220,7 +193,6 @@ Granit Xhaka scores the winner as Arsenal edge closer to the last 16 of the Euro
  - [https://www.bbc.co.uk/news/uk-63338397?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63338397?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 18:07:46+00:00
- - tags: None
 
 The BBC looks back on the day that the prime minister resigned.
 
@@ -228,7 +200,6 @@ The BBC looks back on the day that the prime minister resigned.
  - [https://www.bbc.co.uk/news/uk-politics-63337334?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63337334?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 17:28:51+00:00
- - tags: None
 
 The BBC's Leila Nathoo explains the latest after Prime Minister Liz Truss' resignation.
 
@@ -236,7 +207,6 @@ The BBC's Leila Nathoo explains the latest after Prime Minister Liz Truss' resig
  - [https://www.bbc.co.uk/sport/football/63337723?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63337723?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 16:57:42+00:00
- - tags: None
 
 Cristiano Ronaldo will not be part of Manchester United's squad for Saturday's game at Chelsea.
 
@@ -244,7 +214,6 @@ Cristiano Ronaldo will not be part of Manchester United's squad for Saturday's g
  - [https://www.bbc.co.uk/news/world-63303650?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63303650?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 16:42:40+00:00
- - tags: None
 
 How closely have you been paying attention to what's been going on over the past seven days?
 
@@ -252,7 +221,6 @@ How closely have you been paying attention to what's been going on over the past
  - [https://www.bbc.co.uk/news/uk-england-humber-63337090?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-humber-63337090?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 16:41:56+00:00
- - tags: None
 
 Voters in Hull react to Prime Minister Liz Truss's resignation and speculate on what comes next.
 
@@ -260,7 +228,6 @@ Voters in Hull react to Prime Minister Liz Truss's resignation and speculate on 
  - [https://www.bbc.co.uk/news/uk-politics-63337111?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63337111?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 16:24:18+00:00
- - tags: None
 
 A look back at the prime ministers short time as leader of the UK.
 
@@ -268,7 +235,6 @@ A look back at the prime ministers short time as leader of the UK.
  - [https://www.bbc.co.uk/news/uk-england-manchester-63331189?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63331189?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 16:17:35+00:00
- - tags: None
 
 A woman tells a court of her experience at a party attended by rape-accused footballer Benjamin Mendy.
 
@@ -276,7 +242,6 @@ A woman tells a court of her experience at a party attended by rape-accused foot
  - [https://www.bbc.co.uk/news/business-63329233?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63329233?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 16:17:29+00:00
- - tags: None
 
 Households will get a discount of £3 per kw/h instead of 52p off bills, National Grid says.
 
@@ -284,7 +249,6 @@ Households will get a discount of £3 per kw/h instead of 52p off bills, Nationa
  - [https://www.bbc.co.uk/news/world-asia-china-63332731?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63332731?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 15:50:36+00:00
- - tags: None
 
 Video footage shows a protester from Hong Kong being dragged into grounds of building and being assaulted.
 
@@ -292,7 +256,6 @@ Video footage shows a protester from Hong Kong being dragged into grounds of bui
  - [https://www.bbc.co.uk/news/world-63333462?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63333462?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 15:35:19+00:00
- - tags: None
 
 News of Liz Truss's resignation prompted quick reaction from political leaders and media commentators around the world.
 
@@ -300,7 +263,6 @@ News of Liz Truss's resignation prompted quick reaction from political leaders a
  - [https://www.bbc.co.uk/news/uk-politics-63332425?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63332425?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 15:34:24+00:00
- - tags: None
 
 The Salford-born MP's visits to No 10 have spelled the end for the UK's most recent prime ministers.
 
@@ -308,7 +270,6 @@ The Salford-born MP's visits to No 10 have spelled the end for the UK's most rec
  - [https://www.bbc.co.uk/news/uk-politics-63332047?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63332047?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 15:26:17+00:00
- - tags: None
 
 Conservatives are choosing a new leader, just over a month after appointing the last one.
 
@@ -316,7 +277,6 @@ Conservatives are choosing a new leader, just over a month after appointing the 
  - [https://www.bbc.co.uk/sport/football/63334283?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63334283?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 15:20:20+00:00
- - tags: None
 
 The door is open for English clubs to join fresh talks around launching a European Super League, says a senior executive on the project.
 
@@ -324,7 +284,6 @@ The door is open for English clubs to join fresh talks around launching a Europe
  - [https://www.bbc.co.uk/sport/av/baseball/63335879?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/baseball/63335879?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 15:16:15+00:00
- - tags: None
 
 Aaron Judge makes a brilliant sliding catch for the New York Yankees during their 4-2 defeat by the Houston Astros in the MLB play-offs.
 
@@ -332,7 +291,6 @@ Aaron Judge makes a brilliant sliding catch for the New York Yankees during thei
  - [https://www.bbc.co.uk/news/uk-england-merseyside-63333684?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-63333684?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 14:39:51+00:00
- - tags: None
 
 Nurse Lucy Letby's murder trial is told how a "completely stable" baby "suddenly deteriorated".
 
@@ -340,7 +298,6 @@ Nurse Lucy Letby's murder trial is told how a "completely stable" baby "suddenly
  - [https://www.bbc.co.uk/news/uk-politics-63328852?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63328852?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 14:39:46+00:00
- - tags: None
 
 Opposition parties demand an election following the resignation of Prime Minister Liz Truss.
 
@@ -348,7 +305,6 @@ Opposition parties demand an election following the resignation of Prime Ministe
  - [https://www.bbc.co.uk/sport/boxing/63330470?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63330470?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 14:18:38+00:00
- - tags: None
 
 Tyson Fury says "nobody can touch me" before his December bout with Derek Chisora and that he plans to fight unified champion Oleksandr Usyk.
 
@@ -356,7 +312,6 @@ Tyson Fury says "nobody can touch me" before his December bout with Derek Chisor
  - [https://www.bbc.co.uk/sport/football/63331407?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63331407?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 13:49:42+00:00
- - tags: None
 
 Kilmarnock striker Kyle Lafferty is banned for 10 matches by the Scottish Football Association over a sectarian comment.
 
@@ -364,7 +319,6 @@ Kilmarnock striker Kyle Lafferty is banned for 10 matches by the Scottish Footba
  - [https://www.bbc.co.uk/news/uk-england-northamptonshire-63328168?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-northamptonshire-63328168?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 13:44:29+00:00
- - tags: None
 
 Anne Sacoolas pleads guilty to causing death by careless driving after a three-year transatlantic row.
 
@@ -372,7 +326,6 @@ Anne Sacoolas pleads guilty to causing death by careless driving after a three-y
  - [https://www.bbc.co.uk/news/uk-politics-63331087?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63331087?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 13:25:05+00:00
- - tags: None
 
 The personal and political journey of the UK's shortest-serving prime minister.
 
@@ -380,7 +333,6 @@ The personal and political journey of the UK's shortest-serving prime minister.
  - [https://www.bbc.co.uk/news/uk-63328000?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63328000?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 13:05:39+00:00
- - tags: None
 
 An election for the next leader of the Conservative Party will take place within the next week.
 
@@ -388,7 +340,6 @@ An election for the next leader of the Conservative Party will take place within
  - [https://www.bbc.co.uk/news/uk-politics-63332037?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63332037?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 12:55:41+00:00
- - tags: None
 
 The PM had faced growing calls from Tory MPs to stand down, and quits after just 45 days in the job.
 
@@ -396,7 +347,6 @@ The PM had faced growing calls from Tory MPs to stand down, and quits after just
  - [https://www.bbc.co.uk/news/uk-63328193?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63328193?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 12:50:27+00:00
- - tags: None
 
 Just five weeks after arriving at Downing Street, Liz Truss announces she is stepping down from the job.
 
@@ -404,7 +354,6 @@ Just five weeks after arriving at Downing Street, Liz Truss announces she is ste
  - [https://www.bbc.co.uk/news/business-63327553?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63327553?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 12:36:18+00:00
- - tags: None
 
 Average two- and five-year fixed rates have jumped to 6.65% and 6.51% respectively.
 
@@ -412,7 +361,6 @@ Average two- and five-year fixed rates have jumped to 6.65% and 6.51% respective
  - [https://www.bbc.co.uk/news/entertainment-arts-63331322?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63331322?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 12:25:40+00:00
- - tags: None
 
 Krishnan Guru-Murthy was recorded using an offensive word about a government minister.
 
@@ -420,7 +368,6 @@ Krishnan Guru-Murthy was recorded using an offensive word about a government min
  - [https://www.bbc.co.uk/news/world-asia-china-63324655?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63324655?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 12:02:10+00:00
- - tags: None
 
 Footage of the teenager visibly ill have sparked anger online - relatives say pleas for help were ignored.
 
@@ -428,7 +375,6 @@ Footage of the teenager visibly ill have sparked anger online - relatives say pl
  - [https://www.bbc.co.uk/sport/cricket/63324801?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63324801?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 11:56:09+00:00
- - tags: None
 
 Sri Lanka and the Netherlands both progress to the Super 12 stage of the T20 World Cup after a surprise UAE win over Namibia.
 
@@ -436,7 +382,6 @@ Sri Lanka and the Netherlands both progress to the Super 12 stage of the T20 Wor
  - [https://www.bbc.co.uk/news/uk-63327999?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63327999?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 11:49:57+00:00
- - tags: None
 
 The unarmed plane was in international airspace when the incident happened last month, a minister says.
 
@@ -444,7 +389,6 @@ The unarmed plane was in international airspace when the incident happened last 
  - [https://www.bbc.co.uk/news/uk-63307015?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63307015?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 11:44:07+00:00
- - tags: None
 
 The inquiry, launched after the Jimmy Savile scandal, took seven years - so what have we learned?
 
@@ -452,7 +396,6 @@ The inquiry, launched after the Jimmy Savile scandal, took seven years - so what
  - [https://www.bbc.co.uk/news/world-62072074?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-62072074?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 11:22:05+00:00
- - tags: None
 
 British and Australian women speak out about their trauma following invasive medical examinations by Qatari officials in 2020.
 
@@ -460,7 +403,6 @@ British and Australian women speak out about their trauma following invasive med
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63318054?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63318054?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 11:18:17+00:00
- - tags: None
 
 Former first minister Paul Givan was speaking after parties met the head of the NI Civil Service.
 
@@ -468,7 +410,6 @@ Former first minister Paul Givan was speaking after parties met the head of the 
  - [https://www.bbc.co.uk/news/uk-63318342?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63318342?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 11:11:28+00:00
- - tags: None
 
 The nature and scale of child sex abuse is "deeply disturbing", the final report of a huge seven-year inquiry says.
 
@@ -476,7 +417,6 @@ The nature and scale of child sex abuse is "deeply disturbing", the final report
  - [https://www.bbc.co.uk/news/articles/cglg3612515o?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/articles/cglg3612515o?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:55:54+00:00
- - tags: None
 
 The singer wants to highlight the impact of social media on our mental health in the last 20 years.
 
@@ -484,7 +424,6 @@ The singer wants to highlight the impact of social media on our mental health in
  - [https://www.bbc.co.uk/news/world-middle-east-63328086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63328086?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:45:28+00:00
- - tags: None
 
 Security forces fired a shotgun at point-blank range at Abolfazl Adinezadeh, 17, sources say.
 
@@ -492,7 +431,6 @@ Security forces fired a shotgun at point-blank range at Abolfazl Adinezadeh, 17,
  - [https://www.bbc.co.uk/news/world-63315621?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63315621?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:42:01+00:00
- - tags: None
 
 The BBC's analysis editor on his new venture delving into facts, stats and explanation to help make sense of news events.
 
@@ -500,7 +438,6 @@ The BBC's analysis editor on his new venture delving into facts, stats and expla
  - [https://www.bbc.co.uk/sport/tennis/63329154?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63329154?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:32:21+00:00
- - tags: None
 
 Coco Gauff becomes the youngest player since Maria Sharapova in 2005 to qualify for the WTA Finals in singles.
 
@@ -508,7 +445,6 @@ Coco Gauff becomes the youngest player since Maria Sharapova in 2005 to qualify 
  - [https://www.bbc.co.uk/news/world-latin-america-63327247?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63327247?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:28:43+00:00
- - tags: None
 
 It was donated by Germany's Lothar Matthäus, who swapped shirts with Maradona during the 1986 final.
 
@@ -516,7 +452,6 @@ It was donated by Germany's Lothar Matthäus, who swapped shirts with Maradona d
  - [https://www.bbc.co.uk/news/entertainment-arts-63328046?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63328046?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:27:40+00:00
- - tags: None
 
 Bulgaria is not on the list of 37 nations to be confirmed for next year's song contest in Liverpool.
 
@@ -524,7 +459,6 @@ Bulgaria is not on the list of 37 nations to be confirmed for next year's song c
  - [https://www.bbc.co.uk/news/business-63326809?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63326809?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 10:11:16+00:00
- - tags: None
 
 One analyst says investors are "watching in a kind of stunned, open-mouthed horror" at political events.
 
@@ -532,7 +466,6 @@ One analyst says investors are "watching in a kind of stunned, open-mouthed horr
  - [https://www.bbc.co.uk/sport/boxing/63320337?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63320337?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 09:34:17+00:00
- - tags: None
 
 Tyson Fury will defend his WBC heavyweight title against British rival Derek Chisora at Tottenham Hotspur Stadium on 3 December.
 
@@ -540,7 +473,6 @@ Tyson Fury will defend his WBC heavyweight title against British rival Derek Chi
  - [https://www.bbc.co.uk/news/uk-wales-63325676?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63325676?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 08:52:41+00:00
- - tags: None
 
 Georgia was told she would have to wait five hours at the side of a road as her son went floppy.
 
@@ -548,7 +480,6 @@ Georgia was told she would have to wait five hours at the side of a road as her 
  - [https://www.bbc.co.uk/news/uk-politics-63325779?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63325779?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 08:48:27+00:00
- - tags: None
 
 More Tory MPs break ranks to call for the PM to go, as she seeks to reassert her authority.
 
@@ -556,7 +487,6 @@ More Tory MPs break ranks to call for the PM to go, as she seeks to reassert her
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63326102?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63326102?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 08:43:05+00:00
- - tags: None
 
 Police have declared a major incident with all phone lines and internet down on the islands.
 
@@ -564,7 +494,6 @@ Police have declared a major incident with all phone lines and internet down on 
  - [https://www.bbc.co.uk/news/entertainment-arts-63326250?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63326250?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 08:30:38+00:00
- - tags: None
 
 The actress says the series blurs the line "between historical accuracy and crude sensationalism".
 
@@ -572,7 +501,6 @@ The actress says the series blurs the line "between historical accuracy and crud
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63325994?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63325994?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 08:18:42+00:00
- - tags: None
 
 The graffiti comes weeks after the actor addressed a conference discussing a united Ireland.
 
@@ -580,7 +508,6 @@ The graffiti comes weeks after the actor addressed a conference discussing a uni
  - [https://www.bbc.co.uk/sport/football/63317554?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63317554?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 06:32:53+00:00
- - tags: None
 
 PSV Eindhoven coach Ruud van Nistelrooy jokes that Arsenal fans should give him a "warm welcome" at Emirates Stadium.
 
@@ -588,7 +515,6 @@ PSV Eindhoven coach Ruud van Nistelrooy jokes that Arsenal fans should give him 
  - [https://www.bbc.co.uk/sport/football/63318717?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63318717?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 05:52:44+00:00
- - tags: None
 
 With only nine months until the 2023 Women's World Cup, BBC Sport looks at the row which has left the Spain team in disarray.
 
@@ -596,7 +522,6 @@ With only nine months until the 2023 Women's World Cup, BBC Sport looks at the r
  - [https://www.bbc.co.uk/news/world-us-canada-63323635?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63323635?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 03:08:11+00:00
- - tags: None
 
 The former president's lawyer says he "set the record straight" over a writer's sex assault allegation.
 
@@ -604,7 +529,6 @@ The former president's lawyer says he "set the record straight" over a writer's 
  - [https://www.bbc.co.uk/news/world-middle-east-63323825?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63323825?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 02:26:53+00:00
- - tags: None
 
 Archaeologists in Mosul made the discovery while reconstructing a site destroyed by IS militants.
 
@@ -612,7 +536,6 @@ Archaeologists in Mosul made the discovery while reconstructing a site destroyed
  - [https://www.bbc.co.uk/news/uk-england-south-yorkshire-63296814?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-south-yorkshire-63296814?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 00:29:51+00:00
- - tags: None
 
 Brian Wilson, from Sheffield, has been driving lorries since he was a teenager.
 
@@ -620,7 +543,6 @@ Brian Wilson, from Sheffield, has been driving lorries since he was a teenager.
  - [https://www.bbc.co.uk/news/63316116?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/63316116?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 00:28:49+00:00
- - tags: None
 
 Warm banks are popping up across the country, mostly run by volunteers. We spoke to three people involved.
 
@@ -628,7 +550,6 @@ Warm banks are popping up across the country, mostly run by volunteers. We spoke
  - [https://www.bbc.co.uk/news/uk-63301913?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63301913?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 00:27:36+00:00
- - tags: None
 
 Readers tell BBC News how they are managing to stay warm, without yet turning on the heating.
 
@@ -636,7 +557,6 @@ Readers tell BBC News how they are managing to stay warm, without yet turning on
  - [https://www.bbc.co.uk/news/uk-63317138?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63317138?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 00:26:40+00:00
- - tags: None
 
 The BBC’s Sliced Bread Team have been investigating whether the popular food gadget can save you money.
 
@@ -644,6 +564,5 @@ The BBC’s Sliced Bread Team have been investigating whether the popular food g
  - [https://www.bbc.co.uk/news/world-australia-63309714?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63309714?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-20 00:16:20+00:00
- - tags: None
 
 Liam Hampson's family say they are "heartbroken" after he suffered an accident in Barcelona.

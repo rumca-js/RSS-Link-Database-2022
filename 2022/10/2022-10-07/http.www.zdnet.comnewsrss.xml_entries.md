@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The best Prime Day October 2022 TV deals
  - [https://www.zdnet.com/article/best-prime-day-october-2022-tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-prime-day-october-2022-tv-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 22:46:27+00:00
- - tags: None
 
 Amazon's October Prime Day might be next week, but Prime Members can save big on TVs from top brands like Samsung, Sony, and LG. Other retailers like Best Buy and Walmart are also running their own sales, allowing you to save hundreds!
 
@@ -12,7 +11,6 @@ Amazon's October Prime Day might be next week, but Prime Members can save big on
  - [https://www.zdnet.com/article/how-to-facetime-on-android/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-facetime-on-android/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 22:00:00+00:00
- - tags: None
 
 This is not a drill. Android and iPhone users can now FaceTime each other. Here's how to do it.
 
@@ -20,7 +18,6 @@ This is not a drill. Android and iPhone users can now FaceTime each other. Here'
  - [https://www.zdnet.com/article/only-a-third-of-higher-education-students-report-having-a-great-university-experience/#ftag=RSSbaffb68](https://www.zdnet.com/article/only-a-third-of-higher-education-students-report-having-a-great-university-experience/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 21:35:00+00:00
- - tags: None
 
 Only a third of students report having a great university experience, this according to the 2022 Connected Customer Report from Salesforce, highlighting insights into the global higher education trends from over 2,600 students and staff.
 
@@ -28,7 +25,6 @@ Only a third of students report having a great university experience, this accor
  - [https://www.zdnet.com/article/how-to-turn-your-old-devices-into-amazon-gift-cards/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-turn-your-old-devices-into-amazon-gift-cards/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 21:21:00+00:00
- - tags: None
 
 Amazon's Trade-In Program turns your unwanted electronics into Amazon gift cards. The service comes in handy with Prime Early Access Sale on the horizon.
 
@@ -36,7 +32,6 @@ Amazon's Trade-In Program turns your unwanted electronics into Amazon gift cards
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-fire-tv-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-fire-tv-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:58:00+00:00
- - tags: None
 
 Looking for a Fire TV or streaming stick during Amazon's Prime Early Access Sale? ZDNET rounded up the best early Fire TV deals we could find so you can save and stream.
 
@@ -44,7 +39,6 @@ Looking for a Fire TV or streaming stick during Amazon's Prime Early Access Sale
  - [https://www.zdnet.com/article/how-to-protect-your-firefox-saved-passwords-with-a-primary-password/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-protect-your-firefox-saved-passwords-with-a-primary-password/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:51:21+00:00
- - tags: None
 
 For better security, don't rely on browser syncing to manage your passwords. Here's a better way.
 
@@ -52,7 +46,6 @@ For better security, don't rely on browser syncing to manage your passwords. Her
  - [https://www.zdnet.com/home-and-office/home-entertainment/buy-a-65-inch-lg-tv-on-sale-get-a-25-target-gift-card/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/buy-a-65-inch-lg-tv-on-sale-get-a-25-target-gift-card/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:50:00+00:00
- - tags: None
 
 It's always great when any LG 4K UHD smart TV is on sale, but Target is sweetening the deal with an extra $25 in savings.
 
@@ -60,7 +53,6 @@ It's always great when any LG 4K UHD smart TV is on sale, but Target is sweeteni
  - [https://www.zdnet.com/home-and-office/need-more-ports-this-tiny-lightweight-premium-quality-dock-delivers/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/need-more-ports-this-tiny-lightweight-premium-quality-dock-delivers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:44:00+00:00
- - tags: None
 
 Check out the Satechi USB-4 Multiport adapter with 2.5 Ethernet.
 
@@ -68,7 +60,6 @@ Check out the Satechi USB-4 Multiport adapter with 2.5 Ethernet.
  - [https://www.zdnet.com/article/best-laptop-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-laptop-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:41:29+00:00
- - tags: None
 
 Before Amazon's Prime Early Access Sale kicks off, ZDNET scoured the web for the best early laptop deals. Grab a new laptop at a great discount to save time and money.
 
@@ -76,7 +67,6 @@ Before Amazon's Prime Early Access Sale kicks off, ZDNET scoured the web for the
  - [https://www.zdnet.com/article/best-camera-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-camera-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:28:00+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale has nearly landed. ZDNET has rounded up the best early camera deals so you can save time and money on photography equipment.
 
@@ -84,7 +74,6 @@ Amazon's Prime Early Access Sale has nearly landed. ZDNET has rounded up the bes
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-robot-vacuum-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-robot-vacuum-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:26:00+00:00
- - tags: None
 
 With early deals already rolling in for Amazon's Prime Early Access Sale -- aka October Prime Day -- you won't have to break the bank if you're looking to streamline your household chores with a robot vacuum. ZDNET has rounded up the best early robot vacuum deals for you to compare.
 
@@ -92,7 +81,6 @@ With early deals already rolling in for Amazon's Prime Early Access Sale -- aka 
  - [https://www.zdnet.com/home-and-office/smart-home/best-security-camera-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-security-camera-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:23:00+00:00
- - tags: None
 
 We're only a few days away from Amazon's Prime Early Access Sale, also known as October Prime Day. ZDNET has searched far and wide to find the best deals on security cameras that you can get right now.
 
@@ -100,7 +88,6 @@ We're only a few days away from Amazon's Prime Early Access Sale, also known as 
  - [https://www.zdnet.com/article/the-best-early-deals-on-security-cameras-for-prime-day-october-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-best-early-deals-on-security-cameras-for-prime-day-october-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:23:00+00:00
- - tags: None
 
 We're only a few days away from Amazon's Prime Early Access Sale, also known as October Prime Day. ZDNET has scoured the interweb and found the best deals on security cameras that you can get right now.
 
@@ -108,7 +95,6 @@ We're only a few days away from Amazon's Prime Early Access Sale, also known as 
  - [https://www.zdnet.com/article/ubuntu-linux-tries-for-the-office-desktop/#ftag=RSSbaffb68](https://www.zdnet.com/article/ubuntu-linux-tries-for-the-office-desktop/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:12:24+00:00
- - tags: None
 
 There may never be a "Year of the Linux desktop," but Canonical thinks there's room for a Ubuntu Linux business desktop.
 
@@ -116,7 +102,6 @@ There may never be a "Year of the Linux desktop," but Canonical thinks there's r
  - [https://www.zdnet.com/article/best-prime-day-october-2022-gaming-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-prime-day-october-2022-gaming-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:02:29+00:00
- - tags: None
 
 Amazon's October Prime Day is on the 11th and 12th, but you can take advantage of awesome early deals on Luna bundles, controllers, and games. And the deals keep coming from other retailers and brands like Walmart, Newegg, and Samsung, giving you huge discounts on gaming laptops, storage, and accessories.
 
@@ -124,7 +109,6 @@ Amazon's October Prime Day is on the 11th and 12th, but you can take advantage o
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:02:00+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale is on the 11th and 12th, but you can take advantage of awesome early deals on Luna bundles, controllers, and games. And the deals keep coming from other retailers and brands like Walmart, Newegg, and Samsung, giving you huge discounts on gaming laptops, storage, and accessories.
 
@@ -132,7 +116,6 @@ Amazon's Prime Early Access Sale is on the 11th and 12th, but you can take advan
  - [https://www.zdnet.com/article/tesla-removed-its-ultrasonic-sensors-from-its-cars-what-does-that-mean-for-your-tesla-vehicle-your-safety-and-teslas-future/#ftag=RSSbaffb68](https://www.zdnet.com/article/tesla-removed-its-ultrasonic-sensors-from-its-cars-what-does-that-mean-for-your-tesla-vehicle-your-safety-and-teslas-future/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 20:00:09+00:00
- - tags: None
 
 Tesla's shift away from ultrasonic sensors could mean future Tesla car owners miss out on car features such as park assist, auto-park and summon.
 
@@ -140,7 +123,6 @@ Tesla's shift away from ultrasonic sensors could mean future Tesla car owners mi
  - [https://www.zdnet.com/article/samsung-galaxy-tab-s7-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-galaxy-tab-s7-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 19:55:00+00:00
- - tags: None
 
 You can expect to pay $419 for as long as stock lasts.
 
@@ -148,7 +130,6 @@ You can expect to pay $419 for as long as stock lasts.
  - [https://www.zdnet.com/home-and-office/this-powerful-140w-usb-c-charger-is-smaller-than-apples-and-has-three-ports/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-powerful-140w-usb-c-charger-is-smaller-than-apples-and-has-three-ports/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 19:35:32+00:00
- - tags: None
 
 Looking for power? The versatile Ugreen Nexode 140W USB-C charger may be just what you need.
 
@@ -156,7 +137,6 @@ Looking for power? The versatile Ugreen Nexode 140W USB-C charger may be just wh
  - [https://www.zdnet.com/article/how-to-organize-your-windows-11-start-menu-with-folders/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-organize-your-windows-11-start-menu-with-folders/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 17:12:30+00:00
- - tags: None
 
 With the 2022 update to Windows 11, Microsoft has resurrected Start menu folders.
 
@@ -164,7 +144,6 @@ With the 2022 update to Windows 11, Microsoft has resurrected Start menu folders
  - [https://www.zdnet.com/article/samsung-galaxy-flip-4-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-galaxy-flip-4-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 15:52:07+00:00
- - tags: None
 
 The phone just released in August, and if you've been eyeing a great deal on the 128GB model, you can save $100 on it right now.
 
@@ -172,7 +151,6 @@ The phone just released in August, and if you've been eyeing a great deal on the
  - [https://www.zdnet.com/article/bose-quietcomfort-earbuds-ii-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/bose-quietcomfort-earbuds-ii-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:26:00+00:00
- - tags: None
 
 Review: Meet the new QuietComfort Earbuds II. The active noise cancelling on these Bose earbuds is so good I accidentally ignored my boss.
 
@@ -180,7 +158,6 @@ Review: Meet the new QuietComfort Earbuds II. The active noise cancelling on the
  - [https://www.zdnet.com/article/best-kindle-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-kindle-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:06:00+00:00
- - tags: None
 
 Nabbing an e-reader for that upcoming holiday flight home? Check out the best Kindle deals for Amazon's Prime Early Access Sale -- aka October Prime Day.
 
@@ -188,7 +165,6 @@ Nabbing an e-reader for that upcoming holiday flight home? Check out the best Ki
  - [https://www.zdnet.com/home-and-office/smart-home/best-ring-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-ring-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:05:00+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale -- aka October Prime Day -- is nearly here. ZDNET is rounding up the best early deals on Ring and Blink video doorbells available right now, with some of the lowest prices we've ever seen.
 
@@ -196,7 +172,6 @@ Amazon's Prime Early Access Sale -- aka October Prime Day -- is nearly here. ZDN
  - [https://www.zdnet.com/article/best-deals-under-20-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-deals-under-20-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:05:00+00:00
- - tags: None
 
 You can already snag amazing deals ahead of Amazon's Prime Early Access Sale -- aka October Prime Day. ZDNET is rounding up the best deals under $20.
 
@@ -204,7 +179,6 @@ You can already snag amazing deals ahead of Amazon's Prime Early Access Sale -- 
  - [https://www.zdnet.com/article/best-samsung-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-samsung-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:04:00+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale -- aka October Prime Day -- is nearly here. ZDNET is rounding up the best Samsung deals we could find, so you can save on Samsung TVs, phones, tablets, and more.
 
@@ -212,7 +186,6 @@ Amazon's Prime Early Access Sale -- aka October Prime Day -- is nearly here. ZDN
  - [https://www.zdnet.com/article/best-earbuds-deals-amazon-prime-early-access-sale-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-earbuds-deals-amazon-prime-early-access-sale-october-prime-day/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:01:00+00:00
- - tags: None
 
 Earbuds and headphones are essential, whether you're constantly traveling or working from home -- but they can be pricey. We found the best earbuds and headphone deals ahead of Amazon's Prime Early Access Sale.
 
@@ -220,7 +193,6 @@ Earbuds and headphones are essential, whether you're constantly traveling or wor
  - [https://www.zdnet.com/home-and-office/smart-office/best-monitor-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/best-monitor-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 14:00:00+00:00
- - tags: None
 
 Eyeing a new monitor to complete your office setup? There are deals aplenty during Amazon's Prime Early Access Sale, some of which are available right now.
 
@@ -228,7 +200,6 @@ Eyeing a new monitor to complete your office setup? There are deals aplenty duri
  - [https://www.zdnet.com/article/best-apple-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-apple-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 13:50:00+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale is nearly here and the deals have begun. If you have been thinking of buying new Apple gadgets, ZDNET rounded up the best Apple deals you can buy right now.
 
@@ -236,7 +207,6 @@ Amazon's Prime Early Access Sale is nearly here and the deals have begun. If you
  - [https://www.zdnet.com/article/best-echo-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-echo-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 13:49:00+00:00
- - tags: None
 
 ZDNET has rounded up the best early Echo deals we could find while you're waiting for the official Amazon Prime Early Access Sale -- aka October Prime Day -- deals to drop. We're already seeing deals for up to 75% off certain devices.
 
@@ -244,7 +214,6 @@ ZDNET has rounded up the best early Echo deals we could find while you're waitin
  - [https://www.zdnet.com/article/best-fitbit-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-fitbit-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 13:49:00+00:00
- - tags: None
 
 The holiday shopping season is upon us with Thanksgiving and Black Friday sales already being promoted. So why not get started early with these October Prime Day deals on Fitbit devices and fitness trackers?
 
@@ -252,7 +221,6 @@ The holiday shopping season is upon us with Thanksgiving and Black Friday sales 
  - [https://www.zdnet.com/article/best-tablet-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-tablet-deals-amazon-prime-early-access-sale-prime-day-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 13:49:00+00:00
- - tags: None
 
 Looking to snag a new tablet? Ahead of Amazon's October Prime Day, there are great early deals tablets from brands like Amazon, Samsung, and more.
 
@@ -260,7 +228,6 @@ Looking to snag a new tablet? Ahead of Amazon's October Prime Day, there are gre
  - [https://www.zdnet.com/home-and-office/how-to-add-wireless-apple-carplay-to-your-car/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/how-to-add-wireless-apple-carplay-to-your-car/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 12:58:51+00:00
- - tags: None
 
 Wired connections are a pain, but wireless is not without some limitations.
 
@@ -268,7 +235,6 @@ Wired connections are a pain, but wireless is not without some limitations.
  - [https://www.zdnet.com/article/how-to-use-operas-new-pinboard-feature-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-operas-new-pinboard-feature-and-why-you-should/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 12:49:46+00:00
- - tags: None
 
 Here's an introduction to a new feature for the Opera web browser that allows you to collect your thoughts, links, and images in a convenient location.
 
@@ -276,7 +242,6 @@ Here's an introduction to a new feature for the Opera web browser that allows yo
  - [https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/#ftag=RSSbaffb68](https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 12:29:00+00:00
- - tags: None
 
 The economic outlook is creating headwinds for small business. But many now see tech as the key to thriving in uncertain times.
 
@@ -284,7 +249,6 @@ The economic outlook is creating headwinds for small business. But many now see 
  - [https://www.zdnet.com/article/rust-programming-language-outlines-plan-for-updates-to-style-guide/#ftag=RSSbaffb68](https://www.zdnet.com/article/rust-programming-language-outlines-plan-for-updates-to-style-guide/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 12:22:09+00:00
- - tags: None
 
 The Rust team is putting more resources into helping developers write code faster.
 
@@ -292,7 +256,6 @@ The Rust team is putting more resources into helping developers write code faste
  - [https://www.zdnet.com/article/facebook-users-warned-you-may-have-downloaded-these-password-stealing-android-and-ios-apps/#ftag=RSSbaffb68](https://www.zdnet.com/article/facebook-users-warned-you-may-have-downloaded-these-password-stealing-android-and-ios-apps/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 12:04:00+00:00
- - tags: None
 
 Hundreds of malicious apps available in Google Play and Apple App Store tricked users into giving away their passwords. Here's what to watch out for.
 
@@ -300,7 +263,6 @@ Hundreds of malicious apps available in Google Play and Apple App Store tricked 
  - [https://www.zdnet.com/article/nsa-fbi-warning-beware-these-20-software-flaws-most-used-by-hackers/#ftag=RSSbaffb68](https://www.zdnet.com/article/nsa-fbi-warning-beware-these-20-software-flaws-most-used-by-hackers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 11:35:12+00:00
- - tags: None
 
 China-backed hackers like to use these flaws, so you need to make sure they are patched, says FBI, NSA and CISA.
 
@@ -308,7 +270,6 @@ China-backed hackers like to use these flaws, so you need to make sure they are 
  - [https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/#ftag=RSSbaffb68](https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 10:55:32+00:00
- - tags: None
 
 Can robotics firms prevent customers from weaponizing their technology?
 
@@ -316,7 +277,6 @@ Can robotics firms prevent customers from weaponizing their technology?
  - [https://www.zdnet.com/article/managers-cant-agree-on-who-to-hire-and-its-creating-big-problems-at-work/#ftag=RSSbaffb68](https://www.zdnet.com/article/managers-cant-agree-on-who-to-hire-and-its-creating-big-problems-at-work/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 09:59:57+00:00
- - tags: None
 
 Developers or data analysts? Programming or problem-solving capabilities? Business leaders just can't seem to can't agree on what skills they need.
 
@@ -324,7 +284,6 @@ Developers or data analysts? Programming or problem-solving capabilities? Busine
  - [https://www.zdnet.com/home-and-office/amazon-tablet-sale-fire-hd-8-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/amazon-tablet-sale-fire-hd-8-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 07:58:47+00:00
- - tags: None
 
 For less than $50, you can purchase an Amazon Fire HD 8 tablet in Target's sale.
 
@@ -332,7 +291,6 @@ For less than $50, you can purchase an Amazon Fire HD 8 tablet in Target's sale.
  - [https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 07:34:10+00:00
- - tags: None
 
 The power-efficient M2 processor allows Apple to produce one of the slimmest and lightest laptops we've seen.
 
@@ -340,7 +298,6 @@ The power-efficient M2 processor allows Apple to produce one of the slimmest and
  - [https://www.zdnet.com/home-and-office/ring-camera-deal-floodlight-cam-goes-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/ring-camera-deal-floodlight-cam-goes-on-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 07:20:19+00:00
- - tags: None
 
 Want to bolster your home security? Target's latest sale includes a decent discount on the Ring Floodlight Cam.
 
@@ -348,7 +305,6 @@ Want to bolster your home security? Target's latest sale includes a decent disco
  - [https://www.zdnet.com/article/what-is-amazon-prime-early-access-sale-and-when-is-it-in-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-amazon-prime-early-access-sale-and-when-is-it-in-october-prime-day/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 03:52:00+00:00
- - tags: None
 
 Amazon has announced a second Prime Day-like event for October called Prime Early Access Sale. It follows Amazon's annual Prime Day sale from the summer. Here's everything you need to know about "Prime Day 2" -- including how to find the best deals.
 
@@ -356,7 +312,6 @@ Amazon has announced a second Prime Day-like event for October called Prime Earl
  - [https://www.zdnet.com/article/best-travel-vpn/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-travel-vpn/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 03:41:00+00:00
- - tags: None
 
 The best travel VPN for you should be compatible with all of your mobile devices and provide a secure and reliable connection.
 
@@ -364,7 +319,6 @@ The best travel VPN for you should be compatible with all of your mobile devices
  - [https://www.zdnet.com/article/best-iphone-14-pro-and-pro-max-case/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-iphone-14-pro-and-pro-max-case/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 03:40:00+00:00
- - tags: None
 
 The newest iPhones are durable, but not indestructible (or cheap). If you invested in an iPhone 14 Pro or Pro Max, safeguard it with the best iPhone case.
 
@@ -372,7 +326,6 @@ The newest iPhones are durable, but not indestructible (or cheap). If you invest
  - [https://www.zdnet.com/article/echo-deals-prime-day-amazon-prime-early-access-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/echo-deals-prime-day-amazon-prime-early-access-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 01:27:00+00:00
- - tags: None
 
 ZDNET has rounded up the best early Echo deals we could find while you're waiting for the official Amazon Prime Early Access Sale -- aka October Prime Day -- deals to drop. We're already seeing deals for up to 75% off certain devices.
 
@@ -380,7 +333,6 @@ ZDNET has rounded up the best early Echo deals we could find while you're waitin
  - [https://www.zdnet.com/article/tablet-deals-prime-day-amazon-prime-early-access-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/tablet-deals-prime-day-amazon-prime-early-access-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 01:18:00+00:00
- - tags: None
 
 Looking to snag a new tablet? Ahead of Amazon's October Prime Day, there are great early deals tablets from brands like Amazon, Samsung, and more.
 
@@ -388,6 +340,5 @@ Looking to snag a new tablet? Ahead of Amazon's October Prime Day, there are gre
  - [https://www.zdnet.com/article/samsungs-profit-drops-for-the-first-time-in-3-years/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsungs-profit-drops-for-the-first-time-in-3-years/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-07 00:16:22+00:00
- - tags: None
 
 Samsung reported its first profit drop in three years for the third quarter as demand for memory chips dip.

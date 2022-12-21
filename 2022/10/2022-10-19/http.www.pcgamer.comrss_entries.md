@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## We finally know when Bastion will return to Overwatch 2
  - [https://www.pcgamer.com/we-finally-know-when-bastion-will-return-to-overwatch-2](https://www.pcgamer.com/we-finally-know-when-bastion-will-return-to-overwatch-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 23:22:05+00:00
- - tags: None
 
 What many assumed would be a quick bug fix has dragged on for over a week.
 
@@ -12,7 +11,6 @@ What many assumed would be a quick bug fix has dragged on for over a week.
  - [https://www.pcgamer.com/the-next-silent-hill-movie-will-be-based-on-silent-hill-2](https://www.pcgamer.com/the-next-silent-hill-movie-will-be-based-on-silent-hill-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 22:33:32+00:00
- - tags: None
 
 And Pyramid Head will be back.
 
@@ -20,7 +18,6 @@ And Pyramid Head will be back.
  - [https://www.pcgamer.com/silent-hill-ascension-is-a-horror-story-shaped-by-the-hivemind](https://www.pcgamer.com/silent-hill-ascension-is-a-horror-story-shaped-by-the-hivemind)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 22:29:46+00:00
- - tags: None
 
 It's a 'massively interactive live event' across multiple platforms.
 
@@ -28,7 +25,6 @@ It's a 'massively interactive live event' across multiple platforms.
  - [https://www.pcgamer.com/flat-eye-plays-around-with-ai-cloning-and-future-tech-while-you-work-at-a-gas-station](https://www.pcgamer.com/flat-eye-plays-around-with-ai-cloning-and-future-tech-while-you-work-at-a-gas-station)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 22:11:53+00:00
- - tags: None
 
 Part gas station sim, part philosophical visual novel.
 
@@ -36,7 +32,6 @@ Part gas station sim, part philosophical visual novel.
  - [https://www.pcgamer.com/minecraft-120-first-snapshot-build-camels](https://www.pcgamer.com/minecraft-120-first-snapshot-build-camels)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 22:08:31+00:00
- - tags: None
 
 Everything from Minecraft Live is already playable in the first beta builds for the update.
 
@@ -44,7 +39,6 @@ Everything from Minecraft Live is already playable in the first beta builds for 
  - [https://www.pcgamer.com/silent-hill-f-is-a-completely-new-story-set-in-1960s-japan](https://www.pcgamer.com/silent-hill-f-is-a-completely-new-story-set-in-1960s-japan)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 22:03:55+00:00
- - tags: None
 
 The new game is being written by noted Japanese author Ryukishi07.
 
@@ -52,7 +46,6 @@ The new game is being written by noted Japanese author Ryukishi07.
  - [https://www.pcgamer.com/zombie-queen-elizabeth-and-king-charles-cut-from-fallout-london-mod](https://www.pcgamer.com/zombie-queen-elizabeth-and-king-charles-cut-from-fallout-london-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 21:43:02+00:00
- - tags: None
 
 Plans for ghoul-ified versions of the monarchs were canceled out of respect following Elizabeth's death in September.
 
@@ -60,7 +53,6 @@ Plans for ghoul-ified versions of the monarchs were canceled out of respect foll
  - [https://www.pcgamer.com/annapurna-and-the-stories-untold-studio-are-making-a-silent-hill-game](https://www.pcgamer.com/annapurna-and-the-stories-untold-studio-are-making-a-silent-hill-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 21:15:02+00:00
- - tags: None
 
 Silent Hill Townfall promises to "do something a little different" with the famed horror series.
 
@@ -68,7 +60,6 @@ Silent Hill Townfall promises to "do something a little different" with the fame
  - [https://www.pcgamer.com/konami-announces-silent-hill-2-remake-by-bloober-team](https://www.pcgamer.com/konami-announces-silent-hill-2-remake-by-bloober-team)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 21:11:41+00:00
- - tags: None
 
 In my restless dreams I see that town, again.
 
@@ -76,7 +67,6 @@ In my restless dreams I see that town, again.
  - [https://www.pcgamer.com/heres-our-first-look-at-need-for-speed-unbound-gameplay](https://www.pcgamer.com/heres-our-first-look-at-need-for-speed-unbound-gameplay)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 20:14:45+00:00
- - tags: None
 
 The debut Unbound gameplay trailer showcases sweet rides and "street art" flair on the nighttime streets of Lakeshore.
 
@@ -84,7 +74,6 @@ The debut Unbound gameplay trailer showcases sweet rides and "street art" flair 
  - [https://www.pcgamer.com/6-mistakes-that-call-of-duty-warzone-20-better-not-repeat](https://www.pcgamer.com/6-mistakes-that-call-of-duty-warzone-20-better-not-repeat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 19:39:06+00:00
- - tags: None
 
 The last few years of Warzone were a bumpy ride. Let's not do it again.
 
@@ -92,7 +81,6 @@ The last few years of Warzone were a bumpy ride. Let's not do it again.
  - [https://www.pcgamer.com/marvels-midnight-suns-hints-at-deadpool-joining-the-team](https://www.pcgamer.com/marvels-midnight-suns-hints-at-deadpool-joining-the-team)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 18:51:50+00:00
- - tags: None
 
 Wade Wilson has taken over the Midnight Suns Twitter account.
 
@@ -100,7 +88,6 @@ Wade Wilson has taken over the Midnight Suns Twitter account.
  - [https://www.pcgamer.com/fallouts-yourstodd-howard-learned-he-could-make-fallout-3-from-a-post-it](https://www.pcgamer.com/fallouts-yourstodd-howard-learned-he-could-make-fallout-3-from-a-post-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 18:50:10+00:00
- - tags: None
 
 Todd Howard, Pete Hines, and Tim Cain share memories of Fallout 3.
 
@@ -108,7 +95,6 @@ Todd Howard, Pete Hines, and Tim Cain share memories of Fallout 3.
  - [https://www.pcgamer.com/cd-projekt-confirms-that-there-are-no-plans-for-cyberpunk-edgerunners-season-2](https://www.pcgamer.com/cd-projekt-confirms-that-there-are-no-plans-for-cyberpunk-edgerunners-season-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 18:17:13+00:00
- - tags: None
 
 Despite its success, Netflix's Cyberpunk anime was always planned as a one-off.
 
@@ -116,7 +102,6 @@ Despite its success, Netflix's Cyberpunk anime was always planned as a one-off.
  - [https://www.pcgamer.com/mcdonalds-is-offering-an-epic-overwatch-2-skin-in-australia](https://www.pcgamer.com/mcdonalds-is-offering-an-epic-overwatch-2-skin-in-australia)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 17:07:24+00:00
- - tags: None
 
 But I'm getting déjà vu just looking at it.
 
@@ -124,7 +109,6 @@ But I'm getting déjà vu just looking at it.
  - [https://www.pcgamer.com/the-last-analogue-tank-simulator-on-earth-is-huge-loud-and-runs-off-a-raspberry-pi](https://www.pcgamer.com/the-last-analogue-tank-simulator-on-earth-is-huge-loud-and-runs-off-a-raspberry-pi)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 17:03:52+00:00
- - tags: None
 
 YouTuber Tom Scott got hands-on with the analogue simulator in his latest video.
 
@@ -132,7 +116,6 @@ YouTuber Tom Scott got hands-on with the analogue simulator in his latest video.
  - [https://www.pcgamer.com/without-warning-warhammer-40000-regicide-has-been-removed-from-steam-and-shut-down](https://www.pcgamer.com/without-warning-warhammer-40000-regicide-has-been-removed-from-steam-and-shut-down)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 16:35:54+00:00
- - tags: None
 
 Servers for the Warhammer-does-chess game were shuttered a week before the announcement was made on Steam.
 
@@ -140,7 +123,6 @@ Servers for the Warhammer-does-chess game were shuttered a week before the annou
  - [https://www.pcgamer.com/disney-dreamlight-valley-rich-soil-miracle-growth-elixir](https://www.pcgamer.com/disney-dreamlight-valley-rich-soil-miracle-growth-elixir)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 15:58:07+00:00
- - tags: None
 
 Hint: it's all about the crops.
 
@@ -148,7 +130,6 @@ Hint: it's all about the crops.
  - [https://www.pcgamer.com/plague-tale-requiem-save-herbalist](https://www.pcgamer.com/plague-tale-requiem-save-herbalist)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 15:14:51+00:00
- - tags: None
 
 There's no reward for your kindness though.
 
@@ -156,7 +137,6 @@ There's no reward for your kindness though.
  - [https://www.pcgamer.com/disney-dreamlight-valley-how-to-unlock-scar](https://www.pcgamer.com/disney-dreamlight-valley-how-to-unlock-scar)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 14:44:52+00:00
- - tags: None
 
 Of course, quid pro quo, you're expected to take certain duties on board.
 
@@ -164,7 +144,6 @@ Of course, quid pro quo, you're expected to take certain duties on board.
  - [https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-review](https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 14:28:30+00:00
- - tags: None
 
 Nathan Drake's best adventure comes to PC.
 
@@ -172,7 +151,6 @@ Nathan Drake's best adventure comes to PC.
  - [https://www.pcgamer.com/riot-fixes-pay-to-lose-valorant-gun-skin-that-pros-forgot-to-tell-devs-about](https://www.pcgamer.com/riot-fixes-pay-to-lose-valorant-gun-skin-that-pros-forgot-to-tell-devs-about)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 13:38:10+00:00
- - tags: None
 
 The Spectrum Phantom bug was infamous in Valorant's pro community, but totally unknown to Riot itself.
 
@@ -180,7 +158,6 @@ The Spectrum Phantom bug was infamous in Valorant's pro community, but totally u
  - [https://www.pcgamer.com/microsoft-windows-11-file-explorer-tabs-update](https://www.pcgamer.com/microsoft-windows-11-file-explorer-tabs-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 11:49:09+00:00
- - tags: None
 
 And no, you can't disable them.
 
@@ -188,7 +165,6 @@ And no, you can't disable them.
  - [https://www.pcgamer.com/world-of-warcraft-wow-dracthyr-evoker-customization](https://www.pcgamer.com/world-of-warcraft-wow-dracthyr-evoker-customization)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 11:44:46+00:00
- - tags: None
 
 Meet the draconic new race coming to Dragonflight.
 
@@ -196,7 +172,6 @@ Meet the draconic new race coming to Dragonflight.
  - [https://www.pcgamer.com/dell-alienware-x14-review-benchmarks-performance](https://www.pcgamer.com/dell-alienware-x14-review-benchmarks-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 11:39:45+00:00
- - tags: None
 
 A sleek and effective gaming machine but the price stings.
 
@@ -204,7 +179,6 @@ A sleek and effective gaming machine but the price stings.
  - [https://www.pcgamer.com/persona-5-royal-is-landing-on-game-pass-for-pc-day-one](https://www.pcgamer.com/persona-5-royal-is-landing-on-game-pass-for-pc-day-one)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 11:32:16+00:00
- - tags: None
 
 Take your heart, not your wallet.
 
@@ -212,7 +186,6 @@ Take your heart, not your wallet.
  - [https://www.pcgamer.com/us-labor-relations-board-says-blizzard-albany-qa-union-vote-can-proceed-despite-activisions-objections](https://www.pcgamer.com/us-labor-relations-board-says-blizzard-albany-qa-union-vote-can-proceed-despite-activisions-objections)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 11:28:33+00:00
- - tags: None
 
 The NLRB says the lower pay of the QA team differentiates them from other workers at the studio.
 
@@ -220,7 +193,6 @@ The NLRB says the lower pay of the QA team differentiates them from other worker
  - [https://www.pcgamer.com/netflix-is-seriously-exploring-cloud-gaming](https://www.pcgamer.com/netflix-is-seriously-exploring-cloud-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 11:27:36+00:00
- - tags: None
 
 It's also opened a second in-house studio led by Overwatch's former executive producer.
 
@@ -228,7 +200,6 @@ It's also opened a second in-house studio led by Overwatch's former executive pr
  - [https://www.pcgamer.com/destiny-2-spectral-pages-farm](https://www.pcgamer.com/destiny-2-spectral-pages-farm)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 10:59:37+00:00
- - tags: None
 
 Convert these pages into lore books for special rewards.
 
@@ -236,7 +207,6 @@ Convert these pages into lore books for special rewards.
  - [https://www.pcgamer.com/disney-dreamlight-valley-scar-update-release-times](https://www.pcgamer.com/disney-dreamlight-valley-scar-update-release-times)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 10:39:10+00:00
- - tags: None
 
 Find out when it arrives in your timezone.
 
@@ -244,7 +214,6 @@ Find out when it arrives in your timezone.
  - [https://www.pcgamer.com/todays-wordle-487-answer-hint](https://www.pcgamer.com/todays-wordle-487-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Wednesday's puzzle.
 
@@ -252,7 +221,6 @@ Wordle today: The solution and a hint for Wednesday's puzzle.
  - [https://www.pcgamer.com/we-made-pc-games-into-themed-xbox-elite-controllers-using-xbox-design-labs](https://www.pcgamer.com/we-made-pc-games-into-themed-xbox-elite-controllers-using-xbox-design-labs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 06:01:16+00:00
- - tags: None
 
 If you're having trouble choosing your personalised aesthetic, these might help.
 
@@ -260,7 +228,6 @@ If you're having trouble choosing your personalised aesthetic, these might help.
  - [https://www.pcgamer.com/the-case-of-the-golden-idol-review](https://www.pcgamer.com/the-case-of-the-golden-idol-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 00:29:51+00:00
- - tags: None
 
 Solve a string of grisly murders in this inventive detective adventure.
 
@@ -268,6 +235,5 @@ Solve a string of grisly murders in this inventive detective adventure.
  - [https://www.pcgamer.com/the-bayonetta-voice-actor-dispute-just-got-more-complicated](https://www.pcgamer.com/the-bayonetta-voice-actor-dispute-just-got-more-complicated)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-19 00:26:23+00:00
- - tags: None
 
 Sources told Bloomberg the actor who said she was lowballed was offered at least $15K. She says that's a lie.

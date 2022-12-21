@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Deep learning with light
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59284](https://www.codeproject.com/script/News/View.aspx?nwid=59284)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 I'm so bright, my mother called me sonny
 
@@ -12,7 +11,6 @@ I'm so bright, my mother called me sonny
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59279](https://www.codeproject.com/script/News/View.aspx?nwid=59279)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 They do know where all the cruft is stored
 
@@ -20,7 +18,6 @@ They do know where all the cruft is stored
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59276](https://www.codeproject.com/script/News/View.aspx?nwid=59276)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 "Life's the same, I'm moving in stereo"
 
@@ -28,7 +25,6 @@ They do know where all the cruft is stored
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59281](https://www.codeproject.com/script/News/View.aspx?nwid=59281)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 That explains why I can only rub two or three thoughts together some days
 
@@ -36,7 +32,6 @@ That explains why I can only rub two or three thoughts together some days
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59280](https://www.codeproject.com/script/News/View.aspx?nwid=59280)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 Why not go for the full 100% and save us all?
 
@@ -44,7 +39,6 @@ Why not go for the full 100% and save us all?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59277](https://www.codeproject.com/script/News/View.aspx?nwid=59277)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 "The truth which makes men free is for the most part the truth which men prefer not to hear."
 
@@ -52,7 +46,6 @@ Why not go for the full 100% and save us all?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59283](https://www.codeproject.com/script/News/View.aspx?nwid=59283)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 No standing in line for the midnight launch required
 
@@ -60,7 +53,6 @@ No standing in line for the midnight launch required
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59278](https://www.codeproject.com/script/News/View.aspx?nwid=59278)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 If you're still using VS 2012, it might be time to think about an upgrade
 
@@ -68,7 +60,6 @@ If you're still using VS 2012, it might be time to think about an upgrade
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59285](https://www.codeproject.com/script/News/View.aspx?nwid=59285)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 Is that why no one answers my posts on c0dproject.com?
 
@@ -76,6 +67,5 @@ Is that why no one answers my posts on c0dproject.com?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59282](https://www.codeproject.com/script/News/View.aspx?nwid=59282)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-24 04:00:00+00:00
- - tags: None
 
 Won't you take me to func-y town?

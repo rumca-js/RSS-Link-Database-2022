@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Death Toll Rises as Russia Bombards Ukraine’s Cities for a Fourth Day
  - [https://www.nytimes.com/2022/10/13/world/europe/russia-ukraine-missiles-deaths.html](https://www.nytimes.com/2022/10/13/world/europe/russia-ukraine-missiles-deaths.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 23:00:47+00:00
- - tags: None
 
 Prompted by the expanded strikes, European countries made plans to develop joint air defenses and to train Ukrainian soldiers on European Union soil.
 
@@ -12,7 +11,6 @@ Prompted by the expanded strikes, European countries made plans to develop joint
  - [https://www.nytimes.com/2022/10/13/us/politics/biden-immigration-mexico-border.html](https://www.nytimes.com/2022/10/13/us/politics/biden-immigration-mexico-border.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 22:45:20+00:00
- - tags: None
 
 Secretary of State Antony J. Blinken, just back from South America, met again with his Mexican counterpart.
 
@@ -20,7 +18,6 @@ Secretary of State Antony J. Blinken, just back from South America, met again wi
  - [https://www.nytimes.com/2022/10/13/world/canada/trudeau-emergency-powers-hearing.html](https://www.nytimes.com/2022/10/13/world/canada/trudeau-emergency-powers-hearing.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 22:43:03+00:00
- - tags: None
 
 Lawyers for the Canadian government and opponents clashed on whether the government had been justified in using the powers during protests that paralyzed Ottawa last February.
 
@@ -28,7 +25,6 @@ Lawyers for the Canadian government and opponents clashed on whether the governm
  - [https://www.nytimes.com/2022/10/14/world/europe/at-a-childrens-hospital-in-kyiv-young-patients-seek-shelter-after-days-of-strikes.html](https://www.nytimes.com/2022/10/14/world/europe/at-a-childrens-hospital-in-kyiv-young-patients-seek-shelter-after-days-of-strikes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 22:05:25+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Lawyers for the Canadian government and opponents clashed on whether the governm
  - [https://www.nytimes.com/2022/10/13/briefing/inflation-europe-energy-china-biden.html](https://www.nytimes.com/2022/10/13/briefing/inflation-europe-energy-china-biden.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 20:55:29+00:00
- - tags: None
 
 Plus Europe’s search for energy and U.S. attempts to hinder China’s technological development.
 
@@ -44,7 +39,6 @@ Plus Europe’s search for energy and U.S. attempts to hinder China’s technolo
  - [https://www.nytimes.com/2022/10/13/world/asia/north-korea-missile-warplanes.html](https://www.nytimes.com/2022/10/13/world/asia/north-korea-missile-warplanes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 20:42:53+00:00
- - tags: None
 
 South Korea dispatched its own warplanes in a show of force as the North appeared intent on keeping tensions high on the Korean Peninsula.
 
@@ -52,7 +46,6 @@ South Korea dispatched its own warplanes in a show of force as the North appeare
  - [https://www.nytimes.com/2022/10/13/world/europe/russia-kherson-ukraine-evacuation.html](https://www.nytimes.com/2022/10/13/world/europe/russia-kherson-ukraine-evacuation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 19:39:54+00:00
- - tags: None
 
 The announcement seemed timed to deflect attention from Russian forces who, since Monday, have killed more than three dozen Ukrainians in a barrage of missile strikes on towns and cities.
 
@@ -60,7 +53,6 @@ The announcement seemed timed to deflect attention from Russian forces who, sinc
  - [https://www.nytimes.com/2022/10/13/world/europe/uk-budget-truss-kwarteng.html](https://www.nytimes.com/2022/10/13/world/europe/uk-budget-truss-kwarteng.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 19:36:49+00:00
- - tags: None
 
 Prime Minister Liz Truss and her chancellor of the Exchequer, Kwasi Kwarteng, say they are holding steady on their plans, but experts believe concessions are inevitable.
 
@@ -68,7 +60,6 @@ Prime Minister Liz Truss and her chancellor of the Exchequer, Kwasi Kwarteng, sa
  - [https://www.nytimes.com/2022/10/13/world/europe/putin-russia-turkey-gas-eu-energy.html](https://www.nytimes.com/2022/10/13/world/europe/putin-russia-turkey-gas-eu-energy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 18:46:00+00:00
- - tags: None
 
 Energy experts have questioned the viability of the Russian president’s proposal, saying it seemed unlikely that the bloc would approve new pipelines for Russian gas to Europe.
 
@@ -76,7 +67,6 @@ Energy experts have questioned the viability of the Russian president’s propos
  - [https://www.nytimes.com/2022/10/13/climate/florida-real-estate-hurricane-ian.html](https://www.nytimes.com/2022/10/13/climate/florida-real-estate-hurricane-ian.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 18:03:03+00:00
- - tags: None
 
 The hurricane’s record-breaking cost will make it even harder for many to get insurance, experts say — threatening home sales, mortgages and construction.
 
@@ -84,7 +74,6 @@ The hurricane’s record-breaking cost will make it even harder for many to get 
  - [https://www.nytimes.com/2022/10/13/world/middleeast/iran-protests-killed-teens.html](https://www.nytimes.com/2022/10/13/world/middleeast/iran-protests-killed-teens.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 17:31:04+00:00
- - tags: None
 
 The 16-year-old girls were killed by the Iranian security services in a crackdown on the protests that have rocked the country for the past month.
 
@@ -92,7 +81,6 @@ The 16-year-old girls were killed by the Iranian security services in a crackdow
  - [https://www.nytimes.com/2022/10/13/world/europe/france-murder-raddad-marchal.html](https://www.nytimes.com/2022/10/13/world/europe/france-murder-raddad-marchal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 16:16:55+00:00
- - tags: None
 
 Omar Raddad was convicted in the 1991 killing of a wealthy widow, but scant evidence and a grammatical error sowed doubts about his guilt. He sought a retrial based on new DNA evidence.
 
@@ -100,7 +88,6 @@ Omar Raddad was convicted in the 1991 killing of a wealthy widow, but scant evid
  - [https://www.nytimes.com/2022/10/13/world/middleeast/iraqi-parliament-elects-latif-rashid.html](https://www.nytimes.com/2022/10/13/world/middleeast/iraqi-parliament-elects-latif-rashid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 15:43:12+00:00
- - tags: None
 
 The vote is the first step to forming a new government after a year of political deadlock and heightened instability.
 
@@ -108,7 +95,6 @@ The vote is the first step to forming a new government after a year of political
  - [https://www.nytimes.com/2022/10/13/world/middleeast/us-saudi-oil-production.html](https://www.nytimes.com/2022/10/13/world/middleeast/us-saudi-oil-production.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 14:16:12+00:00
- - tags: None
 
 The kingdom said it had rejected the Biden administration’s urging for a one-month delay to the reduction in output. That could have prevented a price spike before the American midterm elections.
 
@@ -116,7 +102,6 @@ The kingdom said it had rejected the Biden administration’s urging for a one-m
  - [https://www.nytimes.com/2022/10/13/briefing/monkeypox-cases.html](https://www.nytimes.com/2022/10/13/briefing/monkeypox-cases.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 10:48:58+00:00
- - tags: None
 
 Why cases suddenly began to decline.
 
@@ -124,7 +109,6 @@ Why cases suddenly began to decline.
  - [https://www.nytimes.com/2022/10/13/world/europe/ukraine-kyiv-kamikaze-drone-strike.html](https://www.nytimes.com/2022/10/13/world/europe/ukraine-kyiv-kamikaze-drone-strike.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 10:17:35+00:00
- - tags: None
 
 The weapons are causing havoc in a region that had been largely spared since the early months of the war.
 
@@ -132,7 +116,6 @@ The weapons are causing havoc in a region that had been largely spared since the
  - [https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 09:55:33+00:00
- - tags: None
 
 It’s the first time since the start of the war that Russian forces have targeted the energy infrastructure so broadly.
 
@@ -140,7 +123,6 @@ It’s the first time since the start of the war that Russian forces have target
  - [https://www.nytimes.com/2022/10/13/climate/global-food-waste-solutions.html](https://www.nytimes.com/2022/10/13/climate/global-food-waste-solutions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 09:00:36+00:00
- - tags: None
 
 Around the world, lawmakers and entrepreneurs are taking steps to tackle two of humanity’s most pressing problems: hunger and climate change.
 
@@ -148,7 +130,6 @@ Around the world, lawmakers and entrepreneurs are taking steps to tackle two of 
  - [https://www.nytimes.com/2022/10/13/world/bob-dylan-on-the-songs-that-captivate-and-define-us.html](https://www.nytimes.com/2022/10/13/world/bob-dylan-on-the-songs-that-captivate-and-define-us.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 09:00:27+00:00
- - tags: None
 
 In his first collection of writing since “Chronicles: Volume One,” Dylan takes on the songs that captivate and define us. Here are two excerpts from his new book.
 
@@ -156,7 +137,6 @@ In his first collection of writing since “Chronicles: Volume One,” Dylan tak
  - [https://www.nytimes.com/2022/10/13/world/europe/paris-energy-conservation-parkour.html](https://www.nytimes.com/2022/10/13/world/europe/paris-energy-conservation-parkour.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 07:00:18+00:00
- - tags: None
 
 As an energy crisis looms, nimble young activists are using superhero-like moves to switch off wasteful lights that stores leave on all night.
 
@@ -164,7 +144,6 @@ As an energy crisis looms, nimble young activists are using superhero-like moves
  - [https://www.nytimes.com/2022/10/13/briefing/ukraine-arms-weapons-truss-economics.html](https://www.nytimes.com/2022/10/13/briefing/ukraine-arms-weapons-truss-economics.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 04:13:01+00:00
- - tags: None
 
 Western support for Ukraine.
 
@@ -172,6 +151,5 @@ Western support for Ukraine.
  - [https://www.nytimes.com/2022/10/13/world/europe/germany-coal-energy-climate.html](https://www.nytimes.com/2022/10/13/world/europe/germany-coal-energy-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-13 04:01:14+00:00
- - tags: None
 
 The cutting of Russian gas supplies to Europe has led Germany to step up coal use, despite its goal to phase it out by 2030.

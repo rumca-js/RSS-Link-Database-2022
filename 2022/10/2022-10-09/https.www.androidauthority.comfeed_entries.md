@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra: Which should you buy?
  - [https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-09 18:00:33+00:00
- - tags: None
 
 The two phones couldn't be more different.
 
@@ -12,7 +11,6 @@ The two phones couldn't be more different.
  - [https://www.androidauthority.com/google-pixel-watch-fitbit-opinion-3215472/](https://www.androidauthority.com/google-pixel-watch-fitbit-opinion-3215472/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-09 17:00:00+00:00
- - tags: None
 
 Whether you go Google or Fitbit for your watch, you're going to need to make compromises. But why?
 
@@ -20,7 +18,6 @@ Whether you go Google or Fitbit for your watch, you're going to need to make com
  - [https://www.androidauthority.com/pixel-7-watch-software-updates-3217589/](https://www.androidauthority.com/pixel-7-watch-software-updates-3217589/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-09 16:00:22+00:00
- - tags: None
 
 Samsung is beating Google at its own game.
 
@@ -28,7 +25,6 @@ Samsung is beating Google at its own game.
  - [https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/](https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-09 14:00:07+00:00
- - tags: None
 
 Which of Google's two new smartwatches should you consider?
 
@@ -36,6 +32,5 @@ Which of Google's two new smartwatches should you consider?
  - [https://www.androidauthority.com/lg-ultragear-27gn950-3211309/](https://www.androidauthority.com/lg-ultragear-27gn950-3211309/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-09 12:00:51+00:00
- - tags: None
 
 The LG UltraGear 27GN950 is large, sharp, and powerful, but is it too much of a good thing?

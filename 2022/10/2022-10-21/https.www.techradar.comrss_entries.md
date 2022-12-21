@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Public cloud investment has plummeted in 2022
  - [https://www.techradar.com/news/public-cloud-investment-has-plummeted-in-2022/](https://www.techradar.com/news/public-cloud-investment-has-plummeted-in-2022/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 21:04:24+00:00
- - tags: None
 
 Report claims stock prices of publicly traded cloud companies have been decimated over the past 12 months.
 
@@ -12,7 +11,6 @@ Report claims stock prices of publicly traded cloud companies have been decimate
  - [https://www.techradar.com/news/iphone-owners-can-finally-break-a-sweat-without-an-apple-watch-but-theres-one-small-catch/](https://www.techradar.com/news/iphone-owners-can-finally-break-a-sweat-without-an-apple-watch-but-theres-one-small-catch/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 20:05:26+00:00
- - tags: None
 
 Fitness Plus expands support on October 24, but you'll need to download the iOS 16.1 update, first
 
@@ -20,7 +18,6 @@ Fitness Plus expands support on October 24, but you'll need to download the iOS 
  - [https://www.techradar.com/news/ibms-new-cloud-solution-promises-huge-storage-gains-at-a-low-cost-with-a-catch/](https://www.techradar.com/news/ibms-new-cloud-solution-promises-huge-storage-gains-at-a-low-cost-with-a-catch/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 19:53:24+00:00
- - tags: None
 
 IBM claims its new air-gapped tape storage solutions offers superior security at a reduced cost.
 
@@ -28,7 +25,6 @@ IBM claims its new air-gapped tape storage solutions offers superior security at
  - [https://www.techradar.com/news/this-fake-job-offer-scam-will-just-infect-your-device-with-deadly-malware/](https://www.techradar.com/news/this-fake-job-offer-scam-will-just-infect-your-device-with-deadly-malware/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 18:55:39+00:00
- - tags: None
 
 Job seekers warned about yet another fake job campaign, but the threat could be evolving into something worse.
 
@@ -36,7 +32,6 @@ Job seekers warned about yet another fake job campaign, but the threat could be 
  - [https://www.techradar.com/news/global-smartphone-sales-fall-again-could-discounts-be-on-the-way/](https://www.techradar.com/news/global-smartphone-sales-fall-again-could-discounts-be-on-the-way/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 17:32:02+00:00
- - tags: None
 
 Market downturn could force vendors to shift stock over Black Friday.
 
@@ -44,7 +39,6 @@ Market downturn could force vendors to shift stock over Black Friday.
  - [https://www.techradar.com/news/google-sued-for-collecting-biometric-data-without-consent/](https://www.techradar.com/news/google-sued-for-collecting-biometric-data-without-consent/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 17:08:49+00:00
- - tags: None
 
 Google faces yet another lawsuit in Texas, this time over data gathered through Photos, Assistant, and Nest.
 
@@ -52,7 +46,6 @@ Google faces yet another lawsuit in Texas, this time over data gathered through 
  - [https://www.techradar.com/news/microsoft-teams-will-finally-let-you-focus-on-sign-language-participants/](https://www.techradar.com/news/microsoft-teams-will-finally-let-you-focus-on-sign-language-participants/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 16:02:22+00:00
- - tags: None
 
 Sign language popup windows and always-on captions should enhance Microsoft Teams accessibility.
 
@@ -60,7 +53,6 @@ Sign language popup windows and always-on captions should enhance Microsoft Team
  - [https://www.techradar.com/news/house-of-marley-solo-is-like-a-cheaper-better-looking-bluetooth-sonos-one/](https://www.techradar.com/news/house-of-marley-solo-is-like-a-cheaper-better-looking-bluetooth-sonos-one/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 14:49:21+00:00
- - tags: None
 
 Want a Sonos One but made from consciously crafted, sustainable materials? See House of Marley’s bamboo wireless speaker, the Get Together Solo.
 
@@ -68,7 +60,6 @@ Want a Sonos One but made from consciously crafted, sustainable materials? See H
  - [https://www.techradar.com/news/many-businesses-still-arent-offering-properly-collaborative-offices/](https://www.techradar.com/news/many-businesses-still-arent-offering-properly-collaborative-offices/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 14:31:18+00:00
- - tags: None
 
 Microsoft study finds many offices have still not adapted since before the pandemic.
 
@@ -76,7 +67,6 @@ Microsoft study finds many offices have still not adapted since before the pande
  - [https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-october-21-2022/](https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-october-21-2022/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 14:00:00+00:00
- - tags: None
 
 From all-new fantasy adventures to slow-burning psychological thrillers, there’s plenty to watch this weekend.
 
@@ -84,7 +74,6 @@ From all-new fantasy adventures to slow-burning psychological thrillers, there�
  - [https://www.techradar.com/news/theres-a-major-lack-of-qualified-cybersecurity-workers-around/](https://www.techradar.com/news/theres-a-major-lack-of-qualified-cybersecurity-workers-around/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 13:54:12+00:00
- - tags: None
 
 Security skills gap continues widening, with demand for qualified workers growing to 3.4 million jobs.
 
@@ -92,7 +81,6 @@ Security skills gap continues widening, with demand for qualified workers growin
  - [https://www.techradar.com/news/this-amd-ryzen-7000-cpu-cooling-trick-is-something-you-really-shouldnt-try-at-home/](https://www.techradar.com/news/this-amd-ryzen-7000-cpu-cooling-trick-is-something-you-really-shouldnt-try-at-home/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 13:24:27+00:00
- - tags: None
 
 Here’s one way to make an AMD Ryzen 7000 CPU run cooler – but don’t try it
 
@@ -100,7 +88,6 @@ Here’s one way to make an AMD Ryzen 7000 CPU run cooler – but don’t try it
  - [https://www.techradar.com/news/microsoft-is-taking-on-ccleaner-to-help-your-pc-in-a-future-windows-11-update/](https://www.techradar.com/news/microsoft-is-taking-on-ccleaner-to-help-your-pc-in-a-future-windows-11-update/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 13:19:29+00:00
- - tags: None
 
 A beta of PC Manager has appeared, giving you the option to remove files and stop apps from running all in one place.
 
@@ -108,7 +95,6 @@ A beta of PC Manager has appeared, giving you the option to remove files and sto
  - [https://www.techradar.com/news/most-of-us-really-want-connected-cars-to-have-proper-security-protection-white-house-finds/](https://www.techradar.com/news/most-of-us-really-want-connected-cars-to-have-proper-security-protection-white-house-finds/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 11:45:01+00:00
- - tags: None
 
 Consumers wish it was easier to learn how security-conscious IoT car manufacturers are.
 
@@ -116,7 +102,6 @@ Consumers wish it was easier to learn how security-conscious IoT car manufacture
  - [https://www.techradar.com/news/nintendo-switch-online-is-getting-not-one-but-two-mario-party-games-next-month/](https://www.techradar.com/news/nintendo-switch-online-is-getting-not-one-but-two-mario-party-games-next-month/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 11:44:40+00:00
- - tags: None
 
 Nintendo Switch Online's a lively place to be in November, with the arrival of two Mario Party games.
 
@@ -124,7 +109,6 @@ Nintendo Switch Online's a lively place to be in November, with the arrival of t
  - [https://www.techradar.com/news/android-13-is-coming-to-windows-11-but-i-still-cant-see-a-reason-to-use-it/](https://www.techradar.com/news/android-13-is-coming-to-windows-11-but-i-still-cant-see-a-reason-to-use-it/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 11:06:10+00:00
- - tags: None
 
 While Android apps have been available in Windows 11 for months, the lack of curation is ruining the experience.
 
@@ -132,7 +116,6 @@ While Android apps have been available in Windows 11 for months, the lack of cur
  - [https://www.techradar.com/news/multicloud-security-issues-are-plaguing-businesses-everywhere/](https://www.techradar.com/news/multicloud-security-issues-are-plaguing-businesses-everywhere/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 10:44:58+00:00
- - tags: None
 
 Multi-cloud is important, but difficult to provide security for, and businesses are craving better solutions and more visibility going forward.
 
@@ -140,7 +123,6 @@ Multi-cloud is important, but difficult to provide security for, and businesses 
  - [https://www.techradar.com/news/dont-install-the-latest-ios-update-beta-it-can-break-your-iphones-face-id/](https://www.techradar.com/news/dont-install-the-latest-ios-update-beta-it-can-break-your-iphones-face-id/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 10:40:21+00:00
- - tags: None
 
 If you update to the latest iOS 15 beta version you may find that your iPhone's Face ID stops working.
 
@@ -148,7 +130,6 @@ If you update to the latest iOS 15 beta version you may find that your iPhone's 
  - [https://www.techradar.com/news/samsung-galaxy-s23-ultra-benchmark-points-to-a-top-chipset-but-not-enough-ram/](https://www.techradar.com/news/samsung-galaxy-s23-ultra-benchmark-points-to-a-top-chipset-but-not-enough-ram/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 10:33:21+00:00
- - tags: None
 
 A benchmark suggests the Samsung Galaxy S23 Ultra will use one of 2023's most powerful smartphone chipsets.
 
@@ -156,7 +137,6 @@ A benchmark suggests the Samsung Galaxy S23 Ultra will use one of 2023's most po
  - [https://www.techradar.com/news/youtube-premium-just-got-its-biggest-price-hike-in-years/](https://www.techradar.com/news/youtube-premium-just-got-its-biggest-price-hike-in-years/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 10:26:31+00:00
- - tags: None
 
 Google is upping the price of a YouTube Premium family subscription from November.
 
@@ -164,7 +144,6 @@ Google is upping the price of a YouTube Premium family subscription from Novembe
  - [https://www.techradar.com/news/resident-evil-4-remake-is-embracing-its-eccentric-roots-with-open-arms/](https://www.techradar.com/news/resident-evil-4-remake-is-embracing-its-eccentric-roots-with-open-arms/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 10:10:19+00:00
- - tags: None
 
 Resident Evil 4 Remake might be darker in tone, but it hasn't forgotten the elements that made the original so special.
 
@@ -172,7 +151,6 @@ Resident Evil 4 Remake might be darker in tone, but it hasn't forgotten the elem
  - [https://www.techradar.com/news/intel-raptor-lake-flagship-cpu-sets-world-record-with-astonishing-88ghz-overclock/](https://www.techradar.com/news/intel-raptor-lake-flagship-cpu-sets-world-record-with-astonishing-88ghz-overclock/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 09:42:09+00:00
- - tags: None
 
 Exotic cooling was used, naturally, but this huge overclock is great news for anyone looking at a new 13th-gen processor.
 
@@ -180,7 +158,6 @@ Exotic cooling was used, naturally, but this huge overclock is great news for an
  - [https://www.techradar.com/news/marvels-fantastic-four-might-have-found-its-doctor-doom-and-hed-be-perfect/](https://www.techradar.com/news/marvels-fantastic-four-might-have-found-its-doctor-doom-and-hed-be-perfect/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 09:37:55+00:00
- - tags: None
 
 A noted industry insider claims Marvel met with a big Star Wars actor to play the fan favorite villain.
 
@@ -188,7 +165,6 @@ A noted industry insider claims Marvel met with a big Star Wars actor to play th
  - [https://www.techradar.com/news/oracles-new-release-wants-to-let-all-businesses-become-cloud-providers/](https://www.techradar.com/news/oracles-new-release-wants-to-let-all-businesses-become-cloud-providers/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 09:32:26+00:00
- - tags: None
 
 Make your business a cloud icon with Oracle Alloy's customization and control.
 
@@ -196,6 +172,5 @@ Make your business a cloud icon with Oracle Alloy's customization and control.
  - [https://www.techradar.com/news/exclusive-most-people-still-make-up-their-own-passwords-and-reuse-them/](https://www.techradar.com/news/exclusive-most-people-still-make-up-their-own-passwords-and-reuse-them/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 03:00:30+00:00
- - tags: None
 
 Password generators are being neglected, report finds.

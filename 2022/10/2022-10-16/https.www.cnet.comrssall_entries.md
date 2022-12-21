@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## 'The Rings of Power:' That Ending Explained and All Your Questions Answered     - CNET
  - [https://www.cnet.com/culture/entertainment/the-rings-of-power-that-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-rings-of-power-that-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 23:23:33+00:00
- - tags: None
 
 That wild season 1 finale brought a couple of twists, including a huge villain reveal.
 
@@ -12,7 +11,6 @@ That wild season 1 finale brought a couple of twists, including a huge villain r
  - [https://www.cnet.com/culture/entertainment/the-midnight-club-ending-explained-all-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-midnight-club-ending-explained-all-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 23:17:19+00:00
- - tags: None
 
 Who is Dr. Stanton really? When will season 2 be announced? Let's dive into the biggest questions to address with Mike Flanagan's latest horror show.
 
@@ -20,7 +18,6 @@ Who is Dr. Stanton really? When will season 2 be announced? Let's dive into the 
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-gripping-horror-mystery-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-gripping-horror-mystery-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 22:11:25+00:00
- - tags: None
 
 Archive 81 will suck you into its multilayered mystery.
 
@@ -28,7 +25,6 @@ Archive 81 will suck you into its multilayered mystery.
  - [https://www.cnet.com/tech/services-and-software/yankees-vs-guardians-livestream-how-to-watch-game-4-of-the-division-series-online/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/yankees-vs-guardians-livestream-how-to-watch-game-4-of-the-division-series-online/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 21:03:03+00:00
- - tags: None
 
 New York faces elimination against Cleveland in the last MLB Divisional Series today.
 
@@ -36,7 +32,6 @@ New York faces elimination against Cleveland in the last MLB Divisional Series t
  - [https://www.cnet.com/tech/home-entertainment/eliminate-glare-on-your-tv-with-these-5-tricks/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/eliminate-glare-on-your-tv-with-these-5-tricks/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 21:00:02+00:00
- - tags: None
 
 Glare on your TV can be distracting, and make it hard to see what's going on. Here's how to reduce or get rid of them completely.
 
@@ -44,7 +39,6 @@ Glare on your TV can be distracting, and make it hard to see what's going on. He
  - [https://www.cnet.com/culture/butter-shortage-beer-ketchup/#ftag=CADf328eec](https://www.cnet.com/culture/butter-shortage-beer-ketchup/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 20:47:00+00:00
- - tags: None
 
 Butter is scarcer and more expensive, joining Halloween candy, beer, ketchup and other staples.
 
@@ -52,7 +46,6 @@ Butter is scarcer and more expensive, joining Halloween candy, beer, ketchup and
  - [https://www.cnet.com/culture/entertainment/scaredy-cats-you-can-enjoy-horror-movies-this-halloween-too/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/scaredy-cats-you-can-enjoy-horror-movies-this-halloween-too/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 20:25:00+00:00
- - tags: None
 
 Are you too afraid to watch scary movies but still need to know what happens? This guide is for you.
 
@@ -60,7 +53,6 @@ Are you too afraid to watch scary movies but still need to know what happens? Th
  - [https://www.cnet.com/health/mental/best-online-therapy/#ftag=CADf328eec](https://www.cnet.com/health/mental/best-online-therapy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 20:00:12+00:00
- - tags: None
 
 There are more options now that online therapy has become more popular.
 
@@ -68,7 +60,6 @@ There are more options now that online therapy has become more popular.
  - [https://www.cnet.com/tech/services-and-software/8-helpful-hulu-tricks-you-probably-arent-using/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/8-helpful-hulu-tricks-you-probably-arent-using/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 20:00:08+00:00
- - tags: None
 
 Learn to customize how and when you stream the service.
 
@@ -76,7 +67,6 @@ Learn to customize how and when you stream the service.
  - [https://www.cnet.com/news/best-travel-coffee-mugs/#ftag=CADf328eec](https://www.cnet.com/news/best-travel-coffee-mugs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 20:00:03+00:00
- - tags: None
 
 Make the perfect cup of coffee to go and carry it in these top-rated travel coffee mugs from brands including Yeti and Kinto.
 
@@ -84,7 +74,6 @@ Make the perfect cup of coffee to go and carry it in these top-rated travel coff
  - [https://www.cnet.com/personal-finance/att-14-million-hidden-fee-settlement-you-have-13-days-left-to-file-a-claim/#ftag=CADf328eec](https://www.cnet.com/personal-finance/att-14-million-hidden-fee-settlement-you-have-13-days-left-to-file-a-claim/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 19:08:00+00:00
- - tags: None
 
 The company is paying customers to resolve charges of undisclosed administrative fees, and you may be eligible for a cut.
 
@@ -92,7 +81,6 @@ The company is paying customers to resolve charges of undisclosed administrative
  - [https://www.cnet.com/tech/services-and-software/cardinals-vs-seahawks-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/cardinals-vs-seahawks-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 19:03:02+00:00
- - tags: None
 
 Want to catch the Arizona Cardinals against the Seattle Seahawks? Here's everything you need to livestream Sunday's 1:05 p.m. PT game on Fox from anywhere.
 
@@ -100,7 +88,6 @@ Want to catch the Arizona Cardinals against the Seattle Seahawks? Here's everyth
  - [https://www.cnet.com/tech/services-and-software/panthers-vs-rams-livestream-how-to-watch-nfl-week-6-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/panthers-vs-rams-livestream-how-to-watch-nfl-week-6-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 18:57:02+00:00
- - tags: None
 
 Want to see the Carolina Panthers take on the Los Angeles Rams? Here's everything you need to catch Sunday's 1:05 p.m. PT game on Fox.
 
@@ -108,7 +95,6 @@ Want to see the Carolina Panthers take on the Los Angeles Rams? Here's everythin
  - [https://www.cnet.com/culture/entertainment/that-big-rings-of-power-finale-twist-doesnt-work-in-the-streaming-age/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/that-big-rings-of-power-finale-twist-doesnt-work-in-the-streaming-age/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 18:26:00+00:00
- - tags: None
 
 Commentary: Savvy fans plus the internet means it's hard to surprise anyone anymore. So why bother trying?
 
@@ -116,7 +102,6 @@ Commentary: Savvy fans plus the internet means it's hard to surprise anyone anym
  - [https://www.cnet.com/health/mental/boost-your-happiness-with-these-7-mood-altering-foods/#ftag=CADf328eec](https://www.cnet.com/health/mental/boost-your-happiness-with-these-7-mood-altering-foods/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 18:19:00+00:00
- - tags: None
 
 Instead of the sugary snacks, add these foods to your diet to increase serotonin.
 
@@ -124,7 +109,6 @@ Instead of the sugary snacks, add these foods to your diet to increase serotonin
  - [https://www.cnet.com/tech/services-and-software/ios-16-0-3-on-your-iphone-apple-fixes-some-annoying-bugs/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/ios-16-0-3-on-your-iphone-apple-fixes-some-annoying-bugs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 18:13:00+00:00
- - tags: None
 
 Learn how to download the latest iOS 16 update today.
 
@@ -132,7 +116,6 @@ Learn how to download the latest iOS 16 update today.
  - [https://www.cnet.com/culture/entertainment/negroni-sbagliato-with-prosecco-why-emma-darcys-drink-of-choice-went-viral/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/negroni-sbagliato-with-prosecco-why-emma-darcys-drink-of-choice-went-viral/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 18:01:00+00:00
- - tags: None
 
 The way the House of the Dragon star says it is making the internet feel things.
 
@@ -140,7 +123,6 @@ The way the House of the Dragon star says it is making the internet feel things.
  - [https://www.cnet.com/roadshow/news/2023-mercedes-benz-amg-eqe-suv-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-mercedes-benz-amg-eqe-suv-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 18:00:02+00:00
- - tags: None
 
 Combining the EQE sedan's powertrain and battery to with more upright proportions, the 2023 Mercedes-Benz EQE SUV feels like deja vu.
 
@@ -148,7 +130,6 @@ Combining the EQE sedan's powertrain and battery to with more upright proportion
  - [https://www.cnet.com/culture/the-top-5-dog-breeds-a-veterinarian-would-choose/#ftag=CADf328eec](https://www.cnet.com/culture/the-top-5-dog-breeds-a-veterinarian-would-choose/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:53:00+00:00
- - tags: None
 
 Dog lovers, does your furry friend make this vet's list?
 
@@ -156,7 +137,6 @@ Dog lovers, does your furry friend make this vet's list?
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-that-episode-8-prophecy-and-king-viserys-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-that-episode-8-prophecy-and-king-viserys-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:51:00+00:00
- - tags: None
 
 Now that Alicent knows about the Prince That Was Promised, how will that impact her scheming?
 
@@ -164,7 +144,6 @@ Now that Alicent knows about the Prince That Was Promised, how will that impact 
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-8-lord-of-the-tides-recap-death-and-a-dinner-party/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-8-lord-of-the-tides-recap-death-and-a-dinner-party/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:46:00+00:00
- - tags: None
 
 The Lord of the Tides, episode 8, featured King Viserys' best performance yet.
 
@@ -172,7 +151,6 @@ The Lord of the Tides, episode 8, featured King Viserys' best performance yet.
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-heres-when-episode-9-hits-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-heres-when-episode-9-hits-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:43:00+00:00
- - tags: None
 
 The last episode of House of the Dragon saw King Viserys' shining moment. It also may have been his last. Find out what happens next on Sunday.
 
@@ -180,7 +158,6 @@ The last episode of House of the Dragon saw King Viserys' shining moment. It als
  - [https://www.cnet.com/culture/entertainment/hbo-max-the-21-absolute-best-movies-to-watch-october/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-21-absolute-best-movies-to-watch-october/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:16:17+00:00
- - tags: None
 
 This spooky season, check out Edgar Wright's 2021 horror-thriller Last Night in Soho.
 
@@ -188,7 +165,6 @@ This spooky season, check out Edgar Wright's 2021 horror-thriller Last Night in 
  - [https://www.cnet.com/culture/mcdonalds-halloween-boo-buckets-return-in-just-2-days-how-to-get-one/#ftag=CADf328eec](https://www.cnet.com/culture/mcdonalds-halloween-boo-buckets-return-in-just-2-days-how-to-get-one/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:13:00+00:00
- - tags: None
 
 Before the nostalgic Happy Meal containers make a comeback, check out these details.
 
@@ -196,7 +172,6 @@ Before the nostalgic Happy Meal containers make a comeback, check out these deta
  - [https://www.cnet.com/culture/entertainment/prime-video-the-34-absolute-best-shows-to-stream-october/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-34-absolute-best-shows-to-stream-october/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 17:08:15+00:00
- - tags: None
 
 Catch the premiere of new sci-fi series The Peripheral on Oct. 21.
 
@@ -204,7 +179,6 @@ Catch the premiere of new sci-fi series The Peripheral on Oct. 21.
  - [https://www.cnet.com/deals/save-up-to-25-on-sleek-and-stylish-cosori-small-kitchen-appliances/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-25-on-sleek-and-stylish-cosori-small-kitchen-appliances/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 16:56:17+00:00
- - tags: None
 
 Right now at Amazon, you can shop savings on air fryers, electric kettles, indoor grills, coffee grinders and more helpful kitchen gadgets and appliances.
 
@@ -212,7 +186,6 @@ Right now at Amazon, you can shop savings on air fryers, electric kettles, indoo
  - [https://www.cnet.com/deals/upgrade-your-home-office-with-big-discounts-on-new-and-refurb-monitors/#ftag=CADf328eec](https://www.cnet.com/deals/upgrade-your-home-office-with-big-discounts-on-new-and-refurb-monitors/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 16:55:49+00:00
- - tags: None
 
 Right now at Woot, you can shop big savings on a selection of monitors from Samsung, Dell, Acer and more.
 
@@ -220,7 +193,6 @@ Right now at Woot, you can shop big savings on a selection of monitors from Sams
  - [https://www.cnet.com/tech/home-entertainment/mounting-your-tv-over-a-fireplace-is-a-mistake/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/mounting-your-tv-over-a-fireplace-is-a-mistake/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 16:45:00+00:00
- - tags: None
 
 Just because this is a popular TV placement, doesn't make it the best option. Here's why.
 
@@ -228,7 +200,6 @@ Just because this is a popular TV placement, doesn't make it the best option. He
  - [https://www.cnet.com/tech/services-and-software/49ers-vs-falcons-livestream-how-to-watch-nfl-week-6-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/49ers-vs-falcons-livestream-how-to-watch-nfl-week-6-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 16:03:02+00:00
- - tags: None
 
 Want to catch the San Francisco 49ers against the Atlanta Falcons? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -236,7 +207,6 @@ Want to catch the San Francisco 49ers against the Atlanta Falcons? Here's everyt
  - [https://www.cnet.com/tech/services-and-software/nfl-week-6-how-to-watch-bills-vs-chiefs-cowboys-vs-eagles-redzone-and-more-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-week-6-how-to-watch-bills-vs-chiefs-cowboys-vs-eagles-redzone-and-more-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 16:00:03+00:00
- - tags: None
 
 We are nearing the midway point of the NFL season.
 
@@ -244,7 +214,6 @@ We are nearing the midway point of the NFL season.
  - [https://www.cnet.com/tech/services-and-software/jets-vs-packers-livestream-how-to-watch-nfl-week-6-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/jets-vs-packers-livestream-how-to-watch-nfl-week-6-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:58:03+00:00
- - tags: None
 
 Want to see the New York Jets play the Green Bay Packers? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -252,7 +221,6 @@ Want to see the New York Jets play the Green Bay Packers? Here's everything you 
  - [https://www.cnet.com/tech/services-and-software/bengals-vs-saints-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bengals-vs-saints-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:52:02+00:00
- - tags: None
 
 Looking to watch the Cincinnati Bengals take on the New Orleans Saints? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -260,7 +228,6 @@ Looking to watch the Cincinnati Bengals take on the New Orleans Saints? Here's e
  - [https://www.cnet.com/tech/services-and-software/bucs-vs-steelers-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bucs-vs-steelers-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:49:02+00:00
- - tags: None
 
 Want to watch the Tampa Bay Buccaneers against the Pittsburgh Steelers? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -268,7 +235,6 @@ Want to watch the Tampa Bay Buccaneers against the Pittsburgh Steelers? Here's e
  - [https://www.cnet.com/tech/services-and-software/ravens-vs-giants-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/ravens-vs-giants-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:42:02+00:00
- - tags: None
 
 Looking to watch the Baltimore Ravens play the New York Giants? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -276,7 +242,6 @@ Looking to watch the Baltimore Ravens play the New York Giants? Here's everythin
  - [https://www.cnet.com/health/nutrition/cheese-recall-check-your-fridge-for-these-potentially-contaminated-products/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/cheese-recall-check-your-fridge-for-these-potentially-contaminated-products/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:35:59+00:00
- - tags: None
 
 Some soft cheeses sold at Whole Foods, Safeway and others may have been contaminated with a strain of listeria.
 
@@ -284,7 +249,6 @@ Some soft cheeses sold at Whole Foods, Safeway and others may have been contamin
  - [https://www.cnet.com/tech/mobile/i-spent-10k-on-dslr-camera-gear-you-can-just-get-pixel-7-pro/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/i-spent-10k-on-dslr-camera-gear-you-can-just-get-pixel-7-pro/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:27:08+00:00
- - tags: None
 
 Sure, my Canon camera is better. But zoom, macro and Night Sight abilities mean that Google's phone stretches far beyond snapshots.
 
@@ -292,7 +256,6 @@ Sure, my Canon camera is better. But zoom, macro and Night Sight abilities mean 
  - [https://www.cnet.com/how-to/pay-close-attention-to-your-ceiling-fan-it-might-just-save-you-money/#ftag=CADf328eec](https://www.cnet.com/how-to/pay-close-attention-to-your-ceiling-fan-it-might-just-save-you-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:06:25+00:00
- - tags: None
 
 Lowering your utility bills may be as simple as changing this ceiling fan setting.
 
@@ -300,7 +263,6 @@ Lowering your utility bills may be as simple as changing this ceiling fan settin
  - [https://www.cnet.com/how-to/cut-back-your-shower-time-this-many-minutes-to-save-money-on-water-bills/#ftag=CADf328eec](https://www.cnet.com/how-to/cut-back-your-shower-time-this-many-minutes-to-save-money-on-water-bills/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 15:00:02+00:00
- - tags: None
 
 Yes, there's actually an ideal amount of time to spend in the shower.
 
@@ -308,7 +270,6 @@ Yes, there's actually an ideal amount of time to spend in the shower.
  - [https://www.cnet.com/deals/dont-miss-your-chance-to-save-up-to-30-on-a-full-size-nintendo-switch/#ftag=CADf328eec](https://www.cnet.com/deals/dont-miss-your-chance-to-save-up-to-30-on-a-full-size-nintendo-switch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 14:56:34+00:00
- - tags: None
 
 Woot has a selection of the original Switch and the upgraded Switch OLED on sale for today only. But hurry, they may sell out before the end of the day.
 
@@ -316,7 +277,6 @@ Woot has a selection of the original Switch and the upgraded Switch OLED on sale
  - [https://www.cnet.com/deals/shop-big-savings-on-dewalt-batteries-and-accessories-right-now-at-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/shop-big-savings-on-dewalt-batteries-and-accessories-right-now-at-amazon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 14:55:37+00:00
- - tags: None
 
 Amazon is offering over $100 off a selection of 20-volt batteries, work lights, drill bits and other helpful DeWalt accessories.
 
@@ -324,7 +284,6 @@ Amazon is offering over $100 off a selection of 20-volt batteries, work lights, 
  - [https://www.cnet.com/tech/mobile/optimize-your-iphones-performance-with-these-22-setting-changes/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/optimize-your-iphones-performance-with-these-22-setting-changes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 14:28:50+00:00
- - tags: None
 
 These iOS tweaks can improve your privacy, save battery life and much more.
 
@@ -332,7 +291,6 @@ These iOS tweaks can improve your privacy, save battery life and much more.
  - [https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 14:15:03+00:00
- - tags: None
 
 Reigning champions Manchester City make the short trip to Merseyside in this Sunday's Premier League clash. Here's how to watch the game live.
 
@@ -340,7 +298,6 @@ Reigning champions Manchester City make the short trip to Merseyside in this Sun
  - [https://www.cnet.com/health/mental/7-nutrient-rich-foods-thatll-make-you-happier-according-to-science/#ftag=CADf328eec](https://www.cnet.com/health/mental/7-nutrient-rich-foods-thatll-make-you-happier-according-to-science/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 14:03:26+00:00
- - tags: None
 
 Instead of the sugary snacks, add these foods to your diet to boost serotonin.
 
@@ -348,7 +305,6 @@ Instead of the sugary snacks, add these foods to your diet to boost serotonin.
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-episode-9-hits-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-episode-9-hits-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 14:00:00+00:00
- - tags: None
 
 The last episode of House of the Dragon saw King Viserys' shining moment. It also may have been his last. Find out what happens next on Sunday.
 
@@ -356,7 +312,6 @@ The last episode of House of the Dragon saw King Viserys' shining moment. It als
  - [https://www.cnet.com/culture/entertainment/rick-and-morty-hiatus-when-is-season-6-episode-7-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/rick-and-morty-hiatus-when-is-season-6-episode-7-coming/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 13:30:00+00:00
- - tags: None
 
 The Adult Swim show is taking a break. Here's when you can resume watching season 6.
 
@@ -364,7 +319,6 @@ The Adult Swim show is taking a break. Here's when you can resume watching seaso
  - [https://www.cnet.com/health/personal-care/curology-is-the-only-skin-care-product-youll-ever-need/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/curology-is-the-only-skin-care-product-youll-ever-need/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 13:00:14+00:00
- - tags: None
 
 Give the gift of clear and radiant skin. Curology keeps skin care quick, easy and made just for you.
 
@@ -372,7 +326,6 @@ Give the gift of clear and radiant skin. Curology keeps skin care quick, easy an
  - [https://www.cnet.com/how-to/dont-know-who-needs-to-hear-this-but-clean-out-your-keurig-already/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-know-who-needs-to-hear-this-but-clean-out-your-keurig-already/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 13:00:10+00:00
- - tags: None
 
 Your Keurig is probably filled with gunk, which prevents it from making the best coffee. Here's how to easily clean it out.
 
@@ -380,7 +333,6 @@ Your Keurig is probably filled with gunk, which prevents it from making the best
  - [https://www.cnet.com/personal-finance/lost-your-social-security-card-heres-how-to-request-a-new-one/#ftag=CADf328eec](https://www.cnet.com/personal-finance/lost-your-social-security-card-heres-how-to-request-a-new-one/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 13:00:07+00:00
- - tags: None
 
 Your Social Security card is an important piece of identification. You'll need to replace it if you've lost it or recently changed your name.
 
@@ -388,7 +340,6 @@ Your Social Security card is an important piece of identification. You'll need t
  - [https://www.cnet.com/personal-finance/investing/youve-got-2-weeks-to-lock-in-the-9-62-rate-on-i-bonds-how-to-buy-them/#ftag=CADf328eec](https://www.cnet.com/personal-finance/investing/youve-got-2-weeks-to-lock-in-the-9-62-rate-on-i-bonds-how-to-buy-them/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 12:09:02+00:00
- - tags: None
 
 The record rate for I bonds expires at the end of October.
 
@@ -396,7 +347,6 @@ The record rate for I bonds expires at the end of October.
  - [https://www.cnet.com/videos/we-tested-the-batteries-on-the-new-iphone-14-models-here-are-our-results/#ftag=CADf328eec](https://www.cnet.com/videos/we-tested-the-batteries-on-the-new-iphone-14-models-here-are-our-results/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 12:00:10+00:00
- - tags: None
 
 Here's what you can expect in terms of battery life from all the new iPhone 14 models.
 
@@ -404,7 +354,6 @@ Here's what you can expect in terms of battery life from all the new iPhone 14 m
  - [https://www.cnet.com/roadshow/news/inside-wisk-gen-6-millions-of-passengers-for-3-dollars-a-mile/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/inside-wisk-gen-6-millions-of-passengers-for-3-dollars-a-mile/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 12:00:06+00:00
- - tags: None
 
 Wisk's Gen 6 aircraft is a four-person, autonomous air taxi it calls revolutionary. But to take to the skies, Wisk needs to get a lot of people on board.
 
@@ -412,7 +361,6 @@ Wisk's Gen 6 aircraft is a four-person, autonomous air taxi it calls revolutiona
  - [https://www.cnet.com/tech/mobile/fitbit-tips-to-get-more-out-of-your-fitness-device/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/fitbit-tips-to-get-more-out-of-your-fitness-device/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 12:00:02+00:00
- - tags: None
 
 Whether you want to customize your stride length or tweak which stats you see during a workout, these tips should help.
 
@@ -420,7 +368,6 @@ Whether you want to customize your stride length or tweak which stats you see du
  - [https://www.cnet.com/videos/this-autonomous-air-taxi-could-be-your-next-uber/#ftag=CADf328eec](https://www.cnet.com/videos/this-autonomous-air-taxi-could-be-your-next-uber/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 12:00:01+00:00
- - tags: None
 
 Autonomous aviation company Wisk wants its Gen 6 urban air mobility craft to change the future of transport, flying 300 million passengers in just over a decade, all at a cost of $3 per mile.
 
@@ -428,7 +375,6 @@ Autonomous aviation company Wisk wants its Gen 6 urban air mobility craft to cha
  - [https://www.cnet.com/personal-finance/investing/the-stock-market-is-a-hot-mess-5-experts-predict-whats-next/#ftag=CADf328eec](https://www.cnet.com/personal-finance/investing/the-stock-market-is-a-hot-mess-5-experts-predict-whats-next/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 11:45:02+00:00
- - tags: None
 
 'Further declines', or 'reasonable returns?' Experts have varied predictions for the months ahead.
 
@@ -436,7 +382,6 @@ Autonomous aviation company Wisk wants its Gen 6 urban air mobility craft to cha
  - [https://www.cnet.com/personal-finance/loans/how-to-apply-for-student-loan-debt-relief-now-with-beta-version-of-form/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/how-to-apply-for-student-loan-debt-relief-now-with-beta-version-of-form/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 11:11:02+00:00
- - tags: None
 
 The Education Department just launched a test version of the form for student loan debt forgiveness.
 
@@ -444,7 +389,6 @@ The Education Department just launched a test version of the form for student lo
  - [https://www.cnet.com/tech/services-and-software/best-video-chat-apps-zoom-google-meet-facetime-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-video-chat-apps-zoom-google-meet-facetime-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 11:00:07+00:00
- - tags: None
 
 Video chat is here to stay. Here's how to find the right service for you.
 
@@ -452,7 +396,6 @@ Video chat is here to stay. Here's how to find the right service for you.
  - [https://www.cnet.com/health/parenting/how-to-sterilize-baby-bottles/#ftag=CADf328eec](https://www.cnet.com/health/parenting/how-to-sterilize-baby-bottles/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 11:00:00+00:00
- - tags: None
 
 Sanitizing your newborn's bottle is essential, but not necessary after they're a few months old. Here's what you need to know.
 
@@ -460,7 +403,6 @@ Sanitizing your newborn's bottle is essential, but not necessary after they're a
  - [https://www.cnet.com/personal-finance/loans/8m-student-loan-borrowers-get-debt-relief-automatically-how-it-works/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/8m-student-loan-borrowers-get-debt-relief-automatically-how-it-works/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 10:55:02+00:00
- - tags: None
 
 Learn who needs to apply for student loan debt relief and who doesn't.
 
@@ -468,7 +410,6 @@ Learn who needs to apply for student loan debt relief and who doesn't.
  - [https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 10:00:03+00:00
- - tags: None
 
 These are our favorite clickers for controlling a cabinet full of gear.
 
@@ -476,7 +417,6 @@ These are our favorite clickers for controlling a cabinet full of gear.
  - [https://www.cnet.com/science/what-happens-in-our-brains-on-a-frightful-halloween-night/#ftag=CADf328eec](https://www.cnet.com/science/what-happens-in-our-brains-on-a-frightful-halloween-night/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 09:00:09+00:00
- - tags: None
 
 A trauma specialist breaks down the science of fear -- the fascinating reason we love walking straight into terror.
 
@@ -484,7 +424,6 @@ A trauma specialist breaks down the science of fear -- the fascinating reason we
  - [https://www.cnet.com/tech/mobile/iphone-14-plus-pro-and-pro-max-comparing-price-size-battery-and-more-specs/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-plus-pro-and-pro-max-comparing-price-size-battery-and-more-specs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 08:00:03+00:00
- - tags: None
 
 Apple's entire iPhone 14 line is now available. We compare each model, spec by spec.
 
@@ -492,7 +431,6 @@ Apple's entire iPhone 14 line is now available. We compare each model, spec by s
  - [https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 01:05:00+00:00
- - tags: None
 
 Negroni sbagliato with prosecco. The way the House of the Dragon star says it is making the internet feel things.
 
@@ -500,7 +438,6 @@ Negroni sbagliato with prosecco. The way the House of the Dragon star says it is
  - [https://www.cnet.com/culture/entertainment/andor-episode-6-explained-star-wars-heist-ends-with-a-delightfully-dark-twist/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-6-explained-star-wars-heist-ends-with-a-delightfully-dark-twist/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 00:00:12+00:00
- - tags: None
 
 Recap: The Disney Plus show leans hard in to moral ambiguity as the rebels make their move on the Empire's garrison, and it's amazing.
 
@@ -508,6 +445,5 @@ Recap: The Disney Plus show leans hard in to moral ambiguity as the rebels make 
  - [https://www.cnet.com/tech/services-and-software/10-best-netflix-tricks-secrets-improve-streaming-experience/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/10-best-netflix-tricks-secrets-improve-streaming-experience/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-16 00:00:03+00:00
- - tags: None
 
 With these tips, you can polish your skills as you watch this fall's Netflix and Chills lineup.

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple hits the brakes on plans to use Chinese memory chips
  - [https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all](https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-17 21:15:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676637/why-sustainable-tech-is-becoming-a-top-initiative-for-execs.html#tk.rss_all](https://www.computerworld.com/article/3676637/why-sustainable-tech-is-becoming-a-top-initiative-for-execs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-17 20:59:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3676830/get-ready-for-the-next-big-thing-in-macs-and-the-ipad-pro.html#tk.rss_all](https://www.computerworld.com/article/3676830/get-ready-for-the-next-big-thing-in-macs-and-the-ipad-pro.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-17 15:12:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3676854/microsoft-ignite-in-the-rear-view-mirror-what-we-learned.html#tk.rss_all](https://www.computerworld.com/article/3676854/microsoft-ignite-in-the-rear-view-mirror-what-we-learned.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-17 11:51:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3676594/how-to-choose-the-best-android-phones-for-business.html#tk.rss_all](https://www.computerworld.com/article/3676594/how-to-choose-the-best-android-phones-for-business.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-17 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

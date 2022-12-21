@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Micron to build largest chip factory in US history
  - [https://www.computerworld.com/article/3675354/micron-to-build-largest-chip-factory-in-us-history.html#tk.rss_all](https://www.computerworld.com/article/3675354/micron-to-build-largest-chip-factory-in-us-history.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-04 21:24:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3675352/mosyle-aims-to-improve-enterprise-mac-deployment-for-new-users.html#tk.rss_all](https://www.computerworld.com/article/3675352/mosyle-aims-to-improve-enterprise-mac-deployment-for-new-users.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-04 16:13:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3214452/android-file-transfer-how-to-move-data-between-your-phone-and-computer.html#tk.rss_all](https://www.computerworld.com/article/3214452/android-file-transfer-how-to-move-data-between-your-phone-and-computer.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-04 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

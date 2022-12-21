@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Six children among latest Ebola cases in Uganda’s capital as outbreak grows
  - [https://arstechnica.com/?p=1893454](https://arstechnica.com/?p=1893454)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 22:14:16+00:00
- - tags: None
 
 Officials say they will test three experimental vaccines in the coming weeks.
 
@@ -12,7 +11,6 @@ Officials say they will test three experimental vaccines in the coming weeks.
  - [https://arstechnica.com/?p=1893364](https://arstechnica.com/?p=1893364)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 21:26:55+00:00
- - tags: None
 
 2013-era server offers rare peek under the hood of Netflix's Open Connect network.
 
@@ -20,7 +18,6 @@ Officials say they will test three experimental vaccines in the coming weeks.
  - [https://arstechnica.com/?p=1893417](https://arstechnica.com/?p=1893417)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 21:16:43+00:00
- - tags: None
 
 The largest impacts in 16 years kicks up water ice, seismic waves.
 
@@ -28,7 +25,6 @@ The largest impacts in 16 years kicks up water ice, seismic waves.
  - [https://arstechnica.com/?p=1893375](https://arstechnica.com/?p=1893375)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 20:45:24+00:00
- - tags: None
 
 Despite speculation, we don't believe this means the iPad and Mac will merge.
 
@@ -36,7 +32,6 @@ Despite speculation, we don't believe this means the iPad and Mac will merge.
  - [https://arstechnica.com/?p=1893360](https://arstechnica.com/?p=1893360)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 19:05:52+00:00
- - tags: None
 
 Mourning mom can't beat Section 230 by "creatively labeling" claims, judge says.
 
@@ -44,7 +39,6 @@ Mourning mom can't beat Section 230 by "creatively labeling" claims, judge says.
  - [https://arstechnica.com/?p=1893305](https://arstechnica.com/?p=1893305)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 17:38:52+00:00
- - tags: None
 
 You could help smooth out a long-needed overhaul of Linux's backlight systems.
 
@@ -52,7 +46,6 @@ You could help smooth out a long-needed overhaul of Linux's backlight systems.
  - [https://arstechnica.com/?p=1893236](https://arstechnica.com/?p=1893236)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 17:11:06+00:00
- - tags: None
 
 A presidential pardon clears the way for Samsung's criminal prince to be a king.
 
@@ -60,7 +53,6 @@ A presidential pardon clears the way for Samsung's criminal prince to be a king.
  - [https://arstechnica.com/?p=1893304](https://arstechnica.com/?p=1893304)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 16:40:16+00:00
- - tags: None
 
 Ford is reallocating those resources to ADAS, VW's CARIAD will work with Bosch.
 
@@ -68,7 +60,6 @@ Ford is reallocating those resources to ADAS, VW's CARIAD will work with Bosch.
  - [https://arstechnica.com/?p=1893235](https://arstechnica.com/?p=1893235)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 16:18:29+00:00
- - tags: None
 
 New document confirms what security researches have observed for a few years.
 
@@ -76,7 +67,6 @@ New document confirms what security researches have observed for a few years.
  - [https://arstechnica.com/?p=1893219](https://arstechnica.com/?p=1893219)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 15:56:57+00:00
- - tags: None
 
 "Western actions needlessly put at risk the sustainability of peaceful space activities."
 
@@ -84,7 +74,6 @@ New document confirms what security researches have observed for a few years.
  - [https://arstechnica.com/?p=1893233](https://arstechnica.com/?p=1893233)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 15:31:11+00:00
- - tags: None
 
 Lego to pull educational kit Dec. 2022, redirecting efforts into "different areas of the business."
 
@@ -92,7 +81,6 @@ Lego to pull educational kit Dec. 2022, redirecting efforts into "different area
  - [https://arstechnica.com/?p=1893247](https://arstechnica.com/?p=1893247)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 15:18:01+00:00
- - tags: None
 
 Musk carried a sink into Twitter HQ, told advertisers it won't be a "hellscape."
 
@@ -100,7 +88,6 @@ Musk carried a sink into Twitter HQ, told advertisers it won't be a "hellscape."
  - [https://arstechnica.com/?p=1892938](https://arstechnica.com/?p=1892938)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 12:37:43+00:00
- - tags: None
 
 Dealmaster also has discounts on Google smart home, Microsoft Surfaces, and some of our favorite wearables.
 
@@ -108,6 +95,5 @@ Dealmaster also has discounts on Google smart home, Microsoft Surfaces, and some
  - [https://arstechnica.com/?p=1893205](https://arstechnica.com/?p=1893205)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-27 12:10:45+00:00
- - tags: None
 
 Facebook parent’s earnings add to gloom surrounding Big Tech.

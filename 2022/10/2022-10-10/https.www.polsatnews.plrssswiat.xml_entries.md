@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Dębski o rosyjskich generałach: Mówi się, że to rzeźnicy, a wymienia się ich po trzech miesiącach
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/debski-o-rosyjskich-generalach-mowi-sie-ze-to-rzeznicy-a-wymienia-sie-ich-po-trzech-miesiacach/](https://www.polsatnews.pl/wiadomosc/2022-10-10/debski-o-rosyjskich-generalach-mowi-sie-ze-to-rzeznicy-a-wymienia-sie-ich-po-trzech-miesiacach/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 20:05:00+00:00
- - tags: None
 
 - Wojna na Ukrainie nie idzie po myśli Kremla - powiedział w Gościu Wydarzeń Sławomir Dębski, dyrektor Polskiego Instytutu Spraw Międzynarodowych, dodając że szybkie dymisje generałów, którzy odpowiadają za armię rosyjską o tym świadczą. - Przedstawia się ich jako rzeźników Syrii, a potem, co trzy miesiące, się wymienia - zauważył.
 
@@ -12,7 +11,6 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-naczelnik-wydzialu-ukrainskiej-cyberpolicji-zginal-w-ataku-rakietowym-na-kijow/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-naczelnik-wydzialu-ukrainskiej-cyberpolicji-zginal-w-ataku-rakietowym-na-kijow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 18:21:00+00:00
- - tags: None
 
 W poniedziałkowym ostrzale Kijowa zginął pułkownik Jurij Zaskoka. Był on naczelnikiem wydziału cyberpolicji - przekazała ukraińska policja. Pracy w służbach poświecił 24 lata życia.
 
@@ -20,7 +18,6 @@ W poniedziałkowym ostrzale Kijowa zginął pułkownik Jurij Zaskoka. Był on na
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/usa-joe-biden-dzisiejsze-ataki-pokazuja-brutalnosc-tej-nielegalnej-wojny/](https://www.polsatnews.pl/wiadomosc/2022-10-10/usa-joe-biden-dzisiejsze-ataki-pokazuja-brutalnosc-tej-nielegalnej-wojny/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 16:54:00+00:00
- - tags: None
 
 Prezydent USA Joe Biden potępił szeroko zakrojone rosyjskie ataki rakietowe na Ukrainę. Stwierdził, że były one wymierzone w ludność cywilną i nie atakowały celów wojskowych. - Nadal będziemy zapewniać wsparcie niezbędne dla sił ukraińskich, aby bronić wolności - przekazał.
 
@@ -28,7 +25,6 @@ Prezydent USA Joe Biden potępił szeroko zakrojone rosyjskie ataki rakietowe na
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/gen-boguslaw-samol-jezeli-lukaszenka-dalej-bedzie-sie-opieral-jego-dni-sa-policzone/](https://www.polsatnews.pl/wiadomosc/2022-10-10/gen-boguslaw-samol-jezeli-lukaszenka-dalej-bedzie-sie-opieral-jego-dni-sa-policzone/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 16:18:00+00:00
- - tags: None
 
 - Łukaszenka musi coś zrobić, jeśli chodzi o szersze wsparcie Rosji. Sądzę, że jeżeli dalej będzie się opierał, jego dni są policzone - powiedział na antenie Polsat News gen. Bogusław Samol, dyrektor Instytutu Strategii Wojskowej. Zwrócił uwagę, że białoruski dyktator lawiruje między pokojem a wojną oraz obawia się reakcji społeczeństwa
 
@@ -36,7 +32,6 @@ Prezydent USA Joe Biden potępił szeroko zakrojone rosyjskie ataki rakietowe na
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-alla-z-iziumu-byla-torturowana-i-gwalcona-rosjanie-wiezili-ja-10-dni/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-alla-z-iziumu-byla-torturowana-i-gwalcona-rosjanie-wiezili-ja-10-dni/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 15:30:00+00:00
- - tags: None
 
 Wstrząsająca relacja Ukrainki więzionej w szopie, wielokrotnie gwałconej i torturowanej przez Rosjan. - Sześciu mężczyzn rozebrało mnie siłą, położyło na stole i zaczęło dotykać - opowiadała 52-letnia Ałła z Iziumu. Jej koszmar trwał 10 dni. Jak mówi, była zdecydowana popełnić samobójstwo.
 
@@ -44,7 +39,6 @@ Wstrząsająca relacja Ukrainki więzionej w szopie, wielokrotnie gwałconej i t
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/most-krymski-na-przeprawe-promem-czeka-ponad-1300-ciezarowek/](https://www.polsatnews.pl/wiadomosc/2022-10-10/most-krymski-na-przeprawe-promem-czeka-ponad-1300-ciezarowek/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 15:24:00+00:00
- - tags: None
 
 - Ponad 650 ciężarówek czeka na Krymie na przeprawę przez Cieśninę Kerczeńską po sytuacji awaryjnej na moście - poinformował wierny Kremlowi szef lokalnej administracji Światosław Brusakow. Po drugiej stronie cieśniny w regionie Kubańska w korku stać ma z kolei około 700 pojazdów - przekazała rosyjska agencja Interfax.
 
@@ -52,7 +46,6 @@ Wstrząsająca relacja Ukrainki więzionej w szopie, wielokrotnie gwałconej i t
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/putin-mowil-ze-ataki-rakietowe-to-odwet-ukrainski-wywiad-zaprzecza-i-pokazuje-dowody/](https://www.polsatnews.pl/wiadomosc/2022-10-10/putin-mowil-ze-ataki-rakietowe-to-odwet-ukrainski-wywiad-zaprzecza-i-pokazuje-dowody/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 13:54:00+00:00
- - tags: None
 
 Wbrew temu co sugerował w poniedziałek Władimir Putin, rosyjski ostrzał rakietowy nie jest odwetem okupantów za ostatnie sukcesy Ukraińców czy zniszczenie Mostu Krymskiego. Jak informuje ukraiński wywiad wojskowy, Kreml miał je planować już na początku października.
 
@@ -60,7 +53,6 @@ Wbrew temu co sugerował w poniedziałek Władimir Putin, rosyjski ostrzał raki
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-wolodymyr-zelenski-rozmawial-z-andrzejem-duda/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-wolodymyr-zelenski-rozmawial-z-andrzejem-duda/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 11:58:00+00:00
- - tags: None
 
 W dniu zmasowanych ataków na ukraińskie miasta, które rosyjskie wojska przeprowadziły w odwecie za zniszczenie Mostu Krymskiego, Wołodymyr Zełenski nadzwyczajnym trybie rozmawiał z polskim prezydentem Andrzejem Dudą.
 
@@ -68,7 +60,6 @@ W dniu zmasowanych ataków na ukraińskie miasta, które rosyjskie wojska przepr
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/lukaszenka-o-broni-jadrowej-polska-drzy/](https://www.polsatnews.pl/wiadomosc/2022-10-10/lukaszenka-o-broni-jadrowej-polska-drzy/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 11:44:00+00:00
- - tags: None
 
 - Polska zwyczajnie drży i prosi Stany Zjednoczone o rozmieszczenie na jej terytorium broni jądrowej - stwierdził Aleksandr Łukaszenka podczas spotkania ze swoimi generałami. Wcześniej mówił o utworzeniu rosyjsko-białoruskiej grupy wojsk. W poniedziałek rano Rosja m.in. z terenu Białorusi przeprowadziła barbarzyński atak rakietowy na Ukrainę, niszcząc szereg obiektów cywilnych.
 
@@ -76,7 +67,6 @@ W dniu zmasowanych ataków na ukraińskie miasta, które rosyjskie wojska przepr
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/atak-na-ukraine-miedwiediew-to-pierwszy-odcinek-beda-kolejne/](https://www.polsatnews.pl/wiadomosc/2022-10-10/atak-na-ukraine-miedwiediew-to-pierwszy-odcinek-beda-kolejne/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 11:41:00+00:00
- - tags: None
 
 Rosyjskie Ministerstwo Obrony stwierdziło, że cel zmasowanego uderzenia na Ukrainę został osiągnięty - poinformowała rosyjska agencja Interfax. Odtworzono pierwszy odcinek. Będą kolejne - napisał na Telegramie były prezydent Rosji, wiceszef Rady Bezpieczeństwa Federacji Rosyjskiej Dmitrij Miedwiediew.
 
@@ -84,7 +74,6 @@ Rosyjskie Ministerstwo Obrony stwierdziło, że cel zmasowanego uderzenia na Ukr
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/atak-rakietowy-na-ukraine-najwazniejsze-informacje/](https://www.polsatnews.pl/wiadomosc/2022-10-10/atak-rakietowy-na-ukraine-najwazniejsze-informacje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 10:45:00+00:00
- - tags: None
 
 Dziewięć ofiar śmiertelnych i dziesiątki rannych - to tragiczny bilans poniedziałkowego ostrzału Kijowa. Rosjanie zaatakowali praktycznie całe terytorium Ukrainy. Zniszczono obiekty infrastruktury krytycznej. Jednocześnie Alaksandr Łukaszenka poinformował o formowaniu wspólnej grupy wojsk Rosji i Białorusi. Przedstawiamy najważniejsze informacje.
 
@@ -92,7 +81,6 @@ Dziewięć ofiar śmiertelnych i dziesiątki rannych - to tragiczny bilans ponie
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-zbombardowano-budynek-niemieckiego-konsulatu-w-kijowie/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-zbombardowano-budynek-niemieckiego-konsulatu-w-kijowie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 10:42:00+00:00
- - tags: None
 
 Jedna z rosyjskich rakiet, którymi w poniedziałek ostrzelano Kijów, trafiła w budynek, w którym mieście się biuro wizowe niemieckiego konsulatu. Informację podaną przez Bild potwierdził rzecznik Ministerstwa Spraw Zagranicznych.
 
@@ -100,7 +88,6 @@ Jedna z rosyjskich rakiet, którymi w poniedziałek ostrzelano Kijów, trafiła 
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-moldawia-domaga-sie-wyjasnien-od-rosji/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wojna-w-ukrainie-moldawia-domaga-sie-wyjasnien-od-rosji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 10:40:00+00:00
- - tags: None
 
 Mołdawia mówi o skrajnie ciężkim incydencie z rosyjskimi rakietami. Wystrzelone z rosyjskich statków na Morzu Czarnym pociski przeleciały nad terytorium kraju. Poleciłem wezwać ambasadora Rosji w celu złożenia wyjaśnień - napisał na Twitterze wicepremier oraz minister spraw zagranicznych i integracji europejskiej Mołdawii.
 
@@ -108,7 +95,6 @@ Mołdawia mówi o skrajnie ciężkim incydencie z rosyjskimi rakietami. Wystrzel
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/ataki-na-ukraine-z-terytorium-bialorusi-komisja-europejska-reaguje/](https://www.polsatnews.pl/wiadomosc/2022-10-10/ataki-na-ukraine-z-terytorium-bialorusi-komisja-europejska-reaguje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 10:28:00+00:00
- - tags: None
 
 Wzywamy reżim w Mińsku do natychmiastowego wstrzymania wykorzystywania terytorium Białorusi jako platformy do ataków powietrznych na Ukrainę, w tym ataków rakietowych i z wykorzystaniem dronów - oświadczył rzecznik Komisji Europejskiej Peter Stano.
 
@@ -116,7 +102,6 @@ Wzywamy reżim w Mińsku do natychmiastowego wstrzymania wykorzystywania terytor
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/przyznano-nagrode-nobla-w-dziedzinie-ekonomii/](https://www.polsatnews.pl/wiadomosc/2022-10-10/przyznano-nagrode-nobla-w-dziedzinie-ekonomii/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 09:45:00+00:00
- - tags: None
 
 W poniedziałek przyznano Nagrodę Nobla w dziedzinie nauk ekonomicznych. Za badania nad bankowością i kryzysami finansowymi wyróżnieni zostali Amerykanie - Ben S. Bernanke, Douglas W. Diamond i Philip H. Dybvig.
 
@@ -124,7 +109,6 @@ W poniedziałek przyznano Nagrodę Nobla w dziedzinie nauk ekonomicznych. Za bad
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/lukaszenka-oskarzyl-ukraine-o-plany-ataku-rosja-i-bialorus-gromadza-wojska/](https://www.polsatnews.pl/wiadomosc/2022-10-10/lukaszenka-oskarzyl-ukraine-o-plany-ataku-rosja-i-bialorus-gromadza-wojska/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 09:43:00+00:00
- - tags: None
 
 Alaksandr Łukaszenka poinformował, że Moskwa i Mińsk zgodziły się na formowanie i rozmieszczenie wspólnej grupy wojsk - poinformowała białoruska agencja BelTA. Łukaszenka oskarżył Ukrainę o plany ataku na Białoruś.
 
@@ -132,7 +116,6 @@ Alaksandr Łukaszenka poinformował, że Moskwa i Mińsk zgodziły się na formo
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/niemcy-najwyzszy-urzednik-ds-cyberbezpieczenstwa-oskarzony-o-kontakty-z-rosja-ma-stracic-prace/](https://www.polsatnews.pl/wiadomosc/2022-10-10/niemcy-najwyzszy-urzednik-ds-cyberbezpieczenstwa-oskarzony-o-kontakty-z-rosja-ma-stracic-prace/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 09:32:00+00:00
- - tags: None
 
 Szef niemieckiego Federalnego Urzędu ds. Bezpieczeństwa Informacji Arne Schoenbohm ma stracić pracę po tym, gdy poinformowano, że mógł mieć kontakty z rosyjskim wywiadem - poinformowała AFP.
 
@@ -140,7 +123,6 @@ Szef niemieckiego Federalnego Urzędu ds. Bezpieczeństwa Informacji Arne Schoen
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wlochy-wybuchl-wulkan-stromboli-niepokojace-doniesienia/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wlochy-wybuchl-wulkan-stromboli-niepokojace-doniesienia/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 08:50:00+00:00
- - tags: None
 
 Nagły wzrost aktywności wulkanu Stromboli na włoskiej wyspie o tej samej nazwie niedaleko Sycylii. Z wierzchołka unosi się gęsty dym, doszło także do wypływu lawy i popiołów wulkanicznych, które po zboczu wpadły do morza. Departament Ochrony Ludności podniósł stan alarmu na wyspie z żółtego do pomarańczowego. Góra jest cały czas monitorowana przez wulkanologów.
 
@@ -148,7 +130,6 @@ Nagły wzrost aktywności wulkanu Stromboli na włoskiej wyspie o tej samej nazw
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/zelenski-do-ukraincow-zostancie-w-domach-rosjanie-chca-nas-zetrzec-z-powierzchni-ziemi/](https://www.polsatnews.pl/wiadomosc/2022-10-10/zelenski-do-ukraincow-zostancie-w-domach-rosjanie-chca-nas-zetrzec-z-powierzchni-ziemi/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 08:02:00+00:00
- - tags: None
 
 Trzymajmy się i bądźmy silni! - zaapelował prezydent Ukrainy do narodu. Alarmy nie ustają w całej Ukrainie. Wszędzie uderzają pociski. Niestety są zabici i ranni - napisał i zalecił rodakom, by pozostali w schronach dbając o bezpieczeństwo swych bliskich. Rosjanie próbują nas unicestwić i całkowicie zetrzeć z powierzchni ziemi - dodał Wołodymyr Zełenski. Podobny apel zamieścił mer Kijowa.
 
@@ -156,7 +137,6 @@ Trzymajmy się i bądźmy silni! - zaapelował prezydent Ukrainy do narodu. Alar
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/ostrzal-kijowa-most-kliczki-zostal-zniszczony/](https://www.polsatnews.pl/wiadomosc/2022-10-10/ostrzal-kijowa-most-kliczki-zostal-zniszczony/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 07:58:00+00:00
- - tags: None
 
 Nagranie opublikowane w mediach społecznościowych pokazuje, że jednym z celów Rosjan w Kijowie była wybudowana w 2019 roku szklana przeprawa pieszo-rowerowa znana jako most Kliczki.
 
@@ -164,7 +144,6 @@ Nagranie opublikowane w mediach społecznościowych pokazuje, że jednym z celó
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/kolejny-rakiety-leca-w-strone-ukrainy/](https://www.polsatnews.pl/wiadomosc/2022-10-10/kolejny-rakiety-leca-w-strone-ukrainy/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 07:54:00+00:00
- - tags: None
 
 Kolejne rakiety lecą w stronę Ukrainy. To ponad 40 pocisków. Taką informację podał na antenie Polsat News ukraiński deputowany Mykoła Kniażycki, powołując się na mera Krzywego Rogu.
 
@@ -172,7 +151,6 @@ Kolejne rakiety lecą w stronę Ukrainy. To ponad 40 pocisków. Taką informacj�
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/dramatyczne-nagranie-z-kijowa-sila-wybuchu-odrzucila-dziewczyne/](https://www.polsatnews.pl/wiadomosc/2022-10-10/dramatyczne-nagranie-z-kijowa-sila-wybuchu-odrzucila-dziewczyne/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 06:44:00+00:00
- - tags: None
 
 W poniedziałek rano Rosjanie, po raz kolejny, zaatakowali szereg Ukraińskich miast. Pociski spadły między innymi na Kijów, Lwów i Tarnopol. Zaatakowano obiekty cywilne. Według wstępnych informacji są ofiary.
 
@@ -180,7 +158,6 @@ W poniedziałek rano Rosjanie, po raz kolejny, zaatakowali szereg Ukraińskich m
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/lwow-kolejne/](https://www.polsatnews.pl/wiadomosc/2022-10-10/lwow-kolejne/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 06:27:00+00:00
- - tags: None
 
 We Lwowie doszło do co najmniej kilku eksplozji - informuje agencja Reutera. Wybuchy można było usłyszeć także w takich miastach jak Tarnopol, Żytomierz, Chmielnicki i Dnipro.
 
@@ -188,7 +165,6 @@ We Lwowie doszło do co najmniej kilku eksplozji - informuje agencja Reutera. Wy
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wybuch-na-moscie-krymskim-miedwiediew-straszy-zniszczeniem-terrorystow/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wybuch-na-moscie-krymskim-miedwiediew-straszy-zniszczeniem-terrorystow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 05:40:00+00:00
- - tags: None
 
 - Odpowiedzią Rosji na atak terrorystyczny zorganizowany na Moście Krymskim może być tylko bezpośrednie zniszczenie terrorystów - powiedział Dmitrij Miedwiediew, wiceszef Rady Bezpieczeństwa Federacji Rosyjskiej. Stwierdził, że za atakiem stoi upadłe państwo ukraińskie.
 
@@ -196,6 +172,5 @@ We Lwowie doszło do co najmniej kilku eksplozji - informuje agencja Reutera. Wy
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/wybuchy-w-kijowie-media-informuja-o-eksplozjach-w-centrum/](https://www.polsatnews.pl/wiadomosc/2022-10-10/wybuchy-w-kijowie-media-informuja-o-eksplozjach-w-centrum/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-10 05:25:00+00:00
- - tags: None
 
 W centrum Kijowa doszło najprawdopodobniej do kilku eksplozji - informują media. Informację potwierdził mer ukraińskiej stolicy Witalij Kliczko. Nad miastem unosi się dym, nie kursuje komunikacja miejska, w tym metro.

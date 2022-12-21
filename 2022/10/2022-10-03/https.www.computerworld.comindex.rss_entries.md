@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple will dominate the enterprise, says Kandji CEO
  - [https://www.computerworld.com/article/3675540/apple-will-dominate-the-enterprise-says-kandji-ceo.html#tk.rss_all](https://www.computerworld.com/article/3675540/apple-will-dominate-the-enterprise-says-kandji-ceo.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-03 17:02:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3675334/windows-11-22h2-is-out-so-why-isnt-your-pc-getting-it.html#tk.rss_all](https://www.computerworld.com/article/3675334/windows-11-22h2-is-out-so-why-isnt-your-pc-getting-it.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-03 16:14:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3262104/microsoft-teams-cheat-sheet.html#tk.rss_all](https://www.computerworld.com/article/3262104/microsoft-teams-cheat-sheet.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-03 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

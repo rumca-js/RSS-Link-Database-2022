@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Zelensky Warns Russia Plans to Blow Up a Major Dam in a ‘False Flag’ Attack
  - [https://www.nytimes.com/2022/10/20/world/europe/zelensky-putin-russia-ukraine-dam.html](https://www.nytimes.com/2022/10/20/world/europe/zelensky-putin-russia-ukraine-dam.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 23:58:08+00:00
- - tags: None
 
 The Ukrainian president called for an international observation mission at the dam’s hydroelectric plant to prevent a potential catastrophe.
 
@@ -12,7 +11,6 @@ The Ukrainian president called for an international observation mission at the d
  - [https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html](https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 23:11:23+00:00
- - tags: None
 
 Russia may be preparing to retreat from the southern city of Kherson, Western analysts say, but Ukraine’s president warned of possible destruction of a dam upstream.
 
@@ -20,7 +18,6 @@ Russia may be preparing to retreat from the southern city of Kherson, Western an
  - [https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html](https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 22:59:28+00:00
- - tags: None
 
 The beleaguered British prime minister relinquished her office after just 44 days of political and economic tumult, the shortest tenure in British history.
 
@@ -28,7 +25,6 @@ The beleaguered British prime minister relinquished her office after just 44 day
  - [https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html](https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 22:30:54+00:00
- - tags: None
 
 The departing British leader would be the sixth prime minister to receive the reimbursement for her expenses after leaving office.
 
@@ -36,7 +32,6 @@ The departing British leader would be the sixth prime minister to receive the re
  - [https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html](https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 22:06:21+00:00
- - tags: None
 
 John Kirby, a National Security Council official, also warned that Russia may try to buy advanced missiles from Iran.
 
@@ -44,7 +39,6 @@ John Kirby, a National Security Council official, also warned that Russia may tr
  - [https://www.nytimes.com/2022/10/20/world/europe/king-charles-liz-truss-resignation.html](https://www.nytimes.com/2022/10/20/world/europe/king-charles-liz-truss-resignation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 20:59:41+00:00
- - tags: None
 
 King Charles has never sworn in a prime minister, and he will not be crowned until May, making the task of projecting stability more difficult.
 
@@ -52,7 +46,6 @@ King Charles has never sworn in a prime minister, and he will not be crowned unt
  - [https://www.nytimes.com/2022/10/20/briefing/liz-truss-ukraine.html](https://www.nytimes.com/2022/10/20/briefing/liz-truss-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 20:50:32+00:00
- - tags: None
 
 Plus accounts of torture in Ukraine and Taiwan’s ambitious diplomacy.
 
@@ -60,7 +53,6 @@ Plus accounts of torture in Ukraine and Taiwan’s ambitious diplomacy.
  - [https://www.nytimes.com/2022/10/20/us/ukraine-immigration-michigan-ann-arbor-war.html](https://www.nytimes.com/2022/10/20/us/ukraine-immigration-michigan-ann-arbor-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 20:21:25+00:00
- - tags: None
 
 Amber Galkin and her children find themselves navigating complicated connections with their homeland as they embrace a new national identity.
 
@@ -68,7 +60,6 @@ Amber Galkin and her children find themselves navigating complicated connections
  - [https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilians-russia-occupation.html](https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilians-russia-occupation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 19:59:45+00:00
- - tags: None
 
 With Russian soldiers pushed out of parts of the Kharkiv region, Ukrainian investigators have been overwhelmed with accounts of detentions, torture and missing relatives, as well as collaboration and property theft.
 
@@ -76,7 +67,6 @@ With Russian soldiers pushed out of parts of the Kharkiv region, Ukrainian inves
  - [https://www.nytimes.com/2022/10/20/world/europe/liz-truss-memes.html](https://www.nytimes.com/2022/10/20/world/europe/liz-truss-memes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 19:21:30+00:00
- - tags: None
 
 One of Ms. Truss’s defining talents as a politician has been her willingness to embrace a provocative message — and to provide visuals to match.
 
@@ -84,7 +74,6 @@ One of Ms. Truss’s defining talents as a politician has been her willingness t
  - [https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html](https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 17:33:25+00:00
- - tags: None
 
 World leaders buffeted by economic challenges are watching the turmoil in Britain with anything but relish, hoping that Liz Truss’s woes won’t be a harbinger for other countries.
 
@@ -92,7 +81,6 @@ World leaders buffeted by economic challenges are watching the turmoil in Britai
  - [https://www.nytimes.com/2022/10/20/world/europe/anne-sacoolas-guilty-harry-dunn.html](https://www.nytimes.com/2022/10/20/world/europe/anne-sacoolas-guilty-harry-dunn.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 17:01:25+00:00
- - tags: None
 
 Anne Sacoolas pleaded guilty on Thursday to causing the death of Harry Dunn, a 19-year-old British motorcyclist, in 2019, when she was a State Department employee in England.
 
@@ -100,7 +88,6 @@ Anne Sacoolas pleaded guilty on Thursday to causing the death of Harry Dunn, a 1
  - [https://www.nytimes.com/2022/10/20/world/europe/biden-liz-truss-uk.html](https://www.nytimes.com/2022/10/20/world/europe/biden-liz-truss-uk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 16:46:28+00:00
- - tags: None
 
 “She was a great partner on Russia and Ukraine,” President Biden said of the British leader. “And the British are going to solve their problem.”
 
@@ -108,7 +95,6 @@ Anne Sacoolas pleaded guilty on Thursday to causing the death of Harry Dunn, a 1
  - [https://www.nytimes.com/2022/10/20/world/europe/eu-sanctions-iran-russia-drones.html](https://www.nytimes.com/2022/10/20/world/europe/eu-sanctions-iran-russia-drones.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 16:44:33+00:00
- - tags: None
 
 The sanctions will target the company that manufactures Shahed-136 drones, diplomats said, as well as three individuals.
 
@@ -116,7 +102,6 @@ The sanctions will target the company that manufactures Shahed-136 drones, diplo
  - [https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilans-russia-occupation.html](https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilans-russia-occupation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 16:38:59+00:00
- - tags: None
 
 With Russian soldiers pushed out, Ukrainian investigators have been overwhelmed with accounts of detentions, torture and missing relatives, as well as collaboration and property theft.
 
@@ -124,7 +109,6 @@ With Russian soldiers pushed out, Ukrainian investigators have been overwhelmed 
  - [https://www.nytimes.com/2022/10/20/climate/treated-sewage-virginia-aquifer.html](https://www.nytimes.com/2022/10/20/climate/treated-sewage-virginia-aquifer.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 16:37:32+00:00
- - tags: None
 
 A crucial aquifer is running low, so officials are pumping in treated sewage. It’s an increasingly common strategy as heavy demand and climate change strain water supplies.
 
@@ -132,7 +116,6 @@ A crucial aquifer is running low, so officials are pumping in treated sewage. It
  - [https://www.nytimes.com/2022/10/20/world/europe/boris-johnson-uk-prime-minister-return.html](https://www.nytimes.com/2022/10/20/world/europe/boris-johnson-uk-prime-minister-return.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 15:45:45+00:00
- - tags: None
 
 When the former prime minister left in September, he hinted at a potential comeback. He is now being mentioned as a successor to Liz Truss.
 
@@ -140,7 +123,6 @@ When the former prime minister left in September, he hinted at a potential comeb
  - [https://www.nytimes.com/article/uk-politics-liz-truss.html](https://www.nytimes.com/article/uk-politics-liz-truss.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 15:00:47+00:00
- - tags: None
 
 A little over six weeks into her leadership, the British prime minister said she would resign.
 
@@ -148,7 +130,6 @@ A little over six weeks into her leadership, the British prime minister said she
  - [https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html](https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 14:53:34+00:00
- - tags: None
 
 The news of the prime minister’s resignation whipsawed many in Britain, a country already dealing with spiraling inflation and still grappling with the departure of Boris Johnson.
 
@@ -156,7 +137,6 @@ The news of the prime minister’s resignation whipsawed many in Britain, a coun
  - [https://www.nytimes.com/2022/10/20/world/europe/silvio-berlusconi-vladimir-putin-russia-italy.html](https://www.nytimes.com/2022/10/20/world/europe/silvio-berlusconi-vladimir-putin-russia-italy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 14:44:36+00:00
- - tags: None
 
 Silvio Berlusconi, the former Italian leader and linchpin of the incoming right-wing government, blames Ukraine’s president for pushing President Vladimir V. Putin to invade.
 
@@ -164,7 +144,6 @@ Silvio Berlusconi, the former Italian leader and linchpin of the incoming right-
  - [https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resignation-speech.html](https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resignation-speech.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 14:00:28+00:00
- - tags: None
 
 “I cannot deliver the mandate on which I was elected by the Conservative Party,” she said in a televised statement on Thursday.
 
@@ -172,7 +151,6 @@ Silvio Berlusconi, the former Italian leader and linchpin of the incoming right-
  - [https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html](https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 13:38:33+00:00
- - tags: None
 
 The police in Scotland were patrolling the region by foot and urging residents to avoid making non-urgent calls.
 
@@ -180,7 +158,6 @@ The police in Scotland were patrolling the region by foot and urging residents t
  - [https://www.nytimes.com/2022/10/20/world/europe/uk-politics-liz-truss.html](https://www.nytimes.com/2022/10/20/world/europe/uk-politics-liz-truss.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 13:30:26+00:00
- - tags: None
 
 A little over six weeks into her leadership, the British prime minister said she would resign.
 
@@ -188,7 +165,6 @@ A little over six weeks into her leadership, the British prime minister said she
  - [https://www.nytimes.com/2022/10/20/world/europe/replacement-liz-truss.html](https://www.nytimes.com/2022/10/20/world/europe/replacement-liz-truss.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 13:26:34+00:00
- - tags: None
 
 Penny Mordaunt, Rishi Sunak and Ben Wallace, all current or former Conservative cabinet members, are seen as candidates for Britain’s next prime minister.
 
@@ -196,7 +172,6 @@ Penny Mordaunt, Rishi Sunak and Ben Wallace, all current or former Conservative 
  - [https://www.nytimes.com/live/2022/10/20/world/liz-truss-resigns](https://www.nytimes.com/live/2022/10/20/world/liz-truss-resigns)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 13:04:32+00:00
- - tags: None
 
 Her departure, after six weeks in office, came as virtually all of her signature tax cuts were being reversed, a stark repudiation of her leadership.
 
@@ -204,7 +179,6 @@ Her departure, after six weeks in office, came as virtually all of her signature
  - [https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html](https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 12:51:18+00:00
- - tags: None
 
 A little-known group has claimed responsibility for two explosions, yet it remains unclear how the bombs got in, and how much of the carnage was a result of subsequent gunfire.
 
@@ -212,7 +186,6 @@ A little-known group has claimed responsibility for two explosions, yet it remai
  - [https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html](https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 12:42:17+00:00
- - tags: None
 
 A skirmish between British-led colonial forces and Pashtuns in what would later become northwestern Pakistan, near Afghanistan, left 10 dead and 53 wounded.
 
@@ -220,7 +193,6 @@ A skirmish between British-led colonial forces and Pashtuns in what would later 
  - [https://www.nytimes.com/live/2022/10/20/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/20/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 10:02:09+00:00
- - tags: None
 
 Russians are leaving the southern city of Enerhodar, Ukrainian officials said, raising doubts over Moscow’s ability to retain control of the neighboring Zaporizhzhia nuclear facility.
 
@@ -228,7 +200,6 @@ Russians are leaving the southern city of Enerhodar, Ukrainian officials said, r
  - [https://www.nytimes.com/2022/10/20/briefing/midterms-republicans-democrats.html](https://www.nytimes.com/2022/10/20/briefing/midterms-republicans-democrats.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 10:01:18+00:00
- - tags: None
 
 The midterm elections are less than three weeks away. We explain the state of the races for the House and Senate.
 
@@ -236,7 +207,6 @@ The midterm elections are less than three weeks away. We explain the state of th
  - [https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html](https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 09:51:49+00:00
- - tags: None
 
 Even as China’s threats on reunification grow more pointed, most recently at the Communist Party congress, Taiwan is working creatively to bolster its alliances.
 
@@ -244,7 +214,6 @@ Even as China’s threats on reunification grow more pointed, most recently at t
  - [https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html](https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 09:00:51+00:00
- - tags: None
 
 Despite being called “immoral” by some politicians, this year’s Nyege Nyege festival celebrated diversity and innovation in contemporary African music.
 
@@ -252,7 +221,6 @@ Despite being called “immoral” by some politicians, this year’s Nyege Nyeg
  - [https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html](https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 09:00:36+00:00
- - tags: None
 
 The next six weeks, before fall mud spreads, could allow Ukraine’s military to press forward in the Donbas and potentially retake Kherson, American officials said. But Russia may not be deterred.
 
@@ -260,7 +228,6 @@ The next six weeks, before fall mud spreads, could allow Ukraine’s military to
  - [https://www.nytimes.com/2022/10/20/world/europe/france-callac-immigrants-refugees.html](https://www.nytimes.com/2022/10/20/world/europe/france-callac-immigrants-refugees.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 07:00:19+00:00
- - tags: None
 
 A plan to revitalize the town of Callac by bringing in skilled immigrants has divided it and made it an emblem of a nation’s anxiety over its identity and decline.
 
@@ -268,7 +235,6 @@ A plan to revitalize the town of Callac by bringing in skilled immigrants has di
  - [https://www.nytimes.com/2022/10/20/insider/modern-love-global-new-television-series.html](https://www.nytimes.com/2022/10/20/insider/modern-love-global-new-television-series.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 07:00:10+00:00
- - tags: None
 
 The latest iteration of the “Modern Love” franchise, “Modern Love Tokyo,” begins streaming on Oct. 21.
 
@@ -276,6 +242,5 @@ The latest iteration of the “Modern Love” franchise, “Modern Love Tokyo,�
  - [https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html](https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-20 02:04:39+00:00
- - tags: None
 
 Iran has denied supplying Russia with drones for use in Ukraine.

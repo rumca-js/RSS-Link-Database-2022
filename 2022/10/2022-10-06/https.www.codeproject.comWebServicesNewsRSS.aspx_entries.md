@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 6 Ways to blow a job interview without realizing it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59109](https://www.codeproject.com/script/News/View.aspx?nwid=59109)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Answer the "Where do you want to be in five years" question with, "Away from this awful place"?
 
@@ -12,7 +11,6 @@ Answer the "Where do you want to be in five years" question with, "Away from thi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59099](https://www.codeproject.com/script/News/View.aspx?nwid=59099)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 This release includes status bar styling functionality, Gravatar image support, prebuilt fade animations, SourceLink support, and numerous bug fixes.
 
@@ -20,7 +18,6 @@ This release includes status bar styling functionality, Gravatar image support, 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59104](https://www.codeproject.com/script/News/View.aspx?nwid=59104)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 It’s time to learn about the powerful toolkit of UI components that ship with Compose enabling you to build rich UIs and interactions.
 
@@ -28,7 +25,6 @@ It’s time to learn about the powerful toolkit of UI components that ship with 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59103](https://www.codeproject.com/script/News/View.aspx?nwid=59103)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ It’s time to learn about the powerful toolkit of UI components that ship with 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59110](https://www.codeproject.com/script/News/View.aspx?nwid=59110)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Unfortunately, no one can be told how to multiply the matrix. You have to do the math for yourself.
 
@@ -44,7 +39,6 @@ Unfortunately, no one can be told how to multiply the matrix. You have to do the
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59111](https://www.codeproject.com/script/News/View.aspx?nwid=59111)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 They have the positive and negative poles reversed?
 
@@ -52,7 +46,6 @@ They have the positive and negative poles reversed?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59108](https://www.codeproject.com/script/News/View.aspx?nwid=59108)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 If everyone else comes up with a video-creating AI, would you do it as well?
 
@@ -60,7 +53,6 @@ If everyone else comes up with a video-creating AI, would you do it as well?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59095](https://www.codeproject.com/script/News/View.aspx?nwid=59095)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Lyft reduced crashes in its mobile apps by up to 50% in some categories by optimizing the data persistence layer. Here's how.
 
@@ -68,7 +60,6 @@ Lyft reduced crashes in its mobile apps by up to 50% in some categories by optim
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59105](https://www.codeproject.com/script/News/View.aspx?nwid=59105)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 All who seek, will reboot
 
@@ -76,7 +67,6 @@ All who seek, will reboot
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59113](https://www.codeproject.com/script/News/View.aspx?nwid=59113)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Beware of hackers bearing hacked drivers
 
@@ -84,7 +74,6 @@ Beware of hackers bearing hacked drivers
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59100](https://www.codeproject.com/script/News/View.aspx?nwid=59100)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Using network logging to diagnose issues during release testing.
 
@@ -92,7 +81,6 @@ Using network logging to diagnose issues during release testing.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59101](https://www.codeproject.com/script/News/View.aspx?nwid=59101)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 "I want a silver bullet to be a symbol of justice."
 
@@ -100,7 +88,6 @@ Using network logging to diagnose issues during release testing.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59112](https://www.codeproject.com/script/News/View.aspx?nwid=59112)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 It seems people really do like types
 
@@ -108,7 +95,6 @@ It seems people really do like types
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59107](https://www.codeproject.com/script/News/View.aspx?nwid=59107)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Keep in your rumen as needed
 
@@ -116,7 +102,6 @@ Keep in your rumen as needed
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59096](https://www.codeproject.com/script/News/View.aspx?nwid=59096)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 This week we’re going to share some tips and tricks to help you show off your development work in meetings, livestreams, recordings, blog posts, or anywhere else you want a video or still of your app!
 
@@ -124,7 +109,6 @@ This week we’re going to share some tips and tricks to help you show off your 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59106](https://www.codeproject.com/script/News/View.aspx?nwid=59106)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 "Like sands through the hourglass, so are the days of our lives"
 
@@ -132,7 +116,6 @@ This week we’re going to share some tips and tricks to help you show off your 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59102](https://www.codeproject.com/script/News/View.aspx?nwid=59102)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Good thing you don't need those things with Linux
 
@@ -140,7 +123,6 @@ Good thing you don't need those things with Linux
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59097](https://www.codeproject.com/script/News/View.aspx?nwid=59097)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 We must take advantage and use the functionalities of our devices, through vibration we have access to inform actions / processes to our users through a physical reaction
 
@@ -148,7 +130,6 @@ We must take advantage and use the functionalities of our devices, through vibra
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59094](https://www.codeproject.com/script/News/View.aspx?nwid=59094)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 Despite the duopoly of the current app marketplace, businesses should not be maintaining two development teams. Flutter and cross-platform apps are the future.
 
@@ -156,6 +137,5 @@ Despite the duopoly of the current app marketplace, businesses should not be mai
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59098](https://www.codeproject.com/script/News/View.aspx?nwid=59098)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 XAML platforms, from WPF and Silverlight to Uno and WinUI, support the MVVM pattern by separating the View described declaratively in a XML dialect with the application logic in code.

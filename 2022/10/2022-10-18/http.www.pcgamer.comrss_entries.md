@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Gotham Knights system requirements are surprisingly demanding
  - [https://www.pcgamer.com/gotham-knights-system-requirements](https://www.pcgamer.com/gotham-knights-system-requirements)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 22:34:02+00:00
- - tags: None
 
 You're going to need at least an RTX 2070 to play on high at 1080p.
 
@@ -12,7 +11,6 @@ You're going to need at least an RTX 2070 to play on high at 1080p.
  - [https://www.pcgamer.com/call-of-duty-modern-warfare-2-preloading-begins-tomorrow](https://www.pcgamer.com/call-of-duty-modern-warfare-2-preloading-begins-tomorrow)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 22:04:56+00:00
- - tags: None
 
 Detailed PC system requirements have also been revealed.
 
@@ -20,7 +18,6 @@ Detailed PC system requirements have also been revealed.
  - [https://www.pcgamer.com/the-next-apex-legends-character-is-the-games-first-trans-hero](https://www.pcgamer.com/the-next-apex-legends-character-is-the-games-first-trans-hero)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 21:44:31+00:00
- - tags: None
 
 Catalyst will join the Apex Legends ranks on November 1.
 
@@ -28,7 +25,6 @@ Catalyst will join the Apex Legends ranks on November 1.
  - [https://www.pcgamer.com/the-next-sims-game-is-bringing-back-my-beloved-create-a-style-tool](https://www.pcgamer.com/the-next-sims-game-is-bringing-back-my-beloved-create-a-style-tool)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 21:44:21+00:00
- - tags: None
 
 The best tool for builders is coming back to the series in the next Sims game.
 
@@ -36,7 +32,6 @@ The best tool for builders is coming back to the series in the next Sims game.
  - [https://www.pcgamer.com/marvel-snap-wheels-out-samuel-l-jackson-as-nick-fury-for-its-launch-video](https://www.pcgamer.com/marvel-snap-wheels-out-samuel-l-jackson-as-nick-fury-for-its-launch-video)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 20:55:42+00:00
- - tags: None
 
 Let's be honest, most of us think we *could* do a better job as SHIELD. director.
 
@@ -44,7 +39,6 @@ Let's be honest, most of us think we *could* do a better job as SHIELD. director
  - [https://www.pcgamer.com/twitch-streamer-amouranth-seeking-legal-and-emotional-counsel-following-on-stream-domestic-abuse-allegations](https://www.pcgamer.com/twitch-streamer-amouranth-seeking-legal-and-emotional-counsel-following-on-stream-domestic-abuse-allegations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 19:38:40+00:00
- - tags: None
 
 In her first stream since alleging domestic abuse by husband, Amouranth says she now has access to her finances and social media account.
 
@@ -52,7 +46,6 @@ In her first stream since alleging domestic abuse by husband, Amouranth says she
  - [https://www.pcgamer.com/the-sims-4-is-getting-official-mod-support](https://www.pcgamer.com/the-sims-4-is-getting-official-mod-support)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 19:36:50+00:00
- - tags: None
 
 The Sims 4 is partnering with CurseForge to create a hub for 'safe, curated' mods and a mod manager.
 
@@ -60,7 +53,6 @@ The Sims 4 is partnering with CurseForge to create a hub for 'safe, curated' mod
  - [https://www.pcgamer.com/3-strong-loadouts-for-hunt-showdowns-110-meta](https://www.pcgamer.com/3-strong-loadouts-for-hunt-showdowns-110-meta)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 19:11:00+00:00
- - tags: None
 
 The weapons, traits, and equipment you should consider after Hunt's latest update.
 
@@ -68,7 +60,6 @@ The weapons, traits, and equipment you should consider after Hunt's latest updat
  - [https://www.pcgamer.com/rat-apocalypse-comes-to-total-war-warhammer-3-with-new-vermintide-endgame](https://www.pcgamer.com/rat-apocalypse-comes-to-total-war-warhammer-3-with-new-vermintide-endgame)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 18:53:04+00:00
- - tags: None
 
 It's a Skaven invasion.
 
@@ -76,7 +67,6 @@ It's a Skaven invasion.
  - [https://www.pcgamer.com/sims-5-project-rene-announcement](https://www.pcgamer.com/sims-5-project-rene-announcement)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 17:59:34+00:00
- - tags: None
 
 The next Sims game is still a ways off, but Maxis is sharing sneak peeks already.
 
@@ -84,7 +74,6 @@ The next Sims game is still a ways off, but Maxis is sharing sneak peeks already
  - [https://www.pcgamer.com/fallout-76-lead-designer-ferret-baudoin-has-died](https://www.pcgamer.com/fallout-76-lead-designer-ferret-baudoin-has-died)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 17:30:05+00:00
- - tags: None
 
 A Facebook tribute page says Baudoin died on October 15.
 
@@ -92,7 +81,6 @@ A Facebook tribute page says Baudoin died on October 15.
  - [https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-talent-tree](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-talent-tree)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 17:26:49+00:00
- - tags: None
 
 You can save different talent set-ups too.
 
@@ -100,7 +88,6 @@ You can save different talent set-ups too.
  - [https://www.pcgamer.com/wow-dragonflight-pre-patch-release-date](https://www.pcgamer.com/wow-dragonflight-pre-patch-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 17:12:09+00:00
- - tags: None
 
 World of Warcraft's next expansion is almost here.
 
@@ -108,7 +95,6 @@ World of Warcraft's next expansion is almost here.
  - [https://www.pcgamer.com/minecraft-launcher-project-spins-out-of-control-after-dev-hijacks-it-to-fight-leftist-queer-ideology](https://www.pcgamer.com/minecraft-launcher-project-spins-out-of-control-after-dev-hijacks-it-to-fight-leftist-queer-ideology)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 16:59:38+00:00
- - tags: None
 
 The hijacker purged all other devs but now insists everything is fine, actually.
 
@@ -116,7 +102,6 @@ The hijacker purged all other devs but now insists everything is fine, actually.
  - [https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff](https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 16:28:55+00:00
- - tags: None
 
 And should you let her hold you when she asks?
 
@@ -124,7 +109,6 @@ And should you let her hold you when she asks?
  - [https://www.pcgamer.com/the-best-sims-4-expansions-and-game-packs](https://www.pcgamer.com/the-best-sims-4-expansions-and-game-packs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 16:24:59+00:00
- - tags: None
 
 The best Sims 4 expansions, game packs, and stuff packs of the bunch.
 
@@ -132,7 +116,6 @@ The best Sims 4 expansions, game packs, and stuff packs of the bunch.
  - [https://www.pcgamer.com/playstations-fancy-new-controller-will-cost-dollar200-releases-in-january](https://www.pcgamer.com/playstations-fancy-new-controller-will-cost-dollar200-releases-in-january)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 16:22:46+00:00
- - tags: None
 
 The ultra-customizable DualSense Edge wireless controller will launch early next year.
 
@@ -140,7 +123,6 @@ The ultra-customizable DualSense Edge wireless controller will launch early next
  - [https://www.pcgamer.com/the-sims-4-free-to-play-how-to-claim](https://www.pcgamer.com/the-sims-4-free-to-play-how-to-claim)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 16:12:25+00:00
- - tags: None
 
 But you'll still need to buy all the expansions separately, sorry.
 
@@ -148,7 +130,6 @@ But you'll still need to buy all the expansions separately, sorry.
  - [https://www.pcgamer.com/new-us-sanctions-see-semiconductor-suppliers-halt-business-with-china-to-protect-us-national-security](https://www.pcgamer.com/new-us-sanctions-see-semiconductor-suppliers-halt-business-with-china-to-protect-us-national-security)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 14:44:06+00:00
- - tags: None
 
 Vital companies such as Lam have already started pulling support staff from Chinese fabs.
 
@@ -156,7 +137,6 @@ Vital companies such as Lam have already started pulling support staff from Chin
  - [https://www.pcgamer.com/roblox-says-it-had-over-17-billion-users-last-month](https://www.pcgamer.com/roblox-says-it-had-over-17-billion-users-last-month)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 14:19:03+00:00
- - tags: None
 
 Of all the metaverse contenders, this one at least has the numbers.
 
@@ -164,7 +144,6 @@ Of all the metaverse contenders, this one at least has the numbers.
  - [https://www.pcgamer.com/new-world-is-getting-fresh-start-worlds-in-november](https://www.pcgamer.com/new-world-is-getting-fresh-start-worlds-in-november)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 14:00:19+00:00
- - tags: None
 
 The Fresh Start servers will come a couple weeks after today's release of the Brimstone Sands update.
 
@@ -172,7 +151,6 @@ The Fresh Start servers will come a couple weeks after today's release of the Br
  - [https://www.pcgamer.com/samsung-990-pro-2tb-review-benchmarks-performance](https://www.pcgamer.com/samsung-990-pro-2tb-review-benchmarks-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 13:59:21+00:00
- - tags: None
 
 Return of the king?
 
@@ -180,7 +158,6 @@ Return of the king?
  - [https://www.pcgamer.com/youre-not-a-true-pc-gamer-until-youve-convinced-your-significant-other-to-rgb-the-home-you-share](https://www.pcgamer.com/youre-not-a-true-pc-gamer-until-youve-convinced-your-significant-other-to-rgb-the-home-you-share)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 13:18:36+00:00
- - tags: None
 
 I've played the new Nanoleaf black triangles off against the traditional white panels and Govee's hexagonal lights, all just to upgrade my home.
 
@@ -188,7 +165,6 @@ I've played the new Nanoleaf black triangles off against the traditional white p
  - [https://www.pcgamer.com/fortnite-is-giving-you-a-fortnight-to-live-out-your-werewolf-fantasies](https://www.pcgamer.com/fortnite-is-giving-you-a-fortnight-to-live-out-your-werewolf-fantasies)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 13:02:16+00:00
- - tags: None
 
 The Fortnitemares event kicks off today and runs through the end of October.
 
@@ -196,7 +172,6 @@ The Fortnitemares event kicks off today and runs through the end of October.
  - [https://www.pcgamer.com/dont-try-and-turn-me-into-the-bad-guystreamer-who-broke-back-at-twitchcon-details-extent-of-her-injuries](https://www.pcgamer.com/dont-try-and-turn-me-into-the-bad-guystreamer-who-broke-back-at-twitchcon-details-extent-of-her-injuries)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 12:50:16+00:00
- - tags: None
 
 Adriana Chechik broke her back and had to have bone fusion surgery, as well as sustaining nerve damage to her bladder.
 
@@ -204,7 +179,6 @@ Adriana Chechik broke her back and had to have bone fusion surgery, as well as s
  - [https://www.pcgamer.com/theres-an-even-cheaper-way-to-use-discord-emojis-now](https://www.pcgamer.com/theres-an-even-cheaper-way-to-use-discord-emojis-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 12:14:43+00:00
- - tags: None
 
 Plus a way for everyone to watch YouTube videos together.
 
@@ -212,7 +186,6 @@ Plus a way for everyone to watch YouTube videos together.
  - [https://www.pcgamer.com/behind-the-sims-summit-how-to-watch](https://www.pcgamer.com/behind-the-sims-summit-how-to-watch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 12:13:51+00:00
- - tags: None
 
 Find out about the future of The Sims series.
 
@@ -220,7 +193,6 @@ Find out about the future of The Sims series.
  - [https://www.pcgamer.com/just-8-rtx-4090s-could-crack-most-of-your-passwords-in-48-minutes](https://www.pcgamer.com/just-8-rtx-4090s-could-crack-most-of-your-passwords-in-48-minutes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 11:26:57+00:00
- - tags: None
 
 A modest cracking rig would be able to go through every single possible password combination of an eight-character password in less than an hour.
 
@@ -228,7 +200,6 @@ A modest cracking rig would be able to go through every single possible password
  - [https://www.pcgamer.com/gta-online-jack-o-lantern-locations-rewards](https://www.pcgamer.com/gta-online-jack-o-lantern-locations-rewards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 11:18:11+00:00
- - tags: None
 
 And the rewards you get for finding them.
 
@@ -236,7 +207,6 @@ And the rewards you get for finding them.
  - [https://www.pcgamer.com/fortnite-werewolf-alteration-altars](https://www.pcgamer.com/fortnite-werewolf-alteration-altars)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 11:14:58+00:00
- - tags: None
 
 Become a beast in the Fortnitemares halloween event.
 
@@ -244,7 +214,6 @@ Become a beast in the Fortnitemares halloween event.
  - [https://www.pcgamer.com/euro-truck-simulator-2-celebrates-its-first-decade-by-vowing-to-keep-on-truckin-for-a-second](https://www.pcgamer.com/euro-truck-simulator-2-celebrates-its-first-decade-by-vowing-to-keep-on-truckin-for-a-second)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 11:07:39+00:00
- - tags: None
 
 SCS is also hosting a livestream and an in-game event to mark 10 years of unexpected success.
 
@@ -252,7 +221,6 @@ SCS is also hosting a livestream and an in-game event to mark 10 years of unexpe
  - [https://www.pcgamer.com/herman-miller-and-logitech-g-just-dropped-a-dollar1000-gaming-chair](https://www.pcgamer.com/herman-miller-and-logitech-g-just-dropped-a-dollar1000-gaming-chair)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 08:31:45+00:00
- - tags: None
 
 That's a pricy gaming chair, but a cheap Herman Miller chair.
 
@@ -260,7 +228,6 @@ That's a pricy gaming chair, but a cheap Herman Miller chair.
  - [https://www.pcgamer.com/todays-wordle-486-answer-hint](https://www.pcgamer.com/todays-wordle-486-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Tuesday's puzzle.
 
@@ -268,7 +235,6 @@ Wordle today: The solution and a hint for Tuesday's puzzle.
  - [https://www.pcgamer.com/learn-how-to-run-vr-flight-sims-and-win-a-pimax-8k-headset](https://www.pcgamer.com/learn-how-to-run-vr-flight-sims-and-win-a-pimax-8k-headset)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 04:25:05+00:00
- - tags: None
 
 You can watch the free webinar on YouTube, or with the FSA to ask questions live.
 
@@ -276,6 +242,5 @@ You can watch the free webinar on YouTube, or with the FSA to ask questions live
  - [https://www.pcgamer.com/displayport-20-products-already-support-displayport-21](https://www.pcgamer.com/displayport-20-products-already-support-displayport-21)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-18 03:29:09+00:00
- - tags: None
 
 Improved USB 4 compatibility and higher cable standards are among the highlights.

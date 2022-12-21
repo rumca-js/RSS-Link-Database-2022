@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Rosja. Niebezpieczna jazda windą. Mężczyzna cudem uniknął zgilotynowania
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/rosja-niebezpieczna-jazda-winda-mezczyzna-cudem-uniknal-zgilotynowania/](https://www.polsatnews.pl/wiadomosc/2022-10-11/rosja-niebezpieczna-jazda-winda-mezczyzna-cudem-uniknal-zgilotynowania/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 19:50:00+00:00
- - tags: None
 
 Korzystanie z windy może być niebezpieczne. Przekonał się o tym pewien mężczyzna w Krasnodarze, który w trakcie korzystania z niej ledwo uniknął zgilotynowania. W sieci pojawiło się nagranie z tego zdarzenia. Nawet jazda własnymi windami staje się przerażająca - skomentował jeden z internautów.
 
@@ -12,7 +11,6 @@ Korzystanie z windy może być niebezpieczne. Przekonał się o tym pewien męż
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/pawel-kowal-w-dokumencie-wyslanym-niemcom-nie-ma-slowa-reparacje/](https://www.polsatnews.pl/wiadomosc/2022-10-11/pawel-kowal-w-dokumencie-wyslanym-niemcom-nie-ma-slowa-reparacje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 19:36:00+00:00
- - tags: None
 
 - Rząd polski nie wysłał noty w sprawie reparacji do Niemiec. W dokumencie, który przesłano nie pada słowo reparacje - powiedział Paweł Kowal z Koalicji Obywatelskiej w programie Gość Wydarzeń u Bogdana Rymanowskiego. Odnosząc się do sytuacji za wschodnią granicą, poseł opozycji stwierdził, że Władimira Putina należy izolować. - To jest zbrodniarz wojenny - dodał.
 
@@ -20,7 +18,6 @@ Korzystanie z windy może być niebezpieczne. Przekonał się o tym pewien męż
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/wielka-brytania-ustalono-date-koronacji-krola-karola-iii-odbedzie-sie-6-maja/](https://www.polsatnews.pl/wiadomosc/2022-10-11/wielka-brytania-ustalono-date-koronacji-krola-karola-iii-odbedzie-sie-6-maja/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 19:13:00+00:00
- - tags: None
 
 Koronacja Karola III odbędzie się w sobotę 6 maja w Opactwie Westminsterskim - ogłosił Pałac Buckingham. W dniu uroczystości król będzie miał 74 lata, co czyni go najstarszym władcą na angielskim tronie.
 
@@ -28,7 +25,6 @@ Koronacja Karola III odbędzie się w sobotę 6 maja w Opactwie Westminsterskim 
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/las-osobliwosci-naukowcy-odkryli-tajemnicze-zjawisko-w-glebinach-oceanu/](https://www.polsatnews.pl/wiadomosc/2022-10-11/las-osobliwosci-naukowcy-odkryli-tajemnicze-zjawisko-w-glebinach-oceanu/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 15:55:00+00:00
- - tags: None
 
 Zamiast drzew - osobliwie ukształtowane koralowce rozsiane między rzadkimi i nietypowymi gąbkami szklistymi. Wśród nich - morski kosmita, czyli gąbka E.T. - taki krajobraz, odkryty dwa kilometry pod wodą, naukowcy nazwali lasem osobliwości.
 
@@ -36,7 +32,6 @@ Zamiast drzew - osobliwie ukształtowane koralowce rozsiane między rzadkimi i n
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/grupa-g7-wydala-oswiadczenie-nadal-bedziemy-nakladac-sankcje-na-rosje/](https://www.polsatnews.pl/wiadomosc/2022-10-11/grupa-g7-wydala-oswiadczenie-nadal-bedziemy-nakladac-sankcje-na-rosje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 15:14:00+00:00
- - tags: None
 
 We wtorek odbyło się wirtualne spotkanie G7. Liderzy najpotężniejszych gospodarek świata wydali oświadczenie, w którym piszą, że sankcję na Rosję nadal będą nakładane. Potępili również działania Władimira Putina i zapewnili o dalszym wsparciu Ukrainy.
 
@@ -44,7 +39,6 @@ We wtorek odbyło się wirtualne spotkanie G7. Liderzy najpotężniejszych gospo
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/jens-stoltenberg-nato-bedzie-stalo-po-stronie-ukrainy-az-do-konca-wojny/](https://www.polsatnews.pl/wiadomosc/2022-10-11/jens-stoltenberg-nato-bedzie-stalo-po-stronie-ukrainy-az-do-konca-wojny/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 13:09:00+00:00
- - tags: None
 
 - Mimo że Rosja coraz częściej ucieka się do przerażających, masowych ataków na ludność cywilną i infrastrukturę krytyczną, to Władimir Putin przegrywa wojnę w Ukrainie - powiedział Jens Stoltenberg podczas dzisiejszego wystąpienia. Dodał, że NATO będzie stało po stronie Ukrainy, aż do zakończenia konfliktu.
 
@@ -52,7 +46,6 @@ We wtorek odbyło się wirtualne spotkanie G7. Liderzy najpotężniejszych gospo
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/szwecja-sledztwo-ws-wybuchow-przy-nord-stream-i-premier-szwecja-odmowi-rosji/](https://www.polsatnews.pl/wiadomosc/2022-10-11/szwecja-sledztwo-ws-wybuchow-przy-nord-stream-i-premier-szwecja-odmowi-rosji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 11:47:00+00:00
- - tags: None
 
 Szwecja odmówi Rosji dostępu do śledztwa w sprawie wybuchów, do których doszło przy gazociągach Nord Stream I i Nord Stream II - poinformowała na konferencji prasowej premier Magdalena Andersson.
 
@@ -60,7 +53,6 @@ Szwecja odmówi Rosji dostępu do śledztwa w sprawie wybuchów, do których dos
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/siergiej-lawrow-rosja-nie-bedzie-tolerowac-zagrozen-ze-strony-kijowa/](https://www.polsatnews.pl/wiadomosc/2022-10-11/siergiej-lawrow-rosja-nie-bedzie-tolerowac-zagrozen-ze-strony-kijowa/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 11:40:00+00:00
- - tags: None
 
 - Moskwa nie będzie tolerować ciągłych zagrożeń dla jej bezpieczeństwa ze strony Kijowa. To odpowiedź na działania Ukrainy - mówił minister spraw zagranicznych Rosji Siergiej Ławrow. Zaznaczył, że cele specjalnej operacji wojskowej są niezmienne. Apelował również o odpowiedzialność w mówieniu o wojnie nuklearnej.
 
@@ -68,7 +60,6 @@ Szwecja odmówi Rosji dostępu do śledztwa w sprawie wybuchów, do których dos
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/usa-rosyjskojezyczni-hakerzy-zaatakowali-strony-amerykanskich-lotnisk/](https://www.polsatnews.pl/wiadomosc/2022-10-11/usa-rosyjskojezyczni-hakerzy-zaatakowali-strony-amerykanskich-lotnisk/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 11:26:00+00:00
- - tags: None
 
 Hakerzy z rosyjskojęzycznej grupy KillNet zablokowali strony internetowe czternastu amerykańskich lotnisk. Zaatakowane zostały między innymi witryny chicagowskiego portu O’Hare, Hartsfield-Jackson w Atlancie oraz LAX, czyli Los Angeles International Airport, jedne z największych w USA.
 
@@ -76,7 +67,6 @@ Hakerzy z rosyjskojęzycznej grupy KillNet zablokowali strony internetowe cztern
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/rosja-hodowcy-reniferow-zwolnieni-z-przymusowej-mobilizacji-podano-powod/](https://www.polsatnews.pl/wiadomosc/2022-10-11/rosja-hodowcy-reniferow-zwolnieni-z-przymusowej-mobilizacji-podano-powod/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 10:15:00+00:00
- - tags: None
 
 Pasterze reniferów, rdzenni mieszkańcy Nienieckiego Okręgu Autonomicznego, zostaną zwolnieni z częściowej mobilizacji w Rosji. Z inicjatywą wystąpił gubernator regionu. Podczas spotkania sztabu wyjaśnił, dlaczego akurat tę grupę powinien ominąć pobór do wojska.
 
@@ -84,7 +74,6 @@ Pasterze reniferów, rdzenni mieszkańcy Nienieckiego Okręgu Autonomicznego, zo
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-rosjanie-przeprowadzili-kolejny-atak-rakietowy-na-lwow/](https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-rosjanie-przeprowadzili-kolejny-atak-rakietowy-na-lwow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 10:08:00+00:00
- - tags: None
 
 Rosjanie przeprowadzili kolejne ataki rakietowe na Lwów. Jak poinformował mer miasta Andrij Sadowy, w części dzielnic nie ma prądu. We wtorek wojska Władimira Putina uderzyły także w takie miasta jak Zaporoże czy Mikołajów.
 
@@ -92,7 +81,6 @@ Rosjanie przeprowadzili kolejne ataki rakietowe na Lwów. Jak poinformował mer 
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/rosnie-skala-przemocy-w-szwecji-kraj-ma-najwyzsza-liczbe-strzelanin-w-europie/](https://www.polsatnews.pl/wiadomosc/2022-10-11/rosnie-skala-przemocy-w-szwecji-kraj-ma-najwyzsza-liczbe-strzelanin-w-europie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 09:44:00+00:00
- - tags: None
 
 W ciągu ostatnich kilku lat liczba funkcjonariuszy policji w Szwecji stale rosła. Zmiany w prawie z kolei przyczyniły się do zwiększenia efektywności służb. Szwecja na tle innych państw europejskich przoduje, ale nie jest to chlubny wynik. Liczba strzelanin jest najwyższa w Europie. - Najdrobniejszy czyn prowadzi do śmiertelnej przemocy - mówi wiceszef policji krajowej Johan Olsson.
 
@@ -100,7 +88,6 @@ W ciągu ostatnich kilku lat liczba funkcjonariuszy policji w Szwecji stale ros�
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/hanower-agresywny-polak-na-dworcu-w-niemczech-gryzl-funkcjonariuszy-i-lekarzy/](https://www.polsatnews.pl/wiadomosc/2022-10-11/hanower-agresywny-polak-na-dworcu-w-niemczech-gryzl-funkcjonariuszy-i-lekarzy/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 09:36:00+00:00
- - tags: None
 
 31-letni Polak w ciągu jednego dnia pojawił się dwukrotnie na Dworcu Głównym w Hanowerze po to, by wdać się w bójkę z pracownikiem kolei i przechodniem. Po zjawieniu się służb mężczyzna wyrywał się i próbował gryźć funkcjonariuszy. Gdy stan agresora pogorszył się, został przewieziony do szpitala, gdzie podczas pobierania krwi chciał pogryźć także lekarza.
 
@@ -108,7 +95,6 @@ W ciągu ostatnich kilku lat liczba funkcjonariuszy policji w Szwecji stale ros�
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-rosja-stracila-ponad-63-tys-zolnierzy-ofensywa-nie-przebiega-po-ich-mysli/](https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-rosja-stracila-ponad-63-tys-zolnierzy-ofensywa-nie-przebiega-po-ich-mysli/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 08:32:00+00:00
- - tags: None
 
 W wojnie z Ukrainą zginęło już ponad 63 tys. rosyjskich żołnierzy - poinformował Sztab Generalny Sił Zbrojnych Ukrainy. Wśród strat Moskwy są również 2504 czołgi i 1496 systemów artyleryjskich. Wojna w Ukrainie nie przebiega po myśli Rosjan - ocenił Instytut Studiów nad Wojną.
 
@@ -116,7 +102,6 @@ W wojnie z Ukrainą zginęło już ponad 63 tys. rosyjskich żołnierzy - poinfo
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/usa-kobiety-z-florydy-vs-zony-elektrotechnikow-wojna-na-tiktoku-o-rozbijanie-malzenstw/](https://www.polsatnews.pl/wiadomosc/2022-10-11/usa-kobiety-z-florydy-vs-zony-elektrotechnikow-wojna-na-tiktoku-o-rozbijanie-malzenstw/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 07:51:00+00:00
- - tags: None
 
 Chociaż Floryda po huraganie Ian zmaga się z poważnymi zniszczeniami, to sieć w USA rozgrzała ostatnio afera seksualna. Wszystko przez elektrotechników, którzy zjechali z całego kraju, by pomóc poszkodowanym. Miejscowe kobiety za nimi oszalały, co doprowadziło do wojny z żonami fachowców. Jej efektem są rozbite małżeństwa.
 
@@ -124,7 +109,6 @@ Chociaż Floryda po huraganie Ian zmaga się z poważnymi zniszczeniami, to sie�
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/mer-lwowa-o-atakach-na-miasto-glownym-celem-rosjan-jest-destabilizacja-ale-wszyscy-sa-w/](https://www.polsatnews.pl/wiadomosc/2022-10-11/mer-lwowa-o-atakach-na-miasto-glownym-celem-rosjan-jest-destabilizacja-ale-wszyscy-sa-w/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 06:53:00+00:00
- - tags: None
 
 Po raz pierwszy od kilku miesięcy rakiety spadły na Lwów. - Rosjanie chcieli zniszczyć cywilne obiekty infrastruktury, ale głównym ich celem była destabilizacja - powiedział w Polsat News mer Lwowa Andrij Sadowy. Przyznał, że efekt ostrzałów jest zupełnie inny. - Rozmawiałem z merami innych miast. Wszyscy są w*** - stwierdził Sadowy.
 
@@ -132,7 +116,6 @@ Po raz pierwszy od kilku miesięcy rakiety spadły na Lwów. - Rosjanie chcieli 
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/krym-okupanci-przygotowuja-plany-ewakuacji-z-polwyspu/](https://www.polsatnews.pl/wiadomosc/2022-10-11/krym-okupanci-przygotowuja-plany-ewakuacji-z-polwyspu/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 05:55:00+00:00
- - tags: None
 
 Władze okupacyjne anektowanego Krymu zaczęły przygotowywać się do ucieczki - poinformowała agencja UNIAN. Plany ewakuacji mają być związane są z incydentem na Moście Krymskim.
 
@@ -140,7 +123,6 @@ Władze okupacyjne anektowanego Krymu zaczęły przygotowywać się do ucieczki 
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-rosjanie-przeprowadzili-atak-rakietowy-na-zaporoze/](https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-rosjanie-przeprowadzili-atak-rakietowy-na-zaporoze/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 05:14:00+00:00
- - tags: None
 
 We wtorek rano Rosjanie przeprowadzili ataki rakietowe na Zaporoże. W wyniku ostrzału ucierpiały m.in. obiekty infrastruktury. Alarm rakietowy ogłoszono w niemal wszystkich obwodach Ukrainy.
 
@@ -148,6 +130,5 @@ We wtorek rano Rosjanie przeprowadzili ataki rakietowe na Zaporoże. W wyniku os
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-zmasowany-ostrzal-kosztowal-rosje-kilkaset-milionow-dolarow/](https://www.polsatnews.pl/wiadomosc/2022-10-11/wojna-w-ukrainie-zmasowany-ostrzal-kosztowal-rosje-kilkaset-milionow-dolarow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-11 04:37:00+00:00
- - tags: None
 
 Zmasowane ataki rakietowe, które w poniedziałek przeprowadzili Rosjanie w ukraińskich miastach, w tym Kijowie i Lwowie, kosztowały kilkaset milionów dolarów - wyliczyła ukraińska edycja magazynu Forbes.

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Apple’s mixed reality headset reportedly lets you make payments with your eyes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59209](https://www.codeproject.com/script/News/View.aspx?nwid=59209)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 If you stare into the abyss, you buy the abyss
 
@@ -12,7 +11,6 @@ If you stare into the abyss, you buy the abyss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59214](https://www.codeproject.com/script/News/View.aspx?nwid=59214)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 And then they came for the cartoonists and I did nothing as I need some for the newsletter, please!
 
@@ -20,7 +18,6 @@ And then they came for the cartoonists and I did nothing as I need some for the 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59212](https://www.codeproject.com/script/News/View.aspx?nwid=59212)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 May their hovercrafts fill with eels
 
@@ -28,7 +25,6 @@ May their hovercrafts fill with eels
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59207](https://www.codeproject.com/script/News/View.aspx?nwid=59207)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 No one is prefect
 
@@ -36,7 +32,6 @@ No one is prefect
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59210](https://www.codeproject.com/script/News/View.aspx?nwid=59210)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 Because...? Why?
 
@@ -44,7 +39,6 @@ Because...? Why?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59211](https://www.codeproject.com/script/News/View.aspx?nwid=59211)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 Why should only Linux folk struggle with it?
 
@@ -52,7 +46,6 @@ Why should only Linux folk struggle with it?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59206](https://www.codeproject.com/script/News/View.aspx?nwid=59206)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 More is good?
 
@@ -60,7 +53,6 @@ More is good?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59213](https://www.codeproject.com/script/News/View.aspx?nwid=59213)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 Icons incoming!
 
@@ -68,6 +60,5 @@ Icons incoming!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59208](https://www.codeproject.com/script/News/View.aspx?nwid=59208)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-17 04:00:00+00:00
- - tags: None
 
 For those that like big codebases and cannot lie

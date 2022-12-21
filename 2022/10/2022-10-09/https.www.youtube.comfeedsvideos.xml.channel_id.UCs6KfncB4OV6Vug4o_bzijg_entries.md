@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## Cognitive Dissonance & Confirmation Bias  - Techlore Talks #3
  - [https://www.youtube.com/watch?v=E8Pzhpyf-Ow](https://www.youtube.com/watch?v=E8Pzhpyf-Ow)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-09 16:00:06+00:00
- - tags: None
 
 How do cognitive dissonance and confirmation bias fit into privacy, security, FOSS, tech, and the world today? You all asked for more free-form, and here it is!
 

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Filthy floodwaters from Hurricane Ian drove wave of flesh-eating infections
  - [https://arstechnica.com/?p=1891019](https://arstechnica.com/?p=1891019)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 23:09:36+00:00
- - tags: None
 
 Health officials warn those in floodwaters to cover open wounds.
 
@@ -12,7 +11,6 @@ Health officials warn those in floodwaters to cover open wounds.
  - [https://arstechnica.com/?p=1891002](https://arstechnica.com/?p=1891002)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 22:56:17+00:00
- - tags: None
 
 Mid-pandemic tweeting suggests we have what's called a "finite pool of worry."
 
@@ -20,7 +18,6 @@ Mid-pandemic tweeting suggests we have what's called a "finite pool of worry."
  - [https://arstechnica.com/?p=1890901](https://arstechnica.com/?p=1890901)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 22:37:01+00:00
- - tags: None
 
 USB-IF's new USB-C spec supports up to 120Gbps across three lanes.
 
@@ -28,7 +25,6 @@ USB-IF's new USB-C spec supports up to 120Gbps across three lanes.
  - [https://arstechnica.com/?p=1890927](https://arstechnica.com/?p=1890927)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 22:06:35+00:00
- - tags: None
 
 Recommendations come after an investigation into the Buffalo mass shooting.
 
@@ -36,7 +32,6 @@ Recommendations come after an investigation into the Buffalo mass shooting.
  - [https://arstechnica.com/?p=1890903](https://arstechnica.com/?p=1890903)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 21:31:55+00:00
- - tags: None
 
 Discmaster lets you sift through 11 terabytes of CD-ROM and floppy disk archives.
 
@@ -44,7 +39,6 @@ Discmaster lets you sift through 11 terabytes of CD-ROM and floppy disk archives
  - [https://arstechnica.com/?p=1890912](https://arstechnica.com/?p=1890912)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 20:01:41+00:00
- - tags: None
 
 Son of 72-year-old in Saudi prison says Biden admin did little to help.
 
@@ -52,7 +46,6 @@ Son of 72-year-old in Saudi prison says Biden admin did little to help.
  - [https://arstechnica.com/?p=1890770](https://arstechnica.com/?p=1890770)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 17:39:07+00:00
- - tags: None
 
 Is the Google Assistant in trouble? It's true that it doesn't make any money...
 
@@ -60,7 +53,6 @@ Is the Google Assistant in trouble? It's true that it doesn't make any money...
  - [https://arstechnica.com/?p=1890843](https://arstechnica.com/?p=1890843)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 17:14:34+00:00
- - tags: None
 
 Why Dolby Atmos in a car is more than a gimmick.
 
@@ -68,7 +60,6 @@ Why Dolby Atmos in a car is more than a gimmick.
  - [https://arstechnica.com/?p=1890775](https://arstechnica.com/?p=1890775)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 16:56:25+00:00
- - tags: None
 
 Giphy is worried that GIFs becoming "cringe" will “dampen investor appetite.”
 
@@ -76,7 +67,6 @@ Giphy is worried that GIFs becoming "cringe" will “dampen investor appetite.�
  - [https://arstechnica.com/?p=1890771](https://arstechnica.com/?p=1890771)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 16:12:37+00:00
- - tags: None
 
 Also: iPadOS 16 launches October 24.
 
@@ -84,7 +74,6 @@ Also: iPadOS 16 launches October 24.
  - [https://arstechnica.com/?p=1890768](https://arstechnica.com/?p=1890768)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 16:06:01+00:00
- - tags: None
 
 SpaceX "will add a donate option to Starlink" for places in need, Musk wrote.
 
@@ -92,7 +81,6 @@ SpaceX "will add a donate option to Starlink" for places in need, Musk wrote.
  - [https://arstechnica.com/?p=1890760](https://arstechnica.com/?p=1890760)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 15:54:00+00:00
- - tags: None
 
 More storage for less, but a notable Ethernet/Thread split between models.
 
@@ -100,7 +88,6 @@ More storage for less, but a notable Ethernet/Thread split between models.
  - [https://arstechnica.com/?p=1890747](https://arstechnica.com/?p=1890747)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 15:08:05+00:00
- - tags: None
 
 Toyota botched the rollout of its first EV.
 
@@ -108,7 +95,6 @@ Toyota botched the rollout of its first EV.
  - [https://arstechnica.com/?p=1890718](https://arstechnica.com/?p=1890718)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 15:03:39+00:00
- - tags: None
 
 Updates drop support for several generations of older hardware, too.
 
@@ -116,7 +102,6 @@ Updates drop support for several generations of older hardware, too.
  - [https://arstechnica.com/?p=1890729](https://arstechnica.com/?p=1890729)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 13:44:53+00:00
- - tags: None
 
 Experts on social media grade readiness of Facebook, TikTok, Twitter, and YouTube.
 
@@ -124,6 +109,5 @@ Experts on social media grade readiness of Facebook, TikTok, Twitter, and YouTub
  - [https://arstechnica.com/?p=1890533](https://arstechnica.com/?p=1890533)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-18 12:00:56+00:00
- - tags: None
 
 Smooth, silent electric motors will only make Rolls-Royce's cars better.

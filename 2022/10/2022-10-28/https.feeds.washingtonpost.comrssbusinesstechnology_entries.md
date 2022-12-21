@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## ‘Modern Warfare II’ multiplayer is mostly more of the same. That’s okay.
  - [https://www.washingtonpost.com/video-games/2022/10/28/modern-warfare-multiplayer-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/28/modern-warfare-multiplayer-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 17:31:40+00:00
- - tags: None
 
 “Modern Warfare 2” adds new mechanics, gunsmith options, game modes and polish. It has also removed some controversial mechanics, chiefly slide-canceling.
 
@@ -12,7 +11,6 @@
  - [https://www.washingtonpost.com/video-games/2022/10/28/pokemon-pokedex-greavard-scary-gengar-mimikyu/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/28/pokemon-pokedex-greavard-scary-gengar-mimikyu/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 17:13:28+00:00
- - tags: None
 
 With "Pokémon Violet" and "Scarlet" right around the corner — with Greavard in tow — we've compiled the scariest Pokédex entries so far.
 
@@ -20,7 +18,6 @@ With "Pokémon Violet" and "Scarlet" right around the corner — with Greavard i
  - [https://www.washingtonpost.com/technology/2022/10/28/space-war-ukraine-pentagon-russia/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/28/space-war-ukraine-pentagon-russia/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 13:54:03+00:00
- - tags: None
 
 In a speech at the United Nations, a Russian official said the proliferation of privately operated satellites is “an extremely dangerous trend that goes beyond the harmless use of outer-space technologies and has become apparent during the latest developments in Ukraine.”
 
@@ -28,7 +25,6 @@ In a speech at the United Nations, a Russian official said the proliferation of 
  - [https://www.washingtonpost.com/video-games/2021/10/28/video-game-franchises-we-want-raised-dead/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2021/10/28/video-game-franchises-we-want-raised-dead/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 12:37:17+00:00
- - tags: None
 
 Remake them, remaster them, reboot them — just please resurrect these great games.
 
@@ -36,7 +32,6 @@ Remake them, remaster them, reboot them — just please resurrect these great ga
  - [https://www.washingtonpost.com/technology/2022/01/19/twitter-privacy-settings/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/01/19/twitter-privacy-settings/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 11:30:17+00:00
- - tags: None
 
 Your tweets may be public, but you can still have more privacy on the social media service.
 
@@ -44,7 +39,6 @@ Your tweets may be public, but you can still have more privacy on the social med
  - [https://www.washingtonpost.com/technology/2022/10/28/musk-twitter-racist-posts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/28/musk-twitter-racist-posts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 09:27:52+00:00
- - tags: None
 
 A wide range of anonymous Twitter accounts celebrated Musk’s takeover and argued it meant the old rules against bigotry no longer applied.
 
@@ -52,7 +46,6 @@ A wide range of anonymous Twitter accounts celebrated Musk’s takeover and argu
  - [https://www.washingtonpost.com/technology/2022/10/28/elon-musk-buys-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/28/elon-musk-buys-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 08:00:59+00:00
- - tags: None
 
 The acquisition of Twitter by Elon Musk started in April and closed Thursday. Musk has made many claims as to his plans for the social media company.
 
@@ -60,7 +53,6 @@ The acquisition of Twitter by Elon Musk started in April and closed Thursday. Mu
  - [https://www.washingtonpost.com/technology/2022/10/28/scam-customer-service-phone-number/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/28/scam-customer-service-phone-number/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 07:00:19+00:00
- - tags: None
 
 Before you call a customer service number -- especially one connected to a payment app like PayPal -- take these steps to make sure you're not talking to a fraudster.
 
@@ -68,7 +60,6 @@ Before you call a customer service number -- especially one connected to a payme
  - [https://www.washingtonpost.com/technology/2022/10/28/elon-musk-acquisition-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/28/elon-musk-acquisition-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 06:00:09+00:00
- - tags: None
 
 Elon Musk already changed his Twitter bio to "Chief Twit." Find out his reason for buying, and what other changes may be coming to the company upon acquisition.
 
@@ -76,7 +67,6 @@ Elon Musk already changed his Twitter bio to "Chief Twit." Find out his reason f
  - [https://www.washingtonpost.com/technology/2022/10/28/tiktok-suppression/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/28/tiktok-suppression/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 05:00:47+00:00
- - tags: None
 
 Our reporters tried to get TikTok to punish The Washington Post's TikTok account and keep viewers from watching it by posting content the app suppresses.
 
@@ -84,6 +74,5 @@ Our reporters tried to get TikTok to punish The Washington Post's TikTok account
  - [https://www.washingtonpost.com/technology/interactive/2022/bytedance-tiktok-privacy-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/bytedance-tiktok-privacy-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-28 05:00:06+00:00
- - tags: None
 
 TikTok’s link to China has sparked fears over propaganda and privacy. It’s also exposed America’s failure to safeguard the web.

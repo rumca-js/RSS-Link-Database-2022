@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## Five Texas Cities May Decriminalize Marijuana In Workaround To State Ban
  - [https://www.dailywire.com/news/five-texas-cities-may-decriminalize-marijuana-in-workaround-to-state-ban](https://www.dailywire.com/news/five-texas-cities-may-decriminalize-marijuana-in-workaround-to-state-ban)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 21:51:03+00:00
- - tags: None
 
 Five Texas cities may join the growing list of those adopting workarounds to the Lone Star State’s ban on marijuana. It’s the latest development in a growing trend to decriminalize the drug. Voters in Denton, Elgin, Harker Heights, Killeen, and San Marcos are all deciding on November ballot propositions to legalize marijuana. Austin, the state’s ...
 
@@ -12,7 +11,6 @@ Five Texas cities may join the growing list of those adopting workarounds to the
  - [https://www.dailywire.com/news/musk-fires-person-who-censored-hunter-biden-story-banned-conservative-accounts-buckle-up-motherfs](https://www.dailywire.com/news/musk-fires-person-who-censored-hunter-biden-story-banned-conservative-accounts-buckle-up-motherfs)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 21:37:06+00:00
- - tags: None
 
 New Twitter CEO Elon Musk fired Twitter&#8217;s top lawyer Vijaya Gadde — head of legal policy, trust, and safety — immediately after taking over the social media company Thursday evening. The Daily Mail reported earlier this year that Gadde &#8220;played a key role in the contentious decisions to ban Donald Trump and suppress news articles ...
 
@@ -20,7 +18,6 @@ New Twitter CEO Elon Musk fired Twitter&#8217;s top lawyer Vijaya Gadde — head
  - [https://www.dailywire.com/news/breaking-elon-musk-officially-takes-over-twitter-as-sale-is-now-final-top-execs-fired-report-says](https://www.dailywire.com/news/breaking-elon-musk-officially-takes-over-twitter-as-sale-is-now-final-top-execs-fired-report-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 20:59:54+00:00
- - tags: None
 
 Elon Musk is now reportedly in charge of Twitter as the sale of the company has now been finalized and the company&#8217;s top executives are no longer with the company. Musk fired CEO Parag Agrawal, CFO Ned Segal, and Vijaya Gadde, head of legal policy, trust, and safety, The Washington Post reported. The report said ...
 
@@ -28,7 +25,6 @@ Elon Musk is now reportedly in charge of Twitter as the sale of the company has 
  - [https://www.dailywire.com/news/kari-lake-blows-up-at-media-for-running-garbage-bulls-story-to-carry-water-for-katie-hobbs](https://www.dailywire.com/news/kari-lake-blows-up-at-media-for-running-garbage-bulls-story-to-carry-water-for-katie-hobbs)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 20:16:00+00:00
- - tags: None
 
 Arizona Republican gubernatorial candidate Kari Lake unloaded on the media during a Thursday campaign stop, accusing outlets of spreading lies about her and running with a &#8220;garbage, bulls*** story&#8221; to distract from the most recent poll numbers. Lake mentioned her opponent, Arizona Secretary of State Katie Hobbs (D), who made headlines earlier in the week ...
 
@@ -36,7 +32,6 @@ Arizona Republican gubernatorial candidate Kari Lake unloaded on the media durin
  - [https://www.dailywire.com/news/first-post-debate-poll-shows-oz-breaking-away-with-nearly-3-point-lead-in-pennsylvania](https://www.dailywire.com/news/first-post-debate-poll-shows-oz-breaking-away-with-nearly-3-point-lead-in-pennsylvania)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 20:07:46+00:00
- - tags: None
 
 Republican Pennsylvania Senate candidate Dr. Mehmet Oz has taken the lead in the race, according to a new poll. The poll of 750 likely voters, conducted by independent pollster InsiderAdvantage on October 26, the day after Pennsylvania&#8217;s key Senate debate, showed Oz with a lead of just under three points against Democratic candidate John Fetterman. ...
 
@@ -44,7 +39,6 @@ Republican Pennsylvania Senate candidate Dr. Mehmet Oz has taken the lead in the
  - [https://www.dailywire.com/news/sixth-set-of-skeletal-remains-found-in-lake-mead](https://www.dailywire.com/news/sixth-set-of-skeletal-remains-found-in-lake-mead)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 19:58:24+00:00
- - tags: None
 
 A group of divers discovered another set of skeletal remains in Lake Mead last week, marking the latest findings as the sixth set recovered since May. A park service dive team searched the lake after a commercial diver found &#8220;what appeared to be a human bone in the Callville Bay area&#8221; on October 17, the ...
 
@@ -52,7 +46,6 @@ A group of divers discovered another set of skeletal remains in Lake Mead last w
  - [https://www.dailywire.com/news/msnbc-anchor-compares-john-fetterman-to-fdr-and-winston-churchill](https://www.dailywire.com/news/msnbc-anchor-compares-john-fetterman-to-fdr-and-winston-churchill)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 19:42:05+00:00
- - tags: None
 
 MSNBC anchor Lawrence O&#8217;Donnell compared embattled Senate candidate John Fetterman (D-PA) to former British Prime Minister Winston Churchill and former President Franklin Delano Roosevelt during a recent monologue. O&#8217;Donnell, during Wednesday&#8217;s broadcast of &#8220;The Last Word,&#8221; suggested that Fetterman&#8217;s apparent struggles in the aftermath of a stroke were no different than the physical issues that ...
 
@@ -60,7 +53,6 @@ MSNBC anchor Lawrence O&#8217;Donnell compared embattled Senate candidate John F
  - [https://www.dailywire.com/news/philly-deputy-sheriff-caught-on-camera-illegally-selling-guns-used-by-illegal-alien-in-fatal-school-shooting-report](https://www.dailywire.com/news/philly-deputy-sheriff-caught-on-camera-illegally-selling-guns-used-by-illegal-alien-in-fatal-school-shooting-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 19:07:09+00:00
- - tags: None
 
 Federal law enforcement officials arrested 29-year-old Philadelphia Deputy Sheriff Samir Ahmad on Thursday after they caught him on video allegedly selling firearms that were used in a fatal school shooting by an illegal alien to an FBI informant who posed as an illegal alien. Ahmad, who joined the Philadelphia Sheriff’s Office in February 2018, was ...
 
@@ -68,7 +60,6 @@ Federal law enforcement officials arrested 29-year-old Philadelphia Deputy Sheri
  - [https://www.dailywire.com/news/terrifying-close-up-photograph-of-an-ants-face-goes-viral](https://www.dailywire.com/news/terrifying-close-up-photograph-of-an-ants-face-goes-viral)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 18:44:33+00:00
- - tags: None
 
 A close up photograph of an ant&#8217;s face has gone viral on social media this week as the high definition image showed the ant&#8217;s face to be something straight out of a horror movie. The photo of the basic carpenter ant was captured by Lithuanian photographer Dr. Eugenijus Kavaliauskas. The photo was honored with distinction ...
 
@@ -76,7 +67,6 @@ A close up photograph of an ant&#8217;s face has gone viral on social media this
  - [https://www.dailywire.com/news/biden-to-stump-for-embattled-new-mexico-governor-as-poll-shows-her-trailing-republican-challenger](https://www.dailywire.com/news/biden-to-stump-for-embattled-new-mexico-governor-as-poll-shows-her-trailing-republican-challenger)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 18:40:16+00:00
- - tags: None
 
 President Joe Biden will stump for Democratic New Mexico Governor Michelle Lujan Grisham ahead of her closely-contested race. The White House announced Thursday that Biden would travel to New Mexico to attend events with Grisham on November 3. No additional details were given, but the events will occur less than a week from Election Day ...
 
@@ -84,7 +74,6 @@ President Joe Biden will stump for Democratic New Mexico Governor Michelle Lujan
  - [https://www.dailywire.com/news/why-isnt-the-mainstream-media-treating-the-fentanyl-crisis-like-covid](https://www.dailywire.com/news/why-isnt-the-mainstream-media-treating-the-fentanyl-crisis-like-covid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 18:24:11+00:00
- - tags: None
 
 Why isn’t the mainstream media covering America’s fentanyl crisis more seriously? This is quite a severe topic, but I feel traumatized by the events taking place very close to my hometown and all throughout America. There was a shocking story published this week by the Wall Street Journal about three fentanyl-related overdose deaths. The story covers ...
 
@@ -92,7 +81,6 @@ Why isn’t the mainstream media covering America’s fentanyl crisis more serio
  - [https://www.dailywire.com/news/senate-investigation-concludes-covid-likely-originated-from-a-chinese-lab](https://www.dailywire.com/news/senate-investigation-concludes-covid-likely-originated-from-a-chinese-lab)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:49:31+00:00
- - tags: None
 
 The Republican staff of the Senate Committee On Health, Education, Labor, and Pensions, led by Sen. Richard Burr of North Carolina, studied medical literature and other publicly available material for fifteen months and found numerous problems with the idea that the disease jumped naturally from bats to humans, as well as numerous reasons to suspect a problem at the Wuhan Institute of Virology.
 
@@ -100,7 +88,6 @@ The Republican staff of the Senate Committee On Health, Education, Labor, and Pe
  - [https://www.dailywire.com/news/pa-secretary-of-state-says-election-results-face-possible-delays-in-counting-denounces-nefarious-activity](https://www.dailywire.com/news/pa-secretary-of-state-says-election-results-face-possible-delays-in-counting-denounces-nefarious-activity)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:40:12+00:00
- - tags: None
 
 Pennsylvania acting Secretary of State Leigh M. Chapman said during a news conference that the state&#8217;s midterm election could likely experience delays in counting the ballots. Chapman said the news conference was held to prevent misinformation from spreading before the November 8 election day approaches, according to local media. &#8220;It&#8217;s really important for us to ...
 
@@ -108,7 +95,6 @@ Pennsylvania acting Secretary of State Leigh M. Chapman said during a news confe
  - [https://www.dailywire.com/news/schumer-warns-biden-on-hot-mic-that-democrats-are-vulnerable-in-key-state-were-in-danger](https://www.dailywire.com/news/schumer-warns-biden-on-hot-mic-that-democrats-are-vulnerable-in-key-state-were-in-danger)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:28:21+00:00
- - tags: None
 
 Senate Majority Leader Charles Schumer (D-NY) was caught on a hot mic Thursday afternoon telling President Joe Biden (D) that Democrats were in trouble with just days before next month&#8217;s midterm elections. &#8220;That seat, we&#8217;re in danger in that seat,&#8221; Schumer told Biden, adding a few moments later, &#8220;It&#8217;s close. We&#8217;ll see.&#8221; It&#8217;s not clear ...
 
@@ -116,7 +102,6 @@ Senate Majority Leader Charles Schumer (D-NY) was caught on a hot mic Thursday a
  - [https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes](https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:18:42+00:00
- - tags: None
 
 Project Veritas shared an image on social media Thursday claiming an FBI whistleblower leaked a document showing the agency classified “misinformation” as an “election crime” ahead of the 2022 Midterm Elections next month. According to the document, titled &#8220;2022 Midterm Elections Social Media Analysis Cheat Sheet,&#8221; election crimes include eight sections that fall under federal ...
 
@@ -124,7 +109,6 @@ Project Veritas shared an image on social media Thursday claiming an FBI whistle
  - [https://www.dailywire.com/news/fans-skeptical-that-amal-clooneys-5-year-old-drew-a-photo-of-putin-in-prison](https://www.dailywire.com/news/fans-skeptical-that-amal-clooneys-5-year-old-drew-a-photo-of-putin-in-prison)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:14:18+00:00
- - tags: None
 
 Amal Clooney recently bragged that her 5-year-old son supposedly drew a photo of a prison and said that Russian President Vladimir Putin should be in it. The 44-year-old human rights lawyer mentioned the alleged sketch during a panel discussion alongside Michelle Obama and Melinda Gates at a panel in New York City earlier this week. Clooney, ...
 
@@ -132,7 +116,6 @@ Amal Clooney recently bragged that her 5-year-old son supposedly drew a photo of
  - [https://www.dailywire.com/news/justice-alito-discusses-pretty-abysmal-disgraceful-free-speech-situation-at-colleges-law-schools](https://www.dailywire.com/news/justice-alito-discusses-pretty-abysmal-disgraceful-free-speech-situation-at-colleges-law-schools)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:13:39+00:00
- - tags: None
 
 Supreme Court Justice Samuel Alito recently discussed the reality of free speech on college campuses and law schools, pointing to the disturbing culture surrounding the lack of free dialogue.  During a discussion at the Heritage Foundation, Alito was asked about the situation on college campuses, as well as law schools, regarding freedom of speech. He ...
 
@@ -140,7 +123,6 @@ Supreme Court Justice Samuel Alito recently discussed the reality of free speech
  - [https://www.dailywire.com/news/no-paypal-didnt-bring-back-its-2500-misinformation-penalty-but-they-still-may-fine-you-for-other-concerning-reasons](https://www.dailywire.com/news/no-paypal-didnt-bring-back-its-2500-misinformation-penalty-but-they-still-may-fine-you-for-other-concerning-reasons)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:04:08+00:00
- - tags: None
 
 Social media users are circulating incorrect reports which claim that PayPal brought back a retracted attempt to sanction users $2,500 for spreading “misinformation” through the platform, as highlighted by a report from The Daily Wire. PayPal, which has deplatformed multiple organizations and commentators for their political views, had released an upcoming change to its acceptable ...
 
@@ -148,7 +130,6 @@ Social media users are circulating incorrect reports which claim that PayPal bro
  - [https://www.dailywire.com/news/meta-shares-fall-to-lowest-level-since-2016-as-company-burns-billions-on-metaverse-inflates-payrolls](https://www.dailywire.com/news/meta-shares-fall-to-lowest-level-since-2016-as-company-burns-billions-on-metaverse-inflates-payrolls)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 16:30:06+00:00
- - tags: None
 
 Shares of Meta plunged nearly 24% on Thursday as the social media company severely missed quarterly earnings expectations amid criticism of bloated payrolls and distracted spending. Revenues fell year-over-year from $29.0 billion to $27.7 billion, indicating a 4% decline, even as costs and expenses increased 19%, from $18.6 billion to $22.1 billion. Net income more ...
 
@@ -156,7 +137,6 @@ Shares of Meta plunged nearly 24% on Thursday as the social media company severe
  - [https://www.dailywire.com/news/dckhead-piers-morgan-goes-on-epic-rant-against-prince-harry-ahead-of-release-of-royals-memoir-playing-the-victim-and-more](https://www.dailywire.com/news/dckhead-piers-morgan-goes-on-epic-rant-against-prince-harry-ahead-of-release-of-royals-memoir-playing-the-victim-and-more)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 16:14:20+00:00
- - tags: None
 
 Piers Morgan went on an epic rant on Twitter on Thursday against &#8220;d*ckhead&#8221; Prince Harry — ahead of the release of the royal&#8217;s memoir — accusing the prince of &#8220;playing the victim&#8221; and more. The British TV host talked about the man he labeled as &#8220;petulant,&#8221; &#8220;selfish,&#8221; and &#8220;greedy&#8221; in a lengthy series of posts ...
 
@@ -164,7 +144,6 @@ Piers Morgan went on an epic rant on Twitter on Thursday against &#8220;d*ckhead
  - [https://www.dailywire.com/news/kari-lake-fires-back-after-katie-hobbs-blames-her-and-allies-for-campaign-office-break-in](https://www.dailywire.com/news/kari-lake-fires-back-after-katie-hobbs-blames-her-and-allies-for-campaign-office-break-in)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:56:37+00:00
- - tags: None
 
 Arizona gubernatorial candidate Kari Lake (R) quickly fired back after her opponent, AZ Secretary of State Katie Hobbs, insinuated that she or her &#8220;allies&#8221; had at least inspired a recent break-in at her campaign office. Hobbs released a statement following the burglary — which allegedly took place at her campaign headquarters in Phoenix and was ...
 
@@ -172,7 +151,6 @@ Arizona gubernatorial candidate Kari Lake (R) quickly fired back after her oppon
  - [https://www.dailywire.com/news/taylor-swifts-anti-hero-music-video-edited-after-critics-call-it-fatphobic](https://www.dailywire.com/news/taylor-swifts-anti-hero-music-video-edited-after-critics-call-it-fatphobic)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:54:47+00:00
- - tags: None
 
 Taylor Swift fans noticed on Thursday that a scene was edited from her new &#8220;Anti-Hero&#8221; music video on Apple Music and later on YouTube after critics called it &#8220;fatphobic.&#8221; In the five-minute long video from her latest album &#8220;Midnights,&#8221; the 32-year-old singer is seen basically battling herself in a bathroom and stepping onto a scale. ...
 
@@ -180,7 +158,6 @@ Taylor Swift fans noticed on Thursday that a scene was edited from her new &#822
  - [https://www.dailywire.com/news/analyst-election-polls-underestimating-republican-margins-by-5](https://www.dailywire.com/news/analyst-election-polls-underestimating-republican-margins-by-5)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:54:15+00:00
- - tags: None
 
 The polls they are a changin&#8217;. In a generic ballot released this week by USA Today, Republicans are up four points over Democrats, 49-45. That&#8217;s a huge change from USA Today&#8217;s previous poll in July when Democrats led Republicans 44-40. So voters are clearly moving hard &#8212; and picking Republican candidates. But the polls are ...
 
@@ -188,7 +165,6 @@ The polls they are a changin&#8217;. In a generic ballot released this week by U
  - [https://www.dailywire.com/news/california-marijuana-companies-sued-over-alleged-false-thc-labeling](https://www.dailywire.com/news/california-marijuana-companies-sued-over-alleged-false-thc-labeling)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:44:08+00:00
- - tags: None
 
 Two California companies are facing a lawsuit over low-potency marijuana products. The suit was filed against DreamFields Brands, Inc. and Med for America, Inc. The companies are accused of inaccurately telling consumers that some cannabis products contained higher levels of tetrahydrocannabinol, or THC, which creates the feeling of being high for people who use the ...
 
@@ -196,7 +172,6 @@ Two California companies are facing a lawsuit over low-potency marijuana product
  - [https://www.dailywire.com/news/major-financiers-warn-fed-may-spike-interest-rates](https://www.dailywire.com/news/major-financiers-warn-fed-may-spike-interest-rates)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:37:56+00:00
- - tags: None
 
 Two of the major players in the financial industry warned that the U.S. is on the verge of a recession and that the Federal Reserve might well raise the interest rate from its current 3-3.25% all the way to 4.5-4.75%. David Solomon, CEO of Goldman Sachs, and Jamie Dimon, the chairman and chief executive of ...
 
@@ -204,7 +179,6 @@ Two of the major players in the financial industry warned that the U.S. is on th
  - [https://www.dailywire.com/news/f-no-love-is-blind-cast-member-has-visceral-pro-life-reaction-when-fiance-talks-aborting-kids-with-special-needs](https://www.dailywire.com/news/f-no-love-is-blind-cast-member-has-visceral-pro-life-reaction-when-fiance-talks-aborting-kids-with-special-needs)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:26:38+00:00
- - tags: None
 
 A cast member on Netflix&#8217;s third season of the hit show &#8220;Love is Blind&#8221; had a visceral reaction when his fiancé asked him about potentially aborting their child if the baby tests positive for a &#8220;birth defect.&#8221; While cast member Nancy Rodriguez said she would want to have the child aborted in her womb and &#8220;try ...
 
@@ -212,7 +186,6 @@ A cast member on Netflix&#8217;s third season of the hit show &#8220;Love is Bli
  - [https://www.dailywire.com/news/young-woman-claims-she-was-arrested-for-her-good-looks-two-months-later-shes-accused-of-murdering-her-mother](https://www.dailywire.com/news/young-woman-claims-she-was-arrested-for-her-good-looks-two-months-later-shes-accused-of-murdering-her-mother)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:07:51+00:00
- - tags: None
 
 A Las Vegas woman who reportedly left a restaurant without paying in August, then claimed she was arrested because “officers were perverts and were trying to rape her” as she was so pretty is now accused of murdering her mother. In August, Hend Bustami, 28, was arrested at the Harry Reid International Airport after reportedly ...
 
@@ -220,7 +193,6 @@ A Las Vegas woman who reportedly left a restaurant without paying in August, the
  - [https://www.dailywire.com/news/ny-post-fires-rogue-employee-for-doctoring-headlines-sending-fake-tweets](https://www.dailywire.com/news/ny-post-fires-rogue-employee-for-doctoring-headlines-sending-fake-tweets)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 15:01:30+00:00
- - tags: None
 
 The New York Post has fired an employee who apparently went rogue on Thursday, posting a number of obscene and violent headlines both to the outlet&#8217;s main website and its official Twitter account. Initial reports suggested that the Post website&#8217;s back end was hacked — and because new headlines were set up to auto-populate tweets, ...
 
@@ -228,7 +200,6 @@ The New York Post has fired an employee who apparently went rogue on Thursday, p
  - [https://www.dailywire.com/news/italian-authorities-investigate-pfizer-for-allegedly-funneling-1-2-billion-out-of-country-to-avoid-taxes](https://www.dailywire.com/news/italian-authorities-investigate-pfizer-for-allegedly-funneling-1-2-billion-out-of-country-to-avoid-taxes)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:54:15+00:00
- - tags: None
 
 Italian authorities launched an investigation into Pfizer earlier this year for allegedly funneling over a billion dollars in profits out of the country to dodge paying certain taxes, sources told Bloomberg. Italy’s Guardia di Finanza, a police force under the Minister of Economy and Finance, alleges that the pharmaceutical giant transferred $1.2 billion in excess ...
 
@@ -236,7 +207,6 @@ Italian authorities launched an investigation into Pfizer earlier this year for 
  - [https://www.dailywire.com/news/disney-introduces-plus-sized-heroine-in-new-short-about-body-positivity](https://www.dailywire.com/news/disney-introduces-plus-sized-heroine-in-new-short-about-body-positivity)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:52:56+00:00
- - tags: None
 
 After years of fans demanding a plus-sized heroine, Disney responded with a short film about a young overweight ballet dancer with body dysmorphia. The Short Circuit episode, which is directed by Hillary Bradfield, is called “Reflect.” It’s currently available on Disney+. In it, Bianca deals with being a plus-sized dancer. Bianca’s teacher first checks her ...
 
@@ -244,7 +214,6 @@ After years of fans demanding a plus-sized heroine, Disney responded with a shor
  - [https://www.dailywire.com/news/viral-tiktok-clip-tells-white-people-dont-go-to-black-panther-sequels-opening-weekend-its-not-for-them](https://www.dailywire.com/news/viral-tiktok-clip-tells-white-people-dont-go-to-black-panther-sequels-opening-weekend-its-not-for-them)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:52:54+00:00
- - tags: None
 
 A viral TikTok clip tells &#8220;white people&#8221; not to attend &#8220;Black Panther: Wakanda Forever&#8221; on opening weekend because it&#8217;s not for them and was made for black people. In the now-deleted clip that recently surfaced on social media, an influencer identified as activist Lavynder Lee told &#8220;white people&#8221; they could show their love for black ...
 
@@ -252,7 +221,6 @@ A viral TikTok clip tells &#8220;white people&#8221; not to attend &#8220;Black 
  - [https://www.dailywire.com/news/economy-turns-positive-in-third-quarter-biden-takes-credit](https://www.dailywire.com/news/economy-turns-positive-in-third-quarter-biden-takes-credit)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:41:00+00:00
- - tags: None
 
 The American economy grew at a 2.6% annualized pace in the third quarter of 2022, according to an advance estimate from the Bureau of Economic Analysis released Thursday. Real gross domestic product (GDP), the sum of all final goods and services produced in the economy, increased between July and September following two straight months of ...
 
@@ -260,7 +228,6 @@ The American economy grew at a 2.6% annualized pace in the third quarter of 2022
  - [https://www.dailywire.com/news/1619-project-writer-demanded-40k-for-45-minute-speech-busting-librarys-budget](https://www.dailywire.com/news/1619-project-writer-demanded-40k-for-45-minute-speech-busting-librarys-budget)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:29:00+00:00
- - tags: None
 
 The 1619 Project writer who has earned an opulent living highlighting racial inequality in schools was paid $40,000 to give a speech at a high school just minutes away from the campus of her new employer, according to materials obtained by The Daily Wire.
 
@@ -268,7 +235,6 @@ The 1619 Project writer who has earned an opulent living highlighting racial ine
  - [https://www.dailywire.com/news/politico-election-forecaster-shifts-az-senate-to-toss-up-after-late-blake-masters-rally](https://www.dailywire.com/news/politico-election-forecaster-shifts-az-senate-to-toss-up-after-late-blake-masters-rally)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:28:50+00:00
- - tags: None
 
 Politico elections forecaster Steven Shepard changed the rating of the U.S. Senate race in Arizona to a “toss up” Wednesday, shifting it away from Democrats less than two weeks away from the election. Republican Blake Masters has surged in recent weeks on a wave of support for GOP priorities such as immigration, inflation, and crime. ...
 
@@ -276,7 +242,6 @@ Politico elections forecaster Steven Shepard changed the rating of the U.S. Sena
  - [https://www.dailywire.com/news/the-view-hosts-suck-republican-host-into-racially-charged-herschel-walker-hate-fest](https://www.dailywire.com/news/the-view-hosts-suck-republican-host-into-racially-charged-herschel-walker-hate-fest)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 14:01:06+00:00
- - tags: None
 
 New Republican co-host Alyssa Farah Griffin joined her liberal co-hosts on ABC&#8217;s &#8220;The View&#8221; in a segment devoted almost entirely to bashing Georgia Republican Senate candidate Herschel Walker. Griffin voiced agreement after her co-hosts claimed during Thursday&#8217;s broadcast that Walker had only been chosen as the GOP candidate because he was black — a claim ...
 
@@ -284,7 +249,6 @@ New Republican co-host Alyssa Farah Griffin joined her liberal co-hosts on ABC&#
  - [https://www.dailywire.com/news/trans-activists-allegedly-assault-threaten-demonstrators-at-let-women-speak-rally-shuttering-event](https://www.dailywire.com/news/trans-activists-allegedly-assault-threaten-demonstrators-at-let-women-speak-rally-shuttering-event)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 13:51:12+00:00
- - tags: None
 
 By way of threats and alleged assault, transgender activists on Wednesday reportedly forced a group of women&#8217;s rights demonstrators to shutter their &#8220;Let Women Speak&#8221; rally in Tacoma, Washington. Women&#8217;s rights campaigner Kellie-Jay Keen, who headed the event, told The Daily Wire the &#8220;Let Women Speak&#8221; speaking tour is intended to allow women who&#8217;ve been ...
 
@@ -292,7 +256,6 @@ By way of threats and alleged assault, transgender activists on Wednesday report
  - [https://www.dailywire.com/news/an-irish-teen-killed-a-home-invader-who-attacked-him-hes-now-getting-three-years-in-prison](https://www.dailywire.com/news/an-irish-teen-killed-a-home-invader-who-attacked-him-hes-now-getting-three-years-in-prison)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 13:30:33+00:00
- - tags: None
 
 A young man in Ireland was sentenced to three-and-a-half years in prison for defending himself and his family from a drunk intruder who attacked him in his own home. Dean Kerrie was just 17 years old on July 26, 2018, when a drunken 25-year-old named Jack Power broke into Kerrie’s home and attacked him late ...
 
@@ -300,7 +263,6 @@ A young man in Ireland was sentenced to three-and-a-half years in prison for def
  - [https://www.dailywire.com/news/after-election-day-pummeling-democrats-will-play-the-race-card-hard](https://www.dailywire.com/news/after-election-day-pummeling-democrats-will-play-the-race-card-hard)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 13:20:22+00:00
- - tags: None
 
 Democrats are already prepping their talking points for November 9: The elections were stolen because Republicans suppressed voters of color. It&#8217;s an old chestnut that liberals unshell every two years. Republicans aren&#8217;t just trying to clear voting rolls of those who have died or moved, no, they&#8217;re actively trying to disenfranchise as many Americans as ...
 
@@ -308,7 +270,6 @@ Democrats are already prepping their talking points for November 9: The election
  - [https://www.dailywire.com/news/miss-universe-pageant-bought-by-transgender-tv-star-from-thailand](https://www.dailywire.com/news/miss-universe-pageant-bought-by-transgender-tv-star-from-thailand)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 12:52:45+00:00
- - tags: None
 
 In the wake of a scandal in which various Miss USA contestants alleged that the 2022 Miss USA pageant was rigged in favor of Miss Texas, the Miss Universe organization, which suspended the organizers of the Miss USA pageant, was bought by a transgender person from Thailand. Anne Jakkaphong Jakrajutatip, CEO and biggest shareholder of ...
 
@@ -316,7 +277,6 @@ In the wake of a scandal in which various Miss USA contestants alleged that the 
  - [https://www.dailywire.com/news/michael-j-fox-reflects-on-recent-health-setbacks-says-hes-happy-overall](https://www.dailywire.com/news/michael-j-fox-reflects-on-recent-health-setbacks-says-hes-happy-overall)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 12:34:25+00:00
- - tags: None
 
 Michael J. Fox said he’s been facing some challenges lately with Parkinson’s, but he’s still generally “happy” with life. The 61-year-old actor was diagnosed with the degenerative disease more than three decades ago and has opened up about the struggle before. He previously described 2018 as the worst year of his life after undergoing back ...
 
@@ -324,7 +284,6 @@ Michael J. Fox said he’s been facing some challenges lately with Parkinson’s
  - [https://www.dailywire.com/news/biden-chief-of-staff-informed-he-violated-hatch-act](https://www.dailywire.com/news/biden-chief-of-staff-informed-he-violated-hatch-act)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 12:27:14+00:00
- - tags: None
 
 White House Chief of Staff Ron Klain was informed by the Office of Special Counsel (OSC) that he violated the Hatch Act over a May Twitter post. The OSC noted the violation in a Wednesday letter to Gene Hamilton, vice president and general counsel at the America First Legal Foundation, who filed the complaint. “Although OSC ...
 
@@ -332,7 +291,6 @@ White House Chief of Staff Ron Klain was informed by the Office of Special Couns
  - [https://www.dailywire.com/news/lori-lightfoot-endorses-herself-getting-1st-pay-hike-for-chicago-mayor-in-16-years](https://www.dailywire.com/news/lori-lightfoot-endorses-herself-getting-1st-pay-hike-for-chicago-mayor-in-16-years)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 11:45:05+00:00
- - tags: None
 
 Chicago Mayor Lori Lightfoot, who during her tenure has had Chicago cops turn their backs on her, texted “this city is up for grabs” when riots broke out after the death of George Floyd, and boasted, “I have the biggest d*** in Chicago” when she attacked a former Chicago Park District official who made a ...
 
@@ -340,7 +298,6 @@ Chicago Mayor Lori Lightfoot, who during her tenure has had Chicago cops turn th
  - [https://www.dailywire.com/news/how-these-veteran-actors-use-low-budget-action-flicks-to-keep-the-fire-burning](https://www.dailywire.com/news/how-these-veteran-actors-use-low-budget-action-flicks-to-keep-the-fire-burning)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 11:44:10+00:00
- - tags: None
 
 Earlier this year, Bruce Willis retired from acting after revealing his battle with aphasia, a medical condition that impacts a person’s speech patterns. The announcement didn’t stop the flow of Willis projects in the pipeline, though. “Wire Room” hit theaters in September and “Paradise City,” which teams him with screen legend John Travolta, is set ...
 
@@ -348,7 +305,6 @@ Earlier this year, Bruce Willis retired from acting after revealing his battle w
  - [https://www.dailywire.com/news/read-it-elon-musk-explains-why-he-bought-twitter](https://www.dailywire.com/news/read-it-elon-musk-explains-why-he-bought-twitter)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 11:35:54+00:00
- - tags: None
 
 Ever since the world&#8217;s richest man, Elon Musk, put in a bid to purchase Twitter last spring, rumors have swirled as to why he is so interested in the social media platform. Thursday, we finally received clarity as to what Musk&#8217;s motive is. In a message addressed to advertisers, Musk told the world exactly what ...
 
@@ -356,7 +312,6 @@ Ever since the world&#8217;s richest man, Elon Musk, put in a bid to purchase Tw
  - [https://www.dailywire.com/news/top-dem-admits-trump-was-right-about-tiktok-and-chinese-spying](https://www.dailywire.com/news/top-dem-admits-trump-was-right-about-tiktok-and-chinese-spying)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 11:34:43+00:00
- - tags: None
 
 A top Democratic lawmaker told an Australian audience this week that former President Trump was right when he warned that TikTok was a tool of the Chinese Communist Party. Virginia Sen. Mark Warner, who heads the Senate Select Committee on Intelligence, offered rare praise to Trump, whose 2020 bid to ban the app was blocked ...
 
@@ -364,7 +319,6 @@ A top Democratic lawmaker told an Australian audience this week that former Pres
  - [https://www.dailywire.com/news/leading-gender-affirming-psychiatrists-popular-article-updated-after-fact-check-reveals-misleading-claims](https://www.dailywire.com/news/leading-gender-affirming-psychiatrists-popular-article-updated-after-fact-check-reveals-misleading-claims)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 11:27:07+00:00
- - tags: None
 
 A popular article claiming to show mental health benefits from &#8220;gender-affirming&#8221; care has been updated by the publisher after it was shown to contain distortions and misleading information. Dr. Jack Turban, an activist researcher, published an article in Psychology Today in January of this year claiming that scientific studies demonstrate clear mental health benefits of ...
 
@@ -372,7 +326,6 @@ A popular article claiming to show mental health benefits from &#8220;gender-aff
  - [https://www.dailywire.com/news/taylor-swift-fans-recall-miscarriages-thanks-to-her-new-song-bigger-than-the-whole-sky](https://www.dailywire.com/news/taylor-swift-fans-recall-miscarriages-thanks-to-her-new-song-bigger-than-the-whole-sky)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 10:28:16+00:00
- - tags: None
 
 Many Taylor Swift fans are convinced that one of the new songs on her album “Midnights” is about miscarriage, and even if it’s not, they’re processing their own losses using the lyrics. The song, “Bigger Than The Whole Sky,” is definitely about lost love of some kind. But the specific words Swift uses to convey ...
 
@@ -380,7 +333,6 @@ Many Taylor Swift fans are convinced that one of the new songs on her album “M
  - [https://www.dailywire.com/news/fired-football-coach-to-be-reinstated-after-supreme-court-win](https://www.dailywire.com/news/fired-football-coach-to-be-reinstated-after-supreme-court-win)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 09:51:09+00:00
- - tags: None
 
 Joe Kennedy, the Washington state high school football coach who lost his job in 2015 for praying on the field after games, will be reinstated by March 15, 2023. The news comes after Kennedy&#8217;s Supreme Court victory in June that ruled 6-3 that the coach was within his constitutional rights when he prayed at midfield ...
 
@@ -388,7 +340,6 @@ Joe Kennedy, the Washington state high school football coach who lost his job in
  - [https://www.dailywire.com/news/lindsey-graham-pushes-back-against-new-allegations-against-herschel-walker-its-the-kavanaugh-storyline](https://www.dailywire.com/news/lindsey-graham-pushes-back-against-new-allegations-against-herschel-walker-its-the-kavanaugh-storyline)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 07:21:34+00:00
- - tags: None
 
 Sen. Lindsey Graham (R-SC) pushed back on new allegations against Georgia U.S. Senate Republican candidate Herschel Walker during a press conference Wednesday, saying that the timing and the way that it unfolded reminds him of the salacious and unproven allegations that were made in 2018 against then-Supreme Court nominee Brett Kavanaugh. Left-wing lawyer Gloria Allred ...
 
@@ -396,7 +347,6 @@ Sen. Lindsey Graham (R-SC) pushed back on new allegations against Georgia U.S. S
  - [https://www.dailywire.com/news/family-dinners-shared-meals-and-the-importance-of-social-engagement](https://www.dailywire.com/news/family-dinners-shared-meals-and-the-importance-of-social-engagement)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 07:16:52+00:00
- - tags: None
 
 The following is a transcript excerpt from Dr. Jordan Peterson’s conversation with Warren Farrell on the role fathers play in a child’s development. You can listen to or watch the full podcast on DailyWire+. Podcast time: 1:16:11 Imagine your family has a story, and the story is where we came from, where we are, and ...
 
@@ -404,6 +354,5 @@ The following is a transcript excerpt from Dr. Jordan Peterson’s conversation 
  - [https://www.dailywire.com/news/the-absolute-necessity-of-fathers](https://www.dailywire.com/news/the-absolute-necessity-of-fathers)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 07:16:52+00:00
- - tags: None
 
 The following is a transcript excerpt from Dr. Jordan Peterson’s conversation with Warren Farrell on the role fathers play in a child’s development. You can listen to or watch the full podcast on DailyWire+. Podcast time: 1:16:11 Imagine your family has a story, and the story is where we came from, where we are, and ...

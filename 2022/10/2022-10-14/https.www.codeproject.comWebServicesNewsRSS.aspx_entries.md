@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## "Always on top" attribute...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59200](https://www.codeproject.com/script/News/View.aspx?nwid=59200)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 You're all "always on top" as far as I'm concerned
 
@@ -12,7 +11,6 @@ You're all "always on top" as far as I'm concerned
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59198](https://www.codeproject.com/script/News/View.aspx?nwid=59198)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 We should have an all-hands meeting to discuss
 
@@ -20,7 +18,6 @@ We should have an all-hands meeting to discuss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59195](https://www.codeproject.com/script/News/View.aspx?nwid=59195)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 Alphabet Inc.’s DeepMind unit today detailed AlphaTensor, an artificial intelligence system capable of discovering new algorithms that can be used to solve mathematical problems.
 
@@ -28,7 +25,6 @@ Alphabet Inc.’s DeepMind unit today detailed AlphaTensor, an artificial intell
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59203](https://www.codeproject.com/script/News/View.aspx?nwid=59203)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 "New customer, new phone"
 
@@ -36,7 +32,6 @@ Alphabet Inc.’s DeepMind unit today detailed AlphaTensor, an artificial intell
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59199](https://www.codeproject.com/script/News/View.aspx?nwid=59199)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 What's the big deal? I write functions
 
@@ -44,7 +39,6 @@ What's the big deal? I write functions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59193](https://www.codeproject.com/script/News/View.aspx?nwid=59193)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 At the Google Cloud Next 2022 event, Google made it clear that it wants to be enterprises’ deployment target of choice for AI and machine learning (ML) workloads.
 
@@ -52,7 +46,6 @@ At the Google Cloud Next 2022 event, Google made it clear that it wants to be en
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59204](https://www.codeproject.com/script/News/View.aspx?nwid=59204)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 At Amazon Search, we’re responsible for the search and discovery experience for our customers worldwide. In the background, we index our worldwide catalog of products, deploy highly scalable AWS fleets, and use advanced machine learning (ML) to match relevant and interesting products to every customer’s query.
 
@@ -60,7 +53,6 @@ At Amazon Search, we’re responsible for the search and discovery experience fo
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59194](https://www.codeproject.com/script/News/View.aspx?nwid=59194)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 In this tutorial, you will discover how to implement the Transformer encoder from scratch in TensorFlow and Keras.
 
@@ -68,7 +60,6 @@ In this tutorial, you will discover how to implement the Transformer encoder fro
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59191](https://www.codeproject.com/script/News/View.aspx?nwid=59191)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 A blog for non-ML people who want to learn about machine learning decision trees.
 
@@ -76,7 +67,6 @@ A blog for non-ML people who want to learn about machine learning decision trees
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59190](https://www.codeproject.com/script/News/View.aspx?nwid=59190)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 Out of Office message
 
@@ -84,7 +74,6 @@ Out of Office message
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59197](https://www.codeproject.com/script/News/View.aspx?nwid=59197)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 Maybe next they could have it run away from the mouse cursor?
 
@@ -92,7 +81,6 @@ Maybe next they could have it run away from the mouse cursor?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59192](https://www.codeproject.com/script/News/View.aspx?nwid=59192)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 Get a quick and easy introduction to natural language processing using the free, open source Apache OpenNLP toolkit and pre-built models for language detection, sentence detection, tagging parts of speech, and more.
 
@@ -100,7 +88,6 @@ Get a quick and easy introduction to natural language processing using the free,
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59196](https://www.codeproject.com/script/News/View.aspx?nwid=59196)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 "This is the voice of world control. I bring you peace."
 
@@ -108,7 +95,6 @@ Get a quick and easy introduction to natural language processing using the free,
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59201](https://www.codeproject.com/script/News/View.aspx?nwid=59201)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 That's how you know it's working
 
@@ -116,7 +102,6 @@ That's how you know it's working
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59202](https://www.codeproject.com/script/News/View.aspx?nwid=59202)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 Why maintain? Just create a new project with that week's framework.
 
@@ -124,6 +109,5 @@ Why maintain? Just create a new project with that week's framework.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59205](https://www.codeproject.com/script/News/View.aspx?nwid=59205)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-14 04:00:00+00:00
- - tags: None
 
 Pre­trained neural net­works have reached the point where they are good enough for many appli­ca­tions with­out fur­ther train­ing.

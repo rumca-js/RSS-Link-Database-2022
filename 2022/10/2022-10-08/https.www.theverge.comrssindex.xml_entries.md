@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## DC Universe Infinite launches Ultra tier so you can read new comics sooner
  - [https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription](https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 22:10:55+00:00
- - tags: None
 
 <figure>
       <img alt="A comic book scene showing Superman facing off against an enemy" src="https://cdn.vox-cdn.com/thumbor/EPCRboq4q0Ou8oO4ZV0QbZuSKNs=/0x386:1238x1211/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71471636/Death_of_Superman_Ivan_Reis_634193b80e5af8.80572345.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/8/23394274/star-trek-latest-picard-teaser-surprises-james-moriarty-lore](https://www.theverge.com/2022/10/8/23394274/star-trek-latest-picard-teaser-surprises-james-moriarty-lore)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 21:11:31+00:00
- - tags: None
 
 <figure>
       <img alt="Amanda Plummer as Vadic in the Star Trek: Picard trailer" src="https://cdn.vox-cdn.com/thumbor/uoWdjZ-h3-0VINfaZP_XE2W1M8E=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71471454/star_trek_picard_final_season_trailer.0.jpeg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/8/23394077/persona-4-golden-persona-3-portable-modern-consoles-january-2023-atlus](https://www.theverge.com/2022/10/8/23394077/persona-4-golden-persona-3-portable-modern-consoles-january-2023-atlus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 17:18:47+00:00
- - tags: None
 
 <figure>
       <img alt="Persona 4: Golden" src="https://cdn.vox-cdn.com/thumbor/k5if2miEbzkTTVrVyY4XZDSh7hs=/0x0:1129x753/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71470898/p4golden.0.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/10/8/23393053/google-pixel-buds-pro-sony-earbuds-lg-c2-fire-tablet-deal-sale](https://www.theverge.com/2022/10/8/23393053/google-pixel-buds-pro-sony-earbuds-lg-c2-fire-tablet-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 17:01:46+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the lemongrass Google Pixel Buds being used in the subject’s right ear" src="https://cdn.vox-cdn.com/thumbor/0UT48IDMim1IPilvdtwn7r8ul0E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71470866/DSCF8473_2.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/2022/10/8/23392703/samsung-amd-semiconductor-chip-shortage-slump-2022](https://www.theverge.com/2022/10/8/23392703/samsung-amd-semiconductor-chip-shortage-slump-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/OzyC6-pSwddEGVh0Mji7wGbERJM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71470465/acastro_210430_1777_semiCon_0003.0.jpg" />
@@ -69,7 +64,6 @@
  - [https://www.theverge.com/23392564/fitbit-sense-2-review-google-fitness-tracker](https://www.theverge.com/23392564/fitbit-sense-2-review-google-fitness-tracker)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 14:00:00+00:00
- - tags: None
 
 <p>The fitness tracker has industry-leading stress tracking, but pour one out for the future of Fitbit smartwatches</p>
   <p>
@@ -80,7 +74,6 @@
  - [https://www.theverge.com/2022/10/8/23393948/rivian-recall-13000-electric-vehicles-ev-loose-fastener](https://www.theverge.com/2022/10/8/23393948/rivian-recall-13000-electric-vehicles-ev-loose-fastener)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-08 13:47:56+00:00
- - tags: None
 
 <figure>
       <img alt="A white Rivian R1S from the front" src="https://cdn.vox-cdn.com/thumbor/BBtbg4tMmfpIeapW0_SFSLZgcIE=/340x282:1591x1116/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71470302/npatel_220627_5327_0046.0.jpg" />

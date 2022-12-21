@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Amazon Labor Union, With Renewed Momentum, Faces Next Test
  - [https://www.nytimes.com/2022/10/11/business/economy/amazon-labor-union.html](https://www.nytimes.com/2022/10/11/business/economy/amazon-labor-union.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-11 17:21:17+00:00
- - tags: None
 
 A vote this week at a warehouse near Albany, N.Y., will help show whether the upstart union can win outside its home base on Staten Island.
 
@@ -12,7 +11,6 @@ A vote this week at a warehouse near Albany, N.Y., will help show whether the up
  - [https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html](https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-11 12:31:34+00:00
- - tags: None
 
 When the world’s richest man isn’t tweeting, he’s flying to Burning Man, trying to impress comedians and hopping on yachts.
 
@@ -20,6 +18,5 @@ When the world’s richest man isn’t tweeting, he’s flying to Burning Man, t
  - [https://www.nytimes.com/2022/10/11/technology/gig-workers-drivers-para-app.html](https://www.nytimes.com/2022/10/11/technology/gig-workers-drivers-para-app.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-11 09:00:17+00:00
- - tags: None
 
 A former Uber employee created an app to help drivers. The platforms that hire them are fighting back.

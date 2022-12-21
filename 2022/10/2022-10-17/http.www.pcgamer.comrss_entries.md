@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Sasha Grey will portray a radio DJ in the Cyberpunk 2077 expansion
  - [https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion](https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 23:25:03+00:00
- - tags: None
 
 Grey revealed on Twitter that she will give voice to a DJ named Ash in Cyberpunk 2077: Phantom Liberty.
 
@@ -12,7 +11,6 @@ Grey revealed on Twitter that she will give voice to a DJ named Ash in Cyberpunk
  - [https://www.pcgamer.com/what-do-post-malone-junji-ito-and-metal-gears-concept-artist-have-in-common-theyre-all-coming-to-magic-the-gathering](https://www.pcgamer.com/what-do-post-malone-junji-ito-and-metal-gears-concept-artist-have-in-common-theyre-all-coming-to-magic-the-gathering)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 23:08:27+00:00
- - tags: None
 
 The Junji Ito and Yoji Shinkawa sets are gorgeous, and the Post Malone collab is honestly pretty fun.
 
@@ -20,7 +18,6 @@ The Junji Ito and Yoji Shinkawa sets are gorgeous, and the Post Malone collab is
  - [https://www.pcgamer.com/splinter-cell-remake-director-leaves-ubisoft](https://www.pcgamer.com/splinter-cell-remake-director-leaves-ubisoft)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 22:20:37+00:00
- - tags: None
 
 David Grivel said it's time for "a new adventure."
 
@@ -28,7 +25,6 @@ David Grivel said it's time for "a new adventure."
  - [https://www.pcgamer.com/overwatch-2s-weekly-coin-rewards-are-insultingly-low](https://www.pcgamer.com/overwatch-2s-weekly-coin-rewards-are-insultingly-low)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 22:00:23+00:00
- - tags: None
 
 I'd almost rather get nothing at all.
 
@@ -36,7 +32,6 @@ I'd almost rather get nothing at all.
  - [https://www.pcgamer.com/former-hearthstone-boss-says-marvel-snap-is-going-to-be-the-biggest-card-game-of-all-time](https://www.pcgamer.com/former-hearthstone-boss-says-marvel-snap-is-going-to-be-the-biggest-card-game-of-all-time)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 21:09:26+00:00
- - tags: None
 
 Ben Brode of Second Dinner tells us why simplicity and speed are key to Snap becoming the next big CCG.
 
@@ -44,7 +39,6 @@ Ben Brode of Second Dinner tells us why simplicity and speed are key to Snap bec
  - [https://www.pcgamer.com/elden-rings-soundtrack-is-being-turned-into-jazz-for-a-live-concert](https://www.pcgamer.com/elden-rings-soundtrack-is-being-turned-into-jazz-for-a-live-concert)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 20:42:30+00:00
- - tags: None
 
 A Night in the Lands Between will be led by Grammy-winning saxophonist Kenny Garrett and Japanese trumpeter Takuya Kuroda.
 
@@ -52,7 +46,6 @@ A Night in the Lands Between will be led by Grammy-winning saxophonist Kenny Gar
  - [https://www.pcgamer.com/riot-games-acquires-a-wargaming-studio-to-help-with-live-game-development](https://www.pcgamer.com/riot-games-acquires-a-wargaming-studio-to-help-with-live-game-development)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 20:25:06+00:00
- - tags: None
 
 Riot's new Australian operation will support League of Legends, Valorant, and tech development.
 
@@ -60,7 +53,6 @@ Riot's new Australian operation will support League of Legends, Valorant, and te
  - [https://www.pcgamer.com/is-the-mario-movie-trailer-supposed-to-look-like-this-diablo-2-cinematic](https://www.pcgamer.com/is-the-mario-movie-trailer-supposed-to-look-like-this-diablo-2-cinematic)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 20:16:32+00:00
- - tags: None
 
 Much to consider.
 
@@ -68,7 +60,6 @@ Much to consider.
  - [https://www.pcgamer.com/the-rtx-4090-is-such-a-chonker-that-this-company-designed-a-special-power-adapter-for-it](https://www.pcgamer.com/the-rtx-4090-is-such-a-chonker-that-this-company-designed-a-special-power-adapter-for-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 19:12:43+00:00
- - tags: None
 
 CableMod's' new right-angle power adapter should help fit a monstrous GPU into your case.
 
@@ -76,7 +67,6 @@ CableMod's' new right-angle power adapter should help fit a monstrous GPU into y
  - [https://www.pcgamer.com/leisure-suit-larry-voice-actor-jan-rabson-has-died](https://www.pcgamer.com/leisure-suit-larry-voice-actor-jan-rabson-has-died)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 18:15:31+00:00
- - tags: None
 
 Rabson was a prolific voice actor who worked in games, movies, and television.
 
@@ -84,7 +74,6 @@ Rabson was a prolific voice actor who worked in games, movies, and television.
  - [https://www.pcgamer.com/a-plague-tale-requiem-review](https://www.pcgamer.com/a-plague-tale-requiem-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 18:00:00+00:00
- - tags: None
 
 A sequel that gets all its rats in a row.
 
@@ -92,7 +81,6 @@ A sequel that gets all its rats in a row.
  - [https://www.pcgamer.com/scorn-first-puzzle-cocoon-door](https://www.pcgamer.com/scorn-first-puzzle-cocoon-door)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 16:16:51+00:00
- - tags: None
 
 Solve the cocoon puzzle and open the door.
 
@@ -100,7 +88,6 @@ Solve the cocoon puzzle and open the door.
  - [https://www.pcgamer.com/someones-reverse-engineered-perfect-dark-for-n64-and-made-a-pc-port-possible](https://www.pcgamer.com/someones-reverse-engineered-perfect-dark-for-n64-and-made-a-pc-port-possible)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 15:50:28+00:00
- - tags: None
 
 An effort to decompile Perfect Dark has borne fruit, opening the way for mods and ports.
 
@@ -108,7 +95,6 @@ An effort to decompile Perfect Dark has borne fruit, opening the way for mods an
  - [https://www.pcgamer.com/windows-11-amd-performance-ccd](https://www.pcgamer.com/windows-11-amd-performance-ccd)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 15:24:03+00:00
- - tags: None
 
 Another reason gamers may want to look lower down AMD's CPU stack.
 
@@ -116,7 +102,6 @@ Another reason gamers may want to look lower down AMD's CPU stack.
  - [https://www.pcgamer.com/amd--zen-4-cpu-production-decrease](https://www.pcgamer.com/amd--zen-4-cpu-production-decrease)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 15:13:07+00:00
- - tags: None
 
 Suggestion is that low PC demand and "poor reception" for the Zen 4 CPUs is to blame.
 
@@ -124,7 +109,6 @@ Suggestion is that low PC demand and "poor reception" for the Zen 4 CPUs is to b
  - [https://www.pcgamer.com/genshin-impact-padisarah-locations](https://www.pcgamer.com/genshin-impact-padisarah-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 14:51:14+00:00
- - tags: None
 
 These blossoms are needed to ascend Nilou.
 
@@ -132,7 +116,6 @@ These blossoms are needed to ascend Nilou.
  - [https://www.pcgamer.com/nvidia-reimburse-manufacturer-packaging-rtx-4080-12gb](https://www.pcgamer.com/nvidia-reimburse-manufacturer-packaging-rtx-4080-12gb)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 14:50:15+00:00
- - tags: None
 
 It's goodbye to the RTX 4080 12GB, and hello to whole lotta' hassle for manufacturing partners.
 
@@ -140,7 +123,6 @@ It's goodbye to the RTX 4080 12GB, and hello to whole lotta' hassle for manufact
  - [https://www.pcgamer.com/persona-5-royal-review](https://www.pcgamer.com/persona-5-royal-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 14:00:00+00:00
- - tags: None
 
 Turn-based RPGs take a knee, here's your new king.
 
@@ -148,7 +130,6 @@ Turn-based RPGs take a knee, here's your new king.
  - [https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker](https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 13:53:15+00:00
- - tags: None
 
 The turn-based tactics game claims to be a true digital miniatures experience—so we asked Squidmar to put it to the test.
 
@@ -156,7 +137,6 @@ The turn-based tactics game claims to be a true digital miniatures experience—
  - [https://www.pcgamer.com/crucial-p3-plus-2tb-review-benchmark-performance](https://www.pcgamer.com/crucial-p3-plus-2tb-review-benchmark-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 13:42:47+00:00
- - tags: None
 
 More capacity for less cash. But at what cost?
 
@@ -164,7 +144,6 @@ More capacity for less cash. But at what cost?
  - [https://www.pcgamer.com/danganronpas-creator-has-no-plans-for-a-sequel-right-now-but-never-say-never](https://www.pcgamer.com/danganronpas-creator-has-no-plans-for-a-sequel-right-now-but-never-say-never)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 13:22:29+00:00
- - tags: None
 
 Kazutaka Kodaka wants to focus on new things right now, but more Danganronpa is a possibility.
 
@@ -172,7 +151,6 @@ Kazutaka Kodaka wants to focus on new things right now, but more Danganronpa is 
  - [https://www.pcgamer.com/tf2s-voice-cast-is-terrorising-americas-small-towns-on-a-hunt-for-sandwiches](https://www.pcgamer.com/tf2s-voice-cast-is-terrorising-americas-small-towns-on-a-hunt-for-sandwiches)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 12:30:19+00:00
- - tags: None
 
 These voice actors are having far too much fun shouting about sandwiches in public.
 
@@ -180,7 +158,6 @@ These voice actors are having far too much fun shouting about sandwiches in publ
  - [https://www.pcgamer.com/genshin-impact-nilou-build-banner](https://www.pcgamer.com/genshin-impact-nilou-build-banner)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 12:28:49+00:00
- - tags: None
 
 Get ready for this Hydro dancer.
 
@@ -188,7 +165,6 @@ Get ready for this Hydro dancer.
  - [https://www.pcgamer.com/g4-tvs-short-lived-revival-is-disappearing-after-11-months](https://www.pcgamer.com/g4-tvs-short-lived-revival-is-disappearing-after-11-months)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 11:40:26+00:00
- - tags: None
 
 At least one former employee found out because of a tweet.
 
@@ -196,7 +172,6 @@ At least one former employee found out because of a tweet.
  - [https://www.pcgamer.com/logitech-g502x-wired-gaming-mouse-review](https://www.pcgamer.com/logitech-g502x-wired-gaming-mouse-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 11:32:55+00:00
- - tags: None
 
 A lightweight and ergonomically superior addition to the Logitech G502 gaming mouse lineup.
 
@@ -204,7 +179,6 @@ A lightweight and ergonomically superior addition to the Logitech G502 gaming mo
  - [https://www.pcgamer.com/asus-rog-crosshair-x670e-hero-motherboard-review](https://www.pcgamer.com/asus-rog-crosshair-x670e-hero-motherboard-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 11:29:28+00:00
- - tags: None
 
 A premium X670E motherboard that's certainly not for users on a budget.
 
@@ -212,7 +186,6 @@ A premium X670E motherboard that's certainly not for users on a budget.
  - [https://www.pcgamer.com/razers-kitty-kraken-v2-headset-is-all-ears](https://www.pcgamer.com/razers-kitty-kraken-v2-headset-is-all-ears)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 08:47:45+00:00
- - tags: None
 
 The new headsets come with interchangeable bunny, bear, and cat ears.
 
@@ -220,7 +193,6 @@ The new headsets come with interchangeable bunny, bear, and cat ears.
  - [https://www.pcgamer.com/todays-wordle-485-answer-hint](https://www.pcgamer.com/todays-wordle-485-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Monday's puzzle.
 
@@ -228,7 +200,6 @@ Wordle today: The solution and a hint for Monday's puzzle.
  - [https://www.pcgamer.com/razers-new-edge-game-streaming-handheld-will-start-at-dollar400-usd](https://www.pcgamer.com/razers-new-edge-game-streaming-handheld-will-start-at-dollar400-usd)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 06:09:22+00:00
- - tags: None
 
 We'd have to see how the cloud gaming actually works before knowing if it's worth it.
 
@@ -236,7 +207,6 @@ We'd have to see how the cloud gaming actually works before knowing if it's wort
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-17-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-17-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 00:55:44+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.
 
@@ -244,6 +214,5 @@ Sorting through every new game on Steam so you don't have to.
  - [https://www.pcgamer.com/dark-souls-2-fans-are-petitioning-for-the-return-of-long-forgotten-promo-weapons](https://www.pcgamer.com/dark-souls-2-fans-are-petitioning-for-the-return-of-long-forgotten-promo-weapons)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-17 00:19:30+00:00
- - tags: None
 
 Four limited time weapon reskins were added to the game to promote its DLCs, and have been unobtainable ever since.

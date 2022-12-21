@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Developers are in short supply, and that's keeping IT services companies busy
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59287](https://www.codeproject.com/script/News/View.aspx?nwid=59287)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 "It's good to be king"
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59298](https://www.codeproject.com/script/News/View.aspx?nwid=59298)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 The questionable force meets the unknowable object
 
@@ -20,7 +18,6 @@ The questionable force meets the unknowable object
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59292](https://www.codeproject.com/script/News/View.aspx?nwid=59292)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 Qwik’s innovative approach to code splitting and lazy loading offers a new way forward for front-end JavaScript
 
@@ -28,7 +25,6 @@ Qwik’s innovative approach to code splitting and lazy loading offers a new way
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59290](https://www.codeproject.com/script/News/View.aspx?nwid=59290)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 Let’s see how we can increase performance using a modern and extremely fast JavaScript bundler: esbuild.
 
@@ -36,7 +32,6 @@ Let’s see how we can increase performance using a modern and extremely fast Ja
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59294](https://www.codeproject.com/script/News/View.aspx?nwid=59294)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 This blog post is intended for library authors: We’ll learn how decorators work and use our knowledge to implement several of them.
 
@@ -44,7 +39,6 @@ This blog post is intended for library authors: We’ll learn how decorators wor
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59299](https://www.codeproject.com/script/News/View.aspx?nwid=59299)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 That's that thing in the dryer, right?
 
@@ -52,7 +46,6 @@ That's that thing in the dryer, right?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59296](https://www.codeproject.com/script/News/View.aspx?nwid=59296)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 Bad news for that old machine you have under the desk
 
@@ -60,7 +53,6 @@ Bad news for that old machine you have under the desk
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59297](https://www.codeproject.com/script/News/View.aspx?nwid=59297)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 "Nothing beside remains. Round the decay of that colossal Wreck, boundless and bare The lone and level sands stretch far away"
 
@@ -68,7 +60,6 @@ Bad news for that old machine you have under the desk
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59286](https://www.codeproject.com/script/News/View.aspx?nwid=59286)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 ARM yourself
 
@@ -76,7 +67,6 @@ ARM yourself
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59293](https://www.codeproject.com/script/News/View.aspx?nwid=59293)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 Highlights include the update of the V8 JavaScript engine to 10.7, and HTTP(s)/1.1 KeepAlive enabled by default.
 
@@ -84,7 +74,6 @@ Highlights include the update of the V8 JavaScript engine to 10.7, and HTTP(s)/1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59291](https://www.codeproject.com/script/News/View.aspx?nwid=59291)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 How do we best approach animating on the wild wild web? We’re going to cover some general approaches, some GSAP-specific tips and some motion principles.
 
@@ -92,7 +81,6 @@ How do we best approach animating on the wild wild web? We’re going to cover s
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59288](https://www.codeproject.com/script/News/View.aspx?nwid=59288)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 Did it make them actually work?
 
@@ -100,7 +88,6 @@ Did it make them actually work?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59289](https://www.codeproject.com/script/News/View.aspx?nwid=59289)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 Somewhere between talc and beryl?
 
@@ -108,6 +95,5 @@ Somewhere between talc and beryl?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59295](https://www.codeproject.com/script/News/View.aspx?nwid=59295)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-25 04:00:00+00:00
- - tags: None
 
 I got into Cloudflare pages because it lets you host static websites with all the latest optimizations conveniently and for free

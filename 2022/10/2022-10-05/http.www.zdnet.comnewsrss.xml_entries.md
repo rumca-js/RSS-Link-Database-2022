@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Samsung says it will develop chips with 'human-like performance'
  - [https://www.zdnet.com/article/samsung-says-it-will-develop-chips-with-human-like-performance/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-says-it-will-develop-chips-with-human-like-performance/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 23:40:39+00:00
- - tags: None
 
 Samsung says it wants to develop technologies and converge its wide array of logic chips to offer sensors that can act as all five human senses in the future.
 
@@ -12,7 +11,6 @@ Samsung says it wants to develop technologies and converge its wide array of log
  - [https://www.zdnet.com/article/what-is-elon-musks-x-the-everything-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-elon-musks-x-the-everything-app/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 23:17:47+00:00
- - tags: None
 
 "Twitter is an accelerant to fulfilling the original X.com vision," Musk tweeted on Wednesday, just a couple days after renewing his bid to purchase the social media platform.
 
@@ -20,7 +18,6 @@ Samsung says it wants to develop technologies and converge its wide array of log
  - [https://www.zdnet.com/article/how-to-encrypt-a-folder-in-macos-to-keep-sensitive-data-from-prying-eyes/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-encrypt-a-folder-in-macos-to-keep-sensitive-data-from-prying-eyes/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 21:03:27+00:00
- - tags: None
 
 You can achieve folder encryption with a third-party application, but there's also a built-in tool that can do this for you.
 
@@ -28,7 +25,6 @@ You can achieve folder encryption with a third-party application, but there's al
  - [https://www.zdnet.com/article/how-to-upgrade-your-iphone-in-car-charging-experience/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-upgrade-your-iphone-in-car-charging-experience/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 20:44:40+00:00
- - tags: None
 
 If you spend a lot of time on the road, you'll really appreciate this upgrade.
 
@@ -36,7 +32,6 @@ If you spend a lot of time on the road, you'll really appreciate this upgrade.
  - [https://www.zdnet.com/article/how-to-use-safaris-reading-list-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-safaris-reading-list-and-why-you-should/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 20:03:56+00:00
- - tags: None
 
 This handy Safari feature allows you to save webpages for later reading.
 
@@ -44,7 +39,6 @@ This handy Safari feature allows you to save webpages for later reading.
  - [https://www.zdnet.com/article/lenovo-semi-annual-sale-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/lenovo-semi-annual-sale-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 19:50:00+00:00
- - tags: None
 
 Score a Lenovo powerhouse for 60% off, or snag a new keyboard and mouse for $32 off. Lenovo's Semi-Annual Sale beat Amazon's October Prime Day to the punch.
 
@@ -52,7 +46,6 @@ Score a Lenovo powerhouse for 60% off, or snag a new keyboard and mouse for $32 
  - [https://www.zdnet.com/article/how-to-prevent-android-apps-from-adding-launchers-to-your-phones-home-screen/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-prevent-android-apps-from-adding-launchers-to-your-phones-home-screen/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 19:26:45+00:00
- - tags: None
 
 Prefer a minimalist Android home screen? Here's how to keep the app clutter at bay automatically.
 
@@ -60,7 +53,6 @@ Prefer a minimalist Android home screen? Here's how to keep the app clutter at b
  - [https://www.zdnet.com/article/this-ai-powered-device-tracks-you-or-your-horse-while-you-create-video-content/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-ai-powered-device-tracks-you-or-your-horse-while-you-create-video-content/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 19:07:47+00:00
- - tags: None
 
 The Pivo Pod Active is a solo content creator's best friend.
 
@@ -68,7 +60,6 @@ The Pivo Pod Active is a solo content creator's best friend.
  - [https://www.zdnet.com/article/iphone-13-mini-lives-the-case-for-buying-it-in-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-13-mini-lives-the-case-for-buying-it-in-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 16:00:00+00:00
- - tags: None
 
 Review: The iPhone 13 mini's screen is small, but its capabilities are endless. Don't write off the smallest iPhone, yet.
 
@@ -76,7 +67,6 @@ Review: The iPhone 13 mini's screen is small, but its capabilities are endless. 
  - [https://www.zdnet.com/home-and-office/smart-home/how-to-make-alexa-bilingual/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/how-to-make-alexa-bilingual/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 14:54:52+00:00
- - tags: None
 
 Having Alexa use more than one language is a great feature not only for multilingual households but also for those looking to practice their skills in a second language.
 
@@ -84,7 +74,6 @@ Having Alexa use more than one language is a great feature not only for multilin
  - [https://www.zdnet.com/article/amazon-kindle-sale-paperwhite-bundles-sales/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-kindle-sale-paperwhite-bundles-sales/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 13:35:59+00:00
- - tags: None
 
 Before Amazon's Prime Early Access Sale kicks off next week, you can pick up a Kindle for a substantial discount.
 
@@ -92,7 +81,6 @@ Before Amazon's Prime Early Access Sale kicks off next week, you can pick up a K
  - [https://www.zdnet.com/article/how-to-restore-your-missing-chrome-bookmark-favicons-in-one-click/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-restore-your-missing-chrome-bookmark-favicons-in-one-click/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 13:26:19+00:00
- - tags: None
 
 We show a quick way to fix this weird Chrome behavior.
 
@@ -100,7 +88,6 @@ We show a quick way to fix this weird Chrome behavior.
  - [https://www.zdnet.com/article/how-to-set-up-linux-hosts-file/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-set-up-linux-hosts-file/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 13:06:09+00:00
- - tags: None
 
 Jack Wallen introduces you to the Linux hosts file and why it's important to know and customize.
 
@@ -108,7 +95,6 @@ Jack Wallen introduces you to the Linux hosts file and why it's important to kno
  - [https://www.zdnet.com/article/the-doogee-s89-pro-could-be-the-first-batman-approved-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-doogee-s89-pro-could-be-the-first-batman-approved-phone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 13:02:03+00:00
- - tags: None
 
 Dare to take on a phone that could easily be found on Batman's belt or in Optimus Prime's hand. Does the Doogee S89 Pro's performance stand up to its fun factor?
 
@@ -116,7 +102,6 @@ Dare to take on a phone that could easily be found on Batman's belt or in Optimu
  - [https://www.zdnet.com/article/did-you-know-alexa-is-bilingual-heres-why-it-matters/#ftag=RSSbaffb68](https://www.zdnet.com/article/did-you-know-alexa-is-bilingual-heres-why-it-matters/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 12:45:44+00:00
- - tags: None
 
 Both Alexa and Google can do something Siri can't -- something that means Alexa can make a non-native English speaker feel more welcome or even become your family's new teacher.
 
@@ -124,7 +109,6 @@ Both Alexa and Google can do something Siri can't -- something that means Alexa 
  - [https://www.zdnet.com/article/ransomware-this-is-how-half-of-attacks-begin-and-this-is-how-you-can-stop-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/ransomware-this-is-how-half-of-attacks-begin-and-this-is-how-you-can-stop-them/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 12:13:52+00:00
- - tags: None
 
 Cybersecurity researchers warn that attackers are mostly using two different techniques to break into systems.
 
@@ -132,7 +116,6 @@ Cybersecurity researchers warn that attackers are mostly using two different tec
  - [https://www.zdnet.com/article/programming-languages-microsofts-typescript-shows-vision-can-beat-skepticism/#ftag=RSSbaffb68](https://www.zdnet.com/article/programming-languages-microsofts-typescript-shows-vision-can-beat-skepticism/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 12:00:06+00:00
- - tags: None
 
 Microsoft-designed TypeScript turns 10 this month. Here's what you need to know.
 
@@ -140,7 +123,6 @@ Microsoft-designed TypeScript turns 10 this month. Here's what you need to know.
  - [https://www.zdnet.com/article/apple-watch-series-8-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-series-8-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 12:00:00+00:00
- - tags: None
 
 Review: The Apple Watch Series 8 upgrades workouts, sleep tracking, and women's health. Battery life and the always-on display are better, too.
 
@@ -148,7 +130,6 @@ Review: The Apple Watch Series 8 upgrades workouts, sleep tracking, and women's 
  - [https://www.zdnet.com/article/microsoft-warns-of-password-attacks-against-exchange-online-heres-what-you-need-to-do/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-warns-of-password-attacks-against-exchange-online-heres-what-you-need-to-do/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 11:53:53+00:00
- - tags: None
 
 SMTP and IMAP are by far the most common protocols abused by password-spraying attacks.
 
@@ -156,7 +137,6 @@ SMTP and IMAP are by far the most common protocols abused by password-spraying a
  - [https://www.zdnet.com/article/windows-11-here-comes-a-new-wave-of-features/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-11-here-comes-a-new-wave-of-features/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 11:43:14+00:00
- - tags: None
 
 Microsoft rolls out its first set of fresh features for Windows 11 under its new release method outside of annual releases.
 
@@ -164,7 +144,6 @@ Microsoft rolls out its first set of fresh features for Windows 11 under its new
  - [https://www.zdnet.com/home-and-office/smart-home/the-internet-of-things-is-still-very-messy-that-could-be-about-to-change/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-internet-of-things-is-still-very-messy-that-could-be-about-to-change/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 11:23:43+00:00
- - tags: None
 
 Google, Apple and Amazon prepare their platforms for Matter smart home, where devices can connect easily to any controller.
 
@@ -172,7 +151,6 @@ Google, Apple and Amazon prepare their platforms for Matter smart home, where de
  - [https://www.zdnet.com/article/this-device-claims-to-solve-everyones-biggest-remote-work-problem/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-device-claims-to-solve-everyones-biggest-remote-work-problem/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 10:56:14+00:00
- - tags: None
 
 Logitech Sight works in tandem with the company's front-of-room video bars to give remote participants a more inclusive meeting experience.
 
@@ -180,6 +158,5 @@ Logitech Sight works in tandem with the company's front-of-room video bars to gi
  - [https://www.zdnet.com/home-and-office/home-entertainment/hyperx-procast-xlr-mic-review-pro-level-audio-for-a-price/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-procast-xlr-mic-review-pro-level-audio-for-a-price/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-05 10:15:02+00:00
- - tags: None
 
 HyperX's first crack at making a pro-level XLR microphone for gamers ticks all the right boxes, but upgrading your audio doesn't come cheap.

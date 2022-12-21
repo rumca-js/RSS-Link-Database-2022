@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Will Elon Musk Be Able to Keep Twitter’s Advertisers Happy?
  - [https://www.nytimes.com/2022/10/28/technology/musk-twitter-advertisers-general-motors.html](https://www.nytimes.com/2022/10/28/technology/musk-twitter-advertisers-general-motors.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 23:33:02+00:00
- - tags: None
 
 Mr. Musk once said he hated them, but ad sales are the engine that powers the company he now owns.
 
@@ -12,7 +11,6 @@ Mr. Musk once said he hated them, but ad sales are the engine that powers the co
  - [https://www.nytimes.com/2022/10/28/business/twitter-elon-musk.html](https://www.nytimes.com/2022/10/28/business/twitter-elon-musk.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 23:20:24+00:00
- - tags: None
 
 The billionaire began as Twitter’s new owner by announcing a content moderation council and meeting employees, as some of the social media service’s users celebrated.
 
@@ -20,7 +18,6 @@ The billionaire began as Twitter’s new owner by announcing a content moderatio
  - [https://www.nytimes.com/2022/10/28/technology/twitter-elon-musk-content-moderation.html](https://www.nytimes.com/2022/10/28/technology/twitter-elon-musk-content-moderation.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 21:52:15+00:00
- - tags: None
 
 The announcement appeared to be a step back from Mr. Musk’s position that Twitter should be an anything-goes platform.
 
@@ -28,7 +25,6 @@ The announcement appeared to be a step back from Mr. Musk’s position that Twit
  - [https://www.nytimes.com/2022/10/28/technology/twitter-far-right-followers.html](https://www.nytimes.com/2022/10/28/technology/twitter-far-right-followers.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 19:43:10+00:00
- - tags: None
 
 It’s unclear if the activity was driven by Elon Musk’s takeover of the company.
 
@@ -36,7 +32,6 @@ It’s unclear if the activity was driven by Elon Musk’s takeover of the compa
  - [https://www.nytimes.com/2022/10/28/science/araceibo-telescope-astronomy.html](https://www.nytimes.com/2022/10/28/science/araceibo-telescope-astronomy.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 19:08:53+00:00
- - tags: None
 
 Until its collapse last year, the Arecibo Observatory in Puerto Rico spent six decades tuned to the radio stations of the heavens. There is no plan to rebuild it, and astronomers are in mourning.
 
@@ -44,7 +39,6 @@ Until its collapse last year, the Arecibo Observatory in Puerto Rico spent six d
  - [https://www.nytimes.com/2022/10/28/technology/personaltech/twitter-account-delete-security.html](https://www.nytimes.com/2022/10/28/technology/personaltech/twitter-account-delete-security.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 18:29:40+00:00
- - tags: None
 
 After Elon Musk took over, some Twitter users wondered if they should take additional measures to protect their accounts — or even delete them.
 
@@ -52,7 +46,6 @@ After Elon Musk took over, some Twitter users wondered if they should take addit
  - [https://www.nytimes.com/2022/10/28/technology/kanye-ye-twitter-ban.html](https://www.nytimes.com/2022/10/28/technology/kanye-ye-twitter-ban.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 17:58:25+00:00
- - tags: None
 
 The Twitter account for the rapper formerly known as Kanye West was never banned to begin with.
 
@@ -60,7 +53,6 @@ The Twitter account for the rapper formerly known as Kanye West was never banned
  - [https://www.nytimes.com/2022/10/28/technology/musk-twitter-supporters.html](https://www.nytimes.com/2022/10/28/technology/musk-twitter-supporters.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 17:16:46+00:00
- - tags: None
 
 The way forward for Twitter is uncertain. But that means Mr. Musk can innovate and change the platform for the better, his supporters say.
 
@@ -68,7 +60,6 @@ The way forward for Twitter is uncertain. But that means Mr. Musk can innovate a
  - [https://www.nytimes.com/2022/10/28/technology/trump-musk-twitter.html](https://www.nytimes.com/2022/10/28/technology/trump-musk-twitter.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 16:03:53+00:00
- - tags: None
 
 Former President Donald J. Trump said the social media platform was now in “sane hands” with Elon Musk at the helm.
 
@@ -76,7 +67,6 @@ Former President Donald J. Trump said the social media platform was now in “sa
  - [https://www.nytimes.com/2022/10/28/technology/twitter-deal-musk-tech-companies.html](https://www.nytimes.com/2022/10/28/technology/twitter-deal-musk-tech-companies.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 09:04:22+00:00
- - tags: None
 
 Silicon Valley moguls used to buy yachts and islands. Now they are rich enough, and perhaps arrogant enough, to acquire companies they fancy.
 
@@ -84,7 +74,6 @@ Silicon Valley moguls used to buy yachts and islands. Now they are rich enough, 
  - [https://www.nytimes.com/2022/10/28/technology/twitter-changes.html](https://www.nytimes.com/2022/10/28/technology/twitter-changes.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 09:00:24+00:00
- - tags: None
 
 The social media company went public in 2013. But Elon Musk is taking it private as part of his acquisition of the firm. Here’s what that means.
 
@@ -92,7 +81,6 @@ The social media company went public in 2013. But Elon Musk is taking it private
  - [https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html](https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 01:42:13+00:00
- - tags: None
 
 The world’s richest man closed his blockbuster purchase of the social media service, thrusting Twitter into a new era.
 
@@ -100,7 +88,6 @@ The world’s richest man closed his blockbuster purchase of the social media se
  - [https://www.nytimes.com/2022/10/27/technology/musk-twitter.html](https://www.nytimes.com/2022/10/27/technology/musk-twitter.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 00:49:53+00:00
- - tags: None
 
 Some of Twitter’s top executives were fired on Thursday as Mr. Musk completes his takeover of the social media company.
 
@@ -108,6 +95,5 @@ Some of Twitter’s top executives were fired on Thursday as Mr. Musk completes 
  - [https://www.nytimes.com/2022/10/27/technology/musk-said-to-begin-firing-twitters-top-executives.html](https://www.nytimes.com/2022/10/27/technology/musk-said-to-begin-firing-twitters-top-executives.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-28 00:42:31+00:00
- - tags: None
 
 Some of Twitter’s top executives were fired on Thursday as Mr. Musk completes his takeover of the social media company.

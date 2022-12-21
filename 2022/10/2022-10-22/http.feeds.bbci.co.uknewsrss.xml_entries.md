@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Cost of living: Why more Australians are giving up their pets
  - [https://www.bbc.co.uk/news/business-63071930?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63071930?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:17:44+00:00
- - tags: None
 
 The cost of pet food has soared in Australia due to the pandemic and the Ukraine war.
 
@@ -12,7 +11,6 @@ The cost of pet food has soared in Australia due to the pandemic and the Ukraine
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63313782?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63313782?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:16:55+00:00
- - tags: None
 
 Firefighters urge the public to ensure heat sources and electrical products are well maintained.
 
@@ -20,7 +18,6 @@ Firefighters urge the public to ensure heat sources and electrical products are 
  - [https://www.bbc.co.uk/sport/formula1/63361135?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63361135?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:10:50+00:00
- - tags: None
 
 Carlos Sainz takes pole position for the United States Grand Prix, beating Ferrari team-mate Charles Leclerc and Red Bull's Max Verstappen.
 
@@ -28,7 +25,6 @@ Carlos Sainz takes pole position for the United States Grand Prix, beating Ferra
  - [https://www.bbc.co.uk/news/entertainment-arts-63244815?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63244815?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:06:40+00:00
- - tags: None
 
 How the star takes ideas with "aspirations to be a movie theme" and "persuades them into pop songs".
 
@@ -36,7 +32,6 @@ How the star takes ideas with "aspirations to be a movie theme" and "persuades t
  - [https://www.bbc.co.uk/news/education-63000547?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/education-63000547?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:05:10+00:00
- - tags: None
 
 Flora's condition, ARFID, means she avoids almost all food apart from plain pasta, butter and bread.
 
@@ -44,7 +39,6 @@ Flora's condition, ARFID, means she avoids almost all food apart from plain past
  - [https://www.bbc.co.uk/sport/av/football/63361424?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63361424?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:04:03+00:00
- - tags: None
 
 Match of the Day pundits Danny Murphy and Martin Keown look at Manchester United's Casemiro, who scored a late equaliser in their 1-1 draw at Chelsea.
 
@@ -52,7 +46,6 @@ Match of the Day pundits Danny Murphy and Martin Keown look at Manchester United
  - [https://www.bbc.co.uk/news/entertainment-arts-63348825?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63348825?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 23:02:27+00:00
- - tags: None
 
 The actress will make her final Doctor Who appearance in a 90-minute special on BBC One on Sunday.
 
@@ -60,7 +53,6 @@ The actress will make her final Doctor Who appearance in a 90-minute special on 
  - [https://www.bbc.co.uk/sport/football/63361725?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63361725?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 22:59:45+00:00
- - tags: None
 
 After Cristiano Ronaldo was left out of the squad to face Chelsea on Saturday, does the Portugal forward have a future at Manchester United?
 
@@ -68,7 +60,6 @@ After Cristiano Ronaldo was left out of the squad to face Chelsea on Saturday, d
  - [https://www.bbc.co.uk/news/blogs-the-papers-63361791?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63361791?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 22:34:29+00:00
- - tags: None
 
 The latest in the Tory leadership race and schools being crippled by the cost of bills, make the lead stories in the papers.
 
@@ -76,7 +67,6 @@ The latest in the Tory leadership race and schools being crippled by the cost of
  - [https://www.bbc.co.uk/news/world-africa-63359145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63359145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 21:35:01+00:00
- - tags: None
 
 The fire started on Friday night along one of the mountain's most popular climbing routes.
 
@@ -84,7 +74,6 @@ The fire started on Friday night along one of the mountain's most popular climbi
  - [https://www.bbc.co.uk/sport/formula1/63100448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63100448?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 21:33:54+00:00
- - tags: None
 
 Red Bull co-owner Dietrich Mateschitz, a major global business figure as a result of his energy drinks empire, dies aged 78.
 
@@ -92,7 +81,6 @@ Red Bull co-owner Dietrich Mateschitz, a major global business figure as a resul
  - [https://www.bbc.co.uk/news/uk-wales-63304989?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63304989?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 21:05:11+00:00
- - tags: None
 
 A couple say their mortgage-free, low-cost tiny home has allowed them to take risks.
 
@@ -100,7 +88,6 @@ A couple say their mortgage-free, low-cost tiny home has allowed them to take ri
  - [https://www.bbc.co.uk/sport/av/rugby-league/63359547?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-league/63359547?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 20:47:59+00:00
- - tags: None
 
 Watch as Ben Jones-Bishop scores Jamaica first ever Rugby League World Cup try and celebrates in style with his teammates.
 
@@ -108,7 +95,6 @@ Watch as Ben Jones-Bishop scores Jamaica first ever Rugby League World Cup try a
  - [https://www.bbc.co.uk/sport/rugby-league/63360225?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63360225?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 20:47:34+00:00
- - tags: None
 
 Winger Dominic Young has made a stellar start to his England career and his latest performance left pundits drawing comparisons with great Martin Offiah.
 
@@ -116,7 +102,6 @@ Winger Dominic Young has made a stellar start to his England career and his late
  - [https://www.bbc.co.uk/news/uk-politics-63361384?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63361384?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 20:40:32+00:00
- - tags: None
 
 Sources planning ex-PM's possible campaign say he has 100 MPs behind him, but Rishi Sunak's supporters call for proof.
 
@@ -124,7 +109,6 @@ Sources planning ex-PM's possible campaign say he has 100 MPs behind him, but Ri
  - [https://www.bbc.co.uk/sport/football/63267141?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63267141?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 18:40:47+00:00
- - tags: None
 
 Casemiro's header deep into stoppage time earns Manchester United a 1-1 draw against Chelsea in Premier League.
 
@@ -132,7 +116,6 @@ Casemiro's header deep into stoppage time earns Manchester United a 1-1 draw aga
  - [https://www.bbc.co.uk/sport/formula1/63361127?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63361127?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 18:23:22+00:00
- - tags: None
 
 Red Bull accuse rivals of waging a "concerted campaign for a draconian penalty" for them breaking Formula 1's budget cap.
 
@@ -140,7 +123,6 @@ Red Bull accuse rivals of waging a "concerted campaign for a draconian penalty" 
  - [https://www.bbc.co.uk/sport/football/63358675?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63358675?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 18:19:39+00:00
- - tags: None
 
 Rangers' latest setback against Livingston has brought Giovanni van Bronckhorst under further scrutiny.
 
@@ -148,7 +130,6 @@ Rangers' latest setback against Livingston has brought Giovanni van Bronckhorst 
  - [https://www.bbc.co.uk/sport/rugby-league/63360222?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63360222?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 18:09:14+00:00
- - tags: None
 
 England all but secure their place in the knockout stages of the World Cup with a comfortable 42-18 victory over France in Bolton.
 
@@ -156,7 +137,6 @@ England all but secure their place in the knockout stages of the World Cup with 
  - [https://www.bbc.co.uk/sport/av/rugby-league/63360873?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-league/63360873?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 18:01:54+00:00
- - tags: None
 
 England's Dom Young grabs a quickfire brace of tries to seal a 42-18 win over France at the Rugby League World Cup in Bolton.
 
@@ -164,7 +144,6 @@ England's Dom Young grabs a quickfire brace of tries to seal a 42-18 win over Fr
  - [https://www.bbc.co.uk/sport/football/63359663?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63359663?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 17:45:04+00:00
- - tags: None
 
 Will Everton striker Dominic Calvert-Lewin fight his way into England's World Cup squad in time?
 
@@ -172,7 +151,6 @@ Will Everton striker Dominic Calvert-Lewin fight his way into England's World Cu
  - [https://www.bbc.co.uk/news/uk-politics-63343723?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63343723?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 16:41:14+00:00
- - tags: None
 
 An economy in crisis and an unruly party await the new Tory leader, writes Laura Kuenssberg.
 
@@ -180,7 +158,6 @@ An economy in crisis and an unruly party await the new Tory leader, writes Laura
  - [https://www.bbc.co.uk/sport/football/63267139?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63267139?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 16:23:02+00:00
- - tags: None
 
 Erling Haaland takes his tally to 17 goals in 11 Premier League games as Manchester City hold off a second-half fightback to beat Brighton.
 
@@ -188,7 +165,6 @@ Erling Haaland takes his tally to 17 goals in 11 Premier League games as Manches
  - [https://www.bbc.co.uk/news/uk-england-lincolnshire-63359917?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-lincolnshire-63359917?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 16:05:04+00:00
- - tags: None
 
 The bronze statue, which is subject to CCTV surveillance, has been targeted again.
 
@@ -196,7 +172,6 @@ The bronze statue, which is subject to CCTV surveillance, has been targeted agai
  - [https://www.bbc.co.uk/sport/football/63267159?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63267159?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 15:58:26+00:00
- - tags: None
 
 Everton end a run of three successive defeats with an impressive victory over Crystal Palace.
 
@@ -204,7 +179,6 @@ Everton end a run of three successive defeats with an impressive victory over Cr
  - [https://www.bbc.co.uk/sport/football/63359633?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63359633?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 15:36:52+00:00
- - tags: None
 
 It was a result no one saw coming but will Nottingham Forest kick-on after a surprise 1-0 win over Liverpool?
 
@@ -212,7 +186,6 @@ It was a result no one saw coming but will Nottingham Forest kick-on after a sur
  - [https://www.bbc.co.uk/sport/football/63267140?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63267140?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 15:18:18+00:00
- - tags: None
 
 Taiwo Awoniyi scores against his former club as Nottingham Forest shock Liverpool at a boisterous City Ground.
 
@@ -220,7 +193,6 @@ Taiwo Awoniyi scores against his former club as Nottingham Forest shock Liverpoo
  - [https://www.bbc.co.uk/sport/cricket/63344277?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63344277?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 14:52:10+00:00
- - tags: None
 
 England's bowlers set up a five-wicket victory over Afghanistan as Jos Buttler's side make a winning start to the Men's T20 World Cup.
 
@@ -228,7 +200,6 @@ England's bowlers set up a five-wicket victory over Afghanistan as Jos Buttler's
  - [https://www.bbc.co.uk/sport/football/63356618?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63356618?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 14:35:42+00:00
- - tags: None
 
 BBC Sport takes a look at what England and the Republic of Ireland can expect from their group matches at next year's World Cup.
 
@@ -236,7 +207,6 @@ BBC Sport takes a look at what England and the Republic of Ireland can expect fr
  - [https://www.bbc.co.uk/sport/av/cricket/63359109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63359109?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 13:15:34+00:00
- - tags: None
 
 Sam Curran becomes the first English men's player to take a T20 international five-wicket haul.
 
@@ -244,7 +214,6 @@ Sam Curran becomes the first English men's player to take a T20 international fi
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63358589?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63358589?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 12:49:31+00:00
- - tags: None
 
 Paramedics "battled to save" the 29-year-old but he was pronounced dead at the scene, police say.
 
@@ -252,7 +221,6 @@ Paramedics "battled to save" the 29-year-old but he was pronounced dead at the s
  - [https://www.bbc.co.uk/news/world-asia-china-63358627?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63358627?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 12:30:21+00:00
- - tags: None
 
 Why was Hu Jintao asked to leave the stage at the Great Hall of the People during the Party Congress?
 
@@ -260,7 +228,6 @@ Why was Hu Jintao asked to leave the stage at the Great Hall of the People durin
  - [https://www.bbc.co.uk/news/uk-england-merseyside-63357139?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-63357139?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 11:47:04+00:00
- - tags: None
 
 Andy Burnham and Steve Rotheram held the briefing to demand more funding for train operators.
 
@@ -268,7 +235,6 @@ Andy Burnham and Steve Rotheram held the briefing to demand more funding for tra
  - [https://www.bbc.co.uk/news/world-europe-63357393?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63357393?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 11:04:50+00:00
- - tags: None
 
 Amid military reverses in the south, Russia continues its effort to cripple Ukraine's energy grid.
 
@@ -276,7 +242,6 @@ Amid military reverses in the south, Russia continues its effort to cripple Ukra
  - [https://www.bbc.co.uk/news/uk-england-essex-63356779?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-63356779?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 10:54:54+00:00
- - tags: None
 
 Police say a man, in his 30s, was rescued from the rubble but the boy died at the scene.
 
@@ -284,7 +249,6 @@ Police say a man, in his 30s, was rescued from the rubble but the boy died at th
  - [https://www.bbc.co.uk/sport/cricket/63356068?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63356068?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 10:35:09+00:00
- - tags: None
 
 Devon Conway hits an unbeaten 92 as New Zealand claim a comprehensive 89-run win over hosts Australia at the T20 World Cup.
 
@@ -292,7 +256,6 @@ Devon Conway hits an unbeaten 92 as New Zealand claim a comprehensive 89-run win
  - [https://www.bbc.co.uk/sport/av/cricket/63356333?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63356333?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 09:33:05+00:00
- - tags: None
 
 Australia's David Warner is bowled by New Zealand's Tim Southee after the ball ricochets off the batter's leg, arm and bat before crashing into the stumps during the T20 World Cup.
 
@@ -300,7 +263,6 @@ Australia's David Warner is bowled by New Zealand's Tim Southee after the ball r
  - [https://www.bbc.co.uk/sport/football/63356112?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63356112?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 08:48:38+00:00
- - tags: None
 
 European champions England will face Denmark and China at the Women's World Cup in 2023 in Australia and New Zealand.
 
@@ -308,7 +270,6 @@ European champions England will face Denmark and China at the Women's World Cup 
  - [https://www.bbc.co.uk/sport/av/cricket/63356326?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63356326?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 07:55:23+00:00
- - tags: None
 
 Opener Finn Allen gets New Zealand's T20 World Cup off to a thrilling start with 42 off 16 balls against Australia at the Sydney Cricket Ground.
 
@@ -316,7 +277,6 @@ Opener Finn Allen gets New Zealand's T20 World Cup off to a thrilling start with
  - [https://www.bbc.co.uk/news/world-asia-china-63355950?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63355950?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 07:38:40+00:00
- - tags: None
 
 The former president is escorted off stage during the Party Congress, with no explanation given.
 
@@ -324,7 +284,6 @@ The former president is escorted off stage during the Party Congress, with no ex
  - [https://www.bbc.co.uk/news/uk-england-essex-63242091?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-63242091?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 07:35:13+00:00
- - tags: None
 
 A third-generation grower says he is scared he could "just lose the whole business".
 
@@ -332,7 +291,6 @@ A third-generation grower says he is scared he could "just lose the whole busine
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-62811916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-62811916?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 07:03:14+00:00
- - tags: None
 
 The granddaughter of founder William Alexander speaks for the first time about the family's history.
 
@@ -340,7 +298,6 @@ The granddaughter of founder William Alexander speaks for the first time about t
  - [https://www.bbc.co.uk/news/uk-england-63346438?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-63346438?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 06:12:50+00:00
- - tags: None
 
 Only one Avanti service per hour will run from London to Manchester, Liverpool and Glasgow.
 
@@ -348,7 +305,6 @@ Only one Avanti service per hour will run from London to Manchester, Liverpool a
  - [https://www.bbc.co.uk/sport/winter-sports/63228330?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/winter-sports/63228330?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 06:07:49+00:00
- - tags: None
 
 Russian teenager Kamila Valieva's new figure skating routine is about an Olympic doping scandal that is still far from resolved.
 
@@ -356,7 +312,6 @@ Russian teenager Kamila Valieva's new figure skating routine is about an Olympic
  - [https://www.bbc.co.uk/sport/rugby-union/63348740?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63348740?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 05:40:10+00:00
- - tags: None
 
 Scotland are out of the Rugby World Cup after a heavy defeat to hosts New Zealand in Whangarei.
 
@@ -364,7 +319,6 @@ Scotland are out of the Rugby World Cup after a heavy defeat to hosts New Zealan
  - [https://www.bbc.co.uk/news/uk-63350359?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63350359?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 05:21:52+00:00
- - tags: None
 
 After the fastest exit from Downing Street in UK history, what is Liz Truss entitled to?
 
@@ -372,7 +326,6 @@ After the fastest exit from Downing Street in UK history, what is Liz Truss enti
  - [https://www.bbc.co.uk/sport/rugby-union/63323425?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63323425?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 03:40:14+00:00
- - tags: None
 
 Wales' Rugby World Cup hopes hang in the balance after defeat to Australia in their final group game.
 
@@ -380,7 +333,6 @@ Wales' Rugby World Cup hopes hang in the balance after defeat to Australia in th
  - [https://www.bbc.co.uk/news/newsbeat-63257249?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63257249?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 01:50:32+00:00
- - tags: None
 
 Influencer Grace Keeling says TikTok can be a welcome distraction but also an educational tool.
 
@@ -388,7 +340,6 @@ Influencer Grace Keeling says TikTok can be a welcome distraction but also an ed
  - [https://www.bbc.co.uk/news/uk-scotland-tayside-central-63345158?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-tayside-central-63345158?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 01:48:14+00:00
- - tags: None
 
 A week travelling on a typical route shows what happens to the country when the buses stop running.
 
@@ -396,7 +347,6 @@ A week travelling on a typical route shows what happens to the country when the 
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63240806?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63240806?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 01:45:42+00:00
- - tags: None
 
 Community groups express their concern over an uncertain future post-Brexit.
 
@@ -404,7 +354,6 @@ Community groups express their concern over an uncertain future post-Brexit.
  - [https://www.bbc.co.uk/news/uk-63049488?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63049488?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 01:42:32+00:00
- - tags: None
 
 As the cost of living crisis deepens, more people are calling debt helplines than ever before.
 
@@ -412,7 +361,6 @@ As the cost of living crisis deepens, more people are calling debt helplines tha
  - [https://www.bbc.co.uk/news/entertainment-arts-63226914?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63226914?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 01:36:48+00:00
- - tags: None
 
 Producer Giles Martin has used artificial intelligence to pull apart and reconstruct the group's seventh album.
 
@@ -420,6 +368,5 @@ Producer Giles Martin has used artificial intelligence to pull apart and reconst
  - [https://www.bbc.co.uk/news/health-63345796?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63345796?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-22 01:29:51+00:00
- - tags: None
 
 Hundreds of people with hard-to-treat epilepsy will benefit from the innovative treatment.

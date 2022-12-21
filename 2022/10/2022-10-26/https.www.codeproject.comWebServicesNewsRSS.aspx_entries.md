@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Are developers actually happy with their day-to-day work?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59305](https://www.codeproject.com/script/News/View.aspx?nwid=59305)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 If so, clap your hands
 
@@ -12,7 +11,6 @@ If so, clap your hands
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59302](https://www.codeproject.com/script/News/View.aspx?nwid=59302)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 It's too bad the Nobels have already been given out this year
 
@@ -20,7 +18,6 @@ It's too bad the Nobels have already been given out this year
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59303](https://www.codeproject.com/script/News/View.aspx?nwid=59303)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 Because just putting a piece of paper over your monitor doesn't work
 
@@ -28,7 +25,6 @@ Because just putting a piece of paper over your monitor doesn't work
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59304](https://www.codeproject.com/script/News/View.aspx?nwid=59304)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 Well, we'll always have IE (oh, wait)
 
@@ -36,7 +32,6 @@ Well, we'll always have IE (oh, wait)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 * Eldritch horrors available separately
 
@@ -44,7 +39,6 @@ Well, we'll always have IE (oh, wait)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59300](https://www.codeproject.com/script/News/View.aspx?nwid=59300)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 I stand corrected - people are using the cloud
 
@@ -52,7 +46,6 @@ I stand corrected - people are using the cloud
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59307](https://www.codeproject.com/script/News/View.aspx?nwid=59307)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 With limited power comes great frustration
 
@@ -60,7 +53,6 @@ With limited power comes great frustration
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 So it's a key that types 'P@ssword1' for me?
 
@@ -68,6 +60,5 @@ So it's a key that types 'P@ssword1' for me?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59306](https://www.codeproject.com/script/News/View.aspx?nwid=59306)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-26 04:00:00+00:00
- - tags: None
 
 And then they came for 'people in office, pointing at monitor and laughing' and I did nothing

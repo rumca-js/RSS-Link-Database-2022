@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Twitter battles hateful trolling campaign following Elon Musk's takeover
  - [https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech](https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-30 20:06:54+00:00
- - tags: None
 
 <figure>
       <img alt="Twitter’s logo on a red and white background" src="https://cdn.vox-cdn.com/thumbor/68pAdF1j46UKKBDyGkrfOCdZ8lE=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71562804/acastro_STK050_07.0.jpg" />
@@ -26,7 +25,6 @@
  - [https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-30 19:53:08+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk standing on a sheet of ice in the shape of the Twitter icon that is beginning to crack." src="https://cdn.vox-cdn.com/thumbor/GiUEErrn1qzhfdqPdTShzpeTfKc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71562748/226378_Twitter_Risk_Elon_Musk_Spot_WJoel.0.png" />
@@ -43,7 +41,6 @@
  - [https://www.theverge.com/2022/10/30/23430234/telegram-pulls-paywalled-posts-ios-apple-app-store-rules-bots](https://www.theverge.com/2022/10/30/23430234/telegram-pulls-paywalled-posts-ios-apple-app-store-rules-bots)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-30 16:04:05+00:00
- - tags: None
 
 <figure>
       <img alt="The Telegram logo on a black and red background" src="https://cdn.vox-cdn.com/thumbor/CXiO_Rsem27JEH4C7opfx3J_fX8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71562088/acastro_STK085_Telegram_02.0.jpg" />
@@ -60,7 +57,6 @@
  - [https://www.theverge.com/2022/10/30/23430949/apple-new-macbook-pro-14-16-arrive-next-march-rumors-m2](https://www.theverge.com/2022/10/30/23430949/apple-new-macbook-pro-14-16-arrive-next-march-rumors-m2)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-30 14:43:31+00:00
- - tags: None
 
 <figure>
       <img alt="The new 16-inch MacBook Pro on a table" src="https://cdn.vox-cdn.com/thumbor/CznbCYAkW2ITNXi2m1LFIlaHG-c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71561853/akrales_211020_4803_0201.0.jpg" />
@@ -77,7 +73,6 @@
  - [https://www.theverge.com/2022/10/30/23426867/libby-ebooks-library-reading-kindle](https://www.theverge.com/2022/10/30/23426867/libby-ebooks-library-reading-kindle)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-30 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Libby app on the iPhone 14 Pro Max next to a stack of books" src="https://cdn.vox-cdn.com/thumbor/xA3uK_Yx4qcq2-f3iQTtOqkQzz8=/0x88:2040x1448/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71561729/PXL_20221028_153550267.0.jpg" />
@@ -94,7 +89,6 @@
  - [https://www.theverge.com/23426924/acer-chromebook-spin-714-2022-review](https://www.theverge.com/23426924/acer-chromebook-spin-714-2022-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-30 13:00:00+00:00
- - tags: None
 
 <p>The Spin 714 isn’t terrible, but it’s not the champion the 713 was</p>
   <p>

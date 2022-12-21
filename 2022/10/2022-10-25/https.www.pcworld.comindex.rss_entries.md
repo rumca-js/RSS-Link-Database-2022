@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## AMD says it won’t use ATX 3.0 power rails for new Radeon cards
  - [https://www.pcworld.com/article/1361668/amd-says-it-wont-use-atx-3-0-power-rails-for-radeon-6000-cards.html](https://www.pcworld.com/article/1361668/amd-says-it-wont-use-atx-3-0-power-rails-for-radeon-6000-cards.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 20:22:37+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Newer isn&rsquo;t necessarily better. ATX 3.0 power supplies feature a redesigned 16-pin 12VHPWR power rail that should be ideal for the latest Nvidia RTX 40-series graphics cards, which can carry&nbsp;<a href="https://www.pcworld.com/article/631851/atx-3-0-explained-why-intel-gave-power-supplies-their-first-overhaul-in-20-years.html" rel="noreferrer noopener" target="_blank">an astonishing 600 watts</a>&nbsp;in a compact power connection. Just one problem, though: The hardware is apparently have some trouble with&hellip; <a href="https://www.pcworld.com/article/1361471/multiple-rtx-4090-owners-report-melting-12vhpwr-power-cables.html">melting</a>.</p>
@@ -27,7 +26,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1361471/multiple-rtx-4090-owners-report-melting-12vhpwr-power-cables.html](https://www.pcworld.com/article/1361471/multiple-rtx-4090-owners-report-melting-12vhpwr-power-cables.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 15:33:58+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nvidia&rsquo;s latest graphics cards are absolute monsters, both in terms of size and power draw. In fact the ferocious GeForce RTX 4090 uses the <a href="https://www.pcworld.com/article/631851/atx-3-0-explained-why-intel-gave-power-supplies-their-first-overhaul-in-20-years.html" rel="noreferrer noopener" target="_blank">brand new 12VHPWR 16-pin power rail design</a>, featured on ATX 3.0 power supplies. Most people don&rsquo;t have those new breed ATX 3.0 PSUs, however, so Nvidia included a 12VHPWR to 4x 8-pin adapter in the box for use with traditional power supplies. But on a small number of units, those fancy new high-wattage rails and connections seem to be causing problems with the power connection. <a href="https://www.pcworld.com/article/631851/atx-3-0-explained-why-intel-gave-power-supplies-their-first-overhaul-in-20-years.html" rel="noreferrer noopener" target="_blank">Two separate Reddit users</a> show the new ATX 3.0 rail failing, melting the plastic around the connector. </p>
@@ -58,7 +56,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html](https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 15:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The smaller and more versatile USB-C ports are becoming the new standard in laptops. This is great for making thinner and lighter-weight laptops, but how do you connect all of your old USB-A peripherals like your mouse and keyboard? Enter a USB-C hub. By connecting a hub to your USB-C port on your laptop, you open up a world of connectivity. Hubs allow you to not only connect your USB-A peripherals, but also your HDMI connections, SD cards, or they simply just add more USB ports.</p>
@@ -842,7 +839,6 @@ Computers and Peripherals, Holidays, USB-C</div>
  - [https://www.pcworld.com/article/1361397/chrome-and-edge-extension-malware-has-over-a-million-installs.html](https://www.pcworld.com/article/1361397/chrome-and-edge-extension-malware-has-over-a-million-installs.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 14:56:23+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>You know that you need to be careful with what you install on your computer &mdash; or at least you should by now. But web browsers are getting so complex and powerful that they&rsquo;re essentially little virtual machines that just happen to play YouTube videos. So let&rsquo;s take yet another opportunity to remind ourselves: we need the same kind of care and caution when installing browser extensions, even from ostensibly &ldquo;safe&rdquo; sources. Case in point, the latest widespread browser extension malware, which has been downloaded and installed over a million times. </p>
@@ -909,7 +905,6 @@ Security</div>
  - [https://www.pcworld.com/article/1361284/lenovos-thinkbook-laptop-is-zippy-luxurious-and-660-off.html](https://www.pcworld.com/article/1361284/lenovos-thinkbook-laptop-is-zippy-luxurious-and-660-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 13:58:43+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Lenovo ThinkBook 13s Gen 4 laptop is swanky as heck thanks to its minimalist exterior. However, it&rsquo;s definitely more than just a pretty face. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-s/thinkbook-13s-gen-4-(13-inch-amd)/len101b0015?orgRef=https%253A%252F%252Fwww.reddit.com%252F&amp;xcust=2-1-1361284-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Lenovo&rsquo;s currently selling this model for $989.40, which is a savings of $659.60.</a> While the 1080p webcam, backlit keyboard, and fingerprint reader are nice additions, the specs are also solid. Let&rsquo;s get right into it.</p>
@@ -930,7 +925,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1357810/microsoft-surface-laptop-5-review-for-surface-fans-only.html](https://www.pcworld.com/article/1357810/microsoft-surface-laptop-5-review-for-surface-fans-only.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 13:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -1227,7 +1221,6 @@ Laptops, Microsoft Surface</div>
  - [https://www.pcworld.com/article/1357826/microsoft-surface-pro-9-5g-review-an-arm-tablet-worth-buying.html](https://www.pcworld.com/article/1357826/microsoft-surface-pro-9-5g-review-an-arm-tablet-worth-buying.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 13:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -1627,7 +1620,6 @@ Laptops, Microsoft Surface, Tablet PCs</div>
  - [https://www.pcworld.com/article/1358727/lets-try-some-tricks-to-cool-down-the-ryzen-7000.html](https://www.pcworld.com/article/1358727/lets-try-some-tricks-to-cool-down-the-ryzen-7000.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-25 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>AMD&rsquo;s new Ryzen 7000 processors <a href="https://www.pcworld.com/article/1074246/amd-ryzen-9-7950x-review.html" rel="noreferrer noopener" target="_blank">are absolute beasts</a>, but they do run hot, and might require a more aggressive cooling solution than you&rsquo;re used to in your home-built desktop. What can you do to cool them down? Well, there are a few options&hellip;and Adam&rsquo;s going to run through them all. He&rsquo;s got a brand new <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.falcon-nw.com/desktops/talon&amp;xcust=2-1-1358727-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Falcon Northwest Talon machine</a> packing a Ryzen 9 7900X CPU and a Radeon RX 6950 XT, and he&rsquo;s ready to try a few tricks in the latest PCWorld YouTube video. </p>

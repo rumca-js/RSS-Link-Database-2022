@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## AWS IoT FleetWise Now Generally Available
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59120](https://www.codeproject.com/script/News/View.aspx?nwid=59120)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 AWS recently announced the general availability (GA) of its fully managed IoT FleetWise service, allowing customers to easily collect, transform, and transfer vehicle data to the cloud.
 
@@ -12,7 +11,6 @@ AWS recently announced the general availability (GA) of its fully managed IoT Fl
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59118](https://www.codeproject.com/script/News/View.aspx?nwid=59118)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 Because machine learning with deep neural techniques has advanced quickly, our resident data scientist updates binary classification techniques and best practices based on experience over the past two years.
 
@@ -20,7 +18,6 @@ Because machine learning with deep neural techniques has advanced quickly, our r
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59124](https://www.codeproject.com/script/News/View.aspx?nwid=59124)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 One Law of Robotics down, three to go
 
@@ -28,7 +25,6 @@ One Law of Robotics down, three to go
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59116](https://www.codeproject.com/script/News/View.aspx?nwid=59116)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 Everything you need to know about Feed Forward Neural Networks (FFNNs). From learning what a Perceptron is, to Deep Neural Networks, to Gradient Descent, and Backpropagation.
 
@@ -36,7 +32,6 @@ Everything you need to know about Feed Forward Neural Networks (FFNNs). From lea
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59114](https://www.codeproject.com/script/News/View.aspx?nwid=59114)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 For your next chess tournament
 
@@ -44,7 +39,6 @@ For your next chess tournament
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59126](https://www.codeproject.com/script/News/View.aspx?nwid=59126)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 If your pew-pew is more important than your safety
 
@@ -52,7 +46,6 @@ If your pew-pew is more important than your safety
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59121](https://www.codeproject.com/script/News/View.aspx?nwid=59121)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 12 capabilities every cloud machine learning platform should provide to support the complete machine learning lifecycle—and which cloud machine learning platforms provide them.
 
@@ -60,7 +53,6 @@ If your pew-pew is more important than your safety
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59127](https://www.codeproject.com/script/News/View.aspx?nwid=59127)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 Obvious statements are obvious
 
@@ -68,7 +60,6 @@ Obvious statements are obvious
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59117](https://www.codeproject.com/script/News/View.aspx?nwid=59117)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 The smart home standard is open for certification at last. We could see Matter devices in our homes as soon as this month.
 
@@ -76,7 +67,6 @@ The smart home standard is open for certification at last. We could see Matter d
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59125](https://www.codeproject.com/script/News/View.aspx?nwid=59125)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 (KLoC/fortnight)-([bugs in backlog]*e)
 
@@ -84,7 +74,6 @@ The smart home standard is open for certification at last. We could see Matter d
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59122](https://www.codeproject.com/script/News/View.aspx?nwid=59122)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 Without inference, an artificial intelligence (AI) model is just math and does not actually execute or forecast much, if anything.
 
@@ -92,7 +81,6 @@ Without inference, an artificial intelligence (AI) model is just math and does n
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59123](https://www.codeproject.com/script/News/View.aspx?nwid=59123)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 I just can't imagine why there's such a lack of urgency
 
@@ -100,7 +88,6 @@ I just can't imagine why there's such a lack of urgency
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59119](https://www.codeproject.com/script/News/View.aspx?nwid=59119)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 The technology that turns petabytes of data into useful features that machine learning models can use already works on Azure.
 
@@ -108,7 +95,6 @@ The technology that turns petabytes of data into useful features that machine le
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59129](https://www.codeproject.com/script/News/View.aspx?nwid=59129)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 They ate it  all
 
@@ -116,7 +102,6 @@ They ate it  all
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59128](https://www.codeproject.com/script/News/View.aspx?nwid=59128)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 "None of you understand. I'm not locked up in here with you. You're locked up in here with me."
 
@@ -124,6 +109,5 @@ They ate it  all
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59115](https://www.codeproject.com/script/News/View.aspx?nwid=59115)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-07 04:00:00+00:00
- - tags: None
 
 As a tear forms as I look at my free disc space

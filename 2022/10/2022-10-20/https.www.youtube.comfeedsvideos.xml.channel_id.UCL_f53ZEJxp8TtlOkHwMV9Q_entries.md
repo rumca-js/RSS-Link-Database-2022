@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Perception: Chaos and Order | Dr. Karl Friston | #298
  - [https://www.youtube.com/watch?v=feS1zuKz2N8](https://www.youtube.com/watch?v=feS1zuKz2N8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-10-20 18:10:03+00:00
- - tags: None
 
 Dr. Peterson's extensive catalog is available now on DailyWire+: https://utm.io/ueSXh
 

@@ -1,10 +1,9 @@
-# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
+# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, Source language: en-US
 
 ## Dear Elon, Please SHUT UP
  - [https://www.youtube.com/watch?v=l9UQkMw5QVc](https://www.youtube.com/watch?v=l9UQkMw5QVc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-10-11 19:00:12+00:00
- - tags: None
 
 Go to http://shop.ekster.com/laowhy86 to get the best wallet in the world, and get a massive discount. Use the code LAOWHY86 to get up to 25% off at checkout. 
 

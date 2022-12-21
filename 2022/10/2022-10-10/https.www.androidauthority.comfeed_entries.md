@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google flaunts the potential of Pixel 7 Pro’s zoom, night, and macro shots
  - [https://www.androidauthority.com/pixel-7-pro-camera-shots-3218354/](https://www.androidauthority.com/pixel-7-pro-camera-shots-3218354/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 19:00:28+00:00
- - tags: None
 
 Google shows off the power of Tensor G2's computational photography.
 
@@ -12,7 +11,6 @@ Google shows off the power of Tensor G2's computational photography.
  - [https://www.androidauthority.com/tensor-g2-5nm-chip-3218342/](https://www.androidauthority.com/tensor-g2-5nm-chip-3218342/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 18:31:12+00:00
- - tags: None
 
 Don't believe everything you read online; except this!
 
@@ -20,7 +18,6 @@ Don't believe everything you read online; except this!
  - [https://www.androidauthority.com/youtube-account-handles-3218321/](https://www.androidauthority.com/youtube-account-handles-3218321/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 17:35:35+00:00
- - tags: None
 
 Google is introducing account handles to YouTube to increase visability.
 
@@ -28,7 +25,6 @@ Google is introducing account handles to YouTube to increase visability.
  - [https://www.androidauthority.com/best-pixel-features-explained-3217987/](https://www.androidauthority.com/best-pixel-features-explained-3217987/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 17:29:35+00:00
- - tags: None
 
 Pixels aren't as simple as they seem!
 
@@ -36,7 +32,6 @@ Pixels aren't as simple as they seem!
  - [https://www.androidauthority.com/google-pixel-7-availability-3217642/](https://www.androidauthority.com/google-pixel-7-availability-3217642/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 17:00:56+00:00
- - tags: None
 
 More options for buyers, more potential customers for Google. It's a win-win situation.
 
@@ -44,7 +39,6 @@ More options for buyers, more potential customers for Google. It's a win-win sit
  - [https://www.androidauthority.com/google-assistant-contacts-2-3218287/](https://www.androidauthority.com/google-assistant-contacts-2-3218287/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 15:55:25+00:00
- - tags: None
 
 A new card feature in Google Contacts will show every Google Assistant uses to identify your contacts.
 
@@ -52,7 +46,6 @@ A new card feature in Google Contacts will show every Google Assistant uses to i
  - [https://www.androidauthority.com/pixel-7-pro-long-range-zoom-3215752/](https://www.androidauthority.com/pixel-7-pro-long-range-zoom-3215752/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 14:00:31+00:00
- - tags: None
 
 Get a load of that mugshot.
 
@@ -60,7 +53,6 @@ Get a load of that mugshot.
  - [https://www.androidauthority.com/google-chrome-switch-ad-blocking-changes-poll-3218184/](https://www.androidauthority.com/google-chrome-switch-ad-blocking-changes-poll-3218184/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 12:58:09+00:00
- - tags: None
 
 Chrome is making major changes that could break ad-blocking extensions. So is this enough for you to switch?
 
@@ -68,7 +60,6 @@ Chrome is making major changes that could break ad-blocking extensions. So is th
  - [https://www.androidauthority.com/daily-authority-october-10-2022-3218056/](https://www.androidauthority.com/daily-authority-october-10-2022-3218056/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 08:55:44+00:00
- - tags: None
 
 Insight into the right-to-repair movement, Pixel 7 features on older Pixels, iPhone 14's rollercoaster 911 calls, and more.
 
@@ -76,7 +67,6 @@ Insight into the right-to-repair movement, Pixel 7 features on older Pixels, iPh
  - [https://www.androidauthority.com/google-pixel-watch-hot-not-poll-results-3218133/](https://www.androidauthority.com/google-pixel-watch-hot-not-poll-results-3218133/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 08:45:18+00:00
- - tags: None
 
 It turns out that this was a really close race, but there can only be one winner.
 
@@ -84,7 +74,6 @@ It turns out that this was a really close race, but there can only be one winner
  - [https://www.androidauthority.com/pixel-7-features-older-pixels-phones-3218129/](https://www.androidauthority.com/pixel-7-features-older-pixels-phones-3218129/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 07:08:23+00:00
- - tags: None
 
 The next feature drop might be a big one for older Pixel phones.
 
@@ -92,7 +81,6 @@ The next feature drop might be a big one for older Pixel phones.
  - [https://www.androidauthority.com/best-android-survival-games-584998/](https://www.androidauthority.com/best-android-survival-games-584998/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 06:30:42+00:00
- - tags: None
 
 Survival games bring out the human being in all of us. Here are the best survival games for Android.
 
@@ -100,7 +88,6 @@ Survival games bring out the human being in all of us. Here are the best surviva
  - [https://www.androidauthority.com/samsung-galaxy-s23-battery-3218118/](https://www.androidauthority.com/samsung-galaxy-s23-battery-3218118/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 06:12:59+00:00
- - tags: None
 
 The Galaxy S23 is slated to receive a 200mAh battery capacity bump. But that still makes for a small, 3,900mAh battery.
 
@@ -108,7 +95,6 @@ The Galaxy S23 is slated to receive a 200mAh battery capacity bump. But that sti
  - [https://www.androidauthority.com/iphone-14-crash-detection-roller-coaster-3218108/](https://www.androidauthority.com/iphone-14-crash-detection-roller-coaster-3218108/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 05:37:25+00:00
- - tags: None
 
 Think twice before taking your new iPhone on a ride.
 
@@ -116,7 +102,6 @@ Think twice before taking your new iPhone on a ride.
  - [https://www.androidauthority.com/reset-homepod-3117227/](https://www.androidauthority.com/reset-homepod-3117227/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 04:29:11+00:00
- - tags: None
 
 Apple offers three different ways of stripping a HomePod down to factory settings.
 
@@ -124,7 +109,6 @@ Apple offers three different ways of stripping a HomePod down to factory setting
  - [https://www.androidauthority.com/turn-off-voice-roku-3120812/](https://www.androidauthority.com/turn-off-voice-roku-3120812/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 04:14:28+00:00
- - tags: None
 
 These two features can help out the visually impaired, but if they're on by accident, it's simple to switch them off.
 
@@ -132,6 +116,5 @@ These two features can help out the visually impaired, but if they're on by acci
  - [https://www.androidauthority.com/best-prime-day-deals-1236398/](https://www.androidauthority.com/best-prime-day-deals-1236398/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-10 02:30:30+00:00
- - tags: None
 
 The second big Amazon sales event of the year is just hours away, and you can already find big bargains.

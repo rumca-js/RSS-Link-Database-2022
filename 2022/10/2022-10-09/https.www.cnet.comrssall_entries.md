@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Here's When the Finale of 'The Rings of Power' Lands in Your Timezone     - CNET
  - [https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-lands-in-your-timezone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-lands-in-your-timezone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 23:41:02+00:00
- - tags: None
 
 The Lord of the Rings prequel series is almost at an end -- for the first season at least. Here's exactly when the finale arrives on Prime Video...
 
@@ -12,7 +11,6 @@ The Lord of the Rings prequel series is almost at an end -- for the first season
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-tonight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 23:33:09+00:00
- - tags: None
 
 Netflix is the home of a huge stash of impeccable horror movies.
 
@@ -20,7 +18,6 @@ Netflix is the home of a huge stash of impeccable horror movies.
  - [https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 23:14:25+00:00
- - tags: None
 
 This week catch The Watcher, a mystery thriller starring Naomi Watts and Bobby Cannavale.
 
@@ -28,7 +25,6 @@ This week catch The Watcher, a mystery thriller starring Naomi Watts and Bobby C
  - [https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-films-to-see/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-films-to-see/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 22:42:51+00:00
- - tags: None
 
 Jump into Halloween with The Curse of Bridge Hollow, starring Stranger Things' Priah Ferguson.
 
@@ -36,7 +32,6 @@ Jump into Halloween with The Curse of Bridge Hollow, starring Stranger Things' P
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-7-recap-an-eye-for-an-eye/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-7-recap-an-eye-for-an-eye/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 22:10:00+00:00
- - tags: None
 
 Episode 7 of House of the Dragon had a funeral, a wedding and one gnarly brawl.
 
@@ -44,7 +39,6 @@ Episode 7 of House of the Dragon had a funeral, a wedding and one gnarly brawl.
  - [https://www.cnet.com/culture/entertainment/the-midnight-club-on-netflix-mike-flanagan-horror-echoes-midnight-mass/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-midnight-club-on-netflix-mike-flanagan-horror-echoes-midnight-mass/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 22:08:08+00:00
- - tags: None
 
 Review: Mike Flanagan's latest show is a gripping tale about terminally ill teenagers facing death in more ways than one.
 
@@ -52,7 +46,6 @@ Review: Mike Flanagan's latest show is a gripping tale about terminally ill teen
  - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-2nd-best-tv-series-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-2nd-best-tv-series-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 22:05:00+00:00
- - tags: None
 
 The OA is unlike anything you've ever seen.
 
@@ -60,7 +53,6 @@ The OA is unlike anything you've ever seen.
  - [https://www.cnet.com/culture/entertainment/the-midnight-club-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-midnight-club-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 22:00:40+00:00
- - tags: None
 
 What's Dr. Stanton's true identity? Will there be a season 2? Let's discuss everything to know about Mike Flanagan's latest horror show.
 
@@ -68,7 +60,6 @@ What's Dr. Stanton's true identity? Will there be a season 2? Let's discuss ever
  - [https://www.cnet.com/tech/services-and-software/padres-vs-mets-livestream-how-to-watch-game-3-of-the-wild-card-series-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/padres-vs-mets-livestream-how-to-watch-game-3-of-the-wild-card-series-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 21:53:02+00:00
- - tags: None
 
 The final division series spot in the 2022 MLB playoffs will be decided when San Diego plays New York.
 
@@ -76,7 +67,6 @@ The final division series spot in the 2022 MLB playoffs will be decided when San
  - [https://www.cnet.com/tech/mobile/iphone-14-reportedly-dialing-911-on-roller-coasters/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-reportedly-dialing-911-on-roller-coasters/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 21:24:27+00:00
- - tags: None
 
 The handset's Crash Detection feature is apparently misinterpreting the ride's wild movements as a car accident.
 
@@ -84,7 +74,6 @@ The handset's Crash Detection feature is apparently misinterpreting the ride's w
  - [https://www.cnet.com/tech/mobile/iphone-14-reportedly-dialing-911-during-roller-coaster-rides/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-reportedly-dialing-911-during-roller-coaster-rides/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 21:24:00+00:00
- - tags: None
 
 The handset's Crash Detection feature is apparently misinterpreting the ride's wild movements as a car accident.
 
@@ -92,7 +81,6 @@ The handset's Crash Detection feature is apparently misinterpreting the ride's w
  - [https://www.cnet.com/tech/services-and-software/cowboys-vs-rams-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/cowboys-vs-rams-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 19:24:03+00:00
- - tags: None
 
 Wants to see the Dallas Cowboys play the Los Angeles Rams? Here's everything you need for Sunday's 4:25 p.m. ET game on Fox.
 
@@ -100,7 +88,6 @@ Wants to see the Dallas Cowboys play the Los Angeles Rams? Here's everything you
  - [https://www.cnet.com/tech/home-entertainment/house-of-the-dragon-is-way-too-dark-change-these-tv-settings-to-fix-that/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/house-of-the-dragon-is-way-too-dark-change-these-tv-settings-to-fix-that/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 19:16:52+00:00
- - tags: None
 
 Turning up your TV's brightness alone won't cut it.
 
@@ -108,7 +95,6 @@ Turning up your TV's brightness alone won't cut it.
  - [https://www.cnet.com/tech/services-and-software/eagles-vs-cardinals-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/eagles-vs-cardinals-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 19:02:02+00:00
- - tags: None
 
 Looking to watch the Philadelphia Eagles play the Arizona Cardinals? Here's everything you need for Sunday's 4:25 p.m. ET game on Fox.
 
@@ -116,7 +102,6 @@ Looking to watch the Philadelphia Eagles play the Arizona Cardinals? Here's ever
  - [https://www.cnet.com/tech/mobile/google-pixel-7-hands-on-new-look-and-camera-same-599-price/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/google-pixel-7-hands-on-new-look-and-camera-same-599-price/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 17:59:00+00:00
- - tags: None
 
 The new Pixel phone is still one of the more affordable flagships you can buy.
 
@@ -124,7 +109,6 @@ The new Pixel phone is still one of the more affordable flagships you can buy.
  - [https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-7-recap-what-isnt-on-fire/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-7-recap-what-isnt-on-fire/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 17:55:00+00:00
- - tags: None
 
 Things get hot in the penultimate episode of the Amazon Prime show.
 
@@ -132,7 +116,6 @@ Things get hot in the penultimate episode of the Amazon Prime show.
  - [https://www.cnet.com/culture/entertainment/snl-parodies-the-try-guys-emotional-response-to-ned-fulmer-drama/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/snl-parodies-the-try-guys-emotional-response-to-ned-fulmer-drama/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 17:45:00+00:00
- - tags: None
 
 "This is the battle of our lives," one of The Try Guys says in the Saturday Night Live sketch. But not all fans are amused.
 
@@ -140,7 +123,6 @@ Things get hot in the penultimate episode of the Amazon Prime show.
  - [https://www.cnet.com/culture/entertainment/snl-skit-parodies-the-try-guys-response-to-ned-fulmer-drama/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/snl-skit-parodies-the-try-guys-response-to-ned-fulmer-drama/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 17:33:00+00:00
- - tags: None
 
 "This is the battle of our lives," one of The Try Guys says in the Saturday Night Live sketch. But not all fans are amused.
 
@@ -148,7 +130,6 @@ Things get hot in the penultimate episode of the Amazon Prime show.
  - [https://www.cnet.com/deals/black-friday-savings-are-here-already-with-early-deals-at-target/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-savings-are-here-already-with-early-deals-at-target/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 17:00:07+00:00
- - tags: None
 
 Target is kicking off the holiday shopping season early with tons of great deals on kitchen gadgets, TVs, home goods and more that you can shop right now.
 
@@ -156,7 +137,6 @@ Target is kicking off the holiday shopping season early with tons of great deals
  - [https://www.cnet.com/tech/home-entertainment/do-your-eyes-hurt-after-watching-tv-heres-how-you-can-fix-that/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/do-your-eyes-hurt-after-watching-tv-heres-how-you-can-fix-that/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 17:00:02+00:00
- - tags: None
 
 If you've noticed a gritty or sore feeling in your eyes after a long binge watch, your TV might be the culprit. Here's how to tone it down.
 
@@ -164,7 +144,6 @@ If you've noticed a gritty or sore feeling in your eyes after a long binge watch
  - [https://www.cnet.com/culture/mcdonalds-halloween-boo-buckets-get-ready-for-the-beloved-pails-return/#ftag=CADf328eec](https://www.cnet.com/culture/mcdonalds-halloween-boo-buckets-get-ready-for-the-beloved-pails-return/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:36:19+00:00
- - tags: None
 
 Learn all about McDonald's nostalgic Happy Meal containers and how you can get one.
 
@@ -172,7 +151,6 @@ Learn all about McDonald's nostalgic Happy Meal containers and how you can get o
  - [https://www.cnet.com/tech/services-and-software/everton-vs-man-united-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/everton-vs-man-united-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:30:04+00:00
- - tags: None
 
 Manchester United make the short trip to Merseyside in this Sunday's Premier League clash. Here's how to watch the game live.
 
@@ -180,7 +158,6 @@ Manchester United make the short trip to Merseyside in this Sunday's Premier Lea
  - [https://www.cnet.com/deals/shop-refurbs-at-woot-and-save-on-already-affordable-chromebooks/#ftag=CADf328eec](https://www.cnet.com/deals/shop-refurbs-at-woot-and-save-on-already-affordable-chromebooks/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:30:00+00:00
- - tags: None
 
 Right now at Woot you can shop a selection of refurbished Chromebooks from HP, Lenovo and Samsung, with prices starting at just $50.
 
@@ -188,7 +165,6 @@ Right now at Woot you can shop a selection of refurbished Chromebooks from HP, L
  - [https://www.cnet.com/tech/services-and-software/falcons-vs-bucs-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/falcons-vs-bucs-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:05:02+00:00
- - tags: None
 
 Looking to stream the Atlanta Falcons as they play the Tampa Bay Buccaneers? Here's everything you need for Sunday's 1 p.m. ET game on Fox.
 
@@ -196,7 +172,6 @@ Looking to stream the Atlanta Falcons as they play the Tampa Bay Buccaneers? Her
  - [https://www.cnet.com/culture/taco-bell-fans-have-picked-the-discontinued-item-to-return-in-2022/#ftag=CADf328eec](https://www.cnet.com/culture/taco-bell-fans-have-picked-the-discontinued-item-to-return-in-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:05:00+00:00
- - tags: None
 
 Taco Bell asked fans to pick between two retired menu items. They chose the cheesy, beefy, saucy Enchirito.
 
@@ -204,7 +179,6 @@ Taco Bell asked fans to pick between two retired menu items. They chose the chee
  - [https://www.cnet.com/tech/services-and-software/titans-vs-commanders-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/titans-vs-commanders-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:02:02+00:00
- - tags: None
 
 Do you want to watch the Tennessee Titans play the Washington Commanders? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -212,7 +186,6 @@ Do you want to watch the Tennessee Titans play the Washington Commanders? Here's
  - [https://www.cnet.com/tech/mobile/apples-ios-16-makes-sharing-your-wi-fi-password-simpler-than-ever/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apples-ios-16-makes-sharing-your-wi-fi-password-simpler-than-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 16:00:02+00:00
- - tags: None
 
 You can view the saved password in your iPhone's settings and share away. Here's how.
 
@@ -220,7 +193,6 @@ You can view the saved password in your iPhone's settings and share away. Here's
  - [https://www.cnet.com/tech/services-and-software/steelers-vs-bills-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/steelers-vs-bills-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:59:02+00:00
- - tags: None
 
 Looking to watch the Pittsburgh Steelers play the Buffalo Bills? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -228,7 +200,6 @@ Looking to watch the Pittsburgh Steelers play the Buffalo Bills? Here's everythi
  - [https://www.cnet.com/tech/services-and-software/chargers-vs-browns-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/chargers-vs-browns-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:57:02+00:00
- - tags: None
 
 Looking to watch the Los Angeles Chargers play the Cleveland Browns? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -236,7 +207,6 @@ Looking to watch the Los Angeles Chargers play the Cleveland Browns? Here's ever
  - [https://www.cnet.com/tech/mobile/google-pixel-watch-hands-on-stylish-and-jam-packed-with-fitbit-features/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/google-pixel-watch-hands-on-stylish-and-jam-packed-with-fitbit-features/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:55:00+00:00
- - tags: None
 
 Starting at $350, Google's first smartwatch has a lot of potential.
 
@@ -244,7 +214,6 @@ Starting at $350, Google's first smartwatch has a lot of potential.
  - [https://www.cnet.com/tech/services-and-software/bears-vs-vikings-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bears-vs-vikings-livestream-how-to-watch-nfl-week-5-from-anywhere-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:51:02+00:00
- - tags: None
 
 Want to watch the Chicago Bears take on the Minnesota Vikings? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -252,7 +221,6 @@ Want to watch the Chicago Bears take on the Minnesota Vikings? Here's everything
  - [https://www.cnet.com/tech/services-and-software/dolphins-vs-jets-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/dolphins-vs-jets-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:48:03+00:00
- - tags: None
 
 Looking to watch the Miami Dolphins take on the New York Jets? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -260,7 +228,6 @@ Looking to watch the Miami Dolphins take on the New York Jets? Here's everything
  - [https://www.cnet.com/deals/become-a-photoshop-whiz-with-this-25-masterclass-bundle/#ftag=CADf328eec](https://www.cnet.com/deals/become-a-photoshop-whiz-with-this-25-masterclass-bundle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:30:02+00:00
- - tags: None
 
 Today only at StackSocial, you can get lifetime access to this seven-course bundle for 98% off the usual price.
 
@@ -268,7 +235,6 @@ Today only at StackSocial, you can get lifetime access to this seven-course bund
  - [https://www.cnet.com/health/sleep/6-ways-to-beat-the-sunday-scaries/#ftag=CADf328eec](https://www.cnet.com/health/sleep/6-ways-to-beat-the-sunday-scaries/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 15:00:02+00:00
- - tags: None
 
 Worrying about the week ahead can take a toll on your sleep. Here's what to do.
 
@@ -276,7 +242,6 @@ Worrying about the week ahead can take a toll on your sleep. Here's what to do.
  - [https://www.cnet.com/tech/mobile/google-pixel-7-vs-pixel-6-every-notable-difference/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/google-pixel-7-vs-pixel-6-every-notable-difference/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 14:47:00+00:00
- - tags: None
 
 See how Google's new Pixel 7 and Pixel 7 Pro compare to 2021's Pixel 6.
 
@@ -284,7 +249,6 @@ See how Google's new Pixel 7 and Pixel 7 Pro compare to 2021's Pixel 6.
  - [https://www.cnet.com/deals/capture-every-moment-with-210-off-this-gopro-hero-10-bundle/#ftag=CADf328eec](https://www.cnet.com/deals/capture-every-moment-with-210-off-this-gopro-hero-10-bundle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 14:00:02+00:00
- - tags: None
 
 You can pick up a rugged GoPro Hero 10, plus some handy accessories, for just $400 ahead of Amazon's Early Access Sale.
 
@@ -292,7 +256,6 @@ You can pick up a rugged GoPro Hero 10, plus some handy accessories, for just $4
  - [https://www.cnet.com/deals/capture-every-moment-with-sale-for-this-gopro-hero-10-bundle/#ftag=CADf328eec](https://www.cnet.com/deals/capture-every-moment-with-sale-for-this-gopro-hero-10-bundle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 14:00:00+00:00
- - tags: None
 
 You can pick up a rugged GoPro Hero 10, plus some handy accessories, for just $400 ahead of Amazon's Early Access Sale.
 
@@ -300,7 +263,6 @@ You can pick up a rugged GoPro Hero 10, plus some handy accessories, for just $4
  - [https://www.cnet.com/personal-finance/they-inherited-bad-money-habits-from-their-parents-heres-how-they-broke-them/#ftag=CADf328eec](https://www.cnet.com/personal-finance/they-inherited-bad-money-habits-from-their-parents-heres-how-they-broke-them/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 13:45:02+00:00
- - tags: None
 
 Your financial patterns aren't nature -- they're nurture.
 
@@ -308,7 +270,6 @@ Your financial patterns aren't nature -- they're nurture.
  - [https://www.cnet.com/tech/home-entertainment/benq-is-a-pricey-gift-but-its-the-best-projector-for-the-money/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/benq-is-a-pricey-gift-but-its-the-best-projector-for-the-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 13:00:06+00:00
- - tags: None
 
 The BenQ TH685P shines when it comes to brightness and response time -- two essential projector metrics.
 
@@ -316,7 +277,6 @@ The BenQ TH685P shines when it comes to brightness and response time -- two esse
  - [https://www.cnet.com/health/obamacare-how-to-apply-and-when-you-can-in-2022/#ftag=CADf328eec](https://www.cnet.com/health/obamacare-how-to-apply-and-when-you-can-in-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 12:15:02+00:00
- - tags: None
 
 In just weeks you'll be able to sign up for an Affordable Care Act plan through HealthCare.gov if you're seeking health care insurance.
 
@@ -324,7 +284,6 @@ In just weeks you'll be able to sign up for an Affordable Care Act plan through 
  - [https://www.cnet.com/roadshow/news/honeywell-360-display-headset-lets-you-drive-in-a-car-without-windows/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/honeywell-360-display-headset-lets-you-drive-in-a-car-without-windows/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 12:00:13+00:00
- - tags: None
 
 The Honeywell 360 Display combines camera and sensor data to create a "360 view dome" inside a vehicle, letting drivers see the road even if the windows are blacked out.
 
@@ -332,7 +291,6 @@ The Honeywell 360 Display combines camera and sensor data to create a "360 view 
  - [https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/#ftag=CADf328eec](https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 12:00:06+00:00
- - tags: None
 
 North Korea has quietly become a cryptocurrency superpower. It has stolen billions in bitcoin and ether and is funneling profits to its nuclear weapons program.
 
@@ -340,7 +298,6 @@ North Korea has quietly become a cryptocurrency superpower. It has stolen billio
  - [https://www.cnet.com/tech/mobile/pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 12:00:02+00:00
- - tags: None
 
 Exclusive: New camera hardware and the Tensor G2 AI brain in Google's $899 phone help you zoom, focus, unblur faces and shoot in the dark.
 
@@ -348,7 +305,6 @@ Exclusive: New camera hardware and the Tensor G2 AI brain in Google's $899 phone
  - [https://www.cnet.com/videos/driving-blind-this-headset-lets-you-drive-in-a-car-without-windows/#ftag=CADf328eec](https://www.cnet.com/videos/driving-blind-this-headset-lets-you-drive-in-a-car-without-windows/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 12:00:01+00:00
- - tags: None
 
 It feels like something out of a spy movie, but Honeywell's 360 Display lets you see a "360 view dome" when you drive, even if the car's windows are completely blacked out.
 
@@ -356,7 +312,6 @@ It feels like something out of a spy movie, but Honeywell's 360 Display lets you
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-you-can-watch-episode-8-in-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-you-can-watch-episode-8-in-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 12:00:00+00:00
- - tags: None
 
 House of the Dragon's seventh episode was its most cutting yet. Hopefully the momentum keeps building on Sunday's show.
 
@@ -364,7 +319,6 @@ House of the Dragon's seventh episode was its most cutting yet. Hopefully the mo
  - [https://www.cnet.com/tech/services-and-software/nfl-week-5-how-to-watch-giants-vs-packers-bengals-vs-ravens-redzone-and-more-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-week-5-how-to-watch-giants-vs-packers-bengals-vs-ravens-redzone-and-more-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 11:00:14+00:00
- - tags: None
 
 The NFL's Sunday slate once again starts early this weekend.
 
@@ -372,7 +326,6 @@ The NFL's Sunday slate once again starts early this weekend.
  - [https://www.cnet.com/tech/services-and-software/not-into-that-hulu-show-heres-the-easiest-way-to-get-rid-of-it/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/not-into-that-hulu-show-heres-the-easiest-way-to-get-rid-of-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 11:00:10+00:00
- - tags: None
 
 You don't have to finish every show you start watching. We won't tell.
 
@@ -380,7 +333,6 @@ You don't have to finish every show you start watching. We won't tell.
  - [https://www.cnet.com/news/you-should-buy-the-4th-gen-echo-dot-this-prime-day-not-the-new-one-heres-why/#ftag=CADf328eec](https://www.cnet.com/news/you-should-buy-the-4th-gen-echo-dot-this-prime-day-not-the-new-one-heres-why/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 11:00:07+00:00
- - tags: None
 
 Echo Dot fourth-gen devices sport a design similar to that of the fifth-gen Echo Dots, and will also be able to act as Eero mesh Wi-Fi extenders. And they're on sale for half price.
 
@@ -388,7 +340,6 @@ Echo Dot fourth-gen devices sport a design similar to that of the fifth-gen Echo
  - [https://www.cnet.com/tech/mobile/pixel-7s-599-price-seems-low-but-carriers-iphone-and-galaxy-deals-are-better/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-7s-599-price-seems-low-but-carriers-iphone-and-galaxy-deals-are-better/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 11:00:02+00:00
- - tags: None
 
 Google's pricing on the Pixel 7 is lower than rival flagships from Apple and Samsung, but is that enough?
 
@@ -396,7 +347,6 @@ Google's pricing on the Pixel 7 is lower than rival flagships from Apple and Sam
  - [https://www.cnet.com/culture/entertainment/the-try-guys-drama-with-ned-fulmer-gets-the-snl-treatment/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-try-guys-drama-with-ned-fulmer-gets-the-snl-treatment/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 10:45:00+00:00
- - tags: None
 
 "This is the battle of our lives," one of The Try Guys says in the Saturday Night Live parody.
 
@@ -404,7 +354,6 @@ Google's pricing on the Pixel 7 is lower than rival flagships from Apple and Sam
  - [https://www.cnet.com/culture/entertainment/snl-parodies-the-try-guys-video-response-to-ned-fulmer-drama/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/snl-parodies-the-try-guys-video-response-to-ned-fulmer-drama/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 09:45:00+00:00
- - tags: None
 
 "This is the battle of our lives," one of The Try Guys says in the Saturday Night Live version.
 
@@ -412,7 +361,6 @@ Google's pricing on the Pixel 7 is lower than rival flagships from Apple and Sam
  - [https://www.cnet.com/personal-finance/credit-cards/use-a-debit-card-instead-of-a-credit-card-and-watch-your-spending-drop/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/use-a-debit-card-instead-of-a-credit-card-and-watch-your-spending-drop/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 07:15:02+00:00
- - tags: None
 
 Cutting the credit card habit could save you money.
 
@@ -420,7 +368,6 @@ Cutting the credit card habit could save you money.
  - [https://www.cnet.com/tech/services-and-software/dont-put-your-online-security-at-risk-get-a-password-manager-now/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/dont-put-your-online-security-at-risk-get-a-password-manager-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 07:00:02+00:00
- - tags: None
 
 Be more secure online by forgetting your passwords. Here's how a password manager can help and why you need one.
 
@@ -428,7 +375,6 @@ Be more secure online by forgetting your passwords. Here's how a password manage
  - [https://www.cnet.com/culture/entertainment/wwe-extreme-rules-2022-results-bray-wyatt-return-full-recap-and-analysis/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/wwe-extreme-rules-2022-results-bray-wyatt-return-full-recap-and-analysis/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 03:19:00+00:00
- - tags: None
 
 The White Rabbit is real. Bray Wyatt showed up at Extreme Rules after weeks of teasing a return.
 
@@ -436,7 +382,6 @@ The White Rabbit is real. Bray Wyatt showed up at Extreme Rules after weeks of t
  - [https://www.cnet.com/tech/computing/buying-a-budget-laptop-in-2022-simple-complete-guide/#ftag=CADf328eec](https://www.cnet.com/tech/computing/buying-a-budget-laptop-in-2022-simple-complete-guide/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 03:00:07+00:00
- - tags: None
 
 How to purchase an inexpensive laptop without sacrificing performance.
 
@@ -444,7 +389,6 @@ How to purchase an inexpensive laptop without sacrificing performance.
  - [https://www.cnet.com/tech/services-and-software/formula-1-japan-livestream-how-to-watch-the-race-live/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/formula-1-japan-livestream-how-to-watch-the-race-live/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 03:00:03+00:00
- - tags: None
 
 Max Verstappen didn't win last week, but he can still clinch the F1 championship in Japan. Here's how to watch him try -- without cable.
 
@@ -452,7 +396,6 @@ Max Verstappen didn't win last week, but he can still clinch the F1 championship
  - [https://www.cnet.com/culture/meet-the-worlds-tallest-domestic-cat/#ftag=CADf328eec](https://www.cnet.com/culture/meet-the-worlds-tallest-domestic-cat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 01:19:00+00:00
- - tags: None
 
 Meow-za! Fenrir comes from a family of record-setting felines.
 
@@ -460,7 +403,6 @@ Meow-za! Fenrir comes from a family of record-setting felines.
  - [https://www.cnet.com/tech/mobile/theres-a-hidden-trackpad-on-your-iphone-heres-how-you-can-unlock-it/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/theres-a-hidden-trackpad-on-your-iphone-heres-how-you-can-unlock-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 01:00:10+00:00
- - tags: None
 
 This little-known iOS feature makes typing on your keyboard so much easier. And it works on your iPad too.
 
@@ -468,6 +410,5 @@ This little-known iOS feature makes typing on your keyboard so much easier. And 
  - [https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CADf328eec](https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-09 00:50:04+00:00
- - tags: None
 
 Impress the family with a thoughtful present.

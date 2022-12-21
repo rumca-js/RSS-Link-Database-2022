@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Russian Missiles Deliver New Woe to Kyiv, Knocking Out Tap Water
  - [https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html](https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 23:00:15+00:00
- - tags: None
 
 Moscow kept up its campaign to destroy civilian infrastructure, in an apparent bid — so far unsuccessful — to break Ukrainian morale by making cities unlivable.
 
@@ -12,7 +11,6 @@ Moscow kept up its campaign to destroy civilian infrastructure, in an apparent b
  - [https://www.nytimes.com/live/2022/10/31/world/brazil-election-lula-bolsonaro/what-does-the-transition-of-power-entail-in-brazil](https://www.nytimes.com/live/2022/10/31/world/brazil-election-lula-bolsonaro/what-does-the-transition-of-power-entail-in-brazil)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 21:33:05+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Moscow kept up its campaign to destroy civilian infrastructure, in an apparent b
  - [https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html](https://www.nytimes.com/2022/10/31/briefing/bolsonaro-lula-brazil-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 21:07:57+00:00
- - tags: None
 
 But he has not conceded Brazil’s presidential election.
 
@@ -28,7 +25,6 @@ But he has not conceded Brazil’s presidential election.
  - [https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html](https://www.nytimes.com/2022/10/31/world/europe/suella-braverman-migrants-uk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 20:56:56+00:00
- - tags: None
 
 Suella Braverman has come under political fire for breaching security rules and for her handling of immigration issues.
 
@@ -36,7 +32,6 @@ Suella Braverman has come under political fire for breaching security rules and 
  - [https://www.nytimes.com/live/2022/10/31/world/russia-ukraine-war-news/russia-grain-deal-ukraine-wheat](https://www.nytimes.com/live/2022/10/31/world/russia-ukraine-war-news/russia-grain-deal-ukraine-wheat)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 20:49:51+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ Suella Braverman has come under political fire for breaching security rules and 
  - [https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html](https://www.nytimes.com/2022/10/31/world/asia/seoul-halloween-crowd-accountability.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 20:45:43+00:00
- - tags: None
 
 Days after the deaths of more than 150 young people, officials were still struggling to explain what exactly went wrong and who was to blame.
 
@@ -52,7 +46,6 @@ Days after the deaths of more than 150 young people, officials were still strugg
  - [https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html](https://www.nytimes.com/2022/10/31/us/politics/russia-ukraine-ships-drones.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 20:39:58+00:00
- - tags: None
 
 Military experts say that the apparent use of remote-controlled boats to attack Russian ships over the weekend is likely to demonstrate a new capability for Ukrainian forces.
 
@@ -60,7 +53,6 @@ Military experts say that the apparent use of remote-controlled boats to attack 
  - [https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html](https://www.nytimes.com/2022/10/31/world/americas/mexico-43-missing-students.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 20:20:27+00:00
- - tags: None
 
 An international panel said it had found numerous inconsistencies in evidence presented by the government’s truth commission on the disappearance of the 43 students in 2014.
 
@@ -68,7 +60,6 @@ An international panel said it had found numerous inconsistencies in evidence pr
  - [https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html](https://www.nytimes.com/2022/10/31/world/europe/oleg-tinkov-russia-citizenship.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 19:54:46+00:00
- - tags: None
 
 The multimillionaire said on Instagram that he “can’t and won’t be associated with a fascist country.”
 
@@ -76,7 +67,6 @@ The multimillionaire said on Instagram that he “can’t and won’t be associa
  - [https://www.nytimes.com/live/2022/10/31/world/brazil-election-lula-bolsonaro](https://www.nytimes.com/live/2022/10/31/world/brazil-election-lula-bolsonaro)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 19:28:52+00:00
- - tags: None
 
 The leader of Brazil has yet to concede after his defeat to his leftist opponent on Sunday, raising fears that he could refuse to accept the results and set off unrest.
 
@@ -84,7 +74,6 @@ The leader of Brazil has yet to concede after his defeat to his leftist opponent
  - [https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html](https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 17:47:02+00:00
- - tags: None
 
 The president-elect once helped slash deforestation rates in the Amazon rainforest. He says he wants to do it again.
 
@@ -92,7 +81,6 @@ The president-elect once helped slash deforestation rates in the Amazon rainfore
  - [https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html](https://www.nytimes.com/2022/10/31/world/europe/kyiv-ukraine-water-russian-attacks.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 16:56:08+00:00
- - tags: None
 
 Before the latest round of assaults on Ukrainian infrastructure, a buzz had returned to the capital.
 
@@ -100,7 +88,6 @@ Before the latest round of assaults on Ukrainian infrastructure, a buzz had retu
  - [https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html](https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 16:16:57+00:00
- - tags: None
 
 Between 197,000 and 874,000 city residents could experience a foot of flooding during an extreme storm, scientists found. Most of them don’t live in beachfront mansions.
 
@@ -108,7 +95,6 @@ Between 197,000 and 874,000 city residents could experience a foot of flooding d
  - [https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html](https://www.nytimes.com/2022/10/31/world/asia/india-bridge-collapse.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 12:58:32+00:00
- - tags: None
 
 After the deaths of at least 140 pedestrians, the country is asking why its infrastructure has failed so calamitously once again.
 
@@ -116,7 +102,6 @@ After the deaths of at least 140 pedestrians, the country is asking why its infr
  - [https://www.nytimes.com/article/cop27-climate-change-summit.html](https://www.nytimes.com/article/cop27-climate-change-summit.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 12:58:06+00:00
- - tags: None
 
 With the world still struggling to get global warming under control, diplomats will gather in Egypt for United Nations climate talks. Here are some key facts.
 
@@ -124,7 +109,6 @@ With the world still struggling to get global warming under control, diplomats w
  - [https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html](https://www.nytimes.com/2022/10/31/world/americas/brazil-election-results-bolsonaro-lula.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 12:15:12+00:00
- - tags: None
 
 President Jair Bolsonaro has not yet recognized his election defeat after months of warning, without evidence, that opponents would rig the vote.
 
@@ -132,7 +116,6 @@ President Jair Bolsonaro has not yet recognized his election defeat after months
  - [https://www.nytimes.com/live/2022/10/31/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/31/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 11:51:48+00:00
- - tags: None
 
 Ukraine said that its forces shot down most of the Russian missiles, but strikes cut off the water supply to 80 percent of Kyiv, at least temporarily.
 
@@ -140,7 +123,6 @@ Ukraine said that its forces shot down most of the Russian missiles, but strikes
  - [https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html](https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 11:31:39+00:00
- - tags: None
 
 Completing the Tiangong space station is the latest step in Beijing’s effort to match and eventually surpass the United States in space exploration.
 
@@ -148,7 +130,6 @@ Completing the Tiangong space station is the latest step in Beijing’s effort t
  - [https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html](https://www.nytimes.com/2022/10/31/world/europe/moldova-russia-missile-debris-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 11:24:44+00:00
- - tags: None
 
 Parts of a Russian missile intercepted by Ukrainian air defenses landed in a Moldovan border village on Monday.
 
@@ -156,7 +137,6 @@ Parts of a Russian missile intercepted by Ukrainian air defenses landed in a Mol
  - [https://www.nytimes.com/2022/10/31/briefing/prison-race-brazil-election.html](https://www.nytimes.com/2022/10/31/briefing/prison-race-brazil-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 10:56:02+00:00
- - tags: None
 
 Racial disparities in incarceration have fallen.
 
@@ -164,7 +144,6 @@ Racial disparities in incarceration have fallen.
  - [https://www.nytimes.com/2022/10/29/world/asia/what-happens-during-a-crowd-crush.html](https://www.nytimes.com/2022/10/29/world/asia/what-happens-during-a-crowd-crush.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 09:15:17+00:00
- - tags: None
 
 Experts say that when a group is packed so close together that no one can move, their airways can become constricted. Victims can suffocate even while standing.
 
@@ -172,7 +151,6 @@ Experts say that when a group is packed so close together that no one can move, 
  - [https://www.nytimes.com/2022/10/31/travel/sea-clown-sailing-circus.html](https://www.nytimes.com/2022/10/31/travel/sea-clown-sailing-circus.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 09:00:25+00:00
- - tags: None
 
 A photographer embedded with the Sea Clown Sailing Circus on the troupe’s journeys through the Mediterranean. Here’s what he saw.
 
@@ -180,7 +158,6 @@ A photographer embedded with the Sea Clown Sailing Circus on the troupe’s jour
  - [https://www.nytimes.com/2022/10/31/health/cholera-outbreaks-vaccine.html](https://www.nytimes.com/2022/10/31/health/cholera-outbreaks-vaccine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 09:00:24+00:00
- - tags: None
 
 A record number of outbreaks has drained the cholera vaccine supply, leading the W.H.O. to ration emergency vaccinations.
 
@@ -188,7 +165,6 @@ A record number of outbreaks has drained the cholera vaccine supply, leading the
  - [https://www.nytimes.com/2022/10/30/world/americas/bolsonaro-election-results.html](https://www.nytimes.com/2022/10/30/world/americas/bolsonaro-election-results.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 08:12:25+00:00
- - tags: None
 
 President Jair Bolsonaro has spent years attacking Brazil’s democratic institutions.
 
@@ -196,7 +172,6 @@ President Jair Bolsonaro has spent years attacking Brazil’s democratic institu
  - [https://www.nytimes.com/2022/10/31/climate/frank-mitloehner-uc-davis.html](https://www.nytimes.com/2022/10/31/climate/frank-mitloehner-uc-davis.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 07:00:14+00:00
- - tags: None
 
 A UC Davis professor runs an academic center that was conceived by a trade group, according to records, and gets most of its funding from farming interests.
 
@@ -204,7 +179,6 @@ A UC Davis professor runs an academic center that was conceived by a trade group
  - [https://www.nytimes.com/2022/10/31/world/asia/seoul-itaewon-crowd-crush-victims.html](https://www.nytimes.com/2022/10/31/world/asia/seoul-itaewon-crowd-crush-victims.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 06:51:18+00:00
- - tags: None
 
 More than 100 of those killed in the crowd crush were in their 20s, planning for the next chapter of their lives.
 
@@ -212,7 +186,6 @@ More than 100 of those killed in the crowd crush were in their 20s, planning for
  - [https://www.nytimes.com/2022/10/31/briefing/bridge-collapse-india-seoul-disaster.html](https://www.nytimes.com/2022/10/31/briefing/bridge-collapse-india-seoul-disaster.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 04:38:04+00:00
- - tags: None
 
 A devastating tragedy in Seoul.
 
@@ -220,7 +193,6 @@ A devastating tragedy in Seoul.
  - [https://www.nytimes.com/2022/10/30/world/americas/lula-election-results-brazil-bolsonaro.html](https://www.nytimes.com/2022/10/30/world/americas/lula-election-results-brazil-bolsonaro.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 03:30:21+00:00
- - tags: None
 
 Brazilians voted out their far-right leader, Jair Bolsonaro, after a single term and replaced him with former President Luiz Inácio Lula da Silva.
 
@@ -228,7 +200,6 @@ Brazilians voted out their far-right leader, Jair Bolsonaro, after a single term
  - [https://www.nytimes.com/2022/10/30/world/americas/in-an-evangelical-church-attendees-pray-for-a-bolsonaro-victory.html](https://www.nytimes.com/2022/10/30/world/americas/in-an-evangelical-church-attendees-pray-for-a-bolsonaro-victory.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 02:26:33+00:00
- - tags: None
 
 
 
@@ -236,7 +207,6 @@ Brazilians voted out their far-right leader, Jair Bolsonaro, after a single term
  - [https://www.nytimes.com/2022/10/30/world/americas/bolsonaro-charges-lost.html](https://www.nytimes.com/2022/10/30/world/americas/bolsonaro-charges-lost.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 01:22:55+00:00
- - tags: None
 
 Brazil’s president has faced investigations that have been staved off or blocked so far given his presidential immunity. But that may now change of his defeat in Sunday’s election.
 
@@ -244,6 +214,5 @@ Brazil’s president has faced investigations that have been staved off or block
  - [https://www.nytimes.com/2022/10/30/world/europe/ukraine-russia-grain-deal.html](https://www.nytimes.com/2022/10/30/world/europe/ukraine-russia-grain-deal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-31 00:03:12+00:00
- - tags: None
 
 Moscow dismissed accusations that it was using food as a weapon and said Ukraine was to blame for its decision to suspend an agreement that allowed for grain shipments.

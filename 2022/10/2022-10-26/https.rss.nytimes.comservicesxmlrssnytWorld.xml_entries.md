@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## U.S. Looks to Reorient Ties With Saudi Arabia Over Oil Production Cut
  - [https://www.nytimes.com/2022/10/26/us/politics/us-saudi-arabia-oil.html](https://www.nytimes.com/2022/10/26/us/politics/us-saudi-arabia-oil.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 23:34:26+00:00
- - tags: None
 
 Saudi leaders decided earlier this month to join Russia in leading a cartel of oil producers to announce cutting production by two million barrels a day, which could raise prices and help Russia.
 
@@ -12,7 +11,6 @@ Saudi leaders decided earlier this month to join Russia in leading a cartel of o
  - [https://www.nytimes.com/2022/10/26/world/europe/kherson-ukraine-russia-war.html](https://www.nytimes.com/2022/10/26/world/europe/kherson-ukraine-russia-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 23:23:22+00:00
- - tags: None
 
 As Russia pressures local residents to leave, a hydroelectric dam outside the city may prove to be a major point of contention.
 
@@ -20,7 +18,6 @@ As Russia pressures local residents to leave, a hydroelectric dam outside the ci
  - [https://www.nytimes.com/2022/10/26/briefing/iran-amini-protest-asia.html](https://www.nytimes.com/2022/10/26/briefing/iran-amini-protest-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 21:16:11+00:00
- - tags: None
 
 Plus Myanmar gets closer to Russia and a dire climate report.
 
@@ -28,7 +25,6 @@ Plus Myanmar gets closer to Russia and a dire climate report.
  - [https://www.nytimes.com/2022/10/26/health/who-fungi-infections-superbugs.html](https://www.nytimes.com/2022/10/26/health/who-fungi-infections-superbugs.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 21:15:10+00:00
- - tags: None
 
 The pathogens cause infections that kill millions of people each year and often go undiagnosed. Even when identified, a growing number of infections is resistant to the current crop of drugs.
 
@@ -36,7 +32,6 @@ The pathogens cause infections that kill millions of people each year and often 
  - [https://www.nytimes.com/2022/10/26/world/europe/russia-us-sanctions-moldova.html](https://www.nytimes.com/2022/10/26/world/europe/russia-us-sanctions-moldova.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 20:46:14+00:00
- - tags: None
 
 Moldova, like its neighbor Ukraine, wants closer relations with the West but has long battled Russian political interference and intimidation.
 
@@ -44,7 +39,6 @@ Moldova, like its neighbor Ukraine, wants closer relations with the West but has
  - [https://www.nytimes.com/2022/10/26/world/europe/new-us-sanctions-target-russian-efforts-to-manipulate-the-politics-in-moldova-a-neighbor-of-ukraine.html](https://www.nytimes.com/2022/10/26/world/europe/new-us-sanctions-target-russian-efforts-to-manipulate-the-politics-in-moldova-a-neighbor-of-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 20:07:47+00:00
- - tags: None
 
 Moldova, like its neighbor Ukraine, wants closer relations with the West but has long battled Russian political interference and intimidation.
 
@@ -52,7 +46,6 @@ Moldova, like its neighbor Ukraine, wants closer relations with the West but has
  - [https://www.nytimes.com/2022/10/26/world/europe/china-police-netherlands.html](https://www.nytimes.com/2022/10/26/world/europe/china-police-netherlands.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 19:09:15+00:00
- - tags: None
 
 Reports by news media and a human rights group say Chinese police forces opened two offices in the Netherlands that are used to intimidate Chinese citizens.
 
@@ -60,7 +53,6 @@ Reports by news media and a human rights group say Chinese police forces opened 
  - [https://www.nytimes.com/2022/10/26/world/middleeast/israel-palestinians-insurgency-blockade-nablus-jenin.html](https://www.nytimes.com/2022/10/26/world/middleeast/israel-palestinians-insurgency-blockade-nablus-jenin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 17:49:03+00:00
- - tags: None
 
 To fight a growing insurgency, the Israeli Army has closed off several entrances to a major Palestinian city, harming its economy and stirring more protest.
 
@@ -68,7 +60,6 @@ To fight a growing insurgency, the Israeli Army has closed off several entrances
  - [https://www.nytimes.com/2022/10/26/us/politics/russia-propaganda-dirty-bomb.html](https://www.nytimes.com/2022/10/26/us/politics/russia-propaganda-dirty-bomb.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 17:39:53+00:00
- - tags: None
 
 A new push by the Kremlin frames the war as a counterterrorism operation and seeks to rally Russians to support the fight, officials and researchers say.
 
@@ -76,7 +67,6 @@ A new push by the Kremlin frames the war as a counterterrorism operation and see
  - [https://www.nytimes.com/2022/10/26/climate/art-climate-protests-monet.html](https://www.nytimes.com/2022/10/26/climate/art-climate-protests-monet.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 17:08:50+00:00
- - tags: None
 
 The van Gogh and Monet paintings targeted in recent climate protests were unharmed. But a debate about tactics rages.
 
@@ -84,7 +74,6 @@ The van Gogh and Monet paintings targeted in recent climate protests were unharm
  - [https://www.nytimes.com/2022/10/26/world/middleeast/iran-protests-40-days.html](https://www.nytimes.com/2022/10/26/world/middleeast/iran-protests-40-days.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 15:06:26+00:00
- - tags: None
 
 In her hometown and across the country, large demonstrations erupted marking 40 days of mourning for Ms. Amini, who died in police custody.
 
@@ -92,7 +81,6 @@ In her hometown and across the country, large demonstrations erupted marking 40 
  - [https://www.nytimes.com/2022/10/26/world/americas/mexico-iguala-missing-kidnapped-students.html](https://www.nytimes.com/2022/10/26/world/americas/mexico-iguala-missing-kidnapped-students.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 15:00:52+00:00
- - tags: None
 
 This summer, the government said it had uncovered what happened during the 2014 mass abduction. Arrest warrants quickly followed. But since then, the criminal case and the new account have unraveled.
 
@@ -100,7 +88,6 @@ This summer, the government said it had uncovered what happened during the 2014 
  - [https://www.nytimes.com/2022/10/26/world/europe/rishi-sunak-uk-prime-minister-questions.html](https://www.nytimes.com/2022/10/26/world/europe/rishi-sunak-uk-prime-minister-questions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 12:41:34+00:00
- - tags: None
 
 The opposition’s lines of attack, starting with Mr. Sunak’s choice of home secretary and his wife’s wealth, gave a glimpse of where it sees vulnerabilities in the governing Conservatives.
 
@@ -108,7 +95,6 @@ The opposition’s lines of attack, starting with Mr. Sunak’s choice of home s
  - [https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html](https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 10:40:56+00:00
- - tags: None
 
 Top social media apps are struggling after a decade of dominance.
 
@@ -116,7 +102,6 @@ Top social media apps are struggling after a decade of dominance.
  - [https://www.nytimes.com/2022/10/26/world/australia/new-zealand-whale-fossil.html](https://www.nytimes.com/2022/10/26/world/australia/new-zealand-whale-fossil.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 09:59:06+00:00
- - tags: None
 
 The whale fossil, a cherished local attraction, was taken from a riverbank in broad daylight by two men with a rock saw and chisel, residents say.
 
@@ -124,7 +109,6 @@ The whale fossil, a cherished local attraction, was taken from a riverbank in br
  - [https://www.nytimes.com/2022/10/26/world/asia/russia-myanmar-junta.html](https://www.nytimes.com/2022/10/26/world/asia/russia-myanmar-junta.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 09:05:20+00:00
- - tags: None
 
 Myanmar gets resources and ammunition, while Russia gets a customer at a time when it is struggling for revenues. Both can use the other to undermine Western sanctions.
 
@@ -132,7 +116,6 @@ Myanmar gets resources and ammunition, while Russia gets a customer at a time wh
  - [https://www.nytimes.com/2022/10/26/travel/coyoacan-mexico-city-museums.html](https://www.nytimes.com/2022/10/26/travel/coyoacan-mexico-city-museums.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 09:00:47+00:00
- - tags: None
 
 Curiosity about the daily lives of the famous draws us to the places they lived. In Coyoacán it’s possible to commune with the ghosts of Frida Kahlo, Diego Rivera, Leon Trotsky and more.
 
@@ -140,7 +123,6 @@ Curiosity about the daily lives of the famous draws us to the places they lived.
  - [https://www.nytimes.com/2022/10/26/books/books-istanbul.html](https://www.nytimes.com/2022/10/26/books/books-istanbul.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 09:00:07+00:00
- - tags: None
 
 Istanbul is unfathomable: old and new, real and surreal, melancholic and absurd. Elif Shafak, one of its foremost novelists, reveals its secrets.
 
@@ -148,7 +130,6 @@ Istanbul is unfathomable: old and new, real and surreal, melancholic and absurd.
  - [https://www.nytimes.com/live/2022/10/26/world/-russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/26/world/-russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 08:41:03+00:00
- - tags: None
 
 President Biden told Russia it would be a “serious mistake” to use tactical nuclear weapons. His comments reflect growing worry among allies that Moscow may be searching for a pretext for a radiological attack.
 
@@ -156,7 +137,6 @@ President Biden told Russia it would be a “serious mistake” to use tactical 
  - [https://www.nytimes.com/2022/10/26/climate/un-climate-pledges-warming.html](https://www.nytimes.com/2022/10/26/climate/un-climate-pledges-warming.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 07:00:08+00:00
- - tags: None
 
 With an annual summit next month, the United Nations assessed progress on countries’ past emissions commitments. Severe disruption would be hard to avoid on the current trajectory.
 
@@ -164,7 +144,6 @@ With an annual summit next month, the United Nations assessed progress on countr
  - [https://www.nytimes.com/2022/10/26/world/europe/natural-gas-prices-are-falling-in-europe-despite-the-war-and-dwindling-supply.html](https://www.nytimes.com/2022/10/26/world/europe/natural-gas-prices-are-falling-in-europe-despite-the-war-and-dwindling-supply.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 06:09:15+00:00
- - tags: None
 
 
 
@@ -172,7 +151,6 @@ With an annual summit next month, the United Nations assessed progress on countr
  - [https://www.nytimes.com/2022/10/26/world/europe/ukrainians-find-devastation-where-russians-retreat.html](https://www.nytimes.com/2022/10/26/world/europe/ukrainians-find-devastation-where-russians-retreat.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 06:09:13+00:00
- - tags: None
 
 
 
@@ -180,6 +158,5 @@ With an annual summit next month, the United Nations assessed progress on countr
  - [https://www.nytimes.com/2022/10/26/briefing/rishi-sunak-germany-ukraine.html](https://www.nytimes.com/2022/10/26/briefing/rishi-sunak-germany-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-26 04:41:20+00:00
- - tags: None
 
 Tensions are flaring between Germany and its allies.

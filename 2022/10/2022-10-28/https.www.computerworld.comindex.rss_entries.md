@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple's Q4 results show growth in 'interesting times'
  - [https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all](https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-28 15:55:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3678294/intel-forced-to-cut-jobs-and-spending-as-revenue-continues-to-decline.html#tk.rss_all](https://www.computerworld.com/article/3678294/intel-forced-to-cut-jobs-and-spending-as-revenue-continues-to-decline.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-28 12:44:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3218067/how-to-switch-from-iphone-to-android-ultimate-guide.html#tk.rss_all](https://www.computerworld.com/article/3218067/how-to-switch-from-iphone-to-android-ultimate-guide.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-28 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## 1000TB SSDs could become mainstream by 2030 as Samsung plans 1000-layer NAND
  - [https://www.techradar.com/news/1000tb-ssds-could-become-mainstream-by-2030-as-samsung-plans-1000-layer-nand/](https://www.techradar.com/news/1000tb-ssds-could-become-mainstream-by-2030-as-samsung-plans-1000-layer-nand/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 22:59:22+00:00
- - tags: None
 
 1Tb TLC V-NAND coming soon as Samsung accelerates QLC transition
 
@@ -12,7 +11,6 @@
  - [https://www.techradar.com/news/crypto-scammers-are-fighting-amongst-themselves-over-stolen-funds/](https://www.techradar.com/news/crypto-scammers-are-fighting-amongst-themselves-over-stolen-funds/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 20:52:32+00:00
- - tags: None
 
 A scammer is stealing already stolen tokens by compromising fake liquidity pools, report finds.
 
@@ -20,7 +18,6 @@ A scammer is stealing already stolen tokens by compromising fake liquidity pools
  - [https://www.techradar.com/news/the-white-house-is-launching-an-ai-bill-of-rights/](https://www.techradar.com/news/the-white-house-is-launching-an-ai-bill-of-rights/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 19:02:12+00:00
- - tags: None
 
 The Federal Government in the US looks to catch up with Europe on legislating against automation, but could still fall short of real change.
 
@@ -28,7 +25,6 @@ The Federal Government in the US looks to catch up with Europe on legislating ag
  - [https://www.techradar.com/news/adobe-workplace-uncertainty-is-driving-both-anxiety-and-innovation/](https://www.techradar.com/news/adobe-workplace-uncertainty-is-driving-both-anxiety-and-innovation/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 17:21:34+00:00
- - tags: None
 
 Adobe report reveals workplace uncertainty is causing headaches and creating opportunities.
 
@@ -36,7 +32,6 @@ Adobe report reveals workplace uncertainty is causing headaches and creating opp
  - [https://www.techradar.com/news/your-boss-isnt-really-emailing-you-its-a-scam/](https://www.techradar.com/news/your-boss-isnt-really-emailing-you-its-a-scam/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 17:07:06+00:00
- - tags: None
 
 Researchers are warning a new sophisticated business email compromise attack is targeting victims.
 
@@ -44,7 +39,6 @@ Researchers are warning a new sophisticated business email compromise attack is 
  - [https://www.techradar.com/news/got-an-intel-laptop-be-warned-new-linux-bug-can-literally-break-your-screen/](https://www.techradar.com/news/got-an-intel-laptop-be-warned-new-linux-bug-can-literally-break-your-screen/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 16:44:09+00:00
- - tags: None
 
 Those with Intel CPUs using integrated graphics need to be wary of a freshly released Linux update.
 
@@ -52,7 +46,6 @@ Those with Intel CPUs using integrated graphics need to be wary of a freshly rel
  - [https://www.techradar.com/news/xiaomis-cheap-qled-4k-tvs-offer-dolby-atmos-and-vision-but-with-a-catch/](https://www.techradar.com/news/xiaomis-cheap-qled-4k-tvs-offer-dolby-atmos-and-vision-but-with-a-catch/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 16:38:07+00:00
- - tags: None
 
 Xiaomi’s affordable QLED TV range has arrived in Europe.
 
@@ -60,7 +53,6 @@ Xiaomi’s affordable QLED TV range has arrived in Europe.
  - [https://www.techradar.com/news/eas-answer-to-monster-hunter-has-wooden-helicopters-and-i-love-it/](https://www.techradar.com/news/eas-answer-to-monster-hunter-has-wooden-helicopters-and-i-love-it/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 16:24:36+00:00
- - tags: None
 
 The latest gameplay trailer for EA's new Monster Hunter-alike is full of thrilling heroics and nifty gadgets.
 
@@ -68,7 +60,6 @@ The latest gameplay trailer for EA's new Monster Hunter-alike is full of thrilli
  - [https://www.techradar.com/news/next-potential-minecraft-mob-will-make-my-farming-life-so-much-easier/](https://www.techradar.com/news/next-potential-minecraft-mob-will-make-my-farming-life-so-much-easier/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 16:23:53+00:00
- - tags: None
 
 Every year Minecraft players vote on a new mob to be added to the sandbox game and this one could be a game-changer.
 
@@ -76,7 +67,6 @@ Every year Minecraft players vote on a new mob to be added to the sandbox game a
  - [https://www.techradar.com/news/microsoft-office-365-will-soon-make-it-a-lot-easier-to-flag-security-threats/](https://www.techradar.com/news/microsoft-office-365-will-soon-make-it-a-lot-easier-to-flag-security-threats/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 16:04:32+00:00
- - tags: None
 
 Better categorization of security threats should provide a welcome Office 365 boost.
 
@@ -84,7 +74,6 @@ Better categorization of security threats should provide a welcome Office 365 bo
  - [https://www.techradar.com/news/the-new-witcher-game-has-multiplayer-and-its-worlds-build-themselves/](https://www.techradar.com/news/the-new-witcher-game-has-multiplayer-and-its-worlds-build-themselves/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 16:00:24+00:00
- - tags: None
 
 Spin-off Witcher game Project Sirius will feature procedurally generated environments.
 
@@ -92,7 +81,6 @@ Spin-off Witcher game Project Sirius will feature procedurally generated environ
  - [https://www.techradar.com/news/microsoft-warns-exchange-users-over-password-spray-attacks/](https://www.techradar.com/news/microsoft-warns-exchange-users-over-password-spray-attacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 15:42:11+00:00
- - tags: None
 
 Crooks are trying out endless username/password combos until one eventually works
 
@@ -100,7 +88,6 @@ Crooks are trying out endless username/password combos until one eventually work
  - [https://www.techradar.com/news/atlassian-is-being-actively-exploited-to-compromise-corporate-networks/](https://www.techradar.com/news/atlassian-is-being-actively-exploited-to-compromise-corporate-networks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 14:12:51+00:00
- - tags: None
 
 US Government urges organizations to patch their endpoints immediately.
 
@@ -108,7 +95,6 @@ US Government urges organizations to patch their endpoints immediately.
  - [https://www.techradar.com/news/canonical-unveils-free-personal-ubuntu-pro-subscriptions/](https://www.techradar.com/news/canonical-unveils-free-personal-ubuntu-pro-subscriptions/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 13:15:18+00:00
- - tags: None
 
 Ubuntu Pro (and an Infra-only version) are set to boost security, stability, and compliance.
 
@@ -116,7 +102,6 @@ Ubuntu Pro (and an Infra-only version) are set to boost security, stability, and
  - [https://www.techradar.com/news/western-digitals-new-sandisk-ssd-is-its-fastest-and-toughest-yet/](https://www.techradar.com/news/western-digitals-new-sandisk-ssd-is-its-fastest-and-toughest-yet/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 13:03:12+00:00
- - tags: None
 
 Western Digital's SanDisk PRO-G40 SSD has an IP68 rating, 2700MB/s write speed, and is compatible with USB-C and Thunderbolt 3.
 
@@ -124,7 +109,6 @@ Western Digital's SanDisk PRO-G40 SSD has an IP68 rating, 2700MB/s write speed, 
  - [https://www.techradar.com/news/google-cloud-launches-ai-powered-medical-imaging-platform/](https://www.techradar.com/news/google-cloud-launches-ai-powered-medical-imaging-platform/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 12:05:29+00:00
- - tags: None
 
 New Google Cloud medical platform is designed to shift the focus back onto patient care.
 
@@ -132,7 +116,6 @@ New Google Cloud medical platform is designed to shift the focus back onto patie
  - [https://www.techradar.com/news/canceled-netflix-cuts-short-plans-for-firefly-lane/](https://www.techradar.com/news/canceled-netflix-cuts-short-plans-for-firefly-lane/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 11:13:43+00:00
- - tags: None
 
 We'd have bet on Firefly Lane for the long run, but it turns out it'll be two and out.
 
@@ -140,7 +123,6 @@ We'd have bet on Firefly Lane for the long run, but it turns out it'll be two an
  - [https://www.techradar.com/news/overwatch-2-launch-plagued-by-long-queues-and-ddos-attacks/](https://www.techradar.com/news/overwatch-2-launch-plagued-by-long-queues-and-ddos-attacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 11:00:13+00:00
- - tags: None
 
 Players have found themselves waiting hours to get in Overwatch 2.
 
@@ -148,7 +130,6 @@ Players have found themselves waiting hours to get in Overwatch 2.
  - [https://www.techradar.com/news/steam-decks-free-update-finally-lets-me-use-the-spice-girls-as-a-boot-up-video/](https://www.techradar.com/news/steam-decks-free-update-finally-lets-me-use-the-spice-girls-as-a-boot-up-video/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 10:48:21+00:00
- - tags: None
 
 Valve has released a beta update for its Steam Deck which lets you add a boot-up video for when it switches on.
 
@@ -156,7 +137,6 @@ Valve has released a beta update for its Steam Deck which lets you add a boot-up
  - [https://www.techradar.com/news/nvidia-rtx-4090-gpu-shows-blistering-frame-rates-in-overwatch-2/](https://www.techradar.com/news/nvidia-rtx-4090-gpu-shows-blistering-frame-rates-in-overwatch-2/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 10:22:22+00:00
- - tags: None
 
 RTX 4080 graphics cards can also drive super-smooth gameplay at 1440p, Nvidia boasts.
 
@@ -164,7 +144,6 @@ RTX 4080 graphics cards can also drive super-smooth gameplay at 1440p, Nvidia bo
  - [https://www.techradar.com/news/disney-plus-on-ps5-just-got-a-long-overdue-upgrade/](https://www.techradar.com/news/disney-plus-on-ps5-just-got-a-long-overdue-upgrade/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 10:21:36+00:00
- - tags: None
 
 Disney Plus has finally added support for 4K streaming on the PS5 version of the app.
 
@@ -172,7 +151,6 @@ Disney Plus has finally added support for 4K streaming on the PS5 version of the
  - [https://www.techradar.com/news/google-pixel-4-is-getting-its-final-guaranteed-update-just-in-time-for-the-pixel-7/](https://www.techradar.com/news/google-pixel-4-is-getting-its-final-guaranteed-update-just-in-time-for-the-pixel-7/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 10:01:33+00:00
- - tags: None
 
 The Pixel 4 and Pixel 4 XL are now getting their October 2022 software update, but this is likely the end of the line for them.
 
@@ -180,7 +158,6 @@ The Pixel 4 and Pixel 4 XL are now getting their October 2022 software update, b
  - [https://www.techradar.com/news/blizzard-says-mass-ddos-attack-stopped-users-from-playing-overwatch-2/](https://www.techradar.com/news/blizzard-says-mass-ddos-attack-stopped-users-from-playing-overwatch-2/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 09:56:32+00:00
- - tags: None
 
 First hours of Overwatch 2 weren't exactly fun, with many players unable to connect to servers.
 
@@ -188,7 +165,6 @@ First hours of Overwatch 2 weren't exactly fun, with many players unable to conn
  - [https://www.techradar.com/news/netflixs-jeffrey-dahmer-series-almost-broke-a-stranger-things-4-record/](https://www.techradar.com/news/netflixs-jeffrey-dahmer-series-almost-broke-a-stranger-things-4-record/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 09:39:46+00:00
- - tags: None
 
 Stranger Things season 4 nearly lost one of its crowns to a Netflix rival, according to the streamer's latest data.
 
@@ -196,7 +172,6 @@ Stranger Things season 4 nearly lost one of its crowns to a Netflix rival, accor
  - [https://www.techradar.com/news/canceled-nintendo-game-would-have-mashed-zelda-with-final-fantasy-tactics/](https://www.techradar.com/news/canceled-nintendo-game-would-have-mashed-zelda-with-final-fantasy-tactics/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 04:00:44+00:00
- - tags: None
 
 Heroes of Hyrule was the tactical Zelda games that never was, but could have been.
 
@@ -204,6 +179,5 @@ Heroes of Hyrule was the tactical Zelda games that never was, but could have bee
  - [https://www.techradar.com/news/googles-long-awaited-nest-mesh-router-upgrade-supports-wi-fi-6e-connectivity/](https://www.techradar.com/news/googles-long-awaited-nest-mesh-router-upgrade-supports-wi-fi-6e-connectivity/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-05 04:00:21+00:00
- - tags: None
 
 Dubbed the Nest Wifi Pro, the new device connects to the 6GHz spectrum for connection speeds and supports the revamped Home app.

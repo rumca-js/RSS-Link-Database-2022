@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Putin delivers personal show of force, firing a sniper rifle at a Russian military base
  - [https://www.cnn.com/videos/world/2022/10/20/putin-shows-of-strength-russia-ukraine-tsr-brian-todd-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/putin-shows-of-strength-russia-ukraine-tsr-brian-todd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 23:57:48+00:00
- - tags: None
 
 Russian President Vladimir Putin puts on a new show of strength by making an appearance at a training ground for newly mobilized soldiers and firing a sniper riffle alongside other soldiers. These acts come as Russia faces major battlefield reverses in Ukraine. CNN's Brian Todd has more.
 
@@ -12,7 +11,6 @@ Russian President Vladimir Putin puts on a new show of strength by making an app
  - [https://www.cnn.com/2022/10/20/us/hans-niemann-chess-cheating-scandal-defamation-lawsuit-spt-intl/index.html](https://www.cnn.com/2022/10/20/us/hans-niemann-chess-cheating-scandal-defamation-lawsuit-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 22:58:39+00:00
- - tags: None
 
 The cheating scandal that has consumed the chess world has taken its latest twist as American grandmaster Hans Niemann filed a defamation lawsuit against world champion Magnus Carlsen amongst others in a Missouri court on Thursday.
 
@@ -20,7 +18,6 @@ The cheating scandal that has consumed the chess world has taken its latest twis
  - [https://www.cnn.com/videos/business/2022/10/20/lawrence-summers-us-economy-recession-prediction-sot-tsr-vpx.cnn](https://www.cnn.com/videos/business/2022/10/20/lawrence-summers-us-economy-recession-prediction-sot-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 22:24:17+00:00
- - tags: None
 
 Former Treasury Secretary Larry Summers tells CNN's Wolf Blitzer why he believes it's "more likely than not" the US will face a recession and when he thinks it will happen.
 
@@ -28,7 +25,6 @@ Former Treasury Secretary Larry Summers tells CNN's Wolf Blitzer why he believes
  - [https://www.cnn.com/videos/media/2022/10/20/liz-truss-vs-lettuce-live-stream-british-tabloid-uk-stewart-pkg-intl-cprog-vpx.cnn](https://www.cnn.com/videos/media/2022/10/20/liz-truss-vs-lettuce-live-stream-british-tabloid-uk-stewart-pkg-intl-cprog-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 22:16:38+00:00
- - tags: None
 
 Liz Truss has been outlasted by a lettuce in a British tabloid live stream contest. CNN's Anna Stewart reports.
 
@@ -36,7 +32,6 @@ Liz Truss has been outlasted by a lettuce in a British tabloid live stream conte
  - [https://www.cnn.com/videos/entertainment/2022/10/20/kevin-spacey-anthony-rapp-civil-trial-jury-verdict-casarez-contd-lead-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/10/20/kevin-spacey-anthony-rapp-civil-trial-jury-verdict-casarez-contd-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 21:25:15+00:00
- - tags: None
 
 A New York jury finds Kevin Spacey is not liable for battery on allegations he picked up actor Anthony Rapp and briefly laid on top of him in a bed at a party in 1986. CNN's Jean Casarez reports.
 
@@ -44,7 +39,6 @@ A New York jury finds Kevin Spacey is not liable for battery on allegations he p
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-20-22#h_983586288ba4678a546ef8c85d5809cc](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-20-22#h_983586288ba4678a546ef8c85d5809cc)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 20:03:56.765836+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ A New York jury finds Kevin Spacey is not liable for battery on allegations he p
  - [https://www.cnn.com/2022/10/20/politics/new-messages-show-oath-keepers-leader-was-skeptical-trump-would-act-on-jan-6/index.html](https://www.cnn.com/2022/10/20/politics/new-messages-show-oath-keepers-leader-was-skeptical-trump-would-act-on-jan-6/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 19:08:48+00:00
- - tags: None
 
 Oath Keepers founder Stewart Rhodes was skeptical that then-President Donald Trump would invoke the Insurrection Act in the lead up to January 6, according to new messages revealed Thursday, and was privately preparing to wage his own rebellion led by the far-right militia group.
 
@@ -60,7 +53,6 @@ Oath Keepers founder Stewart Rhodes was skeptical that then-President Donald Tru
  - [https://www.cnn.com/videos/entertainment/2022/10/20/kanye-west-no-apology-contd-granderson-intv-ath-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/10/20/kanye-west-no-apology-contd-granderson-intv-ath-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 18:50:56+00:00
- - tags: None
 
 CNN's Kate Bolduan talks to LA Times reporter LZ Granderson about his column asking readers to reflect on consuming Kanye West's art and music after West's refusal to apologize for antisemitic and anti-Black comments.
 
@@ -68,7 +60,6 @@ CNN's Kate Bolduan talks to LA Times reporter LZ Granderson about his column ask
  - [https://www.cnn.com/2022/10/20/world/hubble-dart-twin-tail-image-scn/index.html](https://www.cnn.com/2022/10/20/world/hubble-dart-twin-tail-image-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 18:48:43+00:00
- - tags: None
 
 The Hubble Space Telescope captured a new snapshot of the asteroid that NASA recently slammed with a spacecraft in an attempt to knock it off course, and the image reveals the clearest look yet at some unexpected results from the mission — a twin tail of dust trailing behind the asteroid system.
 
@@ -76,7 +67,6 @@ The Hubble Space Telescope captured a new snapshot of the asteroid that NASA rec
  - [https://www.cnn.com/2022/10/20/uk/liz-truss-resignation-how-we-got-here-intl-gbr/index.html](https://www.cnn.com/2022/10/20/uk/liz-truss-resignation-how-we-got-here-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 18:21:02+00:00
- - tags: None
 
 When she took the keys to 10 Downing Street in the wake of Boris Johnson's political demise, Liz Truss promised to "ride out the storm" of Britain's economic crisis. Just over six weeks later, she was engulfed by a hurricane of her own making.
 
@@ -84,7 +74,6 @@ When she took the keys to 10 Downing Street in the wake of Boris Johnson's polit
  - [https://edition.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_e4c9932061b2d13995cb2ff445ea0e47](https://edition.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_e4c9932061b2d13995cb2ff445ea0e47)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 18:03:52.849526+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ When she took the keys to 10 Downing Street in the wake of Boris Johnson's polit
  - [https://edition.cnn.com/webview/uk/live-news/liz-truss-prime-minister-intl-gbr#h_e4c9932061b2d13995cb2ff445ea0e47](https://edition.cnn.com/webview/uk/live-news/liz-truss-prime-minister-intl-gbr#h_e4c9932061b2d13995cb2ff445ea0e47)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 18:03:52.152599+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ When she took the keys to 10 Downing Street in the wake of Boris Johnson's polit
  - [https://www.cnn.com/2022/10/20/uk/liz-truss-resigns-analysis-intl-gbr-cmd/index.html](https://www.cnn.com/2022/10/20/uk/liz-truss-resigns-analysis-intl-gbr-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 17:59:21+00:00
- - tags: None
 
 Even by recent standards, Thursday was a jaw-dropping day in British politics.
 
@@ -108,7 +95,6 @@ Even by recent standards, Thursday was a jaw-dropping day in British politics.
  - [https://www.cnn.com/2022/10/20/entertainment/joni-mitchell-brandi-carlile-concert/index.html](https://www.cnn.com/2022/10/20/entertainment/joni-mitchell-brandi-carlile-concert/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 17:38:09+00:00
- - tags: None
 
 Don't it always seem to go that you don't know what you've got till it's gone?
 
@@ -116,7 +102,6 @@ Don't it always seem to go that you don't know what you've got till it's gone?
  - [https://www.cnn.com/videos/travel/2022/09/28/stanley-tucci-searching-for-italy-puglia-cheese-bar-origseriesfilms.cnn](https://www.cnn.com/videos/travel/2022/09/28/stanley-tucci-searching-for-italy-puglia-cheese-bar-origseriesfilms.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 17:19:11+00:00
- - tags: None
 
 In Puglia, Stanley Tucci visits a cheese bar that's serving 100-day-old blue cheese. All-new episodes of "Stanley Tucci: Searching for Italy" air Sundays at 9 p.m. ET on CNN.
 
@@ -124,7 +109,6 @@ In Puglia, Stanley Tucci visits a cheese bar that's serving 100-day-old blue che
  - [https://www.cnn.com/2022/10/20/entertainment/decision-to-leave-review-anywhere-but-hollywood-october-2022/index.html](https://www.cnn.com/2022/10/20/entertainment/decision-to-leave-review-anywhere-but-hollywood-october-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 16:27:48+00:00
- - tags: None
 
 A language barrier lies at the heart of swoon-worthy Korean police procedural "Decision To Leave." Hae-joon (Park Hae-il) is a polite Busan cop, Seo-rae (Tang Wei), the Chinese wife of a dead businessman. Though words may falter, the attraction is palpable; eyes and bodies pick up the slack in a tantalizing ebb and flow between impulse and etiquette. Like The Walls of Jericho in Frank Capra classic "It Happened One Night," barriers seem destined to come crashing down. But complicating matters, s
 
@@ -132,7 +116,6 @@ A language barrier lies at the heart of swoon-worthy Korean police procedural "D
  - [https://www.cnn.com/2022/10/20/opinions/liz-truss-resignation-45-days-disaster-prince/index.html](https://www.cnn.com/2022/10/20/opinions/liz-truss-resignation-45-days-disaster-prince/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 16:27:31+00:00
- - tags: None
 
 Holding office for only 45 days, Liz Truss has become the shortest-lived prime minister in British history after announcing her departure from Number 10.
 
@@ -140,7 +123,6 @@ Holding office for only 45 days, Liz Truss has become the shortest-lived prime m
  - [https://www.cnn.com/videos/media/2022/10/20/elon-musk-burnt-hair-scent-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/media/2022/10/20/elon-musk-burnt-hair-scent-moos-cprog-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 16:24:07+00:00
- - tags: None
 
 "Burnt Hair" is hot! Elon Musk's new scent sells out. Jeanne Moos reports critics' hair is on fire.
 
@@ -148,7 +130,6 @@ Holding office for only 45 days, Liz Truss has become the shortest-lived prime m
  - [https://www.cnn.com/2022/10/20/uk/what-happens-next-truss-uk-intl-gbr/index.html](https://www.cnn.com/2022/10/20/uk/what-happens-next-truss-uk-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 16:17:04+00:00
- - tags: None
 
 The resignation of Liz Truss on Thursday after a disastrous six-week premiership has set the ball rolling on the race to be the next Conservative Party leader.
 
@@ -156,7 +137,6 @@ The resignation of Liz Truss on Thursday after a disastrous six-week premiership
  - [https://www.cnn.com/2022/10/20/politics/republican-2020-election-deniers/index.html](https://www.cnn.com/2022/10/20/politics/republican-2020-election-deniers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 16:03:54+00:00
- - tags: None
 
 New Hampshire GOP Gov. Chris Sununu sat for an interview with CNN's Jake Tapper on Wednesday night. The topic of election denialism -- specifically related to New Hampshire Republican Senate nominee Don Bolduc -- came up. Here's the exchange:
 
@@ -164,7 +144,6 @@ New Hampshire GOP Gov. Chris Sununu sat for an interview with CNN's Jake Tapper 
  - [https://www.cnn.com/2022/10/20/uk/boris-johnson-liz-truss-leadership-contest-gbr-intl/index.html](https://www.cnn.com/2022/10/20/uk/boris-johnson-liz-truss-leadership-contest-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:44:50+00:00
- - tags: None
 
 Boris Johnson appears to be on the verge of attempting a stunning political comeback.
 
@@ -172,7 +151,6 @@ Boris Johnson appears to be on the verge of attempting a stunning political come
  - [https://www.cnn.com/2022/10/20/entertainment/anne-hathaway-celebrity-hate-selena-hailey-wellness-cec/index.html](https://www.cnn.com/2022/10/20/entertainment/anne-hathaway-celebrity-hate-selena-hailey-wellness-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:41:59+00:00
- - tags: None
 
 Some pop culture moments, as they age, feel more and more like bouts of collective madness. Why did everyone hate Anne Hathaway all of those years ago? Around 2013, despite winning a slew of awards for her role in "Les Miserables," it seemed the actress couldn't catch a break. Despite a lack of scandal or outright offensive behavior, she was "the star we love to loathe," " the bad kind of theater kid," "the kind of person who inexplicably bugs people."
 
@@ -180,7 +158,6 @@ Some pop culture moments, as they age, feel more and more like bouts of collecti
  - [https://www.cnn.com/videos/world/2022/10/20/canada-whale-rescue-cprog-orig-mrg.cnn](https://www.cnn.com/videos/world/2022/10/20/canada-whale-rescue-cprog-orig-mrg.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:41:16+00:00
- - tags: None
 
 Canadian rescuers managed to successfully release an entangled humpback whale off the coast of Texada Island.
 
@@ -188,7 +165,6 @@ Canadian rescuers managed to successfully release an entangled humpback whale of
  - [https://www.cnn.com/2022/10/20/us/princeton-university-student-misrach-ewunetie-missing-thursday/index.html](https://www.cnn.com/2022/10/20/us/princeton-university-student-misrach-ewunetie-missing-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:41:11+00:00
- - tags: None
 
 The family of missing Princeton University student Misrach Ewunetie, who is working to put together a timeline of her whereabouts and is desperate for information, has been "kept in the dark" by authorities, according to her brother.
 
@@ -196,7 +172,6 @@ The family of missing Princeton University student Misrach Ewunetie, who is work
  - [https://www.cnn.com/collections/intl-201022-truss/](https://www.cnn.com/collections/intl-201022-truss/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:26:12+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ The family of missing Princeton University student Misrach Ewunetie, who is work
  - [https://www.cnn.com/2022/10/20/entertainment/kevin-spacey-civil-trial-closing/index.html](https://www.cnn.com/2022/10/20/entertainment/kevin-spacey-civil-trial-closing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:16:47+00:00
- - tags: None
 
 Closing arguments are underway in the civil sexual misconduct trial against Kevin Spacey, stemming from allegations made by actor Anthony Rapp.
 
@@ -212,7 +186,6 @@ Closing arguments are underway in the civil sexual misconduct trial against Kevi
  - [https://www.cnn.com/2022/10/20/politics/former-us-capitol-police-delete-evidence/index.html](https://www.cnn.com/2022/10/20/politics/former-us-capitol-police-delete-evidence/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:04:27+00:00
- - tags: None
 
 A former US Capitol police officer on trial for allegedly telling a January 6, 2021, rioter to delete evidence related to the attack also told the rioter he thought some of the "agitators" that day were Antifa, according to prosecutors.
 
@@ -220,7 +193,6 @@ A former US Capitol police officer on trial for allegedly telling a January 6, 2
  - [https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_1bf0e95f54148469f972ac1262e98a79](https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_1bf0e95f54148469f972ac1262e98a79)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:03:49.782600+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@ A former US Capitol police officer on trial for allegedly telling a January 6, 2
  - [https://www.cnn.com/videos/tv/2022/10/20/amanpour-sadiq-khan-liz-truss-vpx.cnn](https://www.cnn.com/videos/tv/2022/10/20/amanpour-sadiq-khan-liz-truss-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:03:10+00:00
- - tags: None
 
 London's Mayor and Labour Party politician Sadiq Khan reacts to the resignation of UK Prime Minister Liz Truss, telling Christiane Amanpour the UK is "a laughing stock. Our reputation is being diminished."
 
@@ -236,7 +207,6 @@ London's Mayor and Labour Party politician Sadiq Khan reacts to the resignation 
  - [https://www.cnn.com/2022/10/20/health/sexual-assault-emergency-room-visits-metoo/index.html](https://www.cnn.com/2022/10/20/health/sexual-assault-emergency-room-visits-metoo/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 15:00:38+00:00
- - tags: None
 
 Many more survivors of sexual assault are seeking emergency medical care, but still represent a fraction of all assaults reported to law enforcement.
 
@@ -244,7 +214,6 @@ Many more survivors of sexual assault are seeking emergency medical care, but st
  - [https://www.cnn.com/2022/10/20/football/diego-maradona-argentina-world-cup-shirt-spt-intl/index.html](https://www.cnn.com/2022/10/20/football/diego-maradona-argentina-world-cup-shirt-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:58:17+00:00
- - tags: None
 
 The shirt that Diego Maradona wore in the 1986 World Cup Final has been returned to Argentina.
 
@@ -252,7 +221,6 @@ The shirt that Diego Maradona wore in the 1986 World Cup Final has been returned
  - [https://www.cnn.com/2022/10/20/uk/liz-truss-possible-successors-intl-gbr/index.html](https://www.cnn.com/2022/10/20/uk/liz-truss-possible-successors-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:58:10+00:00
- - tags: None
 
 A new leadership contest will take place within a week, Liz Truss said in her resignation speech outside Downing Street on Thursday.
 
@@ -260,7 +228,6 @@ A new leadership contest will take place within a week, Liz Truss said in her re
  - [https://www.cnn.com/2022/10/20/business/american-airlines-first-class/index.html](https://www.cnn.com/2022/10/20/business/american-airlines-first-class/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:12:13+00:00
- - tags: None
 
 American Airlines is dropping its first class cabins and replacing them with more business class seats.
 
@@ -268,7 +235,6 @@ American Airlines is dropping its first class cabins and replacing them with mor
  - [https://www.cnn.com/2022/10/20/football/ac-milan-andriy-shevchenko-ukraine-spt-intl/index.html](https://www.cnn.com/2022/10/20/football/ac-milan-andriy-shevchenko-ukraine-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:11:32+00:00
- - tags: None
 
 Ukrainian soccer legend Andriy Shevchenko has thanked AC Milan for its "incredible effort" in offering support to his country amid the war effort.
 
@@ -276,7 +242,6 @@ Ukrainian soccer legend Andriy Shevchenko has thanked AC Milan for its "incredib
  - [https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_2adfd2cfa96c56c61982de5d4c00e9c1](https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_2adfd2cfa96c56c61982de5d4c00e9c1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:03:48.753599+00:00
- - tags: None
 
 
 
@@ -284,7 +249,6 @@ Ukrainian soccer legend Andriy Shevchenko has thanked AC Milan for its "incredib
  - [https://www.cnn.com/2022/10/20/us/hurricane-ian-florida-retirees-recovery/index.html](https://www.cnn.com/2022/10/20/us/hurricane-ian-florida-retirees-recovery/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:03:05+00:00
- - tags: None
 
 More than three weeks after Hurricane Ian made landfall in Florida, Johnnie Glisson is still sleeping in his pickup truck.
 
@@ -292,7 +256,6 @@ More than three weeks after Hurricane Ian made landfall in Florida, Johnnie Glis
  - [https://www.cnn.com/2022/10/20/uk/uk-harry-dunn-anne-sacoolas-intl-gbr/index.html](https://www.cnn.com/2022/10/20/uk/uk-harry-dunn-anne-sacoolas-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 14:02:53+00:00
- - tags: None
 
 Anne Sacoolas, the American woman accused of killing 19-year old British motorcyclist Harry Dunn in a traffic accident near a US military base, pleaded guilty for causing his death on Thursday, according to the UK's PA Media news agency.
 
@@ -300,7 +263,6 @@ Anne Sacoolas, the American woman accused of killing 19-year old British motorcy
  - [https://www.cnn.com/2022/10/20/entertainment/gwyneth-paltrow-brad-pitt-husband/index.html](https://www.cnn.com/2022/10/20/entertainment/gwyneth-paltrow-brad-pitt-husband/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:56:55+00:00
- - tags: None
 
 There is no battle of the Brads in Gwyneth Paltrow's life.
 
@@ -308,7 +270,6 @@ There is no battle of the Brads in Gwyneth Paltrow's life.
  - [https://www.cnn.com/2022/10/20/world/meteor-shower-october-orionids-scn/index.html](https://www.cnn.com/2022/10/20/world/meteor-shower-october-orionids-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:39:44+00:00
- - tags: None
 
 One of nature's most anticipated light shows is set to climax this week, as space debris and dust trails from the famous Comet Halley scatter across the night sky.
 
@@ -316,7 +277,6 @@ One of nature's most anticipated light shows is set to climax this week, as spac
  - [https://www.cnn.com/videos/world/2022/10/20/christiane-amanpour-liz-truss-resigns-reaction-uk-prime-minister-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/christiane-amanpour-liz-truss-resigns-reaction-uk-prime-minister-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:23:15+00:00
- - tags: None
 
 CNN chief international anchor Christiane Amanpour reacts to UK Prime Minister Liz Truss announcing her resignation following calls for her to step down. Her announcement makes her Britain's shortest-serving prime minister.
 
@@ -324,7 +284,6 @@ CNN chief international anchor Christiane Amanpour reacts to UK Prime Minister L
  - [https://www.cnn.com/videos/world/2022/10/20/uk-prime-minister-liz-truss-resignation-newday-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/uk-prime-minister-liz-truss-resignation-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:19:11+00:00
- - tags: None
 
 British Prime Minister, Liz Truss, delivers remarks outside Downing Street announcing her resignation after holding office for 46 days. She becomes the UK's shortest-serving leader ever.
 
@@ -332,7 +291,6 @@ British Prime Minister, Liz Truss, delivers remarks outside Downing Street annou
  - [https://www.cnn.com/travel/article/comedy-wildlife-photo-awards-intl-scli-gbr-scn/index.html](https://www.cnn.com/travel/article/comedy-wildlife-photo-awards-intl-scli-gbr-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:10:20+00:00
- - tags: None
 
 A standoffish penguin, a waving racoon and a farting zebra are among the images shortlisted for the 2022 Comedy Wildlife Photography Awards.
 
@@ -340,7 +298,6 @@ A standoffish penguin, a waving racoon and a farting zebra are among the images 
  - [https://www.cnn.com/2022/10/20/entertainment/the-crown-judi-dench/index.html](https://www.cnn.com/2022/10/20/entertainment/the-crown-judi-dench/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:04:42+00:00
- - tags: None
 
 Dame Judi Dench has played a British queen before and now she is sounding off about Netflix's popular dramatization of the royal family.
 
@@ -348,7 +305,6 @@ Dame Judi Dench has played a British queen before and now she is sounding off ab
  - [https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_7d79f1bebd5243c0b4056d9db7ea56be](https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr#h_7d79f1bebd5243c0b4056d9db7ea56be)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:03:48.200538+00:00
- - tags: None
 
 
 
@@ -356,7 +312,6 @@ Dame Judi Dench has played a British queen before and now she is sounding off ab
  - [https://edition.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr/index.html](https://edition.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 13:03:48.092619+00:00
- - tags: None
 
 
 
@@ -364,7 +319,6 @@ Dame Judi Dench has played a British queen before and now she is sounding off ab
  - [https://www.cnn.com/travel/article/naked-tourist-amalfi-cathedral/index.html](https://www.cnn.com/travel/article/naked-tourist-amalfi-cathedral/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:48:55+00:00
- - tags: None
 
 From driving a car down Rome's Spanish Steps to surfing down the Grand Canal in Venice and smashing sculptures in the Vatican, some tourists this summer have been treating Italy as if it's their personal theme park.
 
@@ -372,7 +326,6 @@ From driving a car down Rome's Spanish Steps to surfing down the Grand Canal in 
  - [https://www.cnn.com/2022/10/20/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/10/20/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:28:59+00:00
- - tags: None
 
 Twelve days from now, the Federal Reserve will meet again, and expectations for the central bank's next moves are firming up. The consensus among investors: Persistently hot inflation means the Fed will need to continue with its string of aggressive interest rate hikes, which is unprecedented in the modern era.
 
@@ -380,7 +333,6 @@ Twelve days from now, the Federal Reserve will meet again, and expectations for 
  - [https://www.cnn.com/2022/10/20/tech/tech-earnings-september-quarter-low-expectations/index.html](https://www.cnn.com/2022/10/20/tech/tech-earnings-september-quarter-low-expectations/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:24:22+00:00
- - tags: None
 
 After months of layoffs, hiring freezes and other cost-cutting measures, big tech companies are set to provide the most detailed look yet at just how bad things have gotten for their businesses amid fears of a looming recession.
 
@@ -388,7 +340,6 @@ After months of layoffs, hiring freezes and other cost-cutting measures, big tec
  - [https://www.cnn.com/travel/article/ritz-carlton-superyacht-sets-sail/index.html](https://www.cnn.com/travel/article/ritz-carlton-superyacht-sets-sail/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:18:33+00:00
- - tags: None
 
 Ritz-Carlton's highly-anticipated superyacht cruise has finally made its debut, three and a half years after its maiden voyage was originally scheduled to begin.
 
@@ -396,7 +347,6 @@ Ritz-Carlton's highly-anticipated superyacht cruise has finally made its debut, 
  - [https://www.cnn.com/2022/10/20/energy/uk-fracking-gas-energy-explainer-climate-intl-gbr/index.html](https://www.cnn.com/2022/10/20/energy/uk-fracking-gas-energy-explainer-climate-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:15:53+00:00
- - tags: None
 
 The UK's world of politics plunged deeper into turmoil on Wednesday night after a debate on fracking led to alleged physical altercations between Prime Minister Liz Truss' aides and lawmakers from her own Conservative Party.
 
@@ -404,7 +354,6 @@ The UK's world of politics plunged deeper into turmoil on Wednesday night after 
  - [https://www.cnn.com/2022/10/20/business/barilla-lawsuit/index.html](https://www.cnn.com/2022/10/20/business/barilla-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:15:25+00:00
- - tags: None
 
 Barilla can't avoid a class-action lawsuit over allegedly deceptive advertising about the pasta's origins, a federal judge ruled this week.
 
@@ -412,7 +361,6 @@ Barilla can't avoid a class-action lawsuit over allegedly deceptive advertising 
  - [https://www.cnn.com/2022/10/20/politics/voter-turnout-analysis/index.html](https://www.cnn.com/2022/10/20/politics/voter-turnout-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 12:00:24+00:00
- - tags: None
 
 Eight years ago, interest in midterm elections hit rock bottom. Just 37% of the voting eligible population turned out to vote -- the lowest since World War II. Few could have predicted that America would have the highest midterm turnout in the last century just four years later .
 
@@ -420,7 +368,6 @@ Eight years ago, interest in midterm elections hit rock bottom. Just 37% of the 
  - [https://www.cnn.com/2022/10/20/health/respiratory-viruses-hospitals/index.html](https://www.cnn.com/2022/10/20/health/respiratory-viruses-hospitals/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 11:57:31+00:00
- - tags: None
 
 A surge in respiratory illnesses among children is beginning to put a strain on hospitals.
 
@@ -428,7 +375,6 @@ A surge in respiratory illnesses among children is beginning to put a strain on 
  - [https://www.cnn.com/2022/10/20/health/variants-covid-winter-surge/index.html](https://www.cnn.com/2022/10/20/health/variants-covid-winter-surge/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 11:33:00+00:00
- - tags: None
 
 A flurry of new Covid-19 variants appears to be gaining traction globally, raising fears of a winter surge.
 
@@ -436,7 +382,6 @@ A flurry of new Covid-19 variants appears to be gaining traction globally, raisi
  - [https://www.cnn.com/videos/world/2022/10/20/china-covid-protest-new-york-selina-wang-pkg-ovn-intl-contd-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/china-covid-protest-new-york-selina-wang-pkg-ovn-intl-contd-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 11:32:56+00:00
- - tags: None
 
 Zhisheng Wu, a Chinese artist, staged a street performance criticizing China's unrelenting zero-Covid policy. The Chinese government's zero-tolerance approach relies on mass testing, extensive quarantines and snap lockdowns to stamp out infections at all costs, even as much of the world has moved on from the pandemic. CNN's Selina Wang reports.
 
@@ -444,7 +389,6 @@ Zhisheng Wu, a Chinese artist, staged a street performance criticizing China's u
  - [https://www.cnn.com/2022/10/20/tech/meta-giphy-antitrust/index.html](https://www.cnn.com/2022/10/20/tech/meta-giphy-antitrust/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 11:18:42+00:00
- - tags: None
 
 GIFs — those short, animated images that were a staple of internet memes and culture in the 1990s and 2000s — may be going out of fashion now as social media users have largely moved on to emojis and video.
 
@@ -452,7 +396,6 @@ GIFs — those short, animated images that were a staple of internet memes and c
  - [https://www.cnn.com/travel/article/limone-sul-garda-italy-elixir-wellness/index.html](https://www.cnn.com/travel/article/limone-sul-garda-italy-elixir-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 11:13:44+00:00
- - tags: None
 
 It's a place of terraced lemon groves, a paradoxically warm mountain breeze, and a powerful fat-killing gene carried by a few lucky residents.
 
@@ -460,7 +403,6 @@ It's a place of terraced lemon groves, a paradoxically warm mountain breeze, and
  - [https://www.cnn.com/2022/10/20/football/real-madrid-elche-la-liga-intl-spt/index.html](https://www.cnn.com/2022/10/20/football/real-madrid-elche-la-liga-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 11:13:43+00:00
- - tags: None
 
 Real Madrid stormed to a 3-0 victory at the Estadio Martínez Valero stadium over Elche Wednesday in their latest La Liga showdown -- all in spite of three goals being voided by VAR.
 
@@ -468,7 +410,6 @@ Real Madrid stormed to a 3-0 victory at the Estadio Martínez Valero stadium ove
  - [https://www.cnn.com/2022/10/20/sport/zion-williamson-return-pelicans-nets-nba-spt-intl/index.html](https://www.cnn.com/2022/10/20/sport/zion-williamson-return-pelicans-nets-nba-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 10:18:28+00:00
- - tags: None
 
 Zion Williamson did not disappoint in his NBA return after 17 months out, as the forward powered to 25 points and nine rebounds in the New Orleans Pelicans' season-opening 130-108 victory over the Brooklyn Nets.
 
@@ -476,7 +417,6 @@ Zion Williamson did not disappoint in his NBA return after 17 months out, as the
  - [https://www.cnn.com/2022/10/20/world/metaverse-diving-in-spc-intl/index.html](https://www.cnn.com/2022/10/20/world/metaverse-diving-in-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 10:05:50+00:00
- - tags: None
 
 Until a couple of months ago, I would have described myself as a Luddite when it came to the metaverse. But working on the Decoded show for CNN International I had the opportunity to dive headfirst into these virtual worlds and meet some of the key players in this space.
 
@@ -484,7 +424,6 @@ Until a couple of months ago, I would have described myself as a Luddite when it
  - [https://www.cnn.com/2022/10/20/sport/justin-verlander-houston-astros-new-york-yankees-game-one-spt-intl/index.html](https://www.cnn.com/2022/10/20/sport/justin-verlander-houston-astros-new-york-yankees-game-one-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:50:41+00:00
- - tags: None
 
 Astros ace Justin Verlander struck out 11 in six impressive innings to inspire Houston to a 4-2 victory over the New York Yankees in its AL Championship Series opener on Wednesday.
 
@@ -492,7 +431,6 @@ Astros ace Justin Verlander struck out 11 in six impressive innings to inspire H
  - [https://www.cnn.com/2022/10/20/us/benjamin-cole-oklahoma-execution/index.html](https://www.cnn.com/2022/10/20/us/benjamin-cole-oklahoma-execution/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:45:30+00:00
- - tags: None
 
 Oklahoma is expected to continue its series of more than two dozen executions on Thursday, when it is scheduled to put to death Benjamin Cole, a 57-year-old man convicted for the murder of his 9-month-old daughter.
 
@@ -500,7 +438,6 @@ Oklahoma is expected to continue its series of more than two dozen executions on
  - [https://www.cnn.com/style/article/india-artifacts-returned-subhash-kapoor/index.html](https://www.cnn.com/style/article/india-artifacts-returned-subhash-kapoor/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:41:34+00:00
- - tags: None
 
 The US has returned 307 looted treasures to India as part of a 15-year investigation into international trafficking networks, the Manhattan District Attorney's office announced Monday.
 
@@ -508,7 +445,6 @@ The US has returned 307 looted treasures to India as part of a 15-year investiga
  - [https://www.cnn.com/2022/10/20/uk/manchester-chinese-consulate-hong-kong-protester-intl-hnk/index.html](https://www.cnn.com/2022/10/20/uk/manchester-chinese-consulate-hong-kong-protester-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:31:36+00:00
- - tags: None
 
 A Chinese diplomat who was filmed pulling the hair of a Hong Kong pro-democracy protester on the grounds of his consulate in Manchester, England, has defended his actions -- saying it was his "duty" to maintain China's dignity.
 
@@ -516,7 +452,6 @@ A Chinese diplomat who was filmed pulling the hair of a Hong Kong pro-democracy 
  - [https://www.cnn.com/2022/10/20/sport/daniel-snyder-washington-commanders-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/20/sport/daniel-snyder-washington-commanders-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:30:37+00:00
- - tags: None
 
 Washington Commanders owner Daniel Snyder has denied allegations that he hired private investigators to look into his NFL counterparts, as well as league commissioner Roger Goodell.
 
@@ -524,7 +459,6 @@ Washington Commanders owner Daniel Snyder has denied allegations that he hired p
  - [https://www.cnn.com/videos/world/2022/10/20/venezuela-migrants-us-mexico-border-title-42-orig-jc-jk.cnn](https://www.cnn.com/videos/world/2022/10/20/venezuela-migrants-us-mexico-border-title-42-orig-jc-jk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:18:00+00:00
- - tags: None
 
 Two new Biden administration announcements aimed at discouraging Venezuelans from entering the US through the US-Mexico border have left many migrants in limbo.
 
@@ -532,7 +466,6 @@ Two new Biden administration announcements aimed at discouraging Venezuelans fro
  - [https://www.cnn.com/videos/world/2022/10/20/tactical-nuclear-weapons-explainer-contd-lon-orig-ll.cnn](https://www.cnn.com/videos/world/2022/10/20/tactical-nuclear-weapons-explainer-contd-lon-orig-ll.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:12:30+00:00
- - tags: None
 
 Recent events in Ukraine have led to fears Russia could use a tactical nuclear weapon to tip the war in its favor. A specialist in nuclear escalation and deterrence explains what that could mean
 
@@ -540,7 +473,6 @@ Recent events in Ukraine have led to fears Russia could use a tactical nuclear w
  - [https://www.cnn.com/2022/10/20/football/cristiano-ronaldo-man-utd-tottenham-spt-intl/index.html](https://www.cnn.com/2022/10/20/football/cristiano-ronaldo-man-utd-tottenham-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:11:28+00:00
- - tags: None
 
 Manchester United manager Erik ten Hag said he will wait until Thursday to "deal with" Cristiano Ronaldo leaving early during the team's 2-0 win against Tottenham.
 
@@ -548,7 +480,6 @@ Manchester United manager Erik ten Hag said he will wait until Thursday to "deal
  - [https://www.cnn.com/2022/10/20/politics/joe-biden-john-fetterman-pennsylvania/index.html](https://www.cnn.com/2022/10/20/politics/joe-biden-john-fetterman-pennsylvania/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:01:17+00:00
- - tags: None
 
 When President Joe Biden visits Pennsylvania on Thursday, he'll tout infrastructure investments that helped rebuild a collapsed bridge and raise campaign cash away from cameras with the state's Democratic Senate candidate.
 
@@ -556,7 +487,6 @@ When President Joe Biden visits Pennsylvania on Thursday, he'll tout infrastruct
  - [https://www.cnn.com/2022/10/20/politics/immigration-migrants-biden-border-policy/index.html](https://www.cnn.com/2022/10/20/politics/immigration-migrants-biden-border-policy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 09:00:43+00:00
- - tags: None
 
 The Department of Homeland Security put together a plan months ago to deal with thousands of migrants arriving at the border: flying some of them to cities deeper inside the US for processing.
 
@@ -564,7 +494,6 @@ The Department of Homeland Security put together a plan months ago to deal with 
  - [https://www.cnn.com/2022/10/20/uk/liz-truss-government-crisis-thursday-gbr-intl/index.html](https://www.cnn.com/2022/10/20/uk/liz-truss-government-crisis-thursday-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 08:48:20+00:00
- - tags: None
 
 Liz Truss is fighting to save her job as Britain's prime minister after more of her own lawmakers called for her to quit, incensed by a shambolic parliamentary vote and the resignation of her home secretary late on Wednesday.
 
@@ -572,7 +501,6 @@ Liz Truss is fighting to save her job as Britain's prime minister after more of 
  - [https://www.cnn.com/travel/article/virgin-orbit-boeing-747-newquay-scn/index.html](https://www.cnn.com/travel/article/virgin-orbit-boeing-747-newquay-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 08:43:21+00:00
- - tags: None
 
 At the far southwestern tip of England, dangling into the Atlantic, the remote region of Cornwall rarely feels like the center of the world.
 
@@ -580,7 +508,6 @@ At the far southwestern tip of England, dangling into the Atlantic, the remote r
  - [https://www.cnn.com/2022/10/20/opinions/methane-climate-technologies-tianyi-sun-spc-intl/index.html](https://www.cnn.com/2022/10/20/opinions/methane-climate-technologies-tianyi-sun-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 08:27:52+00:00
- - tags: None
 
 For years, carbon dioxide has been the bogeyman of climate change, and rightly so. But the focus on CO2 has allowed other greenhouse gasses to slide under the radar. Methane, in particular -- a potent greenhouse gas with more than 80 times the warming power of carbon dioxide, pound-for-pound, over a 20-year period -- has been overlooked.
 
@@ -588,7 +515,6 @@ For years, carbon dioxide has been the bogeyman of climate change, and rightly s
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-20-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-20-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 07:03:44.003436+00:00
- - tags: None
 
 • Drone attack: 'Wonderful couple' killed in Russian drone attack on Kyiv
 • 'Massive blackouts': 30% of Ukraine's power stations destroyed
@@ -598,7 +524,6 @@ For years, carbon dioxide has been the bogeyman of climate change, and rightly s
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-20-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-20-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 07:03:43.875374+00:00
- - tags: None
 
 
 
@@ -606,7 +531,6 @@ For years, carbon dioxide has been the bogeyman of climate change, and rightly s
  - [https://www.cnn.com/videos/world/2022/10/20/karadsheh-iran-protesters-fight-for-freedom-pkg-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/karadsheh-iran-protesters-fight-for-freedom-pkg-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 04:05:14+00:00
- - tags: None
 
 Stalked, tortured, disappeared. Iranian authorities have a playbook for silencing dissent, and they're using it again as protests continue across the country. CNN's Jomana Karadsheh speaks to a protester who has endured such torture at hands of  the Iranian government. CNN is not identifying the protesters in this report because of safety concerns.
 
@@ -614,7 +538,6 @@ Stalked, tortured, disappeared. Iranian authorities have a playbook for silencin
  - [https://www.cnn.com/2022/10/20/politics/kari-lake-glenn-youngkin-republicans-trump/index.html](https://www.cnn.com/2022/10/20/politics/kari-lake-glenn-youngkin-republicans-trump/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 04:02:03+00:00
- - tags: None
 
 The modern Republican Party's one non-negotiable value is this: the ruthless pursuit of power. Party leaders who recognize this prosper while those who hold principle over political advancement get swept away.
 
@@ -622,7 +545,6 @@ The modern Republican Party's one non-negotiable value is this: the ruthless pur
  - [https://www.cnn.com/2022/10/19/tech/covid-singapore-startup-mental-health-revolution/index.html](https://www.cnn.com/2022/10/19/tech/covid-singapore-startup-mental-health-revolution/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 03:13:45+00:00
- - tags: None
 
 Many Asian countries introduced tougher Covid-19 restrictions than in other continents, a reality that has caused concerns about elevated levels of stress, anxiety and isolation. Now, a number of young entrepreneurs are leveraging technology to provide greater access to mental healthcare there.
 
@@ -630,7 +552,6 @@ Many Asian countries introduced tougher Covid-19 restrictions than in other cont
  - [https://www.cnn.com/videos/politics/2022/10/20/trump-insensitive-comments-jews-2021-jk-orig.cnn](https://www.cnn.com/videos/politics/2022/10/20/trump-insensitive-comments-jews-2021-jk-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 02:57:24+00:00
- - tags: None
 
 An outtake from filmmaker Alex Holder for his documentary "Unprecedented" shows former President Donald Trump's comments about "Jewish character" and Persian stereotypes.
 
@@ -638,7 +559,6 @@ An outtake from filmmaker Alex Holder for his documentary "Unprecedented" shows 
  - [https://www.cnn.com/videos/politics/2022/10/20/pence-georgetown-2024-trump-support-response-vpx.pool](https://www.cnn.com/videos/politics/2022/10/20/pence-georgetown-2024-trump-support-response-vpx.pool)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 02:15:47+00:00
- - tags: None
 
 Former Vice President Mike Pence answers questions from students at Georgetown University about the 2024 presidential elections.
 
@@ -646,7 +566,6 @@ Former Vice President Mike Pence answers questions from students at Georgetown U
  - [https://www.cnn.com/2022/10/19/europe/ukraine-war-bakhmut-struggle-intl/index.html](https://www.cnn.com/2022/10/19/europe/ukraine-war-bakhmut-struggle-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 02:14:30+00:00
- - tags: None
 
 
 
@@ -654,7 +573,6 @@ Former Vice President Mike Pence answers questions from students at Georgetown U
  - [https://cnn.it/3Tttq96](https://cnn.it/3Tttq96)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 02:03:40.541421+00:00
- - tags: None
 
 
 
@@ -662,7 +580,6 @@ Former Vice President Mike Pence answers questions from students at Georgetown U
  - [https://www.cnn.com/videos/business/2022/10/20/jake-tapper-monologue-economy-recession-politics-tapperctn-vpx.cnn](https://www.cnn.com/videos/business/2022/10/20/jake-tapper-monologue-economy-recession-politics-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 01:30:07+00:00
- - tags: None
 
 CNN's Jake Tapper looks at why the economy is arguably one of the most important issues for voters during an election.
 
@@ -670,7 +587,6 @@ CNN's Jake Tapper looks at why the economy is arguably one of the most important
  - [https://www.cnn.com/collections/intl-2010-uk-truss/](https://www.cnn.com/collections/intl-2010-uk-truss/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 01:01:06+00:00
- - tags: None
 
 
 
@@ -678,7 +594,6 @@ CNN's Jake Tapper looks at why the economy is arguably one of the most important
  - [https://www.cnn.com/2021/06/09/tech/robot-zaps-weeds-spc-intl/index.html](https://www.cnn.com/2021/06/09/tech/robot-zaps-weeds-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 00:49:07+00:00
- - tags: None
 
 On a field in England, three robots have been given a mission: to find and zap weeds with electricity before planting seeds in the cleared soil.
 
@@ -686,7 +601,6 @@ On a field in England, three robots have been given a mission: to find and zap w
  - [https://www.cnn.com/videos/politics/2022/09/02/inside-mar-a-lago-donald-trump-todd-dnt-tsr-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/02/inside-mar-a-lago-donald-trump-todd-dnt-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 00:14:01+00:00
- - tags: None
 
 New details show the gold-plated interior of Former President Donald Trump's Mar-a-Lago estate. CNN's Brian Todd reports.
 
@@ -694,7 +608,6 @@ New details show the gold-plated interior of Former President Donald Trump's Mar
  - [https://www.cnn.com/2022/10/19/middleeast/iran-protesters-repression-investigation-intl-cmd/index.html](https://www.cnn.com/2022/10/19/middleeast/iran-protesters-repression-investigation-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 00:06:49+00:00
- - tags: None
 
 Arman doesn't sleep much anymore.
 
@@ -702,7 +615,6 @@ Arman doesn't sleep much anymore.
  - [https://www.cnn.com/videos/world/2022/10/19/ukraine-bakhmut-front-lines-russia-pleitgen-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/10/19/ukraine-bakhmut-front-lines-russia-pleitgen-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 00:06:23+00:00
- - tags: None
 
 CNN's Fred Pleitgen gets rare access to Ukraine's front line battle in Bakhmut during the ruthless Russian artillery barrage.
 
@@ -710,6 +622,5 @@ CNN's Fred Pleitgen gets rare access to Ukraine's front line battle in Bakhmut d
  - [https://www.cnn.com/2022/10/19/asia/china-party-congress-xi-military-russia-parallels-intl-hnk-mil-mic/index.html](https://www.cnn.com/2022/10/19/asia/china-party-congress-xi-military-russia-parallels-intl-hnk-mil-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-20 00:04:21+00:00
- - tags: None
 
 It has taken just a handful of years for Chinese leader Xi Jinping to make good on his promise of transforming the People's Liberation Army.

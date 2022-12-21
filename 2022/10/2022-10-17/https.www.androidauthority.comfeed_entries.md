@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## When even Zuckerberg is making fun of iMessage, you know you have a problem
  - [https://www.androidauthority.com/imessage-vs-whatsapp-3221388/](https://www.androidauthority.com/imessage-vs-whatsapp-3221388/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 20:48:04+00:00
- - tags: None
 
 Mark Zuckerberg has taken a shot at Apple's iMessage.
 
@@ -12,7 +11,6 @@ Mark Zuckerberg has taken a shot at Apple's iMessage.
  - [https://www.androidauthority.com/youtube-premium-4k-test-3221342/](https://www.androidauthority.com/youtube-premium-4k-test-3221342/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 18:50:20+00:00
- - tags: None
 
 YouTube has canceled its experiment to lock 4K videos behind a paywall.
 
@@ -20,7 +18,6 @@ YouTube has canceled its experiment to lock 4K videos behind a paywall.
  - [https://www.androidauthority.com/apple-iphone-auction-3221233/](https://www.androidauthority.com/apple-iphone-auction-3221233/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 16:47:15+00:00
- - tags: None
 
 Somebody purchased a 2007 iPhone for over $39,000.
 
@@ -28,7 +25,6 @@ Somebody purchased a 2007 iPhone for over $39,000.
  - [https://www.androidauthority.com/disney-plus-mcu-shows-ranked-phase-4-3187160/](https://www.androidauthority.com/disney-plus-mcu-shows-ranked-phase-4-3187160/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 14:03:41+00:00
- - tags: None
 
 Phase 4 has been very TV-heavy with the MCU's new Disney Plus strategy.
 
@@ -36,7 +32,6 @@ Phase 4 has been very TV-heavy with the MCU's new Disney Plus strategy.
  - [https://www.androidauthority.com/oneplus-11-pro-name-change-3221094/](https://www.androidauthority.com/oneplus-11-pro-name-change-3221094/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 11:11:43+00:00
- - tags: None
 
 When is a Pro model not a Pro model?
 
@@ -44,7 +39,6 @@ When is a Pro model not a Pro model?
  - [https://www.androidauthority.com/google-pixel-7-tensor-g2-poll-results-3221072/](https://www.androidauthority.com/google-pixel-7-tensor-g2-poll-results-3221072/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 10:21:46+00:00
- - tags: None
 
 Most of you think the Pixel 7 processor has room for improvement.
 
@@ -52,7 +46,6 @@ Most of you think the Pixel 7 processor has room for improvement.
  - [https://www.androidauthority.com/daily-authority-october-17-2022-3221014/](https://www.androidauthority.com/daily-authority-october-17-2022-3221014/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 09:08:07+00:00
- - tags: None
 
 We discover that Samsung takes the flip phone idea a little loo literally with the Galaxy Z Flip 4.
 
@@ -60,7 +53,6 @@ We discover that Samsung takes the flip phone idea a little loo literally with t
  - [https://www.androidauthority.com/4k-chromecast-with-google-tv-android-12-3221039/](https://www.androidauthority.com/4k-chromecast-with-google-tv-android-12-3221039/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 08:21:58+00:00
- - tags: None
 
 Expect a variety of additions and tweaks, as well as a new security patch.
 
@@ -68,7 +60,6 @@ Expect a variety of additions and tweaks, as well as a new security patch.
  - [https://www.androidauthority.com/apple-ipads-pixel-tablet-dock-3221031/](https://www.androidauthority.com/apple-ipads-pixel-tablet-dock-3221031/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 07:12:17+00:00
- - tags: None
 
 The Pixel Tablet turns into a smart home hub with the aid of a dock, and it sounds like Apple wants this feature too.
 
@@ -76,7 +67,6 @@ The Pixel Tablet turns into a smart home hub with the aid of a dock, and it soun
  - [https://www.androidauthority.com/razer-edge-pricing-specs-3218608/](https://www.androidauthority.com/razer-edge-pricing-specs-3218608/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 06:06:14+00:00
- - tags: None
 
 The Razer Edge brings a Snapdragon G3X Gen 1 chipset, 144Hz OLED screen, and more for $400.
 
@@ -84,7 +74,6 @@ The Razer Edge brings a Snapdragon G3X Gen 1 chipset, 144Hz OLED screen, and mor
  - [https://www.androidauthority.com/how-to-track-sleep-with-nest-hub-and-google-fit-3170945/](https://www.androidauthority.com/how-to-track-sleep-with-nest-hub-and-google-fit-3170945/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 04:00:27+00:00
- - tags: None
 
 The Nest Hub's tracking is hardly infallible, but it's a starting point for better sleep.
 
@@ -92,7 +81,6 @@ The Nest Hub's tracking is hardly infallible, but it's a starting point for bett
  - [https://www.androidauthority.com/smart-buttons-3169344/](https://www.androidauthority.com/smart-buttons-3169344/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 04:00:15+00:00
- - tags: None
 
 They're by no means necessary, but in the right circumstances, smart buttons can solve some problems.
 
@@ -100,6 +88,5 @@ They're by no means necessary, but in the right circumstances, smart buttons can
  - [https://www.androidauthority.com/manage-disney-plus-roku-3138577/](https://www.androidauthority.com/manage-disney-plus-roku-3138577/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-17 04:00:13+00:00
- - tags: None
 
 Roku and Disney have made jumping into the service as streamlined as possible.

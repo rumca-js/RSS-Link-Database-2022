@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## A new Facebook Marketplace rule could make it harder to find legit car listings
  - [https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta](https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-02 21:45:36+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/jtDg10gh0B4sVmvEYwjxroi5Tow=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71444938/STK040_VRG_Illo_N_Barclay_1_facebook.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-02 17:49:26+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/SJ2Q8aHkAYdsqdk7qWCCGAIYh3w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71443979/acastro_STK086_02.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues](https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-02 16:49:51+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/gnYk-wCaexLrc7Zd_QsLs8LTsdg=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71443683/acastro_STK019_05.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo](https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-02 14:40:42+00:00
- - tags: None
 
 <figure>
       <img alt="A Mobileye autonomous vehicle in Israel" src="https://cdn.vox-cdn.com/thumbor/IIDG7g5h0d4ANRyqjwZ-WUBHecc=/0x0:1080x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71443364/mobileye_intel_car.0.jpg" />

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Putin Supporters Enraged By Russian Retreat From Lyman
  - [https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html](https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 18:19:24+00:00
- - tags: None
 
 The criticism of the Kremlin after Russia retreated from the key rail hub on Saturday came not just from pro-war commentators on social media, but from two senior allies of Mr. Putin.
 
@@ -12,7 +11,6 @@ The criticism of the Kremlin after Russia retreated from the key rail hub on Sat
  - [https://www.nytimes.com/2022/10/01/world/europe/russian-military-plane-catches-fire-at-crimean-air-base-officials-say.html](https://www.nytimes.com/2022/10/01/world/europe/russian-military-plane-catches-fire-at-crimean-air-base-officials-say.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 16:51:01+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ The criticism of the Kremlin after Russia retreated from the key rail hub on Sat
  - [https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html](https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 16:30:20+00:00
- - tags: None
 
 In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.
 
@@ -28,7 +25,6 @@ In a gathering Cold War atmosphere, American officials are gaming out responses 
  - [https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html](https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 16:27:24+00:00
- - tags: None
 
 The outbreak was caused by the Sudan strain of the virus, which has no approved vaccine or drug treatment. Scientists are now rushing to begin clinical trials in the coming weeks.
 
@@ -36,7 +32,6 @@ The outbreak was caused by the Sudan strain of the virus, which has no approved 
  - [https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html](https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 13:57:48+00:00
- - tags: None
 
 The act of sabotage has brought the Ukraine war closer, raising anxiety levels and threatening to undermine the Europeans’ resolve to help Ukraine fight on.
 
@@ -44,7 +39,6 @@ The act of sabotage has brought the Ukraine war closer, raising anxiety levels a
  - [https://www.nytimes.com/2022/10/01/world/europe/zaporizhzhia-strike.html](https://www.nytimes.com/2022/10/01/world/europe/zaporizhzhia-strike.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 13:03:49+00:00
- - tags: None
 
 The strike hit a convoy of people fleeing fighting in Zaporizhzhia Province, killing at least 30.
 
@@ -52,7 +46,6 @@ The strike hit a convoy of people fleeing fighting in Zaporizhzhia Province, kil
  - [https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html](https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 13:00:05+00:00
- - tags: None
 
 With Easter still far away, there are none to melt down. But the decision opened a door on the bunny-eat-bunny world of European chocolatiers.
 
@@ -60,7 +53,6 @@ With Easter still far away, there are none to melt down. But the decision opened
  - [https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html](https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 12:00:41+00:00
- - tags: None
 
 A military officer removed another military leader who had seized power only eight months ago. Whether he can do better is another question.
 
@@ -68,7 +60,6 @@ A military officer removed another military leader who had seized power only eig
  - [https://www.nytimes.com/2022/10/01/briefing/making-friends.html](https://www.nytimes.com/2022/10/01/briefing/making-friends.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 10:23:45+00:00
- - tags: None
 
 A psychologist and friendship expert has advice for how to make friends as an adult.
 
@@ -76,7 +67,6 @@ A psychologist and friendship expert has advice for how to make friends as an ad
  - [https://www.nytimes.com/2022/10/01/world/canada/alberta-revives-its-long-running-campaign-against-federal-gun-controls.html](https://www.nytimes.com/2022/10/01/world/canada/alberta-revives-its-long-running-campaign-against-federal-gun-controls.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 10:00:02+00:00
- - tags: None
 
 Alberta, later followed by Saskatchewan, has directed Mounties in the province not to participate in a buyback program for banned rifles.
 
@@ -84,7 +74,6 @@ Alberta, later followed by Saskatchewan, has directed Mounties in the province n
  - [https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html](https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 09:00:34+00:00
- - tags: None
 
 The recent flooding has plunged small farmers in sharecropping arrangements further into debt with their landlords — a cycle that has worsened as extreme weather events become increasingly common.
 
@@ -92,7 +81,6 @@ The recent flooding has plunged small farmers in sharecropping arrangements furt
  - [https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html](https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 09:00:29+00:00
- - tags: None
 
 Brazilians voting for president on Sunday will choose between two political titans in a contest seen as a major test for one of the world’s largest democracies.
 
@@ -100,7 +88,6 @@ Brazilians voting for president on Sunday will choose between two political tita
  - [https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html](https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 09:00:26+00:00
- - tags: None
 
 The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.
 
@@ -108,7 +95,6 @@ The country’s strict coronavirus restrictions dictate the patterns of daily li
  - [https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 07:12:14+00:00
- - tags: None
 
 They appeared to be edging closer to encircling Lyman, a strategic rail hub in the country’s east.
 
@@ -116,7 +102,6 @@ They appeared to be edging closer to encircling Lyman, a strategic rail hub in t
  - [https://www.nytimes.com/2022/09/30/world/europe/eu-ministers-approve-taxes-on-energy-profits-to-support-struggling-households.html](https://www.nytimes.com/2022/09/30/world/europe/eu-ministers-approve-taxes-on-energy-profits-to-support-struggling-households.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 06:01:26+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@ They appeared to be edging closer to encircling Lyman, a strategic rail hub in t
  - [https://www.nytimes.com/2022/10/01/world/europe/escape-from-russia.html](https://www.nytimes.com/2022/10/01/world/europe/escape-from-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 04:01:12+00:00
- - tags: None
 
 A mountain pass into Georgia has become a choke point for Russians fleeing the country, many of them men who faced being drafted and sent to fight in Ukraine.
 
@@ -132,6 +116,5 @@ A mountain pass into Georgia has become a choke point for Russians fleeing the c
  - [https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html](https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 01:14:47+00:00
- - tags: None
 
 The test came a day after the United States, Japan and South Korea conducted their first joint anti-submarine exercise in five years.

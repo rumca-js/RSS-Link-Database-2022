@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Now your business can deploy virtual Mac desktops in the cloud
  - [https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all](https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-07 15:50:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676228/is-your-company-a-most-loved-workplace-it-should-be.html#tk.rss_all](https://www.computerworld.com/article/3676228/is-your-company-a-most-loved-workplace-it-should-be.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-07 15:35:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3674772/how-to-turn-your-car-into-ultimate-mobile-office.html#tk.rss_all](https://www.computerworld.com/article/3674772/how-to-turn-your-car-into-ultimate-mobile-office.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-07 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

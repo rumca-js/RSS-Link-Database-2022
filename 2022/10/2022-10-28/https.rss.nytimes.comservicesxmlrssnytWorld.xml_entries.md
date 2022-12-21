@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Ukraine accuses Russia of violating international law by placing Ukrainian children in Russian families.
  - [https://www.nytimes.com/2022/10/28/world/europe/ukraine-accuses-russia-of-violating-international-law-by-placing-ukrainian-children-in-russian-families.html](https://www.nytimes.com/2022/10/28/world/europe/ukraine-accuses-russia-of-violating-international-law-by-placing-ukrainian-children-in-russian-families.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 23:41:26+00:00
- - tags: None
 
 The transfer of Ukrainian children from occupied territories to Russia and their adoption by Russian families is a potential war crime.
 
@@ -12,7 +11,6 @@ The transfer of Ukrainian children from occupied territories to Russia and their
  - [https://www.nytimes.com/2022/10/28/world/europe/ukraine-russia-kherson-bakhmut-sobchak.html](https://www.nytimes.com/2022/10/28/world/europe/ukraine-russia-kherson-bakhmut-sobchak.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 23:00:12+00:00
- - tags: None
 
 Fall rains have turned the earth to sludge, slowing advances at least until the winter freeze, in conditions that have hampered military movement for centuries.
 
@@ -20,7 +18,6 @@ Fall rains have turned the earth to sludge, slowing advances at least until the 
  - [https://www.nytimes.com/2022/10/28/world/europe/heres-how-some-western-powers-reacted-to-putins-speech.html](https://www.nytimes.com/2022/10/28/world/europe/heres-how-some-western-powers-reacted-to-putins-speech.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 22:47:11+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ Fall rains have turned the earth to sludge, slowing advances at least until the 
  - [https://www.nytimes.com/2022/10/28/world/middleeast/saudi-us-investment-forum.html](https://www.nytimes.com/2022/10/28/world/middleeast/saudi-us-investment-forum.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 17:52:22+00:00
- - tags: None
 
 A Saudi decision to support a cut in oil output infuriated Washington. But at an investment conference in Riyadh, there was plenty of praise for the kingdom.
 
@@ -36,7 +32,6 @@ A Saudi decision to support a cut in oil output infuriated Washington. But at an
  - [https://www.nytimes.com/2022/10/28/world/europe/russia-draft-war.html](https://www.nytimes.com/2022/10/28/world/europe/russia-draft-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 16:33:44+00:00
- - tags: None
 
 Announced by Mr. Putin in September, the draft sent shock waves across Russia.
 
@@ -44,7 +39,6 @@ Announced by Mr. Putin in September, the draft sent shock waves across Russia.
  - [https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html](https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 16:28:59+00:00
- - tags: None
 
 For countless Ukrainian children, the war has brought long-term physical and psychological injuries. Those who have suffered serious physical harm or the loss of a parent now face a challenging path forward.
 
@@ -52,7 +46,6 @@ For countless Ukrainian children, the war has brought long-term physical and psy
  - [https://www.nytimes.com/2022/10/28/world/europe/italy-hard-right-giorgia-meloni.html](https://www.nytimes.com/2022/10/28/world/europe/italy-hard-right-giorgia-meloni.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 14:57:38+00:00
- - tags: None
 
 Long marginalized politically and ostracized socially, the new prime minister’s supporters sense a chance to give a final blow to the stigma and shame of their association with Fascism.
 
@@ -60,7 +53,6 @@ Long marginalized politically and ostracized socially, the new prime minister’
  - [https://www.nytimes.com/2022/10/28/world/europe/with-the-close-of-his-twitter-deal-elon-musks-geopolitical-influence-is-set-to-grow.html](https://www.nytimes.com/2022/10/28/world/europe/with-the-close-of-his-twitter-deal-elon-musks-geopolitical-influence-is-set-to-grow.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 14:31:12+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ Long marginalized politically and ostracized socially, the new prime minister’
  - [https://www.nytimes.com/article/midterm-elections-basics-explained.html](https://www.nytimes.com/article/midterm-elections-basics-explained.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 13:28:20+00:00
- - tags: None
 
 What’s at stake, and how does it work? Let’s start with the basics.
 
@@ -76,7 +67,6 @@ What’s at stake, and how does it work? Let’s start with the basics.
  - [https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html](https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 12:15:50+00:00
- - tags: None
 
 Ksenia Sobchak entered Lithuania this week.
 
@@ -84,7 +74,6 @@ Ksenia Sobchak entered Lithuania this week.
  - [https://www.nytimes.com/2022/10/28/briefing/xi-jinping-china-authoritarian.html](https://www.nytimes.com/2022/10/28/briefing/xi-jinping-china-authoritarian.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 10:47:00+00:00
- - tags: None
 
 How Chinese citizens are responding to Xi’s lengthened rule.
 
@@ -92,7 +81,6 @@ How Chinese citizens are responding to Xi’s lengthened rule.
  - [https://www.nytimes.com/live/2022/10/28/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/28/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 10:29:16+00:00
- - tags: None
 
 Battles are raging in the south and the east as thick sludge complicates movement for both sides.
 
@@ -100,7 +88,6 @@ Battles are raging in the south and the east as thick sludge complicates movemen
  - [https://www.nytimes.com/2022/10/28/world/europe/northern-ireland-sinn-fein-election.html](https://www.nytimes.com/2022/10/28/world/europe/northern-ireland-sinn-fein-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 09:41:40+00:00
- - tags: None
 
 Britain’s Northern Ireland secretary is expected to announce on Friday that a new election would be held in December after six months of fruitless efforts to convene Parliament.
 
@@ -108,7 +95,6 @@ Britain’s Northern Ireland secretary is expected to announce on Friday that a 
  - [https://www.nytimes.com/2022/10/28/world/europe/a-government-connected-putin-critics-flight-from-russia-raises-questions-about-who-is-still-safe.html](https://www.nytimes.com/2022/10/28/world/europe/a-government-connected-putin-critics-flight-from-russia-raises-questions-about-who-is-still-safe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 09:29:13+00:00
- - tags: None
 
 Ksenia Sobchak, a socialite who challenged the Russian leader at the polls but at times accommodated his agenda, entered Lithuania this week.
 
@@ -116,7 +102,6 @@ Ksenia Sobchak, a socialite who challenged the Russian leader at the polls but a
  - [https://www.nytimes.com/2022/10/28/world/americas/bolsonaro-supporters-election.html](https://www.nytimes.com/2022/10/28/world/americas/bolsonaro-supporters-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 09:00:24+00:00
- - tags: None
 
 President Jair Bolsonaro has attacked Brazil’s electronic voting system. Now, ahead of Sunday’s elections, many of his supporters believe there will be fraud.
 
@@ -124,7 +109,6 @@ President Jair Bolsonaro has attacked Brazil’s electronic voting system. Now, 
  - [https://www.nytimes.com/2022/10/28/world/asia/yu-gi-oh-kazuki-takahashi-drowning.html](https://www.nytimes.com/2022/10/28/world/asia/yu-gi-oh-kazuki-takahashi-drowning.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 07:39:52+00:00
- - tags: None
 
 Kazuki Takahashi, creator of the internationally famous Yu-Gi-Oh! manga, was found dead in July. At the time, officials did not disclose the circumstances.
 
@@ -132,7 +116,6 @@ Kazuki Takahashi, creator of the internationally famous Yu-Gi-Oh! manga, was fou
  - [https://www.nytimes.com/2022/10/28/briefing/climate-crisis-putin-west.html](https://www.nytimes.com/2022/10/28/briefing/climate-crisis-putin-west.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 05:03:24+00:00
- - tags: None
 
 Here’s what you need to know.
 
@@ -140,6 +123,5 @@ Here’s what you need to know.
  - [https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html](https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-28 04:01:12+00:00
- - tags: None
 
 Britain’s new prime minister married into an $800 million stake in Infosys, a company that does not fit neatly into his party’s views on immigration.

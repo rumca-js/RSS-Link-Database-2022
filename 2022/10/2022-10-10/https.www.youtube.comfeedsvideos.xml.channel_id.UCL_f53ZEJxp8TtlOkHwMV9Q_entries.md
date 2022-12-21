@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## A Conversation with Piers Morgan | #295
  - [https://www.youtube.com/watch?v=-aFcTbf8yI8](https://www.youtube.com/watch?v=-aFcTbf8yI8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-10-10 18:30:00+00:00
- - tags: None
 
 Dr. Jordan B. Peterson and Piers Morgan discuss the art of interviewing, the importance of living truthfully, the pitfalls of sycophancy, and they go into depth regarding the 2016 election, and the aftermath of Donald Trump.
  

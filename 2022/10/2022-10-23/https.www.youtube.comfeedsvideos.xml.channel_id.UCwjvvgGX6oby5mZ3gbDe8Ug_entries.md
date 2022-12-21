@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## The vicious cycle: from tofu-dreg projects to rotten-tail buildings to the gradual economic collapse
  - [https://www.youtube.com/watch?v=jaxgySOHhOE](https://www.youtube.com/watch?v=jaxgySOHhOE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-10-23 23:15:07+00:00
- - tags: None
 
 #chinainsights #chinaeconomy #tofu-dregproject
 

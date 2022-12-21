@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## 2K warns users their info has been stolen following breach of its help desk
  - [https://arstechnica.com/?p=1887894](https://arstechnica.com/?p=1887894)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 22:06:30+00:00
- - tags: None
 
 Stolen data includes names, email addresses, console IDs, and gamertags.
 
@@ -12,7 +11,6 @@ Stolen data includes names, email addresses, console IDs, and gamertags.
  - [https://arstechnica.com/?p=1887855](https://arstechnica.com/?p=1887855)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 21:42:15+00:00
- - tags: None
 
 Plus, SteamOS 3.3.2 claims to improve the experience with third-party docks.
 
@@ -20,7 +18,6 @@ Plus, SteamOS 3.3.2 claims to improve the experience with third-party docks.
  - [https://arstechnica.com/?p=1887736](https://arstechnica.com/?p=1887736)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 21:28:31+00:00
- - tags: None
 
 Open letter cites concerns about misuse of "widely available" commercial robots among the public.
 
@@ -28,7 +25,6 @@ Open letter cites concerns about misuse of "widely available" commercial robots 
  - [https://arstechnica.com/?p=1887790](https://arstechnica.com/?p=1887790)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 21:20:39+00:00
- - tags: None
 
 Meta, Snap, and Discord are also defendants in the lawsuit.
 
@@ -36,7 +32,6 @@ Meta, Snap, and Discord are also defendants in the lawsuit.
  - [https://arstechnica.com/?p=1887779](https://arstechnica.com/?p=1887779)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 20:37:23+00:00
- - tags: None
 
 Illumination's changes to familiar Mushroom Kingdom characters are finally confirmed.
 
@@ -44,7 +39,6 @@ Illumination's changes to familiar Mushroom Kingdom characters are finally confi
  - [https://arstechnica.com/?p=1887777](https://arstechnica.com/?p=1887777)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 20:20:59+00:00
- - tags: None
 
 The criminalization of marijuana is a "failed approach," Biden said.
 
@@ -52,7 +46,6 @@ The criminalization of marijuana is a "failed approach," Biden said.
  - [https://arstechnica.com/?p=1887793](https://arstechnica.com/?p=1887793)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 20:18:59+00:00
- - tags: None
 
 Musk urges judge to stay case and remove October 17 trial from court's calendar.
 
@@ -60,7 +53,6 @@ Musk urges judge to stay case and remove October 17 trial from court's calendar.
  - [https://arstechnica.com/?p=1887605](https://arstechnica.com/?p=1887605)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 17:36:19+00:00
- - tags: None
 
 Power sequence bugs cause damaging flickers on built-in displays. Update now.
 
@@ -68,7 +60,6 @@ Power sequence bugs cause damaging flickers on built-in displays. Update now.
  - [https://arstechnica.com/?p=1887540](https://arstechnica.com/?p=1887540)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 17:09:06+00:00
- - tags: None
 
 Adafruit tested its wireless haptic communication system with a juicy slab of pork butt.
 
@@ -76,7 +67,6 @@ Adafruit tested its wireless haptic communication system with a juicy slab of po
  - [https://arstechnica.com/?p=1887635](https://arstechnica.com/?p=1887635)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 16:41:43+00:00
- - tags: None
 
 Table Football set includes a handy, if macabre, compartment for extra heads.
 
@@ -84,7 +74,6 @@ Table Football set includes a handy, if macabre, compartment for extra heads.
  - [https://arstechnica.com/?p=1887613](https://arstechnica.com/?p=1887613)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 16:28:52+00:00
- - tags: None
 
 Those who have linked a Battle.net account can now avoid the "SMS Protect" system.
 
@@ -92,7 +81,6 @@ Those who have linked a Battle.net account can now avoid the "SMS Protect" syste
  - [https://arstechnica.com/?p=1887539](https://arstechnica.com/?p=1887539)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 16:13:42+00:00
- - tags: None
 
 The hardware looks just like a smart display, but the software is different.
 
@@ -100,7 +88,6 @@ The hardware looks just like a smart display, but the software is different.
  - [https://arstechnica.com/?p=1887530](https://arstechnica.com/?p=1887530)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 15:58:40+00:00
- - tags: None
 
 Kevin and Lukas Czinger have a new way of making cars, and it's starting to catch on.
 
@@ -108,7 +95,6 @@ Kevin and Lukas Czinger have a new way of making cars, and it's starting to catc
  - [https://arstechnica.com/?p=1887584](https://arstechnica.com/?p=1887584)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 15:38:47+00:00
- - tags: None
 
 Debt financing a key sticking point in talks to end litigation and finish merger.
 
@@ -116,7 +102,6 @@ Debt financing a key sticking point in talks to end litigation and finish merger
  - [https://arstechnica.com/?p=1887551](https://arstechnica.com/?p=1887551)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 15:11:37+00:00
- - tags: None
 
 Former security chief may be first exec found guilty of hiding a data breach.
 
@@ -124,7 +109,6 @@ Former security chief may be first exec found guilty of hiding a data breach.
  - [https://arstechnica.com/?p=1886799](https://arstechnica.com/?p=1886799)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 14:45:16+00:00
- - tags: None
 
 Google prices itself way above Apple and Samsung, with slower hardware.
 
@@ -132,7 +116,6 @@ Google prices itself way above Apple and Samsung, with slower hardware.
  - [https://arstechnica.com/?p=1886601](https://arstechnica.com/?p=1886601)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 14:45:09+00:00
- - tags: None
 
 They get aluminum camera bars and a "gen 2" Tensor chip that hasn't changed much.
 
@@ -140,7 +123,6 @@ They get aluminum camera bars and a "gen 2" Tensor chip that hasn't changed much
  - [https://arstechnica.com/?p=1887208](https://arstechnica.com/?p=1887208)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 14:37:41+00:00
- - tags: None
 
 An explainer on how Matter and Thread work and how they might actually help.
 
@@ -148,7 +130,6 @@ An explainer on how Matter and Thread work and how they might actually help.
  - [https://arstechnica.com/?p=1887260](https://arstechnica.com/?p=1887260)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 14:00:17+00:00
- - tags: None
 
 I learned a lot ordering a donut and a muffin from delivery robots.
 
@@ -156,7 +137,6 @@ I learned a lot ordering a donut and a muffin from delivery robots.
  - [https://arstechnica.com/?p=1887511](https://arstechnica.com/?p=1887511)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 13:23:20+00:00
- - tags: None
 
 There are better options than destroying used hard drives in the name of data security.
 
@@ -164,6 +144,5 @@ There are better options than destroying used hard drives in the name of data se
  - [https://arstechnica.com/?p=1887401](https://arstechnica.com/?p=1887401)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-06 12:00:24+00:00
- - tags: None
 
 Key is whether the gene-editing technology can stop the virus from replicating.

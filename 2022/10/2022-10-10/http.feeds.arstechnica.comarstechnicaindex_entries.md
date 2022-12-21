@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Why countries run or walk toward a fossil-free world
  - [https://arstechnica.com/?p=1888603](https://arstechnica.com/?p=1888603)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 23:45:43+00:00
- - tags: None
 
 Research looks at the factors behind how fast countries move toward renewables.
 
@@ -12,7 +11,6 @@ Research looks at the factors behind how fast countries move toward renewables.
  - [https://arstechnica.com/?p=1888548](https://arstechnica.com/?p=1888548)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 21:31:55+00:00
- - tags: None
 
 It's a biting rebuttal to a philosopher's ideas about the 1604 supernova ("stella nova").
 
@@ -20,7 +18,6 @@ It's a biting rebuttal to a philosopher's ideas about the 1604 supernova ("stell
  - [https://arstechnica.com/?p=1888644](https://arstechnica.com/?p=1888644)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 20:19:36+00:00
- - tags: None
 
 Trendy 1930s QWERTY-alternative plays catch-up on iPhone.
 
@@ -28,7 +25,6 @@ Trendy 1930s QWERTY-alternative plays catch-up on iPhone.
  - [https://arstechnica.com/?p=1888631](https://arstechnica.com/?p=1888631)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 19:36:22+00:00
- - tags: None
 
 New features will likely come later in iOS 16.1.
 
@@ -36,7 +32,6 @@ New features will likely come later in iOS 16.1.
  - [https://arstechnica.com/?p=1888556](https://arstechnica.com/?p=1888556)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 18:38:07+00:00
- - tags: None
 
 Pickup trucks full of software boxes, Win95VersionLie, and other tricks.
 
@@ -44,7 +39,6 @@ Pickup trucks full of software boxes, Win95VersionLie, and other tricks.
  - [https://arstechnica.com/?p=1888602](https://arstechnica.com/?p=1888602)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 18:30:07+00:00
- - tags: None
 
 A win for workers who hesitate to hit record.
 
@@ -52,7 +46,6 @@ A win for workers who hesitate to hit record.
  - [https://arstechnica.com/?p=1888596](https://arstechnica.com/?p=1888596)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 18:14:48+00:00
- - tags: None
 
 Despite industry opposition, FCC could require caller ID auth on non-IP networks.
 
@@ -60,7 +53,6 @@ Despite industry opposition, FCC could require caller ID auth on non-IP networks
  - [https://arstechnica.com/?p=1888441](https://arstechnica.com/?p=1888441)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 16:35:14+00:00
- - tags: None
 
 All the best features of a circa-2015 Paperwhite in a smaller, cheaper package.
 
@@ -68,7 +60,6 @@ All the best features of a circa-2015 Paperwhite in a smaller, cheaper package.
  - [https://arstechnica.com/?p=1887326](https://arstechnica.com/?p=1887326)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 11:30:36+00:00
- - tags: None
 
 "We took a leap of faith and jumped off a cliff."
 
@@ -76,6 +67,5 @@ All the best features of a circa-2015 Paperwhite in a smaller, cheaper package.
  - [https://arstechnica.com/?p=1888295](https://arstechnica.com/?p=1888295)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-10 04:01:55+00:00
- - tags: None
 
 The 2nd-generation Niro comes as a hybrid, plug-in hybrid, or battery EV.

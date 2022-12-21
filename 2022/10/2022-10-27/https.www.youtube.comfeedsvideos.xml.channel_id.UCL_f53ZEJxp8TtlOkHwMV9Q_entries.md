@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Men and the Conservative Vision | Senator Josh Hawley | #300
  - [https://www.youtube.com/watch?v=v3yxlAGV_WI](https://www.youtube.com/watch?v=v3yxlAGV_WI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-10-27 16:45:01+00:00
- - tags: None
 
 Dr. Peterson's extensive catalog is available now on DailyWire+: https://utm.io/ueSXh
 

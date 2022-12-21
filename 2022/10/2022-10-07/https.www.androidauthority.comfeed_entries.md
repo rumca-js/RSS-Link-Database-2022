@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How to connect a PS5 controller to any device
  - [https://www.androidauthority.com/connect-ps5-controller-pc-3145639/](https://www.androidauthority.com/connect-ps5-controller-pc-3145639/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 20:18:51+00:00
- - tags: None
 
 Love the DualSense? Here's how to take it anywhere.
 
@@ -12,7 +11,6 @@ Love the DualSense? Here's how to take it anywhere.
  - [https://www.androidauthority.com/fast-forward-rewind-tiktok-3162714/](https://www.androidauthority.com/fast-forward-rewind-tiktok-3162714/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 18:00:17+00:00
- - tags: None
 
 Here's how to skip ahead or replay the tape on TikTok.
 
@@ -20,7 +18,6 @@ Here's how to skip ahead or replay the tape on TikTok.
  - [https://www.androidauthority.com/pixel-7-launch-orders-3217752/](https://www.androidauthority.com/pixel-7-launch-orders-3217752/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 17:40:14+00:00
- - tags: None
 
 Google expects to get the most launch orders ever for the Pixel 7 series.
 
@@ -28,7 +25,6 @@ Google expects to get the most launch orders ever for the Pixel 7 series.
  - [https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/](https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 16:00:26+00:00
- - tags: None
 
 Does Sony's latest compact smartphone live up to its little but mighty legacy?
 
@@ -36,7 +32,6 @@ Does Sony's latest compact smartphone live up to its little but mighty legacy?
  - [https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-plus-3216923/](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-plus-3216923/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 15:49:55+00:00
- - tags: None
 
 Google's best takes on Samsung's middleweight champion for 2022
 
@@ -44,7 +39,6 @@ Google's best takes on Samsung's middleweight champion for 2022
  - [https://www.androidauthority.com/surface-duo-android-12l-3217714/](https://www.androidauthority.com/surface-duo-android-12l-3217714/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 15:29:44+00:00
- - tags: None
 
 Microsoft could be getting ready to update the Surface Duo.
 
@@ -52,7 +46,6 @@ Microsoft could be getting ready to update the Surface Duo.
  - [https://www.androidauthority.com/oneplus-7-pro-updates-1007118/](https://www.androidauthority.com/oneplus-7-pro-updates-1007118/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 14:29:24+00:00
- - tags: None
 
 This is likely to be the final Android upgrade for the fan-favorite handsets.
 
@@ -60,7 +53,6 @@ This is likely to be the final Android upgrade for the fan-favorite handsets.
  - [https://www.androidauthority.com/ipod-inventor-apple-iphones-usb-c-3217687/](https://www.androidauthority.com/ipod-inventor-apple-iphones-usb-c-3217687/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 13:46:09+00:00
- - tags: None
 
 iPod inventor Tony Fadell thinks a move to adopt USB-C is long-overdue for Apple and iPhones.
 
@@ -68,7 +60,6 @@ iPod inventor Tony Fadell thinks a move to adopt USB-C is long-overdue for Apple
  - [https://www.androidauthority.com/best-camera-apps-for-android-188148/](https://www.androidauthority.com/best-camera-apps-for-android-188148/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 12:36:44+00:00
- - tags: None
 
 Want to replace the stock camera app? We can help with our picks for the best camera apps for Android.
 
@@ -76,7 +67,6 @@ Want to replace the stock camera app? We can help with our picks for the best ca
  - [https://www.androidauthority.com/use-phone-social-gatherings-poll-3217646/](https://www.androidauthority.com/use-phone-social-gatherings-poll-3217646/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 12:22:42+00:00
- - tags: None
 
 Do you put your phone away or do you keep using your phone when at a social gathering?
 
@@ -84,7 +74,6 @@ Do you put your phone away or do you keep using your phone when at a social gath
  - [https://www.androidauthority.com/what-is-letterboxd-3216354/](https://www.androidauthority.com/what-is-letterboxd-3216354/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 11:00:48+00:00
- - tags: None
 
 Who needs film critics when you have a community?
 
@@ -92,7 +81,6 @@ Who needs film critics when you have a community?
  - [https://www.androidauthority.com/android-apple-always-on-display-poll-results-3217619/](https://www.androidauthority.com/android-apple-always-on-display-poll-results-3217619/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 10:36:34+00:00
- - tags: None
 
 Almost 75% of respondents prefer Android's takes on the always-on display.
 
@@ -100,7 +88,6 @@ Almost 75% of respondents prefer Android's takes on the always-on display.
  - [https://www.androidauthority.com/daily-authority-october-7-2022-3217573/](https://www.androidauthority.com/daily-authority-october-7-2022-3217573/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 08:45:24+00:00
- - tags: None
 
 We've also got a gag product from Google Japan and more!
 
@@ -108,6 +95,5 @@ We've also got a gag product from Google Japan and more!
  - [https://www.androidauthority.com/google-pixel-sales-small-vs-large-3217576/](https://www.androidauthority.com/google-pixel-sales-small-vs-large-3217576/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-07 07:09:23+00:00
- - tags: None
 
 New Pixel sales data suggests Google is still a very tiny fish in the smartphone pond.

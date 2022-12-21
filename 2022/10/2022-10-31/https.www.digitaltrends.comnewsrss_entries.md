@@ -1,10 +1,9 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss
+# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
 
 ## This gaming PC inside a vintage radio is truly amazing
  - [https://www.digitaltrends.com/computing/gaming-pc-inside-vintage-radio/](https://www.digitaltrends.com/computing/gaming-pc-inside-vintage-radio/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-10-31 23:20:03.780558+00:00
- - tags: None
 
 A YouTuber put a gaming PC inside a vintage 1940s Motorola radio case. And the thing actually works!
 
@@ -12,7 +11,6 @@ A YouTuber put a gaming PC inside a vintage 1940s Motorola radio case. And the t
  - [https://www.digitaltrends.com/computing/cablemod-reveals-nvidia-rtx-409-power-adapter/](https://www.digitaltrends.com/computing/cablemod-reveals-nvidia-rtx-409-power-adapter/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-10-31 23:20:03.773030+00:00
- - tags: None
 
 CableMod has revealed the designs of its upcoming power adapters for the Nvidia RTX 4090. Will this fix the melting problem?
 
@@ -20,7 +18,6 @@ CableMod has revealed the designs of its upcoming power adapters for the Nvidia 
  - [https://www.digitaltrends.com/computing/nvidia-geforce-rtx-4080-16gb-appears-for-sale/](https://www.digitaltrends.com/computing/nvidia-geforce-rtx-4080-16gb-appears-for-sale/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-10-31 23:20:03.765360+00:00
- - tags: None
 
 Nvidia's upcoming RTX 4080 graphics card is starting to appear at various retailers, but the prices are very inconsistent.
 
@@ -28,6 +25,5 @@ Nvidia's upcoming RTX 4080 graphics card is starting to appear at various retail
  - [https://www.digitaltrends.com/news/asteroid-pho-sun-glare/](https://www.digitaltrends.com/news/asteroid-pho-sun-glare/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-10-31 23:20:03.757131+00:00
- - tags: None
 
 Astronomers announced they have spotted a huge asteroid nearly a mile wide that could one day intersect with Earth's path.

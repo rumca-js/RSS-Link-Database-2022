@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## TWITTER BANNED ME!
  - [https://www.youtube.com/watch?v=EuBLdKBdlLo](https://www.youtube.com/watch?v=EuBLdKBdlLo)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-27 22:30:02+00:00
- - tags: None
 
 Twitter permanently suspended me, so here's what we'll be doing 🔥
 

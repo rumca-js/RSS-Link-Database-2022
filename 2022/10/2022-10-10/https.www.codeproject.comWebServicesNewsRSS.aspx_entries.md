@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## AudioLM: a language modeling approach to audio generation
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59138](https://www.codeproject.com/script/News/View.aspx?nwid=59138)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 Then they came for recording artists and I did nothing as I'm not a fan of what's on the radio these days
 
@@ -12,7 +11,6 @@ Then they came for recording artists and I did nothing as I'm not a fan of what'
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59131](https://www.codeproject.com/script/News/View.aspx?nwid=59131)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 The blockchain is just as private as all the rest (as in: not)
 
@@ -20,7 +18,6 @@ The blockchain is just as private as all the rest (as in: not)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59137](https://www.codeproject.com/script/News/View.aspx?nwid=59137)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 Except for the cloud companies, of course
 
@@ -28,7 +25,6 @@ Except for the cloud companies, of course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59132](https://www.codeproject.com/script/News/View.aspx?nwid=59132)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 I guess the Google security engineers need to spend more time looking in house before throwing stones?
 
@@ -36,7 +32,6 @@ I guess the Google security engineers need to spend more time looking in house b
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59135](https://www.codeproject.com/script/News/View.aspx?nwid=59135)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 If you want to do it, it's a trend. If someone else wants to do it, it's a fad.
 
@@ -44,7 +39,6 @@ If you want to do it, it's a trend. If someone else wants to do it, it's a fad.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59130](https://www.codeproject.com/script/News/View.aspx?nwid=59130)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 "Everybody wants to rule the world"
 
@@ -52,7 +46,6 @@ If you want to do it, it's a trend. If someone else wants to do it, it's a fad.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59140](https://www.codeproject.com/script/News/View.aspx?nwid=59140)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 "You can call me any day or night Call me"
 
@@ -60,7 +53,6 @@ If you want to do it, it's a trend. If someone else wants to do it, it's a fad.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59136](https://www.codeproject.com/script/News/View.aspx?nwid=59136)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 Because sometimes, dogfood is just fit for the dogs
 
@@ -68,7 +60,6 @@ Because sometimes, dogfood is just fit for the dogs
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59134](https://www.codeproject.com/script/News/View.aspx?nwid=59134)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 Oxidize like the fancy folk
 
@@ -76,7 +67,6 @@ Oxidize like the fancy folk
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59133](https://www.codeproject.com/script/News/View.aspx?nwid=59133)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 It's just like the regular Ubuntu, but with added nagging to send them money
 
@@ -84,6 +74,5 @@ It's just like the regular Ubuntu, but with added nagging to send them money
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59139](https://www.codeproject.com/script/News/View.aspx?nwid=59139)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-10 04:00:00+00:00
- - tags: None
 
 "Another dimension, new galaxy. Intergalactic, planetary"

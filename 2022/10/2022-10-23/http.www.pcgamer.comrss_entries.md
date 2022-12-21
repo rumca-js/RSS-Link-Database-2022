@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Lego built a spooky gaming PC inside a handmade haunted house
  - [https://www.pcgamer.com/lego-built-a-spooky-gaming-pc-inside-a-handmade-haunted-house](https://www.pcgamer.com/lego-built-a-spooky-gaming-pc-inside-a-handmade-haunted-house)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 23:04:51+00:00
- - tags: None
 
 This PC is bricked, but in a good way.
 
@@ -12,7 +11,6 @@ This PC is bricked, but in a good way.
  - [https://www.pcgamer.com/best-horror-games](https://www.pcgamer.com/best-horror-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 22:14:23+00:00
- - tags: None
 
 These are the best horror games you can play on PC.
 
@@ -20,7 +18,6 @@ These are the best horror games you can play on PC.
  - [https://www.pcgamer.com/steam-sets-new-record-with-30-million-users-online-at-once](https://www.pcgamer.com/steam-sets-new-record-with-30-million-users-online-at-once)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 21:44:59+00:00
- - tags: None
 
 Significantly higher than other, previously reported numbers.
 
@@ -28,7 +25,6 @@ Significantly higher than other, previously reported numbers.
  - [https://www.pcgamer.com/psa-doom-could-be-running-inside-your-kids-halloween-candy](https://www.pcgamer.com/psa-doom-could-be-running-inside-your-kids-halloween-candy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 20:31:46+00:00
- - tags: None
 
 Don't ask why, just look.
 
@@ -36,7 +32,6 @@ Don't ask why, just look.
  - [https://www.pcgamer.com/trombone-champ-but-its-the-liz-truss-resignation-speech](https://www.pcgamer.com/trombone-champ-but-its-the-liz-truss-resignation-speech)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 18:24:53+00:00
- - tags: None
 
 "After all, why not? Why shouldn't I Trombone Champ it?"
 
@@ -44,7 +39,6 @@ Don't ask why, just look.
  - [https://www.pcgamer.com/todays-wordle-491-answer-hint](https://www.pcgamer.com/todays-wordle-491-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Sunday's puzzle.
 
@@ -52,7 +46,6 @@ Wordle today: The solution and a hint for Sunday's puzzle.
  - [https://www.pcgamer.com/silent-hill-2s-original-translator-wasnt-told-about-the-remake](https://www.pcgamer.com/silent-hill-2s-original-translator-wasnt-told-about-the-remake)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 05:05:11+00:00
- - tags: None
 
 "Giving me appropriate credit is the right thing to do", Jeremy Blaustein says.
 
@@ -60,7 +53,6 @@ Wordle today: The solution and a hint for Sunday's puzzle.
  - [https://www.pcgamer.com/the-action-platformer-where-youre-a-40k-ork-is-better-than-i-expected](https://www.pcgamer.com/the-action-platformer-where-youre-a-40k-ork-is-better-than-i-expected)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 03:59:31+00:00
- - tags: None
 
 Warhammer 40,000: Shootas, Blood & Teef is out now.
 
@@ -68,6 +60,5 @@ Warhammer 40,000: Shootas, Blood & Teef is out now.
  - [https://www.pcgamer.com/resident-evil-reverse-is-about-to-have-an-early-access-beta-ahead-of-its-oct-28-launch](https://www.pcgamer.com/resident-evil-reverse-is-about-to-have-an-early-access-beta-ahead-of-its-oct-28-launch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-23 00:24:20+00:00
- - tags: None
 
 And it'll have crossplay.

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Witchbrook: Everything we know so far about the witchy life sim
  - [https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know](https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 23:32:47+00:00
- - tags: None
 
 Chucklefish's cozy magical college sim may still be quite a ways off.
 
@@ -12,7 +11,6 @@ Chucklefish's cozy magical college sim may still be quite a ways off.
  - [https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs](https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 22:53:49+00:00
- - tags: None
 
 Rigs for the rig god.
 
@@ -20,7 +18,6 @@ Rigs for the rig god.
  - [https://www.pcgamer.com/add-some-close-encounters-to-fallout-4-with-this-alien-invasion-mod](https://www.pcgamer.com/add-some-close-encounters-to-fallout-4-with-this-alien-invasion-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 22:51:19+00:00
- - tags: None
 
 The Zetans are finally invading the Commonwealth. Welcome them to Earth, the Fallout way.
 
@@ -28,7 +25,6 @@ The Zetans are finally invading the Commonwealth. Welcome them to Earth, the Fal
  - [https://www.pcgamer.com/overwatch-2s-new-phone-requirement-is-locking-players-out-i-cant-just-change-my-phone-plan-for-one-game](https://www.pcgamer.com/overwatch-2s-new-phone-requirement-is-locking-players-out-i-cant-just-change-my-phone-plan-for-one-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 22:36:10+00:00
- - tags: None
 
 However, there's no word about whether Blizzard will start accepting prepaid phone numbers for its SMS Protect system.
 
@@ -36,7 +32,6 @@ However, there's no word about whether Blizzard will start accepting prepaid pho
  - [https://www.pcgamer.com/this-machete-wielding-plant-belongs-in-aperture-labs](https://www.pcgamer.com/this-machete-wielding-plant-belongs-in-aperture-labs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 21:46:53+00:00
- - tags: None
 
 You might want to check for weapons the next time you're watering your neighbor's plants.
 
@@ -44,7 +39,6 @@ You might want to check for weapons the next time you're watering your neighbor'
  - [https://www.pcgamer.com/how-overwatch-2s-competitive-ranks-work](https://www.pcgamer.com/how-overwatch-2s-competitive-ranks-work)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 21:10:26+00:00
- - tags: None
 
 Here's all the changes to Overwatch 2's competitive modes and ranks.
 
@@ -52,7 +46,6 @@ Here's all the changes to Overwatch 2's competitive modes and ranks.
  - [https://www.pcgamer.com/need-for-speed-unbound-leaks-one-day-before-reveal-looks-like-the-most-stylish-nfs-in-15-years](https://www.pcgamer.com/need-for-speed-unbound-leaks-one-day-before-reveal-looks-like-the-most-stylish-nfs-in-15-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 20:25:50+00:00
- - tags: None
 
 Oh, the title of the new Need for Speed game leaked too.
 
@@ -60,7 +53,6 @@ Oh, the title of the new Need for Speed game leaked too.
  - [https://www.pcgamer.com/games-like-stardew-valley](https://www.pcgamer.com/games-like-stardew-valley)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 20:00:38+00:00
- - tags: None
 
 Longing for more games like Stardew Valley? Good news: casual farming sims have taken root on PC.
 
@@ -68,7 +60,6 @@ Longing for more games like Stardew Valley? Good news: casual farming sims have 
  - [https://www.pcgamer.com/overwatch-2-queues-are-still-a-problem-24-hours-later](https://www.pcgamer.com/overwatch-2-queues-are-still-a-problem-24-hours-later)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 19:13:34+00:00
- - tags: None
 
 The game's launch has been hit with long queue times, disconnects, and lost cosmetics.
 
@@ -76,7 +67,6 @@ The game's launch has been hit with long queue times, disconnects, and lost cosm
  - [https://www.pcgamer.com/stadias-collapse-means-the-exclusive-horror-game-gylt-will-finally-release-for-the-rest-of-us](https://www.pcgamer.com/stadias-collapse-means-the-exclusive-horror-game-gylt-will-finally-release-for-the-rest-of-us)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 18:12:16+00:00
- - tags: None
 
 Gylt was a Stadia launch title when it came out in 2019 and has remained exclusive to the platform.
 
@@ -84,7 +74,6 @@ Gylt was a Stadia launch title when it came out in 2019 and has remained exclusi
  - [https://www.pcgamer.com/chess-scandal-re-erupts-as-investigation-finds-the-accused-cheated-in-over-100-online-games](https://www.pcgamer.com/chess-scandal-re-erupts-as-investigation-finds-the-accused-cheated-in-over-100-online-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 16:25:09+00:00
- - tags: None
 
 World champion Magnus Carlsen had accused Hans Niemann of cheating.
 
@@ -92,7 +81,6 @@ World champion Magnus Carlsen had accused Hans Niemann of cheating.
  - [https://www.pcgamer.com/multiplayer-witcher-sounds-a-lot-more-exciting-than-a-new-trilogy](https://www.pcgamer.com/multiplayer-witcher-sounds-a-lot-more-exciting-than-a-new-trilogy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 15:45:56+00:00
- - tags: None
 
 Hunting monsters and scowling at NPCs is more fun with friends.
 
@@ -100,7 +88,6 @@ Hunting monsters and scowling at NPCs is more fun with friends.
  - [https://www.pcgamer.com/hitman-3s-roguelike-mode-has-been-delayed-to-next-year](https://www.pcgamer.com/hitman-3s-roguelike-mode-has-been-delayed-to-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 15:33:25+00:00
- - tags: None
 
 Steam users might get a crack at a technical test next month, though.
 
@@ -108,7 +95,6 @@ Steam users might get a crack at a technical test next month, though.
  - [https://www.pcgamer.com/trend-micro-crypto-scam-water-labbu](https://www.pcgamer.com/trend-micro-crypto-scam-water-labbu)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 15:02:48+00:00
- - tags: None
 
 Hodl the phone, where did all my stolen crypto go?
 
@@ -116,7 +102,6 @@ Hodl the phone, where did all my stolen crypto go?
  - [https://www.pcgamer.com/another-day-another-maddeningly-vague-hideo-kojima-tease](https://www.pcgamer.com/another-day-another-maddeningly-vague-hideo-kojima-tease)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 13:46:24+00:00
- - tags: None
 
 A strand type promotional campaign.
 
@@ -124,7 +109,6 @@ A strand type promotional campaign.
  - [https://www.pcgamer.com/micron-cut-ram-production](https://www.pcgamer.com/micron-cut-ram-production)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 13:15:33+00:00
- - tags: None
 
 If you've been eyeing up a RAM or SSD upgrade, you may want to act now.
 
@@ -132,7 +116,6 @@ If you've been eyeing up a RAM or SSD upgrade, you may want to act now.
  - [https://www.pcgamer.com/intel-arc-a770-limited-edition-review-performance-benchmarks](https://www.pcgamer.com/intel-arc-a770-limited-edition-review-performance-benchmarks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 13:03:28+00:00
- - tags: None
 
 Player 3 has entered the game.
 
@@ -140,7 +123,6 @@ Player 3 has entered the game.
  - [https://www.pcgamer.com/genshin-impact-wont-add-more-endgame-challenges-because-of-excessive-anxiety](https://www.pcgamer.com/genshin-impact-wont-add-more-endgame-challenges-because-of-excessive-anxiety)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 12:21:33+00:00
- - tags: None
 
 HoYoverse has no plans to cater to its hardcore audience.
 
@@ -148,7 +130,6 @@ HoYoverse has no plans to cater to its hardcore audience.
  - [https://www.pcgamer.com/streets-of-rogue-2-announced-and-now-its-an-open-world-stardew-with-trucks](https://www.pcgamer.com/streets-of-rogue-2-announced-and-now-its-an-open-world-stardew-with-trucks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 11:53:49+00:00
- - tags: None
 
 A game that dares to ask, 'what if Mad Max inherited a farmstead'?
 
@@ -156,7 +137,6 @@ A game that dares to ask, 'what if Mad Max inherited a farmstead'?
  - [https://www.pcgamer.com/overwatch-2-battle-pass](https://www.pcgamer.com/overwatch-2-battle-pass)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 11:45:56+00:00
- - tags: None
 
 Get to grips with the Overwatch 2 Battle Pass.
 
@@ -164,7 +144,6 @@ Get to grips with the Overwatch 2 Battle Pass.
  - [https://www.pcgamer.com/water-chips-ionics-harvard-research](https://www.pcgamer.com/water-chips-ionics-harvard-research)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 11:03:49+00:00
- - tags: None
 
 Though ionic wafers would be more energy efficient, they're likely to be much slower.
 
@@ -172,7 +151,6 @@ Though ionic wafers would be more energy efficient, they're likely to be much sl
  - [https://www.pcgamer.com/intel-arc-a770-raja-koduri](https://www.pcgamer.com/intel-arc-a770-raja-koduri)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 10:51:47+00:00
- - tags: None
 
 Not long to go until we find out if this is going to be a three-horse race.
 
@@ -180,7 +158,6 @@ Not long to go until we find out if this is going to be a three-horse race.
  - [https://www.pcgamer.com/todays-wordle-473-answer-hint](https://www.pcgamer.com/todays-wordle-473-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Wednesday's puzzle.
 
@@ -188,6 +165,5 @@ Wordle today: The solution and a hint for Wednesday's puzzle.
  - [https://www.pcgamer.com/corsairs-super-slim-k100-air-is-the-best-looking-keyboard-of-the-year](https://www.pcgamer.com/corsairs-super-slim-k100-air-is-the-best-looking-keyboard-of-the-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-05 04:17:40+00:00
- - tags: None
 
 The slim profile and brushed metal are gorgeous, but has a price to match.

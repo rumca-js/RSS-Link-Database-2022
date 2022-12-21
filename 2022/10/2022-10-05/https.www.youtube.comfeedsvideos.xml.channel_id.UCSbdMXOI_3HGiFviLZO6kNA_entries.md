@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## BONELAB is Absolutely POPPING OFF
  - [https://www.youtube.com/watch?v=XxfsDJVOlpw](https://www.youtube.com/watch?v=XxfsDJVOlpw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-10-05 20:08:23+00:00
- - tags: None
 
 Hello and welcome to TUESDAY NEWSDAY your number one resource for the entire week's worth of VR news! WHAT A CRAZY WEEK.
 

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## The I.M.F. said $1.3 billion in emergency funding for Ukraine had been approved by its board.
  - [https://www.nytimes.com/2022/10/08/world/europe/the-imf-said-1-3-billion-in-emergency-funding-for-ukraine-had-been-approved-by-its-board.html](https://www.nytimes.com/2022/10/08/world/europe/the-imf-said-1-3-billion-in-emergency-funding-for-ukraine-had-been-approved-by-its-board.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 23:48:09+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.nytimes.com/2022/10/07/us/politics/biden-putin-armageddon-nuclear-threat.html](https://www.nytimes.com/2022/10/07/us/politics/biden-putin-armageddon-nuclear-threat.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 23:31:55+00:00
- - tags: None
 
 President Biden’s aides have been debating whether there might be a way out for the wounded Russian leader.
 
@@ -20,7 +18,6 @@ President Biden’s aides have been debating whether there might be a way out fo
  - [https://www.nytimes.com/2022/10/07/world/americas/haiti-international-intervention-violence.html](https://www.nytimes.com/2022/10/07/world/americas/haiti-international-intervention-violence.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 23:12:34+00:00
- - tags: None
 
 Prime Minister Ariel Henry and his government asked the international community to step in, largely to control gang violence that has ravaged the capital.
 
@@ -28,7 +25,6 @@ Prime Minister Ariel Henry and his government asked the international community 
  - [https://www.nytimes.com/2022/10/07/world/europe/russia-strikes-ukraine.html](https://www.nytimes.com/2022/10/07/world/europe/russia-strikes-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 23:00:07+00:00
- - tags: None
 
 On Vladimir V. Putin’s 70th birthday, his faltering military continued to show that it could use its advantage in long-range munitions to rain death and destruction far from the battlefield.
 
@@ -36,7 +32,6 @@ On Vladimir V. Putin’s 70th birthday, his faltering military continued to show
  - [https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-memorial-russia.html](https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-memorial-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 22:10:16+00:00
- - tags: None
 
 Democracy advocates from Belarus, Russia and Ukraine were jointly awarded the world’s most prestigious peace prize, an implicit condemnation of the Kremlin’s war in Ukraine and repression at home.
 
@@ -44,7 +39,6 @@ Democracy advocates from Belarus, Russia and Ukraine were jointly awarded the wo
  - [https://www.nytimes.com/2022/10/07/us/politics/north-korea-sanctions.html](https://www.nytimes.com/2022/10/07/us/politics/north-korea-sanctions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 21:06:43+00:00
- - tags: None
 
 The Biden administration is bracing for Kim Jong-un to carry out a nuclear test. It says North Korea has fired 41 ballistic missiles this year, including one over Japan.
 
@@ -52,7 +46,6 @@ The Biden administration is bracing for Kim Jong-un to carry out a nuclear test.
  - [https://www.nytimes.com/2022/10/07/world/americas/easter-island-fire-statues-damaged.html](https://www.nytimes.com/2022/10/07/world/americas/easter-island-fire-statues-damaged.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 20:46:21+00:00
- - tags: None
 
 The fire has burned more than 247 acres of the Pacific island, where hundreds of haunting monolithic statues, called moai, have stood for centuries.
 
@@ -60,7 +53,6 @@ The fire has burned more than 247 acres of the Pacific island, where hundreds of
  - [https://www.nytimes.com/2022/10/08/world/europe/shelling-again-damages-power-lines-at-the-zaporizhzhia-nuclear-plant.html](https://www.nytimes.com/2022/10/08/world/europe/shelling-again-damages-power-lines-at-the-zaporizhzhia-nuclear-plant.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 19:22:16+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ The fire has burned more than 247 acres of the Pacific island, where hundreds of
  - [https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html](https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 19:20:22+00:00
- - tags: None
 
 A classified new policy requires President Biden’s approval to add suspected terrorists to a kill list. The Trump administration had decentralized control over targeting decisions.
 
@@ -76,7 +67,6 @@ A classified new policy requires President Biden’s approval to add suspected t
  - [https://www.nytimes.com/2022/10/07/world/asia/thailand-day-care-shooting.html](https://www.nytimes.com/2022/10/07/world/asia/thailand-day-care-shooting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 19:11:07+00:00
- - tags: None
 
 Anguished families were coming to terms with the loss of their young children as the nation pondered issues like gun violence and the widespread availability of deadly weapons.
 
@@ -84,7 +74,6 @@ Anguished families were coming to terms with the loss of their young children as
  - [https://www.nytimes.com/2022/10/07/world/canada/memorial-russia-stalin-putin.html](https://www.nytimes.com/2022/10/07/world/canada/memorial-russia-stalin-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 18:30:30+00:00
- - tags: None
 
 Members of the group have paid for their work with their lives and their freedom.
 
@@ -92,7 +81,6 @@ Members of the group have paid for their work with their lives and their freedom
  - [https://www.nytimes.com/2022/10/07/arts/music/liverpool-eurovision-2023.html](https://www.nytimes.com/2022/10/07/arts/music/liverpool-eurovision-2023.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 18:25:24+00:00
- - tags: None
 
 The popular competition would have been held in Ukraine, which won this year’s event, but safety concerns sent it to Britain instead.
 
@@ -100,7 +88,6 @@ The popular competition would have been held in Ukraine, which won this year’s
  - [https://www.nytimes.com/2022/10/07/world/europe/ukraine-nobel-prize-russia.html](https://www.nytimes.com/2022/10/07/world/europe/ukraine-nobel-prize-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 18:24:28+00:00
- - tags: None
 
 Some saw the decision to group a Ukrainian organization with human rights defenders from Russia and Belarus — two of the country’s aggressors — as an affront.
 
@@ -108,7 +95,6 @@ Some saw the decision to group a Ukrainian organization with human rights defend
  - [https://www.nytimes.com/2022/10/07/world/europe/ukraine-sharing-russia.html](https://www.nytimes.com/2022/10/07/world/europe/ukraine-sharing-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 18:24:28+00:00
- - tags: None
 
 Some saw the decision to group a Ukrainian organization with human rights defenders from Russia and Belarus — two of the country’s aggressors — as an affront.
 
@@ -116,7 +102,6 @@ Some saw the decision to group a Ukrainian organization with human rights defend
  - [https://www.nytimes.com/2022/10/07/world/europe/european-commission-natural-gas-germany.html](https://www.nytimes.com/2022/10/07/world/europe/european-commission-natural-gas-germany.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 18:06:53+00:00
- - tags: None
 
 Smaller countries see Germany’s domestic largess to tackle spiraling energy costs as undermining the effort to lower fuel prices for the wider European Union.
 
@@ -124,7 +109,6 @@ Smaller countries see Germany’s domestic largess to tackle spiraling energy co
  - [https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html](https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 15:51:35+00:00
- - tags: None
 
 Russian newspapers lauded Mr. Putin’s leadership, comparing him to Peter the Great and Leonid Brezhnev. Some Ukrainians said they hoped the birthday would be his last.
 
@@ -132,7 +116,6 @@ Russian newspapers lauded Mr. Putin’s leadership, comparing him to Peter the G
  - [https://www.nytimes.com/article/tropical-storm-julia-hurricane-caribbean-central-america.html](https://www.nytimes.com/article/tropical-storm-julia-hurricane-caribbean-central-america.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 15:31:46+00:00
- - tags: None
 
 The storm, which was expected to reach hurricane strength over the weekend, was lashing the Guajira Peninsula in northern Colombia with heavy rain on Friday.
 
@@ -140,7 +123,6 @@ The storm, which was expected to reach hurricane strength over the weekend, was 
  - [https://www.nytimes.com/2022/10/07/health/15-week-abortion-ban-older-mothers.html](https://www.nytimes.com/2022/10/07/health/15-week-abortion-ban-older-mothers.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 14:33:08+00:00
- - tags: None
 
 Older women are more likely to carry fetuses with genetic disorders that often can’t be detected until 15 weeks of pregnancy, beyond the limit set in a Senate proposal.
 
@@ -148,7 +130,6 @@ Older women are more likely to carry fetuses with genetic disorders that often c
  - [https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-ales-bialiatski-belarus.html](https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-ales-bialiatski-belarus.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 14:32:22+00:00
- - tags: None
 
 Ales Bialiatski was part of a dissident group that helped lay the groundwork in the late Soviet period for a movement calling for the independence of Belarus.
 
@@ -156,7 +137,6 @@ Ales Bialiatski was part of a dissident group that helped lay the groundwork in 
  - [https://www.nytimes.com/article/tropical-storm-hurricane-caribbean-central-america.html](https://www.nytimes.com/article/tropical-storm-hurricane-caribbean-central-america.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 14:09:20+00:00
- - tags: None
 
 Heavy rains were lashing the Guajira Peninsula in northern Colombia and northwestern Venezuela on Friday. Forecasters warned of mudslides and flash flooding in parts of Central America.
 
@@ -164,7 +144,6 @@ Heavy rains were lashing the Guajira Peninsula in northern Colombia and northwes
  - [https://www.nytimes.com/2022/10/07/world/asia/family-travel-blind-children.html](https://www.nytimes.com/2022/10/07/world/asia/family-travel-blind-children.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 12:00:12+00:00
- - tags: None
 
 A Canadian family is on a yearlong journey across Asia and Africa because three of their four children have an eye condition that causes blindness.
 
@@ -172,7 +151,6 @@ A Canadian family is on a yearlong journey across Asia and Africa because three 
  - [https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html](https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 11:44:25+00:00
- - tags: None
 
 The police have discovered 22 locations that they suspect were used as torture chambers in areas recently reclaimed from Russian control, a Ukrainian official said.
 
@@ -180,7 +158,6 @@ The police have discovered 22 locations that they suspect were used as torture c
  - [https://www.nytimes.com/2022/10/07/briefing/covid-treatment-paxlovid.html](https://www.nytimes.com/2022/10/07/briefing/covid-treatment-paxlovid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 11:30:35+00:00
- - tags: None
 
 The underuse of Covid treatments is leading to many needless deaths.
 
@@ -188,7 +165,6 @@ The underuse of Covid treatments is leading to many needless deaths.
  - [https://www.nytimes.com/2022/10/07/world/europe/ukraine-center-for-civil-liberties-nobel-peace-prize.html](https://www.nytimes.com/2022/10/07/world/europe/ukraine-center-for-civil-liberties-nobel-peace-prize.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 11:14:08+00:00
- - tags: None
 
 While the invasion added greater urgency to their work, the group has been tracking disappearances and war crimes for years.
 
@@ -196,7 +172,6 @@ While the invasion added greater urgency to their work, the group has been track
  - [https://www.nytimes.com/2022/10/07/world/europe/the-announcement-comes-as-war-rages-in-europe.html](https://www.nytimes.com/2022/10/07/world/europe/the-announcement-comes-as-war-rages-in-europe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 10:47:26+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ While the invasion added greater urgency to their work, the group has been track
  - [https://www.nytimes.com/2022/10/07/world/europe/russia-memorial-nobel-peace-prize.html](https://www.nytimes.com/2022/10/07/world/europe/russia-memorial-nobel-peace-prize.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 10:27:48+00:00
- - tags: None
 
 The organization “is based on the notion that confronting past crimes is essential in preventing new ones,” the Norwegian Nobel Committee said.
 
@@ -212,7 +186,6 @@ The organization “is based on the notion that confronting past crimes is essen
  - [https://www.nytimes.com/2022/10/07/world/australia/brittany-higgins-takes-the-stand.html](https://www.nytimes.com/2022/10/07/world/australia/brittany-higgins-takes-the-stand.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 09:59:57+00:00
- - tags: None
 
 The first week of the high profile trial in Australia has highlighted some of the difficulties of prosecuting sexual assault cases.
 
@@ -220,7 +193,6 @@ The first week of the high profile trial in Australia has highlighted some of th
  - [https://www.nytimes.com/live/2022/10/07/world/nobel-peace-prize](https://www.nytimes.com/live/2022/10/07/world/nobel-peace-prize)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 09:30:58+00:00
- - tags: None
 
 There were 343 candidates this year, including 251 people and 92 organizations.
 
@@ -228,7 +200,6 @@ There were 343 candidates this year, including 251 people and 92 organizations.
  - [https://www.nytimes.com/2022/10/07/world/americas/venezuelan-migrants-us-border.html](https://www.nytimes.com/2022/10/07/world/americas/venezuelan-migrants-us-border.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 09:00:31+00:00
- - tags: None
 
 Two crises are converging at the perilous land bridge known as the Darién Gap: the economic and humanitarian disaster underway in South America, and the bitter fight over immigration policy in Washington.
 
@@ -236,7 +207,6 @@ Two crises are converging at the perilous land bridge known as the Darién Gap: 
  - [https://www.nytimes.com/2022/10/07/world/africa/black-owned-wineries-south-africa.html](https://www.nytimes.com/2022/10/07/world/africa/black-owned-wineries-south-africa.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 09:00:25+00:00
- - tags: None
 
 Paul Siguqa grew up hating wineries because his mother toiled in their fields. But last year he opened the only fully Black-owned vineyard in Franschhoek, one of South Africa’s most prestigious wine towns.
 
@@ -244,7 +214,6 @@ Paul Siguqa grew up hating wineries because his mother toiled in their fields. B
  - [https://www.nytimes.com/2022/10/07/travel/remote-work-guide.html](https://www.nytimes.com/2022/10/07/travel/remote-work-guide.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 09:00:15+00:00
- - tags: None
 
 As more employers offer flexibility, countries, travel brands and entrepreneurs are stepping in to make working from anywhere easier, with everything from special visas to work pods.
 
@@ -252,7 +221,6 @@ As more employers offer flexibility, countries, travel brands and entrepreneurs 
  - [https://www.nytimes.com/2022/10/07/nyregion/iranian-americans-protests.html](https://www.nytimes.com/2022/10/07/nyregion/iranian-americans-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 09:00:10+00:00
- - tags: None
 
 “It’s really been a very long process of suffering that has led to this moment,” one activist said.
 
@@ -260,7 +228,6 @@ As more employers offer flexibility, countries, travel brands and entrepreneurs 
  - [https://www.nytimes.com/2022/10/07/world/asia/covid-china-lockdowns-chaos.html](https://www.nytimes.com/2022/10/07/world/asia/covid-china-lockdowns-chaos.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 08:51:10+00:00
- - tags: None
 
 Tourists are stranded, residents confined at home. Covid flare-ups and the accompanying lockdowns are causing disruptions ahead of a key Chinese Communist Party meeting.
 
@@ -268,7 +235,6 @@ Tourists are stranded, residents confined at home. Covid flare-ups and the accom
  - [https://www.nytimes.com/2022/10/07/world/asia/gun-laws.html](https://www.nytimes.com/2022/10/07/world/asia/gun-laws.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 08:34:58+00:00
- - tags: None
 
 Such buyers can purchase firearms from the government with fewer checks than those for civilians.
 
@@ -276,7 +242,6 @@ Such buyers can purchase firearms from the government with fewer checks than tho
  - [https://www.nytimes.com/2022/10/07/world/europe/russia-alaska-draft-evaders.html](https://www.nytimes.com/2022/10/07/world/europe/russia-alaska-draft-evaders.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 08:23:16+00:00
- - tags: None
 
 The men, apparently part of an exodus of more than 200,000 since Putin announced a new draft, traveled on a vessel from Russia and reached St. Lawrence Island in the Bering Sea.
 
@@ -284,7 +249,6 @@ The men, apparently part of an exodus of more than 200,000 since Putin announced
  - [https://www.nytimes.com/2022/10/07/world/europe/ireland-adoption-records.html](https://www.nytimes.com/2022/10/07/world/europe/ireland-adoption-records.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 07:22:56+00:00
- - tags: None
 
 Thousands of people are being promised new rights to information, a potentially momentous step in a country where unmarried mothers were pressured for decades to give up their babies.
 
@@ -292,7 +256,6 @@ Thousands of people are being promised new rights to information, a potentially 
  - [https://www.nytimes.com/live/2022/10/07/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/07/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 06:33:32+00:00
- - tags: None
 
 The police discovered 22 locations that they suspect were used as torture chambers in areas recently reclaimed from Russian control, a Ukrainian official said.
 
@@ -300,7 +263,6 @@ The police discovered 22 locations that they suspect were used as torture chambe
  - [https://www.nytimes.com/live/2022/10/07/world/thailand-shooting](https://www.nytimes.com/live/2022/10/07/world/thailand-shooting)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 06:19:44+00:00
- - tags: None
 
 The attack in Nong Bua Lamphu Province, one of the country’s poorest, was the worst mass shooting by a sole perpetrator in Thailand’s history.
 
@@ -308,7 +270,6 @@ The attack in Nong Bua Lamphu Province, one of the country’s poorest, was the 
  - [https://www.nytimes.com/2022/10/06/world/europe/russia-war-ukraine.html](https://www.nytimes.com/2022/10/06/world/europe/russia-war-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 04:49:49+00:00
- - tags: None
 
 Facing battlefield setbacks and domestic criticism, the Kremlin has escalated its war, claiming ownership of a nuclear plant and launching more attacks on Ukrainian cities.
 
@@ -316,7 +277,6 @@ Facing battlefield setbacks and domestic criticism, the Kremlin has escalated it
  - [https://www.nytimes.com/2022/10/07/briefing/putin-russia-dissent-thailand-shooting.html](https://www.nytimes.com/2022/10/07/briefing/putin-russia-dissent-thailand-shooting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 04:13:28+00:00
- - tags: None
 
 Challenges for Vladimir Putin in Russia.
 
@@ -324,7 +284,6 @@ Challenges for Vladimir Putin in Russia.
  - [https://www.nytimes.com/2022/10/07/world/europe/ukraine-war-fighters.html](https://www.nytimes.com/2022/10/07/world/europe/ukraine-war-fighters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 04:01:14+00:00
- - tags: None
 
 Ukrainian soldiers are exulting in their smashing of Russian lines in the northeast. They engaged enemy troops up close, and gained confidence from it.
 
@@ -332,7 +291,6 @@ Ukrainian soldiers are exulting in their smashing of Russian lines in the northe
  - [https://www.nytimes.com/2022/10/06/world/europe/biden-nuclear-war-risk.html](https://www.nytimes.com/2022/10/06/world/europe/biden-nuclear-war-risk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 03:07:38+00:00
- - tags: None
 
 The president’s blunt warnings, highly unusual for an American president, were delivered informally to a group of Democratic donors in New York City.
 
@@ -340,7 +298,6 @@ The president’s blunt warnings, highly unusual for an American president, were
  - [https://www.nytimes.com/2022/10/06/world/europe/biden-armageddon-nuclear-war-risk.html](https://www.nytimes.com/2022/10/06/world/europe/biden-armageddon-nuclear-war-risk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 03:07:38+00:00
- - tags: None
 
 The president’s blunt warnings, highly unusual for an American president, were delivered informally to a group of Democratic donors in New York City.
 
@@ -348,7 +305,6 @@ The president’s blunt warnings, highly unusual for an American president, were
  - [https://www.nytimes.com/2022/10/06/world/asia/shooting-thailand-day-care.html](https://www.nytimes.com/2022/10/06/world/asia/shooting-thailand-day-care.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 03:03:14+00:00
- - tags: None
 
 The 36 victims included a 2-year-old child and a teacher who was eight months pregnant, the police said. They identified the gunman as a recently fired officer.
 
@@ -356,7 +312,6 @@ The 36 victims included a 2-year-old child and a teacher who was eight months pr
  - [https://www.nytimes.com/2022/10/06/world/canada/saskatchewan-killings-myles-sanderson.html](https://www.nytimes.com/2022/10/06/world/canada/saskatchewan-killings-myles-sanderson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 01:42:49+00:00
- - tags: None
 
 The police said Myles Sanderson had killed not just 10 people on an Indigenous reserve and in a nearby village, but also his brother, Damien, who was originally charged with murder.
 
@@ -364,7 +319,6 @@ The police said Myles Sanderson had killed not just 10 people on an Indigenous r
  - [https://www.nytimes.com/2022/10/06/world/americas/mexico-hack-government-military.html](https://www.nytimes.com/2022/10/06/world/americas/mexico-hack-government-military.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 00:07:00+00:00
- - tags: None
 
 Hackers infiltrated the Mexican Defense Ministry, publishing millions of emails that detail the military’s growing influence over the civilian government.
 
@@ -372,6 +326,5 @@ Hackers infiltrated the Mexican Defense Ministry, publishing millions of emails 
  - [https://www.nytimes.com/2022/10/06/us/politics/biden-saudi-arabia-oil.html](https://www.nytimes.com/2022/10/06/us/politics/biden-saudi-arabia-oil.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-07 00:00:36+00:00
- - tags: None
 
 The announcement by the Saudi-led OPEC Plus energy cartel that it would slash oil production was widely seen in Washington as a stab in the back of President Biden.

@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## 'Everything is expensive': Seniors cut back on socializing and meals as inflation pinches
  - [https://www.cnn.com/2022/10/25/economy/inflation-impact-on-seniors/index.html](https://www.cnn.com/2022/10/25/economy/inflation-impact-on-seniors/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 22:57:53+00:00
- - tags: None
 
 At the Senior Friendship Center in Sarasota, Florida, talking about inflation really strikes a chord.
 
@@ -12,7 +11,6 @@ At the Senior Friendship Center in Sarasota, Florida, talking about inflation re
  - [https://www.cnn.com/2022/10/25/economy/rishi-sunak-uk-economy-crisis-choices/index.html](https://www.cnn.com/2022/10/25/economy/rishi-sunak-uk-economy-crisis-choices/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 16:27:50+00:00
- - tags: None
 
 Rishi Sunak, Britain's third prime minister in seven weeks, took office on Tuesday with a pledge to fix the "mistakes" of predecessor Liz Truss and tackle a "profound economic crisis."
 
@@ -20,7 +18,6 @@ Rishi Sunak, Britain's third prime minister in seven weeks, took office on Tuesd
  - [https://www.cnn.com/2022/10/25/business/easyjet-vacation-cost-of-living-uk/index.html](https://www.cnn.com/2022/10/25/business/easyjet-vacation-cost-of-living-uk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 15:33:22+00:00
- - tags: None
 
 A winter vacation package that claimed it could save Brits more than £200 ($229) on their soaring bills for rent, food and fuel sold out within 24 hours this week.
 
@@ -28,7 +25,6 @@ A winter vacation package that claimed it could save Brits more than £200 ($229
  - [https://www.cnn.com/2022/10/25/business/gm-earnings/index.html](https://www.cnn.com/2022/10/25/business/gm-earnings/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 13:04:40+00:00
- - tags: None
 
 General Motors says its supply chain issues are improving. That allowed the company to post better-than-expected earnings despite falling short of revenue forecasts.
 
@@ -36,7 +32,6 @@ General Motors says its supply chain issues are improving. That allowed the comp
  - [https://www.cnn.com/2022/10/24/business/unilever-shampoo-recall/index.html](https://www.cnn.com/2022/10/24/business/unilever-shampoo-recall/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 12:47:52+00:00
- - tags: None
 
 Unilever has recalled certain Dove, Nexxus, Suave, TIGI and TRESemmé aerosol dry shampoos because of the potential presence of benzene, a chemical that can cause cancer.
 
@@ -44,7 +39,6 @@ Unilever has recalled certain Dove, Nexxus, Suave, TIGI and TRESemmé aerosol dr
  - [https://www.cnn.com/2022/10/25/asia/japan-princess-mako-husband-passes-bar-intl-scli/index.html](https://www.cnn.com/2022/10/25/asia/japan-princess-mako-husband-passes-bar-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 09:13:10+00:00
- - tags: None
 
 The third time's the charm in the New York bar exam for Kei Komuro, a law clerk at law firm Lowenstein Sandler and the husband of Japan's Princess Mako.
 
@@ -52,7 +46,6 @@ The third time's the charm in the New York bar exam for Kei Komuro, a law clerk 
  - [https://www.cnn.com/2022/10/25/investing/china-yuan-all-time-low-xi-jinping-third-term-intl-hnk/index.html](https://www.cnn.com/2022/10/25/investing/china-yuan-all-time-low-xi-jinping-third-term-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 08:44:00+00:00
- - tags: None
 
 China's yuan tumbled on Tuesday to its lowest level in nearly 15 years on Tuesday as investors fled Chinese assets amid fears about Xi Jinping's dramatic move to tighten his grip on power in a major reshuffle of Communist Party leaders
 
@@ -60,7 +53,6 @@ China's yuan tumbled on Tuesday to its lowest level in nearly 15 years on Tuesda
  - [https://www.cnn.com/2022/10/25/middleeast/israel-forces-raid-nablus-palestine-intl-hnk/index.html](https://www.cnn.com/2022/10/25/middleeast/israel-forces-raid-nablus-palestine-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 04:14:40+00:00
- - tags: None
 
 At least four Palestinians were killed during an Israeli military raid in the old city of Nablus in the West Bank in the early hours of Tuesday, according to the Palestinian Ministry of Health.
 
@@ -68,7 +60,6 @@ At least four Palestinians were killed during an Israeli military raid in the ol
  - [https://www.cnn.com/2022/10/24/asia/myanmar-airstrikes-kachin-independence-army-intl-hnk/index.html](https://www.cnn.com/2022/10/24/asia/myanmar-airstrikes-kachin-independence-army-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 03:00:57+00:00
- - tags: None
 
 Dozens of people have been killed in military airstrikes that hit a celebratory event in Myanmar's  mountainous Kachin state on Sunday, according to local news outlets and international organizations.
 
@@ -76,7 +67,6 @@ Dozens of people have been killed in military airstrikes that hit a celebratory 
  - [https://www.cnn.com/2022/10/24/tech/drizly-ftc-clamp-down/index.html](https://www.cnn.com/2022/10/24/tech/drizly-ftc-clamp-down/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 02:34:19+00:00
- - tags: None
 
 The Federal Trade Commission is seeking tough new restrictions against Drizly, the alcoholic beverage delivery platform, after what US regulators allege were repeated security failures that compromised the data of 2.5 million people.
 
@@ -84,6 +74,5 @@ The Federal Trade Commission is seeking tough new restrictions against Drizly, t
  - [https://www.cnn.com/2022/10/24/asia/indonesia-pharma-firms-prosecution-cough-syrup-child-deaths-intl-hnk/index.html](https://www.cnn.com/2022/10/24/asia/indonesia-pharma-firms-prosecution-cough-syrup-child-deaths-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-25 02:29:21+00:00
- - tags: None
 
 Indonesia's food and drugs agency on Monday said it may pursue criminal action against two pharmaceutical firms that made products linked to acute kidney injury (AKI), amid a spike in cases and deaths among children this year.

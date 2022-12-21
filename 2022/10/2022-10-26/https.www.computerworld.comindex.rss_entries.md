@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## BrandPost: Q&A: How do you proactively solve problems by tracking IoT devices?
  - [https://www.computerworld.com/article/3677578/qanda-how-do-you-proactively-solve-problems-by-tracking-iot-devices.html#tk.rss_all](https://www.computerworld.com/article/3677578/qanda-how-do-you-proactively-solve-problems-by-tracking-iot-devices.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 19:39:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3677577/top-3-mobile-security-lessons.html#tk.rss_all](https://www.computerworld.com/article/3677577/top-3-mobile-security-lessons.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 19:38:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3677875/vmware-customers-are-building-the-new-multi-cloud-universe.html#tk.rss_all](https://www.computerworld.com/article/3677875/vmware-customers-are-building-the-new-multi-cloud-universe.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 19:36:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3677500/top-three-kubernetes-myths.html#tk.rss_all](https://www.computerworld.com/article/3677500/top-three-kubernetes-myths.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 19:34:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -44,7 +40,6 @@
  - [https://www.computerworld.com/article/3677865/saved-by-zero.html#tk.rss_all](https://www.computerworld.com/article/3677865/saved-by-zero.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 19:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -54,7 +49,6 @@
  - [https://www.computerworld.com/article/3677864/apple-vp-confirms-iphones-will-shift-to-usb-c.html#tk.rss_all](https://www.computerworld.com/article/3677864/apple-vp-confirms-iphones-will-shift-to-usb-c.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 16:09:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -65,7 +59,6 @@
  - [https://www.computerworld.com/article/3677867/rising-cloud-revenue-helps-soften-microsofts-growth-slowdown.html#tk.rss_all](https://www.computerworld.com/article/3677867/rising-cloud-revenue-helps-soften-microsofts-growth-slowdown.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 15:58:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -75,7 +68,6 @@
  - [https://www.computerworld.com/article/3677495/google-pixel-watch-face.html#tk.rss_all](https://www.computerworld.com/article/3677495/google-pixel-watch-face.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -89,7 +81,6 @@
  - [https://www.computerworld.com/article/3677855/is-performance-tracking-about-to-go-mobile.html#tk.rss_all](https://www.computerworld.com/article/3677855/is-performance-tracking-about-to-go-mobile.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-26 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

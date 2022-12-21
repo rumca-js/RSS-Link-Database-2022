@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## "Remove Dictator Xi": Protests in Beijing and Overseas/4 Richest Cities under large-scale Lockdown
  - [https://www.youtube.com/watch?v=hJdCSZse6XM](https://www.youtube.com/watch?v=hJdCSZse6XM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-10-18 23:00:07+00:00
- - tags: None
 
 Public protests against the top leadership are extremely rare in mainland China, especially on the eve of an important political meeting. The National Congress of the Communist Party, which takes place twice every 10 years, is the most important event in Chinese Communist Party CCP politics. To ensure the security of the 20th National Congress, Beijing has been heavily guarded including the flow of people, logistics, and even routine financial operations being placed on hold. 
 The real frustration of the Chinese people runs counter to the official atmosphere created by the Communist Party. The strict security measures and "zero-covid" restrictions have stirred up a wave of anger online, with many people having their movements restricted or forced into quarantine. 

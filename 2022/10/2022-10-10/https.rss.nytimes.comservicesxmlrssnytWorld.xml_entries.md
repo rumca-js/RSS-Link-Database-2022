@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## British Official Stresses Threat From China Even Amid Russian Aggression
  - [https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html](https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 23:02:16+00:00
- - tags: None
 
 The head of Britain’s GCHQ spy agency warned that the West should not lose sight of the technological challenge from China as it deals with the immediate problem of Russia’s invasion of Ukraine.
 
@@ -12,7 +11,6 @@ The head of Britain’s GCHQ spy agency warned that the West should not lose sig
  - [https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html](https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 23:00:07+00:00
- - tags: None
 
 The Russian president tied the attack to a bombing of the bridge to Crimea, and vowed that more strikes would follow if Russian targets were hit again.
 
@@ -20,7 +18,6 @@ The Russian president tied the attack to a bombing of the bridge to Crimea, and 
  - [https://www.nytimes.com/2022/10/10/briefing/ukraine-missile-russia-north-korea.html](https://www.nytimes.com/2022/10/10/briefing/ukraine-missile-russia-north-korea.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 21:15:10+00:00
- - tags: None
 
 Plus North Korea’s underwater missile silos and trouble in the Metaverse.
 
@@ -28,7 +25,6 @@ Plus North Korea’s underwater missile silos and trouble in the Metaverse.
  - [https://www.nytimes.com/2022/10/10/world/europe/russia-putin-ukraine-strikes.html](https://www.nytimes.com/2022/10/10/world/europe/russia-putin-ukraine-strikes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 20:19:06+00:00
- - tags: None
 
 A sharp shift toward deadly strikes signaled that domestic pressure over Russia’s flailing war effort had escalated to the point where Vladimir Putin felt a decisive show of force was necessary.
 
@@ -36,7 +32,6 @@ A sharp shift toward deadly strikes signaled that domestic pressure over Russia�
  - [https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html](https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 19:59:40+00:00
- - tags: None
 
 The fighting in Ukraine had felt far from the capital in recent months, but the barrage of missiles brought many residents back to the fear and uncertainty of the early days of Russia’s invasion.
 
@@ -44,7 +39,6 @@ The fighting in Ukraine had felt far from the capital in recent months, but the 
  - [https://www.nytimes.com/2022/10/10/world/europe/airbus-france-plane-crash-trial.html](https://www.nytimes.com/2022/10/10/world/europe/airbus-france-plane-crash-trial.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 17:04:30+00:00
- - tags: None
 
 Families of the 228 victims fought for years to bring the companies to court. Both face manslaughter charges.
 
@@ -52,7 +46,6 @@ Families of the 228 victims fought for years to bring the companies to court. Bo
  - [https://www.nytimes.com/2022/10/10/world/europe/biden-russia-ukraine-strikes.html](https://www.nytimes.com/2022/10/10/world/europe/biden-russia-ukraine-strikes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 16:44:46+00:00
- - tags: None
 
 The president reaffirmed U.S. support for Ukraine, but did not announce any new steps in response to Russia’s missile strikes.
 
@@ -60,7 +53,6 @@ The president reaffirmed U.S. support for Ukraine, but did not announce any new 
  - [https://www.nytimes.com/2022/10/10/world/europe/belarus-russia-ukraine.html](https://www.nytimes.com/2022/10/10/world/europe/belarus-russia-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 16:43:21+00:00
- - tags: None
 
 Statements by President Aleksandr G. Lukashenko, an eccentric and highly erratic dictator, are rarely an accurate guide to current or future events.
 
@@ -68,7 +60,6 @@ Statements by President Aleksandr G. Lukashenko, an eccentric and highly erratic
  - [https://www.nytimes.com/2022/10/10/world/europe/uk-barristers-lawyers-end-strike.html](https://www.nytimes.com/2022/10/10/world/europe/uk-barristers-lawyers-end-strike.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 16:02:45+00:00
- - tags: None
 
 The government will increase legal aid fees by 15 percent for new and existing cases, ending a weekslong walkout.
 
@@ -76,7 +67,6 @@ The government will increase legal aid fees by 15 percent for new and existing c
  - [https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html](https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 15:44:54+00:00
- - tags: None
 
 Take gravity, add quantum mechanics, stir. What do you get? Just maybe, a holographic cosmos.
 
@@ -84,7 +74,6 @@ Take gravity, add quantum mechanics, stir. What do you get? Just maybe, a hologr
  - [https://www.nytimes.com/live/2022/10/10/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/10/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 14:41:14+00:00
- - tags: None
 
 After missiles hit at least 10 Ukrainian cities, President Vladimir V. Putin warned in a televised address that “no one should have any doubt” that Russia will defend itself.
 
@@ -92,7 +81,6 @@ After missiles hit at least 10 Ukrainian cities, President Vladimir V. Putin war
  - [https://www.nytimes.com/2022/10/10/world/europe/india-china-russia-strikes-ukraine.html](https://www.nytimes.com/2022/10/10/world/europe/india-china-russia-strikes-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 14:21:27+00:00
- - tags: None
 
 Two key trading partners of Russia renewed calls for an end to the fighting, though they again did not directly criticize Moscow’s war.
 
@@ -100,7 +88,6 @@ Two key trading partners of Russia renewed calls for an end to the fighting, tho
  - [https://www.nytimes.com/2022/10/10/world/europe/crimea-bridge-russia-ukraine-attack.html](https://www.nytimes.com/2022/10/10/world/europe/crimea-bridge-russia-ukraine-attack.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 14:07:25+00:00
- - tags: None
 
 Ukrainians had been bracing for a severe Russian response after the main bridge linking Russia to Crimea was damaged over the weekend.
 
@@ -108,7 +95,6 @@ Ukrainians had been bracing for a severe Russian response after the main bridge 
  - [https://www.nytimes.com/2022/10/10/world/europe/ukraine-strikes-crimea-bridge-revenge.html](https://www.nytimes.com/2022/10/10/world/europe/ukraine-strikes-crimea-bridge-revenge.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 13:47:55+00:00
- - tags: None
 
 While many pro-Russian commentators have advocated a much tougher approach to the war, their calls grew louder as Russia suffered setbacks in recent weeks.
 
@@ -116,7 +102,6 @@ While many pro-Russian commentators have advocated a much tougher approach to th
  - [https://www.nytimes.com/2022/10/10/world/europe/britains-young-hobbled-by-inflation.html](https://www.nytimes.com/2022/10/10/world/europe/britains-young-hobbled-by-inflation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 13:44:41+00:00
- - tags: None
 
 Sharp price spikes are forcing the country’s young to move back in with family and worry about finances just as many were hoping to move past the pandemic.
 
@@ -124,7 +109,6 @@ Sharp price spikes are forcing the country’s young to move back in with family
  - [https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html](https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 13:44:41+00:00
- - tags: None
 
 Sharp price spikes are forcing the country’s young to move back in with family and worry about finances just as many were hoping to move past the pandemic.
 
@@ -132,7 +116,6 @@ Sharp price spikes are forcing the country’s young to move back in with family
  - [https://www.nytimes.com/2022/10/10/world/europe/russia-attacks-ukraine-reaction.html](https://www.nytimes.com/2022/10/10/world/europe/russia-attacks-ukraine-reaction.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 13:17:59+00:00
- - tags: None
 
 Some younger Russians expressed sadness about the missile strikes in civilian areas, but were not ready to put the blame squarely on the Kremlin.
 
@@ -140,7 +123,6 @@ Some younger Russians expressed sadness about the missile strikes in civilian ar
  - [https://www.nytimes.com/2022/10/10/world/europe/kyiv-strikes-survivors.html](https://www.nytimes.com/2022/10/10/world/europe/kyiv-strikes-survivors.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 10:45:05+00:00
- - tags: None
 
 Yuri and Irina Penza said that they believed Monday’s attacks were revenge for Ukraine’s bombing of the sole bridge linking Russia to Crimea.
 
@@ -148,7 +130,6 @@ Yuri and Irina Penza said that they believed Monday’s attacks were revenge for
  - [https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html](https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 10:02:43+00:00
- - tags: None
 
 The Ukrainians are making gains in the south, an area where Russian soldiers are dug in more securely and where their retreat has been less chaotic than in the north.
 
@@ -156,7 +137,6 @@ The Ukrainians are making gains in the south, an area where Russian soldiers are
  - [https://www.nytimes.com/2022/10/10/world/europe/ukraine-strikes-energy-infrastructure.html](https://www.nytimes.com/2022/10/10/world/europe/ukraine-strikes-energy-infrastructure.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 09:24:45+00:00
- - tags: None
 
 A senior official said it was “unequivocally clear” that Russian strikes had targeted energy facilities in 12 regions across the country.
 
@@ -164,7 +144,6 @@ A senior official said it was “unequivocally clear” that Russian strikes had
  - [https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html](https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 09:00:20+00:00
- - tags: None
 
 As climate change dries out Europe, the Netherlands, a country long shaped by its overabundance of water, is suddenly confronting drought.
 
@@ -172,7 +151,6 @@ As climate change dries out Europe, the Netherlands, a country long shaped by it
  - [https://www.nytimes.com/2022/10/10/world/asia/north-korea-underwater-nuclear-missiles.html](https://www.nytimes.com/2022/10/10/world/asia/north-korea-underwater-nuclear-missiles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 05:46:13+00:00
- - tags: None
 
 The country’s leader, Kim Jong-un, has inspected a recent flurry of missile tests, vowing to increase — and never give up — his nuclear weapons.
 
@@ -180,7 +158,6 @@ The country’s leader, Kim Jong-un, has inspected a recent flurry of missile te
  - [https://www.nytimes.com/2022/10/10/briefing/russia-bridge-rwanda-migrants.html](https://www.nytimes.com/2022/10/10/briefing/russia-bridge-rwanda-migrants.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 05:00:29+00:00
- - tags: None
 
 Repercussions from an attack on the bridge between Crimea and Russia.
 
@@ -188,7 +165,6 @@ Repercussions from an attack on the bridge between Crimea and Russia.
  - [https://www.nytimes.com/2022/10/09/world/europe/russia-putin-nuclear-threat.html](https://www.nytimes.com/2022/10/09/world/europe/russia-putin-nuclear-threat.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 01:59:49+00:00
- - tags: None
 
 Comments from President Biden last week raised the issue for the first time in decades.
 
@@ -196,6 +172,5 @@ Comments from President Biden last week raised the issue for the first time in d
  - [https://www.nytimes.com/2022/10/09/world/americas/venezuela-mudslides.html](https://www.nytimes.com/2022/10/09/world/americas/venezuela-mudslides.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-10 00:35:12+00:00
- - tags: None
 
 The Venezuelan armed forces planned to deploy canines and drones to find missing residents and to deliver food and medicine.

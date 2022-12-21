@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Meta Connect Livestream 2022 - Quest Pro Coming Soon?
  - [https://www.youtube.com/watch?v=sAnuPfyDjJU](https://www.youtube.com/watch?v=sAnuPfyDjJU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-10-11 19:03:02+00:00
- - tags: None
 
 Join me live for the Meta Connect 2022 Keynote! Meta Connect is the yearly event where Meta share their latest innovations in both VR (Virtual Reality) and AR (Augmented Reality). We'll finally get more information on Quest Pro along with new VR games coming soon!
 

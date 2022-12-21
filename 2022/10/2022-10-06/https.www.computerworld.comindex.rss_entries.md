@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Podcast: Eye on Apple Watch
  - [https://www.computerworld.com/article/3675960/podcast-eye-on-apple-watch.html#tk.rss_all](https://www.computerworld.com/article/3675960/podcast-eye-on-apple-watch.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-06 19:46:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3676068/yes-you-can-outsource-hybrid-workplace-disruption.html#tk.rss_all](https://www.computerworld.com/article/3676068/yes-you-can-outsource-hybrid-workplace-disruption.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-06 15:17:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3587752/online-privacy-best-browsers-settings-and-tips.html#tk.rss_all](https://www.computerworld.com/article/3587752/online-privacy-best-browsers-settings-and-tips.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-06 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Blogger’s notebook: File Explorer tabs, Ignite, and Windows 11 22H2
  - [https://www.computerworld.com/article/3675966/bloggers-notebook-file-explorer-tabs-ignite-and-windows-11-22h2.html#tk.rss_all](https://www.computerworld.com/article/3675966/bloggers-notebook-file-explorer-tabs-ignite-and-windows-11-22h2.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-10 17:27:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

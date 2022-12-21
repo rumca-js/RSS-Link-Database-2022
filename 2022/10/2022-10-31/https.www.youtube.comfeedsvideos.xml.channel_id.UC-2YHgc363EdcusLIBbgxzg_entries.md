@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Why Did This Woman's Blood Produce A Toxic Nerve Gas?
  - [https://www.youtube.com/watch?v=KQRqZokrQrI](https://www.youtube.com/watch?v=KQRqZokrQrI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-10-31 14:03:02+00:00
- - tags: None
 
 Get a year of Nebula and Curiosity Stream for only $14.79 when you sign up at http://www.curiositystream.com/joescott
 On February 19, 1994, Gloria Ramirez was wheeled into the emergency room at Riverside Hospital in California. Within minutes, the staff began collapsing to the floor and the hospital was evacuated. What turned this woman's blood into a chemical weapon? It's one of the weirdest medical mysteries of all time.

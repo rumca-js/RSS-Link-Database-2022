@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## The Ballad of Jones & JK Rowling: Accelerationism Personified
  - [https://www.youtube.com/watch?v=GT3KbzbS_oM](https://www.youtube.com/watch?v=GT3KbzbS_oM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-10-17 20:00:07+00:00
- - tags: None
 
 ⭐ Help Support the Documentary "Winter of Discontent"
 https://www.gofundme.com/f/the-winter-of-discontent-documentary

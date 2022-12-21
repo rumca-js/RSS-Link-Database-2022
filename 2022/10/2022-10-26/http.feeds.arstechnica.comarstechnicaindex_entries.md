@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Feds open criminal investigation into Tesla Autopilot claims
  - [https://arstechnica.com/?p=1893177](https://arstechnica.com/?p=1893177)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 23:26:38+00:00
- - tags: None
 
 DoJ prosecutors want to know if Tesla misled customers, investors, regulators.
 
@@ -12,7 +11,6 @@ DoJ prosecutors want to know if Tesla misled customers, investors, regulators.
  - [https://arstechnica.com/?p=1893156](https://arstechnica.com/?p=1893156)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 21:52:05+00:00
- - tags: None
 
 Nearly every COVID death is preventable, Biden stressed Tuesday.
 
@@ -20,7 +18,6 @@ Nearly every COVID death is preventable, Biden stressed Tuesday.
  - [https://arstechnica.com/?p=1893142](https://arstechnica.com/?p=1893142)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 21:29:19+00:00
- - tags: None
 
 Apple's cloud service portal now lets you prioritize the apps you actually use.
 
@@ -28,7 +25,6 @@ Apple's cloud service portal now lets you prioritize the apps you actually use.
  - [https://arstechnica.com/?p=1893073](https://arstechnica.com/?p=1893073)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 21:22:07+00:00
- - tags: None
 
 Apple exec signaled the company isn't happy about it, though.
 
@@ -36,7 +32,6 @@ Apple exec signaled the company isn't happy about it, though.
  - [https://arstechnica.com/?p=1893106](https://arstechnica.com/?p=1893106)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 20:53:42+00:00
- - tags: None
 
 Not for the faint of heart, but it's the only way to run Ventura on old Macs.
 
@@ -44,7 +39,6 @@ Not for the faint of heart, but it's the only way to run Ventura on old Macs.
  - [https://arstechnica.com/?p=1893077](https://arstechnica.com/?p=1893077)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 20:20:49+00:00
- - tags: None
 
 $1,499 doesn't buy you a decent update plan from Microsoft.
 
@@ -52,7 +46,6 @@ $1,499 doesn't buy you a decent update plan from Microsoft.
  - [https://arstechnica.com/?p=1893075](https://arstechnica.com/?p=1893075)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 19:57:39+00:00
- - tags: None
 
 Past warming hints at rising sensitivity to CO<sub>2</sub>, widespread changes in rainfall.
 
@@ -60,7 +53,6 @@ Past warming hints at rising sensitivity to CO<sub>2</sub>, widespread changes i
  - [https://arstechnica.com/?p=1893002](https://arstechnica.com/?p=1893002)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 19:04:32+00:00
- - tags: None
 
 It's easier now to ask Google to remove identifying results—but not guaranteed.
 
@@ -68,7 +60,6 @@ It's easier now to ask Google to remove identifying results—but not guaranteed
  - [https://arstechnica.com/?p=1893051](https://arstechnica.com/?p=1893051)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 18:38:03+00:00
- - tags: None
 
 Wondering if your data got swept up by Raccoon? Here's how to find out.
 
@@ -76,7 +67,6 @@ Wondering if your data got swept up by Raccoon? Here's how to find out.
  - [https://arstechnica.com/?p=1893024](https://arstechnica.com/?p=1893024)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 17:51:42+00:00
- - tags: None
 
 Extra parts from the Mars InSight mission will be used to detect Moonquakes.
 
@@ -84,7 +74,6 @@ Extra parts from the Mars InSight mission will be used to detect Moonquakes.
  - [https://arstechnica.com/?p=1893026](https://arstechnica.com/?p=1893026)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 17:35:02+00:00
- - tags: None
 
 Senate Democrats show no sign of action on one-year anniversary of Sohn nomination.
 
@@ -92,7 +81,6 @@ Senate Democrats show no sign of action on one-year anniversary of Sohn nominati
  - [https://arstechnica.com/?p=1892993](https://arstechnica.com/?p=1892993)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 17:08:55+00:00
- - tags: None
 
 Google shut down a bunch of projects this quarter, and now we see why.
 
@@ -100,7 +88,6 @@ Google shut down a bunch of projects this quarter, and now we see why.
  - [https://arstechnica.com/?p=1892617](https://arstechnica.com/?p=1892617)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 15:30:20+00:00
- - tags: None
 
 Preview: Former Visceral Games devs reach new levels of sci-fi horror brutality.
 
@@ -108,7 +95,6 @@ Preview: Former Visceral Games devs reach new levels of sci-fi horror brutality.
  - [https://arstechnica.com/?p=1892988](https://arstechnica.com/?p=1892988)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 15:15:23+00:00
- - tags: None
 
 Bosch will create 350 new jobs at the site by 2025.
 
@@ -116,7 +102,6 @@ Bosch will create 350 new jobs at the site by 2025.
  - [https://arstechnica.com/?p=1892948](https://arstechnica.com/?p=1892948)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 14:10:12+00:00
- - tags: None
 
 NASA obligated $2.04 billion to SpaceX in fiscal year 2022.
 
@@ -124,7 +109,6 @@ NASA obligated $2.04 billion to SpaceX in fiscal year 2022.
  - [https://arstechnica.com/?p=1892594](https://arstechnica.com/?p=1892594)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 13:30:37+00:00
- - tags: None
 
 Ex-Windows chief reflects on the risks and rewards of taking Windows in a radical new direction.
 
@@ -132,7 +116,6 @@ Ex-Windows chief reflects on the risks and rewards of taking Windows in a radica
  - [https://arstechnica.com/?p=1892954](https://arstechnica.com/?p=1892954)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 13:26:41+00:00
- - tags: None
 
 Musk notifies advisers, equity investors that he intends to finalize takeover by Friday.
 
@@ -140,7 +123,6 @@ Musk notifies advisers, equity investors that he intends to finalize takeover by
  - [https://arstechnica.com/?p=1892586](https://arstechnica.com/?p=1892586)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 12:00:54+00:00
- - tags: None
 
 This year's iPad Pro has even more power. It's nice, but a true upgrade beckons.
 
@@ -148,7 +130,6 @@ This year's iPad Pro has even more power. It's nice, but a true upgrade beckons.
  - [https://arstechnica.com/?p=1892781](https://arstechnica.com/?p=1892781)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 12:00:03+00:00
- - tags: None
 
 Apple’s latest tablet doesn’t quite justify its price compared to other iPads.
 
@@ -156,6 +137,5 @@ Apple’s latest tablet doesn’t quite justify its price compared to other iPad
  - [https://arstechnica.com/?p=1892918](https://arstechnica.com/?p=1892918)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-26 00:08:45+00:00
- - tags: None
 
 Currently, researchers often have to choose between publishing and science.

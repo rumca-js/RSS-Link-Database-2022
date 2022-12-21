@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## Kamala Harris Unveils $5 Billion For Electric School Buses As Nation Sees Largest Learning Decline In Decades
  - [https://www.dailywire.com/news/kamala-harris-unveils-5-billion-for-electric-school-buses-as-nation-sees-largest-learning-decline-in-decades](https://www.dailywire.com/news/kamala-harris-unveils-5-billion-for-electric-school-buses-as-nation-sees-largest-learning-decline-in-decades)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 23:21:36+00:00
- - tags: None
 
 Vice President Kamala Harris is spearheading a White House initiative to electrify the nation’s school buses, the administration announced Wednesday. The project will leverage nearly $1 billion from the Bipartisan Infrastructure Law for rebates awarded to school districts which purchase electric school buses. According to a fact sheet, the Biden administration will eventually spend $5 ...
 
@@ -12,7 +11,6 @@ Vice President Kamala Harris is spearheading a White House initiative to electri
  - [https://www.dailywire.com/news/saudi-crown-prince-mocks-biden-questions-his-fitness-for-office-report](https://www.dailywire.com/news/saudi-crown-prince-mocks-biden-questions-his-fitness-for-office-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 22:28:55+00:00
- - tags: None
 
 Saudi Crown Prince Mohammed bin Salman, the day-to-day leader of Saudi Arabia, reportedly mocks President Joe Biden (D) behind his back and questions his mental fitness for office. The report from The Wall Street Journal comes after The New York Times reported that the kingdom scuttled a secret deal that it had with the Biden ...
 
@@ -20,7 +18,6 @@ Saudi Crown Prince Mohammed bin Salman, the day-to-day leader of Saudi Arabia, r
  - [https://www.dailywire.com/news/number-of-nyc-homeless-students-went-up-last-year-to-over-104000](https://www.dailywire.com/news/number-of-nyc-homeless-students-went-up-last-year-to-over-104000)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 21:56:38+00:00
- - tags: None
 
 The number of New York City students who are homeless went up last year, adding to the city’s problems with homelessness and housing. New data distributed on Wednesday showed that over 104,000 students in New York City’s public school system were homeless over the last school year. The overall number of students enrolling in public ...
 
@@ -28,7 +25,6 @@ The number of New York City students who are homeless went up last year, adding 
  - [https://www.dailywire.com/news/democrat-senator-bob-menendez-under-federal-criminal-investigation-again-report](https://www.dailywire.com/news/democrat-senator-bob-menendez-under-federal-criminal-investigation-again-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 21:47:14+00:00
- - tags: None
 
 Sen. Robert Menendez (D-NY), chairman of the Senate Foreign Relations Committee, is reportedly under federal criminal investigation again just a few years after standing trial on corruption charges. The details of what the investigation centers around are not clear, but attorney Antranig Aslanian Jr, who knows Menendez, was subpoenaed by the Southern District of New ...
 
@@ -36,7 +32,6 @@ Sen. Robert Menendez (D-NY), chairman of the Senate Foreign Relations Committee,
  - [https://www.dailywire.com/news/mayra-flores-the-first-mexican-born-congresswoman-responds-after-rejection-from-hispanic-caucus](https://www.dailywire.com/news/mayra-flores-the-first-mexican-born-congresswoman-responds-after-rejection-from-hispanic-caucus)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 21:41:12+00:00
- - tags: None
 
 Rep. Mayra Flores (R-TX) on Wednesday blasted Democrats&#8216; &#8220;bias toward conservative Latinas&#8221; after it was reported that Flores, the first Mexican-born woman ever elected to Congress, was denied acceptance to the Congressional Hispanic Caucus (CHC) because she&#8217;s a Republican. The CHC confirmed to the Texas Tribune that Flores was denied entry because she&#8217;s a Republican, ...
 
@@ -44,7 +39,6 @@ Rep. Mayra Flores (R-TX) on Wednesday blasted Democrats&#8216; &#8220;bias towar
  - [https://www.dailywire.com/news/biden-admin-claimed-trip-to-saudi-arabia-wasnt-about-oil-new-report-suggests-they-lied](https://www.dailywire.com/news/biden-admin-claimed-trip-to-saudi-arabia-wasnt-about-oil-new-report-suggests-they-lied)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 21:21:05+00:00
- - tags: None
 
 President Joe Biden&#8217;s (D) administration has repeatedly claimed, including as recently as today, that the trip the president took to Saudi Arabia over the summer had nothing to do with oil. However, a new report from The New York Times outlined a &#8220;secret deal&#8221; that the administration had with the kingdom, which Saudi Arabia later ...
 
@@ -52,7 +46,6 @@ President Joe Biden&#8217;s (D) administration has repeatedly claimed, including
  - [https://www.dailywire.com/news/new-dailywire-show-marriage-debuts-from-dr-jordan-peterson](https://www.dailywire.com/news/new-dailywire-show-marriage-debuts-from-dr-jordan-peterson)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 20:18:35+00:00
- - tags: None
 
 It was announced on Wednesday during The Daily Wire&#8217;s &#8220;Backstage&#8221; program that Dr. Jordan Peterson’s limited series special &#8220;Marriage&#8221; began tonight on DailyWire+. The holistic three-part series prepares married couples to better understand, appreciate, and strengthen their union and achieve the ultimate goal: the perfect date that repeats endlessly. Peterson uses decades of clinical experience ...
 
@@ -60,7 +53,6 @@ It was announced on Wednesday during The Daily Wire&#8217;s &#8220;Backstage&#82
  - [https://www.dailywire.com/news/dems-pour-millions-into-washington-senate-race-as-republican-challenger-tiffany-smiley-gains-momentum](https://www.dailywire.com/news/dems-pour-millions-into-washington-senate-race-as-republican-challenger-tiffany-smiley-gains-momentum)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 20:14:46+00:00
- - tags: None
 
 Democrats have poured millions of dollars into the Washington Senate race, a deep-blue state that recent polls suggest Republicans may take back the seat that a GOP member hasn&#8217;t occupied since 2001. Sen. Pat Murray, the state&#8217;s Democrat leader seeking a sixth term, has been campaigning against political newcomer Republican Tiffany Smiley. The Seattle Times ...
 
@@ -68,7 +60,6 @@ Democrats have poured millions of dollars into the Washington Senate race, a dee
  - [https://www.dailywire.com/news/the-anti-war-left-is-dead-and-gone-if-it-ever-even-existed](https://www.dailywire.com/news/the-anti-war-left-is-dead-and-gone-if-it-ever-even-existed)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 19:26:22+00:00
- - tags: None
 
 It&#8217;s not complex. The driving force behind the Left&#8217;s political agenda is a hatred of Republicans, as well as a lust for power. For example, consider the long-forgotten anti-war progressives. Do you remember those crazy anti-war demonstrations during the Bush years? Thousands of hippies and gray-haired women and men in black jeans demonstrated in the ...
 
@@ -76,7 +67,6 @@ It&#8217;s not complex. The driving force behind the Left&#8217;s political agen
  - [https://www.dailywire.com/news/actress-says-she-basically-threw-a-wedding-for-myself-to-mark-birthday-milestone](https://www.dailywire.com/news/actress-says-she-basically-threw-a-wedding-for-myself-to-mark-birthday-milestone)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 19:21:43+00:00
- - tags: None
 
 Actress Jennifer Garner won’t allow aging to get her down, recently admitting that she celebrated her recent birthday milestone of turning 50 by basically throwing a wedding for herself. In a wide-ranging interview, the 50-year-old actress talked about dealing with aging in Hollywood and said that she ended up throwing herself a spring wedding to ...
 
@@ -84,7 +74,6 @@ Actress Jennifer Garner won’t allow aging to get her down, recently admitting 
  - [https://www.dailywire.com/news/hes-tired-of-the-misgendering-ex-real-housewife-an-open-christian-debuts-14-year-old-transgender-son](https://www.dailywire.com/news/hes-tired-of-the-misgendering-ex-real-housewife-an-open-christian-debuts-14-year-old-transgender-son)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 19:01:59+00:00
- - tags: None
 
 Former &#8220;Real Housewives of Orange County&#8221; star Alexis Bellino recently promoted on social media the &#8220;transition&#8221; of her 14-year-old daughter, whom the reality star said is now &#8220;out&#8221; as &#8220;transgender&#8221; and &#8220;tired of being misgendered.&#8221; Bellino notably touted her Christianity during her time on the Bravo reality show, and as recently as 2019, ridiculed what ...
 
@@ -92,7 +81,6 @@ Former &#8220;Real Housewives of Orange County&#8221; star Alexis Bellino recent
  - [https://www.dailywire.com/news/katy-perry-sparks-robot-comparisons-after-video-surfaces-of-bizarre-eye-glitch](https://www.dailywire.com/news/katy-perry-sparks-robot-comparisons-after-video-surfaces-of-bizarre-eye-glitch)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:32:45+00:00
- - tags: None
 
 Katy Perry is being compared to a robot after a video surfaced from her latest appearance on stage where she suffered from a bizarre eye glitch. In the clip that surfaced recently on social media, the 38-year-old singer stands on stage getting ready to perform ahead of her residency in Las Vegas, according to Page Six. ...
 
@@ -100,7 +88,6 @@ Katy Perry is being compared to a robot after a video surfaced from her latest 
  - [https://www.dailywire.com/news/second-railroad-union-rejects-biden-admins-labor-deal-increasing-the-threat-of-a-nationwide-strike](https://www.dailywire.com/news/second-railroad-union-rejects-biden-admins-labor-deal-increasing-the-threat-of-a-nationwide-strike)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:30:47+00:00
- - tags: None
 
 A second railroad union rejected the labor deal negotiated by the Biden administration, increasing the chances of a nationwide rail strike. The Brotherhood of Railroad Signalmen (BRS) voted overwhelmingly to reject the labor deal in a vote, the union said in a statement Wednesday. The union represents more than 6,000 railroad workers, and is the ...
 
@@ -108,7 +95,6 @@ A second railroad union rejected the labor deal negotiated by the Biden administ
  - [https://www.dailywire.com/news/rich-kid-problems-and-leaving-your-children-an-inheritance](https://www.dailywire.com/news/rich-kid-problems-and-leaving-your-children-an-inheritance)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:27:21+00:00
- - tags: None
 
 Question of the Day: Should you leave your children an inheritance? You guys know my story. I didn&#8217;t come from anything. But now that I&#8217;m raising children, I get worried that I am spoiling them and they won’t learn to appreciate hard work. They need to have a little bit of struggle to understand how ...
 
@@ -116,7 +102,6 @@ Question of the Day: Should you leave your children an inheritance? You guys kno
  - [https://www.dailywire.com/news/biden-suggests-people-of-color-cant-afford-or-dont-know-how-to-choose-airplane-seats-with-more-legroom](https://www.dailywire.com/news/biden-suggests-people-of-color-cant-afford-or-dont-know-how-to-choose-airplane-seats-with-more-legroom)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:15:23+00:00
- - tags: None
 
 President Joe Biden appeared to suggest on Wednesday that airlines were engaging in racial discrimination when they charged a premium for seats with more legroom, saying that &#8220;people of color&#8221; were most impacted by the additional fees. The president was addressing what he referred to as &#8220;junk fees&#8221; — from concert ticket &#8220;processing fees&#8221; and ...
 
@@ -124,7 +109,6 @@ President Joe Biden appeared to suggest on Wednesday that airlines were engaging
  - [https://www.dailywire.com/news/scientists-covid-restrictions-caused-immunity-gap-leading-to-virus-uptick-in-children](https://www.dailywire.com/news/scientists-covid-restrictions-caused-immunity-gap-leading-to-virus-uptick-in-children)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:06:39+00:00
- - tags: None
 
 Cases of respiratory syncytial virus (RSV) and other viruses are rising across the nation, and scientists are now saying the uptick is due to measures put in place during the pandemic that restricted immune development. The phenomenon is called an “immunity gap,” and essentially happened when restrictions and practices that were common during the pandemic ...
 
@@ -132,7 +116,6 @@ Cases of respiratory syncytial virus (RSV) and other viruses are rising across t
  - [https://www.dailywire.com/news/amy-schumer-labels-dr-oz-a-bully-throws-support-behind-fetterman-after-his-incoherent-debate](https://www.dailywire.com/news/amy-schumer-labels-dr-oz-a-bully-throws-support-behind-fetterman-after-his-incoherent-debate)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:05:01+00:00
- - tags: None
 
 Amy Schumer labeled Republican Dr. Mehmet Oz a &#8220;bully&#8221; as she threw support behind Democratic Pennsylvania senatorial candidate John Fetterman following his incoherent debate Tuesday night. The 41-year-old comedian, who lives in Manhattan, took to her Instagram on Wednesday to share a post that declared that Fetterman has the state&#8217;s &#8220;best interest at heart&#8221; as ...
 
@@ -140,7 +123,6 @@ Amy Schumer labeled Republican Dr. Mehmet Oz a &#8220;bully&#8221; as she threw 
  - [https://www.dailywire.com/news/tmz-falsely-reports-death-of-rock-n-roll-legend-jerry-lee-lewis-singer-of-great-balls-of-fire](https://www.dailywire.com/news/tmz-falsely-reports-death-of-rock-n-roll-legend-jerry-lee-lewis-singer-of-great-balls-of-fire)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:58:08+00:00
- - tags: None
 
 TMZ falsely reported Wednesday afternoon that rock &#8216;n&#8217; roll music icon Jerry Lee Lewis, singer of &#8220;Great Balls of Fire&#8221;, died at his home in Memphis, Tennessee. Lewis, 87, is a legendary piano player known for delivering electrifying performances, where he would sometimes play with his feet. &#8220;Jerry Lee Lewis is not dead &#8230; as ...
 
@@ -148,7 +130,6 @@ TMZ falsely reported Wednesday afternoon that rock &#8216;n&#8217; roll music ic
  - [https://www.dailywire.com/news/bidens-aides-scream-at-reporters-as-president-mocks-them-while-refusing-to-answer-their-questions](https://www.dailywire.com/news/bidens-aides-scream-at-reporters-as-president-mocks-them-while-refusing-to-answer-their-questions)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:53:34+00:00
- - tags: None
 
 The aides for President Joe Biden (D) screamed at reporters Wednesday afternoon to prevent them from being able to ask the president questions as the president looked on and mocked them. The questions come as Democrat candidates across the country had rough debate performances Tuesday evening with Pennsylvania Lt. Governor John Fetterman&#8217;s (D) disastrous performance ...
 
@@ -156,7 +137,6 @@ The aides for President Joe Biden (D) screamed at reporters Wednesday afternoon 
  - [https://www.dailywire.com/news/time-for-him-to-go-bidens-iran-envoy-harshly-criticized-for-weak-support-of-protests](https://www.dailywire.com/news/time-for-him-to-go-bidens-iran-envoy-harshly-criticized-for-weak-support-of-protests)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:49:45+00:00
- - tags: None
 
 President Biden’s Special envoy for Iran, Robert Malley, whose anti-Israel, pro-Iranian perspective has colored his career, is coming under fire because of his tepid response as Iranian protesters target the despotic, theocratic Iranian government. Malley’s avoidance of condemning the Iranian regime’s violent oppression of the Iranian people fits with his prior history, and it appears ...
 
@@ -164,7 +144,6 @@ President Biden’s Special envoy for Iran, Robert Malley, whose anti-Israel, pr
  - [https://www.dailywire.com/news/germany-issues-plans-to-become-second-eu-country-to-legalize-recreational-marijuana-use](https://www.dailywire.com/news/germany-issues-plans-to-become-second-eu-country-to-legalize-recreational-marijuana-use)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:35:30+00:00
- - tags: None
 
 Germany is set to legalize cannabis for recreational use, making it one of the only European Union nations to do so, while 19 states in the U.S. have taken similar action. On Wednesday, Health Minister Karl Lauterbach introduced a document regarding plans for a measure on the subject. The legislation would create regulations for the ...
 
@@ -172,7 +151,6 @@ Germany is set to legalize cannabis for recreational use, making it one of the o
  - [https://www.dailywire.com/news/its-totally-fine-ben-shapiro-exposes-medias-morphing-narrative-on-stroke-addled-fetterman](https://www.dailywire.com/news/its-totally-fine-ben-shapiro-exposes-medias-morphing-narrative-on-stroke-addled-fetterman)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:32:49+00:00
- - tags: None
 
 Ben Shapiro retraced the media’s ever-morphing reaction to Pennsylvania Senate candidate John Fetterman Wednesday, following the ailing Democrat’s disastrous debate performance the previous night. Shapiro told listeners to his popular podcast and radio show the Keystone State candidate, who suffered a stroke in May, has been protected by a sympathetic media. But after the hulking ...
 
@@ -180,7 +158,6 @@ Ben Shapiro retraced the media’s ever-morphing reaction to Pennsylvania Senate
  - [https://www.dailywire.com/news/spat-between-verizon-and-tv-company-presented-obstacle-for-philadelphians-tuning-into-only-senate-debate](https://www.dailywire.com/news/spat-between-verizon-and-tv-company-presented-obstacle-for-philadelphians-tuning-into-only-senate-debate)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:18:54+00:00
- - tags: None
 
 Some residents of Philadelphia may have been unable to view the only Pennsylvania Senate debate between Democratic Lt. Governor John Fetterman and Republican Dr. Mehmet Oz. Fetterman, who suffered a stroke days before the primary elections, faltered and provided choppy responses throughout the hour-long contest due to the stroke he experienced earlier this year as ...
 
@@ -188,7 +165,6 @@ Some residents of Philadelphia may have been unable to view the only Pennsylvani
  - [https://www.dailywire.com/news/chief-twit-elon-musk-arrives-at-twitters-headquarters-let-that-sink-in](https://www.dailywire.com/news/chief-twit-elon-musk-arrives-at-twitters-headquarters-let-that-sink-in)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 17:05:29+00:00
- - tags: None
 
 Elon Musk kicked off his imminent takeover of Twitter by bringing a sink into the company&#8217;s headquarters Wednesday afternoon as he visited the offices. Musk&#8217;s visit to the company&#8217;s headquarters comes as he is expected to meet with employees before his acquisition of the company is finalized by the end of the week. &#8220;Entering Twitter ...
 
@@ -196,7 +172,6 @@ Elon Musk kicked off his imminent takeover of Twitter by bringing a sink into th
  - [https://www.dailywire.com/news/detransitioner-met-with-vitriol-by-transgender-activists-shares-her-story](https://www.dailywire.com/news/detransitioner-met-with-vitriol-by-transgender-activists-shares-her-story)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 16:50:33+00:00
- - tags: None
 
 A young woman who formerly identified as transgender went viral on Twitter earlier this month for describing the negative effects she experienced using testosterone. Now, she says a weight has been lifted since deciding to detransition. KC Miller, 21, adopted a transgender identity at 16 and began taking testosterone after being referred to a local ...
 
@@ -204,7 +179,6 @@ A young woman who formerly identified as transgender went viral on Twitter earli
  - [https://www.dailywire.com/news/unqualified-white-people-feel-empowered-to-apply-for-jobs-school-superintendent-says](https://www.dailywire.com/news/unqualified-white-people-feel-empowered-to-apply-for-jobs-school-superintendent-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 16:32:38+00:00
- - tags: None
 
 A Maine school superintendent wrote in an email reviewed by The Daily Wire that unqualified white people feel &#8220;empowered&#8221; to apply for jobs they&#8217;re not qualified to do. Heather Perry, superintendent of Maine&#8217;s Gorham School District, wrote in the April email that white applicants who are &#8220;not fully certified&#8221; seek positions in the school district out ...
 
@@ -212,7 +186,6 @@ A Maine school superintendent wrote in an email reviewed by The Daily Wire that 
  - [https://www.dailywire.com/news/mortgage-rates-jump-to-highest-level-since-2001](https://www.dailywire.com/news/mortgage-rates-jump-to-highest-level-since-2001)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 16:19:26+00:00
- - tags: None
 
 Mortgage rates reached their highest levels since 2001, according to data released on Wednesday by the Mortgage Bankers Association. The 30-year fixed rate mortgage rose for the tenth consecutive week, reaching 7.16% as purchase applications fell. The increase occurs after the Federal Reserve thrice increased the target federal funds rate by 0.75% increments, marking the ...
 
@@ -220,7 +193,6 @@ Mortgage rates reached their highest levels since 2001, according to data releas
  - [https://www.dailywire.com/news/dunderheaded-democrats-have-completely-forgotten-its-the-economy-stupid](https://www.dailywire.com/news/dunderheaded-democrats-have-completely-forgotten-its-the-economy-stupid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 15:48:46+00:00
- - tags: None
 
 Abortion, abortion, abortion. That&#8217;s all the Democrats are talking about in the waning days of the 2022 midterm campaigns. But if they&#8217;re paying attention to the polls, they&#8217;ll realize that the 1992 presidential campaign motto of Bill Clinton rings true now more than ever: &#8220;It&#8217;s the economy, stupid.&#8221; CLICK HERE TO WATCH ELECTION WIRE FOR ...
 
@@ -228,7 +200,6 @@ Abortion, abortion, abortion. That&#8217;s all the Democrats are talking about i
  - [https://www.dailywire.com/news/hassan-warns-its-a-close-race-against-bolduc-for-new-hampshire-senate-seat](https://www.dailywire.com/news/hassan-warns-its-a-close-race-against-bolduc-for-new-hampshire-senate-seat)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 15:41:16+00:00
- - tags: None
 
 Sen. Maggie Hassan (D-NH) suggested Monday that she does not believe she is a shoo-in for a second Senate term. At a campaign event in Derry, New Hampshire, Hassan warned Granite Staters that it is a tight contest between her and Republican Don Bolduc. “This has always been a close race,” Hassan said. “It’s going to ...
 
@@ -236,7 +207,6 @@ Sen. Maggie Hassan (D-NH) suggested Monday that she does not believe she is a sh
  - [https://www.dailywire.com/news/report-u-s-claims-seagate-violated-export-regulations-to-ship-product-to-chinese-company](https://www.dailywire.com/news/report-u-s-claims-seagate-violated-export-regulations-to-ship-product-to-chinese-company)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 15:18:21+00:00
- - tags: None
 
 The United States alerted Seagate Technology Holdings that it may have broken the law by selling hard drive disks to a blacklisted Chinese company, according to a new report.  A source informed Reuters that the company at issue is Huawei. It is on the U.S. Commerce Department’s Entity List and is prohibited from purchasing exports ...
 
@@ -244,7 +214,6 @@ The United States alerted Seagate Technology Holdings that it may have broken th
  - [https://www.dailywire.com/news/no-more-neutral-site-college-football-games-college-towns-are-built-for-college-football](https://www.dailywire.com/news/no-more-neutral-site-college-football-games-college-towns-are-built-for-college-football)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 15:08:07+00:00
- - tags: None
 
 One of the things that makes the college game different from the NFL is that most of the college teams are located in smaller towns or cities and there’s a more local feel to the program. That’s why, when I see teams like the University of Florida and The Georgia Bulldogs playing in Jacksonville, or ...
 
@@ -252,7 +221,6 @@ One of the things that makes the college game different from the NFL is that mos
  - [https://www.dailywire.com/news/midterm-exam-dont-sleep-on-the-potential-gubernatorial-red-wave](https://www.dailywire.com/news/midterm-exam-dont-sleep-on-the-potential-gubernatorial-red-wave)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 15:05:45+00:00
- - tags: None
 
 Last week, we discussed the likelihood that the governor&#8217;s office in Oregon, Nevada, and even New York could all possibly flip from blue to red. Since then, gubernatorial polls have also tightened in states like New Mexico, Michigan, Wisconsin, and Kansas. New Mexico  According to a new survey from Trafalgar Polling, Republican candidate Mark Ronchetti ...
 
@@ -260,7 +228,6 @@ Last week, we discussed the likelihood that the governor&#8217;s office in Orego
  - [https://www.dailywire.com/news/interest-groups-make-push-to-battle-organized-retail-crime-at-the-federal-level](https://www.dailywire.com/news/interest-groups-make-push-to-battle-organized-retail-crime-at-the-federal-level)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:59:32+00:00
- - tags: None
 
 A number of interest groups launched efforts on Wednesday to encourage a crackdown on organized retail crime at the federal level. Thefts executed by packs of robbers have garnered public attention during the crime wave of the past two years, with some retailers and convenience chains spending millions on new security measures or closing locations ...
 
@@ -268,7 +235,6 @@ A number of interest groups launched efforts on Wednesday to encourage a crackdo
  - [https://www.dailywire.com/news/nyc-activist-group-that-used-children-to-attack-moderate-parents-turns-on-its-adult-boss-for-being-white](https://www.dailywire.com/news/nyc-activist-group-that-used-children-to-attack-moderate-parents-turns-on-its-adult-boss-for-being-white)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:46:24+00:00
- - tags: None
 
 Teens Take Charge, a New York City far-left activist group that used children to hurl accusations of racism against parents who wanted to keep schools open and nearly succeeded in ending the city&#8217;s tradition of rigorous merit-based magnet schools, apologized Tuesday for harming children, and said the group itself was racist.
 
@@ -276,7 +242,6 @@ Teens Take Charge, a New York City far-left activist group that used children to
  - [https://www.dailywire.com/news/prominent-title-ix-consultant-accused-of-financial-fraud-in-lawsuit-filed-by-former-employee](https://www.dailywire.com/news/prominent-title-ix-consultant-accused-of-financial-fraud-in-lawsuit-filed-by-former-employee)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:38:16+00:00
- - tags: None
 
 A man who made millions consulting with schools on how to implement Title IX policies has been accused of financial fraud by a former employee. Brett A. Sokolow, president of the Association of Title IX Administrators (ATIXA) and founder and chair of the board at TNG, is being sued by a former executive for allegedly ...
 
@@ -284,7 +249,6 @@ A man who made millions consulting with schools on how to implement Title IX pol
  - [https://www.dailywire.com/news/thats-horrifying-republican-host-recoils-when-sunny-hostin-blows-off-lee-zeldin-assassination-attempt](https://www.dailywire.com/news/thats-horrifying-republican-host-recoils-when-sunny-hostin-blows-off-lee-zeldin-assassination-attempt)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:30:04+00:00
- - tags: None
 
 Alyssa Farah Griffin visibly recoiled on Wednesday when her liberal co-host Sunny Hostin appeared to blow off the attempted assassination of Republican New York gubernatorial candidate Lee Zeldin. Griffin, a Republican who was hired to replace former co-host Meghan McCain on ABC&#8217;s midday talk show &#8220;The View,&#8221; was clearly taken aback when Hostin explained away ...
 
@@ -292,7 +256,6 @@ Alyssa Farah Griffin visibly recoiled on Wednesday when her liberal co-host Sunn
  - [https://www.dailywire.com/news/red-states-dominate-blue-states-for-affordable-living-reports](https://www.dailywire.com/news/red-states-dominate-blue-states-for-affordable-living-reports)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:24:40+00:00
- - tags: None
 
 Red states seem to have a huge edge over blue states when it comes to affordable living, as various reports suggest. According to the Wall Street Journal/Realtor.com Emerging Housing Markets Index, nine of the top ten most affordable cities in the United States are located in red states. As if that weren’t enough, 18 of ...
 
@@ -300,7 +263,6 @@ Red states seem to have a huge edge over blue states when it comes to affordable
  - [https://www.dailywire.com/news/spains-medical-societies-revolt-against-proposed-transgender-law](https://www.dailywire.com/news/spains-medical-societies-revolt-against-proposed-transgender-law)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:12:31+00:00
- - tags: None
 
 Leading medical institutions in Spain are speaking out against the newly proposed &#8220;Trans Law&#8221; that would allow minors to self-declare as transgender and access irreversible medical transition procedures. Bernard Lane, a Sydney-based independent journalist, recently published two stories on his Substack, Gender Clinic News, about Spain waking up to &#8220;gender contagion&#8221; and the medical experts ...
 
@@ -308,7 +270,6 @@ Leading medical institutions in Spain are speaking out against the newly propose
  - [https://www.dailywire.com/news/justice-alito-says-leaked-draft-opinion-overruling-roe-v-wade-made-majority-targets-for-assassination](https://www.dailywire.com/news/justice-alito-says-leaked-draft-opinion-overruling-roe-v-wade-made-majority-targets-for-assassination)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:07:32+00:00
- - tags: None
 
 Supreme Court Justice Samuel Alito said Tuesday during a Heritage Foundation event that the initial leaked draft majority opinion to strike down the landmark Roe v. Wade decision put some justices&#8217; lives in danger. &#8220;The leak also made those of us who were thought to be in the majority in support of overruling Roe and ...
 
@@ -316,7 +277,6 @@ Supreme Court Justice Samuel Alito said Tuesday during a Heritage Foundation eve
  - [https://www.dailywire.com/news/craven-teddy-kennedy-wanted-to-say-mary-jo-kopechne-was-driving-at-chappaquiddick-book-says](https://www.dailywire.com/news/craven-teddy-kennedy-wanted-to-say-mary-jo-kopechne-was-driving-at-chappaquiddick-book-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 14:05:21+00:00
- - tags: None
 
 A new book alleges that after Ted Kennedy left his car and his passenger, Mary Jo Kopechne, in a pond off of Chappaquiddick Island, where Kopechne drowned, he returned to the party they had attended and told his close friends he wanted to say Kopechne was driving the car. Former Boston Globe journalist John Farrell’s ...
 
@@ -324,7 +284,6 @@ A new book alleges that after Ted Kennedy left his car and his passenger, Mary J
  - [https://www.dailywire.com/news/burn-in-hell-you-piece-of-s-person-in-court-room-erupts-at-convicted-waukesha-murderer](https://www.dailywire.com/news/burn-in-hell-you-piece-of-s-person-in-court-room-erupts-at-convicted-waukesha-murderer)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 13:44:54+00:00
- - tags: None
 
 A person in the courtroom where a Wisconsin man was convicted for ramming his vehicle into a Christmas parade last year was thrown out of court on Wednesday after he shouted at the now-convicted murderer as the verdicts were read. The killer, who The Daily Wire is not naming due to company policy about not ...
 
@@ -332,7 +291,6 @@ A person in the courtroom where a Wisconsin man was convicted for ramming his ve
  - [https://www.dailywire.com/news/number-of-disabled-workers-in-the-job-market-soars-by-nearly-1-million-since-early-2020](https://www.dailywire.com/news/number-of-disabled-workers-in-the-job-market-soars-by-nearly-1-million-since-early-2020)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 13:37:25+00:00
- - tags: None
 
 Nearly 1 million more disabled workers are in the job market than during the early days of 2020, according to an analysis released last week by the Federal Reserve Bank of New York. Self-reported disability data from the Census Bureau shows that there are cumulatively 1.7 million more working-age adults claiming to have a disability ...
 
@@ -340,7 +298,6 @@ Nearly 1 million more disabled workers are in the job market than during the ear
  - [https://www.dailywire.com/news/bolsonaro-tells-ben-shapiro-why-his-battle-to-save-brazil-from-socialist-clutches-is-americas-fight-too](https://www.dailywire.com/news/bolsonaro-tells-ben-shapiro-why-his-battle-to-save-brazil-from-socialist-clutches-is-americas-fight-too)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 13:17:17+00:00
- - tags: None
 
 Brazilian President Jair Bolsonaro told Daily Wire host Ben Shapiro his country is at a crossroads in the upcoming election, and faces the danger of falling into the same pattern of socialist corruption that engulfs many South and Central American nations. The conservative former army captain, who is often likened to former U.S. President Donald Trump, ...
 
@@ -348,7 +305,6 @@ Brazilian President Jair Bolsonaro told Daily Wire host Ben Shapiro his country
  - [https://www.dailywire.com/news/talking-heads-claim-dr-oz-was-bullying-fetterman-its-so-un-empathetic](https://www.dailywire.com/news/talking-heads-claim-dr-oz-was-bullying-fetterman-its-so-un-empathetic)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 13:01:40+00:00
- - tags: None
 
 Joy Behar and Sunny Hostin joined a number of liberal journalists who claimed that Pennsylvania Senate candidate Dr. Mehmet Oz (R) was &#8220;bullying&#8221; Democrat John Fetterman during their televised debate on Tuesday evening. Behar and Hostin joined their co-hosts on ABC&#8217;s midday talk show &#8220;The View&#8221; to recap the Pennsylvania Senate debate, and they both ...
 
@@ -356,7 +312,6 @@ Joy Behar and Sunny Hostin joined a number of liberal journalists who claimed th
  - [https://www.dailywire.com/news/chronicles-of-narnia-actress-recalls-almost-losing-limb-to-rare-flesh-eating-bacteria](https://www.dailywire.com/news/chronicles-of-narnia-actress-recalls-almost-losing-limb-to-rare-flesh-eating-bacteria)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 12:52:19+00:00
- - tags: None
 
 “Chronicles of Narnia” actress Georgie Henley took to social media to explain the scarring on her arm, telling fans that she almost lost her limb after developing a rare flesh-eating bacteria infection. The 27-year-old actress shared the story on her Instagram account earlier this week. “When I was eighteen years old and in my sixth ...
 
@@ -364,7 +319,6 @@ Joy Behar and Sunny Hostin joined a number of liberal journalists who claimed th
  - [https://www.dailywire.com/news/rudolph-the-red-nosed-reindeer-frosty-the-snowman-producer-jules-bass-dies-at-87](https://www.dailywire.com/news/rudolph-the-red-nosed-reindeer-frosty-the-snowman-producer-jules-bass-dies-at-87)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 12:41:31+00:00
- - tags: None
 
 Jules Bass, known as the producer and director of &#8220;Rudolph the Red-Nosed Reindeer&#8221; and &#8220;Frosty the Snowman,&#8221; died on Tuesday at the age of 87. His publicist Jennifer Fisherman-Ruff confirmed the death of Bass at an assisted living facility in Rye, New York, according to The Hollywood Reporter. Bass, who also produced &#8220;Santa Claus Is ...
 
@@ -372,7 +326,6 @@ Jules Bass, known as the producer and director of &#8220;Rudolph the Red-Nosed R
  - [https://www.dailywire.com/news/fettermans-wife-slammed-after-debate-as-calls-grow-for-apologies-to-be-made-to-nbc-reporter](https://www.dailywire.com/news/fettermans-wife-slammed-after-debate-as-calls-grow-for-apologies-to-be-made-to-nbc-reporter)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 12:39:05+00:00
- - tags: None
 
 Pennsylvania U.S. Senate candidate John Fetterman&#8217;s (D) wife faced backlash Tuesday night following her husband&#8217;s widely criticized debate performance. Fetterman has faced scrutiny over his fitness for office after he suffered a stroke earlier this year. He has demonstrated that he sometimes struggles to understand words and has difficulty speaking, often needing conversations transcribed to ...
 
@@ -380,7 +333,6 @@ Pennsylvania U.S. Senate candidate John Fetterman&#8217;s (D) wife faced backlas
  - [https://www.dailywire.com/news/zeldin-attacks-hochul-for-supporting-cashless-bail](https://www.dailywire.com/news/zeldin-attacks-hochul-for-supporting-cashless-bail)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 12:37:39+00:00
- - tags: None
 
 In the midst of a crime wave engulfing New York City, New York GOP gubernatorial candidate Lee Zeldin focused on bail reform in the state as he consistently attacked New York Democrat Governor Kathy Hochul for supporting it. Early in the debate, Zeldin attacked Hochul’s erstwhile support for cashless bail, saying, “Kathy Hochul supports cashless ...
 
@@ -388,7 +340,6 @@ In the midst of a crime wave engulfing New York City, New York GOP gubernatorial
  - [https://www.dailywire.com/news/birth-as-a-battlefield-how-house-of-the-dragon-turned-childbirth-and-motherhood-into-death-sentences](https://www.dailywire.com/news/birth-as-a-battlefield-how-house-of-the-dragon-turned-childbirth-and-motherhood-into-death-sentences)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 12:10:02+00:00
- - tags: None
 
 The most shocking thing about the most graphic birth scene on HBO’s “Game of Thrones” prequel series, “House of the Dragon,” is that it wasn’t shocking at all. Showrunners have spent the entire first season of the drama vilifying motherhood and making childbirth a bloody, torturous affair that frequently ended in death. It’s not that ...
 
@@ -396,7 +347,6 @@ The most shocking thing about the most graphic birth scene on HBO’s “Game of
  - [https://www.dailywire.com/news/fetterman-raises-1-million-in-three-hours-after-train-wreck-debate-with-oz-campaign-says](https://www.dailywire.com/news/fetterman-raises-1-million-in-three-hours-after-train-wreck-debate-with-oz-campaign-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 11:52:21+00:00
- - tags: None
 
 The campaign behind Pennsylvania Lt. Governor and Democratic Senate candidate John Fetterman claimed it raised $1 million in three hours following his disastrous debate performance against Republican rival Dr. Mehmet Oz. Fetterman, who suffered a stroke days before the primary elections, faltered and provided choppy responses as Oz, a veteran television host, aggressively pressed his ...
 
@@ -404,7 +354,6 @@ The campaign behind Pennsylvania Lt. Governor and Democratic Senate candidate Jo
  - [https://www.dailywire.com/news/neurologist-who-watched-fetterman-debate-casts-doubt-on-prospect-for-further-recovery](https://www.dailywire.com/news/neurologist-who-watched-fetterman-debate-casts-doubt-on-prospect-for-further-recovery)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 11:46:12+00:00
- - tags: None
 
 Pennsylvania Democratic senatorial candidate John Fetterman&#8216;s disastrous debate performance Tuesday night came despite experiencing most of the improvement he is likely to see following a stroke in May, according to one neurologist. Clues to the current Keystone State lieutenant governor&#8217;s cognitive problems had arisen before he squared off against Republican Dr. Mehmet Oz in their ...
 
@@ -412,7 +361,6 @@ Pennsylvania Democratic senatorial candidate John Fetterman&#8216;s disastrous d
  - [https://www.dailywire.com/news/jury-reaches-verdict-in-waukesha-christmas-parade-suspect-trial](https://www.dailywire.com/news/jury-reaches-verdict-in-waukesha-christmas-parade-suspect-trial)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 11:45:10+00:00
- - tags: None
 
 A jury has found a Wisconsin man guilty of ramming his vehicle into the crowd at the Waukesha Christmas parade in Wisconsin on November 21, 2021. The defendant, who will not be named per Daily Wire policy, was found guilty on all 76 charges related to the attack that killed six and injured 62 more. ...
 
@@ -420,7 +368,6 @@ A jury has found a Wisconsin man guilty of ramming his vehicle into the crowd at
  - [https://www.dailywire.com/news/hochul-wiggles-on-mandating-covid-vax-for-schoolchildren-zeldin-nukes-her](https://www.dailywire.com/news/hochul-wiggles-on-mandating-covid-vax-for-schoolchildren-zeldin-nukes-her)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 11:27:06+00:00
- - tags: None
 
 Rep. Lee Zeldin (R-NY) went after Governor Kathy Hochul (D-NY) during Tuesday night’s New York gubernatorial debate for refusing to definitively state if she&#8217;ll sign off on a COVID vaccine mandate for children in coming school years. Notably, the Centers for Disease Control and Prevention (CDC)&#8216;s Advisory Committee on Immunization Practices unanimously decided last week to add the shot ...
 
@@ -428,7 +375,6 @@ Rep. Lee Zeldin (R-NY) went after Governor Kathy Hochul (D-NY) during Tuesday
  - [https://www.dailywire.com/news/economic-worries-are-driving-swing-state-roman-catholics-to-the-polls-survey-shows](https://www.dailywire.com/news/economic-worries-are-driving-swing-state-roman-catholics-to-the-polls-survey-shows)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 11:10:15+00:00
- - tags: None
 
 Roman Catholic likely voters in swing states will be driven to the polls in two weeks by economic issues, according to a new survey from EWTN News and RealClear Opinion Research. Republican candidates across the country have emphasized runaway inflation and soaring gas prices as they compete against Democratic rivals. Beyond a low approval rating ...
 
@@ -436,7 +382,6 @@ Roman Catholic likely voters in swing states will be driven to the polls in two 
  - [https://www.dailywire.com/news/hi-goodnight-everybody-even-liberals-admit-fettermans-debate-performance-was-abysmal](https://www.dailywire.com/news/hi-goodnight-everybody-even-liberals-admit-fettermans-debate-performance-was-abysmal)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 10:53:11+00:00
- - tags: None
 
 Tuesday night&#8217;s debate between two Senate hopefuls in Pennsylvania turned out to be a disaster for one of them. The performance of Democrat John Fetterman, who suffered a stroke over the summer and has clearly not fully recovered, was so bad even liberals were forced to admit just how truly awful it was. The train ...
 
@@ -444,7 +389,6 @@ Tuesday night&#8217;s debate between two Senate hopefuls in Pennsylvania turned 
  - [https://www.dailywire.com/news/joe-biden-dylan-mulvaney-and-the-collapse-of-the-west](https://www.dailywire.com/news/joe-biden-dylan-mulvaney-and-the-collapse-of-the-west)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 10:51:18+00:00
- - tags: None
 
 This week, President Joe Biden held an interview with a TikTok influencer named Dylan Mulvaney. Mulvaney is a man – a former Broadway star in The Book of Mormon – who less than a year ago decided that he was a woman. Ever since, he has made daily videos titled “Day X as a Girl.” ...
 
@@ -452,7 +396,6 @@ This week, President Joe Biden held an interview with a TikTok influencer named 
  - [https://www.dailywire.com/news/democrats-georgias-record-voter-turnout-is-actually-voter-suppression](https://www.dailywire.com/news/democrats-georgias-record-voter-turnout-is-actually-voter-suppression)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 10:35:40+00:00
- - tags: None
 
 Georgia&#8217;s 2021 voter ID law was supposed to usher in a new era of &#8220;Jim Crow 2.0,&#8221; according to Democrats. President Joe Biden said it would make that previous era of American history look like &#8220;Jim Eagle.&#8221; Democrats at large, including current Peach Tree State gubernatorial candidate Stacey Abrams, warned that millions of minorities would ...
 
@@ -460,7 +403,6 @@ Georgia&#8217;s 2021 voter ID law was supposed to usher in a new era of &#8220;J
  - [https://www.dailywire.com/news/james-cameron-mocks-marvel-and-dc-characters-they-act-like-theyre-in-college](https://www.dailywire.com/news/james-cameron-mocks-marvel-and-dc-characters-they-act-like-theyre-in-college)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 10:22:16+00:00
- - tags: None
 
 Acclaimed director James Cameron had some harsh words for comic book characters, claiming that Marvel and DC superheroes are emotionally immature.  The 68-year-old “Titanic” director told The New York Times that because the characters in these universes don’t have the responsibility of marriage and fatherhood, they’re often not as evolved as they could be. They ...
 
@@ -468,7 +410,6 @@ Acclaimed director James Cameron had some harsh words for comic book characters,
  - [https://www.dailywire.com/news/radio-host-55-dies-suddenly-while-doing-morning-show](https://www.dailywire.com/news/radio-host-55-dies-suddenly-while-doing-morning-show)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 09:59:29+00:00
- - tags: None
 
 A popular British radio presenter died in the middle of doing the morning show. Tim Gough, 55, experienced a medical emergency while on the air. He was doing the GenX Radio Suffolk radio show when he sustained a “suspected heart attack,” a press release says. Gough was pronounced dead at his home just before 8 ...
 
@@ -476,6 +417,5 @@ A popular British radio presenter died in the middle of doing the morning show. 
  - [https://www.dailywire.com/news/fetterman-campaign-blames-captioning-system-for-disastrous-debate-tv-company-sets-record-straight](https://www.dailywire.com/news/fetterman-campaign-blames-captioning-system-for-disastrous-debate-tv-company-sets-record-straight)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 09:58:58+00:00
- - tags: None
 
 The campaign for Pennsylvania U.S. Senate candidate John Fetterman (D) blamed the captioning system used during Tuesday night&#8217;s debate for his widely criticized performance. Fetterman has faced scrutiny over his fitness for office after he suffered a stroke earlier this year. He has demonstrated that he sometimes struggles to understand words and has difficulty speaking, ...

@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Toyota finally figured out why wheels were falling off its electric SUV
  - [https://www.cnn.com/2022/10/06/business/toyota-bz4x-wheel-fix/index.html](https://www.cnn.com/2022/10/06/business/toyota-bz4x-wheel-fix/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 19:04:49+00:00
- - tags: None
 
 Last June, Toyota warned owners of its first mainsteam electric vehicle, the BZ4X, to stop driving their SUVs and have them transported to dealers because of a scary problem: the wheels could fall off after driving even just a few miles.
 
@@ -12,7 +11,6 @@ Last June, Toyota warned owners of its first mainsteam electric vehicle, the BZ4
  - [https://www.cnn.com/2022/10/06/homes/mortgage-rates-week-of-october-6/index.html](https://www.cnn.com/2022/10/06/homes/mortgage-rates-week-of-october-6/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 15:17:28+00:00
- - tags: None
 
 After rising for seven weeks in a row, mortgage rates retreated last week.
 
@@ -20,7 +18,6 @@ After rising for seven weeks in a row, mortgage rates retreated last week.
  - [https://www.cnn.com/2022/10/06/investing/porsche-volkswagen-valuation/index.html](https://www.cnn.com/2022/10/06/investing/porsche-volkswagen-valuation/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 14:32:50+00:00
- - tags: None
 
 Porsche took pole position as Europe's most valuable automaker on Thursday, overtaking former parent Volkswagen as the price of the sportscar maker's newly-listed shares sped higher.
 
@@ -28,7 +25,6 @@ Porsche took pole position as Europe's most valuable automaker on Thursday, over
  - [https://www.cnn.com/2022/10/06/business/tyson-arkansas-move/index.html](https://www.cnn.com/2022/10/06/business/tyson-arkansas-move/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 13:11:37+00:00
- - tags: None
 
 Tyson Foods is the latest company closing its Chicago offices, joining Boeing, Caterpillar and Citadel among others.
 
@@ -36,7 +32,6 @@ Tyson Foods is the latest company closing its Chicago offices, joining Boeing, C
  - [https://www.cnn.com/2022/10/06/africa/museveni-kenya-invasion-apology-intl/index.html](https://www.cnn.com/2022/10/06/africa/museveni-kenya-invasion-apology-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 13:06:54+00:00
- - tags: None
 
 President Yoweri Museveni has apologized to Kenyans over tweets posted by his son Muhoozi Kainerugaba that had repeatedly threatened to invade Uganda's East African neighbor.
 
@@ -44,7 +39,6 @@ President Yoweri Museveni has apologized to Kenyans over tweets posted by his so
  - [https://www.cnn.com/travel/article/vatican-museum-tourist-smashes-statues/index.html](https://www.cnn.com/travel/article/vatican-museum-tourist-smashes-statues/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 10:18:09+00:00
- - tags: None
 
 Just when you thought the summer of tourists behaving badly was over, another person on vacation wrecks another priceless artifact.
 
@@ -52,7 +46,6 @@ Just when you thought the summer of tourists behaving badly was over, another pe
  - [https://www.cnn.com/2022/10/06/asia/taiwan-china-airspace-first-strike-intl-hnk-ml/index.html](https://www.cnn.com/2022/10/06/asia/taiwan-china-airspace-first-strike-intl-hnk-ml/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 07:10:52+00:00
- - tags: None
 
 Chinese fighter jets or drones that intrude into Taiwan's territorial airspace will be regarded as a "first strike," Taiwan's Defense Minister warned Wednesday, as the island seeks to step-up its defenses in response to Beijing's military pressure.
 
@@ -60,7 +53,6 @@ Chinese fighter jets or drones that intrude into Taiwan's territorial airspace w
  - [https://www.cnn.com/2022/10/05/energy/gas-prices/index.html](https://www.cnn.com/2022/10/05/energy/gas-prices/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 05:56:04+00:00
- - tags: None
 
 Even before Wednesday's action by OPEC+ to cut oil production, US gas prices were on their way up. More price increases at the pump likely lay ahead.
 
@@ -68,7 +60,6 @@ Even before Wednesday's action by OPEC+ to cut oil production, US gas prices wer
  - [https://www.cnn.com/2022/10/06/world/child-deaths-gambia-india-cough-syrup-who-intl-hnk/index.html](https://www.cnn.com/2022/10/06/world/child-deaths-gambia-india-cough-syrup-who-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 04:31:00+00:00
- - tags: None
 
 The deaths of dozens of young children in Gambia from acute kidney injuries may be linked to contaminated cough and cold syrups made by an Indian drug manufacturer, the World Health Organization said on Wednesday.
 
@@ -76,6 +67,5 @@ The deaths of dozens of young children in Gambia from acute kidney injuries may 
  - [https://www.cnn.com/2022/10/05/middleeast/israeli-military-raid-west-bank-intl/index.html](https://www.cnn.com/2022/10/05/middleeast/israeli-military-raid-west-bank-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-06 02:13:25+00:00
- - tags: None
 
 A Palestinian man was killed and two journalists shot and injured by Israeli forces during an Israeli military raid in the occupied West Bank, Palestinian authorities said Wednesday.

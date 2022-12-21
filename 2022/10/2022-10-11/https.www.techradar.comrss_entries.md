@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## How to pick the right GIGABYTE 4K monitor for any setup
  - [https://www.techradar.com/news/how-to-pick-the-right-gigabyte-4k-monitor-for-any-setup/](https://www.techradar.com/news/how-to-pick-the-right-gigabyte-4k-monitor-for-any-setup/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 23:56:28+00:00
- - tags: None
 
 Every home or home office setup is different and choosing the right 4K monitor is all about finding everything you need at the right price.
 
@@ -12,7 +11,6 @@ Every home or home office setup is different and choosing the right 4K monitor i
  - [https://www.techradar.com/news/meta-quest-pro-vr-headset-may-with-microsofts-help-be-super-productive/](https://www.techradar.com/news/meta-quest-pro-vr-headset-may-with-microsofts-help-be-super-productive/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 21:59:06+00:00
- - tags: None
 
 Meta and Microsoft enter a new partnership to bring over work and productivity tools over to the metaverse
 
@@ -20,7 +18,6 @@ Meta and Microsoft enter a new partnership to bring over work and productivity t
  - [https://www.techradar.com/news/toyota-reports-major-data-leak-after-access-key-left-open-on-github/](https://www.techradar.com/news/toyota-reports-major-data-leak-after-access-key-left-open-on-github/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 21:42:31+00:00
- - tags: None
 
 Almost 300,000 email addresses were exposed, but there's no evidence of misuse, the company claims
 
@@ -28,7 +25,6 @@ Almost 300,000 email addresses were exposed, but there's no evidence of misuse, 
  - [https://www.techradar.com/news/aws-launches-new-instances-to-turbocharge-ai-training/](https://www.techradar.com/news/aws-launches-new-instances-to-turbocharge-ai-training/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 20:43:00+00:00
- - tags: None
 
 AWS has launched new EC2 instances using Trainium chips, which it claims are optimized for training AI models.
 
@@ -36,7 +32,6 @@ AWS has launched new EC2 instances using Trainium chips, which it claims are opt
  - [https://www.techradar.com/news/theres-a-fearsome-new-raspberry-pi-competitor-in-town/](https://www.techradar.com/news/theres-a-fearsome-new-raspberry-pi-competitor-in-town/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 19:31:02+00:00
- - tags: None
 
 DIY assemblers and coders rejoice, this new Pine64 machine brings new diversity to the market.
 
@@ -44,7 +39,6 @@ DIY assemblers and coders rejoice, this new Pine64 machine brings new diversity 
  - [https://www.techradar.com/news/become-iron-man-with-your-oculus-quest-2-the-game-reveals-at-meta-connect-2022/](https://www.techradar.com/news/become-iron-man-with-your-oculus-quest-2-the-game-reveals-at-meta-connect-2022/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 17:42:41+00:00
- - tags: None
 
 Iron Man VR, Among US, VR and Behemoth are just some of the new VR games headed to the Oculus Quest 2.
 
@@ -52,7 +46,6 @@ Iron Man VR, Among US, VR and Behemoth are just some of the new VR games headed 
  - [https://www.techradar.com/news/the-meta-quest-pro-looks-incredible-but-it-wont-be-for-everyone/](https://www.techradar.com/news/the-meta-quest-pro-looks-incredible-but-it-wont-be-for-everyone/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 17:32:40+00:00
- - tags: None
 
 We’ve finally got our first full look at the Meta Quest Pro, and it’s pretty great – but it’s not going to be the headset for everyone.
 
@@ -60,7 +53,6 @@ We’ve finally got our first full look at the Meta Quest Pro, and it’s pretty
  - [https://www.techradar.com/news/googles-productivity-apps-are-about-to-play-a-lot-nicer-with-one-other/](https://www.techradar.com/news/googles-productivity-apps-are-about-to-play-a-lot-nicer-with-one-other/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 17:27:36+00:00
- - tags: None
 
 Google Workspace’s push for an “open and extensible” platform puts Microsoft 365 square in its sights.
 
@@ -68,7 +60,6 @@ Google Workspace’s push for an “open and extensible” platform puts Microso
  - [https://www.techradar.com/news/proton-vpn-rolls-out-obfuscated-vpn-protocol-to-evade-censorship/](https://www.techradar.com/news/proton-vpn-rolls-out-obfuscated-vpn-protocol-to-evade-censorship/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:29:57+00:00
- - tags: None
 
 With its new Stealth encryption protocol, Proton VPN seeks to grant better internet freedoms for everyone around the world.
 
@@ -76,7 +67,6 @@ With its new Stealth encryption protocol, Proton VPN seeks to grant better inter
  - [https://www.techradar.com/news/bose-soundbar-600-boasts-dolby-atmos-earc-and-chromecast-in-a-compact-design/](https://www.techradar.com/news/bose-soundbar-600-boasts-dolby-atmos-earc-and-chromecast-in-a-compact-design/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:27:13+00:00
- - tags: None
 
 Bose just unveiled its newest Dolby Atmos 'bar – and on paper, there's plenty to like.
 
@@ -84,7 +74,6 @@ Bose just unveiled its newest Dolby Atmos 'bar – and on paper, there's plenty
  - [https://www.techradar.com/news/the-deals-in-amazons-prime-early-access-sale-are-way-better-than-we-expected/](https://www.techradar.com/news/the-deals-in-amazons-prime-early-access-sale-are-way-better-than-we-expected/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:26:49+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale is more than just a mini Prime Day, with some great deals on TVs, laptops, air fryers, smart home and more. Here's what you could get.
 
@@ -92,7 +81,6 @@ Amazon's Prime Early Access Sale is more than just a mini Prime Day, with some g
  - [https://www.techradar.com/news/the-new-splatoon-3-amiibo-look-great-but-nintendo-needs-to-stop-using-them-to-gate-content/](https://www.techradar.com/news/the-new-splatoon-3-amiibo-look-great-but-nintendo-needs-to-stop-using-them-to-gate-content/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:24:56+00:00
- - tags: None
 
 New Splatoon 3 amiibo have a release date, but Nintendo are still using the figures to gate valuable content.
 
@@ -100,7 +88,6 @@ New Splatoon 3 amiibo have a release date, but Nintendo are still using the figu
  - [https://www.techradar.com/news/prime-day-memory-card-deals-save-56-on-switch-steam-deck-or-camera-storage/](https://www.techradar.com/news/prime-day-memory-card-deals-save-56-on-switch-steam-deck-or-camera-storage/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:20:36+00:00
- - tags: None
 
 Amazon's October Prime Day sale can save you up to 63% on memory cards for your Nintendo Switch, Steam Deck, or camera.
 
@@ -108,7 +95,6 @@ Amazon's October Prime Day sale can save you up to 63% on memory cards for your 
  - [https://www.techradar.com/news/ipados-16/](https://www.techradar.com/news/ipados-16/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:17:46+00:00
- - tags: None
 
 The next iPad operating system is coming, with a new way to multitask, a dedicated weather app and more.
 
@@ -116,7 +102,6 @@ The next iPad operating system is coming, with a new way to multitask, a dedicat
  - [https://www.techradar.com/news/ways-aqara-makes-smarthomes-simple/](https://www.techradar.com/news/ways-aqara-makes-smarthomes-simple/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 16:02:29+00:00
- - tags: None
 
 Conflicting standards and complicated tech can make smart homes complex. Here's where it gets simple.
 
@@ -124,7 +109,6 @@ Conflicting standards and complicated tech can make smart homes complex. Here's 
  - [https://www.techradar.com/news/amd-rx-6900-xt-is-now-so-cheap-nvidias-rtx-4090-pricing-is-looking-even-worse/](https://www.techradar.com/news/amd-rx-6900-xt-is-now-so-cheap-nvidias-rtx-4090-pricing-is-looking-even-worse/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 15:41:17+00:00
- - tags: None
 
 AMD GPU pricing continues to fall faster than Nvidia, as RX 6900 XT hits new lows in the US and Europe.
 
@@ -132,7 +116,6 @@ AMD GPU pricing continues to fall faster than Nvidia, as RX 6900 XT hits new low
  - [https://www.techradar.com/news/pc-market-slumps-in-steepest-decline-in-20-years/](https://www.techradar.com/news/pc-market-slumps-in-steepest-decline-in-20-years/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 15:21:17+00:00
- - tags: None
 
 Research from Gartner has found one of the largest drops in PC sales ever recorded, with Europe the worst-hit region.
 
@@ -140,7 +123,6 @@ Research from Gartner has found one of the largest drops in PC sales ever record
  - [https://www.techradar.com/news/microsoft-surface-pro-9-what-we-want-to-see/](https://www.techradar.com/news/microsoft-surface-pro-9-what-we-want-to-see/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:56:23+00:00
- - tags: None
 
 The Surface Pro 8 was one of the best tablets Microsoft has ever made. Will the Pro 9 dethrone it?
 
@@ -148,7 +130,6 @@ The Surface Pro 8 was one of the best tablets Microsoft has ever made. Will the 
  - [https://www.techradar.com/news/live/microsoft-october-surface-event-2022-live-blog/](https://www.techradar.com/news/live/microsoft-october-surface-event-2022-live-blog/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:42:16+00:00
- - tags: None
 
 Microsoft's big October Surface event kicks off on October 12. Will we see a new Surface Pro?
 
@@ -156,7 +137,6 @@ Microsoft's big October Surface event kicks off on October 12. Will we see a new
  - [https://www.techradar.com/news/street-fighter-6s-game-changing-accessibility-features-set-a-new-standard/](https://www.techradar.com/news/street-fighter-6s-game-changing-accessibility-features-set-a-new-standard/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:35:36+00:00
- - tags: None
 
 Street Fighter 6 has some fantastic accessibility features that were discovered in the recent closed beta test.
 
@@ -164,7 +144,6 @@ Street Fighter 6 has some fantastic accessibility features that were discovered 
  - [https://www.techradar.com/news/microsoft-outlook-update-will-stop-sensitive-emails-ending-up-in-the-wrong-hands/](https://www.techradar.com/news/microsoft-outlook-update-will-stop-sensitive-emails-ending-up-in-the-wrong-hands/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:27:41+00:00
- - tags: None
 
 Avoid accidentally sending data to colleagues with this new Outlook feature.
 
@@ -172,7 +151,6 @@ Avoid accidentally sending data to colleagues with this new Outlook feature.
  - [https://www.techradar.com/news/us-airports-are-being-hit-by-ddos-attacks-from-russia/](https://www.techradar.com/news/us-airports-are-being-hit-by-ddos-attacks-from-russia/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:24:14+00:00
- - tags: None
 
 Some websites are still offline, but flights are unaffected.
 
@@ -180,7 +158,6 @@ Some websites are still offline, but flights are unaffected.
  - [https://www.techradar.com/news/7-cybersecurity-awareness-tips-to-protect-your-data-against-malware-apps/](https://www.techradar.com/news/7-cybersecurity-awareness-tips-to-protect-your-data-against-malware-apps/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:17:50+00:00
- - tags: None
 
 From malicious camera editors to VPNs, learn how to stay away from fake apps this Cybersecurity Awareness Month.
 
@@ -188,7 +165,6 @@ From malicious camera editors to VPNs, learn how to stay away from fake apps thi
  - [https://www.techradar.com/news/gmail-is-getting-the-security-upgrade-its-always-needed/](https://www.techradar.com/news/gmail-is-getting-the-security-upgrade-its-always-needed/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 14:00:14+00:00
- - tags: None
 
 Gmail will soon benefit from a new feature that will stop messages falling into the wrong hands.
 
@@ -196,7 +172,6 @@ Gmail will soon benefit from a new feature that will stop messages falling into 
  - [https://www.techradar.com/news/millie-bobby-brown-doesnt-actually-want-eleven-to-die-in-stranger-things-season-5/](https://www.techradar.com/news/millie-bobby-brown-doesnt-actually-want-eleven-to-die-in-stranger-things-season-5/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 13:53:47+00:00
- - tags: None
 
 The star of Stranger Things has clarified comments that she wants her character to be killed off in the final season.
 
@@ -204,7 +179,6 @@ The star of Stranger Things has clarified comments that she wants her character 
  - [https://www.techradar.com/news/google-cloud-is-expanding-into-a-bunch-of-new-regions-despite-hefty-losses/](https://www.techradar.com/news/google-cloud-is-expanding-into-a-bunch-of-new-regions-despite-hefty-losses/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 13:26:04+00:00
- - tags: None
 
 Google Cloud regions are coming to five new countries across Europe and Africa.
 
@@ -212,7 +186,6 @@ Google Cloud regions are coming to five new countries across Europe and Africa.
  - [https://www.techradar.com/news/acer-unleashes-worlds-first-gaming-chromebook/](https://www.techradar.com/news/acer-unleashes-worlds-first-gaming-chromebook/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 13:22:26+00:00
- - tags: None
 
 After much chatter on the grapevine and leaks, a full-on gaming-focused Chromebook has been launched.
 
@@ -220,7 +193,6 @@ After much chatter on the grapevine and leaks, a full-on gaming-focused Chromebo
  - [https://www.techradar.com/news/google-workspace-updates-could-make-virtual-presentations-less-of-a-trauma/](https://www.techradar.com/news/google-workspace-updates-could-make-virtual-presentations-less-of-a-trauma/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 13:03:12+00:00
- - tags: None
 
 Google Workspace is getting quality of life features to rival Slack and Microsoft Teams.
 
@@ -228,7 +200,6 @@ Google Workspace is getting quality of life features to rival Slack and Microsof
  - [https://www.techradar.com/news/optus-breach-new-investigations-launched-millions-in-fines-on-the-table/](https://www.techradar.com/news/optus-breach-new-investigations-launched-millions-in-fines-on-the-table/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 12:40:25+00:00
- - tags: None
 
 Two separate but coordinated investigations launched that could result in millions of dollars in fines for Optus.
 
@@ -236,7 +207,6 @@ Two separate but coordinated investigations launched that could result in millio
  - [https://www.techradar.com/news/new-google-cloud-vms-will-be-the-first-to-run-on-intel-xeon-sapphire-rapids/](https://www.techradar.com/news/new-google-cloud-vms-will-be-the-first-to-run-on-intel-xeon-sapphire-rapids/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 12:00:51+00:00
- - tags: None
 
 Google’s new VMs promise major generation-on-generation performance increases, courtesy of the latest Intel silicon.
 
@@ -244,7 +214,6 @@ Google’s new VMs promise major generation-on-generation performance increases,
  - [https://www.techradar.com/news/what-to-expect-from-microsofts-2022-surface-event/](https://www.techradar.com/news/what-to-expect-from-microsofts-2022-surface-event/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 11:42:10+00:00
- - tags: None
 
 Microsoft's Surface event is on October 12 and there's a lot to look forward to. Here's what we expect to see.
 
@@ -252,7 +221,6 @@ Microsoft's Surface event is on October 12 and there's a lot to look forward to.
  - [https://www.techradar.com/news/nasty-vulnerability-in-fortinet-firewalls-proxies-abused-in-real-world-attacks/](https://www.techradar.com/news/nasty-vulnerability-in-fortinet-firewalls-proxies-abused-in-real-world-attacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 11:29:15+00:00
- - tags: None
 
 Fortinet urged customers to patch immediately as the flaws are being already being abused in the wild.
 
@@ -260,7 +228,6 @@ Fortinet urged customers to patch immediately as the flaws are being already bei
  - [https://www.techradar.com/news/9-benefits-of-wordpress-hosting/](https://www.techradar.com/news/9-benefits-of-wordpress-hosting/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 11:23:48+00:00
- - tags: None
 
 WordPress hosting is a type of web hosting that specifically caters to WordPress users.
 
@@ -268,7 +235,6 @@ WordPress hosting is a type of web hosting that specifically caters to WordPress
  - [https://www.techradar.com/news/new-service-makes-it-easier-than-ever-for-rookies-to-launch-microsoft-365-phishing-attacks/](https://www.techradar.com/news/new-service-makes-it-easier-than-ever-for-rookies-to-launch-microsoft-365-phishing-attacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 11:07:51+00:00
- - tags: None
 
 New Microsoft 365 phishing-as-a-service has a low entry barrier, but it comes at a cost.
 
@@ -276,7 +242,6 @@ New Microsoft 365 phishing-as-a-service has a low entry barrier, but it comes at
  - [https://www.techradar.com/news/ipados-161-could-arrive-sooner-than-you-think-but-what-about-stage-manager/](https://www.techradar.com/news/ipados-161-could-arrive-sooner-than-you-think-but-what-about-stage-manager/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 10:57:20+00:00
- - tags: None
 
 It's been hinted that the latest update to iPadOS could be landing toward the end of October, but what will it feature?
 
@@ -284,7 +249,6 @@ It's been hinted that the latest update to iPadOS could be landing toward the en
  - [https://www.techradar.com/news/ps5-restocks-are-up-400-ahead-of-god-of-war-ragnarok-launch/](https://www.techradar.com/news/ps5-restocks-are-up-400-ahead-of-god-of-war-ragnarok-launch/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 10:48:43+00:00
- - tags: None
 
 Sony’s pushed a major PS5 restock in the US just in time for God of War Ragnarok.
 
@@ -292,7 +256,6 @@ Sony’s pushed a major PS5 restock in the US just in time for God of War Ragnar
  - [https://www.techradar.com/news/intels-mid-range-raptor-lake-cpu-looks-like-an-amd-ryzen-7000-killer/](https://www.techradar.com/news/intels-mid-range-raptor-lake-cpu-looks-like-an-amd-ryzen-7000-killer/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 10:21:56+00:00
- - tags: None
 
 Fresh benchmark leak could be seriously worrying for AMD, even at the higher-end to some extent.
 
@@ -300,7 +263,6 @@ Fresh benchmark leak could be seriously worrying for AMD, even at the higher-end
  - [https://www.techradar.com/news/how-to-watch-meta-connect-2022-and-see-the-quest-pro-headset-reveal-live/](https://www.techradar.com/news/how-to-watch-meta-connect-2022-and-see-the-quest-pro-headset-reveal-live/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 10:13:04+00:00
- - tags: None
 
 Here's how to watch Meta Connect 2022 and see the big reveal of Meta's 'pro' Quest headset.
 
@@ -308,7 +270,6 @@ Here's how to watch Meta Connect 2022 and see the big reveal of Meta's 'pro' Que
  - [https://www.techradar.com/news/samsung-galaxy-s23-could-get-a-much-needed-battery-boost/](https://www.techradar.com/news/samsung-galaxy-s23-could-get-a-much-needed-battery-boost/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 09:18:40+00:00
- - tags: None
 
 The Samsung Galaxy S23 could have a bigger battery than the Galaxy S22, but it still sounds too small.
 
@@ -316,7 +277,6 @@ The Samsung Galaxy S23 could have a bigger battery than the Galaxy S22, but it s
  - [https://www.techradar.com/news/live/meta-connect-2022/](https://www.techradar.com/news/live/meta-connect-2022/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 08:51:44+00:00
- - tags: None
 
 Meta Connect 2022 takes starts today, and it could see the reveal of the Project Cambria VR headset - which may well turn out to be the rumored Meta Quest Pro. Follow it live here.
 
@@ -324,7 +284,6 @@ Meta Connect 2022 takes starts today, and it could see the reveal of the Project
  - [https://www.techradar.com/news/buyers-beware-fake-64tb-128tb-ssds-flooding-online-marketplaces/](https://www.techradar.com/news/buyers-beware-fake-64tb-128tb-ssds-flooding-online-marketplaces/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 02:23:25+00:00
- - tags: None
 
 AliExpress, eBay struggling with eliminating bogus bargains ahead of Black Friday.
 
@@ -332,6 +291,5 @@ AliExpress, eBay struggling with eliminating bogus bargains ahead of Black Frida
  - [https://www.techradar.com/news/pax-aus-2022-the-8-best-things-we-saw/](https://www.techradar.com/news/pax-aus-2022-the-8-best-things-we-saw/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-11 00:58:48+00:00
- - tags: None
 
 We've rounded up the highlights from this year's PAX Aus, straight from the show floor in Melbourne.

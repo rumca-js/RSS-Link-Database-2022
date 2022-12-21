@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Soon Chrome will force you to upgrade from Windows 7
  - [https://www.androidauthority.com/chome-support-ending-windows-7-3224063/](https://www.androidauthority.com/chome-support-ending-windows-7-3224063/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 21:08:49+00:00
- - tags: None
 
 Chrome will require Windows 10 or 11 starting in 2023.
 
@@ -12,7 +11,6 @@ Chrome will require Windows 10 or 11 starting in 2023.
  - [https://www.androidauthority.com/shows-like-the-watcher-netflix-3223407/](https://www.androidauthority.com/shows-like-the-watcher-netflix-3223407/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 20:24:55+00:00
- - tags: None
 
 Check out one of these gripping dramas next.
 
@@ -20,7 +18,6 @@ Check out one of these gripping dramas next.
  - [https://www.androidauthority.com/surface-duo-update-3223974/](https://www.androidauthority.com/surface-duo-update-3223974/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 19:18:31+00:00
- - tags: None
 
 Microsoft is putting out a new update for the Duo to improve visuals and UX.
 
@@ -28,7 +25,6 @@ Microsoft is putting out a new update for the Duo to improve visuals and UX.
  - [https://www.androidauthority.com/wear-os-teardown-3223921/](https://www.androidauthority.com/wear-os-teardown-3223921/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 17:10:13+00:00
- - tags: None
 
 A new teardown of Wear OS suggests we could get watch face backups and more.
 
@@ -36,7 +32,6 @@ A new teardown of Wear OS suggests we could get watch face backups and more.
  - [https://www.androidauthority.com/eu-usb-c-standard-3223898/](https://www.androidauthority.com/eu-usb-c-standard-3223898/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 15:57:01+00:00
- - tags: None
 
 USB-C is expected to become the standard in the EU starting fall of 2024.
 
@@ -44,7 +39,6 @@ USB-C is expected to become the standard in the EU starting fall of 2024.
  - [https://www.androidauthority.com/android-smartphone-root-poll-3223786/](https://www.androidauthority.com/android-smartphone-root-poll-3223786/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 15:00:50+00:00
- - tags: None
 
 There are plenty of reasons to root your phone, and a few downsides too.
 
@@ -52,7 +46,6 @@ There are plenty of reasons to root your phone, and a few downsides too.
  - [https://www.androidauthority.com/house-of-the-dragon-season-2-hbo-max-3222839/](https://www.androidauthority.com/house-of-the-dragon-season-2-hbo-max-3222839/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 13:41:12+00:00
- - tags: None
 
 With season 1 behind us, what can we expect? And what to watch while you wait.
 
@@ -60,7 +53,6 @@ With season 1 behind us, what can we expect? And what to watch while you wait.
  - [https://www.androidauthority.com/oneplus-nord-n300-price-specs-availability-3223307/](https://www.androidauthority.com/oneplus-nord-n300-price-specs-availability-3223307/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 13:00:04+00:00
- - tags: None
 
 The latest OnePlus device seems like another rebranding, but you're still seemingly getting decent bang for buck.
 
@@ -68,7 +60,6 @@ The latest OnePlus device seems like another rebranding, but you're still seemin
  - [https://www.androidauthority.com/which-kindle-model-do-i-have-1073996/](https://www.androidauthority.com/which-kindle-model-do-i-have-1073996/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 11:00:34+00:00
- - tags: None
 
 There are different ways of figuring it out.
 
@@ -76,7 +67,6 @@ There are different ways of figuring it out.
  - [https://www.androidauthority.com/google-pixel-6a-deal-amazon-3223228/](https://www.androidauthority.com/google-pixel-6a-deal-amazon-3223228/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 10:04:36+00:00
- - tags: None
 
 In the market for a mid-ranger? Then you can't do much better than this cut-price Pixel.
 
@@ -84,7 +74,6 @@ In the market for a mid-ranger? Then you can't do much better than this cut-pric
  - [https://www.androidauthority.com/daily-authority-october-24-2022-3223704/](https://www.androidauthority.com/daily-authority-october-24-2022-3223704/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 09:26:40+00:00
- - tags: None
 
 Add these movies to your Halloween watchlist right now.
 
@@ -92,7 +81,6 @@ Add these movies to your Halloween watchlist right now.
  - [https://www.androidauthority.com/samsung-galaxy-s22-series-stable-android-13-3223731/](https://www.androidauthority.com/samsung-galaxy-s22-series-stable-android-13-3223731/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 08:54:06+00:00
- - tags: None
 
 Loads of European users have reportedly received the stable One UI 5 update.
 
@@ -100,7 +88,6 @@ Loads of European users have reportedly received the stable One UI 5 update.
  - [https://www.androidauthority.com/samsung-camera-assistant-3223723/](https://www.androidauthority.com/samsung-camera-assistant-3223723/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 08:02:19+00:00
- - tags: None
 
 Samsung's new app offers options for faster shutter functionality, camera switching, and more.
 
@@ -108,6 +95,5 @@ Samsung's new app offers options for faster shutter functionality, camera switch
  - [https://www.androidauthority.com/switch-to-esims-poll-results-3223715/](https://www.androidauthority.com/switch-to-esims-poll-results-3223715/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-24 06:53:58+00:00
- - tags: None
 
 It turns out that most of you still prefer a physical SIM card to eSIM tech.

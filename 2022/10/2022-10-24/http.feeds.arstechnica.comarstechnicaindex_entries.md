@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Children’s hospitals fill up amid up early surge in respiratory infections
  - [https://arstechnica.com/?p=1892525](https://arstechnica.com/?p=1892525)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 22:56:41+00:00
- - tags: None
 
 Now is the time to get flu shots as well as COVID boosters, experts advise.
 
@@ -12,7 +11,6 @@ Now is the time to get flu shots as well as COVID boosters, experts advise.
  - [https://arstechnica.com/?p=1892497](https://arstechnica.com/?p=1892497)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 21:04:01+00:00
- - tags: None
 
 Best Buy demo doesn't put Meta's best foot forward.
 
@@ -20,7 +18,6 @@ Best Buy demo doesn't put Meta's best foot forward.
  - [https://arstechnica.com/?p=1892326](https://arstechnica.com/?p=1892326)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 19:54:25+00:00
- - tags: None
 
 Free, meditative driving game with no strings attached might help you escape the grind.
 
@@ -28,7 +25,6 @@ Free, meditative driving game with no strings attached might help you escape the
  - [https://arstechnica.com/?p=1892437](https://arstechnica.com/?p=1892437)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 19:45:03+00:00
- - tags: None
 
 10Mbps uploads become 100Mbps—but only with xFi Complete hardware rental plan.
 
@@ -36,7 +32,6 @@ Free, meditative driving game with no strings attached might help you escape the
  - [https://arstechnica.com/?p=1892377](https://arstechnica.com/?p=1892377)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 19:14:33+00:00
- - tags: None
 
 Kang the Conqueror makes his MCU debut as next big cross-movie villain.
 
@@ -44,7 +39,6 @@ Kang the Conqueror makes his MCU debut as next big cross-movie villain.
  - [https://arstechnica.com/?p=1892255](https://arstechnica.com/?p=1892255)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 18:57:23+00:00
- - tags: None
 
 "Almost from the beginning of the company, I wanted to build a Falcon 9 competitor."
 
@@ -52,7 +46,6 @@ Kang the Conqueror makes his MCU debut as next big cross-movie villain.
  - [https://arstechnica.com/?p=1892379](https://arstechnica.com/?p=1892379)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 17:48:55+00:00
- - tags: None
 
 Everything from the iPhone to the HomePod gets a software update today.
 
@@ -60,7 +53,6 @@ Everything from the iPhone to the HomePod gets a software update today.
  - [https://arstechnica.com/?p=1892353](https://arstechnica.com/?p=1892353)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 17:22:29+00:00
- - tags: None
 
 The price of the Apple One subscription bundle is also going up.
 
@@ -68,7 +60,6 @@ The price of the Apple One subscription bundle is also going up.
  - [https://arstechnica.com/?p=1892362](https://arstechnica.com/?p=1892362)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 17:18:58+00:00
- - tags: None
 
 Recent VWs have shipped with capacitive multifunction steering wheels, and they're bad.
 
@@ -76,7 +67,6 @@ Recent VWs have shipped with capacitive multifunction steering wheels, and they'
  - [https://arstechnica.com/?p=1892314](https://arstechnica.com/?p=1892314)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 17:08:54+00:00
- - tags: None
 
 The 90 Hz display sounds nice, but 720p does not.
 
@@ -84,7 +74,6 @@ The 90 Hz display sounds nice, but 720p does not.
  - [https://arstechnica.com/?p=1892225](https://arstechnica.com/?p=1892225)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 17:00:27+00:00
- - tags: None
 
 "Windows Dev Kit 2023" is dramatically more powerful than previous efforts.
 
@@ -92,7 +81,6 @@ The 90 Hz display sounds nice, but 720p does not.
  - [https://arstechnica.com/?p=1892324](https://arstechnica.com/?p=1892324)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 16:22:42+00:00
- - tags: None
 
 Webb's hardware tells us how fast material is moving.
 
@@ -100,7 +88,6 @@ Webb's hardware tells us how fast material is moving.
  - [https://arstechnica.com/?p=1881068](https://arstechnica.com/?p=1881068)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 16:00:52+00:00
- - tags: None
 
 A pleasantly surprising new multitasking UI and app redesigns define macOS 13.
 
@@ -108,6 +95,5 @@ A pleasantly surprising new multitasking UI and app redesigns define macOS 13.
  - [https://arstechnica.com/?p=1892303](https://arstechnica.com/?p=1892303)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-24 14:21:28+00:00
- - tags: None
 
 RealPage worked with some of the nation’s largest landlords to raise rents, says lawsuit.

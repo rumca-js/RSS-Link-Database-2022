@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Lula da Silva will return to Brazil's presidency in stunning comeback
  - [https://www.cnn.com/2022/10/30/americas/brazil-election-lula-da-silva-wins-intl/index.html](https://www.cnn.com/2022/10/30/americas/brazil-election-lula-da-silva-wins-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 23:52:21+00:00
- - tags: None
 
 Luiz Inácio Lula da Silva has been elected the next president of Brazil, in a run-off race on Sunday that was tight until the last moments.
 
@@ -12,7 +11,6 @@ Luiz Inácio Lula da Silva has been elected the next president of Brazil, in a r
  - [https://www.cnn.com/style/article/horse-kicks-sneakers-business-trnd/index.html](https://www.cnn.com/style/article/horse-kicks-sneakers-business-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 23:49:11+00:00
- - tags: None
 
 If you've ever wanted horse-sized Adidas so you can match shoes with your equine companion, you're in luck. But you'll have to shell out over a thousand dollars for a pair of customized horse sneakers.
 
@@ -20,7 +18,6 @@ If you've ever wanted horse-sized Adidas so you can match shoes with your equine
  - [https://www.cnn.com/videos/us/2022/10/30/maurice-hastings-life-prison-sentence-overturned-los-angeles-orig-jk.cnn](https://www.cnn.com/videos/us/2022/10/30/maurice-hastings-life-prison-sentence-overturned-los-angeles-orig-jk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 23:40:16+00:00
- - tags: None
 
 In 1988, Maurice Hastings was sentenced to life in prison for a crime he didn't commit. A DNA test on evidence led to the reversal of his sentence.
 
@@ -28,7 +25,6 @@ In 1988, Maurice Hastings was sentenced to life in prison for a crime he didn't 
  - [https://www.cnn.com/style/article/piet-mondrian-painting-upside-down-trnd/index.html](https://www.cnn.com/style/article/piet-mondrian-painting-upside-down-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 21:37:51+00:00
- - tags: None
 
 One of Piet Mondrian's iconic Modernist paintings may have been hanging upside down for decade, according to research from an art historian -- but the piece of art isn't going to be turned right-side up any time soon.
 
@@ -36,7 +32,6 @@ One of Piet Mondrian's iconic Modernist paintings may have been hanging upside d
  - [https://www.cnn.com/videos/us/2022/10/30/fishing-boat-finds-world-war-ii-explosive-device-affil-pkg-contd-vpx.wjar](https://www.cnn.com/videos/us/2022/10/30/fishing-boat-finds-world-war-ii-explosive-device-affil-pkg-contd-vpx.wjar)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 21:19:40+00:00
- - tags: None
 
 Capt. Glenn Westcott says his team found a World War II weapon during a routine fishing expedition off the coast of Rhode Island. The 520-pound device contained more than 200 pounds of dynamite and was detonated shortly after its discovery. CNN affiliate WJAR has the story.
 
@@ -44,7 +39,6 @@ Capt. Glenn Westcott says his team found a World War II weapon during a routine
  - [https://www.cnn.com/webview/asia/live-news/seoul-south-korea-halloween-10-30-22#h_bb2ab6d1ffdf3e742feb73fe40d999bc](https://www.cnn.com/webview/asia/live-news/seoul-south-korea-halloween-10-30-22#h_bb2ab6d1ffdf3e742feb73fe40d999bc)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 21:03:17.422069+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Capt. Glenn Westcott says his team found a World War II weapon during a routine
  - [https://www.cnn.com/2022/10/30/politics/january-6-committee-2020-election-emails/index.html](https://www.cnn.com/2022/10/30/politics/january-6-committee-2020-election-emails/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 20:54:36+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, attack on the US Capitol has obtained eight emails from late 2020 that a judge determined show Donald Trump and his lawyers planning to defraud courts and obstruct the congressional vote on the presidency.
 
@@ -60,7 +53,6 @@ The House select committee investigating the January 6, 2021, attack on the US C
  - [https://www.cnn.com/2022/10/30/business/musk-tweet-pelosi-conspiracy/index.html](https://www.cnn.com/2022/10/30/business/musk-tweet-pelosi-conspiracy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 19:03:11+00:00
- - tags: None
 
 Elon Musk on Sunday gave credence to a fringe conspiracy theory about the violent attack on Paul Pelosi.
 
@@ -68,7 +60,6 @@ Elon Musk on Sunday gave credence to a fringe conspiracy theory about the violen
  - [https://www.cnn.com/2022/10/30/asia/india-bridge-collapse-intl/index.html](https://www.cnn.com/2022/10/30/asia/india-bridge-collapse-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 18:23:41+00:00
- - tags: None
 
 At least 60 people were killed in India Sunday when a bridge collapsed in the western state of Gujarat, causing  hundreds of people to fall into the water, officials said.
 
@@ -76,7 +67,6 @@ At least 60 people were killed in India Sunday when a bridge collapsed in the we
  - [https://www.cnn.com/2022/10/30/entertainment/dh-peligro-dead-kennedys-dead-trnd/index.html](https://www.cnn.com/2022/10/30/entertainment/dh-peligro-dead-kennedys-dead-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 17:54:17+00:00
- - tags: None
 
 D.H. Peligro, a drummer for punk rock icons the Dead Kennedys and formerly the Red Hot Chili Peppers, died Friday from a head injury, his band announced. He was 63.
 
@@ -84,7 +74,6 @@ D.H. Peligro, a drummer for punk rock icons the Dead Kennedys and formerly the R
  - [https://www.cnn.com/2022/10/30/politics/midterm-elections-attorney-general-races-abortion/index.html](https://www.cnn.com/2022/10/30/politics/midterm-elections-attorney-general-races-abortion/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 17:17:33+00:00
- - tags: None
 
 Pitched battles over abortion rights and election falsehoods are playing out in attorneys general contests across the nation.
 
@@ -92,7 +81,6 @@ Pitched battles over abortion rights and election falsehoods are playing out in 
  - [https://www.cnn.com/2022/10/30/sport/russell-wilson-broncos-jaguars-london-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/30/sport/russell-wilson-broncos-jaguars-london-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 17:15:14+00:00
- - tags: None
 
 It's not been an easy week for the embattled Russell Wilson.
 
@@ -100,7 +88,6 @@ It's not been an easy week for the embattled Russell Wilson.
  - [https://www.cnn.com/2022/10/30/entertainment/michael-imperioli-actors-goodfellas-trnd/index.html](https://www.cnn.com/2022/10/30/entertainment/michael-imperioli-actors-goodfellas-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 17:07:19+00:00
- - tags: None
 
 Michael Imperioli sat down with CNN's Chris Wallace to discuss the iconic actors he met working on the sets of "Goodfellas" and "The Sopranos" -- and the scene that sent him to the emergency room.
 
@@ -108,7 +95,6 @@ Michael Imperioli sat down with CNN's Chris Wallace to discuss the iconic actors
  - [https://www.cnn.com/2022/10/30/middleeast/iran-protests-clashes-sunday-intl/index.html](https://www.cnn.com/2022/10/30/middleeast/iran-protests-clashes-sunday-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 17:02:15+00:00
- - tags: None
 
 Violent clashes broke out between security forces and student protesters at university campuses across Iran on Sunday, according to activist and human rights groups in the country.
 
@@ -116,7 +102,6 @@ Violent clashes broke out between security forces and student protesters at univ
  - [https://www.cnn.com/2022/10/30/politics/jen-easterly-cyber-threat-midterm-elections/index.html](https://www.cnn.com/2022/10/30/politics/jen-easterly-cyber-threat-midterm-elections/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 16:57:28+00:00
- - tags: None
 
 There are no "specific or credible" threats to disrupt election infrastructure in this year's midterm contests, one of the nation's top cybersecurity officials said Sunday, even as the federal government remains concerned about attempts -- both online and in-person -- to interfere in the vote.
 
@@ -124,7 +109,6 @@ There are no "specific or credible" threats to disrupt election infrastructure i
  - [https://www.cnn.com/2022/10/30/us/tallahassee-shooting-dead-injured-florida/index.html](https://www.cnn.com/2022/10/30/us/tallahassee-shooting-dead-injured-florida/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 16:53:14+00:00
- - tags: None
 
 At least one person is dead and eight more were injured in an overnight shooting in Tallahassee, Florida on Saturday.
 
@@ -132,7 +116,6 @@ At least one person is dead and eight more were injured in an overnight shooting
  - [https://www.cnn.com/2022/10/30/uk/truss-phone-hack-report-gbr-intl/index.html](https://www.cnn.com/2022/10/30/uk/truss-phone-hack-report-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 16:38:07+00:00
- - tags: None
 
 The UK government is facing calls to investigate after an unconfirmed media report claimed former British Prime Minister Liz Truss' phone was hacked while she was foreign secretary.
 
@@ -140,7 +123,6 @@ The UK government is facing calls to investigate after an unconfirmed media repo
  - [https://www.cnn.com/2022/10/30/asia/seoul-crowd-surge-investigation-intl/index.html](https://www.cnn.com/2022/10/30/asia/seoul-crowd-surge-investigation-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 16:29:30+00:00
- - tags: None
 
 South Korean authorities were on Sunday investigating the crowd surge that killed at least 153 partygoers in Seoul, as the rattled nation attempts to come to terms with one of its worst-ever disasters.
 
@@ -148,7 +130,6 @@ South Korean authorities were on Sunday investigating the crowd surge that kille
  - [https://www.cnn.com/2022/10/30/investing/stocks-week-ahead/index.html](https://www.cnn.com/2022/10/30/investing/stocks-week-ahead/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 16:11:38+00:00
- - tags: None
 
 The Federal Reserve is most likely going to raise interest rates by three quarters of a percentage point again on Wednesday, its fourth straight supersized hike. And it's still possible another rate increase of that magnitude could come in December.
 
@@ -156,7 +137,6 @@ The Federal Reserve is most likely going to raise interest rates by three quarte
  - [https://www.cnn.com/2022/10/30/politics/rick-scott-pelosi-election-conspiracies-cnntv/index.html](https://www.cnn.com/2022/10/30/politics/rick-scott-pelosi-election-conspiracies-cnntv/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 15:52:12+00:00
- - tags: None
 
 Florida Sen. Rick Scott, who chairs the Senate Republicans' campaign arm, on Sunday called the attack on House Speaker Nancy Pelosi's husband, Paul Pelosi, "disgusting" but dodged questions about election conspiracy theories that were shared by the alleged attacker on social media.
 
@@ -164,7 +144,6 @@ Florida Sen. Rick Scott, who chairs the Senate Republicans' campaign arm, on Sun
  - [https://www.cnn.com/videos/tv/2022/10/28/exp-gps-1030-boris-bondarev-russia-diplomat-putin-ukraine-war.cnn](https://www.cnn.com/videos/tv/2022/10/28/exp-gps-1030-boris-bondarev-russia-diplomat-putin-ukraine-war.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 15:05:05+00:00
- - tags: None
 
 Fareed talks to former Russian diplomat Boris Bondarev, who resigned in protest of the war in Ukraine.
 
@@ -172,7 +151,6 @@ Fareed talks to former Russian diplomat Boris Bondarev, who resigned in protest 
  - [https://www.cnn.com/videos/tv/2022/10/28/exp-gps-1030-minton-beddoes-on-new-british-prime-minister.cnn](https://www.cnn.com/videos/tv/2022/10/28/exp-gps-1030-minton-beddoes-on-new-british-prime-minister.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 15:03:46+00:00
- - tags: None
 
 The Economist's editor in chief, Zanny Minton Beddoes, joins Fareed to discuss how newly appointed British Prime Minister Rishi Sunak will fare against his country's economic and political turmoil.
 
@@ -180,7 +158,6 @@ The Economist's editor in chief, Zanny Minton Beddoes, joins Fareed to discuss h
  - [https://www.cnn.com/videos/world/2022/10/30/vladimir-putin-nuclear-weapon-boris-bondarev-gps-vpx.cnn](https://www.cnn.com/videos/world/2022/10/30/vladimir-putin-nuclear-weapon-boris-bondarev-gps-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 14:59:43+00:00
- - tags: None
 
 Boris Bondarev, who worked as a Russian official advancing Vladimir Putin's foreign policy goals for years before resigning over the war in Ukraine, discusses Putin's objectives and if he will use a nuclear weapon in Ukraine.
 
@@ -188,7 +165,6 @@ Boris Bondarev, who worked as a Russian official advancing Vladimir Putin's fore
  - [https://www.cnn.com/2022/10/30/politics/pelosi-attack-suspect-david-depape-bag-zip-ties/index.html](https://www.cnn.com/2022/10/30/politics/pelosi-attack-suspect-david-depape-bag-zip-ties/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 14:57:45+00:00
- - tags: None
 
 The man who is alleged to have attacked Paul Pelosi, the husband of House Speaker Nancy Pelosi, in the couple's San Francisco home had with him a bag that contained multiple zip ties, among other things, according to a source who has been briefed on the incident.
 
@@ -196,7 +172,6 @@ The man who is alleged to have attacked Paul Pelosi, the husband of House Speake
  - [https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-10-30-22/index.html](https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-10-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 14:00:58.324271+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ The man who is alleged to have attacked Paul Pelosi, the husband of House Speake
  - [https://www.cnn.com/travel/article/tucci-italy-recipes-season-two-wellness-origseriesfilms/index.html](https://www.cnn.com/travel/article/tucci-italy-recipes-season-two-wellness-origseriesfilms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:13:42+00:00
- - tags: None
 
 Stanley Tucci transports viewers as he travels around Italy and indulges in the world's most popular cuisine.
 
@@ -212,7 +186,6 @@ Stanley Tucci transports viewers as he travels around Italy and indulges in the 
  - [https://www.cnn.com/videos/politics/2022/10/29/se-cupp-gop-rhetoric-paul-pelosi-acostanr-sot-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/29/se-cupp-gop-rhetoric-paul-pelosi-acostanr-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:12:01+00:00
- - tags: None
 
 CNN anchor Jim Acosta sits down with political commentator SE Cupp to discuss the recent attack on House Speaker Nancy Pelosi's husband, Paul Pelosi.
 
@@ -220,7 +193,6 @@ CNN anchor Jim Acosta sits down with political commentator SE Cupp to discuss th
  - [https://www.cnn.com/videos/politics/2022/10/30/obama-heckler-michigan-speech-video-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/30/obama-heckler-michigan-speech-video-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:11:58+00:00
- - tags: None
 
 Former President Barack Obama was interrupted by a heckler when discussing political civility at a rally for Michigan Gov. Gretchen Whitmer (D).
 
@@ -228,7 +200,6 @@ Former President Barack Obama was interrupted by a heckler when discussing polit
  - [https://www.cnn.com/2022/10/30/tech/meta-metaverse-transition/index.html](https://www.cnn.com/2022/10/30/tech/meta-metaverse-transition/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:11:26+00:00
- - tags: None
 
 Even by Facebook's standards, 2021 was a rough year.
 
@@ -236,7 +207,6 @@ Even by Facebook's standards, 2021 was a rough year.
  - [https://www.cnn.com/2022/10/30/politics/latino-faith-leaders-midterm-elections-reaj/index.html](https://www.cnn.com/2022/10/30/politics/latino-faith-leaders-midterm-elections-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:10:40+00:00
- - tags: None
 
 Pastor Luis Cabrera has spent weeks traveling across Texas to meet with other Latinos in the faith community. He is preaching a different kind of gospel: Vote.
 
@@ -244,7 +214,6 @@ Pastor Luis Cabrera has spent weeks traveling across Texas to meet with other La
  - [https://www.cnn.com/2022/10/30/sport/katie-ledecky-1500m-short-course-record-spt-intl-scli/index.html](https://www.cnn.com/2022/10/30/sport/katie-ledecky-1500m-short-course-record-spt-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:06:29+00:00
- - tags: None
 
 Ever since she burst onto the scene as a teenager at the London 2012 Olympic Games, Katie Ledecky has dominated women's long-distance swimming, leaving world records and gold medals in her wake.
 
@@ -252,7 +221,6 @@ Ever since she burst onto the scene as a teenager at the London 2012 Olympic Gam
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-30-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:01:06.182352+00:00
- - tags: None
 
 
 
@@ -260,7 +228,6 @@ Ever since she burst onto the scene as a teenager at the London 2012 Olympic Gam
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-30-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 13:01:05.901162+00:00
- - tags: None
 
 
 
@@ -268,7 +235,6 @@ Ever since she burst onto the scene as a teenager at the London 2012 Olympic Gam
  - [https://www.cnn.com/2022/10/30/sport/yuta-watanabe-brooklyn-nets-spt-intl-scli/index.html](https://www.cnn.com/2022/10/30/sport/yuta-watanabe-brooklyn-nets-spt-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 12:37:03+00:00
- - tags: None
 
 The Brooklyn Nets have made a terrible start to the NBA season and on Saturday star forward Yuta Watanabe didn't make matters any easier by comically scoring in the opposite team's basket.
 
@@ -276,7 +242,6 @@ The Brooklyn Nets have made a terrible start to the NBA season and on Saturday s
  - [https://www.cnn.com/2022/10/30/americas/brazil-election-polls-open-intl/index.html](https://www.cnn.com/2022/10/30/americas/brazil-election-polls-open-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 12:34:17+00:00
- - tags: None
 
 Polls opened Sunday in Brazil's presidential election runoff between former leftist leader Luiz Inacio Lula da Silva and the far-right incumbent Jair Bolsonaro, which has seen polls tighten dramatically in recent weeks.
 
@@ -284,7 +249,6 @@ Polls opened Sunday in Brazil's presidential election runoff between former left
  - [https://www.cnn.com/2022/10/30/sport/seahawks-giants-nfl-week-8-preview-spt-scli-intl/index.html](https://www.cnn.com/2022/10/30/sport/seahawks-giants-nfl-week-8-preview-spt-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 12:33:51+00:00
- - tags: None
 
 The Seattle Seahawks (4-3) and New York Giants (6-1) meet on Sunday for this week's only matchup featuring two teams with winning records.
 
@@ -292,7 +256,6 @@ The Seattle Seahawks (4-3) and New York Giants (6-1) meet on Sunday for this wee
  - [https://www.cnn.com/2022/10/30/politics/scotus-affirmative-action-college-admissions-edward-blum/index.html](https://www.cnn.com/2022/10/30/politics/scotus-affirmative-action-college-admissions-edward-blum/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 12:08:58+00:00
- - tags: None
 
 In an ordinary Boston courtroom in April 2015, lawyers and activists at the first hearing of a challenge to race-based admissions practices at Harvard knew they would see each other again, eventually at the US Supreme Court.
 
@@ -300,7 +263,6 @@ In an ordinary Boston courtroom in April 2015, lawyers and activists at the firs
  - [https://www.cnn.com/2022/10/30/middleeast/lebanon-michel-aoun-departure-intl/index.html](https://www.cnn.com/2022/10/30/middleeast/lebanon-michel-aoun-departure-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 11:57:12+00:00
- - tags: None
 
 Michel Aoun, the 89-year-old Christian president who presided over Lebanon's cataclysmic financial meltdown and the deadly Beirut port blast, vacates the presidential palace on Sunday, leaving a void at the top of a failing state.
 
@@ -308,7 +270,6 @@ Michel Aoun, the 89-year-old Christian president who presided over Lebanon's cat
  - [https://www.cnn.com/2022/10/30/sport/jake-paul-win-anderson-silva-spt-intl/index.html](https://www.cnn.com/2022/10/30/sport/jake-paul-win-anderson-silva-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 11:26:46+00:00
- - tags: None
 
 Youtuber-turned-boxer Jake Paul defeated legendary UFC champion Anderson Silva on points in front of a 14,000 strong crowd at the Desert Diamond Arena in Phoenix, Arizona on Saturday.
 
@@ -316,7 +277,6 @@ Youtuber-turned-boxer Jake Paul defeated legendary UFC champion Anderson Silva o
  - [https://www.cnn.com/2022/10/30/politics/donald-trump-ron-desantis-2024-rivalry/index.html](https://www.cnn.com/2022/10/30/politics/donald-trump-ron-desantis-2024-rivalry/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 11:12:37+00:00
- - tags: None
 
 When Election Day arrives in Florida, Donald Trump will vote for a Republican whose political demise he may soon find himself plotting.
 
@@ -324,7 +284,6 @@ When Election Day arrives in Florida, Donald Trump will vote for a Republican wh
  - [https://www.cnn.com/videos/us/2022/10/29/mississippi-river-drought-jennifer-carpenter-walker-contd-ndwknd-vpx.cnn](https://www.cnn.com/videos/us/2022/10/29/mississippi-river-drought-jennifer-carpenter-walker-contd-ndwknd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 10:54:40+00:00
- - tags: None
 
 A historic drought not seen since the 1980s is drying up the Mississippi River and slowing down shipping traffic during the busy harvest season.
 
@@ -332,7 +291,6 @@ A historic drought not seen since the 1980s is drying up the Mississippi River a
  - [https://www.cnn.com/2022/10/30/us/violent-extremism-kaleka-michaelis-undivided-cec/index.html](https://www.cnn.com/2022/10/30/us/violent-extremism-kaleka-michaelis-undivided-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 10:40:07+00:00
- - tags: None
 
 When Pardeep Kaleka first contacted Arno Michaelis, he was looking for answers.
 
@@ -340,7 +298,6 @@ When Pardeep Kaleka first contacted Arno Michaelis, he was looking for answers.
  - [https://www.cnn.com/2022/10/30/us/halloween-sex-offenders-cec/index.html](https://www.cnn.com/2022/10/30/us/halloween-sex-offenders-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 10:38:47+00:00
- - tags: None
 
 As people stock up on Halloween candy, some cities and states are imposing extra measures to make sure sex offenders don't answer when little ghouls and goblins knock on their doors.
 
@@ -348,7 +305,6 @@ As people stock up on Halloween candy, some cities and states are imposing extra
  - [https://www.cnn.com/2022/10/30/football/liverpool-leeds-premier-league-spt-intl/index.html](https://www.cnn.com/2022/10/30/football/liverpool-leeds-premier-league-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 09:18:33+00:00
- - tags: None
 
 In the spring, all seemed well for Liverpool. The team had won the League Cup and the FA Cup, was going toe-to-toe with Manchester City in the English Premier League, and had reached the Champions League final.
 
@@ -356,7 +312,6 @@ In the spring, all seemed well for Liverpool. The team had won the League Cup an
  - [https://www.cnn.com/travel/article/world-record-train-switzerland/index.html](https://www.cnn.com/travel/article/world-record-train-switzerland/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 09:11:51+00:00
- - tags: None
 
 High in the Swiss Alps, St Moritz made its name as a place for pushing the boundaries of winter sport. By the time it hosted the second Winter Olympics Games in 1928 its reputation as a playground for wealthy adventurers was already well established.
 
@@ -364,7 +319,6 @@ High in the Swiss Alps, St Moritz made its name as a place for pushing the bound
  - [https://www.cnn.com/2022/10/30/politics/barack-obama-wisconsin-michigan-midterm-elections/index.html](https://www.cnn.com/2022/10/30/politics/barack-obama-wisconsin-michigan-midterm-elections/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 09:01:32+00:00
- - tags: None
 
 Former President Barack Obama on Saturday sought to sway voters who are worried about inflation, warning in two key Midwestern states that Republicans seeking control of Congress have no plans to rein in prices and could target social safety net programs.
 
@@ -372,7 +326,6 @@ Former President Barack Obama on Saturday sought to sway voters who are worried 
  - [https://www.cnn.com/2022/10/30/sport/astros-phillies-world-series-spt-intl/index.html](https://www.cnn.com/2022/10/30/sport/astros-phillies-world-series-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 08:21:19+00:00
- - tags: None
 
 Following an agonizing loss to the Philadelphia Phillies in Game 1 of the World Series Friday, the Houston Astros bounced back nicely to win 5-2 to even up the series in Game 2 on Saturday.
 
@@ -380,7 +333,6 @@ Following an agonizing loss to the Philadelphia Phillies in Game 1 of the World 
  - [https://www.cnn.com/2022/10/30/us/school-shootings-one-week-america-ctrp/index.html](https://www.cnn.com/2022/10/30/us/school-shootings-one-week-america-ctrp/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 08:01:47+00:00
- - tags: None
 
 Over the span of a week, four different communities across the United States have grappled with the aftermath of a school shooting.
 
@@ -388,7 +340,6 @@ Over the span of a week, four different communities across the United States hav
  - [https://www.cnn.com/2022/10/30/asia/seoul-itaewon-halloween-crush-explainer-intl-hnk/index.html](https://www.cnn.com/2022/10/30/asia/seoul-itaewon-halloween-crush-explainer-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 07:38:49+00:00
- - tags: None
 
 Most weekends, the narrow alleys of Itaewon, the neon-lit party district in South Korea's capital Seoul, are busy with partygoers and tourists. Now it's the site of one of the country's worst disasters.
 
@@ -396,7 +347,6 @@ Most weekends, the narrow alleys of Itaewon, the neon-lit party district in Sout
  - [https://www.cnn.com/videos/media/2022/10/30/tom-hanks-bobby-moynihan-david-pumpkins-snl-mgw-orig.cnn](https://www.cnn.com/videos/media/2022/10/30/tom-hanks-bobby-moynihan-david-pumpkins-snl-mgw-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 07:11:42+00:00
- - tags: None
 
 Tom Hanks appeared on "Saturday Night Live" to reprise his popular and mysterious Halloween character, David S. Pumpkins.
 
@@ -404,7 +354,6 @@ Tom Hanks appeared on "Saturday Night Live" to reprise his popular and mysteriou
  - [https://www.cnn.com/2022/10/30/us/twins-rsv-virus-death-ctrp/index.html](https://www.cnn.com/2022/10/30/us/twins-rsv-virus-death-ctrp/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 07:02:03+00:00
- - tags: None
 
 Less than three months after welcoming twin boys, Amanda and Ed Bystran lost one of them to RSV -- now they are hoping their other son recovers from the same virus.
 
@@ -412,7 +361,6 @@ Less than three months after welcoming twin boys, Amanda and Ed Bystran lost one
  - [https://www.cnn.com/2022/10/30/media/snl-cold-open-pbs-news-hour-surging-republicans/index.html](https://www.cnn.com/2022/10/30/media/snl-cold-open-pbs-news-hour-surging-republicans/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 06:38:58+00:00
- - tags: None
 
 "Saturday Night Live" kicked off this week's episode with Heidi Gardner leading a PBS NewsHour focused on three notable Republicans before the midterm elections in less than two weeks.
 
@@ -420,7 +368,6 @@ Less than three months after welcoming twin boys, Amanda and Ed Bystran lost one
  - [https://www.cnn.com/videos/world/2022/10/30/south-korea-seoul-halloween-ripley-pkg-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/10/30/south-korea-seoul-halloween-ripley-pkg-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 06:36:50+00:00
- - tags: None
 
 South Korea's first big Halloween celebration since the end of Covid restrictions turned to tragedy, when at least 151 people, mostly teenagers and young adults, died in a popular nightlife district in Seoul, officials said. CNN's Will Ripley reports.
 
@@ -428,7 +375,6 @@ South Korea's first big Halloween celebration since the end of Covid restriction
  - [https://www.cnn.com/2022/10/30/africa/explosions-somalia-education-ministry-intl-hnk/index.html](https://www.cnn.com/2022/10/30/africa/explosions-somalia-education-ministry-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 06:31:18+00:00
- - tags: None
 
 At least 100 people were killed after two car bombs exploded near Somalia's education ministry in the capital Mogadishu on Saturday.
 
@@ -436,7 +382,6 @@ At least 100 people were killed after two car bombs exploded near Somalia's educ
  - [https://www.cnn.com/2022/10/30/us/christian-manuscript-star-map-scn-trnd/index.html](https://www.cnn.com/2022/10/30/us/christian-manuscript-star-map-scn-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 06:08:11+00:00
- - tags: None
 
 Archivists have uncovered a long-lost historical relic hidden underneath a Christian manuscript: the earliest known map of the stars, according to the Museum of the Bible.
 
@@ -444,7 +389,6 @@ Archivists have uncovered a long-lost historical relic hidden underneath a Chris
  - [https://www.cnn.com/2022/10/29/sport/portland-win-nwsl-championship/index.html](https://www.cnn.com/2022/10/29/sport/portland-win-nwsl-championship/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 02:58:17+00:00
- - tags: None
 
 The Portland Thorns defeated the Kansas City Current to win the 2022 National Women's Soccer League championship on Saturday.
 
@@ -452,7 +396,6 @@ The Portland Thorns defeated the Kansas City Current to win the 2022 National Wo
  - [https://www.cnn.com/2022/10/29/politics/nancy-pelosi-paul-pelosi-attack-statement/index.html](https://www.cnn.com/2022/10/29/politics/nancy-pelosi-paul-pelosi-attack-statement/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 02:08:37+00:00
- - tags: None
 
 House Speaker Nancy Pelosi says that while her husband, Paul, continues to improve following Friday's violent attack in their San Francisco home, their children and grandchildren "are heartbroken and traumatized."
 
@@ -460,7 +403,6 @@ House Speaker Nancy Pelosi says that while her husband, Paul, continues to impro
  - [https://www.cnn.com/2022/10/29/politics/biil-clinton-new-york-sean-patrick-maloney/index.html](https://www.cnn.com/2022/10/29/politics/biil-clinton-new-york-sean-patrick-maloney/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 00:56:11+00:00
- - tags: None
 
 Bill Clinton made his case here Saturday for New York Rep. Sean Patrick Maloney, the endangered chair of the House Democratic campaign arm, in a nearly half-hour speech in which the former president attacked Republicans over plans to slash social services and the increasing vitriol of right-wing political rhetoric.
 
@@ -468,6 +410,5 @@ Bill Clinton made his case here Saturday for New York Rep. Sean Patrick Maloney,
  - [https://www.cnn.com/2022/10/29/sport/kyrie-irving-nets-antisemitic-documentary/index.html](https://www.cnn.com/2022/10/29/sport/kyrie-irving-nets-antisemitic-documentary/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-30 00:00:29+00:00
- - tags: None
 
 Brooklyn Nets star Kyrie Irving on Saturday tweeted that he "meant no disrespect to anyone's religious beliefs" after the owner of his NBA team condemned him for tweeting a link to a documentary deemed antisemitic.

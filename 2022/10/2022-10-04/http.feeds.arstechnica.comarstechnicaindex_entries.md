@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## 2022 Nobel Physics Prize goes to seminal tests of spooky action at a distance
  - [https://arstechnica.com/?p=1886630](https://arstechnica.com/?p=1886630)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 22:36:59+00:00
- - tags: None
 
 Alain Aspect, John Clauser, and Anton Zeilinger pioneered quantum information science.
 
@@ -12,7 +11,6 @@ Alain Aspect, John Clauser, and Anton Zeilinger pioneered quantum information sc
  - [https://arstechnica.com/?p=1886485](https://arstechnica.com/?p=1886485)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 20:48:44+00:00
- - tags: None
 
 Sega's famously boxy 1993 arcade game gets a fan-powered Stable Diffusion refresh.
 
@@ -20,7 +18,6 @@ Sega's famously boxy 1993 arcade game gets a fan-powered Stable Diffusion refres
  - [https://arstechnica.com/?p=1886817](https://arstechnica.com/?p=1886817)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 19:44:54+00:00
- - tags: None
 
 ISPs apparently blocking VLC website due to gov't order, but it's not clear why.
 
@@ -28,7 +25,6 @@ ISPs apparently blocking VLC website due to gov't order, but it's not clear why.
  - [https://arstechnica.com/?p=1886829](https://arstechnica.com/?p=1886829)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 19:36:46+00:00
- - tags: None
 
 Experts say policymakers mostly ignore Google's transparency reports.
 
@@ -36,7 +32,6 @@ Experts say policymakers mostly ignore Google's transparency reports.
  - [https://arstechnica.com/?p=1886758](https://arstechnica.com/?p=1886758)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 18:15:18+00:00
- - tags: None
 
 All the goodies from the sedan plus more headroom and an optional third row.
 
@@ -44,7 +39,6 @@ All the goodies from the sedan plus more headroom and an optional third row.
  - [https://arstechnica.com/?p=1886748](https://arstechnica.com/?p=1886748)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 17:23:40+00:00
- - tags: None
 
 In the limited hearing, the judge will weigh alleged government misconduct.
 
@@ -52,7 +46,6 @@ In the limited hearing, the judge will weigh alleged government misconduct.
  - [https://arstechnica.com/?p=1886651](https://arstechnica.com/?p=1886651)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 17:15:47+00:00
- - tags: None
 
 Parliament approves USB-C rule for 2024, mulls wireless charging interoperability.
 
@@ -60,7 +53,6 @@ Parliament approves USB-C rule for 2024, mulls wireless charging interoperabilit
  - [https://arstechnica.com/?p=1886685](https://arstechnica.com/?p=1886685)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 17:12:08+00:00
- - tags: None
 
 Nest's Wifi Pro has all the latest standards and not as much Google-y ecosystem.
 
@@ -68,7 +60,6 @@ Nest's Wifi Pro has all the latest standards and not as much Google-y ecosystem.
  - [https://arstechnica.com/?p=1886727](https://arstechnica.com/?p=1886727)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 16:48:58+00:00
- - tags: None
 
 Musk reportedly told Twitter he'll complete deal at original $54.20 share price.
 
@@ -76,7 +67,6 @@ Musk reportedly told Twitter he'll complete deal at original $54.20 share price.
  - [https://arstechnica.com/?p=1886644](https://arstechnica.com/?p=1886644)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 16:11:28+00:00
- - tags: None
 
 Non-binding national guidelines on AI harms may inform future policy and business decisions.
 
@@ -84,7 +74,6 @@ Non-binding national guidelines on AI harms may inform future policy and busines
  - [https://arstechnica.com/?p=1886661](https://arstechnica.com/?p=1886661)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 15:55:46+00:00
- - tags: None
 
 The October 2022 Android update is the end of support for Google's worst phone.
 
@@ -92,7 +81,6 @@ The October 2022 Android update is the end of support for Google's worst phone.
  - [https://arstechnica.com/?p=1886629](https://arstechnica.com/?p=1886629)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 14:53:04+00:00
- - tags: None
 
 After a 10-ads-per-video experiment earlier, YouTube seems hungry for more subs.
 
@@ -100,7 +88,6 @@ After a 10-ads-per-video experiment earlier, YouTube seems hungry for more subs.
  - [https://arstechnica.com/?p=1886641](https://arstechnica.com/?p=1886641)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 13:57:26+00:00
- - tags: None
 
 What to do with recordings from a whopping 300,000 mouse neurons?
 
@@ -108,6 +95,5 @@ What to do with recordings from a whopping 300,000 mouse neurons?
  - [https://arstechnica.com/?p=1886478](https://arstechnica.com/?p=1886478)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-04 13:10:54+00:00
- - tags: None
 
 "NASA is not able to share the number of bids."

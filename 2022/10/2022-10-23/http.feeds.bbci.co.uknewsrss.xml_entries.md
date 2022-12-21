@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Diwali 2022: India celebrates the festival with a dazzling display of lights
  - [https://www.bbc.co.uk/news/world-asia-india-63326532?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63326532?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 23:15:45+00:00
- - tags: None
 
 Millions of Indians are illuminating their surroundings with lamps and fireworks to celebrate the festival.
 
@@ -12,7 +11,6 @@ Millions of Indians are illuminating their surroundings with lamps and fireworks
  - [https://www.bbc.co.uk/news/entertainment-arts-63344081?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63344081?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 23:08:05+00:00
- - tags: None
 
 How have the revelations behind Harvey Weinstein's court cases changed how Hollywood works?
 
@@ -20,7 +18,6 @@ How have the revelations behind Harvey Weinstein's court cases changed how Holly
  - [https://www.bbc.co.uk/news/business-63367733?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63367733?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 23:06:20+00:00
- - tags: None
 
 Royal Mail says everyday stamps that do not have a barcode will no be longer valid after 31 January.
 
@@ -28,7 +25,6 @@ Royal Mail says everyday stamps that do not have a barcode will no be longer val
  - [https://www.bbc.co.uk/sport/av/football/63368384?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63368384?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 23:04:07+00:00
- - tags: None
 
 Former Newcastle captain and manager Alan Shearer explains how his old club's pressing and unity helped them beat Tottenham 2-1.
 
@@ -36,7 +32,6 @@ Former Newcastle captain and manager Alan Shearer explains how his old club's pr
  - [https://www.bbc.co.uk/sport/golf/63368797?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/golf/63368797?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 21:59:29+00:00
- - tags: None
 
 Rory McIlroy overtakes Scottie Scheffler at the top of golf's world rankings by retaining his CJ Cup title in South Carolina.
 
@@ -44,7 +39,6 @@ Rory McIlroy overtakes Scottie Scheffler at the top of golf's world rankings by 
  - [https://www.bbc.co.uk/news/uk-politics-63368973?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63368973?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 21:53:04+00:00
- - tags: None
 
 Boris Johnson's full statement as he rules himself out of the race to replace Liz Truss as the next PM.
 
@@ -52,7 +46,6 @@ Boris Johnson's full statement as he rules himself out of the race to replace Li
  - [https://www.bbc.co.uk/news/world-latin-america-63361816?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63361816?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 21:27:33+00:00
- - tags: None
 
 The hurricane has since been downgraded to a tropical cyclone and is expected to dissipate overnight.
 
@@ -60,7 +53,6 @@ The hurricane has since been downgraded to a tropical cyclone and is expected to
  - [https://www.bbc.co.uk/sport/football/63366602?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63366602?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 21:13:47+00:00
- - tags: None
 
 Match of the Day pundit Alan Shearer was not expecting his old side Newcastle to be in the Premier League top four after 12 games but says their results show they mean business.
 
@@ -68,7 +60,6 @@ Match of the Day pundit Alan Shearer was not expecting his old side Newcastle to
  - [https://www.bbc.co.uk/sport/football/63368417?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63368417?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 21:11:06+00:00
- - tags: None
 
 Tottenham boss Antonio Conte says Spurs need "time and patience and, also for sure, money," after suffering a third defeat in five Premier League games.
 
@@ -76,7 +67,6 @@ Tottenham boss Antonio Conte says Spurs need "time and patience and, also for su
  - [https://www.bbc.co.uk/sport/formula1/63368312?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63368312?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 20:57:28+00:00
- - tags: None
 
 Max Verstappen fought back to pass Lewis Hamilton to win a dramatic United States Grand Prix and equal the record for victories in a season.
 
@@ -84,7 +74,6 @@ Max Verstappen fought back to pass Lewis Hamilton to win a dramatic United State
  - [https://www.bbc.co.uk/news/uk-politics-63368396?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63368396?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 20:57:16+00:00
- - tags: None
 
 The former PM says he had the support of the MPs needed but "it would not be the right thing to do".
 
@@ -92,7 +81,6 @@ The former PM says he had the support of the MPs needed but "it would not be the
  - [https://www.bbc.co.uk/news/uk-wales-63285821?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63285821?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 20:55:41+00:00
- - tags: None
 
 Scrapping some new builds in England and Wales due to poor water quality could cost economy £16bn.
 
@@ -100,7 +88,6 @@ Scrapping some new builds in England and Wales due to poor water quality could c
  - [https://www.bbc.co.uk/sport/football/63368172?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63368172?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 20:11:23+00:00
- - tags: None
 
 Whose sheer presence causes pandemonium? Who dug his team out of a hole? Find out in Garth Crooks' latest Team of the Week.
 
@@ -108,7 +95,6 @@ Whose sheer presence causes pandemonium? Who dug his team out of a hole? Find ou
  - [https://www.bbc.co.uk/sport/football/63341730?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63341730?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 19:30:18+00:00
- - tags: None
 
 Jesse Marsch says his long-term future is at Leeds but Sunday's loss to Fulham laid bare the problems he faces.
 
@@ -116,7 +102,6 @@ Jesse Marsch says his long-term future is at Leeds but Sunday's loss to Fulham l
  - [https://www.bbc.co.uk/news/uk-england-essex-63368193?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-63368193?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 18:28:38+00:00
- - tags: None
 
 Scott-Swaley Daniel Stevens, 12, was "well-loved" and "will be missed by so many", his family says.
 
@@ -124,7 +109,6 @@ Scott-Swaley Daniel Stevens, 12, was "well-loved" and "will be missed by so many
  - [https://www.bbc.co.uk/sport/football/63274136?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63274136?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 18:01:08+00:00
- - tags: None
 
 Newcastle United's impressive early season form continues to gather momentum with a superb win at Tottenham which lifts them up into fourth in the Premier League table.
 
@@ -132,7 +116,6 @@ Newcastle United's impressive early season form continues to gather momentum wit
  - [https://www.bbc.co.uk/news/world-us-canada-63365214?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63365214?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 16:19:18+00:00
- - tags: None
 
 Literary agent Andrew Wylie gives an update on the novelist's health two months after his stabbing.
 
@@ -140,7 +123,6 @@ Literary agent Andrew Wylie gives an update on the novelist's health two months 
  - [https://www.bbc.co.uk/news/uk-england-london-63367235?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63367235?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 15:53:30+00:00
- - tags: None
 
 Two women were taken to hospital after reports of a fight in east London, the Met says.
 
@@ -148,7 +130,6 @@ Two women were taken to hospital after reports of a fight in east London, the Me
  - [https://www.bbc.co.uk/sport/cricket/63363647?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63363647?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 15:44:19+00:00
- - tags: None
 
 India superstar Virat Kohli caps a sporting occasion like no other in Melbourne with a masterclass that ranks among his greatest feats.
 
@@ -156,7 +137,6 @@ India superstar Virat Kohli caps a sporting occasion like no other in Melbourne 
  - [https://www.bbc.co.uk/sport/football/63274131?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63274131?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 15:25:53+00:00
- - tags: None
 
 Arsenal drop points for only the second time this season as Stuart Armstrong's second-half equaliser earns Southampton a hard-earned point.
 
@@ -164,7 +144,6 @@ Arsenal drop points for only the second time this season as Stuart Armstrong's s
  - [https://www.bbc.co.uk/sport/football/63274134?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63274134?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 15:11:54+00:00
- - tags: None
 
 Fulham come from behind to leave Leeds without a win in eight games and pile the pressure on their boss Jesse Marsch.
 
@@ -172,7 +151,6 @@ Fulham come from behind to leave Leeds without a win in eight games and pile the
  - [https://www.bbc.co.uk/sport/av/cricket/63365619?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63365619?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 15:07:38+00:00
- - tags: None
 
 Watch the extraordinary finish to India's thrilling four-wicket victory over Pakistan in the T20 World Cup at the Melbourne Cricket Ground.
 
@@ -180,7 +158,6 @@ Watch the extraordinary finish to India's thrilling four-wicket victory over Pak
  - [https://www.bbc.co.uk/news/uk-england-london-63365850?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63365850?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 15:01:36+00:00
- - tags: None
 
 Police say they are looking for a man "believed to be known to both women".
 
@@ -188,7 +165,6 @@ Police say they are looking for a man "believed to be known to both women".
  - [https://www.bbc.co.uk/news/world-asia-63363473?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63363473?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 14:28:23+00:00
- - tags: None
 
 College students were asked to create headwear to help resist the urge to peek at others' papers.
 
@@ -196,7 +172,6 @@ College students were asked to create headwear to help resist the urge to peek a
  - [https://www.bbc.co.uk/sport/football/63274099?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63274099?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 13:14:30+00:00
- - tags: None
 
 Arsenal equal a Women's Super League record of 12 successive wins with a fairly routine victory over Liverpool.
 
@@ -204,7 +179,6 @@ Arsenal equal a Women's Super League record of 12 successive wins with a fairly 
  - [https://www.bbc.co.uk/sport/cricket/63363905?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63363905?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 12:48:43+00:00
- - tags: None
 
 A Virat Kohli-inspired India beat rivals Pakistan in an extraordinary finish to a Men's T20 World Cup classic at the Melbourne Cricket Ground.
 
@@ -212,7 +186,6 @@ A Virat Kohli-inspired India beat rivals Pakistan in an extraordinary finish to 
  - [https://www.bbc.co.uk/news/uk-63364125?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63364125?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 12:31:59+00:00
- - tags: None
 
 Hundreds of people receive the first congratulatory messages from the new monarch and Queen Consort.
 
@@ -220,7 +193,6 @@ Hundreds of people receive the first congratulatory messages from the new monarc
  - [https://www.bbc.co.uk/sport/av/63365615?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/63365615?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 12:12:23+00:00
- - tags: None
 
 Virat Kohli hits three fours in the 18th over to swing momentum India's way in a thrilling T20 World Cup match against Pakistan at the Melbourne Cricket Ground.
 
@@ -228,7 +200,6 @@ Virat Kohli hits three fours in the 18th over to swing momentum India's way in a
  - [https://www.bbc.co.uk/news/world-europe-63365211?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63365211?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 12:09:02+00:00
- - tags: None
 
 As Ukraine retakes territory, villagers tell the BBC about their precarious survival under Russian rule.
 
@@ -236,7 +207,6 @@ As Ukraine retakes territory, villagers tell the BBC about their precarious surv
  - [https://www.bbc.co.uk/news/business-63364240?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63364240?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 12:04:57+00:00
- - tags: None
 
 Former Bank of England governor Lord King says people could face "significantly higher taxes".
 
@@ -244,7 +214,6 @@ Former Bank of England governor Lord King says people could face "significantly 
  - [https://www.bbc.co.uk/news/world-europe-63365241?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63365241?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 11:40:12+00:00
- - tags: None
 
 The Sukhoi Su-30 military jet was on a test flight when it came down in Irkutsk, authorities say.
 
@@ -252,7 +221,6 @@ The Sukhoi Su-30 military jet was on a test flight when it came down in Irkutsk,
  - [https://www.bbc.co.uk/news/uk-politics-63363813?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63363813?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 10:27:07+00:00
- - tags: None
 
 The minister, who was the first to formally enter the race, has said she remains "in it to win it".
 
@@ -260,7 +228,6 @@ The minister, who was the first to formally enter the race, has said she remains
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63364346?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63364346?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 10:09:01+00:00
- - tags: None
 
 A break in the lines connecting Shetland to the mainland had cut internet and phone services.
 
@@ -268,7 +235,6 @@ A break in the lines connecting Shetland to the mainland had cut internet and ph
  - [https://www.bbc.co.uk/news/world-asia-china-63225277?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63225277?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 09:45:56+00:00
- - tags: None
 
 China did not want another Mao, but the party did little to stop the rise of a more powerful leader.
 
@@ -276,7 +242,6 @@ China did not want another Mao, but the party did little to stop the rise of a m
  - [https://www.bbc.co.uk/news/uk-politics-63363420?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63363420?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 09:37:33+00:00
- - tags: None
 
 It comes after Boris Johnson held talks with his rival Rishi Sunak, amid speculation they could strike a deal.
 
@@ -284,7 +249,6 @@ It comes after Boris Johnson held talks with his rival Rishi Sunak, amid specula
  - [https://www.bbc.co.uk/news/world-asia-china-63362548?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63362548?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 09:31:27+00:00
- - tags: None
 
 The Chinese leader moves into a historic third term in power and makes
 
@@ -292,7 +256,6 @@ The Chinese leader moves into a historic third term in power and makes
  - [https://www.bbc.co.uk/news/uk-wales-63313565?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63313565?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 08:24:37+00:00
- - tags: None
 
 Emma spent 15 weeks in hospital after developing complications from her surgery in Turkey.
 
@@ -300,7 +263,6 @@ Emma spent 15 weeks in hospital after developing complications from her surgery 
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63349803?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63349803?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 08:04:18+00:00
- - tags: None
 
 Descendant of suffragist Dr Elsie Inglis speaks about controversy over statue planned for Edinburgh.
 
@@ -308,7 +270,6 @@ Descendant of suffragist Dr Elsie Inglis speaks about controversy over statue pl
  - [https://www.bbc.co.uk/sport/cricket/63362841?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63362841?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 07:29:29+00:00
- - tags: None
 
 Sri Lanka cruise to a nine-wicket victory over Ireland in their Super 12s opener at the T20 World Cup in Hobart.
 
@@ -316,7 +277,6 @@ Sri Lanka cruise to a nine-wicket victory over Ireland in their Super 12s opener
  - [https://www.bbc.co.uk/sport/rugby-union/63363331?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63363331?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 07:27:38+00:00
- - tags: None
 
 England steamroller South Africa to top Pool C on their way to a World Cup quarter-final against Australia.
 
@@ -324,7 +284,6 @@ England steamroller South Africa to top Pool C on their way to a World Cup quart
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63360476?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63360476?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 07:05:01+00:00
- - tags: None
 
 Islam Makhachev produces a memorable win to emulate his mentor, and TJ Dillashaw fights on through the pain barrier - plus the other key talking points from UFC 280, in Abu Dhabi.
 
@@ -332,7 +291,6 @@ Islam Makhachev produces a memorable win to emulate his mentor, and TJ Dillashaw
  - [https://www.bbc.co.uk/news/uk-england-shropshire-63301049?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-shropshire-63301049?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 06:45:23+00:00
- - tags: None
 
 Ahmed has been waiting since May to hear if visa applications have been successful.
 
@@ -340,7 +298,6 @@ Ahmed has been waiting since May to hear if visa applications have been successf
  - [https://www.bbc.co.uk/news/uk-wales-63244621?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63244621?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 06:24:13+00:00
- - tags: None
 
 Ryan George met four friends while playing Fifa and invited them to the happiest day of his life.
 
@@ -348,7 +305,6 @@ Ryan George met four friends while playing Fifa and invited them to the happiest
  - [https://www.bbc.co.uk/sport/formula1/63361855?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63361855?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 05:50:11+00:00
- - tags: None
 
 The emotion was unmistakable in Max Verstappen's face and voice as he paid tribute to Red Bull co-owner Dietrich Mateschitz after qualifying at the United States Grand Prix.
 
@@ -356,7 +312,6 @@ The emotion was unmistakable in Max Verstappen's face and voice as he paid tribu
  - [https://www.bbc.co.uk/news/world-asia-china-63339821?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63339821?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 05:41:21+00:00
- - tags: None
 
 The Politburo Standing Committee of the Communist Party makes up the country's power centre.
 
@@ -364,7 +319,6 @@ The Politburo Standing Committee of the Communist Party makes up the country's p
  - [https://www.bbc.co.uk/news/world-europe-63361813?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63361813?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 00:35:09+00:00
- - tags: None
 
 About 80,000 people march in Germany's capital, in the biggest rally held so far by the Iranian diaspora.
 
@@ -372,7 +326,6 @@ About 80,000 people march in Germany's capital, in the biggest rally held so far
  - [https://www.bbc.co.uk/news/stories-63317358?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/stories-63317358?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 00:00:24+00:00
- - tags: None
 
 In April 1945, the BBC’s Richard Dimbleby was the first reporter to enter the liberated Belsen concentration camp.
 
@@ -380,6 +333,5 @@ In April 1945, the BBC’s Richard Dimbleby was the first reporter to enter the 
  - [https://www.bbc.co.uk/news/entertainment-arts-63255917?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63255917?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-23 00:00:11+00:00
- - tags: None
 
 My Neighbour Totoro, the classic anime film, has been recreated by the Royal Shakespeare Company.

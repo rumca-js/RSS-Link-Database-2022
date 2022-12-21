@@ -1,10 +1,9 @@
-# Source Climate Town, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA
+# Source Climate Town, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA, Source language: en-US
 
 ## The News Media Is Selling You Out | Climate Town
  - [https://www.youtube.com/watch?v=jkhGJUTW3ag](https://www.youtube.com/watch?v=jkhGJUTW3ag)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA
  - date published: 2022-10-26 16:00:11+00:00
- - tags: None
 
 100 years Herb Schmertz. Patreon: https://www.patreon.com/ClimateTown 
 sUbScRiBe FoR mOrE ViDeOs: https://www.youtube.com/c/climatetown?sub_confirmation=1

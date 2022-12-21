@@ -1,10 +1,9 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
 
 ## How Dangerous is a Penny Dropped From a Skyscraper?
  - [https://www.youtube.com/watch?v=16Ci_2bN_zc](https://www.youtube.com/watch?v=16Ci_2bN_zc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
  - date published: 2022-10-01 15:00:11+00:00
- - tags: None
 
 This video is sponsored by Brilliant. You can get started for free, or the first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. Check out Adam Savage's video: https://youtu.be/h_zytOcMwys
 

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Axios
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59151](https://www.codeproject.com/script/News/View.aspx?nwid=59151)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Promise based HTTP client for the browser and node.js
 
@@ -12,7 +11,6 @@ Promise based HTTP client for the browser and node.js
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59157](https://www.codeproject.com/script/News/View.aspx?nwid=59157)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Press any key to continue
 
@@ -20,7 +18,6 @@ Press any key to continue
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59145](https://www.codeproject.com/script/News/View.aspx?nwid=59145)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 "Always the eyes watching you and the voice enveloping you"
 
@@ -28,7 +25,6 @@ Press any key to continue
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59152](https://www.codeproject.com/script/News/View.aspx?nwid=59152)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 We can use the clamp() method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.
 
@@ -36,7 +32,6 @@ We can use the clamp() method today because of the great browser support. In thi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59142](https://www.codeproject.com/script/News/View.aspx?nwid=59142)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 My code has always been error prone
 
@@ -44,7 +39,6 @@ My code has always been error prone
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59156](https://www.codeproject.com/script/News/View.aspx?nwid=59156)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Along with desire and need
 
@@ -52,7 +46,6 @@ Along with desire and need
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59146](https://www.codeproject.com/script/News/View.aspx?nwid=59146)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 It defines all your standard UX components: tabs, modals, accordions, auto-completes, and much, much more.
 
@@ -60,7 +53,6 @@ It defines all your standard UX components: tabs, modals, accordions, auto-compl
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59147](https://www.codeproject.com/script/News/View.aspx?nwid=59147)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 This article will show you what exactly a WebApplicationFactory is and why it is so "mighty" when it comes down to testing. I will highlight some of the properties, which you can leverage to write powerful tests.
 
@@ -68,7 +60,6 @@ This article will show you what exactly a WebApplicationFactory is and why it is
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59153](https://www.codeproject.com/script/News/View.aspx?nwid=59153)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 "All these words, I don't just say, and nothing else matters"
 
@@ -76,7 +67,6 @@ This article will show you what exactly a WebApplicationFactory is and why it is
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59154](https://www.codeproject.com/script/News/View.aspx?nwid=59154)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 "A bad workman blames his tools"
 
@@ -84,7 +74,6 @@ This article will show you what exactly a WebApplicationFactory is and why it is
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59149](https://www.codeproject.com/script/News/View.aspx?nwid=59149)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Chrome will take a gradual and experimental approach to turning off Manifest V2 to ensure a smooth end-user experience during the phase-out process.
 
@@ -92,7 +81,6 @@ Chrome will take a gradual and experimental approach to turning off Manifest V2 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59155](https://www.codeproject.com/script/News/View.aspx?nwid=59155)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Beware of hackers with radar love
 
@@ -100,7 +88,6 @@ Beware of hackers with radar love
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59143](https://www.codeproject.com/script/News/View.aspx?nwid=59143)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Pick up the Big Formatting Gun!
 
@@ -108,7 +95,6 @@ Pick up the Big Formatting Gun!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59150](https://www.codeproject.com/script/News/View.aspx?nwid=59150)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 For years, anything static was served from CDNs around the globe, close to users. Now, the same is starting to be true of dynamic web apps. You can deploy it all, everywhere.
 
@@ -116,7 +102,6 @@ For years, anything static was served from CDNs around the globe, close to users
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59144](https://www.codeproject.com/script/News/View.aspx?nwid=59144)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Beware of hackers bearing thermometers
 
@@ -124,7 +109,6 @@ Beware of hackers bearing thermometers
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59141](https://www.codeproject.com/script/News/View.aspx?nwid=59141)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 And Natural Intelligence mandated
 
@@ -132,6 +116,5 @@ And Natural Intelligence mandated
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59148](https://www.codeproject.com/script/News/View.aspx?nwid=59148)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-11 04:00:00+00:00
- - tags: None
 
 Beloved and despised, Tailwind CSS brings out strong opinions. Alyssa Nicoll plays around with it so you can see which side you’ll pick.

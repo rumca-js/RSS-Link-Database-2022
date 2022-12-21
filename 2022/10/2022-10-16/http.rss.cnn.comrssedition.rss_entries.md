@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Trump complains American Jews don't appreciate his moves on Israel, drawing criticism
  - [https://www.cnn.com/2022/10/16/politics/trump-american-jews-israel/index.html](https://www.cnn.com/2022/10/16/politics/trump-american-jews-israel/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 22:33:18+00:00
- - tags: None
 
 Former President Donald Trump on Sunday criticized American Jews for what he argued was their insufficient praise of his policies toward Israel, warning that they need to "get their act together" before "it is too late!"
 
@@ -12,7 +11,6 @@ Former President Donald Trump on Sunday criticized American Jews for what he arg
  - [https://www.cnn.com/videos/politics/2022/10/16/alex-holder-jan-6-capitol-insurrection-acostanr-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/16/alex-holder-jan-6-capitol-insurrection-acostanr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 22:28:59+00:00
- - tags: None
 
 CNN's Jim Acosta speaks to British filmmaker Alex Holder about exclusive new footage he shared with January 6 committee and CNN.
 
@@ -20,7 +18,6 @@ CNN's Jim Acosta speaks to British filmmaker Alex Holder about exclusive new foo
  - [https://www.cnn.com/videos/sports/2022/10/16/tennessee-volunteers-football-fans-throw-goalpost-in-river-alabama-crimson-tide-vols-orig-llr.cnn](https://www.cnn.com/videos/sports/2022/10/16/tennessee-volunteers-football-fans-throw-goalpost-in-river-alabama-crimson-tide-vols-orig-llr.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 22:08:42+00:00
- - tags: None
 
 University of Tennessee football fans found a unique way to celebrate their victory over the Alabama Crimson Tide.
 
@@ -28,7 +25,6 @@ University of Tennessee football fans found a unique way to celebrate their vict
  - [https://www.cnn.com/videos/media/2022/10/16/snl-megan-thee-stallion-orig.cnn](https://www.cnn.com/videos/media/2022/10/16/snl-megan-thee-stallion-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 18:33:01+00:00
- - tags: None
 
 The rapper showcased her comedy chops while pulling double duty as host and musical guest on "Saturday Night Live".
 
@@ -36,7 +32,6 @@ The rapper showcased her comedy chops while pulling double duty as host and musi
  - [https://www.cnn.com/2022/10/16/football/liverpool-mo-salah-manchester-city-stp-int/index.html](https://www.cnn.com/2022/10/16/football/liverpool-mo-salah-manchester-city-stp-int/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 18:07:46+00:00
- - tags: None
 
 Much of the pre-match talk ahead of Liverpool's English Premier League clash against Manchester City had been about City's goal machine Erling Haaland, and rightly so given the striker's record-breaking form.
 
@@ -44,7 +39,6 @@ Much of the pre-match talk ahead of Liverpool's English Premier League clash aga
  - [https://www.cnn.com/videos/world/2022/10/16/china-party-congress-opening-day-xi-jinping-speech-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/10/16/china-party-congress-opening-day-xi-jinping-speech-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 17:39:25+00:00
- - tags: None
 
 Xi Jinping vowed to steer China through grave challenges toward national rejuvenation during his two-hour speech at the opening ceremony of the Communist Party Congress. CNN's Selina Wang reports on the significance of the speech.
 
@@ -52,7 +46,6 @@ Xi Jinping vowed to steer China through grave challenges toward national rejuven
  - [https://www.cnn.com/2022/10/16/politics/house-republicans-red-wave-midterms-oregon/index.html](https://www.cnn.com/2022/10/16/politics/house-republicans-red-wave-midterms-oregon/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 17:24:35+00:00
- - tags: None
 
 • Kari Lake doesn't commit to accepting Arizona election result if she loses 
 • Buttigieg more in demand than Harris in midterms as Democrats see signs of 2024
@@ -61,7 +54,6 @@ Xi Jinping vowed to steer China through grave challenges toward national rejuven
  - [https://www.cnn.com/2022/10/16/football/real-madrid-barcelona-el-clasico-spt-intl/index.html](https://www.cnn.com/2022/10/16/football/real-madrid-barcelona-el-clasico-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 17:07:05+00:00
- - tags: None
 
 Real Madrid and Barcelona both took to the field unbeaten in La Liga this season, with Barça leading its rival on points difference at the top of the league.
 
@@ -69,7 +61,6 @@ Real Madrid and Barcelona both took to the field unbeaten in La Liga this season
  - [https://www.cnn.com/videos/world/2022/10/16/thomas-friedman-vladimir-putin-hail-mary-ukraine-gps-vpx.cnn](https://www.cnn.com/videos/world/2022/10/16/thomas-friedman-vladimir-putin-hail-mary-ukraine-gps-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 16:24:55+00:00
- - tags: None
 
 New York Times columnist and author Tom Friedman predicts what Russian President Vladimir Putin's next moves could be in his invasion of Ukraine.
 
@@ -77,7 +68,6 @@ New York Times columnist and author Tom Friedman predicts what Russian President
  - [https://www.cnn.com/videos/weather/2022/10/16/arctic-strategy-russia-climate-change-angus-king-sanchez-ndw-vpx.cnn](https://www.cnn.com/videos/weather/2022/10/16/arctic-strategy-russia-climate-change-angus-king-sanchez-ndw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 16:24:01+00:00
- - tags: None
 
 Sen. Angus King (I-ME) says the United States has fallen behind in securing the Arctic, which he argues could soon become the center of a global showdown -- and potentially -- the stage for a nuclear show of force by Russian President Vladimir Putin. CNN's Boris Sanchez reports.
 
@@ -85,7 +75,6 @@ Sen. Angus King (I-ME) says the United States has fallen behind in securing the 
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-16-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-16-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 16:02:16.112497+00:00
- - tags: None
 
 
 
@@ -93,7 +82,6 @@ Sen. Angus King (I-ME) says the United States has fallen behind in securing the 
  - [https://www.cnn.com/videos/us/2022/10/13/goatscaping-wildfire-prevention-lbb-orig.cnn](https://www.cnn.com/videos/us/2022/10/13/goatscaping-wildfire-prevention-lbb-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:54:30+00:00
- - tags: None
 
 You may have seen goats roaming your neighborhood. Well, localities are realizing they're the furry, fun and sustainable way to landscape large areas and help with wildfire prevention, all without pesticides and gas-guzzling machines. Here's how goats are using their four-chamber stomachs and voracious appetites to help firefighters and communities clean things up.
 
@@ -101,7 +89,6 @@ You may have seen goats roaming your neighborhood. Well, localities are realizin
  - [https://www.cnn.com/2022/10/16/uk/queen-elizabeth-teddy-bears-donation-trnd/index.html](https://www.cnn.com/2022/10/16/uk/queen-elizabeth-teddy-bears-donation-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:54:27+00:00
- - tags: None
 
 More than 1,000 teddy bears left in tribute to Queen Elizabeth II will be donated to a children's charity, Buckingham Palace announced.
 
@@ -109,7 +96,6 @@ More than 1,000 teddy bears left in tribute to Queen Elizabeth II will be donate
  - [https://www.cnn.com/travel/article/tucci-lamb-in-clay-recipe-wellness-origseriesfilms/index.html](https://www.cnn.com/travel/article/tucci-lamb-in-clay-recipe-wellness-origseriesfilms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:52:17+00:00
- - tags: None
 
 Get ready to get your hands dirty and eat heartily. An Italian chef in southern Italy is resurrecting an ancient cooking method that makes the most tender, fall-apart lamb.
 
@@ -117,7 +103,6 @@ Get ready to get your hands dirty and eat heartily. An Italian chef in southern 
  - [https://www.cnn.com/videos/tv/2022/10/14/exp-gps-1016-fareeds-take.cnn](https://www.cnn.com/videos/tv/2022/10/14/exp-gps-1016-fareeds-take.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:38:25+00:00
- - tags: None
 
 As the West wages an economic war on Russia, Fareed explains the risks may not be nuclear but they are "sky high."
 
@@ -125,7 +110,6 @@ As the West wages an economic war on Russia, Fareed explains the risks may not b
  - [https://www.cnn.com/2022/10/16/us/climate-change-arctic-us-putin-china-climate/index.html](https://www.cnn.com/2022/10/16/us/climate-change-arctic-us-putin-china-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:34:29+00:00
- - tags: None
 
 Climate change is unlocking a new crossroads and potential center of conflict: the Arctic. But one key lawmaker is warning the US has lagged behind in securing the region, as other powers move in, adding he believes the Arctic may soon be a stage for a nuclear show of force by Vladimir Putin.
 
@@ -133,7 +117,6 @@ Climate change is unlocking a new crossroads and potential center of conflict: t
  - [https://www.cnn.com/2022/10/16/politics/joe-biden-saudi-arabia-relationship-congress/index.html](https://www.cnn.com/2022/10/16/politics/joe-biden-saudi-arabia-relationship-congress/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:04:58+00:00
- - tags: None
 
 President Joe Biden's reassessment of the United States' relationship with Saudi Arabia will happen "methodically" and will include bipartisan consultations, and there will be no major changes until after Congress returns from recess, according to national security adviser Jake Sullivan.
 
@@ -141,7 +124,6 @@ President Joe Biden's reassessment of the United States' relationship with Saudi
  - [https://cnn.it/3exS6yj](https://cnn.it/3exS6yj)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 15:02:17.124023+00:00
- - tags: None
 
 
 
@@ -149,7 +131,6 @@ President Joe Biden's reassessment of the United States' relationship with Saudi
  - [https://www.cnn.com/videos/politics/2022/10/16/kari-lake-2020-election-claim-dana-bash-sotu-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/16/kari-lake-2020-election-claim-dana-bash-sotu-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 14:45:27+00:00
- - tags: None
 
 CNN's Dana Bash presses Republican gubernatorial candidate for Arizona Kari Lake about her claim that there was election fraud in the 2020 election.
 
@@ -157,7 +138,6 @@ CNN's Dana Bash presses Republican gubernatorial candidate for Arizona Kari Lake
  - [https://www.cnn.com/2022/10/16/world/cheetah-cub-cam-smithsonian-newborn-twins-scn/index.html](https://www.cnn.com/2022/10/16/world/cheetah-cub-cam-smithsonian-newborn-twins-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 14:13:40+00:00
- - tags: None
 
 Nestled in their heated den, the newborn cheetah cubs at Smithsonian's Conservation Biology Institute spend their days doing what just about any young animal does — a lot of sleeping. What makes these cubs special, however, is their dedicated online audience, checking in from all over the world to monitor the growing babies and experience their developmental milestones.
 
@@ -165,7 +145,6 @@ Nestled in their heated den, the newborn cheetah cubs at Smithsonian's Conservat
  - [https://www.cnn.com/2022/10/16/entertainment/till-movie-black-trauma-debate-cec/index.html](https://www.cnn.com/2022/10/16/entertainment/till-movie-black-trauma-debate-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 13:49:12+00:00
- - tags: None
 
 Chinonye Chukwu didn't want to make a movie about Black trauma.
 
@@ -173,7 +152,6 @@ Chinonye Chukwu didn't want to make a movie about Black trauma.
  - [https://www.cnn.com/2022/10/16/sport/padres-dodgers-astros-mariners-mlb-spt-intl/index.html](https://www.cnn.com/2022/10/16/sport/padres-dodgers-astros-mariners-mlb-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 13:03:24+00:00
- - tags: None
 
 Was this the biggest upset in postseason history? The Los Angeles Dodgers were on a winning streak like no other -- but it is the San Diego Padres who are on their way to the National League Championship Series (NLCS).
 
@@ -181,7 +159,6 @@ Was this the biggest upset in postseason history? The Los Angeles Dodgers were o
  - [https://www.cnn.com/2022/10/16/politics/nato-russia-exercises/index.html](https://www.cnn.com/2022/10/16/politics/nato-russia-exercises/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 13:01:46+00:00
- - tags: None
 
 
 
@@ -189,7 +166,6 @@ Was this the biggest upset in postseason history? The Los Angeles Dodgers were o
  - [https://www.cnn.com/travel/article/spooky-cities-haunted-new-orleans-salem-savannah-cec/index.html](https://www.cnn.com/travel/article/spooky-cities-haunted-new-orleans-salem-savannah-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 12:53:20+00:00
- - tags: None
 
 Several locales across the US claim to be king when it comes to Halloween. But three in particular -- Savannah, Georgia; New Orleans and Salem, Massachusetts -- have the haunting histories to truly earn the title.
 
@@ -197,7 +173,6 @@ Several locales across the US claim to be king when it comes to Halloween. But t
  - [https://www.cnn.com/2022/10/16/opinions/trumps-all-caps-rage-is-back-opinion-column-carr/index.html](https://www.cnn.com/2022/10/16/opinions/trumps-all-caps-rage-is-back-opinion-column-carr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 12:39:41+00:00
- - tags: None
 
 Poetry's genius is that it offers both an endless supply of words and a fresh way of looking at everything under the sun. As an example, the word "majusculation" -- from the noun "majuscule," meaning upper case or capital lettering (the inverse of "miniscule") -- in poetry refers to the capitalization of the first letter in every line of a poem.
 
@@ -205,7 +180,6 @@ Poetry's genius is that it offers both an endless supply of words and a fresh wa
  - [https://www.cnn.com/2022/10/16/us/nikolas-cruz-jury-life-recommendation-whats-next/index.html](https://www.cnn.com/2022/10/16/us/nikolas-cruz-jury-life-recommendation-whats-next/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 12:25:16+00:00
- - tags: None
 
 Here's what we know: Nikolas Cruz, the now 24-year-old who admitted to killing 17 people in Florida's Marjory Stoneman Douglas High School in February 2018, has avoided the death penalty.
 
@@ -213,7 +187,6 @@ Here's what we know: Nikolas Cruz, the now 24-year-old who admitted to killing 1
  - [https://www.cnn.com/2022/10/16/sport/claressa-shields-win-savannah-marshall-spt-intl/index.html](https://www.cnn.com/2022/10/16/sport/claressa-shields-win-savannah-marshall-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 11:59:31+00:00
- - tags: None
 
 Claressa Shields became the undisputed world middleweight champion, defeating her bitter rival Savannah Marshall by unanimous decision at the O2 Arena in London.
 
@@ -221,7 +194,6 @@ Claressa Shields became the undisputed world middleweight champion, defeating he
  - [https://www.cnn.com/2022/10/16/investing/stocks-week-ahead/index.html](https://www.cnn.com/2022/10/16/investing/stocks-week-ahead/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 11:30:44+00:00
- - tags: None
 
 Elon Musk now wants to buy Twitter after all. While that's good news for Twitter's long-suffering shareholders, Tesla investors hope he still has some time for them. They need a little help, too.
 
@@ -229,7 +201,6 @@ Elon Musk now wants to buy Twitter after all. While that's good news for Twitter
  - [https://www.cnn.com/2022/10/16/football/sheffield-united-blackpool-spt-int/index.html](https://www.cnn.com/2022/10/16/football/sheffield-united-blackpool-spt-int/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 11:19:13+00:00
- - tags: None
 
 Where to start in a match such as this? The 98th-minute equalizer, or the four red cards? The missed penalty or perhaps the mass brawl?
 
@@ -237,7 +208,6 @@ Where to start in a match such as this? The 98th-minute equalizer, or the four r
  - [https://www.cnn.com/videos/world/2022/10/16/xi-jinping-china-legacy-vision-wang-pkg-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/10/16/xi-jinping-china-legacy-vision-wang-pkg-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 10:31:50+00:00
- - tags: None
 
 In just ten years, Xi Jinping has irreversibly changed China. The grand strategy underpinning it all is to restore the country to his imagined vision of a strong, powerful China. CNN's Selina Wang breaks down Xi Jinping's legacy.
 
@@ -245,7 +215,6 @@ In just ten years, Xi Jinping has irreversibly changed China. The grand strategy
  - [https://www.cnn.com/2022/10/16/us/hawaii-extinct-plant-discovery-scn-trnd/index.html](https://www.cnn.com/2022/10/16/us/hawaii-extinct-plant-discovery-scn-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 10:07:59+00:00
- - tags: None
 
 A rare plant thought to be extinct in the wild has been discovered in a crater on Hawaii.
 
@@ -253,7 +222,6 @@ A rare plant thought to be extinct in the wild has been discovered in a crater o
  - [https://www.cnn.com/2022/10/16/europe/gunmen-kill-11-russian-military-recruits-intl/index.html](https://www.cnn.com/2022/10/16/europe/gunmen-kill-11-russian-military-recruits-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 08:04:10+00:00
- - tags: None
 
 Two gunmen opened fire on Russian military recruits at a training ground in Russia's Belgorod region, killing at least 11 people and wounding another 15, Russia's state news agency TASS reports.
 
@@ -261,7 +229,6 @@ Two gunmen opened fire on Russian military recruits at a training ground in Russ
  - [https://www.cnn.com/2022/10/16/australia/australia-pm-albanese-tours-flood-zones-intl-hnk/index.html](https://www.cnn.com/2022/10/16/australia/australia-pm-albanese-tours-flood-zones-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 07:59:18+00:00
- - tags: None
 
 Australian Prime Minister Anthony Albanese toured flooded areas of the southeastern state of Victoria Sunday -- as emergency services warned waters up to 12 meters were expected to inundate thousands of properties.
 
@@ -269,7 +236,6 @@ Australian Prime Minister Anthony Albanese toured flooded areas of the southeast
  - [https://www.cnn.com/2022/10/16/us/alaska-snow-crab-harvest-canceled-climate/index.html](https://www.cnn.com/2022/10/16/us/alaska-snow-crab-harvest-canceled-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 07:02:19+00:00
- - tags: None
 
 The Alaska snow crab harvest has been canceled for the first time ever after billions of the crustaceans have disappeared from the cold, treacherous waters of the Bering Sea in recent years.
 
@@ -277,7 +243,6 @@ The Alaska snow crab harvest has been canceled for the first time ever after bil
  - [https://www.cnn.com/2022/10/16/europe/ukraine-izium-strike-families-pershotravneva-intl-cmd/index.html](https://www.cnn.com/2022/10/16/europe/ukraine-izium-strike-families-pershotravneva-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 06:56:47+00:00
- - tags: None
 
 • Gunmen kill at least 11 in attack on Russian military recruits: Russian state media
 • Iran denies supplying Russia with weapons for use in Ukraine
@@ -287,7 +252,6 @@ The Alaska snow crab harvest has been canceled for the first time ever after bil
  - [https://www.cnn.com/2022/10/16/americas/gunmen-kills-12-people-mexico-bar-intl-hnk/index.html](https://www.cnn.com/2022/10/16/americas/gunmen-kills-12-people-mexico-bar-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 06:46:25+00:00
- - tags: None
 
 Mexican authorities are searching for gunmen who killed at least 12 people and injured three more after opening fire in a bar in central Mexico on Saturday evening.
 
@@ -295,7 +259,6 @@ Mexican authorities are searching for gunmen who killed at least 12 people and i
  - [https://www.cnn.com/2022/10/16/us/stockton-serial-killings-suspect-sunday/index.html](https://www.cnn.com/2022/10/16/us/stockton-serial-killings-suspect-sunday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 06:36:28+00:00
- - tags: None
 
 With the California city of Stockton on edge following a series of late-night shootings by an unknown assailant, police officials believe another killing was prevented with the arrest of a suspect this weekend.
 
@@ -303,7 +266,6 @@ With the California city of Stockton on edge following a series of late-night sh
  - [https://www.cnn.com/2022/10/16/entertainment/midnight-club-jump-scare-record-trnd/index.html](https://www.cnn.com/2022/10/16/entertainment/midnight-club-jump-scare-record-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 06:01:20+00:00
- - tags: None
 
 Jump scare haters, beware of Netflix's new series "The Midnight Club."
 
@@ -311,7 +273,6 @@ Jump scare haters, beware of Netflix's new series "The Midnight Club."
  - [https://www.cnn.com/videos/world/2022/10/16/xi-jinping-speech-sipping-tea-stamina-party-congress-jiang-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/10/16/xi-jinping-speech-sipping-tea-stamina-party-congress-jiang-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 05:27:15+00:00
- - tags: None
 
 During Xi Jinping's almost two-hour speech at the opening ceremony of the Communist Party Congress, the Chinese leader paused several times to clear his throat and sip tea. CNN's Beijing Bureau Chief Steven Jiang explains why the subtle gestures have some online observers concerned.
 
@@ -319,7 +280,6 @@ During Xi Jinping's almost two-hour speech at the opening ceremony of the Commun
  - [https://www.cnn.com/videos/business/2022/10/16/china-xi-jinping-party-congress-economy-wang-pkg-intl-hnk-vpx.cnn](https://www.cnn.com/videos/business/2022/10/16/china-xi-jinping-party-congress-economy-wang-pkg-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 04:28:03+00:00
- - tags: None
 
 China's economy is in terrible shape. Unemployment is skyrocketing, the housing market is collapsing, and growth is stalling. Constant covid lockdowns are dragging on virtually every part of the country's economy. Swathes of the population are struggling to make ends meet. CNN's Selina Wang speaks to people who aren't seeing the economic benefits Xi has pledged under his rule.
 
@@ -327,7 +287,6 @@ China's economy is in terrible shape. Unemployment is skyrocketing, the housing 
  - [https://www.cnn.com/collections/intl-1610-iran/](https://www.cnn.com/collections/intl-1610-iran/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 03:14:02+00:00
- - tags: None
 
 
 
@@ -335,7 +294,6 @@ China's economy is in terrible shape. Unemployment is skyrocketing, the housing 
  - [https://edition.cnn.com/asia/live-news/china-party-congress-10-16-22-intl-hnk/index.html](https://edition.cnn.com/asia/live-news/china-party-congress-10-16-22-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 03:02:02.683843+00:00
- - tags: None
 
 
 
@@ -343,7 +301,6 @@ China's economy is in terrible shape. Unemployment is skyrocketing, the housing 
  - [https://edition.cnn.com/webview/asia/live-news/china-party-congress-10-16-22-intl-hnk/index.html](https://edition.cnn.com/webview/asia/live-news/china-party-congress-10-16-22-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 03:02:01.255888+00:00
- - tags: None
 
 
 
@@ -351,7 +308,6 @@ China's economy is in terrible shape. Unemployment is skyrocketing, the housing 
  - [https://www.cnn.com/videos/world/2022/10/15/china-leaders-watson-pkg-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/10/15/china-leaders-watson-pkg-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 02:53:54+00:00
- - tags: None
 
 CNN's Ivan Watson takes a historical look back at Chinese leaders from Mao Zeping to Xi Jinping, and how they shaped modern China.
 
@@ -359,7 +315,6 @@ CNN's Ivan Watson takes a historical look back at Chinese leaders from Mao Zepin
  - [https://www.cnn.com/2022/10/15/china/china-party-congress-opening-day-intl-hnk/index.html](https://www.cnn.com/2022/10/15/china/china-party-congress-opening-day-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 01:28:23+00:00
- - tags: None
 
 • Analysis: Xi poised to become China's most powerful leader since Mao Zedong
 
@@ -367,7 +322,6 @@ CNN's Ivan Watson takes a historical look back at Chinese leaders from Mao Zepin
  - [https://www.cnn.com/videos/world/2022/10/16/dmitry-glukhovsky-russia-ukraine-putin-criticism-war-brown-nr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/16/dmitry-glukhovsky-russia-ukraine-putin-criticism-war-brown-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 01:21:14+00:00
- - tags: None
 
 Russian author Dmitry Glukhovsky tells CNN's Pamela Brown why he chose to speak out against Russia's invasion of Ukraine, and some of the consequences he faces.
 
@@ -375,7 +329,6 @@ Russian author Dmitry Glukhovsky tells CNN's Pamela Brown why he chose to speak 
  - [https://www.cnn.com/2022/10/15/politics/president-biden-january-6-committee-final-hearing/index.html](https://www.cnn.com/2022/10/15/politics/president-biden-january-6-committee-final-hearing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 01:19:48+00:00
- - tags: None
 
 President Joe Biden said on Saturday the video and testimony shared at the January 6 hearing this week was "devastating" and said the committee overall has made an "overwhelming" case.
 
@@ -383,7 +336,6 @@ President Joe Biden said on Saturday the video and testimony shared at the Janua
  - [https://www.cnn.com/collections/intl-1610-china-zero-covid/](https://www.cnn.com/collections/intl-1610-china-zero-covid/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 01:14:52+00:00
- - tags: None
 
 
 
@@ -391,7 +343,6 @@ President Joe Biden said on Saturday the video and testimony shared at the Janua
  - [https://www.cnn.com/collections/intl-1610-china-party-congress/](https://www.cnn.com/collections/intl-1610-china-party-congress/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 00:58:42+00:00
- - tags: None
 
 
 
@@ -399,6 +350,5 @@ President Joe Biden said on Saturday the video and testimony shared at the Janua
  - [https://www.cnn.com/collections/intl-1610-russia-ukraine/](https://www.cnn.com/collections/intl-1610-russia-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 00:49:34+00:00
- - tags: None
 
 

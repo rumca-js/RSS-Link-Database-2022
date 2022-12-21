@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## I am NEVER Using my Quest 2 Again
  - [https://www.youtube.com/watch?v=pgqLvSSpKEc](https://www.youtube.com/watch?v=pgqLvSSpKEc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-10-31 19:02:43+00:00
- - tags: None
 
 Hello! It's finally here. My Quest Pro Review. Well, this is honestly closer to an impressions video to be honest because other than the physical hardware differences, not much is all that different from something like a Quest 2- The more in depth review that pushes the Pro will have to be at a later time. 
 

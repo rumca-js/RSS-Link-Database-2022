@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## YouTube is finally letting you zoom in and out on videos
  - [https://www.techradar.com/news/youtube-is-finally-letting-you-zoom-in-and-out-on-videos/](https://www.techradar.com/news/youtube-is-finally-letting-you-zoom-in-and-out-on-videos/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 21:11:28+00:00
- - tags: None
 
 New features and a fresher design could have a big impact on how you use and perceive the video platform
 
@@ -12,7 +11,6 @@ New features and a fresher design could have a big impact on how you use and per
  - [https://www.techradar.com/news/walmart-still-doesnt-accept-apple-pay-heres-why/](https://www.techradar.com/news/walmart-still-doesnt-accept-apple-pay-heres-why/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 21:08:18+00:00
- - tags: None
 
 Apple Pay still not available at Walmart despite high demand.
 
@@ -20,7 +18,6 @@ Apple Pay still not available at Walmart despite high demand.
  - [https://www.techradar.com/news/this-typosquatting-campaign-is-using-over-200-domains-to-compromise-windows-and-android-users/](https://www.techradar.com/news/this-typosquatting-campaign-is-using-over-200-domains-to-compromise-windows-and-android-users/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 20:25:14+00:00
- - tags: None
 
 More than 20 brands impersonated as crooks seek to distribute different infostealers.
 
@@ -28,7 +25,6 @@ More than 20 brands impersonated as crooks seek to distribute different infostea
  - [https://www.techradar.com/news/apple-music-and-apple-tv-just-got-price-hikes-should-you-cancel/](https://www.techradar.com/news/apple-music-and-apple-tv-just-got-price-hikes-should-you-cancel/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 19:46:52+00:00
- - tags: None
 
 Apple may be raising prices on its services, but they still offer very good value when compared to the competition.
 
@@ -36,7 +32,6 @@ Apple may be raising prices on its services, but they still offer very good valu
  - [https://www.techradar.com/news/oneplus-nord-n300-5g-is-here-but-with-limitations/](https://www.techradar.com/news/oneplus-nord-n300-5g-is-here-but-with-limitations/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 19:13:26+00:00
- - tags: None
 
 A direct follow up to the N200, the Nord N300 5G launches with a better performing chipset and a lower resolution display.
 
@@ -44,7 +39,6 @@ A direct follow up to the N200, the Nord N300 5G launches with a better performi
  - [https://www.techradar.com/news/these-malicious-android-apps-have-already-been-downloaded-over-20-million-times/](https://www.techradar.com/news/these-malicious-android-apps-have-already-been-downloaded-over-20-million-times/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 19:03:34+00:00
- - tags: None
 
 More than a dozen "clicker" Android apps found in Play Store, slowing phones down and raking in bigger bills.
 
@@ -52,7 +46,6 @@ More than a dozen "clicker" Android apps found in Play Store, slowing phones dow
  - [https://www.techradar.com/news/new-report-says-the-silver-surfer-is-coming-to-disney-before-the-fantastic-four-movie/](https://www.techradar.com/news/new-report-says-the-silver-surfer-is-coming-to-disney-before-the-fantastic-four-movie/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 18:19:51+00:00
- - tags: None
 
 New rumors suggest the Silver Surfer could be getting his own TV special on Disney Plus.
 
@@ -60,7 +53,6 @@ New rumors suggest the Silver Surfer could be getting his own TV special on Disn
  - [https://www.techradar.com/news/republicans-sue-google-over-gmail-election-spam-plan/](https://www.techradar.com/news/republicans-sue-google-over-gmail-election-spam-plan/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 18:16:22+00:00
- - tags: None
 
 The RNC is suing Google over claims that its end-of-month fundraising emails are being marked as spam.
 
@@ -68,7 +60,6 @@ The RNC is suing Google over claims that its end-of-month fundraising emails are
  - [https://www.techradar.com/news/blackbyte-ransomware-will-now-stash-your-data-in-the-cloud/](https://www.techradar.com/news/blackbyte-ransomware-will-now-stash-your-data-in-the-cloud/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 17:06:48+00:00
- - tags: None
 
 Stolen files sent to the cloud and into a Mega folder.
 
@@ -76,7 +67,6 @@ Stolen files sent to the cloud and into a Mega folder.
  - [https://www.techradar.com/news/fallout-4s-ps5-and-xbox-series-x-upgrades-may-point-to-things-to-come/](https://www.techradar.com/news/fallout-4s-ps5-and-xbox-series-x-upgrades-may-point-to-things-to-come/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 16:18:04+00:00
- - tags: None
 
 Bethesda has announced it will release a free next-gen upgrade for Fallout 4 in 2023.
 
@@ -84,7 +74,6 @@ Bethesda has announced it will release a free next-gen upgrade for Fallout 4 in 
  - [https://www.techradar.com/news/our-vpn-testing-results-are-in-and-youll-absolutely-guess-whos-number-one/](https://www.techradar.com/news/our-vpn-testing-results-are-in-and-youll-absolutely-guess-whos-number-one/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 16:01:53+00:00
- - tags: None
 
 ExpressVPN continues to impress as our best overall VPN
 
@@ -92,7 +81,6 @@ ExpressVPN continues to impress as our best overall VPN
  - [https://www.techradar.com/news/parasite-eve-could-be-the-next-horror-game-series-to-get-a-revival/](https://www.techradar.com/news/parasite-eve-could-be-the-next-horror-game-series-to-get-a-revival/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 15:12:38+00:00
- - tags: None
 
 A trademark listing filed by Square Enix suggests that the PlayStation action-horror series, Parasite Eve, is set for a revival.
 
@@ -100,7 +88,6 @@ A trademark listing filed by Square Enix suggests that the PlayStation action-ho
  - [https://www.techradar.com/news/slack-says-hybrid-working-is-here-to-stay-and-attitudes-need-to-change/](https://www.techradar.com/news/slack-says-hybrid-working-is-here-to-stay-and-attitudes-need-to-change/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 15:03:04+00:00
- - tags: None
 
 Burnout and inflexible bosses are perpetuating the Great Resignation, and a new report claims it can't go on for much longer.
 
@@ -108,7 +95,6 @@ Burnout and inflexible bosses are perpetuating the Great Resignation, and a new 
  - [https://www.techradar.com/news/how-to-avoid-nvidia-rtx-4090-scams-when-shopping-online-during-black-friday/](https://www.techradar.com/news/how-to-avoid-nvidia-rtx-4090-scams-when-shopping-online-during-black-friday/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 14:32:15+00:00
- - tags: None
 
 Here's how you can avoid Nvidia RTX 4090 and other gadget scams when shopping for Black Friday deals.
 
@@ -116,7 +102,6 @@ Here's how you can avoid Nvidia RTX 4090 and other gadget scams when shopping fo
  - [https://www.techradar.com/news/the-worlds-biggest-pc-manufacturer-is-still-doing-big-business-in-russia/](https://www.techradar.com/news/the-worlds-biggest-pc-manufacturer-is-still-doing-big-business-in-russia/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 14:13:17+00:00
- - tags: None
 
 Russia-based Aquarius experiences a huge boom, but Lenovo takes an overwhelming lead in computer sales.
 
@@ -124,7 +109,6 @@ Russia-based Aquarius experiences a huge boom, but Lenovo takes an overwhelming 
  - [https://www.techradar.com/news/think-the-nvidia-rtx-4090-gpu-is-hard-to-buy-now-things-could-get-worse/](https://www.techradar.com/news/think-the-nvidia-rtx-4090-gpu-is-hard-to-buy-now-things-could-get-worse/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 14:02:06+00:00
- - tags: None
 
 Rumor has it that Nvidia could be switching chip production to a more profitable product than the RTX 4090.
 
@@ -132,7 +116,6 @@ Rumor has it that Nvidia could be switching chip production to a more profitable
  - [https://www.techradar.com/news/apple-might-be-samsung-tvs-savior-in-the-battle-against-dolby-vision-hdr/](https://www.techradar.com/news/apple-might-be-samsung-tvs-savior-in-the-battle-against-dolby-vision-hdr/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 14:01:30+00:00
- - tags: None
 
 The Apple TV app has started rolling out support for HDR10+ on TVs – and Samsung TV owners are the biggest beneficiary.
 
@@ -140,7 +123,6 @@ The Apple TV app has started rolling out support for HDR10+ on TVs – and Samsu
  - [https://www.techradar.com/news/no-pc-gaming-isnt-dying-steam-proves-its-never-been-more-popular/](https://www.techradar.com/news/no-pc-gaming-isnt-dying-steam-proves-its-never-been-more-popular/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 13:45:32+00:00
- - tags: None
 
 Is PC gaming dying, or even rather unwell? Not a chance, certainly not going by fresh stats from Steam.
 
@@ -148,7 +130,6 @@ Is PC gaming dying, or even rather unwell? Not a chance, certainly not going by 
  - [https://www.techradar.com/news/thousands-of-github-repositories-are-littered-with-malware/](https://www.techradar.com/news/thousands-of-github-repositories-are-littered-with-malware/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 13:12:09+00:00
- - tags: None
 
 One in every 10 PoC GitHub repositories is fake, and distributes malware, researchers found.
 
@@ -156,7 +137,6 @@ One in every 10 PoC GitHub repositories is fake, and distributes malware, resear
  - [https://www.techradar.com/news/hackers-steal-50gb-data-thousands-of-emails-from-iranian-nuclear-facilities/](https://www.techradar.com/news/hackers-steal-50gb-data-thousands-of-emails-from-iranian-nuclear-facilities/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 12:30:04+00:00
- - tags: None
 
 While the group links the attack to ongoing protests, Iran plays down potential importance of hack.
 
@@ -164,7 +144,6 @@ While the group links the attack to ongoing protests, Iran plays down potential 
  - [https://www.techradar.com/news/dont-worry-florence-pugh-wont-be-done-with-marvel-movies-after-thunderbolts/](https://www.techradar.com/news/dont-worry-florence-pugh-wont-be-done-with-marvel-movies-after-thunderbolts/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 11:38:37+00:00
- - tags: None
 
 Florence Pugh has been tipped to reprise her role as Yelena Belova in an unnamed future Marvel project.
 
@@ -172,7 +151,6 @@ Florence Pugh has been tipped to reprise her role as Yelena Belova in an unnamed
  - [https://www.techradar.com/news/new-windows-11-problem-holds-your-usb-drives-hostage/](https://www.techradar.com/news/new-windows-11-problem-holds-your-usb-drives-hostage/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 11:09:09+00:00
- - tags: None
 
 Windows 11 gets even more annoying with this USB bug.
 
@@ -180,7 +158,6 @@ Windows 11 gets even more annoying with this USB bug.
  - [https://www.techradar.com/news/apple-lets-finally-see-our-fitness-and-health-info-on-our-macs-and-ipads-too/](https://www.techradar.com/news/apple-lets-finally-see-our-fitness-and-health-info-on-our-macs-and-ipads-too/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 11:02:28+00:00
- - tags: None
 
 Checking my fitness on my iPhone has been the standard, but it's baffling I can't see the same on my Mac and iPad.
 
@@ -188,7 +165,6 @@ Checking my fitness on my iPhone has been the standard, but it's baffling I can'
  - [https://www.techradar.com/news/most-business-leaders-still-prefer-an-old-fashioned-phone-call-to-zoom/](https://www.techradar.com/news/most-business-leaders-still-prefer-an-old-fashioned-phone-call-to-zoom/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:54:38+00:00
- - tags: None
 
 Don’t throw away your handsets just yet, RingCentral warns.
 
@@ -196,7 +172,6 @@ Don’t throw away your handsets just yet, RingCentral warns.
  - [https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them/](https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:52:32+00:00
- - tags: None
 
 Apple is preparing to introduce ads into the App Store's Today tab and a new "You Might Also Like" section.
 
@@ -204,7 +179,6 @@ Apple is preparing to introduce ads into the App Store's Today tab and a new "Yo
  - [https://www.techradar.com/news/monoliths-huge-100w-desktop-speakers-want-to-knock-you-off-your-office-chair/](https://www.techradar.com/news/monoliths-huge-100w-desktop-speakers-want-to-knock-you-off-your-office-chair/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:43:06+00:00
- - tags: None
 
 Monolith’s well-connected MTM 100 aptX HD desktop speakers will hugely improve your desktop PC or laptop’s audio – that's just fact.
 
@@ -212,7 +186,6 @@ Monolith’s well-connected MTM 100 aptX HD desktop speakers will hugely improve
  - [https://www.techradar.com/news/an-overwatch-2-bug-lets-you-see-lucio-through-walls-bet-you-still-cant-catch-him/](https://www.techradar.com/news/an-overwatch-2-bug-lets-you-see-lucio-through-walls-bet-you-still-cant-catch-him/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:36:21+00:00
- - tags: None
 
 Users on Reddit have spotted a Lucio bug that may mean the character needs to be sent off for fixing.
 
@@ -220,7 +193,6 @@ Users on Reddit have spotted a Lucio bug that may mean the character needs to be
  - [https://www.techradar.com/news/essential-phone-spiritual-successor-osom-solana-mobile-saga/](https://www.techradar.com/news/essential-phone-spiritual-successor-osom-solana-mobile-saga/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:25:39+00:00
- - tags: None
 
 The Saga is a top-tier crypto-focused phone with an unusual mix of specs and features.
 
@@ -228,7 +200,6 @@ The Saga is a top-tier crypto-focused phone with an unusual mix of specs and fea
  - [https://www.techradar.com/news/legos-gaming-pc-has-the-best-halloween-costume-weve-seen-in-years/](https://www.techradar.com/news/legos-gaming-pc-has-the-best-halloween-costume-weve-seen-in-years/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:14:59+00:00
- - tags: None
 
 Lego dressed up an RTX 3090-powered gaming PC as a haunted house, and we can't stop thinking about it.
 
@@ -236,7 +207,6 @@ Lego dressed up an RTX 3090-powered gaming PC as a haunted house, and we can't s
  - [https://www.techradar.com/news/7-new-ios-161-features-coming-to-your-iphone-today/](https://www.techradar.com/news/7-new-ios-161-features-coming-to-your-iphone-today/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:09:46+00:00
- - tags: None
 
 Improvements to the Dynamic Island and shared photo libraries in iCloud are among the changes coming in today's iOS 16.1 update.
 
@@ -244,6 +214,5 @@ Improvements to the Dynamic Island and shared photo libraries in iCloud are amon
  - [https://www.techradar.com/news/ps5-discord-integration-seen-in-the-wild-for-the-first-time/](https://www.techradar.com/news/ps5-discord-integration-seen-in-the-wild-for-the-first-time/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 09:02:07+00:00
- - tags: None
 
 Discord's PS5 voice integration has been added to the app's beta, signalling an update is coming soon.

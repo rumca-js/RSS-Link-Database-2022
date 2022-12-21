@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## The dark secret behind the Hong Kong-Zhuhai-Macao Bridge/Why are China's mega-projects losing money?
  - [https://www.youtube.com/watch?v=azSRSGXp2ww](https://www.youtube.com/watch?v=azSRSGXp2ww)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-10-30 23:15:00+00:00
- - tags: None
 
 #chinainsights #chinaeconomy #chinabridge
 

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## 10+ ways iPadOS 16 can make you more productive
  - [https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all](https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-24 16:02:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3677571/what-does-windows-10-22h2-bring-to-the-table-not-much.html#tk.rss_all](https://www.computerworld.com/article/3677571/what-does-windows-10-22h2-bring-to-the-table-not-much.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-24 15:42:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3676131/sustainable-it-environmental-and-social-approach-to-business-technology.html#tk.rss_all](https://www.computerworld.com/article/3676131/sustainable-it-environmental-and-social-approach-to-business-technology.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-24 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

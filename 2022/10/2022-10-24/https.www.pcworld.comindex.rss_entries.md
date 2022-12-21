@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## TeamGroup’s radical new AIO cooler chills your SSD, too
  - [https://www.pcworld.com/article/1360274/teamgroups-latest-aio-cooler-can-cool-down-your-ssd-too.html](https://www.pcworld.com/article/1360274/teamgroups-latest-aio-cooler-can-cool-down-your-ssd-too.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-24 15:48:15+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>As flash storage becomes the latest PC component to <a href="https://www.pcworld.com/article/626798/your-next-ssd-upgrade-might-need-active-cooling.html" rel="noreferrer noopener" target="_blank">succumb to the temptation</a> of flashy LEDs and oversized coolers, PC suppliers are more than willing to indulge the excesses of builders. Those with more money than sense might want to check out the latest all-in-one liquid cooler from TeamGroup. Not only will the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.teamgroupinc.com/en/product/siren-duo360-all-in-one-argb-cpu-ssd-liquid-cooler&amp;xcust=2-1-1360274-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">T-Force Siren Duo360 ARGB cooler</a> (just rolls off the tongue, don&rsquo;t it?) cool <a href="https://www.pcworld.com/article/401980/best-cpus-for-gaming.html">your CPU</a> with shiny LED goodness, it&rsquo;ll cool down your <a href="https://www.pcworld.com/article/407542/best-ssds.html">fancy M.2 SSD</a> as well. </p>
@@ -29,7 +28,6 @@ Solid-State Drives</div>
  - [https://www.pcworld.com/article/1360206/lego-built-a-monster-gaming-pc-inside-a-haunted-house-playset.html](https://www.pcworld.com/article/1360206/lego-built-a-monster-gaming-pc-inside-a-haunted-house-playset.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-24 15:11:13+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>LEGO has been appealing more and more to adult builders these days &mdash; it has to, now that every other set costs north of $300. But you won&rsquo;t find its latest creation on a Target toy shelf. The company took to Twitter this weekend to show off an enormous custom haunted house design, filled to the brim with spooky touches and monster mini-figs. But the coolest part is hiding just behind the brickwork: a fully-operational gaming PC, complete with a custom cooling loop that would make any mad scientist proud. </p>
@@ -48,7 +46,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1360140/microsoft-releases-beta-of-a-ccleaner-style-pc-manager-tool.html](https://www.pcworld.com/article/1360140/microsoft-releases-beta-of-a-ccleaner-style-pc-manager-tool.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-24 14:47:39+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Windows often gets bogged down with unnecessary files, kind of like a teenager&rsquo;s bedroom floor. Microsoft has improved both Windows itself and the tools designed to manage it in the last few years, and it looks like the company is preparing yet another way for users to keep their PCs running smoothly. A beta version of &ldquo;PC Manager&rdquo; has appeared on a Microsoft site in China, apparently offering a completed tool that should look familiar to users of the classic CCleaner freeware. </p>
@@ -77,7 +74,6 @@ Utilities</div>
  - [https://www.pcworld.com/article/703570/best-remote-desktop-software-from-casual-use-to-business-deployment.html](https://www.pcworld.com/article/703570/best-remote-desktop-software-from-casual-use-to-business-deployment.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-24 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Every time I remotely control a computer to help a relative or customer overcome a vexing computer issue, my thoughts harken back to the ominous intro from the 1960s&rsquo; TV series <em>The</em> <em>Outer Limits</em>: &ldquo;There is nothing wrong with your television set. Do not attempt to adjust the picture. We are controlling transmission&hellip;.&rdquo; In fact, I&rsquo;ve actually quoted the monologue when a client starts messing with the mouse or typing while I&rsquo;m trying to work my magic from afar. </p>
@@ -404,7 +400,6 @@ Productivity Software</div>
  - [https://www.pcworld.com/article/1355530/dell-xps-13-9315-review.html](https://www.pcworld.com/article/1355530/dell-xps-13-9315-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-24 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -567,7 +562,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1359352/cool-down-a-deep-dive-into-13900k-power-use-and-efficiency.html](https://www.pcworld.com/article/1359352/cool-down-a-deep-dive-into-13900k-power-use-and-efficiency.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-24 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Hot, hungry chips. People said that of the <a href="https://www.pcworld.com/article/1074246/amd-ryzen-9-7950x-review.html">AMD Ryzen 9 7950X</a> when it launched several weeks ago&mdash;and then again when Intel launched its own new flagship desktop CPU, <a href="https://www.pcworld.com/article/1357979/intel-core-i9-13900k-review.html">the ferocious Core i9-13900K</a>, which just hit shelves on Thursday.</p>

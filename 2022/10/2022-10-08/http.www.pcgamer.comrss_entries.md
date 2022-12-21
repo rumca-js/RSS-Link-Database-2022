@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Play a weird wordle-like where you guess what prompt an image generator used
  - [https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used](https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-08 22:43:41+00:00
- - tags: None
 
 DALLE-dle wants you to search deep within the mechanical soul of some neural net's doodles.
 
@@ -12,7 +11,6 @@ DALLE-dle wants you to search deep within the mechanical soul of some neural net
  - [https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt](https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-08 21:34:51+00:00
- - tags: None
 
 We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled the dice and took a chance on obscure games—both good and bad.
 
@@ -20,7 +18,6 @@ We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled t
  - [https://www.pcgamer.com/heres-a-beautifully-animated-2d-cat-platformer](https://www.pcgamer.com/heres-a-beautifully-animated-2d-cat-platformer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-08 21:08:17+00:00
- - tags: None
 
 Check out the demo for Stars in the Trash, a love letter to classic animated movies.
 
@@ -28,7 +25,6 @@ Check out the demo for Stars in the Trash, a love letter to classic animated mov
  - [https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features](https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-08 19:39:11+00:00
- - tags: None
 
 Price, Soap, Ghost, *and* Alejandro, all in U L T R A W I D E?
 
@@ -36,7 +32,6 @@ Price, Soap, Ghost, *and* Alejandro, all in U L T R A W I D E?
  - [https://www.pcgamer.com/elder-scrolls-online-will-rescue-stadia-castaways](https://www.pcgamer.com/elder-scrolls-online-will-rescue-stadia-castaways)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-08 16:24:19+00:00
- - tags: None
 
 More and more devs are announcing plans to help players on the platform.
 
@@ -44,6 +39,5 @@ More and more devs are announcing plans to help players on the platform.
  - [https://www.pcgamer.com/todays-wordle-476-answer-hint](https://www.pcgamer.com/todays-wordle-476-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-08 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Saturday's puzzle.

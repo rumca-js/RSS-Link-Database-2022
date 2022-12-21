@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The most breakable iPhones? How the iPhone 14 fared in drop tests
  - [https://www.zdnet.com/article/the-most-breakable-iphones-how-the-iphone-14-fared-in-drop-tests/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-most-breakable-iphones-how-the-iphone-14-fared-in-drop-tests/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 23:20:33+00:00
- - tags: None
 
 Maybe don't drop your iPhone 14, or at least try not to.
 
@@ -12,7 +11,6 @@ Maybe don't drop your iPhone 14, or at least try not to.
  - [https://www.zdnet.com/home-and-office/networking/how-avaya-is-bringing-contact-center-functionality-to-the-metaverse/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/how-avaya-is-bringing-contact-center-functionality-to-the-metaverse/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 22:57:00+00:00
- - tags: None
 
 At the GITEX conference in Dubai, the metaverse was alive and being demoed daily for different use cases.
 
@@ -20,7 +18,6 @@ At the GITEX conference in Dubai, the metaverse was alive and being demoed daily
  - [https://www.zdnet.com/home-and-office/smart-home/cync-smart-light-bulbs-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/cync-smart-light-bulbs-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 21:33:00+00:00
- - tags: None
 
 Hosting a spooky Halloween party soon? Upgrade your lighting with LED smart bulbs that are discounted 16% off on Amazon right now.
 
@@ -28,7 +25,6 @@ Hosting a spooky Halloween party soon? Upgrade your lighting with LED smart bulb
  - [https://www.zdnet.com/article/how-to-use-the-pixel-7-pros-macro-focus-mode-for-amazing-macro-like-photography/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-the-pixel-7-pros-macro-focus-mode-for-amazing-macro-like-photography/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 20:51:03+00:00
- - tags: None
 
 Jack Wallen shows you how to get very close-up photos with the new Pixel 7 Pro.
 
@@ -36,7 +32,6 @@ Jack Wallen shows you how to get very close-up photos with the new Pixel 7 Pro.
  - [https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 20:11:42+00:00
- - tags: None
 
 Apple just refreshed its high-end iPad Pro tablet, adding a faster M2 processor, new Apple Pencil features, and more. But do you need all that? We'll break it down.
 
@@ -44,7 +39,6 @@ Apple just refreshed its high-end iPad Pro tablet, adding a faster M2 processor,
  - [https://www.zdnet.com/article/insta360-go-2-tiny-action-cam-vs-high-seas/#ftag=RSSbaffb68](https://www.zdnet.com/article/insta360-go-2-tiny-action-cam-vs-high-seas/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 19:30:28+00:00
- - tags: None
 
 Review: Mini action cam vs. the high seas!
 
@@ -52,7 +46,6 @@ Review: Mini action cam vs. the high seas!
  - [https://www.zdnet.com/article/ipad-2022-vs-ipad-2021-which-tablet-should-you-buy/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-2022-vs-ipad-2021-which-tablet-should-you-buy/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 18:41:50+00:00
- - tags: None
 
 Apple's humble iPad has gotten a 2022 makeover, but should you buy it over last year's model? Is it worth the upgrade? These are the key reasons to consider when cross-shopping the two.
 
@@ -60,7 +53,6 @@ Apple's humble iPad has gotten a 2022 makeover, but should you buy it over last 
  - [https://www.zdnet.com/home-and-office/smart-home/eufy-security-cam-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eufy-security-cam-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 18:31:00+00:00
- - tags: None
 
 Keep tricksters away this October with a home security system. The EufyCam 2C Pro Camera Kit is currently on sale for 38% off.
 
@@ -68,7 +60,6 @@ Keep tricksters away this October with a home security system. The EufyCam 2C Pr
  - [https://www.zdnet.com/article/microsoft-makes-tabbed-file-explorer-additional-windows-11-22h2-features-available-in-preview/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-makes-tabbed-file-explorer-additional-windows-11-22h2-features-available-in-preview/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 18:02:08+00:00
- - tags: None
 
 Microsoft is delivering more promised Windows 11 22H2 features, including the ability to right click on the Taskbar to jump to Task Manager, available starting this week.
 
@@ -76,7 +67,6 @@ Microsoft is delivering more promised Windows 11 22H2 features, including the ab
  - [https://www.zdnet.com/article/microsoft-starts-rolling-out-the-annual-windows-10-feature-update-windows-10-22h2/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-starts-rolling-out-the-annual-windows-10-feature-update-windows-10-22h2/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 17:08:00+00:00
- - tags: None
 
 Microsoft is making Windows 10 22H2, its annual feature update, available to mainstream users on select devices starting today, October 18.
 
@@ -84,7 +74,6 @@ Microsoft is making Windows 10 22H2, its annual feature update, available to mai
  - [https://www.zdnet.com/article/this-helps-you-find-your-airtag-in-the-dark/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-helps-you-find-your-airtag-in-the-dark/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 16:50:02+00:00
- - tags: None
 
 Finding an AirTag lost at the bottom of a bag or when you've dropped it into the undergrowth can be a nightmare. Here's how to make finding it a lot easier.
 
@@ -92,7 +81,6 @@ Finding an AirTag lost at the bottom of a bag or when you've dropped it into the
  - [https://www.zdnet.com/home-and-office/home-entertainment/meet-the-worlds-first-made-for-meta-wirelss-earbuds/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/meet-the-worlds-first-made-for-meta-wirelss-earbuds/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 16:33:00+00:00
- - tags: None
 
 The new Soundcore VR P10 aims to fix all of the issues that have, so far, kept most VR gamers tied down using wired earbuds or headphones.
 
@@ -100,7 +88,6 @@ The new Soundcore VR P10 aims to fix all of the issues that have, so far, kept m
  - [https://www.zdnet.com/article/apple-reveals-the-new-completely-redesigned-ipad/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-reveals-the-new-completely-redesigned-ipad/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 16:20:00+00:00
- - tags: None
 
 The redesigned new iPad offers a larger display, faster performance improved, video calling features and more.
 
@@ -108,7 +95,6 @@ The redesigned new iPad offers a larger display, faster performance improved, vi
  - [https://www.zdnet.com/article/how-to-easily-install-fonts-in-linux-on-a-per-user-basis/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-easily-install-fonts-in-linux-on-a-per-user-basis/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 16:12:00+00:00
- - tags: None
 
 Jack Wallen shows you just how simple it is to install fonts in the Linux desktop operating system.
 
@@ -116,7 +102,6 @@ Jack Wallen shows you just how simple it is to install fonts in the Linux deskto
  - [https://www.zdnet.com/article/apple-unveils-its-latest-and-strongest-apple-tv-the-apple-tv-4k/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-unveils-its-latest-and-strongest-apple-tv-the-apple-tv-4k/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 16:09:00+00:00
- - tags: None
 
 The latest and greatest Apple TV 4K boasts significant performance and visual enhancements over previous generations, says Apple.
 
@@ -124,7 +109,6 @@ The latest and greatest Apple TV 4K boasts significant performance and visual en
  - [https://www.zdnet.com/article/apples-new-ipad-pro-comes-with-the-m2-chip/#ftag=RSSbaffb68](https://www.zdnet.com/article/apples-new-ipad-pro-comes-with-the-m2-chip/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 15:14:00+00:00
- - tags: None
 
 Apple's latest iPad is the first to feature the M2, Apple's custom silicon SoC.
 
@@ -132,7 +116,6 @@ Apple's latest iPad is the first to feature the M2, Apple's custom silicon SoC.
  - [https://www.zdnet.com/article/the-new-kindle-has-officially-converted-me-to-e-readers/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-new-kindle-has-officially-converted-me-to-e-readers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 14:42:43+00:00
- - tags: None
 
 Review: The 11th generation Kindle provides a simple and easy reading experience -- even for Kindle skeptics.
 
@@ -140,7 +123,6 @@ Review: The 11th generation Kindle provides a simple and easy reading experience
  - [https://www.zdnet.com/article/pixel-7-pro-finally-google-fixed-my-biggest-issue-with-the-pixel-6/#ftag=RSSbaffb68](https://www.zdnet.com/article/pixel-7-pro-finally-google-fixed-my-biggest-issue-with-the-pixel-6/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 14:39:00+00:00
- - tags: None
 
 Over the past year, I bought and returned the Pixel 6 and 6 Pro because a core phone capability was flawed. It looks like Google's Tensor G2 and its accompanying modem now lets me consider the Pixel 7 Pro.
 
@@ -148,7 +130,6 @@ Over the past year, I bought and returned the Pixel 6 and 6 Pro because a core p
  - [https://www.zdnet.com/article/best-dslr-camera/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-dslr-camera/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 13:36:00+00:00
- - tags: None
 
 DSLR cameras offer versatility for beginners and pros alike. ZDNET analyzed the best DSLRs that feature interoperability with different lenses and both image and video capabilities.
 
@@ -156,7 +137,6 @@ DSLR cameras offer versatility for beginners and pros alike. ZDNET analyzed the 
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-55-inch-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-55-inch-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 13:25:00+00:00
- - tags: None
 
 A 55-inch TV is the Goldilocks of screen sizes. We examined streaming capability, price, HDR support and 4K scaling to find the best 55-inch TV for your entertainment needs.
 
@@ -164,7 +144,6 @@ A 55-inch TV is the Goldilocks of screen sizes. We examined streaming capability
  - [https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 13:00:19+00:00
- - tags: None
 
 For my next trick, I will show you how to use the Google Pixel 6 or 7 to make photobombers and uninvited guests disappear.
 
@@ -172,7 +151,6 @@ For my next trick, I will show you how to use the Google Pixel 6 or 7 to make ph
  - [https://www.zdnet.com/article/car-theft-ring-used-software-to-steal-hundreds-of-vehicles-without-the-physical-key-fob-say-police/#ftag=RSSbaffb68](https://www.zdnet.com/article/car-theft-ring-used-software-to-steal-hundreds-of-vehicles-without-the-physical-key-fob-say-police/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 12:17:30+00:00
- - tags: None
 
 Organised crime group used fraudulent software to duplicate keys and steal cars, says law enforcement agencies.
 
@@ -180,7 +158,6 @@ Organised crime group used fraudulent software to duplicate keys and steal cars,
  - [https://www.zdnet.com/article/oracle-finds-a-way-to-operate-in-countries-that-demand-more-local-control-of-the-cloud/#ftag=RSSbaffb68](https://www.zdnet.com/article/oracle-finds-a-way-to-operate-in-countries-that-demand-more-local-control-of-the-cloud/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 12:05:18+00:00
- - tags: None
 
 The new Oracle Alloy service gives countries and industries a way to use Oracle Cloud services without having to cede control over operational decisions.
 
@@ -188,7 +165,6 @@ The new Oracle Alloy service gives countries and industries a way to use Oracle 
  - [https://www.zdnet.com/home-and-office/energy/australia-singapore-ink-green-trade-pact/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/australia-singapore-ink-green-trade-pact/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 10:59:16+00:00
- - tags: None
 
 Touted as the first bilateral green economy agreement, both countries will to develop interoperable policy frameworks that support new green growth sectors and drive tech development in the green economy.
 
@@ -196,7 +172,6 @@ Touted as the first bilateral green economy agreement, both countries will to de
  - [https://www.zdnet.com/article/linus-torvalds-is-annoyed-with-linux-developers-late-kernel-homework/#ftag=RSSbaffb68](https://www.zdnet.com/article/linus-torvalds-is-annoyed-with-linux-developers-late-kernel-homework/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 10:50:56+00:00
- - tags: None
 
 You know who you are. Stop last-minute submissions; this is not high school.
 
@@ -204,7 +179,6 @@ You know who you are. Stop last-minute submissions; this is not high school.
  - [https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/#ftag=RSSbaffb68](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 10:00:19+00:00
- - tags: None
 
 As Apple gets ready to release more devices with the M2 chip this week, here is everything you need to know about the processor.
 
@@ -212,7 +186,6 @@ As Apple gets ready to release more devices with the M2 chip this week, here is 
  - [https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/#ftag=RSSbaffb68](https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 08:38:33+00:00
- - tags: None
 
 Cloud vendor says its $5 billion investment in Thailand will go towards a new region in Bangkok, where there already are 10 CloudFront edge points, and driving support for the country's early-stage startups and upskilling efforts.
 
@@ -220,7 +193,6 @@ Cloud vendor says its $5 billion investment in Thailand will go towards a new re
  - [https://www.zdnet.com/home-and-office/chromebook-sale-convertible-acer-chromebook-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/chromebook-sale-convertible-acer-chromebook-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 08:20:48+00:00
- - tags: None
 
 If you need a cheap-and-cheerful convertible Chromebook, this deal isn't to be missed.
 
@@ -228,7 +200,6 @@ If you need a cheap-and-cheerful convertible Chromebook, this deal isn't to be m
  - [https://www.zdnet.com/article/samsung-verifies-8-5gbps-speed-of-lpddr5x-on-qualcomms-platform/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-verifies-8-5gbps-speed-of-lpddr5x-on-qualcomms-platform/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 02:00:18+00:00
- - tags: None
 
 Samsung's latest mobile DRAM offers the industry's fastest data transfer rate at 8.5Gbps.
 
@@ -236,7 +207,6 @@ Samsung's latest mobile DRAM offers the industry's fastest data transfer rate at
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-lg-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-lg-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 01:04:00+00:00
- - tags: None
 
 ZDNET researched many LG TV models in order to settle on the top five and break down their differences. The LG C2 OLED is our No. 1 choice due to its excellent picture quality, support for Dolby Vision and Atmos, and Nvidia G-Sync and AMD FreeSync Premium compatibility.
 
@@ -244,7 +214,6 @@ ZDNET researched many LG TV models in order to settle on the top five and break 
  - [https://www.zdnet.com/article/best-green-screen/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-green-screen/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 00:49:00+00:00
- - tags: None
 
 A green screen is an invaluable tool for content creators and photographers, since they allow you to add custom backgrounds to images and videos. And whether you're just starting out or are an experienced content creator, a green screen is a quick and affordable way to give a very professional look to your videos and images.
 
@@ -252,6 +221,5 @@ A green screen is an invaluable tool for content creators and photographers, sin
  - [https://www.zdnet.com/article/best-large-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-large-tablet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-18 00:46:00+00:00
- - tags: None
 
 Not all devices should be small and ultra-portable. Samsung, Microsoft, and Apple offer some of the best large tablets that boast big screens and ample storage.

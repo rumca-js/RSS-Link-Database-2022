@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Comcast is shutting down its gamer-centric G4 channel, again
  - [https://www.theverge.com/2022/10/16/23407909/g4-tv-shutdown-again-comcast](https://www.theverge.com/2022/10/16/23407909/g4-tv-shutdown-again-comcast)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-16 23:06:07+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/5pHTYKHebD4S5Y4Y5pEAzTXiFig=/15x0:1038x682/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71504153/g4_teaser.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/16/23407553/android-audio-output-switcher-pick-cast-devices-google](https://www.theverge.com/2022/10/16/23407553/android-audio-output-switcher-pick-cast-devices-google)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-16 20:31:08+00:00
- - tags: None
 
 <figure>
       <img alt="Pixel 7 and 7 Pro on a flat surface with screens facing up" src="https://cdn.vox-cdn.com/thumbor/AfohF18ql_OVV0dFEK7XXad9opE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71503659/226337_Pixel_7_and_7_Pro_AKrales_0531.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/16/23407129/apple-music-spatial-audio-dolby-select-mercedes-benz-models](https://www.theverge.com/2022/10/16/23407129/apple-music-spatial-audio-dolby-select-mercedes-benz-models)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-16 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Apple Music logo on a background with a wave pattern" src="https://cdn.vox-cdn.com/thumbor/SgGnhHAh2Fi_ubB9ZDocA86AJ94=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71503192/acastro_180927_1777_apple_music_0002.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/10/16/23404802/mercedes-benz-eqe-suv-range-price-specs](https://www.theverge.com/2022/10/16/23404802/mercedes-benz-eqe-suv-range-price-specs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-16 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Mercedes-Benz EQE SUV" src="https://cdn.vox-cdn.com/thumbor/f6HtAJtv_CNJdvyqo-h215pbJbE=/0x2:4961x3309/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71503199/22c0288_032.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd](https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-16 15:08:18+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/DOh9KviJJ-_uyjvnqdRYJmcTiGw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71502716/akrales_220309_4977_0258.0.jpg" />

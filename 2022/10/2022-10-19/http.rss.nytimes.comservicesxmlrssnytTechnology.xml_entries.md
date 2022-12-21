@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Tesla Reports Record Profit in Third Quarter on Soaring Sales
  - [https://www.nytimes.com/2022/10/19/business/telsa-profits-third-quarter-sales.html](https://www.nytimes.com/2022/10/19/business/telsa-profits-third-quarter-sales.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-19 20:59:43+00:00
- - tags: None
 
 The electric carmaker is growing fast but investors are worried that sales are starting to slow because of higher prices and interest rates.
 
@@ -12,7 +11,6 @@ The electric carmaker is growing fast but investors are worried that sales are s
  - [https://www.nytimes.com/2022/10/19/business/electric-vehicles-carbon-footprint-batteries.html](https://www.nytimes.com/2022/10/19/business/electric-vehicles-carbon-footprint-batteries.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-19 20:35:52+00:00
- - tags: None
 
 The manufacturing and disposal of electric vehicles result in more greenhouse gases than nonelectric models, but that difference will eventually disappear altogether.
 
@@ -20,7 +18,6 @@ The manufacturing and disposal of electric vehicles result in more greenhouse ga
  - [https://www.nytimes.com/2022/10/19/business/electric-vehicles-republicans-investment-south.html](https://www.nytimes.com/2022/10/19/business/electric-vehicles-republicans-investment-south.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-19 18:35:17+00:00
- - tags: None
 
 No Republican in Congress voted for the Inflation Reduction Act. But their districts and states will greatly benefit from the investments spurred by the law.
 
@@ -28,6 +25,5 @@ No Republican in Congress voted for the Inflation Reduction Act. But their distr
  - [https://www.nytimes.com/2022/10/19/technology/personaltech/quest-pro-review-metaverse.html](https://www.nytimes.com/2022/10/19/technology/personaltech/quest-pro-review-metaverse.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-19 13:00:08+00:00
- - tags: None
 
 It’s not what Mark Zuckerberg promises.

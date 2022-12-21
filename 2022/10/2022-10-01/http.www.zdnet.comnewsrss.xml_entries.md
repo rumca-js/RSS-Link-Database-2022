@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## This beginner-friendly Python training bundle is just $40 for a limited time
  - [https://www.zdnet.com/article/this-beginner-friendly-python-training-bundle-is-just-40-for-a-limited-time/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-beginner-friendly-python-training-bundle-is-just-40-for-a-limited-time/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 16:49:34+00:00
- - tags: None
 
 This 14-part collection introduces students to Python so they'll be ready to start coding apps from scratch.
 
@@ -12,7 +11,6 @@ This 14-part collection introduces students to Python so they'll be ready to sta
  - [https://www.zdnet.com/home-and-office/smart-home/best-strip-lights/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-strip-lights/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 15:18:00+00:00
- - tags: None
 
 An LED strip light is a flexible circuit board comprised of LEDs. You can stick it almost anywhere you want to add colorful, powerful lighting. Strip lighting can be used as accent lighting in your gaming room or as a neat effect during a party or event such as Halloween.
 
@@ -20,7 +18,6 @@ An LED strip light is a flexible circuit board comprised of LEDs. You can stick 
  - [https://www.zdnet.com/article/mcdonalds-customers-are-really-unhappy-chick-fil-as-just-laugh/#ftag=RSSbaffb68](https://www.zdnet.com/article/mcdonalds-customers-are-really-unhappy-chick-fil-as-just-laugh/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 12:00:02+00:00
- - tags: None
 
 All fast-food chains are furiously investing in technology to make their service go more smoothly. But what do customers think?
 
@@ -28,7 +25,6 @@ All fast-food chains are furiously investing in technology to make their service
  - [https://www.zdnet.com/article/southwest-airlines-has-a-big-problem-and-customers-may-not-know-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/southwest-airlines-has-a-big-problem-and-customers-may-not-know-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 11:00:05+00:00
- - tags: None
 
 It's almost as if Southwest is a tech company like Google -- with some of the same nightmares.
 
@@ -36,7 +32,6 @@ It's almost as if Southwest is a tech company like Google -- with some of the sa
  - [https://www.zdnet.com/article/how-to-set-up-your-airpods-pro-2nd-generation/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-set-up-your-airpods-pro-2nd-generation/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 11:00:01+00:00
- - tags: None
 
 Here's how to get your new AirPods Pro 2nd generation up and running quickly.
 
@@ -44,7 +39,6 @@ Here's how to get your new AirPods Pro 2nd generation up and running quickly.
  - [https://www.zdnet.com/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/#ftag=RSSbaffb68](https://www.zdnet.com/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 03:14:54+00:00
- - tags: None
 
 Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.
 
@@ -52,7 +46,6 @@ Typing a sentence about a scenario, such as an anxious Windows user seated at th
  - [https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/#ftag=RSSbaffb68](https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 03:14:00+00:00
- - tags: None
 
 Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.
 
@@ -60,7 +53,6 @@ Typing a sentence about a scenario, such as an anxious Windows user seated at th
  - [https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/#ftag=RSSbaffb68](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 02:41:43+00:00
- - tags: None
 
 At AI Day 2022, we got our first look at the Tesla robot and Elon Musk explained why it could lead to "a fundamental transformation of civilization."
 
@@ -68,6 +60,5 @@ At AI Day 2022, we got our first look at the Tesla robot and Elon Musk explained
  - [https://www.zdnet.com/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 00:24:00+00:00
- - tags: None
 
 Today, Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about.

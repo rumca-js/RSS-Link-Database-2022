@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Best webcams 2022: Why now is a great time to buy one
  - [https://www.pcworld.com/article/393756/1080p-webcam-buying-guide.html](https://www.pcworld.com/article/393756/1080p-webcam-buying-guide.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-26 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The deals that made webcams a fantastic stocking stuffer in 2021 have continued into 2022. Over the past few years, webcams were nearly impossible to find, as millions of people gearing up to work or study from home tried to improve upon the 720p models built into most laptops. Now 1080p webcams are plentiful again, making it the perfect time to pick up a few for yourself or for loved ones.</p>
@@ -587,7 +586,6 @@ Business, Camera Accessories, Cameras, Computer Accessories, Computers, Laptop A
  - [https://www.pcworld.com/article/1341419/teamgroup-mp44l-nvme-ssd-review.html](https://www.pcworld.com/article/1341419/teamgroup-mp44l-nvme-ssd-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-26 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -684,7 +682,6 @@ Computer Storage Devices, Flash Storage</div>
  - [https://www.pcworld.com/article/1362519/save-100-on-this-240hz-dell-monitor.html](https://www.pcworld.com/article/1362519/save-100-on-this-240hz-dell-monitor.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-26 14:26:29+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for a screaming fast monitor for those intense gaming sessions, you&rsquo;re in luck. The Dell S2522HG gaming monitor is zippy, sharp, and $100 off. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Dell-Monitor-Technology-Antiglare-Metallic/dp/B095TVWL6M?source=ps-sl-shoppingads-lpcontext&amp;ref_=fplfs&amp;smid=ATVPDKIKX0DER&amp;th=1&amp;xcust=2-1-1362519-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">It&rsquo;s available at Amazon for just $199.99</a>. It measures 24.5-inches, which is the perfect size for a home office. The specs are pretty good, too. Let&rsquo;s get right into it then.</p>
@@ -705,7 +702,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1362482/cooler-masters-latest-keyboard-is-perfect-for-first-time-modders.html](https://www.pcworld.com/article/1362482/cooler-masters-latest-keyboard-is-perfect-for-first-time-modders.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-26 14:10:47+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>There are a ton of things you can do to a mechanical keyboard to change how it feels and sounds, but making a bunch of changes to an expensive board can be an intimidating proposition for newbies. Enter the Cooler Master CK720. A wired-only version of the previous CK721 design, this 65% board is designed to be torn apart and reassembled with minimum tools and knowledge required. And best of all, it&rsquo;s shockingly affordable at just $100. </p>
@@ -731,7 +727,6 @@ Keyboards</div>
  - [https://www.pcworld.com/article/1357631/corsair-k100-air-wireless-mechanical-keyboard-review.html](https://www.pcworld.com/article/1357631/corsair-k100-air-wireless-mechanical-keyboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-26 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>History runs in cycles. And so, apparently, do trends in PC accessories. After about a decade of obsession with big, chunky, clicky mechanical keyboards, we&rsquo;re starting to see manufacturers return to the thinner, sleeker designs seen in the early 2000s. But with two crucial differences: They&rsquo;re bringing what they&rsquo;ve learned from mechanical designs to these older form factors, and the prices are absolutely astronomical.&nbsp;</p>
@@ -945,7 +940,6 @@ Gaming, Keyboards</div>
  - [https://www.pcworld.com/article/1358796/hp-spectre-x360-14-vs-dell-xps-13-plus-fight.html](https://www.pcworld.com/article/1358796/hp-spectre-x360-14-vs-dell-xps-13-plus-fight.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-26 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Dell and HP are the two American giants of the PC industry, sort of like Ford and Chevy if they sold 90 percent boring boxes to huge industrial clients. (So, exactly like Ford and Chevy?) But it&rsquo;s not all beige rectangles: today Gordon has two of the sleekest and sexiest ultraportable laptops from both, the HP Spectre x360 14 and the <a href="https://www.pcworld.com/article/825567/dell-xps-13-plus-9320-review.html">Dell XPS 13 Plus</a> in for testing. In this extended car metaphor, these laptops are the Mustang and Camaro of their brands. In the latest PCWorld YouTube video, we put them head-to-head to see <s>which can race around a track fastest</s> which is the best.</p>

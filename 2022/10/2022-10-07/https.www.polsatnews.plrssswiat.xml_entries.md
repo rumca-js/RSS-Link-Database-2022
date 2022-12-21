@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Wielka Brytania. Liverpool gospodarzem konkursu Eurowizja 2023
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/wielka-brytania-liverpool-gospodarzem-konkursu-eurowizja-2023/](https://www.polsatnews.pl/wiadomosc/2022-10-07/wielka-brytania-liverpool-gospodarzem-konkursu-eurowizja-2023/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 19:11:00+00:00
- - tags: None
 
 Przyszłoroczna edycja Eurowizji, którą w imieniu Ukrainy zorganizuje Wielka Brytania, odbędzie się w Liverpoolu - podało w piątek BBC. To państwo już ośmiokrotnie gościło imprezę u siebie, ale miasto Beatlesów w roli gospodarza dopiero zadebiutuje.
 
@@ -12,7 +11,6 @@ Przyszłoroczna edycja Eurowizji, którą w imieniu Ukrainy zorganizuje Wielka B
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/szkocja-energia-odnawialna-z-tanca-w-klubie-swg3-w-glasgow-zastosowano-technologie-bodyheat/](https://www.polsatnews.pl/wiadomosc/2022-10-07/szkocja-energia-odnawialna-z-tanca-w-klubie-swg3-w-glasgow-zastosowano-technologie-bodyheat/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 18:44:00+00:00
- - tags: None
 
 Energia odnawialna pochodząca z ciał tańczących ludzi - takie innowacyjne i ekologiczne rozwiązanie zostało zastosowane w klubie SWG3 w Glasgow. Wszystko dzięki opracowanej przez firmę konsultingową ds. energii geotermalnej TownRock Energy technologii BODYHEAT.
 
@@ -20,7 +18,6 @@ Energia odnawialna pochodząca z ciał tańczących ludzi - takie innowacyjne i 
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/nord-stream-rosja-chce-uczestniczyc-w-sledztwie-dot-uszkodzenia-gazociagow-zadania-wobec-szwecji/](https://www.polsatnews.pl/wiadomosc/2022-10-07/nord-stream-rosja-chce-uczestniczyc-w-sledztwie-dot-uszkodzenia-gazociagow-zadania-wobec-szwecji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 15:55:00+00:00
- - tags: None
 
 Rosyjskie władze domagają się udziału w śledztwie prowadzonym ws. wybuchów, które uszkodziły gazociągi Nord Stream. Z takim żądaniem premier tego państwa Michaił Miszustin zwrócił się do swojej szwedzkiej odpowiedniczki Magdaleny Andersson.
 
@@ -28,7 +25,6 @@ Rosyjskie władze domagają się udziału w śledztwie prowadzonym ws. wybuchów
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/wielka-brytania-zabojstwo-14-letniego-polaka-w-gateshead-rowiesnik-ofiary-uslyszal-zarzuty/](https://www.polsatnews.pl/wiadomosc/2022-10-07/wielka-brytania-zabojstwo-14-letniego-polaka-w-gateshead-rowiesnik-ofiary-uslyszal-zarzuty/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 14:26:00+00:00
- - tags: None
 
 W związku ze śmiercią 14-etniego Polaka w Gateshead brytyjska policja zatrzymała jego rówieśnika i rok młodszą dziewczynę. Chłopak usłyszał w piątek zarzut zabójstwa, a 13-latka opuściła areszt za kaucją.
 
@@ -36,7 +32,6 @@ W związku ze śmiercią 14-etniego Polaka w Gateshead brytyjska policja zatrzym
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/postac-z-kreskowek-scooby-doo-lesbijka-velma-zakocha-sie-w-dziewczynie/](https://www.polsatnews.pl/wiadomosc/2022-10-07/postac-z-kreskowek-scooby-doo-lesbijka-velma-zakocha-sie-w-dziewczynie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 12:07:00+00:00
- - tags: None
 
 Velma, jedna z głównych bohaterek serii kreskówek Scooby-Doo, okaże się lesbijką. W najnowszym odcinku serii, twórcy zaprezentują jednoznaczną scenę, w której bohaterka zakocha się w nowopoznanej dziewczynie.
 
@@ -44,7 +39,6 @@ Velma, jedna z głównych bohaterek serii kreskówek Scooby-Doo, okaże się les
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/rosja-rekruci-dostali-w-zaopatrzeniu-paczke-podpasek-mobilizacyjne-problemy-kremla/](https://www.polsatnews.pl/wiadomosc/2022-10-07/rosja-rekruci-dostali-w-zaopatrzeniu-paczke-podpasek-mobilizacyjne-problemy-kremla/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 12:01:00+00:00
- - tags: None
 
 Jedno z krążących w internecie nagrań pokazuje, że w paczce dla zmobilizowanego oddziału znalazły się czekolada i podpaski - informują media. To jeden z licznych przykładów obrazujących problemy logistyczne rosyjskiej mobilizacji. Teraz na wojnę idzie tłum ludzi, którzy dostali mundury - podsumował anonimowo jeden z żołnierzy.
 
@@ -52,7 +46,6 @@ Jedno z krążących w internecie nagrań pokazuje, że w paczce dla zmobilizowa
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/zaryn-w-obwodzie-kaliningradzkim-narasta-frustracja-mieszkancy-nie-chca-byc-miesem-armatnim/](https://www.polsatnews.pl/wiadomosc/2022-10-07/zaryn-w-obwodzie-kaliningradzkim-narasta-frustracja-mieszkancy-nie-chca-byc-miesem-armatnim/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 10:29:00+00:00
- - tags: None
 
 Stanisław Żaryn, sekretarz stanu w KPRM i zastępca ministra koordynatora służb specjalnych przekazał, że w obwodzie kaliningradzkim narasta niezadowolenie i frustracja związana z wojną w Ukrainie. Dodał, że mieszkańcy widzą, że Kreml szuka mięsa armatniego. W związku z uniknięciem mobilizacji z terenu Federacji Rosyjskiej uciekły setki tysięcy mężczyzn.
 
@@ -60,7 +53,6 @@ Stanisław Żaryn, sekretarz stanu w KPRM i zastępca ministra koordynatora słu
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/wojna-w-ukrainie-odkryto-kwatere-rosjan-zolnierze-mieszkali-w-chlewie/](https://www.polsatnews.pl/wiadomosc/2022-10-07/wojna-w-ukrainie-odkryto-kwatere-rosjan-zolnierze-mieszkali-w-chlewie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 10:21:00+00:00
- - tags: None
 
 SBU otrzymała niepodważalne dowody na to, że psy Putina istotnie są świniami w prawdziwym życiu - napisała na Twitterze Służba Bezpieczeństwa Ukrainy, zamieszczając wideo odkrytej kwatery Rosjan. Mieściła się ona w chlewie, w okolicach miejscowości Lubymiwka w obwodzie ługańskim.
 
@@ -68,7 +60,6 @@ SBU otrzymała niepodważalne dowody na to, że psy Putina istotnie są świniam
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/pozary-na-wyspie-wielkanocnej-niektore-posagi-moai-splonely/](https://www.polsatnews.pl/wiadomosc/2022-10-07/pozary-na-wyspie-wielkanocnej-niektore-posagi-moai-splonely/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 09:13:00+00:00
- - tags: None
 
 Pożary na należącej do Chile Wyspie Wielkanocnej uszkodziły znajdujące się tam słynne kamienne posągi Moai. Niektóre z nich zostały zwęglone.
 
@@ -76,7 +67,6 @@ Pożary na należącej do Chile Wyspie Wielkanocnej uszkodziły znajdujące się
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/rosja-cyryl-i-wezwal-do-modlitwy-za-wladimira-putina-dzis-prezydent-rosji-konczy-70-lat/](https://www.polsatnews.pl/wiadomosc/2022-10-07/rosja-cyryl-i-wezwal-do-modlitwy-za-wladimira-putina-dzis-prezydent-rosji-konczy-70-lat/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 09:10:00+00:00
- - tags: None
 
 W dniu 70. urodzin Władimira Putina patriarcha Moskwy i Wszechrusi, Cyryl I, wezwał do modlitwy za prezydenta Rosji. - Prosimy cię, abyś obdarzył go swoim bogatym miłosierdziem i hojnością - przekazał duchowny. Rosyjska Cerkiew Prawosławna jest ważnym graczem politycznym i popiera wojnę Rosji w Ukrainie.
 
@@ -84,7 +74,6 @@ W dniu 70. urodzin Władimira Putina patriarcha Moskwy i Wszechrusi, Cyryl I, we
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/pokojowa-nagroda-nobla-ales-bialecki-memorial-i-centrum-wolnosci-obywatelskich-laureatami/](https://www.polsatnews.pl/wiadomosc/2022-10-07/pokojowa-nagroda-nobla-ales-bialecki-memorial-i-centrum-wolnosci-obywatelskich-laureatami/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 09:00:00+00:00
- - tags: None
 
 Białoruski opozycjonista Aleś Bialacki, rosyjska organizacja Memoriał i ukraińskie Centrum Wolności Obywatelskich laureatami laureatem Pokojowej Nagrody Nobla.
 
@@ -92,7 +81,6 @@ Białoruski opozycjonista Aleś Bialacki, rosyjska organizacja Memoriał i ukrai
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/wojna-w-ukrainie-isw-iranskie-drony-nie-przynosza-rosji-wymiernych-wynikow/](https://www.polsatnews.pl/wiadomosc/2022-10-07/wojna-w-ukrainie-isw-iranskie-drony-nie-przynosza-rosji-wymiernych-wynikow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 07:20:00+00:00
- - tags: None
 
 Irańskie drony nie będą raczej miały znacznego wpływu na przebieg wojny - ocenia amerykański Instytut Studiów nad Wojną (ISW). Eksperci uważają, że irański sprzęt nie przynosi Rosji wyników podobnych do tych, jakie zachodnie uzbrojenie daje Ukrainie.
 
@@ -100,7 +88,6 @@ Irańskie drony nie będą raczej miały znacznego wpływu na przebieg wojny - o
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/usa-prezydent-joe-biden-ulaskawil-skazanych-za-marihuane-beda-zmiany-w-klasyfikacji-narkotykow/](https://www.polsatnews.pl/wiadomosc/2022-10-07/usa-prezydent-joe-biden-ulaskawil-skazanych-za-marihuane-beda-zmiany-w-klasyfikacji-narkotykow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 06:39:00+00:00
- - tags: None
 
 Prezydent Stanów Zjednoczonych ułaskawił tysiące osób z przestępstwami federalnymi za posiadanie marihuany. Jednocześnie Joe Biden poddał pod wątpliwość klasyfikowanie tego narkotyku w tej samej grupie co LSD i heroina. Zmiany te spełniają obietnice z kampanii.
 
@@ -108,6 +95,5 @@ Prezydent Stanów Zjednoczonych ułaskawił tysiące osób z przestępstwami fed
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/usa-dwie-osoby-zginely-w-ataku-nozownika-w-las-vegas-napastnik-ranil-szesc-kolejnych/](https://www.polsatnews.pl/wiadomosc/2022-10-07/usa-dwie-osoby-zginely-w-ataku-nozownika-w-las-vegas-napastnik-ranil-szesc-kolejnych/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-07 04:08:00+00:00
- - tags: None
 
 Na reprezentatywnej ulicy Las Vegas doszło do napaści nożownika na przechodniów. W wyniku ataku mężczyzny dwie osoby zmarły, a sześć kolejnych trafiło do szpitala - przekazała policja. Mężczyzna został złapany.

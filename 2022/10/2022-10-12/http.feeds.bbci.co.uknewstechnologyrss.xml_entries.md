@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## China-Taiwan: Can a tech billionaire create a civilian fighting force?
  - [https://www.bbc.co.uk/news/world-asia-63196623?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63196623?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-12 23:56:37+00:00
- - tags: None
 
 Robert Tsao, 75, has pledged a billion Taiwan dollars to train citizens to resist a Chinese invasion.
 
@@ -12,7 +11,6 @@ Robert Tsao, 75, has pledged a billion Taiwan dollars to train citizens to resis
  - [https://www.bbc.co.uk/news/technology-63233583?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63233583?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-12 16:55:32+00:00
- - tags: None
 
 The government says it could reduce document processing times from days to seconds.
 
@@ -20,7 +18,6 @@ The government says it could reduce document processing times from days to secon
  - [https://www.bbc.co.uk/news/technology-63232333?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63232333?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-12 14:40:41+00:00
- - tags: None
 
 Despite a successful test event for competitive gaming, at the 2022 Games, organisers reject it for 2026.
 
@@ -28,7 +25,6 @@ Despite a successful test event for competitive gaming, at the 2022 Games, organ
  - [https://www.bbc.co.uk/news/technology-63196065?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63196065?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-12 09:38:28+00:00
- - tags: None
 
 Microsoft hits back at claims its proposed purchase of Activision Blizzard could harm its rival Sony.
 
@@ -36,7 +32,6 @@ Microsoft hits back at claims its proposed purchase of Activision Blizzard could
  - [https://www.bbc.co.uk/news/business-63224297?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63224297?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-12 03:45:32+00:00
- - tags: None
 
 Tens of millions of people work in the global gig economy across services like food delivery and transport.
 
@@ -44,6 +39,5 @@ Tens of millions of people work in the global gig economy across services like f
  - [https://www.bbc.co.uk/news/world-63213567?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63213567?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-12 00:24:42+00:00
- - tags: None
 
 Children are among those pleading for hours for digital gifts, as the company takes a cut of up to 70%.

@@ -1,10 +1,9 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss
+# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
 
 ## A Ukrainian village brutalised by Russia, and the youth rebuilding homes and hope
  - [https://www.theguardian.com/world/video/2022/oct/13/a-ukrainian-village-brutalised-by-russia-and-the-youth-rebuilding-homes-and-hope](https://www.theguardian.com/world/video/2022/oct/13/a-ukrainian-village-brutalised-by-russia-and-the-youth-rebuilding-homes-and-hope)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-10-13 11:00:13+00:00
- - tags: None
 
 <p>Young Ukrainians from Kyiv are organising<a href="https://qrco.de/bczfOW"> 'Repair Together' 
 weekends</a> to help poor villages devastated by Russian occupation by 

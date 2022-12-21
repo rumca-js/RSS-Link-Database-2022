@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Here are the best sci-fi horror movies to stream for Halloween
  - [https://www.androidauthority.com/best-sci-fi-horror-movies-to-stream-3223353/](https://www.androidauthority.com/best-sci-fi-horror-movies-to-stream-3223353/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-23 21:30:49+00:00
- - tags: None
 
 Check out Alien, Event Horizon, and more.
 
@@ -12,7 +11,6 @@ Check out Alien, Event Horizon, and more.
  - [https://www.androidauthority.com/tiktok-vs-youtube-shorts-vs-instagram-reels-3219063/](https://www.androidauthority.com/tiktok-vs-youtube-shorts-vs-instagram-reels-3219063/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-23 19:00:58+00:00
- - tags: None
 
 We'll be honest, they are mostly the same.
 
@@ -20,7 +18,6 @@ We'll be honest, they are mostly the same.
  - [https://www.androidauthority.com/android-digital-car-key-3222078/](https://www.androidauthority.com/android-digital-car-key-3222078/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-23 16:00:11+00:00
- - tags: None
 
 You'll soon be able to leave your keys at home!
 
@@ -28,7 +25,6 @@ You'll soon be able to leave your keys at home!
  - [https://www.androidauthority.com/google-material-you-one-year-later-3217508/](https://www.androidauthority.com/google-material-you-one-year-later-3217508/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-23 14:00:40+00:00
- - tags: None
 
 There are some early successes, but Google has a long way still to go.
 
@@ -36,7 +32,6 @@ There are some early successes, but Google has a long way still to go.
  - [https://www.androidauthority.com/pixel-7-colors-moto-maker-3223175/](https://www.androidauthority.com/pixel-7-colors-moto-maker-3223175/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-23 13:00:06+00:00
- - tags: None
 
 Smartphone colors have become a bit too dull for my taste.
 
@@ -44,6 +39,5 @@ Smartphone colors have become a bit too dull for my taste.
  - [https://www.androidauthority.com/cloud-security-camera-vs-ip-camera-3222182/](https://www.androidauthority.com/cloud-security-camera-vs-ip-camera-3222182/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-23 12:00:40+00:00
- - tags: None
 
 IP-based security cameras offer several benefits over internet-connected options. Here's why I switched and you should too.

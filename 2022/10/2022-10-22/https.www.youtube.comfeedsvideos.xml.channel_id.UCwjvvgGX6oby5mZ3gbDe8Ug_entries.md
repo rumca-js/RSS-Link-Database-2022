@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## 'Wolf-Warriors' become growing jokes/One protester was dragged into Chinese consulate and ...
  - [https://www.youtube.com/watch?v=cSldk6776Js](https://www.youtube.com/watch?v=cSldk6776Js)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-10-22 19:15:08+00:00
- - tags: None
 
 #chinainsights 
 The 20th National Congress of the Chinese Communist Party, or CCP, has attracted global attention. On the first day of its opening, the Consul General of the Chinese Consulate in Manchester, England, personally came out to a protest scene and beat up a Hong Kong protestor who was protesting peacefully, causing shockwaves in Britain. 

@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Japan Issues Emergency Alert After North Korean Missile Launch     - CNET
  - [https://www.cnet.com/culture/japan-issues-emergency-alert-after-north-korean-missile-launch/#ftag=CADf328eec](https://www.cnet.com/culture/japan-issues-emergency-alert-after-north-korean-missile-launch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 23:51:00+00:00
- - tags: None
 
 A missile launched by North Korea on Tuesday morning local time flew over the island of Hokkaido, triggering an emergency alert to 5 million residents.
 
@@ -12,7 +11,6 @@ A missile launched by North Korea on Tuesday morning local time flew over the is
  - [https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 23:36:00+00:00
- - tags: None
 
 This week, it's time to watch Midnight Mass creator Mike Flanagan's new series The Midnight Club.
 
@@ -20,7 +18,6 @@ This week, it's time to watch Midnight Mass creator Mike Flanagan's new series T
  - [https://www.cnet.com/health/fitness/peloton-to-put-its-bikes-in-all-hilton-branded-hotels-in-the-us/#ftag=CADf328eec](https://www.cnet.com/health/fitness/peloton-to-put-its-bikes-in-all-hilton-branded-hotels-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 23:20:00+00:00
- - tags: None
 
 Company says nearly all 5,400 hotels in its US portfolio will have at least one of the exercise bikes by the end of the year.
 
@@ -28,7 +25,6 @@ Company says nearly all 5,400 hotels in its US portfolio will have at least one 
  - [https://www.cnet.com/personal-finance/when-is-fafsa-due-for-2023-24-file-for-college-financial-aid-early/#ftag=CADf328eec](https://www.cnet.com/personal-finance/when-is-fafsa-due-for-2023-24-file-for-college-financial-aid-early/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 23:05:00+00:00
- - tags: None
 
 Complete your FAFSA form ASAP to qualify for the most money possible.
 
@@ -36,7 +32,6 @@ Complete your FAFSA form ASAP to qualify for the most money possible.
  - [https://www.cnet.com/personal-finance/loans/these-types-of-student-loans-are-not-eligible-for-forgiveness/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/these-types-of-student-loans-are-not-eligible-for-forgiveness/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 23:00:07+00:00
- - tags: None
 
 New guidance from the Biden administration narrows which loans are eligible.
 
@@ -44,7 +39,6 @@ New guidance from the Biden administration narrows which loans are eligible.
  - [https://www.cnet.com/tech/mobile/samsung-plans-to-extend-a-key-tech-lead-for-faster-smaller-processors/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/samsung-plans-to-extend-a-key-tech-lead-for-faster-smaller-processors/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 23:00:02+00:00
- - tags: None
 
 Samsung's plans for chipmaking progress now extend to 2027, an indication that Moore's Law is still ticking.
 
@@ -52,7 +46,6 @@ Samsung's plans for chipmaking progress now extend to 2027, an indication that M
  - [https://www.cnet.com/science/are-particle-physicists-wasting-time-inventing-new-particles-no-but-its-complicated/#ftag=CADf328eec](https://www.cnet.com/science/are-particle-physicists-wasting-time-inventing-new-particles-no-but-its-complicated/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 22:38:45+00:00
- - tags: None
 
 Commentary: New particles haven't been discovered for decades but particle physicists are still making progress.
 
@@ -60,7 +53,6 @@ Commentary: New particles haven't been discovered for decades but particle physi
  - [https://www.cnet.com/tech/hidden-amazon-coupons-this-little-known-page-can-save-you-money/#ftag=CADf328eec](https://www.cnet.com/tech/hidden-amazon-coupons-this-little-known-page-can-save-you-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 22:30:00+00:00
- - tags: None
 
 With just a few clicks, you can find discounts on a ton of items sold on Amazon.
 
@@ -68,7 +60,6 @@ With just a few clicks, you can find discounts on a ton of items sold on Amazon.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-tv-shows-on-prime-video/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-tv-shows-on-prime-video/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 22:28:30+00:00
- - tags: None
 
 Prime Video is hosting a ton of excellent sci-fi series worth committing a binge to. These are the very best...
 
@@ -76,7 +67,6 @@ Prime Video is hosting a ton of excellent sci-fi series worth committing a binge
  - [https://www.cnet.com/roadshow/news/2023-audi-r8-gt-rwd-v10-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-audi-r8-gt-rwd-v10-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 22:02:03+00:00
- - tags: None
 
 Only 333 of these rear-wheel-drive supercars will be sold worldwide.
 
@@ -84,7 +74,6 @@ Only 333 of these rear-wheel-drive supercars will be sold worldwide.
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-7-recap-say-uncle/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-7-recap-say-uncle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 22:01:00+00:00
- - tags: None
 
 Sunday's episode of the Game of Thrones prequel was the wildest so far.
 
@@ -92,7 +81,6 @@ Sunday's episode of the Game of Thrones prequel was the wildest so far.
  - [https://www.cnet.com/deals/amazon-subscribe-and-save-an-easy-way-to-buy-your-essentials-at-a-discount/#ftag=CADf328eec](https://www.cnet.com/deals/amazon-subscribe-and-save-an-easy-way-to-buy-your-essentials-at-a-discount/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 22:00:06+00:00
- - tags: None
 
 This hidden Amazon shopping tip makes saving money simple. Here's how it works.
 
@@ -100,7 +88,6 @@ This hidden Amazon shopping tip makes saving money simple. Here's how it works.
  - [https://www.cnet.com/roadshow/news/why-i-dont-own-an-electric-car-yet/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/why-i-dont-own-an-electric-car-yet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 20:34:12+00:00
- - tags: None
 
 Commentary: People are surprised that I don't own an EV, but here are my reasons, some admittedly better than others.
 
@@ -108,7 +95,6 @@ Commentary: People are surprised that I don't own an EV, but here are my reasons
  - [https://www.cnet.com/videos/what-we-expect-to-see-in-the-pixel-7-and-pixel-watch/#ftag=CADf328eec](https://www.cnet.com/videos/what-we-expect-to-see-in-the-pixel-7-and-pixel-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 20:25:40+00:00
- - tags: None
 
 Google is set to unveil the Pixel 7 lineup and the Pixel Watch. Here's what we know so far about those long-awaited gadgets.
 
@@ -116,7 +102,6 @@ Google is set to unveil the Pixel 7 lineup and the Pixel Watch. Here's what we k
  - [https://www.cnet.com/personal-finance/yes-you-can-make-money-from-that-car-sitting-in-your-garage-heres-how/#ftag=CADf328eec](https://www.cnet.com/personal-finance/yes-you-can-make-money-from-that-car-sitting-in-your-garage-heres-how/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 20:15:02+00:00
- - tags: None
 
 If you have a spare car or one that you don't use much, consider renting it out online to gig drivers or tourists.
 
@@ -124,7 +109,6 @@ If you have a spare car or one that you don't use much, consider renting it out 
  - [https://www.cnet.com/tech/mobile/googles-pixel-7-event-new-phones-watch-and-more-to-expect/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/googles-pixel-7-event-new-phones-watch-and-more-to-expect/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 20:08:12+00:00
- - tags: None
 
 The company is set to unveil the Pixel 7 phone lineup and the Pixel Watch on Thursday. Here's what we know so far about those long-awaited gadgets.
 
@@ -132,7 +116,6 @@ The company is set to unveil the Pixel 7 phone lineup and the Pixel Watch on Thu
  - [https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-arrive-on-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-arrive-on-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 20:00:07+00:00
- - tags: None
 
 We know all the release dates and times for the eight remaining episodes of the intense Star Wars prequel show.
 
@@ -140,7 +123,6 @@ We know all the release dates and times for the eight remaining episodes of the 
  - [https://www.cnet.com/health/medical/how-cold-weather-affects-your-breathing-and-what-to-do-about-it/#ftag=CADf328eec](https://www.cnet.com/health/medical/how-cold-weather-affects-your-breathing-and-what-to-do-about-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 20:00:02+00:00
- - tags: None
 
 Cold weather can lead to runny noses, and not just because of flu season.
 
@@ -148,7 +130,6 @@ Cold weather can lead to runny noses, and not just because of flu season.
  - [https://www.cnet.com/health/nutrition/some-brie-camembert-cheeses-recalled-over-listeria-concerns/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/some-brie-camembert-cheeses-recalled-over-listeria-concerns/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 19:17:00+00:00
- - tags: None
 
 Recalled soft cheeses include different brand names sold at Safeway, Whole Foods and other retailers.
 
@@ -156,7 +137,6 @@ Recalled soft cheeses include different brand names sold at Safeway, Whole Foods
  - [https://www.cnet.com/tech/services-and-software/nfl-2022-how-to-watch-stream-rams-vs-49ers-manningcast-and-monday-night-football-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-2022-how-to-watch-stream-rams-vs-49ers-manningcast-and-monday-night-football-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 19:13:15+00:00
- - tags: None
 
 NFC West rivals Los Angeles and San Francisco wrap up Week 4 tonight on ESPN. You can also watch the ManningCast on ESPN2.
 
@@ -164,7 +144,6 @@ NFC West rivals Los Angeles and San Francisco wrap up Week 4 tonight on ESPN. Yo
  - [https://www.cnet.com/health/sleep/use-this-new-sleep-device-to-fall-asleep-tonight/#ftag=CADf328eec](https://www.cnet.com/health/sleep/use-this-new-sleep-device-to-fall-asleep-tonight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 19:00:06+00:00
- - tags: None
 
 Sleep tech without harmful blue light to help you sleep.
 
@@ -172,7 +151,6 @@ Sleep tech without harmful blue light to help you sleep.
  - [https://www.cnet.com/health/medical/tracking-your-health-with-a-chronic-illness-the-ultimate-guide/#ftag=CADf328eec](https://www.cnet.com/health/medical/tracking-your-health-with-a-chronic-illness-the-ultimate-guide/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 19:00:02+00:00
- - tags: None
 
 There are a ton of different health metrics you can choose to track, but not all of them are easily measured at home.
 
@@ -180,7 +158,6 @@ There are a ton of different health metrics you can choose to track, but not all
  - [https://www.cnet.com/health/medical/knowing-your-blood-type-is-useful-3-easy-ways-to-find-out-yours/#ftag=CADf328eec](https://www.cnet.com/health/medical/knowing-your-blood-type-is-useful-3-easy-ways-to-find-out-yours/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 19:00:00+00:00
- - tags: None
 
 If you don't already know your blood type, you should find out ASAP.
 
@@ -188,7 +165,6 @@ If you don't already know your blood type, you should find out ASAP.
  - [https://www.cnet.com/culture/national-taco-day-2022-free-tacos-taco-bell-del-taco-chevys/#ftag=CADf328eec](https://www.cnet.com/culture/national-taco-day-2022-free-tacos-taco-bell-del-taco-chevys/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 19:00:00+00:00
- - tags: None
 
 Oct. 4 is the ultimate Taco Tuesday.
 
@@ -196,7 +172,6 @@ Oct. 4 is the ultimate Taco Tuesday.
  - [https://www.cnet.com/news/social-media/twitter-rolls-out-edit-button-to-subscribers-in-canada-australia-and-new-zealand/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-rolls-out-edit-button-to-subscribers-in-canada-australia-and-new-zealand/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 18:55:41+00:00
- - tags: None
 
 The feature is part of the company's subscription service Twitter Blue.
 
@@ -204,7 +179,6 @@ The feature is part of the company's subscription service Twitter Blue.
  - [https://www.cnet.com/personal-finance/loans/student-debt-loan-forgiveness-faq-who-gets-relief-how-much-is-canceled-and-when-will-it-happen/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/student-debt-loan-forgiveness-faq-who-gets-relief-how-much-is-canceled-and-when-will-it-happen/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 18:55:02+00:00
- - tags: None
 
 Get all the details on President Biden's plan for student loan debt forgiveness.
 
@@ -212,7 +186,6 @@ Get all the details on President Biden's plan for student loan debt forgiveness.
  - [https://www.cnet.com/deals/best-roku-device-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 18:43:43+00:00
- - tags: None
 
 See the best prices on streamers that use our favorite streaming platform for TV, movies and music.
 
@@ -220,7 +193,6 @@ See the best prices on streamers that use our favorite streaming platform for TV
  - [https://www.cnet.com/science/space/nasa-snaps-sun-spitting-out-a-dazzling-x1-solar-flare/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-snaps-sun-spitting-out-a-dazzling-x1-solar-flare/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 18:19:00+00:00
- - tags: None
 
 The sun is so hot right now.
 
@@ -228,7 +200,6 @@ The sun is so hot right now.
  - [https://www.cnet.com/tech/gaming/horizon-zero-dawn-remaster-reportedly-in-development-for-ps5/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/horizon-zero-dawn-remaster-reportedly-in-development-for-ps5/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 18:10:00+00:00
- - tags: None
 
 A spin-off multiplayer game is also reportedly coming.
 
@@ -236,7 +207,6 @@ A spin-off multiplayer game is also reportedly coming.
  - [https://www.cnet.com/culture/entertainment/new-black-panther-wakanda-forever-trailer-reveals-namors-threat/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/new-black-panther-wakanda-forever-trailer-reveals-namors-threat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 17:56:00+00:00
- - tags: None
 
 The 30th MCU movie hits theaters Nov. 11.
 
@@ -244,7 +214,6 @@ The 30th MCU movie hits theaters Nov. 11.
  - [https://www.cnet.com/roadshow/videos/i-dont-own-an-electric-car-and-heres-why/#ftag=CADf328eec](https://www.cnet.com/roadshow/videos/i-dont-own-an-electric-car-and-heres-why/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 17:54:10+00:00
- - tags: None
 
 Your friends with Teslas probably think you're an idiot, but you're actually smart to wait a bit longer.
 
@@ -252,7 +221,6 @@ Your friends with Teslas probably think you're an idiot, but you're actually sma
  - [https://www.cnet.com/deals/grab-6-pokemon-tcg-25th-anniversary-cards-for-35-or-score-12-for-63/#ftag=CADf328eec](https://www.cnet.com/deals/grab-6-pokemon-tcg-25th-anniversary-cards-for-35-or-score-12-for-63/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 17:41:00+00:00
- - tags: None
 
 Save up to $105 on this collection of oversized cards featuring first partners from the Kalos region of Pokemon.
 
@@ -260,7 +228,6 @@ Save up to $105 on this collection of oversized cards featuring first partners f
  - [https://www.cnet.com/culture/entertainment/ironheart-what-to-know-about-the-upcoming-disney-plus-series/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/ironheart-what-to-know-about-the-upcoming-disney-plus-series/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 17:03:08+00:00
- - tags: None
 
 Before Dominique Thorne stars in the Disney Plus Marvel series Ironheart, she'll appear in Black Panther: Wakanda Forever​.
 
@@ -268,7 +235,6 @@ Before Dominique Thorne stars in the Disney Plus Marvel series Ironheart, she'll
  - [https://www.cnet.com/tech/mobile/apple-listened-to-iphone-fans-why-the-ios-16-battery-meter-is-changing/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apple-listened-to-iphone-fans-why-the-ios-16-battery-meter-is-changing/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 16:55:02+00:00
- - tags: None
 
 Apple heard the complaints about the iPhone's battery icon in iOS 16 and plans to release a design fix soon.
 
@@ -276,7 +242,6 @@ Apple heard the complaints about the iPhone's battery icon in iOS 16 and plans t
  - [https://www.cnet.com/tech/mobile/is-your-android-being-tracked-by-an-airtag-heres-how-to-find-out/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/is-your-android-being-tracked-by-an-airtag-heres-how-to-find-out/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 16:50:02+00:00
- - tags: None
 
 This third-party app from Apple will let you know if you're being followed by a rogue AirTag.
 
@@ -284,7 +249,6 @@ This third-party app from Apple will let you know if you're being followed by a 
  - [https://www.cnet.com/tech/gaming/sony-orders-2-million-playstation-vr2-headsets-report-says/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/sony-orders-2-million-playstation-vr2-headsets-report-says/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 16:45:00+00:00
- - tags: None
 
 The video game company is going all in on its new virtual reality headset, according to Bloomberg.
 
@@ -292,7 +256,6 @@ The video game company is going all in on its new virtual reality headset, accor
  - [https://www.cnet.com/culture/entertainment/hbo-max-the-21-absolute-best-movies-to-watch-in-october/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-21-absolute-best-movies-to-watch-in-october/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 16:32:00+00:00
- - tags: None
 
 This October, check out Edgar Wright's 2021 horror-thriller Last Night in Soho.
 
@@ -300,7 +263,6 @@ This October, check out Edgar Wright's 2021 horror-thriller Last Night in Soho.
  - [https://www.cnet.com/deals/amazon-discounts-echo-fire-tv-more-by-up-to-59-percent-ahead-prime-early-access-sale/#ftag=CADf328eec](https://www.cnet.com/deals/amazon-discounts-echo-fire-tv-more-by-up-to-59-percent-ahead-prime-early-access-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 16:21:00+00:00
- - tags: None
 
 This limited-time sale makes Amazon's highly rated devices even more affordable than usual. Grab some today.
 
@@ -308,7 +270,6 @@ This limited-time sale makes Amazon's highly rated devices even more affordable 
  - [https://www.cnet.com/science/space/firefly-alpha-rocket-finally-makes-it-to-orbit/#ftag=CADf328eec](https://www.cnet.com/science/space/firefly-alpha-rocket-finally-makes-it-to-orbit/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 16:20:00+00:00
- - tags: None
 
 Thirteen months after the space startup's first attempt ended in an explosion, it has declared "100% mission success" for Saturday's launch.
 
@@ -316,7 +277,6 @@ Thirteen months after the space startup's first attempt ended in an explosion, i
  - [https://www.cnet.com/tech/computing/yes-you-can-download-microsoft-office-on-a-chromebook/#ftag=CADf328eec](https://www.cnet.com/tech/computing/yes-you-can-download-microsoft-office-on-a-chromebook/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 03:00:02+00:00
- - tags: None
 
 Downloading and installing Office 365 apps on a Chromebook is quick and easy with these steps.
 
@@ -324,7 +284,6 @@ Downloading and installing Office 365 apps on a Chromebook is quick and easy wit
  - [https://www.cnet.com/science/space/nasa-spacex-look-at-sending-crew-dragon-to-boost-hubble-telescopes-life/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-spacex-look-at-sending-crew-dragon-to-boost-hubble-telescopes-life/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 01:56:00+00:00
- - tags: None
 
 The telescope could get a boost, but the concept is only in an early study stage.
 
@@ -332,7 +291,6 @@ The telescope could get a boost, but the concept is only in an early study stage
  - [https://www.cnet.com/science/space/how-to-watch-spacex-launch-nasa-astronauts-on-crew-5-mission-this-week/#ftag=CADf328eec](https://www.cnet.com/science/space/how-to-watch-spacex-launch-nasa-astronauts-on-crew-5-mission-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 01:53:00+00:00
- - tags: None
 
 A crew of four is set to blast off from Florida.
 
@@ -340,7 +298,6 @@ A crew of four is set to blast off from Florida.
  - [https://www.cnet.com/culture/internet/watch-youtuber-dream-finally-reveal-his-face/#ftag=CADf328eec](https://www.cnet.com/culture/internet/watch-youtuber-dream-finally-reveal-his-face/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 01:52:00+00:00
- - tags: None
 
 The Minecraft player has more than 30 million subscribers. Now they finally know what he looks like.
 
@@ -348,7 +305,6 @@ The Minecraft player has more than 30 million subscribers. Now they finally know
  - [https://www.cnet.com/culture/mcdonalds-beloved-halloween-boo-buckets-return-is-looking-more-likely/#ftag=CADf328eec](https://www.cnet.com/culture/mcdonalds-beloved-halloween-boo-buckets-return-is-looking-more-likely/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 01:41:00+00:00
- - tags: None
 
 There's more news about the possibility that the fast-food chain could be bringing back this Happy Meal nostalgia.
 
@@ -356,7 +312,6 @@ There's more news about the possibility that the fast-food chain could be bringi
  - [https://www.cnet.com/news/your-router-is-collecting-data-heres-what-to-know-and-how-to-protect-your-privacy/#ftag=CADf328eec](https://www.cnet.com/news/your-router-is-collecting-data-heres-what-to-know-and-how-to-protect-your-privacy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 01:00:02+00:00
- - tags: None
 
 Wi-Fi router companies say they don't track the websites you visit, but all of them collect and share some user data.
 
@@ -364,6 +319,5 @@ Wi-Fi router companies say they don't track the websites you visit, but all of t
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-7-recap-a-funeral-and-a-wedding/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-7-recap-a-funeral-and-a-wedding/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-03 01:00:00+00:00
- - tags: None
 
 Sunday's episode of the Game of Thrones prequel was the wildest yet.

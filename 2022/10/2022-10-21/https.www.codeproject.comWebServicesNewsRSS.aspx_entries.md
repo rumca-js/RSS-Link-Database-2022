@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Binary Classification Using New PyTorch Best Practices, Part 2: Training, Accuracy, Predictions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59264](https://www.codeproject.com/script/News/View.aspx?nwid=59264)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 Dr. James McCaffrey of Microsoft Research explains how to train a network, compute its accuracy, use it to make predictions and save it for use by other programs.
 
@@ -12,7 +11,6 @@ Dr. James McCaffrey of Microsoft Research explains how to train a network, compu
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59268](https://www.codeproject.com/script/News/View.aspx?nwid=59268)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 As Computer Vision applications are becoming omnipresent in our lives, understanding the functioning principles of Convolutional Neural Networks is essential for every Data Science practitioner
 
@@ -20,7 +18,6 @@ As Computer Vision applications are becoming omnipresent in our lives, understan
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59275](https://www.codeproject.com/script/News/View.aspx?nwid=59275)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 Then you can burn out on that
 
@@ -28,7 +25,6 @@ Then you can burn out on that
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59260](https://www.codeproject.com/script/News/View.aspx?nwid=59260)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 My research finds 'no, duh'
 
@@ -36,7 +32,6 @@ My research finds 'no, duh'
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59274](https://www.codeproject.com/script/News/View.aspx?nwid=59274)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 That's the only laptop the marketing group had?
 
@@ -44,7 +39,6 @@ That's the only laptop the marketing group had?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59266](https://www.codeproject.com/script/News/View.aspx?nwid=59266)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 In this post I’ll show you how I organize the files in my machine learning projects, and I’ll explain the reasoning behind each decision.
 
@@ -52,7 +46,6 @@ In this post I’ll show you how I organize the files in my machine learning pro
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59261](https://www.codeproject.com/script/News/View.aspx?nwid=59261)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 Are you positive?
 
@@ -60,7 +53,6 @@ Are you positive?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59265](https://www.codeproject.com/script/News/View.aspx?nwid=59265)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 The use of on-device ML in Android is growing faster than ever thanks to its unique benefits over server based ML such as offline availability, lower latency, improved privacy and lower inference costs.
 
@@ -68,7 +60,6 @@ The use of on-device ML in Android is growing faster than ever thanks to its uni
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59273](https://www.codeproject.com/script/News/View.aspx?nwid=59273)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 PDFs work everywhere don't they? It's _Portable_
 
@@ -76,7 +67,6 @@ PDFs work everywhere don't they? It's _Portable_
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59272](https://www.codeproject.com/script/News/View.aspx?nwid=59272)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 It's vi, but with dark mode?
 
@@ -84,7 +74,6 @@ It's vi, but with dark mode?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59271](https://www.codeproject.com/script/News/View.aspx?nwid=59271)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 "All work and no play make Jack a dull boy"
 
@@ -92,7 +81,6 @@ It's vi, but with dark mode?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59267](https://www.codeproject.com/script/News/View.aspx?nwid=59267)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 With this capability on SageMaker, you can optimize your workloads by avoiding costly network latency and reaping the benefits of compute and data locality for ensemble inference pipelines. I
 
@@ -100,7 +88,6 @@ With this capability on SageMaker, you can optimize your workloads by avoiding c
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59269](https://www.codeproject.com/script/News/View.aspx?nwid=59269)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 A fast differentiable tensor library for research in TypeScript and JavaScript.
 
@@ -108,7 +95,6 @@ A fast differentiable tensor library for research in TypeScript and JavaScript.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59259](https://www.codeproject.com/script/News/View.aspx?nwid=59259)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 Closed: Answered in other prison
 
@@ -116,7 +102,6 @@ Closed: Answered in other prison
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59262](https://www.codeproject.com/script/News/View.aspx?nwid=59262)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 Don't mess with Texas faces
 
@@ -124,7 +109,6 @@ Don't mess with Texas faces
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59270](https://www.codeproject.com/script/News/View.aspx?nwid=59270)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 In this tutorial, you will discover how to train the Transformer model for neural machine translation.
 
@@ -132,6 +116,5 @@ In this tutorial, you will discover how to train the Transformer model for neura
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59263](https://www.codeproject.com/script/News/View.aspx?nwid=59263)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-21 04:00:00+00:00
- - tags: None
 
 Error: The operation completed successfully

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How to use Face or Photo Unblur with Pixel phones
  - [https://www.androidauthority.com/face-photo-unblur-pixel-3217580/](https://www.androidauthority.com/face-photo-unblur-pixel-3217580/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 20:30:42+00:00
- - tags: None
 
 Bring blurry images back to life!
 
@@ -12,7 +11,6 @@ Bring blurry images back to life!
  - [https://www.androidauthority.com/samsung-galaxy-buds-2-pro-alternatives-3211737/](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-alternatives-3211737/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 19:00:35+00:00
- - tags: None
 
 Not keen on Samsung's new buds? There are plenty of options to choose from.
 
@@ -20,7 +18,6 @@ Not keen on Samsung's new buds? There are plenty of options to choose from.
  - [https://www.androidauthority.com/sony-wh-1000xm3-battery-replacement-3212768/](https://www.androidauthority.com/sony-wh-1000xm3-battery-replacement-3212768/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 18:00:03+00:00
- - tags: None
 
 A little time is all it takes to save money and the planet.
 
@@ -28,7 +25,6 @@ A little time is all it takes to save money and the planet.
  - [https://www.androidauthority.com/google-pixel-7-vs-older-pixel-phones-upgrade-3216406/](https://www.androidauthority.com/google-pixel-7-vs-older-pixel-phones-upgrade-3216406/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 17:00:10+00:00
- - tags: None
 
 The Pixel 7 series is Google's best.
 
@@ -36,7 +32,6 @@ The Pixel 7 series is Google's best.
  - [https://www.androidauthority.com/android-apps-weekly-453-3217235/](https://www.androidauthority.com/android-apps-weekly-453-3217235/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 16:00:05+00:00
- - tags: None
 
 Goodbye Stadia, and hello edit button.
 
@@ -44,7 +39,6 @@ Goodbye Stadia, and hello edit button.
  - [https://www.androidauthority.com/best-pixel-watch-alternatives-3216031/](https://www.androidauthority.com/best-pixel-watch-alternatives-3216031/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 14:00:43+00:00
- - tags: None
 
 Look to these other capable smartwatch contenders before settling on Google's.
 
@@ -52,7 +46,6 @@ Look to these other capable smartwatch contenders before settling on Google's.
  - [https://www.androidauthority.com/trust-google-vpn-poll-3216525/](https://www.androidauthority.com/trust-google-vpn-poll-3216525/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 13:00:20+00:00
- - tags: None
 
 Google's VPN service is free for Pixel 7 series owners, but would you trust it in the first place?
 
@@ -60,7 +53,6 @@ Google's VPN service is free for Pixel 7 series owners, but would you trust it i
  - [https://www.androidauthority.com/galaxy-z-flip-4-flex-mode-single-take-pets-3212299/](https://www.androidauthority.com/galaxy-z-flip-4-flex-mode-single-take-pets-3212299/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 12:00:01+00:00
- - tags: None
 
 It's not perfect, but the combo of Single Take and Flex Mode certainly brings to mind Google Clips.
 
@@ -68,7 +60,6 @@ It's not perfect, but the combo of Single Take and Flex Mode certainly brings to
  - [https://www.androidauthority.com/the-weekly-authority-8-october-2022-215-3215747/](https://www.androidauthority.com/the-weekly-authority-8-october-2022-215-3215747/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 11:14:29+00:00
- - tags: None
 
 Catch up on what you missed at Google's Pixel event, S23 battery leaks, streaming Halloween horror, plus more top tech news.
 
@@ -76,6 +67,5 @@ Catch up on what you missed at Google's Pixel event, S23 battery leaks, streamin
  - [https://www.androidauthority.com/oneplus-10-pro-long-term-review-3216055/](https://www.androidauthority.com/oneplus-10-pro-long-term-review-3216055/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-08 10:00:46+00:00
- - tags: None
 
 It's got all the hardware you need, but a lack of refinement keeps the OnePlus 10 Pro from being a true-blue flagship.

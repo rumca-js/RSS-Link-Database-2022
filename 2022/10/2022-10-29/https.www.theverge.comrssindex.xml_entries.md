@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Elon Musk reportedly ordered company-wide layoffs at Twitter
  - [https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs](https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 21:40:19+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk on a blue background" src="https://cdn.vox-cdn.com/thumbor/N4j3XKzQrcM6ad5ewPvy9j8MnxE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71559862/STK171_VRG_Illo_11_Normand_ElonMusk_11.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/10/29/23430147/liam-hemsworth-replacing-henry-cavill-season-4-the-witcher-netflix](https://www.theverge.com/2022/10/29/23430147/liam-hemsworth-replacing-henry-cavill-season-4-the-witcher-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 19:35:56+00:00
- - tags: None
 
 <figure>
       <img alt="The 2019 Met Gala Celebrating Camp: Notes On Fashion" src="https://cdn.vox-cdn.com/thumbor/UnWyGPt8r1V5LbSUuD39lpYINpQ=/0x25:2400x1625/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71559547/1141863486.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review](https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of PC Building Simulator 2, showing a completed PC build" src="https://cdn.vox-cdn.com/thumbor/XcslQxZTlCCi6faSNSCUyRkgj4U=/202x0:2325x1415/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71559310/Screenshot_2022_10_20_183021.0.jpg" />
@@ -56,7 +53,6 @@
  - [https://www.theverge.com/2022/10/29/23429915/iphone-15-ditch-mechanical-volume-power-buttons-solid-state-haptic-feedback-apple-rumors](https://www.theverge.com/2022/10/29/23429915/iphone-15-ditch-mechanical-volume-power-buttons-solid-state-haptic-feedback-apple-rumors)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 17:37:48+00:00
- - tags: None
 
 <figure>
       <img alt="A person holding the iPhone 14" src="https://cdn.vox-cdn.com/thumbor/Y07MDJQFwdDDQ3xcVt8KuCiUmFc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71559284/226270_iPHONE_14_PHO_akrales_0480.0.jpg" />
@@ -78,7 +74,6 @@
  - [https://www.theverge.com/good-deals/2022/10/29/23428281/google-nest-audio-hub-max-beats-fit-pro-sandisk-extreme-pro-ssd-elgato-streamdeck-xl-deal-sale](https://www.theverge.com/good-deals/2022/10/29/23428281/google-nest-audio-hub-max-beats-fit-pro-sandisk-extreme-pro-ssd-elgato-streamdeck-xl-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 16:37:54+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the home screen of the Google Nest Hub Max" src="https://cdn.vox-cdn.com/thumbor/QIsarExu-BpjxDB5qfxLZdoGrgE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71559168/dseifert_190905_3634_0006.0.jpg" />
@@ -97,7 +92,6 @@
  - [https://www.theverge.com/2022/10/29/23428241/elon-musk-twitter-bluesky-decentralized-social-networking-future](https://www.theverge.com/2022/10/29/23428241/elon-musk-twitter-bluesky-decentralized-social-networking-future)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A series of blue cubes representing Project Bluesky." src="https://cdn.vox-cdn.com/thumbor/CQqnJH7LB7UpKEFEgdMpsZSfqWk=/0x338:2030x1691/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71559048/Screen_Shot_2022_10_28_at_5.10.04_PM.0.png" />
@@ -114,7 +108,6 @@
  - [https://www.theverge.com/2022/10/29/23429776/gm-pauses-ads-twitter-elon-musk-takeover-tesla-content-moderation](https://www.theverge.com/2022/10/29/23429776/gm-pauses-ads-twitter-elon-musk-takeover-tesla-content-moderation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 15:36:35+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk shrugging on a background with the Twitter logo" src="https://cdn.vox-cdn.com/thumbor/Qu1-F4T0L34d5bWeVEAlUf-VOkA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71558980/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg" />
@@ -132,7 +125,6 @@
  - [https://www.theverge.com/2022/10/29/23428409/jordan-peele-keke-palmer-nope-interview-spoilers-rogue](https://www.theverge.com/2022/10/29/23428409/jordan-peele-keke-palmer-nope-interview-spoilers-rogue)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Jordan Peele wearing a black bomber jacket with white sleeves and a paisley-like pattern and Keke Palmer in a silk dress. Both are sitting in front of a screenshot from the movie Nope depicting an overcast sky and mountains." src="https://cdn.vox-cdn.com/thumbor/zAjZCCSqSGEhyWe8gmurcb3z-uY=/251x0:2630x1586/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71558538/Screen_Shot_2022_10_28_at_11.39.27_AM.0.png" />
@@ -149,7 +141,6 @@
  - [https://www.theverge.com/23426830/echo-dot-with-clock-2022-fifth-gen-review](https://www.theverge.com/23426830/echo-dot-with-clock-2022-fifth-gen-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 12:00:00+00:00
- - tags: None
 
 <p>With better sound, faster responses, and more sensors, Amazon’s Echo Dot with Clock fifth-gen is more useful for your smart home and remains the best budget smart speaker you can buy.</p>
   <p>
@@ -160,7 +151,6 @@
  - [https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 00:45:27+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/DzZhQZ73bJ1oqBaQXgqy240kVjI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/67838743/acastro_191031_1777_blackFriday_0001.0.jpg" />
@@ -178,7 +168,6 @@
  - [https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots](https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-29 00:18:20+00:00
- - tags: None
 
 <figure>
       <img alt="Image of five robots made out of Lego bricks." src="https://cdn.vox-cdn.com/thumbor/agiahPkkV4UI_MVHqzL3xagXPT8=/174x160:1683x1166/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71557351/51515_Lifestyle_06.0.jpg" />

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Drones Embody an Iran-Russia Alliance Built on Hostility to the U.S.
  - [https://www.nytimes.com/2022/10/17/world/europe/russia-iran-alliance-drones.html](https://www.nytimes.com/2022/10/17/world/europe/russia-iran-alliance-drones.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 23:08:24+00:00
- - tags: None
 
 Authoritarian regimes in Moscow and Tehran have in common international isolation, domestic crisis and conflict with the West.
 
@@ -12,7 +11,6 @@ Authoritarian regimes in Moscow and Tehran have in common international isolatio
  - [https://www.nytimes.com/2022/10/17/world/europe/ukraine-russia-war-kyiv-drones.html](https://www.nytimes.com/2022/10/17/world/europe/ukraine-russia-war-kyiv-drones.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 23:00:10+00:00
- - tags: None
 
 “What a horror,” said a Ukrainian retiree, as plumes of smoke rose from a central Kyiv street. “Again!” she said. “This is now happening all the time.”
 
@@ -20,7 +18,6 @@ Authoritarian regimes in Moscow and Tehran have in common international isolatio
  - [https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html](https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 23:00:06+00:00
- - tags: None
 
 Citing national security, Britain wants to stop its retired military pilots from accepting lucrative contracts to train members of the People’s Liberation Army.
 
@@ -28,7 +25,6 @@ Citing national security, Britain wants to stop its retired military pilots from
  - [https://www.nytimes.com/2022/10/17/briefing/russia-ukraine-iran-china.html](https://www.nytimes.com/2022/10/17/briefing/russia-ukraine-iran-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 22:00:16+00:00
- - tags: None
 
 Plus China delays economic data and the U.K. finance minister drops the tax plan.
 
@@ -36,7 +32,6 @@ Plus China delays economic data and the U.K. finance minister drops the tax plan
  - [https://www.nytimes.com/2022/10/17/world/europe/russia-military-jet-crash-yeysk.html](https://www.nytimes.com/2022/10/17/world/europe/russia-military-jet-crash-yeysk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 20:50:44+00:00
- - tags: None
 
 Russian military officials said the jet was on a training flight when one of its engines caught fire, causing it to crash in a port town about 25 miles from Ukraine.
 
@@ -44,7 +39,6 @@ Russian military officials said the jet was on a training flight when one of its
  - [https://www.nytimes.com/2022/10/17/world/europe/sweden-democrats-government-immigration.html](https://www.nytimes.com/2022/10/17/world/europe/sweden-democrats-government-immigration.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 20:02:12+00:00
- - tags: None
 
 The anti-immigrant Sweden Democrats will have a say over new policies for the incoming government under a complicated leadership agreement.
 
@@ -52,7 +46,6 @@ The anti-immigrant Sweden Democrats will have a say over new policies for the in
  - [https://www.nytimes.com/2022/10/17/world/africa/nigeria-floods.html](https://www.nytimes.com/2022/10/17/world/africa/nigeria-floods.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 18:45:49+00:00
- - tags: None
 
 The country is experiencing its worst floods in years, largely because of heavy rains caused by climate change.
 
@@ -60,7 +53,6 @@ The country is experiencing its worst floods in years, largely because of heavy 
  - [https://www.nytimes.com/2022/10/17/world/europe/kyiv-russia-strikes-resilience.html](https://www.nytimes.com/2022/10/17/world/europe/kyiv-russia-strikes-resilience.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 16:56:36+00:00
- - tags: None
 
 After a barrage of Russian missile and drone strikes on the Ukrainian capital, its residents show a resolve to clean up and press on.
 
@@ -68,7 +60,6 @@ After a barrage of Russian missile and drone strikes on the Ukrainian capital, i
  - [https://www.nytimes.com/2022/10/17/world/europe/eu-ukraine-josep-borrell-fontelles.html](https://www.nytimes.com/2022/10/17/world/europe/eu-ukraine-josep-borrell-fontelles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 16:36:39+00:00
- - tags: None
 
 Josep Borrell Fontelles said Europe was “a garden,” and the world “a jungle,” triggering charges of neocolonialism and racism just as the E.U. tries to drum up support in the developing world.
 
@@ -76,7 +67,6 @@ Josep Borrell Fontelles said Europe was “a garden,” and the world “a jungl
  - [https://www.nytimes.com/2022/10/17/world/europe/france-algeria-restitution-skulls.html](https://www.nytimes.com/2022/10/17/world/europe/france-algeria-restitution-skulls.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 13:50:50+00:00
- - tags: None
 
 The restitution of the remains, said to belong to 19th-century freedom fighters, was hailed as a symbol of reconciliation, but papers obtained by The Times reveal a gesture muddled by politics.
 
@@ -84,7 +74,6 @@ The restitution of the remains, said to belong to 19th-century freedom fighters,
  - [https://www.nytimes.com/2022/10/17/world/europe/russia-draft-quota.html](https://www.nytimes.com/2022/10/17/world/europe/russia-draft-quota.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 13:15:41+00:00
- - tags: None
 
 President Vladimir V. Putin of Russia announced what he called a partial mobilization of troops on Sep. 21. Defense officials had said Russia would aim to draft about 300,000 civilians.
 
@@ -92,7 +81,6 @@ President Vladimir V. Putin of Russia announced what he called a partial mobiliz
  - [https://www.nytimes.com/2022/10/17/world/asia/manchester-china-consulate-beating.html](https://www.nytimes.com/2022/10/17/world/asia/manchester-china-consulate-beating.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 12:57:28+00:00
- - tags: None
 
 The scuffle came as tensions have escalated between Beijing and London, which has offered special visas to Hong Kongers seeking to leave.
 
@@ -100,7 +88,6 @@ The scuffle came as tensions have escalated between Beijing and London, which ha
  - [https://www.nytimes.com/2022/10/17/world/asia/bts-military-south-korea-enlist.html](https://www.nytimes.com/2022/10/17/world/asia/bts-military-south-korea-enlist.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 12:55:12+00:00
- - tags: None
 
 Ending months of debate, the band’s label said that the seven members would serve their military conscriptions. They plan to reunite in a couple of years.
 
@@ -108,7 +95,6 @@ Ending months of debate, the band’s label said that the seven members would se
  - [https://www.nytimes.com/2022/10/17/world/europe/kyiv-hit-by-early-morning-explosions-one-week-after-deadly-attack.html](https://www.nytimes.com/2022/10/17/world/europe/kyiv-hit-by-early-morning-explosions-one-week-after-deadly-attack.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 11:53:13+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@ Ending months of debate, the band’s label said that the seven members would se
  - [https://www.nytimes.com/2022/10/17/world/europe/russia-drone-strike-zaporizhzhia-nuclear-plant.html](https://www.nytimes.com/2022/10/17/world/europe/russia-drone-strike-zaporizhzhia-nuclear-plant.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 11:32:48+00:00
- - tags: None
 
 A Russian strike again disconnected the embattled plant from the national power grid, forcing it to move to backup power, officials said.
 
@@ -124,7 +109,6 @@ A Russian strike again disconnected the embattled plant from the national power 
  - [https://www.nytimes.com/2022/10/17/world/europe/russia-ukraine-iran-drones.html](https://www.nytimes.com/2022/10/17/world/europe/russia-ukraine-iran-drones.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 11:26:03+00:00
- - tags: None
 
 Russia has used the drones to strike on the battlefield and in Ukrainian cities. Their use may be a sign that Moscow is running low on precision-guided weapons.
 
@@ -132,7 +116,6 @@ Russia has used the drones to strike on the battlefield and in Ukrainian cities.
  - [https://www.nytimes.com/2022/10/17/world/europe/at-least-two-drones-appeared-to-target-a-city-heating-station-in-central-kyiv.html](https://www.nytimes.com/2022/10/17/world/europe/at-least-two-drones-appeared-to-target-a-city-heating-station-in-central-kyiv.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 11:15:10+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ Russia has used the drones to strike on the battlefield and in Ukrainian cities.
  - [https://www.nytimes.com/live/2022/10/17/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/17/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 11:01:05+00:00
- - tags: None
 
 At least three people were killed in the attacks, which appeared to be some of the most significant since Russian forces began a retaliation campaign targeting civilians across Ukraine one week ago.
 
@@ -148,7 +130,6 @@ At least three people were killed in the attacks, which appeared to be some of t
  - [https://www.nytimes.com/2022/10/17/world/europe/uk-jeremy-hunt-fiscal-plan-budget.html](https://www.nytimes.com/2022/10/17/world/europe/uk-jeremy-hunt-fiscal-plan-budget.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 10:53:12+00:00
- - tags: None
 
 Jeremy Hunt, the new chancellor of the Exchequer, announced a sweeping reversal in an effort to steady the markets and reduce the pressure on Prime Minister Liz Truss.
 
@@ -156,7 +137,6 @@ Jeremy Hunt, the new chancellor of the Exchequer, announced a sweeping reversal 
  - [https://www.nytimes.com/2022/10/17/briefing/marjorie-taylor-greene.html](https://www.nytimes.com/2022/10/17/briefing/marjorie-taylor-greene.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 10:38:10+00:00
- - tags: None
 
 Republican leaders have embraced the former political pariah, demonstrating Trumpism’s hold over the party.
 
@@ -164,7 +144,6 @@ Republican leaders have embraced the former political pariah, demonstrating Trum
  - [https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html](https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 09:50:35+00:00
- - tags: None
 
 The Chinese leader has increasingly demanded that businesses conform to the aims of the Communist Party, an agenda he doubled down on this week at an important political gathering.
 
@@ -172,7 +151,6 @@ The Chinese leader has increasingly demanded that businesses conform to the aims
  - [https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html](https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 09:00:27+00:00
- - tags: None
 
 Catch a glimpse of a storied tradition in Bosnia and Herzegovina, where, for hundreds of years, divers have leaped from a bridge in the southern city of Mostar.
 
@@ -180,7 +158,6 @@ Catch a glimpse of a storied tradition in Bosnia and Herzegovina, where, for hun
  - [https://www.nytimes.com/2022/10/17/world/europe/a-week-after-a-round-of-strikes-kyivs-people-take-cover-again.html](https://www.nytimes.com/2022/10/17/world/europe/a-week-after-a-round-of-strikes-kyivs-people-take-cover-again.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 05:55:17+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ Catch a glimpse of a storied tradition in Bosnia and Herzegovina, where, for hun
  - [https://www.nytimes.com/2022/10/17/briefing/russia-draft-paris-protests-xi-jinping.html](https://www.nytimes.com/2022/10/17/briefing/russia-draft-paris-protests-xi-jinping.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 04:55:34+00:00
- - tags: None
 
 Troubles with Russia’s draft.
 
@@ -196,6 +172,5 @@ Troubles with Russia’s draft.
  - [https://www.nytimes.com/2022/10/17/world/middleeast/iran-protests-revolutionary-guards.html](https://www.nytimes.com/2022/10/17/world/middleeast/iran-protests-revolutionary-guards.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-17 04:02:32+00:00
- - tags: None
 
 The Revolutionary Guards — the country’s most powerful military force — have become so deeply woven into Iran’s economy and power structure that they have everything to lose if the system falls.

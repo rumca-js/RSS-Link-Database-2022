@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The stage is set for a war between worlds in His Dark Materials S3 teaser
  - [https://arstechnica.com/?p=1888152](https://arstechnica.com/?p=1888152)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 23:15:49+00:00
- - tags: None
 
 "We cut off the head, and the rest will crumble."
 
@@ -12,7 +11,6 @@
  - [https://arstechnica.com/?p=1888336](https://arstechnica.com/?p=1888336)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 23:01:09+00:00
- - tags: None
 
 The flaw has been under attack since at least early September.
 
@@ -20,7 +18,6 @@ The flaw has been under attack since at least early September.
  - [https://arstechnica.com/?p=1888312](https://arstechnica.com/?p=1888312)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 22:20:07+00:00
- - tags: None
 
 It's not the first time rat poison has shown up in fake weed.
 
@@ -28,7 +25,6 @@ It's not the first time rat poison has shown up in fake weed.
  - [https://arstechnica.com/?p=1888136](https://arstechnica.com/?p=1888136)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 21:56:24+00:00
- - tags: None
 
 Ground, space-based telescopes, and a nearby cubesat have all captured the impact.
 
@@ -36,7 +32,6 @@ Ground, space-based telescopes, and a nearby cubesat have all captured the impac
  - [https://arstechnica.com/?p=1884131](https://arstechnica.com/?p=1884131)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 20:16:27+00:00
- - tags: None
 
 Cult-favorite Weatherscan TV service launched in 1999; hobbyists aim to keep it alive.
 
@@ -44,7 +39,6 @@ Cult-favorite Weatherscan TV service launched in 1999; hobbyists aim to keep it 
  - [https://arstechnica.com/?p=1888112](https://arstechnica.com/?p=1888112)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 20:01:38+00:00
- - tags: None
 
 Even kids can tell something is a little off with Mario's new voice.
 
@@ -52,7 +46,6 @@ Even kids can tell something is a little off with Mario's new voice.
  - [https://arstechnica.com/?p=1888155](https://arstechnica.com/?p=1888155)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 19:33:25+00:00
- - tags: None
 
 Substantial changes focus on difficulty, flow, and inventory management.
 
@@ -60,7 +53,6 @@ Substantial changes focus on difficulty, flow, and inventory management.
  - [https://arstechnica.com/?p=1888101](https://arstechnica.com/?p=1888101)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 19:07:05+00:00
- - tags: None
 
 Lawsuit claims Amazon is No. 1 seller of deadly chemical used in suicides.
 
@@ -68,7 +60,6 @@ Lawsuit claims Amazon is No. 1 seller of deadly chemical used in suicides.
  - [https://arstechnica.com/?p=1887988](https://arstechnica.com/?p=1887988)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 17:00:58+00:00
- - tags: None
 
 Users are being prompted to share (monetizable) links instead of screen images.
 
@@ -76,7 +67,6 @@ Users are being prompted to share (monetizable) links instead of screen images.
  - [https://arstechnica.com/?p=1888043](https://arstechnica.com/?p=1888043)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 16:25:14+00:00
- - tags: None
 
 Twitter says there's a financing problem and that Musk won't commit to closing date.
 
@@ -84,7 +74,6 @@ Twitter says there's a financing problem and that Musk won't commit to closing d
  - [https://arstechnica.com/?p=1888011](https://arstechnica.com/?p=1888011)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 16:16:57+00:00
- - tags: None
 
 A cleaner layout enables more thermal tape over the SoC, camera, and battery.
 
@@ -92,7 +81,6 @@ A cleaner layout enables more thermal tape over the SoC, camera, and battery.
  - [https://arstechnica.com/?p=1888007](https://arstechnica.com/?p=1888007)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 15:07:20+00:00
- - tags: None
 
 Steam-maker also promises "changes to avoid situations like this in the future."
 
@@ -100,7 +88,6 @@ Steam-maker also promises "changes to avoid situations like this in the future."
  - [https://arstechnica.com/?p=1887987](https://arstechnica.com/?p=1887987)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 13:49:06+00:00
- - tags: None
 
 World’s largest crypto exchange targeted in security breach.
 
@@ -108,7 +95,6 @@ World’s largest crypto exchange targeted in security breach.
  - [https://arstechnica.com/?p=1885995](https://arstechnica.com/?p=1885995)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 11:30:39+00:00
- - tags: None
 
 VR hasn't taken over the world, but that doesn't mean it has failed.
 
@@ -116,7 +102,6 @@ VR hasn't taken over the world, but that doesn't mean it has failed.
  - [https://arstechnica.com/?p=1887499](https://arstechnica.com/?p=1887499)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 11:00:23+00:00
- - tags: None
 
 Also, the Ariane 6 rocket is inching closer to the launch pad.
 
@@ -124,6 +109,5 @@ Also, the Ariane 6 rocket is inching closer to the launch pad.
  - [https://arstechnica.com/?p=1887624](https://arstechnica.com/?p=1887624)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-07 04:30:44+00:00
- - tags: None
 
 The AMD-based Swift Edge is bigger and OLED-ier than the Intel-based Swift ultralight.

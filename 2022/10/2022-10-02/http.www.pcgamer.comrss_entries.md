@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Warhammer 40,000: Darktide—gameplay, trailers and everything we know
  - [https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 22:24:10+00:00
- - tags: None
 
 With Warhammer 40,000: Darktide, Vermintide dev Fatshark takes the Left 4 Dead formula into the far future.
 
@@ -12,7 +11,6 @@ With Warhammer 40,000: Darktide, Vermintide dev Fatshark takes the Left 4 Dead f
  - [https://www.pcgamer.com/first-darktide-character-spotlight-shows-off-the-cultist-carving-zealot-preacher](https://www.pcgamer.com/first-darktide-character-spotlight-shows-off-the-cultist-carving-zealot-preacher)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 21:58:13+00:00
- - tags: None
 
 There's remarkable amount of fire and axe-murder going on in here.
 
@@ -20,7 +18,6 @@ There's remarkable amount of fire and axe-murder going on in here.
  - [https://www.pcgamer.com/great-moments-in-pc-gaming-casually-ghost-hunting-with-friends-in-phasmophobia](https://www.pcgamer.com/great-moments-in-pc-gaming-casually-ghost-hunting-with-friends-in-phasmophobia)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 21:39:35+00:00
- - tags: None
 
 Phasmophobia's haunted houses can become your haunts over time.
 
@@ -28,7 +25,6 @@ Phasmophobia's haunted houses can become your haunts over time.
  - [https://www.pcgamer.com/its-bite-size-vampire-survivors-in-slay-the-spires-framework-in-rogue-genesia](https://www.pcgamer.com/its-bite-size-vampire-survivors-in-slay-the-spires-framework-in-rogue-genesia)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 21:08:34+00:00
- - tags: None
 
 It has latest-gen rendering tech in it, resulting in beautiful scenery and fantastic lighting effects.
 
@@ -36,7 +32,6 @@ It has latest-gen rendering tech in it, resulting in beautiful scenery and fanta
  - [https://www.pcgamer.com/activision-blizzard-exec-who-called-harassment-lawsuit-distorted-and-untrue-steps-down-from-position](https://www.pcgamer.com/activision-blizzard-exec-who-called-harassment-lawsuit-distorted-and-untrue-steps-down-from-position)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 20:41:34+00:00
- - tags: None
 
 Frances Townsend has assumed an advisory role to the board.
 
@@ -44,7 +39,6 @@ Frances Townsend has assumed an advisory role to the board.
  - [https://www.pcgamer.com/this-king-of-the-hill-doom-mod-brings-about-hank-on-earth](https://www.pcgamer.com/this-king-of-the-hill-doom-mod-brings-about-hank-on-earth)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 19:27:04+00:00
- - tags: None
 
 Knee Deep in the Hank. The Shores of Arlen. Thy Propane Consumed. No Rest for the Hank.
 
@@ -52,7 +46,6 @@ Knee Deep in the Hank. The Shores of Arlen. Thy Propane Consumed. No Rest for th
  - [https://www.pcgamer.com/you-can-add-jedi-academy-to-the-list-of-audacious-vr-ports](https://www.pcgamer.com/you-can-add-jedi-academy-to-the-list-of-audacious-vr-ports)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 17:27:54+00:00
- - tags: None
 
 An intriguing take on the best lightsaber sim to ever do it.
 
@@ -60,7 +53,6 @@ An intriguing take on the best lightsaber sim to ever do it.
  - [https://www.pcgamer.com/todays-wordle-470-answer-hint](https://www.pcgamer.com/todays-wordle-470-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Sunday's puzzle.
 
@@ -68,7 +60,6 @@ Wordle today: The solution and a hint for Sunday's puzzle.
  - [https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 04:14:52+00:00
- - tags: None
 
 It's called Retro Gadgets, because that's what it's about.
 
@@ -76,6 +67,5 @@ It's called Retro Gadgets, because that's what it's about.
  - [https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-02 03:03:05+00:00
- - tags: None
 
 They'll be double-sided. Also, Megatron's a tank.

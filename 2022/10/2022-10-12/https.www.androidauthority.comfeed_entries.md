@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Get the Pixel 7’s ‘Feathers’ wallpapers for your phone
  - [https://www.androidauthority.com/google-pixel-7-wallpapers-3219883/](https://www.androidauthority.com/google-pixel-7-wallpapers-3219883/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 21:43:33+00:00
- - tags: None
 
 The Pixel 7 and Pixel 7 Pro's wallpapers are available for download.
 
@@ -12,7 +11,6 @@ The Pixel 7 and Pixel 7 Pro's wallpapers are available for download.
  - [https://www.androidauthority.com/how-to-change-spotify-payment-3087326/](https://www.androidauthority.com/how-to-change-spotify-payment-3087326/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 21:02:16+00:00
- - tags: None
 
 Switch to a new method for your Spotify subscription!
 
@@ -20,7 +18,6 @@ Switch to a new method for your Spotify subscription!
  - [https://www.androidauthority.com/smartphone-deals-prime-early-access-sale-3219834/](https://www.androidauthority.com/smartphone-deals-prime-early-access-sale-3219834/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 19:36:43+00:00
- - tags: None
 
 There are loads of smartphone deals in the Prime Early Access Sale. We've picked out our favorites.
 
@@ -28,7 +25,6 @@ There are loads of smartphone deals in the Prime Early Access Sale. We've picked
  - [https://www.androidauthority.com/galaxy-s22-update-3219822/](https://www.androidauthority.com/galaxy-s22-update-3219822/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 18:53:58+00:00
- - tags: None
 
 One UI 5 will be arriving to the Galaxy S22 series later this month.
 
@@ -36,7 +32,6 @@ One UI 5 will be arriving to the Galaxy S22 series later this month.
  - [https://www.androidauthority.com/microsoft-surface-pro-9-3219601/](https://www.androidauthority.com/microsoft-surface-pro-9-3219601/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 18:18:09+00:00
- - tags: None
 
 Microsoft is releasing two different versions of the upcoming Surface Pro 9.
 
@@ -44,7 +39,6 @@ Microsoft is releasing two different versions of the upcoming Surface Pro 9.
  - [https://www.androidauthority.com/google-pixel-7-fingerprint-scanner-test-3218912/](https://www.androidauthority.com/google-pixel-7-fingerprint-scanner-test-3218912/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 18:00:20+00:00
- - tags: None
 
 The Pixel 6 in-display reader was a bust at launch, but the Pixel 7 is just fine.
 
@@ -52,7 +46,6 @@ The Pixel 6 in-display reader was a bust at launch, but the Pixel 7 is just fine
  - [https://www.androidauthority.com/google-pixel-7-pro-telephoto-zoom-3219171/](https://www.androidauthority.com/google-pixel-7-pro-telephoto-zoom-3219171/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:45:04+00:00
- - tags: None
 
 The perfect fusion of great optics and computational magic.
 
@@ -60,7 +53,6 @@ The perfect fusion of great optics and computational magic.
  - [https://www.androidauthority.com/wallpaper-wednesday-oct-12-2022-3218285/](https://www.androidauthority.com/wallpaper-wednesday-oct-12-2022-3218285/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:30:49+00:00
- - tags: None
 
 Changing things up a bit this week with a selection of wallpapers all shot on the Pixel 7 Pro!
 
@@ -68,7 +60,6 @@ Changing things up a bit this week with a selection of wallpapers all shot on th
  - [https://www.androidauthority.com/google-pixel-watch-fitbit-features-3218910/](https://www.androidauthority.com/google-pixel-watch-fitbit-features-3218910/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:30:38+00:00
- - tags: None
 
 Not every Fitbit favorite made the cut.
 
@@ -76,7 +67,6 @@ Not every Fitbit favorite made the cut.
  - [https://www.androidauthority.com/what-is-a-roku-tv-3218325/](https://www.androidauthority.com/what-is-a-roku-tv-3218325/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:29:06+00:00
- - tags: None
 
 Roku might be more famous for its Streaming Sticks, but it also offers TVs with Roku built-in.
 
@@ -84,7 +74,6 @@ Roku might be more famous for its Streaming Sticks, but it also offers TVs with 
  - [https://www.androidauthority.com/google-pixel-7-pro-camera-photos-3219281/](https://www.androidauthority.com/google-pixel-7-pro-camera-photos-3219281/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:20:27+00:00
- - tags: None
 
 We heard you liked photos so we took photos.
 
@@ -92,7 +81,6 @@ We heard you liked photos so we took photos.
  - [https://www.androidauthority.com/chromebook-deals-amazon-prime-early-access-sale-3219502/](https://www.androidauthority.com/chromebook-deals-amazon-prime-early-access-sale-3219502/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:13:00+00:00
- - tags: None
 
 Save on Samsung, Lenovo, Asus and more Chromebooks.
 
@@ -100,7 +88,6 @@ Save on Samsung, Lenovo, Asus and more Chromebooks.
  - [https://www.androidauthority.com/headphone-deals-prime-early-access-sale-3219453/](https://www.androidauthority.com/headphone-deals-prime-early-access-sale-3219453/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:12:24+00:00
- - tags: None
 
 We've picked out the best of the best deals from the likes of Apple, Sony, and Samsung.
 
@@ -108,7 +95,6 @@ We've picked out the best of the best deals from the likes of Apple, Sony, and S
  - [https://www.androidauthority.com/google-tensor-g2-benchmark-test-3219452/](https://www.androidauthority.com/google-tensor-g2-benchmark-test-3219452/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:10:26+00:00
- - tags: None
 
 Benchmarks suggest there might be more to the Pixel 7 processor than meets the eye.
 
@@ -116,7 +102,6 @@ Benchmarks suggest there might be more to the Pixel 7 processor than meets the e
  - [https://www.androidauthority.com/google-pixel-7-specs-race-3218156/](https://www.androidauthority.com/google-pixel-7-specs-race-3218156/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:00:41+00:00
- - tags: None
 
 Who needs brawn when you have AI smarts?
 
@@ -124,7 +109,6 @@ Who needs brawn when you have AI smarts?
  - [https://www.androidauthority.com/samsung-matter-smartthings-google-home-3219459/](https://www.androidauthority.com/samsung-matter-smartthings-google-home-3219459/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:00:05+00:00
- - tags: None
 
 Samsung says it's building beyond tech inherent to Matter.
 
@@ -132,7 +116,6 @@ Samsung says it's building beyond tech inherent to Matter.
  - [https://www.androidauthority.com/google-pixel-watch-wear-os-fitbit-impressions-3219285/](https://www.androidauthority.com/google-pixel-watch-wear-os-fitbit-impressions-3219285/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 17:00:05+00:00
- - tags: None
 
 It is a delightfully frustrating experience.
 
@@ -140,7 +123,6 @@ It is a delightfully frustrating experience.
  - [https://www.androidauthority.com/pixel-7-series-vpn-3219483/](https://www.androidauthority.com/pixel-7-series-vpn-3219483/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 16:28:50+00:00
- - tags: None
 
 Google will keep its VPN free for Pixel 7 series owners for multiple years.
 
@@ -148,7 +130,6 @@ Google will keep its VPN free for Pixel 7 series owners for multiple years.
  - [https://www.androidauthority.com/hyperx-prime-day-deals-3184889/](https://www.androidauthority.com/hyperx-prime-day-deals-3184889/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 15:45:25+00:00
- - tags: None
 
 Top gaming gear at unprecedented prices.
 
@@ -156,7 +137,6 @@ Top gaming gear at unprecedented prices.
  - [https://www.androidauthority.com/roku-smart-home-3219435/](https://www.androidauthority.com/roku-smart-home-3219435/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 15:05:03+00:00
- - tags: None
 
 Roku has announced it will be bringing its smart home products to Walmart.
 
@@ -164,7 +144,6 @@ Roku has announced it will be bringing its smart home products to Walmart.
  - [https://www.androidauthority.com/sony-prime-day-deals-3185357/](https://www.androidauthority.com/sony-prime-day-deals-3185357/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 14:25:48+00:00
- - tags: None
 
 You can save $50 on the popular WH-1000XM5 headphones, or over $200 on a high-end sound bar.
 
@@ -172,7 +151,6 @@ You can save $50 on the popular WH-1000XM5 headphones, or over $200 on a high-en
  - [https://www.androidauthority.com/how-to-get-disney-plus-on-tv-3217775/](https://www.androidauthority.com/how-to-get-disney-plus-on-tv-3217775/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 14:10:23+00:00
- - tags: None
 
 Watching your favorite Disney Plus shows and movies on TV is as easy as it gets. Let's walk through your options.
 
@@ -180,7 +158,6 @@ Watching your favorite Disney Plus shows and movies on TV is as easy as it gets.
  - [https://www.androidauthority.com/google-android-chrome-passkeys-3219378/](https://www.androidauthority.com/google-android-chrome-passkeys-3219378/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 13:40:39+00:00
- - tags: None
 
 Passkeys are a more secure alternative to the good old password. And you can try it out today.
 
@@ -188,7 +165,6 @@ Passkeys are a more secure alternative to the good old password. And you can try
  - [https://www.androidauthority.com/google-pixel-7-series-hot-not-poll-results-3219363/](https://www.androidauthority.com/google-pixel-7-series-hot-not-poll-results-3219363/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 12:10:02+00:00
- - tags: None
 
 Almost nine out of 10 polled readers think the Pixel 7 series is hot property.
 
@@ -196,7 +172,6 @@ Almost nine out of 10 polled readers think the Pixel 7 series is hot property.
  - [https://www.androidauthority.com/apple-watch-ultra-review-3213896/](https://www.androidauthority.com/apple-watch-ultra-review-3213896/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 12:00:44+00:00
- - tags: None
 
 Apple is making moves in the adventure market.
 
@@ -204,7 +179,6 @@ Apple is making moves in the adventure market.
  - [https://www.androidauthority.com/samsung-one-ui-stale-3210368/](https://www.androidauthority.com/samsung-one-ui-stale-3210368/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 11:00:08+00:00
- - tags: None
 
 Android has changed a lot in recent years, but One UI looks pretty much the same.
 
@@ -212,6 +186,5 @@ Android has changed a lot in recent years, but One UI looks pretty much the same
  - [https://www.androidauthority.com/daily-authority-october-12-2022-3219200/](https://www.androidauthority.com/daily-authority-october-12-2022-3219200/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-12 08:39:08+00:00
- - tags: None
 
 Google's stepping up its cloud gaming efforts without Stadia, and more on the Fat Bear Week scandal that rocked the internet.

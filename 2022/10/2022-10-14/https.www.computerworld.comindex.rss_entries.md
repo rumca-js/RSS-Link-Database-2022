@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Zero-day flaws mean it's time to patch Exchange and Windows
  - [https://www.computerworld.com/article/3676636/zero-day-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all](https://www.computerworld.com/article/3676636/zero-day-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 19:10:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676636/zero-days-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all](https://www.computerworld.com/article/3676636/zero-days-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 19:10:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html#tk.rss_all](https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 18:49:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3676635/beyond-encryption-a-layered-approach-to-cyberthreat-defense.html#tk.rss_all](https://www.computerworld.com/article/3676635/beyond-encryption-a-layered-approach-to-cyberthreat-defense.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 18:36:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -44,7 +40,6 @@
  - [https://www.computerworld.com/article/3676692/the-future-of-the-hybrid-cloud.html#tk.rss_all](https://www.computerworld.com/article/3676692/the-future-of-the-hybrid-cloud.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 17:11:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -54,7 +49,6 @@
  - [https://www.computerworld.com/article/3676598/bigger-together-how-to-maximize-mainframe-s-value.html#tk.rss_all](https://www.computerworld.com/article/3676598/bigger-together-how-to-maximize-mainframe-s-value.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 16:56:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -64,7 +58,6 @@
  - [https://www.computerworld.com/article/3676908/why-are-you-hoarding-your-old-smartphones.html#tk.rss_all](https://www.computerworld.com/article/3676908/why-are-you-hoarding-your-old-smartphones.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 16:11:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -75,7 +68,6 @@
  - [https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html#tk.rss_all](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 11:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -85,7 +77,6 @@
  - [https://www.computerworld.com/article/3676569/google-pixel-7-vs-past-pixel-upgrade.html#tk.rss_all](https://www.computerworld.com/article/3676569/google-pixel-7-vs-past-pixel-upgrade.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -95,7 +86,6 @@
  - [https://www.computerworld.com/article/3322626/google-smart-lock-complete-guide.html#tk.rss_all](https://www.computerworld.com/article/3322626/google-smart-lock-complete-guide.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-14 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

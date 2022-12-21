@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## What Russians left behind in hasty retreat from Ukrainian town
  - [https://www.cnn.com/videos/world/2022/10/07/ukraine-liberated-town-dudchany-npw-tsr-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/ukraine-liberated-town-dudchany-npw-tsr-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 23:52:40+00:00
- - tags: None
 
 CNN's Nick Paton Walsh gets rare access into the newly liberated town of Dudchany, Ukraine, and sees firsthand how civilians in this town are adjusting to the Russian retreat.
 
@@ -12,7 +11,6 @@ CNN's Nick Paton Walsh gets rare access into the newly liberated town of Dudchan
  - [https://www.cnn.com/2022/10/07/politics/drone-strikes-counterterrorism-white-house-biden-new-rules/index.html](https://www.cnn.com/2022/10/07/politics/drone-strikes-counterterrorism-white-house-biden-new-rules/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 23:43:21+00:00
- - tags: None
 
 President Joe Biden has signed a long-awaited classified policy tightening the rules for the CIA and the Pentagon to carry out deadly drone strikes and commando raids conducted outside of traditional war zones, US officials said on Friday.
 
@@ -20,7 +18,6 @@ President Joe Biden has signed a long-awaited classified policy tightening the r
  - [https://www.cnn.com/2022/10/07/europe/kharkiv-bodies-intl/index.html](https://www.cnn.com/2022/10/07/europe/kharkiv-bodies-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 23:09:29+00:00
- - tags: None
 
 The bodies of more than 500 civilians have been discovered in territory in northeast Ukraine recently retaken from Russian forces, Ukrainian police say.
 
@@ -28,7 +25,6 @@ The bodies of more than 500 civilians have been discovered in territory in north
  - [https://www.cnn.com/2022/10/07/opinions/biden-nuclear-armageddon-new-arms-control-zelizer/index.html](https://www.cnn.com/2022/10/07/opinions/biden-nuclear-armageddon-new-arms-control-zelizer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 23:09:28+00:00
- - tags: None
 
 Speaking at a fundraiser for Senate Democrats on Thursday, President Joe Biden warned that the risk of "Armageddon" -- given Russian President Vladimir Putin's nuclear threats -- has not been this high since 1962.
 
@@ -36,7 +32,6 @@ Speaking at a fundraiser for Senate Democrats on Thursday, President Joe Biden w
  - [https://www.cnn.com/videos/world/2022/10/07/russian-draft-dodgers-flee-putin-conscription-kazakstan-watson-pkg-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/russian-draft-dodgers-flee-putin-conscription-kazakstan-watson-pkg-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 22:52:40+00:00
- - tags: None
 
 Russian President Vladimir Putin's order to conscript men to fight in his war in Ukraine has created an exodus of draft dodgers. CNN's Ivan Watson speaks to some of the thousands who left their homeland behind in defiance of Putin.
 
@@ -44,7 +39,6 @@ Russian President Vladimir Putin's order to conscript men to fight in his war in
  - [https://www.cnn.com/videos/world/2022/10/07/iran-protester-death-outrage-karadsheh-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/iran-protester-death-outrage-karadsheh-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 22:50:19+00:00
- - tags: None
 
 Amnesty International says a 16-year-old girl protesting against Iran's oppressive laws was beaten to death by Iranian security forces.  The government denies these claims.  CNN's Jomana Karadsheh reports.
 
@@ -52,7 +46,6 @@ Amnesty International says a 16-year-old girl protesting against Iran's oppressi
  - [https://www.cnn.com/videos/world/2022/10/07/biden-warning-putin-russia-nuclear-strike-hall-analysis-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/biden-warning-putin-russia-nuclear-strike-hall-analysis-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 21:37:26+00:00
- - tags: None
 
 President Joe Biden is warning that the world faces the highest prospect of nuclear war in 60 years. CNN's Jake Tapper talks with Steve Hall, a former CIA Chief of Russia Operations, who says Putin is likely not planning a nuclear launch.
 
@@ -60,7 +53,6 @@ President Joe Biden is warning that the world faces the highest prospect of nucl
  - [https://www.cnn.com/videos/business/2022/10/07/biden-weed-pardons-late-night-reaction-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/10/07/biden-weed-pardons-late-night-reaction-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 20:29:34+00:00
- - tags: None
 
 President Joe Biden announced on Thursday that he's pardoning all federal offenses of simple marijuana possession. More than 6500 people are potentially exonerated, but it's the late night hosts who were having the most fun with it.
 
@@ -68,7 +60,6 @@ President Joe Biden announced on Thursday that he's pardoning all federal offens
  - [https://www.cnn.com/2022/10/07/opinions/biden-mbs-oil-opec-fist-bump-andelman/index.html](https://www.cnn.com/2022/10/07/opinions/biden-mbs-oil-opec-fist-bump-andelman/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 20:20:30+00:00
- - tags: None
 
 So much for cozying up to the Saudis -- President Joe Biden's much-hyped fist bump with Mohammed bin Salman during a trip to the Middle East back in July has turned into something of a slap across the face from the crown prince.
 
@@ -76,7 +67,6 @@ So much for cozying up to the Saudis -- President Joe Biden's much-hyped fist bu
  - [https://www.cnn.com/videos/business/2022/10/07/chris-pratt-super-mario-voice-reaction-mc-orig.cnn-business](https://www.cnn.com/videos/business/2022/10/07/chris-pratt-super-mario-voice-reaction-mc-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 20:11:18+00:00
- - tags: None
 
 Chris Pratt's voice for a film version of the iconic video game character Super Mario has arrived, and many on the internet have some thoughts.
 
@@ -84,7 +74,6 @@ Chris Pratt's voice for a film version of the iconic video game character Super 
  - [https://www.cnn.com/2022/10/07/us/porter-burks-shot-detroit-police/index.html](https://www.cnn.com/2022/10/07/us/porter-burks-shot-detroit-police/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 17:58:04+00:00
- - tags: None
 
 A 20-year-old Black man was experiencing a mental health crisis when he was killed this week after five Detroit police officers fired 38 shots at him in roughly three seconds, according to police.
 
@@ -92,7 +81,6 @@ A 20-year-old Black man was experiencing a mental health crisis when he was kill
  - [https://www.cnn.com/style/article/sarah-jessica-parker-and-just-like-that-pigeon-purse/index.html](https://www.cnn.com/style/article/sarah-jessica-parker-and-just-like-that-pigeon-purse/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 17:26:47+00:00
- - tags: None
 
 On Wednesday, paparazzi shots of Sarah Jessica Parker and Kristin Davis filming scenes from the second season of the HBO Max series "And Just Like That..." ricocheted across the internet. (HBO Max is owned by CNN's parent company, Warner Bros. Discovery.)
 
@@ -100,7 +88,6 @@ On Wednesday, paparazzi shots of Sarah Jessica Parker and Kristin Davis filming 
  - [https://www.cnn.com/videos/media/2022/10/07/kanye-west-white-lives-matter-shirt-trump-fox-mxp-knowles-cprog-vpx.hln](https://www.cnn.com/videos/media/2022/10/07/kanye-west-white-lives-matter-shirt-trump-fox-mxp-knowles-cprog-vpx.hln)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 16:38:48+00:00
- - tags: None
 
 In an interview with Fox News host Tucker Carlson, Kanye West discussed his decision to wear a "White Lives Matter" shirt. HLN's Melissa Knowles has the highlights.
 
@@ -108,7 +95,6 @@ In an interview with Fox News host Tucker Carlson, Kanye West discussed his deci
  - [https://www.cnn.com/2022/10/07/europe/ukraine-recaptured-southern-territory-intl/index.html](https://www.cnn.com/2022/10/07/europe/ukraine-recaptured-southern-territory-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 16:12:55+00:00
- - tags: None
 
 The Ukrainian military has recaptured 2,400 square kilometers of territory in Kherson region in the south of the country "since the beginning of the full-scale war," a senior Ukrainian official said Friday.
 
@@ -116,7 +102,6 @@ The Ukrainian military has recaptured 2,400 square kilometers of territory in Kh
  - [https://www.cnn.com/2022/10/07/us/nyc-mayor-emergency-migrants/index.html](https://www.cnn.com/2022/10/07/us/nyc-mayor-emergency-migrants/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 15:56:01+00:00
- - tags: None
 
 Mayor Eric Adams has declared a state of emergency to help respond to the city's migrant crisis, which he told reporters Friday will cost the city $1 billion this fiscal year.
 
@@ -124,7 +109,6 @@ Mayor Eric Adams has declared a state of emergency to help respond to the city's
  - [https://www.cnn.com/videos/travel/2022/10/07/easter-island-statues-fire-lon-orig-bb.cnn](https://www.cnn.com/videos/travel/2022/10/07/easter-island-statues-fire-lon-orig-bb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 15:45:54+00:00
- - tags: None
 
 Easter Island's towering stone heads and other archaeological elements have been charred by a fire, according to local Indigenous and Chilean authorities.
 
@@ -132,7 +116,6 @@ Easter Island's towering stone heads and other archaeological elements have been
  - [https://www.cnn.com/2022/10/07/business/saudi-araibia-us-opec-mime-intl/index.html](https://www.cnn.com/2022/10/07/business/saudi-araibia-us-opec-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 15:40:22+00:00
- - tags: None
 
 Saudi Arabia's energy minister once famously said that the kingdom "derives pleasure from keeping everyone on their toes."
 
@@ -140,7 +123,6 @@ Saudi Arabia's energy minister once famously said that the kingdom "derives plea
  - [https://www.cnn.com/videos/world/2022/10/07/thailand-massacre-parents-reax-pkg-anna-coren-newday-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/thailand-massacre-parents-reax-pkg-anna-coren-newday-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 15:24:22+00:00
- - tags: None
 
 The Thailand daycare center massacre is the country's most murderous rampage in recent history. CNN's Anna Coren spoke to some of the families of the mostly young victims and was allowed inside the scene of the crime.
 
@@ -148,7 +130,6 @@ The Thailand daycare center massacre is the country's most murderous rampage in 
  - [https://www.cnn.com/2022/10/07/world/python-devour-super-size-prey-intl-scli-scn/index.html](https://www.cnn.com/2022/10/07/world/python-devour-super-size-prey-intl-scli-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 14:51:15+00:00
- - tags: None
 
 The expression "so hungry I could eat a horse" might not be just a figure of speech — for the Burmese python, at least.
 
@@ -156,7 +137,6 @@ The expression "so hungry I could eat a horse" might not be just a figure of spe
  - [https://www.cnn.com/videos/health/2022/10/07/mental-health-crisis-response-team-heart-gupta-dnt-newday-vpx.cnn](https://www.cnn.com/videos/health/2022/10/07/mental-health-crisis-response-team-heart-gupta-dnt-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 14:46:46+00:00
- - tags: None
 
 CNN's Dr. Sanjay Gupta rides along with HEART, a pilot program in North Carolina using mental health clinicians to assist in emergency situations.
 
@@ -164,7 +144,6 @@ CNN's Dr. Sanjay Gupta rides along with HEART, a pilot program in North Carolina
  - [https://www.cnn.com/2022/10/07/politics/joe-biden-nuclear-weapons-russia-vladimir-putin/index.html](https://www.cnn.com/2022/10/07/politics/joe-biden-nuclear-weapons-russia-vladimir-putin/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 14:31:27+00:00
- - tags: None
 
 President Joe Biden's stark warning Thursday night that the world faces the highest prospect of nuclear war in 60 years was not based on any new intelligence about Russian President Vladimir Putin's intentions or changes in Russia's nuclear posture, multiple US officials told CNN.
 
@@ -172,7 +151,6 @@ President Joe Biden's stark warning Thursday night that the world faces the high
  - [https://www.cnn.com/2022/10/07/politics/secretary-of-state-election-denier-poll-arizona-nevada/index.html](https://www.cnn.com/2022/10/07/politics/secretary-of-state-election-denier-poll-arizona-nevada/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 14:30:41+00:00
- - tags: None
 
 New polling conducted by CNN shows election deniers in Arizona and Nevada running strong in their bids to be the top election officials in their respective states, a concerning development as the country begins to prepare for the next presidential election.
 
@@ -180,7 +158,6 @@ New polling conducted by CNN shows election deniers in Arizona and Nevada runnin
  - [https://www.cnn.com/2022/10/07/football/argentinian-soccer-fan-dies-stadium-unrest-spt-intl/index.html](https://www.cnn.com/2022/10/07/football/argentinian-soccer-fan-dies-stadium-unrest-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 14:15:37+00:00
- - tags: None
 
 A soccer fan in Argentina died during an abandoned Liga Profesional game between Gimnasia La Plata and Boca Juniors on Thursday at the Juan Carmelo Zerillo Stadium in La Plata, Buenos Aires. The supporter has been named as Cesar Regueiro by Gimnasia, the home team.
 
@@ -188,7 +165,6 @@ A soccer fan in Argentina died during an abandoned Liga Profesional game between
  - [https://www.cnn.com/2022/10/07/entertainment/great-british-bake-off-mexican-week-cec/index.html](https://www.cnn.com/2022/10/07/entertainment/great-british-bake-off-mexican-week-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 14:07:05+00:00
- - tags: None
 
 A recent episode of "The Great British Bake Off" is drawing criticism from some viewers for its depictions of Mexican culture.
 
@@ -196,7 +172,6 @@ A recent episode of "The Great British Bake Off" is drawing criticism from some 
  - [https://www.cnn.com/2022/10/07/opinions/kim-kardashian-sec-fine-crypto-parker/index.html](https://www.cnn.com/2022/10/07/opinions/kim-kardashian-sec-fine-crypto-parker/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:58:35+00:00
- - tags: None
 
 On Monday, the Securities and Exchange Commission announced that it civilly charged Kim Kardashian for promoting a crypto asset, EthereumMax, on Instagram without disclosing that she was paid to do so. Kardashian has agreed to pay a nearly $1.3 million fine and to not promote any cryptocurrencies for three years, the SEC said.
 
@@ -204,7 +179,6 @@ On Monday, the Securities and Exchange Commission announced that it civilly char
  - [https://www.cnn.com/2022/10/07/entertainment/jody-miller-obit/index.html](https://www.cnn.com/2022/10/07/entertainment/jody-miller-obit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:57:58+00:00
- - tags: None
 
 Jody Miller, a Grammy winning crossover artist with her 1965 hit "Queen of the House," died Thursday in Blanchard, Oklahoma from complications related to Parkinson's disease, her record label announced.
 
@@ -212,7 +186,6 @@ Jody Miller, a Grammy winning crossover artist with her 1965 hit "Queen of the H
  - [https://www.cnn.com/2022/10/07/world/pacific-ocean-supercontinent-scn/index.html](https://www.cnn.com/2022/10/07/world/pacific-ocean-supercontinent-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:54:42+00:00
- - tags: None
 
 The world may have a new supercontinent within 200 million to 300 million years as the Pacific Ocean shrinks and closes.
 
@@ -220,7 +193,6 @@ The world may have a new supercontinent within 200 million to 300 million years 
  - [https://www.cnn.com/collections/videos-of-the-week-100722/](https://www.cnn.com/collections/videos-of-the-week-100722/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:52:30+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@ The world may have a new supercontinent within 200 million to 300 million years 
  - [https://www.cnn.com/2022/10/07/uk/englands-heatwaves-highest-excess-deaths-elderly-scli-intl/index.html](https://www.cnn.com/2022/10/07/uk/englands-heatwaves-highest-excess-deaths-elderly-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:44:44+00:00
- - tags: None
 
 England saw the highest excess mortality figure from heatwaves this year since records began in 2004, health officials said on Friday, after a hot summer that saw temperatures rise to all-time highs.
 
@@ -236,7 +207,6 @@ England saw the highest excess mortality figure from heatwaves this year since r
  - [https://www.cnn.com/2022/10/07/opinions/jeffrey-dahmer-netflix-backlash-true-crime-stewart/index.html](https://www.cnn.com/2022/10/07/opinions/jeffrey-dahmer-netflix-backlash-true-crime-stewart/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:40:15+00:00
- - tags: None
 
 Has true crime jumped the shark? The heated debate over Netflix's new "Dahmer - Monster: The Jeffrey Dahmer Story" suggests an evolution is in order for the gruesome genre if it's going to survive.
 
@@ -244,7 +214,6 @@ Has true crime jumped the shark? The heated debate over Netflix's new "Dahmer - 
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-07-22/h_9057454f928ed2bfc956e7c203165f9d](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-07-22/h_9057454f928ed2bfc956e7c203165f9d)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 13:33:53.450102+00:00
- - tags: None
 
 
 
@@ -252,7 +221,6 @@ Has true crime jumped the shark? The heated debate over Netflix's new "Dahmer - 
  - [https://www.cnn.com/2022/10/07/business/hurricane-ian-uninsured-losses/index.html](https://www.cnn.com/2022/10/07/business/hurricane-ian-uninsured-losses/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:57:05+00:00
- - tags: None
 
 Homeowners could be hit with as much as $17 billion in uninsured losses due to flooding from Hurricane Ian due to the latest estimate on damage caused by the storm.
 
@@ -260,7 +228,6 @@ Homeowners could be hit with as much as $17 billion in uninsured losses due to f
  - [https://www.cnn.com/2022/10/07/entertainment/tucker-carlson-kanye-west/index.html](https://www.cnn.com/2022/10/07/entertainment/tucker-carlson-kanye-west/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:56:47+00:00
- - tags: None
 
 Kanye West has explained his thinking behind his decision to dress himself and several Black models in "White Lives Matter" shirts earlier this week.
 
@@ -268,7 +235,6 @@ Kanye West has explained his thinking behind his decision to dress himself and s
  - [https://www.cnn.com/2022/10/07/uk/royal-news-newsletter-10-07-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/10/07/uk/royal-news-newsletter-10-07-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:46:34+00:00
- - tags: None
 
 We're weeks away from the annual United Nations Climate Change Conference -- better known as COP27 -- but there will be a distinct lack of royal presence at this year's event.
 
@@ -276,7 +242,6 @@ We're weeks away from the annual United Nations Climate Change Conference -- bet
  - [https://www.cnn.com/2022/10/07/entertainment/the-midnight-club-review/index.html](https://www.cnn.com/2022/10/07/entertainment/the-midnight-club-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:39:35+00:00
- - tags: None
 
 The curse of "Stranger Things" means every sci-fi/macabre concept involving teenagers will seemingly have its day on TV, with "The Midnight Club" as the latest example. It's creepy, to a point, but moves at a crawl, while focusing on the provocative if unappealing premise of eight kids with terminal illnesses.
 
@@ -284,7 +249,6 @@ The curse of "Stranger Things" means every sci-fi/macabre concept involving teen
  - [https://www.cnn.com/2022/10/07/entertainment/amsterdam-review/index.html](https://www.cnn.com/2022/10/07/entertainment/amsterdam-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:33:41+00:00
- - tags: None
 
 "Amsterdam" certainly doesn't suffer from a lack of ambition, and the star-studded cast merely adds to that sense of grandeur. Yet writer-director David O. Russell has assembled them in the service of a disjointed story and a movie that's  too precious for its own good, wrapping his mix of fact and fantasy in a fable that, with its warnings about fascism, simultaneously seeks to feel urgent in the here and now.
 
@@ -292,7 +256,6 @@ The curse of "Stranger Things" means every sci-fi/macabre concept involving teen
  - [https://www.cnn.com/2022/10/07/business/kanye-west-adidas-partnership-review/index.html](https://www.cnn.com/2022/10/07/business/kanye-west-adidas-partnership-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:21:16+00:00
- - tags: None
 
 Adidas is reviewing its partnership with Kanye West after the artist lambasted the company and wore a "White Lives Matter" T-shirt in public.
 
@@ -300,7 +263,6 @@ Adidas is reviewing its partnership with Kanye West after the artist lambasted t
  - [https://www.cnn.com/2022/10/07/energy/opec-plus-production-slash-fury/index.html](https://www.cnn.com/2022/10/07/energy/opec-plus-production-slash-fury/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 12:05:52+00:00
- - tags: None
 
 OPEC+'s decision to slash oil production has set off bipartisan fury in Washington directed at the Saudi Arabia-led group, raising calls for a hard-hitting US response.
 
@@ -308,7 +270,6 @@ OPEC+'s decision to slash oil production has set off bipartisan fury in Washingt
  - [https://www.cnn.com/travel/article/tucci-marzi-homecoming-calabria-amanpour/index.html](https://www.cnn.com/travel/article/tucci-marzi-homecoming-calabria-amanpour/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 11:45:57+00:00
- - tags: None
 
 What's it like visiting a town in Italy where more than half the population has the same name as you?
 
@@ -316,7 +277,6 @@ What's it like visiting a town in Italy where more than half the population has 
  - [https://www.cnn.com/videos/us/2022/10/05/don-lemon-sister-death-orig.cnn](https://www.cnn.com/videos/us/2022/10/05/don-lemon-sister-death-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 11:37:23+00:00
- - tags: None
 
 After his older sister's accidental death, Don Lemon opens up about how his life has changed and what he's learned since.
 
@@ -324,7 +284,6 @@ After his older sister's accidental death, Don Lemon opens up about how his life
  - [https://www.cnn.com/2022/10/07/perspectives/jobs-recession-federal-reserve/index.html](https://www.cnn.com/2022/10/07/perspectives/jobs-recession-federal-reserve/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 11:36:06+00:00
- - tags: None
 
 To many economists and analysts, the US economy has represented a paradox this year. On the one hand, GDP growth has slowed significantly, and some argue, even entered a recession. On the other hand, overall employment growth has been much stronger than normal.
 
@@ -332,7 +291,6 @@ To many economists and analysts, the US economy has represented a paradox this y
  - [https://www.cnn.com/2022/10/07/energy/uk-power-cuts-oil-gas/index.html](https://www.cnn.com/2022/10/07/energy/uk-power-cuts-oil-gas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 11:27:59+00:00
- - tags: None
 
 The UK government could award oil and gas companies more than 100 new licenses to drill in the North Sea, as it looks for ways to bolster energy security amid a global supply crunch.
 
@@ -340,7 +298,6 @@ The UK government could award oil and gas companies more than 100 new licenses t
  - [https://www.cnn.com/2022/10/07/us/shipping-captain-rape-invs/index.html](https://www.cnn.com/2022/10/07/us/shipping-captain-rape-invs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 11:04:16+00:00
- - tags: None
 
 A cargo ship was sailing across the Atlantic Ocean when the captain summoned two young US Merchant Marine Academy cadets to his room and gave them each a drink.
 
@@ -348,7 +305,6 @@ A cargo ship was sailing across the Atlantic Ocean when the captain summoned two
  - [https://www.cnn.com/2022/10/07/investing/premarket-trading-stocks/index.html](https://www.cnn.com/2022/10/07/investing/premarket-trading-stocks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:51:38+00:00
- - tags: None
 
 The White House isn't very happy with OPEC's decision to slash oil production by 2 million barrels per day. Consumers won't be big fans either, as the move will likely send gas prices higher.
 
@@ -356,7 +312,6 @@ The White House isn't very happy with OPEC's decision to slash oil production by
  - [https://www.cnn.com/2022/10/07/health/anxiety-mental-health-depression-screening-prevention-health-wellness/index.html](https://www.cnn.com/2022/10/07/health/anxiety-mental-health-depression-screening-prevention-health-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:45:31+00:00
- - tags: None
 
 All adults under age 65 should be screened for anxiety, according to the influential US Preventive Services Task Force, which issued new draft guidelines last month. The guidelines, which help guide doctors' decisions, are not final until a public comment period ends later this month. Still, this is the first time the national group of experts has recommended anxiety screening for such a broad swath of the American public.
 
@@ -364,7 +319,6 @@ All adults under age 65 should be screened for anxiety, according to the influen
  - [https://www.cnn.com/2022/10/07/investing/credit-suisse-bond-buyback/index.html](https://www.cnn.com/2022/10/07/investing/credit-suisse-bond-buyback/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:36:23+00:00
- - tags: None
 
 Credit Suisse said it will buy back up to $3 billion in its own bonds to save money on debt servicing costs while taking advantage of low prices.
 
@@ -372,7 +326,6 @@ Credit Suisse said it will buy back up to $3 billion in its own bonds to save mo
  - [https://www.cnn.com/2022/10/07/motorsport/lewis-hamilton-f1-future-spt-intl/index.html](https://www.cnn.com/2022/10/07/motorsport/lewis-hamilton-f1-future-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:33:09+00:00
- - tags: None
 
 Seven-time world champion Lewis Hamilton on Thursday said he did not plan on retiring from Formula One any time soon.
 
@@ -380,7 +333,6 @@ Seven-time world champion Lewis Hamilton on Thursday said he did not plan on ret
  - [https://www.cnn.com/2022/10/07/sport/draymond-green-jordan-poole-altercation-warriors-nba-spt-intl/index.html](https://www.cnn.com/2022/10/07/sport/draymond-green-jordan-poole-altercation-warriors-nba-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:18:08+00:00
- - tags: None
 
 Golden State Warriors forward Draymond Green was involved in a practice altercation with teammate Jordan Poole on Wednesday, team president Bob Myers has confirmed.
 
@@ -388,7 +340,6 @@ Golden State Warriors forward Draymond Green was involved in a practice altercat
  - [https://www.cnn.com/2022/10/07/sport/denver-broncos-indianapolis-colts-tnf-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/07/sport/denver-broncos-indianapolis-colts-tnf-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:14:44+00:00
- - tags: None
 
 Not every sports game is the best one you've ever seen and not every game is a particularly memorable one.
 
@@ -396,7 +347,6 @@ Not every sports game is the best one you've ever seen and not every game is a p
  - [https://www.cnn.com/world/live-news/nobel-peace-prize-2022-updates-intl/index.html](https://www.cnn.com/world/live-news/nobel-peace-prize-2022-updates-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:08:05+00:00
- - tags: None
 
 • Winners honored for 'outstanding effort'
 
@@ -404,7 +354,6 @@ Not every sports game is the best one you've ever seen and not every game is a p
  - [https://www.cnn.com/2022/10/07/world/nobel-peace-prize-winner-2022-intl/index.html](https://www.cnn.com/2022/10/07/world/nobel-peace-prize-winner-2022-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:06:43+00:00
- - tags: None
 
 Belarusian human rights advocate Ales Bialiatski, and two organizations from Russia and Ukraine -- Memorial and the Center for Civil Liberties -- have won the Nobel Peace Prize for 2022.
 
@@ -412,7 +361,6 @@ Belarusian human rights advocate Ales Bialiatski, and two organizations from Rus
  - [https://www.cnn.com/2022/10/07/politics/infrastructure-spending-republican-critics/index.html](https://www.cnn.com/2022/10/07/politics/infrastructure-spending-republican-critics/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 10:00:32+00:00
- - tags: None
 
 Last November, GOP Rep. Tom Emmer of Minnesota released a statement slamming the passage of the freshly approved infrastructure law he referred to as "President Biden's multi-trillion dollar socialist wish list."
 
@@ -420,7 +368,6 @@ Last November, GOP Rep. Tom Emmer of Minnesota released a statement slamming the
  - [https://www.cnn.com/2022/10/07/europe/covid-wave-europe-intl-scli/index.html](https://www.cnn.com/2022/10/07/europe/covid-wave-europe-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 09:46:36+00:00
- - tags: None
 
 A new Covid-19 wave appears to be brewing in Europe as cooler weather arrives, with public health experts warning that vaccine fatigue and confusion over types of shots available will likely limit booster uptake.
 
@@ -428,7 +375,6 @@ A new Covid-19 wave appears to be brewing in Europe as cooler weather arrives, w
  - [https://www.cnn.com/videos/world/2022/10/07/cuba-hurricane-ian-aftermath-pkg-oppmann-ovn-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/cuba-hurricane-ian-aftermath-pkg-oppmann-ovn-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 09:21:38+00:00
- - tags: None
 
 Cuba's tobacco farmers have a long road of recovery ahead of them after Hurricane Ian battered the island's Pinar del Rio province and caused a country-wide power outage. CNN's Patrick Oppmann reports.
 
@@ -436,7 +382,6 @@ Cuba's tobacco farmers have a long road of recovery ahead of them after Hurrican
  - [https://edition.cnn.com/webview/world/live-news/nobel-peace-prize-2022-updates-intl/index.html](https://edition.cnn.com/webview/world/live-news/nobel-peace-prize-2022-updates-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 09:18:12.242398+00:00
- - tags: None
 
 
 
@@ -444,7 +389,6 @@ Cuba's tobacco farmers have a long road of recovery ahead of them after Hurrican
  - [https://www.cnn.com/travel/article/belentepe-permaculture-farm-turkey-spc/index.html](https://www.cnn.com/travel/article/belentepe-permaculture-farm-turkey-spc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 09:08:28+00:00
- - tags: None
 
 
 
@@ -452,7 +396,6 @@ Cuba's tobacco farmers have a long road of recovery ahead of them after Hurrican
  - [https://www.cnn.com/2022/10/07/football/nwsl-soccer-abuse-explainer-intl-spt/index.html](https://www.cnn.com/2022/10/07/football/nwsl-soccer-abuse-explainer-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 09:00:55+00:00
- - tags: None
 
 The United States Women's National Team play England in a friendly at Wembley on Friday. But as the world champion takes on the European champion, back in the US, women's professional soccer is reeling from an independent investigation that found systemic abuse and misconduct within the sport.
 
@@ -460,7 +403,6 @@ The United States Women's National Team play England in a friendly at Wembley on
  - [https://www.cnn.com/2022/10/07/sport/victor-wembanyama-nba-prospect-spt-intl/index.html](https://www.cnn.com/2022/10/07/sport/victor-wembanyama-nba-prospect-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:55:17+00:00
- - tags: None
 
 At just 18 years old, Victor Wembanyama already looks like a future superstar of the NBA.
 
@@ -468,7 +410,6 @@ At just 18 years old, Victor Wembanyama already looks like a future superstar of
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-07-22/h_0494839555d24bd0ea8ec8936cc9097b](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-07-22/h_0494839555d24bd0ea8ec8936cc9097b)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:46:32.190530+00:00
- - tags: None
 
 
 
@@ -476,7 +417,6 @@ At just 18 years old, Victor Wembanyama already looks like a future superstar of
  - [https://cnn.it/3ChQBvL](https://cnn.it/3ChQBvL)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:46:32.078937+00:00
- - tags: None
 
 
 
@@ -484,7 +424,6 @@ At just 18 years old, Victor Wembanyama already looks like a future superstar of
  - [https://www.cnn.com/videos/world/2022/10/07/thailand-nursery-massacre-ovn-wang-pkg-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/thailand-nursery-massacre-ovn-wang-pkg-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:45:32+00:00
- - tags: None
 
 Thailand recoiled in horror after at least 36 people were killed, at least 24 of them children, in a massacre at a child care center in northeastern Thailand. It is believed to be the country's deadliest incident of its kind. CNN's Selina Wang has more.
 
@@ -492,7 +431,6 @@ Thailand recoiled in horror after at least 36 people were killed, at least 24 of
  - [https://www.cnn.com/2022/10/07/asia/north-korea-missile-testing-frequency-explainer-intl-hnk/index.html](https://www.cnn.com/2022/10/07/asia/north-korea-missile-testing-frequency-explainer-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:36:39+00:00
- - tags: None
 
 Tensions are running high in the Korean Peninsula, as the United States and its allies respond to North Korea's flurry of recent missile tests -- including one that flew over neighboring Japan without warning.
 
@@ -500,7 +438,6 @@ Tensions are running high in the Korean Peninsula, as the United States and its 
  - [https://www.cnn.com/2022/10/07/business/cathay-pacific-staffing-shortages-hong-kong-intl-hnk/index.html](https://www.cnn.com/2022/10/07/business/cathay-pacific-staffing-shortages-hong-kong-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:32:30+00:00
- - tags: None
 
 Hong Kong's flagship airline Cathay Pacific is facing "unprecedented" staff shortages and may not be ready to handle a surge in demand, as the city winds up its strict Covid policy and reopens for international travel.
 
@@ -508,7 +445,6 @@ Hong Kong's flagship airline Cathay Pacific is facing "unprecedented" staff shor
  - [https://www.cnn.com/style/article/multiverse-movies-newfound-popularity/index.html](https://www.cnn.com/style/article/multiverse-movies-newfound-popularity/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:22:21+00:00
- - tags: None
 
 The struggle between art and commerce has found a new battleground. This time the landscape is larger and more amorphous than ever before — bursting with creative potential but vulnerable to exploitation too. It's a place where new art is born and old art is resurrected. It's expanding, it's proliferating and it's coming to a screen near you.
 
@@ -516,7 +452,6 @@ The struggle between art and commerce has found a new battleground. This time th
  - [https://www.cnn.com/2022/10/07/asia/thailand-mass-shooting-stabbing-day-care-victims-families-intl-hnk/index.html](https://www.cnn.com/2022/10/07/asia/thailand-mass-shooting-stabbing-day-care-victims-families-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:10:05+00:00
- - tags: None
 
 
 
@@ -524,7 +459,6 @@ The struggle between art and commerce has found a new battleground. This time th
  - [https://www.cnn.com/2022/10/07/opinions/mars-food-agriculture-scn-opinion-hnk-spc-intl/index.html](https://www.cnn.com/2022/10/07/opinions/mars-food-agriculture-scn-opinion-hnk-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 08:00:05+00:00
- - tags: None
 
 What might humans eat on Mars? With space agencies including NASA and China's National Space Administration hoping to send crewed missions to Mars within the next two decades, and tech billionaires like Elon Musk developing plans to colonize the red planet, feeding a Martian community would be a key question to solve.
 
@@ -532,7 +466,6 @@ What might humans eat on Mars? With space agencies including NASA and China's Na
  - [https://www.cnn.com/collections/intl-biden-russia-0710/](https://www.cnn.com/collections/intl-biden-russia-0710/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 07:48:08+00:00
- - tags: None
 
 
 
@@ -540,7 +473,6 @@ What might humans eat on Mars? With space agencies including NASA and China's Na
  - [https://www.cnn.com/2022/10/07/us/california-family-kidnapped-killed-friday/index.html](https://www.cnn.com/2022/10/07/us/california-family-kidnapped-killed-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 07:31:46+00:00
- - tags: None
 
 Investigators in the kidnapping and deaths of four California family members, including their baby, revealed new details Thursday about the man suspected of abducting them at gunpoint from their business and then allegedly killing them.
 
@@ -548,7 +480,6 @@ Investigators in the kidnapping and deaths of four California family members, in
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-07-22#h_87e962e9b91510a70ca39ce58926886a](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-07-22#h_87e962e9b91510a70ca39ce58926886a)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 07:23:09.295303+00:00
- - tags: None
 
 
 
@@ -556,7 +487,6 @@ Investigators in the kidnapping and deaths of four California family members, in
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-07-22/h_87e962e9b91510a70ca39ce58926886a](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-07-22/h_87e962e9b91510a70ca39ce58926886a)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 07:23:09.231585+00:00
- - tags: None
 
 
 
@@ -564,7 +494,6 @@ Investigators in the kidnapping and deaths of four California family members, in
  - [https://www.cnn.com/travel/article/easter-island-moai-damage-volcano-intl-hnk/index.html](https://www.cnn.com/travel/article/easter-island-moai-damage-volcano-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 07:20:04+00:00
- - tags: None
 
 Easter Island's towering stone heads and other archaeological elements have been charred by a fire, according to local Indigenous and Chilean authorities.
 
@@ -572,7 +501,6 @@ Easter Island's towering stone heads and other archaeological elements have been
  - [https://www.cnn.com/2022/10/07/business/hong-kong-covid-quarantine-reopening-intl-hnk-mic/index.html](https://www.cnn.com/2022/10/07/business/hong-kong-covid-quarantine-reopening-intl-hnk-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 06:13:56+00:00
- - tags: None
 
 As China doubles down on Covid lockdowns, restricting movement for tens of millions of people, a very different scene is unfolding in Hong Kong.
 
@@ -580,7 +508,6 @@ As China doubles down on Covid lockdowns, restricting movement for tens of milli
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-06-22/h_aa4ebd026245c1f6d432d2e2aa83faa6](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-06-22/h_aa4ebd026245c1f6d432d2e2aa83faa6)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 05:23:11.613728+00:00
- - tags: None
 
 
 
@@ -588,7 +515,6 @@ As China doubles down on Covid lockdowns, restricting movement for tens of milli
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-06-22/h_aa4ebd026245c1f6d432d2e2aa83faa6](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-06-22/h_aa4ebd026245c1f6d432d2e2aa83faa6)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 05:23:11.466678+00:00
- - tags: None
 
 
 
@@ -596,7 +522,6 @@ As China doubles down on Covid lockdowns, restricting movement for tens of milli
  - [https://www.cnn.com/videos/us/2022/10/07/hurricane-ian-black-residents-feel-left-out-kaye-contd-dlt-vpx.cnn](https://www.cnn.com/videos/us/2022/10/07/hurricane-ian-black-residents-feel-left-out-kaye-contd-dlt-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 05:10:27+00:00
- - tags: None
 
 CNN's Randi Kaye speaks with Hurricane Ian survivors in Naples, Florida, who say they feel left out of storm relief efforts.
 
@@ -604,7 +529,6 @@ CNN's Randi Kaye speaks with Hurricane Ian survivors in Naples, Florida, who say
  - [https://www.cnn.com/2022/10/07/europe/irish-dancing-cheating-allegations-investigation-intl-hnk/index.html](https://www.cnn.com/2022/10/07/europe/irish-dancing-cheating-allegations-investigation-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 04:45:26+00:00
- - tags: None
 
 The world's oldest and largest competitive Irish dancing organization has launched an investigation after being hit by allegations of competition fixing, warning "unethical behavior cannot and will not be tolerated."
 
@@ -612,7 +536,6 @@ The world's oldest and largest competitive Irish dancing organization has launch
  - [https://www.cnn.com/travel/article/kusama-naoshima-yellow-pumpkin-returns-intl-hnk/index.html](https://www.cnn.com/travel/article/kusama-naoshima-yellow-pumpkin-returns-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 04:31:54+00:00
- - tags: None
 
 Japanese artist Yayoi Kusama's sculpture "Yellow Pumpkin" was reinstalled on October 4th on Naoshima island after it was swept into the sea and badly damaged during a typhoon last summer.
 
@@ -620,7 +543,6 @@ Japanese artist Yayoi Kusama's sculpture "Yellow Pumpkin" was reinstalled on Oct
  - [https://www.cnn.com/videos/world/2022/10/07/russia-putin-nuclear-weapon-threat-hertling-sot-dlt-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/russia-putin-nuclear-weapon-threat-hertling-sot-dlt-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 04:04:03+00:00
- - tags: None
 
 President Joe Biden has delivered a stark warning about the dangers behind Russian President Vladimir Putin's nuclear threats as Moscow continues to face military setbacks in Ukraine. CNN's Military Analyst Lt. Gen. Mark Hertling joins Don Lemon to discuss the state of Russia's war in Ukraine.
 
@@ -628,7 +550,6 @@ President Joe Biden has delivered a stark warning about the dangers behind Russi
  - [https://www.cnn.com/2022/10/06/europe/wagner-ukraine-struggles-marat-gabidullin-cmd-intl/index.html](https://www.cnn.com/2022/10/06/europe/wagner-ukraine-struggles-marat-gabidullin-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 03:06:03+00:00
- - tags: None
 
 The Ukrainians' bodies lay side-by-side on the grass, the earth beside them splayed open by a crater. Dragged to the spot by Russian mercenaries, the victims' arms pointed to where they had died.
 
@@ -636,7 +557,6 @@ The Ukrainians' bodies lay side-by-side on the grass, the earth beside them spla
  - [https://www.cnn.com/2022/10/06/politics/armageddon-biden-putin-russia-nuclear-threats/index.html](https://www.cnn.com/2022/10/06/politics/armageddon-biden-putin-russia-nuclear-threats/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 02:55:08+00:00
- - tags: None
 
 President Joe Biden on Thursday delivered a stark warning about the dangers behind Russian President Vladimir Putin's nuclear threats as Moscow continues to face military setbacks in Ukraine.
 
@@ -644,7 +564,6 @@ President Joe Biden on Thursday delivered a stark warning about the dangers behi
  - [https://www.cnn.com/collections/intl-ukraine-0610/](https://www.cnn.com/collections/intl-ukraine-0610/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 02:51:49+00:00
- - tags: None
 
 
 
@@ -652,7 +571,6 @@ President Joe Biden on Thursday delivered a stark warning about the dangers behi
  - [https://www.cnn.com/videos/business/2022/10/06/nightcap-kim-kardashian-crypto-clip-orig-nb.cnn](https://www.cnn.com/videos/business/2022/10/06/nightcap-kim-kardashian-crypto-clip-orig-nb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 02:50:57+00:00
- - tags: None
 
 Ben McKenzie, actor and outspoken critic of the crypto market, tells "Nightcap's" Jon Sarlin why Kim Kardashian's SEC fine blew up his phone and how some celebrities cannot really explain what cryptocurrency is. For more, watch the full Nightcap episode here.
 
@@ -660,7 +578,6 @@ Ben McKenzie, actor and outspoken critic of the crypto market, tells "Nightcap's
  - [https://www.cnn.com/2022/10/06/entertainment/wwe-wrestler-sara-lee-dies/index.html](https://www.cnn.com/2022/10/06/entertainment/wwe-wrestler-sara-lee-dies/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 02:34:51+00:00
- - tags: None
 
 Sara Lee, a 2015 winner of the World Wrestling Entertainment reality competition series "Tough Enough," has died, according to a statement from her mother shared on social media. She was 30.
 
@@ -668,7 +585,6 @@ Sara Lee, a 2015 winner of the World Wrestling Entertainment reality competition
  - [https://www.cnn.com/2022/10/06/politics/trump-white-house-documents-mar-a-lago-justice-department/index.html](https://www.cnn.com/2022/10/06/politics/trump-white-house-documents-mar-a-lago-justice-department/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 02:31:37+00:00
- - tags: None
 
 Justice Department officials have demanded in recent weeks to former President Donald Trump's attorneys that he return any outstanding documents marked as classified, making clear they do not believe he has returned all materials taken when he left the White House, a person familiar with the outreach told CNN.
 
@@ -676,7 +592,6 @@ Justice Department officials have demanded in recent weeks to former President D
  - [https://www.cnn.com/2022/10/06/asia/myanmar-japan-journalist-filmmaker-prison-sentence-intl-hnk/index.html](https://www.cnn.com/2022/10/06/asia/myanmar-japan-journalist-filmmaker-prison-sentence-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 01:46:25+00:00
- - tags: None
 
 A military court in Myanmar has sentenced a Japanese journalist to 10 years in prison for sedition and violating a law on electronic communications after he filmed an anti-government protest in July, a Japanese diplomat said on Thursday.
 
@@ -684,7 +599,6 @@ A military court in Myanmar has sentenced a Japanese journalist to 10 years in p
  - [https://www.cnn.com/videos/world/2022/10/06/russia-mobilization-recruits-social-media-video-pleitgen-ebof-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/10/06/russia-mobilization-recruits-social-media-video-pleitgen-ebof-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 01:21:49+00:00
- - tags: None
 
 Russia's defense ministry says they have already mobilized 200,000 men, many now undergoing basic training. New video released on social media shows problems within the mobilization including recruits sleeping on yoga mats and drinking heavily. CNN's Fred Pleitgen reports.
 
@@ -692,7 +606,6 @@ Russia's defense ministry says they have already mobilized 200,000 men, many now
  - [https://www.cnn.com/videos/travel/2022/10/07/fat-bear-week-2022-katmai-national-park-alaska-orig-jk.cnn](https://www.cnn.com/videos/travel/2022/10/07/fat-bear-week-2022-katmai-national-park-alaska-orig-jk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 00:57:53+00:00
- - tags: None
 
 Katmai National Park in Alaska is running its annual Fat Bear Week, a March Madness-style competition where you can vote for the bear you think best exemplifies fatness. Check out some of the top contenders.
 
@@ -700,7 +613,6 @@ Katmai National Park in Alaska is running its annual Fat Bear Week, a March Madn
  - [https://www.cnn.com/videos/business/2022/10/07/lawrence-summers-recession-more-likely-than-not-tsr-sot-vpx-contd.cnn](https://www.cnn.com/videos/business/2022/10/07/lawrence-summers-recession-more-likely-than-not-tsr-sot-vpx-contd.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 00:47:15+00:00
- - tags: None
 
 Former US Treasury Secretary Lawrence Summers says that it's "more likely than not" that the US will enter a recession.
 
@@ -708,7 +620,6 @@ Former US Treasury Secretary Lawrence Summers says that it's "more likely than n
  - [https://www.cnn.com/2022/10/06/politics/russians-alaska-asylum-avoid-draft-ukraine/index.html](https://www.cnn.com/2022/10/06/politics/russians-alaska-asylum-avoid-draft-ukraine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 00:46:28+00:00
- - tags: None
 
 Two Russians who crossed the Bering Strait, landing on western Alaska's St. Lawrence Island earlier this week had been seeking asylum to avoid Russia's draft in its ongoing war on Ukraine.
 
@@ -716,7 +627,6 @@ Two Russians who crossed the Bering Strait, landing on western Alaska's St. Lawr
  - [https://www.cnn.com/collections/intl-0710-nobel/](https://www.cnn.com/collections/intl-0710-nobel/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 00:43:21+00:00
- - tags: None
 
 
 
@@ -724,7 +634,6 @@ Two Russians who crossed the Bering Strait, landing on western Alaska's St. Lawr
  - [https://www.cnn.com/videos/media/2022/10/06/mark-cuban-shark-tank-wtcw-sot-cprog-vpx.cnn](https://www.cnn.com/videos/media/2022/10/06/mark-cuban-shark-tank-wtcw-sot-cprog-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 00:25:20+00:00
- - tags: None
 
 Mark Cuban opens up to CNN's Chris Wallace about how much longer he plans to be a part of the show "Shark Tank" in light of the success of his new venture, Cost Plus Drugs. "Who's Talking to Chris Wallace?" airs on CNN Sundays at 7p E.T.
 
@@ -732,6 +641,5 @@ Mark Cuban opens up to CNN's Chris Wallace about how much longer he plans to be 
  - [https://www.cnn.com/videos/politics/2022/10/06/haberman-trump-herschel-walker-response-vpx-tsr.cnn](https://www.cnn.com/videos/politics/2022/10/06/haberman-trump-herschel-walker-response-vpx-tsr.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-07 00:00:19+00:00
- - tags: None
 
 New York Times reporter Maggie Haberman discusses her conversations with former President Donald Trump around his support for Herschel Walker and his political future.

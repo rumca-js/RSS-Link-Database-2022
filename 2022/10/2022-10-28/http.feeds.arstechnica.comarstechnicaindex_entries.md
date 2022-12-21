@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Testing suggests faulty cable may be to blame for melting RTX 4090 connectors
  - [https://arstechnica.com/?p=1893799](https://arstechnica.com/?p=1893799)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 21:52:05+00:00
- - tags: None
 
 More reports of overheating power connectors have surfaced every day this week.
 
@@ -12,7 +11,6 @@ More reports of overheating power connectors have surfaced every day this week.
  - [https://arstechnica.com/?p=1893867](https://arstechnica.com/?p=1893867)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 21:10:21+00:00
- - tags: None
 
 Sewage samples as recent as October 6 have tested positive for the same virus.
 
@@ -20,7 +18,6 @@ Sewage samples as recent as October 6 have tested positive for the same virus.
  - [https://arstechnica.com/?p=1893811](https://arstechnica.com/?p=1893811)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 20:44:07+00:00
- - tags: None
 
 New sign-ups are scarce, so Comcast says revenue per user drives broadband growth.
 
@@ -28,7 +25,6 @@ New sign-ups are scarce, so Comcast says revenue per user drives broadband growt
  - [https://arstechnica.com/?p=1893635](https://arstechnica.com/?p=1893635)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 19:13:13+00:00
- - tags: None
 
 If you treasure your tweets, it's easy to get a backup copy for your own safekeeping.
 
@@ -36,7 +32,6 @@ If you treasure your tweets, it's easy to get a backup copy for your own safekee
  - [https://arstechnica.com/?p=1893721](https://arstechnica.com/?p=1893721)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 18:41:57+00:00
- - tags: None
 
 NSX-V appliance, which VMware no longer supports, also affected and patched.
 
@@ -44,7 +39,6 @@ NSX-V appliance, which VMware no longer supports, also affected and patched.
  - [https://arstechnica.com/?p=1893617](https://arstechnica.com/?p=1893617)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 17:54:28+00:00
- - tags: None
 
 Pressure from EU regulators makes Google accept Android forks, at least for TVs.
 
@@ -52,7 +46,6 @@ Pressure from EU regulators makes Google accept Android forks, at least for TVs.
  - [https://arstechnica.com/?p=1893667](https://arstechnica.com/?p=1893667)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 17:09:50+00:00
- - tags: None
 
 It's unclear if her defense will include putting keys and forks on people's faces.
 
@@ -60,7 +53,6 @@ It's unclear if her defense will include putting keys and forks on people's face
  - [https://arstechnica.com/?p=1893580](https://arstechnica.com/?p=1893580)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 16:27:34+00:00
- - tags: None
 
 Deep inside Google, a signed update makes the smartwatch 64-bit-Android ready.
 
@@ -68,7 +60,6 @@ Deep inside Google, a signed update makes the smartwatch 64-bit-Android ready.
  - [https://arstechnica.com/?p=1893495](https://arstechnica.com/?p=1893495)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 15:38:36+00:00
- - tags: None
 
 Nearly four times the price definitely doesn’t mean nearly four times the quality.
 
@@ -76,7 +67,6 @@ Nearly four times the price definitely doesn’t mean nearly four times the qual
  - [https://arstechnica.com/?p=1893613](https://arstechnica.com/?p=1893613)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 15:26:25+00:00
- - tags: None
 
 Musk previously called the Trump ban "morally wrong and flat-out stupid."
 
@@ -84,7 +74,6 @@ Musk previously called the Trump ban "morally wrong and flat-out stupid."
  - [https://arstechnica.com/?p=1893167](https://arstechnica.com/?p=1893167)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 15:00:22+00:00
- - tags: None
 
 Cities where US embassies installed air monitors saw improved air quality.
 
@@ -92,7 +81,6 @@ Cities where US embassies installed air monitors saw improved air quality.
  - [https://arstechnica.com/?p=1893539](https://arstechnica.com/?p=1893539)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 14:16:36+00:00
- - tags: None
 
 After 19 years of work, Juan Gilbert says he has invented the most secure voting machine.
 
@@ -100,7 +88,6 @@ After 19 years of work, Juan Gilbert says he has invented the most secure voting
  - [https://arstechnica.com/?p=1893470](https://arstechnica.com/?p=1893470)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 13:09:13+00:00
- - tags: None
 
 Misconfigured CLDAP services on MS domain controllers are amplifying data floods.
 
@@ -108,7 +95,6 @@ Misconfigured CLDAP services on MS domain controllers are amplifying data floods
  - [https://arstechnica.com/?p=1893213](https://arstechnica.com/?p=1893213)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 11:00:34+00:00
- - tags: None
 
 "When the briefing ended, I was baffled and, if I’m honest, angry."
 
@@ -116,7 +102,6 @@ Misconfigured CLDAP services on MS domain controllers are amplifying data floods
  - [https://arstechnica.com/?p=1893499](https://arstechnica.com/?p=1893499)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 08:45:24+00:00
- - tags: None
 
 New cars will have to meet a 50% reduction in CO2 by 2030 ahead of complete ban.
 
@@ -124,6 +109,5 @@ New cars will have to meet a 50% reduction in CO2 by 2030 ahead of complete ban.
  - [https://arstechnica.com/?p=1893477](https://arstechnica.com/?p=1893477)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 01:52:05+00:00
- - tags: None
 
 Musk completes $44B purchase, fires CEO Parag Agrawal and others.

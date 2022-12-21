@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## The suspect in a series of central California killings was 'out hunting' when he was arrested, police say
  - [https://www.cnn.com/2022/10/15/us/stockton-serial-killings-suspect-arrested/index.html](https://www.cnn.com/2022/10/15/us/stockton-serial-killings-suspect-arrested/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 23:35:48+00:00
- - tags: None
 
 Authorities in central California on Saturday arrested a man in connection with a series of killings that claimed the lives of six people.
 
@@ -12,7 +11,6 @@ Authorities in central California on Saturday arrested a man in connection with 
  - [https://www.cnn.com/videos/politics/2022/10/15/january-6-footage-michael-cohen-acostanr-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/15/january-6-footage-michael-cohen-acostanr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 22:37:53+00:00
- - tags: None
 
 Former Trump attorney Michael Cohen reacts to new exclusive footage of Congressional leaders during the January 6th insurrection, and discusses former President Trump's response.
 
@@ -20,7 +18,6 @@ Former Trump attorney Michael Cohen reacts to new exclusive footage of Congressi
  - [https://www.cnn.com/2022/10/15/uk/queen-elizabeth-corgis-sarah-ferguson-trnd/index.html](https://www.cnn.com/2022/10/15/uk/queen-elizabeth-corgis-sarah-ferguson-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 22:31:15+00:00
- - tags: None
 
 The Queen's beloved corgis appear to be in good hands with the Duchess of York.
 
@@ -28,7 +25,6 @@ The Queen's beloved corgis appear to be in good hands with the Duchess of York.
  - [https://www.cnn.com/2022/10/15/business/elon-musk-starlink-ukraine-scn/index.html](https://www.cnn.com/2022/10/15/business/elon-musk-starlink-ukraine-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 22:13:35+00:00
- - tags: None
 
 US billionaire Elon Musk tweeted on Saturday that SpaceX will continue funding Starlink internet service in war-torn Ukraine, apparently reversing course after SpaceX asked the United States military to pick up the tab.
 
@@ -36,7 +32,6 @@ US billionaire Elon Musk tweeted on Saturday that SpaceX will continue funding S
  - [https://www.cnn.com/videos/business/2022/10/15/elon-musk-ukraine-satellites-bill-browder-intv-acostanr-vpx.cnn](https://www.cnn.com/videos/business/2022/10/15/elon-musk-ukraine-satellites-bill-browder-intv-acostanr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 21:21:02+00:00
- - tags: None
 
 After exclusive CNN reporting that SpaceX will no longer fund critical satellite services in Ukraine, Elon Musk says his company will keep funding the satellite services. CEO and author Bill Browder speaks to CNN's Jim Acosta about Musk's decision.
 
@@ -44,7 +39,6 @@ After exclusive CNN reporting that SpaceX will no longer fund critical satellite
  - [https://www.cnn.com/2022/10/15/politics/pakistan-us-relations-nuclear-weapons/index.html](https://www.cnn.com/2022/10/15/politics/pakistan-us-relations-nuclear-weapons/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 21:18:50+00:00
- - tags: None
 
 Pakistani officials said Saturday they had summoned the US ambassador to the country following recent comments made by President Joe Biden that doubted the safety of Pakistan's nuclear arsenal.
 
@@ -52,7 +46,6 @@ Pakistani officials said Saturday they had summoned the US ambassador to the cou
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-15-22#h_ae43e74b420c3a8c9fc55bb7cae4fc90](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-15-22#h_ae43e74b420c3a8c9fc55bb7cae4fc90)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 21:03:46.926009+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@ Pakistani officials said Saturday they had summoned the US ambassador to the cou
  - [https://www.cnn.com/2022/10/15/world/evin-prison-tehran-iran-protest/index.html](https://www.cnn.com/2022/10/15/world/evin-prison-tehran-iran-protest/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 20:52:31+00:00
- - tags: None
 
 A large, dark plume of smoke was seen billowing near Evin prison in northern Tehran in multiple videos on social media Saturday night.
 
@@ -68,7 +60,6 @@ A large, dark plume of smoke was seen billowing near Evin prison in no
  - [https://www.cnn.com/2022/10/15/americas/vancouver-fires-air-quality-washington/index.html](https://www.cnn.com/2022/10/15/americas/vancouver-fires-air-quality-washington/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 19:44:38+00:00
- - tags: None
 
 Wildfires burning in British Columbia and Washington state have triggered an air quality advisory for metro Vancouver, according to a Metro Vancouver district press release.
 
@@ -76,7 +67,6 @@ Wildfires burning in British Columbia and Washington state have triggered an air
  - [https://www.cnn.com/2022/10/15/football/ivan-toney-racist-abuse-brentford-spt-intl/index.html](https://www.cnn.com/2022/10/15/football/ivan-toney-racist-abuse-brentford-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 19:20:08+00:00
- - tags: None
 
 English Premier League club Brentford released a statement condemning the "disgusting, racist abuse" its striker Ivan Toney says he received on social media after he scored two goals during his side's 2-0 win over Brighton & Hove Albion on Friday.
 
@@ -84,7 +74,6 @@ English Premier League club Brentford released a statement condemning the "disgu
  - [https://www.cnn.com/2022/10/15/sport/dikembe-mutombo-brain-tumor-treatment/index.html](https://www.cnn.com/2022/10/15/sport/dikembe-mutombo-brain-tumor-treatment/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 19:16:06+00:00
- - tags: None
 
 NBA legend and basketball Hall of Famer Dikembe Mutombo is receiving treatment for a brain tumor in Atlanta, the league announced Saturday.
 
@@ -92,7 +81,6 @@ NBA legend and basketball Hall of Famer Dikembe Mutombo is receiving treatment f
  - [https://www.cnn.com/2022/10/15/football/mason-greenwood-arrest-manchester-united-spt-intl/index.html](https://www.cnn.com/2022/10/15/football/mason-greenwood-arrest-manchester-united-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 19:11:58+00:00
- - tags: None
 
 Manchester United footballer Mason Greenwood has been charged with attempted rape, England's Greater Manchester Police (GMP) confirmed Saturday.
 
@@ -100,7 +88,6 @@ Manchester United footballer Mason Greenwood has been charged with attempted rap
  - [https://www.cnn.com/videos/us/2022/10/15/humpback-whale-new-jersey-shore-cprog-orig-jc.cnn](https://www.cnn.com/videos/us/2022/10/15/humpback-whale-new-jersey-shore-cprog-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 18:01:56+00:00
- - tags: None
 
 Zach Piller and his dad were fishing off the Jersey Shore near Belmar when a humpback whale decided to pay them a visit that felt a little too close for comfort.
 
@@ -108,7 +95,6 @@ Zach Piller and his dad were fishing off the Jersey Shore near Belmar when a hum
  - [https://www.cnn.com/2022/10/15/americas/cuba-hurricane-ian-protestors-charges/index.html](https://www.cnn.com/2022/10/15/americas/cuba-hurricane-ian-protestors-charges/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 17:48:21+00:00
- - tags: None
 
 Protestors in Cuba who have been taking to the streets after Hurricane Ian damaged the island's already faltering power grid could face criminal charges, Cuba's Attorney General's office said Saturday.
 
@@ -116,7 +102,6 @@ Protestors in Cuba who have been taking to the streets after Hurricane Ian damag
  - [https://www.cnn.com/2022/10/15/politics/january-6-secret-service-oath-keepers/index.html](https://www.cnn.com/2022/10/15/politics/january-6-secret-service-oath-keepers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 15:25:34+00:00
- - tags: None
 
 Investigators with the House select committee probing the January 6, 2021, attack on the US Capitol have asked the United States Secret Service for information about contacts between its agents and members of the far-right Oath Keepers group.
 
@@ -124,7 +109,6 @@ Investigators with the House select committee probing the January 6, 2021, attac
  - [https://www.cnn.com/2022/10/15/us/seattle-dog-eclipse-bus-death-trnd/index.html](https://www.cnn.com/2022/10/15/us/seattle-dog-eclipse-bus-death-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 15:24:08+00:00
- - tags: None
 
 Eclipse, the dog who became famous in Seattle and worldwide for her solo bus rides to the dog park, has died, according to her owner.
 
@@ -132,7 +116,6 @@ Eclipse, the dog who became famous in Seattle and worldwide for her solo bus rid
  - [https://www.cnn.com/2022/10/15/entertainment/broadway-angela-lansbury-murder-she-wrote-nyc/index.html](https://www.cnn.com/2022/10/15/entertainment/broadway-angela-lansbury-murder-she-wrote-nyc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 15:15:17+00:00
- - tags: None
 
 New York City's Broadway theaters plan to dim the lights on Saturday evening in tribute to the late actress Angela Lansbury, who died this week. She was 96.
 
@@ -140,7 +123,6 @@ New York City's Broadway theaters plan to dim the lights on Saturday evening in 
  - [https://www.cnn.com/2022/10/15/entertainment/portsmouth-virginia-missy-elliott-boulevard-trnd/index.html](https://www.cnn.com/2022/10/15/entertainment/portsmouth-virginia-missy-elliott-boulevard-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 15:08:00+00:00
- - tags: None
 
 Starting Monday, Virginians will be able to "Work It" on a street named after hip-hop star Missy Elliott.
 
@@ -148,7 +130,6 @@ Starting Monday, Virginians will be able to "Work It" on a street named after hi
  - [https://www.cnn.com/2022/10/15/world/alvin-oceans-science-newsletter-wt-scn/index.html](https://www.cnn.com/2022/10/15/world/alvin-oceans-science-newsletter-wt-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 15:02:48+00:00
- - tags: None
 
 Renowned explorer Robert Ballard has scoured the deep sea for decades in search of its mysteries.
 
@@ -156,7 +137,6 @@ Renowned explorer Robert Ballard has scoured the deep sea for decades in search 
  - [https://www.cnn.com/2022/10/15/politics/barack-obama-michigan-georgia-midterm-elections/index.html](https://www.cnn.com/2022/10/15/politics/barack-obama-michigan-georgia-midterm-elections/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 14:55:19+00:00
- - tags: None
 
 Former President Barack Obama will travel to Atlanta and Detroit for campaign events in the final weeks of the midterm elections, an Obama spokesperson told CNN.
 
@@ -164,7 +144,6 @@ Former President Barack Obama will travel to Atlanta and Detroit for campaign ev
  - [https://www.cnn.com/2022/10/15/world/nasa-lucy-spacecraft-scn-trnd/index.html](https://www.cnn.com/2022/10/15/world/nasa-lucy-spacecraft-scn-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 14:10:55+00:00
- - tags: None
 
 This Sunday, a spacecraft called Lucy will be in the sky -- just without diamonds.
 
@@ -172,7 +151,6 @@ This Sunday, a spacecraft called Lucy will be in the sky -- just without diamond
  - [https://www.cnn.com/travel/article/travel-news-asia-reopening-coolest-neighborhoods/index.html](https://www.cnn.com/travel/article/travel-news-asia-reopening-coolest-neighborhoods/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 14:01:45+00:00
- - tags: None
 
 This week in travel: some of the destinations in Asia with the most strict Covid policies are finally reopening, an annual ranking of the world's coolest neighborhoods provides inspiration for your upcoming vacation plans, and Fat Bear Week weathers a cheating scandal in order to crown a new winner.
 
@@ -180,7 +158,6 @@ This week in travel: some of the destinations in Asia with the most strict Covid
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-15-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 13:03:40.488316+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ This week in travel: some of the destinations in Asia with the most strict Covid
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-15-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 13:03:40.274207+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ This week in travel: some of the destinations in Asia with the most strict Covid
  - [https://www.cnn.com/2022/10/15/sport/claressa-shields-savannah-marshall-fight-spt-intl/index.html](https://www.cnn.com/2022/10/15/sport/claressa-shields-savannah-marshall-fight-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 13:00:34+00:00
- - tags: None
 
 Face-to-face for the promotional photoshoot, and the fight between Britain's Savannah Marshall and the USA's Claressa Shields has already begun.
 
@@ -204,7 +179,6 @@ Face-to-face for the promotional photoshoot, and the fight between Britain's Sav
  - [https://www.cnn.com/2022/10/15/entertainment/kanye-west-canceled/index.html](https://www.cnn.com/2022/10/15/entertainment/kanye-west-canceled/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 12:54:50+00:00
- - tags: None
 
 Kanye West has had so many controversies you may have forgotten a few.
 
@@ -212,7 +186,6 @@ Kanye West has had so many controversies you may have forgotten a few.
  - [https://www.cnn.com/videos/travel/2022/10/07/stanley-tucci-searching-for-italy-pane-carasau-origseriesfilms.cnn](https://www.cnn.com/videos/travel/2022/10/07/stanley-tucci-searching-for-italy-pane-carasau-origseriesfilms.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 12:26:51+00:00
- - tags: None
 
 Pane carasau is a thin crispy bread dating back to over a 1000 BC. This versatile bread is a staple in Sardinia. All-new episodes of  "Stanley Tucci: Searching for Italy" air Sundays at 9 p.m. ET.
 
@@ -220,7 +193,6 @@ Pane carasau is a thin crispy bread dating back to over a 1000 BC. This versatil
  - [https://www.cnn.com/2022/10/15/politics/trump-week-what-matters/index.html](https://www.cnn.com/2022/10/15/politics/trump-week-what-matters/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 12:12:22+00:00
- - tags: None
 
 Just try keeping track of the dizzying web of legal issues confronting or somehow involving former President Donald Trump and his allies, all of which he lumps into the category of "witch hunt."
 
@@ -228,7 +200,6 @@ Just try keeping track of the dizzying web of legal issues confronting or someho
  - [https://www.cnn.com/2022/10/15/us/george-floyd-walk-to-the-store-judeah-reynolds-reaj/index.html](https://www.cnn.com/2022/10/15/us/george-floyd-walk-to-the-store-judeah-reynolds-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 11:42:01+00:00
- - tags: None
 
 Darnella Frazier never would have recorded the video of George Floyd's death, which helped convict Derek Chauvin, had she said no to her cousin's request to walk to the store.
 
@@ -236,7 +207,6 @@ Darnella Frazier never would have recorded the video of George Floyd's death, wh
  - [https://www.cnn.com/2022/10/15/weather/mississippi-river-low-water-tower-rock-climate/index.html](https://www.cnn.com/2022/10/15/weather/mississippi-river-low-water-tower-rock-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 10:41:42+00:00
- - tags: None
 
 Tower Rock -- a massive island in the middle of the Mississippi River south of St. Louis -- is typically surrounded by water and only accessible by boat. But as severe drought spreads across the Midwest and pushes river levels to near-record lows, people can now reach the rock formation on foot.
 
@@ -244,7 +214,6 @@ Tower Rock -- a massive island in the middle of the Mississippi River south of S
  - [https://www.cnn.com/2022/10/15/health/long-covid-smell-loss-doctor-visit-wellness/index.html](https://www.cnn.com/2022/10/15/health/long-covid-smell-loss-doctor-visit-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 10:04:06+00:00
- - tags: None
 
 It's been months since your ability to taste and smell disappeared after a Covid-19 infection. You've tried to schedule an appointment with a specialist — if you were able to find one — only to discover waiting lists of six months or longer.
 
@@ -252,7 +221,6 @@ It's been months since your ability to taste and smell disappeared after a Covid
  - [https://www.cnn.com/2022/10/15/football/real-madrid-barcelona-manchester-city-liverpool-psg-preview-spt-intl/index.html](https://www.cnn.com/2022/10/15/football/real-madrid-barcelona-manchester-city-liverpool-psg-preview-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 09:50:57+00:00
- - tags: None
 
 Some of Europe's biggest clubs are set to face each other this weekend in what promises to be an exciting carnival of soccer on the continent.
 
@@ -260,7 +228,6 @@ Some of Europe's biggest clubs are set to face each other this weekend in what p
  - [https://www.cnn.com/2022/10/14/uk/liz-truss-tax-u-turn-trouble-analysis-intl-gbr/index.html](https://www.cnn.com/2022/10/14/uk/liz-truss-tax-u-turn-trouble-analysis-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 08:56:27+00:00
- - tags: None
 
 
 
@@ -268,7 +235,6 @@ Some of Europe's biggest clubs are set to face each other this weekend in what p
  - [https://www.cnn.com/2022/10/15/us/vermont-dna-peacock-murder-arrest/index.html](https://www.cnn.com/2022/10/15/us/vermont-dna-peacock-murder-arrest/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 08:04:42+00:00
- - tags: None
 
 A single drop of blood has led to the arrest of a suspect in the unsolved 1989 murders of Catherine and George Peacock in Danby, Vermont, police say.
 
@@ -276,7 +242,6 @@ A single drop of blood has led to the arrest of a suspect in the unsolved 1989 m
  - [https://www.cnn.com/2022/10/15/world/russia-ukraine-war-rocket-drones-missile-strike-kyiv-zaporizhzhia-intl-hnk/index.html](https://www.cnn.com/2022/10/15/world/russia-ukraine-war-rocket-drones-missile-strike-kyiv-zaporizhzhia-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 07:59:28+00:00
- - tags: None
 
 Ukrainian officials say the southern city of Zaporizhzhia came under attack again early Saturday, in an assault involving kamikaze drones and missiles.
 
@@ -284,7 +249,6 @@ Ukrainian officials say the southern city of Zaporizhzhia came under attack agai
  - [https://www.cnn.com/2022/10/15/us/raleigh-north-carolina-shooting-saturday/index.html](https://www.cnn.com/2022/10/15/us/raleigh-north-carolina-shooting-saturday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 07:36:58+00:00
- - tags: None
 
 A 15-year-old will be charged as an adult for allegedly carrying out a mass shooting that left five people dead Thursday in Raleigh, North Carolina, prosecutors said, as calls to curb gun violence are renewed once again in the US.
 
@@ -292,7 +256,6 @@ A 15-year-old will be charged as an adult for allegedly carrying out a mass shoo
  - [https://www.cnn.com/2022/10/15/us/boaters-rescued-gulf-of-mexico-first-person/index.html](https://www.cnn.com/2022/10/15/us/boaters-rescued-gulf-of-mexico-first-person/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 07:03:03+00:00
- - tags: None
 
 Three boaters clung to a makeshift raft of ice chests and fended off shark attacks and jellyfish stings in the waters near Empire, Louisiana, until they were rescued 28 hours later, all thanks to a miraculous text message.
 
@@ -300,7 +263,6 @@ Three boaters clung to a makeshift raft of ice chests and fended off shark attac
  - [https://www.cnn.com/2022/10/15/europe/russia-ukraine-rape-sexual-violence-military-intl-hnk/index.html](https://www.cnn.com/2022/10/15/europe/russia-ukraine-rape-sexual-violence-military-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 05:59:37+00:00
- - tags: None
 
 Russia is using rape and sexual violence as part of its "military strategy" in Ukraine, a UN envoy said this week.
 
@@ -308,7 +270,6 @@ Russia is using rape and sexual violence as part of its "military strategy" in U
  - [https://www.cnn.com/2022/10/15/world/australia-flood-death-melbourne-victoria-intl-hnk/index.html](https://www.cnn.com/2022/10/15/world/australia-flood-death-melbourne-victoria-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 04:51:51+00:00
- - tags: None
 
 A 71-year-old man was found dead in floodwaters in the backyard of his home in Rochester, Australia, on Saturday, as heavy rains continue to bring major flooding to the southeast of the country.
 
@@ -316,7 +277,6 @@ A 71-year-old man was found dead in floodwaters in the backyard of his home in R
  - [https://www.cnn.com/2022/10/15/europe/russian-general-surovikin-profile-intl-cmd/index.html](https://www.cnn.com/2022/10/15/europe/russian-general-surovikin-profile-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 04:21:50+00:00
- - tags: None
 
 Russian President Vladimir Putin's devastating war on Ukraine is faltering. Now, there's a new general in charge -- with a reputation for brutality.
 
@@ -324,7 +284,6 @@ Russian President Vladimir Putin's devastating war on Ukraine is faltering. Now,
  - [https://www.cnn.com/travel/article/italy-tourists-bad-behavior/index.html](https://www.cnn.com/travel/article/italy-tourists-bad-behavior/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 04:10:52+00:00
- - tags: None
 
 Swimming in UNESCO-protected canals. Breaking into historic sites. Driving down the world's most famous staircase. And just when you thought that was as bad as it gets: smashing priceless sculptures in a fit of pique.
 
@@ -332,7 +291,6 @@ Swimming in UNESCO-protected canals. Breaking into historic sites. Driving down 
  - [https://www.cnn.com/2022/10/15/americas/venezuelan-migrants-title-42-expansion-intl/index.html](https://www.cnn.com/2022/10/15/americas/venezuelan-migrants-title-42-expansion-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 04:02:02+00:00
- - tags: None
 
 "The news hit me like a bucket of cold water," says Alejaidys Morey, a 30-year-old Venezuelan woman, who until this week was planning to start traveling towards the United States.
 
@@ -340,7 +298,6 @@ Swimming in UNESCO-protected canals. Breaking into historic sites. Driving down 
  - [https://www.cnn.com/2022/10/14/entertainment/bts-reunite-free-concert-south-korea-world-expo-intl-hnk/index.html](https://www.cnn.com/2022/10/14/entertainment/bts-reunite-free-concert-south-korea-world-expo-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 03:04:19+00:00
- - tags: None
 
 K-pop boy band BTS is reuniting on Saturday for a concert in the southern port city of Busan, which the city and the South Korean government hope will help win a bid to host the World Expo 2030.
 
@@ -348,7 +305,6 @@ K-pop boy band BTS is reuniting on Saturday for a concert in the southern port c
  - [https://www.cnn.com/2022/10/14/world/turkey-coal-mine-explosion-intl-hnk/index.html](https://www.cnn.com/2022/10/14/world/turkey-coal-mine-explosion-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 02:37:44+00:00
- - tags: None
 
 An explosion inside a coal mine in northern Turkey on Friday has killed at least 25 people and trapped dozens of others beneath the rubble of the blast, officials said.
 
@@ -356,7 +312,6 @@ An explosion inside a coal mine in northern Turkey on Friday has killed at least
  - [https://www.cnn.com/2022/10/14/india/india-rape-uttar-pradesh-girl-critical-intl-hnk/index.html](https://www.cnn.com/2022/10/14/india/india-rape-uttar-pradesh-girl-critical-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 01:46:41+00:00
- - tags: None
 
 Fears are growing for the survival of a 15-year-old girl who was allegedly set on fire by a family member who is also accused of raping her as she fights for her life at a hospital in northern India.
 
@@ -364,7 +319,6 @@ Fears are growing for the survival of a 15-year-old girl who was allegedly set o
  - [https://www.cnn.com/2022/10/14/asia/indonesia-stadium-disaster-tear-gas-investigation-intl-hnk/index.html](https://www.cnn.com/2022/10/14/asia/indonesia-stadium-disaster-tear-gas-investigation-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 01:28:22+00:00
- - tags: None
 
 A fact-finding team tasked with investigating a deadly soccer stampede in Indonesia has concluded that tear gas was the main cause of death in one of the world's worst stadium disasters, the country's security minister said on Friday.
 
@@ -372,6 +326,5 @@ A fact-finding team tasked with investigating a deadly soccer stampede in Indone
  - [https://www.cnn.com/videos/world/2022/10/14/ukraine-soldiers-battle-of-kherson-russian-evacuation-npw-ebof-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/10/14/ukraine-soldiers-battle-of-kherson-russian-evacuation-npw-ebof-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-15 00:32:41+00:00
- - tags: None
 
 As the weather changes in Ukraine and the battle for Kherson continues, soldiers show CNN's Nick Paton Walsh how they plan to use bunkers and Elon Musk's satellite internet to help map out Russian forces.

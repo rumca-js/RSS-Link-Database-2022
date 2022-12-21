@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## NASA’s Artemis I launch has officially been delayed until November
  - [https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november](https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 22:05:11+00:00
- - tags: None
 
 <figure>
       <img alt="A close-up image of the Artemis I rocket against a clear sky" src="https://cdn.vox-cdn.com/thumbor/XT9NH0D7QOEQ1SGgG0ArW_8GRUA=/0x0:3900x2600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71441127/1242985042.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming](https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 19:47:15+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/jmoHi1VNvn72sOwbqvn942fonsM=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71440732/acastro_STK052_01.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit](https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 17:17:21+00:00
- - tags: None
 
 <figure>
       <img alt="A leaked image showing a variety of Pixel Watches with different bands and watch faces" src="https://cdn.vox-cdn.com/thumbor/ybEUkW4jZDLXdrhTGQNnxbiYZtI=/0x20:1433x975/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71440335/pixel_watch_leak.0.jpeg" />
@@ -40,7 +37,6 @@
  - [https://www.theverge.com/2022/10/1/23381828/tiktok-live-shopping-planning-talkshoplive-us-north-america](https://www.theverge.com/2022/10/1/23381828/tiktok-live-shopping-planning-talkshoplive-us-north-america)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 15:37:53+00:00
- - tags: None
 
 <figure>
       <img alt="The TikTok logo on a black background with repeating geometric shapes" src="https://cdn.vox-cdn.com/thumbor/8GmwawExwOoE1uT6QISR5SUNWgY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71440045/STK051_VRG_Illo_N_Barclay_6_tiktok.0.jpg" />
@@ -53,7 +49,6 @@
  - [https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom](https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/t59wK4nejczCTXD--pYuZw0MywY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71439719/226270_iPHONE_14_PHO_akrales_0754.0.jpg" />
@@ -66,7 +61,6 @@
  - [https://www.theverge.com/2022/10/1/23380726/eufy-dual-video-doorbell-ring-amazon-echo-show-5-fire-tv-cube-deal-sale](https://www.theverge.com/2022/10/1/23380726/eufy-dual-video-doorbell-ring-amazon-echo-show-5-fire-tv-cube-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/WDekkqqhD9GrIPHm9Tdqdr9pKlA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71439589/jtuohy_220209_5016_0013.0.jpg" />
@@ -79,7 +73,6 @@
  - [https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer](https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 04:23:41+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/dc28325j9F4XTjLpdVbfXZejHlE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71438822/acastro_STK086_02.0.jpg" />
@@ -92,7 +85,6 @@
  - [https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-01 01:26:42+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/0qMpHe5fYSfaPL8Yf77_AHyA3wc=/224x0:2657x1622/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71438492/Screen_Shot_2022_09_30_at_9.19.33_PM.0.png" />

@@ -1,10 +1,9 @@
-# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
+# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, Source language: en-US
 
 ## China is Pretty Much Screwed
  - [https://www.youtube.com/watch?v=9kHdBxJza5k](https://www.youtube.com/watch?v=9kHdBxJza5k)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-10-27 15:45:06+00:00
- - tags: None
 
 The first 100 people to use code laowhy86  at the link below will get 20% off of Incogni: https://incogni.com/laowhy86
 

@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Web browsers need to stop trying to be all things to everyone
  - [https://www.zdnet.com/article/web-browsers-need-to-stop-trying-to-be-all-things-to-everyone/#ftag=RSSbaffb68](https://www.zdnet.com/article/web-browsers-need-to-stop-trying-to-be-all-things-to-everyone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 21:15:05+00:00
- - tags: None
 
 With some browsers continuing to add feature after feature, enough is enough.
 
@@ -12,7 +11,6 @@ With some browsers continuing to add feature after feature, enough is enough.
  - [https://www.zdnet.com/home-and-office/home-entertainment/want-to-pay-less-for-netflix-now-you-can-but-with-ads/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/want-to-pay-less-for-netflix-now-you-can-but-with-ads/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 20:59:50+00:00
- - tags: None
 
 Starting November, Netflix will offer an ad-supported subscription tier for $6.99 a month.
 
@@ -20,7 +18,6 @@ Starting November, Netflix will offer an ad-supported subscription tier for $6.9
  - [https://www.zdnet.com/article/microsoft-readies-kubernetes-public-preview-for-windows-iot-devices/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-readies-kubernetes-public-preview-for-windows-iot-devices/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 20:23:59+00:00
- - tags: None
 
 Microsoft's 'Project Haven' work is moving ahead, making container-based app development and management an increasingly important piece of Microsoft's evolving Azure cloud picture.
 
@@ -28,7 +25,6 @@ Microsoft's 'Project Haven' work is moving ahead, making container-based app dev
  - [https://www.zdnet.com/article/how-technology-teams-keep-americas-largest-bank-on-a-digital-course/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-technology-teams-keep-americas-largest-bank-on-a-digital-course/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 19:29:24+00:00
- - tags: None
 
 Chase Bank puts its tech professionals in front of 60 million digitally active customers -- and this is also a recruiting tool for tech talent.
 
@@ -36,7 +32,6 @@ Chase Bank puts its tech professionals in front of 60 million digitally active c
  - [https://www.zdnet.com/article/this-e-ink-tablet-is-one-that-you-should-take-note-of/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-e-ink-tablet-is-one-that-you-should-take-note-of/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 19:23:00+00:00
- - tags: None
 
 The Supernote A5 X is not as flashy as the Kindle Scribe and ReMarkable 2, but it's worth considering for several key reasons.
 
@@ -44,7 +39,6 @@ The Supernote A5 X is not as flashy as the Kindle Scribe and ReMarkable 2, but i
  - [https://www.zdnet.com/article/tesla-secures-a-deal-to-make-cars-safer-through-an-over-air-update/#ftag=RSSbaffb68](https://www.zdnet.com/article/tesla-secures-a-deal-to-make-cars-safer-through-an-over-air-update/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 19:21:00+00:00
- - tags: None
 
 Tesla signed a global agreement with Emergency Safety Solutions to implement a new vehicle hazard warning system in its vehicles.
 
@@ -52,7 +46,6 @@ Tesla signed a global agreement with Emergency Safety Solutions to implement a n
  - [https://www.zdnet.com/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/#ftag=RSSbaffb68](https://www.zdnet.com/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 19:06:00+00:00
- - tags: None
 
 5G, cloud computing, artificial intelligence, and Internet of Things are amongst industry trends that Singapore believes will drive demand for skillsets over the next three to five years, while roles in infrastructure and operations are at risk of displacement and require reskilling.
 
@@ -60,7 +53,6 @@ Tesla signed a global agreement with Emergency Safety Solutions to implement a n
  - [https://www.zdnet.com/article/brydge-sp-max-plus-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/brydge-sp-max-plus-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 18:57:08+00:00
- - tags: None
 
 Brydge is known for its iPad and device keyboard options, but the SP Max Plus keyboard takes a different tact with a protective case and keyboard built for keeping your Surface Pro 8 safe when used outside of the office.
 
@@ -68,7 +60,6 @@ Brydge is known for its iPad and device keyboard options, but the SP Max Plus ke
  - [https://www.zdnet.com/article/how-to-recover-lost-or-closed-tabs-using-the-firefox-history-tool/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-recover-lost-or-closed-tabs-using-the-firefox-history-tool/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 17:42:56+00:00
- - tags: None
 
 Here's how easy it is to recover those tabs you accidentally closed or lost due to a browser crash or reinstallation.
 
@@ -76,7 +67,6 @@ Here's how easy it is to recover those tabs you accidentally closed or lost due 
  - [https://www.zdnet.com/article/best-magsafe-accessory/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-magsafe-accessory/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 17:19:00+00:00
- - tags: None
 
 Charging your iPhone with a cord is so 2017. With these MagSafe accessories, avoid tangled wires, focus on battery life, and more with ZDNET's favorite picks.
 
@@ -84,7 +74,6 @@ Charging your iPhone with a cord is so 2017. With these MagSafe accessories, avo
  - [https://www.zdnet.com/article/apple-watch-series-8-deal-promo-code-coupon/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-series-8-deal-promo-code-coupon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 17:00:11+00:00
- - tags: None
 
 You can save $50 on Apple's latest watch through today only.
 
@@ -92,7 +81,6 @@ You can save $50 on Apple's latest watch through today only.
  - [https://www.zdnet.com/article/fake-lightning-cables-can-damage-your-iphone-heres-how-to-make-sure-yours-is-genuine/#ftag=RSSbaffb68](https://www.zdnet.com/article/fake-lightning-cables-can-damage-your-iphone-heres-how-to-make-sure-yours-is-genuine/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 14:38:00+00:00
- - tags: None
 
 I have a weird hobby. It's buying Lightning cables from eBay that claim to be "Apple" or "Genuine."
 
@@ -100,7 +88,6 @@ I have a weird hobby. It's buying Lightning cables from eBay that claim to be "A
  - [https://www.zdnet.com/home-and-office/how-to-securely-attach-your-apple-airtag-to-things-without-breaking-the-bank/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/how-to-securely-attach-your-apple-airtag-to-things-without-breaking-the-bank/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 14:30:49+00:00
- - tags: None
 
 I love Apple AirTags but there's no way I'm paying the big bucks that Apple wants for a keyring holder.
 
@@ -108,7 +95,6 @@ I love Apple AirTags but there's no way I'm paying the big bucks that Apple want
  - [https://www.zdnet.com/article/dell-gets-more-edge-specific-with-project-frontier-platform/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-gets-more-edge-specific-with-project-frontier-platform/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 14:04:00+00:00
- - tags: None
 
 Company is expanding end-to-end edge products and services lineup, with zero-trust security and global support.
 
@@ -116,7 +102,6 @@ Company is expanding end-to-end edge products and services lineup, with zero-tru
  - [https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68](https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 14:00:24+00:00
- - tags: None
 
 Employers need to find a better way of using offices for hybrid working, says Slack, after a new survey suggested workers spend up to four hours on video calls.
 
@@ -124,7 +109,6 @@ Employers need to find a better way of using offices for hybrid working, says Sl
  - [https://www.zdnet.com/article/googles-futuristic-3d-meeting-tech-is-taking-another-step-forward/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-futuristic-3d-meeting-tech-is-taking-another-step-forward/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 13:55:48+00:00
- - tags: None
 
 Google is expanding the testing of Project Starline, its experimental 3D telepresence video meeting system.
 
@@ -132,7 +116,6 @@ Google is expanding the testing of Project Starline, its experimental 3D telepre
  - [https://www.zdnet.com/article/supply-chain-hacks-are-on-the-rise-but-most-companies-arent-prepared/#ftag=RSSbaffb68](https://www.zdnet.com/article/supply-chain-hacks-are-on-the-rise-but-most-companies-arent-prepared/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 13:40:17+00:00
- - tags: None
 
 Attacks via suppliers are on the up - but defending against them is hard.
 
@@ -140,7 +123,6 @@ Attacks via suppliers are on the up - but defending against them is hard.
  - [https://www.zdnet.com/article/can-i-transfer-my-windows-upgrade-license-from-an-old-pc-to-a-new-one/#ftag=RSSbaffb68](https://www.zdnet.com/article/can-i-transfer-my-windows-upgrade-license-from-an-old-pc-to-a-new-one/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 12:22:00+00:00
- - tags: None
 
 Your old Windows Pro product key (from practically any edition) will work to upgrade that new PC you purchased with a Windows Home edition license. Is it legal? Well...
 
@@ -148,7 +130,6 @@ Your old Windows Pro product key (from practically any edition) will work to upg
  - [https://www.zdnet.com/article/dell-named-most-loved-workplace-of-2022-according-to-newsweek-magazine/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-named-most-loved-workplace-of-2022-according-to-newsweek-magazine/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:47:46+00:00
- - tags: None
 
 PC maker Dell tops the list, which was based on surveys with more than 1.4 million employees.
 
@@ -156,7 +137,6 @@ PC maker Dell tops the list, which was based on surveys with more than 1.4 milli
  - [https://www.zdnet.com/home-and-office/the-best-deals-in-audio-online-october/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-best-deals-in-audio-online-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:36:21+00:00
- - tags: None
 
 As Amazon's October sales event wraps up, we've turned our attention to the best audio deals we could find online.
 
@@ -164,7 +144,6 @@ As Amazon's October sales event wraps up, we've turned our attention to the best
  - [https://www.zdnet.com/article/best-headphones-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-headphones-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:36:00+00:00
- - tags: None
 
 As Amazon's October sales event wraps up, we've turned our attention to the best audio deals we could find online.
 
@@ -172,7 +151,6 @@ As Amazon's October sales event wraps up, we've turned our attention to the best
  - [https://www.zdnet.com/article/artemis-launch-nasa-sets-another-date-for-its-moon-mission-attempt/#ftag=RSSbaffb68](https://www.zdnet.com/article/artemis-launch-nasa-sets-another-date-for-its-moon-mission-attempt/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:31:35+00:00
- - tags: None
 
 Will Artemis I actually liftoff this time or face another delay?
 
@@ -180,7 +158,6 @@ Will Artemis I actually liftoff this time or face another delay?
  - [https://www.zdnet.com/article/android-security-warning-these-crooks-phone-you-and-trick-you-into-downloading-malware/#ftag=RSSbaffb68](https://www.zdnet.com/article/android-security-warning-these-crooks-phone-you-and-trick-you-into-downloading-malware/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:15:22+00:00
- - tags: None
 
 Phishing websites steal your phone number - then a crook calls you to trick you into downloading malware.
 
@@ -188,7 +165,6 @@ Phishing websites steal your phone number - then a crook calls you to trick you 
  - [https://www.zdnet.com/article/selling-an-emotion-and-a-feeling-how-these-companies-see-vr-as-the-future-of-business/#ftag=RSSbaffb68](https://www.zdnet.com/article/selling-an-emotion-and-a-feeling-how-these-companies-see-vr-as-the-future-of-business/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:10:37+00:00
- - tags: None
 
 VR and AR applications go beyond meetings in the metaverse: they are allowing businesses to reach their customers in new ways.
 
@@ -196,7 +172,6 @@ VR and AR applications go beyond meetings in the metaverse: they are allowing bu
  - [https://www.zdnet.com/article/these-three-tech-skills-could-help-recession-proof-your-career-say-bosses/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-three-tech-skills-could-help-recession-proof-your-career-say-bosses/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:05:44+00:00
- - tags: None
 
 Companies are still desperate for tech skills, making technology a highly recession-proof career field.
 
@@ -204,7 +179,6 @@ Companies are still desperate for tech skills, making technology a highly recess
  - [https://www.zdnet.com/article/how-to-force-quit-a-stubborn-app-in-macos/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-force-quit-a-stubborn-app-in-macos/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 11:00:16+00:00
- - tags: None
 
 There are two different ways to kill stubborn applications in MacOS.
 
@@ -212,7 +186,6 @@ There are two different ways to kill stubborn applications in MacOS.
  - [https://www.zdnet.com/article/this-engineering-insights-company-switched-to-a-four-day-workweek-they-detailed-the-process-so-you-can-too/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-engineering-insights-company-switched-to-a-four-day-workweek-they-detailed-the-process-so-you-can-too/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 10:53:10+00:00
- - tags: None
 
 Uplevel permanently switched to a four-day workweek after a trial boosted productivity and work-life balance. The tech company documented its process to help other organizations follow suit.
 
@@ -220,6 +193,5 @@ Uplevel permanently switched to a four-day workweek after a trial boosted produc
  - [https://www.zdnet.com/article/panasonic-toughbook-g2-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/panasonic-toughbook-g2-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-13 08:48:20+00:00
- - tags: None
 
 This sturdy 10.1-inch Windows tablet can be kitted out to service a wide range of challenging use cases.

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Removing notes from Mendelssohn overture shows plight of humpback whales
  - [https://arstechnica.com/?p=1890094](https://arstechnica.com/?p=1890094)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 22:19:19+00:00
- - tags: None
 
 <em>Hebrides Redacted</em> is meant to show "how human activities have silenced nature.”
 
@@ -12,7 +11,6 @@
  - [https://arstechnica.com/?p=1890316](https://arstechnica.com/?p=1890316)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 21:57:35+00:00
- - tags: None
 
 "Thank you for an incredible ride up to orbit and an incredible ride home."
 
@@ -20,7 +18,6 @@
  - [https://arstechnica.com/?p=1890235](https://arstechnica.com/?p=1890235)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 20:50:55+00:00
- - tags: None
 
 Apple's headset will also scan users' legs for inclusion in virtual space.
 
@@ -28,7 +25,6 @@ Apple's headset will also scan users' legs for inclusion in virtual space.
  - [https://arstechnica.com/?p=1890282](https://arstechnica.com/?p=1890282)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 20:24:48+00:00
- - tags: None
 
 AT&#038;T said it's "committed to ensuring that this never happens again."
 
@@ -36,7 +32,6 @@ AT&#038;T said it's "committed to ensuring that this never happens again."
  - [https://arstechnica.com/?p=1890244](https://arstechnica.com/?p=1890244)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 19:06:32+00:00
- - tags: None
 
 Equifax used its own worker surveillance product to spy on workers fired.
 
@@ -44,7 +39,6 @@ Equifax used its own worker surveillance product to spy on workers fired.
  - [https://arstechnica.com/?p=1890232](https://arstechnica.com/?p=1890232)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 18:50:17+00:00
- - tags: None
 
 BQ.1 and BQ.1.1 now account for 1-in-10 US COVID infections.
 
@@ -52,7 +46,6 @@ BQ.1 and BQ.1.1 now account for 1-in-10 US COVID infections.
  - [https://arstechnica.com/?p=1890216](https://arstechnica.com/?p=1890216)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 18:42:00+00:00
- - tags: None
 
 SpaceX and US in talks, but Pentagon says it has "other" satellite options.
 
@@ -60,7 +53,6 @@ SpaceX and US in talks, but Pentagon says it has "other" satellite options.
  - [https://arstechnica.com/?p=1890107](https://arstechnica.com/?p=1890107)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 17:41:10+00:00
- - tags: None
 
 64-bit only Android promises better performance and security, if we can get there.
 
@@ -68,7 +60,6 @@ SpaceX and US in talks, but Pentagon says it has "other" satellite options.
  - [https://arstechnica.com/?p=1890123](https://arstechnica.com/?p=1890123)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 17:38:08+00:00
- - tags: None
 
 Start off in a mineral-rich play area with hints, rather than primordial chaos.
 
@@ -76,7 +67,6 @@ Start off in a mineral-rich play area with hints, rather than primordial chaos.
  - [https://arstechnica.com/?p=1890112](https://arstechnica.com/?p=1890112)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 17:35:56+00:00
- - tags: None
 
 iPhones sold without chargers is an "abusive practice," São Paulo judge says.
 
@@ -84,7 +74,6 @@ iPhones sold without chargers is an "abusive practice," São Paulo judge says.
  - [https://arstechnica.com/?p=1890156](https://arstechnica.com/?p=1890156)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 17:23:53+00:00
- - tags: None
 
 Nvidia had taken heat for announcing two 4080 cards with wildly divergent specs.
 
@@ -92,7 +81,6 @@ Nvidia had taken heat for announcing two 4080 cards with wildly divergent specs.
  - [https://arstechnica.com/?p=1890143](https://arstechnica.com/?p=1890143)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 17:19:14+00:00
- - tags: None
 
 Solar cell and a battery can keep the cyborg's electronics running for weeks.
 
@@ -100,7 +88,6 @@ Solar cell and a battery can keep the cyborg's electronics running for weeks.
  - [https://arstechnica.com/?p=1890131](https://arstechnica.com/?p=1890131)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 16:33:22+00:00
- - tags: None
 
 Security measure comes on top of Ricochet's required kernel-level drivers.
 
@@ -108,7 +95,6 @@ Security measure comes on top of Ricochet's required kernel-level drivers.
  - [https://arstechnica.com/?p=1889745](https://arstechnica.com/?p=1889745)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 16:26:54+00:00
- - tags: None
 
 Microsoft said Windows automatically blocked dangerous drivers. It didn't.
 
@@ -116,7 +102,6 @@ Microsoft said Windows automatically blocked dangerous drivers. It didn't.
  - [https://arstechnica.com/?p=1890110](https://arstechnica.com/?p=1890110)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 16:22:02+00:00
- - tags: None
 
 A BBC investigation found that TikTok was taking up to 70% of profits.
 
@@ -124,7 +109,6 @@ A BBC investigation found that TikTok was taking up to 70% of profits.
  - [https://arstechnica.com/?p=1890108](https://arstechnica.com/?p=1890108)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 15:53:18+00:00
- - tags: None
 
 The price of digital security might be your new car eternally remaining stock.
 
@@ -132,7 +116,6 @@ The price of digital security might be your new car eternally remaining stock.
  - [https://arstechnica.com/?p=1890079](https://arstechnica.com/?p=1890079)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 15:42:17+00:00
- - tags: None
 
 Update is "coming soon" but requires use of all-new compression format.
 
@@ -140,7 +123,6 @@ Update is "coming soon" but requires use of all-new compression format.
  - [https://arstechnica.com/?p=1890082](https://arstechnica.com/?p=1890082)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 15:15:14+00:00
- - tags: None
 
 Musk refuses to produce communications with SEC and FTC, Twitter tells court.
 
@@ -148,7 +130,6 @@ Musk refuses to produce communications with SEC and FTC, Twitter tells court.
  - [https://arstechnica.com/?p=1890068](https://arstechnica.com/?p=1890068)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 14:02:29+00:00
- - tags: None
 
 A new study finds no correlation between R&#038;D spending and outlandish drug prices.
 
@@ -156,7 +137,6 @@ A new study finds no correlation between R&#038;D spending and outlandish drug p
  - [https://arstechnica.com/?p=1889370](https://arstechnica.com/?p=1889370)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 11:30:24+00:00
- - tags: None
 
 "We remain confident of achieving our objective of a full vertical orbital launch."
 
@@ -164,7 +144,6 @@ A new study finds no correlation between R&#038;D spending and outlandish drug p
  - [https://arstechnica.com/?p=1885188](https://arstechnica.com/?p=1885188)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 11:00:59+00:00
- - tags: None
 
 But the total cost of buying into AMD's new platform still makes it a tough sell.
 
@@ -172,6 +151,5 @@ But the total cost of buying into AMD's new platform still makes it a tough sell
  - [https://arstechnica.com/?p=1888737](https://arstechnica.com/?p=1888737)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-14 11:00:05+00:00
- - tags: None
 
 Game makers were still working on their ports when shutdown news went public.

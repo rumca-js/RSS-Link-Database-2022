@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET build improvement: Stop wasting resources
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59088](https://www.codeproject.com/script/News/View.aspx?nwid=59088)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 Disc space doesn't grow on trees, you know!
 
@@ -12,7 +11,6 @@ Disc space doesn't grow on trees, you know!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59086](https://www.codeproject.com/script/News/View.aspx?nwid=59086)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Disc space doesn't grow on trees, you know!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59090](https://www.codeproject.com/script/News/View.aspx?nwid=59090)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 "Everybody will now rise to the occasion, and know your rights. All three of them"
 
@@ -28,7 +25,6 @@ Disc space doesn't grow on trees, you know!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59084](https://www.codeproject.com/script/News/View.aspx?nwid=59084)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 "There are no differences but differences of degree between different degrees of difference and no difference"
 
@@ -36,7 +32,6 @@ Disc space doesn't grow on trees, you know!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59089](https://www.codeproject.com/script/News/View.aspx?nwid=59089)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 EU tells Apple how to stick it
 
@@ -44,7 +39,6 @@ EU tells Apple how to stick it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59083](https://www.codeproject.com/script/News/View.aspx?nwid=59083)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 "If you choose not to decide, you still have made a choice."
 
@@ -52,7 +46,6 @@ EU tells Apple how to stick it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59085](https://www.codeproject.com/script/News/View.aspx?nwid=59085)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 Define "large"
 
@@ -60,7 +53,6 @@ Define "large"
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59092](https://www.codeproject.com/script/News/View.aspx?nwid=59092)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 Item 0: it works on your machine
 
@@ -68,7 +60,6 @@ Item 0: it works on your machine
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59093](https://www.codeproject.com/script/News/View.aspx?nwid=59093)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 And still the same attacks work
 
@@ -76,7 +67,6 @@ And still the same attacks work
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59087](https://www.codeproject.com/script/News/View.aspx?nwid=59087)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 You know the solution - ignore all emails from your boss
 
@@ -84,6 +74,5 @@ You know the solution - ignore all emails from your boss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59091](https://www.codeproject.com/script/News/View.aspx?nwid=59091)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-05 04:00:00+00:00
- - tags: None
 
 Will you still write me, will you still compile me, when I'm sixty-four (bits)?

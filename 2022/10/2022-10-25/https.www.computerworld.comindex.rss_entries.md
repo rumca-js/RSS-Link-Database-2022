@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Cisco Webex supports hybrid work with new collaboration capabilities
  - [https://www.computerworld.com/article/3677497/cisco-webex-supports-hybrid-work-with-new-collaboration-capabilities.html#tk.rss_all](https://www.computerworld.com/article/3677497/cisco-webex-supports-hybrid-work-with-new-collaboration-capabilities.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-25 21:13:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3677630/apples-deskview-and-continuity-camera-come-to-webex.html#tk.rss_all](https://www.computerworld.com/article/3677630/apples-deskview-and-continuity-camera-come-to-webex.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-25 15:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3677573/why-more-than-half-of-it-leaders-may-be-looking-for-new-jobs.html#tk.rss_all](https://www.computerworld.com/article/3677573/why-more-than-half-of-it-leaders-may-be-looking-for-new-jobs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-25 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## 9 arrested over Morbi bridge collapse that killed 134 in India
  - [https://www.cnn.com/2022/10/31/asia/india-bridge-collapse-arrests-intl-hnk/index.html](https://www.cnn.com/2022/10/31/asia/india-bridge-collapse-arrests-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:57:24+00:00
- - tags: None
 
 Nine people have been arrested over the collapse of a suspension bridge in India's western Gujarat state that killed at least 134 people on Sunday, police said.
 
@@ -12,7 +11,6 @@ Nine people have been arrested over the collapse of a suspension bridge in India
  - [https://biztoc.com/p/8my3rxv3?ref=rss&rd=1](https://biztoc.com/p/8my3rxv3?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:57:00+00:00
- - tags: None
 
 Nine people have been arrested over the collapse of a suspension bridge in India's western Gujarat state that killed at least 134 people on Sunday, police said. <br /><br /> #morbi #collapse #gujarat #bridgecollapse #suspensionbridge
 
@@ -20,7 +18,6 @@ Nine people have been arrested over the collapse of a suspension bridge in India
  - [https://biztoc.com/p/pezsd8gc?ref=rss&rd=1](https://biztoc.com/p/pezsd8gc?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:56:08+00:00
- - tags: None
 
 The DOJ alleged that David DePape broke into the home through a glass door and then went looking for Nancy Pelosi. <br /><br /> #nancypelosi #attacker #doj #daviddepape #paulpelosi #kidnapping
 
@@ -28,7 +25,6 @@ The DOJ alleged that David DePape broke into the home through a glass door and t
  - [https://biztoc.com/p/s4iqiwcn?ref=rss&rd=1](https://biztoc.com/p/s4iqiwcn?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:50:00+00:00
- - tags: None
 
 President Vladimir Putin said Russian strikes on Ukrainian infrastructure and a decision to freeze participation in a Black Sea grain export programme were responses to a drone attack on Moscow's... <br /><br /> #vladimirputin #droneattack #moscow #crimea #responses #blacksea #ukrainian #russian
 
@@ -36,7 +32,6 @@ President Vladimir Putin said Russian strikes on Ukrainian infrastructure and a 
  - [https://biztoc.com/p/hn5zwbbe?ref=rss&rd=1](https://biztoc.com/p/hn5zwbbe?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:43:00+00:00
- - tags: None
 
 “They bit her on the ass?!” a wide-eyed Hailey Bieber asked the “Kardashians” star during Monday’s Halloween episode of “Who’s in my bathroom?” <br /><br /> #bathroom #kendall #haileybieber #kyliejenner #halloween #kardashians
 
@@ -44,7 +39,6 @@ President Vladimir Putin said Russian strikes on Ukrainian infrastructure and a 
  - [https://biztoc.com/p/h66432jv?ref=rss&rd=1](https://biztoc.com/p/h66432jv?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:39:00+00:00
- - tags: None
 
 The man accused of bludgeoning U.S. House Speaker Nancy Pelosi's husband with a hammer after forcing his way into the couple's home threatened to take her hostage and break her kneecaps if she... <br /><br /> #nancypelosi #hammer #attacksuspect #questioning #prosecutors #complaint #paulpelosi
 
@@ -52,7 +46,6 @@ The man accused of bludgeoning U.S. House Speaker Nancy Pelosi's husband with a 
  - [https://biztoc.com/p/3x5jezdz?ref=rss&rd=1](https://biztoc.com/p/3x5jezdz?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:27:00+00:00
- - tags: None
 
 The 2022 Week 8 NFL schedule closes out with a AFC North rivalry game between the Joe Burrow and the Cincinnati Bengals and Jacoby Brissett and t... <br /><br /> #nfl #joeburrow #contestwinner #fanduel #mondaynightfootball #rivalrygame #jacobybrissett #afcnorth #dfs #cincinnatibengals
 
@@ -60,7 +53,6 @@ The 2022 Week 8 NFL schedule closes out with a AFC North rivalry game between th
  - [https://biztoc.com/p/6hg89qgp?ref=rss&rd=1](https://biztoc.com/p/6hg89qgp?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:25:00+00:00
- - tags: None
 
 Opening weekend sales of Call of Duty: Modern Warfare II surpassed $600 million, according to a source. <br /><br /> #callofduty
 
@@ -68,7 +60,6 @@ Opening weekend sales of Call of Duty: Modern Warfare II surpassed $600 million,
  - [https://biztoc.com/p/cr4x7zjf?ref=rss&rd=1](https://biztoc.com/p/cr4x7zjf?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:06:50+00:00
- - tags: None
 
 <br /><br /> #elonmusk #jackdorsey
 
@@ -76,7 +67,6 @@ Opening weekend sales of Call of Duty: Modern Warfare II surpassed $600 million,
  - [https://biztoc.com/p/7fduwaix?ref=rss&rd=1](https://biztoc.com/p/7fduwaix?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:04:39+00:00
- - tags: None
 
 The drama from A24 comes after a years-long copyright dispute. <br /><br /> #crystallake #copyrightdispute #a24 #bryanfuller #drama #peacock #prequelseries
 
@@ -84,7 +74,6 @@ The drama from A24 comes after a years-long copyright dispute. <br /><br /> #cry
  - [https://biztoc.com/p/bnnht4yy?ref=rss&rd=1](https://biztoc.com/p/bnnht4yy?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:01:00+00:00
- - tags: None
 
 Maralee Nichols and her 10-month-old son Theo, whose father is Tristan Thompson, got into the Halloween spirit in mommy-and-me costumes. See their spooky season outfits. <br /><br /> #maraleenichols #theo #tristanthompson #halloween
 
@@ -92,7 +81,6 @@ Maralee Nichols and her 10-month-old son Theo, whose father is Tristan Thompson,
  - [https://biztoc.com/p/hdddv2d7?ref=rss&rd=1](https://biztoc.com/p/hdddv2d7?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:00:47+00:00
- - tags: None
 
 A cold front forecast to hit the Bay Area on Tuesday may be a little wetter than... <br /><br /> #bayarea #forecasters
 
@@ -100,7 +88,6 @@ A cold front forecast to hit the Bay Area on Tuesday may be a little wetter than
  - [https://biztoc.com/p/eq36i3gs?ref=rss&rd=1](https://biztoc.com/p/eq36i3gs?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 23:00:00+00:00
- - tags: None
 
 <br /><br /> #trickortreaters
 
@@ -108,7 +95,6 @@ A cold front forecast to hit the Bay Area on Tuesday may be a little wetter than
  - [https://biztoc.com/p/byqh3f23?ref=rss&rd=1](https://biztoc.com/p/byqh3f23?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:56:00+00:00
- - tags: None
 
 New York prosecutors set the table for the criminal tax fraud trial against the Trump Organization Monday, telling jurors the case is about "greed and cheating." <br /><br /> #trumporg #prosecutors #taxfraudtrial #allenweisselberg #trumporganization #jurors
 
@@ -116,7 +102,6 @@ New York prosecutors set the table for the criminal tax fraud trial against the 
  - [https://biztoc.com/p/q3tqg2vj?ref=rss&rd=1](https://biztoc.com/p/q3tqg2vj?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:55:35+00:00
- - tags: None
 
 DELPHI, Ind. — The grandmother of Libby German said the man arrested and accused of killing her granddaughter also was the man who printed off pictures for Libby’s funeral. Richard Allen, 50,… <br /><br /> #ind #libbygerman #granddaughter #grandmother #funeral #delphi #richardallen #abby #murdersuspect
 
@@ -124,7 +109,6 @@ DELPHI, Ind. — The grandmother of Libby German said the man arrested and accus
  - [https://biztoc.com/p/3zsxig8g?ref=rss&rd=1](https://biztoc.com/p/3zsxig8g?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:53:56+00:00
- - tags: None
 
 By Kevin Fishbain, Adam Jahns and Jeff Zrebiec
 The Bears have agreed to trade linebacker Roquan Smith to the Ravens, a person with knowledge of the deal but not authorized to speak publicly... <br /><br /> #ravens #adamjahns #kevinfishbain #bears #baltimore #roquansmith #jeffzrebiecthebears #theathletic
@@ -133,7 +117,6 @@ The Bears have agreed to trade linebacker Roquan Smith to the Ravens, a person w
  - [https://biztoc.com/p/3hngspd6?ref=rss&rd=1](https://biztoc.com/p/3hngspd6?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:49:00+00:00
- - tags: None
 
 How to guarantee you'll win the Powerball jackpot, if you can afford it
     The odds of winning the Powerball jackpot are 1 in 292,201,338
@@ -143,7 +126,6 @@ How to guarantee you'll win the Powerball jackpot, if you can afford it
  - [https://biztoc.com/p/yrutwx8x?ref=rss&rd=1](https://biztoc.com/p/yrutwx8x?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:43:58+00:00
- - tags: None
 
 With a new CEO tweeting a conspiracy theory about Paul Pelosi, Democrats wring their hands about the platform — but find nowhere else to go. <br /><br /> #musk #paulpelosi
 
@@ -151,7 +133,6 @@ With a new CEO tweeting a conspiracy theory about Paul Pelosi, Democrats wring t
  - [https://www.cnn.com/2022/10/31/politics/pelosi-attack-right-wing-conspiracy-theories-invs/index.html](https://www.cnn.com/2022/10/31/politics/pelosi-attack-right-wing-conspiracy-theories-invs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:42:43+00:00
- - tags: None
 
 • Analysis: Donald Trump Jr.'s reaction shows exactly how low we have sunk
 • Pelosi suspect charged with attempting to kidnap House speaker and attempted murder
@@ -160,7 +141,6 @@ With a new CEO tweeting a conspiracy theory about Paul Pelosi, Democrats wring t
  - [https://biztoc.com/p/25if8qm3?ref=rss&rd=1](https://biztoc.com/p/25if8qm3?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:42:00+00:00
- - tags: None
 
 Prominent figures on social media, including some of the loudest voices on the political right, are pushing a salacious and false conspiracy theory about the attack on House Speaker Nancy Pelosi's... <br /><br /> #nancypelosi #attack #fbi #affidavit #assault #conservatives
 
@@ -168,7 +148,6 @@ Prominent figures on social media, including some of the loudest voices on the p
  - [https://biztoc.com/p/33p3frzs?ref=rss&rd=1](https://biztoc.com/p/33p3frzs?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:36:00+00:00
- - tags: None
 
 Stock futures are flat Monday night as traders leave behind a winning month and look ahead to the Federal Reserve's interest rate decision on Wednesday.
     Futures tied to the Dow Jones... <br /><br /> #nasdaq100
@@ -177,7 +156,6 @@ Stock futures are flat Monday night as traders leave behind a winning month and 
  - [https://biztoc.com/p/9nxvixkd?ref=rss&rd=1](https://biztoc.com/p/9nxvixkd?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:35:00+00:00
- - tags: None
 
 When predecessor Ryan Pace traded up to draft Trubisky second overall in 2017, he knew that he forever would be linked to his decision. Now Poles will be linked to this trade. <br /><br /> #mitchtrubisky #roquansmith #ryanpoles #ryanpace #bears #poles
 
@@ -185,7 +163,6 @@ When predecessor Ryan Pace traded up to draft Trubisky second overall in 2017, h
  - [https://biztoc.com/p/azh8m75m?ref=rss&rd=1](https://biztoc.com/p/azh8m75m?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:30:34+00:00
- - tags: None
 
 Dorsey left his second stint as CEO of Twitter last year and has supported Musk's $44 billion takeover. <br /><br /> #elonmusk #takeover #jackdorsey
 
@@ -193,7 +170,6 @@ Dorsey left his second stint as CEO of Twitter last year and has supported Musk'
  - [https://biztoc.com/p/74nhwcvn?ref=rss&rd=1](https://biztoc.com/p/74nhwcvn?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:19:15+00:00
- - tags: None
 
 <br /><br /> #supremecourt #unc #harvard
 
@@ -201,7 +177,6 @@ Dorsey left his second stint as CEO of Twitter last year and has supported Musk'
  - [https://www.cnn.com/videos/politics/2022/10/31/kari-lake-arizona-paul-pelosi-laugh-joke-sitroom-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/31/kari-lake-arizona-paul-pelosi-laugh-joke-sitroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:17:35+00:00
- - tags: None
 
 Arizona Republican gubernatorial nominee Kari Lake appeared to joke about the violent attack on House Speaker Nancy Pelosi's husband, Paul.
 
@@ -209,7 +184,6 @@ Arizona Republican gubernatorial nominee Kari Lake appeared to joke about the vi
  - [https://biztoc.com/p/rzda6fc9?ref=rss&rd=1](https://biztoc.com/p/rzda6fc9?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:16:08+00:00
- - tags: None
 
 Within the span of 96 hours, Musk's buyout of the San Francisco-based tech giant has... <br /><br /> #elonmusk #techgiant
 
@@ -217,7 +191,6 @@ Within the span of 96 hours, Musk's buyout of the San Francisco-based tech giant
  - [https://biztoc.com/p/s4nfhi8f?ref=rss&rd=1](https://biztoc.com/p/s4nfhi8f?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:11:09+00:00
- - tags: None
 
 They will need to extend the former Bears linebacker who is in the final year of his contract. Plus, more on what we’re hearing as we get closer to Tuesday’s NFL trade deadline. <br /><br /> #ravens #bears #roquansmith #linebacker #nfl
 
@@ -225,7 +198,6 @@ They will need to extend the former Bears linebacker who is in the final year of
  - [https://biztoc.com/p/9njpkmpr?ref=rss&rd=1](https://biztoc.com/p/9njpkmpr?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:07:08+00:00
- - tags: None
 
 <br /><br /> #stockmarkettoday
 
@@ -233,7 +205,6 @@ They will need to extend the former Bears linebacker who is in the final year of
  - [https://biztoc.com/p/8kk22v5j?ref=rss&rd=1](https://biztoc.com/p/8kk22v5j?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:06:00+00:00
- - tags: None
 
 Monday's rainout in Philadelphia has changed the rest of the schedule for the 2022 World Series <br /><br /> #rain #phillies #worldseries #astros #rainout #philadelphia #citizensbankpark
 
@@ -241,7 +212,6 @@ Monday's rainout in Philadelphia has changed the rest of the schedule for the 20
  - [https://biztoc.com/p/qv8hsiee?ref=rss&rd=1](https://biztoc.com/p/qv8hsiee?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:01:38+00:00
- - tags: None
 
 Jake Paul dismisses critics calling his fight with Anderson Silva ‘rigged,’ saying people are refusing to give him the credit he’s earned. <br /><br /> #andersonsilva #fight #jakepaul
 
@@ -249,7 +219,6 @@ Jake Paul dismisses critics calling his fight with Anderson Silva ‘rigged,’ 
  - [https://biztoc.com/p/5qwxtb83?ref=rss&rd=1](https://biztoc.com/p/5qwxtb83?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:01:37+00:00
- - tags: None
 
 What impact will Smith have on the Ravens? What's the plan for the Bears without their best player? Here are the answers to the biggest questions. <br /><br /> #roquansmith #bears #ravens
 
@@ -257,7 +226,6 @@ What impact will Smith have on the Ravens? What's the plan for the Bears without
  - [https://biztoc.com/p/ayiuhmtk?ref=rss&rd=1](https://biztoc.com/p/ayiuhmtk?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 22:00:11+00:00
- - tags: None
 
 <br /><br /> #richeisen
 
@@ -265,7 +233,6 @@ What impact will Smith have on the Ravens? What's the plan for the Bears without
  - [https://biztoc.com/p/u4e6msem?ref=rss&rd=1](https://biztoc.com/p/u4e6msem?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:58:00+00:00
- - tags: None
 
 Brazil’s far-right president has yet to concede after receiving 58.2m votes to Lula’s 60.3m <br /><br /> #bolsonaro #brazil #allies #lula
 
@@ -273,7 +240,6 @@ Brazil’s far-right president has yet to concede after receiving 58.2m votes to
  - [https://biztoc.com/p/r8aekvez?ref=rss&rd=1](https://biztoc.com/p/r8aekvez?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:54:19+00:00
- - tags: None
 
 While unconfirmed, the claims underscore speculation that Putin may be suffering from poor health or his long hold on power in Russia could be in peril. <br /><br /> #russian #ukraine #putin
 
@@ -281,7 +247,6 @@ While unconfirmed, the claims underscore speculation that Putin may be suffering
  - [https://biztoc.com/p/sdh6m77z?ref=rss&rd=1](https://biztoc.com/p/sdh6m77z?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:50:00+00:00
- - tags: None
 
 For months now, Republicans on the campaign trail have attempted to distance themselves from their party’s disastrous state-level abortion bans. On Sunday night Georgia Gov. Brian Kemp —who... <br /><br /> #midterms #debate #briankemp #democratic #georgia #staceyabrams #campaigntrail
 
@@ -289,7 +254,6 @@ For months now, Republicans on the campaign trail have attempted to distance the
  - [https://biztoc.com/p/utpniuz6?ref=rss&rd=1](https://biztoc.com/p/utpniuz6?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:49:51+00:00
- - tags: None
 
 Ghostwriter generates, completes, or transforms code in 16 languages, similar to GitHub Copilot. <br /><br /> #replit #ghostwriter
 
@@ -297,7 +261,6 @@ Ghostwriter generates, completes, or transforms code in 16 languages, similar to
  - [https://biztoc.com/p/t6j4spps?ref=rss&rd=1](https://biztoc.com/p/t6j4spps?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:49:28+00:00
- - tags: None
 
 While “Anti-Hero” debuted at No. 1, the superstar went 10 for 10 with her 10th album. <br /><br /> #taylorswiftis #antihero #album #superstar #hot100 #no1
 
@@ -305,7 +268,6 @@ While “Anti-Hero” debuted at No. 1, the superstar went 10 for 10 with her 10
  - [https://biztoc.com/p/mukbfg48?ref=rss&rd=1](https://biztoc.com/p/mukbfg48?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:47:06+00:00
- - tags: None
 
 <br /><br /> #warprofiteering #oilcompanies
 
@@ -313,7 +275,6 @@ While “Anti-Hero” debuted at No. 1, the superstar went 10 for 10 with her 10
  - [https://biztoc.com/p/2cyygxs9?ref=rss&rd=1](https://biztoc.com/p/2cyygxs9?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:45:00+00:00
- - tags: None
 
 The best and worst players from the Packers’ Week 8 loss to the Bills, via Pro Football Focus grades. <br /><br /> #pff #packers
 
@@ -321,7 +282,6 @@ The best and worst players from the Packers’ Week 8 loss to the Bills, via Pro
  - [https://biztoc.com/p/hrtyzihz?ref=rss&rd=1](https://biztoc.com/p/hrtyzihz?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:42:00+00:00
- - tags: None
 
 Former President Donald Trump's real estate company cheated tax authorities for 15 years, a prosecutor said on Monday in her opening statement in the Trump Organization's criminal tax fraud trial,... <br /><br /> #donaldtrump #realestatecompany #defenselawyers #chieffinancialofficer #trumporganization #prosecutor
 
@@ -329,7 +289,6 @@ Former President Donald Trump's real estate company cheated tax authorities for 
  - [https://biztoc.com/p/36xd2phk?ref=rss&rd=1](https://biztoc.com/p/36xd2phk?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:38:10+00:00
- - tags: None
 
 Call of Duty: Modern Warfare 2 has been the franchise's biggest launch on PlayStation Network ever, and Phil Spencer says that it will continue to ship on PlayStation "as long as there's a... <br /><br /> #philspencer #franchise #playstation #callofduty
 
@@ -337,7 +296,6 @@ Call of Duty: Modern Warfare 2 has been the franchise's biggest launch on PlaySt
  - [https://biztoc.com/p/smnkd3v7?ref=rss&rd=1](https://biztoc.com/p/smnkd3v7?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:35:33+00:00
- - tags: None
 
 CEO Tim Cook confirmed Apple's product lineup is "set" for the year. <br /><br /> #timcook #apple
 
@@ -345,7 +303,6 @@ CEO Tim Cook confirmed Apple's product lineup is "set" for the year. <br /><br /
  - [https://biztoc.com/p/jyqwmb59?ref=rss&rd=1](https://biztoc.com/p/jyqwmb59?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:35:00+00:00
- - tags: None
 
 The disgraced Yeezy designer’s outburst comes as he continues to face backlash for his recent barrage of anti-Semitic attacks on social media and in interviews. <br /><br /> #soccergame #yeezy #outburst #kanyewest #designer #saint #attacks
 
@@ -353,7 +310,6 @@ The disgraced Yeezy designer’s outburst comes as he continues to face backlash
  - [https://biztoc.com/p/tm6zr9qi?ref=rss&rd=1](https://biztoc.com/p/tm6zr9qi?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:34:30+00:00
- - tags: None
 
 Major League Baseball officials informed the Philadelphia Phillies and Houston Astros that they expect Monday’s World Series game to be postponed. <br /><br /> #majorleaguebaseball #philliesworldseries #philadelphiaphillies #game3 #worldseries #astros
 
@@ -361,7 +317,6 @@ Major League Baseball officials informed the Philadelphia Phillies and Houston A
  - [https://biztoc.com/p/zb3wgwfr?ref=rss&rd=1](https://biztoc.com/p/zb3wgwfr?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:34:00+00:00
- - tags: None
 
 DiCaprio and Hadid were seen hanging out with Gigi’s sister Bella, model Irina Shayk and art dealer Helly Nahmad, who all arrived via a party bus. <br /><br /> #bella #hellynahmad #irinashayk #gigihadid #halloweenbash #leonardodicaprio #artdealer
 
@@ -369,7 +324,6 @@ DiCaprio and Hadid were seen hanging out with Gigi’s sister Bella, model Irina
  - [https://biztoc.com/p/tcwgfinx?ref=rss&rd=1](https://biztoc.com/p/tcwgfinx?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:31:00+00:00
- - tags: None
 
 A man has been arrested and charged with two counts of murder in connection with the deaths of two teenage girls in Delphi, Indiana, in 2017. <br /><br /> #teenagegirls #murders #indiana #murder #delphi
 
@@ -377,7 +331,6 @@ A man has been arrested and charged with two counts of murder in connection with
  - [https://biztoc.com/p/9um8f4x8?ref=rss&rd=1](https://biztoc.com/p/9um8f4x8?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:30:00+00:00
- - tags: None
 
 Kanye West was very clearly agitated on social media over the weekend, but his anger was also apparent at his son's soccer game, getting into a heated exchange with another parent. <br /><br /> #exchange #kanyeweststormsout #soccergame #kanyewest #saint
 
@@ -385,7 +338,6 @@ Kanye West was very clearly agitated on social media over the weekend, but his a
  - [https://biztoc.com/p/7j9d4qth?ref=rss&rd=1](https://biztoc.com/p/7j9d4qth?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:26:05+00:00
- - tags: None
 
 Chirag, Dharmik, and Chetan were on the bridge in Morbi when it collapsed into the river. <br /><br /> #brothers #river #disaster #dharmik #morbi #chirag #bridgecollapse #bridge #chetan
 
@@ -393,7 +345,6 @@ Chirag, Dharmik, and Chetan were on the bridge in Morbi when it collapsed into t
  - [https://biztoc.com/p/zksr4ndu?ref=rss&rd=1](https://biztoc.com/p/zksr4ndu?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:26:00+00:00
- - tags: None
 
 Action Network's Chris Raybon previews the Cincinnati Bengals vs. Cleveland Browns on Monday Night Football in Week 8. <br /><br /> #chrisraybon #cincinnatibengals #clevelandbrowns #mondaynightfootball
 
@@ -401,7 +352,6 @@ Action Network's Chris Raybon previews the Cincinnati Bengals vs. Cleveland Brow
  - [https://biztoc.com/p/i56de7zq?ref=rss&rd=1](https://biztoc.com/p/i56de7zq?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:23:37+00:00
- - tags: None
 
 A familiar face is set to return to one of the league's best defenses, as Buffalo Bills cornerback Tre'Davious White is expected to be activated to the team's 53-man roster this week after more... <br /><br /> #tredaviouswhite #buffalobills
 
@@ -409,7 +359,6 @@ A familiar face is set to return to one of the league's best defenses, as Buffal
  - [https://biztoc.com/p/mdu6pdis?ref=rss&rd=1](https://biztoc.com/p/mdu6pdis?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:14:04+00:00
- - tags: None
 
 "Give me a break, enough is enough," Biden said as he criticized oil companies making record profits as Americans pay more at the pump. <br /><br /> #break #oilcompanies #midterms
 
@@ -417,7 +366,6 @@ A familiar face is set to return to one of the league's best defenses, as Buffal
  - [https://biztoc.com/p/9uab57hx?ref=rss&rd=1](https://biztoc.com/p/9uab57hx?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:06:00+00:00
- - tags: None
 
 As we told you last week, former Warner Bros Global Marketing Chief Sue Kroll was bound to be named Amazon Studios’ new Head of Marketing. On Monday, the company confirmed the news. In her ne… <br /><br /> #suekroll #amazonstudios
 
@@ -425,7 +373,6 @@ As we told you last week, former Warner Bros Global Marketing Chief Sue Kroll wa
  - [https://biztoc.com/p/fxatg6ts?ref=rss&rd=1](https://biztoc.com/p/fxatg6ts?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 21:02:00+00:00
- - tags: None
 
 Russians want to attract thousands of former elite commandos who fear being returned to Taliban-controlled homeland from Iran <br /><br /> #ukraine #iran #homeland #specialforces #taliban #afghan #russians #commandos
 
@@ -433,7 +380,6 @@ Russians want to attract thousands of former elite commandos who fear being retu
  - [https://biztoc.com/p/dtcwvbqf?ref=rss&rd=1](https://biztoc.com/p/dtcwvbqf?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:55:00+00:00
- - tags: None
 
 Reports that Musk will let go 25% of its workforce, or nearly 2,000 employees, come as tech billionaire overhauls company <br /><br /> #workforce #musk #masslayoffs #techbillionaire
 
@@ -441,7 +387,6 @@ Reports that Musk will let go 25% of its workforce, or nearly 2,000 employees, c
  - [https://biztoc.com/p/xrzdn96x?ref=rss&rd=1](https://biztoc.com/p/xrzdn96x?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:53:00+00:00
- - tags: None
 
 Russian strikes on Ukrainian infrastructure on Monday were in part a response to a drone attacks on the Black Sea fleet over the weekend, President Vladimir Putin said, indicating more action... <br /><br /> #russian #droneattacks #strikes #ukraine #attacks #vladimirputin
 
@@ -449,7 +394,6 @@ Russian strikes on Ukrainian infrastructure on Monday were in part a response to
  - [https://biztoc.com/p/iaqjix5t?ref=rss&rd=1](https://biztoc.com/p/iaqjix5t?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:50:58+00:00
- - tags: None
 
 Tracee Ellis Ross celebrated her 50th birthday over the weekend.View Entire Post › <br /><br /> #kimkardashian #birthdaydinner #traceeellisross #halloweencostume
 
@@ -457,7 +401,6 @@ Tracee Ellis Ross celebrated her 50th birthday over the weekend.View Entire Post
  - [https://biztoc.com/p/dmnh5z2z?ref=rss&rd=1](https://biztoc.com/p/dmnh5z2z?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:49:56+00:00
- - tags: None
 
 <br /><br /> #elonmusk #pelosi
 
@@ -465,7 +408,6 @@ Tracee Ellis Ross celebrated her 50th birthday over the weekend.View Entire Post
  - [https://www.edition.com/webview/europe/live-news/russia-ukraine-war-news-10-31-22/index.html](https://www.edition.com/webview/europe/live-news/russia-ukraine-war-news-10-31-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:49:35.216917+00:00
- - tags: None
 
 
 
@@ -473,7 +415,6 @@ Tracee Ellis Ross celebrated her 50th birthday over the weekend.View Entire Post
  - [https://biztoc.com/p/f26zu48f?ref=rss&rd=1](https://biztoc.com/p/f26zu48f?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:47:00+00:00
- - tags: None
 
 U.S. President Joe Biden on Monday called on oil and gas companies to use their record profits to lower costs for Americans and increase production, or pay a higher tax rate, as he battles high... <br /><br /> #gascompanies #warprofiteering #elections
 
@@ -481,7 +422,6 @@ U.S. President Joe Biden on Monday called on oil and gas companies to use their 
  - [https://biztoc.com/p/3ff7tgxj?ref=rss&rd=1](https://biztoc.com/p/3ff7tgxj?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:39:58+00:00
- - tags: None
 
 Military experts say that the apparent use of remote-controlled boats to attack Russian ships over the weekend is likely to demonstrate a new capability for Ukrainian forces. <br /><br /> #forces #ukrainian #seadroneattack #militaryexperts
 
@@ -489,7 +429,6 @@ Military experts say that the apparent use of remote-controlled boats to attack 
  - [https://biztoc.com/p/3xrjgypm?ref=rss&rd=1](https://biztoc.com/p/3xrjgypm?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:37:00+00:00
- - tags: None
 
 Even Von Miller had to ask Aaron Rodgers what was up with the #Packers not passing the ball much against the #Bills: <br /><br /> #vonmiller #packers #aaronrodgers
 
@@ -497,7 +436,6 @@ Even Von Miller had to ask Aaron Rodgers what was up with the #Packers not passi
  - [https://biztoc.com/p/dax2udvw?ref=rss&rd=1](https://biztoc.com/p/dax2udvw?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:30:49+00:00
- - tags: None
 
 In opening statements, Manhattan prosecutors promised the 'inside story' from former Trump Organization money man Allen Weisselberg. <br /><br /> #manhattan #trumporg #prosecutors #allenweisselberg #trumporganization #cfo
 
@@ -505,7 +443,6 @@ In opening statements, Manhattan prosecutors promised the 'inside story' from fo
  - [https://biztoc.com/p/hsy5xf2v?ref=rss&rd=1](https://biztoc.com/p/hsy5xf2v?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:24:30+00:00
- - tags: None
 
 While tragedies such as the deaths of 151 people at a Halloween event in Seoul are rare, anyone attending a big gathering should keep these safety tips in mind, experts say. <br /><br /> #gathering #halloween #staysafeduring #seoul
 
@@ -513,7 +450,6 @@ While tragedies such as the deaths of 151 people at a Halloween event in Seoul a
  - [https://biztoc.com/p/4egw5npk?ref=rss&rd=1](https://biztoc.com/p/4egw5npk?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:18:00+00:00
- - tags: None
 
 Chicago will receive draft compensation and more for parting with the talented LB <br /><br /> #bears #linebacker #baltimore #roquansmith #ravens #allpro
 
@@ -521,7 +457,6 @@ Chicago will receive draft compensation and more for parting with the talented L
  - [https://biztoc.com/p/g84ricma?ref=rss&rd=1](https://biztoc.com/p/g84ricma?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:17:00+00:00
- - tags: None
 
 The man alleged to have attacked Paul Pelosi, husband of House Speaker Nancy Pelosi, has been charged with assault and attempted kidnapping following last week's break-in at the couple's San... <br /><br /> #paulpelosi #speaker #nancypelosi #kidnapping #breakin #attorney
 
@@ -529,7 +464,6 @@ The man alleged to have attacked Paul Pelosi, husband of House Speaker Nancy Pel
  - [https://www.cnn.com/videos/media/2022/10/31/anderson-cooper-gloria-vanderbilt-grief-loss-amanpour-cprog-vpx.cnn](https://www.cnn.com/videos/media/2022/10/31/anderson-cooper-gloria-vanderbilt-grief-loss-amanpour-cprog-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:12:35+00:00
- - tags: None
 
 CNN's Christiane Amanpour speaks with CNN anchor Anderson Cooper about why he started his new podcast "All There Is with Anderson Cooper" and shares a moment of his late mother Gloria Vanderbilt speaking about grief and loss on CNN in 1996.
 
@@ -537,7 +471,6 @@ CNN's Christiane Amanpour speaks with CNN anchor Anderson Cooper about why he st
  - [https://biztoc.com/p/uw2mb2ed?ref=rss&rd=1](https://biztoc.com/p/uw2mb2ed?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:09:00+00:00
- - tags: None
 
 Lee Ji Han, a Korean actor and K-pop singer, was among the more than 150 victims who died during a crowd surge at a Halloween celebration in Seoul over the weekend, his management announced. <br /><br /> #seoul #crowdsurge #korean #management #leejihan #kpopsinger #actor #victims #celebration #halloween
 
@@ -545,7 +478,6 @@ Lee Ji Han, a Korean actor and K-pop singer, was among the more than 150 victims
  - [https://biztoc.com/p/cmfxmw8u?ref=rss&rd=1](https://biztoc.com/p/cmfxmw8u?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 20:04:00+00:00
- - tags: None
 
 Marvel Studios has its Wonder Man. Yahya Abdul-Mateen II is set to join the Disney+ series “Wonder Man” as Simon Williams, who transforms into the titular superhero. It will be Abdul-Ma… <br /><br /> #marvel #wonderman #yahyaabdulmateenii #superhero #marvelstudios #abdulma
 
@@ -553,7 +485,6 @@ Marvel Studios has its Wonder Man. Yahya Abdul-Mateen II is set to join the Disn
  - [https://biztoc.com/p/nsvhdxza?ref=rss&rd=1](https://biztoc.com/p/nsvhdxza?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:58:18+00:00
- - tags: None
 
 Peacock has given a straight-to-series order to a “Friday the 13th” prequel currently titled “Crystal Lake,” Variety has learned. Exact plot details are being kept under wra… <br /><br /> #bryanfuller #variety #peacock #crystallake #prequelseries
 
@@ -561,7 +492,6 @@ Peacock has given a straight-to-series order to a “Friday the 13th” prequel 
  - [https://www.cnn.com/2022/10/31/us/delphi-teen-killings-indiana-state-police-update/index.html](https://www.cnn.com/2022/10/31/us/delphi-teen-killings-indiana-state-police-update/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:46:09+00:00
- - tags: None
 
 A five-and-a-half-year nationwide search for a suspect in the killings of two Indiana teens ended with the arrest of a local man, authorities said Monday.
 
@@ -569,7 +499,6 @@ A five-and-a-half-year nationwide search for a suspect in the killings of two In
  - [https://biztoc.com/p/7qkwa4um?ref=rss&rd=1](https://biztoc.com/p/7qkwa4um?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:40:31+00:00
- - tags: None
 
 <br /><br /> #norway #forces
 
@@ -577,7 +506,6 @@ A five-and-a-half-year nationwide search for a suspect in the killings of two In
  - [https://biztoc.com/p/gi2umhfj?ref=rss&rd=1](https://biztoc.com/p/gi2umhfj?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:34:00+00:00
- - tags: None
 
 Chinese President Xi Jinping told the visiting leader of Vietnam's ruling Communist Party on Monday that both countries and parties should "never let anyone interfere" with their progress, state... <br /><br /> #ceremony #vietnam #xijinping #cctv #communistparty #vietnamese
 
@@ -585,7 +513,6 @@ Chinese President Xi Jinping told the visiting leader of Vietnam's ruling Commun
  - [https://biztoc.com/p/846ia3me?ref=rss&rd=1](https://biztoc.com/p/846ia3me?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:33:45+00:00
- - tags: None
 
 Roquan Smith was unhappy in the offseason and asked for a trade. Eventually he came back to play for the Chicago Bears, and has had a productive first half of the season.
     He played well enough... <br /><br /> #baltimoreravens #linebacker #offseason #chicagobears #contender #roquansmithroquansmith
@@ -594,7 +521,6 @@ Roquan Smith was unhappy in the offseason and asked for a trade. Eventually he c
  - [https://biztoc.com/p/3bdy929u?ref=rss&rd=1](https://biztoc.com/p/3bdy929u?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:33:00+00:00
- - tags: None
 
 Linebacker Roquan Smith was emotional about the Bears’ decision to trade Robert Quinn last week and he’s now on his way to a new team.According to multiple reports, the Ravens have agreed to... <br /><br /> #bears #ravens #robertquinn
 
@@ -602,7 +528,6 @@ Linebacker Roquan Smith was emotional about the Bears’ decision to trade Rober
  - [https://biztoc.com/p/9nuuztme?ref=rss&rd=1](https://biztoc.com/p/9nuuztme?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:31:07+00:00
- - tags: None
 
 <br /><br /> #nickfriedell #kyrieirving
 
@@ -610,7 +535,6 @@ Linebacker Roquan Smith was emotional about the Bears’ decision to trade Rober
  - [https://biztoc.com/p/h4jb5hrs?ref=rss&rd=1](https://biztoc.com/p/h4jb5hrs?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:30:36+00:00
- - tags: None
 
 Graydon Young of Florida choked back sobs as he testified against his former allies in their seditious conspiracy trial. <br /><br /> #allies #oathkeeper #florida #graydonyoung #breach #stand
 
@@ -618,7 +542,6 @@ Graydon Young of Florida choked back sobs as he testified against his former all
  - [https://www.cnn.com/2022/10/31/politics/paul-pelosi-suspect-charged/index.html](https://www.cnn.com/2022/10/31/politics/paul-pelosi-suspect-charged/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:26:00+00:00
- - tags: None
 
 The man alleged to have attacked Paul Pelosi, the husband of House Speaker Nancy Pelosi, was charged on Monday with federal charges of assault and attempted kidnapping.
 
@@ -626,7 +549,6 @@ The man alleged to have attacked Paul Pelosi, the husband of House Speaker Nancy
  - [https://www.cnn.com/videos/world/2022/10/31/bumblebees-playing-wooden-balls-study-cprog-orig-jc.cnn](https://www.cnn.com/videos/world/2022/10/31/bumblebees-playing-wooden-balls-study-cprog-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:21:56+00:00
- - tags: None
 
 A team of UK researchers have found that bumblebees can interact with inanimate objects as a form of play despite having no apparent incentive to do so.
 
@@ -634,7 +556,6 @@ A team of UK researchers have found that bumblebees can interact with inanimate 
  - [https://biztoc.com/p/j6u7w7jh?ref=rss&rd=1](https://biztoc.com/p/j6u7w7jh?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:18:01+00:00
- - tags: None
 
 D.L. Hughley says Kanye West would be in a conservatorship for his words and actions if he was a woman. <br /><br /> #kanyewest
 
@@ -642,7 +563,6 @@ D.L. Hughley says Kanye West would be in a conservatorship for his words and act
  - [https://biztoc.com/p/fedqmzse?ref=rss&rd=1](https://biztoc.com/p/fedqmzse?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:13:47+00:00
- - tags: None
 
 Michigan football coach Jim Harbaugh said Monday that “an apology will not get the job done” and that he expects criminal charges to be filed following Saturday’s postgame altercations with... <br /><br /> #msu #wolverines #jimharbaugh #altercations #michiganstate #michigan #tunnelaltercation
 
@@ -650,7 +570,6 @@ Michigan football coach Jim Harbaugh said Monday that “an apology will not get
  - [https://biztoc.com/p/t2pqbfi8?ref=rss&rd=1](https://biztoc.com/p/t2pqbfi8?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:05:23+00:00
- - tags: None
 
 Powerball winners who choose to take the lump-sum payment could see a massive tax hit on the second-highest jackpot, which climbed to $1 billion this week. <br /><br /> #powerballwinners #bhere
 
@@ -658,7 +577,6 @@ Powerball winners who choose to take the lump-sum payment could see a massive ta
  - [https://biztoc.com/p/jrc7tga7?ref=rss&rd=1](https://biztoc.com/p/jrc7tga7?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:05:06+00:00
- - tags: None
 
 The justices heard two cases concerning admissions programs that take into account race to foster educational diversity. The conservative supermajority appeared ready to reconsider decades of... <br /><br /> #harvard #unc #accountrace #justices
 
@@ -666,7 +584,6 @@ The justices heard two cases concerning admissions programs that take into accou
  - [https://biztoc.com/p/43rm75g3?ref=rss&rd=1](https://biztoc.com/p/43rm75g3?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:02:00+00:00
- - tags: None
 
 Analyzing Monday’s Cincinnati Bengals at Cleveland Browns odds and lines, with expert NFL picks, predictions and best bets. <br /><br /> #nfl #cincinnatibengals #clevelandbrowns
 
@@ -674,7 +591,6 @@ Analyzing Monday’s Cincinnati Bengals at Cleveland Browns odds and lines, with
  - [https://biztoc.com/p/78uz8acb?ref=rss&rd=1](https://biztoc.com/p/78uz8acb?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 19:00:00+00:00
- - tags: None
 
 EXCLUSIVE: Coming off of some of the best reviews of his career for his work in Broadway’s revival of the Pulitzer Prize-winning Suzan Lori Parks play Topdog/Underdog, Yahya Abdul-Mateen II i… <br /><br /> #revival #broadway #topdogunderdog #reviews #wonderman #suzanloriparks
 
@@ -682,7 +598,6 @@ EXCLUSIVE: Coming off of some of the best reviews of his career for his work in 
  - [https://www.cnn.com/videos/tv/2022/10/31/jorge-castaneda-amanpour-brazil-election-lula-bolsonaro-democracy.cnn](https://www.cnn.com/videos/tv/2022/10/31/jorge-castaneda-amanpour-brazil-election-lula-bolsonaro-democracy.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:50:03+00:00
- - tags: None
 
 Former Minister for Foreign Affairs Jorge Castañeda tells Amanpour the return of Luiz Inácio "Lula" da Silva marks the victory of democracy over autocracy in Brazil, but only "barely."
 
@@ -690,7 +605,6 @@ Former Minister for Foreign Affairs Jorge Castañeda tells Amanpour the return o
  - [https://biztoc.com/p/tv62q3cf?ref=rss&rd=1](https://biztoc.com/p/tv62q3cf?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:42:32+00:00
- - tags: None
 
 <br /><br /> #supremecourt #donaldtrump
 
@@ -698,7 +612,6 @@ Former Minister for Foreign Affairs Jorge Castañeda tells Amanpour the return o
  - [https://biztoc.com/p/4ksrtjzd?ref=rss&rd=1](https://biztoc.com/p/4ksrtjzd?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:35:48+00:00
- - tags: None
 
 Houston Astros pitcher Framber Valdez fired back at accusations he may have been cheating during his standout performance in Game 2 of the World Series. <br /><br /> #pitcher #substances #performance #houstonastros #worldseries #frambervaldez
 
@@ -706,7 +619,6 @@ Houston Astros pitcher Framber Valdez fired back at accusations he may have been
  - [https://biztoc.com/p/64js9a6e?ref=rss&rd=1](https://biztoc.com/p/64js9a6e?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:29:11+00:00
- - tags: None
 
 The home secretary faces Labour claims she is unfit for office as she defends asylum policies. <br /><br /> #suellabraverman #labour #homesecretary
 
@@ -714,7 +626,6 @@ The home secretary faces Labour claims she is unfit for office as she defends as
  - [https://biztoc.com/p/55t93uhu?ref=rss&rd=1](https://biztoc.com/p/55t93uhu?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:28:00+00:00
- - tags: None
 
 Russia said on Monday it was "unacceptable" for shipping to pass through a Black Sea security corridor after it suspended its participation in a Turkish- and U.N.-brokered deal that had allowed... <br /><br /> #ukraine #blacksea #turkish #securitycorridor #corridor
 
@@ -722,7 +633,6 @@ Russia said on Monday it was "unacceptable" for shipping to pass through a Black
  - [https://biztoc.com/p/fn2e3tss?ref=rss&rd=1](https://biztoc.com/p/fn2e3tss?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:25:32+00:00
- - tags: None
 
 Auburn has fired football coach Bryan Harsin after less than two seasons, the school announced Monday.
 
@@ -730,7 +640,6 @@ Auburn has fired football coach Bryan Harsin after less than two seasons, the sc
  - [https://biztoc.com/p/im3vpxff?ref=rss&rd=1](https://biztoc.com/p/im3vpxff?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:22:47+00:00
- - tags: None
 
 The 42-year-old suspect, David DePape, told investigators that he wanted to hold Speaker Nancy Pelosi, D-Calif., hostage and break her kneecaps if she "lied." <br /><br /> #justicedepartment #kidnapping #nancypelosi #investigators #attack #daviddepape #paulpelosi
 
@@ -738,7 +647,6 @@ The 42-year-old suspect, David DePape, told investigators that he wanted to hold
  - [https://biztoc.com/p/4jkywuem?ref=rss&rd=1](https://biztoc.com/p/4jkywuem?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:21:28+00:00
- - tags: None
 
 Paul Pelosi, the husband of House Speaker Nancy Pelosi, was brutally attacked by David DePape in his San Francisco home, police say. <br /><br /> #nancypelosi #attacker #depape #daviddepape #paulpelosi
 
@@ -746,7 +654,6 @@ Paul Pelosi, the husband of House Speaker Nancy Pelosi, was brutally attacked by
  - [https://biztoc.com/p/g3yqhwn4?ref=rss&rd=1](https://biztoc.com/p/g3yqhwn4?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:20:35+00:00
- - tags: None
 
 Wheat prices predicted to soar risking global food crisis after Moscow says it is ending arrangement to allow exports over drone attack <br /><br /> #ukrainian #nato #moscow
 
@@ -754,7 +661,6 @@ Wheat prices predicted to soar risking global food crisis after Moscow says it i
  - [https://biztoc.com/p/5c9prz3g?ref=rss&rd=1](https://biztoc.com/p/5c9prz3g?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:20:18+00:00
- - tags: None
 
 The request would further delay a long-running request by the House Ways and Means Committee as the midterm election looms. <br /><br /> #midtermelection #trumpaskssupremecourt
 
@@ -762,7 +668,6 @@ The request would further delay a long-running request by the House Ways and Mea
  - [https://biztoc.com/p/vicvd2u2?ref=rss&rd=1](https://biztoc.com/p/vicvd2u2?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:20:00+00:00
- - tags: None
 
 The Tigers' job is opening for the second time in less than three seasons <br /><br /> #coachingcandidates #hughfreeze #auburn #seasons #lanekiffin #bryanharsinthetigers
 
@@ -770,7 +675,6 @@ The Tigers' job is opening for the second time in less than three seasons <br />
  - [https://www.cnn.com/2022/10/31/europe/russian-mobilization-suspended-intl/index.html](https://www.cnn.com/2022/10/31/europe/russian-mobilization-suspended-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:19:45+00:00
- - tags: None
 
 Russia has now announced a stop to its "partial mobilization" of citizens to fight in the country's war on Ukraine.
 
@@ -778,7 +682,6 @@ Russia has now announced a stop to its "partial mobilization" of citizens to fig
  - [https://biztoc.com/p/x8qwzp8a?ref=rss&rd=1](https://biztoc.com/p/x8qwzp8a?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:13:00+00:00
- - tags: None
 
 If Musk’s tweet doesn’t raise bright red warning signs all over the world about his judgment and character, I don’t know what will <br /><br /> #paulpelosi #character #elonmusk
 
@@ -786,7 +689,6 @@ If Musk’s tweet doesn’t raise bright red warning signs all over the world ab
  - [https://biztoc.com/p/j4vjeyp7?ref=rss&rd=1](https://biztoc.com/p/j4vjeyp7?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 18:01:21+00:00
- - tags: None
 
 A California man was charged today with assault and attempted kidnapping in violation of federal law in connection with the break-in at the residence of Nancy and Paul Pelosi in San Francisco on... <br /><br /> #breakin #assault #residence #nancy #paulpelosi #kidnapping
 
@@ -794,7 +696,6 @@ A California man was charged today with assault and attempted kidnapping in viol
  - [https://biztoc.com/p/qn6x9ht6?ref=rss&rd=1](https://biztoc.com/p/qn6x9ht6?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:57:55+00:00
- - tags: None
 
 <br /><br /> #taylorswift
 
@@ -802,7 +703,6 @@ A California man was charged today with assault and attempted kidnapping in viol
  - [https://biztoc.com/p/7pf4u2rs?ref=rss&rd=1](https://biztoc.com/p/7pf4u2rs?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:57:25+00:00
- - tags: None
 
 <br /><br /> #leejihan #dead #kpopsinger
 
@@ -810,7 +710,6 @@ A California man was charged today with assault and attempted kidnapping in viol
  - [https://biztoc.com/p/vwxmy4qm?ref=rss&rd=1](https://biztoc.com/p/vwxmy4qm?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:57:00+00:00
- - tags: None
 
 MLB hopes to make a call on Monday night's game by 6:30 p.m. ET <br /><br /> #astros #etmlb #phillies #worldseries #citizensbankparkmlb
 
@@ -818,7 +717,6 @@ MLB hopes to make a call on Monday night's game by 6:30 p.m. ET <br /><br /> #as
  - [https://biztoc.com/p/8zgpky76?ref=rss&rd=1](https://biztoc.com/p/8zgpky76?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:55:00+00:00
- - tags: None
 
 The four people hurt Monday in an apparent gas leak at Los Angeles International Airport were all airport employees, according to an update provided by the Los Angeles Fire Department. <br /><br /> #airportworkers #gasleak #airportemployees
 
@@ -826,7 +724,6 @@ The four people hurt Monday in an apparent gas leak at Los Angeles International
  - [https://biztoc.com/p/4kj9kt6e?ref=rss&rd=1](https://biztoc.com/p/4kj9kt6e?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:37:32+00:00
- - tags: None
 
 Russia-Ukraine war updates: 
 
@@ -838,7 +735,6 @@ Ukraine targeted by 'more than 50' missiles from Russia
  - [https://biztoc.com/p/fjgaj6g4?ref=rss&rd=1](https://biztoc.com/p/fjgaj6g4?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:34:36+00:00
- - tags: None
 
 Major League Baseball says it is keeping a close eye on the forecast ahead of Monday night's Phillies-Astros World Series Game 3 in Philadelphia. <br /><br /> #astros #phillies #citizensbankpark #worldseries #game3 #philadelphia #majorleaguebaseball #septa
 
@@ -846,7 +742,6 @@ Major League Baseball says it is keeping a close eye on the forecast ahead of Mo
  - [https://www.cnn.com/2022/10/31/world/nasa-smiling-sun-scn/index.html](https://www.cnn.com/2022/10/31/world/nasa-smiling-sun-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:32:24+00:00
- - tags: None
 
 A NASA observatory captured what appeared to be a jack-o'-lantern-esque smile on the sun's surface, showing what are actually splotches on the sun's surface that are cooler than the surrounding areas.
 
@@ -854,7 +749,6 @@ A NASA observatory captured what appeared to be a jack-o'-lantern-esque smile on
  - [https://biztoc.com/p/6cdpvhtf?ref=rss&rd=1](https://biztoc.com/p/6cdpvhtf?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:30:57+00:00
- - tags: None
 
 Fans of actress Julia Roberts resurfaced a surprising fact about her - that Martin Luther King Jr. and Coretta Scott King paid the hospital bill for her birth. The actress explains how her parents... <br /><br /> #juliaroberts #birth #hollywood #martinlutherkingjr #corettascottking
 
@@ -862,7 +756,6 @@ Fans of actress Julia Roberts resurfaced a surprising fact about her - that Mart
  - [https://www.cnn.com/videos/media/2022/10/31/julia-roberts-martin-luther-king-jr-cprog-orig-ht.cnn-business](https://www.cnn.com/videos/media/2022/10/31/julia-roberts-martin-luther-king-jr-cprog-orig-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:30:57+00:00
- - tags: None
 
 Fans of actress Julia Roberts resurfaced a surprising fact about her - that Martin Luther King Jr. and Coretta Scott King paid the hospital bill for her birth. The actress explains how her parents started a friendship with the civil right leader and his family in the 1960s.
 
@@ -870,7 +763,6 @@ Fans of actress Julia Roberts resurfaced a surprising fact about her - that Mart
  - [https://biztoc.com/p/88ucsshn?ref=rss&rd=1](https://biztoc.com/p/88ucsshn?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:30:32+00:00
- - tags: None
 
 Auburn football coaching search is underway after firing Bryan Harsin. Here are 13 candidates who make sense, including Deion Sanders and Lane Kiffin. <br /><br /> #footballcoachingsearch #auburn #deionsanders #bryanharsin #candidates #lanekiffin
 
@@ -878,7 +770,6 @@ Auburn football coaching search is underway after firing Bryan Harsin. Here are 
  - [https://biztoc.com/p/95fu7ya7?ref=rss&rd=1](https://biztoc.com/p/95fu7ya7?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:20:43+00:00
- - tags: None
 
 A majority of the justices sounded inclined to further restrict the use of race in college admissions during arguments in the first of two high profile cases at the Supreme Court. <br /><br /> #majority #supremecourt #justices #arguments
 
@@ -886,7 +777,6 @@ A majority of the justices sounded inclined to further restrict the use of race 
  - [https://biztoc.com/p/pssmckcy?ref=rss&rd=1](https://biztoc.com/p/pssmckcy?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:19:45+00:00
- - tags: None
 
 <br /><br /> #attack #paulpelosi
 
@@ -894,7 +784,6 @@ A majority of the justices sounded inclined to further restrict the use of race 
  - [https://www.cnn.com/2022/10/31/politics/trump-supreme-court-appeal/index.html](https://www.cnn.com/2022/10/31/politics/trump-supreme-court-appeal/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:10:27+00:00
- - tags: None
 
 Former President Donald Trump has asked the Supreme Court to put on hold the release of his tax returns by the Internal Revenue Service to a Democratic-led House committee.
 
@@ -902,7 +791,6 @@ Former President Donald Trump has asked the Supreme Court to put on hold the rel
  - [https://biztoc.com/p/9fv9qqp2?ref=rss&rd=1](https://biztoc.com/p/9fv9qqp2?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:10:22+00:00
- - tags: None
 
 “This case is about greed and cheating,” the lead prosecutor, Susan Hoffinger, said, as she accused the former president’s company of taking part in a scheme to avoid paying taxes. <br /><br /> #manhattan #susanhoffinger
 
@@ -910,7 +798,6 @@ Former President Donald Trump has asked the Supreme Court to put on hold the rel
  - [https://biztoc.com/p/g9drsadx?ref=rss&rd=1](https://biztoc.com/p/g9drsadx?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:10:17+00:00
- - tags: None
 
 Nearly 50 years after hikers found the body of a deceased woman in the dunes of Provincetown the FBI announced a 'significant development.' <br /><br /> #provincetown #fbi #dunes #hikers #ladyofthedunes #ruthmarieterry
 
@@ -918,7 +805,6 @@ Nearly 50 years after hikers found the body of a deceased woman in the dunes of 
  - [https://biztoc.com/p/vdbzxpyj?ref=rss&rd=1](https://biztoc.com/p/vdbzxpyj?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:05:00+00:00
- - tags: None
 
 Russia's decision to pull out of an agreement that guaranteed safe passage for ships carrying vital grain exports from Ukraine has sparked "grave concerns" over global food supply at a time when... <br /><br /> #withdrawal #ukraine #hungercrisis
 
@@ -926,7 +812,6 @@ Russia's decision to pull out of an agreement that guaranteed safe passage for s
  - [https://biztoc.com/p/5vf3gs35?ref=rss&rd=1](https://biztoc.com/p/5vf3gs35?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:04:31+00:00
- - tags: None
 
 Michigan coach Jim Harbaugh said Monday that players Ja’Den McBurrows and Gemon Green suffered injuries during a post-game tunnel incident following last Saturday night’s game against Michigan State. <br /><br /> #msu #gemongreen #coach #postgameincident #michiganstate #michigan #jimharbaugh #tunnelincident #jadenmcburrows
 
@@ -934,7 +819,6 @@ Michigan coach Jim Harbaugh said Monday that players Ja’Den McBurrows and Gemo
  - [https://biztoc.com/p/ii9si3c2?ref=rss&rd=1](https://biztoc.com/p/ii9si3c2?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:04:13+00:00
- - tags: None
 
 Swift passes Drake, who claimed nine of the top 10 in September 2021. <br /><br /> #drake #swift #taylorswiftmakeshistory #artist
 
@@ -942,7 +826,6 @@ Swift passes Drake, who claimed nine of the top 10 in September 2021. <br /><br 
  - [https://biztoc.com/p/rgey49rc?ref=rss&rd=1](https://biztoc.com/p/rgey49rc?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:04:00+00:00
- - tags: None
 
 The stock market is laying low in Monday's session, awaiting the Fed's move. <br /><br /> #amd
 
@@ -950,7 +833,6 @@ The stock market is laying low in Monday's session, awaiting the Fed's move. <br
  - [https://biztoc.com/p/swxiwi6d?ref=rss&rd=1](https://biztoc.com/p/swxiwi6d?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:03:45+00:00
- - tags: None
 
 A massive barrage of Russian strikes has hit critical infrastructure in Kyiv, Kharkiv and other cities in Ukraine <br /><br /> #strikes #ukraine #russian #kyiv #kharkiv
 
@@ -958,7 +840,6 @@ A massive barrage of Russian strikes has hit critical infrastructure in Kyiv, Kh
  - [https://www.cnn.com/2022/10/31/us/microplastic-credit-card-per-week/index.html](https://www.cnn.com/2022/10/31/us/microplastic-credit-card-per-week/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:00:14+00:00
- - tags: None
 
 Here's something that will haunt you: You likely consume the rough equivalent of a credit card's worth of plastic every single week.
 
@@ -966,7 +847,6 @@ Here's something that will haunt you: You likely consume the rough equivalent of
  - [https://biztoc.com/p/9uyepfmz?ref=rss&rd=1](https://biztoc.com/p/9uyepfmz?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 17:00:00+00:00
- - tags: None
 
 Harsin lost 10 of his last 13 games to end his time on The Plains <br /><br /> #auburn #fires #theplainsharsin #theplains #bryanharsin
 
@@ -974,7 +854,6 @@ Harsin lost 10 of his last 13 games to end his time on The Plains <br /><br /> #
  - [https://biztoc.com/p/e7czv64g?ref=rss&rd=1](https://biztoc.com/p/e7czv64g?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:59:10+00:00
- - tags: None
 
 The House Ways and Means Committee for years has tried to get income tax returns of former President Donald Trump. <br /><br /> #supremecourt #donaldtrump
 
@@ -982,7 +861,6 @@ The House Ways and Means Committee for years has tried to get income tax returns
  - [https://biztoc.com/p/zqruxefi?ref=rss&rd=1](https://biztoc.com/p/zqruxefi?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:57:28+00:00
- - tags: None
 
 Plus: Looks from Kendall Jenner, Kerry Washington, Paris Hilton and more <br /><br /> #mystique #lizzo #kerrywashington #margesimpson #parishilton #kimkardashian #kendalljenner #celebrity
 
@@ -990,7 +868,6 @@ Plus: Looks from Kendall Jenner, Kerry Washington, Paris Hilton and more <br /><
  - [https://biztoc.com/p/psnhx593?ref=rss&rd=1](https://biztoc.com/p/psnhx593?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:56:59+00:00
- - tags: None
 
 Michigan State has suspended four football players, Tank Brown, Khary Crump, Angelo Grose and Zion Young, for their roles in a postgame fight at Michigan on Saturday. <br /><br /> #tankbrown #zionyoung #zionyoungmichiganstate #michiganstate #michigan #kharycrump #fight #angelogrose #footballplayers
 
@@ -998,7 +875,6 @@ Michigan State has suspended four football players, Tank Brown, Khary Crump, Ang
  - [https://biztoc.com/p/cac73g72?ref=rss&rd=1](https://biztoc.com/p/cac73g72?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:55:04+00:00
- - tags: None
 
 At least 141 people died after a packed bridge over a river in Gujarat state gave way. <br /><br /> #disaster #morbi #gujarat #bridge #river #bridgecollapse
 
@@ -1006,7 +882,6 @@ At least 141 people died after a packed bridge over a river in Gujarat state gav
  - [https://biztoc.com/p/4z7facmr?ref=rss&rd=1](https://biztoc.com/p/4z7facmr?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:53:02+00:00
- - tags: None
 
 <br /><br /> #ukraine #blacksea #collapse
 
@@ -1014,7 +889,6 @@ At least 141 people died after a packed bridge over a river in Gujarat state gav
  - [https://biztoc.com/p/gc9pdn99?ref=rss&rd=1](https://biztoc.com/p/gc9pdn99?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:52:30+00:00
- - tags: None
 
 Law enforcement officials on Monday identified the victim as Ruth Marie Terry, a Tennessee woman who was 37 at the time of her death. The gruesome and mysterious 1974 case has haunted Cape Cod... <br /><br /> #investigators #victim #provincetown #fbi #capecod #lawenforcementofficials #tennessee #ladyofthedunes #ruthmarieterry
 
@@ -1022,7 +896,6 @@ Law enforcement officials on Monday identified the victim as Ruth Marie Terry, a
  - [https://biztoc.com/p/shuem7d9?ref=rss&rd=1](https://biztoc.com/p/shuem7d9?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:44:50+00:00
- - tags: None
 
 The posts by Donald Trump Jr. and Rep. Clay Higgins, among others, come as GOP leaders try to strike a different tone on the attack. <br /><br /> #clayhiggins #conservatives #donaldtrumpjr #attack #assault #paulpelosi
 
@@ -1030,7 +903,6 @@ The posts by Donald Trump Jr. and Rep. Clay Higgins, among others, come as GOP l
  - [https://www.cnn.com/2022/10/31/world/potentially-hazardous-near-earth-asteroid-scn/index.html](https://www.cnn.com/2022/10/31/world/potentially-hazardous-near-earth-asteroid-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:41:31+00:00
- - tags: None
 
 Astronomers have spotted three near-Earth asteroids that were lurking undetected within the glare of the sun. One of the asteroids is the largest potentially hazardous object to Earth to be discovered in the last eight years.
 
@@ -1038,7 +910,6 @@ Astronomers have spotted three near-Earth asteroids that were lurking undetected
  - [https://biztoc.com/p/2tnne9sf?ref=rss&rd=1](https://biztoc.com/p/2tnne9sf?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:41:00+00:00
- - tags: None
 
 The board that oversaw Twitter during its sale to Elon Musk has been dissolved, with the Tesla chief now serving as the social-media company’s sole director. <br /><br /> #elonmusk #elonmuskousts #twitterboard #director #tesla
 
@@ -1046,7 +917,6 @@ The board that oversaw Twitter during its sale to Elon Musk has been dissolved, 
  - [https://www.cnn.com/2022/10/31/tech/instagram-down/index.html](https://www.cnn.com/2022/10/31/tech/instagram-down/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:38:44+00:00
- - tags: None
 
 Thousands of Instagram users reported issues with accessing the platform on Monday morning.
 
@@ -1054,7 +924,6 @@ Thousands of Instagram users reported issues with accessing the platform on Mond
  - [https://www.cnn.com/2022/10/31/us/lax-airport-gas-leak/index.html](https://www.cnn.com/2022/10/31/us/lax-airport-gas-leak/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:37:10+00:00
- - tags: None
 
 Four people suddenly fell ill at Los Angeles International Airport on Monday from "apparent fume exposure," according to an incident report from the Los Angeles Fire Department.
 
@@ -1062,7 +931,6 @@ Four people suddenly fell ill at Los Angeles International Airport on Monday fro
  - [https://biztoc.com/p/tgqmnux7?ref=rss&rd=1](https://biztoc.com/p/tgqmnux7?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:35:02+00:00
- - tags: None
 
 <br /><br /> #ukraine
 
@@ -1070,7 +938,6 @@ Four people suddenly fell ill at Los Angeles International Airport on Monday fro
  - [https://biztoc.com/p/cvi4ybgr?ref=rss&rd=1](https://biztoc.com/p/cvi4ybgr?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:34:00+00:00
- - tags: None
 
 Ryan Murphy’s “Glee” was known for its pop sensibility and optimistic tone, but that’s not exactly what the original script was like for the Emmy-winning Fox musical series.… <br /><br /> #script #glee #nc17versionofshowchoir #ryanmurphy #crystalmethaddict
 
@@ -1078,7 +945,6 @@ Ryan Murphy’s “Glee” was known for its pop sensibility and optimistic tone
  - [https://www.cnn.com/2022/10/31/opinions/brazil-election-bolsonaro-lula-trump-division-wierson/index.html](https://www.cnn.com/2022/10/31/opinions/brazil-election-bolsonaro-lula-trump-division-wierson/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:33:02+00:00
- - tags: None
 
 This Sunday more than 120 million Brazilians went to the polls to vote in a run-off presidential election in which former President Luiz Inácio 'Lula' da Silva posted a stunning political comeback.
 
@@ -1086,7 +952,6 @@ This Sunday more than 120 million Brazilians went to the polls to vote in a run-
  - [https://biztoc.com/p/j789g3ig?ref=rss&rd=1](https://biztoc.com/p/j789g3ig?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:32:20+00:00
- - tags: None
 
 Harry Dunn took the stand in court to recount his faceoff with members of the far-right Oath Keepers during the siege on Congress. <br /><br /> #policeofficer #siege #capitol #encounter #stand #pelosi #harrydunn #oathkeepers
 
@@ -1094,7 +959,6 @@ Harry Dunn took the stand in court to recount his faceoff with members of the fa
  - [https://biztoc.com/p/cqh9jhsd?ref=rss&rd=1](https://biztoc.com/p/cqh9jhsd?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:30:31+00:00
- - tags: None
 
 It was quite the offensive performance from San Francisco Sunday <br /><br /> #christianmccaffrey
 
@@ -1102,7 +966,6 @@ It was quite the offensive performance from San Francisco Sunday <br /><br /> #c
  - [https://biztoc.com/p/qzqe7vut?ref=rss&rd=1](https://biztoc.com/p/qzqe7vut?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:27:28+00:00
- - tags: None
 
 Stars were out this weekend to celebrate Halloween, and while many rocked amazing ensembles, some stars stirred up trouble with their costume choices. <br /><br /> #stars #halloween #kendalljenner
 
@@ -1110,7 +973,6 @@ Stars were out this weekend to celebrate Halloween, and while many rocked amazin
  - [https://biztoc.com/p/ewkd5uq5?ref=rss&rd=1](https://biztoc.com/p/ewkd5uq5?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:26:00+00:00
- - tags: None
 
 Self-driving trucking company’s leadership  faces federal investigations into whether it improperly financed and transferred technology to a Chinese startup. <br /><br /> #tusimplefires #truckingcompany #xiaodihouamidprobeself #investigations
 
@@ -1118,7 +980,6 @@ Self-driving trucking company’s leadership  faces federal investigations into 
  - [https://biztoc.com/p/v47ju3t5?ref=rss&rd=1](https://biztoc.com/p/v47ju3t5?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:22:00+00:00
- - tags: None
 
 Lula da Silva will return to power at a time when the economy is expected to grow less than 1% and trading partner China expects its worst slowdown in years. <br /><br /> #slowdown #presidentelect #luladasilva #brazil
 
@@ -1126,7 +987,6 @@ Lula da Silva will return to power at a time when the economy is expected to gro
  - [https://biztoc.com/p/wdd2wgvm?ref=rss&rd=1](https://biztoc.com/p/wdd2wgvm?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:21:11+00:00
- - tags: None
 
 Big Oil stocks pull back from earlier gains following an Associated Press report Monday that President Biden will raise the possibility of imposing a windfall profits tax on... <br /><br /> #bigoil
 
@@ -1134,7 +994,6 @@ Big Oil stocks pull back from earlier gains following an Associated Press report
  - [https://biztoc.com/p/gg5u8try?ref=rss&rd=1](https://biztoc.com/p/gg5u8try?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:17:04+00:00
- - tags: None
 
 God Of War Ragnarok Producer Reacts To Game Leaking Early: "Completely F**king Stupid"
     "This is not at all how any of us at  wanted things to go."
@@ -1144,7 +1003,6 @@ God Of War Ragnarok Producer Reacts To Game Leaking Early: "Completely F**king S
  - [https://biztoc.com/p/5sugah6g?ref=rss&rd=1](https://biztoc.com/p/5sugah6g?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:16:47+00:00
- - tags: None
 
 Jim Harbaugh expects the four suspended Michigan State football players involved in roughing up two members of Michigan's team to be punished further. <br /><br /> #michiganstate #footballplayers #jimharbaugh
 
@@ -1152,7 +1010,6 @@ Jim Harbaugh expects the four suspended Michigan State football players involved
  - [https://biztoc.com/p/imfxk3ek?ref=rss&rd=1](https://biztoc.com/p/imfxk3ek?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:16:29+00:00
- - tags: None
 
 Some users said they could not access the social media app and had been notified that their accounts were suspended. <br /><br /> #instagram
 
@@ -1160,7 +1017,6 @@ Some users said they could not access the social media app and had been notified
  - [https://biztoc.com/p/ndrc6gar?ref=rss&rd=1](https://biztoc.com/p/ndrc6gar?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:14:31+00:00
- - tags: None
 
 An attorney for the Trump company told jurors that former CFO Allen Weisselberg was the bad guy in the case, not the Trump Organization. Former President Donald Trump and his three oldest children... <br /><br /> #prosecutor #attorney #witnesses #allenweisselberg #trumporganization #jurors
 
@@ -1168,7 +1024,6 @@ An attorney for the Trump company told jurors that former CFO Allen Weisselberg 
  - [https://biztoc.com/p/2hywsqiz?ref=rss&rd=1](https://biztoc.com/p/2hywsqiz?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:11:00+00:00
- - tags: None
 
 The FBI’s Boston Division is announcing a significant development in connection with the oldest unidentified homicide victim in Massachusetts. <br /><br /> #murdervictim #ladyofthedunes #fbi #bostondivision #homicidevictim #massachusetts
 
@@ -1176,7 +1031,6 @@ The FBI’s Boston Division is announcing a significant development in connectio
  - [https://biztoc.com/p/whibsxnq?ref=rss&rd=1](https://biztoc.com/p/whibsxnq?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:10:31+00:00
- - tags: None
 
 Despite rapid interest rate increases by the European Central Bank, more than half of the 19 eurozone countries see double-digit rises in consumer prices. <br /><br /> #europeancentralbank
 
@@ -1184,7 +1038,6 @@ Despite rapid interest rate increases by the European Central Bank, more than ha
  - [https://biztoc.com/p/6e5qd3ay?ref=rss&rd=1](https://biztoc.com/p/6e5qd3ay?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:08:39+00:00
- - tags: None
 
 Afghan special forces soldiers trained by American troops are now being recruited by the Russian military to fight in Ukraine. Updates. <br /><br /> #ukraine #specialforces #troops #afghan #soldiers #russian #commandos
 
@@ -1192,7 +1045,6 @@ Afghan special forces soldiers trained by American troops are now being recruite
  - [https://biztoc.com/p/6dxbkszd?ref=rss&rd=1](https://biztoc.com/p/6dxbkszd?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:07:54+00:00
- - tags: None
 
 The court's conservative majority could end any consideration of race in admissions, a policy that universities say is essential to ensuring diversity on campus. <br /><br /> #universities #campus #supremecourt
 
@@ -1200,7 +1052,6 @@ The court's conservative majority could end any consideration of race in admissi
  - [https://www.cnn.com/2022/10/31/sport/tom-brady-2022-season-buccaneers-crtp-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/31/sport/tom-brady-2022-season-buccaneers-crtp-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:04:29+00:00
- - tags: None
 
 Being the NFL's biggest star puts you under the microscope. Every turn, every move, every utterance --  be it on or off the field -- is scrutinized.
 
@@ -1208,7 +1059,6 @@ Being the NFL's biggest star puts you under the microscope. Every turn, every mo
  - [https://biztoc.com/p/vx8ek93m?ref=rss&rd=1](https://biztoc.com/p/vx8ek93m?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:04:00+00:00
- - tags: None
 
 The Dow fell slightly midday Monday but is still up 14% this month, putting it on track for its best monthly gain since January 1976. The blue chips remain down nearly 10% this year though.... <br /><br /> #gain #track
 
@@ -1216,7 +1066,6 @@ The Dow fell slightly midday Monday but is still up 14% this month, putting it o
  - [https://biztoc.com/p/eetrwae4?ref=rss&rd=1](https://biztoc.com/p/eetrwae4?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:03:00+00:00
- - tags: None
 
 British charities and officials are warning of increasingly dire conditions at a migrant processing center in England and urging Prime Minister Rishi Sunak to act. <br /><br /> #charities #migrantprocessingcenter #primeminister
 
@@ -1224,7 +1073,6 @@ British charities and officials are warning of increasingly dire conditions at a
  - [https://biztoc.com/p/fmh7uw4n?ref=rss&rd=1](https://biztoc.com/p/fmh7uw4n?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:02:06+00:00
- - tags: None
 
 <br /><br /> #drawing
 
@@ -1232,7 +1080,6 @@ British charities and officials are warning of increasingly dire conditions at a
  - [https://biztoc.com/p/uzf47dh4?ref=rss&rd=1](https://biztoc.com/p/uzf47dh4?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 16:00:00+00:00
- - tags: None
 
 Georges St-Pierre isn’t ruling out a return to combat sports now that he’s a free man. <br /><br /> #georgesstpierre
 
@@ -1240,7 +1087,6 @@ Georges St-Pierre isn’t ruling out a return to combat sports now that he’s a
  - [https://biztoc.com/p/k7kj2hiz?ref=rss&rd=1](https://biztoc.com/p/k7kj2hiz?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:59:00+00:00
- - tags: None
 
 The White former police officer who fatally shot Patrick Lyoya, a Black man, this year in Michigan will stand trial for the killing, according to a judge's memo posted online and announced in... <br /><br /> #killing #white #thewhite #patricklyoya #policeofficer #michigan
 
@@ -1248,7 +1094,6 @@ The White former police officer who fatally shot Patrick Lyoya, a Black man, thi
  - [https://www.cnn.com/2022/10/31/media/horror-movies-box-office-smile-halloween/index.html](https://www.cnn.com/2022/10/31/media/horror-movies-box-office-smile-halloween/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:58:02+00:00
- - tags: None
 
 One of Paramount's biggest blockbusters this year is a surprise hit that hasn't slowed down at the box office since opening at No. 1 a few weeks ago. No, I'm not talking about "Top Gun: Maverick." I'm talking about "Smile," the studio's creepy horror hit.
 
@@ -1256,7 +1101,6 @@ One of Paramount's biggest blockbusters this year is a surprise hit that hasn't 
  - [https://www.cnn.com/2022/10/31/us/how-to-help-fight-against-antisemitism-iyw-adl/index.html](https://www.cnn.com/2022/10/31/us/how-to-help-fight-against-antisemitism-iyw-adl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:51:49+00:00
- - tags: None
 
 Vlad Khaykin directs the Anti-Defamation League's programs on antisemitism.
 
@@ -1264,7 +1108,6 @@ Vlad Khaykin directs the Anti-Defamation League's programs on antisemitism.
  - [https://biztoc.com/p/5bp8du7y?ref=rss&rd=1](https://biztoc.com/p/5bp8du7y?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:50:00+00:00
- - tags: None
 
 <br /><br /> #southkoreans #halloween #seoul #tragedy
 
@@ -1272,7 +1115,6 @@ Vlad Khaykin directs the Anti-Defamation League's programs on antisemitism.
  - [https://www.cnn.com/2022/10/31/entertainment/diddy-heath-ledger-joker/index.html](https://www.cnn.com/2022/10/31/entertainment/diddy-heath-ledger-joker/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:45:52+00:00
- - tags: None
 
 Diddy brought his A-game for Halloween 2022.
 
@@ -1280,7 +1122,6 @@ Diddy brought his A-game for Halloween 2022.
  - [https://www.cnn.com/2022/10/31/entertainment/khlo-kardashian-baby-boy-pictures-halloween/index.html](https://www.cnn.com/2022/10/31/entertainment/khlo-kardashian-baby-boy-pictures-halloween/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:39:19+00:00
- - tags: None
 
 Khloé Kardashian is finally giving fans a glimpse at her baby boy.
 
@@ -1288,7 +1129,6 @@ Khloé Kardashian is finally giving fans a glimpse at her baby boy.
  - [https://www.cnn.com/2022/10/31/tech/musk-twitter-verification/index.html](https://www.cnn.com/2022/10/31/tech/musk-twitter-verification/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:37:58+00:00
- - tags: None
 
 Twitter is considering offering verified accounts to users who are willing to pay $19.99 a month for a subscription service, and it may take away the coveted blue check marks of existing users if they don't start paying for the product within 90 days, according to internal Twitter documents viewed by CNN.
 
@@ -1296,7 +1136,6 @@ Twitter is considering offering verified accounts to users who are willing to pa
  - [https://www.cnn.com/videos/travel/2022/10/31/worlds-longest-passenger-train-cprog-lon-orig-tp.cnn](https://www.cnn.com/videos/travel/2022/10/31/worlds-longest-passenger-train-cprog-lon-orig-tp.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:35:17+00:00
- - tags: None
 
 The 1.2 mile (1.9 kilometer) long train broke the record on October 29 after completing an over 15-miles-long trip.
 
@@ -1304,7 +1143,6 @@ The 1.2 mile (1.9 kilometer) long train broke the record on October 29 after com
  - [https://www.cnn.com/2022/10/31/tech/elon-musk-twitter-board/index.html](https://www.cnn.com/2022/10/31/tech/elon-musk-twitter-board/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:25:07+00:00
- - tags: None
 
 Twitter's board of directors was dissolved on Thursday following Elon Musk's takeover of the company, according to a securities filing on Monday.
 
@@ -1312,7 +1150,6 @@ Twitter's board of directors was dissolved on Thursday following Elon Musk's tak
  - [https://www.cnn.com/2022/10/31/entertainment/bono-40-year-marriage/index.html](https://www.cnn.com/2022/10/31/entertainment/bono-40-year-marriage/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:20:18+00:00
- - tags: None
 
 Bono's new memoir, "Surrender: 40 Songs, One Story," isn't just about his time and travels with U2. It's about love.
 
@@ -1320,7 +1157,6 @@ Bono's new memoir, "Surrender: 40 Songs, One Story," isn't just about his time a
  - [https://www.cnn.com/2022/10/31/health/rainbow-fentanyl-halloween-candy-scare-wellness-partner/index.html](https://www.cnn.com/2022/10/31/health/rainbow-fentanyl-halloween-candy-scare-wellness-partner/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 15:12:29+00:00
- - tags: None
 
 Every year around the middle of October, reporters start contacting me wanting to talk about rumors of contaminated Halloween treats.
 
@@ -1328,7 +1164,6 @@ Every year around the middle of October, reporters start contacting me wanting t
  - [https://www.cnn.com/2022/10/31/golf/dustin-johnson-liv-golf-miami-spt-spc-intl/index.html](https://www.cnn.com/2022/10/31/golf/dustin-johnson-liv-golf-miami-spt-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 14:47:35+00:00
- - tags: None
 
 Dustin Johnson took his LIV Golf earnings for the season past the $35 million mark with victory in the series' final event of the year in Miami on Sunday.
 
@@ -1336,7 +1171,6 @@ Dustin Johnson took his LIV Golf earnings for the season past the $35 million ma
  - [https://www.cnn.com/2022/10/31/business/gulf-wealth-fund-diplomacy-mime-intl/index.html](https://www.cnn.com/2022/10/31/business/gulf-wealth-fund-diplomacy-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 14:35:15+00:00
- - tags: None
 
 Big Gulf Arab oil states are using the newfound riches they've reaped as a result of the Ukraine war to build economic bridges with their poorer neighbors, some of whom they once considered adversaries.
 
@@ -1344,7 +1178,6 @@ Big Gulf Arab oil states are using the newfound riches they've reaped as a resul
  - [https://www.cnn.com/2022/10/31/europe/sevastopol-drone-russia-ukraine-grain-intl-cmd/index.html](https://www.cnn.com/2022/10/31/europe/sevastopol-drone-russia-ukraine-grain-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 14:34:35+00:00
- - tags: None
 
 Russia has moved rapidly to cripple the United Nations-brokered Black Sea grain corridor in the wake of the drone attack early Saturday on the Crimean port of Sevastopol.
 
@@ -1352,7 +1185,6 @@ Russia has moved rapidly to cripple the United Nations-brokered Black Sea grain 
  - [https://www.cnn.com/2022/10/31/investing/stocks-winners-losers/index.html](https://www.cnn.com/2022/10/31/investing/stocks-winners-losers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 14:25:07+00:00
- - tags: None
 
 It's fitting that on Halloween, candy maker Hershey is trading at an all-time high bringing shares nearly 25% this year. But overall, there haven't been too many sweet Kisses for investors this year: Despite a ferocious rally so far in October, there are a lot more losers than winners on Wall Street in 2022.
 
@@ -1360,7 +1192,6 @@ It's fitting that on Halloween, candy maker Hershey is trading at an all-time hi
  - [https://www.cnn.com/2022/10/31/politics/paul-pelosi-attack-what-we-know/index.html](https://www.cnn.com/2022/10/31/politics/paul-pelosi-attack-what-we-know/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 14:10:44+00:00
- - tags: None
 
 The man who is alleged to have attacked Paul Pelosi, the husband of House Speaker Nancy Pelosi, is expected to be charged with multiple felonies Monday as the shock and horror over the attack continues to cast a pall over Washington.
 
@@ -1368,7 +1199,6 @@ The man who is alleged to have attacked Paul Pelosi, the husband of House Speake
  - [https://www.cnn.com/2022/10/31/entertainment/julia-roberts-mlk-bill/index.html](https://www.cnn.com/2022/10/31/entertainment/julia-roberts-mlk-bill/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 14:07:53+00:00
- - tags: None
 
 A previously little known fact about Julia Roberts is now more widely known, thanks to social media.
 
@@ -1376,7 +1206,6 @@ A previously little known fact about Julia Roberts is now more widely known, tha
  - [https://www.cnn.com/2022/10/31/entertainment/jennifer-coolidge-sex-white-lotus/index.html](https://www.cnn.com/2022/10/31/entertainment/jennifer-coolidge-sex-white-lotus/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 13:34:26+00:00
- - tags: None
 
 Sounds like Jennifer Coolidge had an interesting return to work for the second season of "The White Lotus."
 
@@ -1384,7 +1213,6 @@ Sounds like Jennifer Coolidge had an interesting return to work for the second s
  - [https://www.cnn.com/2022/10/31/world/ghost-star-supernova-scn/index.html](https://www.cnn.com/2022/10/31/world/ghost-star-supernova-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 13:28:46+00:00
- - tags: None
 
 Colorful, ghostly remnants drift in space where a massive star exploded 11,000 years ago.
 
@@ -1392,7 +1220,6 @@ Colorful, ghostly remnants drift in space where a massive star exploded 11,000 y
  - [https://www.cnn.com/collections/intl-ukraine-103122/](https://www.cnn.com/collections/intl-ukraine-103122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 13:15:24+00:00
- - tags: None
 
 
 
@@ -1400,7 +1227,6 @@ Colorful, ghostly remnants drift in space where a massive star exploded 11,000 y
  - [https://www.cnn.com/2022/10/31/europe/ukraine-russia-grain-deal-world-hunger-intl/index.html](https://www.cnn.com/2022/10/31/europe/ukraine-russia-grain-deal-world-hunger-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 13:07:46+00:00
- - tags: None
 
 Russia's decision to pull out of an agreement that guaranteed safe passage for ships carrying vital grain exports from Ukraine has sparked "grave concerns" over global food supply at a time when the world is already facing a growing hunger crisis.
 
@@ -1408,7 +1234,6 @@ Russia's decision to pull out of an agreement that guaranteed safe passage for s
  - [https://www.cnn.com/videos/politics/2022/10/28/voter-anger-political-violence-contd-orig.cnn](https://www.cnn.com/videos/politics/2022/10/28/voter-anger-political-violence-contd-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 13:06:51+00:00
- - tags: None
 
 In CNN's documentary "Perilous Politics: America's Dangerous Divide" Senior National Correspondent Kyung Lah travels across the United States to investigate how communities have been torn apart by anger over Covid precautions, election denial, and education.
 
@@ -1416,7 +1241,6 @@ In CNN's documentary "Perilous Politics: America's Dangerous Divide" Senior Nati
  - [https://www.cnn.com/travel/article/chance-encounters-peru-halloween/index.html](https://www.cnn.com/travel/article/chance-encounters-peru-halloween/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 12:58:26+00:00
- - tags: None
 
 It was Claudia Flores Iriarte's first day working at the Point Hostel in Lima, Peru. Claudia was 22, just graduated from college and this was her first job. It was October 31, 2008.
 
@@ -1424,7 +1248,6 @@ It was Claudia Flores Iriarte's first day working at the Point Hostel in Lima, P
  - [https://cnn.it/3NmVbhA](https://cnn.it/3NmVbhA)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 12:49:26.201145+00:00
- - tags: None
 
 
 
@@ -1432,7 +1255,6 @@ It was Claudia Flores Iriarte's first day working at the Point Hostel in Lima, P
  - [https://www.cnn.com/travel/article/villa-carpena-italy-mussolini-ghosts/index.html](https://www.cnn.com/travel/article/villa-carpena-italy-mussolini-ghosts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 12:09:22+00:00
- - tags: None
 
 Showcasing fascist dictator Benito Mussolini's military uniform, his beloved motorbike, an iron cradle and a spooky bedroom mirror, Villa Carpena is clearly a museum unafraid of the dark side of history.
 
@@ -1440,7 +1262,6 @@ Showcasing fascist dictator Benito Mussolini's military uniform, his beloved mot
  - [https://www.cnn.com/2022/10/31/entertainment/oprah-winfrey-gummies-scams-intl-scli-wellness/index.html](https://www.cnn.com/2022/10/31/entertainment/oprah-winfrey-gummies-scams-intl-scli-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 11:43:01+00:00
- - tags: None
 
 Oprah Winfrey is warning fans against falling victim to companies selling weight loss products using her name and image.
 
@@ -1448,7 +1269,6 @@ Oprah Winfrey is warning fans against falling victim to companies selling weight
  - [https://www.cnn.com/2022/10/31/economy/europe-inflation/index.html](https://www.cnn.com/2022/10/31/economy/europe-inflation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 11:41:20+00:00
- - tags: None
 
 European inflation has accelerated to a new record high as energy and food prices in the region continue to skyrocket.
 
@@ -1456,7 +1276,6 @@ European inflation has accelerated to a new record high as energy and food price
  - [https://www.cnn.com/2022/10/31/investing/premarket-trading-stocks/index.html](https://www.cnn.com/2022/10/31/investing/premarket-trading-stocks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 11:37:34+00:00
- - tags: None
 
 When will central banks stop raising interest rates? That's the multi-trillion dollar question that has Wall Street analysts wearing wrist braces from shaking their Magic 8 Balls so hard.
 
@@ -1464,7 +1283,6 @@ When will central banks stop raising interest rates? That's the multi-trillion d
  - [https://www.cnn.com/2022/10/31/middleeast/iran-journalists-release-evin-prison-intl/index.html](https://www.cnn.com/2022/10/31/middleeast/iran-journalists-release-evin-prison-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 11:18:20+00:00
- - tags: None
 
 Hundreds of Iranian journalists are calling for the release of colleagues Niloofar Hamedi and Elaheh Mohammadi, who were arrested and sent to Tehran's Evin prison for covering the death of Mahsa Amini, according to independent Iranian newspaper Etemad.
 
@@ -1472,7 +1290,6 @@ Hundreds of Iranian journalists are calling for the release of colleagues Niloof
  - [https://www.cnn.com/2022/10/31/sport/virat-kohli-hotel-room-video-spt-intl/index.html](https://www.cnn.com/2022/10/31/sport/virat-kohli-hotel-room-video-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 11:13:11+00:00
- - tags: None
 
 India's Virat Kohli said he was the victim of an "absolute invasion of privacy" after individuals entered his hotel room in Perth and posted video of his clothes and belongings on social media on Monday.
 
@@ -1480,7 +1297,6 @@ India's Virat Kohli said he was the victim of an "absolute invasion of privacy" 
  - [https://www.cnn.com/2022/10/31/sport/la-lakers-lebron-james-nba-season-spt-intl/index.html](https://www.cnn.com/2022/10/31/sport/la-lakers-lebron-james-nba-season-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 11:05:16+00:00
- - tags: None
 
 It's happened, finally.
 
@@ -1488,7 +1304,6 @@ It's happened, finally.
  - [https://www.cnn.com/2022/10/31/europe/russian-missile-strikes-ukraine-intl/index.html](https://www.cnn.com/2022/10/31/europe/russian-missile-strikes-ukraine-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 10:53:31+00:00
- - tags: None
 
 Russia launched a barrage of missile strikes at Ukrainian cities on Monday as it ramped up its attacks on infrastructure facilities across the country.
 
@@ -1496,7 +1311,6 @@ Russia launched a barrage of missile strikes at Ukrainian cities on Monday as it
  - [https://www.cnn.com/2022/10/31/opinions/school-libraries-banned-books-lgbtq-hickson/index.html](https://www.cnn.com/2022/10/31/opinions/school-libraries-banned-books-lgbtq-hickson/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 10:31:31+00:00
- - tags: None
 
 In September 2021, protesters ambushed the board meeting of the New Jersey school district where I have worked as a high school librarian since 2005. The protesters railed against "Gender Queer," a memoir in graphic novel form by Maia Kobabe, and "Lawn Boy," a coming-of-age novel by Jonathan Evison. They spewed selected sentences from the Evison book, while brandishing isolated images from Kobabe's.
 
@@ -1504,7 +1318,6 @@ In September 2021, protesters ambushed the board meeting of the New Jersey schoo
  - [https://www.cnn.com/2022/10/31/business/wheat-prices-russia-ukraine-graine-deal/index.html](https://www.cnn.com/2022/10/31/business/wheat-prices-russia-ukraine-graine-deal/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 10:12:15+00:00
- - tags: None
 
 Prices of wheat and corn on global commodities markets rose on Monday after Russia pulled out of a deal that had allowed some vital grain exports from Ukraine to pass through the Black Sea despite the war.
 
@@ -1512,7 +1325,6 @@ Prices of wheat and corn on global commodities markets rose on Monday after Russ
  - [https://www.cnn.com/2022/10/31/sport/rodgers-green-bay-packers-buffalo-bills-spt-intl/index.html](https://www.cnn.com/2022/10/31/sport/rodgers-green-bay-packers-buffalo-bills-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:44:20+00:00
- - tags: None
 
 On the eve of Halloween, Aaron Rodgers and his Green Bay Packers' nightmare season went to a new level of scary as they lost 27-17 on Sunday night against the Buffalo Bills.
 
@@ -1520,7 +1332,6 @@ On the eve of Halloween, Aaron Rodgers and his Green Bay Packers' nightmare seas
  - [https://www.cnn.com/2022/10/31/business/disney-resort-shanghai-china-hnk-intl/index.html](https://www.cnn.com/2022/10/31/business/disney-resort-shanghai-china-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:43:53+00:00
- - tags: None
 
 Shanghai's Disney Resort abruptly suspended operations on Monday to comply with Covid-19 prevention measures, with all visitors at the time of the announcement directed to stay in the park until they return a negative test for the virus.
 
@@ -1528,7 +1339,6 @@ Shanghai's Disney Resort abruptly suspended operations on Monday to comply with 
  - [https://www.cnn.com/2022/10/31/tech/us-sanctions-chips-china-xi-tech-ambitions-intl-hnk/index.html](https://www.cnn.com/2022/10/31/tech/us-sanctions-chips-china-xi-tech-ambitions-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:29:06+00:00
- - tags: None
 
 Chinese leader Xi Jinping's push to "win the battle" in core technologies and bolster China's position as a tech superpower could be severely undermined by Washington's unprecedented steps to limit the sale of advanced chips and chip-making equipment to the country, analysts say.
 
@@ -1536,7 +1346,6 @@ Chinese leader Xi Jinping's push to "win the battle" in core technologies and bo
  - [https://www.cnn.com/2022/10/31/sport/kyrie-irving-brooklyn-nets-antisemitic-movie-spt-intl/index.html](https://www.cnn.com/2022/10/31/sport/kyrie-irving-brooklyn-nets-antisemitic-movie-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:13:08+00:00
- - tags: None
 
 Brooklyn Nets star Kyrie Irving said that he is "not going to stand down on anything I believe in" after he was condemned by the owner of his NBA team for tweeting a link to a documentary deemed to be antisemitic.
 
@@ -1544,7 +1353,6 @@ Brooklyn Nets star Kyrie Irving said that he is "not going to stand down on anyt
  - [https://cnn.it/3feY9Iw](https://cnn.it/3feY9Iw)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:01:26.763459+00:00
- - tags: None
 
 
 
@@ -1552,7 +1360,6 @@ Brooklyn Nets star Kyrie Irving said that he is "not going to stand down on anyt
  - [https://www.cnn.com/2022/10/31/politics/republican-optimism-closing-week-midterms/index.html](https://www.cnn.com/2022/10/31/politics/republican-optimism-closing-week-midterms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:00:17+00:00
- - tags: None
 
 Republicans are riding a wave of optimism into the closing week of the fall campaign, eyeing seats far deeper into Democratic terrain than party leaders imagined only weeks ago, with rising GOP confidence of winning a strong House majority amid signs that critical Senate seats are also increasingly within their grasp.
 
@@ -1560,7 +1367,6 @@ Republicans are riding a wave of optimism into the closing week of the fall camp
  - [https://www.cnn.com/2022/10/31/politics/ransomware-hacks-hospitals-critical-infrastructure/index.html](https://www.cnn.com/2022/10/31/politics/ransomware-hacks-hospitals-critical-infrastructure/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 09:00:07+00:00
- - tags: None
 
 The Biden administration will convene three-dozen allied governments on Monday and Tuesday for a fresh round of talks on how to stem the tide of ransomware attacks that have disrupted critical infrastructure firms around the world and cost businesses many millions of dollars.
 
@@ -1568,7 +1374,6 @@ The Biden administration will convene three-dozen allied governments on Monday a
  - [https://www.cnn.com/2022/10/31/asia/seoul-itaewon-halloween-mourning-memorial-intl-hnk/index.html](https://www.cnn.com/2022/10/31/asia/seoul-itaewon-halloween-mourning-memorial-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 08:53:52+00:00
- - tags: None
 
 • What we know about the deadly disaster
 • CNN reporter returns to the scene
@@ -1577,7 +1382,6 @@ The Biden administration will convene three-dozen allied governments on Monday a
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-31-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-31-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 08:01:25.645232+00:00
- - tags: None
 
 • Putin is using "food as a weapon of war," says USAID head
 
@@ -1585,7 +1389,6 @@ The Biden administration will convene three-dozen allied governments on Monday a
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-31-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-31-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 08:01:25.536072+00:00
- - tags: None
 
 
 
@@ -1593,7 +1396,6 @@ The Biden administration will convene three-dozen allied governments on Monday a
  - [https://www.cnn.com/videos/world/2022/10/31/seoul-halloween-south-korea-return-alley-ripley-wt-intl-hnk-ovn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/31/seoul-halloween-south-korea-return-alley-ripley-wt-intl-hnk-ovn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 06:22:29+00:00
- - tags: None
 
 CNN's Will Ripley reports from an alley next to the spot where a deadly Halloween crowd surge killed more than 150 people in Seoul, South Korea.
 
@@ -1601,7 +1403,6 @@ CNN's Will Ripley reports from an alley next to the spot where a deadly Hallowee
  - [https://www.cnn.com/videos/world/2022/10/31/india-bridge-collapse-nr-ovn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/31/india-bridge-collapse-nr-ovn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 04:55:02+00:00
- - tags: None
 
 At least 132 people have been killed in India after a bridge collapsed in the western state of Gujarat, causing hundreds of people to fall into the water, officials said. CNN's Kristie Lu Stout reports.
 
@@ -1609,7 +1410,6 @@ At least 132 people have been killed in India after a bridge collapsed in the we
  - [https://www.cnn.com/collections/intl-3110-pelosi-paul/](https://www.cnn.com/collections/intl-3110-pelosi-paul/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 04:53:23+00:00
- - tags: None
 
 
 
@@ -1617,7 +1417,6 @@ At least 132 people have been killed in India after a bridge collapsed in the we
  - [https://www.cnn.com/2022/10/30/asia/philippines-tropical-storm-nalgae-paeng-deaths-intl-hnk/index.html](https://www.cnn.com/2022/10/30/asia/philippines-tropical-storm-nalgae-paeng-deaths-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 03:46:24+00:00
- - tags: None
 
 Philippine President Ferdinand Marcos Jr. is set on Monday to fly over flood-submerged districts to inspect the damage after Tropical Storm Nalgae barreled across the Southeast Asian country over the weekend, killing at least 98 people.
 
@@ -1625,7 +1424,6 @@ Philippine President Ferdinand Marcos Jr. is set on Monday to fly over flood-sub
  - [https://www.cnn.com/travel/article/maldives-sustainable-restaurants/index.html](https://www.cnn.com/travel/article/maldives-sustainable-restaurants/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 03:27:26+00:00
- - tags: None
 
 With the threat of rising sea levels hanging over the resort islands of the Maldives, the country's hospitality industry is continually seeking out new ways to operate as sustainably as possible.
 
@@ -1633,7 +1431,6 @@ With the threat of rising sea levels hanging over the resort islands of the Mald
  - [https://www.cnn.com/videos/travel/2022/10/31/fari-islands-campus-patina-maldives.cnn](https://www.cnn.com/videos/travel/2022/10/31/fari-islands-campus-patina-maldives.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 03:11:51+00:00
- - tags: None
 
 This entire island houses staff from the nearby luxury resort, Patina Maldives. It was designed to encourage a sense of community and time away from work.
 
@@ -1641,7 +1438,6 @@ This entire island houses staff from the nearby luxury resort, Patina Maldives. 
  - [https://www.cnn.com/videos/business/2022/10/30/pete-buttigieg-democrats-inflation-vpx-wtcw-sot-vpx.cnn](https://www.cnn.com/videos/business/2022/10/30/pete-buttigieg-democrats-inflation-vpx-wtcw-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 02:43:36+00:00
- - tags: None
 
 CNN's Chris Wallace asks Transportation Secretary Pete Buttigieg why Democrats shouldn't be blamed for the country's high rate of inflation.
 
@@ -1649,7 +1445,6 @@ CNN's Chris Wallace asks Transportation Secretary Pete Buttigieg why Democrats s
  - [https://edition.cnn.com/interactive/2021/11/us/crowd-density-dangerous-warning-signs/](https://edition.cnn.com/interactive/2021/11/us/crowd-density-dangerous-warning-signs/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 02:01:18.314142+00:00
- - tags: None
 
 
 
@@ -1657,7 +1452,6 @@ CNN's Chris Wallace asks Transportation Secretary Pete Buttigieg why Democrats s
  - [https://www.cnn.com/collections/intl-3110-brazil-presidency/](https://www.cnn.com/collections/intl-3110-brazil-presidency/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 02:00:16+00:00
- - tags: None
 
 
 
@@ -1665,7 +1459,6 @@ CNN's Chris Wallace asks Transportation Secretary Pete Buttigieg why Democrats s
  - [https://www.cnn.com/2022/10/30/world/gallery/seoul-crowd-surge-gallery/index.html](https://www.cnn.com/2022/10/30/world/gallery/seoul-crowd-surge-gallery/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 01:08:01+00:00
- - tags: None
 
 At least 154 people were killed and over 100 injured in a crowd surge at packed Halloween festivities in the South Korean capital of Seoul on Saturday.
 
@@ -1673,6 +1466,5 @@ At least 154 people were killed and over 100 injured in a crowd surge at packed 
  - [https://www.cnn.com/collections/intl-3110-itaewon/](https://www.cnn.com/collections/intl-3110-itaewon/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 00:06:45+00:00
- - tags: None
 
 

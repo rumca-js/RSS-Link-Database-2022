@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Building the Future of TensorFlow
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59326](https://www.codeproject.com/script/News/View.aspx?nwid=59326)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 We’ve started planning the future of TensorFlow! In this article, we’d like to share our vision.
 
@@ -12,7 +11,6 @@ We’ve started planning the future of TensorFlow! In this article, we’d like 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59334](https://www.codeproject.com/script/News/View.aspx?nwid=59334)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 For your filing cabinet of ideas
 
@@ -20,7 +18,6 @@ For your filing cabinet of ideas
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59338](https://www.codeproject.com/script/News/View.aspx?nwid=59338)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Still time to add AI to your apps. Operators are standing by.
 
@@ -28,7 +25,6 @@ Still time to add AI to your apps. Operators are standing by.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59336](https://www.codeproject.com/script/News/View.aspx?nwid=59336)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 "What we've got here is failure to communicate"
 
@@ -36,7 +32,6 @@ Still time to add AI to your apps. Operators are standing by.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59327](https://www.codeproject.com/script/News/View.aspx?nwid=59327)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 IBM is unveiling a set of new AI capabilities that aim to reduce some of the top barriers to AI adoption and drive down the cost and time investment it currently takes to build and implement AI applications.
 
@@ -44,7 +39,6 @@ IBM is unveiling a set of new AI capabilities that aim to reduce some of the top
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59333](https://www.codeproject.com/script/News/View.aspx?nwid=59333)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 We are happy to introduce Vision Studio in preview, a platform of UI-based tools that lets you explore, demo and evaluate features from Computer Vision, regardless of your coding experience.
 
@@ -52,7 +46,6 @@ We are happy to introduce Vision Studio in preview, a platform of UI-based tools
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59330](https://www.codeproject.com/script/News/View.aspx?nwid=59330)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Amazon SageMaker Serverless Inference is a purpose-built inference option that makes it easy for you to deploy and scale machine learning (ML) models
 
@@ -60,7 +53,6 @@ Amazon SageMaker Serverless Inference is a purpose-built inference option that m
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59337](https://www.codeproject.com/script/News/View.aspx?nwid=59337)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Because you can't have video meetings in Outlook?
 
@@ -68,7 +60,6 @@ Because you can't have video meetings in Outlook?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59328](https://www.codeproject.com/script/News/View.aspx?nwid=59328)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Cybersecurity for machine learning models startup HiddenLayer Inc. today announced the public launch of a new artificial intelligence cybersecurity platform that empowers security operations and data science teams to protect their AI investments against adversarial machine learning attacks.
 
@@ -76,7 +67,6 @@ Cybersecurity for machine learning models startup HiddenLayer Inc. today announc
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59339](https://www.codeproject.com/script/News/View.aspx?nwid=59339)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 We could offer to blow it up - that might make it more interesting
 
@@ -84,7 +74,6 @@ We could offer to blow it up - that might make it more interesting
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59332](https://www.codeproject.com/script/News/View.aspx?nwid=59332)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Shims solve everything
 
@@ -92,7 +81,6 @@ Shims solve everything
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59329](https://www.codeproject.com/script/News/View.aspx?nwid=59329)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Capital One’s new commissioned study by Forrester Consulting reveals the biggest challenges, concerns and opportunities facing companies when leveraging machine learning (ML) to improve business performance across the enterprise.
 
@@ -100,7 +88,6 @@ Capital One’s new commissioned study by Forrester Consulting reveals the bigge
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59335](https://www.codeproject.com/script/News/View.aspx?nwid=59335)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 What? You have to do something to fix these?
 
@@ -108,6 +95,5 @@ What? You have to do something to fix these?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59331](https://www.codeproject.com/script/News/View.aspx?nwid=59331)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-28 04:00:00+00:00
- - tags: None
 
 Because nothing says, "ease of use" like "we're adding a search bar"

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## How Apple Car could become the future car-as-a-service
  - [https://www.computerworld.com/article/3675355/how-apple-car-could-become-the-future-car-as-a-service.html#tk.rss_all](https://www.computerworld.com/article/3675355/how-apple-car-could-become-the-future-car-as-a-service.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-05 15:42:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3675541/android-widgets-google-assistant.html#tk.rss_all](https://www.computerworld.com/article/3675541/android-widgets-google-assistant.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-05 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3675547/coming-soon-a-resume-validating-blockchain-network-for-job-seekers.html#tk.rss_all](https://www.computerworld.com/article/3675547/coming-soon-a-resume-validating-blockchain-network-for-job-seekers.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-05 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

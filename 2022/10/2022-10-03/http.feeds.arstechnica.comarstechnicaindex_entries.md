@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Walmart, CVS face trial for putting sham homeopathic products next to real meds
  - [https://arstechnica.com/?p=1886578](https://arstechnica.com/?p=1886578)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 22:28:57+00:00
- - tags: None
 
 A three-judge panel reversed lower courts' dismissal of the lawsuits.
 
@@ -12,7 +11,6 @@ A three-judge panel reversed lower courts' dismissal of the lawsuits.
  - [https://arstechnica.com/?p=1886515](https://arstechnica.com/?p=1886515)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 21:54:55+00:00
- - tags: None
 
 400,000 Pis are still being made every month, but most are going to businesses.
 
@@ -20,7 +18,6 @@ A three-judge panel reversed lower courts' dismissal of the lawsuits.
  - [https://arstechnica.com/?p=1886496](https://arstechnica.com/?p=1886496)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 20:25:55+00:00
- - tags: None
 
 Confidential incident reports, personnel records, and more are leaked online.
 
@@ -28,7 +25,6 @@ Confidential incident reports, personnel records, and more are leaked online.
  - [https://arstechnica.com/?p=1886430](https://arstechnica.com/?p=1886430)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 19:03:24+00:00
- - tags: None
 
 Section 230 to face its first Supreme Court challenge.
 
@@ -36,7 +32,6 @@ Section 230 to face its first Supreme Court challenge.
  - [https://arstechnica.com/?p=1886350](https://arstechnica.com/?p=1886350)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 17:41:06+00:00
- - tags: None
 
 Intel and AMD gear, yes, but support for RISC-V, LoongArch, and Gaudi2 show up.
 
@@ -44,7 +39,6 @@ Intel and AMD gear, yes, but support for RISC-V, LoongArch, and Gaudi2 show up.
  - [https://arstechnica.com/?p=1886275](https://arstechnica.com/?p=1886275)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 17:26:48+00:00
- - tags: None
 
 The orbiter most definitely exceeded expectations.
 
@@ -52,7 +46,6 @@ The orbiter most definitely exceeded expectations.
  - [https://arstechnica.com/?p=1886356](https://arstechnica.com/?p=1886356)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 17:13:53+00:00
- - tags: None
 
 Open source files for Google Japan's latest joke concept are on GitHub.
 
@@ -60,7 +53,6 @@ Open source files for Google Japan's latest joke concept are on GitHub.
  - [https://arstechnica.com/?p=1886381](https://arstechnica.com/?p=1886381)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 16:49:07+00:00
- - tags: None
 
 Hack uses FreeBSD "race condition" exploit on older PS5 firmware.
 
@@ -68,7 +60,6 @@ Hack uses FreeBSD "race condition" exploit on older PS5 firmware.
  - [https://arstechnica.com/?p=1886296](https://arstechnica.com/?p=1886296)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 16:20:57+00:00
- - tags: None
 
 "Only the most broken people can be great leaders."
 
@@ -76,7 +67,6 @@ Hack uses FreeBSD "race condition" exploit on older PS5 firmware.
  - [https://arstechnica.com/?p=1886287](https://arstechnica.com/?p=1886287)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 16:08:41+00:00
- - tags: None
 
 The Pixel 6a was a bargain at the MSRP, and $100 off is even more tempting
 
@@ -84,7 +74,6 @@ The Pixel 6a was a bargain at the MSRP, and $100 off is even more tempting
  - [https://arstechnica.com/?p=1886347](https://arstechnica.com/?p=1886347)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 16:04:03+00:00
- - tags: None
 
 Kardashian touted EthereumMax on Instagram without revealing she was paid $250,000.
 
@@ -92,7 +81,6 @@ Kardashian touted EthereumMax on Instagram without revealing she was paid $250,0
  - [https://arstechnica.com/?p=1886277](https://arstechnica.com/?p=1886277)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 14:17:18+00:00
- - tags: None
 
 Willis' agent: "Bruce has no partnership or agreement with this Deepcake company."
 
@@ -100,7 +88,6 @@ Willis' agent: "Bruce has no partnership or agreement with this Deepcake company
  - [https://arstechnica.com/?p=1886267](https://arstechnica.com/?p=1886267)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 14:00:53+00:00
- - tags: None
 
 Svante Pääbo played a central role in developing ways of looking into humanity's past.
 
@@ -108,7 +95,6 @@ Svante Pääbo played a central role in developing ways of looking into humanity
  - [https://arstechnica.com/?p=1884061](https://arstechnica.com/?p=1884061)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 13:45:29+00:00
- - tags: None
 
 Solving the information paradox could unlock quantum gravity and unification of forces.
 
@@ -116,6 +102,5 @@ Solving the information paradox could unlock quantum gravity and unification of 
  - [https://arstechnica.com/?p=1886246](https://arstechnica.com/?p=1886246)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-03 13:09:22+00:00
- - tags: None
 
 "Firefly is at the point where the only thing holding them back is execution."

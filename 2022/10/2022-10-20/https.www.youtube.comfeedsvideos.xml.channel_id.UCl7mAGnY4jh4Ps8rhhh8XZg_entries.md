@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## The UK Belongs to China!
  - [https://www.youtube.com/watch?v=oC-Fh7DRBcw](https://www.youtube.com/watch?v=oC-Fh7DRBcw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-10-20 14:15:02+00:00
- - tags: None
 
 The first 100 people to use code serpentza  at the link below will get 20% off of Incogni: https://incogni.com/serpentza 
 Royal Airforce pilots training China's Military? Chinese police stations operating in the UK? Chinese consular staff kidnapping and assaulting people on the streets of Manchester? Yes... all of it

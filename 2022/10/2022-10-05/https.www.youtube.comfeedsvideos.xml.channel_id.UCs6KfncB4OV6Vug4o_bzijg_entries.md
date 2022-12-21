@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## My Apologies.
  - [https://www.youtube.com/watch?v=FAnwEpb5jlc](https://www.youtube.com/watch?v=FAnwEpb5jlc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-05 07:35:29+00:00
- - tags: None
 
 Thanks for the patience everyone!
 

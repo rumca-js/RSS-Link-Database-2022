@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Samsung Galaxy Tab A7 Lite review: Lite on the money
  - [https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/](https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-16 20:00:38+00:00
- - tags: None
 
 Keeping costs low comes at a price.
 
@@ -12,7 +11,6 @@ Keeping costs low comes at a price.
  - [https://www.androidauthority.com/apple-iphone-battery-test-3215710/](https://www.androidauthority.com/apple-iphone-battery-test-3215710/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-16 18:00:20+00:00
- - tags: None
 
 Better efficiency through careful optimization.
 
@@ -20,7 +18,6 @@ Better efficiency through careful optimization.
  - [https://www.androidauthority.com/we-got-up-close-and-personal-with-the-pixel-7-pros-new-macro-mode-3220467/](https://www.androidauthority.com/we-got-up-close-and-personal-with-the-pixel-7-pros-new-macro-mode-3220467/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-16 14:00:23+00:00
- - tags: None
 
 Close but no cigar.
 
@@ -28,6 +25,5 @@ Close but no cigar.
  - [https://www.androidauthority.com/lite-apps-should-be-available-to-everyone-3210085/](https://www.androidauthority.com/lite-apps-should-be-available-to-everyone-3210085/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-16 12:00:39+00:00
- - tags: None
 
 Why do I have to use all of my phone's resources to run Facebook when Facebook Lite exists?

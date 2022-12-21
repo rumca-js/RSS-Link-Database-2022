@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The 6 best VPN deals right now: October 2022
  - [https://www.zdnet.com/article/best-vpn-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-vpn-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 22:52:00+00:00
- - tags: None
 
 What is the best VPN deal? Surfshark VPN is ZDNET's top choice because of its low cost relative to its strong performance. We compared these VPNs' prices and value to bring you the best current deals.
 
@@ -12,7 +11,6 @@ What is the best VPN deal? Surfshark VPN is ZDNET's top choice because of its lo
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gift-under-100/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gift-under-100/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 22:09:00+00:00
- - tags: None
 
 With the holidays quickly approaching, it's time to start shopping. The best tech gifts don't have to cost a fortune—we've rounded up products and devices for $100 or less.
 
@@ -20,7 +18,6 @@ With the holidays quickly approaching, it's time to start shopping. The best tec
  - [https://www.zdnet.com/article/hyperx-cloud-stinger-2-is-the-perfect-entry-into-gaming-headsets/#ftag=RSSbaffb68](https://www.zdnet.com/article/hyperx-cloud-stinger-2-is-the-perfect-entry-into-gaming-headsets/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 21:54:00+00:00
- - tags: None
 
 The HyperX Cloud Stinger 2 offers spatial audio, a noise-canceling microphone, and wired connectivity for less than $50.
 
@@ -28,7 +25,6 @@ The HyperX Cloud Stinger 2 offers spatial audio, a noise-canceling microphone, a
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-small-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-small-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 21:45:00+00:00
- - tags: None
 
 You don't need to devote much space to receive stunning picture quality. The best small TVs are all under 43 inches, ensuring you can stream your favorite shows and movies in cozier spots without sacrificing quality.
 
@@ -36,7 +32,6 @@ You don't need to devote much space to receive stunning picture quality. The bes
  - [https://www.zdnet.com/article/opera-workspaces-is-tab-management-perfection/#ftag=RSSbaffb68](https://www.zdnet.com/article/opera-workspaces-is-tab-management-perfection/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 21:08:18+00:00
- - tags: None
 
 What are Opera Workspaces and why might the feature be just the thing to help you migrate to a new web browser?
 
@@ -44,7 +39,6 @@ What are Opera Workspaces and why might the feature be just the thing to help yo
  - [https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 21:05:00+00:00
- - tags: None
 
 Shopping on a tight budget this holiday season? We've compiled the top tech gifts for $25 or under.
 
@@ -52,7 +46,6 @@ Shopping on a tight budget this holiday season? We've compiled the top tech gift
  - [https://www.zdnet.com/article/best-verizon-phone-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-verizon-phone-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 21:01:00+00:00
- - tags: None
 
 Whether you're shopping for one of Samsung's new S22 models, or something else, Verizon has some fantastic promotions going on right now. Here are the best we've found for you.
 
@@ -60,7 +53,6 @@ Whether you're shopping for one of Samsung's new S22 models, or something else, 
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-roborock-robot-vacuum/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-roborock-robot-vacuum/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 20:52:16+00:00
- - tags: None
 
 Ditch the broom and skip the mop with automated Roborocks that will help clean your home without you having to lift a finger. But first, you have to determine which Roborock is best for your home. These best Roborocks will whip your home into shape.
 
@@ -68,7 +60,6 @@ Ditch the broom and skip the mop with automated Roborocks that will help clean y
  - [https://www.zdnet.com/article/how-to-enable-end-to-end-encryption-for-facebook-messenger-chats/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-enable-end-to-end-encryption-for-facebook-messenger-chats/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 20:14:19+00:00
- - tags: None
 
 Here's how to enable end-to-end encryption on a per-chat basis with Facebook Messenger.
 
@@ -76,7 +67,6 @@ Here's how to enable end-to-end encryption on a per-chat basis with Facebook Mes
  - [https://www.zdnet.com/home-and-office/networking/mesh-vs-standard-wi-fi-what-is-best-for-your-home-office/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/mesh-vs-standard-wi-fi-what-is-best-for-your-home-office/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 19:45:00+00:00
- - tags: None
 
 We explain the differences and discuss the best options available for home setups and hybrid and remote working.
 
@@ -84,7 +74,6 @@ We explain the differences and discuss the best options available for home setup
  - [https://www.zdnet.com/article/how-to-measure-pixels-on-your-screen-with-screen-ruler/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-measure-pixels-on-your-screen-with-screen-ruler/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 18:53:38+00:00
- - tags: None
 
 Part of Microsoft's PowerToys program, Screen Ruler can help web developers, programmers, and graphic artists measure specific areas and distances on the screen.
 
@@ -92,7 +81,6 @@ Part of Microsoft's PowerToys program, Screen Ruler can help web developers, pro
  - [https://www.zdnet.com/article/belkins-iphone-as-a-mac-webcam-accessory-is-now-available/#ftag=RSSbaffb68](https://www.zdnet.com/article/belkins-iphone-as-a-mac-webcam-accessory-is-now-available/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 18:52:00+00:00
- - tags: None
 
 Belkin partnered with Apple to create a round MagSafe mount to quickly attach your iPhone to your Mac to use the new Continuity Camera feature in MacOS 13.
 
@@ -100,7 +88,6 @@ Belkin partnered with Apple to create a round MagSafe mount to quickly attach yo
  - [https://www.zdnet.com/article/google-assistant-helps-spread-breast-cancer-awareness-through-new-features/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-assistant-helps-spread-breast-cancer-awareness-through-new-features/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 18:24:00+00:00
- - tags: None
 
 You can easily set reminders with Google Assistant to remind you to get your breast exams and annual check-ups done.
 
@@ -108,7 +95,6 @@ You can easily set reminders with Google Assistant to remind you to get your bre
  - [https://www.zdnet.com/home-and-office/smart-office/rocketbook-fusion-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/rocketbook-fusion-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 18:13:00+00:00
- - tags: None
 
 The Rocketbook Fusion is the ultimate smart reusable notebook for organizing your work life. And right now, it's 24% off on Amazon.
 
@@ -116,7 +102,6 @@ The Rocketbook Fusion is the ultimate smart reusable notebook for organizing you
  - [https://www.zdnet.com/article/when-you-die-what-happens-to-your-online-accounts-if-your-family-cant-unlock-your-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/when-you-die-what-happens-to-your-online-accounts-if-your-family-cant-unlock-your-phone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 17:34:00+00:00
- - tags: None
 
 As our lives move increasingly online, our finances and history are hidden behind password-protected accounts. Here's how to get your digital affairs in order so your next of kin can sort things out after you're gone.
 
@@ -124,7 +109,6 @@ As our lives move increasingly online, our finances and history are hidden behin
  - [https://www.zdnet.com/home-and-office/home-entertainment/logitech-litra-beam-key-light-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/logitech-litra-beam-key-light-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 17:33:00+00:00
- - tags: None
 
 Logitech's new Litra Beam stands out in an increasingly crowded market by being a compact, versatile, and inexpensive solution for even the most complex desk setups.
 
@@ -132,7 +116,6 @@ Logitech's new Litra Beam stands out in an increasingly crowded market by being 
  - [https://www.zdnet.com/article/iphone-14-pro-battery-draining-turning-off-always-on-display-wont-help-heres-what-will/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-14-pro-battery-draining-turning-off-always-on-display-wont-help-heres-what-will/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 16:39:20+00:00
- - tags: None
 
 Don't believe everything you read on the internet.
 
@@ -140,7 +123,6 @@ Don't believe everything you read on the internet.
  - [https://www.zdnet.com/article/macbook-air-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/macbook-air-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 16:17:00+00:00
- - tags: None
 
 Looking for ways to save on Apple gear this holiday season? Right now, you can save $200 on a MacBook Air.
 
@@ -148,7 +130,6 @@ Looking for ways to save on Apple gear this holiday season? Right now, you can s
  - [https://www.zdnet.com/article/singapore-wants-citizens-to-arm-up-take-accountability-for-personal-cyber-hygiene/#ftag=RSSbaffb68](https://www.zdnet.com/article/singapore-wants-citizens-to-arm-up-take-accountability-for-personal-cyber-hygiene/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 16:06:07+00:00
- - tags: None
 
 Country's government says Individuals have "a responsibility" to adopt good cybersecurity practices and safeguard devices they use, which risk weakening whole networks if compromised.
 
@@ -156,7 +137,6 @@ Country's government says Individuals have "a responsibility" to adopt good cybe
  - [https://www.zdnet.com/article/want-to-ditch-windows-windowsfx-may-be-the-ideal-linux-distribution-for-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/want-to-ditch-windows-windowsfx-may-be-the-ideal-linux-distribution-for-you/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 16:00:14+00:00
- - tags: None
 
 Here's a Linux distribution that does a remarkable job of mimicking Windows 11, which makes it a great option for anyone looking to migrate from the proprietary operating system.
 
@@ -164,7 +144,6 @@ Here's a Linux distribution that does a remarkable job of mimicking Windows 11, 
  - [https://www.zdnet.com/article/chrome-brings-multitasking-features-to-android-tablets-including-pixel-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/chrome-brings-multitasking-features-to-android-tablets-including-pixel-tablet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 15:00:32+00:00
- - tags: None
 
 New features aim to make you more productive on a tablet.
 
@@ -172,7 +151,6 @@ New features aim to make you more productive on a tablet.
  - [https://www.zdnet.com/article/ive-been-thinking-about-apples-ar-vr-headset-and-i-just-dont-believe-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/ive-been-thinking-about-apples-ar-vr-headset-and-i-just-dont-believe-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 14:46:44+00:00
- - tags: None
 
 An Apple-branded mixed-reality headset might be available for developers in 2023. But don't expect an army of Apple Glassholes hitting the streets for quite a few more years.
 
@@ -180,7 +158,6 @@ An Apple-branded mixed-reality headset might be available for developers in 2023
  - [https://www.zdnet.com/article/how-to-keep-your-macbook-pro-looking-like-new/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-keep-your-macbook-pro-looking-like-new/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 13:53:36+00:00
- - tags: None
 
 The new Eco-HardShell Case from Satechi will fit your MacBook Pro like a glove.
 
@@ -188,7 +165,6 @@ The new Eco-HardShell Case from Satechi will fit your MacBook Pro like a glove.
  - [https://www.zdnet.com/article/what-is-firefox-view-and-how-do-you-use-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-firefox-view-and-how-do-you-use-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 13:41:29+00:00
- - tags: None
 
 The latest Firefox release includes a handy feature that gives you quick access to all Firefox tabs open across all browsers associated with your Firefox account.
 
@@ -196,7 +172,6 @@ The latest Firefox release includes a handy feature that gives you quick access 
  - [https://www.zdnet.com/article/how-to-take-great-macro-photos-with-the-iphone-14-pro-and-pro-max/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-take-great-macro-photos-with-the-iphone-14-pro-and-pro-max/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 13:29:04+00:00
- - tags: None
 
 iPhone makes it easy to take really amazing closeup photos, but with a little know-how, you can make them even better.
 
@@ -204,7 +179,6 @@ iPhone makes it easy to take really amazing closeup photos, but with a little kn
  - [https://www.zdnet.com/home-and-office/networking/elon-musk-starlink-aviation-means-internet-in-planes-will-feel-the-same-as-at-home/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/elon-musk-starlink-aviation-means-internet-in-planes-will-feel-the-same-as-at-home/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 12:25:41+00:00
- - tags: None
 
 Starlink unveils Aero Terminal for satellite connectivity on aircraft.
 
@@ -212,7 +186,6 @@ Starlink unveils Aero Terminal for satellite connectivity on aircraft.
  - [https://www.zdnet.com/article/passwords-still-dominate-and-are-causing-headaches-for-everyone/#ftag=RSSbaffb68](https://www.zdnet.com/article/passwords-still-dominate-and-are-causing-headaches-for-everyone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 12:07:45+00:00
- - tags: None
 
 While use of passwords is gradually dropping, there are still a lot of them out there to forget.
 
@@ -220,7 +193,6 @@ While use of passwords is gradually dropping, there are still a lot of them out 
  - [https://www.zdnet.com/article/tech-workers-like-their-jobs-but-theyre-still-going-to-look-for-new-ones/#ftag=RSSbaffb68](https://www.zdnet.com/article/tech-workers-like-their-jobs-but-theyre-still-going-to-look-for-new-ones/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 12:00:19+00:00
- - tags: None
 
 Businesses recognize the need to upskill their IT staff in a hot jobs market.
 
@@ -228,7 +200,6 @@ Businesses recognize the need to upskill their IT staff in a hot jobs market.
  - [https://www.zdnet.com/article/this-latest-firefox-update-makes-it-easier-to-protect-your-privacy-online/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-latest-firefox-update-makes-it-easier-to-protect-your-privacy-online/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 11:51:22+00:00
- - tags: None
 
 The latest Mozilla Firefox release makes it easier for users to access private browsing mode.
 
@@ -236,7 +207,6 @@ The latest Mozilla Firefox release makes it easier for users to access private b
  - [https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 11:44:19+00:00
- - tags: None
 
 Gartner lays out the tech trends that could change how companies operate in 2023 and beyond.
 
@@ -244,7 +214,6 @@ Gartner lays out the tech trends that could change how companies operate in 2023
  - [https://www.zdnet.com/article/hybrid-working-why-more-needs-to-be-done-to-help-women-thrive/#ftag=RSSbaffb68](https://www.zdnet.com/article/hybrid-working-why-more-needs-to-be-done-to-help-women-thrive/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 11:41:41+00:00
- - tags: None
 
 For all the benefits that hybrid work brings, many women aren't reaping the rewards.
 
@@ -252,7 +221,6 @@ For all the benefits that hybrid work brings, many women aren't reaping the rewa
  - [https://www.zdnet.com/article/government-officials-including-russia-call-for-dialogue-in-combating-cybersecurity-threats/#ftag=RSSbaffb68](https://www.zdnet.com/article/government-officials-including-russia-call-for-dialogue-in-combating-cybersecurity-threats/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 10:45:00+00:00
- - tags: None
 
 Need for multilateral cooperation and open communications is the shared message amongst senior government officials from across the globe, including Russia and the United States, who have gathered in Singapore to discuss strategies in cyberdefence.
 
@@ -260,7 +228,6 @@ Need for multilateral cooperation and open communications is the shared message 
  - [https://www.zdnet.com/article/how-a-real-estate-company-is-using-ai-to-find-and-remove-racist-language-from-property-documents/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-a-real-estate-company-is-using-ai-to-find-and-remove-racist-language-from-property-documents/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 09:58:07+00:00
- - tags: None
 
 John L. Scott Real Estate is using Amazon Web Services technology to tackle the tough challenge of scrubbing racist language from property title documents.
 
@@ -268,6 +235,5 @@ John L. Scott Real Estate is using Amazon Web Services technology to tackle the 
  - [https://www.zdnet.com/home-and-office/apple-ipad-pro-deals-on-amazon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/apple-ipad-pro-deals-on-amazon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-19 07:57:03+00:00
- - tags: None
 
 A range of Apple iPad Pros, with different specifications, are currently on sale.

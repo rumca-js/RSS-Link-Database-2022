@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## We are currently testing the Nvidia RTX 4090—let us show you its heft
  - [https://arstechnica.com/?p=1887417](https://arstechnica.com/?p=1887417)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 23:26:37+00:00
- - tags: None
 
 We can't say much yet, but its size may clarify who this $1,599-and-up GPU <em>isn't</em> for.
 
@@ -12,7 +11,6 @@ We can't say much yet, but its size may clarify who this $1,599-and-up GPU <em>i
  - [https://arstechnica.com/?p=1887431](https://arstechnica.com/?p=1887431)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 23:02:30+00:00
- - tags: None
 
 With subvariant soup simmering, OG BA.5 kicks off fall COVID surge.
 
@@ -20,7 +18,6 @@ With subvariant soup simmering, OG BA.5 kicks off fall COVID surge.
  - [https://arstechnica.com/?p=1887214](https://arstechnica.com/?p=1887214)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 22:07:12+00:00
- - tags: None
 
 There's a lot to the recent firing, most of it centered on how to best serve students.
 
@@ -28,7 +25,6 @@ There's a lot to the recent firing, most of it centered on how to best serve stu
  - [https://arstechnica.com/?p=1887240](https://arstechnica.com/?p=1887240)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 21:23:30+00:00
- - tags: None
 
 Lazarus is latest group to pull off "bring your own vulnerable device" attack.
 
@@ -36,7 +32,6 @@ Lazarus is latest group to pull off "bring your own vulnerable device" attack.
  - [https://arstechnica.com/?p=1887195](https://arstechnica.com/?p=1887195)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 20:47:11+00:00
- - tags: None
 
 It's like <em>The Ref</em> meets Mel Gibson's <em>Fat Man</em>, with a side of <em>John Wick</em>.
 
@@ -44,7 +39,6 @@ It's like <em>The Ref</em> meets Mel Gibson's <em>Fat Man</em>, with a side of <
  - [https://arstechnica.com/?p=1887178](https://arstechnica.com/?p=1887178)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 20:42:54+00:00
- - tags: None
 
 Not to be outdone by Meta, Google's AI generator can output 1280x768 HD video at 24 fps.
 
@@ -52,7 +46,6 @@ Not to be outdone by Meta, Google's AI generator can output 1280x768 HD video at
  - [https://arstechnica.com/?p=1887201](https://arstechnica.com/?p=1887201)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 19:51:47+00:00
- - tags: None
 
 Four banks alone expect more than $255 million in scam and fraud claims in 2022.
 
@@ -60,7 +53,6 @@ Four banks alone expect more than $255 million in scam and fraud claims in 2022.
  - [https://arstechnica.com/?p=1887189](https://arstechnica.com/?p=1887189)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 19:24:13+00:00
- - tags: None
 
 Simplifying the complexity of organic chemistry, both in concept and practice.
 
@@ -68,7 +60,6 @@ Simplifying the complexity of organic chemistry, both in concept and practice.
  - [https://arstechnica.com/?p=1886952](https://arstechnica.com/?p=1886952)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 19:00:28+00:00
- - tags: None
 
 "Whooo, that was a smooth ride uphill!"
 
@@ -76,7 +67,6 @@ Simplifying the complexity of organic chemistry, both in concept and practice.
  - [https://arstechnica.com/?p=1887143](https://arstechnica.com/?p=1887143)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 18:22:30+00:00
- - tags: None
 
 Update for the 2022 Update will be released to the public this month.
 
@@ -84,7 +74,6 @@ Update for the 2022 Update will be released to the public this month.
  - [https://arstechnica.com/?p=1887079](https://arstechnica.com/?p=1887079)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 16:42:18+00:00
- - tags: None
 
 For some reason, the 256GB and 512GB versions are the same price.
 
@@ -92,7 +81,6 @@ For some reason, the 256GB and 512GB versions are the same price.
  - [https://arstechnica.com/?p=1887078](https://arstechnica.com/?p=1887078)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 16:23:58+00:00
- - tags: None
 
 Slow sales are reportedly to blame.
 
@@ -100,7 +88,6 @@ Slow sales are reportedly to blame.
  - [https://arstechnica.com/?p=1887086](https://arstechnica.com/?p=1887086)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 15:34:46+00:00
- - tags: None
 
 Most automakers use multiple redundant sensors. Tesla thinks otherwise.
 
@@ -108,7 +95,6 @@ Most automakers use multiple redundant sensors. Tesla thinks otherwise.
  - [https://arstechnica.com/?p=1886889](https://arstechnica.com/?p=1886889)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 15:26:41+00:00
- - tags: None
 
 Dealmaster also has Garmin watches, 4K TVs, robot vacuums, and our favorite streaming sticks.
 
@@ -116,7 +102,6 @@ Dealmaster also has Garmin watches, 4K TVs, robot vacuums, and our favorite stre
  - [https://arstechnica.com/?p=1887064](https://arstechnica.com/?p=1887064)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 15:06:46+00:00
- - tags: None
 
 Report suggest server queues are tens of thousands of players long.
 
@@ -124,7 +109,6 @@ Report suggest server queues are tens of thousands of players long.
  - [https://arstechnica.com/?p=1887052](https://arstechnica.com/?p=1887052)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 14:53:47+00:00
- - tags: None
 
 Court case over broken merger deal only happened "because Elon Musk is Elon."
 
@@ -132,7 +116,6 @@ Court case over broken merger deal only happened "because Elon Musk is Elon."
  - [https://arstechnica.com/?p=1887024](https://arstechnica.com/?p=1887024)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 13:31:42+00:00
- - tags: None
 
 "Space advertising turns out to have a potential for commercial viability."
 
@@ -140,6 +123,5 @@ Court case over broken merger deal only happened "because Elon Musk is Elon."
  - [https://arstechnica.com/?p=1886768](https://arstechnica.com/?p=1886768)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-05 13:00:59+00:00
- - tags: None
 
 New GPU series, ranging from $289 to $349, is less "amazing" and more "interesting."

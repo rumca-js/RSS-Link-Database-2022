@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## How to use the Steam Deck interface on your PC
  - [https://www.pcworld.com/article/1366964/how-to-try-out-the-steam-deck-interface-on-your-pc.html](https://www.pcworld.com/article/1366964/how-to-try-out-the-steam-deck-interface-on-your-pc.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Valve&rsquo;s <a href="https://www.pcworld.com/article/917673/steam-deck-2-wishlist-what-we-want-from-valves-next-gen-handheld.html">Steam Deck is a smash hit</a>, thanks to a combination of great hardware and efficient software. If you don&rsquo;t have one yet and you&rsquo;d like to check out the latter, Valve is now letting users try out the Steam Deck user interface using the desktop version of Steam. It&rsquo;s a new option for beta users &mdash; all you need to do is adjust a few settings for the TV-style Big Picture interface. (Does that make it the Small Picture Interface? Who knows.) </p>
@@ -47,7 +46,6 @@ Gaming PCs</div>
  - [https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html](https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A virtual private network (VPN) service can help you safeguard your identity, location, and activities online. When looking for a VPN you&rsquo;ll want to consider your options carefully. For instance, a VPN should keep your internet usage private and secure but not at the expense of too speed. If anonymity is a concern, you should look for a VPN with clear and transparent data collection policies. The number of available servers and country locations a VPN offers is also important if you are trying to get around region locks. And finally, extra perks aren&rsquo;t necessary but could sweeten the deal.</p>
@@ -727,7 +725,6 @@ Cloud Computing, Internet, Privacy</div>
  - [https://www.pcworld.com/article/1366872/asus-leaks-upcoming-amd-ryzen-7000-laptop-chips.html](https://www.pcworld.com/article/1366872/asus-leaks-upcoming-amd-ryzen-7000-laptop-chips.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 15:02:07+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Are you excited for AMD&rsquo;s new Ryzen 7000 laptop CPU line? It&rsquo;s understandable if you aren&rsquo;t &mdash; it doesn&rsquo;t officially exist yet. But according to a promotional page on the Asus Turkey site, the next version of the Zenbook 14 will be packing a Ryzen 7 7730U nonetheless. A Twitter user notorious for sniffing out leaks <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/momomo_us/status/1586347985759191040&amp;xcust=2-1-1366872-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">spotted the unlikely specs</a>, but release info for the laptop or the hardware it&rsquo;s packing remain elusive. </p>
@@ -748,7 +745,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1364031/will-intel-use-the-lga-1700-socket-for-meteor-lake-cpus.html](https://www.pcworld.com/article/1364031/will-intel-use-the-lga-1700-socket-for-meteor-lake-cpus.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;ve bought a motherboard <a href="https://www.pcworld.com/article/1357979/intel-core-i9-13900k-review.html" rel="noreferrer noopener" target="_blank">with an Intel LGA 1700 socket lately</a>, take a look at the socket cover. (Assuming you&rsquo;re completely disassembling your PC, of course.) You might be surprised to find that it says it&rsquo;s compatible with &ldquo;LGA 1800&rdquo; processors&hellip;which don&rsquo;t officially exist yet. In the latest PCWorld YouTube video, Gordon and Adam ponder whether Intel is taking a page out of AMD&rsquo;s book and switching to a longer socket business model. </p>
@@ -803,7 +799,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1366827/zelda-breath-of-the-wild-looks-better-than-ever-with-8k-ray-tracing.html](https://www.pcworld.com/article/1366827/zelda-breath-of-the-wild-looks-better-than-ever-with-8k-ray-tracing.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 14:21:13+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Despite being a five-year-old title that was launched on what was basically smartphone hardware, <em>The Legend of Zelda: Breath of the Wild </em>is still one of the most visually appealing games ever made. The environmental design, mildly cell-shaded characters, and charming animations are a lesson in why good art direction can beat raw graphical power any day. But if you can have both, why not do so? One of the latest videos from a <em>Zelda </em>emulation fan shows the game running at an incredible 8K resolution with ray tracing modded in, courtesy of <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">Nvidia&rsquo;s ferocious new GeForce RTX 4090</a>. </p>
@@ -867,7 +862,6 @@ Video Games</div>
  - [https://www.pcworld.com/article/1366811/save-50-on-this-super-lightweight-logitech-mouse.html](https://www.pcworld.com/article/1366811/save-50-on-this-super-lightweight-logitech-mouse.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 14:09:35+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Logitech G Pro X wireless mouse is a fantastic option for competitive gaming, as it&rsquo;s both lightweight and ultra-responsive. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B087LP6F4Y/ref=cm_sw_r_api_i_dl_742SN2WPG6949VEJD59E_0?th=1&amp;xcust=2-1-1366811-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon&rsquo;s selling the peripheral for $109.99, which is a savings of $50</a>. Not only is it compatible with PC and Mac computers, but the bone white color scheme is also attractive as hell. Let&rsquo;s get right into the specs and features.</p>
@@ -888,7 +882,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1363181/gigabyte-b650e-aorus-master-motherboard-review.html](https://www.pcworld.com/article/1363181/gigabyte-b650e-aorus-master-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -1074,7 +1067,6 @@ Motherboards</div>
  - [https://www.pcworld.com/article/394735/best-midrange-laptops-affordable-notebooks-for-work-school-and-gaming.html](https://www.pcworld.com/article/394735/best-midrange-laptops-affordable-notebooks-for-work-school-and-gaming.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-31 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nowadays, you don&rsquo;t have to drop a ton of cash on a premium laptop to get everything you need. It&rsquo;s entirely possible to get an excellent laptop for under $1,000. Whether you&rsquo;re talking about a traditional Windows clamshell or a fully loaded Chromebook, spending less than a grand can get you a laptop you&rsquo;ll enjoy using. Moreover, at this price point, you don&rsquo;t have to sacrifice your budget to get excellent performance, a crystal-clear screen, or long battery life.</p>

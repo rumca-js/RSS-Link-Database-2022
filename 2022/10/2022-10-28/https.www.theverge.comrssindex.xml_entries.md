@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Apple’s first unionized workers say the company is withholding new benefits
  - [https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract](https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 21:51:25+00:00
- - tags: None
 
 <figure>
       <img alt="A black and white graphic showing the Apple logo" src="https://cdn.vox-cdn.com/thumbor/A5YZb1I84JpJKqDuAsjbkdjGYoI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556871/VRG_Illo_N_Barclay_1_apple.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/10/28/23428601/apple-ipad-iphone-apple-watch-models-skus](https://www.theverge.com/2022/10/28/23428601/apple-ipad-iphone-apple-watch-models-skus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 21:12:07+00:00
- - tags: None
 
 <figure>
       <img alt="A 10th-gen iPad in an Apple Smart Folio on a wood table." src="https://cdn.vox-cdn.com/thumbor/Eq-gmaCWaaOBidBY31dMjMLmUwk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556783/226361_Apple_iPad_10.9_10th_gen_DSeifert_0004.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/10/28/23428245/honda-power-pack-exchanger-e-mobility-battery-swap-station-competes-with-gogoro](https://www.theverge.com/2022/10/28/23428245/honda-power-pack-exchanger-e-mobility-battery-swap-station-competes-with-gogoro)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 21:05:19+00:00
- - tags: None
 
 <figure>
       <img alt="A man is pulling out a battery pack from an angled slot amongst a grid of slots that have the blue packs nestled in them." src="https://cdn.vox-cdn.com/thumbor/74lCF36vsBBpMb05a3ijPdPQp2g=/0x8:980x661/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556748/p221025eng_02.0.jpg" />
@@ -62,7 +59,6 @@
  - [https://www.theverge.com/23428772/google-home-household-routines-how-to-set-up](https://www.theverge.com/23428772/google-home-household-routines-how-to-set-up)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 20:48:30+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration featuring a light bulb and several smart home devices." src="https://cdn.vox-cdn.com/thumbor/3C0CSfdZVtJgU6qECqiGbJzwUSE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556642/HT023_smartHome_0001.0.jpg" />
@@ -79,7 +75,6 @@
  - [https://www.theverge.com/23416673/meta-quest-2-sidequest-unlock-how-to-install-beat-saber](https://www.theverge.com/23416673/meta-quest-2-sidequest-unlock-how-to-install-beat-saber)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 20:14:43+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration featuring a Meta Quest 2, featuring several people using the device." src="https://cdn.vox-cdn.com/thumbor/8mPKNDZShUcMvCYXZwXJ0mGwCs0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556506/HT037_S_Haddad_VR.0.jpg" />
@@ -99,7 +94,6 @@
  - [https://www.theverge.com/2022/10/28/23428969/instagram-facebook-not-loading-refresh-outage](https://www.theverge.com/2022/10/28/23428969/instagram-facebook-not-loading-refresh-outage)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 20:10:22+00:00
- - tags: None
 
 <figure>
       <img alt="The Instagram icon is featured in the middle of a background filled with pink, orange, and purple shapes." src="https://cdn.vox-cdn.com/thumbor/rAb-yJrCV5Ip8KN_M3e4_ieqgh0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556488/VRG_Illo_K_Radtke_STK070_Instagram_1.0.jpg" />
@@ -119,7 +113,6 @@
  - [https://www.theverge.com/2022/10/28/23428527/google-meet-zoom-rooms-poly-studio-x-logitech-rally](https://www.theverge.com/2022/10/28/23428527/google-meet-zoom-rooms-poly-studio-x-logitech-rally)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 19:42:50+00:00
- - tags: None
 
 <figure>
       <img alt="Picture of two TVs and two smaller screens, with one of each displaying Zoom’s UI and the other displaying Google Meet’s UI." src="https://cdn.vox-cdn.com/thumbor/zvaKTyu9hOlSN_-wUAgssCrjJj8=/257x0:1343x724/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556371/Zoom_Meet_interop_in_meeting.max_1600x1600.0.png" />
@@ -136,7 +129,6 @@
  - [https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations](https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 19:17:30+00:00
- - tags: None
 
 <figure>
       <img alt="Driverless car surrounded by regular cars" src="https://cdn.vox-cdn.com/thumbor/KBuhLecGCXMLTxpub37d2xE6fpg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556269/acastro_220216_STK003_0002.0.jpg" />
@@ -154,7 +146,6 @@
  - [https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk](https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 18:49:15+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter logo on the company’s SF headquarters." src="https://cdn.vox-cdn.com/thumbor/oOGAfHIj-UTSGFx0bm7MUBXq4Ak=/0x168:4032x2856/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556117/IMG_7266.0.jpg" />
@@ -172,7 +163,6 @@
  - [https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 18:43:44+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk shown looking downward in front of upside-down Twitter logos." src="https://cdn.vox-cdn.com/thumbor/DITkbke6VzROupZz0McUKk5o_7A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71556083/STK171_VRG_Illo_1_Normand_ElonMusk_001.0.jpg" />
@@ -196,7 +186,6 @@
  - [https://www.theverge.com/2022/10/28/23426970/birth-weight-infant-traffic-congestion-lower-health](https://www.theverge.com/2022/10/28/23426970/birth-weight-infant-traffic-congestion-lower-health)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A street congested with cars and trucks" src="https://cdn.vox-cdn.com/thumbor/8mhbnWolQ3bzP8cO3hr-QcGpAzg=/0x3:7360x4910/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71555855/1209802079.0.jpg" />
@@ -215,7 +204,6 @@
  - [https://www.theverge.com/2022/10/28/23428471/snapchat-spotlight-payments-tiktok-creator-fund](https://www.theverge.com/2022/10/28/23428471/snapchat-spotlight-payments-tiktok-creator-fund)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 17:46:48+00:00
- - tags: None
 
 <figure>
       <img alt="The Snapchat ghost icon in white, on a rust red and black background" src="https://cdn.vox-cdn.com/thumbor/3_t0lJ4baBc18he27JD6rHSQEjI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71555719/acastro_STK466_02.0.jpg" />
@@ -233,7 +221,6 @@
  - [https://www.theverge.com/23428239/signalis-review-ps4-xbox-switch-pc](https://www.theverge.com/23428239/signalis-review-ps4-xbox-switch-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 16:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from the horror game Signalis." src="https://cdn.vox-cdn.com/thumbor/jYpFXYyNsw91Yq329a3XhHnnjIQ=/81x0:1701x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71555233/w3aLZ1YI.0.png" />
@@ -250,7 +237,6 @@
  - [https://www.theverge.com/2022/10/28/23428179/bayonetta-3-streamer-mode-nintendo-switch-platinum-games](https://www.theverge.com/2022/10/28/23428179/bayonetta-3-streamer-mode-nintendo-switch-platinum-games)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 14:46:35+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from Bayonetta 3 featuring an extreme close-up of Bayonetta’s face with black hair and black rimmed glasses pushed up with a white-gloved hand" src="https://cdn.vox-cdn.com/thumbor/b7yAtVBc27mp1Lv_LQjGgJaPJ0Y=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554675/Switch_Bayonetta3_screen_79.0.jpg" />
@@ -268,7 +254,6 @@
  - [https://www.theverge.com/2022/10/28/23424776/volvo-c40-recharge-review-specs-range-price](https://www.theverge.com/2022/10/28/23424776/volvo-c40-recharge-review-specs-range-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 14:40:02+00:00
- - tags: None
 
 <figure>
       <img alt="Volvo C40 Recharge electric vehicle in blue paint" src="https://cdn.vox-cdn.com/thumbor/OsPYkWEAsAj_Q-8TWLeZBTu8-VU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554651/226373_Volvo_C40_TStevens_0003.0.jpg" />
@@ -285,7 +270,6 @@
  - [https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate](https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 14:04:55+00:00
- - tags: None
 
 <figure>
       <img alt="Hand holding phone with Twitter logo against an illustrated background" src="https://cdn.vox-cdn.com/thumbor/xC-aOnyixyq6-qgonCulKjpj4wc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/68668682/HT027_twitter_0006.5.jpg" />
@@ -304,7 +288,6 @@
  - [https://www.theverge.com/23427231/android-13-bedtime-mode-google-pixel-how-to](https://www.theverge.com/23427231/android-13-bedtime-mode-google-pixel-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/aWrSCVW4FnmTSDi187HPcnyaEVY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554477/VRG_Illo_S_Haddad_HT005_android_galaxy.0.jpg" />
@@ -326,7 +309,6 @@
  - [https://www.theverge.com/2022/10/28/23428130/nba-2k-league-gambling-ban](https://www.theverge.com/2022/10/28/23428130/nba-2k-league-gambling-ban)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 13:51:56+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the 2022 NBA 2K League 5v5 finals, and the winning team, Bucks Gaming, celebrating." src="https://cdn.vox-cdn.com/thumbor/NRmpncmc9PEi3QEduRr1vofueyw=/0x0:4912x3275/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554400/1242765123.0.jpg" />
@@ -343,7 +325,6 @@
  - [https://www.theverge.com/2022/10/28/23428089/xbox-series-s-call-of-duty-2-target-game-sonos-beam-sub-one-hbo-max-deal-sale](https://www.theverge.com/2022/10/28/23428089/xbox-series-s-call-of-duty-2-target-game-sonos-beam-sub-one-hbo-max-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 13:35:12+00:00
- - tags: None
 
 <figure>
       <img alt="Ghost, the main character in Call of Duty: Modern Warfare II, stands in a field" src="https://cdn.vox-cdn.com/thumbor/YTNKnSaJ6N2ftEcOBzxtzDsYUDI=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554333/Ghost_UNBRANDED.0.png" />
@@ -360,7 +341,6 @@
  - [https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 13:02:57+00:00
- - tags: None
 
 <figure>
       <img alt="Twitter bird logo, but spooky" src="https://cdn.vox-cdn.com/thumbor/ehhLglnFspQHs9SSoTCSzMMR_c8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554242/acastro_200715_1777_twitter_0001.0.0.jpg" />
@@ -377,7 +357,6 @@
  - [https://www.theverge.com/23427142/apple-ipad-pro-12-9-2022-tablet-ipados-apple-pencil-review](https://www.theverge.com/23427142/apple-ipad-pro-12-9-2022-tablet-ipados-apple-pencil-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 13:00:00+00:00
- - tags: None
 
 <p>Apple’s latest iPad Pro has one upgrade from last year: a new processor. That enables a new feature for the Apple Pencil and is technically faster than the old one. But since this year’s update is so small, here’s a wish list for things when Apple does redesign its top-of-the-line iPad.</p>
   <p>
@@ -388,7 +367,6 @@
  - [https://www.theverge.com/23421215/solid-state-batteries-future-3d-printed](https://www.theverge.com/23421215/solid-state-batteries-future-3d-printed)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/rc5tNB131XlPgbWIukJEFmh23KQ=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554197/Solid_State_Batteries.0.jpeg" />
@@ -404,7 +382,6 @@
  - [https://www.theverge.com/2022/10/28/23428103/twitter-morale-weak-leadership-elon-musk-parag-agrawal](https://www.theverge.com/2022/10/28/23428103/twitter-morale-weak-leadership-elon-musk-parag-agrawal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 12:40:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/uIe_GFssDXJNl6PKBlOdh73J2RA=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554098/acastro_STK050_08.0.jpg" />
@@ -421,7 +398,6 @@
  - [https://www.theverge.com/2022/10/28/23420547/disney-hulu-netflix-del-toro-hellraiser-halloween-streaming](https://www.theverge.com/2022/10/28/23420547/disney-hulu-netflix-del-toro-hellraiser-halloween-streaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 12:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="F. Murray Abraham in Guillermo del Toro’s Cabinet of Curiosities." src="https://cdn.vox-cdn.com/thumbor/Z9pXcMJaQB4BGH_mC7pj1EDs3m8=/0x0:3600x2400/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554055/GDT_AUTOPSY_Unit_02567RC.0.jpg" />
@@ -438,7 +414,6 @@
  - [https://www.theverge.com/2022/10/28/23428075/call-of-duty-modern-warfare-2-crossplay-xbox-pc](https://www.theverge.com/2022/10/28/23428075/call-of-duty-modern-warfare-2-crossplay-xbox-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 12:20:02+00:00
- - tags: None
 
 <figure>
       <img alt="Call of Duty: Modern Warfare II has forced crossplay" src="https://cdn.vox-cdn.com/thumbor/Lg6NTYKuRKGh_cNP5B3_IIraUuY=/143x0:1778x1090/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71554030/MWII_000_ARTREVEAL_TOUT.0.jpg" />
@@ -460,7 +435,6 @@
  - [https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 11:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A magenta-hued photograph of Elon Musk against a wavy illustrated background." src="https://cdn.vox-cdn.com/thumbor/PcUZdJFyt3N6RjAN35kMpc7o8NU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71553810/STK171_VRG_Illo_12_Normand_ElonMusk_12.0.jpg" />
@@ -477,7 +451,6 @@
  - [https://www.theverge.com/2022/10/28/23428060/dark-souls-2-pc-servers-online-exploit-prepare-to-die-scholars-of-the-first-sin](https://www.theverge.com/2022/10/28/23428060/dark-souls-2-pc-servers-online-exploit-prepare-to-die-scholars-of-the-first-sin)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 11:15:37+00:00
- - tags: None
 
 <figure>
       <img alt="Dark Souls 2 screenshot." src="https://cdn.vox-cdn.com/thumbor/sVehoM26QcL0dJCtKsvagdeQrRU=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71553788/ss_3b2006322099225a4ea8f17830b4b9fbd2f78864.0.jpg" />
@@ -499,7 +472,6 @@
  - [https://www.theverge.com/2022/10/28/23428013/eu-ban-combustion-engine-cars-vans-2035-law](https://www.theverge.com/2022/10/28/23428013/eu-ban-combustion-engine-cars-vans-2035-law)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 10:27:43+00:00
- - tags: None
 
 <figure>
       <img alt="GERMANY-ECONOMY-AUTOMOBILE-BMW" src="https://cdn.vox-cdn.com/thumbor/SLWe4Wr6F3dz5C8AMk7X12xyCEM=/124x0:5277x3435/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71553627/1244104481.0.jpg" />
@@ -517,7 +489,6 @@
  - [https://www.theverge.com/2022/10/28/23428023/redmi-note-12-discovery-edition-210w-fast-charging-200mp-camera-release-date-price-features](https://www.theverge.com/2022/10/28/23428023/redmi-note-12-discovery-edition-210w-fast-charging-200mp-camera-release-date-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 09:50:21+00:00
- - tags: None
 
 <figure>
       <img alt="Redmi Note 12 Discovery Edition." src="https://cdn.vox-cdn.com/thumbor/i282dAVkNBBxghXGGmFN9osY0jM=/0x0:2026x1351/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71553537/Unknown_6.0.jpg" />
@@ -534,7 +505,6 @@
  - [https://www.theverge.com/23426576/nothing-ear-stick-true-wireless-headphones-earbuds-review](https://www.theverge.com/23426576/nothing-ear-stick-true-wireless-headphones-earbuds-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 09:00:00+00:00
- - tags: None
 
 <p>Nothing has ironed out the kinks of its debut pair of earbuds with the Ear Stick. But in the process it’s dropped some of the features that made the Ear 1s competitive.</p>
   <p>
@@ -545,7 +515,6 @@
  - [https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels](https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 04:16:47+00:00
- - tags: None
 
 <figure>
       <img alt="Three screenshots showing the shorts and live lists on a YouTube channel." src="https://cdn.vox-cdn.com/thumbor/DGzG-vtUW-Ro24wSNWkX5ctvRWU=/778x0:7054x4184/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71553211/message_185994851_10610601919851373001.0.png" />
@@ -562,7 +531,6 @@
  - [https://www.theverge.com/2022/10/28/23427207/rihanna-lift-me-up-black-panther-wakanda-forever-streaming](https://www.theverge.com/2022/10/28/23427207/rihanna-lift-me-up-black-panther-wakanda-forever-streaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 04:15:14+00:00
- - tags: None
 
 <figure>
       <img alt="A close-up shot of Rihanna looking over her shoulder at the Black Panther: Wakanda Forever premiere while posing on the red carpet." src="https://cdn.vox-cdn.com/thumbor/FN8_xjcZ7K1HJ9JPrkGf7oW_QfA=/0x0:4500x3000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71553207/1436968351.0.jpg" />
@@ -580,7 +548,6 @@
  - [https://www.theverge.com/23424572/enola-holmes-2-review-netflix](https://www.theverge.com/23424572/enola-holmes-2-review-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 02:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Millie Bobby Brown and Helena Bonham Carter in Enola Holmes 2." src="https://cdn.vox-cdn.com/thumbor/8dnvLGgOegAosrWQC8hNHrsIyN0=/0x0:7200x4800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71552927/EH2_20211020_06768_R.0.jpeg" />
@@ -597,7 +564,6 @@
  - [https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 01:23:54+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/gOLos_N33sgfTa2gWSVdcAxcqt0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70735423/STK171_VRG_Illo_5_Normand_ElonMusk_05.5.jpg" />
@@ -613,7 +579,6 @@
  - [https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 00:54:00+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of Elon Musk standing with a purple background covered in yellow stars." src="https://cdn.vox-cdn.com/thumbor/DgC2cLvO5fijF0bsKWPTYzW5IgI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71552786/STK171_VRG_Illo_13_Normand_ElonMusk_13.0.jpg" />
@@ -631,7 +596,6 @@
  - [https://www.theverge.com/2022/10/27/23427453/twitter-employees-wait-for-elon-musk-takeover-to-close](https://www.theverge.com/2022/10/27/23427453/twitter-employees-wait-for-elon-musk-takeover-to-close)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 00:00:49+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk standing on a sheet of ice in the shape of the Twitter icon that is beginning to crack." src="https://cdn.vox-cdn.com/thumbor/fOBVn1ymZHNhwZUlkDWVDvchReA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71552677/226378_Twitter_Risk_Elon_Musk_Spot_WJoel.0.png" />

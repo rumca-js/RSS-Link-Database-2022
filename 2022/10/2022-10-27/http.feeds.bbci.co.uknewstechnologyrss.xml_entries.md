@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Why lasers are being used to write inside diamonds
  - [https://www.bbc.co.uk/news/business-62318016?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62318016?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-27 23:04:39+00:00
- - tags: None
 
 A British company is using unique technology to inscribe diamonds with sophisticated lasers.
 
@@ -12,7 +11,6 @@ A British company is using unique technology to inscribe diamonds with sophistic
  - [https://www.bbc.co.uk/news/business-63421170?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63421170?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-27 21:12:13+00:00
- - tags: None
 
 The tech giant warned of slower growth as shoppers return to bricks and mortar stores.
 
@@ -20,7 +18,6 @@ The tech giant warned of slower growth as shoppers return to bricks and mortar s
  - [https://www.bbc.co.uk/news/business-63408935?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63408935?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-27 02:49:30+00:00
- - tags: None
 
 Lee Jae-yong was found guilty of bribery and embezzlement before being granted a presidential pardon.
 
@@ -28,6 +25,5 @@ Lee Jae-yong was found guilty of bribery and embezzlement before being granted a
  - [https://www.bbc.co.uk/news/technology-63402337?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63402337?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-27 01:21:31+00:00
- - tags: None
 
 A report says an additional 20,000 black women need to be recruited to match numbers in the wider workforce.

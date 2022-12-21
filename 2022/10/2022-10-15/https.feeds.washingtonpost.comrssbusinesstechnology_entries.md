@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Musk suggests openness to continue funding Starlink access in Ukraine
  - [https://www.washingtonpost.com/technology/2022/10/15/elon-musk-ukraine-starlink/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/15/elon-musk-ukraine-starlink/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-15 16:34:56+00:00
- - tags: None
 
 Elon Musk on Saturday signaled he could continue funding the Starlink satellite service that is currently providing internet for Ukraine and its military.
 
@@ -12,7 +11,6 @@ Elon Musk on Saturday signaled he could continue funding the Starlink satellite 
  - [https://www.washingtonpost.com/technology/2022/10/15/truth-social-trump-animosity-whistleblower/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/15/truth-social-trump-animosity-whistleblower/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-15 15:03:24+00:00
- - tags: None
 
 A whistleblower has provided The Post and the SEC with hundreds of previously unreported company messages, documents, photos and audio recordings that reveal a stunning portrait of the animosity that has built up inside Trump Media since its high-profile debut last year.
 
@@ -20,7 +18,6 @@ A whistleblower has provided The Post and the SEC with hundreds of previously un
  - [https://www.washingtonpost.com/technology/2022/10/15/russia-relocation-draft-guide/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/15/russia-relocation-draft-guide/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-15 07:00:04+00:00
- - tags: None
 
 Many Russians want no part of Putin’s war, so they’re using this online community to plan every detail of their escape
 
@@ -28,6 +25,5 @@ Many Russians want no part of Putin’s war, so they’re using this online comm
  - [https://www.washingtonpost.com/business/2022/10/15/apple-store-oklahoma-city-union-vote/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/10/15/apple-store-oklahoma-city-union-vote/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-15 06:50:23+00:00
- - tags: None
 
 Workers in the Apple Oklahoma City store voted to unionize, joining the Communications Workers of America Union.

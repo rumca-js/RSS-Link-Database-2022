@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Microsoft Surface Laptop 5 hands-on: Same as it ever was, but faster
  - [https://www.pcworld.com/article/1352018/microsoft-surface-laptop-5-hands-on-amd-out-thunderbolt-in.html](https://www.pcworld.com/article/1352018/microsoft-surface-laptop-5-hands-on-amd-out-thunderbolt-in.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 18:10:20+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Pour one out for the <a href="https://www.pcworld.com/article/394409/surface-laptop-4-ryzen-7-review.html" rel="noreferrer noopener" target="_blank">AMD Ryzen-powered Surface Laptop</a>. Despite impressive leaps forward for the Ryzen 6000 series, Microsoft&rsquo;s self-branded machine is now an all-Intel affair. </p>
@@ -17,7 +16,6 @@
  - [https://www.pcworld.com/article/1351886/surface-pro-9-hands-on-microsoft-melds-intel-and-arm-options.html](https://www.pcworld.com/article/1351886/surface-pro-9-hands-on-microsoft-melds-intel-and-arm-options.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 17:22:14+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft&rsquo;s <a href="https://www.pcworld.com/article/1346280/microsofts-new-surface-pro-9-hides-an-arm-option-and-cool-features.html">Surface series of laptop-tablet hybrids is now in its ninth generation</a>. And any consumer technology that lasts that long in tends to settle into a comfortable groove. The Surface Pro 9 is so comfortable with its dominant space in Micros
@@ -26,7 +24,6 @@
  - [https://www.pcworld.com/article/1346704/microsoft-365-defender-now-disrupts-ransomware.html](https://www.pcworld.com/article/1346704/microsoft-365-defender-now-disrupts-ransomware.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft 365 Defender now automatically disrupts ransomware attacks, giving business customers &mdash; but not consumers, yet &mdash; a bit more peace of mind in avoiding ransomware.</p>
@@ -43,7 +40,6 @@
  - [https://www.pcworld.com/article/1346739/hurray-you-can-now-share-music-in-teams.html](https://www.pcworld.com/article/1346739/hurray-you-can-now-share-music-in-teams.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A number of new features are coming to Microsoft Teams: a new Teams Premium option will be available to IT managers to sign on to, while ordinary users will have a number of new UI elements and apps to choose from &mdash; yes, even which music to listen to while working.</p>
@@ -56,7 +52,6 @@
  - [https://www.pcworld.com/article/1346584/outlook-gaining-properly-scheduled-email.html](https://www.pcworld.com/article/1346584/outlook-gaining-properly-scheduled-email.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft Outlook as well as Microsoft Teams are adding the ability to schedule messages to be sent at a later date and time, together with additional features to let coworkers know when and where they&rsquo;re working.</p>
@@ -69,7 +64,6 @@
  - [https://www.pcworld.com/article/1346679/a-new-microsoft-365-app-will-introduce-you-to-a-helpful-new-toolbar.html](https://www.pcworld.com/article/1346679/a-new-microsoft-365-app-will-introduce-you-to-a-helpful-new-toolbar.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A Microsoft 365 app will replace the existing Office app within Windows beginning next month, Microsoft said at its Microsoft Ignite conference today. That will usher in a welcome change to some Microsoft 365 / Office apps, automatically putting frequently used commands in the taskbar.</p>
@@ -82,7 +76,6 @@
  - [https://www.pcworld.com/article/1346526/microsofts-surface-laptop-5-adds-12th-gen-core-thunderbolt.html](https://www.pcworld.com/article/1346526/microsofts-surface-laptop-5-adds-12th-gen-core-thunderbolt.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 14:06:16+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft&rsquo;s Surface Laptop 5 continues Microsoft&rsquo;s tradition of providing a general all-around productivity laptop, though there&rsquo;s one pronounced change for this generation: Microsoft has settled on a 12th-gen &ldquo;Alder Lake&rdquo; Core chip from Intel&mdash;and that&rsquo;s it.</p>
@@ -95,7 +88,6 @@
  - [https://www.pcworld.com/article/1346579/microsoft-will-bring-ai-art-to-windows-edge.html](https://www.pcworld.com/article/1346579/microsoft-will-bring-ai-art-to-windows-edge.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft said it will &ldquo;soon&rdquo; bring DALL-E 2-powered AI art to Windows with a new Microsoft Designer app and a separate, related Microsoft Image Creator toolset to Bing and Microsoft Edge.</p>
@@ -108,7 +100,6 @@
  - [https://www.pcworld.com/article/1346280/microsofts-new-surface-pro-9-hides-an-arm-option-and-cool-features.html](https://www.pcworld.com/article/1346280/microsofts-new-surface-pro-9-hides-an-arm-option-and-cool-features.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft&rsquo;s Surface Pro 9 is noteworthy in one particular aspect: You now have a choice between an always-connected version with an Arm processor, or a more powerful 12th-gen Core chip for more traditional use.</p>
@@ -121,7 +112,6 @@
  - [https://www.pcworld.com/article/1346366/ss2.html](https://www.pcworld.com/article/1346366/ss2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft&rsquo;s Surface Studio 2+ represents the rebirth of Microsoft&rsquo;s iconic, massive touchscreen all-in-one PC&mdash;with an Nvidia GeForce RTX 3060 under the hood alongside an 11th-gen Core chip.</p>
@@ -134,7 +124,6 @@
  - [https://www.pcworld.com/article/1346567/microsoft-audio-dock-presenter-plus-your-new-teams-gadgets.html](https://www.pcworld.com/article/1346567/microsoft-audio-dock-presenter-plus-your-new-teams-gadgets.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Surface Dock is dead. Long live the Microsoft Audio Dock.</p>
@@ -147,7 +136,6 @@
  - [https://www.pcworld.com/article/1351487/this-msi-monitor-is-sleek-powerful-and-210-off.html](https://www.pcworld.com/article/1351487/this-msi-monitor-is-sleek-powerful-and-210-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 13:55:59+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for a swanky laptop for work or personal use, you&rsquo;re in luck. Day two of Amazon&rsquo;s Prime Day is here and with it comes an tsunami of epic discounts. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B09FNS8YN2?ref_=cm_sw_r_cp_ud_dp_7JNZX642QVSZVT8XYPEB&amp;xcust=2-1-1351487-1-0-0&amp;sref=https://ww
@@ -156,7 +144,6 @@
  - [https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html](https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 13:19:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -166,7 +153,6 @@
  - [https://www.pcworld.com/article/1351313/nab-this-1080p-sceptre-monitor-for-80-this-prime-day.html](https://www.pcworld.com/article/1351313/nab-this-1080p-sceptre-monitor-for-80-this-prime-day.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 13:09:14+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re looking to score a 1080p monitor for work or day-to-day use, there&rsquo;s no better time than now to buy. Day two of Amazon&rsquo;s Prime Day is here and with it comes a slew of awesome discounts on anything and everything. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Sceptre-E225W-19203R-Monitor-Speakers-Metallic/dp/B
@@ -175,7 +161,6 @@
  - [https://www.pcworld.com/article/1349967/where-to-buy-nvidia-geforce-rtx-4090.html](https://www.pcworld.com/article/1349967/where-to-buy-nvidia-geforce-rtx-4090.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 13:04:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s launch day for Nvidia&rsquo;s latest, greatest, and absolutely girthiest graphics cards. If you&rsquo;re at all interested in the GeForce RTX 4090, you should <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review.html" rel="noreferrer noopener" target="_blank">check out our exhaustive RTX 4090 review</a>. &ldquo;Nvidia&rsquo;s monstrous GeFo
@@ -184,7 +169,6 @@
  - [https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html](https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 11:59:37+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -194,7 +178,6 @@
  - [https://www.pcworld.com/article/1351147/score-amazon-kindle-paperwhite-all-time-low-during-prime-day.html](https://www.pcworld.com/article/1351147/score-amazon-kindle-paperwhite-all-time-low-during-prime-day.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 11:44:18+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Amazon may have just released <a href="https://www.pcworld.com/article/1065646/amazon-upgraded-kindle.html">a new Kindle</a>, but right now, bookworms should set their sights on the fancier Kindle Paperwhite. During the company&rsquo;s October Prime Day sale, the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/All-new-Kindle-Paperwhite-ad
@@ -203,7 +186,6 @@
  - [https://www.pcworld.com/article/1350514/65-inch-4k-hisense-tv-deal.html](https://www.pcworld.com/article/1350514/65-inch-4k-hisense-tv-deal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Hisense ULED Premium 65U7G appears to be one of the best, if not <em>the</em> best TV deals available during Amazon&rsquo;s October Prime Day, aka the Prime Early Access Sale. It&rsquo;s the star discount in our round up the <a href="https://www.pcworld.com/article/797028/prime-day-tv-deals-oct-11.html">Amazon&rsquo;s best TV deals</a>.</p>
@@ -216,7 +198,6 @@
  - [https://www.pcworld.com/article/1345928/best-prime-day-speaker-soundbar-deals-oct-12.html](https://www.pcworld.com/article/1345928/best-prime-day-speaker-soundbar-deals-oct-12.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:15:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>No desktop PC setup is complete without a decent set of speakers. And while TVs technically have speakers built-in, ever since they got thinner than an emaciated flamingo, those speakers have kind of sucked. So, a good soundbar add-on is an essential part of your living room, too. If you need either speaker type, you&rsquo;re in luck: Amazon&rsquo;s October Prime Day is here. T
@@ -225,7 +206,6 @@
  - [https://www.pcworld.com/article/393625/amazon-prime-day-ssd-deals-oct-12.html](https://www.pcworld.com/article/393625/amazon-prime-day-ssd-deals-oct-12.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:10:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Amazon is offering not one, but <em>two</em> Prime Day shopping events this year. And now the surprise fall edition of Prime Day&mdash;officially known as Prime Early Access Sale&mdash;is in its last day. Just before midnight on Oct 12, the deals will disappear.</p>
@@ -238,7 +218,6 @@
  - [https://www.pcworld.com/article/796396/prime-day-gpu-deals-oct-12.html](https://www.pcworld.com/article/796396/prime-day-gpu-deals-oct-12.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:05:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Looking to increase those frame rates? Graphics card pricing is finally getting reasonable again, and Amazon&rsquo;s Prime Early Access Sale, colloquially known as Prime Day 2 or October Prime Day, starts Oct 11 and through Oct 12&mdash;hopefully to the benefit of desktop gamers looking to score a deal.<br /><br />For almost two years, the quadruple-action combo of pandemic gam
@@ -247,7 +226,6 @@
  - [https://www.pcworld.com/article/394751/prime-day-monitor-deals-oct-12.html](https://www.pcworld.com/article/394751/prime-day-monitor-deals-oct-12.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:02:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re looking to score a <a href="https://www.pcworld.com/article/559245/how-to-check-your-monitors-refresh-rate.html">high refresh rate monitor</a> for those late night gaming sessions, there&rsquo;s no better time than now to take the plunge. Day two of Prime Day is here and ready to rumble. Known as <a href="https://www.pcworld.com/article/407062/amazon-prime-day-e
@@ -256,7 +234,6 @@
  - [https://www.pcworld.com/article/796457/prime-day-sale-computer-deals-day-2.html](https://www.pcworld.com/article/796457/prime-day-sale-computer-deals-day-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:01:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Amazon&rsquo;s latest sales event, Prime Early Access Sale, is ending soon but there is still a chance to score some great deals. This smaller version of Prime Day includes great deals on everything from gaming PCs to all-in-ones, as well as more traditional desktop machines.</p>
@@ -269,7 +246,6 @@
  - [https://www.pcworld.com/article/797028/prime-day-tv-deals-oct-12.html](https://www.pcworld.com/article/797028/prime-day-tv-deals-oct-12.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Amazon&rsquo;s October Prime Day sale, officially known as the Amazon Prime Early Access Sale, is on now and runs through Oct 12. The October Prime Day TV deals are actually quite amazing, both at Amazon and other major retailers.</p>
@@ -282,7 +258,6 @@
  - [https://www.pcworld.com/article/796350/prime-day-sale-laptop-deals-day-2.html](https://www.pcworld.com/article/796350/prime-day-sale-laptop-deals-day-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 09:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re in the market for a new laptop, and you missed finding a deal during July&rsquo;s Prime Day event, you&rsquo;re in luck. Amazon is still running its latest sales event, the Prime Early Access Sale, which ends Oct 12. This low-key version of Prime Day includes great deals on laptops from Dell, HP, and other top brands.</p>
@@ -295,7 +270,6 @@
  - [https://www.pcworld.com/article/799013/prime-day-sale-dash-cam-deals-day-2.html](https://www.pcworld.com/article/799013/prime-day-sale-dash-cam-deals-day-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-12 08:50:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Are you looking for a second set of eyes to help you on the road? Amazon&rsquo;s latest sales event, Prime Early Access Sale, will end on October 12, so now is a great time to buy a dash cam for piece of mind. What many people are calling &ldquo;October Prime Day&rdquo; includes great deals on everything from 4K front and rearview sets to mini-cams, and more.</p>

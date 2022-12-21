@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Forget Prime Day, Criterion's 50% off sale is the real steal today
  - [https://www.pcgamer.com/forget-prime-day-criterions-50-off-sale-is-the-real-steal-today](https://www.pcgamer.com/forget-prime-day-criterions-50-off-sale-is-the-real-steal-today)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 22:40:14+00:00
- - tags: None
 
 The Criterion Collection's 24 hour flash sale is the best time time to hoover up classic movies.
 
@@ -12,7 +11,6 @@ The Criterion Collection's 24 hour flash sale is the best time time to hoover up
  - [https://www.pcgamer.com/samsungs-ukrainian-office-damaged-by-russian-missile-strike](https://www.pcgamer.com/samsungs-ukrainian-office-damaged-by-russian-missile-strike)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 22:25:41+00:00
- - tags: None
 
 The building suffered numerous broken windows but Samsung confirmed no employees were injured.
 
@@ -20,7 +18,6 @@ The building suffered numerous broken windows but Samsung confirmed no employees
  - [https://www.pcgamer.com/cyberpunk-2077-mod-turns-you-into-a-real-edgerunners-cyberpsycho](https://www.pcgamer.com/cyberpunk-2077-mod-turns-you-into-a-real-edgerunners-cyberpsycho)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 22:09:14+00:00
- - tags: None
 
 The mod adds a humanity score that drops when installing cyberware and committing murders. Play nice, or go mad.
 
@@ -28,7 +25,6 @@ The mod adds a humanity score that drops when installing cyberware and committin
  - [https://www.pcgamer.com/meta-quest-pro-announcement](https://www.pcgamer.com/meta-quest-pro-announcement)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 22:01:35+00:00
- - tags: None
 
 Meta's new VR headset isn't being marketed as a gaming device, but we want to play games on it.
 
@@ -36,7 +32,6 @@ Meta's new VR headset isn't being marketed as a gaming device, but we want to pl
  - [https://www.pcgamer.com/were-going-to-improve-the-saints-row-experience-saints-row-devs-are-prioritizing-fixes-over-new-content](https://www.pcgamer.com/were-going-to-improve-the-saints-row-experience-saints-row-devs-are-prioritizing-fixes-over-new-content)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 21:56:35+00:00
- - tags: None
 
 The first major update for Saints Row, focused on fixes and quality of life improvements, is expected in November.
 
@@ -44,7 +39,6 @@ The first major update for Saints Row, focused on fixes and quality of life impr
  - [https://www.pcgamer.com/steams-latest-free-to-play-fps-is-for-a-very-specific-call-of-duty-fan-and-im-not-one-of-them](https://www.pcgamer.com/steams-latest-free-to-play-fps-is-for-a-very-specific-call-of-duty-fan-and-im-not-one-of-them)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 20:22:43+00:00
- - tags: None
 
 Shatterline is a throwback to the sort of shooter I stopped playing in middle school, but its PvE mode is strong.
 
@@ -52,7 +46,6 @@ Shatterline is a throwback to the sort of shooter I stopped playing in middle sc
  - [https://www.pcgamer.com/prime-day-steam-deck-accessories-deals](https://www.pcgamer.com/prime-day-steam-deck-accessories-deals)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 19:34:01+00:00
- - tags: None
 
 Now's the time to get that Steam Deck carrying case you've been putting off.
 
@@ -60,7 +53,6 @@ Now's the time to get that Steam Deck carrying case you've been putting off.
  - [https://www.pcgamer.com/if-the-new-need-for-speed-games-visual-effects-are-too-anime-for-you-ea-says-you-can-turn-them-off](https://www.pcgamer.com/if-the-new-need-for-speed-games-visual-effects-are-too-anime-for-you-ea-says-you-can-turn-them-off)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 19:15:28+00:00
- - tags: None
 
 Too anime? Too distracting? Whatever the reason, if you don't like Need for Speed Unbound's 'tags,' you can ditch them.
 
@@ -68,7 +60,6 @@ Too anime? Too distracting? Whatever the reason, if you don't like Need for Spee
  - [https://www.pcgamer.com/cheap-gaming-laptop-deals-prime-day-early-access-sale](https://www.pcgamer.com/cheap-gaming-laptop-deals-prime-day-early-access-sale)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 16:45:05+00:00
- - tags: None
 
 So many cheap gaming laptops for gaming on the go, or just playing Crusader Kings when the boss isn't looking.
 
@@ -76,7 +67,6 @@ So many cheap gaming laptops for gaming on the go, or just playing Crusader King
  - [https://www.pcgamer.com/a-plague-tale-requiem-pc-system-requirements](https://www.pcgamer.com/a-plague-tale-requiem-pc-system-requirements)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 15:52:19+00:00
- - tags: None
 
 The minimum requirement is quite manageable, but the recommended is something else.
 
@@ -84,7 +74,6 @@ The minimum requirement is quite manageable, but the recommended is something el
  - [https://www.pcgamer.com/real-time-strategy-is-back-from-the-brink-of-death](https://www.pcgamer.com/real-time-strategy-is-back-from-the-brink-of-death)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 15:47:39+00:00
- - tags: None
 
 This is the healthiest the genre has been for at least 10 years.
 
@@ -92,7 +81,6 @@ This is the healthiest the genre has been for at least 10 years.
  - [https://www.pcgamer.com/the-elgato-stream-deck-hits-its-lowest-price-yet-for-prime-early-access](https://www.pcgamer.com/the-elgato-stream-deck-hits-its-lowest-price-yet-for-prime-early-access)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 15:11:07+00:00
- - tags: None
 
 The quintessential streaming accessory is cheap in Amazon's Prime Early Access sale.
 
@@ -100,7 +88,6 @@ The quintessential streaming accessory is cheap in Amazon's Prime Early Access s
  - [https://www.pcgamer.com/this-rx-6700-xt-graphics-card-is-actually-less-than-msrp-right-now](https://www.pcgamer.com/this-rx-6700-xt-graphics-card-is-actually-less-than-msrp-right-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 14:54:44+00:00
- - tags: None
 
 A solid choice for gamers on 1080p and 1440p screens.
 
@@ -108,7 +95,6 @@ A solid choice for gamers on 1080p and 1440p screens.
  - [https://www.pcgamer.com/the-answer-is-notwitch-moneyman-rejects-larger-revenue-cut-for-streamers](https://www.pcgamer.com/the-answer-is-notwitch-moneyman-rejects-larger-revenue-cut-for-streamers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 14:29:59+00:00
- - tags: None
 
 Content creators want the world's biggest streaming platform to get in-line with rivals' more generous rates.
 
@@ -116,7 +102,6 @@ Content creators want the world's biggest streaming platform to get in-line with
  - [https://www.pcgamer.com/fortnite-how-to-tune-tv](https://www.pcgamer.com/fortnite-how-to-tune-tv)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 13:37:01+00:00
- - tags: None
 
 Tune in to find out.
 
@@ -124,7 +109,6 @@ Tune in to find out.
  - [https://www.pcgamer.com/cs-go-pro-leaves-team-after-suffering-traumatic-injuries-in-maltese-nightclub-fight](https://www.pcgamer.com/cs-go-pro-leaves-team-after-suffering-traumatic-injuries-in-maltese-nightclub-fight)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 13:04:18+00:00
- - tags: None
 
 Kristian 'k0nfig' Wienecke sustained a badly broken ankle and a skull fracture.
 
@@ -132,7 +116,6 @@ Kristian 'k0nfig' Wienecke sustained a badly broken ankle and a skull fracture.
  - [https://www.pcgamer.com/nvidia-geforce-rtx-4090-founders-edition-review-performance-benchmarks](https://www.pcgamer.com/nvidia-geforce-rtx-4090-founders-edition-review-performance-benchmarks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 13:03:28+00:00
- - tags: None
 
 You're sure going to be glad you didn't buy an RTX 3090 Ti in the past seven months.
 
@@ -140,7 +123,6 @@ You're sure going to be glad you didn't buy an RTX 3090 Ti in the past seven mon
  - [https://www.pcgamer.com/google-cloud-gaming-chromebooks](https://www.pcgamer.com/google-cloud-gaming-chromebooks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 13:03:03+00:00
- - tags: None
 
 Stadia may be gone but Google's teamed up with Acer, Asus, and Lenovo to launch three cloud gaming Chromebooks.
 
@@ -148,7 +130,6 @@ Stadia may be gone but Google's teamed up with Acer, Asus, and Lenovo to launch 
  - [https://www.pcgamer.com/this-competitive-multiplayer-game-from-former-riot-and-blizzard-devs-is-trying-to-cut-out-the-raging-strangers](https://www.pcgamer.com/this-competitive-multiplayer-game-from-former-riot-and-blizzard-devs-is-trying-to-cut-out-the-raging-strangers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 13:00:00+00:00
- - tags: None
 
 A big online multiplayer game that isn't hyper-toxic? Evercore Heroes developer Vela Games thinks it can be done.
 
@@ -156,7 +137,6 @@ A big online multiplayer game that isn't hyper-toxic? Evercore Heroes developer 
  - [https://www.pcgamer.com/this-high-end-RTX-3070-gaming-laptop-is-fantastic-value-at-1078](https://www.pcgamer.com/this-high-end-RTX-3070-gaming-laptop-is-fantastic-value-at-1078)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 12:50:18+00:00
- - tags: None
 
 Enjoy 1080p gaming with none of the hassle.
 
@@ -164,7 +144,6 @@ Enjoy 1080p gaming with none of the hassle.
  - [https://www.pcgamer.com/this-rtx-3060-PC-is-an-absolute-steal](https://www.pcgamer.com/this-rtx-3060-PC-is-an-absolute-steal)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 10:56:22+00:00
- - tags: None
 
 A great price for 1080p gaming.
 
@@ -172,7 +151,6 @@ A great price for 1080p gaming.
  - [https://www.pcgamer.com/you-can-now-order-dominos-in-the-elder-scrolls-4-oblivion-thanks-to-a-mod](https://www.pcgamer.com/you-can-now-order-dominos-in-the-elder-scrolls-4-oblivion-thanks-to-a-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 10:17:11+00:00
- - tags: None
 
 Avoiding the Noid is the 38th lesson of Vivec.
 
@@ -180,7 +158,6 @@ Avoiding the Noid is the 38th lesson of Vivec.
  - [https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 09:57:17+00:00
- - tags: None
 
 An SSD can do wonders for your load times and there are some great deals on these flashy wonders right now.
 
@@ -188,7 +165,6 @@ An SSD can do wonders for your load times and there are some great deals on thes
  - [https://www.pcgamer.com/news/live/prime-day-early-access-gaming-pc-building-deals](https://www.pcgamer.com/news/live/prime-day-early-access-gaming-pc-building-deals)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 08:56:58+00:00
- - tags: None
 
 We're searching for the best Prime Early Access deals on CPUs, graphics cards, RAM and more, and will update this story as we find them.
 
@@ -196,7 +172,6 @@ We're searching for the best Prime Early Access deals on CPUs, graphics cards, R
  - [https://www.pcgamer.com/todays-wordle-479-answer-hint](https://www.pcgamer.com/todays-wordle-479-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Tuesday's puzzle.
 
@@ -204,7 +179,6 @@ Wordle today: The solution and a hint for Tuesday's puzzle.
  - [https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit](https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 05:05:35+00:00
- - tags: None
 
 An easy way to have your PC set up sync with your room lights.
 
@@ -212,7 +186,6 @@ An easy way to have your PC set up sync with your room lights.
  - [https://www.pcgamer.com/gaming-monitors-should-come-with-vesa-arms-not-stands](https://www.pcgamer.com/gaming-monitors-should-come-with-vesa-arms-not-stands)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 04:44:18+00:00
- - tags: None
 
 The new Armada screens from HyperX prove it.
 
@@ -220,6 +193,5 @@ The new Armada screens from HyperX prove it.
  - [https://www.pcgamer.com/overwatch-2-temporarily-loses-bastion-and-torbjorn](https://www.pcgamer.com/overwatch-2-temporarily-loses-bastion-and-torbjorn)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-11 00:26:49+00:00
- - tags: None
 
 Glitches to their ultimate powers have resulted in some hilariously unfair fights.

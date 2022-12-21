@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Galaxy Z Fold 4 and Flip 4 owners finally get access to the Android 13 beta
  - [https://www.androidauthority.com/galaxy-z-fold-flip-4-android-13-3221905/](https://www.androidauthority.com/galaxy-z-fold-flip-4-android-13-3221905/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 18:26:21+00:00
- - tags: None
 
 The One UI 5 beta will be available to Galaxy Z Fold 4 and Flip owners in multiple regions.
 
@@ -12,7 +11,6 @@ The One UI 5 beta will be available to Galaxy Z Fold 4 and Flip owners in multip
  - [https://www.androidauthority.com/shows-like-interview-with-the-vampire-amc-3221165/](https://www.androidauthority.com/shows-like-interview-with-the-vampire-amc-3221165/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 17:51:37+00:00
- - tags: None
 
 Eight shows to sink your teeth into after the new Anne Rice adaptation.
 
@@ -20,7 +18,6 @@ Eight shows to sink your teeth into after the new Anne Rice adaptation.
  - [https://www.androidauthority.com/poll-switched-to-esims-3221884/](https://www.androidauthority.com/poll-switched-to-esims-3221884/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 17:31:28+00:00
- - tags: None
 
 Have you already switched to an eSIM?
 
@@ -28,7 +25,6 @@ Have you already switched to an eSIM?
  - [https://www.androidauthority.com/google-devices-samsung-3221808/](https://www.androidauthority.com/google-devices-samsung-3221808/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 16:38:08+00:00
- - tags: None
 
 Google is betting big on its own hardware.
 
@@ -36,7 +32,6 @@ Google is betting big on its own hardware.
  - [https://www.androidauthority.com/apple-tv-4k-2022-3221856/](https://www.androidauthority.com/apple-tv-4k-2022-3221856/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 16:29:34+00:00
- - tags: None
 
 It's still really expensive, though.
 
@@ -44,7 +39,6 @@ It's still really expensive, though.
  - [https://www.androidauthority.com/best-iphone-14-pro-max-cases-3214730/](https://www.androidauthority.com/best-iphone-14-pro-max-cases-3214730/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 16:29:02+00:00
- - tags: None
 
 Looking for a case for your new iPhone 14 Pro Max? Here are your best options.
 
@@ -52,7 +46,6 @@ Looking for a case for your new iPhone 14 Pro Max? Here are your best options.
  - [https://www.androidauthority.com/ipad-2022-3221840/](https://www.androidauthority.com/ipad-2022-3221840/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 16:00:50+00:00
- - tags: None
 
 See you later, Lightning.
 
@@ -60,7 +53,6 @@ See you later, Lightning.
  - [https://www.androidauthority.com/apple-ipad-pro-2022-3221822/](https://www.androidauthority.com/apple-ipad-pro-2022-3221822/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 15:31:40+00:00
- - tags: None
 
 There's not much different this time around, but the new M2 chip is a nice perk.
 
@@ -68,7 +60,6 @@ There's not much different this time around, but the new M2 chip is a nice perk.
  - [https://www.androidauthority.com/samsung-one-ui-5-interview-3220263/](https://www.androidauthority.com/samsung-one-ui-5-interview-3220263/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 15:00:04+00:00
- - tags: None
 
 Samsung VP Sally Jeong talks all this plus more on Samsung's update policies and why One UI doesn't look like stock Android.
 
@@ -76,7 +67,6 @@ Samsung VP Sally Jeong talks all this plus more on Samsung's update policies and
  - [https://www.androidauthority.com/shows-like-ozark-3083711/](https://www.androidauthority.com/shows-like-ozark-3083711/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 13:00:28+00:00
- - tags: None
 
 These eight shows are perfect compliments to the Netflix crime series.
 
@@ -84,7 +74,6 @@ These eight shows are perfect compliments to the Netflix crime series.
  - [https://www.androidauthority.com/switch-google-chrome-ad-blocker-changes-poll-results-3221729/](https://www.androidauthority.com/switch-google-chrome-ad-blocker-changes-poll-results-3221729/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 10:51:37+00:00
- - tags: None
 
 Polled Android Authority readers aren't taking Google's Chrome changes lying down.
 
@@ -92,7 +81,6 @@ Polled Android Authority readers aren't taking Google's Chrome changes lying dow
  - [https://www.androidauthority.com/daily-authority-october-18-2022-3221159/](https://www.androidauthority.com/daily-authority-october-18-2022-3221159/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 09:24:29+00:00
- - tags: None
 
 Plus Motorola's rollable, Nvidia's unlaunch, bread Han Solo, and the possible return of Silent Hill.
 
@@ -100,7 +88,6 @@ Plus Motorola's rollable, Nvidia's unlaunch, bread Han Solo, and the possible re
  - [https://www.androidauthority.com/pixel-7-payments-failing-3221661/](https://www.androidauthority.com/pixel-7-payments-failing-3221661/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 09:05:15+00:00
- - tags: None
 
 The behavior of face unlock is to blame.
 
@@ -108,7 +95,6 @@ The behavior of face unlock is to blame.
  - [https://www.androidauthority.com/netflix-profile-transfers-3221631/](https://www.androidauthority.com/netflix-profile-transfers-3221631/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 07:32:55+00:00
- - tags: None
 
 Recommendations, lists, saved games, and more are kept when you transfer to a new account.
 
@@ -116,7 +102,6 @@ Recommendations, lists, saved games, and more are kept when you transfer to a ne
  - [https://www.androidauthority.com/samsung-galaxy-s23-full-specs-3221623/](https://www.androidauthority.com/samsung-galaxy-s23-full-specs-3221623/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 07:21:56+00:00
- - tags: None
 
 Will Samsung serve old wine in a new bottle?
 
@@ -124,7 +109,6 @@ Will Samsung serve old wine in a new bottle?
  - [https://www.androidauthority.com/motorola-rollable-phone-concept-3221017/](https://www.androidauthority.com/motorola-rollable-phone-concept-3221017/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 06:25:04+00:00
- - tags: None
 
 This concept might be the Galaxy Z Flip of the rollable world.
 
@@ -132,6 +116,5 @@ This concept might be the Galaxy Z Flip of the rollable world.
  - [https://www.androidauthority.com/fossil-smartwatches-wear-os-3-3221606/](https://www.androidauthority.com/fossil-smartwatches-wear-os-3-3221606/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-18 06:07:31+00:00
- - tags: None
 
 Your Fossil Gen 6 is now getting the latest Google software but not all its features.

@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## NASA kicks off UFO study with 16-member team
  - [https://www.zdnet.com/article/nasa-kicks-off-ufo-study-with-16-member-team/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-kicks-off-ufo-study-with-16-member-team/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 23:10:19+00:00
- - tags: None
 
 The nine-month study, conducted by a team of 16 experts including former astronaut Scott Kelly, will examine how unclassified data could help us learn more about unidentified aerial phenomena.
 
@@ -12,7 +11,6 @@ The nine-month study, conducted by a team of 16 experts including former astrona
  - [https://www.zdnet.com/article/jabra-elite-85t-noise-canceling-earbuds-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/jabra-elite-85t-noise-canceling-earbuds-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 22:04:00+00:00
- - tags: None
 
 Get up to 5.5 hours of streaming and adjustable active noise cancelation with this great low price.
 
@@ -20,7 +18,6 @@ Get up to 5.5 hours of streaming and adjustable active noise cancelation with th
  - [https://www.zdnet.com/article/best-wireless-car-charger-and-mount/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-wireless-car-charger-and-mount/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 21:24:00+00:00
- - tags: None
 
 Keeping your phone powered during road trips is essential for entertainment, navigation, and more. The best wireless car chargers give you this capability without any cords.
 
@@ -28,7 +25,6 @@ Keeping your phone powered during road trips is essential for entertainment, nav
  - [https://www.zdnet.com/article/ai-critic-gary-marcus-metas-lecun-is-finally-coming-around-to-the-things-i-said-years-ago/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-critic-gary-marcus-metas-lecun-is-finally-coming-around-to-the-things-i-said-years-ago/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 21:15:16+00:00
- - tags: None
 
 Deep learning gadfly Gary Marcus says he and Meta's chief AI scientist, Yann LeCun, are in alignment about the most important challenges facing the field.
 
@@ -36,7 +32,6 @@ Deep learning gadfly Gary Marcus says he and Meta's chief AI scientist, Yann LeC
  - [https://www.zdnet.com/article/apple-is-increasing-prices-for-apple-music-apple-tv-and-apple-one/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-is-increasing-prices-for-apple-music-apple-tv-and-apple-one/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 21:03:30+00:00
- - tags: None
 
 Beginning today, Apple is raising the prices for its popular subscription services
 
@@ -44,7 +39,6 @@ Beginning today, Apple is raising the prices for its popular subscription servic
  - [https://www.zdnet.com/article/get-a-samsung-galaxy-tab-8-for-only-249/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-samsung-galaxy-tab-8-for-only-249/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 19:32:00+00:00
- - tags: None
 
 Samsung Week is back in action, and you can get a brand new tablet for only $249. Here's how.
 
@@ -52,7 +46,6 @@ Samsung Week is back in action, and you can get a brand new tablet for only $249
  - [https://www.zdnet.com/article/best-rugged-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-rugged-laptop/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 19:23:00+00:00
- - tags: None
 
 Getting your hands on a rugged laptop is easier than ever now that brands like Lenovo, MSI, and Asus have models that are tested against MIL-STD-810 standards for moisture, dust, and drop resistance.
 
@@ -60,7 +53,6 @@ Getting your hands on a rugged laptop is easier than ever now that brands like L
  - [https://www.zdnet.com/article/how-to-set-up-ssh-key-authentication-in-linux-for-more-secure-logins/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-set-up-ssh-key-authentication-in-linux-for-more-secure-logins/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 19:06:00+00:00
- - tags: None
 
 Here's how easy it is to add a layer of security to your secure shell logins on Linux.
 
@@ -68,7 +60,6 @@ Here's how easy it is to add a layer of security to your secure shell logins on 
  - [https://www.zdnet.com/article/how-to-create-a-linkedin-poll/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-create-a-linkedin-poll/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 19:00:17+00:00
- - tags: None
 
 With LinkedIn being a networking essential, employees and business owners alike can gain insights via surveys and questionnaires. Here's how to create a LinkedIn Poll.
 
@@ -76,7 +67,6 @@ With LinkedIn being a networking essential, employees and business owners alike 
  - [https://www.zdnet.com/home-and-office/home-entertainment/treblab-speaker-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/treblab-speaker-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 18:51:00+00:00
- - tags: None
 
 You can save $50 on an excellent Bluetooth speaker before the holiday season kicks off. Right now, the Treblab HD77 rugged outdoor speaker is 42% off on Amazon.
 
@@ -84,7 +74,6 @@ You can save $50 on an excellent Bluetooth speaker before the holiday season kic
  - [https://www.zdnet.com/home-and-office/your-keyboard-is-disgusting-heres-why-you-should-clean-it-with-slime/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/your-keyboard-is-disgusting-heres-why-you-should-clean-it-with-slime/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 18:39:25+00:00
- - tags: None
 
 Take a look at your keyboard. Is it bad? It's probably very bad.
 
@@ -92,7 +81,6 @@ Take a look at your keyboard. Is it bad? It's probably very bad.
  - [https://www.zdnet.com/home-and-office/smart-office/your-keyboard-is-disgusting-heres-why-you-should-clean-it-with-slime/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/your-keyboard-is-disgusting-heres-why-you-should-clean-it-with-slime/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 18:39:00+00:00
- - tags: None
 
 Take a look at your keyboard. Is it bad? It's probably very bad.
 
@@ -100,7 +88,6 @@ Take a look at your keyboard. Is it bad? It's probably very bad.
  - [https://www.zdnet.com/article/how-to-secure-your-sensitive-onedrive-files-with-a-personal-vault/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-secure-your-sensitive-onedrive-files-with-a-personal-vault/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 17:36:59+00:00
- - tags: None
 
 The Personal Vault adds an extra layer of protection to protect sensitive OneDrive files.
 
@@ -108,7 +95,6 @@ The Personal Vault adds an extra layer of protection to protect sensitive OneDri
  - [https://www.zdnet.com/home-and-office/yard-outdoors/best-portable-solar-charger/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/best-portable-solar-charger/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 17:12:00+00:00
- - tags: None
 
 The best portable solar chargers are lightweight, powerful, and durable. We found the top solar chargers that you can rely on during your next wilderness adventure.
 
@@ -116,7 +102,6 @@ The best portable solar chargers are lightweight, powerful, and durable. We foun
  - [https://www.zdnet.com/article/microsoft-starts-shipping-its-windows-on-arm-device-for-developers-windows-dev-kit-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-starts-shipping-its-windows-on-arm-device-for-developers-windows-dev-kit-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 17:00:53+00:00
- - tags: None
 
 Microsoft's 'Project Volterra' $599 device for developing, testing and running Windows-on-Arm apps is shipping in eight countries, starting today.
 
@@ -124,7 +109,6 @@ Microsoft's 'Project Volterra' $599 device for developing, testing and running W
  - [https://www.zdnet.com/article/google-pixel-6-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-pixel-6-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 15:09:00+00:00
- - tags: None
 
 With 128GB of storage and its 50MP camera, the Google Pixel 6 can capture all your favorite moments. Right now, you can save $200 on the phone at Target.
 
@@ -132,7 +116,6 @@ With 128GB of storage and its 50MP camera, the Google Pixel 6 can capture all yo
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-50-inch-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-50-inch-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 14:47:00+00:00
- - tags: None
 
 Upgrade your holiday movie nights with one of the best 50-inch TVs on the market. Samsung has the top TV, but TCL and LG give the brand a run for its money.
 
@@ -140,7 +123,6 @@ Upgrade your holiday movie nights with one of the best 50-inch TVs on the market
  - [https://www.zdnet.com/article/it-leaders-arent-getting-listened-to-and-now-theyre-ready-to-walk-away/#ftag=RSSbaffb68](https://www.zdnet.com/article/it-leaders-arent-getting-listened-to-and-now-theyre-ready-to-walk-away/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 14:00:00+00:00
- - tags: None
 
 Tech managers say they are being shunned when it comes to implementing new tech and new working models in the workplace.
 
@@ -148,7 +130,6 @@ Tech managers say they are being shunned when it comes to implementing new tech 
  - [https://www.zdnet.com/article/ipad-2022-10th-gen-review-better-than-the-pro-in-two-ways/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-2022-10th-gen-review-better-than-the-pro-in-two-ways/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 13:39:00+00:00
- - tags: None
 
 The 10th-generation iPad gets a refreshed design that puts it closer to the rest of the iPad family and further from its budget roots.
 
@@ -156,7 +137,6 @@ The 10th-generation iPad gets a refreshed design that puts it closer to the rest
  - [https://www.zdnet.com/home-and-office/home-entertainment/hisense-65-quantum-4k-smart-tv-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/hisense-65-quantum-4k-smart-tv-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 13:38:00+00:00
- - tags: None
 
 You can pick up an excellent smart TV at Best Buy with a 33% discount. Upgrade your living room TV and save $400, just in time for the holiday season.
 
@@ -164,7 +144,6 @@ You can pick up an excellent smart TV at Best Buy with a 33% discount. Upgrade y
  - [https://www.zdnet.com/home-and-office/smart-office/mac-studio-vs-mac-pro-and-mac-mini-how-to-choose/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/mac-studio-vs-mac-pro-and-mac-mini-how-to-choose/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 13:24:52+00:00
- - tags: None
 
 We're all waiting on a new Mac Mini and a new Mac Pro. Until they arrive, we can help you choose between Apple's three headless Mac models.
 
@@ -172,7 +151,6 @@ We're all waiting on a new Mac Mini and a new Mac Pro. Until they arrive, we can
  - [https://www.zdnet.com/article/apple-ipad-2022-hands-on-better-than-the-pro-in-two-ways/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-ipad-2022-hands-on-better-than-the-pro-in-two-ways/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 13:00:00+00:00
- - tags: None
 
 The 10th-generation iPad gets a refreshed design that puts it closer to the rest of the iPad family and further from its budget roots.
 
@@ -180,7 +158,6 @@ The 10th-generation iPad gets a refreshed design that puts it closer to the rest
  - [https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 13:00:00+00:00
- - tags: None
 
 Apple's latest iPad Pro gets a small spec bump over last year's model, but there's a lot of hope among iPad Pro fans that the software experience will finally catch up.
 
@@ -188,7 +165,6 @@ Apple's latest iPad Pro gets a small spec bump over last year's model, but there
  - [https://www.zdnet.com/article/criminals-are-starting-to-exploit-the-metaverse-says-interpol-so-police-are-heading-there-too/#ftag=RSSbaffb68](https://www.zdnet.com/article/criminals-are-starting-to-exploit-the-metaverse-says-interpol-so-police-are-heading-there-too/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 12:15:00+00:00
- - tags: None
 
 An international police organization is using the metaverse and wants to understand how crime could evolve.
 
@@ -196,7 +172,6 @@ An international police organization is using the metaverse and wants to underst
  - [https://www.zdnet.com/article/developers-are-in-short-supply-and-thats-keeping-it-services-companies-busy/#ftag=RSSbaffb68](https://www.zdnet.com/article/developers-are-in-short-supply-and-thats-keeping-it-services-companies-busy/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 11:44:30+00:00
- - tags: None
 
 IT services will grow this year despite recession fears.
 
@@ -204,7 +179,6 @@ IT services will grow this year despite recession fears.
  - [https://www.zdnet.com/article/fbi-warning-this-ransomware-group-is-targeting-poorly-protected-vpn-servers/#ftag=RSSbaffb68](https://www.zdnet.com/article/fbi-warning-this-ransomware-group-is-targeting-poorly-protected-vpn-servers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 10:36:33+00:00
- - tags: None
 
 Attackers are using VPN servers to gain access, and then SSH and RDP to spread through networks.
 
@@ -212,7 +186,6 @@ Attackers are using VPN servers to gain access, and then SSH and RDP to spread t
  - [https://www.zdnet.com/article/metaverse-and-immersive-experiences-how-one-company-is-getting-started-on-the-journey/#ftag=RSSbaffb68](https://www.zdnet.com/article/metaverse-and-immersive-experiences-how-one-company-is-getting-started-on-the-journey/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 10:15:20+00:00
- - tags: None
 
 Holiday firm TUI is investigating uses cases across all kinds of immersive experiences and its explorations provide lessons for others.
 
@@ -220,7 +193,6 @@ Holiday firm TUI is investigating uses cases across all kinds of immersive exper
  - [https://www.zdnet.com/home-and-office/hisense-65-quantum-4k-smart-tv-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/hisense-65-quantum-4k-smart-tv-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 06:51:58+00:00
- - tags: None
 
 Best Buy is offering 33% off a smart TV, perfect for your living room, just in time for the holiday season.
 
@@ -228,7 +200,6 @@ Best Buy is offering 33% off a smart TV, perfect for your living room, just in t
  - [https://www.zdnet.com/home-and-office/pro-streamer-iogear-upstream-pro-video-capture-card-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/pro-streamer-iogear-upstream-pro-video-capture-card-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 06:46:12+00:00
- - tags: None
 
 You can enjoy up to 35% off the IOGEAR Upstream Pro video capture card.
 
@@ -236,7 +207,6 @@ You can enjoy up to 35% off the IOGEAR Upstream Pro video capture card.
  - [https://www.zdnet.com/home-and-office/best-game-console/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-game-console/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 02:54:00+00:00
- - tags: None
 
 What is the best game console? Sony's PlayStation 5 is ZDNet's top choice. With a futuristic look, it truly brings in next-gen style along with its next-gen internal components. But it's not the only console worth considering. We analyzed design, pricing, functionality and more to come up with the four best gaming consoles.
 
@@ -244,7 +214,6 @@ What is the best game console? Sony's PlayStation 5 is ZDNet's top choice. With 
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-fire-extinguisher/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-fire-extinguisher/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 02:26:00+00:00
- - tags: None
 
 October is Fire Safety Month! A fire extinguisher is an important device to have in your home all year-round, but especially during Halloween since Jack-o-Lantern candles and other decorations can be dangerous and cause damage if left unattended.
 
@@ -252,7 +221,6 @@ October is Fire Safety Month! A fire extinguisher is an important device to have
  - [https://www.zdnet.com/article/best-streaming-webcam/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-streaming-webcam/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 02:18:13+00:00
- - tags: None
 
 Whether you're just starting out or an experienced content creator, the right webcam can go a long way toward elevating your vlogs, streams, and scripted content. Brands like Logitech offer budget-friendly options for beginners while creator-centric brands like Elgato offer higher-end models for more experienced streamers who need high-quality video.
 
@@ -260,6 +228,5 @@ Whether you're just starting out or an experienced content creator, the right we
  - [https://www.zdnet.com/article/best-reading-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-reading-tablet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-24 02:11:06+00:00
- - tags: None
 
 Looking to put down the book and pick up a tablet instead? The best tablets for reading are handheld in size, have sharp displays, and long battery lives so you can spend a whole afternoon with your favorite book.

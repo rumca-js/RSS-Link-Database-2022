@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Ex-Google ad boss builds tracker-free search engine
  - [https://www.bbc.co.uk/news/technology-63130364?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63130364?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-05 16:00:55+00:00
- - tags: None
 
 Sridhar Ramaswamy says the technology sector has become "exploitative" of people's data.
 
@@ -12,7 +11,6 @@ Sridhar Ramaswamy says the technology sector has become "exploitative" of people
  - [https://www.bbc.co.uk/news/technology-63141272?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63141272?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-05 08:12:51+00:00
- - tags: None
 
 The story of Musk buying Twitter, and how it began with "X, the everything app".
 
@@ -20,6 +18,5 @@ The story of Musk buying Twitter, and how it began with "X, the everything app".
  - [https://www.bbc.co.uk/news/business-63140536?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63140536?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-10-05 04:33:43+00:00
- - tags: None
 
 Elizabeth Holmes requested a new trial after claiming federal prosecutors presented misleading evidence.

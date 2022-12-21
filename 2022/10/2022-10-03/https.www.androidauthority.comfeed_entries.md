@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google’s Pixel Watch just got an early unboxing
  - [https://www.androidauthority.com/google-pixel-watch-2-3215962/](https://www.androidauthority.com/google-pixel-watch-2-3215962/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 22:37:38+00:00
- - tags: None
 
 The Pixel Watch just got an unboxing that reveals every angle of the device.
 
@@ -12,7 +11,6 @@ The Pixel Watch just got an unboxing that reveals every angle of the device.
  - [https://www.androidauthority.com/google-nest-doorbell-3215870/](https://www.androidauthority.com/google-nest-doorbell-3215870/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 18:30:57+00:00
- - tags: None
 
 The new wired Nest Doorbell is appearing on store shelves.
 
@@ -20,7 +18,6 @@ The new wired Nest Doorbell is appearing on store shelves.
  - [https://www.androidauthority.com/october-2022-android-security-patch-3215884/](https://www.androidauthority.com/october-2022-android-security-patch-3215884/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 17:56:43+00:00
- - tags: None
 
 Google has fixed some bugs, as usual, and also brought in the latest security patches.
 
@@ -28,7 +25,6 @@ Google has fixed some bugs, as usual, and also brought in the latest security pa
  - [https://www.androidauthority.com/youtube-4k-premium-subscription-3215820/](https://www.androidauthority.com/youtube-4k-premium-subscription-3215820/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 17:08:19+00:00
- - tags: None
 
 Google is looking at making 4K videos exclusive to YouTube Premium.
 
@@ -36,7 +32,6 @@ Google is looking at making 4K videos exclusive to YouTube Premium.
  - [https://www.androidauthority.com/shows-like-bridgerton-3071193/](https://www.androidauthority.com/shows-like-bridgerton-3071193/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 13:30:25+00:00
- - tags: None
 
 The gossip-filled period drama is a major standout, but it's hardly alone if you're craving more.
 
@@ -44,7 +39,6 @@ The gossip-filled period drama is a major standout, but it's hardly alone if you
  - [https://www.androidauthority.com/google-get-wrong-pixel-7-series-poll-results-3215686/](https://www.androidauthority.com/google-get-wrong-pixel-7-series-poll-results-3215686/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 12:40:06+00:00
- - tags: None
 
 Performance is the top thing Google might get wrong, polled readers say.
 
@@ -52,7 +46,6 @@ Performance is the top thing Google might get wrong, polled readers say.
  - [https://www.androidauthority.com/oneplus-nord-watch-3215731/](https://www.androidauthority.com/oneplus-nord-watch-3215731/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 10:47:57+00:00
- - tags: None
 
 Heart-rate monitoring, SpO2 tracking, sleep tracking, and several other features are on tap here.
 
@@ -60,7 +53,6 @@ Heart-rate monitoring, SpO2 tracking, sleep tracking, and several other features
  - [https://www.androidauthority.com/hacking-google-documentary-3215298/](https://www.androidauthority.com/hacking-google-documentary-3215298/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 10:00:14+00:00
- - tags: None
 
 Google has put out a new docuseries that covers stories about its cybersecurity teams.
 
@@ -68,7 +60,6 @@ Google has put out a new docuseries that covers stories about its cybersecurity 
  - [https://www.androidauthority.com/daily-authority-october-3-2022-3215666/](https://www.androidauthority.com/daily-authority-october-3-2022-3215666/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 08:44:45+00:00
- - tags: None
 
 We talk about improving your sleep overnight, our lack of trust in Google, and more in today's edition of TDA.
 
@@ -76,7 +67,6 @@ We talk about improving your sleep overnight, our lack of trust in Google, and m
  - [https://www.androidauthority.com/google-pixel-7-series-ads-3215688/](https://www.androidauthority.com/google-pixel-7-series-ads-3215688/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 07:55:22+00:00
- - tags: None
 
 Macro Focus and Cinematic Blur are just two of the highlights shown off in these video ads.
 
@@ -84,7 +74,6 @@ Macro Focus and Cinematic Blur are just two of the highlights shown off in these
  - [https://www.androidauthority.com/google-pixel-watch-features-3215681/](https://www.androidauthority.com/google-pixel-watch-features-3215681/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 07:38:44+00:00
- - tags: None
 
 A motherload of Pixel Watch info is here.
 
@@ -92,7 +81,6 @@ A motherload of Pixel Watch info is here.
  - [https://www.androidauthority.com/google-pixel-7-series-specs-3215067/](https://www.androidauthority.com/google-pixel-7-series-specs-3215067/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 06:45:31+00:00
- - tags: None
 
 The good news? The Pixel 7 Pro could get better zoom and a macro mode. The bad news? No charging upgrades.
 
@@ -100,7 +88,6 @@ The good news? The Pixel 7 Pro could get better zoom and a macro mode. The bad n
  - [https://www.androidauthority.com/usb-rebranding-3215671/](https://www.androidauthority.com/usb-rebranding-3215671/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 06:31:58+00:00
- - tags: None
 
 New branding is here for the ubiquitous connector.
 
@@ -108,6 +95,5 @@ New branding is here for the ubiquitous connector.
  - [https://www.androidauthority.com/samsungs-expert-raw-galaxy-s20-ultra-note-20-ultra-z-fold-2-3215665/](https://www.androidauthority.com/samsungs-expert-raw-galaxy-s20-ultra-note-20-ultra-z-fold-2-3215665/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-03 05:18:01+00:00
- - tags: None
 
 Time to up the photography game on your older Samsung flagship.

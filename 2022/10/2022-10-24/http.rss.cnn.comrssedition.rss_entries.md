@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Here's why Russia accusing Ukraine of planning a 'dirty bomb' could be a warning
  - [https://www.cnn.com/videos/world/2022/10/24/russia-dirty-bomb-accusation-ukraine-clark-dougherty-sot-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/russia-dirty-bomb-accusation-ukraine-clark-dougherty-sot-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 22:49:10+00:00
- - tags: None
 
 Former NATO Commander Wesley Clark explains to CNN's Wolf Blitzer why doesn't believe Russia's claim that Ukraine is planning to use a "dirty bomb," and why he believes the accusation could be a warning.
 
@@ -12,7 +11,6 @@ Former NATO Commander Wesley Clark explains to CNN's Wolf Blitzer why doesn't be
  - [https://www.cnn.com/videos/politics/2021/01/05/ted-cruz-trump-relationship-foreman-pkg-ebof-vpx.cnn](https://www.cnn.com/videos/politics/2021/01/05/ted-cruz-trump-relationship-foreman-pkg-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 21:53:43+00:00
- - tags: None
 
 CNN's Tom Foreman looks back at how Ted Cruz has evolved from hating Donald Trump to becoming one of his more fervent advocates. (2021)
 
@@ -20,7 +18,6 @@ CNN's Tom Foreman looks back at how Ted Cruz has evolved from hating Donald Trum
  - [https://www.cnn.com/videos/business/2022/10/24/ted-cruz-the-view-protester-cprog-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/10/24/ted-cruz-the-view-protester-cprog-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 19:28:23+00:00
- - tags: None
 
 During an interview on "The View," Republican Senator Ted Cruz was repeatedly interrupted by hecklers in the show audience.
 
@@ -28,7 +25,6 @@ During an interview on "The View," Republican Senator Ted Cruz was repeatedly in
  - [https://www.cnn.com/videos/world/2022/10/24/iran-protest-journalist-arrest-bashir-pkg-ctw-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/iran-protest-journalist-arrest-bashir-pkg-ctw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 18:52:28+00:00
- - tags: None
 
 Over 40 journalists have been confirmed detained by Iran since anti-government protests broke out last month over the death of Mahsa Amini while in the custody of Iran's morality police, according to the Committee to Protect Journalists. CNN's Nada Bashir has more on why journalists are being arrested.
 
@@ -36,7 +32,6 @@ Over 40 journalists have been confirmed detained by Iran since anti-government p
  - [https://www.cnn.com/2022/10/24/tech/eu-law-charging-standard/index.html](https://www.cnn.com/2022/10/24/tech/eu-law-charging-standard/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 18:36:26+00:00
- - tags: None
 
 A landmark law requiring Apple and other electronics makers to adopt USB-C as a universal charging standard in the European Union has cleared its final procedural hurdle, after EU member states voted to approve the legislation on Monday.
 
@@ -44,7 +39,6 @@ A landmark law requiring Apple and other electronics makers to adopt USB-C as a 
  - [https://www.cnn.com/style/article/edward-enninful-vogue-amanpour-a-visble-man-oct/index.html](https://www.cnn.com/style/article/edward-enninful-vogue-amanpour-a-visble-man-oct/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 18:17:39+00:00
- - tags: None
 
 British Vogue's editor-in-chief Edward Enninful has addressed speculation that he's next in line to take the editorial seat at Vogue magazine currently occupied by Anna Wintour.
 
@@ -52,7 +46,6 @@ British Vogue's editor-in-chief Edward Enninful has addressed speculation that h
  - [https://www.cnn.com/2022/10/24/entertainment/kim-kardashian-hate-speech/index.html](https://www.cnn.com/2022/10/24/entertainment/kim-kardashian-hate-speech/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 18:03:57+00:00
- - tags: None
 
 Days after a fellow celebrity called her out for remaining publicly silent in the face of antisemitic comments made by her former husband Kanye West, Kim Kardashian has released a statement condemning hate speech.
 
@@ -60,7 +53,6 @@ Days after a fellow celebrity called her out for remaining publicly silent in th
  - [https://www.cnn.com/2022/10/24/entertainment/olivia-wilde-rescue-dog/index.html](https://www.cnn.com/2022/10/24/entertainment/olivia-wilde-rescue-dog/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 17:55:03+00:00
- - tags: None
 
 Olivia Wilde is a lot of things, including a director, an actor, a mom, and, supposedly, an excellent maker of salad dressing.
 
@@ -68,7 +60,6 @@ Olivia Wilde is a lot of things, including a director, an actor, a mom, and, sup
  - [https://www.cnn.com/2022/10/24/us/kid-climbing-el-capitan/index.html](https://www.cnn.com/2022/10/24/us/kid-climbing-el-capitan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 17:46:09+00:00
- - tags: None
 
 If your parents name you "Adventure," they probably hoped you'd do some adventurous things.
 
@@ -76,7 +67,6 @@ If your parents name you "Adventure," they probably hoped you'd do some adventur
  - [https://www.cnn.com/2022/10/24/health/covid-antibody-response-vaccines/index.html](https://www.cnn.com/2022/10/24/health/covid-antibody-response-vaccines/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 17:28:21+00:00
- - tags: None
 
 People who reported experiencing side effects to the Pfizer/BioNTech and Moderna Covid-19 vaccines such as fever, chills or muscle pain tended to have a greater antibody response following vaccination, according to new research.
 
@@ -84,7 +74,6 @@ People who reported experiencing side effects to the Pfizer/BioNTech and Moderna
  - [https://www.cnn.com/videos/world/2022/10/24/rishi-sunak-british-prime-minister-profile-pkg-ctw-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/rishi-sunak-british-prime-minister-profile-pkg-ctw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 17:18:43+00:00
- - tags: None
 
 CNN's Bianca Nobilo looks at the life and political career of incoming British Prime Minister Rishi Sunak and the path that led him to 10 Downing Street.
 
@@ -92,7 +81,6 @@ CNN's Bianca Nobilo looks at the life and political career of incoming British P
  - [https://www.cnn.com/2022/10/24/uk/rishi-sunak-job-ahead-intl-gbr-cmd/index.html](https://www.cnn.com/2022/10/24/uk/rishi-sunak-job-ahead-intl-gbr-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 17:12:56+00:00
- - tags: None
 
 The rise of Rishi Sunak to the top job in British politics is remarkable. Just seven weeks ago he was comprehensively beaten by Liz Truss in the Conservative party's leadership contest. Today, after emerging victorious in a leadership contest that was fast-tracked out of the wreckage of her short premiership, he is only an audience with King Charles III away from Downing Street.
 
@@ -100,7 +88,6 @@ The rise of Rishi Sunak to the top job in British politics is remarkable. Just s
  - [https://www.cnn.com/2022/10/24/politics/chinese-spies-huawei/index.html](https://www.cnn.com/2022/10/24/politics/chinese-spies-huawei/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 17:11:43+00:00
- - tags: None
 
 The US Justice Department unsealed charges Monday against two alleged Chinese spies who are accused of interfering with a federal prosecution against a global telecommunications company based in China.
 
@@ -108,7 +95,6 @@ The US Justice Department unsealed charges Monday against two alleged Chinese sp
  - [https://www.cnn.com/2022/10/24/politics/supreme-court-lindsey-graham-clarence-thomas/index.html](https://www.cnn.com/2022/10/24/politics/supreme-court-lindsey-graham-clarence-thomas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 16:45:45+00:00
- - tags: None
 
 Justice Clarence Thomas on Monday agreed to temporarily freeze a lower court order requiring the testimony of Republican Sen. Lindsey Graham in front of an Atlanta-area special grand jury that is investigating efforts to overturn the 2020 presidential election in the state.
 
@@ -116,7 +102,6 @@ Justice Clarence Thomas on Monday agreed to temporarily freeze a lower court ord
  - [https://www.cnn.com/style/article/marjane-satrapi-iranian-protests-auction/index.html](https://www.cnn.com/style/article/marjane-satrapi-iranian-protests-auction/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 16:40:27+00:00
- - tags: None
 
 Iranian-French artist Marjane Satrapi was 10 when wearing the veil became compulsory at the  non-religious, French-speaking school she attended in Tehran. Previously, boys and girls were taught together, but she was soon also separated from her male friends in the name of a cultural revolution instigated by revolutionary leader Ayatollah Ruhollah Khomeini.
 
@@ -124,7 +109,6 @@ Iranian-French artist Marjane Satrapi was 10 when wearing the veil became compul
  - [https://www.cnn.com/2022/10/24/tech/elon-musk-twitter-acquisition-countdown/index.html](https://www.cnn.com/2022/10/24/tech/elon-musk-twitter-acquisition-countdown/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 16:15:27+00:00
- - tags: None
 
 The clock is ticking for Elon Musk to complete his deal to buy Twitter.
 
@@ -132,7 +116,6 @@ The clock is ticking for Elon Musk to complete his deal to buy Twitter.
  - [https://www.cnn.com/style/article/just-stop-oil-king-charles-iii-waxwork-intl-scli-gbr/index.html](https://www.cnn.com/style/article/just-stop-oil-king-charles-iii-waxwork-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 16:02:08+00:00
- - tags: None
 
 Four people have been arrested for criminal damage, after a waxwork of King Charles III was vandalized at Madame Tussauds in London on Monday.
 
@@ -140,7 +123,6 @@ Four people have been arrested for criminal damage, after a waxwork of King Char
  - [https://www.cnn.com/2022/10/24/us/mosquitoes-pest-control-malaria-downside-up-scn/index.html](https://www.cnn.com/2022/10/24/us/mosquitoes-pest-control-malaria-downside-up-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 16:00:28+00:00
- - tags: None
 
 There's nothing worse than mosquitoes, right? Those little biters have ruined many a party, baseball game or virtually any other outdoor activity -- especially in the spring and summer.
 
@@ -148,7 +130,6 @@ There's nothing worse than mosquitoes, right? Those little biters have ruined ma
  - [https://www.cnn.com/2022/10/24/entertainment/mariah-carey-holiday-shows/index.html](https://www.cnn.com/2022/10/24/entertainment/mariah-carey-holiday-shows/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 15:54:21+00:00
- - tags: None
 
 All we want for Christmas is you, Mariah Carey.
 
@@ -156,7 +137,6 @@ All we want for Christmas is you, Mariah Carey.
  - [https://www.cnn.com/2022/10/24/politics/liz-cheney-donald-trump-doomsday-2024/index.html](https://www.cnn.com/2022/10/24/politics/liz-cheney-donald-trump-doomsday-2024/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 15:40:40+00:00
- - tags: None
 
 Rep. Liz Cheney thinks that if the GOP nominates Donald Trump for president again in 2024, it will be the end of the Republican Party. Or at least the end of the Republican Party as we currently think of it.
 
@@ -164,7 +144,6 @@ Rep. Liz Cheney thinks that if the GOP nominates Donald Trump for president agai
  - [https://www.cnn.com/2022/10/24/us/st-louis-school-shooting/index.html](https://www.cnn.com/2022/10/24/us/st-louis-school-shooting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 15:25:47+00:00
- - tags: None
 
 Two students were injured in a school shooting at Central Visual and Performing Arts High School in St. Louis Monday morning, according to a tweet from the district.
 
@@ -172,7 +151,6 @@ Two students were injured in a school shooting at Central Visual and Performing 
  - [https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html](https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 15:13:24+00:00
- - tags: None
 
 One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.
 
@@ -180,7 +158,6 @@ One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive i
  - [https://www.cnn.com/videos/travel/2022/10/21/liguria-stanley-tucci-searching-for-italy-crew-origseriesfilms.cnn](https://www.cnn.com/videos/travel/2022/10/21/liguria-stanley-tucci-searching-for-italy-crew-origseriesfilms.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 15:02:23+00:00
- - tags: None
 
 Stanley Tucci reflects on the past two seasons of "Stanley Tucci: Searching for Italy" and his favorite moments in Italy. The season finale airs Sunday at 9 p.m. ET.
 
@@ -188,7 +165,6 @@ Stanley Tucci reflects on the past two seasons of "Stanley Tucci: Searching for 
  - [https://www.cnn.com/2022/10/24/politics/donald-trump-ron-desantis-joe-odea-2024/index.html](https://www.cnn.com/2022/10/24/politics/donald-trump-ron-desantis-joe-odea-2024/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 14:44:33+00:00
- - tags: None
 
 The 2022 campaign isn't even over yet, but Donald Trump is already starting a 2024 fight with Florida Gov. Ron DeSantis.
 
@@ -196,7 +172,6 @@ The 2022 campaign isn't even over yet, but Donald Trump is already starting a 20
  - [https://www.cnn.com/collections/intl-new-uk-pm-241022/](https://www.cnn.com/collections/intl-new-uk-pm-241022/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 14:22:04+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ The 2022 campaign isn't even over yet, but Donald Trump is already starting a 20
  - [https://www.cnn.com/2022/10/24/opinions/britain-uk-politics-prime-minister-elect-conservatives-beers/index.html](https://www.cnn.com/2022/10/24/opinions/britain-uk-politics-prime-minister-elect-conservatives-beers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 14:14:12+00:00
- - tags: None
 
 Britain's Conservative Party, which has weathered the resignation of two prime ministers since December 2019, cannot remain in government for another two years without calling a general election.
 
@@ -212,7 +186,6 @@ Britain's Conservative Party, which has weathered the resignation of two prime m
  - [https://www.cnn.com/2022/10/24/politics/stewart-rhodes-oath-keepers-covid/index.html](https://www.cnn.com/2022/10/24/politics/stewart-rhodes-oath-keepers-covid/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 14:05:31+00:00
- - tags: None
 
 The seditious conspiracy trial against members of the right-wing militia group Oath Keepers has been delayed after the group's leader, Stewart Rhodes, has tested positive for Covid.
 
@@ -220,7 +193,6 @@ The seditious conspiracy trial against members of the right-wing militia group O
  - [https://www.cnn.com/uk/live-news/uk-prime-minister-announcement-monday-gbr-intl#h_f25d75a5e0a71145c1e9a065bc016a95](https://www.cnn.com/uk/live-news/uk-prime-minister-announcement-monday-gbr-intl#h_f25d75a5e0a71145c1e9a065bc016a95)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:54:44.228763+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@ The seditious conspiracy trial against members of the right-wing militia group O
  - [https://www.cnn.com/2022/10/24/uk/profile-rishi-sunak-uk-politics-intl-gbr/index.html](https://www.cnn.com/2022/10/24/uk/profile-rishi-sunak-uk-politics-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:51:54+00:00
- - tags: None
 
 Just seven short weeks ago, it looked as if it might be all over for Rishi Sunak.
 
@@ -236,7 +207,6 @@ Just seven short weeks ago, it looked as if it might be all over for Rishi Sunak
  - [https://www.cnn.com/videos/entertainment/2022/10/24/almost-famous-broadway-debut-cameron-crowe-newday-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/10/24/almost-famous-broadway-debut-cameron-crowe-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:47:13+00:00
- - tags: None
 
 CNN's John Berman speaks to director and screenwriter Cameron Crowe about the adaptation and debut of his film "Almost Famous" to Broadway.
 
@@ -244,7 +214,6 @@ CNN's John Berman speaks to director and screenwriter Cameron Crowe about the ad
  - [https://www.cnn.com/videos/world/2022/10/24/rishi-sunak-new-british-pm-uk-foster-firstmove-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/rishi-sunak-new-british-pm-uk-foster-firstmove-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:46:52+00:00
- - tags: None
 
 Rishi Sunak is set to become Britain's next Prime Minister after winning the race to become leader of the Conservative Party following the resignation of Liz Truss.
 
@@ -252,7 +221,6 @@ Rishi Sunak is set to become Britain's next Prime Minister after winning the rac
  - [https://www.cnn.com/style/article/art-basel-paris-highlights-sales/index.html](https://www.cnn.com/style/article/art-basel-paris-highlights-sales/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:39:47+00:00
- - tags: None
 
 While it is an indisputable cultural capital, Paris has long been overlooked as a place to buy and sell contemporary art. With neighbors Britain and Switzerland home to Europe's largest art market and the world's largest art fair, respectively, France has often struggled to secure its status as a hub among collectors.
 
@@ -260,7 +228,6 @@ While it is an indisputable cultural capital, Paris has long been overlooked as 
  - [https://www.cnn.com/2022/10/24/uk/rishi-sunak-uk-prime-minister-intl-gbr/index.html](https://www.cnn.com/2022/10/24/uk/rishi-sunak-uk-prime-minister-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:19:21+00:00
- - tags: None
 
 Former finance minister Rishi Sunak will be the United Kingdom's next prime minister after his lone remaining rival dropped out of the fast-tracked race to become Conservative party leader on Monday.
 
@@ -268,7 +235,6 @@ Former finance minister Rishi Sunak will be the United Kingdom's next prime mini
  - [https://www.cnn.com/2022/10/24/entertainment/american-music-awards-amas-host/index.html](https://www.cnn.com/2022/10/24/entertainment/american-music-awards-amas-host/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:18:59+00:00
- - tags: None
 
 The 2022 American Music Awards' (AMAs) has found a host.
 
@@ -276,7 +242,6 @@ The 2022 American Music Awards' (AMAs) has found a host.
  - [https://www.cnn.com/2022/10/24/entertainment/travis-scott-kylie-jenner/index.html](https://www.cnn.com/2022/10/24/entertainment/travis-scott-kylie-jenner/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:18:16+00:00
- - tags: None
 
 Travis Scott has slammed speculation that he cheated on the mother of his children, Kylie Jenner.
 
@@ -284,7 +249,6 @@ Travis Scott has slammed speculation that he cheated on the mother of his childr
  - [https://www.cnn.com/videos/world/2022/10/24/mykolaiv-ukraine-overnight-strike-aftermath-russia-ward-newday-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/mykolaiv-ukraine-overnight-strike-aftermath-russia-ward-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 13:00:38+00:00
- - tags: None
 
 CNN Chief International Correspondent Clarissa Ward reports on the aftermath of an overnight strike in Mykolaiv, Ukraine.
 
@@ -292,7 +256,6 @@ CNN Chief International Correspondent Clarissa Ward reports on the aftermath of 
  - [https://www.cnn.com/videos/politics/2022/10/24/biden-reelection-msnbc-interview-smerconish-reaction-prediction-newday-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/24/biden-reelection-msnbc-interview-smerconish-reaction-prediction-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 12:46:46+00:00
- - tags: None
 
 CNN anchor Michael Smerconish reacts to President Joe Biden's interview with MSNBC's Jonathan Capehart, where Biden stated his intention to run for reelection.
 
@@ -300,7 +263,6 @@ CNN anchor Michael Smerconish reacts to President Joe Biden's interview with MSN
  - [https://www.cnn.com/2022/10/24/us/rsv-father-parents-texas-childrens-hospital/index.html](https://www.cnn.com/2022/10/24/us/rsv-father-parents-texas-childrens-hospital/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 12:23:01+00:00
- - tags: None
 
 Last week, Stephen Balka found himself living a parent's nightmare. His 2-month-old son Adrian was struggling to breathe, sometimes going as long as seven seconds between gasping breaths, the father said.
 
@@ -308,7 +270,6 @@ Last week, Stephen Balka found himself living a parent's nightmare. His 2-month-
  - [https://www.cnn.com/2022/10/24/golf/rory-mcilroy-cj-cup-world-number-one-spt-intl/index.html](https://www.cnn.com/2022/10/24/golf/rory-mcilroy-cj-cup-world-number-one-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 12:16:35+00:00
- - tags: None
 
 When Rory McIlroy won the 2021 CJ Cup, he insisted he was still capable of being the world's best golfer.
 
@@ -316,7 +277,6 @@ When Rory McIlroy won the 2021 CJ Cup, he insisted he was still capable of being
  - [https://www.cnn.com/videos/politics/2022/10/24/trump-january-6-committee-subpoena-elie-honig-newday-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/24/trump-january-6-committee-subpoena-elie-honig-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 12:08:32+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, attack on the US Capitol announced that the panel has officially subpoenaed former President Donald Trump. CNN's Elie Honig explains what's next.
 
@@ -324,7 +284,6 @@ The House select committee investigating the January 6, 2021, attack on the US C
  - [https://www.cnn.com/2022/10/24/investing/tesla-china-price-cuts/index.html](https://www.cnn.com/2022/10/24/investing/tesla-china-price-cuts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 11:33:34+00:00
- - tags: None
 
 Tesla has cut starting prices for its Model 3 and Model Y cars by as much as 9% in China, reversing a trend of increases across the industry amid signs of softening demand in the world's largest auto market.
 
@@ -332,7 +291,6 @@ Tesla has cut starting prices for its Model 3 and Model Y cars by as much as 9% 
  - [https://www.cnn.com/2022/10/24/sport/tom-brady-buccaneers-panthers-final-season-spt-intl/index.html](https://www.cnn.com/2022/10/24/sport/tom-brady-buccaneers-panthers-final-season-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 11:32:52+00:00
- - tags: None
 
 It wasn't meant to go like this.
 
@@ -340,7 +298,6 @@ It wasn't meant to go like this.
  - [https://www.cnn.com/2022/10/24/sport/lebron-james-lillard-lakers-trail-blazers-spt-intl/index.html](https://www.cnn.com/2022/10/24/sport/lebron-james-lillard-lakers-trail-blazers-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 11:27:58+00:00
- - tags: None
 
 LeBron James missed a buzzer-beater to tie the game as the Los Angeles Lakers lost 106-104 to the Portland Trail Blazers, taking the LA team's season record to 0-3.
 
@@ -348,7 +305,6 @@ LeBron James missed a buzzer-beater to tie the game as the Los Angeles Lakers lo
  - [https://www.cnn.com/2022/10/24/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/10/24/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 11:18:46+00:00
- - tags: None
 
 ESG investing —  evaluating companies using environmental, social and governance factors — was one of the most-cited phrases in earnings calls during the first half of the year. But a looming recession, tanking stock markets and the race to US midterm elections have put those sustainability efforts on the chopping block.
 
@@ -356,7 +312,6 @@ ESG investing —  evaluating companies using environmental, social and governan
  - [https://edition.cnn.com/uk/live-news/uk-prime-minister-announcement-monday-gbr-intl/index.html](https://edition.cnn.com/uk/live-news/uk-prime-minister-announcement-monday-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 11:04:59.314336+00:00
- - tags: None
 
 • Rishi Sunak leads the race after Boris Johnson drops out
 
@@ -364,7 +319,6 @@ ESG investing —  evaluating companies using environmental, social and governan
  - [https://www.cnn.com/2022/10/24/politics/republican-momentum-15-days-to-go-analysis/index.html](https://www.cnn.com/2022/10/24/politics/republican-momentum-15-days-to-go-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 11:00:17+00:00
- - tags: None
 
 Drop an object from the air with nothing beneath it, and it will fall to the ground. Yes, sometimes a wind gust can keep it in the air for a little bit, but eventually gravity does its work.
 
@@ -372,7 +326,6 @@ Drop an object from the air with nothing beneath it, and it will fall to the gro
  - [https://www.cnn.com/travel/article/everglades-jetport-florida-cmd/index.html](https://www.cnn.com/travel/article/everglades-jetport-florida-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 10:50:30+00:00
- - tags: None
 
 It was supposed to be the world's largest airport, a glamorous intercontinental hub for supersonic airliners with six runways and high-speed rail links to surrounding cities. But today, it's little more than an airstrip in the middle of nowhere.
 
@@ -380,7 +333,6 @@ It was supposed to be the world's largest airport, a glamorous intercontinental 
  - [https://www.cnn.com/2022/10/24/politics/elon-musk-spacex-starlink-us-funding/index.html](https://www.cnn.com/2022/10/24/politics/elon-musk-spacex-starlink-us-funding/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 10:19:15+00:00
- - tags: None
 
 Elon Musk said Sunday that SpaceX's satellite internet service Starlink, which provides crucial telecommunication services in Ukraine, would not be shut off regardless of whether the company receives funding from the US Defense Department.
 
@@ -388,7 +340,6 @@ Elon Musk said Sunday that SpaceX's satellite internet service Starlink, which p
  - [https://www.cnn.com/2022/10/24/tennis/simona-halep-former-coach-doping-suspension-spt-intl/index.html](https://www.cnn.com/2022/10/24/tennis/simona-halep-former-coach-doping-suspension-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 10:15:03+00:00
- - tags: None
 
 Simona Halep's former coach has jumped to her defense after the former world No. 1 tested positive for a banned substance at the US Open earlier this year.
 
@@ -396,7 +347,6 @@ Simona Halep's former coach has jumped to her defense after the former world No.
  - [https://www.cnn.com/2022/10/24/entertainment/harvey-weinstein-trial-los-angeles/index.html](https://www.cnn.com/2022/10/24/entertainment/harvey-weinstein-trial-los-angeles/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:59:36+00:00
- - tags: None
 
 Two years after his conviction on rape and sexual assault charges, disgraced movie producer Harvey Weinstein is again set to go on trial on similar charges in Los Angeles.
 
@@ -404,7 +354,6 @@ Two years after his conviction on rape and sexual assault charges, disgraced mov
  - [https://www.cnn.com/travel/article/packing-expert-travel-world-handbag/index.html](https://www.cnn.com/travel/article/packing-expert-travel-world-handbag/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:51:01+00:00
- - tags: None
 
 It's been a year of airport chaos and problems with baggage handling have left many travelers struggling to reunite with their luggage.
 
@@ -412,7 +361,6 @@ It's been a year of airport chaos and problems with baggage handling have left m
  - [https://www.cnn.com/2022/10/24/football/antoine-griezmann-atletico-madrid-olimpico-goal-spt-intl/index.html](https://www.cnn.com/2022/10/24/football/antoine-griezmann-atletico-madrid-olimpico-goal-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:49:03+00:00
- - tags: None
 
 Antoine Griezmann scored twice, including directly from a corner, as Atlético Madrid defeated Real Betis 2-1 on Sunday to move up to third in Spain's La Liga.
 
@@ -420,7 +368,6 @@ Antoine Griezmann scored twice, including directly from a corner, as Atlético M
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22#h_6eaa625c608ece2af53b696de93e2660](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22#h_6eaa625c608ece2af53b696de93e2660)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:31:24.725370+00:00
- - tags: None
 
 
 
@@ -428,7 +375,6 @@ Antoine Griezmann scored twice, including directly from a corner, as Atlético M
  - [http://edition.cnn.com/webview/uk/live-news/uk-prime-minister-announcement-monday-gbr-intl/index.html](http://edition.cnn.com/webview/uk/live-news/uk-prime-minister-announcement-monday-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:31:24.396942+00:00
- - tags: None
 
 
 
@@ -436,7 +382,6 @@ Antoine Griezmann scored twice, including directly from a corner, as Atlético M
  - [https://www.cnn.com/2022/10/24/entertainment/david-tennant-doctor-who-intl-scli-gbr/index.html](https://www.cnn.com/2022/10/24/entertainment/david-tennant-doctor-who-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:30:10+00:00
- - tags: None
 
 "Doctor Who" fans were drenched in nostalgia after David Tennant reprised his role as the Time Lord in the dramatic conclusion to the show's BBC centenary special.
 
@@ -444,7 +389,6 @@ Antoine Griezmann scored twice, including directly from a corner, as Atlético M
  - [https://www.cnn.com/2022/10/24/politics/trump-organization-criminal-trial/index.html](https://www.cnn.com/2022/10/24/politics/trump-organization-criminal-trial/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 09:00:23+00:00
- - tags: None
 
 Jury selection begins Monday in the Trump Organization's criminal tax fraud and grand larceny trial in New York, a symbolic moment following years of investigations that places former President Donald Trump's business before a jury.
 
@@ -452,7 +396,6 @@ Jury selection begins Monday in the Trump Organization's criminal tax fraud and 
  - [https://www.cnn.com/2022/10/24/australia/australia-un-torture-prisons-intl-hnk/index.html](https://www.cnn.com/2022/10/24/australia/australia-un-torture-prisons-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 08:57:40+00:00
- - tags: None
 
 The United Nations Subcommittee on the Prevention of Torture (SPT) suspended its tour of Australian prisons on Sunday, citing a lack of cooperation from officials who denied them access to some detention facilities.
 
@@ -460,7 +403,6 @@ The United Nations Subcommittee on the Prevention of Torture (SPT) suspended its
  - [https://www.cnn.com/2022/10/24/motorsport/max-verstappen-win-record-red-bull-us-grand-prix-spt-intl/index.html](https://www.cnn.com/2022/10/24/motorsport/max-verstappen-win-record-red-bull-us-grand-prix-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 08:56:12+00:00
- - tags: None
 
 Max Verstappen fought back after pit-stop drama to win the US Grand Prix on Sunday, handing Red Bull the constructors' championship on an emotional weekend for the team.
 
@@ -468,7 +410,6 @@ Max Verstappen fought back after pit-stop drama to win the US Grand Prix on Sund
  - [https://www.cnn.com/2022/10/24/health/bad-vibes-nora-mcinerny-wellness/index.html](https://www.cnn.com/2022/10/24/health/bad-vibes-nora-mcinerny-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 08:53:19+00:00
- - tags: None
 
 Straight away, Nora McInerny noticed core differences in how people responded to the coronavirus pandemic.
 
@@ -476,7 +417,6 @@ Straight away, Nora McInerny noticed core differences in how people responded to
  - [https://www.cnn.com/2022/10/24/football/cristiano-ronaldo-manchester-united-legacy-spt-intl/index.html](https://www.cnn.com/2022/10/24/football/cristiano-ronaldo-manchester-united-legacy-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 08:43:14+00:00
- - tags: None
 
 When Cristiano Ronaldo returned to Manchester United last summer, he was accompanied by so much fanfare that his iconic No.7 jersey became the fastest selling jersey of all time, outstripping those sold by the Tampa Bay Buccaneers when Tom Brady joined or the LA Lakers when they signed LeBron James.
 
@@ -484,7 +424,6 @@ When Cristiano Ronaldo returned to Manchester United last summer, he was accompa
  - [https://www.cnn.com/videos/world/2022/10/24/brexit-politics-timeline-anna-stewart-pkg-ovn-intl-contd-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/brexit-politics-timeline-anna-stewart-pkg-ovn-intl-contd-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 08:36:55+00:00
- - tags: None
 
 There seems to be no end in sight of the political turmoil that Britain has endured since the country voted to leave the European Union back in 2016. CNN's Anna Stewart reports.
 
@@ -492,7 +431,6 @@ There seems to be no end in sight of the political turmoil that Britain has endu
  - [http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-24-22/index.html](http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 08:03:38.921364+00:00
- - tags: None
 
 
 
@@ -500,7 +438,6 @@ There seems to be no end in sight of the political turmoil that Britain has endu
  - [https://www.cnn.com/2022/10/24/world/search-and-rescue-rats-apopo-hnk-spc-intl/index.html](https://www.cnn.com/2022/10/24/world/search-and-rescue-rats-apopo-hnk-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 07:56:29+00:00
- - tags: None
 
 Buildings don't collapse very often -- but when they do, it's catastrophic for those trapped inside. Natural disasters like earthquakes and hurricanes can level entire towns, and for the search and rescue teams trying to find survivors, it's a painstaking task.
 
@@ -508,7 +445,6 @@ Buildings don't collapse very often -- but when they do, it's catastrophic for t
  - [https://www.cnn.com/2022/10/24/china/china-party-congress-consequences-world-intl-hnk/index.html](https://www.cnn.com/2022/10/24/china/china-party-congress-consequences-world-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 07:41:18+00:00
- - tags: None
 
 It was a crowning moment for Xi Jinping when he stepped onto a red-carpet stage on Sunday to begin his norm-shattering third term as China's supreme leader.
 
@@ -516,7 +452,6 @@ It was a crowning moment for Xi Jinping when he stepped onto a red-carpet stage 
  - [https://www.cnn.com/2022/10/24/us/dallas-hospital-shooting-suspect-monday/index.html](https://www.cnn.com/2022/10/24/us/dallas-hospital-shooting-suspect-monday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 07:34:30+00:00
- - tags: None
 
 The man who allegedly shot and killed two employees in the maternity ward of a Dallas hospital was in the building to attend the birth of his child, Texas authorities said.
 
@@ -524,7 +459,6 @@ The man who allegedly shot and killed two employees in the maternity ward of a D
  - [https://www.cnn.com/2022/10/24/opinions/iran-evin-prison-fire-inmate-kylie-moore-gilbert/index.html](https://www.cnn.com/2022/10/24/opinions/iran-evin-prison-fire-inmate-kylie-moore-gilbert/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 07:23:42+00:00
- - tags: None
 
 "Evin's on fire! It's going up in flames, and they're shooting at the prisoners inside!" This was one of the flurry of messages I received late October 15 from Iranian activists and fellow survivors of the country's most notorious prison.
 
@@ -532,7 +466,6 @@ The man who allegedly shot and killed two employees in the maternity ward of a D
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-24-22#h_17c574ceaca97e41638ca1393430c382](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-24-22#h_17c574ceaca97e41638ca1393430c382)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 07:02:54.631620+00:00
- - tags: None
 
 
 
@@ -540,7 +473,6 @@ The man who allegedly shot and killed two employees in the maternity ward of a D
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 05:47:29+00:00
- - tags: None
 
 • Kherson resident describes a ghost town of exhausted people
 
@@ -548,7 +480,6 @@ The man who allegedly shot and killed two employees in the maternity ward of a D
  - [https://www.cnn.com/collections/intl-1024-uk/](https://www.cnn.com/collections/intl-1024-uk/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 04:18:07+00:00
- - tags: None
 
 
 
@@ -556,7 +487,6 @@ The man who allegedly shot and killed two employees in the maternity ward of a D
  - [https://www.cnn.com/2022/10/24/uk/uk-new-prime-minister-political-crisis-intl-gbr/index.html](https://www.cnn.com/2022/10/24/uk/uk-new-prime-minister-political-crisis-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 04:10:12+00:00
- - tags: None
 
 • Opinion: An astonishing fall from grace
 • How much money Truss could receive as ex-prime minister, despite record-short term
@@ -565,7 +495,6 @@ The man who allegedly shot and killed two employees in the maternity ward of a D
  - [https://www.cnn.com/2022/10/24/politics/donald-trump-circus-analysis/index.html](https://www.cnn.com/2022/10/24/politics/donald-trump-circus-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 04:02:26+00:00
- - tags: None
 
 Former President Donald Trump and his movement are posing new challenges to accountability, free elections and the rule of law, ushering in a fresh period of political turmoil.
 
@@ -573,7 +502,6 @@ Former President Donald Trump and his movement are posing new challenges to acco
  - [https://www.cnn.com/2022/10/23/economy/china-gdp-released-xi-third-term-stock-market-intl-hnk/index.html](https://www.cnn.com/2022/10/23/economy/china-gdp-released-xi-third-term-stock-market-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 03:14:10+00:00
- - tags: None
 
 China released stronger-than-expected GDP and other economic data on Monday, just a day after Xi Jinping clinched a historic third term in power following the conclusion of a major political gathering.
 
@@ -581,7 +509,6 @@ China released stronger-than-expected GDP and other economic data on Monday, jus
  - [https://www.cnn.com/2022/10/23/politics/dirty-bomb-ukraine-russia-fears-us-refute/index.html](https://www.cnn.com/2022/10/23/politics/dirty-bomb-ukraine-russia-fears-us-refute/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 02:23:49+00:00
- - tags: None
 
 Russia's defense minister accused Ukrainians of planning to use a so-called dirty bomb -- a claim that was strongly refuted by US officials on Sunday as a Russian false flag operation.
 
@@ -589,7 +516,6 @@ Russia's defense minister accused Ukrainians of planning to use a so-called dirt
  - [https://www.cnn.com/2022/10/23/business/yappy-dog-contest-trnd/index.html](https://www.cnn.com/2022/10/23/business/yappy-dog-contest-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 01:33:47+00:00
- - tags: None
 
 If you're one of those people who created a social media page for your dog, then keep reading ...
 
@@ -597,7 +523,6 @@ If you're one of those people who created a social media page for your dog, then
  - [https://www.cnn.com/2022/10/23/entertainment/matthew-perry-jennifer-aniston-alcohol/index.html](https://www.cnn.com/2022/10/23/entertainment/matthew-perry-jennifer-aniston-alcohol/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 01:22:10+00:00
- - tags: None
 
 Matthew Perry is continuing to share candid moments from his long journey to sobriety and the struggles he endured during his run on NBC's "Friends" while yoyo-ing between addictions to Vicodin and alcohol.
 
@@ -605,7 +530,6 @@ Matthew Perry is continuing to share candid moments from his long journey to sob
  - [https://www.cnn.com/collections/intl-2410-iran/](https://www.cnn.com/collections/intl-2410-iran/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 01:06:56+00:00
- - tags: None
 
 
 
@@ -613,6 +537,5 @@ Matthew Perry is continuing to share candid moments from his long journey to sob
  - [https://www.cnn.com/2022/10/23/sport/australia-netball-rinehart-diamonds-sponsorship-spt-intl-hnk/index.html](https://www.cnn.com/2022/10/23/sport/australia-netball-rinehart-diamonds-sponsorship-spt-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-24 00:58:49+00:00
- - tags: None
 
 When Australia's richest woman Gina Rinehart threw a financial lifeline to Netball Australia, she triggered a debate about sponsorships and the role of social and political issues in the sporting sphere. Then she walked away.

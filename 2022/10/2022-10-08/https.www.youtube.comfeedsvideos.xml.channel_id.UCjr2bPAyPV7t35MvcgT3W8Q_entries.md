@@ -1,10 +1,9 @@
-# Source The Hated One, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+# Source The Hated One, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, Source language: en-US
 
 ## How CIA Spies Spread Dangerous Propaganda On YouTube
  - [https://www.youtube.com/watch?v=fKNAXLX6pKg](https://www.youtube.com/watch?v=fKNAXLX6pKg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
  - date published: 2022-10-08 22:51:39+00:00
- - tags: None
 
 Social media is flooded with CIA propaganda disseminated by former spies. Their lies are dangerous and need to be dealt with.
 Support independent research and analysis by joining my Patreon page: https://www.patreon.com/thehatedone 

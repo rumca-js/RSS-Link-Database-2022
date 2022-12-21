@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Android’s creator has returned with a surveillance startup
  - [https://www.androidauthority.com/andy-rubin-surveillance-startup-3225144/](https://www.androidauthority.com/andy-rubin-surveillance-startup-3225144/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 22:09:27+00:00
- - tags: None
 
 Rubin has a new startup aimed at home security.
 
@@ -12,7 +11,6 @@ Rubin has a new startup aimed at home security.
  - [https://www.androidauthority.com/xbox-price-hike-3225074/](https://www.androidauthority.com/xbox-price-hike-3225074/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 19:52:24+00:00
- - tags: None
 
 The Xbox ecosystem could see a rise in prices in the future.
 
@@ -20,7 +18,6 @@ The Xbox ecosystem could see a rise in prices in the future.
  - [https://www.androidauthority.com/how-to-turn-off-5g-android-3225031/](https://www.androidauthority.com/how-to-turn-off-5g-android-3225031/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 18:47:14+00:00
- - tags: None
 
 Here's how to disconnect from the 5G network when you don't need it.
 
@@ -28,7 +25,6 @@ Here's how to disconnect from the 5G network when you don't need it.
  - [https://www.androidauthority.com/large-apple-ipad-3225040/](https://www.androidauthority.com/large-apple-ipad-3225040/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 18:20:19+00:00
- - tags: None
 
 Apple could be getting ready to sell us a giant iPad.
 
@@ -36,7 +32,6 @@ Apple could be getting ready to sell us a giant iPad.
  - [https://www.androidauthority.com/nothing-ear-2-renders-3225002/](https://www.androidauthority.com/nothing-ear-2-renders-3225002/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 17:31:00+00:00
- - tags: None
 
 Through a new leak, we have gotten our first look at Nothing's new earbuds.
 
@@ -44,7 +39,6 @@ Through a new leak, we have gotten our first look at Nothing's new earbuds.
  - [https://www.androidauthority.com/expert-raw-astrophotography-3224913/](https://www.androidauthority.com/expert-raw-astrophotography-3224913/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 16:26:52+00:00
- - tags: None
 
 Expert RAW is gaining two new features to help users up their photography game.
 
@@ -52,7 +46,6 @@ Expert RAW is gaining two new features to help users up their photography game.
  - [https://www.androidauthority.com/nothing-ear-stick-price-release-date-specs-3224656/](https://www.androidauthority.com/nothing-ear-stick-price-release-date-specs-3224656/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 14:53:17+00:00
- - tags: None
 
 The Ear Stick brings a refreshed design and a few more additions. But it's not without cutbacks over the Ear 1.
 
@@ -60,7 +53,6 @@ The Ear Stick brings a refreshed design and a few more additions. But it's not w
  - [https://www.androidauthority.com/wallpaper-wednesday-oct-26-2022-3224367/](https://www.androidauthority.com/wallpaper-wednesday-oct-26-2022-3224367/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 13:30:22+00:00
- - tags: None
 
 In our weekly roundup, we deliver all the spooky and creepy wallpapers you need for the incoming holiday.
 
@@ -68,7 +60,6 @@ In our weekly roundup, we deliver all the spooky and creepy wallpapers you need 
  - [https://www.androidauthority.com/jack-reacher-series-amazon-prime-video-3072460/](https://www.androidauthority.com/jack-reacher-series-amazon-prime-video-3072460/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 13:06:57+00:00
- - tags: None
 
 Everything we know, from plot to casting to season 2.
 
@@ -76,7 +67,6 @@ Everything we know, from plot to casting to season 2.
  - [https://www.androidauthority.com/how-often-clean-up-contacts-list-poll-3224765/](https://www.androidauthority.com/how-often-clean-up-contacts-list-poll-3224765/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 11:14:26+00:00
- - tags: None
 
 Are you obsessive about deleting contacts or have you forgotten the last time you deleted a number?
 
@@ -84,7 +74,6 @@ Are you obsessive about deleting contacts or have you forgotten the last time yo
  - [https://www.androidauthority.com/daily-authority-october-26-2022-3224728/](https://www.androidauthority.com/daily-authority-october-26-2022-3224728/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 10:12:53+00:00
- - tags: None
 
 Android's superior earthquake detection, Pixel sales records, Apple takes more app revenue, and spooky mirrors, oh my!
 
@@ -92,7 +81,6 @@ Android's superior earthquake detection, Pixel sales records, Apple takes more a
  - [https://www.androidauthority.com/google-pixel-7-highest-selling-week-sales-3224721/](https://www.androidauthority.com/google-pixel-7-highest-selling-week-sales-3224721/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 08:59:29+00:00
- - tags: None
 
 It looks like the Pixel 7 series is another step in the right direction for Google.
 
@@ -100,7 +88,6 @@ It looks like the Pixel 7 series is another step in the right direction for Goog
  - [https://www.androidauthority.com/android-phones-earthquake-detection-warning-usa-3224704/](https://www.androidauthority.com/android-phones-earthquake-detection-warning-usa-3224704/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 07:58:45+00:00
- - tags: None
 
 Google's earthquake detection network turns Android phones into seismometers, and it paid off yesterday.
 
@@ -108,7 +95,6 @@ Google's earthquake detection network turns Android phones into seismometers, an
  - [https://www.androidauthority.com/apple-imessage-android-throwaway-3224263/](https://www.androidauthority.com/apple-imessage-android-throwaway-3224263/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 06:41:06+00:00
- - tags: None
 
 No, it wasn't at all about ensuring more iPhone sales...
 
@@ -116,7 +102,6 @@ No, it wasn't at all about ensuring more iPhone sales...
  - [https://www.androidauthority.com/google-home-for-web-3224659/](https://www.androidauthority.com/google-home-for-web-3224659/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 06:15:31+00:00
- - tags: None
 
 The much-awaited Google Home web view is here.
 
@@ -124,6 +109,5 @@ The much-awaited Google Home web view is here.
  - [https://www.androidauthority.com/apple-iphones-usb-c-port-3224654/](https://www.androidauthority.com/apple-iphones-usb-c-port-3224654/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-26 05:31:23+00:00
- - tags: None
 
 Apple will "have to comply" with the new rule, the company's Marketing Chief said at a conference.

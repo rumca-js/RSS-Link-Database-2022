@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## China's economy is 'in deep trouble' as Xi heads for next decade in power
  - [https://www.cnn.com/2022/10/14/economy/china-party-congress-economy-trouble-xi-intl-hnk/index.html](https://www.cnn.com/2022/10/14/economy/china-party-congress-economy-trouble-xi-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 23:52:16+00:00
- - tags: None
 
 When Xi Jinping came to power a decade ago, China had just overtaken Japan to become the world's second largest economy.
 
@@ -12,7 +11,6 @@ When Xi Jinping came to power a decade ago, China had just overtaken Japan to be
  - [https://www.cnn.com/2022/10/14/americas/new-wave-migrants-test-intl-latam/index.html](https://www.cnn.com/2022/10/14/americas/new-wave-migrants-test-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 22:51:06+00:00
- - tags: None
 
 In the almost complete darkness before midnight in the Caribbean Sea, a scream suddenly pierces the crash of the waves and wind.
 
@@ -20,7 +18,6 @@ In the almost complete darkness before midnight in the Caribbean Sea, a scream s
  - [https://www.cnn.com/2022/10/14/politics/joe-biden-iran-protests/index.html](https://www.cnn.com/2022/10/14/politics/joe-biden-iran-protests/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 22:49:25+00:00
- - tags: None
 
 President Joe Biden said Friday he was "stunned" by how Iranians have reacted to the death of 22-year-old Mahsa Amini, saying the nation has been "awakened" by the women-led protests and won't be quieted for "a long, long time."
 
@@ -28,7 +25,6 @@ President Joe Biden said Friday he was "stunned" by how Iranians have reacted to
  - [https://www.cnn.com/travel/article/united-airlines-flight-bird-strike/index.html](https://www.cnn.com/travel/article/united-airlines-flight-bird-strike/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 22:13:33+00:00
- - tags: None
 
 A bird strike shortly after takeoff sent a United Airlines flight back to Chicago's O'Hare International Airport on Friday, the airline said.
 
@@ -36,7 +32,6 @@ A bird strike shortly after takeoff sent a United Airlines flight back to Chicag
  - [https://www.cnn.com/videos/tech/2022/10/14/nasa-crew-4-splashdown-moment-vpx.nasa](https://www.cnn.com/videos/tech/2022/10/14/nasa-crew-4-splashdown-moment-vpx.nasa)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 21:34:35+00:00
- - tags: None
 
 Four astronauts boarded a SpaceX Crew Dragon capsule and returned home from the International Space Station, bringing an end to their nearly six-month stay aboard the orbiting laboratory.
 
@@ -44,7 +39,6 @@ Four astronauts boarded a SpaceX Crew Dragon capsule and returned home from the 
  - [https://www.cnn.com/videos/media/2022/10/14/trump-subpoena-jan-6-committee-late-night-orig-cprog-ht.cnn-business](https://www.cnn.com/videos/media/2022/10/14/trump-subpoena-jan-6-committee-late-night-orig-cprog-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 21:12:21+00:00
- - tags: None
 
 Late night hosts cracked a few jokes after the House January 6 Committee voted unanimously to subpoena former president Donald Trump for testimony and documents.
 
@@ -52,7 +46,6 @@ Late night hosts cracked a few jokes after the House January 6 Committee voted u
  - [https://www.cnn.com/videos/entertainment/2022/10/14/robbie-coltrane-death-hagrid-harry-potter-legacy-orig-lr-aw-contd.cnn](https://www.cnn.com/videos/entertainment/2022/10/14/robbie-coltrane-death-hagrid-harry-potter-legacy-orig-lr-aw-contd.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 20:14:20+00:00
- - tags: None
 
 Scottish actor Robbie Coltrane died at age 72, leaving a powerful legacy behind after starring in timeless classics such as "Harry Potter," "From Hell" and "Cracker."
 
@@ -60,7 +53,6 @@ Scottish actor Robbie Coltrane died at age 72, leaving a powerful legacy behind 
  - [https://www.cnn.com/2022/10/14/americas/haiti-gangs-sexual-violence-intl-latam/index.html](https://www.cnn.com/2022/10/14/americas/haiti-gangs-sexual-violence-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 19:27:59+00:00
- - tags: None
 
 As Haiti reels from a cascade of crises, the United Nations has released a grim report accusing the country's powerful gangs of using rape as a tool of intimidation and control.
 
@@ -68,7 +60,6 @@ As Haiti reels from a cascade of crises, the United Nations has released a grim 
  - [https://www.cnn.com/2022/10/14/politics/scott-hall-georgia-voting-system-breach/index.html](https://www.cnn.com/2022/10/14/politics/scott-hall-georgia-voting-system-breach/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 18:47:16+00:00
- - tags: None
 
 A pro-Trump operative who was caught on tape participating in a Georgia voting system breach after the 2020 election has testified before the special grand jury investigating efforts to overturn the outcome in that state, two sources familiar with the matter tell CNN.
 
@@ -76,7 +67,6 @@ A pro-Trump operative who was caught on tape participating in a Georgia voting s
  - [https://www.cnn.com/videos/politics/2022/10/14/midterms-republicans-democrats-cillizza-the-point-orig-jm.cnn](https://www.cnn.com/videos/politics/2022/10/14/midterms-republicans-democrats-cillizza-the-point-orig-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 17:54:03+00:00
- - tags: None
 
 With less than a month before the 2022 midterm election, Republicans are running ads on three main issues. In this week's episode of The Point, Chris Cillizza examines the message the party is trying to get across about Democrats. Stay tuned for next week, when Cillizza looks at what Democrats are saying about Republicans.
 
@@ -84,7 +74,6 @@ With less than a month before the 2022 midterm election, Republicans are running
  - [https://www.cnn.com/2022/10/14/entertainment/robbie-coltrane-death/index.html](https://www.cnn.com/2022/10/14/entertainment/robbie-coltrane-death/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 17:44:55+00:00
- - tags: None
 
 Robbie Coltrane, the actor who brought to life the lovable gamekeeper Hagrid in the Harry Potter film franchise, died on Friday, according to his agent, Scott Henderson. He was 72.
 
@@ -92,7 +81,6 @@ Robbie Coltrane, the actor who brought to life the lovable gamekeeper Hagrid in 
  - [https://www.cnn.com/2022/10/14/world/ocean-exploration-depth-alvin-scn/index.html](https://www.cnn.com/2022/10/14/world/ocean-exploration-depth-alvin-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 17:38:44+00:00
- - tags: None
 
 Black smoke appears to rise from chimney-like formations of the hottest and deepest known hydrothermal vents on Earth.
 
@@ -100,7 +88,6 @@ Black smoke appears to rise from chimney-like formations of the hottest and deep
  - [https://www.cnn.com/collections/videos-of-the-week-101422/](https://www.cnn.com/collections/videos-of-the-week-101422/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 17:10:50+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ Black smoke appears to rise from chimney-like formations of the hottest and deep
  - [https://www.cnn.com/collections/truss-intl-101422/](https://www.cnn.com/collections/truss-intl-101422/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 17:09:59+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@ Black smoke appears to rise from chimney-like formations of the hottest and deep
  - [https://www.cnn.com/videos/world/2022/10/14/australia-floods-melbourne-lon-orig-sfc.cnn](https://www.cnn.com/videos/world/2022/10/14/australia-floods-melbourne-lon-orig-sfc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 16:41:28+00:00
- - tags: None
 
 Heavy floods have caused thousands to evacuate in the Australian southeast states of Victoria, New South Wales and Tasmania.
 
@@ -124,7 +109,6 @@ Heavy floods have caused thousands to evacuate in the Australian southeast state
  - [https://www.cnn.com/2022/10/14/uk/royal-news-newsletter-10-14-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/10/14/uk/royal-news-newsletter-10-14-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 16:17:15+00:00
- - tags: None
 
 Mark your calendars, royal-watchers. King Charles III will be crowned in Westminster Abbey on May 6, 2023, eight months after he succeeded his mother.
 
@@ -132,7 +116,6 @@ Mark your calendars, royal-watchers. King Charles III will be crowned in Westmin
  - [https://www.cnn.com/style/article/channel-4-jimmy-carr-hitler-painting-intl-scli-gbr/index.html](https://www.cnn.com/style/article/channel-4-jimmy-carr-hitler-painting-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 16:06:47+00:00
- - tags: None
 
 British broadcaster Channel 4 has received stinging criticism over plans for a new show that will allow a studio audience to decide whether to destroy a painting by Adolf Hitler.
 
@@ -140,7 +123,6 @@ British broadcaster Channel 4 has received stinging criticism over plans for a n
  - [https://www.cnn.com/2022/10/14/politics/treasury-department-sanctions-russia/index.html](https://www.cnn.com/2022/10/14/politics/treasury-department-sanctions-russia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 15:38:35+00:00
- - tags: None
 
 Western sanctions have sharply curtailed Russia's ability to replenish the munitions it is using in Ukraine, according to a new analysis from the Office of the Director of National Intelligence, forcing Moscow to task its intelligence services with finding ways to evade restrictions and procure the critical technology and parts to sustain its war effort.
 
@@ -148,7 +130,6 @@ Western sanctions have sharply curtailed Russia's ability to replenish the munit
  - [https://www.cnn.com/2022/10/14/middleeast/us-saudi-oil-spat-options-mime-intl/index.html](https://www.cnn.com/2022/10/14/middleeast/us-saudi-oil-spat-options-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 15:20:42+00:00
- - tags: None
 
 The Saudi-American relationship appears to have hit rock bottom.
 
@@ -156,7 +137,6 @@ The Saudi-American relationship appears to have hit rock bottom.
  - [https://www.cnn.com/2022/10/14/health/dont-say-gay-as-insult-wellness/index.html](https://www.cnn.com/2022/10/14/health/dont-say-gay-as-insult-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 14:57:29+00:00
- - tags: None
 
 Imparting life lessons to your own kids is part and parcel of parenting, but what about doing that for other people's kids? When (if ever) is it appropriate to step in to issue a value judgment and draw a hard line in the sand when it involves not just your child but other children as well?
 
@@ -164,7 +144,6 @@ Imparting life lessons to your own kids is part and parcel of parenting, but wha
  - [https://www.cnn.com/videos/politics/2022/10/14/jan-6-hearing-trump-reaction-analysis-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/14/jan-6-hearing-trump-reaction-analysis-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 14:45:01+00:00
- - tags: None
 
 Former President Donald Trump does not say whether he will comply with the subpoena by the House select committee investigating the January 6 Capitol Hill insurrection, in a lengthy response to the committee posted on Truth Social. CNN's John Avlon and columnist Scott Jennings discuss.
 
@@ -172,7 +151,6 @@ Former President Donald Trump does not say whether he will comply with the subpo
  - [https://www.cnn.com/2022/10/14/europe/russia-putin-ukraine-intl/index.html](https://www.cnn.com/2022/10/14/europe/russia-putin-ukraine-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 14:24:52+00:00
- - tags: None
 
 Russian President Vladimir Putin said Friday he had "no regrets" over his deadly missile attacks on civilian targets across Ukraine earlier this week, but said there was no need for more "massive" strikes for now.
 
@@ -180,7 +158,6 @@ Russian President Vladimir Putin said Friday he had "no regrets" over his deadly
  - [https://cnn.it/3VtJs4f](https://cnn.it/3VtJs4f)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 14:03:26.504672+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ Russian President Vladimir Putin said Friday he had "no regrets" over his deadly
  - [https://cnn.it/3g2LcBr](https://cnn.it/3g2LcBr)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 14:03:25.509023+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ Russian President Vladimir Putin said Friday he had "no regrets" over his deadly
  - [https://www.cnn.com/2022/10/14/entertainment/rosaline-review/index.html](https://www.cnn.com/2022/10/14/entertainment/rosaline-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 14:01:39+00:00
- - tags: None
 
 Tapping into the twin markets of A) lovers of rom-coms and B) recovering English majors, "Rosaline" promotes a fleetingly mentioned "Romeo and Juliet" character front and center, then builds a very clever and breezy movie around her. The result is a welcome starring showcase for Kaitlyn Dever more likely to prosper in the hamlet of Hulu than it would have fared in the province of theaters.
 
@@ -204,7 +179,6 @@ Tapping into the twin markets of A) lovers of rom-coms and B) recovering English
  - [https://www.cnn.com/2022/10/14/opinions/angela-lansbury-legend-and-icon-thomas/index.html](https://www.cnn.com/2022/10/14/opinions/angela-lansbury-legend-and-icon-thomas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 13:47:12+00:00
- - tags: None
 
 Her story began like a classic Hollywood fairytale, but that's not how it ended. Angela Lansbury, who died on Tuesday aged 96, starred in her first film, "Gaslight," in 1944 at just 19 years old. She'd been signed by MGM Studios just two years previously, having studied acting in New York City after her family, which had fallen on hard times, was forced to flee their home in Blitz-stricken London.
 
@@ -212,7 +186,6 @@ Her story began like a classic Hollywood fairytale, but that's not how it ended.
  - [https://www.cnn.com/style/article/taylor-russell-corset-schiaparelli-lotw/index.html](https://www.cnn.com/style/article/taylor-russell-corset-schiaparelli-lotw/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 13:41:52+00:00
- - tags: None
 
 At last weekend's premiere of Italian director Luca Guadagnino's new film "Bones and All" during London's BFI Film Festival, actor Taylor Russell cemented herself as one to watch on the red carpet wearing a striking head-to-toe Schiaparelli look and boned corset.
 
@@ -220,7 +193,6 @@ At last weekend's premiere of Italian director Luca Guadagnino's new film "Bones
  - [https://www.cnn.com/2022/10/14/business/beyond-meat-doug-ramsey-layoffs/index.html](https://www.cnn.com/2022/10/14/business/beyond-meat-doug-ramsey-layoffs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 13:03:57+00:00
- - tags: None
 
 Beyond Meat Chief Operating Officer Doug Ramsey is leaving the company after his recent arrest for assault.
 
@@ -228,7 +200,6 @@ Beyond Meat Chief Operating Officer Doug Ramsey is leaving the company after his
  - [https://www.cnn.com/travel/article/cappadocia-turkey-hiking/index.html](https://www.cnn.com/travel/article/cappadocia-turkey-hiking/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 12:45:03+00:00
- - tags: None
 
 A rich palette of shimmering caramel swirls, ochers, creams and pinks unfolds across the landscape like an enormous handwoven carpet. Stands of poplars line paths carved by ancient lava flows from three now extinct volcanoes, crisscrossing valleys studded with conical peribacı.
 
@@ -236,7 +207,6 @@ A rich palette of shimmering caramel swirls, ochers, creams and pinks unfolds ac
  - [https://www.cnn.com/style/article/oil-protest-van-gogh-sunflower-soup-intl-scli-gbr/index.html](https://www.cnn.com/style/article/oil-protest-van-gogh-sunflower-soup-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 12:20:32+00:00
- - tags: None
 
 Anti-fossil fuel protesters threw soup over Van Gogh's famous "Sunflowers" painting at London's National Gallery on Friday.
 
@@ -244,7 +214,6 @@ Anti-fossil fuel protesters threw soup over Van Gogh's famous "Sunflowers" paint
  - [https://www.cnn.com/2022/10/14/business/spacex-nasa-crew-4-undock-friday-scn/index.html](https://www.cnn.com/2022/10/14/business/spacex-nasa-crew-4-undock-friday-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 12:16:59+00:00
- - tags: None
 
 Four astronauts are expected to board their SpaceX Crew Dragon capsule and return home from the International Space Station on Friday, bringing an end to their nearly six-month stay aboard the orbiting laboratory.
 
@@ -252,7 +221,6 @@ Four astronauts are expected to board their SpaceX Crew Dragon capsule and retur
  - [https://www.cnn.com/videos/us/2022/10/14/officers-killed-suspected-ambush-newday-vpx.cnn](https://www.cnn.com/videos/us/2022/10/14/officers-killed-suspected-ambush-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 12:12:14+00:00
- - tags: None
 
 CNN correspondent Alexandra Field reports that two Connecticut police officers were killed, and another left in critical condition, after what police are calling an ambush attack as officers responded to a fake 911 call.
 
@@ -260,7 +228,6 @@ CNN correspondent Alexandra Field reports that two Connecticut police officers w
  - [https://edition.cnn.com/webview/uk/live-news/truss-kwarteng-press-conference-intl-gbr/index.html](https://edition.cnn.com/webview/uk/live-news/truss-kwarteng-press-conference-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 12:03:24.069765+00:00
- - tags: None
 
 
 
@@ -268,7 +235,6 @@ CNN correspondent Alexandra Field reports that two Connecticut police officers w
  - [https://www.cnn.com/2022/10/14/world/mummified-dinosaur-skin-scn/index.html](https://www.cnn.com/2022/10/14/world/mummified-dinosaur-skin-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 11:51:17+00:00
- - tags: None
 
 The skin of a 67-million-year-old dinosaur has revealed bites and gashes from an ancient crocodile, and how its flesh was ripped apart may explain why it became mummified.
 
@@ -276,7 +242,6 @@ The skin of a 67-million-year-old dinosaur has revealed bites and gashes from an
  - [https://www.cnn.com/videos/politics/2022/10/14/jan-6-pelosi-exclusive-video-punch-him-out-trump-pkg-holmes-newday-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/14/jan-6-pelosi-exclusive-video-punch-him-out-trump-pkg-holmes-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 11:13:44+00:00
- - tags: None
 
 In new exclusive footage from January 6, Nancy Pelosi told aides that she wanted to punch President Donald Trump if he came to the Capitol. The footage was captured by Alexandra Pelosi, a documentary filmmaker and daughter of the Democratic speaker of the House.
 
@@ -284,7 +249,6 @@ In new exclusive footage from January 6, Nancy Pelosi told aides that she wanted
  - [https://www.cnn.com/2022/10/14/business/uk-postal-strike-job-cuts/index.html](https://www.cnn.com/2022/10/14/business/uk-postal-strike-job-cuts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:56:52+00:00
- - tags: None
 
 UK postal service Royal Mail said Friday that it could cut 6,000 jobs as it warned of a big loss this year, which it blamed on a wave of strikes and a decline in its parcel delivery business.
 
@@ -292,7 +256,6 @@ UK postal service Royal Mail said Friday that it could cut 6,000 jobs as it warn
  - [https://www.cnn.com/2022/10/14/europe/dutch-crown-princess-palace-security-threats-intl/index.html](https://www.cnn.com/2022/10/14/europe/dutch-crown-princess-palace-security-threats-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:56:39+00:00
- - tags: None
 
 Dutch Crown Princess Catharina-Amalia is under heightened security due to concern that she could be targeted by criminals, Dutch news agency ANP reported on Thursday, citing her parents.
 
@@ -300,7 +263,6 @@ Dutch Crown Princess Catharina-Amalia is under heightened security due to concer
  - [https://www.cnn.com/2022/10/14/sport/deshaun-watson-new-sexual-misconduct-civil-suit-spt-intl/index.html](https://www.cnn.com/2022/10/14/sport/deshaun-watson-new-sexual-misconduct-civil-suit-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:50:11+00:00
- - tags: None
 
 Less than two months after settling 23 lawsuits accusing him of sexual misconduct, a new civil suit was filed against Cleveland Browns quarterback Deshaun Watson on Thursday in Houston.
 
@@ -308,7 +270,6 @@ Less than two months after settling 23 lawsuits accusing him of sexual misconduc
  - [https://www.cnn.com/2022/10/14/tennis/rafael-nadal-son-birth-spt-intl/index.html](https://www.cnn.com/2022/10/14/tennis/rafael-nadal-son-birth-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:42:03+00:00
- - tags: None
 
 Rafael Nadal says he's thankful for all the messages of support and well-wishes he has received since the birth of his son.
 
@@ -316,7 +277,6 @@ Rafael Nadal says he's thankful for all the messages of support and well-wishes 
  - [https://www.cnn.com/travel/article/sardinia-spirit-filu-e-ferru/index.html](https://www.cnn.com/travel/article/sardinia-spirit-filu-e-ferru/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:36:31+00:00
- - tags: None
 
 It's super strong, fennel-flavored, as transparent as water -- and in many households across Sardinia it's still produced illegally.
 
@@ -324,7 +284,6 @@ It's super strong, fennel-flavored, as transparent as water -- and in many house
  - [https://www.cnn.com/2022/10/14/football/ashley-williams-conduct-hearing-spt-intl/index.html](https://www.cnn.com/2022/10/14/football/ashley-williams-conduct-hearing-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:34:58+00:00
- - tags: None
 
 Former Wales international footballer Ashley Williams is facing a disciplinary hearing for his alleged behavior during a junior soccer match, the Manchester Football Association told CNN.
 
@@ -332,7 +291,6 @@ Former Wales international footballer Ashley Williams is facing a disciplinary h
  - [https://www.cnn.com/2022/10/14/golf/phil-mickelson-liv-golf-series-winning-side-spt-intl/index.html](https://www.cnn.com/2022/10/14/golf/phil-mickelson-liv-golf-series-winning-side-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:30:53+00:00
- - tags: None
 
 Veteran golfer Phil Mickelson says he's on the "winning side" amid the ongoing dispute between LIV Golf and the PGA Tour.
 
@@ -340,7 +298,6 @@ Veteran golfer Phil Mickelson says he's on the "winning side" amid the ongoing d
  - [https://www.cnn.com/videos/travel/2022/10/13/wellington-zoo-ring-tailed-lemur-twins-lon-orig-tp.cnn](https://www.cnn.com/videos/travel/2022/10/13/wellington-zoo-ring-tailed-lemur-twins-lon-orig-tp.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:09:39+00:00
- - tags: None
 
 Wellington Zoo in New Zealand has increased its number of ring-tailed lemurs from five to 13 after welcoming four sets of twins in the past two months.
 
@@ -348,7 +305,6 @@ Wellington Zoo in New Zealand has increased its number of ring-tailed lemurs fro
  - [https://www.cnn.com/2022/10/14/health/early-onset-cancer-increase/index.html](https://www.cnn.com/2022/10/14/health/early-onset-cancer-increase/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 10:09:00+00:00
- - tags: None
 
 Iana dos Reis Nunes was 43 when she told her husband that she could feel something like a bubble in her abdomen when she lay on her side.
 
@@ -356,7 +312,6 @@ Iana dos Reis Nunes was 43 when she told her husband that she could feel somethi
  - [https://www.cnn.com/2022/10/14/entertainment/ringo-starr-cancels-tour-intl-scli/index.html](https://www.cnn.com/2022/10/14/entertainment/ringo-starr-cancels-tour-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 09:38:10+00:00
- - tags: None
 
 Ringo Starr has canceled the remainder of his North American tour after testing positive for Covid-19 again.
 
@@ -364,7 +319,6 @@ Ringo Starr has canceled the remainder of his North American tour after testing 
  - [https://www.cnn.com/2022/10/14/football/patrick-vieira-senegel-africa-diversity-spt-intl/index.html](https://www.cnn.com/2022/10/14/football/patrick-vieira-senegel-africa-diversity-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 09:29:15+00:00
- - tags: None
 
 For many the name Patrick Vieira brings to mind one of the most dominant midfielders in English Premier League history.
 
@@ -372,7 +326,6 @@ For many the name Patrick Vieira brings to mind one of the most dominant midfiel
  - [https://www.cnn.com/2022/10/14/sport/brian-robinson-jr-commanders-bears-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/14/sport/brian-robinson-jr-commanders-bears-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 09:27:32+00:00
- - tags: None
 
 Just 46 days after being shot, Brian Robinson Jr. scored his first NFL touchdown as he helped the Washington Commanders beat the Chicago Bears 12-7.
 
@@ -380,7 +333,6 @@ Just 46 days after being shot, Brian Robinson Jr. scored his first NFL touchdown
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-14-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 09:03:21.668699+00:00
- - tags: None
 
 • Analysis: Russia is bruised as winter approaches. Can Ukraine land another blow?
 
@@ -388,7 +340,6 @@ Just 46 days after being shot, Brian Robinson Jr. scored his first NFL touchdown
  - [https://www.cnn.com/2022/10/14/politics/kfile-gabe-vasquez-new-mexico-deleted-progressive-tweets/index.html](https://www.cnn.com/2022/10/14/politics/kfile-gabe-vasquez-new-mexico-deleted-progressive-tweets/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 09:00:20+00:00
- - tags: None
 
 A Democratic House candidate in New Mexico, campaigning as a moderate in a tightly contested race, deleted tweets attacking the oil and gas industry, rationalizing rioting in summer 2020, and comparing the Trump administration to the Ku Klux Klan.
 
@@ -396,7 +347,6 @@ A Democratic House candidate in New Mexico, campaigning as a moderate in a tight
  - [https://www.cnn.com/2022/10/14/economy/uk-tax-cuts-liz-truss-reversal/index.html](https://www.cnn.com/2022/10/14/economy/uk-tax-cuts-liz-truss-reversal/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 08:59:11+00:00
- - tags: None
 
 Widespread speculation that embattled UK Prime Minister Liz Truss and Finance Minister Kwasi Kwarteng are preparing to ditch a big part of their economic strategy unveiled just three weeks ago sent UK bond prices higher on Friday.
 
@@ -404,7 +354,6 @@ Widespread speculation that embattled UK Prime Minister Liz Truss and Finance Mi
  - [https://www.cnn.com/videos/world/2022/10/14/nigeria-floods-pkg-larry-madowo-ovn-intl-contd-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/14/nigeria-floods-pkg-larry-madowo-ovn-intl-contd-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 08:18:04+00:00
- - tags: None
 
 More than 1.4 million people have been displaced and about 500 people have died in some of the worst floodings southern Nigeria has seen in a decade, the country's humanitarian ministry has said. CNN's Larry Madowo reports.
 
@@ -412,7 +361,6 @@ More than 1.4 million people have been displaced and about 500 people have died 
  - [https://www.cnn.com/2022/10/14/asia/all-that-breathes-black-kites-new-delhi-spc-intl-c2e/index.html](https://www.cnn.com/2022/10/14/asia/all-that-breathes-black-kites-new-delhi-spc-intl-c2e/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 08:12:51+00:00
- - tags: None
 
 Every day, birds fall from Delhi's polluted skies.
 
@@ -420,7 +368,6 @@ Every day, birds fall from Delhi's polluted skies.
  - [https://www.cnn.com/2022/10/14/us/raleigh-north-carolina-shooting-friday/index.html](https://www.cnn.com/2022/10/14/us/raleigh-north-carolina-shooting-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 07:56:58+00:00
- - tags: None
 
 A juvenile suspect has been taken into custody after five people were killed and at least two others were wounded in a mass shooting Thursday in Raleigh, North Carolina, where officials say the nightmare of gun violence has shaken the community.
 
@@ -428,7 +375,6 @@ A juvenile suspect has been taken into custody after five people were killed and
  - [https://www.cnn.com/2022/10/14/australia/australia-floods-evacuations-climate-la-nina-intl/index.html](https://www.cnn.com/2022/10/14/australia/australia-floods-evacuations-climate-la-nina-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 07:51:51+00:00
- - tags: None
 
 Thousands of people across Australia's southeast were asked to evacuate their homes on Friday, including some in Melbourne's west, after two days of incessant rains triggered flash flooding and fast-moving waters burst river banks.
 
@@ -436,7 +382,6 @@ Thousands of people across Australia's southeast were asked to evacuate their ho
  - [https://www.cnn.com/2022/10/14/us/gerson-fuentes-child-rape-abortion-trial-set/index.html](https://www.cnn.com/2022/10/14/us/gerson-fuentes-child-rape-abortion-trial-set/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 07:40:23+00:00
- - tags: None
 
 The trial for the man accused of raping and impregnating a child in Ohio who then had to travel to Indiana for an abortion has been set for early next year, according to a court document obtained by CNN.
 
@@ -444,7 +389,6 @@ The trial for the man accused of raping and impregnating a child in Ohio who the
  - [https://www.cnn.com/2022/10/14/sport/felix-baumgartner-red-bull-sky-dive-spt-intl/index.html](https://www.cnn.com/2022/10/14/sport/felix-baumgartner-red-bull-sky-dive-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 07:27:45+00:00
- - tags: None
 
 After six years of preparation, struggle and sacrifice, Felix Baumgartner found himself quite literally on the edge of the world.
 
@@ -452,7 +396,6 @@ After six years of preparation, struggle and sacrifice, Felix Baumgartner found 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-14-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 07:03:18.232252+00:00
- - tags: None
 
 • Analysis: Russia is bruised as winter approaches. Can Ukraine land another blow?
 
@@ -460,7 +403,6 @@ After six years of preparation, struggle and sacrifice, Felix Baumgartner found 
  - [https://www.cnn.com/collections/intl-1410-north-korea/](https://www.cnn.com/collections/intl-1410-north-korea/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 06:34:25+00:00
- - tags: None
 
 
 
@@ -468,7 +410,6 @@ After six years of preparation, struggle and sacrifice, Felix Baumgartner found 
  - [https://www.cnn.com/2022/10/14/asia/north-korea-warplanes-missile-military-tensions-intl-hnk-ml/index.html](https://www.cnn.com/2022/10/14/asia/north-korea-warplanes-missile-military-tensions-intl-hnk-ml/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 06:27:03+00:00
- - tags: None
 
 • Video explainer: How much damage can North Korea's missiles actually do
 
@@ -476,7 +417,6 @@ After six years of preparation, struggle and sacrifice, Felix Baumgartner found 
  - [https://www.cnn.com/style/article/amy-sherald-vj-day-kiss-alfred-eisenstaedt-snap/index.html](https://www.cnn.com/style/article/amy-sherald-vj-day-kiss-alfred-eisenstaedt-snap/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 06:02:52+00:00
- - tags: None
 
 It might be the most famous kiss ever caught on camera — the US sailor wrapping his arms around a woman in a white medical uniform in Times Square, her body folded dramatically into his. Taken amid the jubilation of V-J Day, which effectively brought World War II to an end, Alfred Eisenstaedt's black-and-white image was first published in Life magazine in 1945 and has since become a fixture in popular culture.
 
@@ -484,7 +424,6 @@ It might be the most famous kiss ever caught on camera — the US sailor wrappin
  - [https://www.cnn.com/videos/business/2022/10/14/social-media-reacts-to-28-taco-bell-lunch-moos-orig-gr.cnn](https://www.cnn.com/videos/business/2022/10/14/social-media-reacts-to-28-taco-bell-lunch-moos-orig-gr.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 05:10:29+00:00
- - tags: None
 
 Wealth management executive Scott Martin blamed his $28 bill for lunch at Taco Bell on inflation. See the uproar it caused on social media. CNN's Jeanne Moos reports.
 
@@ -492,7 +431,6 @@ Wealth management executive Scott Martin blamed his $28 bill for lunch at Taco B
  - [https://www.cnn.com/videos/politics/2022/10/14/haberman-trump-attacks-roll-the-tape-tapperctn-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/14/haberman-trump-attacks-roll-the-tape-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 04:19:18+00:00
- - tags: None
 
 New York Times reporter Maggie Haberman reacts to past attacks by former President Donald Trump.
 
@@ -500,7 +438,6 @@ New York Times reporter Maggie Haberman reacts to past attacks by former Preside
  - [https://www.cnn.com/collections/intl-1410-musk/](https://www.cnn.com/collections/intl-1410-musk/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 03:39:20+00:00
- - tags: None
 
 
 
@@ -508,7 +445,6 @@ New York Times reporter Maggie Haberman reacts to past attacks by former Preside
  - [https://www.cnn.com/style/article/benin-bronzes-us-museums-tan/index.html](https://www.cnn.com/style/article/benin-bronzes-us-museums-tan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 03:02:46+00:00
- - tags: None
 
 The National Gallery of Art (NGA), the Smithsonian Institution's National Museum of African Art (NMAfA) and the Rhode Island School of Design (RISD) Museum held a joint ceremony Tuesday in Washington, DC, to mark the return of 31 Benin bronzes from their respective collections to Nigeria, marking the latest milestone in a growing movement to return the looted treasures.
 
@@ -516,7 +452,6 @@ The National Gallery of Art (NGA), the Smithsonian Institution's National Museum
  - [https://www.cnn.com/videos/politics/2022/10/13/january-6-violence-hearings-trump-monologue-tapperctn-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/13/january-6-violence-hearings-trump-monologue-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 02:47:56+00:00
- - tags: None
 
 CNN's Jake Tapper breaks down former President Donald Trump's lies about the 2020 election and history of violent rhetoric.
 
@@ -524,7 +459,6 @@ CNN's Jake Tapper breaks down former President Donald Trump's lies about the 202
  - [https://www.cnn.com/videos/politics/2022/10/14/adam-kinzinger-january-6-hearing-trump-subpoena-tapperctn-sot-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/14/adam-kinzinger-january-6-hearing-trump-subpoena-tapperctn-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 01:56:13+00:00
- - tags: None
 
 January 6 committee member Rep. Adam Kinzinger (R-IL) speaks with CNN's Jake Tapper about why the new videos debuted in the committee's hearing illustrate his own party leadership's shortfalls.
 
@@ -532,7 +466,6 @@ January 6 committee member Rep. Adam Kinzinger (R-IL) speaks with CNN's Jake Tap
  - [https://www.cnn.com/2022/10/13/us/raleigh-north-carolina-shooting/index.html](https://www.cnn.com/2022/10/13/us/raleigh-north-carolina-shooting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 01:48:19+00:00
- - tags: None
 
 Five people -- including an off-duty police officer -- are dead after a shooting Thursday in eastern Raleigh, North Carolina, according to Mayor Mary-Ann Baldwin.
 
@@ -540,7 +473,6 @@ Five people -- including an off-duty police officer -- are dead after a shooting
  - [https://www.cnn.com/videos/politics/2022/10/14/jan-6-pence-call-pelosi-exclusive-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/14/jan-6-pence-call-pelosi-exclusive-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 01:22:18+00:00
- - tags: None
 
 Never-before-seen footage, obtained exclusively by CNN, shows how congressional leaders frantically coordinated with former Vice President Mike Pence to quell the insurrection at the Capitol and finish certifying the 2020 election.
 
@@ -548,7 +480,6 @@ Never-before-seen footage, obtained exclusively by CNN, shows how congressional 
  - [https://www.cnn.com/videos/world/2022/10/13/russia-kamikaze-drone-attacks-ukraine-putin-strikes-pleitgen-dnt-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/13/russia-kamikaze-drone-attacks-ukraine-putin-strikes-pleitgen-dnt-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 01:19:13+00:00
- - tags: None
 
 As Vladimir Putin steps up his renewed assault on Ukrainian civilians for a fourth straight day, Russia is turning to drone strikes to wage its brutal campaign. CNN senior international correspondent Fred Pleitgen reports from the war zone.
 
@@ -556,6 +487,5 @@ As Vladimir Putin steps up his renewed assault on Ukrainian civilians for a four
  - [https://www.cnn.com/2022/10/13/politics/pelosi-jan-6-capitol-riot-video/index.html](https://www.cnn.com/2022/10/13/politics/pelosi-jan-6-capitol-riot-video/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-14 00:00:30+00:00
- - tags: None
 
 Never-before-seen footage, obtained exclusively by CNN, shows in vivid new detail how congressional leaders fled the US Capitol on January 6 and transformed a nearby military base into a command center, where they frantically coordinated with Vice President Mike Pence and Trump Cabinet members to quell the insurrection and finish certifying the 2020 election.

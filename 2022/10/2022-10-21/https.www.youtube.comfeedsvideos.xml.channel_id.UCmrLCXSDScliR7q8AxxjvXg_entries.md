@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## How STARSHIP TROOPERS' Politics Could SAVE AMERICA
  - [https://www.youtube.com/watch?v=W_AgYP6bcyQ](https://www.youtube.com/watch?v=W_AgYP6bcyQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-10-21 20:00:10+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 82% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Microsoft relaunches Syntex with broad set of AI-based content management tools
  - [https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-12 16:51:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676150/this-is-why-apple-will-lead-the-business-market.html#tk.rss_all](https://www.computerworld.com/article/3676150/this-is-why-apple-will-lead-the-business-market.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-12 16:27:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3676233/asana-boosts-goal-tracking-resource-management-and-security.html#tk.rss_all](https://www.computerworld.com/article/3676233/asana-boosts-goal-tracking-resource-management-and-security.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-12 12:57:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3676128/will-the-chips-act-really-bring-back-semiconductor-production-and-tech-jobs.html#tk.rss_all](https://www.computerworld.com/article/3676128/will-the-chips-act-really-bring-back-semiconductor-production-and-tech-jobs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-12 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3676284/eu-us-data-sharing-agreement-is-it-a-done-deal.html#tk.rss_all](https://www.computerworld.com/article/3676284/eu-us-data-sharing-agreement-is-it-a-done-deal.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-12 09:52:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

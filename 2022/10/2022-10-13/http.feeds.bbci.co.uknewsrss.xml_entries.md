@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Ringo Starr cancels North America tour with Covid
  - [https://www.bbc.co.uk/news/entertainment-arts-63251925?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63251925?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:53:32+00:00
- - tags: None
 
 The Beatle had previously cancelled dates after catching the virus, before returning to the road.
 
@@ -12,7 +11,6 @@ The Beatle had previously cancelled dates after catching the virus, before retur
  - [https://www.bbc.co.uk/news/world-us-canada-63237156?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63237156?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:45:11+00:00
- - tags: None
 
 A Florida jury's decision left relatives angry and upset - but was a result of the state's death penalty law.
 
@@ -20,7 +18,6 @@ A Florida jury's decision left relatives angry and upset - but was a result of t
  - [https://www.bbc.co.uk/news/blogs-the-papers-63251442?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63251442?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:38:22+00:00
- - tags: None
 
 Friday's headlines are dominated by mounting talk of a full U-turn on the recent mini-budget.
 
@@ -28,7 +25,6 @@ Friday's headlines are dominated by mounting talk of a full U-turn on the recent
  - [https://www.bbc.co.uk/news/world-us-canada-63251245?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63251245?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:22:53+00:00
- - tags: None
 
 Families tell the BBC they believed until the last minute their children's killer would be executed.
 
@@ -36,7 +32,6 @@ Families tell the BBC they believed until the last minute their children's kille
  - [https://www.bbc.co.uk/news/uk-politics-63251965?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63251965?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:16:53+00:00
- - tags: None
 
 "A government that's barely begun is confronting questions about its end," our political editor writes.
 
@@ -44,7 +39,6 @@ Families tell the BBC they believed until the last minute their children's kille
  - [https://www.bbc.co.uk/news/business-61020075?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-61020075?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:04:02+00:00
- - tags: None
 
 The story of how a software firm based thousands of miles away became embroiled in the UK scandal.
 
@@ -52,7 +46,6 @@ The story of how a software firm based thousands of miles away became embroiled 
  - [https://www.bbc.co.uk/news/business-63205245?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63205245?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:02:24+00:00
- - tags: None
 
 People in North Wales and Mersey pay the highest rate for their electricity, new figures reveal.
 
@@ -60,7 +53,6 @@ People in North Wales and Mersey pay the highest rate for their electricity, new
  - [https://www.bbc.co.uk/news/uk-politics-63250796?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63250796?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 23:01:58+00:00
- - tags: None
 
 Discussions continue but many Tory MPs believe changes to the economic plan are inevitable.
 
@@ -68,7 +60,6 @@ Discussions continue but many Tory MPs believe changes to the economic plan are 
  - [https://www.bbc.co.uk/news/entertainment-arts-63245342?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63245342?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 21:50:55+00:00
- - tags: None
 
 The National Television Awards 2022 also celebrates wins for Ant and Dec (again) and This Morning.
 
@@ -76,7 +67,6 @@ The National Television Awards 2022 also celebrates wins for Ant and Dec (again)
  - [https://www.bbc.co.uk/news/world-us-canada-63250182?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63250182?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 21:34:59+00:00
- - tags: None
 
 The Speaker of the House is seen talking to Virginia governor to request additional law enforcement.
 
@@ -84,7 +74,6 @@ The Speaker of the House is seen talking to Virginia governor to request additio
  - [https://www.bbc.co.uk/sport/football/63234700?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63234700?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 21:23:44+00:00
- - tags: None
 
 West Ham guarantee a place in the Europa Conference League knockout stage with a win over Anderlecht in Group B.
 
@@ -92,7 +81,6 @@ West Ham guarantee a place in the Europa Conference League knockout stage with a
  - [https://www.bbc.co.uk/sport/football/63233663?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63233663?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 21:19:25+00:00
- - tags: None
 
 Manchester United leave it late as Scott McTominay scores a stoppage-time winner over Omonia Nicosia in the Europa League.
 
@@ -100,7 +88,6 @@ Manchester United leave it late as Scott McTominay scores a stoppage-time winner
  - [https://www.bbc.co.uk/news/uk-63177289?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63177289?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 21:00:49+00:00
- - tags: None
 
 For many refugees, the six months British hosts agreed to house them for is up. So what happens now?
 
@@ -108,7 +95,6 @@ For many refugees, the six months British hosts agreed to house them for is up. 
  - [https://www.bbc.co.uk/news/world-us-canada-63251303?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63251303?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 20:50:26+00:00
- - tags: None
 
 The vote to issue Trump with a subpoena legally requires him to testify under threat of penalty.
 
@@ -116,7 +102,6 @@ The vote to issue Trump with a subpoena legally requires him to testify under th
  - [https://www.bbc.co.uk/sport/rugby-union/63251045?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63251045?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 20:45:37+00:00
- - tags: None
 
 Former England wing Ugo Monye expresses concern about the potential knock-on effect of Wasps and Worcester's financial difficulties.
 
@@ -124,7 +109,6 @@ Former England wing Ugo Monye expresses concern about the potential knock-on eff
  - [https://www.bbc.co.uk/news/world-europe-63249301?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63249301?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 20:31:29+00:00
- - tags: None
 
 Burak Erbay was protesting against a proposed government-backed bill aimed to combat 'disinformation'.
 
@@ -132,7 +116,6 @@ Burak Erbay was protesting against a proposed government-backed bill aimed to co
  - [https://www.bbc.co.uk/news/world-us-canada-61084161?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-61084161?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 20:13:57+00:00
- - tags: None
 
 It can be difficult to keep track of the ex-president's legal battles - here's what you need to know.
 
@@ -140,7 +123,6 @@ It can be difficult to keep track of the ex-president's legal battles - here's w
  - [https://www.bbc.co.uk/news/entertainment-arts-63244673?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63244673?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 20:00:42+00:00
- - tags: None
 
 Magdalene College Cambridge's "exquisitely detailed" new library wins the Riba Stirling Prize.
 
@@ -148,7 +130,6 @@ Magdalene College Cambridge's "exquisitely detailed" new library wins the Riba S
  - [https://www.bbc.co.uk/news/world-europe-63250967?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63250967?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 19:48:23+00:00
- - tags: None
 
 Her parents gave details in an emotional encounter with the press, during a state visit to Sweden.
 
@@ -156,7 +137,6 @@ Her parents gave details in an emotional encounter with the press, during a stat
  - [https://www.bbc.co.uk/news/uk-england-dorset-63237217?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-dorset-63237217?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 19:45:47+00:00
- - tags: None
 
 The family of the 19-year-old say police failed to properly investigate her claim of being attacked.
 
@@ -164,7 +144,6 @@ The family of the 19-year-old say police failed to properly investigate her clai
  - [https://www.bbc.co.uk/sport/football/63193204?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63193204?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 19:25:36+00:00
- - tags: None
 
 Chris Sutton takes on Liverpool fan Ian Broudie of the Lightning Seeds to pick his winners and losers from this weekend's Premier League games.
 
@@ -172,7 +151,6 @@ Chris Sutton takes on Liverpool fan Ian Broudie of the Lightning Seeds to pick h
  - [https://www.bbc.co.uk/news/world-us-canada-63217414?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63217414?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 19:25:14+00:00
- - tags: None
 
 The gunman will spend life in prison, but relatives and prosecutors had sought the death penalty.
 
@@ -180,7 +158,6 @@ The gunman will spend life in prison, but relatives and prosecutors had sought t
  - [https://www.bbc.co.uk/news/entertainment-arts-63245344?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63245344?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 19:17:47+00:00
- - tags: None
 
 Stars gathered in London on Thursday for the NTAs, a month later than planned.
 
@@ -188,7 +165,6 @@ Stars gathered in London on Thursday for the NTAs, a month later than planned.
  - [https://www.bbc.co.uk/sport/football/63236405?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63236405?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:50:04+00:00
- - tags: None
 
 Arsenal take a big step towards qualifying for the Europa League knockout stage with a slender win at Bodo/Glimt.
 
@@ -196,7 +172,6 @@ Arsenal take a big step towards qualifying for the Europa League knockout stage 
  - [https://www.bbc.co.uk/news/world-europe-63246369?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63246369?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:48:28+00:00
- - tags: None
 
 The new flow was sent in "European solidarity" after Russia cut energy supplies to Europe.
 
@@ -204,7 +179,6 @@ The new flow was sent in "European solidarity" after Russia cut energy supplies 
  - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63239384?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63239384?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:43:29+00:00
- - tags: None
 
 Police continue to search a house for evidence as they probe the murder of teenager Leah Croucher.
 
@@ -212,7 +186,6 @@ Police continue to search a house for evidence as they probe the murder of teena
  - [https://www.bbc.co.uk/sport/football/63195663?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63195663?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:43:05+00:00
- - tags: None
 
 Hearts are thrashed by a rampant Fiorentina to leave their Conference League progression hopes hanging in the balance.
 
@@ -220,7 +193,6 @@ Hearts are thrashed by a rampant Fiorentina to leave their Conference League pro
  - [https://www.bbc.co.uk/news/business-63245483?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63245483?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:38:52+00:00
- - tags: None
 
 The firm is rolling out the less expensive offering to try to attract viewers.
 
@@ -228,7 +200,6 @@ The firm is rolling out the less expensive offering to try to attract viewers.
  - [https://www.bbc.co.uk/news/world-latin-america-63247151?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63247151?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:28:21+00:00
- - tags: None
 
 Jamaica's broadcasting commission is banning content that encourages "illegal activity".
 
@@ -236,7 +207,6 @@ Jamaica's broadcasting commission is banning content that encourages "illegal ac
  - [https://www.bbc.co.uk/sport/av/cycling/63250717?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cycling/63250717?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 18:15:16+00:00
- - tags: None
 
 Great Britain beat Olympic champions Italy to win men's team pursuit gold in a thrilling final at the 2022 Track Cycling World Championships in Saint-Quentin-en-Yvelines, France.
 
@@ -244,7 +214,6 @@ Great Britain beat Olympic champions Italy to win men's team pursuit gold in a t
  - [https://www.bbc.co.uk/news/uk-politics-63244810?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63244810?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 17:40:44+00:00
- - tags: None
 
 As well as tax cuts, ministers are promising a series of changes in policy to boost economic growth.
 
@@ -252,7 +221,6 @@ As well as tax cuts, ministers are promising a series of changes in policy to bo
  - [https://www.bbc.co.uk/news/entertainment-arts-63240336?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63240336?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 17:30:10+00:00
- - tags: None
 
 A TV show will see a studio audience decide whether the comedian should destroy a painting by Hitler.
 
@@ -260,7 +228,6 @@ A TV show will see a studio audience decide whether the comedian should destroy 
  - [https://www.bbc.co.uk/news/uk-england-tyne-63245684?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-tyne-63245684?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 17:20:23+00:00
- - tags: None
 
 Charley-Ann Patterson took her own life in 2020 after being verbally abused online and in school.
 
@@ -268,7 +235,6 @@ Charley-Ann Patterson took her own life in 2020 after being verbally abused onli
  - [https://www.bbc.co.uk/news/world-europe-63243313?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63243313?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 16:41:02+00:00
- - tags: None
 
 Civilians in the Russian-occupied Kherson region are urged to "save themselves" from Ukrainian rockets.
 
@@ -276,7 +242,6 @@ Civilians in the Russian-occupied Kherson region are urged to "save themselves" 
  - [https://www.bbc.co.uk/news/uk-england-south-yorkshire-63244479?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-south-yorkshire-63244479?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 16:26:18+00:00
- - tags: None
 
 Allegations of a lockdown party in Sheffield are dropped due to a "defective charge".
 
@@ -284,7 +249,6 @@ Allegations of a lockdown party in Sheffield are dropped due to a "defective cha
  - [https://www.bbc.co.uk/news/entertainment-arts-63248314?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63248314?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 15:49:25+00:00
- - tags: None
 
 A complaint made after the Match of the Day presenter posted about the government is upheld.
 
@@ -292,7 +256,6 @@ A complaint made after the Match of the Day presenter posted about the governmen
  - [https://www.bbc.co.uk/sport/tennis/63247731?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63247731?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 15:47:17+00:00
- - tags: None
 
 Andy Murray reaches the quarter-finals of the Gijon Open by coming from a set down to defeat Pedro Cachin.
 
@@ -300,7 +263,6 @@ Andy Murray reaches the quarter-finals of the Gijon Open by coming from a set do
  - [https://www.bbc.co.uk/news/uk-63248214?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63248214?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 15:37:02+00:00
- - tags: None
 
 Asylum seekers could be sent to Rwanda three weeks after their arrival in the UK, High Court hears.
 
@@ -308,7 +270,6 @@ Asylum seekers could be sent to Rwanda three weeks after their arrival in the UK
  - [https://www.bbc.co.uk/news/uk-politics-63246036?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63246036?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 15:33:41+00:00
- - tags: None
 
 Kwasi Kwarteng admits there was 'some turbulence' in the economy after last month's mini-budget.
 
@@ -316,7 +277,6 @@ Kwasi Kwarteng admits there was 'some turbulence' in the economy after last mont
  - [https://www.bbc.co.uk/news/world-63242971?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63242971?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 15:10:44+00:00
- - tags: None
 
 How closely have you been paying attention to what's been going on over the past seven days?
 
@@ -324,7 +284,6 @@ How closely have you been paying attention to what's been going on over the past
  - [https://www.bbc.co.uk/news/world-63241257?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63241257?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 15:06:14+00:00
- - tags: None
 
 The activist travelled to the country for the second time, since she was shot by the Taliban in 2012.
 
@@ -332,7 +291,6 @@ The activist travelled to the country for the second time, since she was shot by
  - [https://www.bbc.co.uk/news/uk-politics-63244805?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63244805?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 14:47:50+00:00
- - tags: None
 
 Asked about speculation he could drop parts of his plan, the chancellor says "our position hasn't changed".
 
@@ -340,7 +298,6 @@ Asked about speculation he could drop parts of his plan, the chancellor says "ou
  - [https://www.bbc.co.uk/sport/football/63246126?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63246126?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 14:40:45+00:00
- - tags: None
 
 Chelsea manager Emma Hayes says she expects to make a full recovery but will take time away from the club as she recovers from surgery.
 
@@ -348,7 +305,6 @@ Chelsea manager Emma Hayes says she expects to make a full recovery but will tak
  - [https://www.bbc.co.uk/news/uk-england-london-63244301?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63244301?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 14:32:52+00:00
- - tags: None
 
 Jurors see CCTV of Jemma Mitchell at the home of a woman she is accused of killing and decapitating.
 
@@ -356,7 +312,6 @@ Jurors see CCTV of Jemma Mitchell at the home of a woman she is accused of killi
  - [https://www.bbc.co.uk/news/uk-england-merseyside-63244376?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-63244376?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 14:31:15+00:00
- - tags: None
 
 Lucy Letby was a dedicated nurse who cared deeply for the babies and their families, a court hears.
 
@@ -364,7 +319,6 @@ Lucy Letby was a dedicated nurse who cared deeply for the babies and their famil
  - [https://www.bbc.co.uk/news/health-63239924?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63239924?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 14:16:11+00:00
- - tags: None
 
 More than 10,000 appointments have been booked in the past 24 hours.
 
@@ -372,7 +326,6 @@ More than 10,000 appointments have been booked in the past 24 hours.
  - [https://www.bbc.co.uk/news/uk-wales-politics-63245280?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-politics-63245280?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 13:47:46+00:00
- - tags: None
 
 Ms Rees, who has represented Neath since 2015, loses whip pending an investigation
 
@@ -380,7 +333,6 @@ Ms Rees, who has represented Neath since 2015, loses whip pending an investigati
  - [https://www.bbc.co.uk/news/technology-63242336?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63242336?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 13:19:38+00:00
- - tags: None
 
 A small number of companies argued the original targets risked network outages, the government says.
 
@@ -388,7 +340,6 @@ A small number of companies argued the original targets risked network outages, 
  - [https://www.bbc.co.uk/news/world-63243981?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63243981?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 13:10:46+00:00
- - tags: None
 
 The Infowars host faces huge damages - but will it make a difference to online lies?
 
@@ -396,7 +347,6 @@ The Infowars host faces huge damages - but will it make a difference to online l
  - [https://www.bbc.co.uk/news/uk-england-oxfordshire-63242200?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-oxfordshire-63242200?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 13:05:40+00:00
- - tags: None
 
 A special tank was used to train nine fish to find if they can measure distance.
 
@@ -404,7 +354,6 @@ A special tank was used to train nine fish to find if they can measure distance.
  - [https://www.bbc.co.uk/news/technology-63241930?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63241930?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 12:34:30+00:00
- - tags: None
 
 Snapchat releases a "lens" that teaches people how to use chest compressions for cardiac arrest.
 
@@ -412,7 +361,6 @@ Snapchat releases a "lens" that teaches people how to use chest compressions for
  - [https://www.bbc.co.uk/news/uk-england-london-63244299?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63244299?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 12:27:29+00:00
- - tags: None
 
 YouTuber Michael Van Erp told a jury he fell on to Paul Lyon-Maris's car "like a crash test dummy".
 
@@ -420,7 +368,6 @@ YouTuber Michael Van Erp told a jury he fell on to Paul Lyon-Maris's car "like a
  - [https://www.bbc.co.uk/news/business-63242050?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63242050?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 12:02:51+00:00
- - tags: None
 
 Energy watchdog Ofgem will launch a campaign to cut consumption and ensure the UK has enough supplies.
 
@@ -428,7 +375,6 @@ Energy watchdog Ofgem will launch a campaign to cut consumption and ensure the U
  - [https://www.bbc.co.uk/sport/football/63240476?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63240476?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 11:59:58+00:00
- - tags: None
 
 The ball used by Diego Maradona for his infamous 'Hand of God' goal for Argentina against England in the 1986 World Cup quarter-final is set to be sold by the referee in charge.
 
@@ -436,7 +382,6 @@ The ball used by Diego Maradona for his infamous 'Hand of God' goal for Argentin
  - [https://www.bbc.co.uk/sport/rugby-league/63242895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63242895?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 11:51:29+00:00
- - tags: None
 
 Winger Dominic Young is preferred to England's leading try-scorer Ryan Hall for Saturday's game against Samoa in Newcastle.
 
@@ -444,7 +389,6 @@ Winger Dominic Young is preferred to England's leading try-scorer Ryan Hall for 
  - [https://www.bbc.co.uk/sport/football/63242412?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63242412?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 11:42:22+00:00
- - tags: None
 
 Uefa opens an investigation into "potential inappropriate behaviour" by Republic of Ireland women's players after their win over Scotland.
 
@@ -452,7 +396,6 @@ Uefa opens an investigation into "potential inappropriate behaviour" by Republic
  - [https://www.bbc.co.uk/news/world-asia-china-63238617?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63238617?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 11:39:22+00:00
- - tags: None
 
 The protest against President Xi came amid strict Covid measures that have also sparked anger online.
 
@@ -460,7 +403,6 @@ The protest against President Xi came amid strict Covid measures that have also 
  - [https://www.bbc.co.uk/news/uk-england-manchester-63237247?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63237247?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 11:05:46+00:00
- - tags: None
 
 An undercover BBC investigation found patients being humiliated, verbally abused and bullied by staff.
 
@@ -468,7 +410,6 @@ An undercover BBC investigation found patients being humiliated, verbally abused
  - [https://www.bbc.co.uk/news/uk-england-merseyside-63238989?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-63238989?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 10:58:46+00:00
- - tags: None
 
 Post-it notes were found at Lucy Letby's home including one reading "I killed them", her trial hears.
 
@@ -476,7 +417,6 @@ Post-it notes were found at Lucy Letby's home including one reading "I killed th
  - [https://www.bbc.co.uk/sport/rugby-union/63241246?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63241246?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 10:44:43+00:00
- - tags: None
 
 Rob Andrew says Premiership Rugby and the Rugby Football Union should join forces to address financial problems within the game.
 
@@ -484,7 +424,6 @@ Rob Andrew says Premiership Rugby and the Rugby Football Union should join force
  - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63242242?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63242242?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 10:23:19+00:00
- - tags: None
 
 A quadruple amputee says a rare double hand transplant will be "such an amazing gift".
 
@@ -492,7 +431,6 @@ A quadruple amputee says a rare double hand transplant will be "such an amazing 
  - [https://www.bbc.co.uk/news/world-middle-east-63240648?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63240648?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 10:22:25+00:00
- - tags: None
 
 Officials say the 1,600-year-old panel depicting classical myths is the most complete of its kind.
 
@@ -500,7 +438,6 @@ Officials say the 1,600-year-old panel depicting classical myths is the most com
  - [https://www.bbc.co.uk/news/entertainment-arts-63241308?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63241308?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 10:20:27+00:00
- - tags: None
 
 The song, called Face It Alone, was originally recorded for the band's 1989 album The Miracle.
 
@@ -508,7 +445,6 @@ The song, called Face It Alone, was originally recorded for the band's 1989 albu
  - [https://www.bbc.co.uk/news/business-63230000?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63230000?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 09:48:54+00:00
- - tags: None
 
 The warning comes as the Bank of England says the number struggling to pay mortgages could hit a 15-year high.
 
@@ -516,7 +452,6 @@ The warning comes as the Bank of England says the number struggling to pay mortg
  - [https://www.bbc.co.uk/news/uk-politics-63240203?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63240203?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 08:46:37+00:00
- - tags: None
 
 James Cleverly says Liz Truss will stick to her economic plans despite Tory unrest over her tax cuts.
 
@@ -524,7 +459,6 @@ James Cleverly says Liz Truss will stick to her economic plans despite Tory unre
  - [https://www.bbc.co.uk/news/newsbeat-63226320?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63226320?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 07:58:06+00:00
- - tags: None
 
 Mia White, whose 12-year-old sister Ava was murdered, urges young people not to pick up knives.
 
@@ -532,7 +466,6 @@ Mia White, whose 12-year-old sister Ava was murdered, urges young people not to 
  - [https://www.bbc.co.uk/sport/rugby-union/63236961?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63236961?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 06:04:10+00:00
- - tags: None
 
 England captain Sarah Hunter is "immensely proud" to become the side's joint most-capped player, but says her sole focus currently is the World Cup.
 
@@ -540,7 +473,6 @@ England captain Sarah Hunter is "immensely proud" to become the side's joint mos
  - [https://www.bbc.co.uk/news/world-asia-india-63226109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63226109?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:32:58+00:00
- - tags: None
 
 Bollywood actor Aamir Khan's recent ad for a bank has sparked outrage among Hindu right-wingers.
 
@@ -548,7 +480,6 @@ Bollywood actor Aamir Khan's recent ad for a bank has sparked outrage among Hind
  - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63234387?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63234387?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:17:27+00:00
- - tags: None
 
 Cooper was shocked to meet his idol, Australian TV star Bruce Hopkins, who heard about the rescue.
 
@@ -556,7 +487,6 @@ Cooper was shocked to meet his idol, Australian TV star Bruce Hopkins, who heard
  - [https://www.bbc.co.uk/sport/football/63127960?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63127960?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:15:30+00:00
- - tags: None
 
 England women's captain Leah Williamson and team-mate Lotte Wubben-Moy discuss their concerns about the lack of diversity in women's football.
 
@@ -564,7 +494,6 @@ England women's captain Leah Williamson and team-mate Lotte Wubben-Moy discuss t
  - [https://www.bbc.co.uk/news/uk-england-kent-63229010?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-kent-63229010?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:15:02+00:00
- - tags: None
 
 Smugglers in migrant camps are now demanding nearly £3,000 per person to cross the Channel.
 
@@ -572,7 +501,6 @@ Smugglers in migrant camps are now demanding nearly £3,000 per person to cross 
  - [https://www.bbc.co.uk/news/world-europe-63231457?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63231457?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:06:51+00:00
- - tags: None
 
 A Ukrainian fighter besieged at Mariupol tells the BBC he was held in solitary confinement by Russia.
 
@@ -580,7 +508,6 @@ A Ukrainian fighter besieged at Mariupol tells the BBC he was held in solitary c
  - [https://www.bbc.co.uk/news/uk-england-manchester-63141283?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63141283?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:06:11+00:00
- - tags: None
 
 Imtiaz Fazil, who had 17 miscarriages and saw five children die, says she wants more discussion about loss.
 
@@ -588,7 +515,6 @@ Imtiaz Fazil, who had 17 miscarriages and saw five children die, says she wants 
  - [https://www.bbc.co.uk/news/uk-scotland-63228362?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63228362?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:04:52+00:00
- - tags: None
 
 Scottish ministers are being forced to change the law on tuition fees for hundreds of migrant students after a landmark court case.
 
@@ -596,7 +522,6 @@ Scottish ministers are being forced to change the law on tuition fees for hundre
  - [https://www.bbc.co.uk/news/uk-63231470?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63231470?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 05:00:05+00:00
- - tags: None
 
 The children disappeared after being temporarily put up in hotels by the Home Office.
 
@@ -604,7 +529,6 @@ The children disappeared after being temporarily put up in hotels by the Home Of
  - [https://www.bbc.co.uk/news/business-63235826?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63235826?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 02:24:38+00:00
- - tags: None
 
 No letters will be sent during the strike, but medical deliveries will be prioritised.
 
@@ -612,7 +536,6 @@ No letters will be sent during the strike, but medical deliveries will be priori
  - [https://www.bbc.co.uk/news/63229204?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/63229204?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 02:13:41+00:00
- - tags: None
 
 The government has defended its mini-budget following market turmoil and a higher cost of borrowing.
 
@@ -620,7 +543,6 @@ The government has defended its mini-budget following market turmoil and a highe
  - [https://www.bbc.co.uk/news/entertainment-arts-63144867?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63144867?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 02:11:01+00:00
- - tags: None
 
 Rob Beckett and Josh Widdicombe on why Parenting Hell, which now has a companion book, struck a chord.
 
@@ -628,7 +550,6 @@ Rob Beckett and Josh Widdicombe on why Parenting Hell, which now has a companion
  - [https://www.bbc.co.uk/news/uk-63162881?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63162881?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 01:50:11+00:00
- - tags: None
 
 A team aiming to restore public trust has been launched by the Metropolitan Police after series of scandals.
 
@@ -636,7 +557,6 @@ A team aiming to restore public trust has been launched by the Metropolitan Poli
  - [https://www.bbc.co.uk/news/entertainment-arts-63215698?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63215698?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 01:45:33+00:00
- - tags: None
 
 Bing Crosby, Margot Fonteyn, James Stewart among the interviews that have been found and restored.
 
@@ -644,7 +564,6 @@ Bing Crosby, Margot Fonteyn, James Stewart among the interviews that have been f
  - [https://www.bbc.co.uk/news/entertainment-arts-63231885?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63231885?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 01:29:24+00:00
- - tags: None
 
 Conservative parliamentarians join an organisation campaigning to return the sculptures to Greece.
 
@@ -652,7 +571,6 @@ Conservative parliamentarians join an organisation campaigning to return the scu
  - [https://www.bbc.co.uk/news/health-63234352?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63234352?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 01:16:24+00:00
- - tags: None
 
 About 12 million more people will be able to book their winter vaccinations from Friday.
 
@@ -660,7 +578,6 @@ About 12 million more people will be able to book their winter vaccinations from
  - [https://www.bbc.co.uk/news/health-63219147?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63219147?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 01:11:16+00:00
- - tags: None
 
 Surgeons left frustrated as hospitals struggle to return routine services to full strength.
 
@@ -668,7 +585,6 @@ Surgeons left frustrated as hospitals struggle to return routine services to ful
  - [https://www.bbc.co.uk/news/uk-politics-63237792?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63237792?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 00:53:20+00:00
- - tags: None
 
 As the PM attends her first weekly audience with the King, the markets and country wonder what's next.
 
@@ -676,6 +592,5 @@ As the PM attends her first weekly audience with the King, the markets and count
  - [https://www.bbc.co.uk/news/world-africa-63220323?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63220323?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-13 00:11:24+00:00
- - tags: None
 
 As the war in Ethiopia's Tigray region intensifies, the BBC gets an exclusive report from its main city.

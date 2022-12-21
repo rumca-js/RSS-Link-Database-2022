@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## All Are Welcome
  - [https://www.youtube.com/watch?v=RsT8RTa0q5c](https://www.youtube.com/watch?v=RsT8RTa0q5c)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-10-05 18:03:01+00:00
- - tags: None
 
 Tickets are still available to my Anaheim and Helsinki shows. All are welcome.
 

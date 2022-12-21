@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Twitter Tries Calming Employees as Deal With Elon Musk Looms
  - [https://www.nytimes.com/2022/10/21/technology/twitter-employees-elon-musk.html](https://www.nytimes.com/2022/10/21/technology/twitter-employees-elon-musk.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 21:47:21+00:00
- - tags: None
 
 With Mr. Musk’s $44 billion deal to buy Twitter set to close no later than Oct. 28, the company is trying to reassure workers about their employment and compensation.
 
@@ -12,7 +11,6 @@ With Mr. Musk’s $44 billion deal to buy Twitter set to close no later than Oct
  - [https://www.nytimes.com/2022/10/21/technology/tiktok-youtube-facebook-misinformation-ads.html](https://www.nytimes.com/2022/10/21/technology/tiktok-youtube-facebook-misinformation-ads.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 20:42:53+00:00
- - tags: None
 
 YouTube and Facebook fared better in the experiment.
 
@@ -20,7 +18,6 @@ YouTube and Facebook fared better in the experiment.
  - [https://www.nytimes.com/2022/10/21/arts/music/lenny-lipton-dead.html](https://www.nytimes.com/2022/10/21/arts/music/lenny-lipton-dead.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 16:41:36+00:00
- - tags: None
 
 He used the royalties earned from the hit folk song to fund decades of research into stereoscopic projection.
 
@@ -28,7 +25,6 @@ He used the royalties earned from the hit folk song to fund decades of research 
  - [https://www.nytimes.com/2022/10/21/technology/generative-ai.html](https://www.nytimes.com/2022/10/21/technology/generative-ai.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 09:00:32+00:00
- - tags: None
 
 A celebration for Stability AI, the start-up behind the controversial Stable Diffusion image generator, represents the arrival of a new A.I. boom.
 
@@ -36,7 +32,6 @@ A celebration for Stability AI, the start-up behind the controversial Stable Dif
  - [https://www.nytimes.com/2022/10/21/technology/ai-generated-art-jobs-dall-e-2.html](https://www.nytimes.com/2022/10/21/technology/ai-generated-art-jobs-dall-e-2.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 09:00:31+00:00
- - tags: None
 
 Only a few months old, apps like DALL-E 2, Midjourney and Stable Diffusion are changing how filmmakers, interior designers and other creative professionals do their jobs.
 
@@ -44,7 +39,6 @@ Only a few months old, apps like DALL-E 2, Midjourney and Stable Diffusion are c
  - [https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html](https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 09:00:11+00:00
- - tags: None
 
 Emad Mostaque, the founder of Stability AI, says his Stable Diffusion image generator is the key to unlocking creativity. His critics say it’s a potential threat.
 
@@ -52,6 +46,5 @@ Emad Mostaque, the founder of Stability AI, says his Stable Diffusion image gene
  - [https://www.nytimes.com/2022/10/20/technology/instacart-ipo-plans-pulled.html](https://www.nytimes.com/2022/10/20/technology/instacart-ipo-plans-pulled.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-21 00:34:51+00:00
- - tags: None
 
 The food delivery company had been moving toward a public offering, but the window for such deals is shutting amid market turmoil.

@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Iron Man VR On Quest 2 Is An Absolute BLAST
  - [https://www.youtube.com/watch?v=I1g8gTtXQPY](https://www.youtube.com/watch?v=I1g8gTtXQPY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-10-14 12:00:12+00:00
- - tags: None
 
 I suit up and check out Iron Man VR on Quest 2! Iron Man VR is due for release on Quest 2 on the 3rd November. In Iron Man VR you get to step into the shoes of Tony Stark and control the legendary Iron Man suit yourself...
 

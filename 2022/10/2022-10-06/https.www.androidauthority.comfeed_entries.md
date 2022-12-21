@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google Pixel Watch hands-on: This would’ve killed in 2019!
  - [https://www.androidauthority.com/google-pixel-watch-hands-on-3217379/](https://www.androidauthority.com/google-pixel-watch-hands-on-3217379/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 21:52:52+00:00
- - tags: None
 
 Three years ago, this smartwatch would've been a runaway success, but the bar is higher in 2022.
 
@@ -12,7 +11,6 @@ Three years ago, this smartwatch would've been a runaway success, but the bar is
  - [https://www.androidauthority.com/microsoft-office-professional-2021-deal-3217450/](https://www.androidauthority.com/microsoft-office-professional-2021-deal-3217450/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 21:31:41+00:00
- - tags: None
 
 Get lifetime access to Word, Excel, PowerPoint, and more for a one-time payment of just $35.99.
 
@@ -20,7 +18,6 @@ Get lifetime access to Word, Excel, PowerPoint, and more for a one-time payment 
  - [https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-3216131/](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-3216131/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 21:11:49+00:00
- - tags: None
 
 Can the Pixel Watch knock Samsung's Galaxy Watch line off its Wear OS perch?
 
@@ -28,7 +25,6 @@ Can the Pixel Watch knock Samsung's Galaxy Watch line off its Wear OS perch?
  - [https://www.androidauthority.com/google-home-wear-os-3-3217417/](https://www.androidauthority.com/google-home-wear-os-3-3217417/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 19:51:14+00:00
- - tags: None
 
 Google Home has been made compatible with Wear OS 3 and later.
 
@@ -36,7 +32,6 @@ Google Home has been made compatible with Wear OS 3 and later.
  - [https://www.androidauthority.com/best-google-pixel-7-alternatives-3215780/](https://www.androidauthority.com/best-google-pixel-7-alternatives-3215780/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 19:30:39+00:00
- - tags: None
 
 The best alternatives from Samsung, Apple, and even Google itself.
 
@@ -44,7 +39,6 @@ The best alternatives from Samsung, Apple, and even Google itself.
  - [https://www.androidauthority.com/record-zoom-meeting-3165024/](https://www.androidauthority.com/record-zoom-meeting-3165024/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 19:00:24+00:00
- - tags: None
 
 Zoom through study sessions or catch up on missed meetings with recordings.
 
@@ -52,7 +46,6 @@ Zoom through study sessions or catch up on missed meetings with recordings.
  - [https://www.androidauthority.com/pixel-watch-companion-app-3217320/](https://www.androidauthority.com/pixel-watch-companion-app-3217320/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 18:54:34+00:00
- - tags: None
 
 Google has rolled out the Pixel Watch app on the Play Store.
 
@@ -60,7 +53,6 @@ Google has rolled out the Pixel Watch app on the Play Store.
  - [https://www.androidauthority.com/share-folder-google-drive-3108516/](https://www.androidauthority.com/share-folder-google-drive-3108516/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 18:40:54+00:00
- - tags: None
 
 Work collaboratively and control access to files on Google Drive
 
@@ -68,7 +60,6 @@ Work collaboratively and control access to files on Google Drive
  - [https://www.androidauthority.com/open-ebay-business-account-3152275/](https://www.androidauthority.com/open-ebay-business-account-3152275/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 18:30:53+00:00
- - tags: None
 
 Are you setting up shop online? Then it's time to upgrade to an eBay business account.
 
@@ -76,7 +67,6 @@ Are you setting up shop online? Then it's time to upgrade to an eBay business ac
  - [https://www.androidauthority.com/pixel-watch-hot-not-3216276/](https://www.androidauthority.com/pixel-watch-hot-not-3216276/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 18:30:04+00:00
- - tags: None
 
 Does it seem great or are you thinking it's kind of lame?
 
@@ -84,7 +74,6 @@ Does it seem great or are you thinking it's kind of lame?
  - [https://www.androidauthority.com/google-pixel-7-review-3216782/](https://www.androidauthority.com/google-pixel-7-review-3216782/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 18:26:53+00:00
- - tags: None
 
 Google's 2022 flagships are here, but will they be enough to entice you away from the Pixel 6 series?
 
@@ -92,7 +81,6 @@ Google's 2022 flagships are here, but will they be enough to entice you away fro
  - [https://www.androidauthority.com/google-pixel-watch-band-price-3217265/](https://www.androidauthority.com/google-pixel-watch-band-price-3217265/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 17:45:50+00:00
- - tags: None
 
 You could even buy a decent budget phone for the price.
 
@@ -100,7 +88,6 @@ You could even buy a decent budget phone for the price.
  - [https://www.androidauthority.com/playstation-stars-loyalty-program-3216733/](https://www.androidauthority.com/playstation-stars-loyalty-program-3216733/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 17:38:45+00:00
- - tags: None
 
 Get rewarded with store credit and digital collectibles just by playing games.
 
@@ -108,7 +95,6 @@ Get rewarded with store credit and digital collectibles just by playing games.
  - [https://www.androidauthority.com/pixel-tablet-details-3217196/](https://www.androidauthority.com/pixel-tablet-details-3217196/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 17:17:29+00:00
- - tags: None
 
 Google provided new details about the Pixel Tablet at its hardware event.
 
@@ -116,7 +102,6 @@ Google provided new details about the Pixel Tablet at its hardware event.
  - [https://www.androidauthority.com/buy-pixel-7-pro-or-samsung-galaxy-s23-3216719/](https://www.androidauthority.com/buy-pixel-7-pro-or-samsung-galaxy-s23-3216719/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 17:10:39+00:00
- - tags: None
 
 The Pixel 7 Pro is here, but is it your best bet?
 
@@ -124,7 +109,6 @@ The Pixel 7 Pro is here, but is it your best bet?
  - [https://www.androidauthority.com/google-pixel-7-vs-samsung-galaxy-s22-3215863/](https://www.androidauthority.com/google-pixel-7-vs-samsung-galaxy-s22-3215863/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 16:43:52+00:00
- - tags: None
 
 Samsung and Google go head-to-head to put a small Android flagship in your pocket.
 
@@ -132,7 +116,6 @@ Samsung and Google go head-to-head to put a small Android flagship in your pocke
  - [https://www.androidauthority.com/best-horror-movies-stream-halloween-3216287/](https://www.androidauthority.com/best-horror-movies-stream-halloween-3216287/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 16:28:08+00:00
- - tags: None
 
 We bring you 17 scary titles to get you into the spooky season.
 
@@ -140,7 +123,6 @@ We bring you 17 scary titles to get you into the spooky season.
  - [https://www.androidauthority.com/pixel-7-hot-not-3216254/](https://www.androidauthority.com/pixel-7-hot-not-3216254/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 16:14:47+00:00
- - tags: None
 
 The Pixel 7 series is now official, but how do you feel about it?
 
@@ -148,7 +130,6 @@ The Pixel 7 series is now official, but how do you feel about it?
  - [https://www.androidauthority.com/google-pixel-7-camera-features-3214601/](https://www.androidauthority.com/google-pixel-7-camera-features-3214601/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 16:03:38+00:00
- - tags: None
 
 From camera specs to features and more, here's what you should know.
 
@@ -156,7 +137,6 @@ From camera specs to features and more, here's what you should know.
  - [https://www.androidauthority.com/pixel-7-deals-best-buy-3216790/](https://www.androidauthority.com/pixel-7-deals-best-buy-3216790/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 15:56:10+00:00
- - tags: None
 
 Your new and unlocked Pixel could cost you as little as $199, with some extra Best Buy spending money thrown in.
 
@@ -164,7 +144,6 @@ Your new and unlocked Pixel could cost you as little as $199, with some extra Be
  - [https://www.androidauthority.com/google-tensor-g2-explained-3216087/](https://www.androidauthority.com/google-tensor-g2-explained-3216087/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 15:20:26+00:00
- - tags: None
 
 Google looks to improve on the Tensor formula in this second outing.
 
@@ -172,7 +151,6 @@ Google looks to improve on the Tensor formula in this second outing.
  - [https://www.androidauthority.com/android-13-privacy-hub-3217130/](https://www.androidauthority.com/android-13-privacy-hub-3217130/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 15:07:32+00:00
- - tags: None
 
 Google will be putting privacy and security settings in a new hub later this year.
 
@@ -180,7 +158,6 @@ Google will be putting privacy and security settings in a new hub later this yea
  - [https://www.androidauthority.com/google-pixel-7-availability-countries-3217018/](https://www.androidauthority.com/google-pixel-7-availability-countries-3217018/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 15:00:18+00:00
- - tags: None
 
 Four new countries, and an old one joins the list.
 
@@ -188,7 +165,6 @@ Four new countries, and an old one joins the list.
  - [https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-7-pro-3216669/](https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-7-pro-3216669/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 14:50:37+00:00
- - tags: None
 
 The Pixel 7 Pro brings a few new things to the table, but is it enough to convince people to upgrade from the Pixel 6 Pro?
 
@@ -196,7 +172,6 @@ The Pixel 7 Pro brings a few new things to the table, but is it enough to convin
  - [https://www.androidauthority.com/google-pixel-6-vs-google-pixel-7-3216852/](https://www.androidauthority.com/google-pixel-6-vs-google-pixel-7-3216852/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 14:50:26+00:00
- - tags: None
 
 Here's how Google's latest Pixel phone compares to its predecessor.
 
@@ -204,7 +179,6 @@ Here's how Google's latest Pixel phone compares to its predecessor.
  - [https://www.androidauthority.com/pixel-7-and-pixel-7-pro-3216301/](https://www.androidauthority.com/pixel-7-and-pixel-7-pro-3216301/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 14:45:51+00:00
- - tags: None
 
 All the details you need about the Pixel 7 series from price to performance and more.
 
@@ -212,7 +186,6 @@ All the details you need about the Pixel 7 series from price to performance and 
  - [https://www.androidauthority.com/google-pixel-watch-specs-price-features-availability-3216038/](https://www.androidauthority.com/google-pixel-watch-specs-price-features-availability-3216038/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 14:45:20+00:00
- - tags: None
 
 The Pixel Watch offers the latest in Wear OS with plenty of Google smarts. Here's everything you need to know.
 
@@ -220,7 +193,6 @@ The Pixel Watch offers the latest in Wear OS with plenty of Google smarts. Here'
  - [https://www.androidauthority.com/google-pixel-clear-calling-3207060/](https://www.androidauthority.com/google-pixel-clear-calling-3207060/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 14:32:52+00:00
- - tags: None
 
 Update: Coming to Pixel phones with a feature drop later this year.
 
@@ -228,7 +200,6 @@ Update: Coming to Pixel phones with a feature drop later this year.
  - [https://www.androidauthority.com/ukama-cell-service-3216235/](https://www.androidauthority.com/ukama-cell-service-3216235/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 13:00:45+00:00
- - tags: None
 
 The Ukama will allow you to create a cellular network anywhere there's power and internet access.
 
@@ -236,7 +207,6 @@ The Ukama will allow you to create a cellular network anywhere there's power and
  - [https://www.androidauthority.com/google-pixel-7-sales-2023-3216984/](https://www.androidauthority.com/google-pixel-7-sales-2023-3216984/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 12:24:38+00:00
- - tags: None
 
 The company is also apparently planning to order four million units of a budget Pixel phone for 'early' next year.
 
@@ -244,7 +214,6 @@ The company is also apparently planning to order four million units of a budget 
  - [https://www.androidauthority.com/google-pixel-watch-case-3216927/](https://www.androidauthority.com/google-pixel-watch-case-3216927/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 10:11:26+00:00
- - tags: None
 
 That dome display makes me nervous. This might help.
 
@@ -252,7 +221,6 @@ That dome display makes me nervous. This might help.
  - [https://www.androidauthority.com/daily-authority-october-6-2022-3216529/](https://www.androidauthority.com/daily-authority-october-6-2022-3216529/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 09:37:03+00:00
- - tags: None
 
 Should you pre-order a Pixel 7? Plus October's Netflix games, new space junk rules, and Fat Bear Week.
 
@@ -260,7 +228,6 @@ Should you pre-order a Pixel 7? Plus October's Netflix games, new space junk rul
  - [https://www.androidauthority.com/google-pixel-new-wallpapers-3216836/](https://www.androidauthority.com/google-pixel-new-wallpapers-3216836/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 07:43:24+00:00
- - tags: None
 
 Download them here!
 
@@ -268,7 +235,6 @@ Download them here!
  - [https://www.androidauthority.com/google-pixel-wallpapers-hispanic-heritage-month-3216836/](https://www.androidauthority.com/google-pixel-wallpapers-hispanic-heritage-month-3216836/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 07:43:24+00:00
- - tags: None
 
 Download them here!
 
@@ -276,6 +242,5 @@ Download them here!
  - [https://www.androidauthority.com/google-pixel-sales-numbers-3216823/](https://www.androidauthority.com/google-pixel-sales-numbers-3216823/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-06 06:33:57+00:00
- - tags: None
 
 New data from IDC suggests Google's Pixel line is just a blip in the Android smartphone market.

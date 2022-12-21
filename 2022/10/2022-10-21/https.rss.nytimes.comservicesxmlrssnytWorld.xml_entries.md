@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Russian Troops in Belarus Spur Debate Over the Threat to Ukraine
  - [https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html](https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 22:35:23+00:00
- - tags: None
 
 The United States and its allies are playing down the dangers posed by the deployment of thousands of Russian soldiers to Belarus, but the intelligence assessments come with a dose of uncertainty.
 
@@ -12,7 +11,6 @@ The United States and its allies are playing down the dangers posed by the deplo
  - [https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-grain.html](https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-grain.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 22:00:58+00:00
- - tags: None
 
 The U.N. confirmed a backlog of 150 ships waiting to fulfill contracts to transport Ukrainian food products, a delay that comes as a deadline to renew a grain deal nears.
 
@@ -20,7 +18,6 @@ The U.N. confirmed a backlog of 150 ships waiting to fulfill contracts to transp
  - [https://www.nytimes.com/2022/10/21/world/middleeast/iran-prison-fire-protest.html](https://www.nytimes.com/2022/10/21/world/middleeast/iran-prison-fire-protest.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 20:52:41+00:00
- - tags: None
 
 The cause of the fire last weekend remains unclear, but witnesses and families of prisoners say that the authorities had been bracing for unrest in the notorious Evin Prison in northern Tehran.
 
@@ -28,7 +25,6 @@ The cause of the fire last weekend remains unclear, but witnesses and families o
  - [https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html](https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 19:38:35+00:00
- - tags: None
 
 The hard-right leader will be sworn in on Saturday as the country’s first female prime minister amid questions about her coalition’s commitment to Europe.
 
@@ -36,7 +32,6 @@ The hard-right leader will be sworn in on Saturday as the country’s first fema
  - [https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html](https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 16:45:20+00:00
- - tags: None
 
 The decision by Pakistan’s election commission is a major escalation of the showdown between the ruling establishment and Mr. Khan, and it raises the specter of unrest.
 
@@ -44,7 +39,6 @@ The decision by Pakistan’s election commission is a major escalation of the sh
  - [https://www.nytimes.com/2022/10/21/world/africa/chad-protests.html](https://www.nytimes.com/2022/10/21/world/africa/chad-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 16:29:21+00:00
- - tags: None
 
 Demonstrators had taken to the streets, demanding that the ruling military junta stick to its promises to hold elections.
 
@@ -52,7 +46,6 @@ Demonstrators had taken to the streets, demanding that the ruling military junta
  - [https://www.nytimes.com/2022/10/21/world/europe/sweden-speed-camera-theft.html](https://www.nytimes.com/2022/10/21/world/europe/sweden-speed-camera-theft.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 15:45:55+00:00
- - tags: None
 
 The disappearance of the pricey cameras from rural roads is a mystery. Theories abound on why the cameras have become such a target.
 
@@ -60,7 +53,6 @@ The disappearance of the pricey cameras from rural roads is a mystery. Theories 
  - [https://www.nytimes.com/2022/10/21/world/europe/british-parliament-sexual-misconduct.html](https://www.nytimes.com/2022/10/21/world/europe/british-parliament-sexual-misconduct.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 15:44:49+00:00
- - tags: None
 
 The findings came after a complaint from a junior staffer that the lawmaker, Christian Matheson, had made unwanted advances on her. Mr. Matheson denied any sexual misconduct, but resigned.
 
@@ -68,7 +60,6 @@ The findings came after a complaint from a junior staffer that the lawmaker, Chr
  - [https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html](https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 15:35:21+00:00
- - tags: None
 
 In cities and towns battered by the war, residents worry about how to heat their homes as temperatures drop. But even in places spared from the worst of the fighting, Russian strikes on infrastructure have raised new fears.
 
@@ -76,7 +67,6 @@ In cities and towns battered by the war, residents worry about how to heat their
  - [https://www.nytimes.com/article/prime-minister-britain-uk.html](https://www.nytimes.com/article/prime-minister-britain-uk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 15:18:19+00:00
- - tags: None
 
 The process, which does not include the general public, will be swift, with plans to have a result by next week.
 
@@ -84,7 +74,6 @@ The process, which does not include the general public, will be swift, with plan
  - [https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html](https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 14:08:47+00:00
- - tags: None
 
 Brazilian authorities granted the country’s elections chief broad power to order the takedown of online content in a bid to combat soaring misinformation ahead of this month’s election.
 
@@ -92,7 +81,6 @@ Brazilian authorities granted the country’s elections chief broad power to ord
  - [https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-dam.html](https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-dam.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 12:42:19+00:00
- - tags: None
 
 The Ukrainian president called for an international observation mission at the dam’s hydroelectric plant to prevent a potential catastrophe.
 
@@ -100,7 +88,6 @@ The Ukrainian president called for an international observation mission at the d
  - [https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html](https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 12:40:25+00:00
- - tags: None
 
 Former Prime Minister Boris Johnson and the man who helped oust him from his job, the former Finance Minister Rishi Sunak, are seen as two of the top contenders within the governing Conservative Party.
 
@@ -108,7 +95,6 @@ Former Prime Minister Boris Johnson and the man who helped oust him from his job
  - [https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html](https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 11:04:55+00:00
- - tags: None
 
 Liz Truss is inflation’s latest political victim, and probably not its last.
 
@@ -116,7 +102,6 @@ Liz Truss is inflation’s latest political victim, and probably not its last.
  - [https://www.nytimes.com/2022/10/21/world/australia/qatar-airways-women-searches.html](https://www.nytimes.com/2022/10/21/world/australia/qatar-airways-women-searches.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 10:59:48+00:00
- - tags: None
 
 The women say that they have suffered lasting trauma from the episode and are pushing for policy changes.
 
@@ -124,7 +109,6 @@ The women say that they have suffered lasting trauma from the episode and are pu
  - [https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html](https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 10:57:58+00:00
- - tags: None
 
 A recent spate of cyberattacks have highlighted the nation’s relatively lax approach to safeguarding personal data. But change may be on the way.
 
@@ -132,7 +116,6 @@ A recent spate of cyberattacks have highlighted the nation’s relatively lax ap
  - [https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 10:43:10+00:00
- - tags: None
 
 President Volodymyr Zelensky of Ukraine warned that Russia was preparing to blow up a large hydroelectric dam in the south of the country, threatening the city of Kherson.
 
@@ -140,7 +123,6 @@ President Volodymyr Zelensky of Ukraine warned that Russia was preparing to blow
  - [https://www.nytimes.com/2022/10/21/world/europe/boris-johnson-uk-liz-truss.html](https://www.nytimes.com/2022/10/21/world/europe/boris-johnson-uk-liz-truss.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 10:32:00+00:00
- - tags: None
 
 A comeback by Mr. Johnson is viewed as a very real possibility, delighting some Conservative Party lawmakers and repelling others.
 
@@ -148,7 +130,6 @@ A comeback by Mr. Johnson is viewed as a very real possibility, delighting some 
  - [https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html](https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 09:58:28+00:00
- - tags: None
 
 Tainted syrup from India may be connected to the deaths of dozens of children in Gambia, officials said. Indonesia banned cough syrup sales, though the link there is unclear.
 
@@ -156,7 +137,6 @@ Tainted syrup from India may be connected to the deaths of dozens of children in
  - [https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html](https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 09:00:32+00:00
- - tags: None
 
 Marlene Engelhorn, 30, heir to a fortune, isn’t interested in philanthropy, believing it only perpetuates existing power dynamics. She’s calling for structural change to how the ultrarich are taxed.
 
@@ -164,7 +144,6 @@ Marlene Engelhorn, 30, heir to a fortune, isn’t interested in philanthropy, be
  - [https://www.nytimes.com/2022/10/21/briefing/truss-britain-resign-ukraine-europe.html](https://www.nytimes.com/2022/10/21/briefing/truss-britain-resign-ukraine-europe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 04:33:31+00:00
- - tags: None
 
 Liz Truss resigns.
 
@@ -172,6 +151,5 @@ Liz Truss resigns.
  - [https://www.nytimes.com/2022/10/21/world/europe/inflation-prices-britain-ukraine-russia.html](https://www.nytimes.com/2022/10/21/world/europe/inflation-prices-britain-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-21 04:01:14+00:00
- - tags: None
 
 The downfall of Britain’s prime minister served as a warning to all of the political peril that awaits those who fail to address the erosion of living standards, no matter the cause.

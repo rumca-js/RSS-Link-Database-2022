@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## New Blood's Fallout homage will have first-person combat
  - [https://www.pcgamer.com/new-bloods-fallout-homage-will-have-first-person-combat](https://www.pcgamer.com/new-bloods-fallout-homage-will-have-first-person-combat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 23:37:50+00:00
- - tags: None
 
 It'll be in the vein of dungeon crawlers, not Doom.
 
@@ -12,7 +11,6 @@ It'll be in the vein of dungeon crawlers, not Doom.
  - [https://www.pcgamer.com/darktide-class-spotlight-looks-down-the-sights-of-the-veteran-sharpshooter](https://www.pcgamer.com/darktide-class-spotlight-looks-down-the-sights-of-the-veteran-sharpshooter)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 22:14:23+00:00
- - tags: None
 
 Embodying that "one shot, one kill" energy.
 
@@ -20,7 +18,6 @@ Embodying that "one shot, one kill" energy.
  - [https://www.pcgamer.com/square-enix-montreal-is-now-called-studio-onoma](https://www.pcgamer.com/square-enix-montreal-is-now-called-studio-onoma)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 21:17:22+00:00
- - tags: None
 
 Studio behind the GO series, upcoming Avatar Generations, rebrands following ownership change.
 
@@ -28,7 +25,6 @@ Studio behind the GO series, upcoming Avatar Generations, rebrands following own
  - [https://www.pcgamer.com/persona-3-portable-hits-steam-and-game-pass-in-january-2023](https://www.pcgamer.com/persona-3-portable-hits-steam-and-game-pass-in-january-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 19:49:43+00:00
- - tags: None
 
 Meanwhile, Persona 5 Royal hits later this month.
 
@@ -36,7 +32,6 @@ Meanwhile, Persona 5 Royal hits later this month.
  - [https://www.pcgamer.com/fight-a-monstrous-spider-train-when-choo-choo-charles-releases-this-december](https://www.pcgamer.com/fight-a-monstrous-spider-train-when-choo-choo-charles-releases-this-december)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 17:37:14+00:00
- - tags: None
 
 🎵Spider-train, spider-train, run away or you'll feel the pain.🎵
 
@@ -44,7 +39,6 @@ Meanwhile, Persona 5 Royal hits later this month.
  - [https://www.pcgamer.com/these-are-the-best-players-in-fifa-23](https://www.pcgamer.com/these-are-the-best-players-in-fifa-23)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 17:15:22+00:00
- - tags: None
 
 The 20 highest rated stars in EA's latest soccer sim.
 
@@ -52,7 +46,6 @@ The 20 highest rated stars in EA's latest soccer sim.
  - [https://www.pcgamer.com/windows-95-had-dedicated-code-to-nix-an-og-sim-city-bug](https://www.pcgamer.com/windows-95-had-dedicated-code-to-nix-an-og-sim-city-bug)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 16:30:55+00:00
- - tags: None
 
 An oldie but a goodie.
 
@@ -60,7 +53,6 @@ An oldie but a goodie.
  - [https://www.pcgamer.com/7-tips-to-help-you-win-at-fifa-23-career-mode](https://www.pcgamer.com/7-tips-to-help-you-win-at-fifa-23-career-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 16:23:17+00:00
- - tags: None
 
 How to win matches in FIFA 23’s premier single-player competition.
 
@@ -68,7 +60,6 @@ How to win matches in FIFA 23’s premier single-player competition.
  - [https://www.pcgamer.com/amazon-prime-day-graphics-card-deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 16:13:36+00:00
- - tags: None
 
 There are some great GPU deals out there. No, really. I'm not kidding.
 
@@ -76,7 +67,6 @@ There are some great GPU deals out there. No, really. I'm not kidding.
  - [https://www.pcgamer.com/overwatch-2-twitch-drops](https://www.pcgamer.com/overwatch-2-twitch-drops)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 16:11:47+00:00
- - tags: None
 
 Grab the Sukajan skin and other Twitch rewards.
 
@@ -84,7 +74,6 @@ Grab the Sukajan skin and other Twitch rewards.
  - [https://www.pcgamer.com/best-minecraft-mods](https://www.pcgamer.com/best-minecraft-mods)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 15:51:11+00:00
- - tags: None
 
 Searching for the best Minecraft mods in 2022? This guide has you covered.
 
@@ -92,7 +81,6 @@ Searching for the best Minecraft mods in 2022? This guide has you covered.
  - [https://www.pcgamer.com/valheim-stagbreaker-war-hammer-crafting-guide](https://www.pcgamer.com/valheim-stagbreaker-war-hammer-crafting-guide)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 15:38:35+00:00
- - tags: None
 
 It's perfect for flattening mobs and smashing skeletons.
 
@@ -100,7 +88,6 @@ It's perfect for flattening mobs and smashing skeletons.
  - [https://www.pcgamer.com/koei-tecmos-new-game-is-like-monster-hunter-on-fast-forward](https://www.pcgamer.com/koei-tecmos-new-game-is-like-monster-hunter-on-fast-forward)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 15:16:02+00:00
- - tags: None
 
 The developers behind the Toukiden series are back for another tilt at the hunting genre with Wild Hearts.
 
@@ -108,7 +95,6 @@ The developers behind the Toukiden series are back for another tilt at the hunti
  - [https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws](https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 14:31:33+00:00
- - tags: None
 
 Intel seems pretty sure that its BIOS code isn't going to turn up new security vulnerabilities after it gets into the wrong hands.
 
@@ -116,7 +102,6 @@ Intel seems pretty sure that its BIOS code isn't going to turn up new security v
  - [https://www.pcgamer.com/valheim-spice-rack-placement-cauldron](https://www.pcgamer.com/valheim-spice-rack-placement-cauldron)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 14:26:19+00:00
- - tags: None
 
 Upgrade your cauldron with this handy guide.
 
@@ -124,7 +109,6 @@ Upgrade your cauldron with this handy guide.
  - [https://www.pcgamer.com/overwatch-2-halloween-event-date](https://www.pcgamer.com/overwatch-2-halloween-event-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 12:38:15+00:00
- - tags: None
 
 What to expect in Junkenstein's Revenge: Wrath of the Bride.
 
@@ -132,7 +116,6 @@ What to expect in Junkenstein's Revenge: Wrath of the Bride.
  - [https://www.pcgamer.com/overwatch-2-how-to-change-crosshair](https://www.pcgamer.com/overwatch-2-how-to-change-crosshair)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 12:32:15+00:00
- - tags: None
 
 Focus on what matters.
 
@@ -140,7 +123,6 @@ Focus on what matters.
  - [https://www.pcgamer.com/gta-online-halloween-event-judgement-day](https://www.pcgamer.com/gta-online-halloween-event-judgement-day)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 12:24:09+00:00
- - tags: None
 
 A new Adversary Mode, vehicles, and masks await.
 
@@ -148,7 +130,6 @@ A new Adversary Mode, vehicles, and masks await.
  - [https://www.pcgamer.com/were-not-very-happyplatinum-ceo-apologises-for-babylons-fall-hints-at-troubled-development](https://www.pcgamer.com/were-not-very-happyplatinum-ceo-apologises-for-babylons-fall-hints-at-troubled-development)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 12:11:11+00:00
- - tags: None
 
 Acknowledges it may have caused "some disappointment, perhaps maybe even anger, to our dedicated fans and players".
 
@@ -156,7 +137,6 @@ Acknowledges it may have caused "some disappointment, perhaps maybe even anger, 
  - [https://www.pcgamer.com/blizzard-has-quietly-fixed-the-overwatch-2-auto-purchase-glitch-but-refunds-are-yet-to-come](https://www.pcgamer.com/blizzard-has-quietly-fixed-the-overwatch-2-auto-purchase-glitch-but-refunds-are-yet-to-come)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 11:56:46+00:00
- - tags: None
 
 A bug that was causing players in the game's chat to buy things accidentally has been squashed in Friday's hotfix.
 
@@ -164,7 +144,6 @@ A bug that was causing players in the game's chat to buy things accidentally has
  - [https://www.pcgamer.com/forget-stadia-its-time-for-the-google-stadium](https://www.pcgamer.com/forget-stadia-its-time-for-the-google-stadium)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 11:20:02+00:00
- - tags: None
 
 The web giant wants to earn its spurs.
 
@@ -172,7 +151,6 @@ The web giant wants to earn its spurs.
  - [https://www.pcgamer.com/doom-notepad](https://www.pcgamer.com/doom-notepad)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 11:13:11+00:00
- - tags: None
 
 Doom: the ultimate game port.
 
@@ -180,7 +158,6 @@ Doom: the ultimate game port.
  - [https://www.pcgamer.com/pax-aus-2022-showfloor-pc-builds](https://www.pcgamer.com/pax-aus-2022-showfloor-pc-builds)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 10:06:06+00:00
- - tags: None
 
 Looking for some buildspiration? You're very welcome.
 
@@ -188,7 +165,6 @@ Looking for some buildspiration? You're very welcome.
  - [https://www.pcgamer.com/amd-stock-plunges-as-it-admits-that-pc-demand-just-isnt-as-high-as-it-once-was](https://www.pcgamer.com/amd-stock-plunges-as-it-admits-that-pc-demand-just-isnt-as-high-as-it-once-was)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 09:10:32+00:00
- - tags: None
 
 Gaming continues to be a great money-maker for the company, however.
 
@@ -196,7 +172,6 @@ Gaming continues to be a great money-maker for the company, however.
  - [https://www.pcgamer.com/todays-wordle-478-answer-hint](https://www.pcgamer.com/todays-wordle-478-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Monday's puzzle.
 
@@ -204,7 +179,6 @@ Wordle today: The solution and a hint for Monday's puzzle.
  - [https://www.pcgamer.com/loretta-is-a-point-and-click-noir-that-lets-you-get-away-with-murder](https://www.pcgamer.com/loretta-is-a-point-and-click-noir-that-lets-you-get-away-with-murder)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 05:50:09+00:00
- - tags: None
 
 I feel irrational, so confrontational.
 
@@ -212,7 +186,6 @@ I feel irrational, so confrontational.
  - [https://www.pcgamer.com/record-monsters-on-cassette-to-transform-into-them-in-cassette-beasts](https://www.pcgamer.com/record-monsters-on-cassette-to-transform-into-them-in-cassette-beasts)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 05:12:44+00:00
- - tags: None
 
 A monster-tamer with a difference.
 
@@ -220,7 +193,6 @@ A monster-tamer with a difference.
  - [https://www.pcgamer.com/a-streamer-broke-her-back-in-two-places-after-jumping-in-a-foam-pit-at-twitchcon](https://www.pcgamer.com/a-streamer-broke-her-back-in-two-places-after-jumping-in-a-foam-pit-at-twitchcon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 03:34:41+00:00
- - tags: None
 
 Multiple people were injured in the foam pit.
 
@@ -228,6 +200,5 @@ Multiple people were injured in the foam pit.
  - [https://www.pcgamer.com/ea-canceled-a-singleplayer-plants-vs-zombies-spin-off-to-back-a-star-wars-game-which-it-also-canceled](https://www.pcgamer.com/ea-canceled-a-singleplayer-plants-vs-zombies-spin-off-to-back-a-star-wars-game-which-it-also-canceled)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-10 01:03:23+00:00
- - tags: None
 
 Strange horticulture indeed.

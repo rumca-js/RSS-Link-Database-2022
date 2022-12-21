@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Musk's SpaceX says it can no longer pay for critical satellite services in Ukraine, asks Pentagon to pick up the tab
  - [https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html](https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 23:17:01+00:00
- - tags: None
 
 Since they first started arriving in Ukraine last spring, the Starlink satellite internet terminals made by Elon Musk's SpaceX have been a vital source of communication for Ukraine's military, allowing it to fight and stay connected even as cellular phone and internet networks have been destroyed in its war with Russia.
 
@@ -12,7 +11,6 @@ Since they first started arriving in Ukraine last spring, the Starlink satellite
  - [https://www.cnn.com/2022/10/13/politics/trump-subpoena-jan-6-committee-what-matters/index.html](https://www.cnn.com/2022/10/13/politics/trump-subpoena-jan-6-committee-what-matters/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 23:01:10+00:00
- - tags: None
 
 The House January 6 committee took the extraordinary and theatrical step of voting to subpoena former President Donald Trump on Thursday.
 
@@ -20,7 +18,6 @@ The House January 6 committee took the extraordinary and theatrical step of voti
  - [https://www.cnn.com/style/article/capitaspring-singapore-skyscraper-biophilic/index.html](https://www.cnn.com/style/article/capitaspring-singapore-skyscraper-biophilic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 22:09:28+00:00
- - tags: None
 
 Finding room for green spaces is a challenge in any city, let alone the world's most densely populated ones. So in downtown Singapore, anyone looking for a new park to stroll in may need to turn toward the sky.
 
@@ -28,7 +25,6 @@ Finding room for green spaces is a challenge in any city, let alone the world's 
  - [https://edition.cnn.com/webview/politics/live-news/jan-6-hearing-livestream-10-13-2022/h_5120a169235f08177afa03c1f666f9d5](https://edition.cnn.com/webview/politics/live-news/jan-6-hearing-livestream-10-13-2022/h_5120a169235f08177afa03c1f666f9d5)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 22:03:12.583029+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Finding room for green spaces is a challenge in any city, let alone the world's 
  - [https://www.cnn.com/2022/10/13/politics/subpoena-trump-january-6-committee/index.html](https://www.cnn.com/2022/10/13/politics/subpoena-trump-january-6-committee/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 21:07:59+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, US Capitol attack voted to subpoena former President Donald Trump for documents and testimony during a high-profile public hearing Thursday.
 
@@ -44,7 +39,6 @@ The House select committee investigating the January 6, 2021, US Capitol attack 
  - [https://www.cnn.com/collections/jan-6-hearing-intl-101322/](https://www.cnn.com/collections/jan-6-hearing-intl-101322/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 21:07:04+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ The House select committee investigating the January 6, 2021, US Capitol attack 
  - [https://edition.cnn.com/politics/live-news/jan-6-hearing-livestream-10-13-2022/h_5120a169235f08177afa03c1f666f9d5](https://edition.cnn.com/politics/live-news/jan-6-hearing-livestream-10-13-2022/h_5120a169235f08177afa03c1f666f9d5)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 21:03:12.514557+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@ The House select committee investigating the January 6, 2021, US Capitol attack 
  - [https://edition.cnn.com/politics/live-news/jan-6-hearing-livestream-10-13-2022#h_b11a1b077e0a7734c1e03434945c0dd7](https://edition.cnn.com/politics/live-news/jan-6-hearing-livestream-10-13-2022#h_b11a1b077e0a7734c1e03434945c0dd7)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 21:03:12.507233+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ The House select committee investigating the January 6, 2021, US Capitol attack 
  - [https://edition.cnn.com/politics/live-news/jan-6-hearing-livestream-10-13-2022/index.html](https://edition.cnn.com/politics/live-news/jan-6-hearing-livestream-10-13-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 21:03:11.368157+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ The House select committee investigating the January 6, 2021, US Capitol attack 
  - [https://www.cnn.com/videos/business/2022/08/23/twitter-whistleblower-peiter-mudge-zatko-wrap-explainer-jg-orig.cnn-business](https://www.cnn.com/videos/business/2022/08/23/twitter-whistleblower-peiter-mudge-zatko-wrap-explainer-jg-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 20:43:49+00:00
- - tags: None
 
 Former Twitter Head of Security Peiter "Mudge" Zatko says the company has major security vulnerabilities that threaten national security. In an exclusive video interview, he tells CNN's Donie O'Sullivan why he's coming forward as a whistleblower.
 
@@ -84,7 +74,6 @@ Former Twitter Head of Security Peiter "Mudge" Zatko says the company has major 
  - [https://www.cnn.com/videos/politics/2022/10/13/pelosi-congressional-leaders-capitol-january-6-hearing-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/13/pelosi-congressional-leaders-capitol-january-6-hearing-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 19:34:33+00:00
- - tags: None
 
 The House January 6 select committee revealed never-before-seen footage of House Speaker Nancy Pelosi and other congressional leaders reacting to the Capitol attack from a secure location.
 
@@ -92,7 +81,6 @@ The House January 6 select committee revealed never-before-seen footage of House
  - [https://www.cnn.com/2022/10/13/politics/supreme-court-trump-mar-a-lago/index.html](https://www.cnn.com/2022/10/13/politics/supreme-court-trump-mar-a-lago/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 19:31:11+00:00
- - tags: None
 
 The Supreme Court on Thursday rejected an emergency request from former President Donald Trump to intervene in the dispute over classified documents seized from his Mar-a-Lago estate in August.
 
@@ -100,7 +88,6 @@ The Supreme Court on Thursday rejected an emergency request from former Presiden
  - [https://www.cnn.com/2022/10/13/politics/october-jan-6-hearing-takeaways/index.html](https://www.cnn.com/2022/10/13/politics/october-jan-6-hearing-takeaways/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 19:10:58+00:00
- - tags: None
 
 The House select committee's final hearing on the Capitol Hill insurrection before the midterm elections Thursday used new testimony and evidence to demonstrate how former President Donald Trump knew he had lost the election but still went forward with efforts to overturn the results, leading to the attack on January 6, 2021.
 
@@ -108,7 +95,6 @@ The House select committee's final hearing on the Capitol Hill insurrection befo
  - [https://www.cnn.com/2022/10/13/middleeast/palestinian-deal-hamas-fatah-intl/index.html](https://www.cnn.com/2022/10/13/middleeast/palestinian-deal-hamas-fatah-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 18:07:50+00:00
- - tags: None
 
 More than 15 years after a violent break between leading Palestinian factions Hamas and Fatah, Algeria has brokered an apparent reconciliation, with the signing of a unification agreement announced on Thursday.
 
@@ -116,7 +102,6 @@ More than 15 years after a violent break between leading Palestinian factions Ha
  - [https://www.cnn.com/2022/10/13/sport/dick-ebersol-interview-tony-romo-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/13/sport/dick-ebersol-interview-tony-romo-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 17:48:56+00:00
- - tags: None
 
 Top TV executive Dick Ebersol has had decades long experience of the world of sports broadcasting.
 
@@ -124,7 +109,6 @@ Top TV executive Dick Ebersol has had decades long experience of the world of sp
  - [https://www.cnn.com/2022/10/13/opinions/putin-far-right-fans-west-europe-ghitis/index.html](https://www.cnn.com/2022/10/13/opinions/putin-far-right-fans-west-europe-ghitis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 17:39:59+00:00
- - tags: None
 
 Russian President Vladimir Putin's so-far-disastrous invasion of Ukraine is turning the former idol of the far right into a toxic figure among many who used to be his greatest admirers.
 
@@ -132,7 +116,6 @@ Russian President Vladimir Putin's so-far-disastrous invasion of Ukraine is turn
  - [https://www.cnn.com/2022/10/13/europe/kherson-russia-ukraine-evacuation-call-intl/index.html](https://www.cnn.com/2022/10/13/europe/kherson-russia-ukraine-evacuation-call-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 17:10:18+00:00
- - tags: None
 
 Russia said Thursday its forces would help evacuate residents of occupied Kherson to other areas, as Kyiv continued to make gains in its offensive to retake the southern Ukrainian region.
 
@@ -140,7 +123,6 @@ Russia said Thursday its forces would help evacuate residents of occupied Kherso
  - [https://edition.cnn.com/webview/politics/live-news/jan-6-hearing-livestream-10-13-2022/index.html](https://edition.cnn.com/webview/politics/live-news/jan-6-hearing-livestream-10-13-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 17:03:08.478810+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@ Russia said Thursday its forces would help evacuate residents of occupied Kherso
  - [https://www.cnn.com/videos/media/2022/10/13/creepy-doll-m3gan-trailer-moos-orig-bdk.cnn](https://www.cnn.com/videos/media/2022/10/13/creepy-doll-m3gan-trailer-moos-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 16:57:11+00:00
- - tags: None
 
 A trailer for the creepy android doll movie "M3GAN" freaks out the internet. CNN's Jeanne Moos reports she's the new "Chucky."
 
@@ -156,7 +137,6 @@ A trailer for the creepy android doll movie "M3GAN" freaks out the internet. CNN
  - [https://www.cnn.com/2022/10/13/media/jones-conspiracy-empire/index.html](https://www.cnn.com/2022/10/13/media/jones-conspiracy-empire/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 16:36:45+00:00
- - tags: None
 
 Judgment Day arrived on Wednesday for Alex Jones — and he said that it felt like he landed in Hell.
 
@@ -164,7 +144,6 @@ Judgment Day arrived on Wednesday for Alex Jones — and he said that it felt li
  - [https://www.cnn.com/us/live-news/nikolas-cruz-sentencing-decision/index.html](https://www.cnn.com/us/live-news/nikolas-cruz-sentencing-decision/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 16:33:16+00:00
- - tags: None
 
 • Jury's decision is still being read
 
@@ -172,7 +151,6 @@ Judgment Day arrived on Wednesday for Alex Jones — and he said that it felt li
  - [https://www.cnn.com/style/article/19th-century-levis-jeans-intl-scli/index.html](https://www.cnn.com/style/article/19th-century-levis-jeans-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 16:04:29+00:00
- - tags: None
 
 A pair of Levi's jeans from the 1880s has sold at an auction in a small town in New Mexico for more than $87,000.
 
@@ -180,7 +158,6 @@ A pair of Levi's jeans from the 1880s has sold at an auction in a small town in 
  - [https://cnn.it/3yA0hRy](https://cnn.it/3yA0hRy)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 16:03:05.286245+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ A pair of Levi's jeans from the 1880s has sold at an auction in a small town in 
  - [https://www.cnn.com/2022/10/13/uk/liz-truss-ousting-analysis-intl-gbr/index.html](https://www.cnn.com/2022/10/13/uk/liz-truss-ousting-analysis-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:55:09+00:00
- - tags: None
 
 Spare a thought for British Conservative members of parliament.
 
@@ -196,7 +172,6 @@ Spare a thought for British Conservative members of parliament.
  - [https://www.cnn.com/2022/10/13/football/diego-maradona-ball-auction-spt-intl/index.html](https://www.cnn.com/2022/10/13/football/diego-maradona-ball-auction-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:42:00+00:00
- - tags: None
 
 Six months after his "Hand of God" shirt broke auction records, another piece of memorabilia connected with Diego Maradona's most famous match is expected to sell for millions.
 
@@ -204,7 +179,6 @@ Six months after his "Hand of God" shirt broke auction records, another piece of
  - [https://www.cnn.com/travel/article/orient-express-rediscovered-carriages-interiors-revealed/index.html](https://www.cnn.com/travel/article/orient-express-rediscovered-carriages-interiors-revealed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:40:55+00:00
- - tags: None
 
 For years, several vintage Orient Express train carriages lay, forgotten, at a small railway station on the border between Poland and Belarus called Malaszwewicze.
 
@@ -212,7 +186,6 @@ For years, several vintage Orient Express train carriages lay, forgotten, at a s
  - [https://www.cnn.com/collections/parkland-intl-101322/](https://www.cnn.com/collections/parkland-intl-101322/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:40:05+00:00
- - tags: None
 
 
 
@@ -220,7 +193,6 @@ For years, several vintage Orient Express train carriages lay, forgotten, at a s
  - [https://www.cnn.com/2022/10/13/us/emmett-till-justice-race-deconstructed-newsletter-reaj/index.html](https://www.cnn.com/2022/10/13/us/emmett-till-justice-race-deconstructed-newsletter-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:20:34+00:00
- - tags: None
 
 A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here.
 
@@ -228,7 +200,6 @@ A version of this story appeared in CNN's Race Deconstructed newsletter. To get 
  - [https://www.cnn.com/2022/10/13/perspectives/college-degrees-careers-roslansky-auguste/index.html](https://www.cnn.com/2022/10/13/perspectives/college-degrees-careers-roslansky-auguste/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:17:00+00:00
- - tags: None
 
 The urgent business case for finding new ways of hiring has never been clearer. The demand for workers in the US is outpacing the supply, and finding the best talent is going to be increasingly difficult as the world navigates a period of heightened economic uncertainty.
 
@@ -236,7 +207,6 @@ The urgent business case for finding new ways of hiring has never been clearer. 
  - [https://www.cnn.com/2022/10/13/us/grandfather-hot-car-arrest/index.html](https://www.cnn.com/2022/10/13/us/grandfather-hot-car-arrest/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:13:45+00:00
- - tags: None
 
 A Florida grandfather was arrested after an employee at a Hertz car rental lot in the Daytona Beach International Airport discovered a toddler who was left in the back seat of a returned vehicle for about 45 minutes Monday evening, according to the Volusia County Sheriff's Office.
 
@@ -244,7 +214,6 @@ A Florida grandfather was arrested after an employee at a Hertz car rental lot i
  - [https://www.cnn.com/2022/10/13/entertainment/black-adam-dwayne-johnson/index.html](https://www.cnn.com/2022/10/13/entertainment/black-adam-dwayne-johnson/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:10:28+00:00
- - tags: None
 
 Did Dwayne Johnson just reveal a "Black Adam" spoiler?
 
@@ -252,7 +221,6 @@ Did Dwayne Johnson just reveal a "Black Adam" spoiler?
  - [https://www.cnn.com/videos/business/2022/10/13/remote-cabin-thomas-brag.cnn-business](https://www.cnn.com/videos/business/2022/10/13/remote-cabin-thomas-brag.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 15:07:27+00:00
- - tags: None
 
 YouTube personality Thomas Bragg and a team of travels with "Yes Theory" documented his 30+ miles trek to a remote cabin hidden atop a mountain peak in Washington State.
 
@@ -260,7 +228,6 @@ YouTube personality Thomas Bragg and a team of travels with "Yes Theory" documen
  - [https://www.cnn.com/2022/10/13/tech/fcc-huawei-ban/index.html](https://www.cnn.com/2022/10/13/tech/fcc-huawei-ban/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 14:37:30+00:00
- - tags: None
 
 The US government is poised to ban all purchases of new telecom equipment from Huawei and ZTE, two Chinese technology giants, in an expanding crackdown against perceived national security risks from China, according to a report by Axios.
 
@@ -268,7 +235,6 @@ The US government is poised to ban all purchases of new telecom equipment from H
  - [https://www.cnn.com/2022/10/13/europe/ukraine-russia-war-next-stages-intl/index.html](https://www.cnn.com/2022/10/13/europe/ukraine-russia-war-next-stages-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 14:22:36+00:00
- - tags: None
 
 The relative calm in Ukrainian cities far from the country's battlefields was shattered by two painfully familiar sounds this week: the ominous ring of the air raid sirens, and the eruptions of Russian attacks.
 
@@ -276,7 +242,6 @@ The relative calm in Ukrainian cities far from the country's battlefields was sh
  - [https://www.cnn.com/2022/10/13/europe/kamikaze-drones-explained-intl/index.html](https://www.cnn.com/2022/10/13/europe/kamikaze-drones-explained-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 14:17:45+00:00
- - tags: None
 
 Ukraine has asked its allies to supply it with more air defense systems and ammunition after Russia stepped up its use of "kamikaze drones" in its brutal assault against the country.
 
@@ -284,7 +249,6 @@ Ukraine has asked its allies to supply it with more air defense systems and ammu
  - [https://www.cnn.com/2022/10/13/us/nikolas-cruz-jury-deliberation-thursday/index.html](https://www.cnn.com/2022/10/13/us/nikolas-cruz-jury-deliberation-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 14:04:06+00:00
- - tags: None
 
 The jury in the death penalty trial of Nikolas Cruz reached a decision on whether to sentence the Parkland school shooter to death or life in prison without the possibility of parole on Thursday morning, soon after they began their second day of deliberations.
 
@@ -292,7 +256,6 @@ The jury in the death penalty trial of Nikolas Cruz reached a decision on whethe
  - [https://www.cnn.com/2022/10/13/energy/europe-energy-crisis-winter-2023/index.html](https://www.cnn.com/2022/10/13/energy/europe-energy-crisis-winter-2023/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 13:56:17+00:00
- - tags: None
 
 Russia's attempt to use its vast energy exports as a weapon against Europe isn't going to plan. Moscow has slashed gas supplies in retaliation for Western sanctions, but the region has been able to amass enough for the upcoming winter.
 
@@ -300,7 +263,6 @@ Russia's attempt to use its vast energy exports as a weapon against Europe isn't
  - [https://www.cnn.com/2022/10/13/world/exoplanet-atmosphere-heavy-element-scn/index.html](https://www.cnn.com/2022/10/13/world/exoplanet-atmosphere-heavy-element-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 13:43:19+00:00
- - tags: None
 
 Astronomers have spotted an unexpected chemical element high within the atmosphere of two sizzling exoplanets where liquid iron and gems rain down from the skies.
 
@@ -308,7 +270,6 @@ Astronomers have spotted an unexpected chemical element high within the atmosphe
  - [https://www.cnn.com/2022/10/13/entertainment/queen-freddie-mercury-face-it-alone-intl-scli-gbr/index.html](https://www.cnn.com/2022/10/13/entertainment/queen-freddie-mercury-face-it-alone-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 13:21:17+00:00
- - tags: None
 
 Queen released a rediscovered song featuring Freddie Mercury on Thursday, the band's first new track with the late frontman's instantly recognizable vocals to come out in more than eight years.
 
@@ -316,7 +277,6 @@ Queen released a rediscovered song featuring Freddie Mercury on Thursday, the ba
  - [https://www.cnn.com/videos/travel/2022/10/07/sardinia-stanley-tucci-searching-for-italy-bess-sardinia-origseriesfilms.cnn](https://www.cnn.com/videos/travel/2022/10/07/sardinia-stanley-tucci-searching-for-italy-bess-sardinia-origseriesfilms.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 13:09:33+00:00
- - tags: None
 
 Standing at a distance, Stanley Tucci watches as beekeeper Luigi Manias collects honey. Beekeeping has run in Manias's family since at least 1631. "Stanley Tucci: Searching for Italy" airs Sundays at 9 p.m. ET.
 
@@ -324,7 +284,6 @@ Standing at a distance, Stanley Tucci watches as beekeeper Luigi Manias collects
  - [https://www.cnn.com/2022/10/13/entertainment/joy-luck-club-sequel/index.html](https://www.cnn.com/2022/10/13/entertainment/joy-luck-club-sequel/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 13:05:56+00:00
- - tags: None
 
 Almost 30 years after the groundbreaking Asian American film "The Joy Luck Club"  released, plans are being made for a new movie that will catch up with the characters from the original.
 
@@ -332,7 +291,6 @@ Almost 30 years after the groundbreaking Asian American film "The Joy Luck Club"
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-13-22/h_a33d31a63ba2671c3eecf04708a45e37](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-13-22/h_a33d31a63ba2671c3eecf04708a45e37)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 13:02:59.064763+00:00
- - tags: None
 
 
 
@@ -340,7 +298,6 @@ Almost 30 years after the groundbreaking Asian American film "The Joy Luck Club"
  - [https://www.cnn.com/travel/article/lisbon-portugal-cool-quest-world-of-wonder/index.html](https://www.cnn.com/travel/article/lisbon-portugal-cool-quest-world-of-wonder/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 12:39:34+00:00
- - tags: None
 
 Lisbon is in the midst of a renaissance. The latest European capital of cool's affordable rents, great nightlife and gorgeous streets -- which wind high into the hills from the River Tagus -- have seen younger travelers arrive in their droves in recent years, enjoying extended stays thanks to dedicated "digital nomad" visas.
 
@@ -348,7 +305,6 @@ Lisbon is in the midst of a renaissance. The latest European capital of cool's a
  - [https://www.cnn.com/2022/10/13/business/spacex-nasa-crew-4-undock-scn/index.html](https://www.cnn.com/2022/10/13/business/spacex-nasa-crew-4-undock-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 12:26:05+00:00
- - tags: None
 
 Four astronauts are on track to return home from the International Space Station this week, capping off a nearly six-month mission in space.
 
@@ -356,7 +312,6 @@ Four astronauts are on track to return home from the International Space Station
  - [https://www.cnn.com/videos/business/2022/10/06/blushift-aerospace-biofuel-space-rocket-jg-orig.cnn-business](https://www.cnn.com/videos/business/2022/10/06/blushift-aerospace-biofuel-space-rocket-jg-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 12:19:50+00:00
- - tags: None
 
 In Maine, far from NASA's Cape Canaveral, bluShift Aerospace is working on sending rockets to space using bioderived, carbon-neutral fuel. And yes, you can even eat it. The company gave CNN exclusive camera access to its third rocket engine test to see if the future of suborbital launches could be bio-powered.
 
@@ -364,7 +319,6 @@ In Maine, far from NASA's Cape Canaveral, bluShift Aerospace is working on sendi
  - [https://cnn.it/3rPSmLQ](https://cnn.it/3rPSmLQ)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 12:02:57.349398+00:00
- - tags: None
 
 
 
@@ -372,7 +326,6 @@ In Maine, far from NASA's Cape Canaveral, bluShift Aerospace is working on sendi
  - [https://www.cnn.com/2022/10/13/investing/premarket-trading-stocks/index.html](https://www.cnn.com/2022/10/13/investing/premarket-trading-stocks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:57:53+00:00
- - tags: None
 
 If market swings tell us anything, it's that investors are rattled by economic uncertainty. The outlook remains cloudy with the possibility of recession on the horizon. Big bank earnings, coming Friday, could help clear some of that fog.
 
@@ -380,7 +333,6 @@ If market swings tell us anything, it's that investors are rattled by economic u
  - [https://www.cnn.com/videos/politics/2022/10/13/russian-recruits-video-ukraine-training-ebof-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/13/russian-recruits-video-ukraine-training-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:54:09+00:00
- - tags: None
 
 In a new video posted to social media, newly mobilized Russian soldiers are complaining about their lack of training before being sent to the war with Ukraine.
 
@@ -388,7 +340,6 @@ In a new video posted to social media, newly mobilized Russian soldiers are comp
  - [https://www.cnn.com/2022/10/13/energy/opec-oil-prices-recession-iea/index.html](https://www.cnn.com/2022/10/13/energy/opec-oil-prices-recession-iea/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:50:27+00:00
- - tags: None
 
 Western governments are furious after OPEC+ decided last week to slash oil production by the largest amount since the start of the pandemic. They have good reason to be upset: The cartel's actions may tip the global economy over the edge, the International Energy Agency has warned.
 
@@ -396,7 +347,6 @@ Western governments are furious after OPEC+ decided last week to slash oil produ
  - [https://www.cnn.com/2022/10/13/sport/barbara-hernandez-extreme-swimming-challenge-spt-intl/index.html](https://www.cnn.com/2022/10/13/sport/barbara-hernandez-extreme-swimming-challenge-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:26:52+00:00
- - tags: None
 
 When Barbara Hernandez was swimming for more than 35 kilometers across the North Channel, the strait between Northern Ireland and Scotland, the freezing waters and powerful currents were the least of her concerns.
 
@@ -404,7 +354,6 @@ When Barbara Hernandez was swimming for more than 35 kilometers across the North
  - [https://www.cnn.com/2022/10/13/football/barcelona-champions-league-inter-milan-spt-intl/index.html](https://www.cnn.com/2022/10/13/football/barcelona-champions-league-inter-milan-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:22:43+00:00
- - tags: None
 
 Barcelona teeters precariously on the edge of exiting the Champions League for a second successive season at the group stage after a pulsating 3-3 draw against Inter Milan on Wednesday at the Camp Nou.
 
@@ -412,7 +361,6 @@ Barcelona teeters precariously on the edge of exiting the Champions League for a
  - [https://www.cnn.com/videos/world/2022/10/13/xi-jinping-protest-selina-wang-early-start-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/13/xi-jinping-protest-selina-wang-early-start-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:21:44+00:00
- - tags: None
 
 Two banners hung on an overpass of a major thoroughfare in the northwest of Beijing in a rare protest against Chinese leader Xi Jinping and his authoritarian rule. CNN's Selina Wang reports.
 
@@ -420,7 +368,6 @@ Two banners hung on an overpass of a major thoroughfare in the northwest of Beij
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-13-22/h_421ea9f78bff664c0412962ba81cfdd2](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-13-22/h_421ea9f78bff664c0412962ba81cfdd2)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 11:02:56.468286+00:00
- - tags: None
 
 
 
@@ -428,7 +375,6 @@ Two banners hung on an overpass of a major thoroughfare in the northwest of Beij
  - [https://www.cnn.com/2022/10/13/opinions/us-election-workers-voting-threats-roundup/index.html](https://www.cnn.com/2022/10/13/opinions/us-election-workers-voting-threats-roundup/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 10:37:30+00:00
- - tags: None
 
 If there is one group of Americans who understands the risks facing US democracy, it's election workers who are on the frontlines of managing American elections. Though this job has traditionally been a low-risk form of public service, since 2020 that reality has changed for many of these government officials.
 
@@ -436,7 +382,6 @@ If there is one group of Americans who understands the risks facing US democracy
  - [https://www.cnn.com/2022/10/13/world/brain-cells-pong-intl-scli-scn/index.html](https://www.cnn.com/2022/10/13/world/brain-cells-pong-intl-scli-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 10:31:58+00:00
- - tags: None
 
 The video game Pong is such a simple concept, anyone can play -- even a dish of brain cells, according to scientists.
 
@@ -444,7 +389,6 @@ The video game Pong is such a simple concept, anyone can play -- even a dish of 
  - [https://www.cnn.com/2022/10/13/sport/tom-brady-pickleball-intl-spt/index.html](https://www.cnn.com/2022/10/13/sport/tom-brady-pickleball-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 10:01:50+00:00
- - tags: None
 
 Tom Brady may or may not have his eye on retirement, but he's certainly expanding his portfolio of extracurricular interests -- this time, putting his cash into pickleball.
 
@@ -452,7 +396,6 @@ Tom Brady may or may not have his eye on retirement, but he's certainly expandin
  - [https://www.cnn.com/2022/10/13/football/mo-salah-hattrick-liverpool-rangers-spt-intl/index.html](https://www.cnn.com/2022/10/13/football/mo-salah-hattrick-liverpool-rangers-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 09:15:24+00:00
- - tags: None
 
 Mo Salah completed a remarkable hattrick in just six minutes and 12 seconds -- the fastest ever in Champions League history -- as Liverpool routed Rangers 7-1 at Ibrox Stadium in Glasgow on Wednesday.
 
@@ -460,7 +403,6 @@ Mo Salah completed a remarkable hattrick in just six minutes and 12 seconds -- t
  - [https://www.cnn.com/2022/10/13/china/china-party-congress-protest-banners-xi-intl-hnk/index.html](https://www.cnn.com/2022/10/13/china/china-party-congress-protest-banners-xi-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 09:14:54+00:00
- - tags: None
 
 • Opinion: China had a system. Then along came Xi
 • The last Covid holdouts in Asia are throwing open their doors for travel -- except China
@@ -469,7 +411,6 @@ Mo Salah completed a remarkable hattrick in just six minutes and 12 seconds -- t
  - [https://www.cnn.com/2022/10/13/golf/nicolai-rasmus-hjgaard-twins-golf-tour-spt-spc-intl/index.html](https://www.cnn.com/2022/10/13/golf/nicolai-rasmus-hjgaard-twins-golf-tour-spt-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 09:08:28+00:00
- - tags: None
 
 When Nicolai Højgaard touched down in Rome for the Italian Open last September, he found himself mobbed by fans congratulating him on his victory at the European Masters in Switzerland a week prior.
 
@@ -477,7 +418,6 @@ When Nicolai Højgaard touched down in Rome for the Italian Open last September,
  - [https://www.cnn.com/2022/10/13/politics/january-6-hearing-preview/index.html](https://www.cnn.com/2022/10/13/politics/january-6-hearing-preview/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 09:00:16+00:00
- - tags: None
 
 The House select committee investigating January 6, 2021, is holding their last hearing before the midterm elections Thursday, giving the panel one more opportunity to hammer home its message that former President Donald Trump is still dangerous to democracy.
 
@@ -485,7 +425,6 @@ The House select committee investigating January 6, 2021, is holding their last 
  - [https://www.cnn.com/2022/10/13/health/coffee-children-wellness/index.html](https://www.cnn.com/2022/10/13/health/coffee-children-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 08:52:54+00:00
- - tags: None
 
 We have become a coffee-crazed culture. Yet, with all the studies coming out on how a cup of joe can reduce the risk for diabetes, heart disease, stroke, dementia and some cancers, what's the harm?
 
@@ -493,7 +432,6 @@ We have become a coffee-crazed culture. Yet, with all the studies coming out on 
  - [https://www.cnn.com/2022/10/13/sport/ohio-fishing-tournament-cheating-indicted/index.html](https://www.cnn.com/2022/10/13/sport/ohio-fishing-tournament-cheating-indicted/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 08:17:32+00:00
- - tags: None
 
 Two anglers accused of stuffing fish in an attempt to win thousands of dollars at an Ohio fishing tournament last month have been charged, authorities announced Wednesday.
 
@@ -501,7 +439,6 @@ Two anglers accused of stuffing fish in an attempt to win thousands of dollars a
  - [https://www.cnn.com/2022/10/13/middleeast/iran-protests-national-uprising-cmd-intl/index.html](https://www.cnn.com/2022/10/13/middleeast/iran-protests-national-uprising-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 08:06:56+00:00
- - tags: None
 
 
 
@@ -509,7 +446,6 @@ Two anglers accused of stuffing fish in an attempt to win thousands of dollars a
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-13-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-13-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 07:02:53.242274+00:00
- - tags: None
 
 
 
@@ -517,7 +453,6 @@ Two anglers accused of stuffing fish in an attempt to win thousands of dollars a
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-13-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-13-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 07:02:52.743654+00:00
- - tags: None
 
 
 
@@ -525,7 +460,6 @@ Two anglers accused of stuffing fish in an attempt to win thousands of dollars a
  - [https://www.cnn.com/2022/10/13/us/nyc-fentanyl-seizure-largest/index.html](https://www.cnn.com/2022/10/13/us/nyc-fentanyl-seizure-largest/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 06:08:14+00:00
- - tags: None
 
 Days after federal officials announced the largest fentanyl seizure in New York City history, an even greater quantity of the highly addictive substance has been found, authorities say.
 
@@ -533,7 +467,6 @@ Days after federal officials announced the largest fentanyl seizure in New York 
  - [https://www.cnn.com/collections/int-1013-iran/](https://www.cnn.com/collections/int-1013-iran/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 04:24:33+00:00
- - tags: None
 
 
 
@@ -541,7 +474,6 @@ Days after federal officials announced the largest fentanyl seizure in New York 
  - [https://www.cnn.com/2022/10/13/us/stanford-apology-limiting-jewish-admissions-reaj/index.html](https://www.cnn.com/2022/10/13/us/stanford-apology-limiting-jewish-admissions-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 04:12:11+00:00
- - tags: None
 
 Stanford University apologized Wednesday for limiting Jewish student admissions during the 1950s and then denying such a practice existed in the years that followed.
 
@@ -549,7 +481,6 @@ Stanford University apologized Wednesday for limiting Jewish student admissions 
  - [https://www.cnn.com/2022/10/13/politics/midterms-january-6-hearing-inflation-analysis/index.html](https://www.cnn.com/2022/10/13/politics/midterms-january-6-hearing-inflation-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 04:01:22+00:00
- - tags: None
 
 The House select committee investigating the US Capitol insurrection long ago dropped the notion of being a narrowly focused quest for the facts as members use their probe to try to defend democracy in its intensifying struggle with Donald Trump.
 
@@ -557,7 +488,6 @@ The House select committee investigating the US Capitol insurrection long ago dr
  - [https://www.cnn.com/2022/10/12/politics/durham-fbi-russia-probe-witness/index.html](https://www.cnn.com/2022/10/12/politics/durham-fbi-russia-probe-witness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 03:45:51+00:00
- - tags: None
 
 The final expected trial of special counsel John Durham's probe took an unexpected turn Wednesday, with Durham grilling and rebuking his own witness after the witness seemed to bolster the defense of Igor Danchenko, a key Steele dossier source.
 
@@ -565,7 +495,6 @@ The final expected trial of special counsel John Durham's probe took an unexpect
  - [https://www.cnn.com/collections/int-1013-china/](https://www.cnn.com/collections/int-1013-china/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 03:42:19+00:00
- - tags: None
 
 
 
@@ -573,7 +502,6 @@ The final expected trial of special counsel John Durham's probe took an unexpect
  - [https://www.cnn.com/videos/us/2022/10/13/anna-sorokin-fake-heiress-interview-jake-tapper-tapperctn-sot-contd-vpx.cnn](https://www.cnn.com/videos/us/2022/10/13/anna-sorokin-fake-heiress-interview-jake-tapper-tapperctn-sot-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 03:24:01+00:00
- - tags: None
 
 Anna Sorokin, who rose to infamy by portraying herself as Anna Delvey, a wealthy member of New York elite, tells CNN's Jake Tapper that she regrets the activities that sent her to jail.
 
@@ -581,7 +509,6 @@ Anna Sorokin, who rose to infamy by portraying herself as Anna Delvey, a wealthy
  - [https://www.cnn.com/2022/10/12/politics/hawaii-abortion-protections-executive-order/index.html](https://www.cnn.com/2022/10/12/politics/hawaii-abortion-protections-executive-order/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 03:09:59+00:00
- - tags: None
 
 Hawaii's Democratic governor moved to strengthen abortion protections in the state on Tuesday, issuing an executive order prohibiting officials on the islands from cooperating with states attempting to prosecute people who received the procedure legally in his state.
 
@@ -589,7 +516,6 @@ Hawaii's Democratic governor moved to strengthen abortion protections in the sta
  - [https://www.cnn.com/travel/article/best-chinese-food-dishes-to-try-cmd/index.html](https://www.cnn.com/travel/article/best-chinese-food-dishes-to-try-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 02:53:45+00:00
- - tags: None
 
 With one of the world's most diverse food scenes, China makes it nearly impossible to put together one single list that truly encompasses the "best" Chinese dishes.
 
@@ -597,7 +523,6 @@ With one of the world's most diverse food scenes, China makes it nearly impossib
  - [https://www.cnn.com/videos/politics/2022/10/13/trump-employee-mar-a-lago-boxes-fbi-reporter-barrett-intv-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/13/trump-employee-mar-a-lago-boxes-fbi-reporter-barrett-intv-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 01:50:12+00:00
- - tags: None
 
 A former Trump employee has told the FBI about being directed by the former President to move boxes out of a basement storage room to his residence at Mar-a-Lago after Trump's legal team received a subpoena for any classified documents at the Florida estate, according to a source familiar with the witness' description. CNN's Anderson Cooper speaks to Devlin Barrett, one of the Washington Post reporters that broke the story.
 
@@ -605,7 +530,6 @@ A former Trump employee has told the FBI about being directed by the former Pres
  - [https://www.cnn.com/videos/politics/2022/10/13/midterm-elections-tapper-monologue-tapperctn-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/13/midterm-elections-tapper-monologue-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 01:42:25+00:00
- - tags: None
 
 CNN's Jake Tapper explains why the 2022 midterm elections are shaping up to be one of the "weirdest and least predictable" midterms in modern memory.
 
@@ -613,7 +537,6 @@ CNN's Jake Tapper explains why the 2022 midterm elections are shaping up to be o
  - [https://www.cnn.com/videos/business/2022/10/12/sandy-hook-victim-families-react-to-alex-jones-verdict-cooper-ac360-vpx.cnn](https://www.cnn.com/videos/business/2022/10/12/sandy-hook-victim-families-react-to-alex-jones-verdict-cooper-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 01:24:28+00:00
- - tags: None
 
 Victims' families speak with CNN's Anderson Cooper following the jury's verdict that far-right talk show host Alex Jones pay $1 billion to Sandy Hook families over the lies he spread about the 2012 elementary school massacre.
 
@@ -621,7 +544,6 @@ Victims' families speak with CNN's Anderson Cooper following the jury's verdict 
  - [https://www.cnn.com/collections/intl-1310-mar-a-lago/](https://www.cnn.com/collections/intl-1310-mar-a-lago/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:59:39+00:00
- - tags: None
 
 
 
@@ -629,7 +551,6 @@ Victims' families speak with CNN's Anderson Cooper following the jury's verdict 
  - [https://www.cnn.com/2022/10/12/sport/basketball-robot-cue-japan-hnk-spc-intl/index.html](https://www.cnn.com/2022/10/12/sport/basketball-robot-cue-japan-hnk-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:52:50+00:00
- - tags: None
 
 At nearly seven feet tall and weighing 240 pounds, CUE has biometrics a lot like the average basketball player's. But CUE isn't a sports star in the conventional sense: it's a hoop-shooting AI-powered robot.
 
@@ -637,7 +558,6 @@ At nearly seven feet tall and weighing 240 pounds, CUE has biometrics a lot like
  - [https://www.cnn.com/collections/intl-1310-alex-jones/](https://www.cnn.com/collections/intl-1310-alex-jones/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:44:20+00:00
- - tags: None
 
 
 
@@ -645,7 +565,6 @@ At nearly seven feet tall and weighing 240 pounds, CUE has biometrics a lot like
  - [https://www.cnn.com/2022/10/12/entertainment/spirited-will-ferrell-ryan-reynolds/index.html](https://www.cnn.com/2022/10/12/entertainment/spirited-will-ferrell-ryan-reynolds/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:42:42+00:00
- - tags: None
 
 Ryan Reynolds has the help of a holiday favorite to get into the 'spirit' of the season this year -- none other than "Elf" star Will Ferrell.
 
@@ -653,7 +572,6 @@ Ryan Reynolds has the help of a holiday favorite to get into the 'spirit' of the
  - [https://www.cnn.com/videos/us/2022/10/12/homeowners-explicit-music-playground-noise-cprog-affil-pkg-vpx.wbbm](https://www.cnn.com/videos/us/2022/10/12/homeowners-explicit-music-playground-noise-cprog-affil-pkg-vpx.wbbm)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:29:17+00:00
- - tags: None
 
 After complaining to the school board about the musical instruments installed at a playground near their home in Orland Park, Illinois, some homeowners took matters into their own hands and blasted explicit music while children were playing.
 
@@ -661,7 +579,6 @@ After complaining to the school board about the musical instruments installed at
  - [https://www.cnn.com/2022/10/12/politics/munn-family-sentencing-capitol-january-6/index.html](https://www.cnn.com/2022/10/12/politics/munn-family-sentencing-capitol-january-6/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:22:35+00:00
- - tags: None
 
 A Texas family of five was sentenced together on Wednesday for storming the Capitol on January 6, with the two parents getting jail time and three adult children given probation and some home confinement.
 
@@ -669,6 +586,5 @@ A Texas family of five was sentenced together on Wednesday for storming the Capi
  - [https://www.cnn.com/videos/world/2022/10/12/ukraine-official-contradicts-biden-putin-irrational-zelensky-adviser-russia-pleitgen-dnt-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/12/ukraine-official-contradicts-biden-putin-irrational-zelensky-adviser-russia-pleitgen-dnt-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-13 00:12:03+00:00
- - tags: None
 
 The United Nations General Assembly voted overwhelmingly to condemn Russia's attempted annexations in Ukraine after Moscow unleashed another round of missile strikes targeting civilians and critical infrastructure. CNN correspondent Fred Pleitgen reports and speaks with Mikhail Podolyak, Advisor to Ukraine's Presidential Office, who contradicted President Biden's after his comment in an exclusive interview with CNN's Jake Tapper.

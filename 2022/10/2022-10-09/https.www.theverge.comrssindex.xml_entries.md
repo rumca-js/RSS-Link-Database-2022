@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Google’s getting rid of its standalone Driving Mode dashboard
  - [https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto](https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-09 22:58:58+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing Google’s Driving Mode dashboard" src="https://cdn.vox-cdn.com/thumbor/F1IBvr78pLIjLb63Vt0Vnan7hKU=/16x0:1561x1030/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71475043/google_assistant_driving_mode.0.png" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/9/23395490/twitter-lock-kanye-west-out-account-following-anti-semitic-post](https://www.theverge.com/2022/10/9/23395490/twitter-lock-kanye-west-out-account-following-anti-semitic-post)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-09 20:25:51+00:00
- - tags: None
 
 <figure>
       <img alt="Kanye West wearing a black hat and a hoodie" src="https://cdn.vox-cdn.com/thumbor/rv5K31Ar8uW0qu9b5MjDgXyhB2E=/0x0:5616x3744/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71474602/1429788116.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection](https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-09 16:57:59+00:00
- - tags: None
 
 <figure>
       <img alt="An iPhone 14 Pro showing the Dynamic Island making a phone call" src="https://cdn.vox-cdn.com/thumbor/xxRgQEnJ_2nQFctYcw8rHIkfKYs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71473888/226270_iPHONE_14_PHO_akrales_0152.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/10/9/23395109/apple-usb-c-airpods-mac-accessories-2024-magic-mouse-keyboard-trackpad-eu-legislation](https://www.theverge.com/2022/10/9/23395109/apple-usb-c-airpods-mac-accessories-2024-magic-mouse-keyboard-trackpad-eu-legislation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-09 15:14:36+00:00
- - tags: None
 
 <figure>
       <img alt="A close-up photo of the case for Apple’s second-generation AirPods Pro. The new speaker is pictured." src="https://cdn.vox-cdn.com/thumbor/tVoXFfvtGvWfhtYCYdMHOEVcuTo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71473559/226285_AIRPODS_PRO_2_cwelch_0008.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/2022/10/9/23393290/microsoft-surface-launch-arm-windows-laptops](https://www.theverge.com/2022/10/9/23393290/microsoft-surface-launch-arm-windows-laptops)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-09 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Microsoft Surface Pro X" src="https://cdn.vox-cdn.com/thumbor/-6LSZZwvUJY-PdM1r0d9qwynny4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71473145/vpavic_191101_3747_0024.0.jpg" />

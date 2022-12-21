@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## The Struggle of Moderating the Internet! - Techlore Talks #4
  - [https://www.youtube.com/watch?v=e8mchGi9DVk](https://www.youtube.com/watch?v=e8mchGi9DVk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-28 22:24:23+00:00
- - tags: None
 
 Social media moderation, deplatforming, freedom of speech, internet anonymity, and more! Welcome to Techlore Talks 4: where we unpack privacy & security concepts in free-form discussions!
 

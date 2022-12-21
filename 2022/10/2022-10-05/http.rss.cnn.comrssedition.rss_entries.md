@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Watch: Man caught on camera jumping across NYC rooftop in suit and dress shoes
  - [https://www.cnn.com/videos/us/2022/10/05/new-york-city-man-jumps-across-building-awnings-orig-aw.cnn](https://www.cnn.com/videos/us/2022/10/05/new-york-city-man-jumps-across-building-awnings-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 23:05:55+00:00
- - tags: None
 
 A man was caught on camera jumping across several awnings of a 23-story historic New York City building while taking no apparent safety precautions.
 
@@ -12,7 +11,6 @@ A man was caught on camera jumping across several awnings of a 23-story historic
  - [https://www.cnn.com/videos/politics/2022/10/05/governors-races-women-candidates-lah-lead-pkg-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/05/governors-races-women-candidates-lah-lead-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 21:56:30+00:00
- - tags: None
 
 A historic number of women are nominees in governors' races across the US this year. CNN's Kyung Lah breaks down the key candidates and races on the ballot.
 
@@ -20,7 +18,6 @@ A historic number of women are nominees in governors' races across the US this y
  - [https://www.cnn.com/videos/world/2022/10/05/orcas-hunting-great-white-shark-orig-jc.cnn](https://www.cnn.com/videos/world/2022/10/05/orcas-hunting-great-white-shark-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 18:13:00+00:00
- - tags: None
 
 It is well documented that orcas are effective predators and occasionally hunt sharks, but this is the first time they have been filmed attacking a great white shark.
 
@@ -28,7 +25,6 @@ It is well documented that orcas are effective predators and occasionally hunt s
  - [https://www.cnn.com/videos/us/2022/10/05/mi-tallest-living-domestic-cat-world-record-affil-dnt-cprog-vpx.wdiv](https://www.cnn.com/videos/us/2022/10/05/mi-tallest-living-domestic-cat-world-record-affil-dnt-cprog-vpx.wdiv)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 18:06:39+00:00
- - tags: None
 
 A Michigan house cat has been named the tallest living domestic cat in the world by Guinness World Records. Fenrir measures 18.8 inches and despite his size, his owner says the cat can be "held like a baby." CNN affiliate WDIV has more.
 
@@ -36,7 +32,6 @@ A Michigan house cat has been named the tallest living domestic cat in the world
  - [https://edition.cnn.com/webview/world/live-news/spacex-launch-nasa-mission-10-05-22/index.html](https://edition.cnn.com/webview/world/live-news/spacex-launch-nasa-mission-10-05-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 16:24:29.505334+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ A Michigan house cat has been named the tallest living domestic cat in the world
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-05-22/h_04974b9421ca53764e3b8e8a7784e954](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-05-22/h_04974b9421ca53764e3b8e8a7784e954)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 16:24:29.474098+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ A Michigan house cat has been named the tallest living domestic cat in the world
  - [https://www.cnn.com/2022/10/05/energy/opec-production-cuts/index.html](https://www.cnn.com/2022/10/05/energy/opec-production-cuts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 15:48:32+00:00
- - tags: None
 
 OPEC+ said Wednesday that it will slash oil production by 2 million barrels per day, the biggest cut since the start of the pandemic, in a move that threatens to push gasoline prices higher just weeks before US midterm elections.
 
@@ -60,7 +53,6 @@ OPEC+ said Wednesday that it will slash oil production by 2 million barrels per 
  - [https://www.cnn.com/2022/10/05/entertainment/coldplay-chris-martin-lung-infection/index.html](https://www.cnn.com/2022/10/05/entertainment/coldplay-chris-martin-lung-infection/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 15:05:32+00:00
- - tags: None
 
 A serious illness has caused Coldplay to pause their tour.
 
@@ -68,7 +60,6 @@ A serious illness has caused Coldplay to pause their tour.
  - [https://www.cnn.com/2022/10/05/entertainment/velma-scooby-doo-gay/index.html](https://www.cnn.com/2022/10/05/entertainment/velma-scooby-doo-gay/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 14:49:27+00:00
- - tags: None
 
 It appears Velma wants a same-sex boo in the an upcoming HBO Max Scooby Doo Halloween movie.
 
@@ -76,7 +67,6 @@ It appears Velma wants a same-sex boo in the an upcoming HBO Max Scooby Doo Hall
  - [https://www.cnn.com/collections/intl-aaron-judge-0510/](https://www.cnn.com/collections/intl-aaron-judge-0510/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 14:43:52+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ It appears Velma wants a same-sex boo in the an upcoming HBO Max Scooby Doo Hall
  - [https://www.cnn.com/2022/10/05/entertainment/kourtney-kardashian-khlo-kardashian/index.html](https://www.cnn.com/2022/10/05/entertainment/kourtney-kardashian-khlo-kardashian/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 14:18:32+00:00
- - tags: None
 
 For anyone who watches "The Kardashians," sisters Kourtney Kardashian and Khloé Kardashian have always been tight.
 
@@ -92,7 +81,6 @@ For anyone who watches "The Kardashians," sisters Kourtney Kardashian and Khloé
  - [https://www.cnn.com/2022/10/05/entertainment/ryan-coogler-chadwick-boseman-death/index.html](https://www.cnn.com/2022/10/05/entertainment/ryan-coogler-chadwick-boseman-death/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 14:14:56+00:00
- - tags: None
 
 The death of Chadwick Boseman in 2020 following a private battle with colon cancer was a shock to many. For those closest to him, it was devastating.
 
@@ -100,7 +88,6 @@ The death of Chadwick Boseman in 2020 following a private battle with colon canc
  - [https://www.cnn.com/2022/10/05/sport/jim-redmond-death-derek-barcelona-olympics-spt-intl/index.html](https://www.cnn.com/2022/10/05/sport/jim-redmond-death-derek-barcelona-olympics-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:58:11+00:00
- - tags: None
 
 Jim Redmond, who helped his injured son Derek across the finish line of the 400m semifinal at Barcelona 1992 in one of the Olympic Games' most poignant and iconic moments, has died at age 81, his family announced.
 
@@ -108,7 +95,6 @@ Jim Redmond, who helped his injured son Derek across the finish line of the 400m
  - [https://www.cnn.com/2022/10/05/football/ukraine-world-cup-intl-spt/index.html](https://www.cnn.com/2022/10/05/football/ukraine-world-cup-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:52:37+00:00
- - tags: None
 
 Ukraine has joined Spain and Portugal's bid to host the 2030 World Cup, the Spanish Football Federation (RFEF) and the Portuguese Football Federation (FPF) said on Wednesday.
 
@@ -116,7 +102,6 @@ Ukraine has joined Spain and Portugal's bid to host the 2030 World Cup, the Span
  - [https://www.cnn.com/2022/10/05/entertainment/alec-baldwin-rust-settlement/index.html](https://www.cnn.com/2022/10/05/entertainment/alec-baldwin-rust-settlement/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:49:17+00:00
- - tags: None
 
 The family of Halyna Hutchins, the cinematographer killed on the "Rust" movie set in 2021, and Alec Baldwin have reached an undisclosed settlement in the wrongful death lawsuit filed against the actor and others, according to a statement released by the actor's attorney.
 
@@ -124,7 +109,6 @@ The family of Halyna Hutchins, the cinematographer killed on the "Rust" movie se
  - [https://www.cnn.com/2022/10/05/politics/kari-lake-arizona-governor-swing-state/index.html](https://www.cnn.com/2022/10/05/politics/kari-lake-arizona-governor-swing-state/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:29:43+00:00
- - tags: None
 
 One of the big questions heading into the 2022 cycle had been how Republican candidates would or not reflect the GOP base when it came to views of the 2020 election. Poll after poll has shown that a clear majority of Republicans falsely believe that President Joe Biden did not legitimately win the 2020 election.
 
@@ -132,7 +116,6 @@ One of the big questions heading into the 2022 cycle had been how Republican can
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-05-22/h_84be730cf104a4c24da256e88f729f62](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-05-22/h_84be730cf104a4c24da256e88f729f62)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:24:27.826248+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ One of the big questions heading into the 2022 cycle had been how Republican can
  - [https://cnn.it/3C9WVp9](https://cnn.it/3C9WVp9)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:24:27.779674+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@ One of the big questions heading into the 2022 cycle had been how Republican can
  - [https://www.cnn.com/travel/article/battersea-power-station-reopening-scli-intl/index.html](https://www.cnn.com/travel/article/battersea-power-station-reopening-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 13:08:48+00:00
- - tags: None
 
 Battersea Power Station reopens next week as a glitzy hub of offices, flats, restaurants and shops after decades of failed attempts to reinvigorate one of the capital's most iconic buildings, often described as the "Everest of real estate."
 
@@ -156,7 +137,6 @@ Battersea Power Station reopens next week as a glitzy hub of offices, flats, res
  - [https://www.cnn.com/travel/article/sleep-tourism-wellness/index.html](https://www.cnn.com/travel/article/sleep-tourism-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 12:57:41+00:00
- - tags: None
 
 Going on a vacation might seem like a rather unconventional way to try to improve your sleep habits.
 
@@ -164,7 +144,6 @@ Going on a vacation might seem like a rather unconventional way to try to improv
  - [https://www.cnn.com/2022/10/05/world/spacex-nasa-crew-5-astronaut-launch-scn/index.html](https://www.cnn.com/2022/10/05/world/spacex-nasa-crew-5-astronaut-launch-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 12:39:33+00:00
- - tags: None
 
 SpaceX and NASA are set to launch a crew of astronauts who hail from all over the world on a trip to the International Space Station.
 
@@ -172,7 +151,6 @@ SpaceX and NASA are set to launch a crew of astronauts who hail from all over th
  - [https://www.cnn.com/2022/10/05/politics/merrill-milligan-race-deconstructed-newsletter-reaj/index.html](https://www.cnn.com/2022/10/05/politics/merrill-milligan-race-deconstructed-newsletter-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 12:35:10+00:00
- - tags: None
 
 To Letetia Jackson, voting is as important as drinking water or breathing. She has her mother to thank for nourishing that conviction.
 
@@ -180,7 +158,6 @@ To Letetia Jackson, voting is as important as drinking water or breathing. She h
  - [https://www.cnn.com/2022/10/05/football/paris-boycott-world-cup-qatar-2022-spt-intl/index.html](https://www.cnn.com/2022/10/05/football/paris-boycott-world-cup-qatar-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 12:08:28+00:00
- - tags: None
 
 It's likely that many French fans will be following this year's World Cup in Qatar as their team, the winner four years ago in Russia, fights to defend its title, but they won't be doing it with other football supporters in some of France's major cities' public spaces.
 
@@ -188,7 +165,6 @@ It's likely that many French fans will be following this year's World Cup in Qat
  - [https://www.cnn.com/collections/intl-truss-0510/](https://www.cnn.com/collections/intl-truss-0510/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 11:59:38+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ It's likely that many French fans will be following this year's World Cup in Qat
  - [https://www.cnn.com/2022/10/05/africa/ecowas-mediator-burkina-faso-intl/index.html](https://www.cnn.com/2022/10/05/africa/ecowas-mediator-burkina-faso-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 11:56:34+00:00
- - tags: None
 
 The mediator sent to Burkina Faso by West Africa's main political and economic bloc ECOWAS, Mahamadou Issoufou, on Tuesday said he was satisfied by a meeting with the country's new military leader Ibrahim Traore.
 
@@ -204,7 +179,6 @@ The mediator sent to Burkina Faso by West Africa's main political and economic b
  - [https://www.cnn.com/2022/10/05/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/10/05/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 11:48:18+00:00
- - tags: None
 
 Persistently high inflation, the Federal Reserve's tightening policy and record-breaking US debt have wreaked havoc on US Treasuries this year.
 
@@ -212,7 +186,6 @@ Persistently high inflation, the Federal Reserve's tightening policy and record-
  - [https://www.cnn.com/videos/world/2022/10/05/truss-speech-protesters-ovn-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/05/truss-speech-protesters-ovn-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 11:25:45+00:00
- - tags: None
 
 Protesters from the environmental group Greenpeace disrupted an address by British Prime Minister Liz Truss at the Conservative Party conference in Birmingham, UK. This was Truss' first speech since becoming Prime Minister and came amid public backlash against the government's U-turn on new tax policy.
 
@@ -220,7 +193,6 @@ Protesters from the environmental group Greenpeace disrupted an address by Briti
  - [https://www.cnn.com/2022/10/05/sport/aaron-judge-fan-home-run-spt-intl/index.html](https://www.cnn.com/2022/10/05/sport/aaron-judge-fan-home-run-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 11:14:57+00:00
- - tags: None
 
 Cory Youmans, the fan who caught New York Yankees slugger Aaron Judge's 62nd home run on Tuesday, doesn't know whether he'll keep the historic souvenir or give the ball back to Judge.
 
@@ -228,7 +200,6 @@ Cory Youmans, the fan who caught New York Yankees slugger Aaron Judge's 62nd hom
  - [https://www.cnn.com/2022/10/05/uk/liz-truss-greenpeace-conservative-conference-gbr-intl/index.html](https://www.cnn.com/2022/10/05/uk/liz-truss-greenpeace-conservative-conference-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:43:43+00:00
- - tags: None
 
 Protesters from the environmental group Greenpeace were ejected from the Conservative Party conference on Wednesday after disrupting British Prime Minister Liz Truss's first speech as leader.
 
@@ -236,7 +207,6 @@ Protesters from the environmental group Greenpeace were ejected from the Conserv
  - [https://www.cnn.com/2022/10/05/europe/miss-crimea-fined-ukrainian-song-intl/index.html](https://www.cnn.com/2022/10/05/europe/miss-crimea-fined-ukrainian-song-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:42:45+00:00
- - tags: None
 
 A beauty queen who was named Miss Crimea 2022 has been fined 40,000 Russian rubles (around $680) by occupying Russian authorities for singing the patriotic Ukrainian song "Chervona Kalyna," according to Russian state media and pro-Russian regional authorities.
 
@@ -244,7 +214,6 @@ A beauty queen who was named Miss Crimea 2022 has been fined 40,000 Russian rubl
  - [https://www.cnn.com/2022/10/05/investing/china-japan-india-asian-financial-crisis-intl-hnk/index.html](https://www.cnn.com/2022/10/05/investing/china-japan-india-asian-financial-crisis-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:38:16+00:00
- - tags: None
 
 A quarter of a century ago, a major financial crisis ripped through Asia, shaking its economies to the core. Now, the ghost of 1997 is haunting the region again.
 
@@ -252,7 +221,6 @@ A quarter of a century ago, a major financial crisis ripped through Asia, shakin
  - [https://www.cnn.com/2022/10/05/europe/nobel-prize-chemistry-winner-2022-scn-intl/index.html](https://www.cnn.com/2022/10/05/europe/nobel-prize-chemistry-winner-2022-scn-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:36:47+00:00
- - tags: None
 
 Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless have won the Nobel Prize for chemistry, for creating "an ingenious tool for building molecules."
 
@@ -260,7 +228,6 @@ Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless have won the Nobel Pri
  - [https://www.cnn.com/collections/intl-ukraine-0510/](https://www.cnn.com/collections/intl-ukraine-0510/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:32:46+00:00
- - tags: None
 
 
 
@@ -268,7 +235,6 @@ Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless have won the Nobel Pri
  - [https://www.cnn.com/2022/10/05/middleeast/iran-protests-regime-intl/index.html](https://www.cnn.com/2022/10/05/middleeast/iran-protests-regime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:28:46+00:00
- - tags: None
 
 • Missing out on playing in the World Cup is 'worth sacrificing for one strand of Iranian women's hair'
 
@@ -276,7 +242,6 @@ Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless have won the Nobel Pri
  - [https://www.cnn.com/2022/10/05/europe/ukraine-conflict-russia-losses-intl/index.html](https://www.cnn.com/2022/10/05/europe/ukraine-conflict-russia-losses-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:19:15+00:00
- - tags: None
 
 Russian forces appear to be buckling under growing pressure as Ukraine continues to regain territory in the south, where Russian soldiers have been forced to retreat from previously-held settlements as Kyiv progresses with its counteroffensive towards the Russian-occupied city of Kherson.
 
@@ -284,7 +249,6 @@ Russian forces appear to be buckling under growing pressure as Ukraine continues
  - [https://www.cnn.com/2022/10/05/health/cnn-kff-mental-health-poll-wellness/index.html](https://www.cnn.com/2022/10/05/health/cnn-kff-mental-health-poll-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:16:03+00:00
- - tags: None
 
 An overwhelming majority of people in the United States think the country is experiencing a mental health crisis, according to a new survey from CNN in partnership with the Kaiser Family Foundation.
 
@@ -292,7 +256,6 @@ An overwhelming majority of people in the United States think the country is exp
  - [https://www.cnn.com/videos/world/2022/10/05/south-korea-weapons-dnt-paula-hancocks-ovn-contd-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/05/south-korea-weapons-dnt-paula-hancocks-ovn-contd-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:14:20+00:00
- - tags: None
 
 South Korea aims to become one of the world's top four military equipment suppliers, President Yoon Suk Yeol announced. CNN's Paula Hancocks travels to some of the country's biggest arms manufacturers to find out how close the country is to realizing its ambition.
 
@@ -300,7 +263,6 @@ South Korea aims to become one of the world's top four military equipment suppli
  - [https://www.cnn.com/collections/intl-ian-0510/](https://www.cnn.com/collections/intl-ian-0510/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 10:03:29+00:00
- - tags: None
 
 
 
@@ -308,7 +270,6 @@ South Korea aims to become one of the world's top four military equipment suppli
  - [https://www.cnn.com/2022/10/05/us/california-family-missing-wednesday/index.html](https://www.cnn.com/2022/10/05/us/california-family-missing-wednesday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 09:39:22+00:00
- - tags: None
 
 The search for a family of four kidnapped in California continues Wednesday after authorities took a person of interest into custody and released new details about the case Tuesday.
 
@@ -316,7 +277,6 @@ The search for a family of four kidnapped in California continues Wednesday afte
  - [https://www.cnn.com/2022/10/05/opinions/drones-use-legislation-us-alejandro-mayorkas/index.html](https://www.cnn.com/2022/10/05/opinions/drones-use-legislation-us-alejandro-mayorkas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 09:27:46+00:00
- - tags: None
 
 Football watch parties saw unexpected interruptions recently when low flying drones over the gridiron forced NFL and college football games to stop. In both instances, the drones flew away without incident and there was no risk to fans attending, but each demonstrates the potential public safety threat unmanned aircraft systems (UAS) or "drones" pose to the public, and the need for tools to address it.
 
@@ -324,7 +284,6 @@ Football watch parties saw unexpected interruptions recently when low flying dro
  - [https://www.cnn.com/2022/10/05/china/xinjiang-china-covid-lockdown-intl-hnk-mic/index.html](https://www.cnn.com/2022/10/05/china/xinjiang-china-covid-lockdown-intl-hnk-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 09:17:48+00:00
- - tags: None
 
 China has banned residents from leaving Xinjiang over a Covid-19 outbreak -- just weeks after the far-western region began relaxing restrictions from a stringent extended lockdown, fueling public frustration among those scarred by food shortages and plunging incomes.
 
@@ -332,7 +291,6 @@ China has banned residents from leaving Xinjiang over a Covid-19 outbreak -- jus
  - [https://www.cnn.com/2022/10/05/africa/kenya-drought-wildlife-climate-intl-cmd/index.html](https://www.cnn.com/2022/10/05/africa/kenya-drought-wildlife-climate-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 09:10:38+00:00
- - tags: None
 
 A grueling two-year drought in Kenya has wiped out 2% of the world's rarest zebra species and increased elephant deaths as well, as the climate crisis takes its toll on the east African nation's wildlife.
 
@@ -340,7 +298,6 @@ A grueling two-year drought in Kenya has wiped out 2% of the world's rarest zebr
  - [https://www.cnn.com/2022/10/05/football/napoli-ajax-champions-league-maradona-spt-intl/index.html](https://www.cnn.com/2022/10/05/football/napoli-ajax-champions-league-maradona-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 09:04:22+00:00
- - tags: None
 
 Napoli coach Luciano Spalletti invoked the memory of club legend Diego Maradona after watching his side thrash Ajax 6-1 in the Champions League on Tuesday.
 
@@ -348,7 +305,6 @@ Napoli coach Luciano Spalletti invoked the memory of club legend Diego Maradona 
  - [https://www.cnn.com/2022/10/05/politics/voting-rights-act-supreme-court-justices-analysis/index.html](https://www.cnn.com/2022/10/05/politics/voting-rights-act-supreme-court-justices-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 09:00:06+00:00
- - tags: None
 
 The Supreme Court's three liberal justices -- Latina, White and Black women -- sought during voting-rights arguments Tuesday to wrench the narrative of a colorblind America from the conservatives who currently dominate the bench.
 
@@ -356,7 +312,6 @@ The Supreme Court's three liberal justices -- Latina, White and Black women -- s
  - [https://www.cnn.com/2022/10/05/sport/iran-protests-sport-spt-intl/index.html](https://www.cnn.com/2022/10/05/sport/iran-protests-sport-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 08:55:57+00:00
- - tags: None
 
 The World Cup in Qatar is practically a home tournament for Iran, only the narrow Persian Gulf separates the two nations.
 
@@ -364,7 +319,6 @@ The World Cup in Qatar is practically a home tournament for Iran, only the narro
  - [https://www.cnn.com/collections/intl-0510-korea/](https://www.cnn.com/collections/intl-0510-korea/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 08:52:49+00:00
- - tags: None
 
 
 
@@ -372,7 +326,6 @@ The World Cup in Qatar is practically a home tournament for Iran, only the narro
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-05-22/h_800ab2440d3386699a8603af1d61e885](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-05-22/h_800ab2440d3386699a8603af1d61e885)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 08:49:15.960811+00:00
- - tags: None
 
 
 
@@ -380,7 +333,6 @@ The World Cup in Qatar is practically a home tournament for Iran, only the narro
  - [https://www.cnn.com/2022/10/05/health/eating-late-appetite-metabolism-wellness/index.html](https://www.cnn.com/2022/10/05/health/eating-late-appetite-metabolism-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 08:47:45+00:00
- - tags: None
 
 We all know that eating later in the day isn't good for our waistlines, but why? A new study weighed in on that question by comparing people who ate the same foods -- but at different times in the day.
 
@@ -388,7 +340,6 @@ We all know that eating later in the day isn't good for our waistlines, but why?
  - [https://www.cnn.com/2022/10/05/asia/indonesia-kanjuruhan-stadium-tragedy-intl-hnk/index.html](https://www.cnn.com/2022/10/05/asia/indonesia-kanjuruhan-stadium-tragedy-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 08:40:01+00:00
- - tags: None
 
 Fans attempting to escape the chaos that erupted at Indonesia's Kanjuruhan Stadium last Saturday became trapped after security failed to open multiple exit gates, according to the national football association, contributing to the crowd crush in which at least 131 people died.
 
@@ -396,7 +347,6 @@ Fans attempting to escape the chaos that erupted at Indonesia's Kanjuruhan Stadi
  - [https://www.cnn.com/travel/article/zero-emissions-car-tuecomotive-netherlands-climate-scn-hnk-spc-intl/index.html](https://www.cnn.com/travel/article/zero-emissions-car-tuecomotive-netherlands-climate-scn-hnk-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 08:06:48+00:00
- - tags: None
 
 Silver, sleek and sporty, Zem wouldn't look out of place at a supercar championship. But Zem isn't like other sports cars -- or any car, for that matter.
 
@@ -404,7 +354,6 @@ Silver, sleek and sporty, Zem wouldn't look out of place at a supercar champions
  - [https://www.cnn.com/2022/10/05/us/flint-water-crisis-charges-dismissed-against-former-officials/index.html](https://www.cnn.com/2022/10/05/us/flint-water-crisis-charges-dismissed-against-former-officials/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 07:39:09+00:00
- - tags: None
 
 A judge has dismissed charges against seven former top Michigan state officials for their alleged role in the Flint water crisis, ruling that the charges weren't valid due to a procedural error.
 
@@ -412,7 +361,6 @@ A judge has dismissed charges against seven former top Michigan state officials 
  - [https://www.cnn.com/videos/business/2022/10/05/barbie-doll-in-space-icu-soares-pkg-ovn-cprog-intl-hnk-vpx.cnn](https://www.cnn.com/videos/business/2022/10/05/barbie-doll-in-space-icu-soares-pkg-ovn-cprog-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 07:36:34+00:00
- - tags: None
 
 To mark the first day of World Space Week, Europe's first female commander of the International Space Station Samantha Cristoforetti has spoken from space alongside the 'Barbie astronaut' modeled on herself. Cristoforetti took questions from young girls back on earth as part of an effort to inspire girls to consider careers in science. CNN's Isa Soares reports.
 
@@ -420,7 +368,6 @@ To mark the first day of World Space Week, Europe's first female commander of th
  - [https://www.cnn.com/2022/10/05/asia/india-himalayas-avalanche-uttarakhand-intl-hnk/index.html](https://www.cnn.com/2022/10/05/asia/india-himalayas-avalanche-uttarakhand-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 07:02:00+00:00
- - tags: None
 
 At least four people were killed and 28 people remain missing after an avalanche hit a group of mountaineers in the Indian Himalayas on Tuesday, according to an Indian mountaineering organization.
 
@@ -428,7 +375,6 @@ At least four people were killed and 28 people remain missing after an avalanche
  - [https://www.cnn.com/2022/10/05/us/stockton-california-serial-killings-what-we-know/index.html](https://www.cnn.com/2022/10/05/us/stockton-california-serial-killings-what-we-know/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 07:00:38+00:00
- - tags: None
 
 Authorities in California's Central Valley are investigating what they believe is a series of killings that has claimed the lives of six people since last year.
 
@@ -436,7 +382,6 @@ Authorities in California's Central Valley are investigating what they believe i
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-05-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-05-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 06:49:15.409018+00:00
- - tags: None
 
 
 
@@ -444,7 +389,6 @@ Authorities in California's Central Valley are investigating what they believe i
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-05-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-05-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 06:49:15.312187+00:00
- - tags: None
 
 
 
@@ -452,7 +396,6 @@ Authorities in California's Central Valley are investigating what they believe i
  - [https://www.cnn.com/2022/10/05/sport/hans-niemann-chess-cheating-allegations-intl-hnk-spt/index.html](https://www.cnn.com/2022/10/05/sport/hans-niemann-chess-cheating-allegations-intl-hnk-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 05:53:37+00:00
- - tags: None
 
 Teenage chess grandmaster Hans Niemann "likely cheated" in more than 100 online matches, including ones with prize money involved, according to an investigation by one of the sport's most popular websites.
 
@@ -460,7 +403,6 @@ Teenage chess grandmaster Hans Niemann "likely cheated" in more than 100 online 
  - [https://www.cnn.com/2022/10/05/us/hurricane-ian-florida-recovery-wednesday/index.html](https://www.cnn.com/2022/10/05/us/hurricane-ian-florida-recovery-wednesday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 05:53:36+00:00
- - tags: None
 
 A week after Hurricane Ian slammed into Florida, residents of one of its barrier islands will be allowed to return to view their homes Wednesday for the first time since the storm devastated the once tranquil community.
 
@@ -468,7 +410,6 @@ A week after Hurricane Ian slammed into Florida, residents of one of its barrier
  - [https://www.cnn.com/2022/10/04/sport/mlb-aaron-judge-62nd-home-run-spt-intl/index.html](https://www.cnn.com/2022/10/04/sport/mlb-aaron-judge-62nd-home-run-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 04:32:05+00:00
- - tags: None
 
 New York Yankees slugger Aaron Judge broke Roger Maris' single-season American League home run record, hitting his 62nd blast of the year in a game Tuesday against the Texas Rangers.
 
@@ -476,7 +417,6 @@ New York Yankees slugger Aaron Judge broke Roger Maris' single-season American L
  - [https://www.cnn.com/videos/world/2022/10/05/cedric-leighton-ukraine-russia-south-east-dlt-vpx.cnn](https://www.cnn.com/videos/world/2022/10/05/cedric-leighton-ukraine-russia-south-east-dlt-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 04:22:47+00:00
- - tags: None
 
 Retired Air Force Col. Cedric Leighton tells CNN's Don Lemon why Ukrainian military advances in the south and east are important in the fight against Russia.
 
@@ -484,7 +424,6 @@ Retired Air Force Col. Cedric Leighton tells CNN's Don Lemon why Ukrainian milit
  - [https://www.cnn.com/2022/10/04/politics/uss-gerald-ford-deploys/index.html](https://www.cnn.com/2022/10/04/politics/uss-gerald-ford-deploys/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 03:28:24+00:00
- - tags: None
 
 The US Navy's newest and most advanced aircraft carrier left on its first deployment Tuesday from Norfolk, Virginia, designed to put the ship through its paces and exercise with allies in North America and Europe.
 
@@ -492,7 +431,6 @@ The US Navy's newest and most advanced aircraft carrier left on its first deploy
  - [https://www.cnn.com/2022/10/04/asia/us-and-south-korea-missiles-intl/index.html](https://www.cnn.com/2022/10/04/asia/us-and-south-korea-missiles-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 02:39:52+00:00
- - tags: None
 
 • North Korea fired a missile over Japan. Experts say it's a sign of what's to come
 
@@ -500,7 +438,6 @@ The US Navy's newest and most advanced aircraft carrier left on its first deploy
  - [https://www.cnn.com/collections/intl-0510-twitter/](https://www.cnn.com/collections/intl-0510-twitter/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 01:52:35+00:00
- - tags: None
 
 
 
@@ -508,7 +445,6 @@ The US Navy's newest and most advanced aircraft carrier left on its first deploy
  - [https://www.cnn.com/videos/business/2022/10/05/elon-musk-twitter-deal-winners-losers-orig.cnn](https://www.cnn.com/videos/business/2022/10/05/elon-musk-twitter-deal-winners-losers-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 01:48:46+00:00
- - tags: None
 
 In a big reversal, Elon Musk has proposed buying Twitter at the original price. Here's who stands to gain and lose if the deal goes through.
 
@@ -516,7 +452,6 @@ In a big reversal, Elon Musk has proposed buying Twitter at the original price. 
  - [https://www.cnn.com/2022/10/04/entertainment/angelina-jolie-abuse-brad-pitt-lawsuit/index.html](https://www.cnn.com/2022/10/04/entertainment/angelina-jolie-abuse-brad-pitt-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 01:05:09+00:00
- - tags: None
 
 A countersuit filed Tuesday by actress Angelina Jolie against her ex-husband Brad Pitt includes more information about an alleged physical altercation between the former couple that took place on a plane in 2016.
 
@@ -524,7 +459,6 @@ A countersuit filed Tuesday by actress Angelina Jolie against her ex-husband Bra
  - [https://www.cnn.com/videos/politics/2022/10/05/trump-ron-desantis-haberman-book-ebof-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/05/trump-ron-desantis-haberman-book-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 00:34:49+00:00
- - tags: None
 
 New York Times reporter Maggie Haberman discusses what former President Donald Trump told her about the political rise of Florida Gov. Ron DeSantis and the possibility of DeSantis running against him for the 2024 GOP nomination.
 
@@ -532,6 +466,5 @@ New York Times reporter Maggie Haberman discusses what former President Donald T
  - [https://www.cnn.com/travel/article/world-best-bars-2022/index.html](https://www.cnn.com/travel/article/world-best-bars-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-05 00:19:45+00:00
- - tags: None
 
 Move over London. Step aside New York. There's a new cosmopolitan cocktail capital: Barcelona is home to Paradiso, the newly crowned world's best bar.

@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Protests in Iran: State-run live TV hacked by protesters
  - [https://www.bbc.co.uk/news/world-middle-east-63188795?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63188795?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:50:35+00:00
- - tags: None
 
 A live news broadcast in Iran was interrupted by messages targeting the country's supreme leader.
 
@@ -12,7 +11,6 @@ A live news broadcast in Iran was interrupted by messages targeting the country'
  - [https://www.bbc.co.uk/news/uk-england-manchester-62561555?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-62561555?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:43:03+00:00
- - tags: None
 
 A Facebook post leads a music fan to surprise the man responsible for a much-loved Madchester photo.
 
@@ -20,7 +18,6 @@ A Facebook post leads a music fan to surprise the man responsible for a much-lov
  - [https://www.bbc.co.uk/news/world-63011640?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63011640?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:40:49+00:00
- - tags: None
 
 Forest fires ignited by Russian shelling have devastated Ukraine's Drevlyansky reserve.
 
@@ -28,7 +25,6 @@ Forest fires ignited by Russian shelling have devastated Ukraine's Drevlyansky r
  - [https://www.bbc.co.uk/news/in-pictures-63143453?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-63143453?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:38:35+00:00
- - tags: None
 
 A selection of striking images from our readers around the world.
 
@@ -36,7 +32,6 @@ A selection of striking images from our readers around the world.
  - [https://www.bbc.co.uk/news/world-asia-india-63169145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63169145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:34:34+00:00
- - tags: None
 
 Vikram Pendse loves bicycles so much that he has opened a museum for them in the Indian city of Pune.
 
@@ -44,7 +39,6 @@ Vikram Pendse loves bicycles so much that he has opened a museum for them in the
  - [https://www.bbc.co.uk/news/business-62738249?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62738249?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:05:09+00:00
- - tags: None
 
 Energy bills have gone up, but there are some easy ways households can reduce costs.
 
@@ -52,7 +46,6 @@ Energy bills have gone up, but there are some easy ways households can reduce co
  - [https://www.bbc.co.uk/news/entertainment-arts-63157311?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63157311?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:02:33+00:00
- - tags: None
 
 The ultimate underground band of the 1990s are back, with a viral TikTok hit and "emotional" tour.
 
@@ -60,7 +53,6 @@ The ultimate underground band of the 1990s are back, with a viral TikTok hit and
  - [https://www.bbc.co.uk/sport/av/football/63189213?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63189213?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 23:00:06+00:00
- - tags: None
 
 Ian Wright breaks down Newcastle's "brilliantly worked" set-piece trickery that sets up a goal for Bruno Guimaraes in a 5-1 win over Brentford.
 
@@ -68,7 +60,6 @@ Ian Wright breaks down Newcastle's "brilliantly worked" set-piece trickery that 
  - [https://www.bbc.co.uk/news/world-latin-america-63172375?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63172375?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 22:50:00+00:00
- - tags: None
 
 The BBC's Simon Reeve meets one of the last traditional miners in the world's largest salt flat.
 
@@ -76,7 +67,6 @@ The BBC's Simon Reeve meets one of the last traditional miners in the world's la
  - [https://www.bbc.co.uk/news/blogs-the-papers-63189410?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63189410?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 22:48:54+00:00
- - tags: None
 
 Many of Sunday's front pages lead on reports of infighting in No 10 and the explosion on a key bridge in Crimea.
 
@@ -84,7 +74,6 @@ Many of Sunday's front pages lead on reports of infighting in No 10 and the expl
  - [https://www.bbc.co.uk/news/uk-england-derbyshire-63061846?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-63061846?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 22:46:08+00:00
- - tags: None
 
 Champion toe wrestler Alan "Nasty" Nash talks about his career before putting his feet up.
 
@@ -92,7 +81,6 @@ Champion toe wrestler Alan "Nasty" Nash talks about his career before putting hi
  - [https://www.bbc.co.uk/news/uk-63187795?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63187795?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 21:30:36+00:00
- - tags: None
 
 She was one of the Queen's favourite ponies and made an appearance at the late monarch's funeral.
 
@@ -100,7 +88,6 @@ She was one of the Queen's favourite ponies and made an appearance at the late m
  - [https://www.bbc.co.uk/sport/cycling/63188718?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cycling/63188718?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 19:31:03+00:00
- - tags: None
 
 Italy's Filippo Ganna smashes cycling's hour world record, recording 56.792km.
 
@@ -108,7 +95,6 @@ Italy's Filippo Ganna smashes cycling's hour world record, recording 56.792km.
  - [https://www.bbc.co.uk/sport/football/63188337?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63188337?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 18:40:56+00:00
- - tags: None
 
 Other players may have caught the eye since the Saudi-led takeover one year ago - but on Tyneside, they love to talk about Bruno.
 
@@ -116,7 +102,6 @@ Other players may have caught the eye since the Saudi-led takeover one year ago 
  - [https://www.bbc.co.uk/sport/football/63099427?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63099427?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 18:36:35+00:00
- - tags: None
 
 Harry Kane scores his eighth goal of the season as Tottenham win at Brighton to strengthen their place in the top three of the Premier League.
 
@@ -124,7 +109,6 @@ Harry Kane scores his eighth goal of the season as Tottenham win at Brighton to 
  - [https://www.bbc.co.uk/sport/football/63188395?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63188395?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 17:54:11+00:00
- - tags: None
 
 Erling Haaland is called "ridiculous" and "sublime" as he obliterates the record for fastest player to score 15 Premier League goals in Saturday's 4-0 win over Southampton.
 
@@ -132,7 +116,6 @@ Erling Haaland is called "ridiculous" and "sublime" as he obliterates the record
  - [https://www.bbc.co.uk/news/uk-scotland-highlands-islands-63188168?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-63188168?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 17:47:42+00:00
- - tags: None
 
 Lisa Williams, from Suffolk, becomes World Porridge Champion at the famous Carrbridge competition.
 
@@ -140,7 +123,6 @@ Lisa Williams, from Suffolk, becomes World Porridge Champion at the famous Carrb
  - [https://www.bbc.co.uk/sport/rugby-union/63122770?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63122770?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 17:30:09+00:00
- - tags: None
 
 Sale Sharks beat champions Leicester Tigers at Mattioli Woods Welford Road to move top of the Premiership.
 
@@ -148,7 +130,6 @@ Sale Sharks beat champions Leicester Tigers at Mattioli Woods Welford Road to mo
  - [https://www.bbc.co.uk/sport/netball/63187060?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/netball/63187060?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 17:12:44+00:00
- - tags: None
 
 England secure a series win over Uganda with 53-45 win in game two of the three-game series in London.
 
@@ -156,7 +137,6 @@ England secure a series win over Uganda with 53-45 win in game two of the three-
  - [https://www.bbc.co.uk/news/uk-politics-63186896?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63186896?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 17:00:47+00:00
- - tags: None
 
 The events allow millions to see on TV when flaws are exposed or progress revealed, writes Laura Kuenssberg.
 
@@ -164,7 +144,6 @@ The events allow millions to see on TV when flaws are exposed or progress reveal
  - [https://www.bbc.co.uk/sport/av/football/63185469?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63185469?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 16:58:51+00:00
- - tags: None
 
 Manchester City manager Pep Guardiola praises his players following his side's 4-0 victory over Southampton and says Erling Haaland is an "incredible weapon" for his team.
 
@@ -172,7 +151,6 @@ Manchester City manager Pep Guardiola praises his players following his side's 4
  - [https://www.bbc.co.uk/news/uk-politics-63187793?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63187793?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 16:51:41+00:00
- - tags: None
 
 The trade minister, who has denied any wrongdoing, was sacked from the government on Friday.
 
@@ -180,7 +158,6 @@ The trade minister, who has denied any wrongdoing, was sacked from the governmen
  - [https://www.bbc.co.uk/news/world-asia-63186293?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63186293?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 16:25:45+00:00
- - tags: None
 
 The national security law was introduced by Beijing in 2020 to clamp down on protesters.
 
@@ -188,7 +165,6 @@ The national security law was introduced by Beijing in 2020 to clamp down on pro
  - [https://www.bbc.co.uk/sport/football/63099428?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63099428?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 16:23:33+00:00
- - tags: None
 
 Armando Broja scores his first Chelsea goal in a dominant victory over a lacklustre Wolves, who remain without a permanent manager.
 
@@ -196,7 +172,6 @@ Armando Broja scores his first Chelsea goal in a dominant victory over a lacklus
  - [https://www.bbc.co.uk/sport/football/63099425?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63099425?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 16:23:22+00:00
- - tags: None
 
 Erling Haaland scored his 20th goal for Manchester City as his side swept Southampton aside to move top of the Premier League.
 
@@ -204,7 +179,6 @@ Erling Haaland scored his 20th goal for Manchester City as his side swept Southa
  - [https://www.bbc.co.uk/sport/football/63099426?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63099426?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 16:19:33+00:00
- - tags: None
 
 Bruno Guimaraes scores twice as impressive Newcastle beat Brentford 5-1 at St James' Park.
 
@@ -212,7 +186,6 @@ Bruno Guimaraes scores twice as impressive Newcastle beat Brentford 5-1 at St Ja
  - [https://www.bbc.co.uk/sport/football/63099390?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63099390?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 15:51:09+00:00
- - tags: None
 
 Antonio Colak scores a double for the third league match running as Rangers beat St Mirren to stay within two points of Celtic.
 
@@ -220,7 +193,6 @@ Antonio Colak scores a double for the third league match running as Rangers beat
  - [https://www.bbc.co.uk/news/entertainment-arts-63186096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63186096?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 15:07:07+00:00
- - tags: None
 
 The Power Of The Doctor episode will end her time on the sci-fi series after five years in the lead role.
 
@@ -228,7 +200,6 @@ The Power Of The Doctor episode will end her time on the sci-fi series after fiv
  - [https://www.bbc.co.uk/news/world-asia-63186292?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63186292?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 13:32:53+00:00
- - tags: None
 
 Three-year-old Emmy was found awake, curled up next to the bodies of her classmates.
 
@@ -236,7 +207,6 @@ Three-year-old Emmy was found awake, curled up next to the bodies of her classma
  - [https://www.bbc.co.uk/sport/football/63099392?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63099392?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 13:31:27+00:00
- - tags: None
 
 Giorgos Giakmoumakis' dramatic goal with virtually the last kick of the game salvaged victory for Celtic at St Johnstone in a game filled with late drama.
 
@@ -244,7 +214,6 @@ Giorgos Giakmoumakis' dramatic goal with virtually the last kick of the game sal
  - [https://www.bbc.co.uk/news/uk-scotland-51114483?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-51114483?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 13:12:50+00:00
- - tags: None
 
 Tobin was only unmasked after his final victim was found hidden under the floorboards of a church.
 
@@ -252,7 +221,6 @@ Tobin was only unmasked after his final victim was found hidden under the floorb
  - [https://www.bbc.co.uk/news/uk-63183942?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63183942?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 13:12:14+00:00
- - tags: None
 
 Birds in Norfolk, Suffolk and parts of Essex cannot be outside from Wednesday, amid the UK's largest outbreak.
 
@@ -260,7 +228,6 @@ Birds in Norfolk, Suffolk and parts of Essex cannot be outside from Wednesday, a
  - [https://www.bbc.co.uk/news/uk-scotland-63035210?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63035210?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 13:07:41+00:00
- - tags: None
 
 Tobin was serving three life terms for the murders of Angelika Kluk, Vicky Hamilton and Dinah McNicol.
 
@@ -268,7 +235,6 @@ Tobin was serving three life terms for the murders of Angelika Kluk, Vicky Hamil
  - [https://www.bbc.co.uk/sport/av/football/63185136?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63185136?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 12:48:09+00:00
- - tags: None
 
 Football Focus pundits Martin Keown and Nedum Onuoha preview Sunday's Premier League game between high-flying Arsenal and visitors Liverpool.
 
@@ -276,7 +242,6 @@ Football Focus pundits Martin Keown and Nedum Onuoha preview Sunday's Premier Le
  - [https://www.bbc.co.uk/sport/formula1/63183725?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63183725?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 12:14:12+00:00
- - tags: None
 
 Max Verstappen is "taking it day by day" in his quest for a second F1 title, and Sunday could well be the time he can stop counting, writes Andrew Benson.
 
@@ -284,7 +249,6 @@ Max Verstappen is "taking it day by day" in his quest for a second F1 title, and
  - [https://www.bbc.co.uk/news/uk-scotland-highlands-islands-63184780?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-63184780?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 11:33:32+00:00
- - tags: None
 
 The loss of the Sphinx snow patch is a sign of climate change, says expert Iain Cameron.
 
@@ -292,7 +256,6 @@ The loss of the Sphinx snow patch is a sign of climate change, says expert Iain 
  - [https://www.bbc.co.uk/news/uk-england-merseyside-63185072?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-63185072?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 11:28:30+00:00
- - tags: None
 
 Organisers pledge to reflect "what Ukraine and its people deserve" as they host the 2023 contest.
 
@@ -300,7 +263,6 @@ Organisers pledge to reflect "what Ukraine and its people deserve" as they host 
  - [https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-63185116?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-63185116?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 11:07:44+00:00
- - tags: None
 
 Haji Choudhary Rab Nawaz, 52, died after police were called to a fight on 2 October.
 
@@ -308,7 +270,6 @@ Haji Choudhary Rab Nawaz, 52, died after police were called to a fight on 2 Octo
  - [https://www.bbc.co.uk/sport/av/rugby-union/63185461?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-union/63185461?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 10:53:52+00:00
- - tags: None
 
 Watch highlights as England dominate against debutants Fiji by scoring 14 tries to win 84-19 in the Rugby World Cup in New Zealand.
 
@@ -316,7 +277,6 @@ Watch highlights as England dominate against debutants Fiji by scoring 14 tries 
  - [https://www.bbc.co.uk/news/uk-scotland-scotland-politics-63184781?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-63184781?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 10:51:40+00:00
- - tags: None
 
 The SNP's deputy leader started the event by calling the PM a "symptom of dysfunction at Westminster".
 
@@ -324,7 +284,6 @@ The SNP's deputy leader started the event by calling the PM a "symptom of dysfun
  - [https://www.bbc.co.uk/news/uk-63183946?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63183946?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 10:21:40+00:00
- - tags: None
 
 A government limit on electricity generated in older renewable and nuclear facilities is expected this week.
 
@@ -332,7 +291,6 @@ A government limit on electricity generated in older renewable and nuclear facil
  - [https://www.bbc.co.uk/sport/av/football/63185134?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63185134?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 10:21:01+00:00
- - tags: None
 
 Football Focus tells the story of Jack Leslie, who joined Plymouth Argyle in the 1920s, and is now recognised as the first black player to be picked for England.
 
@@ -340,7 +298,6 @@ Football Focus tells the story of Jack Leslie, who joined Plymouth Argyle in the
  - [https://www.bbc.co.uk/news/world-europe-63183409?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63183409?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 10:00:37+00:00
- - tags: None
 
 The sight of the crippled bridge is a morale boost - but fear remains, writes the BBC's Paul Adams.
 
@@ -348,7 +305,6 @@ The sight of the crippled bridge is a morale boost - but fear remains, writes th
  - [https://www.bbc.co.uk/news/uk-england-norfolk-63177399?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-norfolk-63177399?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 09:49:41+00:00
- - tags: None
 
 A store's owners say the £5,000 donation will have a "huge impact" on its ability to survive.
 
@@ -356,7 +312,6 @@ A store's owners say the £5,000 donation will have a "huge impact" on its abili
  - [https://www.bbc.co.uk/sport/rugby-union/63183522?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63183522?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 09:49:29+00:00
- - tags: None
 
 England may have lost track of the records they have broken, but they are firm favourites after the World Cup's opening day.
 
@@ -364,7 +319,6 @@ England may have lost track of the records they have broken, but they are firm f
  - [https://www.bbc.co.uk/sport/rugby-union/63183543?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63183543?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 08:29:15+00:00
- - tags: None
 
 New Zealand fight back to beat Australia as they begin their World Cup title defence with victory in front of a record crowd at Eden Park.
 
@@ -372,7 +326,6 @@ New Zealand fight back to beat Australia as they begin their World Cup title def
  - [https://www.bbc.co.uk/news/world-europe-63183510?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63183510?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 07:27:36+00:00
- - tags: None
 
 Emergency services worked throughout Friday night, with a number of people still missing.
 
@@ -380,7 +333,6 @@ Emergency services worked throughout Friday night, with a number of people still
  - [https://www.bbc.co.uk/sport/cricket/63134680?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63134680?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 07:22:46+00:00
- - tags: None
 
 England captain Jos Buttler says he is "100% fit" to return after almost two months out with a calf injury.
 
@@ -388,7 +340,6 @@ England captain Jos Buttler says he is "100% fit" to return after almost two mon
  - [https://www.bbc.co.uk/sport/formula1/63183575?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63183575?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 07:11:09+00:00
- - tags: None
 
 Max Verstappen is in the perfect position to clinch a second world title at the Japanese Grand Prix on Sunday by grabbing pole at Suzuka.
 
@@ -396,7 +347,6 @@ Max Verstappen is in the perfect position to clinch a second world title at the 
  - [https://www.bbc.co.uk/news/uk-england-lincolnshire-63170828?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-lincolnshire-63170828?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 07:09:09+00:00
- - tags: None
 
 Police dog Orbit sniffs out a suspected drink-driver who crashed her car for more than 500m.
 
@@ -404,7 +354,6 @@ Police dog Orbit sniffs out a suspected drink-driver who crashed her car for mor
  - [https://www.bbc.co.uk/sport/american-football/63183497?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/american-football/63183497?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 06:57:05+00:00
- - tags: None
 
 The NFL Players Association calls on the league to make concussion rule changes before Sunday's round of games.
 
@@ -412,7 +361,6 @@ The NFL Players Association calls on the league to make concussion rule changes 
  - [https://www.bbc.co.uk/news/entertainment-arts-63183478?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63183478?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 06:41:03+00:00
- - tags: None
 
 The contest is coming to the UK for the first time in 25 years after Ukraine was unable to host because of the war.
 
@@ -420,7 +368,6 @@ The contest is coming to the UK for the first time in 25 years after Ukraine was
  - [https://www.bbc.co.uk/sport/football/63181185?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63181185?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 06:31:50+00:00
- - tags: None
 
 England's victory over the United States shows they could be the team to beat at next summer's World Cup.
 
@@ -428,7 +375,6 @@ England's victory over the United States shows they could be the team to beat at
  - [https://www.bbc.co.uk/news/uk-wales-63129511?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63129511?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 06:15:42+00:00
- - tags: None
 
 A woman says she is unable to cut back on heating due to her and her daughter's lung conditions.
 
@@ -436,7 +382,6 @@ A woman says she is unable to cut back on heating due to her and her daughter's 
  - [https://www.bbc.co.uk/news/world-europe-63183404?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63183404?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 06:11:45+00:00
- - tags: None
 
 Russian state media says a fuel tank is on fire on the bridge, without saying what caused it.
 
@@ -444,7 +389,6 @@ Russian state media says a fuel tank is on fire on the bridge, without saying wh
  - [https://www.bbc.co.uk/sport/rugby-union/63182961?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63182961?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 06:03:10+00:00
- - tags: None
 
 Favourites England open their World Cup with a dominant second-half showing to claim a record 14-try win against debutants Fiji.
 
@@ -452,7 +396,6 @@ Favourites England open their World Cup with a dominant second-half showing to c
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63178119?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63178119?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 05:54:47+00:00
- - tags: None
 
 Sir Jeffrey Donaldson is to address the DUP conference for the first time as party leader on Saturday.
 
@@ -460,7 +403,6 @@ Sir Jeffrey Donaldson is to address the DUP conference for the first time as par
  - [https://www.bbc.co.uk/sport/rugby-league/63181082?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63181082?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 05:47:29+00:00
- - tags: None
 
 Dominic Young is relatively unknown in England but by full-time on Friday in Salford, he was the name on everyone's lips.
 
@@ -468,7 +410,6 @@ Dominic Young is relatively unknown in England but by full-time on Friday in Sal
  - [https://www.bbc.co.uk/news/world-latin-america-63181481?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63181481?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 04:08:28+00:00
- - tags: None
 
 The US is considering a humanitarian corridor to allow urgent supplies to enter the country.
 
@@ -476,7 +417,6 @@ The US is considering a humanitarian corridor to allow urgent supplies to enter 
  - [https://www.bbc.co.uk/sport/formula1/63182831?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63182831?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 02:58:35+00:00
- - tags: None
 
 Pierre Gasly will join Esteban Ocon in an all-French line-up at Alpine from 2023 while Dutchman Nyck de Vries replaces him at Alpha Tauri.
 
@@ -484,7 +424,6 @@ Pierre Gasly will join Esteban Ocon in an all-French line-up at Alpine from 2023
  - [https://www.bbc.co.uk/news/business-63181575?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63181575?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 01:50:53+00:00
- - tags: None
 
 Rail passengers across Britain are urged to avoid travel on Saturday unless absolutely necessary.
 
@@ -492,7 +431,6 @@ Rail passengers across Britain are urged to avoid travel on Saturday unless abso
  - [https://www.bbc.co.uk/news/world-europe-63171679?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63171679?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 01:36:57+00:00
- - tags: None
 
 A quiet, charming, unassuming man - and arguably the most popular leader on Earth.
 
@@ -500,7 +438,6 @@ A quiet, charming, unassuming man - and arguably the most popular leader on Eart
  - [https://www.bbc.co.uk/news/world-europe-63181475?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63181475?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 00:53:06+00:00
- - tags: None
 
 A Ukrainian official said two sites were found near Lyman, with one estimated to hold 200 dead.
 
@@ -508,7 +445,6 @@ A Ukrainian official said two sites were found near Lyman, with one estimated to
  - [https://www.bbc.co.uk/news/uk-england-humber-63138016?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-humber-63138016?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 00:16:40+00:00
- - tags: None
 
 When your job is your way of life, the cost of living crisis bites doubly hard on livelihoods.
 
@@ -516,6 +452,5 @@ When your job is your way of life, the cost of living crisis bites doubly hard o
  - [https://www.bbc.co.uk/news/uk-politics-62999568?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-62999568?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-08 00:14:50+00:00
- - tags: None
 
 Worthing has voted Conservative for decades but an influx of urbanities has ruptured the status quo.

@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## The Winter of Discontent
  - [https://www.youtube.com/watch?v=jjH5hCJ96io](https://www.youtube.com/watch?v=jjH5hCJ96io)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-10-31 11:46:00+00:00
- - tags: None
 
 ⭐ Help support this documentary. Find out more:
 https://www.gofundme.com/f/the-winter-of-discontent-documentary

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Well, this is not what I expected a game called 'Priest Simulator' to look like
  - [https://www.pcgamer.com/well-this-is-not-what-i-expected-a-game-called-priest-simulator-to-look-like](https://www.pcgamer.com/well-this-is-not-what-i-expected-a-game-called-priest-simulator-to-look-like)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 23:34:46+00:00
- - tags: None
 
 What the hell?
 
@@ -12,7 +11,6 @@ What the hell?
  - [https://www.pcgamer.com/two-dota-2-celebs-have-built-the-best-autobattler-yet](https://www.pcgamer.com/two-dota-2-celebs-have-built-the-best-autobattler-yet)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 23:06:55+00:00
- - tags: None
 
 Auto chess is back.
 
@@ -20,7 +18,6 @@ Auto chess is back.
  - [https://www.pcgamer.com/lost-ark-servers-list-status-down](https://www.pcgamer.com/lost-ark-servers-list-status-down)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 23:00:40+00:00
- - tags: None
 
 Where will you make your home?
 
@@ -28,7 +25,6 @@ Where will you make your home?
  - [https://www.pcgamer.com/one-of-steams-most-wishlisted-city-builders-has-a-pretty-spectacular-demo](https://www.pcgamer.com/one-of-steams-most-wishlisted-city-builders-has-a-pretty-spectacular-demo)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 22:19:34+00:00
- - tags: None
 
 The demo of Manor Lords is limited in scope, but still has an impressive amount of detail and some interesting features.
 
@@ -36,7 +32,6 @@ The demo of Manor Lords is limited in scope, but still has an impressive amount 
  - [https://www.pcgamer.com/mario-teaches-typing-mascot-stars-in-new-movie-trailer](https://www.pcgamer.com/mario-teaches-typing-mascot-stars-in-new-movie-trailer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 21:41:28+00:00
- - tags: None
 
 The American Italian Anti-Defamation League can rest easy, Chris Pratt didn't do "the voice."
 
@@ -44,7 +39,6 @@ The American Italian Anti-Defamation League can rest easy, Chris Pratt didn't do
  - [https://www.pcgamer.com/blizzard-says-its-making-progress-with-overwatch-2s-server-woes](https://www.pcgamer.com/blizzard-says-its-making-progress-with-overwatch-2s-server-woes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 20:15:28+00:00
- - tags: None
 
 The developer is working to fix the persistent server problems.
 
@@ -52,7 +46,6 @@ The developer is working to fix the persistent server problems.
  - [https://www.pcgamer.com/best-minecraft-seeds](https://www.pcgamer.com/best-minecraft-seeds)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 20:12:58+00:00
- - tags: None
 
 The best Minecraft seeds for survival islands, villages, and cool new biomes at spawn.
 
@@ -60,7 +53,6 @@ The best Minecraft seeds for survival islands, villages, and cool new biomes at 
  - [https://www.pcgamer.com/how-the-team-fortress-2-community-brought-it-back-from-the-brink](https://www.pcgamer.com/how-the-team-fortress-2-community-brought-it-back-from-the-brink)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 19:48:18+00:00
- - tags: None
 
 The fan campaign that gave TF2 a new life.
 
@@ -68,7 +60,6 @@ The fan campaign that gave TF2 a new life.
  - [https://www.pcgamer.com/the-minecraft-mob-vote-isnt-even-open-yet-and-it-feels-like-theres-a-winner](https://www.pcgamer.com/the-minecraft-mob-vote-isnt-even-open-yet-and-it-feels-like-theres-a-winner)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 19:47:28+00:00
- - tags: None
 
 It feels a little like a no contest vote this year.
 
@@ -76,7 +67,6 @@ It feels a little like a no contest vote this year.
  - [https://www.pcgamer.com/dead-space-remake-will-be-native-on-steam-no-origin-client-required](https://www.pcgamer.com/dead-space-remake-will-be-native-on-steam-no-origin-client-required)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 19:40:38+00:00
- - tags: None
 
 It doesn't look like the decision is part of a bigger change of strategy at EA, though.
 
@@ -84,7 +74,6 @@ It doesn't look like the decision is part of a bigger change of strategy at EA, 
  - [https://www.pcgamer.com/the-steam-deck-and-docking-station-are-finally-available-without-reservation](https://www.pcgamer.com/the-steam-deck-and-docking-station-are-finally-available-without-reservation)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 19:21:07+00:00
- - tags: None
 
 Valve's official Steam Deck dock will cost you $89.
 
@@ -92,7 +81,6 @@ Valve's official Steam Deck dock will cost you $89.
  - [https://www.pcgamer.com/half-life-twin-stick-shooter-fan-game-gets-blessing-from-valve-and-a-steam-release](https://www.pcgamer.com/half-life-twin-stick-shooter-fan-game-gets-blessing-from-valve-and-a-steam-release)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 19:05:00+00:00
- - tags: None
 
 Codename: Loop could offer some intriguing possibilities for future Quake and Half-Life modders as well.
 
@@ -100,7 +88,6 @@ Codename: Loop could offer some intriguing possibilities for future Quake and Ha
  - [https://www.pcgamer.com/modern-warfare-2-launch-trailer-is-the-best-kind-of-cod-nonsense](https://www.pcgamer.com/modern-warfare-2-launch-trailer-is-the-best-kind-of-cod-nonsense)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 18:47:34+00:00
- - tags: None
 
 Three weeks before Modern Warfare 2 launches, here's the launch trailer.
 
@@ -108,7 +95,6 @@ Three weeks before Modern Warfare 2 launches, here's the launch trailer.
  - [https://www.pcgamer.com/disco-elysium-creators-fired-on-false-premises-claims-studio-zaum-founding-member](https://www.pcgamer.com/disco-elysium-creators-fired-on-false-premises-claims-studio-zaum-founding-member)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 17:59:59+00:00
- - tags: None
 
 Studio ZA/UM persists but much of the key talent behind its game its gone.
 
@@ -116,7 +102,6 @@ Studio ZA/UM persists but much of the key talent behind its game its gone.
  - [https://www.pcgamer.com/oops-cpu-coolers-recalled-for-not-cooling-cpus](https://www.pcgamer.com/oops-cpu-coolers-recalled-for-not-cooling-cpus)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 17:40:00+00:00
- - tags: None
 
 An issue with sediment build-up in some Fractal Design Lumen AIO Coolers is causing CPU temps to rise.
 
@@ -124,7 +109,6 @@ An issue with sediment build-up in some Fractal Design Lumen AIO Coolers is caus
  - [https://www.pcgamer.com/brazil-approves-microsofts-activision-blizzard-purchase-says-it-wont-defend-particular-interests-of-specific-competitors](https://www.pcgamer.com/brazil-approves-microsofts-activision-blizzard-purchase-says-it-wont-defend-particular-interests-of-specific-competitors)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 16:59:35+00:00
- - tags: None
 
 Brazil's economic defence council says it exists to defend the market, not specific companies.
 
@@ -132,7 +116,6 @@ Brazil's economic defence council says it exists to defend the market, not speci
  - [https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 16:31:26+00:00
- - tags: None
 
 Prime Early Access is on the way. Here are the laptop deals we've spotted so far.
 
@@ -140,7 +123,6 @@ Prime Early Access is on the way. Here are the laptop deals we've spotted so far
  - [https://www.pcgamer.com/this-is-one-of-the-coolest-tabletop-gaming-setups-ive-ever-seen](https://www.pcgamer.com/this-is-one-of-the-coolest-tabletop-gaming-setups-ive-ever-seen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 16:17:15+00:00
- - tags: None
 
 My DIY dining table adventures look pretty tragic now.
 
@@ -148,7 +130,6 @@ My DIY dining table adventures look pretty tragic now.
  - [https://www.pcgamer.com/need-for-speed-unbound-promises-to-blend-highly-realistic-cars-with-the-freshest-street-art](https://www.pcgamer.com/need-for-speed-unbound-promises-to-blend-highly-realistic-cars-with-the-freshest-street-art)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 15:38:47+00:00
- - tags: None
 
 The next Need for Speed aims to clearly distinguish itself from conventionally realistic driving games.
 
@@ -156,7 +137,6 @@ The next Need for Speed aims to clearly distinguish itself from conventionally r
  - [https://www.pcgamer.com/cyberpunk-2077-sandevistan-os-best](https://www.pcgamer.com/cyberpunk-2077-sandevistan-os-best)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 15:35:13+00:00
- - tags: None
 
 Kit yourself out with some shiny new chrome.
 
@@ -164,7 +144,6 @@ Kit yourself out with some shiny new chrome.
  - [https://www.pcgamer.com/russian-government-collides-with-reality-rejects-plans-to-fund-a-national-game-engine](https://www.pcgamer.com/russian-government-collides-with-reality-rejects-plans-to-fund-a-national-game-engine)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 14:28:21+00:00
- - tags: None
 
 But a mysterious private investor has stepped in to keep the project alive.
 
@@ -172,7 +151,6 @@ But a mysterious private investor has stepped in to keep the project alive.
  - [https://www.pcgamer.com/dead-cells-adds-a-ludicrously-tough-boss-rush-mode-for-the-lulz](https://www.pcgamer.com/dead-cells-adds-a-ludicrously-tough-boss-rush-mode-for-the-lulz)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 13:53:51+00:00
- - tags: None
 
 Developer Motion Twin won't stop improving its roguelike hit.
 
@@ -180,7 +158,6 @@ Developer Motion Twin won't stop improving its roguelike hit.
  - [https://www.pcgamer.com/tub-geralt-immortalised-as-a-cake-disaster-in-netflixs-best-baking-show](https://www.pcgamer.com/tub-geralt-immortalised-as-a-cake-disaster-in-netflixs-best-baking-show)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 12:15:00+00:00
- - tags: None
 
 For the first time ever, Geralt doesn't look tasty.
 
@@ -188,7 +165,6 @@ For the first time ever, Geralt doesn't look tasty.
  - [https://www.pcgamer.com/rimworlds-biggest-ever-expansion-brings-mech-armies-gene-splicing-and-bouncing-babies](https://www.pcgamer.com/rimworlds-biggest-ever-expansion-brings-mech-armies-gene-splicing-and-bouncing-babies)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 12:14:14+00:00
- - tags: None
 
 The Biotech expansion is live for opt-in play now, and will be officially released in a few weeks.
 
@@ -196,7 +172,6 @@ The Biotech expansion is live for opt-in play now, and will be officially releas
  - [https://www.pcgamer.com/mount-and-blade-2-bannerlord-companions-best-how-to-equip](https://www.pcgamer.com/mount-and-blade-2-bannerlord-companions-best-how-to-equip)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 12:03:41+00:00
- - tags: None
 
 A guide to hiring the best of the best in the medieval continent of Calradia.
 
@@ -204,7 +179,6 @@ A guide to hiring the best of the best in the medieval continent of Calradia.
  - [https://www.pcgamer.com/nanoleaf-smarter-essentials-bulb-lightstrip-review](https://www.pcgamer.com/nanoleaf-smarter-essentials-bulb-lightstrip-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 11:29:39+00:00
- - tags: None
 
 A complete aurora experience with minimal fuss and maximum brightness.
 
@@ -212,7 +186,6 @@ A complete aurora experience with minimal fuss and maximum brightness.
  - [https://www.pcgamer.com/the-new-humble-bundle-contains-400-hours-of-the-best-rpgs-ever-made-for-dollar20](https://www.pcgamer.com/the-new-humble-bundle-contains-400-hours-of-the-best-rpgs-ever-made-for-dollar20)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 11:02:51+00:00
- - tags: None
 
 A bargain at twice the price, an epic at half the length.
 
@@ -220,7 +193,6 @@ A bargain at twice the price, an epic at half the length.
  - [https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard](https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 10:28:38+00:00
- - tags: None
 
 "I don't like thermal paste, it's sticky and gooey and slimy, and it gets everywhere."
 
@@ -228,7 +200,6 @@ A bargain at twice the price, an epic at half the length.
  - [https://www.pcgamer.com/players-arent-thrilled-that-magic-the-gathering-30th-anniversary-edition-costs-dollar1000](https://www.pcgamer.com/players-arent-thrilled-that-magic-the-gathering-30th-anniversary-edition-costs-dollar1000)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 10:15:54+00:00
- - tags: None
 
 In shocking news, a luxury collectible product has been given an expensive price tag.
 
@@ -236,7 +207,6 @@ In shocking news, a luxury collectible product has been given an expensive price
  - [https://www.pcgamer.com/todays-wordle-474-answer-hint](https://www.pcgamer.com/todays-wordle-474-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Thursday's puzzle.
 
@@ -244,6 +214,5 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - [https://www.pcgamer.com/3dmark-releases-xess-benchmark-update](https://www.pcgamer.com/3dmark-releases-xess-benchmark-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-06 06:52:27+00:00
- - tags: None
 
 Now you can test XeSS on not just Intel's Arc GPUs, but those from AMD and Nvidia too.

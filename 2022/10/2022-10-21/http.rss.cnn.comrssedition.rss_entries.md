@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Singapore's pre-execution photos seek to soften a policy activists say doesn't work
  - [https://www.cnn.com/2022/10/21/asia/singapore-executions-death-penalty-drug-trafficking-intl-hnk/index.html](https://www.cnn.com/2022/10/21/asia/singapore-executions-death-penalty-drug-trafficking-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 23:36:14+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.cnn.com/videos/us/2022/10/21/missing-native-americans-new-mexico-lead-campbell-pkg-contd-vpx.cnn](https://www.cnn.com/videos/us/2022/10/21/missing-native-americans-new-mexico-lead-campbell-pkg-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 23:33:32+00:00
- - tags: None
 
 With 200 known missing cases of Native Americans in New Mexico, the FBI and the Navajo Police have made a master database of the missing victims, connecting their faces with the public. Prior to the database, law enforcement didn't have a firm grasp of the number of Native Americans actually missing. CNN's Josh Campbell has the story.
 
@@ -20,7 +18,6 @@ With 200 known missing cases of Native Americans in New Mexico, the FBI and the 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_1fabbb6b8096aff24ce119f6ce110091](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_1fabbb6b8096aff24ce119f6ce110091)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 23:04:12.376486+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ With 200 known missing cases of Native Americans in New Mexico, the FBI and the 
  - [https://www.cnn.com/videos/world/2022/10/21/ukraine-secret-drone-workshop-russia-war-pleitgen-pkg-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/21/ukraine-secret-drone-workshop-russia-war-pleitgen-pkg-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 22:33:21+00:00
- - tags: None
 
 CNN correspondent Fred Pleitgen gets access to a secret Ukrainian military drone workshop that could be leveling the playing field in the war with Russia.
 
@@ -36,7 +32,6 @@ CNN correspondent Fred Pleitgen gets access to a secret Ukrainian military drone
  - [https://www.cnn.com/videos/politics/2022/10/21/wapo-trump-mar-a-lago-sensitive-documents-fbi-barrett-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/21/wapo-trump-mar-a-lago-sensitive-documents-fbi-barrett-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 20:17:28+00:00
- - tags: None
 
 Documents containing highly sensitive intelligence about Iran and China were among those recovered by the FBI from former President Donald Trump's Mar-a-Lago estate. CNN talks to Devlin Barrett, one of the Washington Post reporters that broke the story.
 
@@ -44,7 +39,6 @@ Documents containing highly sensitive intelligence about Iran and China were amo
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22#h_1fabbb6b8096aff24ce119f6ce110091](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22#h_1fabbb6b8096aff24ce119f6ce110091)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 20:04:13.276156+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Documents containing highly sensitive intelligence about Iran and China were amo
  - [https://www.cnn.com/2022/10/21/business/balenciaga-kanye-west/index.html](https://www.cnn.com/2022/10/21/business/balenciaga-kanye-west/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 19:44:10+00:00
- - tags: None
 
 Fashion powerhouse Balenciaga has officially severed ties with Kanye West following a series of antisemitic posts and other controversial comments from the rapper, according to a report from Women's Wear Daily citing a statement from Balenciaga's parent company.
 
@@ -60,7 +53,6 @@ Fashion powerhouse Balenciaga has officially severed ties with Kanye West follow
  - [https://www.cnn.com/2022/10/21/health/halloween-candy-diet-culture-parenting-wellness/index.html](https://www.cnn.com/2022/10/21/health/halloween-candy-diet-culture-parenting-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 19:20:50+00:00
- - tags: None
 
 Limiting your child's candy this Halloween might be more of a trick than a treat, experts say.
 
@@ -68,7 +60,6 @@ Limiting your child's candy this Halloween might be more of a trick than a treat
  - [https://www.cnn.com/videos/business/2022/10/21/pan-solo-one-house-bakery-cprog-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/10/21/pan-solo-one-house-bakery-cprog-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 19:15:05+00:00
- - tags: None
 
 A family bakery in California, One House Bakery, made a life-sized Han Solo sculpture from bread for a local contest. Affectionately called "Pan Solo", the sculpture has already won the hearts of "Star Wars" fans near and far.
 
@@ -76,7 +67,6 @@ A family bakery in California, One House Bakery, made a life-sized Han Solo scul
  - [https://www.cnn.com/collections/videos-of-the-week-102122/](https://www.cnn.com/collections/videos-of-the-week-102122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 19:12:28+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ A family bakery in California, One House Bakery, made a life-sized Han Solo scul
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_100e3b3af6cefb52c13b16a828768945](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_100e3b3af6cefb52c13b16a828768945)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 19:04:13.024934+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ A family bakery in California, One House Bakery, made a life-sized Han Solo scul
  - [https://www.cnn.com/2022/10/21/politics/january-6-committee-subpoena-donald-trump/index.html](https://www.cnn.com/2022/10/21/politics/january-6-committee-subpoena-donald-trump/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 18:04:23+00:00
- - tags: None
 
 • WaPo: Some Mar-a-Lago docs contained sensitive info about Iran and China
 • Trump claims 15 records taken from Mar-a-Lago, including clemency requests, are his
@@ -101,7 +89,6 @@ A family bakery in California, One House Bakery, made a life-sized Han Solo scul
  - [https://edition.cnn.com/politics/live-news/steve-bannon-sentencing-10-20-22/index.html](https://edition.cnn.com/politics/live-news/steve-bannon-sentencing-10-20-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 18:04:12.227654+00:00
- - tags: None
 
 • Analysis: Bannon gets what he always wanted
 
@@ -109,7 +96,6 @@ A family bakery in California, One House Bakery, made a life-sized Han Solo scul
  - [https://www.cnn.com/collections/trump-intl-102122/](https://www.cnn.com/collections/trump-intl-102122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 17:55:52+00:00
- - tags: None
 
 
 
@@ -117,7 +103,6 @@ A family bakery in California, One House Bakery, made a life-sized Han Solo scul
  - [https://www.cnn.com/videos/entertainment/2022/10/21/meghan-trainor-all-about-that-bass-wtcw-cprog-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/10/21/meghan-trainor-all-about-that-bass-wtcw-cprog-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 17:53:46+00:00
- - tags: None
 
 Pop star Meghan Trainor discusses her hit song "All About That Bass" and how it changed her life. Watch her interview with Chris Wallace October 23 at 7pm ET on CNN or anytime on HBO Max.
 
@@ -125,7 +110,6 @@ Pop star Meghan Trainor discusses her hit song "All About That Bass" and how it 
  - [https://www.cnn.com/videos/world/2022/10/21/giant-dome-collapses-fire-indonesia-mosque-contd-orig-na-aw.cnn](https://www.cnn.com/videos/world/2022/10/21/giant-dome-collapses-fire-indonesia-mosque-contd-orig-na-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 17:43:30+00:00
- - tags: None
 
 The dome of the historic mosque at Indonesia's Jakarta Islamic Center collapsed after a fire broke out during a renovation.
 
@@ -133,7 +117,6 @@ The dome of the historic mosque at Indonesia's Jakarta Islamic Center collapsed 
  - [https://www.cnn.com/2022/10/21/politics/wapo-mar-a-lago-iran-china-secrets/index.html](https://www.cnn.com/2022/10/21/politics/wapo-mar-a-lago-iran-china-secrets/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 17:42:26+00:00
- - tags: None
 
 Documents containing highly sensitive intelligence about Iran and China were among those recovered by the FBI from former President Donald Trump's Mar-a-Lago estate, The Washington Post reported on Friday.
 
@@ -141,7 +124,6 @@ Documents containing highly sensitive intelligence about Iran and China were amo
  - [https://www.cnn.com/style/article/iraq-archaeology-excavation-isis-intl-scli/index.html](https://www.cnn.com/style/article/iraq-archaeology-excavation-isis-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 16:41:42+00:00
- - tags: None
 
 Archaeologists in northern Iraq have uncovered some extraordinary Assyrian rock carvings dating back around 2,700 years.
 
@@ -149,7 +131,6 @@ Archaeologists in northern Iraq have uncovered some extraordinary Assyrian rock 
  - [https://www.cnn.com/2022/10/21/politics/trump-mar-a-lago-documents-personal-property/index.html](https://www.cnn.com/2022/10/21/politics/trump-mar-a-lago-documents-personal-property/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 16:25:25+00:00
- - tags: None
 
 Former President Donald Trump is claiming that records, such as clemency requests, that were kept at Mar-a-Lago are his personal property and shouldn't be handed back to the federal government, the Justice Department said in a court filing late Thursday.
 
@@ -157,7 +138,6 @@ Former President Donald Trump is claiming that records, such as clemency request
  - [https://www.cnn.com/2022/10/21/europe/giorgia-meloni-italy-first-female-prime-minister-intl/index.html](https://www.cnn.com/2022/10/21/europe/giorgia-meloni-italy-first-female-prime-minister-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 16:21:17+00:00
- - tags: None
 
 Populist firebrand Giorgia Meloni has been named as Italy's first female prime minister, becoming the country's most far-right leader since Benito Mussolini.
 
@@ -165,7 +145,6 @@ Populist firebrand Giorgia Meloni has been named as Italy's first female prime m
  - [https://www.cnn.com/2022/10/21/media/liz-truss-bbc-video-troll/index.html](https://www.cnn.com/2022/10/21/media/liz-truss-bbc-video-troll/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 16:07:39+00:00
- - tags: None
 
 The BBC has taken a swipe at outgoing UK Prime Minister Liz Truss — with a little help from Rihanna.
 
@@ -173,7 +152,6 @@ The BBC has taken a swipe at outgoing UK Prime Minister Liz Truss — with a lit
  - [https://www.cnn.com/2022/10/21/politics/white-house-musk-starlink-iran-protests-ukraine/index.html](https://www.cnn.com/2022/10/21/politics/white-house-musk-starlink-iran-protests-ukraine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 16:00:05+00:00
- - tags: None
 
 The White House has engaged in talks with Elon Musk about the possibility of setting up SpaceX's satellite internet service Starlink inside Iran, multiple officials familiar with the discussions told CNN.
 
@@ -181,7 +159,6 @@ The White House has engaged in talks with Elon Musk about the possibility of set
  - [https://www.cnn.com/2022/10/21/politics/sonia-sotomayor-roosevelt-university/index.html](https://www.cnn.com/2022/10/21/politics/sonia-sotomayor-roosevelt-university/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 15:47:39+00:00
- - tags: None
 
 Supreme Court Justice Sonia Sotomayor on Thursday said having four women on the Supreme Court -- the first time the high court has had so many female justices -- has had an impact on the "quality of the conversation."
 
@@ -189,7 +166,6 @@ Supreme Court Justice Sonia Sotomayor on Thursday said having four women on the 
  - [https://www.cnn.com/2022/10/21/health/how-to-strengthen-intuition-wellness/index.html](https://www.cnn.com/2022/10/21/health/how-to-strengthen-intuition-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 15:25:11+00:00
- - tags: None
 
 Many high performers across sports, business and the arts will tell you they swear by their intuitive sense. It allows them to make decisions, often in a split second, without overthinking and missing opportunities.
 
@@ -197,7 +173,6 @@ Many high performers across sports, business and the arts will tell you they swe
  - [https://www.cnn.com/2022/10/21/politics/raphael-warnock-herschel-walker-abortion-allegation-ad/index.html](https://www.cnn.com/2022/10/21/politics/raphael-warnock-herschel-walker-abortion-allegation-ad/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 15:21:03+00:00
- - tags: None
 
 After largely avoiding the abortion controversy surrounding Republican opponent Herschel Walker, Georgia Democratic Sen. Raphael Warnock is going right at the issue in a new TV ad.
 
@@ -205,7 +180,6 @@ After largely avoiding the abortion controversy surrounding Republican opponent 
  - [https://www.cnn.com/travel/article/aerolineas-argentinas-turbulence-transatlantic/index.html](https://www.cnn.com/travel/article/aerolineas-argentinas-turbulence-transatlantic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 15:09:06+00:00
- - tags: None
 
 A "nightmare" transatlantic flight hit such violent turbulence that it left at least 12 people injured with passengers recounting how they were smashed into the plane's ceiling and thrown to the floor.
 
@@ -213,7 +187,6 @@ A "nightmare" transatlantic flight hit such violent turbulence that it left at l
  - [https://www.cnn.com/2022/10/21/tech/twitter-stock-musk-deal/index.html](https://www.cnn.com/2022/10/21/tech/twitter-stock-musk-deal/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 15:02:23+00:00
- - tags: None
 
 Shares of Twitter dropped as much as 8% in pre-market trading Friday as investors braced for some last-minute uncertainty around Elon Musk's $44 billion deal to buy the company.
 
@@ -221,7 +194,6 @@ Shares of Twitter dropped as much as 8% in pre-market trading Friday as investor
  - [https://www.cnn.com/2022/10/21/entertainment/lana-del-rey-new-album-stolen-laptop/index.html](https://www.cnn.com/2022/10/21/entertainment/lana-del-rey-new-album-stolen-laptop/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 14:44:10+00:00
- - tags: None
 
 Lana Del Rey says she was robbed of a backpack that contained her laptop, which had her new album on it.
 
@@ -229,7 +201,6 @@ Lana Del Rey says she was robbed of a backpack that contained her laptop, which 
  - [https://www.cnn.com/2022/10/21/tennis/simona-halep-doping-provisionally-suspended-spt-intl/index.html](https://www.cnn.com/2022/10/21/tennis/simona-halep-doping-provisionally-suspended-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 14:40:59+00:00
- - tags: None
 
 Former world No.1 Simona Halep has been provisionally suspended from tennis after testing positive for a prohibited substance at this year's US Open.
 
@@ -237,7 +208,6 @@ Former world No.1 Simona Halep has been provisionally suspended from tennis afte
  - [https://www.cnn.com/videos/media/2022/10/21/trevor-noah-liz-truss-resignation-lon-orig-na.cnn-business](https://www.cnn.com/videos/media/2022/10/21/trevor-noah-liz-truss-resignation-lon-orig-na.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 14:33:12+00:00
- - tags: None
 
 The "Daily Show" host poked fun at UK Prime Minister Liz Truss' resignation after just six weeks in office.
 
@@ -245,7 +215,6 @@ The "Daily Show" host poked fun at UK Prime Minister Liz Truss' resignation afte
  - [https://www.cnn.com/2022/10/21/uk/royal-news-newsletter-10-21-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/10/21/uk/royal-news-newsletter-10-21-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 14:31:56+00:00
- - tags: None
 
 For a series that was technically never announced, there's an awful lot of chatter surrounding the Duke and Duchess of Sussex's forthcoming documentary.
 
@@ -253,7 +222,6 @@ For a series that was technically never announced, there's an awful lot of chatt
  - [https://www.cnn.com/videos/politics/2022/10/21/trump-woodward-cillizza-the-point-orig-jm.cnn](https://www.cnn.com/videos/politics/2022/10/21/trump-woodward-cillizza-the-point-orig-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 14:03:35+00:00
- - tags: None
 
 Journalist Bob Woodward is releasing an audiobook featuring interviews he conducted with Donald Trump from 2016-2020. In today's episode of The Point, CNN's Chris Cillizza explains what one conversation about North Korean leader Kim Jong Un reveals about the former President.
 
@@ -261,7 +229,6 @@ Journalist Bob Woodward is releasing an audiobook featuring interviews he conduc
  - [https://www.cnn.com/videos/world/2022/10/21/ukraine-russia-belarus-military-northern-front-war-newday-vpx.cnn](https://www.cnn.com/videos/world/2022/10/21/ukraine-russia-belarus-military-northern-front-war-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:55:30+00:00
- - tags: None
 
 Ukrainian military officials say they fear Russia could open a northern front in the war in Ukraine from Belarus. Ret. Major Mike Lyons explains how this could happen.
 
@@ -269,7 +236,6 @@ Ukrainian military officials say they fear Russia could open a northern front in
  - [https://www.cnn.com/2022/10/21/entertainment/black-adam-characters-cec/index.html](https://www.cnn.com/2022/10/21/entertainment/black-adam-characters-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:34:03+00:00
- - tags: None
 
 Just when you thought you finally committed most of the names of the ever-growing Suicide Squad to memory, DC goes and casts a new crew of antiheroes in "Black Adam," its latest bid for box office domination.
 
@@ -277,7 +243,6 @@ Just when you thought you finally committed most of the names of the ever-growin
  - [https://www.cnn.com/2022/10/21/business/liz-truss-prime-minister-uk-economy/index.html](https://www.cnn.com/2022/10/21/business/liz-truss-prime-minister-uk-economy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:12:13+00:00
- - tags: None
 
 The spectacle surrounding Liz Truss, who on Thursday secured her fate as the shortest-serving prime minister in UK history, has quickly given way to a frenetic race to determine who will replace her. Will it be former finance minister and her recent opponent, Rishi Sunak? Or predecessor Boris Johnson, who could engineer a stunning comeback?
 
@@ -285,7 +250,6 @@ The spectacle surrounding Liz Truss, who on Thursday secured her fate as the sho
  - [https://www.cnn.com/2022/10/21/tech/artists-ai-images/index.html](https://www.cnn.com/2022/10/21/tech/artists-ai-images/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:06:54+00:00
- - tags: None
 
 Erin Hanson has spent years developing the vibrant color palette and chunky brushstrokes that define the vivid oil paintings for which she is known. But during a recent interview with her, I showed Hanson my attempts to recreate her style with just a few keystrokes.
 
@@ -293,7 +257,6 @@ Erin Hanson has spent years developing the vibrant color palette and chunky brus
  - [https://www.cnn.com/2022/10/21/entertainment/james-corden-restaurant-ban/index.html](https://www.cnn.com/2022/10/21/entertainment/james-corden-restaurant-ban/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:06:19+00:00
- - tags: None
 
 When it comes to all that drama surrounding being temporarily banned from a famous New York City restaurant, James Corden finds it all "so silly."
 
@@ -301,7 +264,6 @@ When it comes to all that drama surrounding being temporarily banned from a famo
  - [https://edition.cnn.com/webview/politics/live-news/steve-bannon-sentencing-10-20-22/index.html](https://edition.cnn.com/webview/politics/live-news/steve-bannon-sentencing-10-20-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:04:09.323629+00:00
- - tags: None
 
 
 
@@ -309,7 +271,6 @@ When it comes to all that drama surrounding being temporarily banned from a famo
  - [https://www.cnn.com/2022/10/21/entertainment/watcher-netflix-residents/index.html](https://www.cnn.com/2022/10/21/entertainment/watcher-netflix-residents/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 13:01:21+00:00
- - tags: None
 
 Netflix's limited series "The Watcher" has people flocking to the neighborhood to see the real home and some residents are not happy about it.
 
@@ -317,7 +278,6 @@ Netflix's limited series "The Watcher" has people flocking to the neighborhood t
  - [https://www.cnn.com/2022/10/21/entertainment/ticket-to-paradise-review/index.html](https://www.cnn.com/2022/10/21/entertainment/ticket-to-paradise-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:56:11+00:00
- - tags: None
 
 Think of "Ticket to Paradise" like a postcard of beautiful people having fun in a beautiful place and you'll get along just fine. Giving it much more thought than that won't help this rom-com vehicle for George Clooney and Julia Roberts, although the "com" part proves a trifle deficient in a movie that's significantly better when it's sweet than salty.
 
@@ -325,7 +285,6 @@ Think of "Ticket to Paradise" like a postcard of beautiful people having fun in 
  - [https://www.cnn.com/2022/10/21/uk/liz-truss-resignation-allowance-intl-gbr/index.html](https://www.cnn.com/2022/10/21/uk/liz-truss-resignation-allowance-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:30:52+00:00
- - tags: None
 
 • Analysis: Can Boris Johnson really return as Britain's leader?
 • Candidates who could be UK's next leader
@@ -335,7 +294,6 @@ Think of "Ticket to Paradise" like a postcard of beautiful people having fun in 
  - [https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html](https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:30:37+00:00
- - tags: None
 
 Facebook and TikTok failed to block advertisements with "blatant" misinformation about when and how to vote in the US midterms, as well as about the integrity of the voting process, according to a new report from human rights watchdog Global Witness and the Cybersecurity for Democracy Team (C4D) at New York University.
 
@@ -343,7 +301,6 @@ Facebook and TikTok failed to block advertisements with "blatant" misinformation
  - [https://www.cnn.com/2022/10/21/entertainment/taylor-swift-midnights-reviews-intl-scli/index.html](https://www.cnn.com/2022/10/21/entertainment/taylor-swift-midnights-reviews-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:26:24+00:00
- - tags: None
 
 Taylor Swift is endorsing late nights with her first original album in two years.
 
@@ -351,7 +308,6 @@ Taylor Swift is endorsing late nights with her first original album in two years
  - [https://www.cnn.com/videos/business/2022/10/18/donie-osullivan-hacked-defcon-contd-orig-gr-jm.cnn](https://www.cnn.com/videos/business/2022/10/18/donie-osullivan-hacked-defcon-contd-orig-gr-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:19:36+00:00
- - tags: None
 
 Three years after being challenged to hack CNN's Donie O'Sullivan's personal data, Cyber security expert Rachel Tobac demonstrates how vulnerable his online passwords continue to be.
 
@@ -359,7 +315,6 @@ Three years after being challenged to hack CNN's Donie O'Sullivan's personal dat
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:04:04.738160+00:00
- - tags: None
 
 • Italy's Berlusconi boasts about friendship with Putin in leaked audio
 
@@ -367,7 +322,6 @@ Three years after being challenged to hack CNN's Donie O'Sullivan's personal dat
  - [https://www.cnn.com/2022/10/21/politics/state-abortion-laws-human-rights-castro-jacobs/index.html](https://www.cnn.com/2022/10/21/politics/state-abortion-laws-human-rights-castro-jacobs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:02:43+00:00
- - tags: None
 
 Two Democratic members of Congress are asking the State Department's top lawyer to remind state and local governments of their human rights commitments and to review how state laws pertaining to abortion access "comply with international human rights and treaty obligations," according to a letter reviewed by CNN.
 
@@ -375,7 +329,6 @@ Two Democratic members of Congress are asking the State Department's top lawyer 
  - [https://www.cnn.com/2022/10/21/uk/boris-johnson-return-possibility-intl-gbr-cmd/index.html](https://www.cnn.com/2022/10/21/uk/boris-johnson-return-possibility-intl-gbr-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 11:59:10+00:00
- - tags: None
 
 For those watching from outside the UK, it might seem bizarre that Boris Johnson is being tipped to return as prime minister, just months after he was forced to resign in disgrace following a string of scandals.
 
@@ -383,7 +336,6 @@ For those watching from outside the UK, it might seem bizarre that Boris Johnson
  - [https://www.cnn.com/2022/10/19/politics/iranian-drones-russia-ukraine/index.html](https://www.cnn.com/2022/10/19/politics/iranian-drones-russia-ukraine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 11:49:20+00:00
- - tags: None
 
 The United States has "abundant evidence" that Russia is using Iranian drones to strike Ukraine, State Department spokesperson Ned Price said Wednesday.
 
@@ -391,7 +343,6 @@ The United States has "abundant evidence" that Russia is using Iranian drones to
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22#h_a7497b63d18f3dd2b6c89073c1608484](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22#h_a7497b63d18f3dd2b6c89073c1608484)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 11:04:07.925989+00:00
- - tags: None
 
 
 
@@ -399,7 +350,6 @@ The United States has "abundant evidence" that Russia is using Iranian drones to
  - [https://www.cnn.com/2022/10/21/health/rsv-hospitals-what-to-know-wellness/index.html](https://www.cnn.com/2022/10/21/health/rsv-hospitals-what-to-know-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:44:35+00:00
- - tags: None
 
 When Amber Sizemore and her family went out of state to celebrate her birthday last week, she had hoped her toddler daughter, Raegan, would try swimming. But the 15-month-old, normally energetic and adventurous, wasn't herself on Saturday.
 
@@ -407,7 +357,6 @@ When Amber Sizemore and her family went out of state to celebrate her birthday l
  - [https://www.cnn.com/style/article/kaia-gerber-cindy-crawford-lotw/index.html](https://www.cnn.com/style/article/kaia-gerber-cindy-crawford-lotw/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:41:58+00:00
- - tags: None
 
 Over the weekend, model and actor Kaia Gerber attended Hollywood's 2nd Annual Academy Museum Gala in Los Angeles in a timeless, if not slightly subdued, Alaïa black mesh turtleneck top paired with a deep purple draped skirt. The look generated a lot of buzz online, with Twitter users pointing out the combination of Gerber's silky, bouncy blowout and soft, earth-toned glam -- complete with a pop of lilac eyeshadow -- brought about an uncanny resemblance to mother Cindy Crawford.
 
@@ -415,7 +364,6 @@ Over the weekend, model and actor Kaia Gerber attended Hollywood's 2nd Annual Ac
  - [https://www.cnn.com/2022/10/21/sport/cardinals-beat-saints-nfl-football-spt-intl/index.html](https://www.cnn.com/2022/10/21/sport/cardinals-beat-saints-nfl-football-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:38:10+00:00
- - tags: None
 
 A 64-second play turned the game on its head as the Arizona Cardinals beat the New Orleans Saints 42-34 in a thrilling Thursday Night Football clash.
 
@@ -423,7 +371,6 @@ A 64-second play turned the game on its head as the Arizona Cardinals beat the N
  - [https://www.cnn.com/2022/10/21/sport/tom-brady-apology-nfl-military-spt-intl/index.html](https://www.cnn.com/2022/10/21/sport/tom-brady-apology-nfl-military-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:34:31+00:00
- - tags: None
 
 Tom Brady has apologized for a "very poor choice of words" after he compared playing in the NFL to a military deployment.
 
@@ -431,7 +378,6 @@ Tom Brady has apologized for a "very poor choice of words" after he compared pla
  - [https://www.cnn.com/travel/article/mohammed-bin-rashid-library-dubai/index.html](https://www.cnn.com/travel/article/mohammed-bin-rashid-library-dubai/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:28:21+00:00
- - tags: None
 
 Dubai is known worldwide as a glitzy, glorious center of capitalist excess: Its ever-growing lineup of wonders includes towering skyscrapers, luxury hotels and glittering shopping malls.
 
@@ -439,7 +385,6 @@ Dubai is known worldwide as a glitzy, glorious center of capitalist excess: Its 
  - [https://www.cnn.com/2022/10/21/football/cristiano-ronaldo-manchester-united-dropped-spt-intl/index.html](https://www.cnn.com/2022/10/21/football/cristiano-ronaldo-manchester-united-dropped-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:27:25+00:00
- - tags: None
 
 Cristiano Ronaldo's second stint at Manchester United really isn't going to plan.
 
@@ -447,7 +392,6 @@ Cristiano Ronaldo's second stint at Manchester United really isn't going to plan
  - [https://www.cnn.com/2022/10/21/asia/imran-khan-pakistan-election-commission-disqualified-intl-hnk/index.html](https://www.cnn.com/2022/10/21/asia/imran-khan-pakistan-election-commission-disqualified-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:26:10+00:00
- - tags: None
 
 Pakistan's former Prime Minister Imran Khan will be disqualified from holding political office for five years, the Election Commission of Pakistan (ECP) recommended on Friday, a move likely to further inflame political tensions in the country.
 
@@ -455,7 +399,6 @@ Pakistan's former Prime Minister Imran Khan will be disqualified from holding po
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22#h_8c3209b8a04924a8534634c566d493eb](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-21-22#h_8c3209b8a04924a8534634c566d493eb)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:04:06.403145+00:00
- - tags: None
 
 • Italy's Berlusconi boasts about friendship with Putin in leaked audio
 
@@ -463,7 +406,6 @@ Pakistan's former Prime Minister Imran Khan will be disqualified from holding po
  - [https://www.cnn.com/2022/10/21/politics/trump-force-one-west-palm-beach/index.html](https://www.cnn.com/2022/10/21/politics/trump-force-one-west-palm-beach/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 10:00:08+00:00
- - tags: None
 
 Whether Donald Trump is prepared to take-off on another bid for the presidency remains up in the air, but his fabled Boeing 757 is definitely getting off the ground.
 
@@ -471,7 +413,6 @@ Whether Donald Trump is prepared to take-off on another bid for the presidency r
  - [https://www.cnn.com/2022/10/21/motorsport/max-verstappen-red-bull-formula-one-domination-spt-intl/index.html](https://www.cnn.com/2022/10/21/motorsport/max-verstappen-red-bull-formula-one-domination-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 09:01:59+00:00
- - tags: None
 
 For much of the 2022 Formula One season, Max Verstappen's inevitable march to a second consecutive world championship felt more like a procession than a competition.
 
@@ -479,7 +420,6 @@ For much of the 2022 Formula One season, Max Verstappen's inevitable march to a 
  - [https://www.cnn.com/2022/10/21/politics/steve-bannon-sentencing-contempt-congress/index.html](https://www.cnn.com/2022/10/21/politics/steve-bannon-sentencing-contempt-congress/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 09:00:31+00:00
- - tags: None
 
 Steve Bannon, the ex-adviser to former President Donald Trump, will be sentenced on Friday for his criminal contempt of Congress after defying of a subpoena from the House committee investigating the January 6, 2021, insurrection.
 
@@ -487,7 +427,6 @@ Steve Bannon, the ex-adviser to former President Donald Trump, will be sentenced
  - [https://www.cnn.com/2022/10/21/politics/america-britain-politics-truss-trump-analysis/index.html](https://www.cnn.com/2022/10/21/politics/america-britain-politics-truss-trump-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:57:06+00:00
- - tags: None
 
 Americans and Britons once smugly viewed political uprisings, governing meltdowns and self-defeating errors as the eruptions of unstable countries and immature political systems.
 
@@ -495,7 +434,6 @@ Americans and Britons once smugly viewed political uprisings, governing meltdown
  - [https://www.cnn.com/videos/world/2022/10/21/uk-prime-minister-liz-truss-successor-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/21/uk-prime-minister-liz-truss-successor-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:33:43+00:00
- - tags: None
 
 A new leadership contest will take place within a week, as Liz Truss said in her resignation speech outside 10 Downing Street. Robin Niblett, Distinguished Fellow and former Director of the Chatham House, join's CNN's Christina Macfarlane to talk about the candidates for UK's next leader.
 
@@ -503,7 +441,6 @@ A new leadership contest will take place within a week, as Liz Truss said in her
  - [https://www.cnn.com/2022/10/21/us/astroworld-victim-lawsuit-settlement/index.html](https://www.cnn.com/2022/10/21/us/astroworld-victim-lawsuit-settlement/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:27:01+00:00
- - tags: None
 
 The family of a victim who was among the 10 people killed in a crowd surge last year at a concert in Houston settled a lawsuit against the organizers of the event, according to a family attorney.
 
@@ -511,7 +448,6 @@ The family of a victim who was among the 10 people killed in a crowd surge last 
  - [https://www.cnn.com/2022/10/21/golf/kathryn-newton-marvel-acting-golf-spt-intl/index.html](https://www.cnn.com/2022/10/21/golf/kathryn-newton-marvel-acting-golf-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:19:53+00:00
- - tags: None
 
 Next year, Kathryn Newton is set to face off against a time-travelling supervillain.
 
@@ -519,7 +455,6 @@ Next year, Kathryn Newton is set to face off against a time-travelling supervill
  - [https://www.cnn.com/2022/10/21/middleeast/abu-dhabi-dugongs-conservation-spc-intl/index.html](https://www.cnn.com/2022/10/21/middleeast/abu-dhabi-dugongs-conservation-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:09:49+00:00
- - tags: None
 
 Legend has it that the inspiration for mermaids comes from an elusive sea mammal, so skittish that it flees at the first sight of a human.
 
@@ -527,7 +462,6 @@ Legend has it that the inspiration for mermaids comes from an elusive sea mammal
  - [https://www.cnn.com/videos/world/2022/10/21/iran-front-line-female-protester-karadsheh-pkg-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/10/21/iran-front-line-female-protester-karadsheh-pkg-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:09:28+00:00
- - tags: None
 
 Iranian women are taking to the streets every day to call from their freedom as the protests continue following the death of 22-year-old Mahsa Amini. But a security state that claims to enforce "morality" and modesty has subjected female protesters to beatings and sexual harassment in plain sight. One protester in Iran shares her experience with CNN's Jomana Karadsheh.
 
@@ -535,7 +469,6 @@ Iranian women are taking to the streets every day to call from their freedom as 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_8c3209b8a04924a8534634c566d493eb](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_8c3209b8a04924a8534634c566d493eb)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 08:04:01.199883+00:00
- - tags: None
 
 
 
@@ -543,7 +476,6 @@ Iranian women are taking to the streets every day to call from their freedom as 
  - [https://www.cnn.com/2022/10/21/us/james-heaps-ucla-doctor-guilty-sexual-assault/index.html](https://www.cnn.com/2022/10/21/us/james-heaps-ucla-doctor-guilty-sexual-assault/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 07:36:16+00:00
- - tags: None
 
 A former UCLA obstetrician-gynecologist who worked for the university for decades has been found guilty of sexually assaulting patients in his care, prosecutors announced Thursday.
 
@@ -551,7 +483,6 @@ A former UCLA obstetrician-gynecologist who worked for the university for decade
  - [https://www.cnn.com/2022/10/21/business/india-fines-google-anticompetitive-practices-android-hnk-intl/index.html](https://www.cnn.com/2022/10/21/business/india-fines-google-anticompetitive-practices-android-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 06:15:08+00:00
- - tags: None
 
 Google is facing the heat in India.
 
@@ -559,7 +490,6 @@ Google is facing the heat in India.
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_474b5e6cec360965d259848dd30b8bf5](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-21-22#h_474b5e6cec360965d259848dd30b8bf5)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 06:04:02.715919+00:00
- - tags: None
 
 
 
@@ -567,7 +497,6 @@ Google is facing the heat in India.
  - [https://www.cnn.com/2022/10/20/politics/white-house-iran-drones-crimea/index.html](https://www.cnn.com/2022/10/20/politics/white-house-iran-drones-crimea/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 05:09:29+00:00
- - tags: None
 
 The White House says Iranian military personnel have visited Crimea to assist with Russian operations targeting civilian infrastructure in Ukraine using drones.
 
@@ -575,7 +504,6 @@ The White House says Iranian military personnel have visited Crimea to assist wi
  - [https://www.cnn.com/collections/intl-201022-china-party-congress/](https://www.cnn.com/collections/intl-201022-china-party-congress/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 04:54:34+00:00
- - tags: None
 
 
 
@@ -583,7 +511,6 @@ The White House says Iranian military personnel have visited Crimea to assist wi
  - [https://www.cnn.com/2022/10/20/europe/italy-berlusconi-putin-friendship-leaked-audio-intl-hnk/index.html](https://www.cnn.com/2022/10/20/europe/italy-berlusconi-putin-friendship-leaked-audio-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 03:27:56+00:00
- - tags: None
 
 Former Italian Prime Minister Silvio Berlusconi sparked controversy this week when audio released by Italian news agency LaPresse revealed the 86-year-old speaking about his "re-established" relationship with Russian President Vladimir Putin.
 
@@ -591,7 +518,6 @@ Former Italian Prime Minister Silvio Berlusconi sparked controversy this week wh
  - [https://www.cnn.com/2022/10/20/china/us-justice-department-charged-china-fugitive-family-intl-hnk/index.html](https://www.cnn.com/2022/10/20/china/us-justice-department-charged-china-fugitive-family-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 03:20:51+00:00
- - tags: None
 
 The United States has charged seven Chinese nationals over an alleged long-running plot to intimidate a US resident into returning to China to face criminal charges.
 
@@ -599,7 +525,6 @@ The United States has charged seven Chinese nationals over an alleged long-runni
  - [https://www.cnn.com/style/article/modigliani-barnes-exhibition-tan/index.html](https://www.cnn.com/style/article/modigliani-barnes-exhibition-tan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 02:37:22+00:00
- - tags: None
 
 More than a century after the death of Amedeo Modigliani, a consortium of art historians and conservation experts convened by the Barnes Foundation in Philadelphia is discovering hidden aspects of the artist's techniques thanks to new research and analytical technologies.
 
@@ -607,7 +532,6 @@ More than a century after the death of Amedeo Modigliani, a consortium of art hi
  - [https://www.cnn.com/2022/10/20/asia/russian-oligarch-luxury-yacht-departs-hong-kong-intl-hnk/index.html](https://www.cnn.com/2022/10/20/asia/russian-oligarch-luxury-yacht-departs-hong-kong-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 02:34:15+00:00
- - tags: None
 
 A luxury yacht belonging to sanctioned Russian oligarch Alexey Mordashov departed Hong Kong waters on Thursday heading for the South African port of Cape Town, according to private tracking site MarineTraffic.
 
@@ -615,7 +539,6 @@ A luxury yacht belonging to sanctioned Russian oligarch Alexey Mordashov departe
  - [https://www.cnn.com/videos/politics/2022/10/21/jeb-bush-desantis-florida-school-law-race-tapperctn-contd-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/21/jeb-bush-desantis-florida-school-law-race-tapperctn-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 02:32:28+00:00
- - tags: None
 
 CNN's Jake Tapper talks to former governor of Florida Jeb Bush about Ron DeSantis' recent law looking to reshape how race is taught in schools.
 
@@ -623,7 +546,6 @@ CNN's Jake Tapper talks to former governor of Florida Jeb Bush about Ron DeSanti
  - [https://www.cnn.com/2022/10/20/politics/biden-ukraine-aid-democrats-republicans-midterms/index.html](https://www.cnn.com/2022/10/20/politics/biden-ukraine-aid-democrats-republicans-midterms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 01:59:52+00:00
- - tags: None
 
 President Joe Biden on Thursday seized on recent comments from House Minority Leader Kevin McCarthy calling into question future Ukraine aid, framing the position as undermining the US role -- and leadership -- in an increasingly volatile world.
 
@@ -631,7 +553,6 @@ President Joe Biden on Thursday seized on recent comments from House Minority Le
  - [https://www.cnn.com/videos/business/2022/10/21/nasa-webb-telescope-pillars-of-creation-mike-menzel-tapperctn-sot-vpx.cnn](https://www.cnn.com/videos/business/2022/10/21/nasa-webb-telescope-pillars-of-creation-mike-menzel-tapperctn-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 01:56:43+00:00
- - tags: None
 
 NASA engineer Mike Menzel breaks down the new Pillars of Creation images from the James Webb Space Telescope, showing the earliest moments in the lives of stars, with CNN's Jake Tapper.
 
@@ -639,7 +560,6 @@ NASA engineer Mike Menzel breaks down the new Pillars of Creation images from th
  - [https://www.cnn.com/videos/world/2022/10/20/jake-tapper-monologue-liz-truss-uk-political-turmoil-tapperctn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/jake-tapper-monologue-liz-truss-uk-political-turmoil-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 01:41:19+00:00
- - tags: None
 
 CNN's Jake Tapper weighs in on the political turmoil unfolding in the UK and Liz Truss' brief tenure as prime minister.
 
@@ -647,7 +567,6 @@ CNN's Jake Tapper weighs in on the political turmoil unfolding in the UK and Liz
  - [https://www.cnn.com/videos/us/2022/10/21/bison-attack-hiker-texas-orig-cprog-orig-kj-jk.cnn](https://www.cnn.com/videos/us/2022/10/21/bison-attack-hiker-texas-orig-cprog-orig-kj-jk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 01:09:13+00:00
- - tags: None
 
 Hear from Rebecca Clark, who was hiking in a remote park in Texas when she was attacked by a bison.
 
@@ -655,7 +574,6 @@ Hear from Rebecca Clark, who was hiking in a remote park in Texas when she was a
  - [https://www.cnn.com/videos/politics/2022/10/20/maga-conspiracists-inside-election-process-griffin-pkg-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/20/maga-conspiracists-inside-election-process-griffin-pkg-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 01:06:34+00:00
- - tags: None
 
 Some elections officials are giving support to baseless conspiracies and taking actions that reduce trust in the voting process. CNN's Drew Griffin reports.
 
@@ -663,7 +581,6 @@ Some elections officials are giving support to baseless conspiracies and taking 
  - [https://www.cnn.com/videos/politics/2022/10/21/arizona-voter-intimidation-ballot-drop-box-report-doj-kyung-lah-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/21/arizona-voter-intimidation-ballot-drop-box-report-doj-kyung-lah-dnt-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 01:04:23+00:00
- - tags: None
 
 An Arizona voter and his wife were allegedly filmed and photographed as they tried to use a ballot drop box this week, according to a voter intimidation complaint, which is now in the hands of the Department of Justice. CNN's correspondent Kyung Lah reports.
 
@@ -671,6 +588,5 @@ An Arizona voter and his wife were allegedly filmed and photographed as they tri
  - [https://www.cnn.com/2022/10/20/politics/us-service-member-suicides/index.html](https://www.cnn.com/2022/10/20/politics/us-service-member-suicides/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 00:39:25+00:00
- - tags: None
 
 A new report from the Pentagon found that 519 US service members died by suicide in 2021, a decrease from the 582 cases in 2020.

@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## The Verge Guide to Amazon’s Prime Early Access Sale
  - [https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 22:31:25+00:00
- - tags: None
 
 <figure>
       <img alt="Amazon’s Logo" src="https://cdn.vox-cdn.com/thumbor/zUCmKMgWxxxS3vjSri94c511Eqg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71478067/acastro_STK103__04.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/10/23397301/elon-musk-starlink-china-great-firewall-censorship](https://www.theverge.com/2022/10/10/23397301/elon-musk-starlink-china-great-firewall-censorship)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 20:44:43+00:00
- - tags: None
 
 <figure>
       <img alt="A magenta-hued photograph of Elon Musk stands against a wavy illustrated background." src="https://cdn.vox-cdn.com/thumbor/L6K2BxT1suUvdgr2y4zwVo8svd4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71478292/STK171_VRG_Illo_12_Normand_ElonMusk_12.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/10/23393021/twitter-birdwatch-covid-misinformation-data-analysis-misinformation-fact-check](https://www.theverge.com/2022/10/10/23393021/twitter-birdwatch-covid-misinformation-data-analysis-misinformation-fact-check)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Photo illustration of a person with binoculars looking towards the viewer, while a circle of birds made of the Twitter logo flies around their head." src="https://cdn.vox-cdn.com/thumbor/XqXVlZXEGyLv3PANNDJNMqSmrc0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71477468/226276_K_Radtke_Birdwatch_Twitter_covid.0.jpg" />
@@ -44,7 +41,6 @@
  - [https://www.theverge.com/2022/10/10/23396891/microsoft-xbox-keystone-game-streaming-box](https://www.theverge.com/2022/10/10/23396891/microsoft-xbox-keystone-game-streaming-box)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 16:24:10+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/7FdpHGzEBJwBBJ2RDILZxvN2siI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71477324/acastro_210429_1777_0004.0.jpg" />
@@ -57,7 +53,6 @@
  - [https://www.theverge.com/2022/10/10/23392552/youtube-unique-handle-rollout-shorts-comment-mentions-tiktok](https://www.theverge.com/2022/10/10/23392552/youtube-unique-handle-rollout-shorts-comment-mentions-tiktok)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="YouTube logo image in red, over a geometric red black and cream background" src="https://cdn.vox-cdn.com/thumbor/_acXtANGJ4zrSDCN8foB0Ol1hl8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71477255/acastro_STK092_03.0.jpg" />
@@ -70,7 +65,6 @@
  - [https://www.theverge.com/23396605/apple-airtag-bicycle-bell-airbell-test-review-price-features](https://www.theverge.com/23396605/apple-airtag-bicycle-bell-airbell-test-review-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 15:29:03+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/J2cYDIY-kaP09wJkN68V7buq484=/0x113:2048x1478/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71477126/AirBell_Shopify4_2048x.0.jpg" />
@@ -83,7 +77,6 @@
  - [https://www.theverge.com/2022/10/10/23393221/wild-hearts-hunting-ea-games-omega-force-interview](https://www.theverge.com/2022/10/10/23393221/wild-hearts-hunting-ea-games-omega-force-interview)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of an ape in the hunting game Wild Hearts." src="https://cdn.vox-cdn.com/thumbor/6uzkFBK2pXy_Y0HKzxzpQVsedPg=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71477017/BOHNI_01_ape_4k__1_.0.png" />
@@ -96,7 +89,6 @@
  - [https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 14:45:00+00:00
- - tags: None
 
 <p>New design, new display, new processor, new price</p>
   <p>
@@ -107,7 +99,6 @@
  - [https://www.theverge.com/2022/10/10/23396499/amazon-electric-delivery-vehicle-europe-investment](https://www.theverge.com/2022/10/10/23396499/amazon-electric-delivery-vehicle-europe-investment)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 14:33:52+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the Amazon logo" src="https://cdn.vox-cdn.com/thumbor/bWpSYWTyEfkpI4dmQfH87tGbqSI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476943/acastro_STK103__02.0.jpg" />
@@ -120,7 +111,6 @@
  - [https://www.theverge.com/2022/10/10/23393194/nasa-image-processing-jwst-astrophotography](https://www.theverge.com/2022/10/10/23393194/nasa-image-processing-jwst-astrophotography)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 14:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Carina Nebula" src="https://cdn.vox-cdn.com/thumbor/Bv37H2fpl_d7hAy0AbU6pf9elIM=/132x0:1869x1158/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476909/JWST_carina.0.png" />
@@ -137,7 +127,6 @@
  - [https://www.theverge.com/2022/10/10/23396540/steelseries-nova-pro-wireless-gaming-headset-apple-watch-series-8-ipad-m1-deal-sale](https://www.theverge.com/2022/10/10/23396540/steelseries-nova-pro-wireless-gaming-headset-apple-watch-series-8-ipad-m1-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 13:44:55+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Evujf7RI9zGXAo2fN_zY0vy5giY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476718/akrales_220510_5209_0001.0.jpg" />
@@ -150,7 +139,6 @@
  - [https://www.theverge.com/23395200/chromecast-google-tv-hd-review](https://www.theverge.com/23395200/chromecast-google-tv-hd-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 13:30:00+00:00
- - tags: None
 
 <p>Priced at just $30, the new entry-level Chromecast shows how far Google has come since the original HDMI stick</p>
   <p>
@@ -161,7 +149,6 @@
  - [https://www.theverge.com/2022/10/10/23393275/oddworld-soulstorm-perfect-puzzle-game-lorne-lanning](https://www.theverge.com/2022/10/10/23393275/oddworld-soulstorm-perfect-puzzle-game-lorne-lanning)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from Oddworld Soulstorm in which a blue, hairless alien creature with huge yellow eyes stares at something above him in horrified awe." src="https://cdn.vox-cdn.com/thumbor/TZ_AWESzdDry3TwXQcTr3mV6Bmk=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476662/TGAScreen_01.0.jpeg" />
@@ -174,7 +161,6 @@
  - [https://www.theverge.com/2022/10/10/23385172/microsoft-surface-event-how-to-watch-live-stream-start-time](https://www.theverge.com/2022/10/10/23385172/microsoft-surface-event-how-to-watch-live-stream-start-time)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A stock photo with the text “Save the date” on a colorful backdrop" src="https://cdn.vox-cdn.com/thumbor/0zRrm6PXuUZCSZ7extfgbzKtFA4=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476506/RE57ifo.0.jpeg" />
@@ -188,7 +174,6 @@
  - [https://www.theverge.com/2022/10/10/23396461/remote-worker-webcam-on-all-day-dutch-court-employee-rights-privacy](https://www.theverge.com/2022/10/10/23396461/remote-worker-webcam-on-all-day-dutch-court-employee-rights-privacy)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 12:25:59+00:00
- - tags: None
 
 <figure>
       <img alt="A stock privacy image of an eye." src="https://cdn.vox-cdn.com/thumbor/mNQn-NfllPQ0ETX29EPtKuOIi6c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476427/acastro_190204_1777_privacy_0001.0.jpg" />
@@ -201,7 +186,6 @@
  - [https://www.theverge.com/2022/10/10/23396412/call-of-duty-modern-warfare-ii-sms-protect-prepaid-postpaid-phone-number-requirement](https://www.theverge.com/2022/10/10/23396412/call-of-duty-modern-warfare-ii-sms-protect-prepaid-postpaid-phone-number-requirement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-10 10:11:36+00:00
- - tags: None
 
 <figure>
       <img alt="Ghost in Modern Warfare II" src="https://cdn.vox-cdn.com/thumbor/CJji3QjFtcOeqFxrt2je_PuN_Oc=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71476095/Ghost_BRANDED.0.jpg" />

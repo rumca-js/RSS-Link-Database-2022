@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A Guide to Mobile Cross-Platform Development With Couchbase
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59317](https://www.codeproject.com/script/News/View.aspx?nwid=59317)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 In order to reach the broadest user base, how can an app be delivered for multiple platforms at the same time without lengthening the development process and breaking the bank?
 
@@ -12,7 +11,6 @@ In order to reach the broadest user base, how can an app be delivered for multip
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59311](https://www.codeproject.com/script/News/View.aspx?nwid=59311)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 {Insert scene from Scanners here}
 
@@ -20,7 +18,6 @@ In order to reach the broadest user base, how can an app be delivered for multip
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59320](https://www.codeproject.com/script/News/View.aspx?nwid=59320)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 They would rather have everyone else switch to *their* connector
 
@@ -28,7 +25,6 @@ They would rather have everyone else switch to *their* connector
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59314](https://www.codeproject.com/script/News/View.aspx?nwid=59314)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 Learn how to call a protected API from your .NET MAUI application.
 
@@ -36,7 +32,6 @@ Learn how to call a protected API from your .NET MAUI application.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59325](https://www.codeproject.com/script/News/View.aspx?nwid=59325)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 "You can always count on a murderer for fancy prose style"
 
@@ -44,7 +39,6 @@ Learn how to call a protected API from your .NET MAUI application.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59310](https://www.codeproject.com/script/News/View.aspx?nwid=59310)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 More half solutions to fix, and people realize that this stuff doesn't code itself?
 
@@ -52,7 +46,6 @@ More half solutions to fix, and people realize that this stuff doesn't code itse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59322](https://www.codeproject.com/script/News/View.aspx?nwid=59322)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 Meta, parent of Facebook, is in the midst of migrating its Android app Java code to Kotlin, a younger programming language that also relies on the Java Virtual Machine, or JVM.
 
@@ -60,7 +53,6 @@ Meta, parent of Facebook, is in the midst of migrating its Android app Java code
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59318](https://www.codeproject.com/script/News/View.aspx?nwid=59318)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 Just a few more fixes, and the OS will be secure!
 
@@ -68,7 +60,6 @@ Just a few more fixes, and the OS will be secure!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59316](https://www.codeproject.com/script/News/View.aspx?nwid=59316)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 We have some updates to the InkSDK that we would like to share with you, as well as some general guidance on persisting ink and open ink standards.
 
@@ -76,7 +67,6 @@ We have some updates to the InkSDK that we would like to share with you, as well
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59319](https://www.codeproject.com/script/News/View.aspx?nwid=59319)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 Can I get the one saying, "Keep on Trucking"?
 
@@ -84,7 +74,6 @@ Can I get the one saying, "Keep on Trucking"?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59323](https://www.codeproject.com/script/News/View.aspx?nwid=59323)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 For those with at least one turntable (no microphone needed)
 
@@ -92,7 +81,6 @@ For those with at least one turntable (no microphone needed)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59313](https://www.codeproject.com/script/News/View.aspx?nwid=59313)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 In this post, we look at some examples of UX laws and how ignoring them can have a negative impact on your mobile users.
 
@@ -100,7 +88,6 @@ In this post, we look at some examples of UX laws and how ignoring them can have
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59315](https://www.codeproject.com/script/News/View.aspx?nwid=59315)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 Mason is a Dart package that allows you to create files and directories based on templates. You can use Mason in your Flutter projects by first creating and registering the templates (aka bricks) and then utilizing them to create files and folders.
 
@@ -108,7 +95,6 @@ Mason is a Dart package that allows you to create files and directories based on
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59321](https://www.codeproject.com/script/News/View.aspx?nwid=59321)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 They don't make them like that anymore
 
@@ -116,7 +102,6 @@ They don't make them like that anymore
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59312](https://www.codeproject.com/script/News/View.aspx?nwid=59312)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 We launched Jetpack Compose over a year ago, and have been busy improving it ever since.
 
@@ -124,7 +109,6 @@ We launched Jetpack Compose over a year ago, and have been busy improving it eve
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59324](https://www.codeproject.com/script/News/View.aspx?nwid=59324)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 "Stuff". That's what they're updating. "Stuff" Need to know basis only.
 
@@ -132,6 +116,5 @@ We launched Jetpack Compose over a year ago, and have been busy improving it eve
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59309](https://www.codeproject.com/script/News/View.aspx?nwid=59309)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-27 04:00:00+00:00
- - tags: None
 
 Yeah, _that's_ why Vista didn't succeed. Sure.

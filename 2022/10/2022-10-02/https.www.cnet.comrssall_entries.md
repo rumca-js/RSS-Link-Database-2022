@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## 'House of the Dragon' Episode 6 Recap: A Tense Time Jump     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-a-tense-time-jump/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-a-tense-time-jump/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 22:19:00+00:00
- - tags: None
 
 House of the Dragon's sixth episode features a 10 year time jump. As you might expect, King's Landing is a much more tense place.
 
@@ -12,7 +11,6 @@ House of the Dragon's sixth episode features a 10 year time jump. As you might e
  - [https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 22:00:03+00:00
- - tags: None
 
 The hidden rebellion grows, and the Disney Plus series hides some cool details in the scenery and dialogue to delight fans.
 
@@ -20,7 +18,6 @@ The hidden rebellion grows, and the Disney Plus series hides some cool details i
  - [https://www.cnet.com/health/medical/how-to-survive-a-heart-attack-5-life-saving-tips-to-know/#ftag=CADf328eec](https://www.cnet.com/health/medical/how-to-survive-a-heart-attack-5-life-saving-tips-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 21:00:02+00:00
- - tags: None
 
 Knowing the symptoms is just the start -- you should also know how to respond in the immediate aftermath of a heart attack.
 
@@ -28,7 +25,6 @@ Knowing the symptoms is just the start -- you should also know how to respond in
  - [https://www.cnet.com/roadshow/news/tesla-3q-deliveries-rebound-but-not-as-much-as-analysts-expected/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/tesla-3q-deliveries-rebound-but-not-as-much-as-analysts-expected/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 20:12:00+00:00
- - tags: None
 
 Tesla delivered 35% more vehicles than the previous quarter, but that still wasn't as many as analysts predicted.
 
@@ -36,7 +32,6 @@ Tesla delivered 35% more vehicles than the previous quarter, but that still wasn
  - [https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-come-to-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-come-to-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 20:00:07+00:00
- - tags: None
 
 Let's take a look at the release dates and times for the eight remaining episodes of the intense first season of the Star Wars prequel series.
 
@@ -44,7 +39,6 @@ Let's take a look at the release dates and times for the eight remaining episode
  - [https://www.cnet.com/health/nutrition/the-best-foods-for-heart-health-and-what-to-avoid/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/the-best-foods-for-heart-health-and-what-to-avoid/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 20:00:03+00:00
- - tags: None
 
 Nutrition plays an important role in keeping your heart healthy.
 
@@ -52,7 +46,6 @@ Nutrition plays an important role in keeping your heart healthy.
  - [https://www.cnet.com/deals/best-playstation-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-playstation-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 19:30:03+00:00
- - tags: None
 
 Save big on all the PlayStation accessories you need to expand your gaming setup on the cheap.
 
@@ -60,7 +53,6 @@ Save big on all the PlayStation accessories you need to expand your gaming setup
  - [https://www.cnet.com/tech/services-and-software/broncos-vs-raiders-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/broncos-vs-raiders-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 19:29:03+00:00
- - tags: None
 
 Looking to watch the Denver Broncos play the Las Vegas Raiders? Here's everything you need to watch Sunday's 4:25 p.m. ET game on CBS.
 
@@ -68,7 +60,6 @@ Looking to watch the Denver Broncos play the Las Vegas Raiders? Here's everythin
  - [https://www.cnet.com/tech/services-and-software/patriots-vs-packers-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/patriots-vs-packers-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 19:22:02+00:00
- - tags: None
 
 Looking to watch the New England Patriots take on the Green Bay Packers? Here's everything you need to watch Sunday's 4:25 p.m. ET game that airs on CBS.
 
@@ -76,7 +67,6 @@ Looking to watch the New England Patriots take on the Green Bay Packers? Here's 
  - [https://www.cnet.com/personal-finance/its-hard-to-recommend-stay-at-home-parenting-heres-why/#ftag=CADf328eec](https://www.cnet.com/personal-finance/its-hard-to-recommend-stay-at-home-parenting-heres-why/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 18:48:22+00:00
- - tags: None
 
 Commentary: TikTok isn't telling you the whole truth.
 
@@ -84,7 +74,6 @@ Commentary: TikTok isn't telling you the whole truth.
  - [https://www.cnet.com/health/nutrition/eat-these-collagen-rich-foods-instead-of-taking-supplements/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/eat-these-collagen-rich-foods-instead-of-taking-supplements/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 18:00:03+00:00
- - tags: None
 
 Everything you need to know about how well collagen supplements work and how to get more collagen naturally.
 
@@ -92,7 +81,6 @@ Everything you need to know about how well collagen supplements work and how to 
  - [https://www.cnet.com/deals/save-up-to-25-on-crocs-when-you-buy-multiple-pairs-all-week-long/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-25-on-crocs-when-you-buy-multiple-pairs-all-week-long/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 17:30:03+00:00
- - tags: None
 
 Now through Oct. 9, Crocs is offering discounts when you pick up two, three or four pairs at a time at its "Croctober" sale event.
 
@@ -100,7 +88,6 @@ Now through Oct. 9, Crocs is offering discounts when you pick up two, three or f
  - [https://www.cnet.com/deals/comptia-aws-cisco-2022-certification-bundle/#ftag=CADf328eec](https://www.cnet.com/deals/comptia-aws-cisco-2022-certification-bundle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 17:00:02+00:00
- - tags: None
 
 Today only at StackSocial, you can save over $400 on this course bundle that prepares you for 13 different IT certification exams.
 
@@ -108,7 +95,6 @@ Today only at StackSocial, you can save over $400 on this course bundle that pre
  - [https://www.cnet.com/tech/services-and-software/bears-vs-giants-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bears-vs-giants-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 16:02:02+00:00
- - tags: None
 
 Looking to watch the Chicago Bears take on the New York Giants? Here's everything you need to catch Sunday's 1 p.m. ET game  on Fox.
 
@@ -116,7 +102,6 @@ Looking to watch the Chicago Bears take on the New York Giants? Here's everythin
  - [https://www.cnet.com/tech/gaming/google-stadia-is-shutting-down-in-2023-all-purchases-to-be-refunded/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/google-stadia-is-shutting-down-in-2023-all-purchases-to-be-refunded/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 16:00:11+00:00
- - tags: None
 
 The search giant's cloud gaming service will be shuttered on Jan. 18, but players won't lose money.
 
@@ -124,7 +109,6 @@ The search giant's cloud gaming service will be shuttered on Jan. 18, but player
  - [https://www.cnet.com/deals/save-20-on-sleek-and-stylish-ridge-wallets-cases-backpacks-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/save-20-on-sleek-and-stylish-ridge-wallets-cases-backpacks-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 16:00:07+00:00
- - tags: None
 
 The Ridge makes a nice selection of minimalist and durable everyday accessories, and right now you can pick some up at a discount.
 
@@ -132,7 +116,6 @@ The Ridge makes a nice selection of minimalist and durable everyday accessories,
  - [https://www.cnet.com/tech/services-and-software/commanders-vs-cowboys-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/commanders-vs-cowboys-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 15:55:02+00:00
- - tags: None
 
 Looking to watch the Dallas Cowboys play the Washington Commanders? Here's everything you need to catch Sunday's 1 p.m. ET game on Fox.
 
@@ -140,7 +123,6 @@ Looking to watch the Dallas Cowboys play the Washington Commanders? Here's every
  - [https://www.cnet.com/tech/services-and-software/jaguars-vs-eagles-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/jaguars-vs-eagles-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 15:49:03+00:00
- - tags: None
 
 Looking to watch the Jacksonville Jaguars versus the Philadelphia Eagles? Here's everything you need to watch Sunday's 1 p.m. ET game that airs on CBS.
 
@@ -148,7 +130,6 @@ Looking to watch the Jacksonville Jaguars versus the Philadelphia Eagles? Here's
  - [https://www.cnet.com/tech/services-and-software/bills-vs-ravens-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bills-vs-ravens-livestream-how-to-watch-nfl-week-4-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 15:45:02+00:00
- - tags: None
 
 Looking to watch the Buffalo Bills take on the Baltimore Ravens? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -156,7 +137,6 @@ Looking to watch the Buffalo Bills take on the Baltimore Ravens? Here's everythi
  - [https://www.cnet.com/deals/stay-powered-up-anywhere-with-up-to-61-off-golabs-power-stations/#ftag=CADf328eec](https://www.cnet.com/deals/stay-powered-up-anywhere-with-up-to-61-off-golabs-power-stations/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 15:00:07+00:00
- - tags: None
 
 Today only at Woot, you can save up to $180 on GoLabs portable power stations and solar panels so you can keep your devices juiced up whenever and wherever.
 
@@ -164,7 +144,6 @@ Today only at Woot, you can save up to $180 on GoLabs portable power stations an
  - [https://www.cnet.com/tech/services-and-software/apple-korean-office-raided-by-regulator-probing-app-store-fees-report-says/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/apple-korean-office-raided-by-regulator-probing-app-store-fees-report-says/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 14:53:59+00:00
- - tags: None
 
 Investigators from the Korea Fair Trade Commission were investigating claims Apple took a bigger cut of in-app purchases than it was supposed to.
 
@@ -172,7 +151,6 @@ Investigators from the Korea Fair Trade Commission were investigating claims App
  - [https://www.cnet.com/science/space/nasa-mars-helicopter-takes-flight-with-weird-debris-on-its-foot/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-mars-helicopter-takes-flight-with-weird-debris-on-its-foot/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 14:40:05+00:00
- - tags: None
 
 Ingenuity has now joined the Perseverance rover in dealing with oddball debris on the red planet.
 
@@ -180,7 +158,6 @@ Ingenuity has now joined the Perseverance rover in dealing with oddball debris o
  - [https://www.cnet.com/news/amazon-astro-robot-is-it-kid-friendly-your-big-questions-answered/#ftag=CADf328eec](https://www.cnet.com/news/amazon-astro-robot-is-it-kid-friendly-your-big-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 14:00:00+00:00
- - tags: None
 
 What even is the Amazon Astro robot and how does it work? Look no further, we have answers for you.
 
@@ -188,7 +165,6 @@ What even is the Amazon Astro robot and how does it work? Look no further, we ha
  - [https://www.cnet.com/personal-finance/tired-of-unwanted-calls-and-texts-this-man-sued-a-spam-caller-and-won-1200-heres-how/#ftag=CADf328eec](https://www.cnet.com/personal-finance/tired-of-unwanted-calls-and-texts-this-man-sued-a-spam-caller-and-won-1200-heres-how/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 13:15:02+00:00
- - tags: None
 
 Americans received more than 50 million robocalls last year. Here's how you can fight back.
 
@@ -196,7 +172,6 @@ Americans received more than 50 million robocalls last year. Here's how you can 
  - [https://www.cnet.com/culture/national-cinnamon-roll-day-2022-deals-at-cinnabon-cinnaholic-and-more/#ftag=CADf328eec](https://www.cnet.com/culture/national-cinnamon-roll-day-2022-deals-at-cinnabon-cinnaholic-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 13:00:09+00:00
- - tags: None
 
 You can snag these cinnamon roll deals on Tuesday, Oct. 4.
 
@@ -204,7 +179,6 @@ You can snag these cinnamon roll deals on Tuesday, Oct. 4.
  - [https://www.cnet.com/tech/services-and-software/change-this-netflix-setting-now-to-beef-up-your-account-security/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/change-this-netflix-setting-now-to-beef-up-your-account-security/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 13:00:06+00:00
- - tags: None
 
 Netflix's basic username and password login isn't enough, but this tool can help.
 
@@ -212,7 +186,6 @@ Netflix's basic username and password login isn't enough, but this tool can help
  - [https://www.cnet.com/health/sleep/how-to-fall-asleep-in-10-minutes-or-less/#ftag=CADf328eec](https://www.cnet.com/health/sleep/how-to-fall-asleep-in-10-minutes-or-less/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 13:00:00+00:00
- - tags: None
 
 Try these methods the next time you struggle to fall asleep.
 
@@ -220,7 +193,6 @@ Try these methods the next time you struggle to fall asleep.
  - [https://www.cnet.com/science/are-particle-physicists-inventing-new-particles-for-no-reason-its-complicated/#ftag=CADf328eec](https://www.cnet.com/science/are-particle-physicists-inventing-new-particles-for-no-reason-its-complicated/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 12:00:19+00:00
- - tags: None
 
 Commentary: Trying to understand the fundamental nature of our universe sometimes provides negative results. That's completely normal.
 
@@ -228,7 +200,6 @@ Commentary: Trying to understand the fundamental nature of our universe sometime
  - [https://www.cnet.com/tech/mobile/googles-pixel-7-event-what-to-expect/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/googles-pixel-7-event-what-to-expect/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 12:00:16+00:00
- - tags: None
 
 Google is set to unveil the Pixel 7 lineup and the Pixel Watch. Here's what we know so far about those long-awaited gadgets.
 
@@ -236,7 +207,6 @@ Google is set to unveil the Pixel 7 lineup and the Pixel Watch. Here's what we k
  - [https://www.cnet.com/how-to/lower-your-heating-bills-by-setting-your-thermostat-to-this-temperature/#ftag=CADf328eec](https://www.cnet.com/how-to/lower-your-heating-bills-by-setting-your-thermostat-to-this-temperature/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 12:00:11+00:00
- - tags: None
 
 Adjust your thermostat to save money heading into fall and winter.
 
@@ -244,7 +214,6 @@ Adjust your thermostat to save money heading into fall and winter.
  - [https://www.cnet.com/roadshow/news/i-flew-in-a-self-flying-plane/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/i-flew-in-a-self-flying-plane/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 12:00:06+00:00
- - tags: None
 
 Xwing hopes to put a fleet of autonomous planes in the sky by 2025.
 
@@ -252,7 +221,6 @@ Xwing hopes to put a fleet of autonomous planes in the sky by 2025.
  - [https://www.cnet.com/videos/what-its-like-to-fly-in-xwings-self-flying-plane/#ftag=CADf328eec](https://www.cnet.com/videos/what-its-like-to-fly-in-xwings-self-flying-plane/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 12:00:01+00:00
- - tags: None
 
 Startup Xwing is developing an autonomous plane it hopes to put into service by 2025. CNET's Andy Altman took a ride in Xwing's experimental aircraft.
 
@@ -260,7 +228,6 @@ Startup Xwing is developing an autonomous plane it hopes to put into service by 
  - [https://www.cnet.com/culture/entertainment/heres-when-house-of-the-dragon-episode-7-lands-in-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/heres-when-house-of-the-dragon-episode-7-lands-in-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 12:00:00+00:00
- - tags: None
 
 Episode 6 took us 10 years into the future. We find out what episode 7 of HBO's Game of Thrones prequel brings on Sunday.
 
@@ -268,7 +235,6 @@ Episode 6 took us 10 years into the future. We find out what episode 7 of HBO's 
  - [https://www.cnet.com/tech/services-and-software/man-city-vs-man-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/man-city-vs-man-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 11:30:03+00:00
- - tags: None
 
 Looking to catch the Manchester derby? Here's everything you need to watch Sunday's Premier League game.
 
@@ -276,7 +242,6 @@ Looking to catch the Manchester derby? Here's everything you need to watch Sunda
  - [https://www.cnet.com/how-to/4-amazon-alexa-commands-wed-love-to-see-on-echo-devices/#ftag=CADf328eec](https://www.cnet.com/how-to/4-amazon-alexa-commands-wed-love-to-see-on-echo-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 11:30:00+00:00
- - tags: None
 
 Amazon's digital assistant can play music, tell you the weather and even turn off your lights. So why can't it perform these actions?
 
@@ -284,7 +249,6 @@ Amazon's digital assistant can play music, tell you the weather and even turn of
  - [https://www.cnet.com/tech/computing/innocn-40c1r-review-a-big-screen-worth-its-modest-bucks/#ftag=CADf328eec](https://www.cnet.com/tech/computing/innocn-40c1r-review-a-big-screen-worth-its-modest-bucks/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 11:00:16+00:00
- - tags: None
 
 This 40-inch display should suit your needs for working and gaming if you need a big screen on a smaller budget.
 
@@ -292,7 +256,6 @@ This 40-inch display should suit your needs for working and gaming if you need a
  - [https://www.cnet.com/tech/services-and-software/nfl-week-4-how-to-watch-vikings-vs-saints-chiefs-vs-buccaneers-redzone-and-more-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-week-4-how-to-watch-vikings-vs-saints-chiefs-vs-buccaneers-redzone-and-more-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 11:00:12+00:00
- - tags: None
 
 The NFL's Sunday slate starts earlier this weekend.
 
@@ -300,7 +263,6 @@ The NFL's Sunday slate starts earlier this weekend.
  - [https://www.cnet.com/tech/services-and-software/too-many-slack-notifications-4-options-for-customizing-your-settings/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/too-many-slack-notifications-4-options-for-customizing-your-settings/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 11:00:07+00:00
- - tags: None
 
 Just because you're in a channel or chat doesn't mean you need to always know what's going on in them.
 
@@ -308,7 +270,6 @@ Just because you're in a channel or chat doesn't mean you need to always know wh
  - [https://www.cnet.com/personal-finance/t-mobile-350-million-data-breach-settlement-how-much-money-could-you-qualify-for/#ftag=CADf328eec](https://www.cnet.com/personal-finance/t-mobile-350-million-data-breach-settlement-how-much-money-could-you-qualify-for/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 10:00:12+00:00
- - tags: None
 
 The carrier agreed to the payout after a cyberattack exposed nearly 80 million customers' personal data.
 
@@ -316,7 +277,6 @@ The carrier agreed to the payout after a cyberattack exposed nearly 80 million c
  - [https://www.cnet.com/culture/national-taco-day-2022-taco-bell-del-taco-free-tacos/#ftag=CADf328eec](https://www.cnet.com/culture/national-taco-day-2022-taco-bell-del-taco-free-tacos/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 10:00:02+00:00
- - tags: None
 
 This year, Oct. 4 is the ultimate Taco Tuesday.
 
@@ -324,7 +284,6 @@ This year, Oct. 4 is the ultimate Taco Tuesday.
  - [https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-singapore-grand-prix-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-singapore-grand-prix-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 09:00:00+00:00
- - tags: None
 
 Max Verstappen can technically clinch the F1 title in Singapore. Here's how to watch to watch him try without cable.
 
@@ -332,7 +291,6 @@ Max Verstappen can technically clinch the F1 title in Singapore. Here's how to w
  - [https://www.cnet.com/culture/taco-bell-will-bring-back-one-of-its-most-requested-discontinued-items/#ftag=CADf328eec](https://www.cnet.com/culture/taco-bell-will-bring-back-one-of-its-most-requested-discontinued-items/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 04:31:00+00:00
- - tags: None
 
 You could soon be munching on a Double Decker Taco or an Enchirito.
 
@@ -340,7 +298,6 @@ You could soon be munching on a Double Decker Taco or an Enchirito.
  - [https://www.cnet.com/how-to/experiencing-choppy-video-calls-or-slow-gaming-you-might-have-an-upload-problem/#ftag=CADf328eec](https://www.cnet.com/how-to/experiencing-choppy-video-calls-or-slow-gaming-you-might-have-an-upload-problem/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 02:00:02+00:00
- - tags: None
 
 Slow upload speeds make for a bad internet experience. Here's what might be happening, and how to fix it.
 
@@ -348,6 +305,5 @@ Slow upload speeds make for a bad internet experience. Here's what might be happ
  - [https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-02 00:00:00+00:00
- - tags: None
 
 The Disney Plus series hides some cool details and references in the scenery and dialogue as the hidden rebellion grows.

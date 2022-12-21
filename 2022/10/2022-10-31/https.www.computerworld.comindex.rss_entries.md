@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Global monthly semiconductor sales drop as chip market takes another hit
  - [https://www.computerworld.com/article/3678152/global-monthly-semiconductor-sales-drop-as-chip-market-takes-another-hit.html#tk.rss_all](https://www.computerworld.com/article/3678152/global-monthly-semiconductor-sales-drop-as-chip-market-takes-another-hit.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-31 17:46:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all](https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-31 16:14:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3678351/beware-going-down-the-windows-beta-testing-rabbit-hole.html#tk.rss_all](https://www.computerworld.com/article/3678351/beware-going-down-the-windows-beta-testing-rabbit-hole.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-31 15:58:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3678351/beware-going-the-windows-beta-testing-rabbit-hole.html#tk.rss_all](https://www.computerworld.com/article/3678351/beware-going-the-windows-beta-testing-rabbit-hole.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-31 15:58:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3678349/chase-cio-offers-top-interview-tips-for-tech-job-seekers.html#tk.rss_all](https://www.computerworld.com/article/3678349/chase-cio-offers-top-interview-tips-for-tech-job-seekers.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-31 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

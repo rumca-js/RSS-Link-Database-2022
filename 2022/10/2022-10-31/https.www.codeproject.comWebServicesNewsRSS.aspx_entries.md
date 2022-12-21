@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Auto-resize/position another app's window?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59341](https://www.codeproject.com/script/News/View.aspx?nwid=59341)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 Remember: only use for goodness, not evil!
 
@@ -12,7 +11,6 @@ Remember: only use for goodness, not evil!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59342](https://www.codeproject.com/script/News/View.aspx?nwid=59342)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 Do you also want a pony?
 
@@ -20,7 +18,6 @@ Do you also want a pony?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59345](https://www.codeproject.com/script/News/View.aspx?nwid=59345)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 You know it's accurate, because they queried _93_ people!
 
@@ -28,7 +25,6 @@ You know it's accurate, because they queried _93_ people!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59340](https://www.codeproject.com/script/News/View.aspx?nwid=59340)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ You know it's accurate, because they queried _93_ people!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59343](https://www.codeproject.com/script/News/View.aspx?nwid=59343)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 "I sentence you to be exposed before your peers. Tear down the wall!"
 
@@ -44,7 +39,6 @@ You know it's accurate, because they queried _93_ people!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59349](https://www.codeproject.com/script/News/View.aspx?nwid=59349)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 Which is why management goes there first?
 
@@ -52,7 +46,6 @@ Which is why management goes there first?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59348](https://www.codeproject.com/script/News/View.aspx?nwid=59348)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 And I thought no one looked at their logs...
 
@@ -60,7 +53,6 @@ And I thought no one looked at their logs...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59346](https://www.codeproject.com/script/News/View.aspx?nwid=59346)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 Back to building your robots the old fashioned way - cardboard boxes and duct tubes
 
@@ -68,7 +60,6 @@ Back to building your robots the old fashioned way - cardboard boxes and duct tu
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59347](https://www.codeproject.com/script/News/View.aspx?nwid=59347)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 No, it's not just the programs that only work once before crashing
 
@@ -76,6 +67,5 @@ No, it's not just the programs that only work once before crashing
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59344](https://www.codeproject.com/script/News/View.aspx?nwid=59344)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-31 04:00:00+00:00
- - tags: None
 
 So you (temporarily) need to go back to work

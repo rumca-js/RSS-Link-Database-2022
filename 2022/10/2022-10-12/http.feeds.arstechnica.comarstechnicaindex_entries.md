@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Carmack: “There’s a bunch that I’m grumpy about” in virtual reality
  - [https://arstechnica.com/?p=1889582](https://arstechnica.com/?p=1889582)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 21:07:32+00:00
- - tags: None
 
 Lonely lecture as a VR avatar is a far cry from last year's "thousands of people" goal
 
@@ -12,7 +11,6 @@ Lonely lecture as a VR avatar is a far cry from last year's "thousands of people
  - [https://arstechnica.com/?p=1889516](https://arstechnica.com/?p=1889516)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 20:05:58+00:00
- - tags: None
 
 Music for Xbox is here now; Music and TV for Windows will come later.
 
@@ -20,7 +18,6 @@ Music for Xbox is here now; Music and TV for Windows will come later.
  - [https://arstechnica.com/?p=1889553](https://arstechnica.com/?p=1889553)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 19:42:57+00:00
- - tags: None
 
 Microsoft says UK relied on Sony's "exaggerated" claims about <em>Call of Duty</em>.
 
@@ -28,7 +25,6 @@ Microsoft says UK relied on Sony's "exaggerated" claims about <em>Call of Duty</
  - [https://arstechnica.com/?p=1889530](https://arstechnica.com/?p=1889530)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 18:33:23+00:00
- - tags: None
 
 TikTok to launch live shopping in the US over the holidays.
 
@@ -36,7 +32,6 @@ TikTok to launch live shopping in the US over the holidays.
  - [https://arstechnica.com/?p=1889533](https://arstechnica.com/?p=1889533)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 18:17:32+00:00
- - tags: None
 
 Federal officials urge Americans to get their boost by Halloween.
 
@@ -44,7 +39,6 @@ Federal officials urge Americans to get their boost by Halloween.
  - [https://arstechnica.com/?p=1889431](https://arstechnica.com/?p=1889431)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 17:38:51+00:00
- - tags: None
 
 Big Tech's cross-platform password replacement arrives in the Google ecosystem.
 
@@ -52,7 +46,6 @@ Big Tech's cross-platform password replacement arrives in the Google ecosystem.
  - [https://arstechnica.com/?p=1889484](https://arstechnica.com/?p=1889484)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 17:17:40+00:00
- - tags: None
 
 The trial used the same vaccine formula as the AstraZeneca vaccine given intramuscularly.
 
@@ -60,7 +53,6 @@ The trial used the same vaccine formula as the AstraZeneca vaccine given intramu
  - [https://arstechnica.com/?p=1889489](https://arstechnica.com/?p=1889489)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 17:04:16+00:00
- - tags: None
 
 Over the past 120 years, stellar winds have built concentric circles of dust.
 
@@ -68,7 +60,6 @@ Over the past 120 years, stellar winds have built concentric circles of dust.
  - [https://arstechnica.com/?p=1887656](https://arstechnica.com/?p=1887656)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 17:00:55+00:00
- - tags: None
 
 It could be better, but it might be good enough for a wearables-starved ecosystem.
 
@@ -76,7 +67,6 @@ It could be better, but it might be good enough for a wearables-starved ecosyste
  - [https://arstechnica.com/?p=1889421](https://arstechnica.com/?p=1889421)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 17:00:30+00:00
- - tags: None
 
 Production of the new EV starts in China in 2023, then South Carolina in 2024.
 
@@ -84,7 +74,6 @@ Production of the new EV starts in China in 2023, then South Carolina in 2024.
  - [https://arstechnica.com/?p=1889454](https://arstechnica.com/?p=1889454)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 16:52:18+00:00
- - tags: None
 
 Power of US export curbs could diminish quickly without other nations joining.
 
@@ -92,7 +81,6 @@ Power of US export curbs could diminish quickly without other nations joining.
  - [https://arstechnica.com/?p=1889450](https://arstechnica.com/?p=1889450)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 16:40:30+00:00
- - tags: None
 
 Set your alarm for 7 minutes after midnight on November 14.
 
@@ -100,7 +88,6 @@ Set your alarm for 7 minutes after midnight on November 14.
  - [https://arstechnica.com/?p=1889397](https://arstechnica.com/?p=1889397)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 15:17:18+00:00
- - tags: None
 
 Sales of consumer and server CPUs are down as pandemic-era demand slows.
 
@@ -108,7 +95,6 @@ Sales of consumer and server CPUs are down as pandemic-era demand slows.
  - [https://arstechnica.com/?p=1888780](https://arstechnica.com/?p=1888780)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 14:16:44+00:00
- - tags: None
 
 Microsoft sidesteps AI-powered art debate, embraces image generation as a tool for creatives.
 
@@ -116,7 +102,6 @@ Microsoft sidesteps AI-powered art debate, embraces image generation as a tool f
  - [https://arstechnica.com/?p=1888972](https://arstechnica.com/?p=1888972)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 14:00:42+00:00
- - tags: None
 
 USB-C docking station opts for video conferencing features over a vast port selection.
 
@@ -124,7 +109,6 @@ USB-C docking station opts for video conferencing features over a vast port sele
  - [https://arstechnica.com/?p=1887744](https://arstechnica.com/?p=1887744)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 14:00:26+00:00
- - tags: None
 
 A generation-old quad-core processor is doing this $4,300 desktop no favors.
 
@@ -132,7 +116,6 @@ A generation-old quad-core processor is doing this $4,300 desktop no favors.
  - [https://arstechnica.com/?p=1887997](https://arstechnica.com/?p=1887997)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 14:00:24+00:00
- - tags: None
 
 Microsoft refreshes its 13.5- and 15-inch laptops without reinventing them.
 
@@ -140,7 +123,6 @@ Microsoft refreshes its 13.5- and 15-inch laptops without reinventing them.
  - [https://arstechnica.com/?p=1888085](https://arstechnica.com/?p=1888085)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 14:00:10+00:00
- - tags: None
 
 For this refresh, Microsoft works up the courage to remove the headphone jack.
 
@@ -148,7 +130,6 @@ For this refresh, Microsoft works up the courage to remove the headphone jack.
  - [https://arstechnica.com/?p=1889383](https://arstechnica.com/?p=1889383)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 13:36:56+00:00
- - tags: None
 
 Platform is unlikely to reverse decision to block former US president Donald Trump.
 
@@ -156,7 +137,6 @@ Platform is unlikely to reverse decision to block former US president Donald Tru
  - [https://arstechnica.com/?p=1889214](https://arstechnica.com/?p=1889214)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 13:00:39+00:00
- - tags: None
 
 Roku offers control of your cams, lights, and switches from your biggest screen.
 
@@ -164,7 +144,6 @@ Roku offers control of your cams, lights, and switches from your biggest screen.
  - [https://arstechnica.com/?p=1888010](https://arstechnica.com/?p=1888010)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 13:00:23+00:00
- - tags: None
 
 Dell's new Bluetooth mouse is equipped for portability, but not productivity.
 
@@ -172,7 +151,6 @@ Dell's new Bluetooth mouse is equipped for portability, but not productivity.
  - [https://arstechnica.com/?p=1889174](https://arstechnica.com/?p=1889174)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 12:30:57+00:00
- - tags: None
 
 "We can't force the timeline. It will happen when it happens."
 
@@ -180,6 +158,5 @@ Dell's new Bluetooth mouse is equipped for portability, but not productivity.
  - [https://arstechnica.com/?p=1889243](https://arstechnica.com/?p=1889243)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-12 12:00:05+00:00
- - tags: None
 
 OpenSignal tests show C-band's impact on 5G download speeds.

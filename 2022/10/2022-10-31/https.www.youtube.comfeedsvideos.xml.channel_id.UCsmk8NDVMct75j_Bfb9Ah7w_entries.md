@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Meta Quest Pro Review - Not What I Expected!?
  - [https://www.youtube.com/watch?v=LNKvgtw6lNs](https://www.youtube.com/watch?v=LNKvgtw6lNs)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-10-31 18:00:07+00:00
- - tags: None
 
 The Meta Quest Pro Review is finally here. I've spent as much time as possible with the Quest Pro headset over the past week to bring you this full review on it's specs and features. I also answer the question, is the Quest Pro worth the upgrade over Quest 2?
 

@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## What happened to Hu & Xi? CCP worst top team shows up after 20th Congress/The reform come to an end
  - [https://www.youtube.com/watch?v=yh00z5CDJ-M](https://www.youtube.com/watch?v=yh00z5CDJ-M)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-10-25 20:45:08+00:00
- - tags: None
 
 #chinainsights#hujintao
 The first meeting after the 20th National Congress of the Chinese Communist Party CCP ended on October 23rd, granting the CCP leader Xi Jinping a third term as the top leader, and the seven most powerful members of the CCP, the new generation of Politburo Standing Committee members were presented. We see that this is the team that’s the least competent in governing the country. 

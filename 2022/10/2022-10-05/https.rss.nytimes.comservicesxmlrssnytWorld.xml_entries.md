@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Your Thursday Briefing: U.S. Believes Ukrainians Were Behind a Killing in Russia
  - [https://www.nytimes.com/2022/10/05/briefing/ukraine-assassination-dugina-taiwan-opec.html](https://www.nytimes.com/2022/10/05/briefing/ukraine-assassination-dugina-taiwan-opec.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 21:13:08+00:00
- - tags: None
 
 Plus arming Taiwan to deter China and OPEC cuts oil production.
 
@@ -12,7 +11,6 @@ Plus arming Taiwan to deter China and OPEC cuts oil production.
  - [https://www.nytimes.com/2022/10/05/climate/climate-change-europe-drought.html](https://www.nytimes.com/2022/10/05/climate/climate-change-europe-drought.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 21:00:06+00:00
- - tags: None
 
 Europe, China and North America were parched by extreme heat that would have been ‘virtually impossible’ without the effects of global warming, scientists said.
 
@@ -20,7 +18,6 @@ Europe, China and North America were parched by extreme heat that would have bee
  - [https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html](https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 20:45:23+00:00
- - tags: None
 
 The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.
 
@@ -28,7 +25,6 @@ The hijabs women are forced to wear have long been a sign of the government’s 
  - [https://www.nytimes.com/2022/10/05/world/europe/denmark-queen-royal-titles-apology.html](https://www.nytimes.com/2022/10/05/world/europe/denmark-queen-royal-titles-apology.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 18:41:32+00:00
- - tags: None
 
 Prince Joachim, the youngest of Queen Margrethe II’s two sons, has four children who will be affected by the change, which the queen said was “a necessary future-proofing of the monarchy.”
 
@@ -36,7 +32,6 @@ Prince Joachim, the youngest of Queen Margrethe II’s two sons, has four childr
  - [https://www.nytimes.com/2022/10/05/world/europe/jerzy-urban-dead.html](https://www.nytimes.com/2022/10/05/world/europe/jerzy-urban-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 17:43:53+00:00
- - tags: None
 
 He spent the 1980s as the Polish regime’s sarcastic spokesman, then transformed himself into a controversial media entrepreneur in the ’90s.
 
@@ -44,7 +39,6 @@ He spent the 1980s as the Polish regime’s sarcastic spokesman, then transforme
  - [https://www.nytimes.com/2022/10/05/us/politics/ukraine-russia-dugina-assassination.html](https://www.nytimes.com/2022/10/05/us/politics/ukraine-russia-dugina-assassination.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 17:08:03+00:00
- - tags: None
 
 American officials said they were not aware of the plan ahead of time for the attack that killed Daria Dugina and that they had admonished Ukraine over it.
 
@@ -52,7 +46,6 @@ American officials said they were not aware of the plan ahead of time for the at
  - [https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html](https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 16:06:01+00:00
- - tags: None
 
 Yom Kippur, the holiest day in Judaism, brings Israel to a standstill. For the nonobservant, that briefly turns highways into bike trails.
 
@@ -60,7 +53,6 @@ Yom Kippur, the holiest day in Judaism, brings Israel to a standstill. For the n
  - [https://www.nytimes.com/2022/10/05/world/middleeast/iran-prisoner-released-baquer-namazi.html](https://www.nytimes.com/2022/10/05/world/middleeast/iran-prisoner-released-baquer-namazi.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 15:27:44+00:00
- - tags: None
 
 The Iranian American is heading to the United Arab Emirates for urgent medical care.
 
@@ -68,7 +60,6 @@ The Iranian American is heading to the United Arab Emirates for urgent medical c
  - [https://www.nytimes.com/2022/10/05/world/europe/russian-journalist-marina-ovsyannikova-escape.html](https://www.nytimes.com/2022/10/05/world/europe/russian-journalist-marina-ovsyannikova-escape.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 15:12:37+00:00
- - tags: None
 
 Marina Ovsyannikova said in a Telegram post that she considered herself innocent of the two-month sentence imposed by a Moscow court.
 
@@ -76,7 +67,6 @@ Marina Ovsyannikova said in a Telegram post that she considered herself innocent
  - [https://www.nytimes.com/2022/10/05/us/politics/biden-oil-opec.html](https://www.nytimes.com/2022/10/05/us/politics/biden-oil-opec.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 14:26:38+00:00
- - tags: None
 
 U.S. officials have been in talks with oil-producing countries in an effort to prevent global oil prices from rising sharply.
 
@@ -84,7 +74,6 @@ U.S. officials have been in talks with oil-producing countries in an effort to p
  - [https://www.nytimes.com/2022/10/05/world/europe/liz-truss-uk-speech.html](https://www.nytimes.com/2022/10/05/world/europe/liz-truss-uk-speech.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 13:06:13+00:00
- - tags: None
 
 Britain’s beleaguered new prime minister weathered a protest during her set-piece annual speech to deliver an uncompromising message.
 
@@ -92,7 +81,6 @@ Britain’s beleaguered new prime minister weathered a protest during her set-pi
  - [https://www.nytimes.com/2022/10/05/world/europe/japan-expels-a-russian-diplomat-in-retaliatory-move-as-relations-deteriorate.html](https://www.nytimes.com/2022/10/05/world/europe/japan-expels-a-russian-diplomat-in-retaliatory-move-as-relations-deteriorate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 12:19:07+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ Britain’s beleaguered new prime minister weathered a protest during her set-pi
  - [https://www.nytimes.com/2022/10/05/world/europe/putin-annexation-ukraine-russia.html](https://www.nytimes.com/2022/10/05/world/europe/putin-annexation-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 11:06:11+00:00
- - tags: None
 
 Russian state television trumpeted the news, while playing down or ignoring the fact that Moscow’s forces are in retreat in multiple parts of the front line.
 
@@ -108,7 +95,6 @@ Russian state television trumpeted the news, while playing down or ignoring the 
  - [https://www.nytimes.com/2022/10/05/briefing/fed-reserve-inflation-labor-economy.html](https://www.nytimes.com/2022/10/05/briefing/fed-reserve-inflation-labor-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 10:49:24+00:00
- - tags: None
 
 The Federal Reserve is trying to tame inflation without wrecking the economy.
 
@@ -116,7 +102,6 @@ The Federal Reserve is trying to tame inflation without wrecking the economy.
  - [https://www.nytimes.com/2022/10/05/world/australia/species-extinction.html](https://www.nytimes.com/2022/10/05/world/australia/species-extinction.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 10:03:21+00:00
- - tags: None
 
 The country plans to focus on 110 endangered species and 20 habitats, but experts said the initiative was only a start.
 
@@ -124,7 +109,6 @@ The country plans to focus on 110 endangered species and 20 habitats, but expert
  - [https://www.nytimes.com/2022/10/05/world/a-new-625-million-package-of-us-military-aid-will-speed-4-more-mobile-rocket-launchers-to-ukraine.html](https://www.nytimes.com/2022/10/05/world/a-new-625-million-package-of-us-military-aid-will-speed-4-more-mobile-rocket-launchers-to-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 09:47:40+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@ The country plans to focus on 110 endangered species and 20 habitats, but expert
  - [https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html](https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 09:37:21+00:00
- - tags: None
 
 The result of a lotto drawing in the Philippines has set off a national debate about randomness, probability, fraud and human nature.
 
@@ -140,7 +123,6 @@ The result of a lotto drawing in the Philippines has set off a national debate a
  - [https://www.nytimes.com/2022/10/05/world/europe/russia-oil-price-cap.html](https://www.nytimes.com/2022/10/05/world/europe/russia-oil-price-cap.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 09:23:54+00:00
- - tags: None
 
 The cap, championed by the United States, would deprive the Kremlin of tens of billions of dollars annually. Experts warn that implementation will be difficult.
 
@@ -148,7 +130,6 @@ The cap, championed by the United States, would deprive the Kremlin of tens of b
  - [https://www.nytimes.com/2022/10/05/us/politics/taiwan-biden-weapons-china.html](https://www.nytimes.com/2022/10/05/us/politics/taiwan-biden-weapons-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 09:00:33+00:00
- - tags: None
 
 Officials say Taiwan needs to become a “porcupine” with enough weapons to hold out if the Chinese military blockades and invades it, even if Washington decides to send troops.
 
@@ -156,7 +137,6 @@ Officials say Taiwan needs to become a “porcupine” with enough weapons to ho
  - [https://www.nytimes.com/2022/10/05/magazine/uruguay-renewable-energy.html](https://www.nytimes.com/2022/10/05/magazine/uruguay-renewable-energy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 09:00:31+00:00
- - tags: None
 
 No greater challenge faces humanity than reducing emissions without backsliding into preindustrial poverty. One tiny country is leading the way.
 
@@ -164,7 +144,6 @@ No greater challenge faces humanity than reducing emissions without backsliding 
  - [https://www.nytimes.com/2022/10/05/science/nobel-prize-chemistry-winner.html](https://www.nytimes.com/2022/10/05/science/nobel-prize-chemistry-winner.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 08:47:41+00:00
- - tags: None
 
 The third Nobel awarded this year, it is the week’s final science prize.
 
@@ -172,7 +151,6 @@ The third Nobel awarded this year, it is the week’s final science prize.
  - [https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 06:33:29+00:00
- - tags: None
 
 Saudi Arabia appears determined to bolster prices and continue coordinating with Russia during the Ukraine war.
 
@@ -180,7 +158,6 @@ Saudi Arabia appears determined to bolster prices and continue coordinating with
  - [https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html](https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 04:01:25+00:00
- - tags: None
 
 Tens of thousands of men have ended up in places like Kyrgyzstan, a former Soviet territory, that normally see few refugees but are willing to take them.
 
@@ -188,6 +165,5 @@ Tens of thousands of men have ended up in places like Kyrgyzstan, a former Sovie
  - [https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html](https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-05 03:20:16+00:00
- - tags: None
 
 Mold in homes is a costly crisis that often accompanies hurricanes and flooding, and climate change is amplifying the rain that feeds outbreaks.

@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## How to enable Google Assistant quick phrases on your Pixel phone to save time
  - [https://www.zdnet.com/article/how-to-enable-google-assistant-quick-phrases-on-your-pixel-phone-to-save-time/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-enable-google-assistant-quick-phrases-on-your-pixel-phone-to-save-time/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 22:14:15+00:00
- - tags: None
 
 If you want a more efficient interaction with Google Assistant, you'll want to enable quick phrases.
 
@@ -12,7 +11,6 @@ If you want a more efficient interaction with Google Assistant, you'll want to e
  - [https://www.zdnet.com/article/how-to-use-apples-new-icloud-shared-photo-library/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-apples-new-icloud-shared-photo-library/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 19:53:52+00:00
- - tags: None
 
 Save yourself precious time in the future by setting up Apple's new shared photo library that can automatically share photos with up to five people.
 
@@ -20,7 +18,6 @@ Save yourself precious time in the future by setting up Apple's new shared photo
  - [https://www.zdnet.com/article/you-can-now-use-venmo-to-make-purchases-on-amazon/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-now-use-venmo-to-make-purchases-on-amazon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 19:31:00+00:00
- - tags: None
 
 Right in time for holiday shopping, you will be able to select Venmo as a payment method when making Amazon purchases.
 
@@ -28,7 +25,6 @@ Right in time for holiday shopping, you will be able to select Venmo as a paymen
  - [https://www.zdnet.com/home-and-office/winter-is-coming-this-backup-power-station-could-come-in-handy-soon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/winter-is-coming-this-backup-power-station-could-come-in-handy-soon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 18:21:18+00:00
- - tags: None
 
 Need backup power for when the lights go out? Check out the Bluetti AC200MAX.
 
@@ -36,7 +32,6 @@ Need backup power for when the lights go out? Check out the Bluetti AC200MAX.
  - [https://www.zdnet.com/article/best-mac/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-mac/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 17:54:00+00:00
- - tags: None
 
 Treating yourself or a loved one to a Mac? We compare the best Macs so you can find the right one based on your needs.
 
@@ -44,7 +39,6 @@ Treating yourself or a loved one to a Mac? We compare the best Macs so you can f
  - [https://www.zdnet.com/home-and-office/home-entertainment/hbo-max-deal-promo-code-coupon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/hbo-max-deal-promo-code-coupon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 17:48:00+00:00
- - tags: None
 
 Curious about House of the Dragon? Now is the time to grab an annual membership at a 40% reduced rate, and enjoy major titles like Euphoria, Friends, and The Suicide Squad as well.
 
@@ -52,7 +46,6 @@ Curious about House of the Dragon? Now is the time to grab an annual membership 
  - [https://www.zdnet.com/article/ubuntu-studio-is-the-linux-distribution-for-audio-and-video-creators/#ftag=RSSbaffb68](https://www.zdnet.com/article/ubuntu-studio-is-the-linux-distribution-for-audio-and-video-creators/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 17:19:34+00:00
- - tags: None
 
 Here's a quick tour of a Linux distribution built specifically for those who create audio and video content.
 
@@ -60,7 +53,6 @@ Here's a quick tour of a Linux distribution built specifically for those who cre
  - [https://www.zdnet.com/article/bose-quietcomfort-headphones-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/bose-quietcomfort-headphones-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 17:15:00+00:00
- - tags: None
 
 If you're traveling this holiday season, noise-cancelling headphones are essential. Right now, the Bose QuietComfort 45 headphones are 24% off on Amazon.
 
@@ -68,7 +60,6 @@ If you're traveling this holiday season, noise-cancelling headphones are essenti
  - [https://www.zdnet.com/article/samsungs-galaxy-watch-5-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsungs-galaxy-watch-5-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 17:14:12+00:00
- - tags: None
 
 While Samsung offered pre-order deals, this is the first actual drop in price since its release.
 
@@ -76,7 +67,6 @@ While Samsung offered pre-order deals, this is the first actual drop in price si
  - [https://www.zdnet.com/article/apac-faces-2-1m-shortage-in-cybersecurity-professionals/#ftag=RSSbaffb68](https://www.zdnet.com/article/apac-faces-2-1m-shortage-in-cybersecurity-professionals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 17:05:13+00:00
- - tags: None
 
 Asia-Pacific region sees greatest growth in cybersecurity workforce, but still struggles to fill a gap of more than 2.16 million with 60% of organisations reporting a significant shortage in security staff, according to a study released by ISC2.
 
@@ -84,7 +74,6 @@ Asia-Pacific region sees greatest growth in cybersecurity workforce, but still s
  - [https://www.zdnet.com/home-and-office/home-entertainment/discount-on-samsungs-the-frame-tv-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/discount-on-samsungs-the-frame-tv-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 15:31:00+00:00
- - tags: None
 
 You don't have to choose between streaming movies and displaying art. Right now, you can save $500 on Samsung's 55-inch The Frame TV on Amazon.
 
@@ -92,7 +81,6 @@ You don't have to choose between streaming movies and displaying art. Right now,
  - [https://www.zdnet.com/article/remote-work-still-has-problems-can-webex-fix-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/remote-work-still-has-problems-can-webex-fix-them/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 15:30:26+00:00
- - tags: None
 
 Virtual collaboration tools have come a long way since the pandemic started, but Cisco exec Jeetu Patel says we're still in the "first inning" of figuring out remote and hybrid work.
 
@@ -100,7 +88,6 @@ Virtual collaboration tools have come a long way since the pandemic started, but
  - [https://www.zdnet.com/home-and-office/home-entertainment/drop-and-epos-have-a-new-gaming-headset-for-the-sub-100-market/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/drop-and-epos-have-a-new-gaming-headset-for-the-sub-100-market/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 15:00:38+00:00
- - tags: None
 
 The same pair that brought gamers the beloved PC38X headset is back with an $80 option that attempts to capture the same magic in the budget market.
 
@@ -108,7 +95,6 @@ The same pair that brought gamers the beloved PC38X headset is back with an $80 
  - [https://www.zdnet.com/article/the-5-best-laptops-under-500-of-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-5-best-laptops-under-500-of-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 14:30:29+00:00
- - tags: None
 
 The past few years have shown us how much we truly need a reliable laptop. Check out these laptops for under $500 before you make that big purchase.
 
@@ -116,7 +102,6 @@ The past few years have shown us how much we truly need a reliable laptop. Check
  - [https://www.zdnet.com/article/drop-epos-pc38x-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/drop-epos-pc38x-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 14:30:00+00:00
- - tags: None
 
 Review: Drop's collab with EPOS (formerly part of Sennheiser) has produced an almost cult-like following among its devotees. After getting my hands on the PC38X gaming headset, I understand why.
 
@@ -124,7 +109,6 @@ Review: Drop's collab with EPOS (formerly part of Sennheiser) has produced an al
  - [https://www.zdnet.com/article/best-laptops-under-500/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-laptops-under-500/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 14:30:00+00:00
- - tags: None
 
 The past few years have shown us how much we truly need a reliable laptop. Check out these laptops for under $500 before you make that big purchase.
 
@@ -132,7 +116,6 @@ The past few years have shown us how much we truly need a reliable laptop. Check
  - [https://www.zdnet.com/article/time-to-upgrade-google-chrome-is-going-to-end-support-for-these-old-versions-of-windows/#ftag=RSSbaffb68](https://www.zdnet.com/article/time-to-upgrade-google-chrome-is-going-to-end-support-for-these-old-versions-of-windows/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 13:48:19+00:00
- - tags: None
 
 Windows 10 becomes the new minimum for Chrome.
 
@@ -140,7 +123,6 @@ Windows 10 becomes the new minimum for Chrome.
  - [https://www.zdnet.com/article/get-help-with-garmin-inreach-10000-sos-incidents-responded-to-across-the-globe/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-help-with-garmin-inreach-10000-sos-incidents-responded-to-across-the-globe/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 13:03:00+00:00
- - tags: None
 
 Garmin inReach devices provide two-way satellite communications with a focus on providing a lifeline to those in need who are out of reach of standard communications.
 
@@ -148,7 +130,6 @@ Garmin inReach devices provide two-way satellite communications with a focus on 
  - [https://www.zdnet.com/article/microsoft-surface-laptop-5-hands-on-this-looks-familiar/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-surface-laptop-5-hands-on-this-looks-familiar/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 13:00:26+00:00
- - tags: None
 
 Microsoft's fifth edition of its Surface Laptop comes in essentially the same package as the previous two generations. In this early look, we start to get a feel if it's a case of sticking with what works, or Microsoft being stuck in a rut.
 
@@ -156,7 +137,6 @@ Microsoft's fifth edition of its Surface Laptop comes in essentially the same pa
  - [https://www.zdnet.com/article/microsoft-surface-pro-9-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-surface-pro-9-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 13:00:00+00:00
- - tags: None
 
 With the Surface Pro 9, the Arm-based variant is no longer an afterthought. But most users will still find greater use for the Intel-based model, especially when working from an office.
 
@@ -164,7 +144,6 @@ With the Surface Pro 9, the Arm-based variant is no longer an afterthought. But 
  - [https://www.zdnet.com/article/microsoft-surface-pro-9-review-impressive-but-is-it-worth-the-price-of-an-m2-macbook-air/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-surface-pro-9-review-impressive-but-is-it-worth-the-price-of-an-m2-macbook-air/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 13:00:00+00:00
- - tags: None
 
 With the Surface Pro 9, the Arm-based variant is no longer an afterthought. But most users will still find greater use for the Intel-based model, especially when working from an office.
 
@@ -172,7 +151,6 @@ With the Surface Pro 9, the Arm-based variant is no longer an afterthought. But 
  - [https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/#ftag=RSSbaffb68](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 12:45:21+00:00
- - tags: None
 
 Apple just released MacOS Ventura, and with it a bunch of new features. But Continuity Camera may end up being the highlight. Here's how to use it.
 
@@ -180,7 +158,6 @@ Apple just released MacOS Ventura, and with it a bunch of new features. But Cont
  - [https://www.zdnet.com/article/apple-ipados-16-has-arrived-for-your-ipad-here-are-all-the-new-features/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-ipados-16-has-arrived-for-your-ipad-here-are-all-the-new-features/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 11:41:40+00:00
- - tags: None
 
 Apple's latest iPad software update brings a number of new features.
 
@@ -188,7 +165,6 @@ Apple's latest iPad software update brings a number of new features.
  - [https://www.zdnet.com/article/cybersecurity-teams-are-reaching-their-breaking-point-we-should-all-be-worried/#ftag=RSSbaffb68](https://www.zdnet.com/article/cybersecurity-teams-are-reaching-their-breaking-point-we-should-all-be-worried/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 10:56:12+00:00
- - tags: None
 
 Stress and burnout are having a massive impact on cybersecurity teams, leaving people and businesses more vulnerable than ever.
 
@@ -196,7 +172,6 @@ Stress and burnout are having a massive impact on cybersecurity teams, leaving p
  - [https://www.zdnet.com/article/ios-16-1-arrives-heres-what-new-for-your-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-16-1-arrives-heres-what-new-for-your-iphone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 10:25:03+00:00
- - tags: None
 
 New updates for your iPhone in the shape of Apple's iOS 16.1
 
@@ -204,7 +179,6 @@ New updates for your iPhone in the shape of Apple's iOS 16.1
  - [https://www.zdnet.com/article/how-to-negotiate-five-tips-to-help-you-work-out-a-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-negotiate-five-tips-to-help-you-work-out-a-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 10:15:20+00:00
- - tags: None
 
 If you want to bring people with you and make effective decisions, then you'll need to show empathy and openness.
 
@@ -212,7 +186,6 @@ If you want to bring people with you and make effective decisions, then you'll n
  - [https://www.zdnet.com/article/how-to-set-up-two-factor-authentication-for-your-facebook-account/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-set-up-two-factor-authentication-for-your-facebook-account/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 10:01:14+00:00
- - tags: None
 
 Applying two-factor authentication to Facebook is a useful way to protect it from being hacked - here's how to set it up.
 
@@ -220,7 +193,6 @@ Applying two-factor authentication to Facebook is a useful way to protect it fro
  - [https://www.zdnet.com/article/australia-seeks-stiffer-penalty-for-data-breaches-amidst-spate-of-security-incidents/#ftag=RSSbaffb68](https://www.zdnet.com/article/australia-seeks-stiffer-penalty-for-data-breaches-amidst-spate-of-security-incidents/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 08:51:00+00:00
- - tags: None
 
 Government says it will push up maximum fines for serious or repeated data privacy breaches to AU$50 million, up from the current AU$2.22 million, in a move that follows a spate of cybersecurity incidents that compromised customer data, including Medibank.
 
@@ -228,7 +200,6 @@ Government says it will push up maximum fines for serious or repeated data priva
  - [https://www.zdnet.com/article/whatsapp-outage-users-unable-to-send-messages/#ftag=RSSbaffb68](https://www.zdnet.com/article/whatsapp-outage-users-unable-to-send-messages/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 08:37:53+00:00
- - tags: None
 
 Messaging app used by two billion people is apparently suffering an outage.
 
@@ -236,6 +207,5 @@ Messaging app used by two billion people is apparently suffering an outage.
  - [https://www.zdnet.com/home-and-office/discount-on-samsungs-the-frame-tv-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/discount-on-samsungs-the-frame-tv-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-25 07:25:38+00:00
- - tags: None
 
 Now under $1000, this TV is a great alternative to a typical model if you like to display artwork and photos.

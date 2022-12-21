@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The 6 best cheap 5G phones of 2022
  - [https://www.zdnet.com/article/best-cheap-5g-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cheap-5g-phone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 23:05:00+00:00
- - tags: None
 
 In the current economic climate, buying a low-cost 5G phone may be the best way to stay future-proof. ZDNET tested the best cheap 5G phones on the market and found six options that deliver great value and 5G support.
 
@@ -12,7 +11,6 @@ In the current economic climate, buying a low-cost 5G phone may be the best way 
  - [https://www.zdnet.com/article/meta-confirms-the-next-consumer-quest-vr-headset-is-coming-in-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/meta-confirms-the-next-consumer-quest-vr-headset-is-coming-in-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 22:26:28+00:00
- - tags: None
 
 Meanwhile, Meta says operating losses related to AR and VR will "grow significantly" in 2023.
 
@@ -20,7 +18,6 @@ Meanwhile, Meta says operating losses related to AR and VR will "grow significan
  - [https://www.zdnet.com/home-and-office/networking/best-free-vpn-for-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/best-free-vpn-for-iphone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 22:21:00+00:00
- - tags: None
 
 A free VPN could work for protecting your iPhone's connection in limited cases. But before you go that route, make sure you understand the risks.
 
@@ -28,7 +25,6 @@ A free VPN could work for protecting your iPhone's connection in limited cases. 
  - [https://www.zdnet.com/article/how-to-share-a-google-calendar-with-friends-family-or-colleagues-for-easy-collaboration/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-share-a-google-calendar-with-friends-family-or-colleagues-for-easy-collaboration/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 20:57:00+00:00
- - tags: None
 
 Here's how you can give other people permission to view or edit a shared Google Calendar.
 
@@ -36,7 +32,6 @@ Here's how you can give other people permission to view or edit a shared Google 
  - [https://www.zdnet.com/article/turbo-boost-your-pc-with-this-high-performance-m-2-nvme-solid-state-drive/#ftag=RSSbaffb68](https://www.zdnet.com/article/turbo-boost-your-pc-with-this-high-performance-m-2-nvme-solid-state-drive/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 20:56:51+00:00
- - tags: None
 
 The Lexar Professional NM800 PRO with Heatsink M.2 SSD is perfect for gamers and creatives.
 
@@ -44,7 +39,6 @@ The Lexar Professional NM800 PRO with Heatsink M.2 SSD is perfect for gamers and
  - [https://www.zdnet.com/article/how-to-save-money-on-clothes-with-this-chrome-shopping-extension/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-save-money-on-clothes-with-this-chrome-shopping-extension/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 20:40:41+00:00
- - tags: None
 
 This plugin makes secondhand shopping effortless by intercepting digital commerce queries and redirecting to secondhand alternatives.
 
@@ -52,7 +46,6 @@ This plugin makes secondhand shopping effortless by intercepting digital commerc
  - [https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 19:30:07+00:00
- - tags: None
 
 Cleaning an Apple Watch should be done carefully and in stages. We're going to walk you through the different steps so you know what to do and, more importantly, what not to do.
 
@@ -60,7 +53,6 @@ Cleaning an Apple Watch should be done carefully and in stages. We're going to w
  - [https://www.zdnet.com/article/apple-magsafe-duo-wireless-charger-is-it-still-a-good-buy-in-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-magsafe-duo-wireless-charger-is-it-still-a-good-buy-in-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 18:12:07+00:00
- - tags: None
 
 If you're thinking about making the purchase but aren't sure what this wireless charger can and can't do, here's a rundown.
 
@@ -68,7 +60,6 @@ If you're thinking about making the purchase but aren't sure what this wireless 
  - [https://www.zdnet.com/article/starlink-is-now-coming-to-your-in-motion-vehicle/#ftag=RSSbaffb68](https://www.zdnet.com/article/starlink-is-now-coming-to-your-in-motion-vehicle/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 16:25:05+00:00
- - tags: None
 
 RVs will now be able to use Starlink for connectivity to high-speed internet while on the move.
 
@@ -76,7 +67,6 @@ RVs will now be able to use Starlink for connectivity to high-speed internet whi
  - [https://www.zdnet.com/article/how-to-automatically-keep-your-windows-applications-updated/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-automatically-keep-your-windows-applications-updated/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 15:49:52+00:00
- - tags: None
 
 A good software updater can save you time and effort by automatically updating the apps on your computer.
 
@@ -84,7 +74,6 @@ A good software updater can save you time and effort by automatically updating t
  - [https://www.zdnet.com/article/how-to-dramatically-improve-the-sound-from-your-pixel-7-for-even-better-musical-enjoyment/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-dramatically-improve-the-sound-from-your-pixel-7-for-even-better-musical-enjoyment/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 15:49:33+00:00
- - tags: None
 
 Here's how to get the most out of your music blaring from your Pixel 7 device.
 
@@ -92,7 +81,6 @@ Here's how to get the most out of your music blaring from your Pixel 7 device.
  - [https://www.zdnet.com/article/does-disk-encryption-slow-down-your-pc/#ftag=RSSbaffb68](https://www.zdnet.com/article/does-disk-encryption-slow-down-your-pc/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 15:32:00+00:00
- - tags: None
 
 Disk encryption is a powerful security precaution. Is there a downside to it? Here's what you need to know.
 
@@ -100,7 +88,6 @@ Disk encryption is a powerful security precaution. Is there a downside to it? He
  - [https://www.zdnet.com/article/philips-fidelio-t1-earbuds-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/philips-fidelio-t1-earbuds-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 15:27:30+00:00
- - tags: None
 
 If you've been sleeping on the Philips earbuds line, now is the time to get a pair and save $153.
 
@@ -108,7 +95,6 @@ If you've been sleeping on the Philips earbuds line, now is the time to get a pa
  - [https://www.zdnet.com/article/all-eyes-on-microsofts-azure-cloud-numbers-in-q1-fy23/#ftag=RSSbaffb68](https://www.zdnet.com/article/all-eyes-on-microsofts-azure-cloud-numbers-in-q1-fy23/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 14:48:35+00:00
- - tags: None
 
 Tough foreign exchange rates, high energy costs and ongoing inflation woes mean not just Microsoft's customers, but the company itself will need to 'do more with less' in the coming year.
 
@@ -116,7 +102,6 @@ Tough foreign exchange rates, high energy costs and ongoing inflation woes mean 
  - [https://www.zdnet.com/article/samsungs-new-privacy-feature-for-galaxy-phones-will-protect-your-photos-from-prying-eyes/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsungs-new-privacy-feature-for-galaxy-phones-will-protect-your-photos-from-prying-eyes/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 13:41:54+00:00
- - tags: None
 
 New 'maintenance mode' should keep your pictures and contacts safe if you need to get your phone fixed.
 
@@ -124,7 +109,6 @@ New 'maintenance mode' should keep your pictures and contacts safe if you need t
  - [https://www.zdnet.com/article/these-99-bone-conduction-headphones-work-underwater-and-when-you-dont-have-your-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-99-bone-conduction-headphones-work-underwater-and-when-you-dont-have-your-phone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 12:17:46+00:00
- - tags: None
 
 Built-in memory and waterproofing, too? The H2O Audio TRI Multi-Sport headphones have a lot to offer.
 
@@ -132,7 +116,6 @@ Built-in memory and waterproofing, too? The H2O Audio TRI Multi-Sport headphones
  - [https://www.zdnet.com/article/low-code-and-no-code-are-making-developers-job-better-in-two-ways/#ftag=RSSbaffb68](https://www.zdnet.com/article/low-code-and-no-code-are-making-developers-job-better-in-two-ways/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 12:06:21+00:00
- - tags: None
 
 Low-code and no-code means faster software development and deployment, as well as turning developers into facilitators.
 
@@ -140,7 +123,6 @@ Low-code and no-code means faster software development and deployment, as well a
  - [https://www.zdnet.com/article/low-code-and-no-code-are-making-developers-jobs-better-in-two-ways/#ftag=RSSbaffb68](https://www.zdnet.com/article/low-code-and-no-code-are-making-developers-jobs-better-in-two-ways/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 12:06:00+00:00
- - tags: None
 
 Low-code and no-code means faster software development and deployment, as well as turning developers into facilitators.
 
@@ -148,7 +130,6 @@ Low-code and no-code means faster software development and deployment, as well a
  - [https://www.zdnet.com/article/these-ransomware-victims-are-making-the-highest-ransom-payments/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-ransomware-victims-are-making-the-highest-ransom-payments/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 11:30:17+00:00
- - tags: None
 
 Ransomware gangs want to make the biggest amount of money in the smallest time possible - and that means one industry is a lucrative target.
 
@@ -156,7 +137,6 @@ Ransomware gangs want to make the biggest amount of money in the smallest time p
  - [https://www.zdnet.com/article/iphone-will-get-usb-c-charging-as-apple-says-it-will-comply-with-eu-law/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-will-get-usb-c-charging-as-apple-says-it-will-comply-with-eu-law/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 11:04:35+00:00
- - tags: None
 
 Apple confirms it will comply with EU law that requires all smartphones to have USB-C chargers - but it won't say when.
 
@@ -164,7 +144,6 @@ Apple confirms it will comply with EU law that requires all smartphones to have 
  - [https://www.zdnet.com/article/the-nhl-and-sap-team-up-to-boost-sustainability-efforts-using-new-nhl-venue-metrics-platform/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-nhl-and-sap-team-up-to-boost-sustainability-efforts-using-new-nhl-venue-metrics-platform/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 11:00:16+00:00
- - tags: None
 
 The NHL and its teams are now tracking energy, water, waste, and recycling across its various venues to better understand the league's carbon footprint.
 
@@ -172,7 +151,6 @@ The NHL and its teams are now tracking energy, water, waste, and recycling acros
  - [https://www.zdnet.com/article/pepsico-is-working-with-startups-to-tap-new-sources-of-innovation-heres-how-it-does-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/pepsico-is-working-with-startups-to-tap-new-sources-of-innovation-heres-how-it-does-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 10:15:13+00:00
- - tags: None
 
 How can innovative startups work effectively with big firms? One senior executive gives us his top tips.
 
@@ -180,7 +158,6 @@ How can innovative startups work effectively with big firms? One senior executiv
  - [https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 10:00:17+00:00
- - tags: None
 
 By tapping into petabytes of data, Expedia's AI and ML models know more about your travel preferences than any human ever could.
 
@@ -188,7 +165,6 @@ By tapping into petabytes of data, Expedia's AI and ML models know more about yo
  - [https://www.zdnet.com/home-and-office/dual-portable-laptop-monitors-teamgee-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/dual-portable-laptop-monitors-teamgee-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 08:33:02+00:00
- - tags: None
 
 If you're working from home, you should check out this portable laptop monitor setup, currently available for $120 off.
 
@@ -196,7 +172,6 @@ If you're working from home, you should check out this portable laptop monitor s
  - [https://www.zdnet.com/article/dual-portable-laptop-monitors-teamgee-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/dual-portable-laptop-monitors-teamgee-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 08:33:00+00:00
- - tags: None
 
 If you're working from home, you should check out this portable laptop monitor setup, currently available for $120 off.
 
@@ -204,7 +179,6 @@ If you're working from home, you should check out this portable laptop monitor s
  - [https://www.zdnet.com/home-and-office/home-entertainment/rodes-gaming-focused-rode-x-brand-launches-with-two-new-mics-new-software/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/rodes-gaming-focused-rode-x-brand-launches-with-two-new-mics-new-software/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 03:00:16+00:00
- - tags: None
 
 Rode's reputation as a professional audio company had already earned it a spot on many high-end streamers' and gamers' desks. Now, the company is leaning into that success by debuting its Rode X brand of gaming audio.
 
@@ -212,6 +186,5 @@ Rode's reputation as a professional audio company had already earned it a spot o
  - [https://www.zdnet.com/article/sk-hynixs-profit-nosedives-from-the-downturn-in-memory-chip-market/#ftag=RSSbaffb68](https://www.zdnet.com/article/sk-hynixs-profit-nosedives-from-the-downturn-in-memory-chip-market/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-26 01:16:24+00:00
- - tags: None
 
 Like Samsung, SK Hynix is seeing demand for memory chips drop significantly from the economic downturn.

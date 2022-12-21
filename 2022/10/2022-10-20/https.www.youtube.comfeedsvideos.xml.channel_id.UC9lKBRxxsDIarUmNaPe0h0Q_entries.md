@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## A great financial reset is happening NOW (new gold standard)
  - [https://www.youtube.com/watch?v=gVr9RRsRaK8](https://www.youtube.com/watch?v=gVr9RRsRaK8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-10-20 15:00:53+00:00
- - tags: None
 
 🎨 JOIN MASTERWORKS (and skip the waiting list): http://masterworks.art/sorelle
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/

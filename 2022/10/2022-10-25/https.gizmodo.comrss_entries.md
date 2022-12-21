@@ -1,10 +1,9 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
 
 ## io9's Halloween Costume Show Week 4: Mysterious and Spooky
  - [https://gizmodo.com/halloween-costume-show-week-4-marvel-dc-stranger-things-1849702432](https://gizmodo.com/halloween-costume-show-week-4-marvel-dc-stranger-things-1849702432)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-26 00:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--1bYW1v8m--/c_fit,fl_progressive,q_80,w_636/c43e8cf03484c403582e05a01b0db6d1.png" /><p>It’s almost the big weekend! Here’s your <a href="https://gizmodo.com/halloween-costume-show-week-3-nope-marvel-pokemon-1849679141">last chance to be featured in our annual costume show</a> on Halloween this upcoming Monday. So if you’re going to an epic party, parade, out for candy, or staying in but dressing up,<a href="https://gizmodo.com/halloween-costume-show-week-2-1849643764"> send us your pop-culture inspired costumes</a>. </p><p><a href="https://gizmodo.com/halloween-costume-show-week-4-marvel-dc-stranger-things-1849702432">Read more...</a></p>
 
@@ -12,7 +11,6 @@
  - [https://gizmodo.com/amazon-venmo-amazon-prime-1849701518](https://gizmodo.com/amazon-venmo-amazon-prime-1849701518)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 22:45:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--xlbadL53--/c_fit,fl_progressive,q_80,w_636/8c51439cd74f7472a255f50c3799d2ca.jpg" /><p>Venmo users unsure what to do with that extra change sitting in their account now have a new option: they can blow it on nonsense from Amazon.</p><p><a href="https://gizmodo.com/amazon-venmo-amazon-prime-1849701518">Read more...</a></p>
 
@@ -20,7 +18,6 @@
  - [https://gizmodo.com/house-of-the-dragon-finale-fight-scene-jurassic-park-1849701363](https://gizmodo.com/house-of-the-dragon-finale-fight-scene-jurassic-park-1849701363)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 22:30:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--4WlB08GV--/c_fit,fl_progressive,q_80,w_636/f322622224dd6ec42e92ffdaf7093c22.jpg" /><p>House Targaryen may think they have ‘em tamed, but as <a href="https://gizmodo.com/house-of-the-dragon-finale-recap-black-queen-episode-10-1849692400">the <em>House of the Dragons</em> finale</a> amply demonstrated, a dragon’s gonna do what a dragon’s gonna do. It was a satisfying sight for <a href="https://gizmodo.com/house-of-the-dragon-how-many-seasons-george-r-r-martin-1849647688"><em>Game of Thrones</em> fans</a> who’ve been waiting years to see a proper dragon brawl, so the people behind the HBO franchise didn’t take any…</p><p><a href="https://gizmodo.com/house-of-the-dragon-finale-fight-scene-jurassic-park-1849701363">Read more...</a></p>
 
@@ -28,7 +25,6 @@
  - [https://gizmodo.com/uber-drizly-penalized-ftc-data-breach-1849699930](https://gizmodo.com/uber-drizly-penalized-ftc-data-breach-1849699930)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 21:48:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--jgffdNSK--/c_fit,fl_progressive,q_80,w_636/fccd772b83807d069addf5a850348731.jpg" /><p>We’ve all been there—you want to get totally sloshed but you don’t have the energy to get off the couch. The solution? Make the debauched decision to order alcohol straight to your apartment like some sort of moral pervert.  Yes, dear friends, there <em>is</em> an app for that—and it’s in a bit of trouble right now.<br /></p><p><a href="https://gizmodo.com/uber-drizly-penalized-ftc-data-breach-1849699930">Read more...</a></p>
 
@@ -36,7 +32,6 @@
  - [https://gizmodo.com/twitter-losing-heavy-tweeters-as-elon-acquisition-looms-1849701365](https://gizmodo.com/twitter-losing-heavy-tweeters-as-elon-acquisition-looms-1849701365)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 21:40:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--pnBopqDJ--/c_fit,fl_progressive,q_80,w_636/cff4683da35df2ead2e6f338e0ef21c3.jpg" /><p>Twitter has seen better days, according to <a href="https://www.reuters.com/technology/exclusive-where-did-tweeters-go-twitter-is-losing-its-most-active-users-internal-2022-10-25/" rel="noopener noreferrer" target="_blank">a report</a> from Reuters, which cites the social media company’s own research.<br /></p><p><a href="https://gizmodo.com/twitter-losing-heavy-tweeters-as-elon-acquisition-looms-1849701365">Read more...</a></p>
 
@@ -44,7 +39,6 @@
  - [https://gizmodo.com/europe-natural-gas-stockpile-energy-crisis-1849700114](https://gizmodo.com/europe-natural-gas-stockpile-energy-crisis-1849700114)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 20:48:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--uuzi6uVg--/c_fit,fl_progressive,q_80,w_636/34acb78d339daceeeffacdd8553fd914.jpg" /><p>Europe has turned a surprising corner in preparation for the continent’s much-discussed <a href="https://gizmodo.com/slack-has-the-key-to-a-great-developer-experience-1849486955">impending energy crisis</a>. The European Union now has more liquefied natural gas than it needs, according to reports from <a href="https://www.bloomberg.com/news/articles/2022-10-25/too-much-gas-the-unexpected-twist-in-europe-s-energy-crisis" rel="noopener noreferrer" target="_blank">Bloomberg</a> and <a href="https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html" rel="noopener noreferrer" target="_blank">the New York Times</a>.<br /></p><p><a href="https://gizmodo.com/europe-natural-gas-stockpile-energy-crisis-1849700114">Read more...</a></p>
 
@@ -52,7 +46,6 @@
  - [https://gizmodo.com/samsung-android-13-rolling-out-galaxy-devices-timeline-1849701454](https://gizmodo.com/samsung-android-13-rolling-out-galaxy-devices-timeline-1849701454)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 20:40:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s---MlqrIZx--/c_fit,fl_progressive,q_80,w_636/4bf714c813fb6f15821c9b81f74cc83e.jpg" /><p>When Apple launches a software update on the iPhone, everyone gets it simultaneously. But on the Android side of things, it’s dependent on individual manufacturers. For instance, Samsung’s Android 13 update wasn’t announced until <a href="https://news.samsung.com/us/one-ui-5-gets-personal-sdc22-create-your-own-mobile-experiences/" rel="noopener noreferrer" target="_blank">two weeks ago</a>, nearly two months after Google <a href="https://gizmodo.com/android-13-live-out-pixel-how-to-get-update-google-phon-1849407951">debuted</a> it for the Pixel devices. It’s only…</p><p><a href="https://gizmodo.com/samsung-android-13-rolling-out-galaxy-devices-timeline-1849701454">Read more...</a></p>
 
@@ -60,7 +53,6 @@
  - [https://gizmodo.com/kanye-west-ye-adidas-antisemitic-1849700792](https://gizmodo.com/kanye-west-ye-adidas-antisemitic-1849700792)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 20:30:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--jC96gOfS--/c_fit,fl_progressive,q_80,w_636/c5093d6bebf1aa4cacf450663fabfab1.jpg" /><p><a href="https://gizmodo.com/kanye-west-buying-parler-locked-out-instagram-twitter-1849665695">Kanye West</a>, or Ye, as he’d like to be called, is a man that needs no introduction, for better or for worse, but the rapper and fashion designer is facing consequences for his antisemitic actions over the past few weeks. This latest round of backlash against West began when he posted an image wearing a <a href="https://pagesix.com/2022/10/03/kanye-west-wears-white-lives-matter-shirt-at-yeezy-show/" rel="noopener noreferrer" target="_blank">“White Lives…</a></p><p><a href="https://gizmodo.com/kanye-west-ye-adidas-antisemitic-1849700792">Read more...</a></p>
 
@@ -68,7 +60,6 @@
  - [https://gizmodo.com/conan-the-bacterium-suggests-microbes-could-ve-lived-1849700564](https://gizmodo.com/conan-the-bacterium-suggests-microbes-could-ve-lived-1849700564)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 20:21:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--5P5tiGbt--/c_fit,fl_progressive,q_80,w_636/c8d22c4662e00409fe0a37aff99fe546.jpg" /><p>Ancient bacteria could have survived just beneath the Martian surface for much longer than previously thought, according to a new <a href="https://www.liebertpub.com/doi/10.1089/ast.2022.0065" rel="noopener noreferrer" target="_blank">study</a> published today in Astrobiology.</p><p><a href="https://gizmodo.com/conan-the-bacterium-suggests-microbes-could-ve-lived-1849700564">Read more...</a></p>
 
@@ -76,7 +67,6 @@
  - [https://gizmodo.com/james-gunn-head-of-dc-movies-and-tv-warner-bros-1849701460](https://gizmodo.com/james-gunn-head-of-dc-movies-and-tv-warner-bros-1849701460)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 20:19:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--TT0t4r4S--/c_fit,fl_progressive,q_80,w_636/0b5a8987b26cd72cca56ed74abaf7dda.png" /><p>There you have it, officially James Gunn (The Suicide Squad) will lead DC films, TV and animation over at Warner Bros. Discovery. According to <a href="https://www.hollywoodreporter.com/movies/movie-news/dc-movies-james-gunn-peter-safran-to-lead-film-tv-division-1235248438/" rel="noopener noreferrer" target="_blank">The Hollywood Reporter</a> he has been named a part of the leadership for the comic book franchises with producerPeter Safran (<em>Peacemaker</em>) both serving under the title of …</p><p><a href="https://gizmodo.com/james-gunn-head-of-dc-movies-and-tv-warner-bros-1849701460">Read more...</a></p>
 
@@ -84,7 +74,6 @@
  - [https://gizmodo.com/cobra-kai-power-rangers-action-figures-hasbro-netflix-1849700997](https://gizmodo.com/cobra-kai-power-rangers-action-figures-hasbro-netflix-1849700997)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 20:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--UqVKarQz--/c_fit,fl_progressive,q_80,w_636/bcc2010e202308341a3f2a5686149ca2.png" /><p>The season of <a href="https://gizmodo.com/cobra-kai-season-5-review-netflix-karate-kid-terry-silv-1849500563"><em>Cobra Kai</em></a> crossovers is here, and this time it’s the turn of similarly crossover-manic teens with attitude to do so. Hasbro has announced its latest <a href="https://gizmodo.com/power-rangers-zord-ascension-project-megazord-review-1849474605"><em>Power Rangers</em></a> mashup is bringing two greats together in the holiest of martial arts matrimonies.<br /></p><p><a href="https://gizmodo.com/cobra-kai-power-rangers-action-figures-hasbro-netflix-1849700997">Read more...</a></p>
 
@@ -92,7 +81,6 @@
  - [https://gizmodo.com/shutterstock-dall-e-ai-art-openai-1849700649](https://gizmodo.com/shutterstock-dall-e-ai-art-openai-1849700649)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 19:30:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--L2kR7RRP--/c_fit,fl_progressive,q_80,w_636/17e3af884621846e4de0aac3f7277eb8.jpg" /><p>Shutterstock’s leaning all the way into AI generated stock photos and wants to throw a bone to the measly meat bags that made it possible.</p><p><a href="https://gizmodo.com/shutterstock-dall-e-ai-art-openai-1849700649">Read more...</a></p>
 
@@ -100,7 +88,6 @@
  - [https://gizmodo.com/head-wounds-sparrow-review-oscar-isaac-graphic-novel-1849699914](https://gizmodo.com/head-wounds-sparrow-review-oscar-isaac-graphic-novel-1849699914)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 19:15:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--6HMYjXd---/c_fit,fl_progressive,q_80,w_636/28a2baac58cbdbe7bb71b921dfc9d53a.png" /><p>When we first meet <a href="https://gizmodo.com/oscar-isaac-comic-book-head-wounds-sparrow-nycc-1849645298">Leo Guidry</a>, the main character of <a href="https://gizmodo.com/oscar-isaac-legendary-comics-head-wounds-sparrow-noir-m-1848882623"><em>Head Wounds: Sparrow</em></a><em>—</em>a new graphic novel developed by <a href="https://gizmodo.com/the-oscars-ranked-1848698624">Oscar Isaac</a>, written by Brian Buccellato, illustrated by Christian Ward, and created by Robert Johnson and John Alvey—he’s not much of a hero. He’s a crooked cop in New Orleans who seems more interested in…</p><p><a href="https://gizmodo.com/head-wounds-sparrow-review-oscar-isaac-graphic-novel-1849699914">Read more...</a></p>
 
@@ -108,7 +95,6 @@
  - [https://gizmodo.com/a-person-who-lived-800-years-ago-is-the-origin-of-a-mod-1849700455](https://gizmodo.com/a-person-who-lived-800-years-ago-is-the-origin-of-a-mod-1849700455)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 18:35:55+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--unuYgZg9--/c_fit,fl_progressive,q_80,w_636/4709ce2c9b2dd57e005be82a84c7f185.jpg" /><p>Scientists in Australia believe that they’ve discovered the centuries-old origins of a rare form of childhood epilepsy caused by a genetic mutation: a single common ancestor who lived in Britain roughly 800 years ago. The find is especially notable because hereditary conditions of this kind typically don’t survive for…</p><p><a href="https://gizmodo.com/a-person-who-lived-800-years-ago-is-the-origin-of-a-mod-1849700455">Read more...</a></p>
 
@@ -116,7 +102,6 @@
  - [https://gizmodo.com/silicon-valley-mercedes-benz-1849699722](https://gizmodo.com/silicon-valley-mercedes-benz-1849699722)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 18:15:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--KRvxSuLU--/c_fit,fl_progressive,q_80,w_636/f68ee7711dc1373f1e5a4de4c34b75dd.jpg" /><p>The scariest part of Palo Alto used to be the number of failed tech startups, until now. Last week, authorities dug up a car in the backyard of a <a href="https://gizmodo.com/silicon-valleys-transportation-failures-tesla-waymo-bir-1849382788">Silicon Valley</a> mansion which only led to more questions about the car’s contents and owner.<br /></p><p><a href="https://gizmodo.com/silicon-valley-mercedes-benz-1849699722">Read more...</a></p>
 
@@ -124,7 +109,6 @@
  - [https://gizmodo.com/guardians-of-the-galaxy-holiday-special-marvel-studios-1849700099](https://gizmodo.com/guardians-of-the-galaxy-holiday-special-marvel-studios-1849700099)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 18:15:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--agAnFW3---/c_fit,fl_progressive,q_80,w_636/65ec26ef262ef707437a3defe580c824.png" /><p>Finding the holiday spirit becomes a mission in<em> The Guardians of the Galaxy Holiday Special</em>. Another <a href="https://gizmodo.com/ant-man-new-trailer-wasp-quantumania-2-1849693168">Marvel Studios</a> special presentation takes us back into the <a href="https://gizmodo.com/marvel-release-dates-when-to-see-upcoming-mcu-movies-a-1848196856">MCU</a> for another side quest, this time with familiar heroes for the holidays after introducing new ones in Halloween’s <a href="https://gizmodo.com/werewolf-by-night-review-marvel-disney-plus-horror-stre-1849579625"><em>Werewolf by Night</em></a><em>.<br /></em></p><p><a href="https://gizmodo.com/guardians-of-the-galaxy-holiday-special-marvel-studios-1849700099">Read more...</a></p>
 
@@ -132,7 +116,6 @@
  - [https://gizmodo.com/game-of-thrones-winds-of-winter-george-r-r-martin-1849699556](https://gizmodo.com/game-of-thrones-winds-of-winter-george-r-r-martin-1849699556)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 18:10:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--rHrJFTy---/c_fit,fl_progressive,q_80,w_636/2b90c03c277c065749396c460fa701ca.png" /><p><a href="https://gizmodo.com/george-rr-martin-winds-of-winter-update-game-of-thrones-1849423881">Just two months</a> after swearing off giving <em>Winds of Winter</em> updates, perpetual updater and writer of <em>Winds of Winter</em> George R.R. Martin has an announcement: he has a <em>Winds of Winter </em>update.<br /></p><p><a href="https://gizmodo.com/game-of-thrones-winds-of-winter-george-r-r-martin-1849699556">Read more...</a></p>
 
@@ -140,7 +123,6 @@
  - [https://gizmodo.com/china-spaceplane-raises-orbit-1849699601](https://gizmodo.com/china-spaceplane-raises-orbit-1849699601)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 18:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--5wcTj5rt--/c_fit,fl_progressive,q_80,w_636/1ad28e8028691f9f46fe609deb383b02.jpg" /><p>It’s been nearly eight weeks since we last heard from China’s spaceplane, which launched from the the Gobi Desert in early August. But things are happening, as the spaceplane recently fired its thrusters to ascend to a higher and more circular orbit, but for reasons that aren’t entirely clear.   </p><p><a href="https://gizmodo.com/china-spaceplane-raises-orbit-1849699601">Read more...</a></p>
 
@@ -148,7 +130,6 @@
  - [https://gizmodo.com/ghosts-of-wreckers-cove-liniers-ya-comic-preview-1849699317](https://gizmodo.com/ghosts-of-wreckers-cove-liniers-ya-comic-preview-1849699317)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 17:15:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--_69wIQFY--/c_fit,fl_progressive,q_80,w_636/02ed721b80c3ced00e36b4fb940b9ffe.jpg" /><p><a href="https://gizmodo.com/comic-con-2022-eisners-winners-complete-list-1849323130">Eisner Award</a>-winning cartoonist <a href="https://gizmodo.com/here-are-your-2018-eisner-award-winners-1827773792">Liniers</a> has teamed up with Angelica del Campo for a new Middle Grade graphic novel about “ghosts, pirates, stolen treasure, seashells, swimming, and a young lighthouse keeper.” It’s titled <em>The Ghosts of Wreckers Cove</em>, has a <em>Harriet the Spy</em>-meets-<a href="https://gizmodo.com/ghibli-theme-park-japan-first-look-hayao-miyazaki-films-1849555797"><em>Spirited Away</em></a> vibe, and io9 is happy to…</p><p><a href="https://gizmodo.com/ghosts-of-wreckers-cove-liniers-ya-comic-preview-1849699317">Read more...</a></p>
 
@@ -156,7 +137,6 @@
  - [https://gizmodo.com/hinge-bots-scammers-dating-apps-1849699399](https://gizmodo.com/hinge-bots-scammers-dating-apps-1849699399)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 17:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--sp3SrRsO--/c_fit,fl_progressive,q_80,w_636/55621d851e8348661204a3fcd2afb1ba.jpg" /><p>Dating app Hinge is planning to introduce a video profile verification feature to  the platform, as first described in <a href="https://www.wired.com/story/hinge-selfie-verification-scammers-bots/" rel="noopener noreferrer" target="_blank">a report</a> from Wired. The change is intended to combat the rise of sham and bot accounts on the app. These faux accounts often use fake photos to lure in marks and then attempt to scam actual <a href="https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html" rel="noopener noreferrer" target="_blank">users out…</a></p><p><a href="https://gizmodo.com/hinge-bots-scammers-dating-apps-1849699399">Read more...</a></p>
 
@@ -164,7 +144,6 @@
  - [https://gizmodo.com/travel-battery-for-nintendo-switch-can-charge-four-joy-1849699630](https://gizmodo.com/travel-battery-for-nintendo-switch-can-charge-four-joy-1849699630)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 16:45:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--8bCamBeE--/c_fit,fl_progressive,q_80,w_636/2899a964f87a6dd799d1ff4461a733c5.jpg" /><p>The Nintendo Switch is a great travel companion, but with a battery that can tap out after as little as four hours of gameplay, it might not be with you all the way. The console sometimes needs a helping hand, and if you’ve got room for a backup battery in your luggage, the <a href="https://www.kickstarter.com/projects/remotto-projects/enerjoy-the-1st-all-in-one-magnetic-battery-pack-for-switch" rel="noopener noreferrer" target="_blank">Enerjoy</a> looks like it will go above and…</p><p><a href="https://gizmodo.com/travel-battery-for-nintendo-switch-can-charge-four-joy-1849699630">Read more...</a></p>
 
@@ -172,7 +151,6 @@
  - [https://gizmodo.com/injured-african-penguin-can-waddle-like-a-champ-in-new-1849694982](https://gizmodo.com/injured-african-penguin-can-waddle-like-a-champ-in-new-1849694982)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 16:33:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--4bQFD-3n--/c_fit,fl_progressive,q_80,w_636/0f893d8e450638409448ff3192725817.jpg" /><p>An adorable African penguin at the New England Aquarium in Boston has gotten a new lease on life, thanks to special sandals that help her walk as she recovers from a foot condition.</p><p><a href="https://gizmodo.com/injured-african-penguin-can-waddle-like-a-champ-in-new-1849694982">Read more...</a></p>
 
@@ -180,7 +158,6 @@
  - [https://gizmodo.com/bryce-dallas-howard-tales-of-the-jedi-yaddle-yoda-1849699629](https://gizmodo.com/bryce-dallas-howard-tales-of-the-jedi-yaddle-yoda-1849699629)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 16:26:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--5J_VUUuN--/c_fit,fl_progressive,q_80,w_636/0edcb4f828dc8b456fbde26f7e8c98d8.jpg" /><p>Bryce Dallas Howard. Yaddle. These are two names, which would seem to be at the far ends of some inscrutable continuum, but have now become inextricably linked forever after the unfathomable announcement that the star of the <em>Jurassic World</em> movies will be playing the Jedi in the animated <em>Star Wars</em> anthology series <em></em>…</p><p><a href="https://gizmodo.com/bryce-dallas-howard-tales-of-the-jedi-yaddle-yoda-1849699629">Read more...</a></p>
 
@@ -188,7 +165,6 @@
  - [https://gizmodo.com/the-winchesters-supernatural-connections-1849698734](https://gizmodo.com/the-winchesters-supernatural-connections-1849698734)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:45:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--YzAKTgj1--/c_fit,fl_progressive,q_80,w_636/c12915ca9f61798e82bc2305707f8f58.jpg" /><p><a href="https://gizmodo.com/the-winchesters-supernatural-connections-1849698734">Read more...</a></p>
 
@@ -196,7 +172,6 @@
  - [https://gizmodo.com/egypt-wants-the-rosetta-stone-back-from-the-british-mus-1849698990](https://gizmodo.com/egypt-wants-the-rosetta-stone-back-from-the-british-mus-1849698990)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:30:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ckkpbOC5--/c_fit,fl_progressive,q_80,w_636/9459bf107ae303df90723fa7b96e7e75.jpg" /><p><a href="https://gizmodo.com/egypt-wants-the-rosetta-stone-back-from-the-british-mus-1849698990">Read more...</a></p>
 
@@ -204,7 +179,6 @@
  - [https://gizmodo.com/apple-app-store-nft-1849698953](https://gizmodo.com/apple-app-store-nft-1849698953)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:20:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--BHjAl20L--/c_fit,fl_progressive,q_80,w_636/0cc9a6228249e597177b9c32da2bfd2d.jpg" /><p>Apple, one of the internet’s largest toll booths, wants to make damn sure it’s getting its cut of NFT purchases made on The App Store.</p><p><a href="https://gizmodo.com/apple-app-store-nft-1849698953">Read more...</a></p>
 
@@ -212,7 +186,6 @@
  - [https://gizmodo.com/ransomware-hunting-team-excerpt-cybercrime-hackers-1849655026](https://gizmodo.com/ransomware-hunting-team-excerpt-cybercrime-hackers-1849655026)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:15:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--kV69LUVx--/c_fit,fl_progressive,q_80,w_636/74550d19f4f46234b64a540e7f938d9e.jpg" /><p><em>In an excerpt from their new book, <a href="https://www.amazon.com/Ransomware-Hunting-Team-Improbable-Cybercrime/dp/0374603308?asc_campaign=Partner&amp;asc_refurl=https://gizmodo.com/ransomware-hunting-team-excerpt-cybercrime-hackers-1849655026&amp;asc_source=regular&amp;tag=kinjagizmodo-20" target="_top">The Ransomware Hunting Team: A Band of Misfits’ Improbable Crusade to Save the World From Cybercrime</a>, writers Renee Dudley and Daniel Gold take readers inside the complex and mysterious world of the hacker underground. The book reveals the ins and outs of the modern ransomware</em>…</p><p><a href="https://gizmodo.com/ransomware-hunting-team-excerpt-cybercrime-hackers-1849655026">Read more...</a></p>
 
@@ -220,7 +193,6 @@
  - [https://gizmodo.com/how-to-make-a-jack-o-lantern-that-farts-pumpkin-spice-1849698683](https://gizmodo.com/how-to-make-a-jack-o-lantern-that-farts-pumpkin-spice-1849698683)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:10:00+00:00
- - tags: None
 
 <video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--G7vV3oj7--/c_fit,fl_progressive,q_80,w_636/b949a72a12c67a889021a346152453ec.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--_UhPnHbG--/c_fit,fl_progressive,q_80,w_636/b949a72a12c67a889021a346152453ec.mp4" type="video/mp4" /></video><p>What was once sparingly doled out when the weather turned cool and the leaves started to change is now dumped on consumers by the truckload before the Summer even comes to a close. We’re talking about pumpkin spice, but we can’t decide if this <a href="https://blog.arduino.cc/2022/10/24/this-jack-o-lantern-farts-pumpkin-spice-whenever-someone-gets-close/" rel="noopener noreferrer" target="_blank">jack-o’-lantern</a> that <a href="https://www.youtube.com/watch?v=Lhj5jg_lpS8" rel="noopener noreferrer" target="_blank">farts the over-powering scent</a> is an homage to the Fall…</p><p><a href="https://gizmodo.com/how-to-make-a-jack-o-lantern-that-farts-pumpkin-spice-1849698683">Read more...</a></p>
 
@@ -228,7 +200,6 @@
  - [https://gizmodo.com/apple-facebook-boosts-promoted-social-posts-payment-1849698467](https://gizmodo.com/apple-facebook-boosts-promoted-social-posts-payment-1849698467)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:04:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--LYSojUv3--/c_fit,fl_progressive,q_80,w_636/c443eb534c94d54500e14ce2cba8c422.jpg" /><p>Apple released an update to its payment guidelines Monday,  demanding that apps use the company’s In-App Purchases tool for “boosts” and promoted posts, which means Apple will take a 30% cut of sales. The move seems to be another policy squarely aimed at Meta (formerly known as Facebook).</p><p><a href="https://gizmodo.com/apple-facebook-boosts-promoted-social-posts-payment-1849698467">Read more...</a></p>
 
@@ -236,7 +207,6 @@
  - [https://gizmodo.com/doctor-who-disney-plus-streaming-bbc-1849698757](https://gizmodo.com/doctor-who-disney-plus-streaming-bbc-1849698757)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 15:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--_AEbvXq_--/c_fit,fl_progressive,q_80,w_636/b1bde528a98655ab84a08aff127a540f.jpg" /><p>Well, this doesn’t feel ominous at all. Right on the heels of <a href="https://gizmodo.com/doctor-who-power-of-the-doctor-recap-jodie-whittaker-1849695272">Jodie Whittaker’s messy finale outing</a> as the Time-Lord, Disney has announced that the future adventures of <a href="https://gizmodo.com/liz-truss-resigns-doctor-who-jodie-whittaker-lettuce-1849681996"><em>Doctor Who</em></a> will be going straight to the Disney+ streaming service, assuming you live outside of the United Kingdom and Ireland, where the venerable…</p><p><a href="https://gizmodo.com/doctor-who-disney-plus-streaming-bbc-1849698757">Read more...</a></p>
 
@@ -244,7 +214,6 @@
  - [https://gizmodo.com/jacob-wohl-jack-burkman-robo-call-election-fraud-1849698399](https://gizmodo.com/jacob-wohl-jack-burkman-robo-call-election-fraud-1849698399)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 14:55:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--H9YH9fX4--/c_fit,fl_progressive,q_80,w_636/efc7d5301f7085c5d5670f336f210452.jpg" /><p>Jacob Wohl and Jack Burkman <a href="https://apnews.com/article/2022-midterm-elections-michigan-ohio-cleveland-california-9fd2a1c998ff26412fd53c83cb3efc09" rel="noopener noreferrer" target="_blank">each pleaded guilty</a> to a felony charge of telecommunications fraud in Ohio on Monday. The two right-wing hacks <a href="http://prosecutor.cuyahogacounty.us/en-US/duo-indicted-voter-intimidation-scam-targeted-minority-communities.aspx" rel="noopener noreferrer" target="_blank">were previously indicted</a> on numerous counts of fraud and bribery by the Cuyahoga County prosecutor over scam robocalls made in Ohio ahead of the 2020 election. The calls targeted…</p><p><a href="https://gizmodo.com/jacob-wohl-jack-burkman-robo-call-election-fraud-1849698399">Read more...</a></p>
 
@@ -252,7 +221,6 @@
  - [https://gizmodo.com/twitter-elon-musk-layoffs-social-media-ye-1849698464](https://gizmodo.com/twitter-elon-musk-layoffs-social-media-ye-1849698464)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 14:35:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--dzoGLzUX--/c_fit,fl_progressive,q_80,w_636/18418ab339ca4dc9938acb748020221d.jpg" /><p>The long running will-they-won’t-they tango between <a href="https://gizmodo.com/elon-musks-100-burnt-hair-perfume-has-sold-out-1849676199">Elon Musk</a> and Twitter appears to finally be coming to a close, and Twitter employees are not happy about who their new boss will be. Musk previously disclosed to investors his plans to axe <a href="https://gizmodo.com/elon-musk-75-twitter-starlink-national-security-china-1849685481">75% of the company’s workforce</a>, and Twitter employees have responded in a…</p><p><a href="https://gizmodo.com/twitter-elon-musk-layoffs-social-media-ye-1849698464">Read more...</a></p>
 
@@ -260,7 +228,6 @@
  - [https://gizmodo.com/damon-lindelof-star-wars-movie-plot-rise-of-skywalker-1849697338](https://gizmodo.com/damon-lindelof-star-wars-movie-plot-rise-of-skywalker-1849697338)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 14:20:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--EVuGSgHT--/c_fit,fl_progressive,q_80,w_636/072a35d17030ee78a91419e57c4cb6cd.png" /><p>Okoye and Aneka spar in a new <em>Black Panther: Wakanda Forever</em> clip. <em>The Flash</em> recruits a <em>very</em> familiar face in a not-so-mysterious mystery role. Plus, get a look at the creepy new series from the makers of <em>Dark</em>. Spoilers now!<br /></p><p><a href="https://gizmodo.com/damon-lindelof-star-wars-movie-plot-rise-of-skywalker-1849697338">Read more...</a></p>
 
@@ -268,7 +235,6 @@
  - [https://gizmodo.com/new-research-bolsters-theory-that-climate-change-will-m-1849694788](https://gizmodo.com/new-research-bolsters-theory-that-climate-change-will-m-1849694788)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 13:44:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--SLfofrN5--/c_fit,fl_progressive,q_80,w_636/7872637f677c7071dbdae5ba8318f1ff.jpg" /><p>Two massive, catastrophic problems are set to become one in the near future: Climate change is likely to worsen the issue of space debris, according to <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100693" rel="noopener noreferrer" target="_blank">a study</a> published in the journal Geophysical Research Letters last month.<br /></p><p><a href="https://gizmodo.com/new-research-bolsters-theory-that-climate-change-will-m-1849694788">Read more...</a></p>
 
@@ -276,7 +242,6 @@
  - [https://gizmodo.com/how-optimized-charging-works-how-to-turn-if-off-1849691763](https://gizmodo.com/how-optimized-charging-works-how-to-turn-if-off-1849691763)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 13:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--GSj5jkOX--/c_fit,fl_progressive,q_80,w_636/632fdac5dedaa95880b5448b69309c0b.jpg" /><p>The way that phones charge up is changing: It’s no longer the case that plugging your handset into a power socket will juice it up straight to 100 percent as quickly as possible, and that’s because the newest phones have a selection of smart features to charge up their batteries in a more intelligent way.</p><p><a href="https://gizmodo.com/how-optimized-charging-works-how-to-turn-if-off-1849691763">Read more...</a></p>
 
@@ -284,7 +249,6 @@
  - [https://gizmodo.com/rich-countries-keep-funding-our-demise-1849695649](https://gizmodo.com/rich-countries-keep-funding-our-demise-1849695649)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 12:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--T9TcOLYM--/c_fit,fl_progressive,q_80,w_636/a1a5042ce96170dc0d3e265f226920f7.jpg" /><p>The most powerful countries in the world keep ratcheting up public funding for fossil fuel projects and increasing emissions—despite the fact that continued investment in dirty fuels could push us beyond the warming targets laid out in the Paris Agreement.<br /></p><p><a href="https://gizmodo.com/rich-countries-keep-funding-our-demise-1849695649">Read more...</a></p>
 
@@ -292,7 +256,6 @@
  - [https://gizmodo.com/trump-app-mobs-curtis-yarvin-mencius-moldbug-fascist-1849698006](https://gizmodo.com/trump-app-mobs-curtis-yarvin-mencius-moldbug-fascist-1849698006)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 11:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--c3v3iahq--/c_fit,fl_progressive,q_80,w_636/5a722d687b5abb99c2b6bb69f43f1b5a.jpg" /><p>Vox has a new article on Curtis Yarvin, a software engineer and far-right blogger who’s made friends with powerful supporters of former president Donald Trump, and it’s filled with horrifying ideas on how Trump should wield power if he ever takes back the White House. But there’s one idea that seems like it’s stolen…</p><p><a href="https://gizmodo.com/trump-app-mobs-curtis-yarvin-mencius-moldbug-fascist-1849698006">Read more...</a></p>
 
@@ -300,7 +263,6 @@
  - [https://gizmodo.com/white-house-elon-musk-deals-national-security-review-1849697617](https://gizmodo.com/white-house-elon-musk-deals-national-security-review-1849697617)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 10:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--bZc-USHr--/c_fit,fl_progressive,q_80,w_636/acf6fbc7fe9c349c5ea10eace75c28f9.jpg" /><p>The White House has said that Elon Musk’s recent deals, including his takeover of Twitter and operations of Starlink internet in Ukraine, are not under national security review. And while that would seem like a denial of the original reports from last week by Bloomberg News about the deals, there’s seemingly still…</p><p><a href="https://gizmodo.com/white-house-elon-musk-deals-national-security-review-1849697617">Read more...</a></p>
 
@@ -308,6 +270,5 @@
  - [https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518](https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-25 00:00:00+00:00
- - tags: None
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--xGguqfUe--/c_fit,fl_progressive,q_80,w_636/63cdfd725ef1e37218cd94520ba17082.jpg" /><p>New research suggests that cats can distinguish their owner’s voice from that of a stranger’s, while also being able to identify when their owner is specifically talking to them. The findings are the latest to indicate that cats can indeed form strong social bonds with humans.</p><p><a href="https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518">Read more...</a></p>

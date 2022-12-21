@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Former Guantanamo detainee Saifullah Paracha repatriated to Pakistan
  - [https://www.cnn.com/2022/10/29/politics/guatanamo-detainee-saifullah-paracha-pakistan/index.html](https://www.cnn.com/2022/10/29/politics/guatanamo-detainee-saifullah-paracha-pakistan/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-29 15:58:54+00:00
- - tags: None
 
 Saifullah Paracha, a former detainee at the Guatanamo Bay detention facility, has been repatriated to Pakistan, according to a statement from the Department of Defense.
 
@@ -12,7 +11,6 @@ Saifullah Paracha, a former detainee at the Guatanamo Bay detention facility, ha
  - [https://www.cnn.com/2022/10/29/opinions/iran-protests-mahsa-amini-support-ghitis/index.html](https://www.cnn.com/2022/10/29/opinions/iran-protests-mahsa-amini-support-ghitis/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-29 15:20:22+00:00
- - tags: None
 
 On the 40th day after Mahsa Amini died while in the custody of the Iranian regime's intrusive morality police, protests sparked by her death grew even more widespread, more defiant, more determined.
 
@@ -20,7 +18,6 @@ On the 40th day after Mahsa Amini died while in the custody of the Iranian regim
  - [https://www.cnn.com/2022/10/29/middleeast/iran-protests-warning-intl/index.html](https://www.cnn.com/2022/10/29/middleeast/iran-protests-warning-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-29 15:10:31+00:00
- - tags: None
 
 The head of Iran's elite Revolutionary Guards has told Iranians to end the weeks-long demonstrations that have gripped the country, warning that Saturday would be their "last day" of protest.
 
@@ -28,7 +25,6 @@ The head of Iran's elite Revolutionary Guards has told Iranians to end the weeks
  - [https://www.cnn.com/2022/10/29/americas/haiti-politician-killed-violence-intl/index.html](https://www.cnn.com/2022/10/29/americas/haiti-politician-killed-violence-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-29 12:21:33+00:00
- - tags: None
 
 A Haitian politician has been shot dead outside his home, authorities have said, as international concerns intensify over the gang violence, political turmoil and humanitarian crises that have seized control of the country.
 
@@ -36,6 +32,5 @@ A Haitian politician has been shot dead outside his home, authorities have said,
  - [https://www.cnn.com/2022/10/29/world/australia-repatriation-isis-families-syria-camps-intl-hnk/index.html](https://www.cnn.com/2022/10/29/world/australia-repatriation-isis-families-syria-camps-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-29 07:33:53+00:00
- - tags: None
 
 Australia has repatriated a group of women and children who were left stranded in refugee camps in northeastern Syria after the Islamic State (ISIS) terror group lost control of the area in 2019.

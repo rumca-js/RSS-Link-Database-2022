@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## How to lock down your Twitter data, or leave, as Musk takes over
  - [https://www.washingtonpost.com/technology/2022/04/26/twitter-musk-data-protect/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/04/26/twitter-musk-data-protect/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 21:54:37+00:00
- - tags: None
 
 From locking down privacy settings to finding a new social network, Twitter regulars have many options for protecting their personal information.
 
@@ -12,7 +11,6 @@ From locking down privacy settings to finding a new social network, Twitter regu
  - [https://www.washingtonpost.com/technology/2022/10/27/twitter-elon-musk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/twitter-elon-musk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 20:34:15+00:00
- - tags: None
 
 Musk was expected to assume ownership of the site imminently.
 
@@ -20,7 +18,6 @@ Musk was expected to assume ownership of the site imminently.
  - [https://www.washingtonpost.com/video-games/2022/10/27/joe-biden-president-guilty-gear/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/27/joe-biden-president-guilty-gear/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 17:40:39+00:00
- - tags: None
 
 In fighting game series “Guilty Gear,” Joe Biden has been striking fear into the hearts of his rivals.
 
@@ -28,7 +25,6 @@ In fighting game series “Guilty Gear,” Joe Biden has been striking fear into
  - [https://www.washingtonpost.com/technology/2022/10/27/amazon-stock-plummets/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/amazon-stock-plummets/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 17:04:57+00:00
- - tags: None
 
 Amazon's stock fell more than 20 percent in after-hours trading Thursday.
 
@@ -36,7 +32,6 @@ Amazon's stock fell more than 20 percent in after-hours trading Thursday.
  - [https://www.washingtonpost.com/technology/2022/10/27/expect-more-china-related-tech-crackdowns-us-official-says/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/expect-more-china-related-tech-crackdowns-us-official-says/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 15:50:44+00:00
- - tags: None
 
 Weeks after enacting the strictest curbs yet on technology exports to China, the U.S. official overseeing the measures suggested they could soon get tougher, as his team pursues support from allied nations and considers additional technology to regulate.
 
@@ -44,7 +39,6 @@ Weeks after enacting the strictest curbs yet on technology exports to China, the
  - [https://www.washingtonpost.com/science/2022/10/27/mars-meteor-nasa-crater/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/science/2022/10/27/mars-meteor-nasa-crater/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 14:00:00+00:00
- - tags: None
 
 This was the biggest crater-forming impact on one of the rocky inner planets of the solar system ever documented in real time.
 
@@ -52,7 +46,6 @@ This was the biggest crater-forming impact on one of the rocky inner planets of 
  - [https://www.washingtonpost.com/video-games/2022/10/27/catalyst-apex-legends-abilities-new/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/27/catalyst-apex-legends-abilities-new/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 11:00:00+00:00
- - tags: None
 
 Catalyst will be playable when Season 15 of "Apex Legends," titled "Eclipse," launches Nov. 1. She is the first trans woman to join the cast.
 
@@ -60,7 +53,6 @@ Catalyst will be playable when Season 15 of "Apex Legends," titled "Eclipse," la
  - [https://www.washingtonpost.com/technology/2022/10/27/civil-rights-2022-midterms/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/civil-rights-2022-midterms/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 10:00:44+00:00
- - tags: None
 
 A coalition of 60 civil rights and consumer groups backed a report that offers a dim assessment on tech companies’ plans to protect the 2022 midterms
 
@@ -68,7 +60,6 @@ A coalition of 60 civil rights and consumer groups backed a report that offers a
  - [https://www.washingtonpost.com/business/2022/10/27/samsung-lee-jae-yong-chairman/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/10/27/samsung-lee-jae-yong-chairman/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 07:14:52+00:00
- - tags: None
 
 Samsung said it had appointed Lee Jae-yong, who was jailed for bribing South Korea’s former president, due to the "uncertain global business environment."
 
@@ -76,7 +67,6 @@ Samsung said it had appointed Lee Jae-yong, who was jailed for bribing South Kor
  - [https://www.washingtonpost.com/technology/2022/10/27/musk-twitter-trump-midterms/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/musk-twitter-trump-midterms/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 07:00:40+00:00
- - tags: None
 
 The social media firm’s attempts to rein in election misinformation could collide with its new owner’s “free speech” vision just before election day.
 
@@ -84,7 +74,6 @@ The social media firm’s attempts to rein in election misinformation could coll
  - [https://www.washingtonpost.com/technology/2022/10/27/track-ballot-online/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/track-ballot-online/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 07:00:01+00:00
- - tags: None
 
 Want to make sure your vote counts? Now if you vote by mail, you can follow your ballot’s every move like a UPS package.
 
@@ -92,7 +81,6 @@ Want to make sure your vote counts? Now if you vote by mail, you can follow your
  - [https://www.washingtonpost.com/technology/2022/10/27/laser-powered-chip-internet-data-transfer/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/laser-powered-chip-internet-data-transfer/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 06:00:34+00:00
- - tags: None
 
 The laser-powered chip could mean faster broadband speeds for consumers and an internet that requires less electricity to run.
 
@@ -100,6 +88,5 @@ The laser-powered chip could mean faster broadband speeds for consumers and an i
  - [https://www.washingtonpost.com/technology/2022/10/27/tiktok-democrats-influencers-biden/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/27/tiktok-democrats-influencers-biden/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-27 06:00:31+00:00
- - tags: None
 
 The creators with a combined following of 58 million on the app met with President Biden and former president Barack Obama.

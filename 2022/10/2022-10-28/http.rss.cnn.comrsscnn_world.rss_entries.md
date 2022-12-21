@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## GM pauses advertising on Twitter after Elon Musk takeover
  - [https://www.cnn.com/2022/10/28/tech/gm-pauses-advertising-twitter/index.html](https://www.cnn.com/2022/10/28/tech/gm-pauses-advertising-twitter/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 22:47:35+00:00
- - tags: None
 
 General Motors is pausing its advertising on Twitter now that the social media platform is owned by Tesla CEO Elon Musk, the company said in a statement Friday.
 
@@ -12,7 +11,6 @@ General Motors is pausing its advertising on Twitter now that the social media p
  - [https://www.cnn.com/2022/10/28/middleeast/iran-zahedan-protest-gunfire-intl/index.html](https://www.cnn.com/2022/10/28/middleeast/iran-zahedan-protest-gunfire-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 21:21:49+00:00
- - tags: None
 
 Protesters encountered teargas and gunfire following Friday prayers in the eastern Iranian city of Zahedan, according to videos posted on social media and provided by IranWire, an activist website.
 
@@ -20,7 +18,6 @@ Protesters encountered teargas and gunfire following Friday prayers in the easte
  - [https://www.cnn.com/2022/10/28/middleeast/palestinian-militants-jenin-west-bank-intl-cmd/index.html](https://www.cnn.com/2022/10/28/middleeast/palestinian-militants-jenin-west-bank-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 18:37:50+00:00
- - tags: None
 
 Four US-made M4 Carbine rifles lean against the back of the sofa. The young men, mostly dressed in black civilian clothes, are relaxed and chatty. Neighbors pop their heads in to say hello through a door open to the street.
 
@@ -28,7 +25,6 @@ Four US-made M4 Carbine rifles lean against the back of the sofa. The young men,
  - [https://www.cnn.com/2022/10/28/football/qatar-germany-world-cup-spt-intl/index.html](https://www.cnn.com/2022/10/28/football/qatar-germany-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 17:45:24+00:00
- - tags: None
 
 Qatar's Foreign Ministry summoned the German ambassador Claudius Fischbach on Friday following the recent comments made by interior minister Nancy Faeser regarding the Gulf state's hosting of the 2022 World Cup.
 
@@ -36,7 +32,6 @@ Qatar's Foreign Ministry summoned the German ambassador Claudius Fischbach on Fr
  - [https://www.cnn.com/2022/10/28/energy/uk-air-fryer-energy-bills/index.html](https://www.cnn.com/2022/10/28/energy/uk-air-fryer-energy-bills/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 16:42:24+00:00
- - tags: None
 
 Shoppers in the United Kingdom are snapping up energy-saving air fryers, electric blankets and slow cookers this winter as their fuel bills soar.
 
@@ -44,7 +39,6 @@ Shoppers in the United Kingdom are snapping up energy-saving air fryers, electri
  - [https://www.cnn.com/2022/10/28/football/qatar-socceroos-lgbtq-world-cup-spt-intl/index.html](https://www.cnn.com/2022/10/28/football/qatar-socceroos-lgbtq-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 14:43:14+00:00
- - tags: None
 
 World Cup host Qatar has praised the Australian men's national team for their efforts to raise awareness on "important matters" and said that "no country is perfect," a spokesperson for Qatar's Supreme Committee for Delivery & Legacy said on Friday.
 
@@ -52,7 +46,6 @@ World Cup host Qatar has praised the Australian men's national team for their ef
  - [https://www.cnn.com/2022/10/28/middleeast/netanyahu-comeback-extremists-mime-intl/index.html](https://www.cnn.com/2022/10/28/middleeast/netanyahu-comeback-extremists-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 14:29:05+00:00
- - tags: None
 
 When Benjamin Netanyahu hits the campaign trail, he uses what's been dubbed the Bibimobile -- a converted truck turned into a travelling stage ensconced in bulletproof glass.
 
@@ -60,7 +53,6 @@ When Benjamin Netanyahu hits the campaign trail, he uses what's been dubbed the 
  - [https://www.cnn.com/2022/10/28/economy/us-pce-inflation-september/index.html](https://www.cnn.com/2022/10/28/economy/us-pce-inflation-september/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 12:56:57+00:00
- - tags: None
 
 New inflation data shows that US prices are still uncomfortably high, despite aggressive action from the Federal Reserve to rein in decades-high inflation.
 
@@ -68,6 +60,5 @@ New inflation data shows that US prices are still uncomfortably high, despite ag
  - [https://www.cnn.com/2022/10/28/economy/saudi-arabia-biden-opec-oil/index.html](https://www.cnn.com/2022/10/28/economy/saudi-arabia-biden-opec-oil/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-28 10:30:49+00:00
- - tags: None
 
 The relationship between the United States and Saudi Arabia is one of the most important on the planet. And lately, it's also been one of the most awkward.

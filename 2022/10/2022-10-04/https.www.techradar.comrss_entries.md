@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## This Google Chrome tool could actually be used to steal login data
  - [https://www.techradar.com/news/this-google-chrome-tool-could-actually-be-used-to-steal-login-data/](https://www.techradar.com/news/this-google-chrome-tool-could-actually-be-used-to-steal-login-data/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 21:02:58+00:00
- - tags: None
 
 Chrome Application Mode can be used to trick people into giving away passwords, researchers warn.
 
@@ -12,7 +11,6 @@ Chrome Application Mode can be used to trick people into giving away passwords, 
  - [https://www.techradar.com/news/microsoft-edge-update-promises-to-fend-off-dangerous-web-based-attacks/](https://www.techradar.com/news/microsoft-edge-update-promises-to-fend-off-dangerous-web-based-attacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 20:05:03+00:00
- - tags: None
 
 Microsoft Edge 106 is getting boosted security and enhanced workflow.
 
@@ -20,7 +18,6 @@ Microsoft Edge 106 is getting boosted security and enhanced workflow.
  - [https://www.techradar.com/news/good-luck-getting-hold-of-the-latest-raspberry-pi-any-time-soon/](https://www.techradar.com/news/good-luck-getting-hold-of-the-latest-raspberry-pi-any-time-soon/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 19:43:26+00:00
- - tags: None
 
 The founder of Raspberry Pi has confirmed shortages will continue for some time yet.
 
@@ -28,7 +25,6 @@ The founder of Raspberry Pi has confirmed shortages will continue for some time 
  - [https://www.techradar.com/news/office-real-estate-prices-could-be-facing-an-apocalypse/](https://www.techradar.com/news/office-real-estate-prices-could-be-facing-an-apocalypse/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 18:28:22+00:00
- - tags: None
 
 Office occupancy rates are still way below pre-pandemic levels - and may never be the same again.
 
@@ -36,7 +32,6 @@ Office occupancy rates are still way below pre-pandemic levels - and may never b
  - [https://www.techradar.com/news/elon-musks-twitter-acquisition-deal-is-reportedly-back-on/](https://www.techradar.com/news/elon-musks-twitter-acquisition-deal-is-reportedly-back-on/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 17:53:39+00:00
- - tags: None
 
 Elon Musk reportedly has decided to stop fighting and go forward with his $44B Twitter acquisition
 
@@ -44,7 +39,6 @@ Elon Musk reportedly has decided to stop fighting and go forward with his $44B T
  - [https://www.techradar.com/news/pixel-watch-looks-slim-and-sleek-in-recent-unboxing-leak/](https://www.techradar.com/news/pixel-watch-looks-slim-and-sleek-in-recent-unboxing-leak/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 17:39:16+00:00
- - tags: None
 
 A leaker on Reddit unboxed a Google Pixel Watch showing the device in detail, but would not turn it on
 
@@ -52,7 +46,6 @@ A leaker on Reddit unboxed a Google Pixel Watch showing the device in detail, bu
  - [https://www.techradar.com/news/mastercard-wants-to-help-end-crypto-fraud/](https://www.techradar.com/news/mastercard-wants-to-help-end-crypto-fraud/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 17:28:43+00:00
- - tags: None
 
 As governments dither on regulation, Mastercard is expanding its fraud detection to the crypto sphere.
 
@@ -60,7 +53,6 @@ As governments dither on regulation, Mastercard is expanding its fraud detection
  - [https://www.techradar.com/news/this-new-deal-could-create-massive-design-library-for-creatives/](https://www.techradar.com/news/this-new-deal-could-create-massive-design-library-for-creatives/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 16:59:39+00:00
- - tags: None
 
 Graphic design library Freepik acquires Iconfinder and Original Mockups.
 
@@ -68,7 +60,6 @@ Graphic design library Freepik acquires Iconfinder and Original Mockups.
  - [https://www.techradar.com/news/it-looks-like-fallouts-spiritual-successor-is-getting-a-ps5-remaster/](https://www.techradar.com/news/it-looks-like-fallouts-spiritual-successor-is-getting-a-ps5-remaster/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 16:11:50+00:00
- - tags: None
 
 First details of the PS5 and Xbox Series X|S version of space RPG The Outer Worlds emerge from Taiwan rating board.
 
@@ -76,7 +67,6 @@ First details of the PS5 and Xbox Series X|S version of space RPG The Outer Worl
  - [https://www.techradar.com/news/microsoft-teams-updates-are-about-to-become-less-of-a-total-pain/](https://www.techradar.com/news/microsoft-teams-updates-are-about-to-become-less-of-a-total-pain/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 16:01:54+00:00
- - tags: None
 
 A new version of Microsoft Teams will make installing updates manually far more straightforward.
 
@@ -84,7 +74,6 @@ A new version of Microsoft Teams will make installing updates manually far more 
  - [https://www.techradar.com/news/these-are-officially-the-worst-malware-strains-of-the-year/](https://www.techradar.com/news/these-are-officially-the-worst-malware-strains-of-the-year/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 15:05:44+00:00
- - tags: None
 
 Emotet reigns supreme, despite a number of damaging setbacks.
 
@@ -92,7 +81,6 @@ Emotet reigns supreme, despite a number of damaging setbacks.
  - [https://www.techradar.com/news/vlc-media-player-claps-back-at-india-ban-with-court-challenge/](https://www.techradar.com/news/vlc-media-player-claps-back-at-india-ban-with-court-challenge/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 14:44:49+00:00
- - tags: None
 
 Despite VPNs allowing VLC's downloads, its block is accused to violate international obligations to protect free speech in India.
 
@@ -100,7 +88,6 @@ Despite VPNs allowing VLC's downloads, its block is accused to violate internati
  - [https://www.techradar.com/news/scammers-take-to-github-to-hoodwink-other-cybercriminals/](https://www.techradar.com/news/scammers-take-to-github-to-hoodwink-other-cybercriminals/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 14:25:35+00:00
- - tags: None
 
 Latest Microsoft Exchange flaw scheme discovered on GitHub shows there really is no honor among thieves.
 
@@ -108,7 +95,6 @@ Latest Microsoft Exchange flaw scheme discovered on GitHub shows there really is
  - [https://www.techradar.com/news/remote-services-are-becoming-an-attractive-target-for-ransomware/](https://www.techradar.com/news/remote-services-are-becoming-an-attractive-target-for-ransomware/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 13:46:47+00:00
- - tags: None
 
 Hackers apparently love breaching networks through flaws in remote services, even more than using stolen credentials.
 
@@ -116,7 +102,6 @@ Hackers apparently love breaching networks through flaws in remote services, eve
  - [https://www.techradar.com/news/pc-gamers-are-finally-dropping-the-windows-11-hate/](https://www.techradar.com/news/pc-gamers-are-finally-dropping-the-windows-11-hate/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 13:46:02+00:00
- - tags: None
 
 September 2022 Steam survey shows more gamers are updating to Windows 11.
 
@@ -124,7 +109,6 @@ September 2022 Steam survey shows more gamers are updating to Windows 11.
  - [https://www.techradar.com/news/xiaomi-12t-series-announced-with-masses-of-megapixels-and-120w-charging/](https://www.techradar.com/news/xiaomi-12t-series-announced-with-masses-of-megapixels-and-120w-charging/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 13:41:21+00:00
- - tags: None
 
 The Xiaomi 12T Pro has a 200MP camera, 120W charging, a top-end chipset and a mid-range price.
 
@@ -132,7 +116,6 @@ The Xiaomi 12T Pro has a 200MP camera, 120W charging, a top-end chipset and a mi
  - [https://www.techradar.com/news/the-data-sharing-system-between-the-us-and-uk-is-now-active/](https://www.techradar.com/news/the-data-sharing-system-between-the-us-and-uk-is-now-active/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 13:21:39+00:00
- - tags: None
 
 Data Access Agreement will give law enforcement greater powers to combat serious crime, but has attracted criticism.
 
@@ -140,7 +123,6 @@ Data Access Agreement will give law enforcement greater powers to combat serious
  - [https://www.techradar.com/news/cloudflare-announces-quantum-cryptography-beta-to-thwart-decryption/](https://www.techradar.com/news/cloudflare-announces-quantum-cryptography-beta-to-thwart-decryption/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 13:09:22+00:00
- - tags: None
 
 Quantum computers won't be enough to break encryption, Cloudflare believes.
 
@@ -148,7 +130,6 @@ Quantum computers won't be enough to break encryption, Cloudflare believes.
  - [https://www.techradar.com/news/vlc-developer-gets-serious-over-nationwide-ban/](https://www.techradar.com/news/vlc-developer-gets-serious-over-nationwide-ban/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 12:49:39+00:00
- - tags: None
 
 VideoLAN sends legal notice to Indian ministries over VLC ban.
 
@@ -156,7 +137,6 @@ VideoLAN sends legal notice to Indian ministries over VLC ban.
  - [https://www.techradar.com/news/iphones-will-be-forced-to-use-usb-c-by-2024-new-eu-law-finally-rules/](https://www.techradar.com/news/iphones-will-be-forced-to-use-usb-c-by-2024-new-eu-law-finally-rules/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 12:34:00+00:00
- - tags: None
 
 USB-C will soon be the single charger standard in the EU, which is likely to mean the end of the Lightning port.
 
@@ -164,7 +144,6 @@ USB-C will soon be the single charger standard in the EU, which is likely to mea
  - [https://www.techradar.com/news/barely-anyone-is-buying-foldable-smartphones-yet/](https://www.techradar.com/news/barely-anyone-is-buying-foldable-smartphones-yet/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 12:06:28+00:00
- - tags: None
 
 Foldable smartphone shipments predicted to increase by two thirds in 2022, and reach 41.5m by 2026.
 
@@ -172,7 +151,6 @@ Foldable smartphone shipments predicted to increase by two thirds in 2022, and r
  - [https://www.techradar.com/news/xbox-game-pass-just-added-a-brilliant-limb-chopping-medieval-fighter/](https://www.techradar.com/news/xbox-game-pass-just-added-a-brilliant-limb-chopping-medieval-fighter/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 12:00:19+00:00
- - tags: None
 
 Chivalry 2 is now on Xbox Game Pass.
 
@@ -180,7 +158,6 @@ Chivalry 2 is now on Xbox Game Pass.
  - [https://www.techradar.com/news/amd-ryzen-7000-gives-windows-users-the-perfect-reason-to-move-to-linux/](https://www.techradar.com/news/amd-ryzen-7000-gives-windows-users-the-perfect-reason-to-move-to-linux/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 11:30:01+00:00
- - tags: None
 
 Ryzen 7000 chips run faster in Linux with security defenses enabled (yes, you read that right).
 
@@ -188,7 +165,6 @@ Ryzen 7000 chips run faster in Linux with security defenses enabled (yes, you re
  - [https://www.techradar.com/news/sorry-airpods-pro-2s-coolest-feature-isnt-coming-to-the-originals-after-all/](https://www.techradar.com/news/sorry-airpods-pro-2s-coolest-feature-isnt-coming-to-the-originals-after-all/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:42:52+00:00
- - tags: None
 
 It looks like the unexpected addition of an Adaptive Transparency option for the original AirPods Pro was a bug.
 
@@ -196,7 +172,6 @@ It looks like the unexpected addition of an Adaptive Transparency option for the
  - [https://www.techradar.com/news/samsungs-smaller-micro-led-4k-tv-might-finally-be-on-the-way-to-battle-oled/](https://www.techradar.com/news/samsungs-smaller-micro-led-4k-tv-might-finally-be-on-the-way-to-battle-oled/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:39:03+00:00
- - tags: None
 
 Micro-LED is the screen tech of the future, but it's slow off the mark – although Samsung might be about to clear the next hurdle.
 
@@ -204,7 +179,6 @@ Micro-LED is the screen tech of the future, but it's slow off the mark – altho
  - [https://www.techradar.com/news/red-dead-redemption-2-finally-runs-great-on-my-steam-deck-but-whats-next/](https://www.techradar.com/news/red-dead-redemption-2-finally-runs-great-on-my-steam-deck-but-whats-next/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:38:16+00:00
- - tags: None
 
 After a week of having my Steam Deck, I was worried that Rockstar's sequel was too powerful for it – but I was wrong.
 
@@ -212,7 +186,6 @@ After a week of having my Steam Deck, I was worried that Rockstar's sequel was t
  - [https://www.techradar.com/news/dji-store-day-is-a-letdown-wait-for-black-fridays-drone-deals-instead/](https://www.techradar.com/news/dji-store-day-is-a-letdown-wait-for-black-fridays-drone-deals-instead/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:35:07+00:00
- - tags: None
 
 DJI Store Day will be here soon, but the sales event's preview shows you'll likely be best off waiting for Black Friday's drone deals.
 
@@ -220,7 +193,6 @@ DJI Store Day will be here soon, but the sales event's preview shows you'll like
  - [https://www.techradar.com/news/nothing-announces-official-launch-date-for-new-ear-stick-airpods-alternatives/](https://www.techradar.com/news/nothing-announces-official-launch-date-for-new-ear-stick-airpods-alternatives/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:05:59+00:00
- - tags: None
 
 You've got to hand it to Nothing's marketing department, they don't miss a trick…
 
@@ -228,7 +200,6 @@ You've got to hand it to Nothing's marketing department, they don't miss a trick
  - [https://www.techradar.com/news/youtube-could-make-4k-videos-exclusive-to-premium-subscribers/](https://www.techradar.com/news/youtube-could-make-4k-videos-exclusive-to-premium-subscribers/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:05:39+00:00
- - tags: None
 
 Google is reportedly limiting 4K resolution on YouTube to Premium subscribers in certain regions.
 
@@ -236,7 +207,6 @@ Google is reportedly limiting 4K resolution on YouTube to Premium subscribers in
  - [https://www.techradar.com/news/focal-bathys-might-just-be-the-most-beautiful-headphones-ive-ever-seen/](https://www.techradar.com/news/focal-bathys-might-just-be-the-most-beautiful-headphones-ive-ever-seen/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 10:00:00+00:00
- - tags: None
 
 I've been waiting a long time for Focal to release these gorgeous wireless cans – and it's been worth the wait.
 
@@ -244,7 +214,6 @@ I've been waiting a long time for Focal to release these gorgeous wireless cans 
  - [https://www.techradar.com/news/samsung-galaxy-s23-plus-could-get-a-battery-upgrade-but-the-s23-ultra-might-not/](https://www.techradar.com/news/samsung-galaxy-s23-plus-could-get-a-battery-upgrade-but-the-s23-ultra-might-not/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 09:42:15+00:00
- - tags: None
 
 A specs leak has revealed a battery boost for the Samsung Galaxy S23 Plus, but no ultra-wide camera upgrades.
 
@@ -252,7 +221,6 @@ A specs leak has revealed a battery boost for the Samsung Galaxy S23 Plus, but n
  - [https://www.techradar.com/news/the-rings-of-power-didnt-utilize-star-wars-volume-technology-for-one-key-reason/](https://www.techradar.com/news/the-rings-of-power-didnt-utilize-star-wars-volume-technology-for-one-key-reason/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 09:37:37+00:00
- - tags: None
 
 The Rings of Power's VFX producer explains why the fantasy show didn't use Lucasfilm's StageCraft during production.
 
@@ -260,7 +228,6 @@ The Rings of Power's VFX producer explains why the fantasy show didn't use Lucas
  - [https://www.techradar.com/news/amd-ryzen-7000-is-barely-out-but-next-gen-zen-5-cpus-already-spotted/](https://www.techradar.com/news/amd-ryzen-7000-is-barely-out-but-next-gen-zen-5-cpus-already-spotted/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 09:29:26+00:00
- - tags: None
 
 Ryzen 8000 sighted already, which is hopefully a good hint that things are very much on track.
 
@@ -268,7 +235,6 @@ Ryzen 8000 sighted already, which is hopefully a good hint that things are very 
  - [https://www.techradar.com/news/fallout-76-is-free-this-week-and-its-actually-good-now/](https://www.techradar.com/news/fallout-76-is-free-this-week-and-its-actually-good-now/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 09:23:21+00:00
- - tags: None
 
 To mark Fallout's 25th anniversary, Bethesda is making multiplayer FPS Fallout 76 temporarily free to play.
 
@@ -276,6 +242,5 @@ To mark Fallout's 25th anniversary, Bethesda is making multiplayer FPS Fallout 7
  - [https://www.techradar.com/news/haptic-gaming-chairs-could-be-the-trend-of-the-future-thanks-to-the-synk-x/](https://www.techradar.com/news/haptic-gaming-chairs-could-be-the-trend-of-the-future-thanks-to-the-synk-x/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-04 05:00:43+00:00
- - tags: None
 
 The Synk X is a new haptic gaming chair from Cooler Master, which comes with tons of features such as Bluetooth compatibility.

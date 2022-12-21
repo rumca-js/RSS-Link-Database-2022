@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## MCU 2023 Calendar: What movies and Disney Plus TV shows are on the way?
  - [https://www.androidauthority.com/mcu-2023-calendar-3222377/](https://www.androidauthority.com/mcu-2023-calendar-3222377/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 20:00:26+00:00
- - tags: None
 
 It's going to be a very busy 2023 in the MCU.
 
@@ -12,7 +11,6 @@ It's going to be a very busy 2023 in the MCU.
  - [https://www.androidauthority.com/the-best-zombie-movies-3222776/](https://www.androidauthority.com/the-best-zombie-movies-3222776/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 17:00:29+00:00
- - tags: None
 
 Watch Night of the Living Dead, 28 Days Later, and more.
 
@@ -20,7 +18,6 @@ Watch Night of the Living Dead, 28 Days Later, and more.
  - [https://www.androidauthority.com/android-apps-weekly-455-3223417/](https://www.androidauthority.com/android-apps-weekly-455-3223417/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 16:00:02+00:00
- - tags: None
 
 YouTube Premium family plan subscribers are going to be upset this week.
 
@@ -28,7 +25,6 @@ YouTube Premium family plan subscribers are going to be upset this week.
  - [https://www.androidauthority.com/google-pixel-whats-this-song-3222529/](https://www.androidauthority.com/google-pixel-whats-this-song-3222529/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 15:00:15+00:00
- - tags: None
 
 Your Pixel is smart enough to identify songs around you.
 
@@ -36,7 +32,6 @@ Your Pixel is smart enough to identify songs around you.
  - [https://www.androidauthority.com/samsung-galaxy-watch-5-review-3212798/](https://www.androidauthority.com/samsung-galaxy-watch-5-review-3212798/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 14:00:39+00:00
- - tags: None
 
 Many minimal upgrades make for a markedly improved product.
 
@@ -44,7 +39,6 @@ Many minimal upgrades make for a markedly improved product.
  - [https://www.androidauthority.com/google-pixel-7-specs-price-availability-3220594/](https://www.androidauthority.com/google-pixel-7-specs-price-availability-3220594/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 13:30:16+00:00
- - tags: None
 
 Should you buy the Pixel 7 or opt for a different phone instead?
 
@@ -52,7 +46,6 @@ Should you buy the Pixel 7 or opt for a different phone instead?
  - [https://www.androidauthority.com/the-weekly-authority-october-22-2022-217-3222746/](https://www.androidauthority.com/the-weekly-authority-october-22-2022-217-3222746/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 12:22:34+00:00
- - tags: None
 
 Plus Galaxy S23 specs, great news for Silent Hill fans, happy birthday to the NES, and more top tech news.
 
@@ -60,7 +53,6 @@ Plus Galaxy S23 specs, great news for Silent Hill fans, happy birthday to the NE
  - [https://www.androidauthority.com/smart-washing-machine-3210850/](https://www.androidauthority.com/smart-washing-machine-3210850/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 12:00:23+00:00
- - tags: None
 
 There's more to a smart home than bulbs and switches.
 
@@ -68,6 +60,5 @@ There's more to a smart home than bulbs and switches.
  - [https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/](https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-22 00:00:08+00:00
- - tags: None
 
 Keep music at arm's length.

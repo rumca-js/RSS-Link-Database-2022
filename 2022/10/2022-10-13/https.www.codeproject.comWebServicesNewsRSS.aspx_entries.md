@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A wild new way to use Android widgets
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59175](https://www.codeproject.com/script/News/View.aspx?nwid=59175)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Warning: You've never seen Android widgets like this — and once you do, you'll never think about 'em the same again.
 
@@ -12,7 +11,6 @@ Warning: You've never seen Android widgets like this — and once you do, you'll
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59177](https://www.codeproject.com/script/News/View.aspx?nwid=59177)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 For once brute force and ignorance doesn't win
 
@@ -20,7 +18,6 @@ For once brute force and ignorance doesn't win
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59184](https://www.codeproject.com/script/News/View.aspx?nwid=59184)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Why? How? What?
 
@@ -28,7 +25,6 @@ Why? How? What?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59171](https://www.codeproject.com/script/News/View.aspx?nwid=59171)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 We are pleased to announce official .NET MAUI support in Microsoft.Identity.Client 4.47.0 to easily add authentication into your apps.
 
@@ -36,7 +32,6 @@ We are pleased to announce official .NET MAUI support in Microsoft.Identity.Clie
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59174](https://www.codeproject.com/script/News/View.aspx?nwid=59174)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 There is no denying the fact that React Native is the future of developing hybrid apps. It offers scalability, flexibility, speed, agility, cost-efficiency and excellent performance.
 
@@ -44,7 +39,6 @@ There is no denying the fact that React Native is the future of developing hybri
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59187](https://www.codeproject.com/script/News/View.aspx?nwid=59187)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Smells like rich idiot spirit
 
@@ -52,7 +46,6 @@ Smells like rich idiot spirit
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59178](https://www.codeproject.com/script/News/View.aspx?nwid=59178)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 When someone said, "Don't be evil", they heard, "Donuts! Be evil"
 
@@ -60,7 +53,6 @@ When someone said, "Don't be evil", they heard, "Donuts! Be evil"
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59176](https://www.codeproject.com/script/News/View.aspx?nwid=59176)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 The new WebView, which has not been open-sourced yet, improves security, stability, and performance, says Meta.
 
@@ -68,7 +60,6 @@ The new WebView, which has not been open-sourced yet, improves security, stabili
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59183](https://www.codeproject.com/script/News/View.aspx?nwid=59183)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Then they came for the designers and I did nothing as I don't own a mock turtleneck
 
@@ -76,7 +67,6 @@ Then they came for the designers and I did nothing as I don't own a mock turtlen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59179](https://www.codeproject.com/script/News/View.aspx?nwid=59179)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Then they came for the Sharepoint admins, and I did nothing as who wants to be a Sharepoint admin?
 
@@ -84,7 +74,6 @@ Then they came for the Sharepoint admins, and I did nothing as who wants to be a
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59185](https://www.codeproject.com/script/News/View.aspx?nwid=59185)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 They announced a bunch of cloud stuff that I don't feel like posting individually
 
@@ -92,7 +81,6 @@ They announced a bunch of cloud stuff that I don't feel like posting individuall
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59182](https://www.codeproject.com/script/News/View.aspx?nwid=59182)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Figma is a great tool UX/UI designers use to create stunning interactive renders of UIs for a vast assortment of software applications.
 
@@ -100,7 +88,6 @@ Figma is a great tool UX/UI designers use to create stunning interactive renders
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59181](https://www.codeproject.com/script/News/View.aspx?nwid=59181)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Yeah. Mine all the way back in the 70s
 
@@ -108,7 +95,6 @@ Yeah. Mine all the way back in the 70s
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59189](https://www.codeproject.com/script/News/View.aspx?nwid=59189)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 But with rounded corners, and nicer icons
 
@@ -116,7 +102,6 @@ But with rounded corners, and nicer icons
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59180](https://www.codeproject.com/script/News/View.aspx?nwid=59180)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Why wait for the next meeting to "enjoy" working with Teams?
 
@@ -124,7 +109,6 @@ Why wait for the next meeting to "enjoy" working with Teams?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59186](https://www.codeproject.com/script/News/View.aspx?nwid=59186)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 For those who really just wanted to buy a Mac?
 
@@ -132,7 +116,6 @@ For those who really just wanted to buy a Mac?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59173](https://www.codeproject.com/script/News/View.aspx?nwid=59173)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Learn how to migrate renderers from Xamarin Forms to .NET MAUI handlers.
 
@@ -140,7 +123,6 @@ Learn how to migrate renderers from Xamarin Forms to .NET MAUI handlers.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59188](https://www.codeproject.com/script/News/View.aspx?nwid=59188)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Hire a 12 year-old to hack it?
 
@@ -148,6 +130,5 @@ Hire a 12 year-old to hack it?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59172](https://www.codeproject.com/script/News/View.aspx?nwid=59172)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-13 04:00:00+00:00
- - tags: None
 
 Kotlin Multiplatform Mobile from JetBrains is now in beta, and we have been experimenting with this technology to see how it can enable code sharing across platforms.

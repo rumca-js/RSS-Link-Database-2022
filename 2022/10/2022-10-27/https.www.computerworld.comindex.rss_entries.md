@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Google execs knew 'Incognito mode' failed to protect privacy, suit claims
  - [https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all](https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-27 20:47:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#tk.rss_all](https://www.computerworld.com/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-27 17:31:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#tk.rss_all](https://www.computerworld.com/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-27 15:14:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#tk.rss_all](https://www.computerworld.com/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-27 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

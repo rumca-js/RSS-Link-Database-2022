@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Microsoft lays off nearly 1,000 staffers: Reports
  - [https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all](https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-18 19:18:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676836/why-americas-oldest-bank-launched-a-crypto-custody-service.html#tk.rss_all](https://www.computerworld.com/article/3676836/why-americas-oldest-bank-launched-a-crypto-custody-service.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-18 17:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3676835/apple-updates-the-ipad-pro-and-entry-level-ipad.html#tk.rss_all](https://www.computerworld.com/article/3676835/apple-updates-the-ipad-pro-and-entry-level-ipad.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-18 17:28:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3676697/tableau-re-engineers-dashboards-adds-new-analytics-tools-for-business-analysts.html#tk.rss_all](https://www.computerworld.com/article/3676697/tableau-re-engineers-dashboards-adds-new-analytics-tools-for-business-analysts.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-18 11:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3676694/google-pixel-7-settings.html#tk.rss_all](https://www.computerworld.com/article/3676694/google-pixel-7-settings.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-18 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -55,7 +50,6 @@
  - [https://www.computerworld.com/article/3676596/how-to-manage-and-customize-windows-terminal.html#tk.rss_all](https://www.computerworld.com/article/3676596/how-to-manage-and-customize-windows-terminal.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-18 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

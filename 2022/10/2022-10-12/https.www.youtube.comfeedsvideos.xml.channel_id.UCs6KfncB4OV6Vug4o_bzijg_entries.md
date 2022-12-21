@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## Dispelling Myths of VPN Alternatives w/ Safing!
  - [https://www.youtube.com/watch?v=Myn2MiCV1oU](https://www.youtube.com/watch?v=Myn2MiCV1oU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-12 18:28:24+00:00
- - tags: None
 
 VPNs, Tor, SPN, decentralized VPNs - so many tools! But how do they stack up against each other!? Tune in to this exclusive interview with Safing to answer my (and many of the community's) questions!
 

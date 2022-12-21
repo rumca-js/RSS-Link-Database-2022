@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## November's SYSTEM PIGS Abetting Psychopathy
  - [https://www.youtube.com/watch?v=_ahWAeao2g8](https://www.youtube.com/watch?v=_ahWAeao2g8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-10-26 21:30:08+00:00
- - tags: None
 
 ⭐ Help Support the Documentary "Winter of Discontent"
 https://www.gofundme.com/f/the-winter-of-discontent-documentary

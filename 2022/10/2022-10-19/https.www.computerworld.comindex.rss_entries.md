@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple’s next big thing might be healthcare
  - [https://www.computerworld.com/article/3676840/apples-next-big-thing-might-be-healthcare.html#tk.rss_all](https://www.computerworld.com/article/3676840/apples-next-big-thing-might-be-healthcare.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-19 12:33:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676672/for-it-showing-youre-productive-matters-now-more-than-ever.html#tk.rss_all](https://www.computerworld.com/article/3676672/for-it-showing-youre-productive-matters-now-more-than-ever.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-19 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3676838/microsoft-rolls-out-first-moment-update-for-windows-11-win-10-22h2-now-available.html#tk.rss_all](https://www.computerworld.com/article/3676838/microsoft-rolls-out-first-moment-update-for-windows-11-win-10-22h2-now-available.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-19 01:43:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

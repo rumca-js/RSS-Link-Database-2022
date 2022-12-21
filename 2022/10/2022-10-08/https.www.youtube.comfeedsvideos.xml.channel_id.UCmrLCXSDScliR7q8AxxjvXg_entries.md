@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## WHY Success is DESTROYING America
  - [https://www.youtube.com/watch?v=AH6Ny7C7Zzg](https://www.youtube.com/watch?v=AH6Ny7C7Zzg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-10-08 17:30:13+00:00
- - tags: None
 
 Get 2 months of The Epoch Times on any device AND the special report on the recession for just $1. Go to https://epochtim.es/felix and subscribe.
 -------------------------------

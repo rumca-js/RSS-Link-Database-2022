@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## In South Korea, K-pop band's plans for exemption from military service thwarted by defense department's concerns
  - [https://www.lemonde.fr/en/international/article/2022/10/25/in-south-korea-k-pop-band-s-plans-for-exemption-from-military-service-thwarted-by-defense-department-s-concerns_6001627_4.html](https://www.lemonde.fr/en/international/article/2022/10/25/in-south-korea-k-pop-band-s-plans-for-exemption-from-military-service-thwarted-by-defense-department-s-concerns_6001627_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 22:25:03+00:00
- - tags: None
 
 There was a sustained movement in the country to exempt members of the band BTS. The defense ministry's concerns about its workforce and the fair treatment of men required to serve closed the debate.
 
@@ -12,7 +11,6 @@ There was a sustained movement in the country to exempt members of the band BTS.
  - [https://www.lemonde.fr/en/international/article/2022/10/24/turkey-has-turned-into-a-trade-platform-between-russia-and-the-west_6001620_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/turkey-has-turned-into-a-trade-platform-between-russia-and-the-west_6001620_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 18:00:07+00:00
- - tags: None
 
 As the only NATO member state not to apply sanctions against Russia, Turkey has seen its trade with Moscow increase by 87% in one year.
 
@@ -20,7 +18,6 @@ As the only NATO member state not to apply sanctions against Russia, Turkey has 
  - [https://www.lemonde.fr/en/opinion/article/2022/10/24/some-feminists-are-not-supportive-enough-of-iranian-women-it-s-the-same-old-story_6001616_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/24/some-feminists-are-not-supportive-enough-of-iranian-women-it-s-the-same-old-story_6001616_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 17:16:03+00:00
- - tags: None
 
 Discourse aiming at discrediting French feminists – on the pretext that they do not support the women's movement in Iran – is unfounded and aims at putting them 'on the sidelines of the game of political discussion.'
 
@@ -28,7 +25,6 @@ Discourse aiming at discrediting French feminists – on the pretext that they d
  - [https://www.lemonde.fr/en/international/article/2022/10/24/us-says-no-proof-that-russia-or-ukraine-is-preparing-to-use-dirty-bomb_6001612_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/us-says-no-proof-that-russia-or-ukraine-is-preparing-to-use-dirty-bomb_6001612_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 17:10:51+00:00
- - tags: None
 
 Russia on Monday claimed that Ukraine was in the 'final stages' of developing a dirty bomb, allegations Kyiv said were 'absurd' but could signal Russia's battlefield plans.
 
@@ -36,7 +32,6 @@ Russia on Monday claimed that Ukraine was in the 'final stages' of developing a 
  - [https://www.lemonde.fr/en/international/article/2022/10/24/china-s-xi-jinping-grants-himself-complete-control-to-confront-west_6001606_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/china-s-xi-jinping-grants-himself-complete-control-to-confront-west_6001606_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 15:53:35+00:00
- - tags: None
 
 The Chinese leader intends to rearm the country on all fronts against the 'hegemonic' United States.
 
@@ -44,7 +39,6 @@ The Chinese leader intends to rearm the country on all fronts against the 'hegem
  - [https://www.lemonde.fr/en/international/article/2022/10/24/ex-minneapolis-officer-pleads-guilty-in-george-floyd-killing_6001604_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/ex-minneapolis-officer-pleads-guilty-in-george-floyd-killing_6001604_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 15:43:37+00:00
- - tags: None
 
 J. Alexander Kueng, a rookie officer at the time, was convicted in February on federal counts of wilfully violating the civil rights of George Floyd.
 
@@ -52,7 +46,6 @@ J. Alexander Kueng, a rookie officer at the time, was convicted in February on f
  - [https://www.lemonde.fr/en/politics/article/2022/10/24/french-government-faces-no-confidence-votes-after-forcing-through-budget-bill_6001600_5.html](https://www.lemonde.fr/en/politics/article/2022/10/24/french-government-faces-no-confidence-votes-after-forcing-through-budget-bill_6001600_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 15:18:09+00:00
- - tags: None
 
 Though they do not have the votes to topple the government, MPs from the left and the far right tabled three no-confidence motions after the prime minister forced her government's budget through with no vote.
 
@@ -60,7 +53,6 @@ Though they do not have the votes to topple the government, MPs from the left an
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/10/24/i-counted-eight-explosions-the-dog-s-scared-the-sirens-are-still-going-off-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_6001595_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/10/24/i-counted-eight-explosions-the-dog-s-scared-the-sirens-are-still-going-off-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_6001595_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 14:55:26+00:00
- - tags: None
 
 This week, Olga and Sasha were pleased by the destruction of the Crimean bridge but also horrified by the bombings raining down on the country. For the 33rd week, the two sisters talk about their daily life to Le Monde's 'M' magazine.
 
@@ -68,7 +60,6 @@ This week, Olga and Sasha were pleased by the destruction of the Crimean bridge 
  - [https://www.lemonde.fr/en/france/article/2022/10/24/nice-attack-trial-end-of-five-weeks-of-fresh-agony-for-victims_6001592_7.html](https://www.lemonde.fr/en/france/article/2022/10/24/nice-attack-trial-end-of-five-weeks-of-fresh-agony-for-victims_6001592_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 14:15:32+00:00
- - tags: None
 
 The arduous chapter of victims' and relatives' testimonies came to a close on October 21. Each one of them tried to put the unspeakable into words.
 
@@ -76,7 +67,6 @@ The arduous chapter of victims' and relatives' testimonies came to a close on Oc
  - [https://www.lemonde.fr/en/united-kingdom/article/2022/10/24/climate-activists-smear-king-charles-wax-figure-with-cake_6001590_135.html](https://www.lemonde.fr/en/united-kingdom/article/2022/10/24/climate-activists-smear-king-charles-wax-figure-with-cake_6001590_135.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 14:07:49+00:00
- - tags: None
 
 Activists from Just Stop Oil smashed cake into the king's was statue at London's Madame Tussauds museum.
 
@@ -84,7 +74,6 @@ Activists from Just Stop Oil smashed cake into the king's was statue at London's
  - [https://www.lemonde.fr/en/europe/article/2022/10/24/macron-meets-pope-francis-to-talk-about-ukraine_6001588_143.html](https://www.lemonde.fr/en/europe/article/2022/10/24/macron-meets-pope-francis-to-talk-about-ukraine_6001588_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 13:55:50+00:00
- - tags: None
 
 French President Emmanuel Macron stopped by the Vatican as part of his visit to Rome for an interfaith summit on peace.
 
@@ -92,7 +81,6 @@ French President Emmanuel Macron stopped by the Vatican as part of his visit to 
  - [https://www.lemonde.fr/en/france/article/2022/10/24/12-year-old-lola-s-funeral-held-10-days-after-vicious-paris-murder_6001582_7.html](https://www.lemonde.fr/en/france/article/2022/10/24/12-year-old-lola-s-funeral-held-10-days-after-vicious-paris-murder_6001582_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 13:41:11+00:00
- - tags: None
 
 Investigators now have a clear sense of how events unfolded and of the suspected murderer Dahbia B.'s background.
 
@@ -100,7 +88,6 @@ Investigators now have a clear sense of how events unfolded and of the suspected
  - [https://www.lemonde.fr/en/international/article/2022/10/24/tens-of-thousands-of-iranians-march-in-berlin-against-the-regime_6001581_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/tens-of-thousands-of-iranians-march-in-berlin-against-the-regime_6001581_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 13:29:18+00:00
- - tags: None
 
 Iranian-Canadian author and activist Hamed Esmaeilion's call for action united over 80,000 Iranians from Germany and other European countries to protest against the Islamic Republic of Iran.
 
@@ -108,7 +95,6 @@ Iranian-Canadian author and activist Hamed Esmaeilion's call for action united o
  - [https://www.lemonde.fr/en/united-kingdom/article/2022/10/24/rishi-sunak-wins-race-to-become-next-british-prime-minister_6001577_135.html](https://www.lemonde.fr/en/united-kingdom/article/2022/10/24/rishi-sunak-wins-race-to-become-next-british-prime-minister_6001577_135.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 13:19:58+00:00
- - tags: None
 
 The former Treasury chief was elected as the new leader of the Conservative Party, as Penny Mordaunt pulled out of the race.
 
@@ -116,7 +102,6 @@ The former Treasury chief was elected as the new leader of the Conservative Part
  - [https://www.lemonde.fr/en/economy/article/2022/10/24/first-lithium-mining-project-launched-in-france_6001570_19.html](https://www.lemonde.fr/en/economy/article/2022/10/24/first-lithium-mining-project-launched-in-france_6001570_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 12:10:06+00:00
- - tags: None
 
 On Monday, Imerys, the world leader in industrial specialty minerals, announced the start of a major mining project in Echassières, in the Allier region.
 
@@ -124,7 +109,6 @@ On Monday, Imerys, the world leader in industrial specialty minerals, announced 
  - [https://www.lemonde.fr/en/international/article/2022/10/24/turkey-accused-of-deporting-syrian-refugees_6001569_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/turkey-accused-of-deporting-syrian-refugees_6001569_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 12:02:43+00:00
- - tags: None
 
 On October 24, the NGO Human Rights Watch published an initial detailed and well-founded investigation on the subject.
 
@@ -132,7 +116,6 @@ On October 24, the NGO Human Rights Watch published an initial detailed and well
  - [https://www.lemonde.fr/en/international/article/2022/10/24/ethiopia-rivals-gear-up-for-south-africa-peace-talks_6001566_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/ethiopia-rivals-gear-up-for-south-africa-peace-talks_6001566_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 11:23:56+00:00
- - tags: None
 
 The negotiations are taking place during a surge in the conflict that has left upwards of half a million dead in two years.
 
@@ -140,7 +123,6 @@ The negotiations are taking place during a surge in the conflict that has left u
  - [https://www.lemonde.fr/en/campus/article/2022/10/24/protestors-demand-true-school-of-sustainability-at-new-stanford-faculty-opening_6001561_11.html](https://www.lemonde.fr/en/campus/article/2022/10/24/protestors-demand-true-school-of-sustainability-at-new-stanford-faculty-opening_6001561_11.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 10:58:19+00:00
- - tags: None
 
 Some students and professors are condemning the Doerr School of Sustainability's partnership with the fossil fuel industry.
 
@@ -148,7 +130,6 @@ Some students and professors are condemning the Doerr School of Sustainability's
  - [https://www.lemonde.fr/en/economy/article/2022/10/24/credit-suisse-to-pay-238-million-fine-in-france-to-settle-fraud-probe_6001556_19.html](https://www.lemonde.fr/en/economy/article/2022/10/24/credit-suisse-to-pay-238-million-fine-in-france-to-settle-fraud-probe_6001556_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 10:24:14+00:00
- - tags: None
 
 The second largest Swiss bank agreed to pay the sum rather than be prosecuted for illegal canvassing of clients in France and aggravated tax fraud.
 
@@ -156,7 +137,6 @@ The second largest Swiss bank agreed to pay the sum rather than be prosecuted fo
  - [https://www.lemonde.fr/en/international/article/2022/10/24/ukraine-launches-android-app-to-track-and-destroy-kamikaze-drones_6001541_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/ukraine-launches-android-app-to-track-and-destroy-kamikaze-drones_6001541_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 09:00:09+00:00
- - tags: None
 
 Faced with new daily threats posed by swarms of Iranian drones striking its urban areas, Ukraine is calling on its allies for help as the country prepares its own weapons.
 
@@ -164,7 +144,6 @@ Faced with new daily threats posed by swarms of Iranian drones striking its urba
  - [https://www.lemonde.fr/en/france/article/2022/10/24/france-s-first-ivf-for-all-baby-born-this-summer_6001540_7.html](https://www.lemonde.fr/en/france/article/2022/10/24/france-s-first-ivf-for-all-baby-born-this-summer_6001540_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 08:54:36+00:00
- - tags: None
 
 The little girl was born to a lesbian couple, 40 years after the first French test-tube baby and one year after the law was changed to include homosexual and single women in those eligible for fertility treatment.
 
@@ -172,7 +151,6 @@ The little girl was born to a lesbian couple, 40 years after the first French te
  - [https://www.lemonde.fr/en/international/article/2022/10/24/emmanuel-macron-meets-italy-s-new-far-right-pm-giorgia-meloni_6001535_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/emmanuel-macron-meets-italy-s-new-far-right-pm-giorgia-meloni_6001535_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 08:09:20+00:00
- - tags: None
 
 Mr. Macron was the first foreign leader to meet Ms. Meloni since she was sworn into office on Saturday.
 
@@ -180,7 +158,6 @@ Mr. Macron was the first foreign leader to meet Ms. Meloni since she was sworn i
  - [https://www.lemonde.fr/en/environment/article/2022/10/24/climate-activists-pour-mashed-potatoes-on-monet-painting_6001525_114.html](https://www.lemonde.fr/en/environment/article/2022/10/24/climate-activists-pour-mashed-potatoes-on-monet-painting_6001525_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 07:33:04+00:00
- - tags: None
 
 After Van Gogh's Sunflowers was targeted with tomato soup, the group Last Generation followed similar tactics with an $111m Monet in a German museum.
 
@@ -188,7 +165,6 @@ After Van Gogh's Sunflowers was targeted with tomato soup, the group Last Genera
  - [https://www.lemonde.fr/en/international/article/2022/10/24/within-the-eu-debate-on-relations-with-china-intensifies_6001510_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/within-the-eu-debate-on-relations-with-china-intensifies_6001510_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 03:21:42+00:00
- - tags: None
 
 While Brussels is calling for a harder line towards Beijing, the EU's 27 member countries do not intend to revise their position on China for the moment.
 
@@ -196,7 +172,6 @@ While Brussels is calling for a harder line towards Beijing, the EU's 27 member 
  - [https://www.lemonde.fr/en/international/article/2022/10/24/slovenia-conservative-anze-logar-leads-the-first-round-of-the-presidential-election-ahead-of-natasa-pirc-musar_6001508_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/slovenia-conservative-anze-logar-leads-the-first-round-of-the-presidential-election-ahead-of-natasa-pirc-musar_6001508_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 03:07:39+00:00
- - tags: None
 
 The former foreign minister won almost 34% of the vote, but victory is far from certain against his center-left rival Natasa Pirc Musar, who collected around 27%.
 
@@ -204,7 +179,6 @@ The former foreign minister won almost 34% of the vote, but victory is far from 
  - [https://www.lemonde.fr/en/politics/article/2022/10/24/the-abolition-of-france-s-wealth-tax-still-has-no-proven-effect-on-the-economy_6001505_5.html](https://www.lemonde.fr/en/politics/article/2022/10/24/the-abolition-of-france-s-wealth-tax-still-has-no-proven-effect-on-the-economy_6001505_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 02:30:10+00:00
- - tags: None
 
 There is no evidence that the tax reforms undertaken during President Macron's first term benefited the French people.
 
@@ -212,6 +186,5 @@ There is no evidence that the tax reforms undertaken during President Macron's f
  - [https://www.lemonde.fr/en/international/article/2022/10/24/in-uganda-a-race-against-time-facing-an-ebola-epidemic_6001501_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/in-uganda-a-race-against-time-facing-an-ebola-epidemic_6001501_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-24 00:36:48+00:00
- - tags: None
 
 The town of Mubende in central Uganda is under a 7 pm curfew, and all forms of transportation are prohibited.

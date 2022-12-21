@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Did AM4 bite AMD’s Ryzen in the butt?
  - [https://www.pcworld.com/article/1363947/am4-might-be-an-anchor-weighing-amd-down.html](https://www.pcworld.com/article/1363947/am4-might-be-an-anchor-weighing-amd-down.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Hot take alert: <a href="https://www.pcworld.com/article/701130/tested-the-ryzen-7-5800x3ds-astonishing-performance-shows-how-far-amds-ryzen-has-come.html">AMD&rsquo;s awesome, multi-generational AM4 CPU socket</a> is actually a bad thing. Wait, stop, I can hear you typing out a letter to the editor right now. Address it to Gordon Mah Ung, because this take belongs to him. Why could one of the most beloved CPU socket designs ever be bad for AMD? You&rsquo;ll need to watch the latest PCWorld video to find out. </p>
@@ -54,7 +53,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/436006/20-terrifying-pc-horror-games-to-play-with-the-lights-off.html](https://www.pcworld.com/article/436006/20-terrifying-pc-horror-games-to-play-with-the-lights-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 15:47:35+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Horror games are a dime a dozen. Scary&nbsp;horror games,&nbsp;<em>good</em>&nbsp;horror games&mdash;well, those are much rarer. We&rsquo;ve rounded up some of the best horror games ever made, running the gamut from big-budget extravaganzas released this very year to&hellip; text adventures. Yes, seriously.</p>
@@ -341,7 +339,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1365285/overclock-your-raspberry-pi-to-a-blistering-2-5ghz.html](https://www.pcworld.com/article/1365285/overclock-your-raspberry-pi-to-a-blistering-2-5ghz.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 15:24:29+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Overclocking isn&rsquo;t a new idea, and it isn&rsquo;t limited to high-end processors, either. In high school I overclocked the Intel Xscale CPU in my Palm Tungsten T3 from 400Hz to 600Hz, just so I could play my Quicktime copy of the trailer for The Matrix Revolutions more smoothly. (In hindsight, it wasn&rsquo;t worth it.) But the point is, you can overclock almost any computer processor, as one enterprising modder did to the little-SoC-that-could, the <a href="https://www.pcworld.com/article/420028/10-practical-raspberry-pi-projects-anybody-can-do.html">$35 Raspberry Pi</a>. </p>
@@ -360,7 +357,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1361825/nvidia-geforce-rtx-3060-vs-intel-arc-a770.html](https://www.pcworld.com/article/1361825/nvidia-geforce-rtx-3060-vs-intel-arc-a770.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The graphics card market is no longer just a duet. Make room for a new entrant in the competitive world of pushing pixels! Intel has finally introduced its Arc lineup of desktop graphics cards, hoping to take on both Nvidia and AMD for the hearts of gamers.&nbsp;&nbsp;</p>
@@ -645,7 +641,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1365181/nvidia-announces-the-8gb-rtx-3060-it-should-have-made-all-along.html](https://www.pcworld.com/article/1365181/nvidia-announces-the-8gb-rtx-3060-it-should-have-made-all-along.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 14:17:04+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>When PCWorld executive editor Brad Chacos reviewed the GeForce RTX 3060 early last year, <a href="https://www.pcworld.com/article/394228/nvidia-geforce-rtx-3060-review.html" rel="noreferrer noopener" target="_blank">he said it was &ldquo;fine.&rdquo;</a> Not exactly a ringing endorsement &mdash; he felt that using 12GB of GDDR6 memory on a GPU obviously targeting 1080p gaming was overkill, and a detrimental expense at a time when graphics cards were impossible to find for a reasonable price. Today Nvidia has revealed a more economical 8GB variant of the RTX 3060, which is probably the card it should have released over a year and a half ago. </p>
@@ -670,7 +665,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1365153/level-up-with-this-700-acer-nitro-gaming-laptop.html](https://www.pcworld.com/article/1365153/level-up-with-this-700-acer-nitro-gaming-laptop.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 14:05:08+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Calling all gamers! If you&rsquo;re on the prowl for an affordable gaming laptop, you&rsquo;re in luck. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/Acer-Nitro-5-15-6-144Hz-FHD-Gaming-Laptop-AMD-Ryzen-5-5600H-Nvidia-GeForce-RTX-3060-8GB-DDR4-512GB-NVMe-SSD-Windows-11-AN515-45-R6XD/836840444?athbdg=L1100&amp;xcust=2-1-1365153-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Walmart&rsquo;s currently selling the Acer Nitro 5 for $699, which is a savings of $300</a>. Not only does it have two fans and a quad exhaust port design for keeping things cool, but it&rsquo;s also offering very powerful internals for the price&mdash;namely, an Nvidia GeForce RTX 3060, which is a rare find in a gaming laptop this affordable. Let&rsquo;s jump right into it.</p>
@@ -691,7 +685,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1359589/why-quit-overwatch-2-breakup-letter.html](https://www.pcworld.com/article/1359589/why-quit-overwatch-2-breakup-letter.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s possible to love a video game. To be devoted to it, to value what it does for you and how it makes you feel, and to want the best for it. Not in the same way you love a person &mdash; or at least, I hope not. But take a look at any major fan convention for video games, movies, TV, or almost anything that develops a subculture, and you can see this love is real, active, and powerful.&nbsp;</p>
@@ -931,7 +924,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1358891/acer-aspire-vero-14-review-from-trash-to-treasure.html](https://www.pcworld.com/article/1358891/acer-aspire-vero-14-review-from-trash-to-treasure.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -1084,7 +1076,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1339657/save-72-off-three-years-of-this-highly-rated-vpn.html](https://www.pcworld.com/article/1339657/save-72-off-three-years-of-this-highly-rated-vpn.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-28 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Surfing the web without a VPN is sort of like leaving your home for the day without locking it. People can enter and find details about your private life that you&rsquo;d rather&nbsp;<a href="https://shop.pcworld.com/sales/windscribe-pro-3-year-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=windscribe-pro-3-year-subscription_100322&amp;utm_term=scsf-555328&amp;utm_content=a0x1P000004lqdtQAA&amp;scsonar=1">stay hidden</a>. Similarly, trackers, government agencies, and even your ISP can find out what you&rsquo;ve been searching for if you don&rsquo;t protect yourself with a VPN. And if you need an affordable, reliable service, Windscribe is offering three-year Pro Plans for $89.99.</p>

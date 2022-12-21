@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## YouTube Handles: What are they and how to claim yours
  - [https://www.androidauthority.com/youtube-handles-explained-3219035/](https://www.androidauthority.com/youtube-handles-explained-3219035/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 21:25:55+00:00
- - tags: None
 
 Everything you need to know to get a handle on YouTube Handles.
 
@@ -12,7 +11,6 @@ Everything you need to know to get a handle on YouTube Handles.
  - [https://www.androidauthority.com/samsung-tablet-prime-day-3185149/](https://www.androidauthority.com/samsung-tablet-prime-day-3185149/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 21:10:39+00:00
- - tags: None
 
 Almost every Samsung tablet is at or near its lowest price ever in this massive Amazon sale.
 
@@ -20,7 +18,6 @@ Almost every Samsung tablet is at or near its lowest price ever in this massive 
  - [https://www.androidauthority.com/wear-os-updates-3218981/](https://www.androidauthority.com/wear-os-updates-3218981/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 20:44:30+00:00
- - tags: None
 
 Google has a goal to release Wear OS updates as frequently as it updates Android.
 
@@ -28,7 +25,6 @@ Google has a goal to release Wear OS updates as frequently as it updates Android
  - [https://www.androidauthority.com/amazon-prime-razer-gaming-deals-3218979/](https://www.androidauthority.com/amazon-prime-razer-gaming-deals-3218979/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 20:12:40+00:00
- - tags: None
 
 Save on Razer PC gaming keyboards, mice, and much more.
 
@@ -36,7 +32,6 @@ Save on Razer PC gaming keyboards, mice, and much more.
  - [https://www.androidauthority.com/mobvoi-ticwatches-early-prime-day-deals-3184626/](https://www.androidauthority.com/mobvoi-ticwatches-early-prime-day-deals-3184626/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 19:50:42+00:00
- - tags: None
 
 The most popular TicWatches are on offer in the massive Amazon sales event, giving you the chance to save as much as $90.
 
@@ -44,7 +39,6 @@ The most popular TicWatches are on offer in the massive Amazon sales event, givi
  - [https://www.androidauthority.com/meta-quest-pro-3218904/](https://www.androidauthority.com/meta-quest-pro-3218904/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 19:15:48+00:00
- - tags: None
 
 Meta has announced a new premium VR headset releasing on October 25.
 
@@ -52,7 +46,6 @@ Meta has announced a new premium VR headset releasing on October 25.
  - [https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-3218568/](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-3218568/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 17:25:16+00:00
- - tags: None
 
 The battle between Android and iOS continues. Which side will you take?
 
@@ -60,7 +53,6 @@ The battle between Android and iOS continues. Which side will you take?
  - [https://www.androidauthority.com/google-prime-early-access-sale-3218834/](https://www.androidauthority.com/google-prime-early-access-sale-3218834/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 17:12:24+00:00
- - tags: None
 
 Both the Pixel 6 and Pixel 6a are at their best prices ever in the sale.
 
@@ -68,7 +60,6 @@ Both the Pixel 6 and Pixel 6a are at their best prices ever in the sale.
  - [https://www.androidauthority.com/motorola-prime-day-2022-3185703/](https://www.androidauthority.com/motorola-prime-day-2022-3185703/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 15:53:57+00:00
- - tags: None
 
 From the top-end Motorola Edge Plus to the Moto G series, everything is discounted.
 
@@ -76,7 +67,6 @@ From the top-end Motorola Edge Plus to the Moto G series, everything is discount
  - [https://www.androidauthority.com/buy-google-pixel-7-3217734/](https://www.androidauthority.com/buy-google-pixel-7-3217734/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 15:00:57+00:00
- - tags: None
 
 As far as I'm concerned, Google's growing pains are finally over.
 
@@ -84,7 +74,6 @@ As far as I'm concerned, Google's growing pains are finally over.
  - [https://www.androidauthority.com/google-pixel-7-vs-apple-iphone-14-3218500/](https://www.androidauthority.com/google-pixel-7-vs-apple-iphone-14-3218500/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 14:56:42+00:00
- - tags: None
 
 Only you know what's best for you, but we can help you decide!
 
@@ -92,7 +81,6 @@ Only you know what's best for you, but we can help you decide!
  - [https://www.androidauthority.com/samsung-storage-devices-prime-day-3184920/](https://www.androidauthority.com/samsung-storage-devices-prime-day-3184920/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 14:40:28+00:00
- - tags: None
 
 You can save as much as $190 on everything from microSD cards to internal and external SSDs.
 
@@ -100,7 +88,6 @@ You can save as much as $190 on everything from microSD cards to internal and ex
  - [https://www.androidauthority.com/contact-joined-telegram-opinion-3212262/](https://www.androidauthority.com/contact-joined-telegram-opinion-3212262/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 13:00:54+00:00
- - tags: None
 
 We're tired of the "contact joined Telegram" alerts clogging up the chat menu.
 
@@ -108,7 +95,6 @@ We're tired of the "contact joined Telegram" alerts clogging up the chat menu.
  - [https://www.androidauthority.com/gaming-chromebooks-announced-3218441/](https://www.androidauthority.com/gaming-chromebooks-announced-3218441/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 13:00:27+00:00
- - tags: None
 
 Google has announced three new cloud gaming Chromebooks.
 
@@ -116,7 +102,6 @@ Google has announced three new cloud gaming Chromebooks.
  - [https://www.androidauthority.com/streaming-amazon-prime-early-access-sale-3218455/](https://www.androidauthority.com/streaming-amazon-prime-early-access-sale-3218455/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 10:30:52+00:00
- - tags: None
 
 Save on streaming sticks, smart TVs, and more in the second huge Amazon sale of the year.
 
@@ -124,7 +109,6 @@ Save on streaming sticks, smart TVs, and more in the second huge Amazon sale of 
  - [https://www.androidauthority.com/garmin-watches-amazon-prime-early-access-sale-3218681/](https://www.androidauthority.com/garmin-watches-amazon-prime-early-access-sale-3218681/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 09:57:55+00:00
- - tags: None
 
 Garmin's flagship multisport smartwatch is too cheap to ignore.
 
@@ -132,7 +116,6 @@ Garmin's flagship multisport smartwatch is too cheap to ignore.
  - [https://www.androidauthority.com/samsung-galaxy-watch-5-prime-day-early-access-3218665/](https://www.androidauthority.com/samsung-galaxy-watch-5-prime-day-early-access-3218665/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 08:54:43+00:00
- - tags: None
 
 Plenty of other Samsung smartwatches are cut price thanks to the Amazon Prime Early Access sale.
 
@@ -140,7 +123,6 @@ Plenty of other Samsung smartwatches are cut price thanks to the Amazon Prime Ea
  - [https://www.androidauthority.com/amazon-prime-early-access-sale-sony-wh-1000xm5-wf-1000xm4-3218657/](https://www.androidauthority.com/amazon-prime-early-access-sale-sony-wh-1000xm5-wf-1000xm4-3218657/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 08:49:20+00:00
- - tags: None
 
 Time to get up your ANC game.
 
@@ -148,7 +130,6 @@ Time to get up your ANC game.
  - [https://www.androidauthority.com/daily-authority-october-11-2022-3218187/](https://www.androidauthority.com/daily-authority-october-11-2022-3218187/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 08:40:51+00:00
- - tags: None
 
 Plus Tensor 2's 5nm architecture, Amazon Prime Early Access Sale deals, Meta Connect 2022, and Pac-Man's birthday.
 
@@ -156,7 +137,6 @@ Plus Tensor 2's 5nm architecture, Amazon Prime Early Access Sale deals, Meta Con
  - [https://www.androidauthority.com/samsung-galaxy-flagship-deals-amazon-3218616/](https://www.androidauthority.com/samsung-galaxy-flagship-deals-amazon-3218616/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 08:30:09+00:00
- - tags: None
 
 Now's a good a time as any to get a Galaxy S22 series phone or Galaxy foldable.
 
@@ -164,7 +144,6 @@ Now's a good a time as any to get a Galaxy S22 series phone or Galaxy foldable.
  - [https://www.androidauthority.com/amazon-prime-early-access-sale-bose-deals-3218619/](https://www.androidauthority.com/amazon-prime-early-access-sale-bose-deals-3218619/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 07:48:10+00:00
- - tags: None
 
 This might be the best time to pick up these great Bose ANC headsets.
 
@@ -172,7 +151,6 @@ This might be the best time to pick up these great Bose ANC headsets.
  - [https://www.androidauthority.com/trust-google-vpn-service-poll-results-3218130/](https://www.androidauthority.com/trust-google-vpn-service-poll-results-3218130/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 06:41:42+00:00
- - tags: None
 
 It turns out that "no" was the most popular answer.
 
@@ -180,6 +158,5 @@ It turns out that "no" was the most popular answer.
  - [https://www.androidauthority.com/google-pixel-6-pro-face-unlock-canceled-3218581/](https://www.androidauthority.com/google-pixel-6-pro-face-unlock-canceled-3218581/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-11 04:51:22+00:00
- - tags: None
 
 But does it really matter?

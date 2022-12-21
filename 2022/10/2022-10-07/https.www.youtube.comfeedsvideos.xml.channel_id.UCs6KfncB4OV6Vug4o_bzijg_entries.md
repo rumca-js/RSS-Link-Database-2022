@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## Ditch Chrome - Use THESE Instead!
  - [https://www.youtube.com/watch?v=VHwIyR6ca4o](https://www.youtube.com/watch?v=VHwIyR6ca4o)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-07 20:00:31+00:00
- - tags: None
 
 Google Chrome is a privacy nightmare - so let's talk about what to use instead for all the Chrome users out there!
 

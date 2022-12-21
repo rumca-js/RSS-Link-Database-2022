@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Best laptop deals: Prime Early Access Sale top picks
  - [https://www.pcworld.com/article/796350/prime-day-laptop-deals.html](https://www.pcworld.com/article/796350/prime-day-laptop-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-05 22:24:10+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re in the market for a new laptop, and you missed finding a deal during July&rsquo;s Prime Day event, you&rsquo;re in luck. Amazon is running a new sales event called Prime Early Access Sale that will run between Oct 11 and 12. This low-key version of Prime Day should include great deals on laptops from Dell, Microsoft, and other top brands.</p>
@@ -17,7 +16,6 @@
  - [https://www.pcworld.com/article/694614/best-free-antivirus-for-android.html](https://www.pcworld.com/article/694614/best-free-antivirus-for-android.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-05 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Keeping your Android phone secure without security software is doable, but it&rsquo;s also risky. That&rsquo;s especially true if you liberally download apps from the Play Store or use your phone to open a lot of files from email or messaging platforms.</p>
@@ -30,7 +28,6 @@
  - [https://www.pcworld.com/article/1340564/microsofts-surface-launch-surface-pro-9-surface-laptop-5-and-more.html](https://www.pcworld.com/article/1340564/microsofts-surface-launch-surface-pro-9-surface-laptop-5-and-more.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-05 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft plans to launch an updated Surface Pro tablet, a new Surface Laptop, and a refresh of its iconic Surface Studio later this month, according to reports.</p>
@@ -43,7 +40,6 @@
  - [https://www.pcworld.com/article/1342188/save-250-on-this-unique-asus-convertible-gaming-laptop.html](https://www.pcworld.com/article/1342188/save-250-on-this-unique-asus-convertible-gaming-laptop.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-05 13:17:26+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re looking for a gaming laptop that&rsquo;s versatile and can do it all, the 16-inch Asus ROG is worth considering. <a href="https://bestbuy.7tiv.net/c/321564/614286/10014?u=https://www.bestbuy.com/site/asus-rog-16-touchscreen-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-nvidia-geforce-rtx-3060-v6g-graphics-1tb-ssd-off-black/6507909.p?skuId=6507909&amp;loc=pdpShare&a
@@ -52,7 +48,6 @@
  - [https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-review.html](https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-05 13:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -62,7 +57,6 @@
  - [https://www.pcworld.com/article/627427/intel-arc-xe-hpg-gpu-alchemist-deep-dive.html](https://www.pcworld.com/article/627427/intel-arc-xe-hpg-gpu-alchemist-deep-dive.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-10-05 13:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s the start of a new era of competition. Today, Intel&rsquo;s <a href="https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-review.html">debut Arc A770 and A750 GPUs</a> had their curtain drawn fully back, heralding the company&rsquo;s long-teased entry into discrete <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gam

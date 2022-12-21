@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## How the Pixel, Apple, and Galaxy watches compare on paper
  - [https://www.theverge.com/2022/10/6/23391189/pixel-apple-samsung-galaxy-watch-comparison-specs-fitness](https://www.theverge.com/2022/10/6/23391189/pixel-apple-samsung-galaxy-watch-comparison-specs-fitness)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 23:15:28+00:00
- - tags: None
 
 <figure>
       <img alt="All four colors of the Google Pixel Watch, hanging on a watch stand, sitting atop a wood table. The watch colors from left to right are black with a black band, silver with a dark gray band, gold with a light gray band, and silver with a white band." src="https://cdn.vox-cdn.com/thumbor/AqzoaqVwy_oYLbxaavv-qGxa7j0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463927/226324_Google_event_hands_on_vpavic_0033.0.jpg" />
@@ -14,7 +13,6 @@
  - [https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 22:03:49+00:00
- - tags: None
 
 <figure>
       <img alt="The Target logo over a repeating pink and white bullseye illustration" src="https://cdn.vox-cdn.com/thumbor/eD243WKs8rIBzSr5e9p3VFo3HMs=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463678/Target.0.jpg" />
@@ -27,7 +25,6 @@
  - [https://www.theverge.com/2022/10/6/23391741/blizzard-overwatch-2-servers-offline-fixes-updates](https://www.theverge.com/2022/10/6/23391741/blizzard-overwatch-2-servers-offline-fixes-updates)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 21:56:19+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Overwatch 2 focused on the hero Sojourn." src="https://cdn.vox-cdn.com/thumbor/ctmUqb1tiWdP3xN48ed7ixymwzM=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463634/sojourn_screenshot_01.0.jpeg" />
@@ -40,7 +37,6 @@
  - [https://www.theverge.com/2022/10/6/23391749/elon-musk-twitter-trial-stay-close-deal-judge-date](https://www.theverge.com/2022/10/6/23391749/elon-musk-twitter-trial-stay-close-deal-judge-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 21:42:41+00:00
- - tags: None
 
 <figure>
       <img alt="A photo illustration of Elon Musk making a thumbs’ up gesture, against background of arrows pointing up." src="https://cdn.vox-cdn.com/thumbor/z2KsowGCeiG_92rZUz8yzIjMH68=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463596/VRG_Illo_STK022_K_Radtke_Musk_Thumbs_Up.0.jpg" />
@@ -53,7 +49,6 @@
  - [https://www.theverge.com/2022/10/6/23390869/super-mario-movie-trailer-chris-pratt](https://www.theverge.com/2022/10/6/23390869/super-mario-movie-trailer-chris-pratt)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 20:16:09+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the poster for the Super Mario Bros movie featuring a shot of the titular plumber from behind as a happy looking Captain Toad leads him through a busy market full of toads." src="https://cdn.vox-cdn.com/thumbor/-zvWNaa8XcY6ik5jN5XQ4C6eLnE=/0x599:1080x1319/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463243/FeOpvRIX0AA8YtJ.0.jpeg" />
@@ -66,7 +61,6 @@
  - [https://www.theverge.com/2022/10/6/23391536/glass-onion-a-knives-out-mystery-theaters-release-date-november-netflix](https://www.theverge.com/2022/10/6/23391536/glass-onion-a-knives-out-mystery-theaters-release-date-november-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 20:15:43+00:00
- - tags: None
 
 <figure>
       <img alt="Daniel Craig returns as Benoit Blanc in Glass Onion: A Knives Out Mystery." src="https://cdn.vox-cdn.com/thumbor/WuoaX64SHVFuUzfFudzHWC1XWIo=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463241/025_TVA_1290_comp_v1011.00182812_4Kr.0.jpg" />
@@ -79,7 +73,6 @@
  - [https://www.theverge.com/2022/10/6/23391415/spotify-gimlet-and-parcast-layoff-canceled](https://www.theverge.com/2022/10/6/23391415/spotify-gimlet-and-parcast-layoff-canceled)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 20:10:33+00:00
- - tags: None
 
 <figure>
       <img alt="The Spotify logo" src="https://cdn.vox-cdn.com/thumbor/iD7IqT7loLx8jXnsM85GY9lWHgE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463205/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.0.jpg" />
@@ -92,7 +85,6 @@
  - [https://www.theverge.com/2022/10/6/23391552/biden-marijuana-pardon-weed-state-federal-offenses-simple-possession](https://www.theverge.com/2022/10/6/23391552/biden-marijuana-pardon-weed-state-federal-offenses-simple-possession)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 20:05:19+00:00
- - tags: None
 
 <figure>
       <img alt="President Joe Biden sits smiling at a desk in the oval office, seen from his left behind a bank of phones." src="https://cdn.vox-cdn.com/thumbor/gO10G-lzmh7OXdu3wFWz31rR9O0=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463178/52386946419_54ee506456_o.0.jpg" />
@@ -105,7 +97,6 @@
  - [https://www.theverge.com/2022/10/6/23391368/peloton-ceo-laid-off-500-people-six-months-memo](https://www.theverge.com/2022/10/6/23391368/peloton-ceo-laid-off-500-people-six-months-memo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 19:57:28+00:00
- - tags: None
 
 <figure>
       <img alt="Peloton logo" src="https://cdn.vox-cdn.com/thumbor/oCv609fT0OK920JLAaGuzyd8s9k=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463106/acastro_STK119_Peleton_01.0.jpg" />
@@ -118,7 +109,6 @@
  - [https://www.theverge.com/2022/10/6/23391396/steam-deck-available-buy-now-reservations](https://www.theverge.com/2022/10/6/23391396/steam-deck-available-buy-now-reservations)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 19:43:59+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of the right half of a Steam deck against an orange background." src="https://cdn.vox-cdn.com/thumbor/1eliShjf7zIEAepPnXK2672XWaY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71463021/vpavic_220210_5030_0021.0.jpg" />
@@ -131,7 +121,6 @@
  - [https://www.theverge.com/23391161/google-pixel-7-case-official-hands-on](https://www.theverge.com/23391161/google-pixel-7-case-official-hands-on)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 19:05:00+00:00
- - tags: None
 
 <figure>
       <img alt="Images of three Google Pixel 7 phones side by side inside Google’s official cases." src="https://cdn.vox-cdn.com/thumbor/xQxB_r8c-jsSGrogPhfRYfUeVkc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71462832/DSCF9887.0.jpg" />
@@ -143,7 +132,6 @@
  - [https://www.theverge.com/2022/10/6/23391299/juul-vaping-teen-puff-bar-fda-cdc-survey](https://www.theverge.com/2022/10/6/23391299/juul-vaping-teen-puff-bar-fda-cdc-survey)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 18:56:01+00:00
- - tags: None
 
 <figure>
       <img alt="Pink and yellow boxes of Puff Bar e-cigarettes." src="https://cdn.vox-cdn.com/thumbor/Gz2LEyv7yHN_gxt1KZQjJUid2Ng=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71462764/1346213133.0.jpg" />
@@ -156,7 +144,6 @@
  - [https://www.theverge.com/2022/10/6/23390929/climate-change-drought-california-20-times-worse-study](https://www.theverge.com/2022/10/6/23390929/climate-change-drought-california-20-times-worse-study)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 18:40:54+00:00
- - tags: None
 
 <figure>
       <img alt="A lone palm tree stands above dry, barren agricultural fields." src="https://cdn.vox-cdn.com/thumbor/YUEr0l02RLuP5yDA_GBXqPH93Ek=/56x0:5843x3858/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71462675/1418388516.0.jpg" />
@@ -169,7 +156,6 @@
  - [https://www.theverge.com/23391082/google-pixel-7-pro-vs-iphone-14-spec-comparison-apple](https://www.theverge.com/23391082/google-pixel-7-pro-vs-iphone-14-spec-comparison-apple)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 18:33:47+00:00
- - tags: None
 
 <figure>
       <img alt="The Google Pixel 7 Pro phone with its back turned, revealing its white design and three rear-facing cameras." src="https://cdn.vox-cdn.com/thumbor/Bq1nkj33J6xKjptgVhI2ZWs9BR4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71462608/DSC03760.0.jpeg" />
@@ -182,7 +168,6 @@
  - [https://www.theverge.com/23390726/matter-smart-home-faq-questions-answers](https://www.theverge.com/23390726/matter-smart-home-faq-questions-answers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 18:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A purple, blue, and white illustration of the Matter logo" src="https://cdn.vox-cdn.com/thumbor/BdJK_NEOnniN4fkDpbEEZFacj-c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71462584/STK138_Matter_K_Radtke_01.0.jpg" />
@@ -198,7 +183,6 @@
  - [https://www.theverge.com/2022/10/6/23391245/valve-steam-deck-dock-reservation-cost-price](https://www.theverge.com/2022/10/6/23391245/valve-steam-deck-dock-reservation-cost-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 17:21:02+00:00
- - tags: None
 
 <figure>
       <img alt="Image of a Steam Deck in its dock, with a variety of cables connected." src="https://cdn.vox-cdn.com/thumbor/YX-EtV4Oy4gE5Ef1M_xSZSU7etA=/196x0:2305x1406/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71462296/dock_back.0.jpeg" />
@@ -211,7 +195,6 @@
  - [https://www.theverge.com/2022/10/6/23391042/twitter-edit-button-rolling-out-us-paying-blue-subscribers](https://www.theverge.com/2022/10/6/23391042/twitter-edit-button-rolling-out-us-paying-blue-subscribers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 16:27:53+00:00
- - tags: None
 
 <figure>
       <img alt="A blue Twitter bird logo with a repeating pattern in the background" src="https://cdn.vox-cdn.com/thumbor/iftZd-wY7XwYUJiNzXlVQYNoBgQ=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461951/acastro_STK050_01.0.jpg" />
@@ -224,7 +207,6 @@
  - [https://www.theverge.com/2022/10/6/23390962/nvidia-geforce-now-plague-tale-requiem](https://www.theverge.com/2022/10/6/23390962/nvidia-geforce-now-plague-tale-requiem)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 16:15:02+00:00
- - tags: None
 
 <figure>
       <img alt="An image from A Plague Tale" src="https://cdn.vox-cdn.com/thumbor/ZFqtiuRwURyxPfj5SkaeYR_2tu8=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461898/pud947bf06a885db0d477d707121934ff8_1544107281_7784715_screenshot_original.0.png" />
@@ -237,7 +219,6 @@
  - [https://www.theverge.com/23389129/werewolf-by-night-review-marvel-disney-plus](https://www.theverge.com/23389129/werewolf-by-night-review-marvel-disney-plus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Gael García Bernal in the Disney Plus special Werewolf by Night." src="https://cdn.vox-cdn.com/thumbor/7S8xSA4BdR7QWk3wmRiLC24udtc=/790x0:3195x1603/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461844/A006C008_220323_AP90_00098859.0.jpg" />
@@ -250,7 +231,6 @@
  - [https://www.theverge.com/23387050/google-pixel-7-vs-6-comparison-specs-price-features](https://www.theverge.com/23387050/google-pixel-7-vs-6-comparison-specs-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:45:22+00:00
- - tags: None
 
 <figure>
       <img alt="Google’s new Pixel 7 and Pixel 7 Pro next to a Pixel 6A phone." src="https://cdn.vox-cdn.com/thumbor/uUBLBTkV-2wmNMDRM3xP1E_LEes=/0x84:2000x1417/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461754/Pixel_7_Pixel_6a_Family.0.jpg" />
@@ -263,7 +243,6 @@
  - [https://www.theverge.com/23063898/google-pixel-watch-preorder-how-to-buy-price-release-date](https://www.theverge.com/23063898/google-pixel-watch-preorder-how-to-buy-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:29:48+00:00
- - tags: None
 
 <figure>
       <img alt="All four colors of the Google Pixel Watch, hanging on a watch stand, sitting atop a wood table. The watch colors from left to right are black with a black band, silver with a dark gray band, gold with a light gray band, and silver with a white band." src="https://cdn.vox-cdn.com/thumbor/3Mr-izGgtddbH3LA9PYsVGyN6sk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461674/226324_Google_event_hands_on_vpavic_0033.0.jpg" />
@@ -273,7 +252,6 @@
  - [https://www.theverge.com/23387436/pixel-watch-hands-on-features-price-specs-photos](https://www.theverge.com/23387436/pixel-watch-hands-on-features-price-specs-photos)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:26:22+00:00
- - tags: None
 
 <figure>
       <img alt="Pixel Watch in a man’s hands. " src="https://cdn.vox-cdn.com/thumbor/7HSQpu9Fgu-ApPwuunI4u6PqTfo=/0x0:4416x2944/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461654/DSCF9868.5.jpeg" />
@@ -286,7 +264,6 @@
  - [https://www.theverge.com/23389240/google-pixel-7-pro-hands-on-price-specs-screen-camera-photos](https://www.theverge.com/23389240/google-pixel-7-pro-hands-on-price-specs-screen-camera-photos)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:25:20+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/IVZE71Dfv7GYZvnYscJa8ZwKIws=/4x0:3004x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461648/DSC03760.5.jpeg" />
@@ -299,7 +276,6 @@
  - [https://www.theverge.com/23389597/google-pixel-7-pro-preorder-how-to-buy-price-release-date](https://www.theverge.com/23389597/google-pixel-7-pro-preorder-how-to-buy-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:19:07+00:00
- - tags: None
 
 <figure>
       <img alt="A stock image of the Pixel 7 and Pixel 7 Pro" src="https://cdn.vox-cdn.com/thumbor/1iXYDKBVJrJDLMbn1Y3JjP9cVAs=/720x0:8495x5183/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461618/Pixel_7_and_Pixel_7_Pro_Family.0.jpeg" />
@@ -312,7 +288,6 @@
  - [https://www.theverge.com/2022/10/6/23385161/google-pixel-7-watch-tablet-event-announcements-products](https://www.theverge.com/2022/10/6/23385161/google-pixel-7-watch-tablet-event-announcements-products)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:16:15+00:00
- - tags: None
 
 <figure>
       <img alt="A graphic showing Google’s upcoming Pixel 7 smartphones" src="https://cdn.vox-cdn.com/thumbor/40d6_ywFD2GvdAHqpfIr7mg-Lqo=/0x0:920x613/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461604/Pixel_7_and_Pixel_7_Pro_Family.0.0.jpg" />
@@ -325,7 +300,6 @@
  - [https://www.theverge.com/2022/10/6/23374487/google-tablet-pixel-launch-reveal-dock-smart-display](https://www.theverge.com/2022/10/6/23374487/google-tablet-pixel-launch-reveal-dock-smart-display)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:12:45+00:00
- - tags: None
 
 <figure>
       <img alt="The Pixel Tablet on its wireless charging stand." src="https://cdn.vox-cdn.com/thumbor/-Tr561aRrMMNXlhrvxfPv0NL8DQ=/171x0:1971x1200/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461585/Screen_Shot_2022_10_06_at_3.59.45_PM.0.png" />
@@ -338,7 +312,6 @@
  - [https://www.theverge.com/2022/10/6/23390937/google-pixel-7-pro-photo-unblur-fix-blur](https://www.theverge.com/2022/10/6/23390937/google-pixel-7-pro-photo-unblur-fix-blur)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:03:20+00:00
- - tags: None
 
 <figure>
       <img alt="A slide showing a photo of a person on the beach, with one half blurry and the other half sharp." src="https://cdn.vox-cdn.com/thumbor/GF4VPdthj2XOZwFOwEcq2apTHU8=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461545/lcimg_5275b251_7121_4467_a20f_0939fc169b94.0.jpg" />
@@ -349,7 +322,6 @@
  - [https://www.theverge.com/2022/10/6/23390623/microsoft-windows-11-disable-security-features-improve-gaming-performance](https://www.theverge.com/2022/10/6/23390623/microsoft-windows-11-disable-security-features-improve-gaming-performance)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of Microsoft’s Windows logo" src="https://cdn.vox-cdn.com/thumbor/ax68IYicjYQtdJfHiiP5lspVUAQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461478/acastro_STK109_microsoft_02.0.jpg" />
@@ -362,7 +334,6 @@
  - [https://www.theverge.com/2022/10/6/23390796/roblox-discord-facebook-snapchat-social-media-lawsuits-addiction-child-abuse](https://www.theverge.com/2022/10/6/23390796/roblox-discord-facebook-snapchat-social-media-lawsuits-addiction-child-abuse)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:58:15+00:00
- - tags: None
 
 <figure>
       <img alt="The Discord logo." src="https://cdn.vox-cdn.com/thumbor/pFZUsadOk6mh_n0ufbAazBvnS1Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461463/acastro_STK062_02.0.jpg" />
@@ -375,7 +346,6 @@
  - [https://www.theverge.com/2022/10/6/23390761/twitter-birdwatch-community-moderation-expansion-misinformation-qanon](https://www.theverge.com/2022/10/6/23390761/twitter-birdwatch-community-moderation-expansion-misinformation-qanon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:49:16+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter bird logo in black over a white and blue background" src="https://cdn.vox-cdn.com/thumbor/QPBOmlsykGwOm8TB85uSmmTWB5Q=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461425/acastro_STK050_03.0.jpg" />
@@ -388,7 +358,6 @@
  - [https://www.theverge.com/23389978/google-pixel-watch-wearables-fitbit-future](https://www.theverge.com/23389978/google-pixel-watch-wearables-fitbit-future)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:47:05+00:00
- - tags: None
 
 <figure>
       <img alt="The Pixel Watch on its side showing a Fitbit watch face" src="https://cdn.vox-cdn.com/thumbor/APWPeqQXhsxr6sxFtNlUoICEXf0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461410/226324_Google_event_hands_on_vpavic_0014.0.jpg" />
@@ -402,7 +371,6 @@
  - [https://www.theverge.com/2022/10/6/23386034/google-apple-rcs-pixel-7-watch-event](https://www.theverge.com/2022/10/6/23386034/google-apple-rcs-pixel-7-watch-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:45:07+00:00
- - tags: None
 
 <figure>
       <img alt="Google’s Brian Rakowski is onstage in front of a screen. The screen has a person holding a Pixel 7 phone behind the letters “RCS.”" src="https://cdn.vox-cdn.com/thumbor/ulgbl56CDHh4wduh9_Cm4KrBwQk=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461402/lcimg_75f77f76_2a9e_49ef_a925_d75e00eb1a91.5.jpeg" />
@@ -412,7 +380,6 @@
  - [https://www.theverge.com/2022/10/6/23385335/google-pixel-watch-price-specs-features-release-date](https://www.theverge.com/2022/10/6/23385335/google-pixel-watch-price-specs-features-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:45:00+00:00
- - tags: None
 
 <figure>
       <img alt="All the varieties of of Pixel Watch cases and bands side by side " src="https://cdn.vox-cdn.com/thumbor/EM1JI3vYeUwNmDyp0vz6WRsrApQ=/349x0:4125x2517/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461396/GooglePixelWatch.0.png" />
@@ -425,7 +392,6 @@
  - [https://www.theverge.com/2022/10/6/23381214/google-pixel-7-pro-specs-price-screen-battery-tensor-g2](https://www.theverge.com/2022/10/6/23381214/google-pixel-7-pro-specs-price-screen-battery-tensor-g2)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:45:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/xLEDctpj7hFcz23wPLocWl6GC5U=/0x84:2000x1417/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461393/Pixel_7_Pro_Hazel_Close_Up.0.jpg" />
@@ -438,7 +404,6 @@
  - [https://www.theverge.com/2022/10/6/23390274/google-pixel-7-pro-vpn-one-no-cost](https://www.theverge.com/2022/10/6/23390274/google-pixel-7-pro-vpn-one-no-cost)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:39:58+00:00
- - tags: None
 
 <figure>
       <img alt="Image of a slide saying “Pixel 7 and Pixel 7 Pro VPN by Google One at no extra cost.”" src="https://cdn.vox-cdn.com/thumbor/HRqr0WuEsIOap0O2SmSOz2ifqdo=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461380/lcimg_94cd5525_0dba_4ad1_8236_4d1ec48fd106.0.jpg" />
@@ -451,7 +416,6 @@
  - [https://www.theverge.com/2022/10/6/23390509/xbox-series-s-sony-wf1000xm4-echo-buds-kindle-paperwhite-deal-sale](https://www.theverge.com/2022/10/6/23390509/xbox-series-s-sony-wf1000xm4-echo-buds-kindle-paperwhite-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:10:57+00:00
- - tags: None
 
 <figure>
       <img alt="The white and black Xbox Series S console standing vertically on a white table in front of a black background." src="https://cdn.vox-cdn.com/thumbor/VEbFUHJeEccnTT3NkLg4lDUWyuk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461280/vpavic_201103_4275_0252.0.jpg" />
@@ -464,7 +428,6 @@
  - [https://www.theverge.com/23390807/nintendo-pokemon-scarlet-violet-trailer](https://www.theverge.com/23390807/nintendo-pokemon-scarlet-violet-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 14:06:03+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from Pokemon Scarlet and Violet featuring a close up shot of Nemona a tanned teenage girl with a green bang smiling holding a pokeball in her right hand." src="https://cdn.vox-cdn.com/thumbor/2bGMqT4pJgTYELCekr2YwdbDGno=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461252/Pokemon_SV_Screenshot_10__1_.0.jpg" />
@@ -477,7 +440,6 @@
  - [https://www.theverge.com/23387398/amazon-prime-early-access-sale-2022-deals-news-date-time-retailer](https://www.theverge.com/23387398/amazon-prime-early-access-sale-2022-deals-news-date-time-retailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:55:08+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the Amazon logo" src="https://cdn.vox-cdn.com/thumbor/gVDFQ0hsRpI1eiXXw8sqURPKshc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461131/acastro_STK103__02.0.jpg" />
@@ -492,7 +454,6 @@
  - [https://www.theverge.com/23390407/need-for-speed-unbound-trailer-release-date-ps5-xbox](https://www.theverge.com/23390407/need-for-speed-unbound-trailer-release-date-ps5-xbox)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:52:00+00:00
- - tags: None
 
 <figure>
       <img alt="A$AP Rocky in Need for Speed: Unbound" src="https://cdn.vox-cdn.com/thumbor/wHZRjr7ed8WhjDSRKCACU-tZCms=/203x0:1856x1102/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461122/Screen_Shot_2022_10_06_at_9.37.05_AM.0.png" />
@@ -505,7 +466,6 @@
  - [https://www.theverge.com/2022/10/6/23390723/htc-vive-small-teaser-virtual-reality-vr-headset](https://www.theverge.com/2022/10/6/23390723/htc-vive-small-teaser-virtual-reality-vr-headset)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:31:57+00:00
- - tags: None
 
 <figure>
       <img alt="A closely cropped image showing a glossy black surface reflecting light." src="https://cdn.vox-cdn.com/thumbor/0qggG4XveWwNbh8icJhNDm4o4p8=/0x320:1920x1600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461070/FeYnbGUXEAIrjCa.0.jpg" />
@@ -518,7 +478,6 @@
  - [https://www.theverge.com/2022/10/6/23389858/logitech-herman-miller-vantum-gaming-chair-price-release-date](https://www.theverge.com/2022/10/6/23389858/logitech-herman-miller-vantum-gaming-chair-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Logitech Herman Miller Vantum gaming chair shown with its seat facing the viewer. Its upholstery is black with white detailing." src="https://cdn.vox-cdn.com/thumbor/9Z4Qp85inEcT0ZlGLLMsMUVaGEM=/0x1:758x506/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71461025/vantumlede.0.jpg" />
@@ -528,7 +487,6 @@
  - [https://www.theverge.com/2022/10/6/23390036/google-pixel-7-watch-event-live-blog](https://www.theverge.com/2022/10/6/23390036/google-pixel-7-watch-event-live-blog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:22:23+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the Google “G” logo on a blue, black, and purple background." src="https://cdn.vox-cdn.com/thumbor/wC_kzqVfBKFHhkm2gj0vfbdNH_U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460998/STK093_Google_03.0.jpg" />
@@ -544,7 +502,6 @@
  - [https://www.theverge.com/2022/10/6/23389682/volvo-ex90-ev-bidirectional-charging](https://www.theverge.com/2022/10/6/23389682/volvo-ex90-ev-bidirectional-charging)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:05:00+00:00
- - tags: None
 
 <figure>
       <img alt="Volvo’s Concept Recharge electric concept vehicle on a white background" src="https://cdn.vox-cdn.com/thumbor/D_jQBXkuy2I8M40WvkAfIMeS3gU=/399x0:4701x2868/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460941/283691_Volvo_Concept_Recharge.0.jpg" />
@@ -557,7 +514,6 @@
  - [https://www.theverge.com/2022/10/6/23389641/ukama-open-source-cell-network-internet](https://www.theverge.com/2022/10/6/23389641/ukama-open-source-cell-network-internet)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Image of several white plastic devices on a wood table — one somewhat cylindrical, one large rectangular one, and a small, book-like one." src="https://cdn.vox-cdn.com/thumbor/PBq6jxideRLqPCfw_5_KqtOSGO0=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460843/ukama_on_wooden_table.0.jpg" />
@@ -570,7 +526,6 @@
  - [https://www.theverge.com/2022/10/6/23388202/honda-prologue-ev-styling-size-specs-crv-passport](https://www.theverge.com/2022/10/6/23388202/honda-prologue-ev-styling-size-specs-crv-passport)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The 2024 Honda Prologue electric SUV against a white and purple background" src="https://cdn.vox-cdn.com/thumbor/6O9ODTEWa6EPYW-PNdbZPYHq4bs=/0x1:2700x1801/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460869/01_2024_Honda_Prologue_Styling_Reveal.0.jpg" />
@@ -583,7 +538,6 @@
  - [https://www.theverge.com/2022/10/6/23390681/peleton-layoffs-ceo-revenue](https://www.theverge.com/2022/10/6/23390681/peleton-layoffs-ceo-revenue)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 12:39:28+00:00
- - tags: None
 
 <figure>
       <img alt="A stock image featuring the Peloton logo." src="https://cdn.vox-cdn.com/thumbor/U2siUP9gp_pySzXw0PZEYfraTQc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460768/acastro_STK119_Peleton_03.0.jpg" />
@@ -596,7 +550,6 @@
  - [https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time](https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 12:31:57+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/ivcr_tiKt-pa63kn_tJdbDj_fgw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71447297/acastro_180508_1777_google_IO_0003.5.jpg" />
@@ -609,7 +562,6 @@
  - [https://www.theverge.com/2022/10/6/23388933/super-mario-bros-movie-trailer-how-to-watch-date](https://www.theverge.com/2022/10/6/23388933/super-mario-bros-movie-trailer-how-to-watch-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 12:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A poster for the Super Mario Bros. movie." src="https://cdn.vox-cdn.com/thumbor/jWW_iyQVRuFw5TlihUKIYINNs_U=/0x541:1080x1261/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460709/FeOpvRIX0AA8YtJ.0.jpg" />
@@ -622,7 +574,6 @@
  - [https://www.theverge.com/2022/10/6/23379506/made-by-google-pixel-7-pro-watch-event](https://www.theverge.com/2022/10/6/23379506/made-by-google-pixel-7-pro-watch-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Google logo." src="https://cdn.vox-cdn.com/thumbor/xTfuTLmLQxS_tc0AoZQvuxrcbOw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460522/STK093_Google_02.0.jpg" />
@@ -635,7 +586,6 @@
  - [https://www.theverge.com/2022/10/6/23388841/uber-motional-robotaxi-autonomous-vehicle-deal-av](https://www.theverge.com/2022/10/6/23388841/uber-motional-robotaxi-autonomous-vehicle-deal-av)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Hyundai Ioniq 5 electric vehicle on a leafy city street" src="https://cdn.vox-cdn.com/thumbor/sGsJqIf_MCu5AX0Tkn6huZKJLgE=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460574/IONIQ5_Motional_Uber.0.jpg" />
@@ -648,7 +598,6 @@
  - [https://www.theverge.com/2022/10/6/23390607/ai-text-to-video-google-imagen-phenaki-new-research](https://www.theverge.com/2022/10/6/23390607/ai-text-to-video-google-imagen-phenaki-new-research)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 11:45:13+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/bRhHIX8RMaAxfS9b_r0_w2mEVj4=/39x0:762x482/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460465/imagen_multi_clip_gif.0.gif" />
@@ -660,7 +609,6 @@
  - [https://www.theverge.com/2022/10/6/23390603/elon-musk-twitter-deposition-delayed-negotiations-deal-acqusition](https://www.theverge.com/2022/10/6/23390603/elon-musk-twitter-deposition-delayed-negotiations-deal-acqusition)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 09:22:03+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk in front of the Twitter logo." src="https://cdn.vox-cdn.com/thumbor/kE9BQ2uWyZItunQIa-hnNh83TuI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71460144/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.0.jpg" />
@@ -673,7 +621,6 @@
  - [https://www.theverge.com/23387809/apple-iphone-14-plus-review-screen-battery-camera-price](https://www.theverge.com/23387809/apple-iphone-14-plus-review-screen-battery-camera-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 04:00:00+00:00
- - tags: None
 
 <p>Excellent battery life and a large display make the 14 Plus upgrade-worthy</p>
   <p>
@@ -684,7 +631,6 @@
  - [https://www.theverge.com/2022/10/5/23390421/overwatch-2-queue-servers-disconnect-account-merge-sms-protect](https://www.theverge.com/2022/10/5/23390421/overwatch-2-queue-servers-disconnect-account-merge-sms-protect)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 02:38:19+00:00
- - tags: None
 
 <figure>
       <img alt="Key Art graphic depicting three new heroes in Overwatch 2 from left to right: Sojourn, an African Canadian dark skinned woman; center is Junker Queen, a tanned and muscular Australian woman with a blue mohawk; rightmost is Kiriko, a Japanese teenage shrine maiden and street vigilante" src="https://cdn.vox-cdn.com/thumbor/vqhRV4Kig36Jm7uOKWiUwOdXqGk=/92x0:1087x663/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71459726/Launch_Key_Art.0.png" />
@@ -694,7 +640,6 @@
  - [https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment](https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-06 00:25:32+00:00
- - tags: None
 
 <figure>
       <img alt="Uber company name written on a multicolored background." src="https://cdn.vox-cdn.com/thumbor/Ns-xa3vNM0ADLzw4Y7wg4UJIvuc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71459423/acastro_STK106__01.0.jpg" />

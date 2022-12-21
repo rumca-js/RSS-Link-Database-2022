@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## With 12 days left before midterms, tensions rise between some candidates
  - [https://www.cnn.com/videos/politics/2022/10/27/midterms-tension-omar-jimenez-dnt-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/27/midterms-tension-omar-jimenez-dnt-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 22:21:47+00:00
- - tags: None
 
 As the days edge nearer to the 2022 midterm elections, tensions are rising between candidates as races across the US heat up. CNN's Omar Jimenez reports.
 
@@ -12,7 +11,6 @@ As the days edge nearer to the 2022 midterm elections, tensions are rising betwe
  - [https://www.cnn.com/travel/article/plane-damage-severe-weather-emergency-landing-paraguay/index.html](https://www.cnn.com/travel/article/plane-damage-severe-weather-emergency-landing-paraguay/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 22:18:25+00:00
- - tags: None
 
 A LATAM Airlines plane was damaged traveling from Santiago, Chile, to Asunción, Paraguay, and had to make an emergency landing at Silvio Pettirossi International Airport on Wednesday after experiencing "severe weather conditions during its flight path," the airline told CNN in a statement on Thursday.
 
@@ -20,7 +18,6 @@ A LATAM Airlines plane was damaged traveling from Santiago, Chile, to Asunción,
  - [https://www.cnn.com/2022/10/27/health/nightmare-treatment-study-wellness/index.html](https://www.cnn.com/2022/10/27/health/nightmare-treatment-study-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 22:09:59+00:00
- - tags: None
 
 Heart pounding, I sit bolt upright in bed, flushed, sweaty and utterly panicked. My brain has snatched me from a nightmare — a dream so alarming I wake up.
 
@@ -28,7 +25,6 @@ Heart pounding, I sit bolt upright in bed, flushed, sweaty and utterly panicked.
  - [https://www.cnn.com/2022/10/27/world/mars-nasa-meteoroid-impacts-scn/index.html](https://www.cnn.com/2022/10/27/world/mars-nasa-meteoroid-impacts-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 21:06:49+00:00
- - tags: None
 
 Christmas came a little early for NASA's InSight mission last December when the lander detected a massive quake on Mars.
 
@@ -36,7 +32,6 @@ Christmas came a little early for NASA's InSight mission last December when the 
  - [https://www.cnn.com/2022/10/27/europe/russia-vladimir-putin-valdai-club-speech-intl/index.html](https://www.cnn.com/2022/10/27/europe/russia-vladimir-putin-valdai-club-speech-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 20:31:48+00:00
- - tags: None
 
 Russian President Vladimir Putin took some familiar swipes at the US and its allies during a speech on Thursday, accusing "Western elites" of playing a "dangerous, bloody and dirty game" and seeking to blame them for much of the world's trouble, including his own invasion of Ukraine.
 
@@ -44,7 +39,6 @@ Russian President Vladimir Putin took some familiar swipes at the US and its all
  - [https://www.cnn.com/2022/10/27/europe/italy-stabbing-milan-pablo-mari-intl/index.html](https://www.cnn.com/2022/10/27/europe/italy-stabbing-milan-pablo-mari-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 20:28:59+00:00
- - tags: None
 
 One person has died after a stabbing attack on the outskirts of the Italian city of Milan on Thursday, according to Italian national police.
 
@@ -52,7 +46,6 @@ One person has died after a stabbing attack on the outskirts of the Italian city
  - [https://www.cnn.com/videos/world/2022/10/27/ukraine-power-plant-russia-damage-nic-robertson-vpx.cnn](https://www.cnn.com/videos/world/2022/10/27/ukraine-power-plant-russia-damage-nic-robertson-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 20:07:27+00:00
- - tags: None
 
 CNN's Nic Robertson gets an inside look at a Ukrainian power plant that has been damaged by a Russian attack and is still targeted by Russian forces. Workers trying to make repairs are constantly interrupted by air raid sirens.
 
@@ -60,7 +53,6 @@ CNN's Nic Robertson gets an inside look at a Ukrainian power plant that has been
  - [https://www.cnn.com/2022/10/27/entertainment/kanye-west-hitler-album/index.html](https://www.cnn.com/2022/10/27/entertainment/kanye-west-hitler-album/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 19:31:35+00:00
- - tags: None
 
 • Kanye West jokes about being dropped by companies
 
@@ -68,7 +60,6 @@ CNN's Nic Robertson gets an inside look at a Ukrainian power plant that has been
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-27-22#h_f401f9ca351b6cce94eb9dee5795c779](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-27-22#h_f401f9ca351b6cce94eb9dee5795c779)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 18:36:45.544770+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ CNN's Nic Robertson gets an inside look at a Ukrainian power plant that has been
  - [https://www.cnn.com/videos/us/2022/10/27/motorcycle-flames-police-chase-taser-jk-jc-orig.cnn](https://www.cnn.com/videos/us/2022/10/27/motorcycle-flames-police-chase-taser-jk-jc-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 16:48:55+00:00
- - tags: None
 
 An Arkansas man is in the hospital -- but expected to recover -- after he was engulfed by a fireball when he was tased by state police while wearing a backpack with a gallon of gasoline inside, according to the Arkansas State Police.
 
@@ -84,7 +74,6 @@ An Arkansas man is in the hospital -- but expected to recover -- after he was en
  - [https://www.cnn.com/2022/10/27/politics/us-defense-strategy-china-russia/index.html](https://www.cnn.com/2022/10/27/politics/us-defense-strategy-china-russia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 16:29:26+00:00
- - tags: None
 
 The US must strengthen its defenses against increasing threats from both China and Russia, focusing on Beijing as its main global competitor, the Biden administration's national defense strategy released Thursday says.
 
@@ -92,7 +81,6 @@ The US must strengthen its defenses against increasing threats from both China a
  - [https://www.cnn.com/2022/10/27/uk/rishi-sunak-cop-27-withdrawal-intl/index.html](https://www.cnn.com/2022/10/27/uk/rishi-sunak-cop-27-withdrawal-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 16:17:16+00:00
- - tags: None
 
 British Prime Minister Rishi Sunak is no longer expected to attend the COP27 climate summit in Egypt next week due to "other pressing commitments," a Downing Street spokesperson said on Thursday.
 
@@ -100,7 +88,6 @@ British Prime Minister Rishi Sunak is no longer expected to attend the COP27 cli
  - [https://www.cnn.com/videos/us/2022/10/27/halloween-monster-door-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/us/2022/10/27/halloween-monster-door-moos-cprog-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 16:09:54+00:00
- - tags: None
 
 Monster door threatens to eat trick-or-treaters. CNN's Jeanne Moos reports it greets them with open arms ... literally.
 
@@ -108,7 +95,6 @@ Monster door threatens to eat trick-or-treaters. CNN's Jeanne Moos reports it gr
  - [https://www.cnn.com/2022/10/27/americas/ecuador-frogs-new-species-scn/index.html](https://www.cnn.com/2022/10/27/americas/ecuador-frogs-new-species-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 16:08:52+00:00
- - tags: None
 
 Six new species of rain frogs have been discovered on the eastern slopes of the Ecuadorian Andes, according to a statement from Ecuador's Ministry of the Environment, Water, and Ecological Transition.
 
@@ -116,7 +102,6 @@ Six new species of rain frogs have been discovered on the eastern slopes of the 
  - [https://www.cnn.com/2022/10/27/politics/trump-doj-mar-a-lago-hearing/index.html](https://www.cnn.com/2022/10/27/politics/trump-doj-mar-a-lago-hearing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 16:03:44+00:00
- - tags: None
 
 Former President Donald Trump's legal defense team and prosecutors handling the Mar-a-Lago documents investigation are at federal courthouse in Washington, DC, Thursday morning in a secret dispute related to the unprecedented investigation.
 
@@ -124,7 +109,6 @@ Former President Donald Trump's legal defense team and prosecutors handling the 
  - [https://www.cnn.com/2022/10/27/politics/senate-race-surprises-pennsylvania-georgia-analysis/index.html](https://www.cnn.com/2022/10/27/politics/senate-race-surprises-pennsylvania-georgia-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 15:56:12+00:00
- - tags: None
 
 Late twists are rocking the tight Senate races that will decide the destiny of a chamber now narrowly run by Democrats -- as well as the future direction of America itself -- on Election Day in just 12 days.
 
@@ -132,7 +116,6 @@ Late twists are rocking the tight Senate races that will decide the destiny of a
  - [https://www.cnn.com/2022/10/27/europe/russia-gay-propaganda-law-toughened-intl/index.html](https://www.cnn.com/2022/10/27/europe/russia-gay-propaganda-law-toughened-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 15:52:05+00:00
- - tags: None
 
 Russian lawmakers agreed to toughen the country's discriminatory law against so-called same-sex "propaganda," moving to ban all Russians from promoting or "praising" homosexual relationships or publicly suggesting that they are "normal."
 
@@ -140,7 +123,6 @@ Russian lawmakers agreed to toughen the country's discriminatory law against so-
  - [https://www.cnn.com/2022/10/27/opinions/putin-ukraine-russia-winter-energy-infrastructure/index.html](https://www.cnn.com/2022/10/27/opinions/putin-ukraine-russia-winter-energy-infrastructure/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 15:39:13+00:00
- - tags: None
 
 With evenings drawing in fast as winter approaches, the lights are going out across Ukraine.
 
@@ -148,7 +130,6 @@ With evenings drawing in fast as winter approaches, the lights are going out acr
  - [https://www.cnn.com/travel/article/best-spicy-foods-world/index.html](https://www.cnn.com/travel/article/best-spicy-foods-world/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 15:00:37+00:00
- - tags: None
 
 Some like it hot -- and some like it hotter, still.
 
@@ -156,7 +137,6 @@ Some like it hot -- and some like it hotter, still.
  - [https://www.cnn.com/2022/10/27/entertainment/jules-bass-death-rudolph-frosty-cec/index.html](https://www.cnn.com/2022/10/27/entertainment/jules-bass-death-rudolph-frosty-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 14:58:11+00:00
- - tags: None
 
 What kind of Christmas would it be without the resourceful Rudolph or Hermey the aspiring dentist, without friendly Frosty or the dastardly Heat and Snow Misers?
 
@@ -164,7 +144,6 @@ What kind of Christmas would it be without the resourceful Rudolph or Hermey the
  - [https://www.cnn.com/2022/10/27/entertainment/harvey-weinstein-charges-accusers/index.html](https://www.cnn.com/2022/10/27/entertainment/harvey-weinstein-charges-accusers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 14:39:09+00:00
- - tags: None
 
 Reporting five years ago on Harvey Weinstein's alleged sexual abuse spurred women to speak publicly about their own experiences with sexual violence in what became known as the #MeToo movement.
 
@@ -172,7 +151,6 @@ Reporting five years ago on Harvey Weinstein's alleged sexual abuse spurred wome
  - [https://www.cnn.com/travel/article/robert-bartini-mysterious-airplane-designer/index.html](https://www.cnn.com/travel/article/robert-bartini-mysterious-airplane-designer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 14:36:52+00:00
- - tags: None
 
 His life is such a mystery that even his real name is uncertain, but his legacy to the world of aviation is clear: Robert Oros di Bartini -- as the inscription reads on his tombstone -- was a genius ahead of his time whose wondrous airplanes and bizarre flying boats still impress today, almost 50 years after his death.
 
@@ -180,7 +158,6 @@ His life is such a mystery that even his real name is uncertain, but his legacy 
  - [https://www.cnn.com/videos/business/2022/10/27/deli-chicken-salad-cleveland-ohio-viral-tiktok-affil-wews-cprog-vpx.wews](https://www.cnn.com/videos/business/2022/10/27/deli-chicken-salad-cleveland-ohio-viral-tiktok-affil-wews-cprog-vpx.wews)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 14:26:04+00:00
- - tags: None
 
 A small deli in Cleveland, Ohio, has gone viral for their chicken salad thanks to a loyal customer's TikTok videos.
 
@@ -188,7 +165,6 @@ A small deli in Cleveland, Ohio, has gone viral for their chicken salad thanks t
  - [https://www.cnn.com/2022/10/27/tech/elon-musk-twitter-advertisers/index.html](https://www.cnn.com/2022/10/27/tech/elon-musk-twitter-advertisers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 14:15:29+00:00
- - tags: None
 
 Elon Musk attempted to reassure Twitter's advertisers about the future of the platform in an open letter Thursday, a day before his $44 billion takeover of the company is expected to be completed.
 
@@ -196,7 +172,6 @@ Elon Musk attempted to reassure Twitter's advertisers about the future of the pl
  - [https://www.cnn.com/2022/10/27/business/rivian-owners-r1t/index.html](https://www.cnn.com/2022/10/27/business/rivian-owners-r1t/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 14:08:39+00:00
- - tags: None
 
 Denis Wang says he always hated the car-buying process — until he met Rivian.
 
@@ -204,7 +179,6 @@ Denis Wang says he always hated the car-buying process — until he met Rivian.
  - [https://www.cnn.com/2022/10/27/middleeast/israel-lebanon-sign-gas-deal-intl/index.html](https://www.cnn.com/2022/10/27/middleeast/israel-lebanon-sign-gas-deal-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 13:53:32+00:00
- - tags: None
 
 Israel and Lebanon finalized an agreement defining their maritime borders in the Mediterranean on Thursday, President Joe Biden announced on Twitter, inking a United States-brokered deal at the United Nations mission on the land border between the countries.
 
@@ -212,7 +186,6 @@ Israel and Lebanon finalized an agreement defining their maritime borders in the
  - [https://www.cnn.com/2022/10/27/health/breast-cancer-screening-khn-partner/index.html](https://www.cnn.com/2022/10/27/health/breast-cancer-screening-khn-partner/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 13:21:02+00:00
- - tags: None
 
 When Katie Couric shared the news of her breast cancer diagnosis, the former co-host of NBC's "Today" show said she considered this new health challenge to be a teachable moment to encourage people to get needed cancer screenings.
 
@@ -220,7 +193,6 @@ When Katie Couric shared the news of her breast cancer diagnosis, the former co-
  - [https://www.cnn.com/collections/intl-kanye-west-102722/](https://www.cnn.com/collections/intl-kanye-west-102722/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 13:13:14+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@ When Katie Couric shared the news of her breast cancer diagnosis, the former co-
  - [https://www.cnn.com/2022/10/27/economy/european-central-bank-interest-rates/index.html](https://www.cnn.com/2022/10/27/economy/european-central-bank-interest-rates/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 13:12:27+00:00
- - tags: None
 
 The European Central Bank hiked interest rates by three quarters of a percentage point on Thursday, promising further hikes to come as it tackles rising inflation.
 
@@ -236,7 +207,6 @@ The European Central Bank hiked interest rates by three quarters of a percentage
  - [https://www.cnn.com/business/live-news/stock-market-today-gdp-ecb-mortgage-rates/index.html](https://www.cnn.com/business/live-news/stock-market-today-gdp-ecb-mortgage-rates/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:45:37+00:00
- - tags: None
 
 
 
@@ -244,7 +214,6 @@ The European Central Bank hiked interest rates by three quarters of a percentage
  - [https://www.cnn.com/2022/10/27/football/barcelona-bayern-munich-champions-league-spt-intl/index.html](https://www.cnn.com/2022/10/27/football/barcelona-bayern-munich-champions-league-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:42:19+00:00
- - tags: None
 
 Barcelona talked a lot about "economic levers" as the Catalan club looks to improve its finances, but it won't be able to use the Champions League pulley anymore after exiting at the competition's group stage for the second consecutive season.
 
@@ -252,7 +221,6 @@ Barcelona talked a lot about "economic levers" as the Catalan club looks to impr
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-27-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-27-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:36:36.083862+00:00
- - tags: None
 
 • Putin to deliver extensive speech at 'very important' meeting Thursday, Kremlin says
 • Watch: Amanpour asks Russian ambassador if nukes are on the table. Hear his response
@@ -261,7 +229,6 @@ Barcelona talked a lot about "economic levers" as the Catalan club looks to impr
  - [https://cnn.it/3FlsIqk](https://cnn.it/3FlsIqk)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:36:35.821298+00:00
- - tags: None
 
 
 
@@ -269,7 +236,6 @@ Barcelona talked a lot about "economic levers" as the Catalan club looks to impr
  - [https://www.cnn.com/videos/politics/2022/10/27/mark-meadows-donald-trump-georgia-testify-haberman-newday-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/27/mark-meadows-donald-trump-georgia-testify-haberman-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:31:21+00:00
- - tags: None
 
 CNN political analyst Maggie Haberman says Donald Trump's former chief of staff, Mark Meadows, could provide insight into the former president's state of mind about the grand jury investigation in Georgia.
 
@@ -277,7 +243,6 @@ CNN political analyst Maggie Haberman says Donald Trump's former chief of staff,
  - [https://www.cnn.com/2022/10/27/business/miss-usa-investigation-rigged-claim/index.html](https://www.cnn.com/2022/10/27/business/miss-usa-investigation-rigged-claim/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:14:54+00:00
- - tags: None
 
 The Miss Universe Organization has suspended Miss USA President Crystle Stewart and her company, Miss Brand Corporation, pending an independent investigation into allegations that the 2022 Miss USA pageant was rigged.
 
@@ -285,7 +250,6 @@ The Miss Universe Organization has suspended Miss USA President Crystle Stewart 
  - [https://www.cnn.com/2022/10/27/business/peloton-kanye-west/index.html](https://www.cnn.com/2022/10/27/business/peloton-kanye-west/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 12:04:31+00:00
- - tags: None
 
 Peloton has "indefinitely paused" playing Kanye West's music from its streaming workout classes.
 
@@ -293,7 +257,6 @@ Peloton has "indefinitely paused" playing Kanye West's music from its streaming 
  - [https://www.cnn.com/2022/10/27/europe/belarus-investigation-reaction-intl/index.html](https://www.cnn.com/2022/10/27/europe/belarus-investigation-reaction-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:58:28+00:00
- - tags: None
 
 An opposition leader in exile from Belarus has demanded that President Alexsandr Lukashenko be held to account for his regime's complicity in the Ukraine war and for Russian soldiers to withdraw from Belarusian soil, after a CNN investigation revealed new evidence that the country provided medical assistance to injured Russian troops.
 
@@ -301,7 +264,6 @@ An opposition leader in exile from Belarus has demanded that President Alexsandr
  - [https://www.cnn.com/2022/10/27/tech/apple-earnings-preview/index.html](https://www.cnn.com/2022/10/27/tech/apple-earnings-preview/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:49:47+00:00
- - tags: None
 
 Apple is about to offer its first hints about iPhone 14 sales after weeks of rumors that demand for its latest smartphone lineup could be weaker than initially expected.
 
@@ -309,7 +271,6 @@ Apple is about to offer its first hints about iPhone 14 sales after weeks of rum
  - [https://www.cnn.com/2022/10/27/economy/hickenlooper-interest-rates-fed/index.html](https://www.cnn.com/2022/10/27/economy/hickenlooper-interest-rates-fed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:44:32+00:00
- - tags: None
 
 Colorado Sen. John Hickenlooper is pleading with the Federal Reserve to pause its relentless attack on crushing inflation before it does more harm than good.
 
@@ -317,7 +278,6 @@ Colorado Sen. John Hickenlooper is pleading with the Federal Reserve to pause it
  - [https://www.cnn.com/2022/10/27/media/prince-harry-memoir-release-date-gbr-intl-scli/index.html](https://www.cnn.com/2022/10/27/media/prince-harry-memoir-release-date-gbr-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:43:05+00:00
- - tags: None
 
 Prince Harry's highly anticipated memoir will be entitled "Spare" and is set for a January 10 release, its publisher revealed on Thursday.
 
@@ -325,7 +285,6 @@ Prince Harry's highly anticipated memoir will be entitled "Spare" and is set for
  - [https://www.cnn.com/videos/world/2022/10/27/brazil-election-poor-voters-newton-pkg-ovn-intl-contd-ldn-vpx-2.cnn](https://www.cnn.com/videos/world/2022/10/27/brazil-election-poor-voters-newton-pkg-ovn-intl-contd-ldn-vpx-2.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:42:56+00:00
- - tags: None
 
 Access for food has become a central issue in Brazil's presidential election as the country struggles with high inflation, limited growth, and rising poverty. CNN's Paula Newton reports.
 
@@ -333,7 +292,6 @@ Access for food has become a central issue in Brazil's presidential election as 
  - [https://www.cnn.com/2022/10/27/tennis/emma-raducanu-red-flags-dmitry-tursunov-spt-intl/index.html](https://www.cnn.com/2022/10/27/tennis/emma-raducanu-red-flags-dmitry-tursunov-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:38:45+00:00
- - tags: None
 
 Dmitry Tursunov says he decided to stop coaching Emma Raducanu at the end of his trial period with the tennis star because of "red flags" that he could not ignore.
 
@@ -341,7 +299,6 @@ Dmitry Tursunov says he decided to stop coaching Emma Raducanu at the end of his
  - [https://www.cnn.com/travel/article/the-robotic-falcon-designed-to-help-prevent-bird-strikes-scn/index.html](https://www.cnn.com/travel/article/the-robotic-falcon-designed-to-help-prevent-bird-strikes-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:31:07+00:00
- - tags: None
 
 Airplanes and birds have been sharing the skies since the first ever flight back in 1903.
 
@@ -349,7 +306,6 @@ Airplanes and birds have been sharing the skies since the first ever flight back
  - [https://www.cnn.com/2022/10/27/energy/iea-global-outlook-report-2022-climate/index.html](https://www.cnn.com/2022/10/27/energy/iea-global-outlook-report-2022-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:30:24+00:00
- - tags: None
 
 Global fossil fuel emissions are expected to peak in 2025 as countries commit huge sums of money toward low-carbon fuels, according to the International Energy Agency (IEA).
 
@@ -357,7 +313,6 @@ Global fossil fuel emissions are expected to peak in 2025 as countries commit hu
  - [https://www.cnn.com/2022/10/27/europe/germany-cannabis-legalization-recreational-use-intl/index.html](https://www.cnn.com/2022/10/27/europe/germany-cannabis-legalization-recreational-use-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:16:30+00:00
- - tags: None
 
 The German government unveiled plans for the legalization of recreational cannabis for adults on Wednesday, though many details have yet to be worked out and must be squared with European Union law before legislation is put forward.
 
@@ -365,7 +320,6 @@ The German government unveiled plans for the legalization of recreational cannab
  - [https://www.cnn.com/2022/10/27/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/10/27/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 11:06:35+00:00
- - tags: None
 
 Tech stocks are taking a beating this week as they prove less resilient to the economic downturn than investors had hoped they would be.
 
@@ -373,7 +327,6 @@ Tech stocks are taking a beating this week as they prove less resilient to the e
  - [https://www.cnn.com/videos/business/2022/10/27/elon-musk-twitter-sink-video-newday-vpx.cnn](https://www.cnn.com/videos/business/2022/10/27/elon-musk-twitter-sink-video-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:53:51+00:00
- - tags: None
 
 Tesla CEO Elon Musk, who is the process of acquiring Twitter, entered the company's headquarters carrying a sink.
 
@@ -381,7 +334,6 @@ Tesla CEO Elon Musk, who is the process of acquiring Twitter, entered the compan
  - [https://www.cnn.com/2022/10/27/sport/denver-nuggets-la-lakers-nikola-jokic-nba-spt-intl/index.html](https://www.cnn.com/2022/10/27/sport/denver-nuggets-la-lakers-nikola-jokic-nba-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:38:58+00:00
- - tags: None
 
 Two-time defending NBA MVP Nikola Jokic dominated on Wednesday night, nearly racking up a triple-double with 31 points, 13 rebounds, nine assists and four steals in the Denver Nuggets' 110-99 victory against the struggling Los Angeles Lakers, who are now 0-4 on the season.
 
@@ -389,7 +341,6 @@ Two-time defending NBA MVP Nikola Jokic dominated on Wednesday night, nearly rac
  - [https://www.cnn.com/2022/10/27/energy/shell-profit-share-buybacks/index.html](https://www.cnn.com/2022/10/27/energy/shell-profit-share-buybacks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:37:46+00:00
- - tags: None
 
 Shell will buy back $4 billion worth of shares and increase its dividend by 15% after posting another gigantic quarterly profit thanks to strong oil and gas prices.
 
@@ -397,7 +348,6 @@ Shell will buy back $4 billion worth of shares and increase its dividend by 15% 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-27-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-27-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:36:33.039405+00:00
- - tags: None
 
 
 
@@ -405,7 +355,6 @@ Shell will buy back $4 billion worth of shares and increase its dividend by 15% 
  - [https://www.cnn.com/videos/world/2022/10/27/iran-protests-mahsa-amini-grave-bashir-pkg-ovn-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/27/iran-protests-mahsa-amini-grave-bashir-pkg-ovn-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:26:46+00:00
- - tags: None
 
 Clashes broke out throughout Iran as protesters marked 40 days since the death of Mahsa Amini. Amini's death back in September has sparked worldwide upset. CNN's Nada Bashir reports.
 
@@ -413,7 +362,6 @@ Clashes broke out throughout Iran as protesters marked 40 days since the death o
  - [https://www.cnn.com/2022/10/27/sport/phil-mickelson-liv-golf-series-season-finale-spt-intl/index.html](https://www.cnn.com/2022/10/27/sport/phil-mickelson-liv-golf-series-season-finale-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:18:28+00:00
- - tags: None
 
 Veteran golfer Phil Mickelson says the controversial LIV Golf series is a "force" in the sport and it's "not going away."
 
@@ -421,7 +369,6 @@ Veteran golfer Phil Mickelson says the controversial LIV Golf series is a "force
  - [https://www.cnn.com/2022/10/27/us/pittsburgh-synagogue-shooting-survivor-4-year-anniversary-reaj/index.html](https://www.cnn.com/2022/10/27/us/pittsburgh-synagogue-shooting-survivor-4-year-anniversary-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:13:08+00:00
- - tags: None
 
 Four years after a synagogue attack that forever changed her life, Andrea Wedner hopes to inspire the next generation to root out antisemitism amid continued reports of anti-Jewish bigotry.
 
@@ -429,7 +376,6 @@ Four years after a synagogue attack that forever changed her life, Andrea Wedner
  - [https://www.cnn.com/2022/10/27/politics/hurricane-ian-florida-fema-funds/index.html](https://www.cnn.com/2022/10/27/politics/hurricane-ian-florida-fema-funds/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:00:20+00:00
- - tags: None
 
 A month after Hurricane Ian swept across Florida, Ciry Sosa and her family are still living in the Fort Myers Beach apartment where the dirty salt water rose up to 4 feet, destroying most of their belongings and leaving behind mold on the walls. They are sleeping on air mattresses and relying on donations of food, clothes and other essentials from neighbors and community groups.
 
@@ -437,7 +383,6 @@ A month after Hurricane Ian swept across Florida, Ciry Sosa and her family are s
  - [https://www.cnn.com/2022/10/27/politics/herschel-walker-abortion-allegation-republicans/index.html](https://www.cnn.com/2022/10/27/politics/herschel-walker-abortion-allegation-republicans/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 10:00:13+00:00
- - tags: None
 
 With less than two weeks until Election Day and Georgia voters casting early ballots in record numbers, Republican Senate candidate Herschel Walker will be back on the trail Thursday followed again by clouds of scandal surrounding a new allegation he pressured a woman into having an abortion.
 
@@ -445,7 +390,6 @@ With less than two weeks until Election Day and Georgia voters casting early bal
  - [https://www.cnn.com/2022/10/27/us/st-louis-school-shooting-thursday/index.html](https://www.cnn.com/2022/10/27/us/st-louis-school-shooting-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 09:41:50+00:00
- - tags: None
 
 The AR-15-style rifle used in the deadly St. Louis school shooting had been taken from the shooter's possession during a domestic disturbance just days before the attack, and it's unclear how he got it, police say.
 
@@ -453,7 +397,6 @@ The AR-15-style rifle used in the deadly St. Louis school shooting had been take
  - [https://www.cnn.com/travel/article/microcars-future-urban-driving-spc-intl/index.html](https://www.cnn.com/travel/article/microcars-future-urban-driving-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 09:08:24+00:00
- - tags: None
 
 Cities around the world are taking steps to clear their streets.
 
@@ -461,7 +404,6 @@ Cities around the world are taking steps to clear their streets.
  - [https://www.cnn.com/2022/10/27/sport/baltimore-ravens-tampa-bay-buccaneers-tnf-nfl-spt-intl/index.html](https://www.cnn.com/2022/10/27/sport/baltimore-ravens-tampa-bay-buccaneers-tnf-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 08:59:28+00:00
- - tags: None
 
 Tom Brady and Lamar Jackson may be 20 years apart in age, but both quarterbacks have a special bond.
 
@@ -469,7 +411,6 @@ Tom Brady and Lamar Jackson may be 20 years apart in age, but both quarterbacks 
  - [https://edition.cnn.com/2022/10/27/americas/brazil-election-women-voters-asequals-intl-cmd/index.html](https://edition.cnn.com/2022/10/27/americas/brazil-election-women-voters-asequals-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 08:49:02.354995+00:00
- - tags: None
 
 
 
@@ -477,7 +418,6 @@ Tom Brady and Lamar Jackson may be 20 years apart in age, but both quarterbacks 
  - [https://www.cnn.com/2022/10/27/football/james-cleverly-lgbt-2022-qatar-world-cup-spt-intl/index.html](https://www.cnn.com/2022/10/27/football/james-cleverly-lgbt-2022-qatar-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 08:39:16+00:00
- - tags: None
 
 British Foreign Secretary James Cleverly is receiving backlash for suggesting gay soccer fans should be "respectful" in Qatar when attending the FIFA World Cup set to take place in the Gulf Arab state later this year.
 
@@ -485,7 +425,6 @@ British Foreign Secretary James Cleverly is receiving backlash for suggesting ga
  - [https://www.cnn.com/2022/10/27/africa/ayo-animashaun-the-headies-nigeria-afrobeats-intl-spc/index.html](https://www.cnn.com/2022/10/27/africa/ayo-animashaun-the-headies-nigeria-afrobeats-intl-spc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 08:31:29+00:00
- - tags: None
 
 In September, Ayo Animashaun found himself halfway around the world facing a pivotal moment in his career. The Nigerian entrepreneur and music executive was bringing his country's biggest music awards show, The Headies, to the United States for the first time — and failure wasn't an option.
 
@@ -493,7 +432,6 @@ In September, Ayo Animashaun found himself halfway around the world facing a piv
  - [https://www.cnn.com/2022/10/27/investing/credit-suisse-restructuring/index.html](https://www.cnn.com/2022/10/27/investing/credit-suisse-restructuring/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 08:15:01+00:00
- - tags: None
 
 Credit Suisse will raise $4 billion to step back from Wall Street and double down on managing the finances of the world's wealthy, the scandal-plagued Swiss bank said on Thursday.
 
@@ -501,7 +439,6 @@ Credit Suisse will raise $4 billion to step back from Wall Street and double dow
  - [https://www.cnn.com/2022/10/27/health/health-care-insurance-terms-explained-wellness/index.html](https://www.cnn.com/2022/10/27/health/health-care-insurance-terms-explained-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 07:55:05+00:00
- - tags: None
 
 Whether you're getting kicked off your parent's health insurance plan or have been doing open enrollment for years, navigating health insurance jargon can be daunting.
 
@@ -509,7 +446,6 @@ Whether you're getting kicked off your parent's health insurance plan or have be
  - [https://www.cnn.com/2022/10/27/americas/brazil-election-women-voters-asequals-intl-cmd/index.html](https://www.cnn.com/2022/10/27/americas/brazil-election-women-voters-asequals-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 07:50:54+00:00
- - tags: None
 
 • Brazil's election explained: Lula and Bolsonaro face off in high stakes vote
 
@@ -517,7 +453,6 @@ Whether you're getting kicked off your parent's health insurance plan or have be
  - [https://www.cnn.com/2022/10/27/media/thailand-miss-universe-anne-jakkaphong-jakrajutatip-jkn-intl-hnk/index.html](https://www.cnn.com/2022/10/27/media/thailand-miss-universe-anne-jakkaphong-jakrajutatip-jkn-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 04:59:19+00:00
- - tags: None
 
 A Thai media tycoon and transgender rights advocate has bought the Miss Universe Organization for $20 million, according to her company, which will now host the international beauty pageant.
 
@@ -525,7 +460,6 @@ A Thai media tycoon and transgender rights advocate has bought the Miss Universe
  - [https://www.cnn.com/2022/10/27/middleeast/iran-nika-shahkarami-investigation-intl-cmd/index.html](https://www.cnn.com/2022/10/27/middleeast/iran-nika-shahkarami-investigation-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 04:04:14+00:00
- - tags: None
 
 
 
@@ -533,7 +467,6 @@ A Thai media tycoon and transgender rights advocate has bought the Miss Universe
  - [https://www.cnn.com/videos/world/2022/10/26/nika-shahkarami-iran-protests-polglase-pkg-contd-vpx.cnn](https://www.cnn.com/videos/world/2022/10/26/nika-shahkarami-iran-protests-polglase-pkg-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 04:00:40+00:00
- - tags: None
 
 Nika Shahkarami has become one of the most known faces in Iran after she went missing on September 20 after attending protests in Tehran. Iranian authorities claimed she fell from a building later that night in an incident unconnected to the protests. But by analyzing over 50 videos obtained by CNN and speaking to six eyewitnesses, CNN has exclusive evidence that Nika was chased and then detained by police just a few hours before she went missing. CNN'S Katie Polglase reports.
 
@@ -541,7 +474,6 @@ Nika Shahkarami has become one of the most known faces in Iran after she went mi
  - [https://www.cnn.com/2022/10/26/tech/samsung-chairman-jay-y-lee-intl-hnk/index.html](https://www.cnn.com/2022/10/26/tech/samsung-chairman-jay-y-lee-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 03:40:24+00:00
- - tags: None
 
 Samsung has appointed Jay Y. Lee, its longtime de facto leader, as executive chairman.
 
@@ -549,7 +481,6 @@ Samsung has appointed Jay Y. Lee, its longtime de facto leader, as executive cha
  - [https://www.cnn.com/videos/world/2022/10/27/russia-returns-body-of-joshua-jones-ukraine-ward-dnt-tapperctn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/27/russia-returns-body-of-joshua-jones-ukraine-ward-dnt-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 03:22:16+00:00
- - tags: None
 
 In a CNN exclusive, Clarissa Ward travels to the Zaporizhzhia region between Ukrainian and Russian-controlled Ukraine, where Russian officials return the remains of Joshua Jones, an American killed while fighting for Ukraine.
 
@@ -557,7 +488,6 @@ In a CNN exclusive, Clarissa Ward travels to the Zaporizhzhia region between Ukr
  - [https://www.cnn.com/2022/10/26/asia/singapore-jail-fake-female-gynaecologist-intl-hnk/index.html](https://www.cnn.com/2022/10/26/asia/singapore-jail-fake-female-gynaecologist-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 02:51:30+00:00
- - tags: None
 
 A man who fooled dozens of women into sending him photos of their genitalia by posing as a female gynecologist on Facebook has been sentenced to jail in Singapore.
 
@@ -565,7 +495,6 @@ A man who fooled dozens of women into sending him photos of their genitalia by p
  - [https://www.cnn.com/2022/10/26/media/cnn-employees-reliable-sources/index.html](https://www.cnn.com/2022/10/26/media/cnn-employees-reliable-sources/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 02:38:47+00:00
- - tags: None
 
 "Unsettling."
 
@@ -573,7 +502,6 @@ A man who fooled dozens of women into sending him photos of their genitalia by p
  - [https://www.cnn.com/videos/world/2022/10/26/jake-tapper-monologue-putin-ukraine-russia-war-tapperctn-vpx.cnn](https://www.cnn.com/videos/world/2022/10/26/jake-tapper-monologue-putin-ukraine-russia-war-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 01:38:15+00:00
- - tags: None
 
 CNN's Jake Tapper breaks down the latest developments of Russia's war in Ukraine, including a rare ceasefire as Russia returned the body of an American killed fighting alongside Ukrainians.
 
@@ -581,7 +509,6 @@ CNN's Jake Tapper breaks down the latest developments of Russia's war in Ukraine
  - [https://www.cnn.com/videos/world/2022/10/27/russian-soldiers-complain-front-lines-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/10/27/russian-soldiers-complain-front-lines-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 01:03:19+00:00
- - tags: None
 
 In a video shared by a Ukrainian journalist, Russian soldiers appear to be complaining that they do not have the basic tools to survive on the front lines. CNN cannot independently verify the video.
 
@@ -589,7 +516,6 @@ In a video shared by a Ukrainian journalist, Russian soldiers appear to be compl
  - [https://www.cnn.com/videos/politics/2022/10/26/voting-machine-election-clerk-griffin-pkg-ac360-contd-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/26/voting-machine-election-clerk-griffin-pkg-ac360-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 00:49:48+00:00
- - tags: None
 
 CNN's Drew Griffin reports on the two men, one armed and in a bulletproof vest, who showed up at the Cross Village, Michigan, community center claiming to be from the Department of Defense and tried to copy 2020 election data from a voting machine in an attempt to investigate baseless claims of voter fraud.
 
@@ -597,7 +523,6 @@ CNN's Drew Griffin reports on the two men, one armed and in a bulletproof vest, 
  - [https://www.cnn.com/2022/10/26/australia/australia-lehrmann-higgins-trial-intl-hnk/index.html](https://www.cnn.com/2022/10/26/australia/australia-lehrmann-higgins-trial-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 00:19:22+00:00
- - tags: None
 
 An Australian judge has dismissed a 12-member jury considering their verdict in a high-profile rape trial after it was revealed a juror conducted research into the allegations and took that information into the jury room.
 
@@ -605,6 +530,5 @@ An Australian judge has dismissed a 12-member jury considering their verdict in 
  - [https://www.cnn.com/style/article/adrian-smith-gordon-gill-architecture-supertall-spc-intl/index.html](https://www.cnn.com/style/article/adrian-smith-gordon-gill-architecture-supertall-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-27 00:18:06+00:00
- - tags: None
 
 The world's tallest building casts a long shadow. For more than a decade now, the 828-meter (2,717 ft) high Burj Khalifa has reigned over Dubai's skyline and architecture's collective conscious. It didn't just break the record; 62% taller than its predecessor, Taipei 101, it obliterated it. Its legacy has been remarkable -- and remarkably useful to the man who designed it.

@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Labor board says Activision withheld raises from union activists
  - [https://www.washingtonpost.com/video-games/2022/10/03/activision-raven-union-raises-nlrb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/03/activision-raven-union-raises-nlrb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-03 19:20:35+00:00
- - tags: None
 
 The National Labor Relations Board found merit in a claim Activision Blizzard withheld raises from Raven QA testers seeking to unionize.
 
@@ -12,7 +11,6 @@ The National Labor Relations Board found merit in a claim Activision Blizzard wi
  - [https://www.washingtonpost.com/technology/2022/10/03/scotus-section-230-supreme-court/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/03/scotus-section-230-supreme-court/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-03 15:10:14+00:00
- - tags: None
 
 A case involving Google and an ISIS attack in Paris in 2015 will give the high court a chance to review Section 230, the controversial law that shields websites from liability for users’ posts.
 
@@ -20,7 +18,6 @@ A case involving Google and an ISIS attack in Paris in 2015 will give the high c
  - [https://www.washingtonpost.com/national-security/2022/10/03/us-fdpr-china-chips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/national-security/2022/10/03/us-fdpr-china-chips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-03 14:51:31+00:00
- - tags: None
 
 The United States is preparing to use a draconian export ban called the foreign direct product rule to deprive China of advanced computing chips.
 
@@ -28,6 +25,5 @@ The United States is preparing to use a draconian export ban called the foreign 
  - [https://www.washingtonpost.com/technology/2022/10/03/tiktok-instagram-mental-health/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/03/tiktok-instagram-mental-health/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-03 07:00:00+00:00
- - tags: None
 
 Not all information about mental health on TikTok, Instagram and YouTube is helpful and true. Here are six questions to ask as you scroll.

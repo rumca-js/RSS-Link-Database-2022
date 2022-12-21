@@ -1,10 +1,9 @@
-# Source Techaltar, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
+# Source Techaltar, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA, Source language: en-US
 
 ## China destroyed its tech giants. Here's why.
  - [https://www.youtube.com/watch?v=-JAFb2bYJSs](https://www.youtube.com/watch?v=-JAFb2bYJSs)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
  - date published: 2022-10-09 09:38:15+00:00
- - tags: None
 
 Sign up for Nebula/CuriosityStream: https://curiositystream.com/techaltar. Using this link gets you access to both. Sponsored by CuriosityStream. 
 

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## With shots and infections, the most common COVID symptoms have shifted
  - [https://arstechnica.com/?p=1892816](https://arstechnica.com/?p=1892816)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 21:28:39+00:00
- - tags: None
 
 Beware of unexplained sneezing, which is becoming a more common COVID symptom.
 
@@ -12,7 +11,6 @@ Beware of unexplained sneezing, which is becoming a more common COVID symptom.
  - [https://arstechnica.com/?p=1892801](https://arstechnica.com/?p=1892801)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 20:30:59+00:00
- - tags: None
 
 Freshly released iOS 16.1 and iPadOS 16 fix 19 other vulnerabilities.
 
@@ -20,7 +18,6 @@ Freshly released iOS 16.1 and iPadOS 16 fix 19 other vulnerabilities.
  - [https://arstechnica.com/?p=1892720](https://arstechnica.com/?p=1892720)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 18:11:38+00:00
- - tags: None
 
 RNC lawsuit says Gmail sends nearly all its end-of-month emails to spam folders.
 
@@ -28,7 +25,6 @@ RNC lawsuit says Gmail sends nearly all its end-of-month emails to spam folders.
  - [https://arstechnica.com/?p=1892727](https://arstechnica.com/?p=1892727)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 17:52:31+00:00
- - tags: None
 
 Trust in scientists remains high, but Republicans want them out of policy decisions.
 
@@ -36,7 +32,6 @@ Trust in scientists remains high, but Republicans want them out of policy decisi
  - [https://arstechnica.com/?p=1892577](https://arstechnica.com/?p=1892577)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 17:24:32+00:00
- - tags: None
 
 As DALL-E synthesis comes to Shutterstock, Getty Images makes countermoves.
 
@@ -44,7 +39,6 @@ As DALL-E synthesis comes to Shutterstock, Getty Images makes countermoves.
  - [https://arstechnica.com/?p=1892686](https://arstechnica.com/?p=1892686)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 17:04:17+00:00
- - tags: None
 
 The Group B-inspired EV uses Formula E motors to turn its tires into smoke.
 
@@ -52,7 +46,6 @@ The Group B-inspired EV uses Formula E motors to turn its tires into smoke.
  - [https://arstechnica.com/?p=1892574](https://arstechnica.com/?p=1892574)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 16:42:01+00:00
- - tags: None
 
 New GPU's monstrous performance is matched by monstrous power draw.
 
@@ -60,7 +53,6 @@ New GPU's monstrous performance is matched by monstrous power draw.
  - [https://arstechnica.com/?p=1892600](https://arstechnica.com/?p=1892600)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 16:00:31+00:00
- - tags: None
 
 A two-month wait is fast for Samsung. Plus, more flagships get updated in November.
 
@@ -68,7 +60,6 @@ A two-month wait is fast for Samsung. Plus, more flagships get updated in Novemb
  - [https://arstechnica.com/?p=1892583](https://arstechnica.com/?p=1892583)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 15:36:04+00:00
- - tags: None
 
 New weapons add much-needed variety, but 2D spy sections feel forced.
 
@@ -76,7 +67,6 @@ New weapons add much-needed variety, but 2D spy sections feel forced.
  - [https://arstechnica.com/?p=1892587](https://arstechnica.com/?p=1892587)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 14:08:41+00:00
- - tags: None
 
 Creators say projects still get blocked for no good reason.
 
@@ -84,7 +74,6 @@ Creators say projects still get blocked for no good reason.
  - [https://arstechnica.com/?p=1892562](https://arstechnica.com/?p=1892562)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 13:33:36+00:00
- - tags: None
 
 This fragment was one of more than 1,500 pieces of debris from Cosmos 1408.
 
@@ -92,6 +81,5 @@ This fragment was one of more than 1,500 pieces of debris from Cosmos 1408.
  - [https://arstechnica.com/?p=1892537](https://arstechnica.com/?p=1892537)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-25 13:25:37+00:00
- - tags: None
 
 It only took 50 years, but there's finally a replacement that's safer and easier to use.

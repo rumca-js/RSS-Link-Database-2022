@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Android Adaptive Brightness: Everything you need to know
  - [https://www.androidauthority.com/adaptive-brightness-android-explained-3222961/](https://www.androidauthority.com/adaptive-brightness-android-explained-3222961/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 21:51:50+00:00
- - tags: None
 
 Is your screen too bright or never bright enough?
 
@@ -12,7 +11,6 @@ Is your screen too bright or never bright enough?
  - [https://www.androidauthority.com/android-13-windows-11-3223003/](https://www.androidauthority.com/android-13-windows-11-3223003/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 21:38:25+00:00
- - tags: None
 
 Android 13 support is headed to Windows 11.
 
@@ -20,7 +18,6 @@ Android 13 support is headed to Windows 11.
  - [https://www.androidauthority.com/saga-phone-specs-3222957/](https://www.androidauthority.com/saga-phone-specs-3222957/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 20:20:39+00:00
- - tags: None
 
 The Saga's full specs are revealed.
 
@@ -28,7 +25,6 @@ The Saga's full specs are revealed.
  - [https://www.androidauthority.com/youtube-premium-family-plan-price-nov-22-3222983/](https://www.androidauthority.com/youtube-premium-family-plan-price-nov-22-3222983/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 20:07:39+00:00
- - tags: None
 
 Be on the lookout as an email is coming your way explaining the price jump.
 
@@ -36,7 +32,6 @@ Be on the lookout as an email is coming your way explaining the price jump.
  - [https://www.androidauthority.com/google-tim-cook-3222917/](https://www.androidauthority.com/google-tim-cook-3222917/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 18:52:59+00:00
- - tags: None
 
 Google's social team was caught using an iPhone.
 
@@ -44,7 +39,6 @@ Google's social team was caught using an iPhone.
  - [https://www.androidauthority.com/google-pixel-7-review-specs-price-features-3220129/](https://www.androidauthority.com/google-pixel-7-review-specs-price-features-3220129/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 18:00:56+00:00
- - tags: None
 
 Value for money like no other.
 
@@ -52,7 +46,6 @@ Value for money like no other.
  - [https://www.androidauthority.com/google-lawsuit-texas-3222837/](https://www.androidauthority.com/google-lawsuit-texas-3222837/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 17:18:30+00:00
- - tags: None
 
 A new filing from the AG of Texas could have bigger implications.
 
@@ -60,7 +53,6 @@ A new filing from the AG of Texas could have bigger implications.
  - [https://www.androidauthority.com/oneplus-7t-pro-update-1044547/](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 15:16:08+00:00
- - tags: None
 
 The new Oxygen OS 12 will come to global variants of the OnePlus 7T.
 
@@ -68,7 +60,6 @@ The new Oxygen OS 12 will come to global variants of the OnePlus 7T.
  - [https://www.androidauthority.com/pixel-7-vs-pixel-7-pro-3221104/](https://www.androidauthority.com/pixel-7-vs-pixel-7-pro-3221104/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 13:30:52+00:00
- - tags: None
 
 Regular or XL, which Pixel 7 is worth your money?
 
@@ -76,7 +67,6 @@ Regular or XL, which Pixel 7 is worth your money?
  - [https://www.androidauthority.com/google-messages-update-oct-2022-3222393/](https://www.androidauthority.com/google-messages-update-oct-2022-3222393/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 13:00:14+00:00
- - tags: None
 
 Google Messages just got so much more powerful.
 
@@ -84,7 +74,6 @@ Google Messages just got so much more powerful.
  - [https://www.androidauthority.com/google-pixel-watch-review-3220973/](https://www.androidauthority.com/google-pixel-watch-review-3220973/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 12:00:32+00:00
- - tags: None
 
 It's not everything we were hoping for, but it's a solid start.
 
@@ -92,7 +81,6 @@ It's not everything we were hoping for, but it's a solid start.
  - [https://www.androidauthority.com/daily-authority-october-20-2022-3222097/](https://www.androidauthority.com/daily-authority-october-20-2022-3222097/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 09:32:21+00:00
- - tags: None
 
 Microsoft's Xbox mobile game push is in the spotlight, plus the top-rated and bottom-rated US fast food chains.
 
@@ -100,7 +88,6 @@ Microsoft's Xbox mobile game push is in the spotlight, plus the top-rated and bo
  - [https://www.androidauthority.com/motorola-razr-2023-3222644/](https://www.androidauthority.com/motorola-razr-2023-3222644/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 07:24:38+00:00
- - tags: None
 
 Is Moto finally brewing a Galaxy Z Fold competitor?
 
@@ -108,7 +95,6 @@ Is Moto finally brewing a Galaxy Z Fold competitor?
  - [https://www.androidauthority.com/apple-iphone-se-4-3222603/](https://www.androidauthority.com/apple-iphone-se-4-3222603/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 06:41:19+00:00
- - tags: None
 
 The new SE could lose the fingerprint sensor on its bigger, notched display.
 
@@ -116,6 +102,5 @@ The new SE could lose the fingerprint sensor on its bigger, notched display.
  - [https://www.androidauthority.com/android-13-go-edition-3222604/](https://www.androidauthority.com/android-13-go-edition-3222604/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-20 06:29:36+00:00
- - tags: None
 
 Material You, the Discover screen, and Google Play System Updates feature here. But it comes at a cost.

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## More and more companies are now worried about open source security
  - [https://www.techradar.com/news/more-and-more-companies-are-getting-worried-about-open-source-security/](https://www.techradar.com/news/more-and-more-companies-are-getting-worried-about-open-source-security/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 21:04:49+00:00
- - tags: None
 
 Many would love immediate access to trusted security patches.
 
@@ -12,7 +11,6 @@ Many would love immediate access to trusted security patches.
  - [https://www.techradar.com/news/a-whole-load-of-pcs-still-dont-qualify-for-windows-11/](https://www.techradar.com/news/a-whole-load-of-pcs-still-dont-qualify-for-windows-11/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 20:06:54+00:00
- - tags: None
 
 Organizations don’t seem interested in bringing aging work hardware up to date, which continues to cause security concerns.
 
@@ -20,7 +18,6 @@ Organizations don’t seem interested in bringing aging work hardware up to date
  - [https://www.techradar.com/news/is-android-quietly-undermining-your-vpn-service/](https://www.techradar.com/news/is-android-quietly-undermining-your-vpn-service/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 18:54:48+00:00
- - tags: None
 
 Mullvad VPN found a recurring data leak that VPNs cannot prevent, but Google says all its features work as intended.
 
@@ -28,7 +25,6 @@ Mullvad VPN found a recurring data leak that VPNs cannot prevent, but Google say
  - [https://www.techradar.com/news/new-microsoft-365-app-could-solve-one-of-the-biggest-hybrid-working-headaches/](https://www.techradar.com/news/new-microsoft-365-app-could-solve-one-of-the-biggest-hybrid-working-headaches/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 18:52:49+00:00
- - tags: None
 
 The new Microsoft 365 app will help keep hybrid workplaces organized.
 
@@ -36,7 +32,6 @@ The new Microsoft 365 app will help keep hybrid workplaces organized.
  - [https://www.techradar.com/news/new-microsoft-azure-ssd-storage-will-offer-better-bang-for-your-buck/](https://www.techradar.com/news/new-microsoft-azure-ssd-storage-will-offer-better-bang-for-your-buck/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 18:35:32+00:00
- - tags: None
 
 Microsoft Azure’s Premium SSD v2 storage targets workload performance, but there are other benefits too.
 
@@ -44,7 +39,6 @@ Microsoft Azure’s Premium SSD v2 storage targets workload performance, but the
  - [https://www.techradar.com/news/theres-now-a-new-premium-version-of-microsoft-teams/](https://www.techradar.com/news/theres-now-a-new-premium-version-of-microsoft-teams/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 17:02:51+00:00
- - tags: None
 
 Artificial intelligence, new security features, and personalization are on the way, for a price.
 
@@ -52,7 +46,6 @@ Artificial intelligence, new security features, and personalization are on the w
  - [https://www.techradar.com/news/the-gotham-knights-trailer-didnt-convince-me-four-bats-are-better-than-one/](https://www.techradar.com/news/the-gotham-knights-trailer-didnt-convince-me-four-bats-are-better-than-one/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 16:38:50+00:00
- - tags: None
 
 The cinematic trailer for Gotham Knights depicts epic fights and interesting storytelling, but are there too many chefs in the kitchen?
 
@@ -60,7 +53,6 @@ The cinematic trailer for Gotham Knights depicts epic fights and interesting sto
  - [https://www.techradar.com/news/new-microsoft-services-could-help-to-eliminate-cybersecurity-problems-at-the-source/](https://www.techradar.com/news/new-microsoft-services-could-help-to-eliminate-cybersecurity-problems-at-the-source/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 16:31:51+00:00
- - tags: None
 
 Microsoft Defender for Cloud is getting major protections for DevOps environments, alongside additional insights into your infrastructure.
 
@@ -68,7 +60,6 @@ Microsoft Defender for Cloud is getting major protections for DevOps environment
  - [https://www.techradar.com/news/microsoft-edge-is-getting-a-killer-feature-that-could-tempt-professionals-away-from-google-chrome/](https://www.techradar.com/news/microsoft-edge-is-getting-a-killer-feature-that-could-tempt-professionals-away-from-google-chrome/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 16:00:23+00:00
- - tags: None
 
 Microsoft is launching an upgrade for Edge that will pique the interest of business users.
 
@@ -76,7 +67,6 @@ Microsoft is launching an upgrade for Edge that will pique the interest of busin
  - [https://www.techradar.com/news/apple-tv-and-apple-music-plus-photos-support-for-icloud-are-coming-to-windows-11/](https://www.techradar.com/news/apple-tv-and-apple-music-plus-photos-support-for-icloud-are-coming-to-windows-11/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 15:49:23+00:00
- - tags: None
 
 You'll soon be able to view your iCloud photos and videos in a new Photos update, coming soon to Windows 11.
 
@@ -84,7 +74,6 @@ You'll soon be able to view your iCloud photos and videos in a new Photos update
  - [https://www.techradar.com/news/security-professionals-are-being-overworked-and-thats-a-huge-problem/](https://www.techradar.com/news/security-professionals-are-being-overworked-and-thats-a-huge-problem/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 15:43:13+00:00
- - tags: None
 
 Some pros are working more than 25 extra hours per week, risking burnout and many other issues.
 
@@ -92,7 +81,6 @@ Some pros are working more than 25 extra hours per week, risking burnout and man
  - [https://www.techradar.com/news/lastpass-password-manager-is-about-to-enter-the-metaverse/](https://www.techradar.com/news/lastpass-password-manager-is-about-to-enter-the-metaverse/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 14:52:02+00:00
- - tags: None
 
 Home, work, and now the metaverse. LastPass hopes to serve your passwords up wherever you are.
 
@@ -100,7 +88,6 @@ Home, work, and now the metaverse. LastPass hopes to serve your passwords up whe
  - [https://www.techradar.com/news/need-for-speed-unbounds-driving-effects-can-be-disabled-but-why-would-you-want-to/](https://www.techradar.com/news/need-for-speed-unbounds-driving-effects-can-be-disabled-but-why-would-you-want-to/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 14:44:18+00:00
- - tags: None
 
 Need for Speed Unbound impressed with its flamboyant driving effects, but it seems they can be turned off entirely.
 
@@ -108,7 +95,6 @@ Need for Speed Unbound impressed with its flamboyant driving effects, but it see
  - [https://www.techradar.com/news/live/nvidia-geforce-rtx-4090-preorders-and-where-to-buy/](https://www.techradar.com/news/live/nvidia-geforce-rtx-4090-preorders-and-where-to-buy/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 14:35:29+00:00
- - tags: None
 
 Here's where you can buy the Nvidia RTX 4090 GPU.
 
@@ -116,7 +102,6 @@ Here's where you can buy the Nvidia RTX 4090 GPU.
  - [https://www.techradar.com/news/live/nvidia-geforce-rtx-4090-preorders-and-where-to-buy](https://www.techradar.com/news/live/nvidia-geforce-rtx-4090-preorders-and-where-to-buy)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 14:35:29+00:00
- - tags: None
 
 Here's where you can buy the Nvidia RTX 4090 GPU.
 
@@ -124,7 +109,6 @@ Here's where you can buy the Nvidia RTX 4090 GPU.
  - [https://www.techradar.com/news/microsoft-surface-laptop-5-what-we-want-to-see/](https://www.techradar.com/news/microsoft-surface-laptop-5-what-we-want-to-see/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 14:15:55+00:00
- - tags: None
 
 The new Surface Laptop will be available from October 25 - in some cool new colors.
 
@@ -132,7 +116,6 @@ The new Surface Laptop will be available from October 25 - in some cool new colo
  - [https://www.techradar.com/news/microsofts-new-surface-studio-2-is-a-minor-upgrade-despite-4-year-wait/](https://www.techradar.com/news/microsofts-new-surface-studio-2-is-a-minor-upgrade-despite-4-year-wait/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 13:59:25+00:00
- - tags: None
 
 Microsoft’s rival to Apple’s iMac is a bit of a disappointment, but that’s fine.
 
@@ -140,7 +123,6 @@ Microsoft’s rival to Apple’s iMac is a bit of a disappointment, but that’s
  - [https://www.techradar.com/news/a-hinted-remaster-of-one-of-the-best-square-enix-rpgs-could-revitalize-the-genre/](https://www.techradar.com/news/a-hinted-remaster-of-one-of-the-best-square-enix-rpgs-could-revitalize-the-genre/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 13:56:50+00:00
- - tags: None
 
 Bravely Default's producer has strongly hinted a remaster of the JRPG classic will be announced soon.
 
@@ -148,7 +130,6 @@ Bravely Default's producer has strongly hinted a remaster of the JRPG classic wi
  - [https://www.techradar.com/news/paypal-launches-all-in-one-terminal-pos/](https://www.techradar.com/news/paypal-launches-all-in-one-terminal-pos/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 13:49:42+00:00
- - tags: None
 
 PayPal takes on SumUp, Square, and more, with its all-in-one Zettle Terminal POS.
 
@@ -156,7 +137,6 @@ PayPal takes on SumUp, Square, and more, with its all-in-one Zettle Terminal POS
  - [https://www.techradar.com/news/high-severity-vmware-bug-still-not-patched-one-year-later/](https://www.techradar.com/news/high-severity-vmware-bug-still-not-patched-one-year-later/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 13:34:33+00:00
- - tags: None
 
 A fix is in the works, but the company recommends sticking to the workarounds for now.
 
@@ -164,7 +144,6 @@ A fix is in the works, but the company recommends sticking to the workarounds fo
  - [https://www.techradar.com/news/windows-update-could-help-defend-against-an-all-too-common-cyberattack/](https://www.techradar.com/news/windows-update-could-help-defend-against-an-all-too-common-cyberattack/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 12:39:06+00:00
- - tags: None
 
 All supported Windows versions getting better against brute-force attacks, thanks to a new policy.
 
@@ -172,7 +151,6 @@ All supported Windows versions getting better against brute-force attacks, thank
  - [https://www.techradar.com/news/google-pixel-watch-to-get-fewer-updates-than-galaxy-watch-5-and-apple-watch/](https://www.techradar.com/news/google-pixel-watch-to-get-fewer-updates-than-galaxy-watch-5-and-apple-watch/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 12:33:41+00:00
- - tags: None
 
 Google will continue updating the Google Pixel Watch for three years – one year fewer than Samsung's Galaxy Watch 5.
 
@@ -180,7 +158,6 @@ Google will continue updating the Google Pixel Watch for three years – one yea
  - [https://www.techradar.com/news/why-this-deal-on-5-star-sony-headphones-is-my-top-pick-for-prime-day/](https://www.techradar.com/news/why-this-deal-on-5-star-sony-headphones-is-my-top-pick-for-prime-day/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 11:47:06+00:00
- - tags: None
 
 If you've stumbled upon this bulletin and you want a deal on new over-ear headphones, look no further – you've found the ultimate Prime Day October deal.
 
@@ -188,7 +165,6 @@ If you've stumbled upon this bulletin and you want a deal on new over-ear headph
  - [https://www.techradar.com/news/live/hot-or-not-the-best-and-worst-amazon-prime-day-tech-deals-chosen-by-experts/](https://www.techradar.com/news/live/hot-or-not-the-best-and-worst-amazon-prime-day-tech-deals-chosen-by-experts/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 11:00:21+00:00
- - tags: None
 
 The TechRadar team round up the Amazon Prime Day deals you should grab - and avoid
 
@@ -196,7 +172,6 @@ The TechRadar team round up the Amazon Prime Day deals you should grab - and avo
  - [https://www.techradar.com/news/windows-11-22h2-bug-breaks-windows-hello-security-feature/](https://www.techradar.com/news/windows-11-22h2-bug-breaks-windows-hello-security-feature/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 10:37:46+00:00
- - tags: None
 
 Can’t upgrade to Windows 11 22H2? The problem might be Windows Hello.
 
@@ -204,7 +179,6 @@ Can’t upgrade to Windows 11 22H2? The problem might be Windows Hello.
  - [https://www.techradar.com/news/lockbit-ransomware-is-spreading-from-compromised-microsoft-exchange-servers/](https://www.techradar.com/news/lockbit-ransomware-is-spreading-from-compromised-microsoft-exchange-servers/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 10:36:40+00:00
- - tags: None
 
 LockBit 3.0 was spotted on multiple servers, with the threat actors stealing 1.3 TB of data in the process.
 
@@ -212,7 +186,6 @@ LockBit 3.0 was spotted on multiple servers, with the threat actors stealing 1.3
  - [https://www.techradar.com/news/slack-ceo-seizes-latest-opportunity-to-take-a-swing-at-email/](https://www.techradar.com/news/slack-ceo-seizes-latest-opportunity-to-take-a-swing-at-email/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 10:31:07+00:00
- - tags: None
 
 Slack believes email is not a suitable means of communication in the modern hybrid working era.
 
@@ -220,7 +193,6 @@ Slack believes email is not a suitable means of communication in the modern hybr
  - [https://www.techradar.com/news/square-should-loot-the-corpse-of-its-canceled-final-fantasy-game/](https://www.techradar.com/news/square-should-loot-the-corpse-of-its-canceled-final-fantasy-game/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 10:27:03+00:00
- - tags: None
 
 Though Final Fantasy 7: The First Soldier is ending, Square Enix can learn from its mistakes and grow as a developer.
 
@@ -228,7 +200,6 @@ Though Final Fantasy 7: The First Soldier is ending, Square Enix can learn from 
  - [https://www.techradar.com/news/nvidia-lists-games-that-support-dlss-3-and-rtx-4090-buyers-may-be-disappointed/](https://www.techradar.com/news/nvidia-lists-games-that-support-dlss-3-and-rtx-4090-buyers-may-be-disappointed/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 09:56:00+00:00
- - tags: None
 
 The list is rather underwhelming, but there is considerably more in the pipeline to be fair.
 
@@ -236,7 +207,6 @@ The list is rather underwhelming, but there is considerably more in the pipeline
  - [https://www.techradar.com/news/xbox-cloud-gaming-on-meta-quest-may-beat-psvr-2-for-one-simple-reason/](https://www.techradar.com/news/xbox-cloud-gaming-on-meta-quest-may-beat-psvr-2-for-one-simple-reason/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 09:31:19+00:00
- - tags: None
 
 Microsoft has announced plans to stream its game library to Meta's virtual reality headsets, taking a different path to Sony.
 
@@ -244,7 +214,6 @@ Microsoft has announced plans to stream its game library to Meta's virtual reali
  - [https://www.techradar.com/news/its-even-easier-to-install-a-boot-up-video-for-your-steam-deck-thanks-to-this-app/](https://www.techradar.com/news/its-even-easier-to-install-a-boot-up-video-for-your-steam-deck-thanks-to-this-app/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 09:03:23+00:00
- - tags: None
 
 A developer has created a much simpler method of installing a different video when booting up your Steam Deck.
 
@@ -252,7 +221,6 @@ A developer has created a much simpler method of installing a different video wh
  - [https://www.techradar.com/news/multiple-marvel-movies-delayed-as-blade-causes-schedule-rejig/](https://www.techradar.com/news/multiple-marvel-movies-delayed-as-blade-causes-schedule-rejig/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 08:48:33+00:00
- - tags: None
 
 Blade's development issues have caused Marvel to shuffle its Phase 5 and Phase 6 release date pack.
 
@@ -260,7 +228,6 @@ Blade's development issues have caused Marvel to shuffle its Phase 5 and Phase 6
  - [https://www.techradar.com/news/youtube-is-taking-account-mentions-to-the-next-level/](https://www.techradar.com/news/youtube-is-taking-account-mentions-to-the-next-level/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 05:00:12+00:00
- - tags: None
 
 Rolling out in phases, the upcoming handles are meant to increase audience engagement and hopefully curb impersonators.
 
@@ -268,6 +235,5 @@ Rolling out in phases, the upcoming handles are meant to increase audience engag
  - [https://www.techradar.com/news/garmin-just-quietly-released-five-new-watches/](https://www.techradar.com/news/garmin-just-quietly-released-five-new-watches/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-12 04:00:17+00:00
- - tags: None
 
 Garmin's second-gen Marq range looks super-powerful and stylish, not to mention expensive.

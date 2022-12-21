@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## China's Deadly Cardboard Police Force!
  - [https://www.youtube.com/watch?v=j9O1P8Fttrg](https://www.youtube.com/watch?v=j9O1P8Fttrg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-10-07 16:07:11+00:00
- - tags: None
 
 Compare news coverage. Spot media bias. Avoid algorithms. Be well informed. Download the free Ground News app at https://ground.news/serpentza
 

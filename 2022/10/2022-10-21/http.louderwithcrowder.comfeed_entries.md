@@ -1,10 +1,9 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/
+# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
 
 ## Rumors claim 'Yellowstone' star Kevin Coster may be getting forced to quit iconic role, and for a dumb reason
  - [https://www.louderwithcrowder.com/kevin-costner-yellowstone-quits](https://www.louderwithcrowder.com/kevin-costner-yellowstone-quits)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 21:14:31+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31989579&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>As season five of <em>Yellowstone</em> is <a href="https://www.louderwithcrowder.com/yellowstone-season-five-trailer" target="_blank">set to debut in a few weeks</a>, it could be Kevin Costner's last if the rumors are true. Gossip site <a href="https://radaronline.com/p/kevin-costners-wife-quit-yellowstone-divorce/" target="_blank">Radar 
 
@@ -12,7 +11,6 @@
  - [https://www.louderwithcrowder.com/pizza-kosher-video](https://www.louderwithcrowder.com/pizza-kosher-video)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 18:01:23+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31988264&amp;width=1245&amp;height=700&amp;coordinates=0%2C16%2C0%2C102" /><br /><br /><p>This is the greatest video you will see all day and a much needed break from political posts that Meta is throttling and preventing from you from seeing anyway. It's also why I keep <a href="https://notthebee.com/article/get-in-here-and-enjoy-the-most-wholesome-interaction-youll-see-all-day" target="_blank">Not the Bee</a> bookmarked bec
 
@@ -20,7 +18,6 @@
  - [https://www.louderwithcrowder.com/dylan-mulvaney-ulta-biden](https://www.louderwithcrowder.com/dylan-mulvaney-ulta-biden)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 17:18:05+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31988138&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C24%2C0" /><br /><br /><p>Day 222 of "being" a "girl" is Dylan Mulvaney's best day yet! She gets to meet Joe Biden! SQUEE!</p><p>And Joe Biden says that "Days of Girlhood," Dylan's vlog of her transition to being a real girl, is his favorite TikTok channel! SQUEE!</p><p>You know that phrase, "I think I may have girlbossed too close to the sun?" Well, whoever invent
 
@@ -28,7 +25,6 @@
  - [https://www.louderwithcrowder.com/joe-biden-ap-pennsylvania](https://www.louderwithcrowder.com/joe-biden-ap-pennsylvania)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 14:38:40+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31978216&amp;width=1200&amp;height=800&amp;coordinates=23%2C0%2C0%2C0" /><br /><br /><p>We've reached the point of the Biden administration where I'm starting to feel guilty of senior abuse writing about him. But I didn't vote for him, so screw it. Joe Biden was out and about in Pennsylvania on Thursday. <a href="https://www.louderwithcrowder.com/joe-biden-restrictions" target="_blank">We got a sneak peek of his mental state 
 
@@ -36,7 +32,6 @@
  - [https://www.louderwithcrowder.com/james-corden-beneath-him](https://www.louderwithcrowder.com/james-corden-beneath-him)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 13:59:17+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31978119&amp;width=1245&amp;height=700&amp;coordinates=0%2C31%2C0%2C109" /><br /><br /><p>James Corden keeps digging. The alleged "tiny cretin of a man" and "most abusive customer ever" made news this week when he was banned from a fancy-schmancy NYC restaurant. He could have been quiet, apologized to anyone he offended by being a douche when his show returns Monday, and let it be. Instead, he got snippy with <a href="https:/
 
@@ -44,7 +39,6 @@
  - [https://www.louderwithcrowder.com/14-foot-tall-skeleton](https://www.louderwithcrowder.com/14-foot-tall-skeleton)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 13:25:14+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31977829&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>Every so often a crime story comes along where you are less outraged as much as you are impressed by the punk's moxie. Some dude rolled up to a house in n SUV, got out of his car, and stole the FOURTEEN-FOOT SKELETON on the front lawn. In the middle of a residential area. In broad daylight. And no one seemed to notice.</p><p>The incident 
 
@@ -52,6 +46,5 @@
  - [https://www.louderwithcrowder.com/cnn-pets-planet](https://www.louderwithcrowder.com/cnn-pets-planet)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-21 12:43:27+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31977636&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>If it's something Americans enjoy, it is something liberals hate and/or something they claim is killing the planet. We can now add having pets to the list. That's right. CNN reports if you have a dog or a cat and you feed them meat -- what with them being carnivores and not knowing what virtue signaling about being a vegan means -- you ar

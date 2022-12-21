@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## The GOP should never have bet on Herschel Walker
  - [https://www.cnn.com/2022/10/06/opinions/herschel-walker-scandal-georgia-senate-gop-duncan/index.html](https://www.cnn.com/2022/10/06/opinions/herschel-walker-scandal-georgia-senate-gop-duncan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 22:50:52+00:00
- - tags: None
 
 The October surprise involving Herschel Walker, the Republican nominee in Georgia's US Senate race, has upended the political landscape, throwing one of the nation's closest midterm races into turmoil five weeks before Election Day, but it never had to be this way. Just as there should not be two Democrats representing a center-right state like Georgia in the US Senate, the Republican Party should not have found its chance of regaining a Senate majority hanging on an untested and unproven first-
 
@@ -12,7 +11,6 @@ The October surprise involving Herschel Walker, the Republican nominee in Georgi
  - [https://www.cnn.com/2022/10/06/politics/north-korea-biden-administration-nuclear-test/index.html](https://www.cnn.com/2022/10/06/politics/north-korea-biden-administration-nuclear-test/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 21:43:20+00:00
- - tags: None
 
 • US, Japanese and South Korean warships perform joint missile defense exercise
 
@@ -20,7 +18,6 @@ The October surprise involving Herschel Walker, the Republican nominee in Georgi
  - [https://www.cnn.com/videos/politics/2022/10/06/biden-pardon-marijuana-kaitlan-collins-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/06/biden-pardon-marijuana-kaitlan-collins-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 21:01:54+00:00
- - tags: None
 
 President Joe Biden is taking his first major steps toward decriminalizing marijuana, fulfilling a campaign promise to erase prior federal possession convictions and beginning the process of reviewing its drug classification, which is in the same category as heroine. CNN's Kaitlan Collins has the latest.
 
@@ -28,7 +25,6 @@ President Joe Biden is taking his first major steps toward decriminalizing marij
  - [https://www.cnn.com/2022/10/06/politics/proud-boys-bertino-seditious-conspiracy-guilty-plea/index.html](https://www.cnn.com/2022/10/06/politics/proud-boys-bertino-seditious-conspiracy-guilty-plea/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 20:24:14+00:00
- - tags: None
 
 Jeremy Bertino, a top lieutenant to Proud Boys leader Enrique Tarrio, is set to plead guilty to seditious conspiracy on Thursday, he told a federal judge in court.
 
@@ -36,7 +32,6 @@ Jeremy Bertino, a top lieutenant to Proud Boys leader Enrique Tarrio, is set to 
  - [https://www.cnn.com/videos/world/2022/10/06/uganda-ebola-outbreak-madowo-pkg-ow-contd-vpx.cnn](https://www.cnn.com/videos/world/2022/10/06/uganda-ebola-outbreak-madowo-pkg-ow-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 19:45:33+00:00
- - tags: None
 
 Uganda is fighting its second Ebola outbreak since 2019 - but with new tactics learned during the Covid-19 pandemic. CNN's Larry Madowo reports.
 
@@ -44,7 +39,6 @@ Uganda is fighting its second Ebola outbreak since 2019 - but with new tactics l
  - [https://www.cnn.com/2022/10/06/politics/oath-keepers-trial-secret-service/index.html](https://www.cnn.com/2022/10/06/politics/oath-keepers-trial-secret-service/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 19:24:58+00:00
- - tags: None
 
 A former North Carolina leader of the Oath Keepers testified Thursday that he believed Stewart Rhodes, the founder of the organization, was in touch with a Secret Service agent in the lead up to the 2020 presidential election.
 
@@ -52,7 +46,6 @@ A former North Carolina leader of the Oath Keepers testified Thursday that he be
  - [https://www.cnn.com/2022/10/06/entertainment/white-lotus-season-two/index.html](https://www.cnn.com/2022/10/06/entertainment/white-lotus-season-two/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 19:23:04+00:00
- - tags: None
 
 "The White Lotus" is giving us a sneak peek at Season 2.
 
@@ -60,7 +53,6 @@ A former North Carolina leader of the Oath Keepers testified Thursday that he be
  - [https://www.cnn.com/2022/10/06/politics/marijuana-decriminalization-white-house-joe-biden/index.html](https://www.cnn.com/2022/10/06/politics/marijuana-decriminalization-white-house-joe-biden/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 19:01:07+00:00
- - tags: None
 
 President Joe Biden is taking his first major steps toward decriminalizing marijuana, fulfilling a campaign pledge to erase prior federal possession convictions and beginning the process of loosening federal classification of the drug.
 
@@ -68,7 +60,6 @@ President Joe Biden is taking his first major steps toward decriminalizing marij
  - [https://www.cnn.com/2022/10/06/world/nasa-juno-europa-image-scn/index.html](https://www.cnn.com/2022/10/06/world/nasa-juno-europa-image-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 19:00:35+00:00
- - tags: None
 
 A NASA spacecraft recently flew by Jupiter's moon Europa, and one of its cameras spied fascinating features on the icy crust of the ocean world.
 
@@ -76,7 +67,6 @@ A NASA spacecraft recently flew by Jupiter's moon Europa, and one of its cameras
  - [https://www.cnn.com/2022/10/06/entertainment/eric-weinberg-scrubs-producer-charges/index.html](https://www.cnn.com/2022/10/06/entertainment/eric-weinberg-scrubs-producer-charges/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 18:45:34+00:00
- - tags: None
 
 A Hollywood TV producer was charged with multiple counts of sexual assault, including rape, Los Angeles County District Attorney George Gascón announced Wednesday.
 
@@ -84,7 +74,6 @@ A Hollywood TV producer was charged with multiple counts of sexual assault, incl
  - [https://www.cnn.com/2022/10/06/opinions/the-onion-supreme-court-amicus-brief-hemmer/index.html](https://www.cnn.com/2022/10/06/opinions/the-onion-supreme-court-amicus-brief-hemmer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 18:43:11+00:00
- - tags: None
 
 "Americans can be put in jail for for poking fun at the government?"
 
@@ -92,7 +81,6 @@ A Hollywood TV producer was charged with multiple counts of sexual assault, incl
  - [https://www.cnn.com/2022/10/06/politics/new-york-gun-law-restraining-order/index.html](https://www.cnn.com/2022/10/06/politics/new-york-gun-law-restraining-order/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 18:27:21+00:00
- - tags: None
 
 A federal judge has temporarily blocked the enforcement of parts of a New York gun law that was enacted in the wake of a Supreme Court decision earlier this summer striking down certain protections.
 
@@ -100,7 +88,6 @@ A federal judge has temporarily blocked the enforcement of parts of a New York g
  - [https://www.cnn.com/style/article/paris-fashion-week-2022-highlights/index.html](https://www.cnn.com/style/article/paris-fashion-week-2022-highlights/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 18:26:44+00:00
- - tags: None
 
 The spectacle of fashion was on full display during Paris Fashion Week, with celebrity appearances and staged "viral moments" threatening to distract onlookers entirely from the main event: clothes.
 
@@ -108,7 +95,6 @@ The spectacle of fashion was on full display during Paris Fashion Week, with cel
  - [https://www.cnn.com/2022/10/06/opinions/putin-make-russia-weak-history-bergen/index.html](https://www.cnn.com/2022/10/06/opinions/putin-make-russia-weak-history-bergen/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 18:07:17+00:00
- - tags: None
 
 Russian President Vladimir Putin had a plan to seize Ukraine quickly. Those plans dissolved from the first days of the Russians' invasion with their failure to capture Kyiv.
 
@@ -116,7 +102,6 @@ Russian President Vladimir Putin had a plan to seize Ukraine quickly. Those plan
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-06-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-06-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 17:41:50.660102+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@ Russian President Vladimir Putin had a plan to seize Ukraine quickly. Those plan
  - [https://edition.cnn.com/webview/asia/live-news/thailand-shooting-intl/index.html](https://edition.cnn.com/webview/asia/live-news/thailand-shooting-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 17:41:50.330947+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@ Russian President Vladimir Putin had a plan to seize Ukraine quickly. Those plan
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-06-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-06-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 17:41:50.313239+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ Russian President Vladimir Putin had a plan to seize Ukraine quickly. Those plan
  - [https://www.cnn.com/videos/us/2022/10/06/puppy-sitting-faceplant-moos-pkg-orig-vpx.cnn](https://www.cnn.com/videos/us/2022/10/06/puppy-sitting-faceplant-moos-pkg-orig-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:52:34+00:00
- - tags: None
 
 Watch this dog sitter faceplant while wrangling some adorable puppies. CNN's Jeanne Moos reports the dogs didn't let him down while he was down.
 
@@ -148,7 +130,6 @@ Watch this dog sitter faceplant while wrangling some adorable puppies. CNN's Jea
  - [https://www.cnn.com/2022/10/06/us/california-family-found-dead-thursday/index.html](https://www.cnn.com/2022/10/06/us/california-family-found-dead-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:50:54+00:00
- - tags: None
 
 Investigators in California are working to determine the motive behind the killing of a family of four -- including an 8-month-old baby -- as the bodies were recovered Wednesday in a rural farm area after they were kidnapped earlier this week by an armed man at their business.
 
@@ -156,7 +137,6 @@ Investigators in California are working to determine the motive behind the killi
  - [https://www.cnn.com/2022/10/06/economy/imf-global-economy-recession-risks/index.html](https://www.cnn.com/2022/10/06/economy/imf-global-economy-recession-risks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:46:58+00:00
- - tags: None
 
 The global economic outlook is darkening and the risks of recession are quickly rising: That's the latest message from the International Monetary Fund, which said Thursday it will once again lower its growth projections.
 
@@ -164,7 +144,6 @@ The global economic outlook is darkening and the risks of recession are quickly 
  - [https://www.cnn.com/2022/10/06/tennis/martina-navratilova-serena-williams-tennis-spt-intl/index.html](https://www.cnn.com/2022/10/06/tennis/martina-navratilova-serena-williams-tennis-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:32:39+00:00
- - tags: None
 
 Tennis great Martina Navratilova thinks more women will continue to play professional tennis after having children -- thanks largely to Serena Williams.
 
@@ -172,7 +151,6 @@ Tennis great Martina Navratilova thinks more women will continue to play profess
  - [https://www.cnn.com/2022/10/06/entertainment/kevin-spacey-legal-timeline/index.html](https://www.cnn.com/2022/10/06/entertainment/kevin-spacey-legal-timeline/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:30:24+00:00
- - tags: None
 
 Kevin Spacey will return to another courtroom on Thursday, as jury selection begins in a civil suit filed by actor Anthony Rapp.
 
@@ -180,7 +158,6 @@ Kevin Spacey will return to another courtroom on Thursday, as jury selection beg
  - [https://www.cnn.com/travel/article/hong-kong-is-giving-away-airline-tickets/index.html](https://www.cnn.com/travel/article/hong-kong-is-giving-away-airline-tickets/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:22:45+00:00
- - tags: None
 
 Hong Kong attracted around 56 million visitors a year before the pandemic, and  now the popular destination is taking significant steps to win tourists back after over two years of some of the world's toughest travel restrictions.
 
@@ -188,7 +165,6 @@ Hong Kong attracted around 56 million visitors a year before the pandemic, and  
  - [https://www.cnn.com/2022/10/06/europe/russia-ukraine-zaporizhzhia-city-plant-intl/index.html](https://www.cnn.com/2022/10/06/europe/russia-ukraine-zaporizhzhia-city-plant-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:16:37+00:00
- - tags: None
 
 Russia carried out a deadly salvo of missile attacks on the southern Ukrainian city of Zaporizhzhia early Thursday, just hours after the Kremlin said it was formally seizing a massive nuclear power plant nearby.
 
@@ -196,7 +172,6 @@ Russia carried out a deadly salvo of missile attacks on the southern Ukrainian c
  - [https://www.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html](https://www.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:11:41+00:00
- - tags: None
 
 The US military conducted a raid in northeast Syria targeting a senior ISIS official Wednesday night, US Central Command said in a statement.
 
@@ -204,7 +179,6 @@ The US military conducted a raid in northeast Syria targeting a senior ISIS offi
  - [https://www.cnn.com/2022/10/06/europe/criticism-russia-war-ukraine-intl/index.html](https://www.cnn.com/2022/10/06/europe/criticism-russia-war-ukraine-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 16:11:14+00:00
- - tags: None
 
 A senior Russian-appointed official in Ukraine on Thursday blamed the country's military setbacks on incompetence and corruption within the top ranks of the Kremlin's defense apparatus.
 
@@ -212,7 +186,6 @@ A senior Russian-appointed official in Ukraine on Thursday blamed the country's 
  - [https://www.cnn.com/2022/10/06/asia/thailand-mass-shooting-intl-hnk/index.html](https://www.cnn.com/2022/10/06/asia/thailand-mass-shooting-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:56:06+00:00
- - tags: None
 
 At least 30 people have been killed in a mass shooting at a child care center in northeastern Thailand, officials confirmed Thursday.
 
@@ -220,7 +193,6 @@ At least 30 people have been killed in a mass shooting at a child care center in
  - [https://www.cnn.com/videos/politics/2022/10/06/trump-impeachment-lawyer-david-schoen-newday-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/06/trump-impeachment-lawyer-david-schoen-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:44:41+00:00
- - tags: None
 
 Donald Trump's former defense lawyer David Schoen, who represented Trump during his second impeachment trial, gives his legal take on the latest development in the FBI's investigation into the former president's handling of government documents marked as classified.
 
@@ -228,7 +200,6 @@ Donald Trump's former defense lawyer David Schoen, who represented Trump during 
  - [https://www.cnn.com/style/article/piet-mondrian-composition-auction-intl-scli/index.html](https://www.cnn.com/style/article/piet-mondrian-composition-auction-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:41:53+00:00
- - tags: None
 
 Piet Mondrian's signature black grid lines and bright-colored squares are among the most striking images of abstract art. Now, one of his most valuable paintings is going on sale and is expected to reach more than $50 million, Sotheby's has said.
 
@@ -236,7 +207,6 @@ Piet Mondrian's signature black grid lines and bright-colored squares are among 
  - [https://www.cnn.com/2022/10/06/us/brittney-griner-wife-russia-putin-basketball/index.html](https://www.cnn.com/2022/10/06/us/brittney-griner-wife-russia-putin-basketball/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:38:53+00:00
- - tags: None
 
 The wife of Brittney Griner, the American professional basketball player jailed in Russia, said Thursday she thinks it's going to take "mercy" from Russian President Vladimir Putin to get Griner home.
 
@@ -244,7 +214,6 @@ The wife of Brittney Griner, the American professional basketball player jailed 
  - [https://www.cnn.com/2022/10/06/entertainment/jared-leto-karl-lagerfeld-biopic-movie/index.html](https://www.cnn.com/2022/10/06/entertainment/jared-leto-karl-lagerfeld-biopic-movie/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:37:10+00:00
- - tags: None
 
 Jared Leto will star in and produce a biopic of Karl Lagerfeld, Women's Wear Daily reports.
 
@@ -252,7 +221,6 @@ Jared Leto will star in and produce a biopic of Karl Lagerfeld, Women's Wear Dai
  - [https://www.cnn.com/2022/10/06/entertainment/jada-pinkett-smith-memoir-book/index.html](https://www.cnn.com/2022/10/06/entertainment/jada-pinkett-smith-memoir-book/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:31:43+00:00
- - tags: None
 
 As she always does, Jada Pinkett Smith is going to tell it like it is.
 
@@ -260,7 +228,6 @@ As she always does, Jada Pinkett Smith is going to tell it like it is.
  - [https://www.cnn.com/2022/10/06/politics/judge-says-oath-keepers-jury-wont-see-death-list-trial-day-3/index.html](https://www.cnn.com/2022/10/06/politics/judge-says-oath-keepers-jury-wont-see-death-list-trial-day-3/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:15:34+00:00
- - tags: None
 
 US District Judge Amit Mehta ruled Thursday that the jury in the Oath Keepers seditious conspiracy case will not see a "death list" of Georgia election officials allegedly written by a defendant, saying that it is "too prejudicial."
 
@@ -268,7 +235,6 @@ US District Judge Amit Mehta ruled Thursday that the jury in the Oath Keepers se
  - [https://www.cnn.com/2022/10/06/tech/google-pixel-launch-event/index.html](https://www.cnn.com/2022/10/06/tech/google-pixel-launch-event/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 15:15:20+00:00
- - tags: None
 
 Google on Thursday unveiled its new Pixel 7 smartphone lineup and its first-ever Pixel smartwatch, packed with tracking and health features from its subsidiary Fitbit.
 
@@ -276,7 +242,6 @@ Google on Thursday unveiled its new Pixel 7 smartphone lineup and its first-ever
  - [https://www.cnn.com/2022/10/06/football/megan-rapinoe-uswnt-abuse-report-spt-intl/index.html](https://www.cnn.com/2022/10/06/football/megan-rapinoe-uswnt-abuse-report-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 14:59:34+00:00
- - tags: None
 
 US Women's National Team (USWNT) star Megan Rapinoe reiterated that women soccer players are angry and exhausted following an independent investigation report which found systemic abuse and misconduct within women's professional soccer.
 
@@ -284,7 +249,6 @@ US Women's National Team (USWNT) star Megan Rapinoe reiterated that women soccer
  - [https://www.cnn.com/travel/article/friuli-venezia-giulia-free-train-travel/index.html](https://www.cnn.com/travel/article/friuli-venezia-giulia-free-train-travel/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 14:51:33+00:00
- - tags: None
 
 There are Italian villages that sell houses for the price of a cup of coffee, places that pay you to move there -- and now there's a region that will pay you just to visit.
 
@@ -292,7 +256,6 @@ There are Italian villages that sell houses for the price of a cup of coffee, pl
  - [https://www.cnn.com/style/article/nobel-prize-literature-winner-2022-intl/index.html](https://www.cnn.com/style/article/nobel-prize-literature-winner-2022-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 14:27:09+00:00
- - tags: None
 
 French author Annie Ernaux has won the Nobel Prize for literature, organizers announced on Thursday.
 
@@ -300,7 +263,6 @@ French author Annie Ernaux has won the Nobel Prize for literature, organizers an
  - [https://www.cnn.com/2022/10/06/uk/truss-campaign-donations-intl-gbr/index.html](https://www.cnn.com/2022/10/06/uk/truss-campaign-donations-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 13:21:27+00:00
- - tags: None
 
 Almost half of the money raised by British Prime Minister Liz Truss to fund her Conservative Party leadership campaign came from wealthy donors, according to official donation records published by Parliament on Wednesday.
 
@@ -308,7 +270,6 @@ Almost half of the money raised by British Prime Minister Liz Truss to fund her 
  - [https://www.cnn.com/2022/10/06/entertainment/jeffrey-dahmer-tapes-joe-berlinger/index.html](https://www.cnn.com/2022/10/06/entertainment/jeffrey-dahmer-tapes-joe-berlinger/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 13:16:22+00:00
- - tags: None
 
 Joe Berlinger maintains he didn't set out to become the official chronicler of notorious serial killers, but the producer finds himself capping off a "trilogy" of real-life horror via Netflix's "Conversations With a Killer" series, which -- after multipart documentaries devoted to Ted Bundy and John Wayne Gacy -- shifts to "The Jeffrey Dahmer Tapes."
 
@@ -316,7 +277,6 @@ Joe Berlinger maintains he didn't set out to become the official chronicler of n
  - [https://www.cnn.com/videos/us/2022/10/06/california-missing-family-found-dead-sheriff-surveillance-newday-chen-pkg-contd-vpx.cnn](https://www.cnn.com/videos/us/2022/10/06/california-missing-family-found-dead-sheriff-surveillance-newday-chen-pkg-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 13:15:00+00:00
- - tags: None
 
 Investigators in California are working to determine the motive behind the killing of a family of four -- including an 8-month-old baby -- as the bodies were recovered in a rural farm area after they were kidnapped earlier this week. CNN's Natasha Chen has the details.
 
@@ -324,7 +284,6 @@ Investigators in California are working to determine the motive behind the killi
  - [https://www.cnn.com/videos/world/2022/10/05/amanpour-stanley-tucci-searching-for-italy-season-two.cnn](https://www.cnn.com/videos/world/2022/10/05/amanpour-stanley-tucci-searching-for-italy-season-two.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 13:04:59+00:00
- - tags: None
 
 Stanley Tucci talks with Christiane Amanpour about his time in Calabria, his ancestral homeland, and his upcoming film. All-new episodes of "Stanley Tucci: Searching for Italy" air Sundays at 9 p.m. ET.
 
@@ -332,7 +291,6 @@ Stanley Tucci talks with Christiane Amanpour about his time in Calabria, his anc
  - [https://www.cnn.com/travel/article/best-regional-desserts-america/index.html](https://www.cnn.com/travel/article/best-regional-desserts-america/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 12:51:41+00:00
- - tags: None
 
 Buckeyes, biscochitos, marionberry pie. All over the United States, sweet concoctions have sprung up that mean a lot to locals and are must-try specialties for visitors.
 
@@ -340,7 +298,6 @@ Buckeyes, biscochitos, marionberry pie. All over the United States, sweet concoc
  - [https://www.cnn.com/collections/int-1006-nkorea/](https://www.cnn.com/collections/int-1006-nkorea/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 12:49:18+00:00
- - tags: None
 
 
 
@@ -348,7 +305,6 @@ Buckeyes, biscochitos, marionberry pie. All over the United States, sweet concoc
  - [https://www.cnn.com/2022/10/06/tech/elon-musk-twitter-users/index.html](https://www.cnn.com/2022/10/06/tech/elon-musk-twitter-users/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 12:02:54+00:00
- - tags: None
 
 Nearly three months after Elon Musk told Twitter he wanted out of his $44 billion agreement to buy the social media company, the Tesla CEO now once again wants to move forward with the deal.
 
@@ -356,7 +312,6 @@ Nearly three months after Elon Musk told Twitter he wanted out of his $44 billio
  - [https://www.cnn.com/2022/10/06/investing/premarket-trading-stocks/index.html](https://www.cnn.com/2022/10/06/investing/premarket-trading-stocks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 11:55:29+00:00
- - tags: None
 
 Investors are tightening their neck braces as US stocks soar upwards, plummet back down and then do it all over. Stock market volatility is at its bumpiest level since July.
 
@@ -364,7 +319,6 @@ Investors are tightening their neck braces as US stocks soar upwards, plummet ba
  - [https://www.cnn.com/travel/article/asia-pacific-losing-title-worlds-largest-travel-region/index.html](https://www.cnn.com/travel/article/asia-pacific-losing-title-worlds-largest-travel-region/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 11:37:53+00:00
- - tags: None
 
 Asia Pacific is home to some of the world's most beloved travel destinations, from the natural beauty of Bali to the urban buzz of Singapore. These dreamy vacation hotspots -- teamed with the region's business power -- secured Asia Pacific the title of world's largest travel region for much of the past decade.
 
@@ -372,7 +326,6 @@ Asia Pacific is home to some of the world's most beloved travel destinations, fr
  - [https://www.cnn.com/videos/business/2022/10/06/fauci-booster-colbert-cprog-late-night-laughs-newday-ldn-vpx.cnn](https://www.cnn.com/videos/business/2022/10/06/fauci-booster-colbert-cprog-late-night-laughs-newday-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 11:37:28+00:00
- - tags: None
 
 During a segment on the Late Show, Stephen Colbert took President Biden's chief medical adviser, Dr. Anthony Fauci to get his Covid booster shot in New York City.
 
@@ -380,7 +333,6 @@ During a segment on the Late Show, Stephen Colbert took President Biden's chief 
  - [https://www.cnn.com/videos/business/2022/10/05/strong-us-dollar-explained-kristina-hooper-jg-orig.cnn-business](https://www.cnn.com/videos/business/2022/10/05/strong-us-dollar-explained-kristina-hooper-jg-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 10:59:25+00:00
- - tags: None
 
 The US dollar is getting stronger. Why? Kristina Hooper, chief global market strategist at Invesco, sits down with CNN's Matt Egan to explain why the dollar is so mighty and whether or not it's an indication of a coming recession.
 
@@ -388,7 +340,6 @@ The US dollar is getting stronger. Why? Kristina Hooper, chief global market str
  - [https://www.cnn.com/2022/10/06/europe/nobel-peace-prize-preview-2022-intl-cmd/index.html](https://www.cnn.com/2022/10/06/europe/nobel-peace-prize-preview-2022-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 09:35:07+00:00
- - tags: None
 
 A Nobel Peace Prize will be awarded in Norway on Friday, as Europe's biggest war for seven decades rages on the continent.
 
@@ -396,7 +347,6 @@ A Nobel Peace Prize will be awarded in Norway on Friday, as Europe's biggest war
  - [https://www.cnn.com/2022/10/06/sport/hans-niemann-cheating-allegations-us-chess-championship-spt-intl/index.html](https://www.cnn.com/2022/10/06/sport/hans-niemann-cheating-allegations-us-chess-championship-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 09:32:26+00:00
- - tags: None
 
 Chess grandmaster Hans Niemann said he is "not going to back down" as accusations of widespread cheating intensify.
 
@@ -404,7 +354,6 @@ Chess grandmaster Hans Niemann said he is "not going to back down" as accusation
  - [https://www.cnn.com/videos/world/2022/10/05/ukraine-newly-liberated-town-russia-military-soldiers-nick-paton-walsh-pkg-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/10/05/ukraine-newly-liberated-town-russia-military-soldiers-nick-paton-walsh-pkg-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 09:02:24+00:00
- - tags: None
 
 CNN's Nick Paton Walsh reports from southern Ukraine in a newly liberated town littered with Russia's military relics and bodies of Putin's soldiers.
 
@@ -412,7 +361,6 @@ CNN's Nick Paton Walsh reports from southern Ukraine in a newly liberated town l
  - [https://www.cnn.com/2022/10/06/world/hydrogen-mining-truck-first-mode-anglo-american-climate-spc-intl/index.html](https://www.cnn.com/2022/10/06/world/hydrogen-mining-truck-first-mode-anglo-american-climate-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 08:23:01+00:00
- - tags: None
 
 Standing three stories tall and weighing 500 metric tons fully loaded, a typical mining haul truck is one of the largest vehicles on the planet.
 
@@ -420,7 +368,6 @@ Standing three stories tall and weighing 500 metric tons fully loaded, a typical
  - [https://www.cnn.com/style/article/paloma-elsesser-bof/index.html](https://www.cnn.com/style/article/paloma-elsesser-bof/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 08:20:17+00:00
- - tags: None
 
 "I'm shooting a Vogue cover as a chubby, short, mixed-race woman who never imagined this would be her reality," says Paloma Elsesser of the "surreal" day that Annie Leibovitz photographed her for Vogue's January 2021 issue. It was a victory and not just for Elsesser.
 
@@ -428,7 +375,6 @@ Standing three stories tall and weighing 500 metric tons fully loaded, a typical
  - [https://www.cnn.com/videos/travel/2022/09/30/big-ben-tower-renovations-london-cb-lon-orig.cnn](https://www.cnn.com/videos/travel/2022/09/30/big-ben-tower-renovations-london-cb-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 07:57:28+00:00
- - tags: None
 
 From a new color scheme to fresh gold gilding, London's iconic Elizabeth Tower has undergone an £80m ($91m) renovation project that put the famous Big Ben bell largely out of action for five years. International tourists have never been permitted inside the tower, but CNN took a tour with Parliament's Estates Historian Dr. Mark Collins to see the work done so that the iconic Big Ben will bong again.
 
@@ -436,7 +382,6 @@ From a new color scheme to fresh gold gilding, London's iconic Elizabeth Tower h
  - [https://www.cnn.com/2022/10/06/asia/china-drought-cold-weather-october-climate-intl-hnk/index.html](https://www.cnn.com/2022/10/06/asia/china-drought-cold-weather-october-climate-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 07:18:32+00:00
- - tags: None
 
 China is facing extreme weather as scorching heat breaks records in some drought-stricken parts of the country, while cool weather sweeps through other regions as the climate crisis makes conditions more unstable.
 
@@ -444,7 +389,6 @@ China is facing extreme weather as scorching heat breaks records in some drought
  - [https://www.cnn.com/2022/10/06/asia/philippines-grand-lotto-jackpot-probe-intl-hnk/index.html](https://www.cnn.com/2022/10/06/asia/philippines-grand-lotto-jackpot-probe-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 07:08:25+00:00
- - tags: None
 
 A 236 million peso ($4 million) lottery jackpot shared among a record number of more than 400 winners has sparked questions in the Philippine Senate as skeptical lawmakers demand an inquiry into the results.
 
@@ -452,7 +396,6 @@ A 236 million peso ($4 million) lottery jackpot shared among a record number of 
  - [https://www.cnn.com/videos/world/2022/10/06/china-zero-covid-airport-ebof-sot-vpx.cnn](https://www.cnn.com/videos/world/2022/10/06/china-zero-covid-airport-ebof-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 02:06:29+00:00
- - tags: None
 
 As China continues its zero-Covid policy, new video shows armed guards standing outside an airport to enforce it, more than two years after the start of the pandemic. CNN's Erin Burnett reports.
 
@@ -460,7 +403,6 @@ As China continues its zero-Covid policy, new video shows armed guards standing 
  - [https://www.cnn.com/videos/politics/2022/10/06/biden-hot-mic-profanity-florida-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/06/biden-hot-mic-profanity-florida-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 02:03:08+00:00
- - tags: None
 
 President Joe Biden was caught on microphone using profanity while speaking with Fort Myers Mayor Ray Murphy. The White House did not immediately respond to a CNN request for comment.
 
@@ -468,6 +410,5 @@ President Joe Biden was caught on microphone using profanity while speaking with
  - [https://www.cnn.com/videos/world/2022/10/06/russian-journalist-pro-kemlin-analysts-furious-ukraine-war-sot-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/10/06/russian-journalist-pro-kemlin-analysts-furious-ukraine-war-sot-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-06 01:46:55+00:00
- - tags: None
 
 Ekaterina Kotrikadze, Russia's TV Rain News Director, explains to CNN's Erin Burnett why Russian pundits and pro-Kremlin analysts are beginning to show frustration on air over the Ukrainian war.

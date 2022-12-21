@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Pico 4 Review - A Great Quest 2 Alternative!
  - [https://www.youtube.com/watch?v=i6uMxzBMwLY](https://www.youtube.com/watch?v=i6uMxzBMwLY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-10-18 20:00:11+00:00
- - tags: None
 
 I check out the new Pico 4 VR headset. The Pico 4 releases in the UK, Europe and Asia on the 18th October. I've spent some time with the Pico 4 to give you this review on it's specs and features along with a comparison of how it stacks up against the Quest 2.
 

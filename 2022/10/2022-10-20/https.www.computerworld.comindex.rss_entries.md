@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Google opens up Workspace with slew of third-party integrations
  - [https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-20 22:56:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3677588/it-spending-to-grow-as-companies-use-tech-to-battle-expected-recession.html#tk.rss_all](https://www.computerworld.com/article/3677588/it-spending-to-grow-as-companies-use-tech-to-battle-expected-recession.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-20 20:34:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3677568/lenovo-tech-world-2022-aiming-for-a-metaverse-upgrade.html#tk.rss_all](https://www.computerworld.com/article/3677568/lenovo-tech-world-2022-aiming-for-a-metaverse-upgrade.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-20 19:19:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.networkworld.com/article/3677548/ibm-sales-jump-shows-the-mainframe-is-not-dead-with-hybrid-cloud-alive-and-well.html#tk.rss_all](https://www.networkworld.com/article/3677548/ibm-sales-jump-shows-the-mainframe-is-not-dead-with-hybrid-cloud-alive-and-well.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-20 19:08:00+00:00
- - tags: None
 
 The company's third quarter financial report reveals a strong showing for mainframes as well as hybrid infrastructure, as total quarterly revenue hits $14 billion.
 
@@ -42,7 +38,6 @@ The company's third quarter financial report reveals a strong showing for mainfr
  - [https://www.computerworld.com/article/3677468/7-ways-macos-ventura-will-make-you-more-productive.html#tk.rss_all](https://www.computerworld.com/article/3677468/7-ways-macos-ventura-will-make-you-more-productive.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-20 15:25:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -52,7 +47,6 @@ The company's third quarter financial report reveals a strong showing for mainfr
  - [https://www.computerworld.com/article/3677229/the-best-states-in-the-us-for-tech-jobs.html#tk.rss_all](https://www.computerworld.com/article/3677229/the-best-states-in-the-us-for-tech-jobs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-20 07:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

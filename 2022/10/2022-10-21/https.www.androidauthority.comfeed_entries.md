@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Android Adaptive Battery: Everything you need to know
  - [https://www.androidauthority.com/android-adaptive-battery-explained-3223097/](https://www.androidauthority.com/android-adaptive-battery-explained-3223097/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 20:05:30+00:00
- - tags: None
 
 Learn how your Android can optimize the battery life based on your usage.
 
@@ -12,7 +11,6 @@ Learn how your Android can optimize the battery life based on your usage.
  - [https://www.androidauthority.com/battery-share-pixel-7-3223462/](https://www.androidauthority.com/battery-share-pixel-7-3223462/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 19:11:52+00:00
- - tags: None
 
 Google has added a new feature that automatically turns Battery Share on.
 
@@ -20,7 +18,6 @@ Google has added a new feature that automatically turns Battery Share on.
  - [https://www.androidauthority.com/google-pixel-7-tips-3221909/](https://www.androidauthority.com/google-pixel-7-tips-3221909/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 18:30:51+00:00
- - tags: None
 
 There's even more to explore with the latest generation of Google Pixels.
 
@@ -28,7 +25,6 @@ There's even more to explore with the latest generation of Google Pixels.
  - [https://www.androidauthority.com/google-clear-calling-3223378/](https://www.androidauthority.com/google-clear-calling-3223378/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 16:52:14+00:00
- - tags: None
 
 Google's latest beta update brings Clear Calling to the Pixel 7 series.
 
@@ -36,7 +32,6 @@ Google's latest beta update brings Clear Calling to the Pixel 7 series.
  - [https://www.androidauthority.com/best-android-fighting-games-568247/](https://www.androidauthority.com/best-android-fighting-games-568247/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 14:43:23+00:00
- - tags: None
 
 Good fighting games on Android are hard to find. Thankfully, there are at least a few, so here are the best fighting games for Android!
 
@@ -44,7 +39,6 @@ Good fighting games on Android are hard to find. Thankfully, there are at least 
  - [https://www.androidauthority.com/shows-like-andor-star-wars-disney-plus-3221987/](https://www.androidauthority.com/shows-like-andor-star-wars-disney-plus-3221987/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 14:00:42+00:00
- - tags: None
 
 It's easily the best Star Wars title in years! So, what should you watch next?
 
@@ -52,7 +46,6 @@ It's easily the best Star Wars title in years! So, what should you watch next?
  - [https://www.androidauthority.com/amazon-google-pixel-7a-3223276/](https://www.androidauthority.com/amazon-google-pixel-7a-3223276/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 12:13:36+00:00
- - tags: None
 
 The news comes only a few months after the Pixel 6a was released to markets.
 
@@ -60,7 +53,6 @@ The news comes only a few months after the Pixel 6a was released to markets.
  - [https://www.androidauthority.com/google-pixel-7-reception-connectivity-issues-poll-results-3223171/](https://www.androidauthority.com/google-pixel-7-reception-connectivity-issues-poll-results-3223171/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 10:04:40+00:00
- - tags: None
 
 The results for a refreshing change from our Pixel 6 series poll earlier this year.
 
@@ -68,7 +60,6 @@ The results for a refreshing change from our Pixel 6 series poll earlier this ye
  - [https://www.androidauthority.com/daily-authority-october-21-2022-3222595/](https://www.androidauthority.com/daily-authority-october-21-2022-3222595/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 09:00:42+00:00
- - tags: None
 
 Plus, lettuce out-lasting former UK PM Liz Truss.
 
@@ -76,6 +67,5 @@ Plus, lettuce out-lasting former UK PM Liz Truss.
  - [https://www.androidauthority.com/google-fine-india-android-3223167/](https://www.androidauthority.com/google-fine-india-android-3223167/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-21 06:29:19+00:00
- - tags: None
 
 India's watchdog took issue with Google's stance on Android forks and forcing OEMs to pre-install apps.

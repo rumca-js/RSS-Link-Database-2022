@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Annals of artificial stupidity
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59078](https://www.codeproject.com/script/News/View.aspx?nwid=59078)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Validating names deemed difficult
 
@@ -12,7 +11,6 @@ Validating names deemed difficult
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59076](https://www.codeproject.com/script/News/View.aspx?nwid=59076)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 And anything for the annual bonus
 
@@ -20,7 +18,6 @@ And anything for the annual bonus
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59069](https://www.codeproject.com/script/News/View.aspx?nwid=59069)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Cloudflare has released workerd in beta, an open-source JavaScript/Wasm (WebAssembly) runtime based on the same code as Cloudflare Workers, a serverless platform which runs on the company’s content delivery network, the aim being low-latency for users in any region.
 
@@ -28,7 +25,6 @@ Cloudflare has released workerd in beta, an open-source JavaScript/Wasm (WebAsse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59067](https://www.codeproject.com/script/News/View.aspx?nwid=59067)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Enhance is a web standards-based HTML framework. It’s designed to provide a dependable foundation for building lightweight, flexible, and future-proof web applications.
 
@@ -36,7 +32,6 @@ Enhance is a web standards-based HTML framework. It’s designed to provide a de
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59073](https://www.codeproject.com/script/News/View.aspx?nwid=59073)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.
 
@@ -44,7 +39,6 @@ You don’t need a framework for everything, but if you use one, this article wi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59068](https://www.codeproject.com/script/News/View.aspx?nwid=59068)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Let’s see how we can combine functional programming and TypeScript to build highly reusable and maintainable software.
 
@@ -52,7 +46,6 @@ Let’s see how we can combine functional programming and TypeScript to build hi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59074](https://www.codeproject.com/script/News/View.aspx?nwid=59074)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 No more hunting and pecking, now hiking and seeking
 
@@ -60,7 +53,6 @@ No more hunting and pecking, now hiking and seeking
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59081](https://www.codeproject.com/script/News/View.aspx?nwid=59081)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 And not a new icon in sight
 
@@ -68,7 +60,6 @@ And not a new icon in sight
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59082](https://www.codeproject.com/script/News/View.aspx?nwid=59082)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Because you know they hate that cloud provider
 
@@ -76,7 +67,6 @@ Because you know they hate that cloud provider
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59075](https://www.codeproject.com/script/News/View.aspx?nwid=59075)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 You had me at "never listen to 'celebrities'"
 
@@ -84,7 +74,6 @@ You had me at "never listen to 'celebrities'"
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59079](https://www.codeproject.com/script/News/View.aspx?nwid=59079)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 For very small sharks?
 
@@ -92,7 +81,6 @@ For very small sharks?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59071](https://www.codeproject.com/script/News/View.aspx?nwid=59071)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Make sense of the proliferation of new Javascript web frameworks. A deep dive into the problems at scale and the recent evolution of innovation.
 
@@ -100,7 +88,6 @@ Make sense of the proliferation of new Javascript web frameworks. A deep dive in
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59080](https://www.codeproject.com/script/News/View.aspx?nwid=59080)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Anything from the Federal Network. I hear service guarantees citizenship!
 
@@ -108,7 +95,6 @@ Anything from the Federal Network. I hear service guarantees citizenship!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59070](https://www.codeproject.com/script/News/View.aspx?nwid=59070)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 HTTP Archive’s annual state of the web report
 
@@ -116,7 +102,6 @@ HTTP Archive’s annual state of the web report
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59077](https://www.codeproject.com/script/News/View.aspx?nwid=59077)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Because we never do learn
 
@@ -124,6 +109,5 @@ Because we never do learn
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59072](https://www.codeproject.com/script/News/View.aspx?nwid=59072)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-04 04:00:00+00:00
- - tags: None
 
 Many of the most common performance problems in websites and applications today are caused by how they load and rely upon JavaScript, and the difficulty involved in solving those problems often depends on the degree of that reliance.

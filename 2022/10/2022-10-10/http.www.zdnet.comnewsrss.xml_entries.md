@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Microsoft Surface Pro 8 for Business review: Still in love
  - [https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 22:06:00+00:00
- - tags: None
 
 After using a Surface Pro 8 with LTE, I've nearly been converted to a Windows user.
 
@@ -12,7 +11,6 @@ After using a Surface Pro 8 with LTE, I've nearly been converted to a Windows us
  - [https://www.zdnet.com/article/how-to-choose-the-right-linux-desktop-distribution/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-choose-the-right-linux-desktop-distribution/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 21:05:47+00:00
- - tags: None
 
 With thousands of options to sift through, here's our best advice on choosing the Linux desktop distribution that meets your specific needs.
 
@@ -20,7 +18,6 @@ With thousands of options to sift through, here's our best advice on choosing th
  - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-curved-gaming-monitor-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-curved-gaming-monitor-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 20:32:02+00:00
- - tags: None
 
 Amazon's Prime Early Access Sale may be tomorrow, but GameStop is offering some the best savings on a Samsung gaming monitor.
 
@@ -28,7 +25,6 @@ Amazon's Prime Early Access Sale may be tomorrow, but GameStop is offering some 
  - [https://www.zdnet.com/home-and-office/smart-home/google-nest-hub-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/google-nest-hub-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 20:25:00+00:00
- - tags: None
 
 Your home should be working smarter -- not harder. This discounted Nest Hub can help organize your home with reminders and voice commands.
 
@@ -36,7 +32,6 @@ Your home should be working smarter -- not harder. This discounted Nest Hub can 
  - [https://www.zdnet.com/home-and-office/home-entertainment/sony-75-inch-4k-tv-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/sony-75-inch-4k-tv-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 20:22:00+00:00
- - tags: None
 
 Equip your home theater with one of Sony's best LED models, now $1,699 off the original price.
 
@@ -44,7 +39,6 @@ Equip your home theater with one of Sony's best LED models, now $1,699 off the o
  - [https://www.zdnet.com/home-and-office/smart-home/this-50-camera-proves-youre-probably-overspending-for-your-smart-home/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/this-50-camera-proves-youre-probably-overspending-for-your-smart-home/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 19:19:00+00:00
- - tags: None
 
 The SwitchBot Pan/Tilt Cam has 360-degree motion tracking, 2K video and two-way audio recording, and seamless integration with Amazon Alexa and Google Assistant -- all for just $50.
 
@@ -52,7 +46,6 @@ The SwitchBot Pan/Tilt Cam has 360-degree motion tracking, 2K video and two-way 
  - [https://www.zdnet.com/article/what-to-expect-from-metas-big-metaverse-event/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-to-expect-from-metas-big-metaverse-event/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 19:08:00+00:00
- - tags: None
 
 The company's long-teased Quest Pro is likely to make its debut, with a more budget-friendly Quest 3 VR headset also rumored to be waiting in the wings.
 
@@ -60,7 +53,6 @@ The company's long-teased Quest Pro is likely to make its debut, with a more bud
  - [https://www.zdnet.com/article/risios-is-the-fedora-based-linux-distribution-youve-never-heard-of-but-should-definitely-try/#ftag=RSSbaffb68](https://www.zdnet.com/article/risios-is-the-fedora-based-linux-distribution-youve-never-heard-of-but-should-definitely-try/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 18:11:41+00:00
- - tags: None
 
 If you're always on the lookout for new Linux distributions to try, here's a Fedora-based OS with additional features perfect for new users.
 
@@ -68,7 +60,6 @@ If you're always on the lookout for new Linux distributions to try, here's a Fed
  - [https://www.zdnet.com/finance/blockchain/how-web3-is-driving-new-relationships-with-your-customers/#ftag=RSSbaffb68](https://www.zdnet.com/finance/blockchain/how-web3-is-driving-new-relationships-with-your-customers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 17:40:37+00:00
- - tags: None
 
 Web3 is enabling the next evolution of the empowered consumer. Web3 is not simply about digital products; this is a fundamental shift in the relationship between brands and consumers.
 
@@ -76,7 +67,6 @@ Web3 is enabling the next evolution of the empowered consumer. Web3 is not simpl
  - [https://www.zdnet.com/article/are-third-party-apple-watch-ultra-bands-any-good/#ftag=RSSbaffb68](https://www.zdnet.com/article/are-third-party-apple-watch-ultra-bands-any-good/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 17:03:00+00:00
- - tags: None
 
 Is it possible to get that Alpine Loop look without the cost? We tried some options.
 
@@ -84,7 +74,6 @@ Is it possible to get that Alpine Loop look without the cost? We tried some opti
  - [https://www.zdnet.com/article/even-linus-torvalds-sometimes-has-pc-problems/#ftag=RSSbaffb68](https://www.zdnet.com/article/even-linus-torvalds-sometimes-has-pc-problems/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 15:20:12+00:00
- - tags: None
 
 Linux creator Linus Torvalds can't merge kernel code fast enough because of a particular hardware problem.
 
@@ -92,7 +81,6 @@ Linux creator Linus Torvalds can't merge kernel code fast enough because of a pa
  - [https://www.zdnet.com/article/openstack-from-austin-to-zed/#ftag=RSSbaffb68](https://www.zdnet.com/article/openstack-from-austin-to-zed/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 15:12:35+00:00
- - tags: None
 
 OpenStack has come a long way from its first release to its latest as it has matured from a private cloud to a multi-purpose cloud for any and all purposes.
 
@@ -100,7 +88,6 @@ OpenStack has come a long way from its first release to its latest as it has mat
  - [https://www.zdnet.com/article/small-business-needs-a-different-sort-of-software-developer/#ftag=RSSbaffb68](https://www.zdnet.com/article/small-business-needs-a-different-sort-of-software-developer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 15:03:30+00:00
- - tags: None
 
 Not all companies need the same skills from developers, and not all developers want to work for Big Tech.
 
@@ -108,7 +95,6 @@ Not all companies need the same skills from developers, and not all developers w
  - [https://www.zdnet.com/article/workers-are-refusing-to-return-to-the-office-and-they-are-ready-to-face-the-consequences/#ftag=RSSbaffb68](https://www.zdnet.com/article/workers-are-refusing-to-return-to-the-office-and-they-are-ready-to-face-the-consequences/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 14:55:54+00:00
- - tags: None
 
 Remote working is here to stay, and employers would rather find a new job than go back to their desks, a survey finds.
 
@@ -116,7 +102,6 @@ Remote working is here to stay, and employers would rather find a new job than g
  - [https://www.zdnet.com/article/would-you-eat-food-cooked-by-a-robot-you-might-have-to-soon/#ftag=RSSbaffb68](https://www.zdnet.com/article/would-you-eat-food-cooked-by-a-robot-you-might-have-to-soon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 13:00:15+00:00
- - tags: None
 
 Restaurants are battling the labor shortage by employing robots to cook and serve food to customers. Even the most prominent investment firm is getting in on the trend.
 
@@ -124,7 +109,6 @@ Restaurants are battling the labor shortage by employing robots to cook and serv
  - [https://www.zdnet.com/article/iphone-14-crash-detection-alert-was-triggered-by-a-rollercoaster-ride-says-wsj/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-14-crash-detection-alert-was-triggered-by-a-rollercoaster-ride-says-wsj/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 12:53:18+00:00
- - tags: None
 
 WSJ reports that iPhone 14 Crash Detection call was set off by a rollercoaster ride.
 
@@ -132,7 +116,6 @@ WSJ reports that iPhone 14 Crash Detection call was set off by a rollercoaster r
  - [https://www.zdnet.com/home-and-office/networking/how-to-easily-convert-your-homes-old-coaxial-cabling-into-useful-ethernet-lines/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/how-to-easily-convert-your-homes-old-coaxial-cabling-into-useful-ethernet-lines/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 12:26:15+00:00
- - tags: None
 
 Tons of families that have "cut the cord" have have been left with yard upon yard of now-useless coaxial cable running through their walls. In this guide, we show you how to turn that useless cabling into an integral, powerful part of your home network with just a couple of adapters.
 
@@ -140,7 +123,6 @@ Tons of families that have "cut the cord" have have been left with yard upon yar
  - [https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cabling-into-useful-ethernet-lines/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cabling-into-useful-ethernet-lines/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 12:26:00+00:00
- - tags: None
 
 If you 'cut the cord', you probably have yards of now-useless coaxial cable in your walls. In this guide, we show you how to turn that dormant cabling into an integral part of your home network with just a couple of adapters.
 
@@ -148,7 +130,6 @@ If you 'cut the cord', you probably have yards of now-useless coaxial cable in y
  - [https://www.zdnet.com/article/pc-sales-are-falling-what-does-that-mean-for-the-price-of-your-new-computer/#ftag=RSSbaffb68](https://www.zdnet.com/article/pc-sales-are-falling-what-does-that-mean-for-the-price-of-your-new-computer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 12:07:26+00:00
- - tags: None
 
 Prices of PCs have been trending upwards recently; that could be changing.
 
@@ -156,7 +137,6 @@ Prices of PCs have been trending upwards recently; that could be changing.
  - [https://www.zdnet.com/article/this-thermal-attack-can-read-your-password-from-the-heat-your-fingertips-leave-behind/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-thermal-attack-can-read-your-password-from-the-heat-your-fingertips-leave-behind/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 11:39:04+00:00
- - tags: None
 
 Researchers detail an attack technique combining thermal imaging and AI - and warn that increased access to innovative technologies will be abused by cyber criminals.
 
@@ -164,7 +144,6 @@ Researchers detail an attack technique combining thermal imaging and AI - and wa
  - [https://www.zdnet.com/home-and-office/smart-tv-deal-walmart-offers-rca-50-4k-set/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-tv-deal-walmart-offers-rca-50-4k-set/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 10:47:28+00:00
- - tags: None
 
 Walmart's New Rollbacks and More sale has launched with massive discounts applied to tech, gadgets, and home appliances, including smart TVs.
 
@@ -172,7 +151,6 @@ Walmart's New Rollbacks and More sale has launched with massive discounts applie
  - [https://www.zdnet.com/home-and-office/home-office-monitor-deal-this-acer-monitor-is-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-office-monitor-deal-this-acer-monitor-is-on-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 10:26:27+00:00
- - tags: None
 
 Walmart's Rollbacks and More sale has launched just ahead of Amazon's new event.
 
@@ -180,7 +158,6 @@ Walmart's Rollbacks and More sale has launched just ahead of Amazon's new event.
  - [https://www.zdnet.com/home-and-office/robot-vacuum-sale-save-on-an-ecovacs-deebot-n8/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/robot-vacuum-sale-save-on-an-ecovacs-deebot-n8/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 09:55:17+00:00
- - tags: None
 
 Walmart's New Rollbacks and More sale has launched and includes a worthwhile deal on a robot vacuum.
 
@@ -188,7 +165,6 @@ Walmart's New Rollbacks and More sale has launched and includes a worthwhile dea
  - [https://www.zdnet.com/article/best-headphones/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-headphones/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 02:34:49+00:00
- - tags: None
 
 In search of the best headphones? ZDNET's top picks include noise-cancelation, wireless Bluetooth, and long battery life for over-the-ear listening.
 
@@ -196,7 +172,6 @@ In search of the best headphones? ZDNET's top picks include noise-cancelation, w
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 02:27:00+00:00
- - tags: None
 
 The best budget gaming laptops have fantastic battery life and VRR compatibility but don't break the bank. We researched and tested five top models -- and all but one came in well under $1,000.
 
@@ -204,7 +179,6 @@ The best budget gaming laptops have fantastic battery life and VRR compatibility
  - [https://www.zdnet.com/article/best-laptop-stand/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-laptop-stand/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 02:25:00+00:00
- - tags: None
 
 Do you have to crane your neck to see your work? A laptop stand will raise your MacBook or Chromebook up to 20 inches off your desk so you can take the strain off your neck and back and work more proficiently.
 
@@ -212,6 +186,5 @@ Do you have to crane your neck to see your work? A laptop stand will raise your 
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-amazon-echo/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-amazon-echo/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 02:17:00+00:00
- - tags: None
 
 The Echo Studio is ZDNET's top choice in terms of sound projection and quality. But if you're curious about how it compares to all the other Amazon Echo speakers available, we've pitted it against 11 other Alexa devices from Amazon.

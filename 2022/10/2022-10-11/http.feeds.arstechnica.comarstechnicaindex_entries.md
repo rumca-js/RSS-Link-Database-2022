@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Nikon Small World microscopy contest 2022: Meet this year’s top 10 winners
  - [https://arstechnica.com/?p=1889195](https://arstechnica.com/?p=1889195)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 23:19:38+00:00
- - tags: None
 
 Your annual reminder that science can be beautiful as well as informative.
 
@@ -12,7 +11,6 @@ Your annual reminder that science can be beautiful as well as informative.
  - [https://arstechnica.com/?p=1889202](https://arstechnica.com/?p=1889202)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 22:23:07+00:00
- - tags: None
 
 Voice synthesis PR stunt calls upon the dead to help sell an AI product.
 
@@ -20,7 +18,6 @@ Voice synthesis PR stunt calls upon the dead to help sell an AI product.
  - [https://arstechnica.com/?p=1889252](https://arstechnica.com/?p=1889252)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 22:05:50+00:00
- - tags: None
 
 Revenues are increasing, but maybe not fast enough to justify massive costs.
 
@@ -28,7 +25,6 @@ Revenues are increasing, but maybe not fast enough to justify massive costs.
  - [https://arstechnica.com/?p=1889223](https://arstechnica.com/?p=1889223)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 21:36:24+00:00
- - tags: None
 
 The asteroid Dimorphos had its 12-hour orbit shortened by a half-hour.
 
@@ -36,7 +32,6 @@ The asteroid Dimorphos had its 12-hour orbit shortened by a half-hour.
  - [https://arstechnica.com/?p=1889137](https://arstechnica.com/?p=1889137)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 19:16:38+00:00
- - tags: None
 
 53% of Super Cruise and 42% of Autopilot users treat systems as autonomous.
 
@@ -44,7 +39,6 @@ The asteroid Dimorphos had its 12-hour orbit shortened by a half-hour.
  - [https://arstechnica.com/?p=1889021](https://arstechnica.com/?p=1889021)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 18:56:15+00:00
- - tags: None
 
 The ARM Mac client is so shaky it requires three different warnings.
 
@@ -52,7 +46,6 @@ The ARM Mac client is so shaky it requires three different warnings.
  - [https://arstechnica.com/?p=1889104](https://arstechnica.com/?p=1889104)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 18:41:19+00:00
- - tags: None
 
 This dumpster fire of an analysis is just what you'd expect from Florida's Ladapo.
 
@@ -60,7 +53,6 @@ This dumpster fire of an analysis is just what you'd expect from Florida's Ladap
  - [https://arstechnica.com/?p=1889071](https://arstechnica.com/?p=1889071)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 18:27:36+00:00
- - tags: None
 
 Elon Musk chose to address the hate speech via a heart-to-heart with Kanye.
 
@@ -68,7 +60,6 @@ Elon Musk chose to address the hate speech via a heart-to-heart with Kanye.
  - [https://arstechnica.com/?p=1889103](https://arstechnica.com/?p=1889103)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 18:09:59+00:00
- - tags: None
 
 "High-end device" features thinner design, higher resolution, open peripheral vision.
 
@@ -76,7 +67,6 @@ Elon Musk chose to address the hate speech via a heart-to-heart with Kanye.
  - [https://arstechnica.com/?p=1889041](https://arstechnica.com/?p=1889041)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 16:36:17+00:00
- - tags: None
 
 It has a planned capacity of 40 GWh/year of lithium ion cells by end of 2025.
 
@@ -84,7 +74,6 @@ It has a planned capacity of 40 GWh/year of lithium ion cells by end of 2025.
  - [https://arstechnica.com/?p=1888991](https://arstechnica.com/?p=1888991)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 15:35:38+00:00
- - tags: None
 
 Security system made for free-to-play cheaters also applies to the coming $70 title.
 
@@ -92,7 +81,6 @@ Security system made for free-to-play cheaters also applies to the coming $70 ti
  - [https://arstechnica.com/?p=1888922](https://arstechnica.com/?p=1888922)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 15:23:56+00:00
- - tags: None
 
 You can build a smaller PC yourself, though the NUC will take out the guesswork.
 
@@ -100,7 +88,6 @@ You can build a smaller PC yourself, though the NUC will take out the guesswork.
  - [https://arstechnica.com/?p=1888943](https://arstechnica.com/?p=1888943)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 14:58:04+00:00
- - tags: None
 
 Throw a Roofnest on top of a car and you’ve got yourself a weekend away.
 
@@ -108,7 +95,6 @@ Throw a Roofnest on top of a car and you’ve got yourself a weekend away.
  - [https://arstechnica.com/?p=1888937](https://arstechnica.com/?p=1888937)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 13:36:00+00:00
- - tags: None
 
 Google's AI scanned satellite imagery to identify the worst-hit neighborhoods.
 
@@ -116,7 +102,6 @@ Google's AI scanned satellite imagery to identify the worst-hit neighborhoods.
  - [https://arstechnica.com/?p=1888580](https://arstechnica.com/?p=1888580)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 13:00:18+00:00
- - tags: None
 
 High-refresh Chromebooks are optimized for GeForce Now, Luna, Xbox Cloud Gaming.
 
@@ -124,7 +109,6 @@ High-refresh Chromebooks are optimized for GeForce Now, Luna, Xbox Cloud Gaming.
  - [https://arstechnica.com/?p=1888249](https://arstechnica.com/?p=1888249)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 13:00:02+00:00
- - tags: None
 
 Our review also dives deeply into DLSS 3—and how it may affect future Nvidia GPUs.
 
@@ -132,7 +116,6 @@ Our review also dives deeply into DLSS 3—and how it may affect future Nvidia G
  - [https://arstechnica.com/?p=1888850](https://arstechnica.com/?p=1888850)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 12:00:10+00:00
- - tags: None
 
 Our top picks for ANC headphones and true wireless earbuds match record low prices.
 
@@ -140,6 +123,5 @@ Our top picks for ANC headphones and true wireless earbuds match record low pric
  - [https://arstechnica.com/?p=1888606](https://arstechnica.com/?p=1888606)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-11 07:00:12+00:00
- - tags: None
 
 We've sorted through Amazon's pre-holiday sale to find the stuff that's worth your time.

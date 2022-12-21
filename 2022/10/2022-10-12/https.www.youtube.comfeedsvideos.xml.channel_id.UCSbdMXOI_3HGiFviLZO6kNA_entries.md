@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## Meta has FINALLY learned their lesson.
  - [https://www.youtube.com/watch?v=sRdyZKK3CTU](https://www.youtube.com/watch?v=sRdyZKK3CTU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-10-12 18:00:31+00:00
- - tags: None
 
 Thank you to Runescape for sponsoring the video and allowing me to purchase a Quest Pro to review. Go here to download Runescape https://bit.ly/3C7sdhD
 

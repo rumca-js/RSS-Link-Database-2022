@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Talking to Muslims About Christ | Mohammed Hijab & Jonathan Pageau | #297
  - [https://www.youtube.com/watch?v=gqS1ov4lSI0](https://www.youtube.com/watch?v=gqS1ov4lSI0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-10-17 17:22:47+00:00
- - tags: None
 
 Dr. Jordan B. Peterson, Jonathan Pageau, and Mohammed Hijab discuss comparative religion, what is said about Islam versus what Islam has to say, and how the uncomfortable conversation - whether contentious or unnerving, is well worth having. 
  

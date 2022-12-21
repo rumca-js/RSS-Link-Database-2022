@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## Your carbon footprint is a LIE.
  - [https://www.youtube.com/watch?v=xIe0apThtQI](https://www.youtube.com/watch?v=xIe0apThtQI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-10-29 14:00:10+00:00
- - tags: None
 
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/
 📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/

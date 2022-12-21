@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## PC sales fall off a cliff
  - [https://www.computerworld.com/article/3675895/pc-sales-fall-off-a-cliff.html#tk.rss_all](https://www.computerworld.com/article/3675895/pc-sales-fall-off-a-cliff.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-11 20:56:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676132/if-the-pc-market-is-in-decline-hows-apple-faring.html#tk.rss_all](https://www.computerworld.com/article/3676132/if-the-pc-market-is-in-decline-hows-apple-faring.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-11 16:17:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3676268/the-four-day-workweek-works.html#tk.rss_all](https://www.computerworld.com/article/3676268/the-four-day-workweek-works.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-11 11:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3675965/google-pixel-7.html#tk.rss_all](https://www.computerworld.com/article/3675965/google-pixel-7.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-11 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

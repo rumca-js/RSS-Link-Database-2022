@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 2 California bakers create a life-size Han Solo out of bread
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59235](https://www.codeproject.com/script/News/View.aspx?nwid=59235)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 You love it. I know.
 
@@ -12,7 +11,6 @@ You love it. I know.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59236](https://www.codeproject.com/script/News/View.aspx?nwid=59236)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 Who could have foreseen this happening?
 
@@ -20,7 +18,6 @@ Who could have foreseen this happening?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59234](https://www.codeproject.com/script/News/View.aspx?nwid=59234)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 {Insert sad trombone GIF here}
 
@@ -28,7 +25,6 @@ Who could have foreseen this happening?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59237](https://www.codeproject.com/script/News/View.aspx?nwid=59237)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 Coming up tomorrow: see what breaks!
 
@@ -36,7 +32,6 @@ Coming up tomorrow: see what breaks!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59233](https://www.codeproject.com/script/News/View.aspx?nwid=59233)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 I'm sure they'll make that amount in profit in the first year, selling...something
 
@@ -44,7 +39,6 @@ I'm sure they'll make that amount in profit in the first year, selling...somethi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59232](https://www.codeproject.com/script/News/View.aspx?nwid=59232)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 To reach...the unreachable exception. To fix...the unfixable error.
 
@@ -52,7 +46,6 @@ To reach...the unreachable exception. To fix...the unfixable error.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59231](https://www.codeproject.com/script/News/View.aspx?nwid=59231)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 And I've been saving all my passwords in that file
 
@@ -60,7 +53,6 @@ And I've been saving all my passwords in that file
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59239](https://www.codeproject.com/script/News/View.aspx?nwid=59239)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 They "fixed" it (as in puppy, not repair)
 
@@ -68,6 +60,5 @@ They "fixed" it (as in puppy, not repair)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59238](https://www.codeproject.com/script/News/View.aspx?nwid=59238)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-19 04:00:00+00:00
- - tags: None
 
 Now they need to change the name of the product to Tabs

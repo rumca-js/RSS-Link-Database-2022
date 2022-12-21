@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## Meta gets MASSIVE Backlash for the Quest Pro
  - [https://www.youtube.com/watch?v=Uxs8n4TRBrU](https://www.youtube.com/watch?v=Uxs8n4TRBrU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-10-22 18:53:35+00:00
- - tags: None
 
 Thank you to Soundcore for sponsoring a segment in this weeks video!
 Get $20 OFF on soundcore VR P10 from Oct.18 0:00, EST to Oct.31 23:59,EST.

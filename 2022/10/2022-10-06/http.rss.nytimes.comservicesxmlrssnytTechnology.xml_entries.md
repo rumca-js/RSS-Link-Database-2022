@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## News on Fringe Social Sites Draws Limited but Loyal Fans, Report Finds
  - [https://www.nytimes.com/2022/10/06/technology/parler-truth-social-telegram-pew.html](https://www.nytimes.com/2022/10/06/technology/parler-truth-social-telegram-pew.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-06 20:50:59+00:00
- - tags: None
 
 The appeal of platforms like Parler, Truth Social and Telegram is another symptom of the partisan divide in media, according to the Pew Research Center.
 
@@ -12,7 +11,6 @@ The appeal of platforms like Parler, Truth Social and Telegram is another sympto
  - [https://www.nytimes.com/2022/10/06/technology/elon-musk-twitter-trial.html](https://www.nytimes.com/2022/10/06/technology/elon-musk-twitter-trial.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-06 19:14:36+00:00
- - tags: None
 
 Key details on the $44 billion offer are still being hashed out on a deal that could head off a trial set to begin in Delaware in a little more than week.
 
@@ -20,7 +18,6 @@ Key details on the $44 billion offer are still being hashed out on a deal that c
  - [https://www.nytimes.com/2022/10/06/technology/elon-musk-x.html](https://www.nytimes.com/2022/10/06/technology/elon-musk-x.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-06 19:05:18+00:00
- - tags: None
 
 The letter X has had significance in the billionaire’s life, from his early days as an entrepreneur to his personal life and now to his pursuit of Twitter.
 
@@ -28,7 +25,6 @@ The letter X has had significance in the billionaire’s life, from his early da
  - [https://www.nytimes.com/2022/10/06/technology/news-on-fringe-social-sites-draws-limited-but-loyal-fans-report-finds.html](https://www.nytimes.com/2022/10/06/technology/news-on-fringe-social-sites-draws-limited-but-loyal-fans-report-finds.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-06 17:57:48+00:00
- - tags: None
 
 The appeal of platforms like Parler, Truth Social and Telegram is another symptom of the partisan divide in media, according to the Pew Research Center.
 
@@ -36,6 +32,5 @@ The appeal of platforms like Parler, Truth Social and Telegram is another sympto
  - [https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html](https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-06 01:24:32+00:00
- - tags: None
 
 Before Mr. Musk renewed his $44 billion proposal, he and the company haggled in discussions that ultimately did not advance.

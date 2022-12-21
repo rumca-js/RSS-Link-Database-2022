@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Hurricane Roslyn Strengthens to Category 4 and Heads Toward  Mexico
  - [https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html](https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 19:31:30+00:00
- - tags: None
 
 Roslyn became a Category 4 hurricane on Saturday. Forecasters warned it could bring coastal flooding and dangerous winds to cities along the Pacific Coast.
 
@@ -12,7 +11,6 @@ Roslyn became a Category 4 hurricane on Saturday. Forecasters warned it could br
  - [https://www.nytimes.com/2022/10/22/world/europe/ian-hamilton-dead.html](https://www.nytimes.com/2022/10/22/world/europe/ian-hamilton-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 16:28:11+00:00
- - tags: None
 
 In an audacious caper, he and three other Scottish nationalists liberated the Stone of Destiny nearly 700 years after England had seized it from Scotland.
 
@@ -20,7 +18,6 @@ In an audacious caper, he and three other Scottish nationalists liberated the St
  - [https://www.nytimes.com/2022/10/22/world/europe/boris-johnson-liz-truss.html](https://www.nytimes.com/2022/10/22/world/europe/boris-johnson-liz-truss.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 15:23:50+00:00
- - tags: None
 
 The former Conservative leader, who was forced out of office after scandals this summer, hasn’t declared his candidacy, but dozens of party lawmakers already support him.
 
@@ -28,7 +25,6 @@ The former Conservative leader, who was forced out of office after scandals this
  - [https://www.nytimes.com/2022/10/22/world/middleeast/israel-palestinians-caves.html](https://www.nytimes.com/2022/10/22/world/middleeast/israel-palestinians-caves.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 13:53:17+00:00
- - tags: None
 
 Israel’s Supreme Court has ordered the removal of about 1,200 Palestinians from their villages in the occupied West Bank. The United Nations says that could amount to a war crime.
 
@@ -36,7 +32,6 @@ Israel’s Supreme Court has ordered the removal of about 1,200 Palestinians fro
  - [https://www.nytimes.com/2022/10/22/health/covid-impact-personality-change.html](https://www.nytimes.com/2022/10/22/health/covid-impact-personality-change.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 13:00:08+00:00
- - tags: None
 
 For more than two years, Covid disrupted social rituals and rites of passage. Now a recent study suggests we have become less extroverted, creative, agreeable and conscientious. The declines in some traits were sharper among young people.
 
@@ -44,7 +39,6 @@ For more than two years, Covid disrupted social rituals and rites of passage. No
  - [https://www.nytimes.com/2022/10/22/world/europe/uk-brexit-conservatives.html](https://www.nytimes.com/2022/10/22/world/europe/uk-brexit-conservatives.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 12:54:18+00:00
- - tags: None
 
 Some experts link Liz Truss’s downfall to the ripple effect of Britain’s departure from the European Union and the bitter, ideologically opposed factions it created in her party.
 
@@ -52,7 +46,6 @@ Some experts link Liz Truss’s downfall to the ripple effect of Britain’s dep
  - [https://www.nytimes.com/2022/10/22/briefing/scary-movies-halloween.html](https://www.nytimes.com/2022/10/22/briefing/scary-movies-halloween.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 10:52:25+00:00
- - tags: None
 
 It’s Halloween season, time for two-pound bags of fun-size candy and scary movies that haunt your dreams.
 
@@ -60,7 +53,6 @@ It’s Halloween season, time for two-pound bags of fun-size candy and scary mov
  - [https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html](https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 10:00:03+00:00
- - tags: None
 
 While the federal government is committed to a multibillion-dollar improvement to train service, an already long schedule may face delays.
 
@@ -68,7 +60,6 @@ While the federal government is committed to a multibillion-dollar improvement t
  - [https://www.nytimes.com/explain/2022/10/22/world/russia-ukraine-war-front-lines](https://www.nytimes.com/explain/2022/10/22/world/russia-ukraine-war-front-lines)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 09:52:19+00:00
- - tags: None
 
 The war in Ukraine has reached into every pocket of the country — from urban areas to the countryside, where soldiers monitor drones to pinpoint deadly attacks and civilians brace for destruction.
 
@@ -76,7 +67,6 @@ The war in Ukraine has reached into every pocket of the country — from urban a
  - [https://www.nytimes.com/2022/10/22/movies/zar-amir-ebrahimi-holy-spider.html](https://www.nytimes.com/2022/10/22/movies/zar-amir-ebrahimi-holy-spider.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 09:43:27+00:00
- - tags: None
 
 Zar Amir Ebrahimi, who had to flee Iran after an intimate tape was leaked, has been transfixed by the protests erupting there as her film “Holy Spider” is released in the U.S.
 
@@ -84,7 +74,6 @@ Zar Amir Ebrahimi, who had to flee Iran after an intimate tape was leaked, has b
  - [https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html](https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 09:34:39+00:00
- - tags: None
 
 It did not take long for amputees to begin coming off the Ukrainian battlefield. Our photographer captured their new fight, to lead ordinary lives again.
 
@@ -92,7 +81,6 @@ It did not take long for amputees to begin coming off the Ukrainian battlefield.
  - [https://www.nytimes.com/2022/10/22/well/family/bereavement-culture-refugee-immigrant.html](https://www.nytimes.com/2022/10/22/well/family/bereavement-culture-refugee-immigrant.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 09:00:39+00:00
- - tags: None
 
 There is a name for the specific type of grief that both refugees and migrants experience. It’s called “cultural bereavement.”
 
@@ -100,7 +88,6 @@ There is a name for the specific type of grief that both refugees and migrants e
  - [https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html](https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 09:00:35+00:00
- - tags: None
 
 One man is on a mission to find and suggest fixes for all of the flaws making international rail travel in Europe surprisingly hard. Getting more people on trains is key to meeting E.U. climate goals.
 
@@ -108,7 +95,6 @@ One man is on a mission to find and suggest fixes for all of the flaws making in
  - [https://www.nytimes.com/2022/10/22/world/europe/uk-rwanda-asylum-charter-airline.html](https://www.nytimes.com/2022/10/22/world/europe/uk-rwanda-asylum-charter-airline.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 08:00:00+00:00
- - tags: None
 
 Amid protests, Privilege Style said it would stop running the deportation flights as part of Britain’s highly criticized effort. The move has left the deal in further disarray.
 
@@ -116,7 +102,6 @@ Amid protests, Privilege Style said it would stop running the deportation flight
  - [https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html](https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 07:43:58+00:00
- - tags: None
 
 Ukraine’s military scrambled fighter jets, and people took shelter in basements.
 
@@ -124,7 +109,6 @@ Ukraine’s military scrambled fighter jets, and people took shelter in basement
  - [https://www.nytimes.com/2022/10/22/world/asia/china-xi-jinping-congress.html](https://www.nytimes.com/2022/10/22/world/asia/china-xi-jinping-congress.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 06:54:52+00:00
- - tags: None
 
 A new lineup of the Communist Party elite will limit potential resistance to Mr. Xi’s agenda of bolstering security and expanding state sway over the economy.
 
@@ -132,7 +116,6 @@ A new lineup of the Communist Party elite will limit potential resistance to Mr.
  - [https://www.nytimes.com/2022/10/22/world/asia/china-xi-jinping-congress-security.html](https://www.nytimes.com/2022/10/22/world/asia/china-xi-jinping-congress-security.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 06:52:25+00:00
- - tags: None
 
 At the important Communist Party congress this week, the Chinese leader didn’t mention two long-repeated maxims. To many, it’s a warning of the turbulent times ahead.
 
@@ -140,6 +123,5 @@ At the important Communist Party congress this week, the Chinese leader didn’t
  - [https://www.nytimes.com/2022/10/22/world/europe/ukraine-children-russia-adoptions.html](https://www.nytimes.com/2022/10/22/world/europe/ukraine-children-russia-adoptions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-22 04:02:09+00:00
- - tags: None
 
 Thousands of Ukrainian children have been transferred to Russia. “I didn’t want to go,” one girl told The New York Times from a foster home near Moscow.

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## New Pixel Watch leak reveals watch faces, strap styles and more
  - [https://www.techradar.com/news/new-pixel-watch-leak-reveals-watch-faces-strap-styles-and-more/](https://www.techradar.com/news/new-pixel-watch-leak-reveals-watch-faces-strap-styles-and-more/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-02 14:30:41+00:00
- - tags: None
 
 Count down the days to the big Pixel Watch reveal by looking at some of the bands and colors that have leaked out.
 
@@ -12,7 +11,6 @@ Count down the days to the big Pixel Watch reveal by looking at some of the band
  - [https://www.techradar.com/news/google-pixel-7-preorder-gifts-could-include-the-pixel-watch-pixel-buds-pro/](https://www.techradar.com/news/google-pixel-7-preorder-gifts-could-include-the-pixel-watch-pixel-buds-pro/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-02 10:30:57+00:00
- - tags: None
 
 But there is a caveat
 
@@ -20,6 +18,5 @@ But there is a caveat
  - [https://www.techradar.com/news/intel-arc-a770-gpu-leak-could-worry-some-gamers-but-it-shouldnt/](https://www.techradar.com/news/intel-arc-a770-gpu-leak-could-worry-some-gamers-but-it-shouldnt/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-02 10:03:55+00:00
- - tags: None
 
 Intel’s readying its top-end Arc graphics cards to hit the market, but this leak might disappoint some folks.

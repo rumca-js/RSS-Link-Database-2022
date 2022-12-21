@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Cause is unknown for mysterious GPS outage that rerouted Texas air traffic
  - [https://arstechnica.com/?p=1891367](https://arstechnica.com/?p=1891367)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 23:30:38+00:00
- - tags: None
 
 Episode lasted almost 2 days, prompted the closure of a runway at Dallas airport.
 
@@ -12,7 +11,6 @@ Episode lasted almost 2 days, prompted the closure of a runway at Dallas airport
  - [https://arstechnica.com/?p=1891200](https://arstechnica.com/?p=1891200)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 22:56:59+00:00
- - tags: None
 
 Protostars steal the show in this new image from the telescope's Near Infrared Camera.
 
@@ -20,7 +18,6 @@ Protostars steal the show in this new image from the telescope's Near Infrared C
  - [https://arstechnica.com/?p=1891350](https://arstechnica.com/?p=1891350)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 22:42:36+00:00
- - tags: None
 
 The plague may have put selective pressure on mutations in four genes.
 
@@ -28,7 +25,6 @@ The plague may have put selective pressure on mutations in four genes.
  - [https://arstechnica.com/?p=1891206](https://arstechnica.com/?p=1891206)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 19:58:07+00:00
- - tags: None
 
 4K TV adoption hasn't been slowing down, and Apple knows the HD era is over.
 
@@ -36,7 +32,6 @@ The plague may have put selective pressure on mutations in four genes.
  - [https://arstechnica.com/?p=1891093](https://arstechnica.com/?p=1891093)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 19:48:56+00:00
- - tags: None
 
 Two-armed method doesn't beat human speeds but leaves older folding robots in the dust.
 
@@ -44,7 +39,6 @@ Two-armed method doesn't beat human speeds but leaves older folding robots in th
  - [https://arstechnica.com/?p=1891287](https://arstechnica.com/?p=1891287)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 19:41:11+00:00
- - tags: None
 
 The new wallbox uses the J1772 plug; Tesla owners will use an included adapter.
 
@@ -52,7 +46,6 @@ The new wallbox uses the J1772 plug; Tesla owners will use an included adapter.
  - [https://arstechnica.com/?p=1891124](https://arstechnica.com/?p=1891124)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 18:36:04+00:00
- - tags: None
 
 Firmware access and parts are also needed for a real repair push.
 
@@ -60,7 +53,6 @@ Firmware access and parts are also needed for a real repair push.
  - [https://arstechnica.com/?p=1891196](https://arstechnica.com/?p=1891196)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 18:19:10+00:00
- - tags: None
 
 One of several teething issues for Intel's first stab at a dedicated GPU.
 
@@ -68,7 +60,6 @@ One of several teething issues for Intel's first stab at a dedicated GPU.
  - [https://arstechnica.com/?p=1891202](https://arstechnica.com/?p=1891202)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 18:05:07+00:00
- - tags: None
 
 Lawsuit targets ExxonMobil, Shell, Chevron, BP, and ConocoPhillips.
 
@@ -76,7 +67,6 @@ Lawsuit targets ExxonMobil, Shell, Chevron, BP, and ConocoPhillips.
  - [https://arstechnica.com/?p=1891212](https://arstechnica.com/?p=1891212)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 17:47:04+00:00
- - tags: None
 
 By 2030 BMW will build six different EV models in Spartanburg, South Carolina.
 
@@ -84,7 +74,6 @@ By 2030 BMW will build six different EV models in Spartanburg, South Carolina.
  - [https://arstechnica.com/?p=1891145](https://arstechnica.com/?p=1891145)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 17:40:18+00:00
- - tags: None
 
 iFixit shows exactly how difficult it'll be to fix those cracked displays.
 
@@ -92,7 +81,6 @@ iFixit shows exactly how difficult it'll be to fix those cracked displays.
  - [https://arstechnica.com/?p=1891092](https://arstechnica.com/?p=1891092)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 17:34:47+00:00
- - tags: None
 
 Chick experiments hint at why eyespots evolved independently in different species.
 
@@ -100,7 +88,6 @@ Chick experiments hint at why eyespots evolved independently in different specie
  - [https://arstechnica.com/?p=1891161](https://arstechnica.com/?p=1891161)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 17:27:13+00:00
- - tags: None
 
 Union was unable to secure demanded residual payments after their last strike.
 
@@ -108,7 +95,6 @@ Union was unable to secure demanded residual payments after their last strike.
  - [https://arstechnica.com/?p=1891136](https://arstechnica.com/?p=1891136)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 16:34:54+00:00
- - tags: None
 
 Airplane operators can reserve now for Starlink deliveries in mid-2023.
 
@@ -116,7 +102,6 @@ Airplane operators can reserve now for Starlink deliveries in mid-2023.
  - [https://arstechnica.com/?p=1890408](https://arstechnica.com/?p=1890408)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 16:00:10+00:00
- - tags: None
 
 Next-gen Thunderbolt will auto-switch from 80 to 120Gbps with fancy monitors.
 
@@ -124,7 +109,6 @@ Next-gen Thunderbolt will auto-switch from 80 to 120Gbps with fancy monitors.
  - [https://arstechnica.com/?p=1891044](https://arstechnica.com/?p=1891044)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 13:55:59+00:00
- - tags: None
 
 Study of one wreck supports the idea that its 50,000 peers may leak pollutants.
 
@@ -132,7 +116,6 @@ Study of one wreck supports the idea that its 50,000 peers may leak pollutants.
  - [https://arstechnica.com/?p=1891081](https://arstechnica.com/?p=1891081)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 13:54:52+00:00
- - tags: None
 
 And it is also raising questions about innate grammar.
 
@@ -140,7 +123,6 @@ And it is also raising questions about innate grammar.
  - [https://arstechnica.com/?p=1891063](https://arstechnica.com/?p=1891063)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 13:39:08+00:00
- - tags: None
 
 UK-based Wejo unveils new operating system to "democratize" AV data.
 
@@ -148,6 +130,5 @@ UK-based Wejo unveils new operating system to "democratize" AV data.
  - [https://arstechnica.com/?p=1890307](https://arstechnica.com/?p=1890307)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-19 11:39:26+00:00
- - tags: None
 
 The Vintage Roadster offers a load of performance in a gorgeous package.

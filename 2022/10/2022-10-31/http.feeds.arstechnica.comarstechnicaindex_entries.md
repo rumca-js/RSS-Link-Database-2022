@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## CDC director’s COVID returns as study finds such rebounds shockingly common
  - [https://arstechnica.com/?p=1894139](https://arstechnica.com/?p=1894139)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 22:09:53+00:00
- - tags: None
 
 In the small study, 44% of untreated, recovered people had rebound COVID-19 symptoms.
 
@@ -12,7 +11,6 @@ In the small study, 44% of untreated, recovered people had rebound COVID-19 symp
  - [https://arstechnica.com/?p=1894083](https://arstechnica.com/?p=1894083)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 21:49:51+00:00
- - tags: None
 
 Ghostwriter generates, completes, or transforms code in 16 languages, similar to GitHub Copilot.
 
@@ -20,7 +18,6 @@ Ghostwriter generates, completes, or transforms code in 16 languages, similar to
  - [https://arstechnica.com/?p=1894022](https://arstechnica.com/?p=1894022)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 21:35:33+00:00
- - tags: None
 
 CEO Tim Cook confirmed Apple's product lineup is "set" for the year.
 
@@ -28,7 +25,6 @@ CEO Tim Cook confirmed Apple's product lineup is "set" for the year.
  - [https://arstechnica.com/?p=1894088](https://arstechnica.com/?p=1894088)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 20:27:46+00:00
- - tags: None
 
 Unconfirmed media report says Russian spies hacked former UK prime minster's phone.
 
@@ -36,7 +32,6 @@ Unconfirmed media report says Russian spies hacked former UK prime minster's pho
  - [https://arstechnica.com/?p=1892522](https://arstechnica.com/?p=1892522)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 18:08:49+00:00
- - tags: None
 
 Was the Falcon Heavy a mistake by SpaceX?
 
@@ -44,7 +39,6 @@ Was the Falcon Heavy a mistake by SpaceX?
  - [https://arstechnica.com/?p=1894011](https://arstechnica.com/?p=1894011)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 17:33:09+00:00
- - tags: None
 
 What happens when Twitter’s owner can’t spot disinformation when he sees it?
 
@@ -52,7 +46,6 @@ What happens when Twitter’s owner can’t spot disinformation when he sees it?
  - [https://arstechnica.com/?p=1893942](https://arstechnica.com/?p=1893942)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 17:16:57+00:00
- - tags: None
 
 Mike Flanagan's latest Netflix series adapts the YA novel by Christopher Pike.
 
@@ -60,7 +53,6 @@ Mike Flanagan's latest Netflix series adapts the YA novel by Christopher Pike.
  - [https://arstechnica.com/?p=1893978](https://arstechnica.com/?p=1893978)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 15:45:48+00:00
- - tags: None
 
 Verification charge could make it easier for scammers to impersonate real people.
 
@@ -68,7 +60,6 @@ Verification charge could make it easier for scammers to impersonate real people
  - [https://arstechnica.com/?p=1893968](https://arstechnica.com/?p=1893968)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 15:24:47+00:00
- - tags: None
 
 Spencer says PlayStation support will last “as long as there’s a PlayStation."
 
@@ -76,7 +67,6 @@ Spencer says PlayStation support will last “as long as there’s a PlayStation
  - [https://arstechnica.com/?p=1893927](https://arstechnica.com/?p=1893927)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 13:50:07+00:00
- - tags: None
 
 We can probably expect reentry into Earth's atmosphere to occur about a week from today.
 
@@ -84,7 +74,6 @@ We can probably expect reentry into Earth's atmosphere to occur about a week fro
  - [https://arstechnica.com/?p=1893941](https://arstechnica.com/?p=1893941)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 13:46:27+00:00
- - tags: None
 
 Takeover drama drew in a cast of Wall Street powerhouses—and a few "meme-splainers."
 
@@ -92,7 +81,6 @@ Takeover drama drew in a cast of Wall Street powerhouses—and a few "meme-splai
  - [https://arstechnica.com/?p=1893288](https://arstechnica.com/?p=1893288)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 13:00:14+00:00
- - tags: None
 
 Fintech platforms help US regulators weigh security benefits of digital IDs.
 
@@ -100,6 +88,5 @@ Fintech platforms help US regulators weigh security benefits of digital IDs.
  - [https://arstechnica.com/?p=1892975](https://arstechnica.com/?p=1892975)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-31 10:00:10+00:00
- - tags: None
 
 We've seen ads ruin the user experience of nearly every product under the sun.

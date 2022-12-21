@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## Is Facebook FINALLY Dying?! - Techlore Talks #2
  - [https://www.youtube.com/watch?v=n6-tM8YAgQ4](https://www.youtube.com/watch?v=n6-tM8YAgQ4)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-10-01 19:04:48+00:00
- - tags: None
 
 Is Facebook finally dying? Is the current ad revenue model possible without invading user data? Can FOSS projects be successful financially? Welcome to the second episode of our new weekly series - Techlore Talks - where we unpack concepts in a free-form discussion.
 

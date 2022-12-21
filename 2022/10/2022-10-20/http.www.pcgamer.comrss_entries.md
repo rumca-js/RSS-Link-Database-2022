@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Resident Evil 4's remake retreads old ground in style, but feels too familiar
  - [https://www.pcgamer.com/resident-evil-4s-remake-retreads-old-ground-in-style-but-feels-too-familiar](https://www.pcgamer.com/resident-evil-4s-remake-retreads-old-ground-in-style-but-feels-too-familiar)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 22:59:43+00:00
- - tags: None
 
 Capcom's remake makes me want a new game instead.
 
@@ -12,7 +11,6 @@ Capcom's remake makes me want a new game instead.
  - [https://www.pcgamer.com/capcom-answers-5-big-questions-about-resident-evil-4-remake](https://www.pcgamer.com/capcom-answers-5-big-questions-about-resident-evil-4-remake)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 22:59:37+00:00
- - tags: None
 
 Here's our first hands-on with RE4 Remake, along with some new details from RE4's producer.
 
@@ -20,7 +18,6 @@ Here's our first hands-on with RE4 Remake, along with some new details from RE4'
  - [https://www.pcgamer.com/resident-evil-4-remake-is-about-the-same-length-as-original-says-capcom](https://www.pcgamer.com/resident-evil-4-remake-is-about-the-same-length-as-original-says-capcom)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 22:59:31+00:00
- - tags: None
 
 Capcom paid attention to the criticisms of the Resident Evil 3 Remake.
 
@@ -28,7 +25,6 @@ Capcom paid attention to the criticisms of the Resident Evil 3 Remake.
  - [https://www.pcgamer.com/exocide-is-a-bug-squashing-boomer-shooter-where-you-play-a-four-armed-exterminator](https://www.pcgamer.com/exocide-is-a-bug-squashing-boomer-shooter-where-you-play-a-four-armed-exterminator)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 22:40:10+00:00
- - tags: None
 
 These weapons all beat a cup with a sheet of paper under it.
 
@@ -36,7 +32,6 @@ These weapons all beat a cup with a sheet of paper under it.
  - [https://www.pcgamer.com/overwatch-2s-first-double-xp-weekend-starts-tomorrow-but-it-may-not-help-as-much-as-you-hope](https://www.pcgamer.com/overwatch-2s-first-double-xp-weekend-starts-tomorrow-but-it-may-not-help-as-much-as-you-hope)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 22:06:56+00:00
- - tags: None
 
 Blizzard has announced the dates for three "double match XP" weekends, two in October and one in November.
 
@@ -44,7 +39,6 @@ Blizzard has announced the dates for three "double match XP" weekends, two in Oc
  - [https://www.pcgamer.com/this-banished-inspired-city-builder-is-filled-with-floods-tornadoes-and-the-plague](https://www.pcgamer.com/this-banished-inspired-city-builder-is-filled-with-floods-tornadoes-and-the-plague)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 21:30:33+00:00
- - tags: None
 
 Settlement Survival is about to hit version 1.0 after a year of early access.
 
@@ -52,7 +46,6 @@ Settlement Survival is about to hit version 1.0 after a year of early access.
  - [https://www.pcgamer.com/one-of-the-surprise-indie-hits-of-the-year-leaves-early-access-with-a-major-update](https://www.pcgamer.com/one-of-the-surprise-indie-hits-of-the-year-leaves-early-access-with-a-major-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 20:39:39+00:00
- - tags: None
 
 The Vampire Survivors 1.0 update includes new gameplay modes, achievements, gameplay tweaks, and a Twitch mode.
 
@@ -60,7 +53,6 @@ The Vampire Survivors 1.0 update includes new gameplay modes, achievements, game
  - [https://www.pcgamer.com/rockstars-throwing-a-life-preserver-to-that-guy-with-6000-hours-of-red-dead-online-on-stadia](https://www.pcgamer.com/rockstars-throwing-a-life-preserver-to-that-guy-with-6000-hours-of-red-dead-online-on-stadia)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 20:35:04+00:00
- - tags: None
 
 A humanitarian disaster, averted.
 
@@ -68,7 +60,6 @@ A humanitarian disaster, averted.
  - [https://www.pcgamer.com/watch-the-resident-evil-showcase-here](https://www.pcgamer.com/watch-the-resident-evil-showcase-here)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 20:18:31+00:00
- - tags: None
 
 Time for a look at Resident Evil 4 Remake and the RE Village DLC.
 
@@ -76,7 +67,6 @@ Time for a look at Resident Evil 4 Remake and the RE Village DLC.
  - [https://www.pcgamer.com/fallout-3-is-free-on-the-epic-games-store](https://www.pcgamer.com/fallout-3-is-free-on-the-epic-games-store)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 19:34:16+00:00
- - tags: None
 
 Fallout 3: Game of the Year Edition includes all the add-on packs released for Fallout 3.
 
@@ -84,7 +74,6 @@ Fallout 3: Game of the Year Edition includes all the add-on packs released for F
  - [https://www.pcgamer.com/modern-warfare-2-preload-times](https://www.pcgamer.com/modern-warfare-2-preload-times)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 18:29:04+00:00
- - tags: None
 
 Modern Warfare 2 preload times and detailed PC system requirements have been revealed.
 
@@ -92,7 +81,6 @@ Modern Warfare 2 preload times and detailed PC system requirements have been rev
  - [https://www.pcgamer.com/microsofts-latest-activision-acquisition-defense-what-if-call-of-duty-sucked](https://www.pcgamer.com/microsofts-latest-activision-acquisition-defense-what-if-call-of-duty-sucked)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 17:47:35+00:00
- - tags: None
 
 It could happen, you know—in fact, Microsoft says it already has.
 
@@ -100,7 +88,6 @@ It could happen, you know—in fact, Microsoft says it already has.
  - [https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately](https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 16:46:25+00:00
- - tags: None
 
 A big sign reading 'CONFIDENTIAL'? That could mean anything.
 
@@ -108,7 +95,6 @@ A big sign reading 'CONFIDENTIAL'? That could mean anything.
  - [https://www.pcgamer.com/gotham-knights-batarang-locations](https://www.pcgamer.com/gotham-knights-batarang-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 16:15:32+00:00
- - tags: None
 
 Track down these wayward bats across Gotham city.
 
@@ -116,7 +102,6 @@ Track down these wayward bats across Gotham city.
  - [https://www.pcgamer.com/final-fantasy-16-trailer-provides-tasty-worldbuilding-and-some-badass-summons](https://www.pcgamer.com/final-fantasy-16-trailer-provides-tasty-worldbuilding-and-some-badass-summons)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 15:52:22+00:00
- - tags: None
 
 I've only had Benedikta for four-and-a-half minutes, but if anything happened to her I would kill everyone in this room and then myself.
 
@@ -124,7 +109,6 @@ I've only had Benedikta for four-and-a-half minutes, but if anything happened to
  - [https://www.pcgamer.com/gskill-shows-ddr5-8000-kit-running-on-an-intel-core-i9-13900k](https://www.pcgamer.com/gskill-shows-ddr5-8000-kit-running-on-an-intel-core-i9-13900k)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 15:27:09+00:00
- - tags: None
 
 It's also announced Trident Z5 DDR5-7800 kits are on the way.
 
@@ -132,7 +116,6 @@ It's also announced Trident Z5 DDR5-7800 kits are on the way.
  - [https://www.pcgamer.com/microsoft-has-a-bleak-outlook-on-cloud-gamings-future](https://www.pcgamer.com/microsoft-has-a-bleak-outlook-on-cloud-gamings-future)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 15:09:53+00:00
- - tags: None
 
 'This is a new and immature technology which the CMA has recognized faces significant challenges.'
 
@@ -140,7 +123,6 @@ It's also announced Trident Z5 DDR5-7800 kits are on the way.
  - [https://www.pcgamer.com/plague-tale-requiem-arnaud-open-the-way](https://www.pcgamer.com/plague-tale-requiem-arnaud-open-the-way)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 15:06:49+00:00
- - tags: None
 
 Help him out of the rats' nest.
 
@@ -148,7 +130,6 @@ Help him out of the rats' nest.
  - [https://www.pcgamer.com/gotham-knights-graffiti-locations](https://www.pcgamer.com/gotham-knights-graffiti-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 13:36:40+00:00
- - tags: None
 
 Find this special street art to earn some rewards.
 
@@ -156,7 +137,6 @@ Find this special street art to earn some rewards.
  - [https://www.pcgamer.com/fortnite-inkquisitor-location-defeat](https://www.pcgamer.com/fortnite-inkquisitor-location-defeat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 13:36:35+00:00
- - tags: None
 
 You'll need to take it down for a Fortnitemares quest.
 
@@ -164,7 +144,6 @@ You'll need to take it down for a Fortnitemares quest.
  - [https://www.pcgamer.com/look-the-laurel-and-hardy-of-nvidia-graphics-card-coolers](https://www.pcgamer.com/look-the-laurel-and-hardy-of-nvidia-graphics-card-coolers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 13:13:07+00:00
- - tags: None
 
 Nvidia's potential Titan and RTX 4070 coolers have been pictured and one of them is unfeasibly large while the other's relatively slight.
 
@@ -172,7 +151,6 @@ Nvidia's potential Titan and RTX 4070 coolers have been pictured and one of them
  - [https://www.pcgamer.com/intel-core-i5-13600k-review-benchmarks-performance](https://www.pcgamer.com/intel-core-i5-13600k-review-benchmarks-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 13:00:01+00:00
- - tags: None
 
 Intel's mid-range Core i5 is far mightier than it sounds.
 
@@ -180,7 +158,6 @@ Intel's mid-range Core i5 is far mightier than it sounds.
  - [https://www.pcgamer.com/intel-core-i9-13900k-review-benchmarks-performance](https://www.pcgamer.com/intel-core-i9-13900k-review-benchmarks-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 13:00:01+00:00
- - tags: None
 
 A processor that can do just about anything, just not the one I'd recommend to most PC builders.
 
@@ -188,7 +165,6 @@ A processor that can do just about anything, just not the one I'd recommend to m
  - [https://www.pcgamer.com/modders-figured-out-how-to-keep-playing-the-street-fighter-6-beta-so-capcom-removed-the-game](https://www.pcgamer.com/modders-figured-out-how-to-keep-playing-the-street-fighter-6-beta-so-capcom-removed-the-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 11:55:43+00:00
- - tags: None
 
 Capcom doesn't want a repeat of the Street Fighter 5 beta.
 
@@ -196,7 +172,6 @@ Capcom doesn't want a repeat of the Street Fighter 5 beta.
  - [https://www.pcgamer.com/benq-x3000i-gaming-projector-review](https://www.pcgamer.com/benq-x3000i-gaming-projector-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 11:17:34+00:00
- - tags: None
 
 BenQ's unusual box-shaped beamer packs a 240Hz, 3000 lumens punch.
 
@@ -204,7 +179,6 @@ BenQ's unusual box-shaped beamer packs a 240Hz, 3000 lumens punch.
  - [https://www.pcgamer.com/gotham-knights-review](https://www.pcgamer.com/gotham-knights-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 11:00:00+00:00
- - tags: None
 
 A misguided action game that can't let go of the past.
 
@@ -212,7 +186,6 @@ A misguided action game that can't let go of the past.
  - [https://www.pcgamer.com/the-best-series-about-being-a-detective-who-is-also-a-frog-concludes-next-week](https://www.pcgamer.com/the-best-series-about-being-a-detective-who-is-also-a-frog-concludes-next-week)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 10:43:15+00:00
- - tags: None
 
 Frog Detective 3: Corruption at Cowboy County centres around the dark secrets of a sheriff-less town.
 
@@ -220,7 +193,6 @@ Frog Detective 3: Corruption at Cowboy County centres around the dark secrets of
  - [https://www.pcgamer.com/asrock-x670e-pro-rs-motherboard-review-benchmarks-performance](https://www.pcgamer.com/asrock-x670e-pro-rs-motherboard-review-benchmarks-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 09:14:43+00:00
- - tags: None
 
 Delivering the best features of the X670E platform at an affordable price.
 
@@ -228,7 +200,6 @@ Delivering the best features of the X670E platform at an affordable price.
  - [https://www.pcgamer.com/todays-wordle-488-answer-hint](https://www.pcgamer.com/todays-wordle-488-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Thursday's puzzle.
 
@@ -236,7 +207,6 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - [https://www.pcgamer.com/ghostbusters-spirits-unleashed-review](https://www.pcgamer.com/ghostbusters-spirits-unleashed-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 04:34:19+00:00
- - tags: None
 
 Bustin' ghosts in Ghostbusters: Spirits Unleashed makes me feel… meh.
 
@@ -244,6 +214,5 @@ Bustin' ghosts in Ghostbusters: Spirits Unleashed makes me feel… meh.
  - [https://www.pcgamer.com/silent-hill-2-system-requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-20 01:12:15+00:00
- - tags: None
 
 Running up that hill.

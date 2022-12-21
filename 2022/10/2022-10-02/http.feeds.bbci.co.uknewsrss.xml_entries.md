@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Drax: UK power station owner cuts down primary forests in Canada
  - [https://www.bbc.co.uk/news/science-environment-63089348?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63089348?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:53:13+00:00
- - tags: None
 
 The owner of the UK's biggest power station, Drax, is cutting down key forests in Canada.
 
@@ -12,7 +11,6 @@ The owner of the UK's biggest power station, Drax, is cutting down key forests i
  - [https://www.bbc.co.uk/news/world-europe-63090644?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63090644?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:22:23+00:00
- - tags: None
 
 Paris's relative absence in its supply of weapons to Ukraine leaves eastern European countries wary.
 
@@ -20,7 +18,6 @@ Paris's relative absence in its supply of weapons to Ukraine leaves eastern Euro
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63107561?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63107561?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:15:45+00:00
- - tags: None
 
 They will make their first joint public appearance since the period of royal mourning ended.
 
@@ -28,7 +25,6 @@ They will make their first joint public appearance since the period of royal mou
  - [https://www.bbc.co.uk/news/uk-politics-63112463?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63112463?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:12:10+00:00
- - tags: None
 
 What has happened in the last 10 days could leave an indelible mark on Liz Truss, some Tories fear.
 
@@ -36,7 +32,6 @@ What has happened in the last 10 days could leave an indelible mark on Liz Truss
  - [https://www.bbc.co.uk/news/uk-scotland-tayside-central-62807311?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-tayside-central-62807311?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:06:01+00:00
- - tags: None
 
 Could a new "banking hub" solve the problems caused by the departure of five banks from Brechin?
 
@@ -44,7 +39,6 @@ Could a new "banking hub" solve the problems caused by the departure of five ban
  - [https://www.bbc.co.uk/news/science-environment-63036911?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63036911?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:04:32+00:00
- - tags: None
 
 Prehistoric footprints on Formby Beach have revealed how the British coast transformed over 9,000 years.
 
@@ -52,7 +46,6 @@ Prehistoric footprints on Formby Beach have revealed how the British coast trans
  - [https://www.bbc.co.uk/sport/cycling/63111555?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cycling/63111555?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:01:20+00:00
- - tags: None
 
 Sir Bradley Wiggins joins former Manchester City player Paul Stewart and the FA to back an NSPCC campaign against child abuse in sport.
 
@@ -60,7 +53,6 @@ Sir Bradley Wiggins joins former Manchester City player Paul Stewart and the FA 
  - [https://www.bbc.co.uk/sport/av/football/63111902?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63111902?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 23:00:27+00:00
- - tags: None
 
 Match of the Day 2 pundit Jermaine Jenas analyses Manchester United's "shocking" display in their 6-3 Premier League derby defeat at Manchester City.
 
@@ -68,7 +60,6 @@ Match of the Day 2 pundit Jermaine Jenas analyses Manchester United's "shocking"
  - [https://www.bbc.co.uk/news/uk-politics-63110541?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63110541?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 21:43:55+00:00
- - tags: None
 
 Ex-cabinet minister accuses PM of not listening to public concern over tax cuts for the well-off.
 
@@ -76,7 +67,6 @@ Ex-cabinet minister accuses PM of not listening to public concern over tax cuts 
  - [https://www.bbc.co.uk/news/world-middle-east-63111767?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63111767?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 21:38:58+00:00
- - tags: None
 
 Reports say a large number of student protesters at Sharif university have been trapped on the campus.
 
@@ -84,7 +74,6 @@ Reports say a large number of student protesters at Sharif university have been 
  - [https://www.bbc.co.uk/news/uk-politics-63108242?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63108242?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 21:27:24+00:00
- - tags: None
 
 Kwasi Kwarteng will defend his tax cuts during his Conservative Party conference speech.
 
@@ -92,7 +81,6 @@ Kwasi Kwarteng will defend his tax cuts during his Conservative Party conference
  - [https://www.bbc.co.uk/sport/golf/63111075?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/golf/63111075?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 20:49:03+00:00
- - tags: None
 
 Solheim Cup player Charley Hull wins for the second time on the LPGA Tour with a one-shot victory at The Ascendant in Texas.
 
@@ -100,7 +88,6 @@ Solheim Cup player Charley Hull wins for the second time on the LPGA Tour with a
  - [https://www.bbc.co.uk/sport/cricket/63110489?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63110489?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 20:15:42+00:00
- - tags: None
 
 Why England have some nice conundrums to solve before they line up for their first T20 World Cup match against Afghanistan.
 
@@ -108,7 +95,6 @@ Why England have some nice conundrums to solve before they line up for their fir
  - [https://www.bbc.co.uk/sport/football/63111814?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63111814?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 19:26:50+00:00
- - tags: None
 
 Leeds United boss Jesse Marsch says he "felt sorry for the fans" after accusing Aston Villa of repeated timewasting in their goalless draw.
 
@@ -116,7 +102,6 @@ Leeds United boss Jesse Marsch says he "felt sorry for the fans" after accusing 
  - [https://www.bbc.co.uk/news/uk-politics-63110539?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63110539?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 18:39:52+00:00
- - tags: None
 
 Liz Truss is now as unpopular with voters as Boris Johnson when he was ousted, says veteran pollster.
 
@@ -124,7 +109,6 @@ Liz Truss is now as unpopular with voters as Boris Johnson when he was ousted, s
  - [https://www.bbc.co.uk/sport/cricket/63109822?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63109822?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 18:28:10+00:00
- - tags: None
 
 Dawid Malan hits an unbeaten 78 as England beat Pakistan by 67 runs in the seventh T20 international to clinch a 4-3 series win.
 
@@ -132,7 +116,6 @@ Dawid Malan hits an unbeaten 78 as England beat Pakistan by 67 runs in the seven
  - [https://www.bbc.co.uk/sport/football/63111430?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63111430?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 18:14:33+00:00
- - tags: None
 
 Erling Haaland is Cristiano Ronaldo, Zlatan Ibrahimovic and other elite strikers in one player, as the game reacts to another hat-trick for the Manchester City forward.
 
@@ -140,7 +123,6 @@ Erling Haaland is Cristiano Ronaldo, Zlatan Ibrahimovic and other elite strikers
  - [https://www.bbc.co.uk/sport/football/63024244?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63024244?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 17:47:47+00:00
- - tags: None
 
 Leeds battle to earn a goalless draw with Aston Villa despite playing with only 10 men for the majority of the second half.
 
@@ -148,7 +130,6 @@ Leeds battle to earn a goalless draw with Aston Villa despite playing with only 
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63111685?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63111685?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 17:39:31+00:00
- - tags: None
 
 The Conservative MP tells his party's conference that Irish relations "are not where they should be".
 
@@ -156,7 +137,6 @@ The Conservative MP tells his party's conference that Irish relations "are not w
  - [https://www.bbc.co.uk/news/world-us-canada-63108879?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63108879?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 17:38:57+00:00
- - tags: None
 
 Viral videos in the US have shown a surprising card game win - and fish stuffed with weights.
 
@@ -164,7 +144,6 @@ Viral videos in the US have shown a surprising card game win - and fish stuffed 
  - [https://www.bbc.co.uk/sport/football/63110583?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63110583?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 17:15:49+00:00
- - tags: None
 
 Manchester United's derby thrashing is a cold shower for anyone at Old Trafford thinking they might be moving closer to the side they hope to challenge.
 
@@ -172,7 +151,6 @@ Manchester United's derby thrashing is a cold shower for anyone at Old Trafford 
  - [https://www.bbc.co.uk/news/uk-63111261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63111261?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 16:34:18+00:00
- - tags: None
 
 The campaigner was there as "Melanie Brown MBE", rather than as a Spice Girl, she says.
 
@@ -180,7 +158,6 @@ The campaigner was there as "Melanie Brown MBE", rather than as a Spice Girl, sh
  - [https://www.bbc.co.uk/sport/av/football/63110095?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63110095?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 15:55:13+00:00
- - tags: None
 
 Manchester United manager Erik ten Hag says his side "let the fans down" in an "unacceptable" 6-3 defeat by rivals Manchester City.
 
@@ -188,7 +165,6 @@ Manchester United manager Erik ten Hag says his side "let the fans down" in an "
  - [https://www.bbc.co.uk/sport/formula1/63109168?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63109168?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 15:22:45+00:00
- - tags: None
 
 Red Bull's Sergio Perez holds off Ferrari's Charles Leclerc to win an incident-packed Singapore Grand Prix run in treacherous wet-dry conditions.
 
@@ -196,7 +172,6 @@ Red Bull's Sergio Perez holds off Ferrari's Charles Leclerc to win an incident-p
  - [https://www.bbc.co.uk/sport/football/63024245?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63024245?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 14:56:37+00:00
- - tags: None
 
 Manchester City's Erling Haaland becomes the first player to score three successive Premier League home hat-tricks as Manchester United are humiliated.
 
@@ -204,7 +179,6 @@ Manchester City's Erling Haaland becomes the first player to score three success
  - [https://www.bbc.co.uk/sport/football/63105801?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63105801?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 14:46:12+00:00
- - tags: None
 
 Bruno Lage is sacked as manager of Wolves after 16 months in charge following Saturday's defeat at West Ham United.
 
@@ -212,7 +186,6 @@ Bruno Lage is sacked as manager of Wolves after 16 months in charge following Sa
  - [https://www.bbc.co.uk/news/uk-63110223?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63110223?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 14:30:36+00:00
- - tags: None
 
 BBC presenter Laura Kuenssberg apologised to viewers for the temporary blackout.
 
@@ -220,7 +193,6 @@ BBC presenter Laura Kuenssberg apologised to viewers for the temporary blackout.
  - [https://www.bbc.co.uk/news/63108082?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/63108082?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 14:04:21+00:00
- - tags: None
 
 Prime Minister Liz Truss made claims on growth, borrowing costs and mortgage rises.
 
@@ -228,7 +200,6 @@ Prime Minister Liz Truss made claims on growth, borrowing costs and mortgage ris
  - [https://www.bbc.co.uk/sport/athletics/63108389?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/athletics/63108389?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 11:47:18+00:00
- - tags: None
 
 Kenya's Amos Kipruto and Ethiopia's Yalemzerf Yehualaw win their maiden London Marathon titles with breakaway victories in the elite men's and women's races.
 
@@ -236,7 +207,6 @@ Kenya's Amos Kipruto and Ethiopia's Yalemzerf Yehualaw win their maiden London M
  - [https://www.bbc.co.uk/news/uk-politics-63108234?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63108234?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 11:26:19+00:00
- - tags: None
 
 The senior Tory says the PM's policies are "not Conservative" but Liz Truss argues they will boost growth.
 
@@ -244,7 +214,6 @@ The senior Tory says the PM's policies are "not Conservative" but Liz Truss argu
  - [https://www.bbc.co.uk/news/uk-england-london-63102270?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63102270?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 11:14:28+00:00
- - tags: None
 
 An estimated 42,000 people are running the London Marathon as large crowds watch.
 
@@ -252,7 +221,6 @@ An estimated 42,000 people are running the London Marathon as large crowds watch
  - [https://www.bbc.co.uk/news/uk-politics-63107649?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63107649?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 10:57:07+00:00
- - tags: None
 
 But the prime minister says she sticks by her mini budget, despite a bad reaction from the markets.
 
@@ -260,7 +228,6 @@ But the prime minister says she sticks by her mini budget, despite a bad reactio
  - [https://www.bbc.co.uk/news/world-europe-63089367?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63089367?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 10:56:29+00:00
- - tags: None
 
 Ukrainian forces on the eastern front in Bakhmut say they will fight for every last inch of soil.
 
@@ -268,7 +235,6 @@ Ukrainian forces on the eastern front in Bakhmut say they will fight for every l
  - [https://www.bbc.co.uk/sport/football/63107682?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63107682?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 10:47:34+00:00
- - tags: None
 
 Fifa president Gianni Infantino says it is a "dark day" for football after at least 174 people are killed in a crush at a match in Indonesia.
 
@@ -276,7 +242,6 @@ Fifa president Gianni Infantino says it is a "dark day" for football after at le
  - [https://www.bbc.co.uk/news/world-asia-china-63070735?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63070735?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 10:43:57+00:00
- - tags: None
 
 A closely-watched case where business titan Richard Liu was accused of rape was settled hours before trial.
 
@@ -284,7 +249,6 @@ A closely-watched case where business titan Richard Liu was accused of rape was 
  - [https://www.bbc.co.uk/news/uk-63106939?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63106939?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 10:40:09+00:00
- - tags: None
 
 The Tory chairman defends the chancellor over claims he discussed future spending plans with financiers.
 
@@ -292,7 +256,6 @@ The Tory chairman defends the chancellor over claims he discussed future spendin
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63107556?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63107556?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 10:14:51+00:00
- - tags: None
 
 The heckler was allegedly dragged to the ground as the Duke of York walked behind the Queen's coffin.
 
@@ -300,7 +263,6 @@ The heckler was allegedly dragged to the ground as the Duke of York walked behin
  - [https://www.bbc.co.uk/sport/disability-sport/63107970?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/disability-sport/63107970?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 09:54:10+00:00
- - tags: None
 
 Marcel Hug and Catherine Debrunner set new course records as they completed an all-Swiss sweep of the London Marathon wheelchair titles.
 
@@ -308,7 +270,6 @@ Marcel Hug and Catherine Debrunner set new course records as they completed an a
  - [https://www.bbc.co.uk/sport/athletics/63107758?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/athletics/63107758?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 09:02:20+00:00
- - tags: None
 
 BBC Sport talks to British 400m hurdler Lina Nielsen on her multiple sclerosis diagnosis and the support from her twin sister Laviai.
 
@@ -316,7 +277,6 @@ BBC Sport talks to British 400m hurdler Lina Nielsen on her multiple sclerosis d
  - [https://www.bbc.co.uk/sport/av/mixed-martial-arts/63107816?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/mixed-martial-arts/63107816?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 08:16:27+00:00
- - tags: None
 
 Watch the fast start between AJ McKee and Spike Carlyle in the Bellator 286 lightweight fight.
 
@@ -324,7 +284,6 @@ Watch the fast start between AJ McKee and Spike Carlyle in the Bellator 286 ligh
  - [https://www.bbc.co.uk/news/entertainment-arts-63107183?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63107183?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 08:13:01+00:00
- - tags: None
 
 The Star Wars legend says Ukraine's president referenced the films when he spoke to him.
 
@@ -332,7 +291,6 @@ The Star Wars legend says Ukraine's president referenced the films when he spoke
  - [https://www.bbc.co.uk/news/uk-england-nottinghamshire-62981085?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-nottinghamshire-62981085?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 06:42:44+00:00
- - tags: None
 
 A disability charity uses a tegu lizard during therapy sessions.
 
@@ -340,7 +298,6 @@ A disability charity uses a tegu lizard during therapy sessions.
  - [https://www.bbc.co.uk/news/uk-england-tyne-63080520?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-tyne-63080520?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 06:34:37+00:00
- - tags: None
 
 The family of a girl awaiting a heart transplant are asking parents to consider organ donations.
 
@@ -348,7 +305,6 @@ The family of a girl awaiting a heart transplant are asking parents to consider 
  - [https://www.bbc.co.uk/news/world-asia-63105945?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63105945?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 06:20:20+00:00
- - tags: None
 
 Supporters who invaded the pitch are tear-gassed by police, leading to one of the world's worst stadium disasters.
 
@@ -356,7 +312,6 @@ Supporters who invaded the pitch are tear-gassed by police, leading to one of th
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63106874?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63106874?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 06:18:57+00:00
- - tags: None
 
 Brazil's Patricio 'Pitbull' Freire defends his featherweight title at Bellator 286 with a unanimous victory over Hungarian Adam Borics.
 
@@ -364,7 +319,6 @@ Brazil's Patricio 'Pitbull' Freire defends his featherweight title at Bellator 2
  - [https://www.bbc.co.uk/news/uk-england-essex-63090432?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-63090432?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 06:16:14+00:00
- - tags: None
 
 The animal is caught on camera after forcing its way through a cat flap and eating pet food.
 
@@ -372,7 +326,6 @@ The animal is caught on camera after forcing its way through a cat flap and eati
  - [https://www.bbc.co.uk/sport/disability-sport/63048111?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/disability-sport/63048111?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 05:38:31+00:00
- - tags: None
 
 BBC Sport talks to British 400m hurdler Lina Nielsen on her multiple sclerosis diagnosis and the support from her twin sister Laviai.
 
@@ -380,7 +333,6 @@ BBC Sport talks to British 400m hurdler Lina Nielsen on her multiple sclerosis d
  - [https://www.bbc.co.uk/news/blogs-the-papers-63105718?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63105718?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 04:58:34+00:00
- - tags: None
 
 Polling in Sunday's papers indicates that faith in the government's economic competence is damaged.
 
@@ -388,6 +340,5 @@ Polling in Sunday's papers indicates that faith in the government's economic com
  - [https://www.bbc.co.uk/news/technology-63106024?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63106024?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-02 01:15:26+00:00
- - tags: None
 
 It was widely reported that the actor had sold his face to a deepfake company.

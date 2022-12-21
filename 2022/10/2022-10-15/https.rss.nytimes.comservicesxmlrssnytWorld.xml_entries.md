@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Fire Erupts at Iran’s Most Notorious Prison Amid National Protests
  - [https://www.nytimes.com/2022/10/15/world/middleeast/iran-evin-prison-fire.html](https://www.nytimes.com/2022/10/15/world/middleeast/iran-evin-prison-fire.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 23:58:32+00:00
- - tags: None
 
 Evin Prison, in Tehran, houses thousands of dissidents and political prisoners. Witnesses described hearing gunshots and explosions as a blaze made its way through the facility on Saturday.
 
@@ -12,7 +11,6 @@ Evin Prison, in Tehran, houses thousands of dissidents and political prisoners. 
  - [https://www.nytimes.com/2022/10/15/world/europe/putin-annexations-ukraine-nuclear.html](https://www.nytimes.com/2022/10/15/world/europe/putin-annexations-ukraine-nuclear.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 23:42:56+00:00
- - tags: None
 
 Moscow is pressuring nuclear engineers to sign contracts with a Russian agency while pushing Ukrainians fleeing Kherson to go to Russia.
 
@@ -20,7 +18,6 @@ Moscow is pressuring nuclear engineers to sign contracts with a Russian agency w
  - [https://www.nytimes.com/2022/10/16/world/europe/an-orchestra-conductor-has-been-killed-after-refusing-to-cooperate-with-russian-occupiers-ukrainian-officials-say.html](https://www.nytimes.com/2022/10/16/world/europe/an-orchestra-conductor-has-been-killed-after-refusing-to-cooperate-with-russian-occupiers-ukrainian-officials-say.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 23:19:53+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ Moscow is pressuring nuclear engineers to sign contracts with a Russian agency w
  - [https://www.nytimes.com/2022/10/15/world/europe/britain-truss-hunt-economics-taxes.html](https://www.nytimes.com/2022/10/15/world/europe/britain-truss-hunt-economics-taxes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 15:18:54+00:00
- - tags: None
 
 With Liz Truss’s authority ebbing, questions abound about how long she can cling to her post.
 
@@ -36,7 +32,6 @@ With Liz Truss’s authority ebbing, questions abound about how long she can cli
  - [https://www.nytimes.com/2022/10/15/world/asia/pakistan-floods-dadu-sindh.html](https://www.nytimes.com/2022/10/15/world/asia/pakistan-floods-dadu-sindh.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 13:45:39+00:00
- - tags: None
 
 Record-shattering flooding has submerged cemeteries across much of Pakistan. Now, with deaths from flood-related diseases mounting, families are struggling with where to bury loved ones.
 
@@ -44,7 +39,6 @@ Record-shattering flooding has submerged cemeteries across much of Pakistan. Now
  - [https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html](https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 11:25:20+00:00
- - tags: None
 
 In the southern state of Victoria, worst hit by the recent floods, officials warn that the danger will remain for weeks, with the ground already saturated.
 
@@ -52,7 +46,6 @@ In the southern state of Victoria, worst hit by the recent floods, officials war
  - [https://www.nytimes.com/2022/10/15/briefing/fall-wardrobe.html](https://www.nytimes.com/2022/10/15/briefing/fall-wardrobe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 10:21:57+00:00
- - tags: None
 
 As the seasons change and more people return to in-person work, figuring out what to wear can be a challenge.
 
@@ -60,7 +53,6 @@ As the seasons change and more people return to in-person work, figuring out wha
  - [https://www.nytimes.com/2022/10/15/world/canada/canada-indigenous-identity-pretendians.html](https://www.nytimes.com/2022/10/15/world/canada/canada-indigenous-identity-pretendians.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 10:00:02+00:00
- - tags: None
 
 Some Canadian universities now require additional proof to back up Indigenous heritage, replacing self-declaration policies.
 
@@ -68,7 +60,6 @@ Some Canadian universities now require additional proof to back up Indigenous he
  - [https://www.nytimes.com/2022/10/15/world/europe/ukraine-bucha-women-russia.html](https://www.nytimes.com/2022/10/15/world/europe/ukraine-bucha-women-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 09:51:21+00:00
- - tags: None
 
 New reporting illuminates the fortitude of three women — a former public servant, an animal lover, a grandmother — who were victims of Russian brutality.
 
@@ -76,7 +67,6 @@ New reporting illuminates the fortitude of three women — a former public serva
  - [https://www.nytimes.com/2022/10/15/world/asia/beijing-congress-security-covid.html](https://www.nytimes.com/2022/10/15/world/asia/beijing-congress-security-covid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 09:00:43+00:00
- - tags: None
 
 The authorities in China have arrested a million criminal suspects, curbed travel to Beijing to keep Covid out, and deployed an army of neighborhood monitors.
 
@@ -84,7 +74,6 @@ The authorities in China have arrested a million criminal suspects, curbed trave
  - [https://www.nytimes.com/2022/10/15/technology/peter-thiel-malta-citizenship.html](https://www.nytimes.com/2022/10/15/technology/peter-thiel-malta-citizenship.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 09:00:42+00:00
- - tags: None
 
 Obtaining citizenship in Malta would provide another passport for Mr. Thiel, who is one of the largest individual donors for the U.S. midterm elections.
 
@@ -92,7 +81,6 @@ Obtaining citizenship in Malta would provide another passport for Mr. Thiel, who
  - [https://www.nytimes.com/live/2022/10/15/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/15/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 07:54:19+00:00
- - tags: None
 
 The military package does not include an air defense system.
 
@@ -100,7 +88,6 @@ The military package does not include an air defense system.
  - [https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html](https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 05:44:52+00:00
- - tags: None
 
 The accident occurred in the northern province of Bartin. The country’s health minister said that 11 people were being treated.
 
@@ -108,7 +95,6 @@ The accident occurred in the northern province of Bartin. The country’s health
  - [https://www.nytimes.com/2022/10/15/world/europe/belarus-ukraine-war-russia.html](https://www.nytimes.com/2022/10/15/world/europe/belarus-ukraine-war-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 04:01:10+00:00
- - tags: None
 
 The country’s strongman, Aleksandr Lukashenko, finds himself in a bind. He survives with support from Russia, but entering the fight could be ‘political suicide.’
 
@@ -116,7 +102,6 @@ The country’s strongman, Aleksandr Lukashenko, finds himself in a bind. He sur
  - [https://www.nytimes.com/2022/10/14/world/europe/biden-ukraine-military-aid.html](https://www.nytimes.com/2022/10/14/world/europe/biden-ukraine-military-aid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 02:23:40+00:00
- - tags: None
 
 An air defense system is still not a part of the package, but that may be on the way soon.
 
@@ -124,6 +109,5 @@ An air defense system is still not a part of the package, but that may be on the
  - [https://www.nytimes.com/2022/10/14/world/europe/putin-military-draft-russia.html](https://www.nytimes.com/2022/10/14/world/europe/putin-military-draft-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-15 00:50:21+00:00
- - tags: None
 
 The Russian president said the draft should be completed within two weeks.

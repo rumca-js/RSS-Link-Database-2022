@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Opinion: Biden should have handled the relationship with the Saudis better from the start
  - [https://www.cnn.com/2022/10/09/opinions/opec-us-ties-saudi-arabia-uae-greenblatt/index.html](https://www.cnn.com/2022/10/09/opinions/opec-us-ties-saudi-arabia-uae-greenblatt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 22:29:15+00:00
- - tags: None
 
 After being offline for 25 hours observing Yom Kippur, I opened my phone, and the news reports flooded in. The most compelling story was OPEC+'s decision to reduce oil production significantly, which understandably caused much consternation in Washington.
 
@@ -12,7 +11,6 @@ After being offline for 25 hours observing Yom Kippur, I opened my phone, and th
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22#h_2a220453a14612d40fdf0416ff22a77d](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22#h_2a220453a14612d40fdf0416ff22a77d)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 19:01:52.288165+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ After being offline for 25 hours observing Yom Kippur, I opened my phone, and th
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-09-22#h_2a220453a14612d40fdf0416ff22a77d](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-10-09-22#h_2a220453a14612d40fdf0416ff22a77d)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 19:01:50.485033+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ After being offline for 25 hours observing Yom Kippur, I opened my phone, and th
  - [https://www.cnn.com/videos/politics/2022/10/09/saudi-arabia-chris-murphy-russia-weapons-oil-opec-sotu-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/09/saudi-arabia-chris-murphy-russia-weapons-oil-opec-sotu-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 17:52:31+00:00
- - tags: None
 
 Sen. Chris Murphy (D-CT) discusses the US relationship and dealings with Saudi Arabia after the Saudis sided with Russia and OPEC in restricting the number of oil barrels produced by the organization.
 
@@ -36,7 +32,6 @@ Sen. Chris Murphy (D-CT) discusses the US relationship and dealings with Saudi A
  - [https://www.cnn.com/2022/10/09/football/arsenal-liverpool-spt-intl/index.html](https://www.cnn.com/2022/10/09/football/arsenal-liverpool-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 17:51:37+00:00
- - tags: None
 
 It may just only be October, but it seems as if Liverpool's English Premier League title challenge could be all but over even before Halloween after Jurgen Klopp's men suffered a 3-2 defeat to Arsenal on Sunday.
 
@@ -44,7 +39,6 @@ It may just only be October, but it seems as if Liverpool's English Premier Leag
  - [https://www.cnn.com/videos/politics/2022/10/09/senator-tuberville-comments-reparations-crime-black-people-sotu-sot-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/09/senator-tuberville-comments-reparations-crime-black-people-sotu-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 17:38:13+00:00
- - tags: None
 
 Senator Tommy Tuberville (R-AL) addressed crime and reparations while speaking at a rally held by former President Trump in Minden, Nevada. CNN's Jake Tapper and the State of the Union panel discuss the senator's racially charged comments.
 
@@ -52,7 +46,6 @@ Senator Tommy Tuberville (R-AL) addressed crime and reparations while speaking a
  - [https://www.cnn.com/2022/10/09/europe/putin-russia-ukraine-security-council-intl/index.html](https://www.cnn.com/2022/10/09/europe/putin-russia-ukraine-security-council-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 17:11:13+00:00
- - tags: None
 
 Russian President Vladimir Putin will hold an operational meeting of his Security Council on Monday, just two days after a massive explosion on a key strategic bridge linking Crimea and Russia.
 
@@ -60,7 +53,6 @@ Russian President Vladimir Putin will hold an operational meeting of his Securit
  - [https://www.cnn.com/2022/10/09/sport/aaron-rodgers-packers-giants-london-nfl-spt-inl/index.html](https://www.cnn.com/2022/10/09/sport/aaron-rodgers-packers-giants-london-nfl-spt-inl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 17:00:31+00:00
- - tags: None
 
 A person wearing a cheese wedge on their head might seem odd to most, but when the Green Bay Packers are in town it's just part and parcel of game day.
 
@@ -68,7 +60,6 @@ A person wearing a cheese wedge on their head might seem odd to most, but when t
  - [https://www.cnn.com/2022/10/09/us/san-antonio-officer-named/index.html](https://www.cnn.com/2022/10/09/us/san-antonio-officer-named/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 16:56:40+00:00
- - tags: None
 
 • Video: Teen shot by police officer while eating in McDonald's parking lot
 
@@ -76,7 +67,6 @@ A person wearing a cheese wedge on their head might seem odd to most, but when t
  - [https://www.cnn.com/2022/10/09/politics/bill-richardson-paul-whelan-brittney-griner-cnntv/index.html](https://www.cnn.com/2022/10/09/politics/bill-richardson-paul-whelan-brittney-griner-cnntv/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 16:05:10+00:00
- - tags: None
 
 Former Gov. Bill Richardson said Sunday he is "cautiously optimistic" that two Americans wrongfully detained by Russia will be released and suggested they could be freed by the end of the year.
 
@@ -84,7 +74,6 @@ Former Gov. Bill Richardson said Sunday he is "cautiously optimistic" that two A
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/h_8db771e1d36cd22ac17b4f33c344c68a](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/h_8db771e1d36cd22ac17b4f33c344c68a)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 16:01:52.105246+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ Former Gov. Bill Richardson said Sunday he is "cautiously optimistic" that two A
  - [https://www.cnn.com/2022/10/09/us/hurricane-ian-central-florida-flood-insurance-invs/index.html](https://www.cnn.com/2022/10/09/us/hurricane-ian-central-florida-flood-insurance-invs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 15:18:54+00:00
- - tags: None
 
 • Opinion: Why Ian killed so many people
 • DeSantis and Biden's joint appearance has shifted Florida's governor race
@@ -101,7 +89,6 @@ Former Gov. Bill Richardson said Sunday he is "cautiously optimistic" that two A
  - [https://www.cnn.com/videos/world/2022/10/09/iran-television-hacked-bashir-ndwknd-vpx.cnn](https://www.cnn.com/videos/world/2022/10/09/iran-television-hacked-bashir-ndwknd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 14:45:06+00:00
- - tags: None
 
 Iran's state broadcaster IRINN (Islamic Republic of Iran News Network) was allegedly hacked during its nightly news program, according to the pro-reform IranWire outlet, which shared a clip of the hacking. CNN reporter Nada Bashir has more.
 
@@ -109,7 +96,6 @@ Iran's state broadcaster IRINN (Islamic Republic of Iran News Network) was alleg
  - [https://www.cnn.com/2022/10/09/opinions/biden-eye-opening-warning-weekly-column-galant/index.html](https://www.cnn.com/2022/10/09/opinions/biden-eye-opening-warning-weekly-column-galant/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 13:27:34+00:00
- - tags: None
 
 "Can you tell me where we're headin'?" Bob Dylan asks in his 1978 song "Señor."
 
@@ -117,7 +103,6 @@ Iran's state broadcaster IRINN (Islamic Republic of Iran News Network) was alleg
  - [https://www.cnn.com/travel/article/stanley-tucci-zeppole-recipe-wellness-origseriesfilms/index.html](https://www.cnn.com/travel/article/stanley-tucci-zeppole-recipe-wellness-origseriesfilms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 12:14:02+00:00
- - tags: None
 
 For the Tucci family, a feast is not complete without one Italian staple. Zeppole are deep-fried doughnuts that Stanley Tucci calls "addictively delicious."
 
@@ -125,7 +110,6 @@ For the Tucci family, a feast is not complete without one Italian staple. Zeppol
  - [https://www.cnn.com/2022/10/09/football/erling-haaland-manchester-city-records-spt-intl/index.html](https://www.cnn.com/2022/10/09/football/erling-haaland-manchester-city-records-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 11:48:37+00:00
- - tags: None
 
 
 
@@ -133,7 +117,6 @@ For the Tucci family, a feast is not complete without one Italian staple. Zeppol
  - [https://www.cnn.com/videos/business/2022/10/03/4-day-work-week-job-challenge-risk-takers-orig.cnn-business](https://www.cnn.com/videos/business/2022/10/03/4-day-work-week-job-challenge-risk-takers-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 10:56:00+00:00
- - tags: None
 
 The pandemic has turbocharged the search for new ways of working. These companies are taking the lead in testing out a four-day work week and their experience might surprise you.
 
@@ -141,7 +124,6 @@ The pandemic has turbocharged the search for new ways of working. These companie
  - [https://www.cnn.com/videos/travel/2022/09/28/stanley-tucci-searching-for-italy-nduja-calabria-origseriesfilms.cnn](https://www.cnn.com/videos/travel/2022/09/28/stanley-tucci-searching-for-italy-nduja-calabria-origseriesfilms.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 10:54:49+00:00
- - tags: None
 
 While in Calabria, Stanley Tucci tried nduja, a spicy Italian sausage, in crème brûlée. All-new episodes of "Stanley Tucci: Searching for Italy" air Sundays at 9 p.m. ET on CNN.
 
@@ -149,7 +131,6 @@ While in Calabria, Stanley Tucci tried nduja, a spicy Italian sausage, in crème
  - [https://www.cnn.com/2022/10/09/sport/giants-packers-week-5-nfl-preview-spt-intl/index.html](https://www.cnn.com/2022/10/09/sport/giants-packers-week-5-nfl-preview-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 09:35:42+00:00
- - tags: None
 
 American football is back in London for the second week in a row.
 
@@ -157,7 +138,6 @@ American football is back in London for the second week in a row.
  - [https://www.cnn.com/2022/10/09/motorsport/max-verstappen-japanese-grand-prix-spt-intl/index.html](https://www.cnn.com/2022/10/09/motorsport/max-verstappen-japanese-grand-prix-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 09:08:42+00:00
- - tags: None
 
 Max Verstappen was crowned Formula One world champion in bizarre circumstances following a dominant victory at the Japanese Grand Prix on Sunday.
 
@@ -165,7 +145,6 @@ Max Verstappen was crowned Formula One world champion in bizarre circumstances f
  - [https://www.cnn.com/2022/10/09/australia/picasso-climate-protesters-intl/index.html](https://www.cnn.com/2022/10/09/australia/picasso-climate-protesters-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 08:19:38+00:00
- - tags: None
 
 Two climate activists with Extinction Rebellion were arrested Sunday after gluing themselves to a Picasso painting at the National Gallery of Victoria in Melbourne.
 
@@ -173,7 +152,6 @@ Two climate activists with Extinction Rebellion were arrested Sunday after gluin
  - [https://www.cnn.com/videos/media/2022/10/09/snl-recap-brendan-gleeson-collin-farrell-little-mermaid-mgw-orig.cnn](https://www.cnn.com/videos/media/2022/10/09/snl-recap-brendan-gleeson-collin-farrell-little-mermaid-mgw-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 08:08:40+00:00
- - tags: None
 
 Watch some of Brendan Gleeson's best moments from "Saturday Night Live." Including an appearance from Collin Farrell, a "Please Don't Destroy" short and an appearance from the new Ariel.
 
@@ -181,7 +159,6 @@ Watch some of Brendan Gleeson's best moments from "Saturday Night Live." Includi
  - [https://www.cnn.com/collections/nk-missiles-intl-100922/](https://www.cnn.com/collections/nk-missiles-intl-100922/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 08:03:37+00:00
- - tags: None
 
 
 
@@ -189,7 +166,6 @@ Watch some of Brendan Gleeson's best moments from "Saturday Night Live." Includi
  - [https://www.cnn.com/2022/10/08/world/julia-category-1-hurricane/index.html](https://www.cnn.com/2022/10/08/world/julia-category-1-hurricane/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 08:02:32+00:00
- - tags: None
 
 Hurricane Julia made landfall in Nicaragua early Sunday as a Category 1 storm, the National Hurricane Center said.
 
@@ -197,7 +173,6 @@ Hurricane Julia made landfall in Nicaragua early Sunday as a Category 1 storm, t
  - [https://www.cnn.com/2022/10/09/europe/russia-draft-dodgers-kazakhstan-intl-hnk/index.html](https://www.cnn.com/2022/10/09/europe/russia-draft-dodgers-kazakhstan-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 06:02:30+00:00
- - tags: None
 
 Vadim says he plunged into depression last month after Russian President Vladimir Putin announced a military draft to send hundreds of thousands of conscripts to fight in Ukraine.
 
@@ -205,7 +180,6 @@ Vadim says he plunged into depression last month after Russian President Vladimi
  - [https://www.cnn.com/2022/10/09/china/hong-kong-teenagers-national-security-intl-hnk/index.html](https://www.cnn.com/2022/10/09/china/hong-kong-teenagers-national-security-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 05:15:00+00:00
- - tags: None
 
 Five teenagers with a Hong Kong group advocating independence from Chinese rule were ordered by a judge on Saturday to serve up to three years in detention at a correctional facility, for urging an "armed revolution" in a national security case.
 
@@ -213,7 +187,6 @@ Five teenagers with a Hong Kong group advocating independence from Chinese rule 
  - [https://www.cnn.com/2022/10/09/middleeast/iran-state-broadcaster-hacked-intl-hnk/index.html](https://www.cnn.com/2022/10/09/middleeast/iran-state-broadcaster-hacked-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 04:41:58+00:00
- - tags: None
 
 An Iranian state broadcaster was allegedly hacked during its nightly news program Saturday, according to the pro-reform IranWire outlet, which shared a clip of the incident.
 
@@ -221,7 +194,6 @@ An Iranian state broadcaster was allegedly hacked during its nightly news progra
  - [https://cnn.it/3efmUDR](https://cnn.it/3efmUDR)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 02:01:47.521057+00:00
- - tags: None
 
 
 
@@ -229,7 +201,6 @@ An Iranian state broadcaster was allegedly hacked during its nightly news progra
  - [https://www.cnn.com/videos/politics/2022/10/08/michael-fanone-new-book-jan-6-gop-conversations-dlt-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/08/michael-fanone-new-book-jan-6-gop-conversations-dlt-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 01:09:40+00:00
- - tags: None
 
 In his new book, "Hold the Line," former DC Metropolitan Police Officer Michael Fanone details his conversations with GOP leaders after the insurrection at the US Capitol. He joins CNN's Don Lemon to discuss.
 
@@ -237,7 +208,6 @@ In his new book, "Hold the Line," former DC Metropolitan Police Officer Michael 
  - [https://www.cnn.com/2022/10/08/entertainment/kanye-west-instagram/index.html](https://www.cnn.com/2022/10/08/entertainment/kanye-west-instagram/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 00:28:43+00:00
- - tags: None
 
 After being suspended by Meta on Friday, Kanye West posted on Twitter for the first time in nearly two years -- a move celebrated by Elon Musk, who is in the process of buying the social media network.
 
@@ -245,7 +215,6 @@ After being suspended by Meta on Friday, Kanye West posted on Twitter for the fi
  - [https://www.cnn.com/2022/10/08/world/violent-weekend-west-bank/index.html](https://www.cnn.com/2022/10/08/world/violent-weekend-west-bank/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 00:16:26+00:00
- - tags: None
 
 Three Israelis were wounded, one critically, during a shooting at a checkpoint in North Jerusalem on Saturday, Israeli police said on Twitter.
 
@@ -253,6 +222,5 @@ Three Israelis were wounded, one critically, during a shooting at a checkpoint i
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 00:15:40+00:00
- - tags: None
 
 

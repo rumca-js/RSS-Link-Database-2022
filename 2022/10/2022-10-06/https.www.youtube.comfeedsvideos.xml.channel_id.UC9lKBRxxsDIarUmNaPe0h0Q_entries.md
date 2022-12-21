@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## It's HERE: the financial crash of a generation (has already begun)
  - [https://www.youtube.com/watch?v=7UXwCa22CsM](https://www.youtube.com/watch?v=7UXwCa22CsM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-10-06 15:00:42+00:00
- - tags: None
 
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/
 📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/

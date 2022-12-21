@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Marvel's Midnight Suns is getting Deadpool, Venom, and more as DLC
  - [https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc](https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 22:46:13+00:00
- - tags: None
 
 The game will also see the addition of Storm from X-Men and Dr. Michael Morbius, the Living Vampire.
 
@@ -12,7 +11,6 @@ The game will also see the addition of Storm from X-Men and Dr. Michael Morbius,
  - [https://www.pcgamer.com/henry-cavill-seems-to-be-treating-total-war-warhammer-3-like-a-part-time-job](https://www.pcgamer.com/henry-cavill-seems-to-be-treating-total-war-warhammer-3-like-a-part-time-job)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 21:35:52+00:00
- - tags: None
 
 Nobody wrote about me when I was playing more than four hours a day of Pathfinder: Wrath of the Righteous…
 
@@ -20,7 +18,6 @@ Nobody wrote about me when I was playing more than four hours a day of Pathfinde
  - [https://www.pcgamer.com/people-are-spending-dollar40-on-black-market-modern-warfare-2-burger-king-skins](https://www.pcgamer.com/people-are-spending-dollar40-on-black-market-modern-warfare-2-burger-king-skins)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 21:00:54+00:00
- - tags: None
 
 Desperate Call of Duty fans are going above and beyond for a mustachioed Burger Town operator.
 
@@ -28,7 +25,6 @@ Desperate Call of Duty fans are going above and beyond for a mustachioed Burger 
  - [https://www.pcgamer.com/snag-6-months-of-geforce-now-priority-access-for-only-dollar30](https://www.pcgamer.com/snag-6-months-of-geforce-now-priority-access-for-only-dollar30)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 21:00:50+00:00
- - tags: None
 
 Stream all your favorite games in 1080p at 60 fps on about any device.
 
@@ -36,7 +32,6 @@ Stream all your favorite games in 1080p at 60 fps on about any device.
  - [https://www.pcgamer.com/bungie-responds-to-player-complaints-over-weapon-crafting-grind](https://www.pcgamer.com/bungie-responds-to-player-complaints-over-weapon-crafting-grind)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 19:40:50+00:00
- - tags: None
 
 'Red box' drops will become less common, but new ways to earn materials should ease the tedium of leveling up guns.
 
@@ -44,7 +39,6 @@ Stream all your favorite games in 1080p at 60 fps on about any device.
  - [https://www.pcgamer.com/war-sometimes-changes-heres-a-free-lego-fallout-game](https://www.pcgamer.com/war-sometimes-changes-heres-a-free-lego-fallout-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 19:25:59+00:00
- - tags: None
 
 Created by YouTuber and developer ThrillDaWill, it's got it all: the wasteland, VATS, stimpacks, raiders, and even a Fat Man.
 
@@ -52,7 +46,6 @@ Created by YouTuber and developer ThrillDaWill, it's got it all: the wasteland, 
  - [https://www.pcgamer.com/steam-decks-new-ui-is-finally-coming-to-desktop-big-picture-mode](https://www.pcgamer.com/steam-decks-new-ui-is-finally-coming-to-desktop-big-picture-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 19:25:02+00:00
- - tags: None
 
 The revamped Big Picture is available for testing right now.
 
@@ -60,7 +53,6 @@ The revamped Big Picture is available for testing right now.
  - [https://www.pcgamer.com/the-fantastic-sound-of-destinys-new-anime-sniper-rifle-was-years-in-the-making](https://www.pcgamer.com/the-fantastic-sound-of-destinys-new-anime-sniper-rifle-was-years-in-the-making)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 19:11:20+00:00
- - tags: None
 
 In a game positively stuffed with sniper rifles, it takes a lot to stand out.
 
@@ -68,7 +60,6 @@ In a game positively stuffed with sniper rifles, it takes a lot to stand out.
  - [https://www.pcgamer.com/renowned-sega-developer-rieko-kodama-dies-at-58](https://www.pcgamer.com/renowned-sega-developer-rieko-kodama-dies-at-58)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 19:04:23+00:00
- - tags: None
 
 Kodama inspired female developers and gamers all over the world.
 
@@ -76,7 +67,6 @@ Kodama inspired female developers and gamers all over the world.
  - [https://www.pcgamer.com/fortnite-jack-o-lantern-locations](https://www.pcgamer.com/fortnite-jack-o-lantern-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 16:45:12+00:00
- - tags: None
 
 Destroy them with a ranged weapon for a Fortnitemares quest.
 
@@ -84,7 +74,6 @@ Destroy them with a ranged weapon for a Fortnitemares quest.
  - [https://www.pcgamer.com/magic-steps-back-in-time-for-the-new-brothers-war-set](https://www.pcgamer.com/magic-steps-back-in-time-for-the-new-brothers-war-set)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 16:45:01+00:00
- - tags: None
 
 Teferi projects to the past to watch brothers Urza and Mishra throw down
 
@@ -92,7 +81,6 @@ Teferi projects to the past to watch brothers Urza and Mishra throw down
  - [https://www.pcgamer.com/moonbreakers-latest-update-completely-ditches-microtransactions](https://www.pcgamer.com/moonbreakers-latest-update-completely-ditches-microtransactions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 16:02:41+00:00
- - tags: None
 
 Break the moon, not the bank.
 
@@ -100,7 +88,6 @@ Break the moon, not the bank.
  - [https://www.pcgamer.com/cpu-cooling-company-definitely-doesnt-recommend-adding-salt-to-your-thermal-paste](https://www.pcgamer.com/cpu-cooling-company-definitely-doesnt-recommend-adding-salt-to-your-thermal-paste)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 16:01:56+00:00
- - tags: None
 
 This may be the only case where adding a pinch of salt isn’t recommended.
 
@@ -108,7 +95,6 @@ This may be the only case where adding a pinch of salt isn’t recommended.
  - [https://www.pcgamer.com/win-a-custom-hyperx-cloud-alpha-s-gaming-headset-courtesy-of-have-a-nice-death](https://www.pcgamer.com/win-a-custom-hyperx-cloud-alpha-s-gaming-headset-courtesy-of-have-a-nice-death)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 16:00:00+00:00
- - tags: None
 
 To enter this spooky giveaway, head on over to the PC Gamer forums.
 
@@ -116,7 +102,6 @@ To enter this spooky giveaway, head on over to the PC Gamer forums.
  - [https://www.pcgamer.com/elon-musk-explains-why-he-bought-twitter-says-ads-are-great-actually](https://www.pcgamer.com/elon-musk-explains-why-he-bought-twitter-says-ads-are-great-actually)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 15:49:55+00:00
- - tags: None
 
 It's all traditional media's fault.
 
@@ -124,7 +109,6 @@ It's all traditional media's fault.
  - [https://www.pcgamer.com/alien-isolation-mod-adds-four-more-aliens-for-some-reason](https://www.pcgamer.com/alien-isolation-mod-adds-four-more-aliens-for-some-reason)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 15:45:44+00:00
- - tags: None
 
 If it wasn't scary enough.
 
@@ -132,7 +116,6 @@ If it wasn't scary enough.
  - [https://www.pcgamer.com/nvidia-rtx-4090-stable-diffusion-training-aharon-kahana](https://www.pcgamer.com/nvidia-rtx-4090-stable-diffusion-training-aharon-kahana)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 15:31:40+00:00
- - tags: None
 
 And I haven't burned the house down yet.
 
@@ -140,7 +123,6 @@ And I haven't burned the house down yet.
  - [https://www.pcgamer.com/gotham-knights-first-big-patch-removes-denuvo](https://www.pcgamer.com/gotham-knights-first-big-patch-removes-denuvo)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 14:26:40+00:00
- - tags: None
 
 But no performance improvements yet.
 
@@ -148,7 +130,6 @@ But no performance improvements yet.
  - [https://www.pcgamer.com/how-many-call-of-duty-cod-mw2-campaign-missions-list](https://www.pcgamer.com/how-many-call-of-duty-cod-mw2-campaign-missions-list)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 14:23:58+00:00
- - tags: None
 
 Here's the MW2 missions list.
 
@@ -156,7 +137,6 @@ Here's the MW2 missions list.
  - [https://www.pcgamer.com/vampire-survivors-review](https://www.pcgamer.com/vampire-survivors-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 14:23:57+00:00
- - tags: None
 
 An engrossing roguelike that can win over the roguelike-avoidant.
 
@@ -164,7 +144,6 @@ An engrossing roguelike that can win over the roguelike-avoidant.
  - [https://www.pcgamer.com/razer-deathadder-v3-pro-review](https://www.pcgamer.com/razer-deathadder-v3-pro-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 14:04:16+00:00
- - tags: None
 
 The legend continues in a leaner, meaner, more focused death-dealing machine.
 
@@ -172,7 +151,6 @@ The legend continues in a leaner, meaner, more focused death-dealing machine.
  - [https://www.pcgamer.com/george-rr-martin-cant-play-elden-ring-because-people-seem-to-want-this-winds-of-winter-book](https://www.pcgamer.com/george-rr-martin-cant-play-elden-ring-because-people-seem-to-want-this-winds-of-winter-book)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 13:37:02+00:00
- - tags: None
 
 The Winds of Winter or, as I like to think of it, literature's Duke Nukem Forever
 
@@ -180,7 +158,6 @@ The Winds of Winter or, as I like to think of it, literature's Duke Nukem Foreve
  - [https://www.pcgamer.com/noblechairs-overclockers-custom-printed-gaming-chairs](https://www.pcgamer.com/noblechairs-overclockers-custom-printed-gaming-chairs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 13:22:43+00:00
- - tags: None
 
 Pairing with Overlockers UK, Noblechairs has given maybe too much power to the people.
 
@@ -188,7 +165,6 @@ Pairing with Overlockers UK, Noblechairs has given maybe too much power to the p
  - [https://www.pcgamer.com/ai-generated-stable-diffusion-vr-dev-interview-scottie-fox](https://www.pcgamer.com/ai-generated-stable-diffusion-vr-dev-interview-scottie-fox)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 11:42:35+00:00
- - tags: None
 
 Here's what inspired Scottie Fox to start this immersive AI tool, and where it might be going in the future.
 
@@ -196,7 +172,6 @@ Here's what inspired Scottie Fox to start this immersive AI tool, and where it m
  - [https://www.pcgamer.com/fortnite-jelly-beans-gain-shields-quest](https://www.pcgamer.com/fortnite-jelly-beans-gain-shields-quest)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 11:26:17+00:00
- - tags: None
 
 The latest Fortnitemares quest is here.
 
@@ -204,7 +179,6 @@ The latest Fortnitemares quest is here.
  - [https://www.pcgamer.com/multiversus-has-delayed-black-adams-release](https://www.pcgamer.com/multiversus-has-delayed-black-adams-release)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 11:15:49+00:00
- - tags: None
 
 He's not done cookin' just yet.
 
@@ -212,7 +186,6 @@ He's not done cookin' just yet.
  - [https://www.pcgamer.com/callisto-protocol-cancelled-in-japan-after-devs-refuse-to-make-ratings-board-changes](https://www.pcgamer.com/callisto-protocol-cancelled-in-japan-after-devs-refuse-to-make-ratings-board-changes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 11:14:27+00:00
- - tags: None
 
 Japanese regulators have CERO patience for gore.
 
@@ -220,7 +193,6 @@ Japanese regulators have CERO patience for gore.
  - [https://www.pcgamer.com/meta-will-launch-next-generation-quest-vr-headset-next-year](https://www.pcgamer.com/meta-will-launch-next-generation-quest-vr-headset-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 10:14:54+00:00
- - tags: None
 
 Let's tentatively call it the Meta Quest 3.
 
@@ -228,7 +200,6 @@ Let's tentatively call it the Meta Quest 3.
  - [https://www.pcgamer.com/wordle-today-495-answer-hint](https://www.pcgamer.com/wordle-today-495-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 07:01:28+00:00
- - tags: None
 
 The solution and a hint for Thursday's Wordle.
 
@@ -236,7 +207,6 @@ The solution and a hint for Thursday's Wordle.
  - [https://www.pcgamer.com/in-this-survival-game-youre-the-doomed-scientists-left-behind-when-everything-goes-wrong](https://www.pcgamer.com/in-this-survival-game-youre-the-doomed-scientists-left-behind-when-everything-goes-wrong)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 03:54:53+00:00
- - tags: None
 
 Alien invasion is only the beginning of your problems in Abiotic Factor.
 
@@ -244,7 +214,6 @@ Alien invasion is only the beginning of your problems in Abiotic Factor.
  - [https://www.pcgamer.com/microsofts-award-winning-adaptive-controller-was-nearly-cut-from-funding](https://www.pcgamer.com/microsofts-award-winning-adaptive-controller-was-nearly-cut-from-funding)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 02:10:59+00:00
- - tags: None
 
 Massive thanks to the individuals who fought for this, from us and likely also Microsoft.
 
@@ -252,6 +221,5 @@ Massive thanks to the individuals who fought for this, from us and likely also M
  - [https://www.pcgamer.com/5-exciting-city-builders-coming-out-before-the-end-of-2022](https://www.pcgamer.com/5-exciting-city-builders-coming-out-before-the-end-of-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-27 00:29:01+00:00
- - tags: None
 
 2022 is almost over, but city builder fans have a lot to look forward to over the next two months.

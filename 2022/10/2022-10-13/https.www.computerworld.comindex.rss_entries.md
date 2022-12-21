@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## How will Meta handle a dose of Apple Reality?
  - [https://www.computerworld.com/article/3676633/how-will-meta-handle-a-dose-of-apple-reality.html#tk.rss_all](https://www.computerworld.com/article/3676633/how-will-meta-handle-a-dose-of-apple-reality.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-13 15:55:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3676828/office-to-be-rebranded-microsoft-365.html#tk.rss_all](https://www.computerworld.com/article/3676828/office-to-be-rebranded-microsoft-365.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-13 15:47:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3676631/the-microsoft-cisco-teams-collaboration-could-create-an-interoperability-revolution.html#tk.rss_all](https://www.computerworld.com/article/3676631/the-microsoft-cisco-teams-collaboration-could-create-an-interoperability-revolution.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-13 12:09:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3676591/would-a-us-digital-dollar-let-the-government-track-you.html#tk.rss_all](https://www.computerworld.com/article/3676591/would-a-us-digital-dollar-let-the-government-track-you.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-13 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

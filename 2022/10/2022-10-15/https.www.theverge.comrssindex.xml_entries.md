@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Elon Musk says Starlink will keep funding Ukraine’s government ‘for free’ despite losing money
  - [https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money](https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 22:37:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/zP64PciwoH1c5viQZh9SPQR6ImE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71500593/STK171_VRG_Illo_13_Normand_ElonMusk_13.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/10/15/23406061/apple-ipad-smart-display-speaker-dock-accessory-rumors](https://www.theverge.com/2022/10/15/23406061/apple-ipad-smart-display-speaker-dock-accessory-rumors)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 19:01:03+00:00
- - tags: None
 
 <figure>
       <img alt="Apple’s 2022 iPad Air" src="https://cdn.vox-cdn.com/thumbor/nGAFhvXXp76S6_gPFUAq2R84gCc=/15x169:1802x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71499938/akrales_220314_5071_0429.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/10/15/23392481/razer-edge-android-cloud-gaming-tablet-qualcomm-price-release-date-specs](https://www.theverge.com/2022/10/15/23392481/razer-edge-android-cloud-gaming-tablet-qualcomm-price-release-date-specs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Razer’s Edge Android gaming tablet fitting snug within the Kishi V2 Pro game controller." src="https://cdn.vox-cdn.com/thumbor/zu998gNJTp58JrCeapkz_3xK9NI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71499748/razeredgehero.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/10/15/23392485/razer-hammerhead-hyperspeed-noise-canceling-wireless-earbuds-xbox-playstation](https://www.theverge.com/2022/10/15/23392485/razer-hammerhead-hyperspeed-noise-canceling-wireless-earbuds-xbox-playstation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Razer’s Hammerhead HyperSpeed wireless earbuds sitting outside of their charging case next to the included USB-C audio transmitter." src="https://cdn.vox-cdn.com/thumbor/-KHsVCGev5cDVR0sRwlWWtVvqvQ=/0x0:4505x3003/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71499759/hammerheadhyperspeedXB2.0.jpg" />
@@ -53,7 +49,6 @@
  - [https://www.theverge.com/2022/10/15/23404391/minecraft-live-2022-news-announcements](https://www.theverge.com/2022/10/15/23404391/minecraft-live-2022-news-announcements)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 17:25:10+00:00
- - tags: None
 
 <figure>
       <img alt="Art for the Minecraft Dungeons Halloween update." src="https://cdn.vox-cdn.com/thumbor/2E7zYC1Kf3u7S6i2cCAtahzi8qw=/1147x0:7366x4146/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71499660/Minecraft_Dungeons_Halloween.0.jpg" />
@@ -66,7 +61,6 @@
  - [https://www.theverge.com/2022/10/15/23405811/meta-horizon-worlds-losing-users-report](https://www.theverge.com/2022/10/15/23405811/meta-horizon-worlds-losing-users-report)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 16:56:55+00:00
- - tags: None
 
 <figure>
       <img alt="Mark Zuckerberg’s avatar with legs in Horizon Worlds" src="https://cdn.vox-cdn.com/thumbor/nDzHwKwOnu-cxcrDst7wTPOjgag=/106x0:771x443/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71499566/legs.0.png" />
@@ -79,7 +73,6 @@
  - [https://www.theverge.com/2022/10/15/23404763/google-pixel-6-phone-amazon-echo-dot-fifth-gen-apple-tv-4k-razer-seiren-mini-microphone-deal-sale](https://www.theverge.com/2022/10/15/23404763/google-pixel-6-phone-amazon-echo-dot-fifth-gen-apple-tv-4k-razer-seiren-mini-microphone-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 13:34:06+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the home screen of the Google Pixel 6" src="https://cdn.vox-cdn.com/thumbor/y4rLIr21QvPLCm2orM12OBc51GM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71498907/akrales_211022_4802_0822.0.jpg" />
@@ -92,7 +85,6 @@
  - [https://www.theverge.com/2022/10/15/23404275/ugmonk-gather-desk-accessories-jeff-sheldon](https://www.theverge.com/2022/10/15/23404275/ugmonk-gather-desk-accessories-jeff-sheldon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Ugmonk founder Jeff Sheldon sits at his desk in front of a window." src="https://cdn.vox-cdn.com/thumbor/Qjo-iz10lsKUIfABfwQJuwTE6bw=/0x2:8192x5463/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71498897/9N3A9760.0.jpeg" />
@@ -106,7 +98,6 @@
  - [https://www.theverge.com/23385553/abortion-seekers-security-threats-human-factor](https://www.theverge.com/23385553/abortion-seekers-security-threats-human-factor)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A cartoon illustration showing two hands opening a pill pack, with two of the pills styled to look like spying eyes." src="https://cdn.vox-cdn.com/thumbor/e8BcLAGz3zhz7mtBRjg_jHj-TCs=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71498759/5_vincentkilbride_theverge_cybersecurity.0.jpg" />
@@ -119,7 +110,6 @@
  - [https://www.theverge.com/2022/10/15/23405389/att-illinois-23-million-investigation-bribe-corruption](https://www.theverge.com/2022/10/15/23405389/att-illinois-23-million-investigation-bribe-corruption)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 12:32:58+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the AT&amp;amp;T logo on a dark blue background." src="https://cdn.vox-cdn.com/thumbor/YlAalUkU0tS9O7YoJw5mVDzZCr0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71498669/acastro_180322_1777_0001.0.jpg" />
@@ -132,7 +122,6 @@
  - [https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-15 01:24:06+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration depicting several Apple logos on a lime green background." src="https://cdn.vox-cdn.com/thumbor/PqOYL8lyxTbyKycprCj3rsuKUJY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71497725/VRG_Illo_5258_K_Radtke_WWDC.0.jpg" />

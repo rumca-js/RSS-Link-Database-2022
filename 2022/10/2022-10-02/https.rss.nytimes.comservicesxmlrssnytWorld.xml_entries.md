@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Nord Stream Pipelines Have Stopped Leaking After Earlier Damage
  - [https://www.nytimes.com/2022/10/02/world/europe/nord-stream-pipeline-damage-russia.html](https://www.nytimes.com/2022/10/02/world/europe/nord-stream-pipeline-damage-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 23:37:12+00:00
- - tags: None
 
 Both European and Russian leaders have said that ruptures discovered undersea were an act of sabotage.
 
@@ -12,7 +11,6 @@ Both European and Russian leaders have said that ruptures discovered undersea we
  - [https://www.nytimes.com/2022/10/02/world/americas/brazilians-face-radically-opposite-choices-as-they-vote-for-their-next-president.html](https://www.nytimes.com/2022/10/02/world/americas/brazilians-face-radically-opposite-choices-as-they-vote-for-their-next-president.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 23:36:05+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Both European and Russian leaders have said that ruptures discovered undersea we
  - [https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html](https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 22:00:07+00:00
- - tags: None
 
 A major Russian newspaper said the Russian troops, facing defeat in Lyman, had fled with “empty eyes” after barely escaping with their lives.
 
@@ -28,7 +25,6 @@ A major Russian newspaper said the Russian troops, facing defeat in Lyman, had f
  - [https://www.nytimes.com/2022/10/02/world/europe/nine-european-nations-express-support-for-ukraines-bid-for-nato-membership.html](https://www.nytimes.com/2022/10/02/world/europe/nine-european-nations-express-support-for-ukraines-bid-for-nato-membership.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 21:42:55+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ A major Russian newspaper said the Russian troops, facing defeat in Lyman, had f
  - [https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html](https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 21:04:17+00:00
- - tags: None
 
 Plus Brazil votes in national elections and China wrestles with Covid fatigue.
 
@@ -44,7 +39,6 @@ Plus Brazil votes in national elections and China wrestles with Covid fatigue.
  - [https://www.nytimes.com/2022/10/02/world/americas/if-bolsonaro-disputes-a-loss-some-supporters-are-ready-to-take-to-the-streets.html](https://www.nytimes.com/2022/10/02/world/americas/if-bolsonaro-disputes-a-loss-some-supporters-are-ready-to-take-to-the-streets.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 20:30:03+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Plus Brazil votes in national elections and China wrestles with Covid fatigue.
  - [https://www.nytimes.com/2022/10/02/world/europe/putin-russia-donetsk-lyman.html](https://www.nytimes.com/2022/10/02/world/europe/putin-russia-donetsk-lyman.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 19:55:15+00:00
- - tags: None
 
 Russia’s president decreed on Friday that four regions of Ukraine including Donetsk, where Lyman is located, would be absorbed into Russia.
 
@@ -60,7 +53,6 @@ Russia’s president decreed on Friday that four regions of Ukraine including Do
  - [https://www.nytimes.com/article/orlene-hurricane.html](https://www.nytimes.com/article/orlene-hurricane.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 19:04:17+00:00
- - tags: None
 
 Orlene, a Category 3 storm, could bring as much as 14 inches of rain to some areas, forecasters said.
 
@@ -68,7 +60,6 @@ Orlene, a Category 3 storm, could bring as much as 14 inches of rain to some are
  - [https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html](https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 18:57:20+00:00
- - tags: None
 
 In Monday’s election, residents of a town that was once a stronghold of the independence movement are expected to back the province’s popular premier, who has embraced a nationalism based on French Québécois identity.
 
@@ -76,7 +67,6 @@ In Monday’s election, residents of a town that was once a stronghold of the in
  - [https://www.nytimes.com/2022/10/02/world/europe/a-soldier-and-civilian-are-treated-side-by-side-at-a-field-hospital-in-the-south.html](https://www.nytimes.com/2022/10/02/world/europe/a-soldier-and-civilian-are-treated-side-by-side-at-a-field-hospital-in-the-south.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 18:08:25+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ In Monday’s election, residents of a town that was once a stronghold of the in
  - [https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html](https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 17:20:46+00:00
- - tags: None
 
 Witnesses said officers fired tear gas indiscriminately into the stands, causing a stampede that led to at least 125 deaths.
 
@@ -92,7 +81,6 @@ Witnesses said officers fired tear gas indiscriminately into the stands, causing
  - [https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html](https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 14:46:41+00:00
- - tags: None
 
 The case, involving a billionaire entrepreneur, riveted observers in China, where women alleging sexual wrongdoing by powerful men are often pilloried, silenced or both.
 
@@ -100,7 +88,6 @@ The case, involving a billionaire entrepreneur, riveted observers in China, wher
  - [https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html](https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 14:44:46+00:00
- - tags: None
 
 Capt. Ibrahim Traoré, who announced a coup on Friday, was greeted by dozens of protesters in the capital, Ouagadougou. Many of them said they wanted Russia to help the country tackle a security crisis.
 
@@ -108,7 +95,6 @@ Capt. Ibrahim Traoré, who announced a coup on Friday, was greeted by dozens of 
  - [https://www.nytimes.com/2022/10/02/world/asia/police-indonesia-soccer.html](https://www.nytimes.com/2022/10/02/world/asia/police-indonesia-soccer.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 13:13:11+00:00
- - tags: None
 
 This is not the first time this year that the sport has had to confront the reality that tragedies often result from failures of policing, security and crowd management.
 
@@ -116,7 +102,6 @@ This is not the first time this year that the sport has had to confront the real
  - [https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election](https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 12:54:38+00:00
- - tags: None
 
 The far-right president, Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.
 
@@ -124,7 +109,6 @@ The far-right president, Jair Bolsonaro has questioned the integrity of Sunday�
  - [https://www.nytimes.com/2022/10/02/world/asia/survivor-stories-indonesia-stadium.html](https://www.nytimes.com/2022/10/02/world/asia/survivor-stories-indonesia-stadium.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 12:16:23+00:00
- - tags: None
 
 Dozens of people sat on mats with bags of fruit and bottles of water waiting for their relatives’ name to be called.
 
@@ -132,7 +116,6 @@ Dozens of people sat on mats with bags of fruit and bottles of water waiting for
  - [https://www.nytimes.com/2022/10/01/world/europe/zelensky-says-his-forces-will-recapture-more-towns-after-lyman.html](https://www.nytimes.com/2022/10/01/world/europe/zelensky-says-his-forces-will-recapture-more-towns-after-lyman.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 12:10:14+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ Dozens of people sat on mats with bags of fruit and bottles of water waiting for
  - [https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html](https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 11:42:03+00:00
- - tags: None
 
 Kwasi Kwarteng, the chancellor of the Exchequer, faces widespread anger over the tax cuts he and Liz Truss have pushed, but their history of dismissing the economic establishment goes back years.
 
@@ -148,7 +130,6 @@ Kwasi Kwarteng, the chancellor of the Exchequer, faces widespread anger over the
  - [https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html](https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 11:34:52+00:00
- - tags: None
 
 Brazil votes for president today. Jack Nicas, the bureau chief there, explains what’s at stake.
 
@@ -156,7 +137,6 @@ Brazil votes for president today. Jack Nicas, the bureau chief there, explains w
  - [https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html](https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 09:31:14+00:00
- - tags: None
 
 One witness said most of the victims were people trapped in the stands, not those on the field. Without tear gas “there would have not been any casualties,” he said.
 
@@ -164,7 +144,6 @@ One witness said most of the victims were people trapped in the stands, not thos
  - [https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html](https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 09:30:08+00:00
- - tags: None
 
 Violent confrontations in Leicester have prompted soul searching in an area long heralded as a success story of diversity and integration among its large Indian diaspora.
 
@@ -172,7 +151,6 @@ Violent confrontations in Leicester have prompted soul searching in an area long
  - [https://www.nytimes.com/2022/10/02/world/europe/russia-has-detained-the-zaporizhzhia-nuclear-plants-director-general-its-operator-says.html](https://www.nytimes.com/2022/10/02/world/europe/russia-has-detained-the-zaporizhzhia-nuclear-plants-director-general-its-operator-says.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 09:00:11+00:00
- - tags: None
 
 
 
@@ -180,7 +158,6 @@ Violent confrontations in Leicester have prompted soul searching in an area long
  - [https://www.nytimes.com/2022/10/02/world/europe/putins-nuclear-threats-stir-growing-alarm-in-washington.html](https://www.nytimes.com/2022/10/02/world/europe/putins-nuclear-threats-stir-growing-alarm-in-washington.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 08:49:01+00:00
- - tags: None
 
 In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.
 
@@ -188,7 +165,6 @@ In a gathering Cold War atmosphere, American officials are gaming out responses 
  - [https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html](https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 08:29:49+00:00
- - tags: None
 
 These events have prompted major changes. But fatal tramplings still occur, with more than 150 killed in Indonesia on Saturday.
 
@@ -196,7 +172,6 @@ These events have prompted major changes. But fatal tramplings still occur, with
  - [https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html](https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 07:00:13+00:00
- - tags: None
 
 The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.
 
@@ -204,7 +179,6 @@ The country’s long economic decline has been one of the main forces sending Ir
  - [https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football](https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 06:33:42+00:00
- - tags: None
 
 After a home team loss, fans ran onto the field and were confronted by the police, who used tear gas. In the panic that ensued, many were trampled, leaving at least 150 people dead.
 
@@ -212,7 +186,6 @@ After a home team loss, fans ran onto the field and were confronted by the polic
  - [https://www.nytimes.com/live/2022/10/02/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/10/02/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 06:33:42+00:00
- - tags: None
 
 President Volodymyr Zelensky said that his forces will recapture more towns in the Donbas region soon after they took parts of Lyman.
 
@@ -220,7 +193,6 @@ President Volodymyr Zelensky said that his forces will recapture more towns in t
  - [https://www.nytimes.com/2022/10/02/world/europe/gazprom-halts-gas-supplies-to-italy.html](https://www.nytimes.com/2022/10/02/world/europe/gazprom-halts-gas-supplies-to-italy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 05:07:07+00:00
- - tags: None
 
 The Italian gas provider Eni said that the Russian monopoly did not deliver the natural gas it had booked for Saturday.
 
@@ -228,7 +200,6 @@ The Italian gas provider Eni said that the Russian monopoly did not deliver the 
  - [https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html](https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 02:45:35+00:00
- - tags: None
 
 Russia’s withdrawal from the city comes one day after Moscow illegally annexed the surrounding region.
 
@@ -236,6 +207,5 @@ Russia’s withdrawal from the city comes one day after Moscow illegally annexed
  - [https://www.nytimes.com/2022/10/01/world/europe/heres-why-russias-retreat-from-lyman-matters.html](https://www.nytimes.com/2022/10/01/world/europe/heres-why-russias-retreat-from-lyman-matters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 01:02:56+00:00
- - tags: None
 
 

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## A guide to Google’s Digital Wellbeing
  - [https://www.androidauthority.com/a-guide-to-googles-digital-wellbeing-3225195/](https://www.androidauthority.com/a-guide-to-googles-digital-wellbeing-3225195/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 22:14:40+00:00
- - tags: None
 
 Is your phone taking up too much of your time? Here's how to unplug.
 
@@ -12,7 +11,6 @@ Is your phone taking up too much of your time? Here's how to unplug.
  - [https://www.androidauthority.com/windows-11-android-3225683/](https://www.androidauthority.com/windows-11-android-3225683/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 20:36:39+00:00
- - tags: None
 
 A preview build of Windows 11 brings direct phone connections through Phone Link.
 
@@ -20,7 +18,6 @@ A preview build of Windows 11 brings direct phone connections through Phone Link
  - [https://www.androidauthority.com/oneplus-10-pro-black-friday-3225643/](https://www.androidauthority.com/oneplus-10-pro-black-friday-3225643/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 19:20:56+00:00
- - tags: None
 
 Here's how you can get the OnePlus 10 Pro for cheap.
 
@@ -28,7 +25,6 @@ Here's how you can get the OnePlus 10 Pro for cheap.
  - [https://www.androidauthority.com/oneplus-android-13-rollout-3225581/](https://www.androidauthority.com/oneplus-android-13-rollout-3225581/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 17:12:00+00:00
- - tags: None
 
 OnePlus has released a roadmap for when its Android 13 beta is arriving.
 
@@ -36,7 +32,6 @@ OnePlus has released a roadmap for when its Android 13 beta is arriving.
  - [https://www.androidauthority.com/new-samsung-emojis-3225555/](https://www.androidauthority.com/new-samsung-emojis-3225555/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 15:53:17+00:00
- - tags: None
 
 Samsung will be bringing 138 new emojis to its devices.
 
@@ -44,7 +39,6 @@ Samsung will be bringing 138 new emojis to its devices.
  - [https://www.androidauthority.com/pixel-7-macro-focus-3221847/](https://www.androidauthority.com/pixel-7-macro-focus-3221847/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 14:01:20+00:00
- - tags: None
 
 You don't need to buy a high-end phone to enjoy it.
 
@@ -52,7 +46,6 @@ You don't need to buy a high-end phone to enjoy it.
  - [https://www.androidauthority.com/where-to-watch-doctor-who-3224342/](https://www.androidauthority.com/where-to-watch-doctor-who-3224342/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 13:01:18+00:00
- - tags: None
 
 In the US, there are multiple streaming services to watch the show.
 
@@ -60,7 +53,6 @@ In the US, there are multiple streaming services to watch the show.
  - [https://www.androidauthority.com/android-13-update-boring-okay-3215829/](https://www.androidauthority.com/android-13-update-boring-okay-3215829/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 13:00:25+00:00
- - tags: None
 
 Google's latest update might not be exciting, but it's just as important as ever.
 
@@ -68,7 +60,6 @@ Google's latest update might not be exciting, but it's just as important as ever
  - [https://www.androidauthority.com/redmi-note-12-series-3225470/](https://www.androidauthority.com/redmi-note-12-series-3225470/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 12:09:36+00:00
- - tags: None
 
 The three phones share the same processor and screen, but differ in a number of ways.
 
@@ -76,7 +67,6 @@ The three phones share the same processor and screen, but differ in a number of 
  - [https://www.androidauthority.com/android-phone-rooted-poll-results-3225345/](https://www.androidauthority.com/android-phone-rooted-poll-results-3225345/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 09:13:46+00:00
- - tags: None
 
 Over three-quarters of polled readers don't have a rooted Android phone.
 
@@ -84,7 +74,6 @@ Over three-quarters of polled readers don't have a rooted Android phone.
  - [https://www.androidauthority.com/daily-authority-october-27-2022-3225302/](https://www.androidauthority.com/daily-authority-october-27-2022-3225302/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 08:19:49+00:00
- - tags: None
 
 Talking Windows 8 after a decade, a new venture by the father of Android, and more tech news of the day.
 
@@ -92,7 +81,6 @@ Talking Windows 8 after a decade, a new venture by the father of Android, and mo
  - [https://www.androidauthority.com/samsung-galaxy-s22-q3-2022-3225304/](https://www.androidauthority.com/samsung-galaxy-s22-q3-2022-3225304/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 06:37:29+00:00
- - tags: None
 
 Samsung's latest foldable phones also delivered more sales growth compared to previous models.
 
@@ -100,6 +88,5 @@ Samsung's latest foldable phones also delivered more sales growth compared to pr
  - [https://www.androidauthority.com/cast-fire-tv-stick-iphone-android-3128921/](https://www.androidauthority.com/cast-fire-tv-stick-iphone-android-3128921/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-10-27 04:42:14+00:00
- - tags: None
 
 Your phone can be the spark to light up the big screen.
