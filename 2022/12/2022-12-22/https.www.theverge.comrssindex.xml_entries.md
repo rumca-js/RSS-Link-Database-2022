@@ -1,0 +1,431 @@
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+
+## How to take control of macOS notifications
+ - [https://www.theverge.com/23490386/macos-notifications-banners-alerts-center-how-to](https://www.theverge.com/23490386/macos-notifications-banners-alerts-center-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 20:01:00+00:00
+
+<figure>
+      <img alt="Floating MacBook Pro on wallpaper of Mac and Safari icons, with system preferences opened and the Monterey wallpaper." src="https://cdn.vox-cdn.com/thumbor/aik8XyJ7zMO7naS-1tc7ZezqpUo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71784025/HT016_macOS_0003.0.jpg" />
+        <figcaption>Illustration by Samar Haddad / The Verge</figcaption>
+    </figure>
+
+  <p id="awcNjl">Are you annoyed by how quickly the macOS notification banners that appear in the upper-right corner of the screen disappear? Has it ever annoyed someone you know? Is that person so frustrated with macOS notifications and multitasking that they write <a href="https://www.theverge.com/2022/11/30/23486077/mac-multitasking-bad-change-my-mind">an 826-word attack</a> against the preferred platform of many of their <em>Verge</em> colleagues?</p>
+<p id="mDlYTQ">Well, maybe I can help you make it a bit less annoying. All it takes is deciding which app notifications you’d like to keep on-screen, which you want to hide automatically, and which you’d prefer to only show up as a red badge on your dock.</p>
+<p id="ZoPof0">A note: for these directions, I used a Mac loaded with macOS Ventura. If you have macOS Monterey or older, your directions and screens may be slightly different. </p>
+<h2 id="GHjm30">N...</h2>
+  <p>
+    <a href="https://www.theverge.com/23490386/macos-notifications-banners-alerts-center-how-to">Continue reading&hellip;</a>
+  </p>
+
+## Tesla’s in-car navigation will get friendlier to non-Superchargers
+ - [https://www.theverge.com/2022/12/22/23522392/tesla-qualified-third-party-chargers-europe-israel-launch-supercharger](https://www.theverge.com/2022/12/22/23522392/tesla-qualified-third-party-chargers-europe-israel-launch-supercharger)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 19:17:55+00:00
+
+<figure>
+      <img alt="Tesla Superchargers" src="https://cdn.vox-cdn.com/thumbor/cbrXj8qbhHao5l9m1CCFDSnyRM0=/0x0:1500x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783825/akrales_160419_1019_A_0257.0.0.png" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="3QSRD9">Tesla’s Superchargers have been the most convenient charging network for owners of its electric cars, but this week, the automaker announced it will begin to <a href="https://www.tesla.com/support/improving-access-third-party-fast-charging">better integrate other compatible fast charging networks</a> as well.</p>
+<p id="d8aq1X">Non-Tesla fast charging stations that meet certain criteria over a 60-day period, like an excellent charge success rate, could be whitelisted as what the company calls a “Qualified Third-Party Charger.” Once designated by Tesla, the station would thereby be bestowed as such into Tesla’s built-in navigation system.</p>
+<div id="oc09BD">
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Your in-car navigation now includes more qualified third-party chargers across Europe and Israel. <br /><br />Read more → <a href="https://t.co/vQQu9M3NrD">https://t.co/vQQu9M3NrD</a></p>— Tesla Charging (@TeslaCharging) <a href="https://twitter.com/TeslaCharging/status/1605631716923539458?ref_src=twsrc%5Etfw">December 21, 2022</a>
+</blockquote>
+
+</div>
+<p id="k6Lot5">The program is...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522392/tesla-qualified-third-party-chargers-europe-israel-launch-supercharger">Continue reading&hellip;</a>
+  </p>
+
+## TikTok’s parent company reportedly accessed US journalists’ data
+ - [https://www.theverge.com/2022/12/22/23522808/tiktok-journalists-data-accessed-bytedance-internal-audit](https://www.theverge.com/2022/12/22/23522808/tiktok-journalists-data-accessed-bytedance-internal-audit)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 19:08:56+00:00
+
+<figure>
+      <img alt="The TikTok logo on a black background with repeating geometric shapes" src="https://cdn.vox-cdn.com/thumbor/q9chPBAxvnVasOGBvVigCL7MPnA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783759/STK051_VRG_Illo_N_Barclay_6_tiktok.0.jpg" />
+        <figcaption>Illustration by Nick Barclay / The Verge</figcaption>
+    </figure>
+
+  <p id="vQ61N9">An internal investigation at ByteDance found that several employees accessed TikTok data for two US journalists and a “small number” of other people connected to them, according to internal emails <a href="https://www.nytimes.com/2022/12/22/technology/byte-dance-tik-tok-internal-investigation.html?smid=tw-share">obtained by <em>The New York Times</em></a>. That data reportedly included the reporters’ IP addresses, which were used to see if they had been nearby ByteDance employees in an attempt to figure out who was leaking documents and information to the press.</p>
+<p id="j9YCvz">The report is the latest in a series of investigations that have turned up evidence of ByteDance employees in China having access to American TikTok users’ data and is coming out during a time when lawmakers are making moves to restrict the app. It also represents ByteDance walking back denials that it’s...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522808/tiktok-journalists-data-accessed-bytedance-internal-audit">Continue reading&hellip;</a>
+  </p>
+
+## See inside your Steam Deck with JSAUX’s $30 transparent backplate
+ - [https://www.theverge.com/2022/12/22/23522837/jsaux-steam-deck-transparent-back-plate](https://www.theverge.com/2022/12/22/23522837/jsaux-steam-deck-transparent-back-plate)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 19:02:56+00:00
+
+<figure>
+      <img alt="See inside the Steam Deck, but mostly the fan." src="https://cdn.vox-cdn.com/thumbor/Fj4J8mA9GCAmBJJv3D8uAC7IeYI=/63x0:738x450/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783728/unnamed.0.jpg" />
+        <figcaption><em>JSAUX’s Steam Deck transparent backplate.</em> | Image: JSAUX</figcaption>
+    </figure>
+
+  <p id="H3EW5K">JSAUX might sound like just another alphabet soup electronics brand, but it’s quickly developed a reputation as the foremost accessory vendor for the <a href="https://www.theverge.com/23499215/valve-steam-deck-interview-late-2022">Steam Deck</a> — and today, it’s announced what (I’m fairly sure!) is the very first transparent shell for the system. </p>
+<p id="hKCEcR">And you know <a href="https://www.theverge.com/2022/11/9/23450460/so-damn-clean">how we love our transparent gadgets</a> here at <em>The Verge</em>. </p>
+<p id="6ZTXdW">The <a href="https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106">$30 JSAUX PC0106 Transparent Back Plate for Steam Deck</a> isn’t a full shell, as it just covers (slash exposes) the rear half of the PC gaming portable, but that’s <em>not all</em> you get for your 30 bucks. It also comes with <em>three</em> sets of back buttons, at least one of which is taller than the originals for a longer throw. (It’s not clear whether they’ll help with the stiff press, but the image below gives me hope.)</p>
+...
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522837/jsaux-steam-deck-transparent-back-plate">Continue reading&hellip;</a>
+  </p>
+
+## New NY state law takes aim at warehouse work quotas like the ones Amazon uses
+ - [https://www.theverge.com/2022/12/22/23522594/new-york-state-law-amazon-warehouse-quotas-workers-labor-union](https://www.theverge.com/2022/12/22/23522594/new-york-state-law-amazon-warehouse-quotas-workers-labor-union)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 18:54:33+00:00
+
+<figure>
+      <img alt="A photo of the inside of a warehouse" src="https://cdn.vox-cdn.com/thumbor/LXLkB5YRbXAvLEHyTdFC0Psajqk=/0x0:1000x667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783621/warehouse-stock-ss.0.jpg" />
+        <figcaption>Image: Shutterstock</figcaption>
+    </figure>
+
+  <p id="vkPc1M">Yesterday, New York Governor Kathy Hochul signed the <a href="https://www.engadget.com/new-york-governor-signs-warehouse-worker-protection-act-into-law-172521189.html?src=rss">Warehouse Worker Protection Act (WWPA)</a>, which protects warehouse distribution workers from undisclosed or unlawful work speed quotas. In addition to protecting warehouse workers from unreasonably demanding work quotas, the law will require distribution centers to inform workers of their performance and rights in the workplace.</p>
+<div><aside id="q3vNGU"><div></div></aside></div>
+<p id="qrlzC0">While the law doesn’t target Amazon specifically, its authors say it was designed to address the management practices and quotas that the e-commerce giant places on its employees, which has often been criticized for the dehumanizing expectations placed on its warehouse workers.</p>
+<p id="h9LVdT">The WWPA follows a similar law that was <a href="https://www.dir.ca.gov/dlse/FAQ_warehousequotas.htm#:~:text=Employers%20can%20use%20quotas%2C%20but,occupational%20health%20and%20safety%20standards.">passed in California last September (AB-701)...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522594/new-york-state-law-amazon-warehouse-quotas-workers-labor-union">Continue reading&hellip;</a>
+  </p>
+
+## Here’s what’s driving the frigid storm that’s messing up holiday plans across the US
+ - [https://www.theverge.com/2022/12/22/23521491/winter-storm-record-cold-wind-bomb-cyclone-holiday-travel-weather](https://www.theverge.com/2022/12/22/23521491/winter-storm-record-cold-wind-bomb-cyclone-holiday-travel-weather)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 17:55:20+00:00
+
+<figure>
+      <img alt="A bundled-up person pushes a snow blower" src="https://cdn.vox-cdn.com/thumbor/fUMWdOqADyEnaQiJtLEj475gzOY=/0x1:5941x3962/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783341/1245783732.0.jpg" />
+        <figcaption><em>Miguel Salazar clears sidewalks of Sherman St. in Denver, Colorado, on Thursday, December 22nd, 2022.</em> | Photo by Hyoung Chang / The Denver Post</figcaption>
+    </figure>
+
+  <p id="H84YmF">Frigid temperatures are expected to sting two-thirds of the continental US this week as a powerful storm system races eastward. The timing couldn’t be worse, hitting right before the holidays, when <a href="https://www.travelandleisure.com/holiday-travel-preview-2022-report-pwc-6746930">many Americans are planning to travel</a>. Those journeys — and even<strong> </strong>just being outside in some of the hardest-hit regions — may become treacherous as brutal cold blankets the country.</p>
+<p id="XjllYN">“What better way to kick off the official start of astronomical winter than with numerous winter weather hazards impacting a majority of the Nation,” a National Weather Service (NWS) <a href="https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd&amp;version=3&amp;fmt=reg">forecast</a> said early Wednesday. This morning, the NWS <a href="https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd">updated</a> its forecast to warn of “widespread disruptive and potentially crippling impacts across the central and eastern United...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23521491/winter-storm-record-cold-wind-bomb-cyclone-holiday-travel-weather">Continue reading&hellip;</a>
+  </p>
+
+## Fans can sue over trailer that featured a cut character, says court
+ - [https://www.theverge.com/2022/12/22/23522554/yesterday-ana-de-armas-trailer-fan-lawsuit-deceptive-advertising](https://www.theverge.com/2022/12/22/23522554/yesterday-ana-de-armas-trailer-fan-lawsuit-deceptive-advertising)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 17:48:08+00:00
+
+<figure>
+      <img alt="Yesterday (Danny Boyle film)" src="https://cdn.vox-cdn.com/thumbor/7JhU5IQv4nhQm7UCO886A__k0ws=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783298/yesterdaystill.0.jpg" />
+        <figcaption><em>Himesh Patel in </em>Yesterday | Image: Tribeca Film Festival</figcaption>
+    </figure>
+
+  <p id="Z3OJ22">A trailer for Danny Boyle’s film <em>Yesterday </em>might count as false advertising for including a character — played by Ana de Armas — who was cut from the film. As <a href="https://variety.com/2022/film/news/ana-de-armas-yesterday-false-advertising-1235467419/">reported by <em>Variety</em> yesterday</a>, a California court is allowing parts of <a href="https://storage.courtlistener.com/recap/gov.uscourts.cacd.841925/gov.uscourts.cacd.841925.83.0.pdf">a lawsuit against Universal City Studios</a> to proceed over Universal’s objections. The ruling finds trailers are commercial speech advertising the content of a film and not, as Universal argued, artistic expression that receives full First Amendment protections.</p>
+<p id="MOg2nT">Ana de Armas was originally part of a love triangle in <em>Yesterday</em>, a romantic comedy about a man who wakes up in a world where The Beatles never existed, then shoots to superstardom by appropriating their songs. <a href="https://www.cinemablend.com/news/2475654/yesterday-cut-an-entire-character-from-the-film-that-would-have-changed-the-plot">According to <em>CinemaBlend</em></a>,<em> </em>she was cut because...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522554/yesterday-ana-de-armas-trailer-fan-lawsuit-deceptive-advertising">Continue reading&hellip;</a>
+  </p>
+
+## The new trailer for That ‘90s Show brings back some old friends
+ - [https://www.theverge.com/23522737/that-90s-show-netflix-trailer-mila-kunis-ashton-kutcher](https://www.theverge.com/23522737/that-90s-show-netflix-trailer-mila-kunis-ashton-kutcher)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 17:36:21+00:00
+
+<figure>
+      <img alt="A photo of Topher Grace and Laura Prepon in That ‘90s Show." src="https://cdn.vox-cdn.com/thumbor/RyxV20bk0OTxlpvIxt6bpSWnW_0=/0x0:696x464/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783228/unnamed.0.jpg" />
+        <figcaption>Topher Grace and Laura Prepon in That ‘90s Show. | Image: Netflix</figcaption>
+    </figure>
+
+  <p id="UARYHC">When Netflix first unveiled <a href="https://www.theverge.com/2022/11/29/23484202/that-90s-show-trailer-netflix">its sequel to <em>That ‘70s Show</em></a>, the focus was primarily on the new cast of kids hanging out in Red and Kitty’s basement. But in the first full trailer for <em>That ‘90s Show</em>, we also get a glimpse at some key returning faces: Topher Grace, Mila Kunis, Ashton Kutcher, Laura Prepon, and Wilmer Valderrama, who will all be reprising their roles in guest appearances.</p>
+<p id="feBEqW">The new show is set in 1995 and follows Leia Forman (Callie Haverda), Eric and Donna’s kid, as she spends a summer with her grandparents and meets a new crew of friends along the way. Naturally, Kitty (Debra Jo Rupp) is excited to have the house full of kids again, while Red (Kurtwood Smith) is less than enthused. Just as important, there appears to be an...</p>
+  <p>
+    <a href="https://www.theverge.com/23522737/that-90s-show-netflix-trailer-mila-kunis-ashton-kutcher">Continue reading&hellip;</a>
+  </p>
+
+## YouTube’s NFL Sunday Ticket deal is a brilliant move for its subscription future
+ - [https://www.theverge.com/2022/12/22/23522535/youtube-nfl-sunday-ticket-bundle-subscriptions](https://www.theverge.com/2022/12/22/23522535/youtube-nfl-sunday-ticket-bundle-subscriptions)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 17:30:46+00:00
+
+<figure>
+      <img alt="YouTube logo image in red, over a geometric red, black, and cream background" src="https://cdn.vox-cdn.com/thumbor/ULpAy2Wdauluj401vkaU3HxO6UI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71783189/acastro_STK092_03.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="SjGWxy">The “pick me! pick me!” bidding war for NFL Sunday Ticket has finally come to an end, and YouTube won big. The company announced <a href="https://www.theverge.com/2022/12/22/23520130/youtube-nfl-sunday-ticket-shakeup-sports-streaming">a “multi-year” deal</a> that will see it carry Sunday Ticket both standalone (as a YouTube <a href="https://www.theverge.com/2022/11/1/23433617/youtube-primetime-channels-streaming-tv-movies">Primetime Channel</a>) and through YouTube TV. It’s a massive score for YouTube, which successfully fended off Big Tech rivals like Apple to land the deal, and a pivotal moment as live sports continue their transition away from traditional cable — DirecTV is the soon-to-be-former Sunday Ticket rights holder — in favor of major streaming platforms. </p>
+<p id="izk9kR">In one fell swoop, Google has solidified YouTube as a vital destination for NFL fans. And it has resoundingly committed to a long-term future for YouTube TV, <a href="https://www.theverge.com/2022/7/12/23205080/youtube-tv-subscribers-5-million-sports-bundle">which has over 5 million...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522535/youtube-nfl-sunday-ticket-bundle-subscriptions">Continue reading&hellip;</a>
+  </p>
+
+## God of War Ragnarök is a story about letting go
+ - [https://www.theverge.com/2022/12/22/23516917/god-of-war-ragnarok-ending-analysis](https://www.theverge.com/2022/12/22/23516917/god-of-war-ragnarok-ending-analysis)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 17:00:00+00:00
+
+<figure>
+      <img alt="A screenshot of Kratos and Atreus in God of War Ragnarök." src="https://cdn.vox-cdn.com/thumbor/T4GVlgvRayaS1xqN8TdrX4OtzBM=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782963/GOWR_Review_Screenshot_02.0.png" />
+        <figcaption><em>Kratos and Atreus in </em>God of War Ragnarök | Image: Sony</figcaption>
+    </figure>
+
+
+  		 <p>A spoiler-filled look at the ending of one of the year’s biggest games.</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23516917/god-of-war-ragnarok-ending-analysis">Continue reading&hellip;</a>
+  </p>
+
+## The 80-plus best last-minute digital gift ideas you can still get
+ - [https://www.theverge.com/23518830/digital-holiday-gift-ideas-last-minute-online-subscriptions-2022](https://www.theverge.com/23518830/digital-holiday-gift-ideas-last-minute-online-subscriptions-2022)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 16:14:39+00:00
+
+<figure>
+      <img alt="Person stretching in front of TV streaming Peloton subscription content." src="https://cdn.vox-cdn.com/thumbor/mmvLxA6LCWeKvCA9RNSdg91O5pA=/160x0:2053x1262/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782789/Peloton.0.png" />
+        <figcaption><em>You can gift the fitness enthusiast in your life a Peloton subscription even if they don’t own a Peloton.</em> | Image: Peloton</figcaption>
+    </figure>
+
+  <p id="6V6kin">Waited until the very last minute to start your holiday shopping? Hey, we get it. Life gets busy sometimes, and judging by how long lines at stores tend to be on Christmas Eve, you’ve got company. If you don’t want to waste precious time in one of those lines, there are thankfully a bunch of digital gifts you can purchase instead. To make your life easier, we’ve rounded up a bunch of options across categories ranging from travel and health to film so you can quickly find the perfect gift without leaving the comfort and warmth of your home.</p>
+<div><aside id="RyBBVh"><div></div></aside></div>
+<div id="eg5p8Y">
+
+
+
+
+
+
+<div class="duet--article--article-body-component verge-table-of-contents border-franklin border" id="toc-main"></div>
+</div>
+<h1 id="yFnTJ3">Best last-minute digital gifts</h1>
+<hr class="p-entry-hr" id="jtBaue" />
+<h2 id="b8Zifw">For TV and movie buffs</h2>
+<div id="1sDL9M"><div></div></div>
+<ul>
+<li id="e76DRT">The <a href="https://www.criterion.com/shop/collection/328-gift-cards">Criterion Collection gift card</a>
+</li>
+<li id="vIRQGQ">
+<a href="https://tv.youtube.com/welcome/">YouTube TV</a> or <a href="https://www.youtube.com/premium">YouTube Premium</a>
+</li>
+<li id="M2mjal">A <a href="https://store.crunchyroll.com/collections/membership-gift-cards">Crunchyroll gift card</a> for the anime lover in your life</li>
+<li id="CLMKGL">A...</li>
+</ul>
+  <p>
+    <a href="https://www.theverge.com/23518830/digital-holiday-gift-ideas-last-minute-online-subscriptions-2022">Continue reading&hellip;</a>
+  </p>
+
+## Need a last-minute gift? Hasbro made me into a Star Wars action figure
+ - [https://www.theverge.com/23521283/hasbro-selfie-series-hands-on-star-wars-marvel-power-rangers-spider-man](https://www.theverge.com/23521283/hasbro-selfie-series-hands-on-star-wars-marvel-power-rangers-spider-man)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 15:30:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/LnOhpsNb9TcQvdwfjGEzLRobO3Q=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782535/226467_Hasbro_Selfie_Statue_SHollister_0012.0.jpg" />
+        <figcaption>Photo by Sean Hollister / The Verge</figcaption>
+    </figure>
+
+  <p id="8jdu2w">Remember when Hasbro announced <a href="https://www.theverge.com/2022/7/13/23207124/hasbro-formlabs-3d-print-figure-marvel-iron-man-spiderman">it’d let you put your 3D-printed face on a fully licensed <em>Star Wars</em>, Marvel, Ghostbusters, G.I. Joe, or Power Rangers action figure</a> for $60 plus tax? Well, my Hasbro Selfie Series figure just arrived this week — and while it’s not a perfect resemblance, I’m still kind of blown away. This might be the perfect last-minute gift for a fan, for reasons I’ll soon explain. </p>
+<p id="1tDQsp">But first, let me show you Mini Mandalorian Sean so you can judge for yourself. </p>
+<div class="c-wide-block">
+  <figure class="e-image">
+        
+      <cite>Photo by Sean Hollister / The Verge</cite>
+      <figcaption>
+<a class="ql-link" href="https://cdn.vox-cdn.com/uploads/chorus_asset/file/24308572/226467_Hasbro_Selfie_Statue_SHollister_0001.jpg" target="_blank"><em>Click here</em></a> <em>for a larger image.</em>
+</figcaption>
+  </figure>
+  <figure class="e-image">
+        
+      <cite>Photo by Sean Hollister / The Verge</cite>
+      <figcaption>
+<a class="ql-link" href="https://cdn.vox-cdn.com/uploads/chorus_asset/file/24308573/226467_Hasbro_Selfie_Statue_SHollister_0002.jpg" target="_blank"><em>Click here</em></a><em> for a larger image.</em>
+</figcaption>
+  </figure>
+  <figure class="e-image">
+        
+      <cite>Photo by Sean Hollister / The Verge</cite>
+      <figcaption>
+<a class="ql-link" href="https://cdn.vox-cdn.com/uploads/chorus_asset/file/24308575/226467_Hasbro_Selfie_Statue_SHollister_0005.jpg" target="_blank"><em>Click here...</em></a></figcaption></figure>
+</div>
+  <p>
+    <a href="https://www.theverge.com/23521283/hasbro-selfie-series-hands-on-star-wars-marvel-power-rangers-spider-man">Continue reading&hellip;</a>
+  </p>
+
+## Apple apparently pulls option to upgrade to new HomeKit architecture in iOS 16.2
+ - [https://www.theverge.com/2022/12/22/23522418/apple-ios16-2-homekit-home-app-upgrade-removed](https://www.theverge.com/2022/12/22/23522418/apple-ios16-2-homekit-home-app-upgrade-removed)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 15:18:31+00:00
+
+<figure>
+      <img alt="A phone displaying the Apple Home app with an upgrade option." src="https://cdn.vox-cdn.com/thumbor/JB1ZGW2mRlNx1Kb8SuHnUIyNZWY=/100x0:3100x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782480/Apple_Home_Kit.0.jpg" />
+        <figcaption><em>The option to upgrade to new Home architecture has been removed from iOS 16.2</em> | Image: Apple / The Verge</figcaption>
+    </figure>
+
+  <p id="FBb6C4">Apple has apparently removed the option to upgrade to the new HomeKit architecture on devices running iOS 16.2. The change follows multiple reports of issues and problems with the Home app after the upgrade was installed.</p>
+<p id="zWhpKk">The new Home app architecture was one of the <a href="https://www.theverge.com/2022/12/13/23505098/ios-16-2-download-always-on-display-iphone-apple-music-sing-icloud-encryption">key features of iOS 16.2</a>, with Apple claiming that the upgrade would be “more reliable and efficient.” Now, <a href="https://www.macrumors.com/2022/12/21/apple-pulls-new-home-architecture/"><em>MacRumors</em> discovered</a> that the Home app in iOS 16.2 no longer offers the option to upgrade to the new architecture within the Home app settings. Several reporters at <em>The Verge</em> have also confirmed that the upgrade option is unavailable on their devices.</p>
+<p id="nVT8rj">The new architecture was first introduced in the iOS 16.2 beta back in October as an optional upgrade before the iOS...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522418/apple-ios16-2-homekit-home-app-upgrade-removed">Continue reading&hellip;</a>
+  </p>
+
+## Ikea and Sonos’ Symfonisk bookshelf speaker is $20 off
+ - [https://www.theverge.com/2022/12/22/23520898/ikea-sonos-symfonisk-top-gun-paramount-plus-resident-evil-google-pixel-deal-sale](https://www.theverge.com/2022/12/22/23520898/ikea-sonos-symfonisk-top-gun-paramount-plus-resident-evil-google-pixel-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 15:03:34+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/rzVGKGYl1TrBIAzNEMa3smc2Wbk=/81x0:1713x1088/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782439/Screen_Shot_2022_01_07_at_1.06.26_PM.0.png" />
+    </figure>
+
+  <p id="cuEx4t">Online or in-store, you can get a <strong>black or white Symfonisk bookshelf speaker</strong> <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2Fp%2Fsymfonisk-wifi-bookshelf-speaker-white-smart-gen-2-40506597%2F&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2022%2F12%2F22%2F23520898%2Fikea-sonos-symfonisk-top-gun-paramount-plus-resident-evil-google-pixel-deal-sale" rel="sponsored nofollow noopener" target="_blank">for $99.99, a $20 discount</a> off its usual price. This is the second-gen model developed alongside Sonos, complete with Wi-Fi connectivity so you can use it to complete your Sonos surround sound setup. It supports Apple AirPlay 2 for easy audio streaming via Apple products and has Spotify Connect compatibility. This speaker can be slotted naturally onto a bookshelf or, like the image above suggests, mounted to your wall as a small shelf. This model <a href="https://www.theverge.com/2022/1/7/22872141/ikea-sonos-second-gen-symfonisk-bookshelf-speaker-update">released in early 2022</a> and has a faster processor and more memory than its predecessor, plus a more logical button layout. This deal lasts through January 22nd, 2023. </p>
+<p id="LeMv8J">If you’re curious what else is available in the...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23520898/ikea-sonos-symfonisk-top-gun-paramount-plus-resident-evil-google-pixel-deal-sale">Continue reading&hellip;</a>
+  </p>
+
+## YouTube lands NFL Sunday Ticket in major shake-up of sports streaming
+ - [https://www.theverge.com/2022/12/22/23520130/youtube-nfl-sunday-ticket-shakeup-sports-streaming](https://www.theverge.com/2022/12/22/23520130/youtube-nfl-sunday-ticket-shakeup-sports-streaming)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 14:36:27+00:00
+
+<figure>
+      <img alt="Chargers vs Titans" src="https://cdn.vox-cdn.com/thumbor/VU9OKlsFilMV0LOXmPTJc3NwNog=/95x0:4105x2673/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782320/1245728475.0.jpg" />
+        <figcaption><em>NFL Sunday Ticket subscribers will be watching their games in a new place.</em> | Allen J. Schaben / Los Angeles Times via Getty Images</figcaption>
+    </figure>
+
+  <p id="RA41Te">YouTube will be the new home of NFL Sunday Ticket, <a href="https://blog.youtube/news-and-events/nfl-sunday-ticket-youtube-tv-primetime-channels/">Google and the NFL announced</a>, ending the months-long question of where the major broadcasting package would end up. NFL Sunday Ticket has been available in the US exclusively via DirecTV since 1994, but the satellite provider won’t have it starting with the 2023 NFL season.</p>
+<p id="dLtRzj">Now, it will be available either as an add-on for YouTube TV subscribers or à la carte via YouTube Primetime Channels, <a href="https://www.theverge.com/2022/11/1/23433617/youtube-primetime-channels-streaming-tv-movies">which launched last month</a> to “bring shows and movies from more than 30 services directly into the YouTube interface.” </p>
+<p id="DDsbTQ">No one has confirmed how much it will cost for viewers, but the Sunday Ticket package for this season costs $293.94 to purchase from DirecTV or nearly $400 if purchasing the Max...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23520130/youtube-nfl-sunday-ticket-shakeup-sports-streaming">Continue reading&hellip;</a>
+  </p>
+
+## 2022: a space yearbook
+ - [https://www.theverge.com/23519364/space-industry-2022-superlatives-artemis-dart-jwst](https://www.theverge.com/23519364/space-industry-2022-superlatives-artemis-dart-jwst)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 14:30:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/_7YdtHHRNegO-8j9lzTMCZhccUY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782284/226437_M_Huigen_year_Biggest_Space_Launches_Recovered.0.jpg" />
+        <figcaption>Illustration by Micha Huigen / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>There was a lot going on in the space industry this year — here are some of the highlights.</p>
+  <p>
+    <a href="https://www.theverge.com/23519364/space-industry-2022-superlatives-artemis-dart-jwst">Continue reading&hellip;</a>
+  </p>
+
+## Tech self-care for the new year: a guide
+ - [https://www.theverge.com/23519776/tech-self-care-cable-management-screen-cleaner-delete-apps-android-launcher](https://www.theverge.com/23519776/tech-self-care-cable-management-screen-cleaner-delete-apps-android-launcher)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 14:00:00+00:00
+
+<figure>
+      <img alt="Colorful illustration showing an iPhone with a leather Dbrand skin, battery voltage checker, and screen cleaning spray." src="https://cdn.vox-cdn.com/thumbor/sWHrdnGK0FT8VscIgkrph33J7Jo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782122/226468_K_Radtke_Self_care_guide.0.jpg" />
+        <figcaption><em>Self care doesn’t have to mean at-home spa treatments.</em> | The Verge</figcaption>
+    </figure>
+
+  <p id="ZvZNio">Was the term “self-care” invented by the beauty-industrial complex to sell more bath bombs? Probably, but that doesn’t mean that setting aside time to take care of yourself every once in a while is a bad idea. That goes for the technology in your life, too. </p>
+<p id="Hi4vEA">Are you pretending not to see a rat’s nest of cables behind your desk? Does the triple-digit unread email notification make you cringe every time you look at your homescreen? Or has that once-clear phone case turned a dingy shade of yellow? Look, I’m not here to shame you. But maybe it’s time to take a look around at the tech you use every day to see where a little effort in tidying up can go a long way. If you’re looking for somewhere to start, you’ve come to the right place....</p>
+  <p>
+    <a href="https://www.theverge.com/23519776/tech-self-care-cable-management-screen-cleaner-delete-apps-android-launcher">Continue reading&hellip;</a>
+  </p>
+
+## These were the video games that defined 2022
+ - [https://www.theverge.com/23521028/video-games-2022-roundup-elden-ring-gta6](https://www.theverge.com/23521028/video-games-2022-roundup-elden-ring-gta6)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 14:00:00+00:00
+
+<figure>
+      <img alt="PS5 games" src="https://cdn.vox-cdn.com/thumbor/agGtF4bZB8kc3KsdLG1L7MQxFuk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782162/226437_M_Huigen_year_in_video_games.0.jpg" />
+        <figcaption>Illustration by Micha Huigen / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Player-created stories, gigantic leaks, and a new force in mobile gaming.</p>
+  <p>
+    <a href="https://www.theverge.com/23521028/video-games-2022-roundup-elden-ring-gta6">Continue reading&hellip;</a>
+  </p>
+
+## Elon Musk’s giant payday on trial: everything he said in court
+ - [https://www.theverge.com/2022/12/22/23465042/elon-musk-tesla-ceo-compensation-trial-full-transcript](https://www.theverge.com/2022/12/22/23465042/elon-musk-tesla-ceo-compensation-trial-full-transcript)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 13:42:59+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/-ztzuUalAJRuTeo_SVOWycMc0dA=/0x0:2048x1365/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782088/226418_Elon_Court_transcript_JLee.0.jpg" />
+        <figcaption>Illustration by Jason Allen Lee for The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Enjoy this enormous $900 PDF from the Delaware Court of Chancery</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23465042/elon-musk-tesla-ceo-compensation-trial-full-transcript">Continue reading&hellip;</a>
+  </p>
+
+## Google is adding another layer of testing for Chrome updates
+ - [https://www.theverge.com/2022/12/22/23522340/google-chrome-testing-release-update-early-stable](https://www.theverge.com/2022/12/22/23522340/google-chrome-testing-release-update-early-stable)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 13:27:52+00:00
+
+<figure>
+      <img alt="The Google Chrome logo in the center of a web-like graphic." src="https://cdn.vox-cdn.com/thumbor/eLWPGxxFeWN7ZpAdv9osWEwUFdM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71782037/acastro_200207_3900_chrome_0001.0.0.jpg" />
+        <figcaption><em>A new “early stable” release will be available to a small group of people one week earlier than the scheduled stable release date.</em> | Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="VgCjW5">Google is changing the release cycle for its Chrome web browser, the company announced in a <a href="https://developer.chrome.com/blog/early-stable/">blog post</a>, adding a new early preview of updates available via the Stable channel for a small set of users starting in February 2023. This early stable release will be available one week before the scheduled stable release date, allowing Google to address any reported issues before updates are rolled out to the wider public (<a href="https://www.androidpolice.com/chrome-stable-release-schedule/">via <em>Android Police</em></a>).</p>
+<p id="06nkOU"><a href="https://www.theverge.com/2021/3/5/22314992/google-chrome-release-cycle-four-weeks-update">Chrome’s release cycle</a> currently pushes updates to the Google Chrome Canary channel first (an experimental version of the browser used for testing unstable code), then to the Dev, Beta, and Stable channels, in that order. The new early stable release sits between the Beta channel testing and the final...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522340/google-chrome-testing-release-update-early-stable">Continue reading&hellip;</a>
+  </p>
+
+## Two men arrested for allegedly hacking JFK taxi dispatch system
+ - [https://www.theverge.com/2022/12/22/23522275/nyc-russian-hack-jfk-airport-taxi-dispatch-system](https://www.theverge.com/2022/12/22/23522275/nyc-russian-hack-jfk-airport-taxi-dispatch-system)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 11:23:18+00:00
+
+<figure>
+      <img alt="NEW YORK, NY - JUNE 19: A sign advertises directions to a taxi stand at John F. Kennedy (JFK) Airport on June 19, 2018 in New York City." src="https://cdn.vox-cdn.com/thumbor/z6lYtP4EWocufx4nRC6Q9YSAI8w=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71781773/978846176.0.jpg" />
+        <figcaption><em>Prosecutors allege that the pair enabled up to 1,000 taxi trips to fraudulently bypass the computer-controlled JFK taxi dispatch system a day.</em> | Image: Spencer Platt/Getty Images</figcaption>
+    </figure>
+
+  <p id="lNH4tt">Two US citizens have been arrested and accused of conspiring with Russian nationals to hack the taxi dispatch system at John F. Kennedy International Airport (JFK), charging cab drivers a $10 fee to access the front of the queue between September 2019 and September 2021.</p>
+<p id="XvxvPR">Daniel Abayev and Peter Leyman (both 48 and from Queens, New York) first successfully hacked the dispatch system in 2019 with the help of unnamed Russian nationals, according to a <a href="https://www.justice.gov/usao-sdny/pr/two-men-arrested-conspiring-russian-nationals-hack-taxi-dispatch-system-jfk-airport">DOJ indictment</a> filed in the Southern District of New York. Leyman and Abayev accessed the system to move specific taxis to the front of the line, says the DOJ, charging drivers a $10 fee for the privilege. Members of the hacking scheme also offered to waive the $10 fee in exchange for...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23522275/nyc-russian-hack-jfk-airport-taxi-dispatch-system">Continue reading&hellip;</a>
+  </p>
+
+## Twitter view counts start appearing prominently
+ - [https://www.theverge.com/2022/12/21/23522064/twitter-view-count-roll-out-personal-info](https://www.theverge.com/2022/12/21/23522064/twitter-view-count-roll-out-personal-info)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 04:56:55+00:00
+
+<figure>
+      <img alt="Twitter bird logo in white over a blue and purple background" src="https://cdn.vox-cdn.com/thumbor/zy3qMZkhHf5Nj-LUhyvOQXH1qNY=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71781352/acastro_STK050_02.0.jpg" />
+        <figcaption><em>Making it easier to quantify how much of a banger your tweet was.</em> | Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="2DY2BC">View counts for tweets are starting to show up for some Twitter users — at least for their own tweets. On December 1st, <a href="https://twitter.com/elonmusk/status/1598383056787996675?lang=en">Musk promised</a> the feature would be coming for “all tweets, just as view count is shown for all videos,” an announcement he <a href="https://twitter.com/elonmusk/status/1601112753271209985?s=20&amp;t=sQyol29ouHaVfwrmghBV_Q">reiterated a week later</a> adding that it would be coming “in a few weeks.”</p>
+<p id="Icr89j">One <em>Verge</em> staff member has started to see a counter when he clicks into his posts. While a <a href="https://twitter.com/riafterhours/status/1605773577306898434?s=20&amp;t=6w4gIBR3hS5JDVIauKEwAg">few</a> <a href="https://twitter.com/dandandesuwa/status/1605771882875142146?s=20&amp;t=6w4gIBR3hS5JDVIauKEwAg">other</a> Twitter users have <a href="https://twitter.com/jiseode/status/1605753790480662531?s=20&amp;t=6w4gIBR3hS5JDVIauKEwAg">reported</a> getting the feature as well, it doesn’t seem to be available to everyone yet (for example, at time of writing I’m currently not seeing view counts on any tweets besides videos). My coworker also says that he’s currently not able to see view counts on other users’ tweets.</p>
+  <figure class="e-image">
+        
+      <cite>Screenshot:...</cite></figure>
+  <p>
+    <a href="https://www.theverge.com/2022/12/21/23522064/twitter-view-count-roll-out-personal-info">Continue reading&hellip;</a>
+  </p>
+
+## Sam Bankman-Fried’s former friends pleaded guilty and are cooperating in the FTX fraud case
+ - [https://www.theverge.com/2022/12/21/23521967/sam-bankman-fried-ftx-crypto-fraud-caroline-ellison-gary-wang](https://www.theverge.com/2022/12/21/23521967/sam-bankman-fried-ftx-crypto-fraud-caroline-ellison-gary-wang)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 03:06:55+00:00
+
+<figure>
+      <img alt="FTX Founder Sam Bankman-Fried Returns To Court In The Bahamas" src="https://cdn.vox-cdn.com/thumbor/7Jjaj7bBCiRHKEfCS-2HuCLfuDg=/0x67:3000x2067/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71781070/1451153661.0.jpg" />
+        <figcaption>Photo by Joe Raedle/Getty Images</figcaption>
+    </figure>
+
+  <p id="aTTe51">Caroline Ellison and Gary Wang, two executives in Sam Bankman-Fried’s fallen crypto empire, have pleaded guilty to federal charges and are cooperating with prosecutors. The news was <a href="https://twitter.com/SDNYnews/status/1605745361842327552">announced late Wednesday</a> by Damian Williams, the US Attorney for the Southern District of New York.</p>
+<p id="JubInr">Williams didn’t specify what charges the two pled to, but said the guilty pleas were in relation to their roles as insiders at FTX and its sister company Alameda Research. Wang was a co-founder of the FTX cryptocurrency exchange, and Ellison served as CEO of Bankman-Fried’s trading company Alameda Research. </p>
+<div class="c-float-left c-float-hang"><aside id="LHVkRq"><div></div></aside></div>
+<p id="eqLlWK">Bankman-Fried and a select group of insiders, including Ellison and Wang, are alleged to be the only people who knew that FTX <a href="https://www.theverge.com/2022/12/13/23507361/sam-bankman-fried-ftx-alameda-cftc-complaint-lies">was engaging in fraud</a>. <a href="https://www.theverge.com/2022/12/13/23507015/sam-bankman-fried-ftx-sec-criminal-fraud-doj-cftc">The...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/21/23521967/sam-bankman-fried-ftx-crypto-fraud-caroline-ellison-gary-wang">Continue reading&hellip;</a>
+  </p>
