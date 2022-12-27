@@ -1,0 +1,43 @@
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+
+## Dungeon23 is the Perfect Low-Pressure Writing Ritual
+ - [https://gizmodo.com/dungeon23-2023-ttrpg-writing-challenge-roleplaying-game-1849930262](https://gizmodo.com/dungeon23-2023-ttrpg-writing-challenge-roleplaying-game-1849930262)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-26 23:15:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--SQ_jNwdI--/c_fit,fl_progressive,q_80,w_636/f795c47e523dff167be488cb76ed4fd5.png" /><p>A new craze is sweeping across tabletop RPG twitter, and <a href="https://gizmodo.com/the-gaming-shelf-lord-of-the-rings-new-games-1849916215">game designers</a> and <a href="https://gizmodo.com/the-gaming-shelf-jeeyon-shim-the-longest-rest-ttrpg-1849668219">players</a> are all getting in on planning #<a href="https://gizmodo.com/best-gifts-dungeons-dragons-hasbro-roleplaying-games-1849828745">Dungeon23</a>–a commitment to create a <a href="https://gizmodo.com/year-in-review-2022-best-tabletop-roleplaying-games-1849875024">megadungeon</a> in 2023 by creating a new room every single day. The premise is simple, but a blank page can often be the death of creativity. Here’s <a href="https://gizmodo.com/accessible-ttrpgs-elle-dwight-role-recommendations-1849802734">how to get started</a>,…</p><p><a href="https://gizmodo.com/dungeon23-2023-ttrpg-writing-challenge-roleplaying-game-1849930262">Read more...</a></p>
+
+## Our Favorite Toys of 2022
+ - [https://gizmodo.com/best-toys-2022-lego-hasbro-marvel-gunpla-neca-joytoy-1849927650](https://gizmodo.com/best-toys-2022-lego-hasbro-marvel-gunpla-neca-joytoy-1849927650)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-26 21:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--qOfVPMgd--/c_fit,fl_progressive,q_80,w_636/71688ccb527c6753e24d023c4b9ac1bd.png" /><p><a href="https://gizmodo.com/hasbro-selfie-series-review-in-hand-star-wars-1849781594">We love toys</a> here at io9, and when we’re not <a href="https://gizmodo.com/io9/toys-and-collectibles">writing about them</a>, we’re probably <a href="https://gizmodo.com/power-rangers-zord-ascension-project-megazord-review-1849474605">playing with them</a>. It’s been a killer year for cool nerdy collectibles, so here’s just a few of our favorite things we picked up in the proverbial toy aisle this past year.<br /></p><p><a href="https://gizmodo.com/best-toys-2022-lego-hasbro-marvel-gunpla-neca-joytoy-1849927650">Read more...</a></p>
+
+## Avatar 2 Continues To Make Waves at the Box Office
+ - [https://gizmodo.com/avatar-2-the-way-of-water-box-office-james-cameron-1849929959](https://gizmodo.com/avatar-2-the-way-of-water-box-office-james-cameron-1849929959)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-26 19:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--MzLeN1Wm--/c_fit,fl_progressive,q_80,w_636/d822e8893f3f440d224df4287c4a9ab3.jpg" /><p>Even though a chilling bomb cyclone hurtled across the United States, audiences still found a way to make it out to the movies during <a href="https://gizmodo.com/avatar-way-of-water-christmas-carol-wtf-james-cameron-1849916220">Christmas</a> and Christmas Eve, says <a href="https://www.hollywoodreporter.com/movies/movie-news/avatar-2-box-office-battles-storm-elliott-1235287265/" rel="noopener noreferrer" target="_blank">The Hollywood Reporter</a>. While <a href="https://gizmodo.com/avatar-2-the-way-of-water-comic-prequel-space-battle-1849920622"><em>Avatar: The Way of Water</em></a> continued to bring in the big bucks, other films like<em> Puss in Boots</em>, <a href="https://gizmodo.com/black-panther-wakanda-forever-original-plans-1849928042"><em>Black Panther: Wakanda</em>…</a></p><p><a href="https://gizmodo.com/avatar-2-the-way-of-water-box-office-james-cameron-1849929959">Read more...</a></p>
+
+## 3 Seconds of Every TNG Episode Is a Wild Way to Experience Star Trek
+ - [https://gizmodo.com/star-trek-the-next-generation-every-episode-montage-wtf-1849927716](https://gizmodo.com/star-trek-the-next-generation-every-episode-montage-wtf-1849927716)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-26 17:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--nRE8tiKP--/c_fit,fl_progressive,q_80,w_636/b46c3e910048e66c46e9610ba8e6fad3.png" /><p>There’s a <a href="https://gizmodo.com/star-trek-release-dates-where-to-stream-picard-discover-1848839650"><em>lot </em>of <em>Star Trek</em></a>, and a lot of it is very watchable—especially in the iconic sophomore series <a href="https://gizmodo.com/comic-con-2022-star-trek-picard-season-3-teaser-posters-1849218230"><em>The Next Generation</em></a>, which helped truly catapult the franchise into the pop culture stratosphere. Asking a <em>Trek</em> neophyte <a href="https://gizmodo.com/star-trek-jumping-on-points-best-to-worst-1849435768">to dive into</a> over five days of TV is a daunting task, however. So why not just give them an …</p><p><a href="https://gizmodo.com/star-trek-the-next-generation-every-episode-montage-wtf-1849927716">Read more...</a></p>
+
+## Outlander Season 7 Dreams of Electric Shee—Er, Lights
+ - [https://gizmodo.com/outlander-season-7-teaser-trailer-jamie-claire-starz-1849929758](https://gizmodo.com/outlander-season-7-teaser-trailer-jamie-claire-starz-1849929758)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-26 15:30:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--kc77ZWpy--/c_fit,fl_progressive,q_80,w_636/21cb9e9345a245e6a2613aff6929dfee.jpg" /><p>The <a href="https://gizmodo.com/outlanders-universe-will-expand-with-a-starz-prequel-se-1848595785">Frasers</a> are back, and hoo boy, they sure look like they’re in for a heap of... dreams about electric lightning? Even though I believe early 20th-century nurse Claire (Caitriona Balfe) and 18th-century Scottish <a href="https://gizmodo.com/highlanders-endless-imagination-gives-it-an-enduring-le-1846328482">Highlander</a> Jamie (Sam Heughan) are currently living somewhere on the American frontier during the…</p><p><a href="https://gizmodo.com/outlander-season-7-teaser-trailer-jamie-claire-starz-1849929758">Read more...</a></p>
+
+## How Would a Self-Driving Car Handle the Trolley Problem?
+ - [https://gizmodo.com/mit-self-driving-car-trolley-problem-robot-ethics-uber-1849925401](https://gizmodo.com/mit-self-driving-car-trolley-problem-robot-ethics-uber-1849925401)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-26 13:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--cWgSlzZL--/c_fit,fl_progressive,q_80,w_636/b85f6ef77f75b985383030ba20e79978.jpg" /><p><em>What would you do if you saw a self-driving car hit a person?</em></p><p><a href="https://gizmodo.com/mit-self-driving-car-trolley-problem-robot-ethics-uber-1849925401">Read more...</a></p>
