@@ -1,0 +1,1408 @@
+# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+
+## Supreme Court keeps in place Trump-era immigration policy allowing asylum-seekers to be quickly turned away
+ - [http://www.msn.com/en-us/news/politics/supreme-court-keeps-in-place-trump-era-immigration-policy-allowing-asylum-seekers-to-be-quickly-turned-away/ar-AA15IBCD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/supreme-court-keeps-in-place-trump-era-immigration-policy-allowing-asylum-seekers-to-be-quickly-turned-away/ar-AA15IBCD?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 23:11:24.857844+00:00
+
+
+
+## Incoming House Republican Urges George Santos Investigation: 'Required'
+ - [http://www.msn.com/en-us/news/politics/incoming-house-republican-urges-george-santos-investigation-required/ar-AA15IjHe?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/incoming-house-republican-urges-george-santos-investigation-required/ar-AA15IjHe?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 23:11:24.847882+00:00
+
+
+
+## Supreme Court Keeps Title 42 Immigration Policy in Place
+ - [http://www.msn.com/en-us/news/politics/supreme-court-keeps-title-42-immigration-policy-in-place/ar-AA15IH19?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/supreme-court-keeps-title-42-immigration-policy-in-place/ar-AA15IH19?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 23:11:24.839987+00:00
+
+
+
+## Steven Mnuchin testifies he talked to Pompeo about 25th Amendment, despite Pompeo denial
+ - [http://www.msn.com/en-us/news/politics/steven-mnuchin-testifies-he-talked-to-pompeo-about-25th-amendment-despite-pompeo-denial/ar-AA15IElI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/steven-mnuchin-testifies-he-talked-to-pompeo-about-25th-amendment-despite-pompeo-denial/ar-AA15IElI?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 23:11:24.832715+00:00
+
+
+
+## Top US court keeps curb on migrants crossing border
+ - [http://www.msn.com/en-us/news/world/top-us-court-keeps-curb-on-migrants-crossing-border/ar-AA15IJAc?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/top-us-court-keeps-curb-on-migrants-crossing-border/ar-AA15IJAc?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 23:11:24.825843+00:00
+
+
+
+## Former Trump aide said he and other staffers couldn't imagine Trump marching to the Capitol on January 6 because he'd 'never seen the man walk across a golf course without a golf cart'
+ - [http://www.msn.com/en-us/news/politics/former-trump-aide-said-he-and-other-staffers-couldn-t-imagine-trump-marching-to-the-capitol-on-january-6-because-he-d-never-seen-the-man-walk-across-a-golf-course-without-a-golf-cart/ar-AA15IjH4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/former-trump-aide-said-he-and-other-staffers-couldn-t-imagine-trump-marching-to-the-capitol-on-january-6-because-he-d-never-seen-the-man-walk-across-a-golf-course-without-a-golf-cart/ar-AA15IjH4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 23:11:24.818237+00:00
+
+
+
+## Russian foreign minister says Ukraine must demilitarize or Russia will do it
+ - [http://www.msn.com/en-us/news/world/russian-foreign-minister-says-ukraine-must-demilitarize-or-russia-will-do-it/ar-AA15IDLC?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/russian-foreign-minister-says-ukraine-must-demilitarize-or-russia-will-do-it/ar-AA15IDLC?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.076526+00:00
+
+
+
+## US Supreme Court Orders Title 42 Border Restrictions Kept in Effect
+ - [http://www.msn.com/en-us/news/politics/us-supreme-court-orders-title-42-border-restrictions-kept-in-effect/ar-AA15IL7R?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/us-supreme-court-orders-title-42-border-restrictions-kept-in-effect/ar-AA15IL7R?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.069776+00:00
+
+
+
+## Supreme Court keeps Title 42 immigration policy in place for now
+ - [http://www.msn.com/en-us/news/politics/supreme-court-keeps-title-42-immigration-policy-in-place-for-now/ar-AA15ILen?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/supreme-court-keeps-title-42-immigration-policy-in-place-for-now/ar-AA15ILen?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.063012+00:00
+
+
+
+## Kayakers Save Pilot from Icy Creek After Plane Crash in Maryland: 'Their Efforts Were Heroic'
+ - [http://www.msn.com/en-us/news/us/kayakers-save-pilot-from-icy-creek-after-plane-crash-in-maryland-their-efforts-were-heroic/ar-AA15IJ5S?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/kayakers-save-pilot-from-icy-creek-after-plane-crash-in-maryland-their-efforts-were-heroic/ar-AA15IJ5S?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.056250+00:00
+
+
+
+## Supreme Court orders Title 42 border restrictions to remain in place
+ - [http://www.msn.com/en-us/news/politics/supreme-court-orders-title-42-border-restrictions-to-remain-in-place/ar-AA15HZ6r?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/supreme-court-orders-title-42-border-restrictions-to-remain-in-place/ar-AA15HZ6r?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.049501+00:00
+
+
+
+## Supreme Court keeps Title 42 in place while agreeing to hear states' appeal
+ - [http://www.msn.com/en-us/news/politics/supreme-court-keeps-title-42-in-place-while-agreeing-to-hear-states-appeal/ar-AA15IGrs?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/supreme-court-keeps-title-42-in-place-while-agreeing-to-hear-states-appeal/ar-AA15IGrs?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.042922+00:00
+
+
+
+## Lake on hook for $33K in witness fees in failed challenge
+ - [http://www.msn.com/en-us/news/politics/lake-on-hook-for-33k-in-witness-fees-in-failed-challenge/ar-AA15Ijx5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/lake-on-hook-for-33k-in-witness-fees-in-failed-challenge/ar-AA15Ijx5?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 22:11:26.034384+00:00
+
+
+
+## Next year’s fiscal outlook
+ - [http://www.msn.com/en-us/news/politics/next-year-s-fiscal-outlook/ar-AA15INcO?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/next-year-s-fiscal-outlook/ar-AA15INcO?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.288704+00:00
+
+
+
+## Putin Turns on Oligarchs to Shore Up Russian Economic, Battlefield Woes
+ - [http://www.msn.com/en-us/news/world/putin-turns-on-oligarchs-to-shore-up-russian-economic-battlefield-woes/ar-AA15IpGG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/putin-turns-on-oligarchs-to-shore-up-russian-economic-battlefield-woes/ar-AA15IpGG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.281279+00:00
+
+
+
+## Biden heading to US Virgin Islands to relax between holidays
+ - [http://www.msn.com/en-us/news/politics/biden-heading-to-us-virgin-islands-to-relax-between-holidays/ar-AA15IFPU?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/biden-heading-to-us-virgin-islands-to-relax-between-holidays/ar-AA15IFPU?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.274053+00:00
+
+
+
+## House set to release Trump's redacted tax returns on Friday
+ - [http://www.msn.com/en-us/news/politics/house-set-to-release-trump-s-redacted-tax-returns-on-friday/ar-AA15I3Of?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/house-set-to-release-trump-s-redacted-tax-returns-on-friday/ar-AA15I3Of?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.265829+00:00
+
+
+
+## Incoming GOP congressman George Santos reportedly lied about his employment, his education, losing four employees in the Pulse shooting, his residence, and his religious background
+ - [http://www.msn.com/en-us/news/politics/incoming-gop-congressman-george-santos-reportedly-lied-about-his-employment-his-education-losing-four-employees-in-the-pulse-shooting-his-residence-and-his-religious-background/ar-AA15s46f?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/incoming-gop-congressman-george-santos-reportedly-lied-about-his-employment-his-education-losing-four-employees-in-the-pulse-shooting-his-residence-and-his-religious-background/ar-AA15s46f?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.259010+00:00
+
+
+
+## After Georgia Dad Is Killed in Driveway, Daughter Writes to Santa: 'Can I Please Have My Daddy Back'
+ - [http://www.msn.com/en-us/news/crime/after-georgia-dad-is-killed-in-driveway-daughter-writes-to-santa-can-i-please-have-my-daddy-back/ar-AA15IzPf?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/after-georgia-dad-is-killed-in-driveway-daughter-writes-to-santa-can-i-please-have-my-daddy-back/ar-AA15IzPf?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.251941+00:00
+
+
+
+## Residents of Mississippi capital 'tired of apologies' as water stoppages continue
+ - [http://www.msn.com/en-us/news/us/residents-of-mississippi-capital-tired-of-apologies-as-water-stoppages-continue/ar-AA15IBdw?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/residents-of-mississippi-capital-tired-of-apologies-as-water-stoppages-continue/ar-AA15IBdw?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 21:01:53.244187+00:00
+
+
+
+## Southwest Cancellations Leave Thousands Stranded as Luggage Piles Up
+ - [http://www.msn.com/en-us/news/world/southwest-cancellations-leave-thousands-stranded-as-luggage-piles-up/vi-AA15IzzS?srcref=rss](http://www.msn.com/en-us/news/world/southwest-cancellations-leave-thousands-stranded-as-luggage-piles-up/vi-AA15IzzS?srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:30:41.033019+00:00
+
+
+
+## North Carolina could host record-setting $100 million governor's race in 2024
+ - [http://www.msn.com/en-us/news/politics/north-carolina-could-host-record-setting-100-million-governor-s-race-in-2024/ar-AA15Iw9U?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/north-carolina-could-host-record-setting-100-million-governor-s-race-in-2024/ar-AA15Iw9U?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:30:41.025114+00:00
+
+
+
+## Our readers' most purchased books in 2022
+ - [http://www.msn.com/en-us/news/us/our-readers-most-purchased-books-in-2022/ar-AA15IATp?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/our-readers-most-purchased-books-in-2022/ar-AA15IATp?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:30:41.017972+00:00
+
+
+
+## Bill forcing feds to fix prison cameras is signed into law
+ - [http://www.msn.com/en-us/news/politics/bill-forcing-feds-to-fix-prison-cameras-is-signed-into-law/ar-AA15IAX9?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/bill-forcing-feds-to-fix-prison-cameras-is-signed-into-law/ar-AA15IAX9?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:30:41.011096+00:00
+
+
+
+## Rescue Saves Pregnant Dog from Freezing Weather Days Before Pet Gives Birth to 9 Puppies
+ - [http://www.msn.com/en-us/news/us/rescue-saves-pregnant-dog-from-freezing-weather-days-before-pet-gives-birth-to-9-puppies/ar-AA15IIjQ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/rescue-saves-pregnant-dog-from-freezing-weather-days-before-pet-gives-birth-to-9-puppies/ar-AA15IIjQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:30:41.003718+00:00
+
+
+
+## New York county GOP chairman says he’s ‘deeply disappointed’ in Santos revelations
+ - [http://www.msn.com/en-us/news/politics/new-york-county-gop-chairman-says-he-s-deeply-disappointed-in-santos-revelations/ar-AA15Ijdx?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/new-york-county-gop-chairman-says-he-s-deeply-disappointed-in-santos-revelations/ar-AA15Ijdx?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:30:40.996632+00:00
+
+
+
+## Congress must follow these new year’s resolutions
+ - [http://www.msn.com/en-us/news/politics/congress-must-follow-these-new-year-s-resolutions/ar-AA15IhgL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/congress-must-follow-these-new-year-s-resolutions/ar-AA15IhgL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.410298+00:00
+
+
+
+## Kentucky woman wins $175,000 lottery jackpot in her office's holiday gift exchange
+ - [http://www.msn.com/en-us/news/us/kentucky-woman-wins-175-000-lottery-jackpot-in-her-office-s-holiday-gift-exchange/ar-AA15In4n?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/kentucky-woman-wins-175-000-lottery-jackpot-in-her-office-s-holiday-gift-exchange/ar-AA15In4n?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.403353+00:00
+
+
+
+## Little Trans Women: New York Times op-ed claims author Louisa May Alcott was a trans man
+ - [http://www.msn.com/en-us/news/us/little-trans-women-new-york-times-op-ed-claims-author-louisa-may-alcott-was-a-trans-man/ar-AA15IFnF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/little-trans-women-new-york-times-op-ed-claims-author-louisa-may-alcott-was-a-trans-man/ar-AA15IFnF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.395782+00:00
+
+
+
+## Jan. 6 committee interview sheds light on origins of Proud Boys ‘1776 returns’ document
+ - [http://www.msn.com/en-us/news/us/jan-6-committee-interview-sheds-light-on-origins-of-proud-boys-1776-returns-document/ar-AA15IzoE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/jan-6-committee-interview-sheds-light-on-origins-of-proud-boys-1776-returns-document/ar-AA15IzoE?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.388386+00:00
+
+
+
+## Meghan Markle Defended After Being Branded Narcissist: 'Proves Her Point'
+ - [http://www.msn.com/en-us/news/world/meghan-markle-defended-after-being-branded-narcissist-proves-her-point/ar-AA15IADo?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/meghan-markle-defended-after-being-branded-narcissist-proves-her-point/ar-AA15IADo?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.381038+00:00
+
+
+
+## You Need to Stop Reheating Christmas Leftovers in the Microwave
+ - [http://www.msn.com/en-us/news/technology/you-need-to-stop-reheating-christmas-leftovers-in-the-microwave/ar-AAZThVb?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/you-need-to-stop-reheating-christmas-leftovers-in-the-microwave/ar-AAZThVb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.374329+00:00
+
+
+
+## Winter weather cripples water systems across the Deep South
+ - [http://www.msn.com/en-us/news/politics/winter-weather-cripples-water-systems-across-the-deep-south/ar-AA15Isl3?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/winter-weather-cripples-water-systems-across-the-deep-south/ar-AA15Isl3?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.367407+00:00
+
+
+
+## N.J. Woman Accused of Murdering Husband on Christmas; Victim Was Active in Local Politics
+ - [http://www.msn.com/en-us/news/crime/n-j-woman-accused-of-murdering-husband-on-christmas-victim-was-active-in-local-politics/ar-AA15I9r1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/n-j-woman-accused-of-murdering-husband-on-christmas-victim-was-active-in-local-politics/ar-AA15I9r1?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 20:01:47.359387+00:00
+
+
+
+## Abduction, torture, rape: Conflict in Congo worsens, says U.N.
+ - [http://www.msn.com/en-us/news/world/abduction-torture-rape-conflict-in-congo-worsens-says-u-n/ar-AA15IiTV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/abduction-torture-rape-conflict-in-congo-worsens-says-u-n/ar-AA15IiTV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.775321+00:00
+
+
+
+## Putin's Soldiers Are Running Away From Key Battles: Ukraine
+ - [http://www.msn.com/en-us/news/world/putin-s-soldiers-are-running-away-from-key-battles-ukraine/ar-AA15IcEa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/putin-s-soldiers-are-running-away-from-key-battles-ukraine/ar-AA15IcEa?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.768618+00:00
+
+
+
+## "Unfounded attacks": Kari Lake and her team may face sanctions over false election claims
+ - [http://www.msn.com/en-us/news/politics/unfounded-attacks-kari-lake-and-her-team-may-face-sanctions-over-false-election-claims/ar-AA15ImRF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/unfounded-attacks-kari-lake-and-her-team-may-face-sanctions-over-false-election-claims/ar-AA15ImRF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.761720+00:00
+
+
+
+## Virginia Zoo Introduces Rare Baby Hippo Over Christmas Weekend
+ - [http://www.msn.com/en-us/news/us/virginia-zoo-introduces-rare-baby-hippo-over-christmas-weekend/ar-AA15If2n?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/virginia-zoo-introduces-rare-baby-hippo-over-christmas-weekend/ar-AA15If2n?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.754739+00:00
+
+
+
+## Election denier Jamie Raskin wants to protect our electoral system by destroying it
+ - [http://www.msn.com/en-us/news/politics/election-denier-jamie-raskin-wants-to-protect-our-electoral-system-by-destroying-it/ar-AA15ImQm?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/election-denier-jamie-raskin-wants-to-protect-our-electoral-system-by-destroying-it/ar-AA15ImQm?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.747868+00:00
+
+
+
+## 2022 decimated abortion rights: The path forward for 2023
+ - [http://www.msn.com/en-us/news/politics/2022-decimated-abortion-rights-the-path-forward-for-2023/ar-AA15If7B?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/2022-decimated-abortion-rights-the-path-forward-for-2023/ar-AA15If7B?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.741103+00:00
+
+
+
+## South Korea apologizes to citizens for failing to down North Korean drones that violated airspace
+ - [http://www.msn.com/en-us/news/world/south-korea-apologizes-to-citizens-for-failing-to-down-north-korean-drones-that-violated-airspace/ar-AA15Ip3N?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/south-korea-apologizes-to-citizens-for-failing-to-down-north-korean-drones-that-violated-airspace/ar-AA15Ip3N?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.733809+00:00
+
+
+
+## Hearing delayed for ex-DA charged in wake of Arbery killing
+ - [http://www.msn.com/en-us/news/crime/hearing-delayed-for-ex-da-charged-in-wake-of-arbery-killing/ar-AA15IzdW?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/hearing-delayed-for-ex-da-charged-in-wake-of-arbery-killing/ar-AA15IzdW?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:30:34.726722+00:00
+
+
+
+## Nuns, Knights push on with ‘March for Life’ after Roe
+ - [http://www.msn.com/en-us/news/politics/nuns-knights-push-on-with-march-for-life-after-roe/ar-AA15Imje?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/nuns-knights-push-on-with-march-for-life-after-roe/ar-AA15Imje?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.652862+00:00
+
+
+
+## Black creators say they ‘have to be perfect’ to get promotional products from brands. They want that to change.
+ - [http://www.msn.com/en-us/news/us/black-creators-say-they-have-to-be-perfect-to-get-promotional-products-from-brands-they-want-that-to-change/ar-AA15Ime2?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/black-creators-say-they-have-to-be-perfect-to-get-promotional-products-from-brands-they-want-that-to-change/ar-AA15Ime2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.646020+00:00
+
+
+
+## George Santos' Lies Spark Talk of Ilhan Omar 'Marrying Her Brother'
+ - [http://www.msn.com/en-us/news/politics/george-santos-lies-spark-talk-of-ilhan-omar-marrying-her-brother/ar-AA15Irp2?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/george-santos-lies-spark-talk-of-ilhan-omar-marrying-her-brother/ar-AA15Irp2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.638706+00:00
+
+
+
+## New M. Night Shyamalan Trailer Teases More Agony From 'Knock at the Cabin'
+ - [http://www.msn.com/en-us/news/technology/new-m-night-shyamalan-trailer-teases-more-agony-from-knock-at-the-cabin/ar-AA15I91C?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/new-m-night-shyamalan-trailer-teases-more-agony-from-knock-at-the-cabin/ar-AA15I91C?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.631802+00:00
+
+
+
+## Navy to name ship after Marine battles in Fallujah, Iraq
+ - [http://www.msn.com/en-us/news/world/navy-to-name-ship-after-marine-battles-in-fallujah-iraq/ar-AA15IoDa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/navy-to-name-ship-after-marine-battles-in-fallujah-iraq/ar-AA15IoDa?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.625081+00:00
+
+
+
+## Israel Police announced arrest of ISIS-linked suspect in bus station terror bombings
+ - [http://www.msn.com/en-us/news/world/israel-police-announced-arrest-of-isis-linked-suspect-in-bus-station-terror-bombings/ar-AA15Irwv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/israel-police-announced-arrest-of-isis-linked-suspect-in-bus-station-terror-bombings/ar-AA15Irwv?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.617883+00:00
+
+
+
+## Emoji lovers submit new design ideas
+ - [http://www.msn.com/en-us/news/technology/emoji-lovers-submit-new-design-ideas/ar-AA15I4Ng?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/emoji-lovers-submit-new-design-ideas/ar-AA15I4Ng?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.610727+00:00
+
+
+
+## Woman, 22, Dies After Getting Trapped in Her Car for 18 Hours During Blizzard: 'She Was Scared'
+ - [http://www.msn.com/en-us/news/us/woman-22-dies-after-getting-trapped-in-her-car-for-18-hours-during-blizzard-she-was-scared/ar-AA15Irxk?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/woman-22-dies-after-getting-trapped-in-her-car-for-18-hours-during-blizzard-she-was-scared/ar-AA15Irxk?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 19:01:42.603708+00:00
+
+
+
+## New York Rep.-elect George Santos admits lying about his career and college education
+ - [http://www.msn.com/en-us/news/politics/new-york-rep-elect-george-santos-admits-lying-about-his-career-and-college-education/ar-AA15IqWq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/new-york-rep-elect-george-santos-admits-lying-about-his-career-and-college-education/ar-AA15IqWq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:30:31.214185+00:00
+
+
+
+## Katie Hobbs Seeks Sanctions Against Kari Lake over 'Frivolous' Election Lawsuit: 'Enough Really Is Enough'
+ - [http://www.msn.com/en-us/news/politics/katie-hobbs-seeks-sanctions-against-kari-lake-over-frivolous-election-lawsuit-enough-really-is-enough/ar-AA15IqT2?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/katie-hobbs-seeks-sanctions-against-kari-lake-over-frivolous-election-lawsuit-enough-really-is-enough/ar-AA15IqT2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:30:31.205810+00:00
+
+
+
+## White House touts 'all-time record' for early Obamacare enrollment
+ - [http://www.msn.com/en-us/news/politics/white-house-touts-all-time-record-for-early-obamacare-enrollment/ar-AA15I8Pv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/white-house-touts-all-time-record-for-early-obamacare-enrollment/ar-AA15I8Pv?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:30:31.198889+00:00
+
+
+
+## ADL chief blasts ‘offensive’ Whoopi Goldberg comments on Holocaust
+ - [http://www.msn.com/en-us/news/us/adl-chief-blasts-offensive-whoopi-goldberg-comments-on-holocaust/ar-AA15Iysp?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/adl-chief-blasts-offensive-whoopi-goldberg-comments-on-holocaust/ar-AA15Iysp?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:30:31.191730+00:00
+
+
+
+## Republican Jewish Coalition denounces Santos for lies about his credentials
+ - [http://www.msn.com/en-us/news/politics/republican-jewish-coalition-denounces-santos-for-lies-about-his-credentials/ar-AA15Iqy7?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/republican-jewish-coalition-denounces-santos-for-lies-about-his-credentials/ar-AA15Iqy7?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.051478+00:00
+
+
+
+## Tenn. Woman Accused of Multiple Carjackings, Using 5-Year-Old Child as Human Shield After Firing Gun
+ - [http://www.msn.com/en-us/news/crime/tenn-woman-accused-of-multiple-carjackings-using-5-year-old-child-as-human-shield-after-firing-gun/ar-AA15IqDQ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/tenn-woman-accused-of-multiple-carjackings-using-5-year-old-child-as-human-shield-after-firing-gun/ar-AA15IqDQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.044699+00:00
+
+
+
+## Flock of birds flying near South Korea mistaken for another North Korean drone
+ - [http://www.msn.com/en-us/news/world/flock-of-birds-flying-near-south-korea-mistaken-for-another-north-korean-drone/ar-AA15IglL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/flock-of-birds-flying-near-south-korea-mistaken-for-another-north-korean-drone/ar-AA15IglL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.037936+00:00
+
+
+
+## Spain announces €10bn help to tackle rising prices
+ - [http://www.msn.com/en-us/news/world/spain-announces-10bn-help-to-tackle-rising-prices/ar-AA15Itct?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/spain-announces-10bn-help-to-tackle-rising-prices/ar-AA15Itct?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.031131+00:00
+
+
+
+## Republican Jewish Coalition says Congressman-elect George Santos 'personally' lied to them about being Jewish
+ - [http://www.msn.com/en-us/news/politics/republican-jewish-coalition-says-congressman-elect-george-santos-personally-lied-to-them-about-being-jewish/ar-AA15Ivkn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/republican-jewish-coalition-says-congressman-elect-george-santos-personally-lied-to-them-about-being-jewish/ar-AA15Ivkn?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.024298+00:00
+
+
+
+## Top 3 Reasons to Show Yourself Compassion This Year, and How to Start
+ - [http://www.msn.com/en-us/news/technology/top-3-reasons-to-show-yourself-compassion-this-year-and-how-to-start/ar-AA15HDJW?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/top-3-reasons-to-show-yourself-compassion-this-year-and-how-to-start/ar-AA15HDJW?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.017705+00:00
+
+
+
+## France to provide 2 satellites, receiving station to Poland
+ - [http://www.msn.com/en-us/news/world/france-to-provide-2-satellites-receiving-station-to-poland/ar-AA15IqLf?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/france-to-provide-2-satellites-receiving-station-to-poland/ar-AA15IqLf?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 18:01:38.009113+00:00
+
+
+
+## Whoopi Goldberg faces backlash after repeating false Holocaust comments
+ - [http://www.msn.com/en-us/news/world/whoopi-goldberg-faces-backlash-after-repeating-false-holocaust-comments/ar-AA15Ig4n?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/whoopi-goldberg-faces-backlash-after-repeating-false-holocaust-comments/ar-AA15Ig4n?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.112173+00:00
+
+
+
+## Co-leader of a plot to kidnap Michigan Gov. Gretchen Whitmer gets 16 years in prison
+ - [http://www.msn.com/en-us/news/crime/co-leader-of-a-plot-to-kidnap-michigan-gov-gretchen-whitmer-gets-16-years-in-prison/ar-AA15IbiD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/co-leader-of-a-plot-to-kidnap-michigan-gov-gretchen-whitmer-gets-16-years-in-prison/ar-AA15IbiD?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.105385+00:00
+
+
+
+## Co-leader of Whitmer kidnapping plot gets 16 years in prison
+ - [http://www.msn.com/en-us/news/crime/co-leader-of-whitmer-kidnapping-plot-gets-16-years-in-prison/ar-AA15IikF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/co-leader-of-whitmer-kidnapping-plot-gets-16-years-in-prison/ar-AA15IikF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.098582+00:00
+
+
+
+## Republican Jewish Coalition says George Santos ‘not welcome’ at events after revelations
+ - [http://www.msn.com/en-us/news/politics/republican-jewish-coalition-says-george-santos-not-welcome-at-events-after-revelations/ar-AA15InQa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/republican-jewish-coalition-says-george-santos-not-welcome-at-events-after-revelations/ar-AA15InQa?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.091749+00:00
+
+
+
+## Prominent Children's Theater Director Found Dead in Home Days After Being Accused of Sex Abuse
+ - [http://www.msn.com/en-us/news/crime/prominent-children-s-theater-director-found-dead-in-home-days-after-being-accused-of-sex-abuse/ar-AA15HYl4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/prominent-children-s-theater-director-found-dead-in-home-days-after-being-accused-of-sex-abuse/ar-AA15HYl4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.084520+00:00
+
+
+
+## Here’s a list of Putin critics who've ended up dead
+ - [http://www.msn.com/en-us/news/world/here-s-a-list-of-putin-critics-who-ve-ended-up-dead/ar-AA15I8uq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/here-s-a-list-of-putin-critics-who-ve-ended-up-dead/ar-AA15I8uq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.077858+00:00
+
+
+
+## Still recovering from COVID-19, US public transit tries to get back on track
+ - [http://www.msn.com/en-us/news/us/still-recovering-from-covid-19-us-public-transit-tries-to-get-back-on-track/ar-AA15IlyI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/still-recovering-from-covid-19-us-public-transit-tries-to-get-back-on-track/ar-AA15IlyI?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:30:26.067064+00:00
+
+
+
+## Taiwan Extends Mandatory Military Service, Citing Beijing Threat
+ - [http://www.msn.com/en-us/news/world/taiwan-extends-mandatory-military-service-citing-beijing-threat/ar-AA15HiUb?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/taiwan-extends-mandatory-military-service-citing-beijing-threat/ar-AA15HiUb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.186834+00:00
+
+
+
+## Iranian soccer legend says family was removed from flight
+ - [http://www.msn.com/en-us/news/politics/iranian-soccer-legend-says-family-was-removed-from-flight/ar-AA15Idr9?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/iranian-soccer-legend-says-family-was-removed-from-flight/ar-AA15Idr9?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.180058+00:00
+
+
+
+## A 22-year-old Buffalo woman dies after blizzard traps her inside car for 18 hours
+ - [http://www.msn.com/en-us/news/crime/a-22-year-old-buffalo-woman-dies-after-blizzard-traps-her-inside-car-for-18-hours/ar-AA15IsE7?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/a-22-year-old-buffalo-woman-dies-after-blizzard-traps-her-inside-car-for-18-hours/ar-AA15IsE7?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.173282+00:00
+
+
+
+## George Santos deleted his campaign biography and blamed 'elitist' New York Times for his lies about his employment history
+ - [http://www.msn.com/en-us/news/politics/george-santos-deleted-his-campaign-biography-and-blamed-elitist-new-york-times-for-his-lies-about-his-employment-history/ar-AA15IfVq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/george-santos-deleted-his-campaign-biography-and-blamed-elitist-new-york-times-for-his-lies-about-his-employment-history/ar-AA15IfVq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.166531+00:00
+
+
+
+## Newly Discovered Asteroid Is a Weird 'Mini Moon' on a 200-Year Visit to Earth
+ - [http://www.msn.com/en-us/news/technology/newly-discovered-asteroid-is-a-weird-mini-moon-on-a-200-year-visit-to-earth/ar-AA15Isy1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/newly-discovered-asteroid-is-a-weird-mini-moon-on-a-200-year-visit-to-earth/ar-AA15Isy1?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.159650+00:00
+
+
+
+## Buffalo Man Telling Looters to 'Put Everything Back' Praised as 'Hero'
+ - [http://www.msn.com/en-us/news/crime/buffalo-man-telling-looters-to-put-everything-back-praised-as-hero/ar-AA15Iq7P?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/buffalo-man-telling-looters-to-put-everything-back-praised-as-hero/ar-AA15Iq7P?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.152923+00:00
+
+
+
+## Man who plotted to kidnap Michigan governor sentenced to 16 years in prison
+ - [http://www.msn.com/en-us/news/crime/man-who-plotted-to-kidnap-michigan-governor-sentenced-to-16-years-in-prison/ar-AA15Il7C?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/man-who-plotted-to-kidnap-michigan-governor-sentenced-to-16-years-in-prison/ar-AA15Il7C?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.146079+00:00
+
+
+
+## Florida lawmaker weighs expanding controversial 'Don't Say Gay' law to middle schoolers
+ - [http://www.msn.com/en-us/news/us/florida-lawmaker-weighs-expanding-controversial-don-t-say-gay-law-to-middle-schoolers/ar-AA15I7qc?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/florida-lawmaker-weighs-expanding-controversial-don-t-say-gay-law-to-middle-schoolers/ar-AA15I7qc?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 17:01:33.138294+00:00
+
+
+
+## Ukraine aims for February peace summit as Russian attacks and threats continue
+ - [http://www.msn.com/en-us/news/world/ukraine-aims-for-february-peace-summit-as-russian-attacks-and-threats-continue/ar-AA15Iia2?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/ukraine-aims-for-february-peace-summit-as-russian-attacks-and-threats-continue/ar-AA15Iia2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.908958+00:00
+
+
+
+## Emoji lovers create new designs: 'Language is just as artistic as music'
+ - [http://www.msn.com/en-us/news/technology/emoji-lovers-create-new-designs-language-is-just-as-artistic-as-music/ar-AA15I4Ng?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/emoji-lovers-create-new-designs-language-is-just-as-artistic-as-music/ar-AA15I4Ng?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.901485+00:00
+
+
+
+## 2022 in review: From Russia without love
+ - [http://www.msn.com/en-us/news/world/2022-in-review-from-russia-without-love/ar-AA15IaHc?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/2022-in-review-from-russia-without-love/ar-AA15IaHc?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.894573+00:00
+
+
+
+## Kari Lake’s long-shot lawsuit challenging her midterms loss, explained
+ - [http://www.msn.com/en-us/news/politics/kari-lake-s-long-shot-lawsuit-challenging-her-midterms-loss-explained/ar-AA15vnqH?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/kari-lake-s-long-shot-lawsuit-challenging-her-midterms-loss-explained/ar-AA15vnqH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.887655+00:00
+
+
+
+## 'A lone Trump-appointed judge in Texas' should not have the ability to block student-loan forgiveness for millions of Americans, says a Democratic lawmaker introducing a bill to stop it from happening again
+ - [http://www.msn.com/en-us/news/politics/a-lone-trump-appointed-judge-in-texas-should-not-have-the-ability-to-block-student-loan-forgiveness-for-millions-of-americans-says-a-democratic-lawmaker-introducing-a-bill-to-stop-it-from-happening-again/ar-AA15I4Sj?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/a-lone-trump-appointed-judge-in-texas-should-not-have-the-ability-to-block-student-loan-forgiveness-for-millions-of-americans-says-a-democratic-lawmaker-introducing-a-bill-to-stop-it-from-happening-again/ar-AA15I4Sj?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.880890+00:00
+
+
+
+## Mega Millions hits $565M but prize isn't even in the top 10
+ - [http://www.msn.com/en-us/news/us/mega-millions-hits-565m-but-prize-isn-t-even-in-the-top-10/ar-AA15I2hm?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/mega-millions-hits-565m-but-prize-isn-t-even-in-the-top-10/ar-AA15I2hm?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.874123+00:00
+
+
+
+## Man sentenced to 16 years for plotting to kidnap Michigan Gov. Gretchen Whitmer
+ - [http://www.msn.com/en-us/news/us/man-sentenced-to-16-years-for-plotting-to-kidnap-michigan-gov-gretchen-whitmer/ar-AA15IkYB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/man-sentenced-to-16-years-for-plotting-to-kidnap-michigan-gov-gretchen-whitmer/ar-AA15IkYB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.866130+00:00
+
+
+
+## Jan. 6 Committee Democrat slammed for calling Electoral College a 'danger' to Americans
+ - [http://www.msn.com/en-us/news/politics/jan-6-committee-democrat-slammed-for-calling-electoral-college-a-danger-to-americans/ar-AA15InhY?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/jan-6-committee-democrat-slammed-for-calling-electoral-college-a-danger-to-americans/ar-AA15InhY?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:30:20.858694+00:00
+
+
+
+## New Year, New Strategy?
+ - [http://www.msn.com/en-us/money/savingandinvesting/new-year-new-strategy/vi-AA15I1T5?srcref=rss](http://www.msn.com/en-us/money/savingandinvesting/new-year-new-strategy/vi-AA15I1T5?srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:01:37.399150+00:00
+
+
+
+## Spain scraps value-added tax on staple foods in aid package
+ - [http://www.msn.com/en-us/news/world/spain-scraps-value-added-tax-on-staple-foods-in-aid-package/ar-AA15HP31?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/spain-scraps-value-added-tax-on-staple-foods-in-aid-package/ar-AA15HP31?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:01:37.392597+00:00
+
+
+
+## Another Putin critic died after falling out of a window
+ - [http://www.msn.com/en-us/news/world/another-putin-critic-died-after-falling-out-of-a-window/ar-AA15I4vg?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/another-putin-critic-died-after-falling-out-of-a-window/ar-AA15I4vg?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:01:37.384007+00:00
+
+
+
+## Man in homophobic, racist In-N-Out TikTok video is arrested on hate crime charges
+ - [http://www.msn.com/en-us/news/us/man-in-homophobic-racist-in-n-out-tiktok-video-is-arrested-on-hate-crime-charges/ar-AA15I4Bn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/man-in-homophobic-racist-in-n-out-tiktok-video-is-arrested-on-hate-crime-charges/ar-AA15I4Bn?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:01:37.376102+00:00
+
+
+
+## Witnesses rescue pilot in Maryland plane crash
+ - [http://www.msn.com/en-us/news/us/witnesses-rescue-pilot-in-maryland-plane-crash/ar-AA15I23h?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/witnesses-rescue-pilot-in-maryland-plane-crash/ar-AA15I23h?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:01:37.368974+00:00
+
+
+
+## UN rights chief urges Taliban to drop restrictions on women
+ - [http://www.msn.com/en-us/news/world/un-rights-chief-urges-taliban-to-drop-restrictions-on-women/ar-AA15I7XM?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/un-rights-chief-urges-taliban-to-drop-restrictions-on-women/ar-AA15I7XM?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 16:01:37.361951+00:00
+
+
+
+## Quebec’s French-First Law Stokes Business Alarm Over Language Cops
+ - [http://www.msn.com/en-us/news/world/quebec-s-french-first-law-stokes-business-alarm-over-language-cops/ar-AA15IagF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/quebec-s-french-first-law-stokes-business-alarm-over-language-cops/ar-AA15IagF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.109077+00:00
+
+
+
+## 10 Ways to Save on Streaming Amid All the Price Hikes
+ - [http://www.msn.com/en-us/news/technology/10-ways-to-save-on-streaming-amid-all-the-price-hikes/ar-AA15I7Ft?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/10-ways-to-save-on-streaming-amid-all-the-price-hikes/ar-AA15I7Ft?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.102291+00:00
+
+
+
+## Virginia minimum wage to increase Jan. 1
+ - [http://www.msn.com/en-us/news/us/virginia-minimum-wage-to-increase-jan-1/ar-AA15HUmy?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/virginia-minimum-wage-to-increase-jan-1/ar-AA15HUmy?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.095364+00:00
+
+
+
+## Former soldier tasked with getting Navy builder in shipshape
+ - [http://www.msn.com/en-us/news/us/former-soldier-tasked-with-getting-navy-builder-in-shipshape/ar-AA15I6eZ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/former-soldier-tasked-with-getting-navy-builder-in-shipshape/ar-AA15I6eZ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.088616+00:00
+
+
+
+## Record number of Nicaraguans making trek to US border: report
+ - [http://www.msn.com/en-us/news/politics/record-number-of-nicaraguans-making-trek-to-us-border-report/ar-AA15I6rD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/record-number-of-nicaraguans-making-trek-to-us-border-report/ar-AA15I6rD?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.081700+00:00
+
+
+
+## A man was arrested after a TikTok video in which a person made racist and homophobic comments went viral, officials say
+ - [http://www.msn.com/en-us/news/crime/a-man-was-arrested-after-a-tiktok-video-in-which-a-person-made-racist-and-homophobic-comments-went-viral-officials-say/ar-AA15HUoL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/a-man-was-arrested-after-a-tiktok-video-in-which-a-person-made-racist-and-homophobic-comments-went-viral-officials-say/ar-AA15HUoL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.074831+00:00
+
+
+
+## Abbott pushes back on criticism after busing migrants to DC on frigid Christmas Eve
+ - [http://www.msn.com/en-us/news/us/abbott-pushes-back-on-criticism-after-busing-migrants-to-dc-on-frigid-christmas-eve/ar-AA15I7Eq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/abbott-pushes-back-on-criticism-after-busing-migrants-to-dc-on-frigid-christmas-eve/ar-AA15I7Eq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.066542+00:00
+
+
+
+## US military families sue French company that pleaded guilty to supporting ISIS
+ - [http://www.msn.com/en-us/news/world/us-military-families-sue-french-company-that-pleaded-guilty-to-supporting-isis/ar-AA15I1Kf?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/us-military-families-sue-french-company-that-pleaded-guilty-to-supporting-isis/ar-AA15I1Kf?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:30:18.059264+00:00
+
+
+
+## These Are the Most Important Elections That Will Shape Global Politics in 2023
+ - [http://www.msn.com/en-us/news/world/these-are-the-most-important-elections-that-will-shape-global-politics-in-2023/ar-AA15I5HO?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/these-are-the-most-important-elections-that-will-shape-global-politics-in-2023/ar-AA15I5HO?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:01:26.284725+00:00
+
+
+
+## Video Shows Russian Tank Obliterated in Ukrainian Strike
+ - [http://www.msn.com/en-us/news/world/video-shows-russian-tank-obliterated-in-ukrainian-strike/ar-AA15HOwI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/video-shows-russian-tank-obliterated-in-ukrainian-strike/ar-AA15HOwI?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:01:26.275844+00:00
+
+
+
+## House to release Trump's redacted tax returns on Tuesday: Report
+ - [http://www.msn.com/en-us/news/politics/house-to-release-trump-s-redacted-tax-returns-on-tuesday-report/ar-AA15I3Of?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/house-to-release-trump-s-redacted-tax-returns-on-tuesday-report/ar-AA15I3Of?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:01:26.269100+00:00
+
+
+
+## Midterms indicate cracking down on critical race theory in public schools won’t win Republicans many new voters
+ - [http://www.msn.com/en-us/news/politics/midterms-indicate-cracking-down-on-critical-race-theory-in-public-schools-won-t-win-republicans-many-new-voters/ar-AA15I1bG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/midterms-indicate-cracking-down-on-critical-race-theory-in-public-schools-won-t-win-republicans-many-new-voters/ar-AA15I1bG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:01:26.261237+00:00
+
+
+
+## Germany's governing coalition argues over COVID restrictions
+ - [http://www.msn.com/en-us/health/health-news/germany-s-governing-coalition-argues-over-covid-restrictions/ar-AA15HEhQ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/health/health-news/germany-s-governing-coalition-argues-over-covid-restrictions/ar-AA15HEhQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 15:01:26.253224+00:00
+
+
+
+## South Korea's leader calls for stealth drones to monitor North Korea
+ - [http://www.msn.com/en-us/news/world/south-korea-s-leader-calls-for-stealth-drones-to-monitor-north-korea/ar-AA15HDZL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/south-korea-s-leader-calls-for-stealth-drones-to-monitor-north-korea/ar-AA15HDZL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:30:12.187869+00:00
+
+
+
+## Congress adds $140M to Hanford cleanup budget
+ - [http://www.msn.com/en-us/news/politics/congress-adds-140m-to-hanford-cleanup-budget/ar-AA15HOlD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/congress-adds-140m-to-hanford-cleanup-budget/ar-AA15HOlD?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:30:12.181091+00:00
+
+
+
+## Trump's lawyers keep getting slammed for filing conspiratorial lawsuits. Here are the 16 sanctioned so far.
+ - [http://www.msn.com/en-us/news/politics/trump-s-lawyers-keep-getting-slammed-for-filing-conspiratorial-lawsuits-here-are-the-16-sanctioned-so-far/ar-AA15HR0D?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-s-lawyers-keep-getting-slammed-for-filing-conspiratorial-lawsuits-here-are-the-16-sanctioned-so-far/ar-AA15HR0D?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:30:12.174252+00:00
+
+
+
+## China tests America’s will with clashes along India border
+ - [http://www.msn.com/en-us/news/world/china-tests-america-s-will-with-clashes-along-india-border/ar-AA15HR3T?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/china-tests-america-s-will-with-clashes-along-india-border/ar-AA15HR3T?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:30:12.166646+00:00
+
+
+
+## Former US Navy captain and son rescued pilot from icy creek after crash, hailed as heroes
+ - [http://www.msn.com/en-us/news/us/former-us-navy-captain-and-son-rescued-pilot-from-icy-creek-after-crash-hailed-as-heroes/ar-AA15HM0a?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/former-us-navy-captain-and-son-rescued-pilot-from-icy-creek-after-crash-hailed-as-heroes/ar-AA15HM0a?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:30:12.159602+00:00
+
+
+
+## A 22-year-old woman in Buffalo died after being trapped in her car for 18 hours during a blizzard, her family told local news
+ - [http://www.msn.com/en-us/news/crime/a-22-year-old-woman-in-buffalo-died-after-being-trapped-in-her-car-for-18-hours-during-a-blizzard-her-family-told-local-news/ar-AA15HQJ5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/a-22-year-old-woman-in-buffalo-died-after-being-trapped-in-her-car-for-18-hours-during-a-blizzard-her-family-told-local-news/ar-AA15HQJ5?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:01:20.508091+00:00
+
+
+
+## German double agent passed Ukraine intelligence to Russia, had access to NSA info
+ - [http://www.msn.com/en-us/news/world/german-double-agent-passed-ukraine-intelligence-to-russia-had-access-to-nsa-info/ar-AA15I0Hr?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/german-double-agent-passed-ukraine-intelligence-to-russia-had-access-to-nsa-info/ar-AA15I0Hr?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:01:20.501514+00:00
+
+
+
+## An iPhone 14 automatically notified emergency services when a California couple's car plunged 300 feet down a canyon
+ - [http://www.msn.com/en-us/news/technology/an-iphone-14-automatically-notified-emergency-services-when-a-california-couple-s-car-plunged-300-feet-down-a-canyon/ar-AA15HVZ5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/an-iphone-14-automatically-notified-emergency-services-when-a-california-couple-s-car-plunged-300-feet-down-a-canyon/ar-AA15HVZ5?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:01:20.493242+00:00
+
+
+
+## Labor Department fines North Carolina Chick-fil-A after workers paid with meals
+ - [http://www.msn.com/en-us/news/politics/labor-department-fines-north-carolina-chick-fil-a-after-workers-paid-with-meals/ar-AA15I309?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/labor-department-fines-north-carolina-chick-fil-a-after-workers-paid-with-meals/ar-AA15I309?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 14:01:20.484748+00:00
+
+
+
+## First Congress revealed Biden's generational ambition
+ - [http://www.msn.com/en-us/news/politics/first-congress-revealed-biden-s-generational-ambition/ar-AA15HNHa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/first-congress-revealed-biden-s-generational-ambition/ar-AA15HNHa?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.619311+00:00
+
+
+
+## Companies like Airbnb can ban customers based on a criminal background check: Here's how to dispute it if you think yours is in error
+ - [http://www.msn.com/en-us/news/technology/companies-like-airbnb-can-ban-customers-based-on-a-criminal-background-check-here-s-how-to-dispute-it-if-you-think-yours-is-in-error/ar-AA15HLkb?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/companies-like-airbnb-can-ban-customers-based-on-a-criminal-background-check-here-s-how-to-dispute-it-if-you-think-yours-is-in-error/ar-AA15HLkb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.612447+00:00
+
+
+
+## As fentanyl overdose deaths keep rising, efforts to reverse trend meet liability fears
+ - [http://www.msn.com/en-us/news/us/as-fentanyl-overdose-deaths-keep-rising-efforts-to-reverse-trend-meet-liability-fears/ar-AA15I2Hd?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/as-fentanyl-overdose-deaths-keep-rising-efforts-to-reverse-trend-meet-liability-fears/ar-AA15I2Hd?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.605706+00:00
+
+
+
+## Friends Shocked as Wife Is Accused of Gunning Down Hubby on Christmas
+ - [http://www.msn.com/en-us/news/crime/friends-shocked-as-wife-is-accused-of-gunning-down-hubby-on-christmas/ar-AA15I2GP?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/friends-shocked-as-wife-is-accused-of-gunning-down-hubby-on-christmas/ar-AA15I2GP?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.598772+00:00
+
+
+
+## Is It Time to Replace Your iPhone's Battery?
+ - [http://www.msn.com/en-us/news/technology/is-it-time-to-replace-your-iphone-s-battery/ar-AA15HLw6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/is-it-time-to-replace-your-iphone-s-battery/ar-AA15HLw6?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.591816+00:00
+
+
+
+## Pence spokesman says document showing FEC ‘filing’ is fake
+ - [http://www.msn.com/en-us/news/politics/pence-spokesman-says-document-showing-fec-filing-is-fake/ar-AA15HNTi?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/pence-spokesman-says-document-showing-fec-filing-is-fake/ar-AA15HNTi?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.584552+00:00
+
+
+
+## Ten must-read 2022 books by Latino authors
+ - [http://www.msn.com/en-us/news/us/ten-must-read-2022-books-by-latino-authors/ar-AA15HQDE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/ten-must-read-2022-books-by-latino-authors/ar-AA15HQDE?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:30:09.576336+00:00
+
+
+
+## A way too early look at the 2024 presidential contenders
+ - [http://www.msn.com/en-us/news/politics/a-way-too-early-look-at-the-2024-presidential-contenders/ar-AA15HZTC?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/a-way-too-early-look-at-the-2024-presidential-contenders/ar-AA15HZTC?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:01:17.537372+00:00
+
+
+
+## Russian sausage tycoon dies in Indian hotel fall
+ - [http://www.msn.com/en-us/news/world/russian-sausage-tycoon-dies-in-indian-hotel-fall/ar-AA15HHkt?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/russian-sausage-tycoon-dies-in-indian-hotel-fall/ar-AA15HHkt?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:01:17.526989+00:00
+
+
+
+## A year of focus groups tells me this: Americans are traumatized
+ - [http://www.msn.com/en-us/news/politics/a-year-of-focus-groups-tells-me-this-americans-are-traumatized/ar-AA15HQbS?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/a-year-of-focus-groups-tells-me-this-americans-are-traumatized/ar-AA15HQbS?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:01:17.520012+00:00
+
+
+
+## The seven most shocking results from the 2022 midterm elections
+ - [http://www.msn.com/en-us/news/politics/the-seven-most-shocking-results-from-the-2022-midterm-elections/ar-AA15HNud?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/the-seven-most-shocking-results-from-the-2022-midterm-elections/ar-AA15HNud?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:01:17.513209+00:00
+
+
+
+## Lavrov: Ukraine must demilitarize or Russia will do it
+ - [http://www.msn.com/en-us/news/world/lavrov-ukraine-must-demilitarize-or-russia-will-do-it/ar-AA15HXhw?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/lavrov-ukraine-must-demilitarize-or-russia-will-do-it/ar-AA15HXhw?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:01:17.505904+00:00
+
+
+
+## Ron DeSantis Would Be 'Working in a Dairy Queen' Without Trump: Roger Stone
+ - [http://www.msn.com/en-us/news/politics/ron-desantis-would-be-working-in-a-dairy-queen-without-trump-roger-stone/ar-AA15HSNV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/ron-desantis-would-be-working-in-a-dairy-queen-without-trump-roger-stone/ar-AA15HSNV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 13:01:17.498354+00:00
+
+
+
+## Trump said he told Ivanka and Jared Kushner not to join his 2024 campaign because people are 'too mean and nasty'
+ - [http://www.msn.com/en-us/news/politics/trump-said-he-told-ivanka-and-jared-kushner-not-to-join-his-2024-campaign-because-people-are-too-mean-and-nasty/ar-AA15HzG4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-said-he-told-ivanka-and-jared-kushner-not-to-join-his-2024-campaign-because-people-are-too-mean-and-nasty/ar-AA15HzG4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.838784+00:00
+
+
+
+## ‘The Universe Doesn’t Care That We Have Holidays’
+ - [http://www.msn.com/en-us/news/technology/the-universe-doesn-t-care-that-we-have-holidays/ar-AA15HPSg?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/the-universe-doesn-t-care-that-we-have-holidays/ar-AA15HPSg?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.831383+00:00
+
+
+
+## Year in review: Grassroots parents group became a political force in 2022 to oust status quo school boards
+ - [http://www.msn.com/en-us/news/us/year-in-review-grassroots-parents-group-became-a-political-force-in-2022-to-oust-status-quo-school-boards/ar-AA15HBjA?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/year-in-review-grassroots-parents-group-became-a-political-force-in-2022-to-oust-status-quo-school-boards/ar-AA15HBjA?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.824662+00:00
+
+
+
+## For Some in Congress, Proxy Voting Was a Game Changer. It’s About to Go Away
+ - [http://www.msn.com/en-us/news/politics/for-some-in-congress-proxy-voting-was-a-game-changer-it-s-about-to-go-away/ar-AA15HGSX?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/for-some-in-congress-proxy-voting-was-a-game-changer-it-s-about-to-go-away/ar-AA15HGSX?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.817732+00:00
+
+
+
+## Abduction Survivor Elizabeth Smart Partners With App Designed to Find Missing People Faster
+ - [http://www.msn.com/en-us/news/technology/abduction-survivor-elizabeth-smart-partners-with-app-designed-to-find-missing-people-faster/ar-AA15HGUw?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/abduction-survivor-elizabeth-smart-partners-with-app-designed-to-find-missing-people-faster/ar-AA15HGUw?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.810383+00:00
+
+
+
+## Melanie C pulls out of NYE concert in Poland
+ - [http://www.msn.com/en-us/news/world/melanie-c-pulls-out-of-nye-concert-in-poland/ar-AA15HKQ8?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/melanie-c-pulls-out-of-nye-concert-in-poland/ar-AA15HKQ8?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.802286+00:00
+
+
+
+## Russian Lawmaker Who Slammed Putin’s War Dies After Falling From a Window
+ - [http://www.msn.com/en-us/news/world/russian-lawmaker-who-slammed-putin-s-war-dies-after-falling-from-a-window/ar-AA15HH43?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/russian-lawmaker-who-slammed-putin-s-war-dies-after-falling-from-a-window/ar-AA15HH43?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:30:07.793726+00:00
+
+
+
+## Op-Ed: In Ukraine, as in other wars, the full history will take years to tell and it will be told by women
+ - [http://www.msn.com/en-us/news/world/op-ed-in-ukraine-as-in-other-wars-the-full-history-will-take-years-to-tell-and-it-will-be-told-by-women/ar-AA15HMRV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/op-ed-in-ukraine-as-in-other-wars-the-full-history-will-take-years-to-tell-and-it-will-be-told-by-women/ar-AA15HMRV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.789462+00:00
+
+
+
+## Trump Says He Has 'Total Immunity' Over Jan 6. and Did 'Nothing Wrong'
+ - [http://www.msn.com/en-us/news/politics/trump-says-he-has-total-immunity-over-jan-6-and-did-nothing-wrong/ar-AA15HGly?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-says-he-has-total-immunity-over-jan-6-and-did-nothing-wrong/ar-AA15HGly?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.782798+00:00
+
+
+
+## Abduction, torture, rape: Conflict in Congo worsens, says UN
+ - [http://www.msn.com/en-us/news/world/abduction-torture-rape-conflict-in-congo-worsens-says-un/ar-AA15HPoj?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/abduction-torture-rape-conflict-in-congo-worsens-says-un/ar-AA15HPoj?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.774530+00:00
+
+
+
+## The Hill’s Morning Report — A critical week for McCarthy ahead of the Speakership vote
+ - [http://www.msn.com/en-us/news/politics/the-hill-s-morning-report-a-critical-week-for-mccarthy-ahead-of-the-speakership-vote/ar-AA15HGn7?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/the-hill-s-morning-report-a-critical-week-for-mccarthy-ahead-of-the-speakership-vote/ar-AA15HGn7?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.766960+00:00
+
+
+
+## Michigan Republican John James plots bipartisan path in polarized House
+ - [http://www.msn.com/en-us/news/politics/michigan-republican-john-james-plots-bipartisan-path-in-polarized-house/ar-AA15HN1F?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/michigan-republican-john-james-plots-bipartisan-path-in-polarized-house/ar-AA15HN1F?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.758709+00:00
+
+
+
+## This little-known firm with a weird website was central to the misappropriation of FTX customers' money, regulators say
+ - [http://www.msn.com/en-us/news/us/this-little-known-firm-with-a-weird-website-was-central-to-the-misappropriation-of-ftx-customers-money-regulators-say/ar-AA15H6YG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/this-little-known-firm-with-a-weird-website-was-central-to-the-misappropriation-of-ftx-customers-money-regulators-say/ar-AA15H6YG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.751894+00:00
+
+
+
+## Not Now, Europe. Second War Threatens to Explode
+ - [http://www.msn.com/en-us/news/world/not-now-europe-second-war-threatens-to-explode/ar-AA15HN1O?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/not-now-europe-second-war-threatens-to-explode/ar-AA15HN1O?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 12:01:13.744926+00:00
+
+
+
+## She Says Doctors Ignored Her Concerns About Her Pregnancy. For Many Black Women, It’s a Familiar Story.
+ - [http://www.msn.com/en-us/news/us/she-says-doctors-ignored-her-concerns-about-her-pregnancy-for-many-black-women-it-s-a-familiar-story/ar-AA15HG5W?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/she-says-doctors-ignored-her-concerns-about-her-pregnancy-for-many-black-women-it-s-a-familiar-story/ar-AA15HG5W?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:30:03.353798+00:00
+
+
+
+## The Moms Are All Right
+ - [http://www.msn.com/en-us/news/us/the-moms-are-all-right/ar-AA15HyVH?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/the-moms-are-all-right/ar-AA15HyVH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:30:03.346878+00:00
+
+
+
+## Time is running short for McCarthy to lock up Speakership
+ - [http://www.msn.com/en-us/news/politics/time-is-running-short-for-mccarthy-to-lock-up-speakership/ar-AA15H6Nx?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/time-is-running-short-for-mccarthy-to-lock-up-speakership/ar-AA15H6Nx?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:30:03.340063+00:00
+
+
+
+## Still Waking Up to an Alarm? Here's Why You Should Use Light Instead
+ - [http://www.msn.com/en-us/news/technology/still-waking-up-to-an-alarm-here-s-why-you-should-use-light-instead/ar-AA11BCCz?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/still-waking-up-to-an-alarm-here-s-why-you-should-use-light-instead/ar-AA11BCCz?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:30:03.332092+00:00
+
+
+
+## Letters to the Editor: If your mail carrier drives an EV, will you drive one too?
+ - [http://www.msn.com/en-us/news/technology/letters-to-the-editor-if-your-mail-carrier-drives-an-ev-will-you-drive-one-too/ar-AA15HGe0?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/letters-to-the-editor-if-your-mail-carrier-drives-an-ev-will-you-drive-one-too/ar-AA15HGe0?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:30:03.324924+00:00
+
+
+
+## Serbs put up new roadblocks as tensions soar in Kosovo
+ - [http://www.msn.com/en-us/news/world/serbs-put-up-new-roadblocks-as-tensions-soar-in-kosovo/ar-AA15HrGB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/serbs-put-up-new-roadblocks-as-tensions-soar-in-kosovo/ar-AA15HrGB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:30:03.318004+00:00
+
+
+
+## Russia Says Ukraine Must Surrender Even as Putin’s Army Retreats
+ - [http://www.msn.com/en-us/news/world/russia-says-ukraine-must-surrender-even-as-putin-s-army-retreats/ar-AA15HFUp?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/russia-says-ukraine-must-surrender-even-as-putin-s-army-retreats/ar-AA15HFUp?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:01:05.929513+00:00
+
+
+
+## Taiwan extends compulsory military service to 1 year
+ - [http://www.msn.com/en-us/news/world/taiwan-extends-compulsory-military-service-to-1-year/ar-AA15H6HB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/taiwan-extends-compulsory-military-service-to-1-year/ar-AA15H6HB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:01:05.918213+00:00
+
+
+
+## Short stories rip the bandage off lifestyles, emotions in small-town California
+ - [http://www.msn.com/en-us/news/us/short-stories-rip-the-bandage-off-lifestyles-emotions-in-small-town-california/ar-AA15HD0b?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/short-stories-rip-the-bandage-off-lifestyles-emotions-in-small-town-california/ar-AA15HD0b?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:01:05.910248+00:00
+
+
+
+## Democracy depends on whistleblowers like Cassidy Hutchinson — flaws and all
+ - [http://www.msn.com/en-us/news/politics/democracy-depends-on-whistleblowers-like-cassidy-hutchinson-flaws-and-all/ar-AA15HD2c?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/democracy-depends-on-whistleblowers-like-cassidy-hutchinson-flaws-and-all/ar-AA15HD2c?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:01:05.902879+00:00
+
+
+
+## Why Apple Hasn't Released the iPhone Fold... Yet
+ - [http://www.msn.com/en-us/news/technology/why-apple-hasn-t-released-the-iphone-fold-yet/ar-AA10AZSL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/why-apple-hasn-t-released-the-iphone-fold-yet/ar-AA10AZSL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 11:01:05.895754+00:00
+
+
+
+## George Santos Sparks Fury After Admitting to 'Embellishing Resume'
+ - [http://www.msn.com/en-us/news/politics/george-santos-sparks-fury-after-admitting-to-embellishing-resume/ar-AA15HozB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/george-santos-sparks-fury-after-admitting-to-embellishing-resume/ar-AA15HozB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:29:59.920065+00:00
+
+
+
+## Companies welcome end to China quarantines for visitors
+ - [http://www.msn.com/en-us/health/health-news/companies-welcome-end-to-china-quarantines-for-visitors/ar-AA15HAqG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/health/health-news/companies-welcome-end-to-china-quarantines-for-visitors/ar-AA15HAqG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:29:59.913339+00:00
+
+
+
+## Wildfires in Colorado Are Growing More Unpredictable. Officials Have Ignored the Warnings.
+ - [http://www.msn.com/en-us/news/us/wildfires-in-colorado-are-growing-more-unpredictable-officials-have-ignored-the-warnings/ar-AA15Hh3j?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/wildfires-in-colorado-are-growing-more-unpredictable-officials-have-ignored-the-warnings/ar-AA15Hh3j?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:29:59.905745+00:00
+
+
+
+## Congressman-Elect George Santos Admits to Astounding Series of Lies
+ - [http://www.msn.com/en-us/news/politics/congressman-elect-george-santos-admits-to-astounding-series-of-lies/ar-AA15Hr7e?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/congressman-elect-george-santos-admits-to-astounding-series-of-lies/ar-AA15Hr7e?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:29:59.898112+00:00
+
+
+
+## Elon Musk tweeted another photo of his bedside table, saying the US Constitution is the 'most treasured' item on it
+ - [http://www.msn.com/en-us/news/technology/elon-musk-tweeted-another-photo-of-his-bedside-table-saying-the-us-constitution-is-the-most-treasured-item-on-it/ar-AA15Hh5c?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/elon-musk-tweeted-another-photo-of-his-bedside-table-saying-the-us-constitution-is-the-most-treasured-item-on-it/ar-AA15Hh5c?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:29:59.891100+00:00
+
+
+
+## Japan to require COVID tests for all visitors from China
+ - [http://www.msn.com/en-us/health/health-news/japan-to-require-covid-tests-for-all-visitors-from-china/ar-AA15Hgzz?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/health/health-news/japan-to-require-covid-tests-for-all-visitors-from-china/ar-AA15Hgzz?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:01:03.854138+00:00
+
+
+
+## Year in Review: Biden's historic border surge stokes security and humanitarian alarms
+ - [http://www.msn.com/en-us/news/world/year-in-review-biden-s-historic-border-surge-stokes-security-and-humanitarian-alarms/ar-AA15HtnB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/year-in-review-biden-s-historic-border-surge-stokes-security-and-humanitarian-alarms/ar-AA15HtnB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:01:03.847367+00:00
+
+
+
+## GOP’s `anti-woke' crusade splits corporate America
+ - [http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:01:03.840567+00:00
+
+
+
+## Film Inspired by ISIS Wife Forces Mom Into Living Nightmare
+ - [http://www.msn.com/en-us/news/world/film-inspired-by-isis-wife-forces-mom-into-living-nightmare/ar-AA15HF7O?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/film-inspired-by-isis-wife-forces-mom-into-living-nightmare/ar-AA15HF7O?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:01:03.833476+00:00
+
+
+
+## Today's Wordle #556 Answer, Hints and Clues for Tuesday, December 27 Game
+ - [http://www.msn.com/en-us/news/technology/today-s-wordle-556-answer-hints-and-clues-for-tuesday-december-27-game/ar-AA15Hlno?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/today-s-wordle-556-answer-hints-and-clues-for-tuesday-december-27-game/ar-AA15Hlno?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 09:29:57.527952+00:00
+
+
+
+## Taiwan extends mandatory military service to one year
+ - [http://www.msn.com/en-us/news/world/taiwan-extends-mandatory-military-service-to-one-year/ar-AA15HnTU?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/taiwan-extends-mandatory-military-service-to-one-year/ar-AA15HnTU?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 09:29:57.521199+00:00
+
+
+
+## Living with Children: Starting toilet training early pays off
+ - [http://www.msn.com/en-us/news/us/living-with-children-starting-toilet-training-early-pays-off/ar-AA15HxDM?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/living-with-children-starting-toilet-training-early-pays-off/ar-AA15HxDM?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 09:29:57.513296+00:00
+
+
+
+## African population growth could create opportunity or crisis zone
+ - [http://www.msn.com/en-us/news/world/african-population-growth-could-create-opportunity-or-crisis-zone/ar-AA15HxI4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/african-population-growth-could-create-opportunity-or-crisis-zone/ar-AA15HxI4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 09:29:57.505546+00:00
+
+
+
+## House Committee publish Donald Trump redacted tax returns at MIDDAY after failed bid to keep private
+ - [http://www.msn.com/en-us/news/politics/house-committee-publish-donald-trump-redacted-tax-returns-at-midday-after-failed-bid-to-keep-private/ar-AA15GM2C?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/house-committee-publish-donald-trump-redacted-tax-returns-at-midday-after-failed-bid-to-keep-private/ar-AA15GM2C?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 08:00:56.711837+00:00
+
+
+
+## Trump Says FBI Tried to 'Shut' Him Down Over Past COVID Tweet
+ - [http://www.msn.com/en-us/news/politics/trump-says-fbi-tried-to-shut-him-down-over-past-covid-tweet/ar-AA15Hbjz?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-says-fbi-tried-to-shut-him-down-over-past-covid-tweet/ar-AA15Hbjz?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 07:00:51.615237+00:00
+
+
+
+## Japan PM sacks 4th minister to patch up scandal-hit Cabinet
+ - [http://www.msn.com/en-us/news/world/japan-pm-sacks-4th-minister-to-patch-up-scandal-hit-cabinet/ar-AA15GZ1v?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/japan-pm-sacks-4th-minister-to-patch-up-scandal-hit-cabinet/ar-AA15GZ1v?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 07:00:51.605397+00:00
+
+
+
+## S. Korea to pardon former leader Lee for corruption crimes
+ - [http://www.msn.com/en-us/news/world/s-korea-to-pardon-former-leader-lee-for-corruption-crimes/ar-AA15GTB1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/s-korea-to-pardon-former-leader-lee-for-corruption-crimes/ar-AA15GTB1?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 06:29:48.529226+00:00
+
+
+
+## Americans are united around the need for civic education
+ - [http://www.msn.com/en-us/news/politics/americans-are-united-around-the-need-for-civic-education/ar-AA15H1li?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/americans-are-united-around-the-need-for-civic-education/ar-AA15H1li?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 06:00:48.812463+00:00
+
+
+
+## UN agency probes origin of Rohingya refugees in Indonesia
+ - [http://www.msn.com/en-us/news/world/un-agency-probes-origin-of-rohingya-refugees-in-indonesia/ar-AA15HcnL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/un-agency-probes-origin-of-rohingya-refugees-in-indonesia/ar-AA15HcnL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 06:00:48.805396+00:00
+
+
+
+## Kari Lake Responds to Sanctions, Says Election Suit Was in 'Good Faith'
+ - [http://www.msn.com/en-us/news/politics/kari-lake-responds-to-sanctions-says-election-suit-was-in-good-faith/ar-AA15H13N?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/kari-lake-responds-to-sanctions-says-election-suit-was-in-good-faith/ar-AA15H13N?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 05:29:44.287960+00:00
+
+
+
+## George Santos admits to lying about college and work history
+ - [http://www.msn.com/en-us/news/us/george-santos-admits-to-lying-about-college-and-work-history/ar-AA15GRHW?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/george-santos-admits-to-lying-about-college-and-work-history/ar-AA15GRHW?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 05:29:44.279258+00:00
+
+
+
+## Why immigration hawks favor Kevin McCarthy for speaker
+ - [http://www.msn.com/en-us/news/politics/why-immigration-hawks-favor-kevin-mccarthy-for-speaker/ar-AA15HaMV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/why-immigration-hawks-favor-kevin-mccarthy-for-speaker/ar-AA15HaMV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 05:29:44.272011+00:00
+
+
+
+## A 120 million-year-old dinosaur fossil with the bones of its final snack still inside of it reveals it enjoyed eating our ancestors
+ - [http://www.msn.com/en-us/news/world/a-120-million-year-old-dinosaur-fossil-with-the-bones-of-its-final-snack-still-inside-of-it-reveals-it-enjoyed-eating-our-ancestors/ar-AA15GXA6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/a-120-million-year-old-dinosaur-fossil-with-the-bones-of-its-final-snack-still-inside-of-it-reveals-it-enjoyed-eating-our-ancestors/ar-AA15GXA6?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 04:29:42.430200+00:00
+
+
+
+## Democrats call for George Santos to resign over ‘whopping lies’
+ - [http://www.msn.com/en-us/news/politics/democrats-call-for-george-santos-to-resign-over-whopping-lies/ar-AA15H55u?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/democrats-call-for-george-santos-to-resign-over-whopping-lies/ar-AA15H55u?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 04:29:42.420274+00:00
+
+
+
+## Owner of United Furniture is branded a 'Scrooge' as he resurfaces after firm suddenly shuttered
+ - [http://www.msn.com/en-us/news/us/owner-of-united-furniture-is-branded-a-scrooge-as-he-resurfaces-after-firm-suddenly-shuttered/ar-AA15GVoP?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/owner-of-united-furniture-is-branded-a-scrooge-as-he-resurfaces-after-firm-suddenly-shuttered/ar-AA15GVoP?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:29:39.500856+00:00
+
+
+
+## US Blasts China’s Military Drills Near Taiwan as ‘Provocative’
+ - [http://www.msn.com/en-us/news/world/us-blasts-china-s-military-drills-near-taiwan-as-provocative/ar-AA15H2OQ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/us-blasts-china-s-military-drills-near-taiwan-as-provocative/ar-AA15H2OQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:29:39.492764+00:00
+
+
+
+## An 120 million-year-old dinosaur fossil with the bones of its final snack still inside of it reveals its enjoyed eating our ancestors
+ - [http://www.msn.com/en-us/news/world/an-120-million-year-old-dinosaur-fossil-with-the-bones-of-its-final-snack-still-inside-of-it-reveals-its-enjoyed-eating-our-ancestors/ar-AA15GXA6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/an-120-million-year-old-dinosaur-fossil-with-the-bones-of-its-final-snack-still-inside-of-it-reveals-its-enjoyed-eating-our-ancestors/ar-AA15GXA6?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:29:39.485372+00:00
+
+
+
+## Mega Millions Tuesday jackpot surpasses estimated $565M
+ - [http://www.msn.com/en-us/news/us/mega-millions-tuesday-jackpot-surpasses-estimated-565m/ar-AA15H0jp?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/mega-millions-tuesday-jackpot-surpasses-estimated-565m/ar-AA15H0jp?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:29:39.478191+00:00
+
+
+
+## New York Rep.-elect George Santos admits fabricating college, work details
+ - [http://www.msn.com/en-us/news/politics/new-york-rep-elect-george-santos-admits-fabricating-college-work-details/ar-AA15GPKt?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/new-york-rep-elect-george-santos-admits-fabricating-college-work-details/ar-AA15GPKt?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:00:41.415293+00:00
+
+
+
+## Documentary spurs a new look at the case of the first gene-edited babies
+ - [http://www.msn.com/en-us/news/technology/documentary-spurs-a-new-look-at-the-case-of-the-first-gene-edited-babies/ar-AA15GNKG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/documentary-spurs-a-new-look-at-the-case-of-the-first-gene-edited-babies/ar-AA15GNKG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:00:41.404275+00:00
+
+
+
+## NY Rep.-elect Santos admits lying about career, college
+ - [http://www.msn.com/en-us/news/politics/ny-rep-elect-santos-admits-lying-about-career-college/ar-AA15H7Rp?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/ny-rep-elect-santos-admits-lying-about-career-college/ar-AA15H7Rp?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 03:00:41.395001+00:00
+
+
+
+## Donbas Situation Is 'Difficult, Acute' for Ukraine: Zelensky
+ - [http://www.msn.com/en-us/news/world/donbas-situation-is-difficult-acute-for-ukraine-zelensky/ar-AA15GJou?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/donbas-situation-is-difficult-acute-for-ukraine-zelensky/ar-AA15GJou?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 02:29:38.216871+00:00
+
+
+
+## 14,000 plunged into darkness after attacks on electrical substations outside Tacoma, Washington
+ - [http://www.msn.com/en-us/news/crime/14-000-plunged-into-darkness-after-attacks-on-electrical-substations-outside-tacoma-washington/ar-AA15GS8X?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/14-000-plunged-into-darkness-after-attacks-on-electrical-substations-outside-tacoma-washington/ar-AA15GS8X?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 02:00:38.898130+00:00
+
+
+
+## George Santos admits to lying on campaign trail but maintains he'll take office
+ - [http://www.msn.com/en-us/news/politics/george-santos-admits-to-lying-on-campaign-trail-but-maintains-he-ll-take-office/ar-AA15H2mG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/george-santos-admits-to-lying-on-campaign-trail-but-maintains-he-ll-take-office/ar-AA15H2mG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 02:00:38.889656+00:00
+
+
+
+## South Korea Sends Drones to Kim Jong Un’s Airspace in Unprecedented Move
+ - [http://www.msn.com/en-us/news/world/south-korea-sends-drones-to-kim-jong-un-s-airspace-in-unprecedented-move/ar-AA15GNt5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/south-korea-sends-drones-to-kim-jong-un-s-airspace-in-unprecedented-move/ar-AA15GNt5?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 02:00:38.882454+00:00
+
+
+
+## "We backslid": Doctors talk about how abortion care changed in 2022
+ - [http://www.msn.com/en-us/news/us/we-backslid-doctors-talk-about-how-abortion-care-changed-in-2022/ar-AA15GX0A?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/we-backslid-doctors-talk-about-how-abortion-care-changed-in-2022/ar-AA15GX0A?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:29:32.883524+00:00
+
+
+
+## ‘Epic thread': Elon Musk touts bizarre 2023 predictions by Putin stooge Medvedev
+ - [http://www.msn.com/en-us/news/world/epic-thread-elon-musk-touts-bizarre-2023-predictions-by-putin-stooge-medvedev/ar-AA15GJ1f?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/epic-thread-elon-musk-touts-bizarre-2023-predictions-by-putin-stooge-medvedev/ar-AA15GJ1f?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:29:32.874641+00:00
+
+
+
+## Popular tech YouTuber ridiculed for declaring ‘Merry Christmas!’ 'highly offensive' to ‘depressed’ people
+ - [http://www.msn.com/en-us/news/us/popular-tech-youtuber-ridiculed-for-declaring-merry-christmas-highly-offensive-to-depressed-people/ar-AA15GWWZ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/popular-tech-youtuber-ridiculed-for-declaring-merry-christmas-highly-offensive-to-depressed-people/ar-AA15GWWZ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:29:32.867081+00:00
+
+
+
+## New York Rep.-elect George Santos admits fabricating college, work experience details
+ - [http://www.msn.com/en-us/news/politics/new-york-rep-elect-george-santos-admits-fabricating-college-work-experience-details/ar-AA15GPKt?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/new-york-rep-elect-george-santos-admits-fabricating-college-work-experience-details/ar-AA15GPKt?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:29:32.854299+00:00
+
+
+
+## Trump 2024 campaign adviser tells journalist ex-president's 'magic is gone'
+ - [http://www.msn.com/en-us/news/politics/trump-2024-campaign-adviser-tells-journalist-ex-president-s-magic-is-gone/ar-AA15Gvp9?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-2024-campaign-adviser-tells-journalist-ex-president-s-magic-is-gone/ar-AA15Gvp9?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:00:37.206028+00:00
+
+
+
+## Jan. 6 Committee strays from mandate to pursue prosecutions
+ - [http://www.msn.com/en-us/news/politics/jan-6-committee-strays-from-mandate-to-pursue-prosecutions/ar-AA15GK9l?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/jan-6-committee-strays-from-mandate-to-pursue-prosecutions/ar-AA15GK9l?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:00:37.197417+00:00
+
+
+
+## Mike Pence spokesman says former VP did not file to run for president, suggests that someone 'pranked' media
+ - [http://www.msn.com/en-us/news/politics/mike-pence-spokesman-says-former-vp-did-not-file-to-run-for-president-suggests-that-someone-pranked-media/ar-AA15GElH?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/mike-pence-spokesman-says-former-vp-did-not-file-to-run-for-president-suggests-that-someone-pranked-media/ar-AA15GElH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:00:37.190149+00:00
+
+
+
+## The people risking their lives to detonate mines
+ - [http://www.msn.com/en-us/news/world/the-people-risking-their-lives-to-detonate-mines/ar-AA15GZkH?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/the-people-risking-their-lives-to-detonate-mines/ar-AA15GZkH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:00:37.183356+00:00
+
+
+
+## South Korea fires warning shots as North Korean drones enter airspace for the first time in 5 years, South Korea says
+ - [http://www.msn.com/en-us/news/world/south-korea-fires-warning-shots-as-north-korean-drones-enter-airspace-for-the-first-time-in-5-years-south-korea-says/ar-AA15GvrX?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/south-korea-fires-warning-shots-as-north-korean-drones-enter-airspace-for-the-first-time-in-5-years-south-korea-says/ar-AA15GvrX?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:00:37.176044+00:00
+
+
+
+## Rep.-elect Santos admits lying about his credentials
+ - [http://www.msn.com/en-us/news/politics/rep-elect-santos-admits-lying-about-his-credentials/ar-AA15GGUD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/rep-elect-santos-admits-lying-about-his-credentials/ar-AA15GGUD?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 01:00:37.169079+00:00
+
+
+
+## Matt Gaetz Blasted for Continuing to Oppose U.S. Aid to Ukraine
+ - [http://www.msn.com/en-us/news/world/matt-gaetz-blasted-for-continuing-to-oppose-u-s-aid-to-ukraine/ar-AA15GUiJ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/matt-gaetz-blasted-for-continuing-to-oppose-u-s-aid-to-ukraine/ar-AA15GUiJ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 00:26:15.069089+00:00
+
+
+
+## Whoopi Goldberg faces scrutiny over renewed comments on Holocaust
+ - [http://www.msn.com/en-us/news/politics/whoopi-goldberg-faces-scrutiny-over-renewed-comments-on-holocaust/ar-AA15GPnE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/whoopi-goldberg-faces-scrutiny-over-renewed-comments-on-holocaust/ar-AA15GPnE?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 00:26:15.060753+00:00
+
+
+
+## Many in Jackson, Mississippi, have no water as pipes burst in freezing temperatures
+ - [http://www.msn.com/en-us/news/us/many-in-jackson-mississippi-have-no-water-as-pipes-burst-in-freezing-temperatures/ar-AA15GFNq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/many-in-jackson-mississippi-have-no-water-as-pipes-burst-in-freezing-temperatures/ar-AA15GFNq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 00:26:14.723148+00:00
+
+
+
+## Powerball Drawing for 12/26/22, Monday Jackpot Is $201 Million
+ - [http://www.msn.com/en-us/news/us/powerball-drawing-for-12-26-22-monday-jackpot-is-201-million/ar-AA15GMIF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/powerball-drawing-for-12-26-22-monday-jackpot-is-201-million/ar-AA15GMIF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 00:00:33.483069+00:00
+
+
+
+## US retail sales rise 7.6 percent during holidays
+ - [http://www.msn.com/en-us/news/politics/us-retail-sales-rise-7-6-percent-during-holidays/ar-AA15GDYZ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/us-retail-sales-rise-7-6-percent-during-holidays/ar-AA15GDYZ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 00:00:33.464533+00:00
+
+
+
+## Seven die in coach plunge horror in Spain
+ - [http://www.msn.com/en-us/news/world/seven-die-in-coach-plunge-horror-in-spain/ar-AA15GMT6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/seven-die-in-coach-plunge-horror-in-spain/ar-AA15GMT6?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 00:00:33.455311+00:00
+
+

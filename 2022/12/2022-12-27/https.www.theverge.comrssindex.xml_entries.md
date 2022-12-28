@@ -1,0 +1,255 @@
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+
+## You’ll soon be able to talk to Home Assistant without Google, Siri, or Alexa
+ - [https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa](https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 20:36:33+00:00
+
+<figure>
+      <img alt="The home assistant application is running in a browser window, and a microphone icon is at the bottom of a smartphone style text message conversation between a bot and a user asking what temperature it is in the living room." src="https://cdn.vox-cdn.com/thumbor/4z_rpNTws6gf5Unb9LU_JfVQTRU=/0x34:773x549/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71797267/voice_commands.0.jpg" />
+        <figcaption>Home Assistant’s Conversation integration can already take text commands and could become the basis of its new voice assistant efforts. | Image: Home Assistant</figcaption>
+    </figure>
+
+  <p id="99qch5">Home Assistant, the open-source smart home platform, is getting its own voice assistant. Its founder, Paulus Schoutsen, <a href="https://www.home-assistant.io/blog/2022/12/20/year-of-voice/">posted a blog last week</a> announcing a new project that could localize all voice commands that control smart devices — without the need to connect to a cloud that assistants like Alexa, Siri, and Google Assistant have. The voice assistant is targeted to be available sometime in 2023.</p>
+<p id="Tuybkm">Schoutsen also runs Nabu Casa, a company that provides what’s effectively first-party cloud services for Home Assistant and also contributes to the development of the free platform. In addition, it’s making the <a href="https://www.theverge.com/2021/9/16/22678088/home-assistant-amber-smart-home-hub-specs-release-date-price">Yellow out-of-box hardware solution</a> that can run Home Assistant in your home without your needing to manually build one on a computer...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft’s making Excel’s formulas even easier
+ - [https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365](https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 19:19:21+00:00
+
+<figure>
+      <img alt="Illustration of Microsoft’s Windows logo" src="https://cdn.vox-cdn.com/thumbor/rqPkbvQ6ToZI-trkgYwZGlltCQI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71797059/acastro_STK109_microsoft_02.0.jpg" />
+        <figcaption><em>It’s only a matter of time before Excel can take over my job.</em> | Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="Q2oCZ7">Microsoft <a href="https://techcommunity.microsoft.com/t5/excel-blog/what-s-new-in-excel-december-2022/ba-p/3688909">has announced</a> it’s making Excel’s autocomplete even smarter, at least in the web version that comes with Microsoft 365 (<a href="https://www.theverge.com/2022/10/13/23402155/microsoft-office-microsoft-365-rename-branding-changes">formerly known as Office 365</a>). Last week it announced formula suggestions and formula by example, both of which may help automate some things that you had to do manually.</p>
+<p id="lVADXs">Formula suggestions are pretty much what they say on the tin: if you type the equal sign into a cell, Excel for web will try to intelligently suggest what type of formula you should be using, given the data that’s around it. For example, if you have a full of quarterly sales numbers and a column at the end labeled “total,” Excel might suggest summing the range of cells. According to <a href="https://techcommunity.microsoft.com/t5/excel-blog/what-s-new-in-excel-december-2022/ba-p/3688909">a blog post from Microsoft</a>, the feature currently only works...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365">Continue reading&hellip;</a>
+  </p>
+
+## AT&T, Verizon, and T-Mobile could avoid $200 million in fines thanks to FCC deadlock
+ - [https://www.theverge.com/2022/12/27/23527884/att-verizon-t-mobile-sprint-200-million-fines-fcc-deadlock](https://www.theverge.com/2022/12/27/23527884/att-verizon-t-mobile-sprint-200-million-fines-fcc-deadlock)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 18:26:48+00:00
+
+<figure>
+      <img alt="Illustration of the AT&amp;amp;T logo on a dark blue background." src="https://cdn.vox-cdn.com/thumbor/s9exD7j-ihOc3_QmJskWfBM_TE4=/346x240:1729x1162/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796825/acastro_180322_1777_0001.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="F4wiIi">Mobile carriers, including AT&amp;T, Verizon, and T-Mobile, could temporarily avoid paying $200 million in privacy penalties because of the Federal Communications Commission’s partisan split, according to <a href="https://www.wsj.com/articles/fcc-deadlock-shields-wireless-companies-from-privacy-penalties-11671485450">a report from <em>The Wall Street Journal</em></a>. Sources familiar with the situation told the <em>WSJ</em> that the FCC, which has two Democratic commissioners and two Republican ones, needs one more vote of approval to levy the fines, and both Republican members haven’t voted yet.</p>
+<p id="zcT9pZ">Although Gigi Sohn, the person the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/president-biden-announces-key-nominations-8/">Biden administration nominated</a> to fill the FCC’s empty seat over a year ago, could potentially provide the tie-breaking vote to fine the companies, <a href="https://www.theverge.com/23437518/biden-fcc-gigi-sohn-fox-news-comcast-senate-democrats-midterms-election">the Senate has yet to vote on her nomination</a>. Verizon, AT&amp;T, and T-Mobile may be able to avoid...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23527884/att-verizon-t-mobile-sprint-200-million-fines-fcc-deadlock">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft Edge is actually good
+ - [https://www.theverge.com/23523118/microsoft-edge-browser-chrome-internet-firefox-explorer](https://www.theverge.com/23523118/microsoft-edge-browser-chrome-internet-firefox-explorer)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 18:02:43+00:00
+
+<figure>
+      <img alt="A stock image of the Microsoft Edge logo" src="https://cdn.vox-cdn.com/thumbor/-k4ThBLDNjPc2WSHbzZbTWD9Y-o=/178x0:2088x1273/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796746/Edge_Logo.0.jpg" />
+        <figcaption>Give Microsoft Edge a try, your RAM will thank you | Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="KQeIGn">Google Chrome is the preferred browser for over 65 percent of the internet, according to <a href="http://statcounter.com">statcounter.com</a>. But I don’t think you needed me to tell you that; odds are you’re reading this article on some Chrome derivative right now. But why does Chrome have the lion’s share of the market? It's not even the default browser on most desktops, meaning you have to deliberately go out of your way to make Chrome your go-to browser.</p>
+  <figure class="e-image">
+        
+      <cite>Image: Wikimedia</cite>
+      <figcaption><em>Odds are you were using Internet Explorer 7 in 2007<span class="ql-cursor">﻿</span></em></figcaption>
+  </figure>
+<p id="aOtVBq">Chrome doesn’t even have to be good, it just has to be slightly better than the alternative, and for a long time, the only alternative available was Internet Explorer. In its heyday, Google Chrome was faster, prettier, and...</p>
+  <p>
+    <a href="https://www.theverge.com/23523118/microsoft-edge-browser-chrome-internet-firefox-explorer">Continue reading&hellip;</a>
+  </p>
+
+## The forecast for 2023 is hot
+ - [https://www.theverge.com/2022/12/27/23527912/2023-forecast-global-average-temperature-climate-change-la-nina](https://www.theverge.com/2022/12/27/23527912/2023-forecast-global-average-temperature-climate-change-la-nina)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 18:02:41+00:00
+
+<figure>
+      <img alt="Hands hold a phone that is taking a photo of a lit sign that reads ‘2023.’" src="https://cdn.vox-cdn.com/thumbor/FCJDHsPfqb2dXMXE6Us4cbH7PFs=/1x0:4000x2666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796744/1450706625.0.jpg" />
+        <figcaption>A woman takes a photo of the “2023” numerals after the illumination ceremony in Times Square on December 20, 2022 in New York City. | Photo by Alexi Rosenfeld/WireImage</figcaption>
+    </figure>
+
+  <p id="UKYzjW">2023 is forecast to be a hotter year than 2022, according to the UK’s <a href="https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2022/2023-global-temperature-forecast">Met Office</a> weather service. Why? Well,<strong> </strong>an unusual three-year-long weather pattern that typically has a cooling effect on our planet should finally come to an end next year. On top of that, global average temperatures are expected to rise as greenhouse gas emissions <a href="https://www.theverge.com/2022/11/15/23460162/climate-change-report-2022-global-carbon-dioxide-emissions-rise">continue to climb</a>. </p>
+<p id="EgIR0W">As a result, the Met Office predicts 2023 will be one of the hottest years on record. That’s no surprise, considering the last eight years are on track to be the eight hottest on the books, <a href="https://public.wmo.int/en/media/news/climate-and-weather-extremes-2022-show-need-more-action">according to the World Meteorological Organization</a> (WMO). </p>
+<div class="c-float-left c-float-hang">
+<aside id="aRDCFP"><q>The Met Office predicts 2023 will be one of the hottest years on record. </q></aside><aside id="wVdXz5"><div></div></aside>
+</div>
+<p id="dreTgN">Next year is expected to mark 10 consecutive years with global...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23527912/2023-forecast-global-average-temperature-climate-change-la-nina">Continue reading&hellip;</a>
+  </p>
+
+## LG’s working with AI startup Asleep on TVs, washers, fridges, and more that can track sleep
+ - [https://www.theverge.com/23527858/lg-sleep-tech-ai-asleep-tv-washer-fridge-smart-home](https://www.theverge.com/23527858/lg-sleep-tech-ai-asleep-tv-washer-fridge-smart-home)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 17:28:43+00:00
+
+<figure>
+      <img alt="Closeup of LG’s Whisen Tower Luxury Air Conditioner." src="https://cdn.vox-cdn.com/thumbor/WA7-MZ_sNVvdszoo1WWs_g39cdM=/79x0:922x562/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796617/LGWhisen.0.png" />
+        <figcaption>Image: LG</figcaption>
+    </figure>
+
+  <p id="tF6RTt">LG and Korean AI sleep tech startup Asleep are working on smart home appliances that can detect when a user is asleep and adjust accordingly, according to <a href="https://live.lge.co.kr/lg-asleep-mou/">LG’s Korean site</a> and <a href="https://www.kedglobal.com/electronics/newsView/ked202212260018">The Korea Economic Daily</a>. </p>
+<p id="5r71vW">Asleep’s AI technology lets users track the four sleep stages based on their breathing sounds, using devices that have microphones such as smart TVs and smartphones. LG plans to integrate that tech into other products like TVs, fridges, air conditioners, air purifiers, and washing machines. </p>
+<p id="PAsMG6">With that information, these appliances can turn on or off and optimize settings based on whether or not a user is asleep. For example, LG’s Whisen air conditioner could automatically adjust and optimize the room temperature based on which sleep stage...</p>
+  <p>
+    <a href="https://www.theverge.com/23527858/lg-sleep-tech-ai-asleep-tv-washer-fridge-smart-home">Continue reading&hellip;</a>
+  </p>
+
+## In 2022, cozy games went from niche to video game fixture
+ - [https://www.theverge.com/2022/12/27/23523251/cozy-games-animal-crossing-stardew-world-of-warcraft-dragonflight](https://www.theverge.com/2022/12/27/23523251/cozy-games-animal-crossing-stardew-world-of-warcraft-dragonflight)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 16:32:03+00:00
+
+<figure>
+      <img alt="A still image from the video game Animal Crossing: New Horizons" src="https://cdn.vox-cdn.com/thumbor/i7LTtdDJSzJe1OKK12N4vtSkOJk=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796396/Switch_ACNH_0220_Direct_Layout_SCRN_11_copy.0.jpg" />
+        <figcaption>Animal Crossing: New Horizons | Image: Nintendo</figcaption>
+    </figure>
+
+  <p id="PgRrpj">For as long as I had a GameCube, I don’t think I ever once beat a game. </p>
+<p id="8pi06z">When my plane first landed on Isle Delfino in <em>Super Mario: Sunshine </em>in 2002, my main priority was finishing the tutorial. It was the one chore needing completion before I was free to wander around the plaza, pretending to buy fruit from island vendors. Similarly, my brother and I would spend countless hours in <em>Kirby Air Ride</em> but never raced one another. Like with dozens of other games, we’d argue over which virtual sky-rise belonged to our color Kirby before treating the game as if it were a life-sim, riding our racers around town, running imaginary errands, and acting out absurdly complex social dramas between our squishy, round characters.</p>
+<p id="QSGFLw">These games were never...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23523251/cozy-games-animal-crossing-stardew-world-of-warcraft-dragonflight">Continue reading&hellip;</a>
+  </p>
+
+## The Verge’s 2022 New Year’s resolution gift guide
+ - [https://www.theverge.com/23463044/new-years-resolution-gifts-ideas-2022-tech-gadgets-fitness](https://www.theverge.com/23463044/new-years-resolution-gifts-ideas-2022-tech-gadgets-fitness)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 16:11:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/QvjxpBRGRxeBclxOBEivl7bW4hc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796330/226456_K_Radtke_New_Years_Resolution_Guide.0.jpg" />
+        <figcaption>Illustration: Kristen Radtke / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>We’ve assembled a collection of some of our favorite tech to help you commit to improving yourself in the new year.</p>
+  <p>
+    <a href="https://www.theverge.com/23463044/new-years-resolution-gifts-ideas-2022-tech-gadgets-fitness">Continue reading&hellip;</a>
+  </p>
+
+## The real fantasy in Final Fantasy XIV is owning a damn house
+ - [https://www.theverge.com/23521469/final-fantasy-14-home-ownership-lottery](https://www.theverge.com/23521469/final-fantasy-14-home-ownership-lottery)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 16:00:00+00:00
+
+<figure>
+      <img alt="A screenshot of the video game Final Fantasy XIV." src="https://cdn.vox-cdn.com/thumbor/TEzWAPXBluBZ4JudvMJAwURvRNI=/208x0:1828x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796274/ffxiv_12222022_223019_560.0.png" />
+        <figcaption>Image: Square Enix</figcaption>
+    </figure>
+
+
+  		 <p>Finding a place to call your own in Eorzea is a bureaucratic nightmare.</p>
+  <p>
+    <a href="https://www.theverge.com/23521469/final-fantasy-14-home-ownership-lottery">Continue reading&hellip;</a>
+  </p>
+
+## The predatory prison phone call industry is finally about to be fixed
+ - [https://www.theverge.com/2022/12/27/23527757/fcc-prison-phone-call-fees-martha-wright-reed-act-biden](https://www.theverge.com/2022/12/27/23527757/fcc-prison-phone-call-fees-martha-wright-reed-act-biden)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 15:13:48+00:00
+
+<figure>
+      <img alt="Minister of Justice visits JVA on Christmas Eve" src="https://cdn.vox-cdn.com/thumbor/qhTJ_uZv3EQEV6TdCNzF01rPMvM=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796150/1237408824.0.jpg" />
+        <figcaption><em>The average price of a 15-minute phone call from jail is around $3.</em> | Photo by Michael Reichel/picture alliance via Getty Images</figcaption>
+    </figure>
+
+  <p id="wi4NyO">A new rule allowing the Federal Communications Commission to regulate the rates of prison phone calls is one step closer to becoming law. After <a href="https://www.fcc.gov/document/chairwoman-rosenworcel-bill-addressing-egregious-prison-phone-rates">it passed through Congress last week</a>, the Martha Wright-Reed Just and Reasonable Communications Act of 2022 now awaits President Joe Biden’s signature.</p>
+<p id="HNLw12">The <a href="https://www.theverge.com/a/prison-phone-call-cost-martha-wright-v-corrections-corporation-america">prison phone call industry has been broken for decades</a>, with telecommunications companies, like Global Tel Link and Pay Tel Communications, charging unfair fees for phone and video calls from inmates. These fees vary by state, but they involve the phone provider offering kickbacks to prisons and local governments using the money they collect from the friends and families of incarcerated people. The result is <a href="https://www.businessinsider.com/high-cost-prison-communications-driving-debt-racial-wealth-gap-2021-6">a $1.4 billion industry</a> built on...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23527757/fcc-prison-phone-call-fees-martha-wright-reed-act-biden">Continue reading&hellip;</a>
+  </p>
+
+## The Google Nest Hub Max is still matching its best price ever at Best Buy and Target
+ - [https://www.theverge.com/good-deals/2022/12/27/23527312/google-nest-hub-max-bose-headphones-earbuds-deal-sale](https://www.theverge.com/good-deals/2022/12/27/23527312/google-nest-hub-max-bose-headphones-earbuds-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 15:11:39+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/qShvqRdqZbQqa4ya_wiAd9j2GVw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796140/dseifert_190905_3634_0003.0.jpg" />
+        <figcaption><em>The Nest Hub Max is a great alternative to Amazon’s larger Echo Show devices</em> | Photo by Dan Seifert / The Verge</figcaption>
+    </figure>
+
+  <p id="4LZaYs">Just in case Santa didn’t make it to your house this year, we’re bringing you a handful of post-Christmas content. Because unlike the big dude that lives up north, <em>The Verge Deals</em> team works hard all year scouring the internet to make sure its best discounts are all front and center for you to see. The discounts available right now are a bit sparse, but we’ve still managed to wrangle a handful that we think are worth looking into if you’re looking for something to treat yourself. </p>
+<p id="hMrp76">Currently, <strong>Google’s Nest Hub Max</strong> is still on sale at <a href="https://shop-links.co/ciNnOeLdsCA" rel="sponsored nofollow noopener" target="_blank">Best Buy</a> and <a href="https://goto.target.com/c/482924/1558940/2092?subId1=VergeDeals122722&amp;u=https%3A%2F%2Fwww.target.com%2Fp%2Fgoogle-nest-hub-max-charcoal%2F-%2FA-76500131" rel="sponsored nofollow noopener" target="_blank">Target </a>for $174.99 (normally $229.99). While it may not offer the same, room-filling sound as the Nest Audio, the Max features a gorgeous 10-inch screen with a great camera for making video...</p>
+  <p>
+    <a href="https://www.theverge.com/good-deals/2022/12/27/23527312/google-nest-hub-max-bose-headphones-earbuds-deal-sale">Continue reading&hellip;</a>
+  </p>
+
+## 10 great Windows PC games from 2022
+ - [https://www.theverge.com/23512584/windows-pc-games-2022-top-roundup](https://www.theverge.com/23512584/windows-pc-games-2022-top-roundup)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 15:00:00+00:00
+
+<figure>
+      <img alt="Old-fashioned gaming with man in center of crowd." src="https://cdn.vox-cdn.com/thumbor/qbGIYKmM6Z1ZRp9ddTSoLxyxjzo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796088/226437_M_Huigen_year_PC_Gaming_Best.0.jpg" />
+        <figcaption>Micha Huigen / The Verge</figcaption>
+    </figure>
+
+  <p id="AqJjhu">It’s been a roller-coaster year for video game releases. Early in the year, 2022 felt like it was shot out of a rocket with games like <em>Elden Ring</em> and <em>Horizon Forbidden West</em>. And then, suddenly, the release schedule fell off a cliff until the fall months. But on the whole, it’s been a solid year across the board for AAA blockbusters, little-known indies that exploded in popularity, and deeply imaginative narrative games.</p>
+<p id="19xb50">If you recently built a new desktop PC, were gifted a gaming laptop, or have some Steam gift cards burning a hole in your pocket, we’ve got a helpful list. While there are <em>many </em>great games you can spend your time with, here are 10 absolute bangers across a variety of genres and price points you won’t want to pass up.</p>
+<hr class="p-entry-hr" id="1yuPfq" />
+<h2 id="fonfQv"><a href="https://www.theverge.com/2022/3/5/22960148/vampire-survivors-game-pc-mac-italian-names-lore-head-canon"><em>V...</em></a></h2>
+  <p>
+    <a href="https://www.theverge.com/23512584/windows-pc-games-2022-top-roundup">Continue reading&hellip;</a>
+  </p>
+
+## 7 great series and movies from 2022 to stream on Disney Plus
+ - [https://www.theverge.com/23495041/disney-plus-2022-series-shows-movies-stream-roundup](https://www.theverge.com/23495041/disney-plus-2022-series-shows-movies-stream-roundup)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 14:30:00+00:00
+
+<figure>
+      <img alt="An illustration featuring a laptop with a still image of Ms. Marvel on the screen" src="https://cdn.vox-cdn.com/thumbor/XluWKBWgM8FuT4nvWkP3vnUm1so=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71796011/226437_M_Huigen_year_Disney_Plus_best_streaming.0.jpg" />
+        <figcaption>Illustration by Micha Huigen / The Verge</figcaption>
+    </figure>
+
+  <p class="p--has-dropcap" id="2R8UME">Disney Plus is my favorite streaming service. It lets me indulge my Broadway passions (<a href="https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Fhamilton%2F3uPmBHWlO6HJ&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"><em>Hamilton</em></a>, <a href="https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Fwest-side-story%2F2VCrDr9yQ2FQ&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"><em>West Side Story</em></a>), revisit my childhood (<a href="https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Fbambi%2F2s64jMJasyNO&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"><em>Bambi</em></a>, <a href="https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Fsnow-white-and-the-seven-dwarfs%2F7X592hsrOB4X&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"><em>Snow White</em></a>), and catch up on the complicated worlds of <em>Star Wars</em> and MCU. It’s also the easiest way for my son to indulge his <a href="https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fseries%2Fjessie%2F3EgfU1UpcfP6&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"><em>Jessie</em></a> and <a href="https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fseries%2Fliv-and-maddie%2F3F9iOsYw2vff&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"><em>Liv &amp; Maddie</em></a> habits, thanks to its endless catalog of Disney Channel shows. </p>
+<p id="EH3wXl">But the main reason you’ll have to pry my Disney Plus subscription (which I get free through Verizon) from my cold, dead hands (at least until my kids go to college) is that it’s Disney. It’s the one family-friendly streaming service that actually has anything decent to watch. From the latest Pixar to the newest take on MCU to shorts (so many great shorts) to (another) action-packed <em>S...</em></p>
+  <p>
+    <a href="https://www.theverge.com/23495041/disney-plus-2022-series-shows-movies-stream-roundup">Continue reading&hellip;</a>
+  </p>
+
+## New iPad Mini could be a year away
+ - [https://www.theverge.com/2022/12/27/23527746/ipad-mini-new-chip-rumor-date-specs](https://www.theverge.com/2022/12/27/23527746/ipad-mini-new-chip-rumor-date-specs)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 13:22:28+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/fMozuiEG7XdRhvTwckcUjFKLkjA=/0x0:1920x1280/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71795846/vpavic_210924_4766_0061.0.jpg" />
+        <figcaption><em>Apple’s iPad Mini launched at the end of 2021.</em> | Photo: The Verge</figcaption>
+    </figure>
+
+  <p id="ZpHfp0">Apple is updating its iPad Mini with a new processor, <a href="https://twitter.com/mingchikuo/status/1607714641987407872">says respected analyst Ming-Chi Kuo</a>. The inbetweener is supposed to begin shipping by the end of 2023 or the first half of 2024.</p>
+<p id="LCBtyN">The <a href="https://www.theverge.com/22696652/ipad-mini-2021-6th-gen-review">iPad Mini</a> received an all new design at the end of 2021 after remaining largely unchanged since it was introduced way <a href="https://www.theverge.com/2012/10/30/3576178/apple-ipad-mini-review">back in 2012</a>. The 8.3-inch tablet fits in between Apple’s largest iPhone (the 6.7-inch Pro Max) and 10th-gen iPad (10.9 inch). It runs on an A15 Bionic chip with a USB-C port and an option for 5G connectivity. Kuo says the new processor will be “the main selling point,” so we shouldn’t expect too much else to change.</p>
+<p id="XZPFR1">The iPad Mini will certainly be ready for a chip update after two years, if Kuo’s timeline is correct. That could mean an...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23527746/ipad-mini-new-chip-rumor-date-specs">Continue reading&hellip;</a>
+  </p>
+
+## LG’s new minimalistic appliances are also upgradeable
+ - [https://www.theverge.com/2022/12/27/23527673/lg-minimalistic-fridge-washer-dryer-oven-dishwasher-ces](https://www.theverge.com/2022/12/27/23527673/lg-minimalistic-fridge-washer-dryer-oven-dishwasher-ces)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 09:18:14+00:00
+
+<figure>
+      <img alt="Photo of LG’s all white fridge, washing machine, dryer, oven, and dishwasher showing cleaner design on white and blue background." src="https://cdn.vox-cdn.com/thumbor/UIAWbBAbO9QEyZHfZtP0Nkb_PFY=/34x0:967x622/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71795461/LG_Minimalist_Appliances_at_CES2023_1.0.jpg" />
+        <figcaption><em>LG’s new lineup of minimalistic appliances is coming in 2023.</em> | Image: LG</figcaption>
+    </figure>
+
+  <p id="0f7zy3">LG Electronics has a new lineup of <a href="http://www.lgnewsroom.com/2022/12/lg-to-unveil-new-minimalist-design-appliances-at-ces-2023/">minimalistic appliances</a> that removes all unnecessary buttons and decorative flourishes in a refreshing “<a href="https://www.theverge.com/22174945/microwave-30-second-button-digital-analog-cooking-food-design">less is more</a>” approach. The fridge, washing machine, dryer, oven, and dishwasher are said to feature improved controls for an “effortless” user experience.</p>
+<p id="2gphCS">The appliances are also upgradeable via software and hardware as part of a program LG <a href="https://www.lgnewsroom.com/2022/01/lg-sets-new-paradigm-with-upgradable-home-appliances-that-deliver-more-benefits-over-time/">launched in January</a>. “Upgradeability challenges the idea that expensive appliances are designed with planned obsolescence in mind,” said Lyu Jae-cheol, president of LG Electronics home appliances at the time. “We want customers to experience the feeling of getting a new washer or refrigerator throughout the entire lifecycle of an LG appliance, not just the first...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23527673/lg-minimalistic-fridge-washer-dryer-oven-dishwasher-ces">Continue reading&hellip;</a>
+  </p>
