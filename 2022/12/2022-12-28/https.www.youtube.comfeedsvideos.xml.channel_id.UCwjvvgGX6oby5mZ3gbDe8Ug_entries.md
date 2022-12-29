@@ -1,0 +1,19 @@
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
+
+## 260 Million Infected in 20 Days: why is the CCP government suddenly lying flat? Who will be gone?
+ - [https://www.youtube.com/watch?v=hCbHy8wxtY0](https://www.youtube.com/watch?v=hCbHy8wxtY0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2022-12-28 18:45:08+00:00
+
+#Chinainsights#chinacovid
+As December progressed, we gradually saw clearly why the Chinese Communist Party CCP had suddenly lifted the stringent zero-Covid policy that had been in place for the past three years. Namely, by the time former Communist Party leader Jiang Zemin was announced dead on November 30, a massive outbreak had already struck, at least in Beijing. Infections and deaths couldn’t be contained by any means. If the zero-covid policy continued, it would have given the world clear evidence that the Communist Party's stringent control measures were virtually useless against the pandemic.
+
+Have questions? Do you have something to share with us about China? We want to hear from you! 
+Email: Cinsights.subscription@gmail.com
+Facebook www.facebook.com/EyesOnChina.
+
+
+Your support allows us to produce more high-quality videos. 
+Consider donating at https://www.paypal.com/paypalme/ChinaInsights
+
+Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
