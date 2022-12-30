@@ -1,0 +1,8 @@
+# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+
+## Democrats' midterm strengths extended to state legislatures, offering key advantages
+ - [https://www.washingtonexaminer.com/news/democrat-midterm-strengths-extended-to-state-legislatures](https://www.washingtonexaminer.com/news/democrat-midterm-strengths-extended-to-state-legislatures)
+ - RSS feed: https://feeds.feedburner.com/dcexaminer/Politics
+ - date published: 2022-12-29 13:38:15+00:00
+
+Democrats had a stronger-than-expected performance in the midterm elections that allowed the party to increase its Senate majority and lose only a handful of seats in the House. Those electoral strengths extended to local elections for state legislatures, giving the party an advantage heading into 2023.
