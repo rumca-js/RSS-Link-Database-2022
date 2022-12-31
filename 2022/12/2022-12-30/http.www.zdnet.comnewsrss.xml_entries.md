@@ -1,0 +1,50 @@
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+
+## CES 2023 tech to watch: EVs, the metaverse, NFTs, and more
+ - [https://www.zdnet.com/article/ces-2023-tech-preview/#ftag=RSSbaffb68](https://www.zdnet.com/article/ces-2023-tech-preview/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 15:14:00+00:00
+
+Electric car tech and even electric boats will join the metaverse, NFTs, and digital health at CES 2023.
+
+## The best tech products, devices, and gadgets of 2022
+ - [https://www.zdnet.com/article/best-tech-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-tech-2022/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 14:42:00+00:00
+
+Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.
+
+## Apple's AirPods Pro might be an inexpensive solution to your hearing loss
+ - [https://www.zdnet.com/article/apple-airpods-pro-hearing-loss-hearing-aids/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-airpods-pro-hearing-loss-hearing-aids/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 14:26:00+00:00
+
+In an experiment by doctors in Taiwan, Apple's AirPods Pro were found to be as good as premium hearing aids in most scenarios for those with mild to moderate hearing loss. However, experts recommend getting a test from an audiologist first.
+
+## Remote work is everywhere now. But here are 3 things I've learned from doing it for years
+ - [https://www.zdnet.com/home-and-office/work-life/remote-work-is-everywhere-now-but-here-are-3-things-ive-learned-from-doing-it-for-years/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/remote-work-is-everywhere-now-but-here-are-3-things-ive-learned-from-doing-it-for-years/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 14:00:21+00:00
+
+Remote working isn't a new invention, even if most people have only recently discovered it.
+
+## iPhone hidden feature: Get 50 additional text reactions so you can reply faster
+ - [https://www.zdnet.com/article/iphone-hidden-feature-get-50-additional-text-reactions-so-you-can-reply-faster/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-hidden-feature-get-50-additional-text-reactions-so-you-can-reply-faster/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 13:51:04+00:00
+
+You're not limited to the thumbs-up, heart and 4 other reactions in iMessage. Here's how to up your texting game.
+
+## Respond to iPhone texts faster with 50 additional reactions in iMessage
+ - [https://www.zdnet.com/article/respond-to-iphone-texts-faster-with-50-additional-reactions-in-imessage/#ftag=RSSbaffb68](https://www.zdnet.com/article/respond-to-iphone-texts-faster-with-50-additional-reactions-in-imessage/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 13:51:00+00:00
+
+iPhone power tip: You're not limited to the thumbs-up, heart and 4 other reactions in iMessage. Here's how to up your texting game.
+
+## iPhone hidden feature: Access 50 additional text reactions so you can reply faster
+ - [https://www.zdnet.com/article/iphone-hidden-feature-access-50-additional-text-reactions-so-you-can-reply-faster/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-hidden-feature-access-50-additional-text-reactions-so-you-can-reply-faster/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 13:51:00+00:00
+
+You're not limited to the thumbs-up, heart and 4 other reactions in iMessage. Here's how to up your texting game.
