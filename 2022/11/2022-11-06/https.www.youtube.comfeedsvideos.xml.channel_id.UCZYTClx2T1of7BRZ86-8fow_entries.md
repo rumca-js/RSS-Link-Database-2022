@@ -1,0 +1,42 @@
+# Source:SciShow, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow, language:en-US
+
+## What Penguin Bones Can Tell Us About Dying Glaciers
+ - [https://www.youtube.com/watch?v=-OtioMA680U](https://www.youtube.com/watch?v=-OtioMA680U)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2022-11-07 00:00:00+00:00
+
+Head to https://www.energysage.com/p/scishow/ to help the environment and save on your electricity bill. 
+
+We know these glaciers are already on the way out, so we need to find out whether we can bulk them back up again. For that, we turn to the glaciers’ past – and a lot of penguin bones.
+
+Hosted by: Michael Aranda (He/him)
+
+SciShow is on TikTok!  Check us out at https://www.tiktok.com/@scishow 
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Matt Curls, Alisa Sherbow, Dr. Melvin Sanicas, Harrison Mills, Adam Brainard, Chris Peters, charles george, Piya Shedden, Alex Hackman, Christopher R, Boucher, Jeffrey Mckishen, Ash, Silas Emrys, Eric Jensen, Kevin Bealer, Jason A Saslow, Tom Mosner, Tomás Lagos González, Jacob, Christoph Schwanke, Sam Lutfi, Bryan Cloer
+----------
+Looking for SciShow elsewhere on the internet?
+SciShow Tangents Podcast: https://scishow-tangents.simplecast.com/
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Instagram: http://instagram.com/thescishow
+#SciShow #science #education
+----------
+IMAGES
+
+https://en.wikipedia.org/wiki/File:Pine_Island_Glacier.ogv
+https://commons.wikimedia.org/wiki/File:Antarctic_Shag_nesting_beside_nesting_Gentoo_Penguins_(6063116371).jpg
+https://commons.wikimedia.org/wiki/File:Tay_Head_beach,_Antarctica.jpg
+https://commons.wikimedia.org/wiki/File:Spheniscus_magellanicus_01.jpg
+https://climate.nasa.gov/climate_resources/265/video-antarctic-ice-mass-loss-2002-2020/
+https://en.wikipedia.org/wiki/File:West_Antarctic_ice_sheet.svg
+https://www.nasa.gov/jpl/news/antarctic-ice-sheet-20140512/
+https://earthobservatory.nasa.gov/images/83672/decline-of-west-antarctic-glaciers-appears-irreversible
+https://climate.nasa.gov/climate_resources/187/video-25-years-of-antarctic-land-ice-elevation-change-anomalies-west-coast-fly-over/
+https://www.gettyimages.com/detail/video/glacier-melting-due-to-global-warming-stock-footage/939155106?phrase=antarctica%20glacier
+https://www.gettyimages.com/detail/video/hand-is-touching-a-memory-foam-bed-stock-footage/1216560151?phrase=mattress&adppopup=true
+

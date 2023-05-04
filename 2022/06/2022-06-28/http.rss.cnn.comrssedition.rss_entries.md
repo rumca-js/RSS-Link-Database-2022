@@ -1,0 +1,331 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## This grave should 'serve as a warning': The impact of Poland's abortion ban
+ - [https://www.cnn.com/videos/world/2022/06/28/poland-abortion-restrictions-bell-pkg-intl-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/06/28/poland-abortion-restrictions-bell-pkg-intl-lead-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 22:23:32+00:00
+
+Following the US Supreme Court's overturning of Roe v. Wade, CNN's Melissa Bell takes a closer look at life in Poland - where abortion has been restricted for 30 years.
+
+## Investigators sent to site of Missouri train derailment that killed 3 and injured at least 50
+ - [https://www.cnn.com/2022/06/28/us/missouri-amtrak-train-derailment-tuesday/index.html](https://www.cnn.com/2022/06/28/us/missouri-amtrak-train-derailment-tuesday/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 22:07:28+00:00
+
+A team of investigators from the National Transportation Safety Board will arrive in Missouri early Tuesday to learn more about the derailment of an Amtrak train that left at least three people dead, according to the agency's chair.
+
+## Biden officials privately doubt that Ukraine can win back all of its territory
+ - [https://www.cnn.com/collections/intl-g7-europe/](https://www.cnn.com/collections/intl-g7-europe/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 21:48:11+00:00
+
+
+
+## Inside Biden's successful six-month bid to expand NATO
+ - [https://www.cnn.com/collections/nato-g7-intl-062822/](https://www.cnn.com/collections/nato-g7-intl-062822/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 21:48:06+00:00
+
+
+
+## 'This is a bombshell': Trump aides left speechless by Hutchinson testimony
+ - [https://www.cnn.com/collections/jan-6-hearing-intl-062822/](https://www.cnn.com/collections/jan-6-hearing-intl-062822/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 21:40:25+00:00
+
+
+
+## CVS and Rite Aid limiting purchases of emergency contraception
+ - [https://www.cnn.com/2022/06/28/health/emergency-contraception-purchase-limit-plan-b/index.html](https://www.cnn.com/2022/06/28/health/emergency-contraception-purchase-limit-plan-b/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 21:23:02+00:00
+
+Some large drug store chains are limiting purchases of emergency contraception to three pills per customer, company representatives confirmed to CNN.
+
+## 7 takeaways from Tuesday's shocking January 6 hearing
+ - [https://www.cnn.com/2022/06/28/politics/january-6-hearing-day-6-takeaways-hutchinson/index.html](https://www.cnn.com/2022/06/28/politics/january-6-hearing-day-6-takeaways-hutchinson/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 21:03:52+00:00
+
+The House select committee investigating the January 6, 2021, Capitol Hill insurrection reconvened Tuesday for a hastily scheduled hearing, featuring blockbuster testimony from Trump White House aide Cassidy Hutchinson.
+
+## Ghislaine Maxwell sentenced to 20 years in prison for sex trafficking minor girls for Jeffrey Epstein
+ - [https://www.cnn.com/2022/06/28/us/ghislaine-maxwell-sentencing/index.html](https://www.cnn.com/2022/06/28/us/ghislaine-maxwell-sentencing/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 20:48:41+00:00
+
+Ghislaine Maxwell was sentenced to 20 years in prison Tuesday for carrying out a years-long scheme with her longtime confidante Jeffrey Epstein to sexually abuse underage girls.
+
+## 'This is a bombshell': Trump aides left speechless by hearing
+ - [https://www.cnn.com/2022/06/28/politics/trump-blindsided-january-6-hearing/index.html](https://www.cnn.com/2022/06/28/politics/trump-blindsided-january-6-hearing/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 19:16:47+00:00
+
+Donald Trump is bracing for an explosive day of testimony from Cassidy Hutchinson, a former White House aide and assistant to chief of staff Mark Meadows who previously told the House select that the former President approved of rioters chanting violent threats against Vice President Mike Pence on January 6, 2021.
+
+## Analysis: Why today's hearing was utterly devastating for Trump
+ - [https://www.cnn.com/2022/06/28/politics/donald-trump-january-6/index.html](https://www.cnn.com/2022/06/28/politics/donald-trump-january-6/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 19:07:46+00:00
+
+To date, the January 6 committee has provided a clinical, step by step breakdown of who knew what when in the days leading up to the insurrection at the US Capitol.
+
+## Ukraine's first lady says her country 'cannot see the end of our suffering'
+ - [https://www.cnn.com/2022/06/28/europe/olena-zelenska-interview-amanpour-intl/index.html](https://www.cnn.com/2022/06/28/europe/olena-zelenska-interview-amanpour-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 18:50:43+00:00
+
+Five months of war have forced Ukrainians to adjust their expectations. After readying for a conflict they thought would be a sprint, many are now grappling with the likelihood of a "marathon," said Olena Zelenska, Ukraine's first lady.
+
+## 'Take your hand off the wheel': How Trump tried to drive himself to the Capitol
+ - [https://www.cnn.com/videos/politics/2022/06/28/cassidy-hutchinson-trump-reaction-going-to-capitol-witness-sot-2022-january-6-hearings-vpx.cnn](https://www.cnn.com/videos/politics/2022/06/28/cassidy-hutchinson-trump-reaction-going-to-capitol-witness-sot-2022-january-6-hearings-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 18:48:22+00:00
+
+Cassidy Hutchinson, an aide to then-President Trump's chief of staff Mark Meadows, describes a moment where Trump lunged at Secret Service detail to drive to the US Capitol on January 6.
+
+## Ukraine's First Lady discusses the impact of the war on her family in rare TV interview
+ - [https://www.cnn.com/videos/tv/2022/06/28/ukraine-first-lady-war-family.cnn](https://www.cnn.com/videos/tv/2022/06/28/ukraine-first-lady-war-family.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 18:44:16+00:00
+
+Olena Zelenska, the wife of President Volodymr Zelensky, tells Christiane Amanpour about how the war has forced her family to stay apart from one another -- as it has for most Ukrainian families.
+
+## Lufthansa is bringing back the A380 superjumbo
+ - [https://www.cnn.com/travel/article/lufthansa-brings-back-a380/index.html](https://www.cnn.com/travel/article/lufthansa-brings-back-a380/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 16:55:18+00:00
+
+The A380 superjumbo is beloved among aviation fans, thanks to its spacious interior, mighty size and quiet inflight experience, but its days have been numbered since Airbus announced in 2019 it was ceasing production of the airliner.
+
+## A month after getting shot in the face, the grandmother of the Uvalde school shooter is released from a hospital
+ - [https://www.cnn.com/2022/06/28/us/uvalde-texas-shooter-grandmother-hospital-release/index.html](https://www.cnn.com/2022/06/28/us/uvalde-texas-shooter-grandmother-hospital-release/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 15:37:30+00:00
+
+A grandmother who was shot by her grandson before he killed 21 people at a Texas elementary school has been released from a hospital.
+
+## F1 teams rally around Hamilton after Piquet uses racist slur
+ - [https://www.cnn.com/2022/06/28/motorsport/lewis-hamilton-nelson-piquet-racial-slur-intl-spt/index.html](https://www.cnn.com/2022/06/28/motorsport/lewis-hamilton-nelson-piquet-racial-slur-intl-spt/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 15:28:59+00:00
+
+Formula One, Mercedes and the FIA have condemned former F1 driver Nelson Piquet for using a racial slur against British driver Lewis Hamilton.
+
+## Tom Hanks admits doubts over 'Forrest Gump' bus bench scenes
+ - [https://www.cnn.com/2022/06/28/entertainment/tom-hanks-forrest-gump-interview-intl-scli/index.html](https://www.cnn.com/2022/06/28/entertainment/tom-hanks-forrest-gump-interview-intl-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 15:21:13+00:00
+
+Tom Hanks has revealed how he didn't think the iconic bus bench scenes in smash hit movie "Forrest Gump" would make it into the final cut.
+
+## 'Shall we take our clothes off?' Sad return of G7 'boys club'
+ - [https://www.cnn.com/2022/06/28/opinions/g7-boys-club-leaders-women-ghitis/index.html](https://www.cnn.com/2022/06/28/opinions/g7-boys-club-leaders-women-ghitis/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 15:11:56+00:00
+
+
+
+## 101-year-old former Nazi concentration camp guard sentenced to five years in prison
+ - [https://www.cnn.com/2022/06/28/europe/nazi-holocaust-camp-guard-sentencing-intl/index.html](https://www.cnn.com/2022/06/28/europe/nazi-holocaust-camp-guard-sentencing-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 15:08:28+00:00
+
+A 101-year-old former Nazi concentration camp guard has been sentenced to five years in prison by a German court for aiding and abetting the murder of 3,518 people during the Holocaust.
+
+## Analysis: Thank Donald Trump for the fall of Roe v. Wade
+ - [https://www.cnn.com/videos/politics/2022/06/28/trump-roe-wade-scotus-the-point-orig.cnn](https://www.cnn.com/videos/politics/2022/06/28/trump-roe-wade-scotus-the-point-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 15:02:11+00:00
+
+Donald Trump ran on a platform to create a conservative supreme court and overturn Roe V. Wade. His three picks Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett created that reality.
+
+## The electric Cadillac Lyriq is the company's best SUV yet
+ - [https://www.cnn.com/2022/06/28/business/cadillac-lyriq-review/index.html](https://www.cnn.com/2022/06/28/business/cadillac-lyriq-review/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 14:24:48+00:00
+
+General Motors has said that Cadillac, its luxury brand, will lead the automaker into the electric future. It will be the first GM brand to go all-electric and its first EV model is the Cadillac Lyriq, a crossover SUV that's one of the best Cadillacs I've driven in a long time.
+
+## 'Let's talk about what it means to be pro-life': Chelsea Handler slams overturning of Roe v. Wade
+ - [https://www.cnn.com/videos/media/2022/06/28/chelsea-handler-late-night-roe-wade-lon-orig-na.cnn-business](https://www.cnn.com/videos/media/2022/06/28/chelsea-handler-late-night-roe-wade-lon-orig-na.cnn-business)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 14:23:42+00:00
+
+Late night show hosts weighed in on the overturning of Roe v. Wade by the Supreme Court.
+
+## The whispers of Hillary Clinton 2024 have started
+ - [https://www.cnn.com/2022/06/28/politics/hillary-clinton-2024/index.html](https://www.cnn.com/2022/06/28/politics/hillary-clinton-2024/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 14:21:49+00:00
+
+In the immediate aftermath of the Supreme Court's monumental decision to overturn Roe v Wade, conservative writer John Ellis took to the internet to make a provocative case: It was time for Hillary Clinton to make a(nother) political comeback.
+
+## Italian tourism boss has simple idea to stop watch theft
+ - [https://www.cnn.com/travel/article/naples-cheap-watch-alternative-intl-scli/index.html](https://www.cnn.com/travel/article/naples-cheap-watch-alternative-intl-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 14:06:01+00:00
+
+A tourism chief in Naples has come up with a unique solution for any visitors worried about theft in the southern Italian city, after reports the French actor Daniel Auteuil recently had his luxury watch stolen in the area.
+
+## Andy Murray defends use of cheeky underarm serve
+ - [https://www.cnn.com/2022/06/28/tennis/andy-murray-defends-underarm-serve-wimbledon-spt-intl/index.html](https://www.cnn.com/2022/06/28/tennis/andy-murray-defends-underarm-serve-wimbledon-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 13:51:24+00:00
+
+Andy Murray defended the use of the underarm serve he deployed during his first-round win at Wimbledon over Australia's James Duckworth.
+
+## Russia's last default sparked a crisis. This time is different
+ - [https://www.cnn.com/2022/06/28/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/06/28/investing/premarket-stocks-trading/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 13:21:03+00:00
+
+This week, Russia defaulted on its foreign debt for the first time since the Bolshevik revolution after it failed to pay interest on two bonds during a 30-day grace period that expired Sunday.
+
+## Why aren't baby formula stock rates getting better?
+ - [https://www.cnn.com/2022/06/28/health/formula-stock-not-changing/index.html](https://www.cnn.com/2022/06/28/health/formula-stock-not-changing/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 13:09:06+00:00
+
+Dozens of international flights loaded with baby formula have already come into the United States, but formula stock rates are not improving. Experts say it will take at least another couple months for this to change, as both supply levels and consumers' perspectives level out.
+
+## Johnny Depp's rep shuts down talk of 'Pirates' return
+ - [https://www.cnn.com/2022/06/28/entertainment/johnny-depp-pirates-caribbean/index.html](https://www.cnn.com/2022/06/28/entertainment/johnny-depp-pirates-caribbean/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 13:06:46+00:00
+
+Don't look for Johnny Depp to return as Jack Sparrow anytime soon.
+
+## Elmo just got his Covid-19 vaccine
+ - [https://www.cnn.com/2022/06/28/health/elmo-covid-vaccine-children-psa-wellness/index.html](https://www.cnn.com/2022/06/28/health/elmo-covid-vaccine-children-psa-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 12:58:56+00:00
+
+Elmo, everyone's favorite red Muppet, has received the Covid-19 vaccine.
+
+## Tencent's biggest shareholder is planning to dump more stock
+ - [https://www.cnn.com/2022/06/28/investing/tencent-stock-prosus-naspers-intl-hnk/index.html](https://www.cnn.com/2022/06/28/investing/tencent-stock-prosus-naspers-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 12:55:19+00:00
+
+Tencent's biggest shareholder will reduce its stake in the social media and gaming giant, just over a year after promising it would not sell the stock for three years.
+
+## The UK government has taken a stake in a sex party startup
+ - [https://www.cnn.com/2022/06/28/business/killing-kittens-uk-loan-stake-intl-hnk/index.html](https://www.cnn.com/2022/06/28/business/killing-kittens-uk-loan-stake-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 12:45:20+00:00
+
+British taxpayers now officially hold shares in a company that throws sex parties.
+
+## Oil producers usually tame soaring prices by turning on the taps. Here's why that may not work this time
+ - [https://www.cnn.com/2022/06/27/middleeast/opec-oil-prices-mime-intl/index.html](https://www.cnn.com/2022/06/27/middleeast/opec-oil-prices-mime-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 12:44:22+00:00
+
+Oil-consuming nations wait with bated breath as the OPEC cartel meets once again this week to decide whether to pump more crude into the market to tame runaway prices.
+
+## Wimbledon favourite tests positive for Covid-19
+ - [https://www.cnn.com/2022/06/28/tennis/matteo-berrettini-wimbledon-covid-intl-spt/index.html](https://www.cnn.com/2022/06/28/tennis/matteo-berrettini-wimbledon-covid-intl-spt/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 11:17:37+00:00
+
+Matteo Berrettini, last year's men's finalist, has withdrawn from Wimbledon after testing positive for Covid-19.
+
+## Early human fossils found in cave are a million years older than expected
+ - [https://www.cnn.com/2022/06/28/world/sterkfontein-cave-australopithecus-fossils-age-scn/index.html](https://www.cnn.com/2022/06/28/world/sterkfontein-cave-australopithecus-fossils-age-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 11:16:36+00:00
+
+Fossils of early human ancestors from a South African cave are 3.4 million to 3.6 million years old -- making them a million years older than previously suspected and shaking up the way researchers understand human origins and evolution.
+
+## MLB suspends 12 players and coaches for 18-minute mass brawl
+ - [https://www.cnn.com/2022/06/28/sport/mlb-suspends-12-for-mariners-angels-mass-brawl-spt-intl/index.html](https://www.cnn.com/2022/06/28/sport/mlb-suspends-12-for-mariners-angels-mass-brawl-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 10:50:44+00:00
+
+Major League Baseball has suspended 12 players and coaches following the mass brawl that marred the Los Angeles Angels' win over the Seattle Mariners on Sunday.
+
+## As inflation soars, Black Americans bear the brunt of rising grocery, gas and housing prices
+ - [https://www.cnn.com/2022/06/28/us/black-families-inflation/index.html](https://www.cnn.com/2022/06/28/us/black-families-inflation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 10:30:50+00:00
+
+Krista Johnson gets anxious when she thinks about the rising cost of gas, food and housing as she prepares to give birth to her daughter, who is due in August.
+
+## Microwave-size spacecraft will launch to test new orbit between Earth and the moon
+ - [https://www.cnn.com/2022/06/28/world/capstone-artemis-program-scn/index.html](https://www.cnn.com/2022/06/28/world/capstone-artemis-program-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 10:09:40+00:00
+
+A tiny spacecraft with big implications for lunar exploration is ready to launch.
+
+## X-ray finds 109 live animals in women's luggage at Bangkok airport, Thai officials say
+ - [https://www.cnn.com/travel/article/women-arrested-100-live-animals-luggage-bangkok-airport-intl-hnk/index.html](https://www.cnn.com/travel/article/women-arrested-100-live-animals-luggage-bangkok-airport-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 09:56:34+00:00
+
+Two women were arrested at Bangkok's Suvarnabhumi Airport and accused of smuggling after 109 live animals were found in their luggage, Thai officials say.
+
+## Indian police arrest Muslim journalist accused of insulting Hindus
+ - [https://www.cnn.com/2022/06/28/india/mohammed-zubair-india-arrest-journalist-intl-hnk/index.html](https://www.cnn.com/2022/06/28/india/mohammed-zubair-india-arrest-journalist-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 09:34:04+00:00
+
+Delhi police have arrested a prominent Muslim journalist, accusing him of insulting religious beliefs on social media, in a move condemned by free speech advocates.
+
+## See how a US volunteer fighter is training Ukrainians to use weapons
+ - [https://www.cnn.com/videos/world/2022/06/28/ukraine-train-volunteers-us-abdelaziz-dnt-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/06/28/ukraine-train-volunteers-us-abdelaziz-dnt-ovn-intl-hnk-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 08:56:46+00:00
+
+CNN's Salma Abdelaziz visits the site of a training program in Ukraine where volunteers are learning to use US-supplied weapons.
+
+## Before you worry about Russian nuclear weapons, read this
+ - [https://www.cnn.com/2022/06/28/opinions/nuclear-war-likelihood-probability-russia-us-scoblic-mandel/index.html](https://www.cnn.com/2022/06/28/opinions/nuclear-war-likelihood-probability-russia-us-scoblic-mandel/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 08:32:02+00:00
+
+Since Russia's invasion of Ukraine four months ago, a question that keeps popping up in conversation with colleagues -- and with relatives, from Washington to Paris -- is: Should they get out of town before the nuclear missiles start flying?
+
+## Japan tells millions to save electricity as record heat wave strains power supply
+ - [https://www.cnn.com/2022/06/28/asia/japan-heatwave-air-conditioning-power-electricity-shortage-climate-change-intl-hnk/index.html](https://www.cnn.com/2022/06/28/asia/japan-heatwave-air-conditioning-power-electricity-shortage-climate-change-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 07:46:12+00:00
+
+Japan is asking some 37 million people living in and around Tokyo to use less electricity and ration air conditioning even amid a record heat wave that has seen temperatures in some parts of the country pass 40 degrees Celsius (104 degrees Fahrenheit).
+
+## 'I had to take a chance,' says Indonesian who caught 14-foot crocodile with rope
+ - [https://www.cnn.com/2022/06/28/asia/indonesia-crocodile-14-foot-rope-capture-sulawesi-intl-hnk/index.html](https://www.cnn.com/2022/06/28/asia/indonesia-crocodile-14-foot-rope-capture-sulawesi-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 07:23:31+00:00
+
+Fellow villagers have praised an Indonesian man for capturing a crocodile measuring 4.3 meters (14.1 feet) on the island of Sulawesi using just a rope.
+
+## Chinese censors scramble after official suggests 'zero-Covid' policy could last years
+ - [https://www.cnn.com/2022/06/27/asia/china-zero-covid-policy-intl/index.html](https://www.cnn.com/2022/06/27/asia/china-zero-covid-policy-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 06:52:46+00:00
+
+• In 'zero-Covid' China, a daughter's struggle to get her father medicine hits a nerve
+
+## Flight attendants reveal how they stay rested on long-haul flights
+ - [https://www.cnn.com/travel/article/airplane-crew-sleeping-quarters-cmd/index.html](https://www.cnn.com/travel/article/airplane-crew-sleeping-quarters-cmd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 02:23:40+00:00
+
+There are some secret areas on widebody aircraft, where the pilots and cabin crew go to rest during long flights. Passengers can't access them under any circumstance and they're well hidden from view.
+
+## Meet Mr. Happy face, the 'World's Ugliest Dog'
+ - [https://www.cnn.com/videos/us/2022/06/28/mr-happy-face-worlds-ugliest-dog-contest-returns-moos-pkg.cnn](https://www.cnn.com/videos/us/2022/06/28/mr-happy-face-worlds-ugliest-dog-contest-returns-moos-pkg.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 00:57:29+00:00
+
+Mr. Happy Face crowned "World's Ugliest Dog." CNN's Jeanne Moos reports HIS tongue is wagging.
+
+## Kamala Harris doubles down on vote against Kavanaugh and Gorsuch
+ - [https://www.cnn.com/videos/politics/2022/06/27/kamala-harris-dana-bash-intv-justices-gorsuch-kavanaugh-vpx.cnn](https://www.cnn.com/videos/politics/2022/06/27/kamala-harris-dana-bash-intv-justices-gorsuch-kavanaugh-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-28 00:24:45+00:00
+
+Vice President Kamala Harris talks to CNN's Dana Bash about why she voted against Justices Neil Gorsuch and Brett Kavanaugh during their confirmation hearings.
+

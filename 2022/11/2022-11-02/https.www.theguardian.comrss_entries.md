@@ -1,0 +1,9 @@
+# Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
+
+## ‘They felt complete security’: how Crisis adapted its services to support people experiencing homelessness during Covid
+ - [https://www.theguardian.com/ending-homelessness-with-crisis-at-christmas/2022/nov/02/they-felt-complete-security-how-crisis-adapted-its-services-to-support-people-experiencing-homelessness-during-covid](https://www.theguardian.com/ending-homelessness-with-crisis-at-christmas/2022/nov/02/they-felt-complete-security-how-crisis-adapted-its-services-to-support-people-experiencing-homelessness-during-covid)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2022-11-02 11:16:51+00:00
+
+<p>Rather than stopping its services during the lockdowns, the charity found new ways to deliver them – from organising online one-to-one coaching and support sessions to setting up a programme to help other homelessness charities</p><p>Many of us found it disorientating when the country went into lockdown in March 2020 as Covid-19 took hold, but for people experiencing homelessness it was particularly frightening. Imagine being told you had to “stay indoors” when you didn’t have a home, or finding out that the friends whose sofas you were relying on no longer wanted the risk of an extra person in the house.</p><p>For Crisis, a charity that supports people who are homeless, a rapid rethink of its services – mostly provided in person and face-to-face – was needed. In normal times, the charity’s 11 Skylight centres welcome people experiencing homelessness through their doors and offer training and support with housing, helping them find and keep a rented home.</p> <a href="https://www.theguardian.com/ending-homelessness-with-crisis-at-christmas/2022/nov/02/they-felt-complete-security-how-crisis-adapted-its-services-to-support-people-experiencing-homelessness-during-covid">Continue reading...</a>
+

@@ -1,0 +1,311 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## TikTok 'healthy Coke' has the internet gagging
+ - [https://www.cnn.com/videos/media/2022/06/16/vinegar-coke-tiktok-moos-vpx.cnn](https://www.cnn.com/videos/media/2022/06/16/vinegar-coke-tiktok-moos-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 20:02:09+00:00
+
+Internet users weighed in with distaste after an actress from California went viral on TikTok by combining balsamic vinegar and sparkling water to make "a healthy Coke." CNN's Jeanne Moos reports.
+
+## Kim Kardashian did not damage Marilyn Monroe's dress, according to Ripley's
+ - [https://www.cnn.com/style/article/kim-kardashian-marilyn-monroe-dress/index.html](https://www.cnn.com/style/article/kim-kardashian-marilyn-monroe-dress/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 19:47:43+00:00
+
+Kim Kardashian did not ruin Marilyn Monroe's iconic dress at the Met Gala.
+
+## 5 key takeaways from the third Jan. 6 hearing
+ - [https://www.cnn.com/collections/jan-6-hearing-intl-061322/](https://www.cnn.com/collections/jan-6-hearing-intl-061322/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 19:46:34+00:00
+
+
+
+## Is there a limit to the West's appetite for defeating Putin?
+ - [https://www.cnn.com/2022/06/16/opinions/ukraine-war-putin-eu-biden-cost-andelman/index.html](https://www.cnn.com/2022/06/16/opinions/ukraine-war-putin-eu-biden-cost-andelman/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 19:34:27+00:00
+
+"A billion here, a billion there, pretty soon you're talking real money" is one of those phrases from the height of the Cold War in the 1960s that has become embedded in the American political vernacular.
+
+## Buffalo shooting suspect said he committed massacre 'for the future of the White race' in note apologizing to his family, affidavit says
+ - [https://www.cnn.com/2022/06/16/us/buffalo-shooting-suspect-federal-court/index.html](https://www.cnn.com/2022/06/16/us/buffalo-shooting-suspect-federal-court/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 19:13:06+00:00
+
+The 18-year-old accused of killing 10 Black people at a Buffalo, New York, supermarket last month apologized to his family for carrying out the mass shooting, writing in a note he "had to commit this attack" because he cared "for the future of the White race," according to court documents.
+
+## Macron, Scholz and Draghi make unannounced visit to Ukraine
+ - [https://www.cnn.com/videos/world/2022/06/16/macron-scholz-draghi-visit-ukraine-ctw-abdelaziz-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/06/16/macron-scholz-draghi-visit-ukraine-ctw-abdelaziz-intl-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 18:13:23+00:00
+
+The leaders of France, Germany and Italy arrived in Kyiv on a high-profile trip to smooth tensions over what Ukrainian officials perceive as lukewarm support in their fight against Russia. CNN's Salma Abdelaziz reports.
+
+## Who is Colombia's 'Old Man of TikTok' that could become the next president?
+ - [https://www.cnn.com/2022/06/16/americas/rodolfo-hernandez-colombia-presidential-election-profile-intl-latam/index.html](https://www.cnn.com/2022/06/16/americas/rodolfo-hernandez-colombia-presidential-election-profile-intl-latam/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 18:08:36+00:00
+
+When Colombia's presidential campaign race started back in January, few expected that Rodolfo Hernandez would reach the final lap. But the septuagenarian real estate magnate-turned-politician has a chance of becoming the country's next president if he wins the battle against competitor Gustavo Petro in Sunday's runoff vote.
+
+## Jan. 6 committee presents video of threats against Mike Pence
+ - [https://www.cnn.com/videos/politics/2022/06/16/threats-against-mike-pence-2022-january-6-hearings-vpx.cnn](https://www.cnn.com/videos/politics/2022/06/16/threats-against-mike-pence-2022-january-6-hearings-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 18:07:23+00:00
+
+During their third hearing, the House select committee investigating the January 6 Capitol riot presented pre-produced video evidence of former President Donald Trump calling for former Vice President Mike Pence to "come through" and "stand up" for the country on Jan. 6. They also showed video of rioters echoing similar sentiments and calling for violence against Pence if he didn't refuse to certify the 2020 presidential election.
+
+## Revlon files for bankruptcy
+ - [https://www.cnn.com/2022/06/16/investing/revlon-bankruptcy/index.html](https://www.cnn.com/2022/06/16/investing/revlon-bankruptcy/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 18:02:32+00:00
+
+Revlon, the 90-year-old cosmetics giant, filed for Chapter 11 bankruptcy protection because of its crippling debt and mounting celebrity competition.
+
+## Newly documented polar bear population lives in a surprising place
+ - [https://www.cnn.com/2022/06/16/world/polar-bears-southeast-greenland-scn/index.html](https://www.cnn.com/2022/06/16/world/polar-bears-southeast-greenland-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 18:00:10+00:00
+
+A genetically distinct and isolated population of polar bears have been documented living in southeast Greenland.
+
+## Doctor known for spreading Covid misinformation is sentenced to prison for role in US Capitol attack
+ - [https://www.cnn.com/2022/06/16/politics/simone-gold-january-6-covid-us-capitol/index.html](https://www.cnn.com/2022/06/16/politics/simone-gold-january-6-covid-us-capitol/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 17:31:23+00:00
+
+Dr. Simone Gold, a Beverly Hills woman known for spreading debunked claims about Covid-19 was sentenced on Thursday to 60 days in prison for illegally entering and remaining in the US Capitol during the January 6 insurrection.
+
+## New satellite imagery shows flooding in Yellowstone altered the river's course
+ - [https://www.cnn.com/2022/06/16/weather/yellowstone-flood-satellite-before-and-after/index.html](https://www.cnn.com/2022/06/16/weather/yellowstone-flood-satellite-before-and-after/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 17:25:27+00:00
+
+A vital bridge and road along the Yellowstone River and its tributary, the Gardner River, were destroyed by recent historic flooding. New satellite images from Maxar Technologies show the extent of the damage the torrent of water wrought.
+
+## Layoffs are on the rise in the midst of crypto winter
+ - [https://www.cnn.com/2022/06/16/tech/crypto-layoff-wave/index.html](https://www.cnn.com/2022/06/16/tech/crypto-layoff-wave/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 17:04:27+00:00
+
+Hao Jia was so convinced in the potential of cryptocurrencies that he passed up a job at a large tech firm, Oracle, to take another offer he received in early April to be a software engineer at one of the buzziest crypto startups, Coinbase.
+
+## EU leaders try to smooth tensions over perceived lack of support
+ - [https://www.cnn.com/2022/06/16/europe/macron-scholz-draghi-visit-kyiv-ukraine-intl/index.html](https://www.cnn.com/2022/06/16/europe/macron-scholz-draghi-visit-kyiv-ukraine-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 16:33:31+00:00
+
+When the loud sound of air raid sirens pierced through the relative calm of Kyiv on Thursday morning, it was a stark reminder for French President Emmanuel Macron, German Chancellor Olaf Scholz and Italian Prime Minister Mario Draghi that they were visiting a country under attack.
+
+## Death Valley National Park visitor found dead after walking for gas, say park officials
+ - [https://www.cnn.com/2022/06/16/us/death-valley-visitor-death/index.html](https://www.cnn.com/2022/06/16/us/death-valley-visitor-death/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 15:39:33+00:00
+
+A Death Valley National Park tourist was found dead Tuesday after his car ran out of gas, the National Park Service (NPS) reports.
+
+## Here's why Alexandria Ocasio-Cortez declining to endorse Biden for 2024 matters
+ - [https://www.cnn.com/videos/politics/2022/06/16/aoc-biden-cillizza-the-point-orig.cnn](https://www.cnn.com/videos/politics/2022/06/16/aoc-biden-cillizza-the-point-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 15:32:41+00:00
+
+In today's episode of The Point, CNN's Chris Cillizza explains why Alexandria Ocasio-Cortez's decision to not commit to endorsing Joe Biden in 2024 speaks to the broader discontent among liberals with his presidency.
+
+## Ana de Armas is uncanny as Marilyn Monroe in 'BLONDE'
+ - [https://www.cnn.com/2022/06/16/entertainment/blonde-trailer-ana-de-armas/index.html](https://www.cnn.com/2022/06/16/entertainment/blonde-trailer-ana-de-armas/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 15:18:16+00:00
+
+Ana de Armas is Marilyn Monroe.
+
+## The Fed's latest rate hike will be a disaster for the economy
+ - [https://www.cnn.com/2022/06/16/perspectives/fed-interest-rate-hike-economy-recession/index.html](https://www.cnn.com/2022/06/16/perspectives/fed-interest-rate-hike-economy-recession/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 15:02:35+00:00
+
+History will not judge the Jerome Powell Federal Reserve kindly. First, it brought us multi-decade high inflation. Now, it is putting us well on the path to a hard economic landing.
+
+## Tom Hanks says 'Philadelphia' wouldn't get made today with a straight actor in a gay role
+ - [https://www.cnn.com/2022/06/16/entertainment/tom-hanks-gay-character-philadelphia-cec/index.html](https://www.cnn.com/2022/06/16/entertainment/tom-hanks-gay-character-philadelphia-cec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 14:56:32+00:00
+
+Tom Hanks, who won an Oscar for his role as a gay man with AIDS in the film "Philadelphia," said that if the film were made today, a straight actor wouldn't be cast in that role, and "rightly so."
+
+## This European airline just ordered a fleet of airships
+ - [https://www.cnn.com/travel/article/airlander-10-air-nostrum/index.html](https://www.cnn.com/travel/article/airlander-10-air-nostrum/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 14:44:16+00:00
+
+As the quest for less environmentally damaging aviation continues, one Spanish airline has thrown its hat into the ring by ordering new hybrid airships -- which pack as much of a punch visually as they are said to do environmentally.
+
+## Kevin Spacey granted bail after court appearance on sexual assault charges
+ - [https://www.cnn.com/2022/06/16/uk/kevin-spacey-london-sexual-assault-hearing-gbr-intl/index.html](https://www.cnn.com/2022/06/16/uk/kevin-spacey-london-sexual-assault-hearing-gbr-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 14:38:27+00:00
+
+US actor Kevin Spacey has made his first appearance in a London court after being charged with four counts of sexual assault against three men.
+
+## WWE boss Vince McMahon reportedly paid $3 million in hush money to cover up affair
+ - [https://www.cnn.com/2022/06/16/media/wwe-vince-mcmahon-investigation/index.html](https://www.cnn.com/2022/06/16/media/wwe-vince-mcmahon-investigation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 14:31:28+00:00
+
+Vince McMahon, the CEO of WWE, is being investigated by the company's board for agreeing to pay a secret $3 million settlement to a former employee he allegedly had an affair with, according to a Wall Street Journal report.
+
+## EU unveils new 'anti-disinformation code' to crack down on fake accounts and falsehoods
+ - [https://www.cnn.com/2022/06/16/tech/eu-anti-disinformation-code/index.html](https://www.cnn.com/2022/06/16/tech/eu-anti-disinformation-code/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 14:30:07+00:00
+
+European Union officials on Thursday announced new, voluntary commitments by companies including Google, Facebook-parent Meta, Twitter and TikTok to limit the spread of fake and misleading content.
+
+## Which Pixar film has rocketed to the top of the box office?
+ - [https://www.cnn.com/2022/06/16/media/pixar-box-office/index.html](https://www.cnn.com/2022/06/16/media/pixar-box-office/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 14:21:43+00:00
+
+Pixar is one of the most popular brands in animation as well as one of the most important studios in Disney's media kingdom. But it has been a while since audiences could go to a theater to see one of its films.
+
+## 100 million people around the world have been forced to flee their homes. That's more than the population of most countries
+ - [https://www.cnn.com/2022/06/16/world/refugees-unhcr-report/index.html](https://www.cnn.com/2022/06/16/world/refugees-unhcr-report/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 13:40:26+00:00
+
+War, violence, persecution and human rights abuses have pushed the world past a "dramatic milestone," according to a new report from the UN's refugee agency.
+
+## Beyoncé sets release date for 'Renaissance'
+ - [https://www.cnn.com/2022/06/16/entertainment/beyonce-renaissance/index.html](https://www.cnn.com/2022/06/16/entertainment/beyonce-renaissance/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 13:26:00+00:00
+
+We don't know much about Beyoncé's next project, but we do know that it's coming.
+
+## Dolly Parton donates $1 million to fund pediatric infectious disease research
+ - [https://www.cnn.com/2022/06/16/entertainment/dolly-parton-pediatric-research/index.html](https://www.cnn.com/2022/06/16/entertainment/dolly-parton-pediatric-research/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 13:15:23+00:00
+
+Dolly Parton has donated $1 million to pediatric infectious disease research at Vanderbilt University Medical Center's Division of Pediatric Infectious Diseases, Vanderbilt said Wednesday.
+
+## 'Oh s***': See moment mom spots bear following her family
+ - [https://www.cnn.com/videos/world/2022/06/16/black-bear-follows-family-hike-affil-dnt-vpx.kutv](https://www.cnn.com/videos/world/2022/06/16/black-bear-follows-family-hike-affil-dnt-vpx.kutv)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 13:10:00+00:00
+
+A young family hiking a popular trail in British Columbia, Canada, say they were followed by a black bear for approximately 20 minutes. Cell phone video captured by mom Brighton Peachy shows the family's reaction. CNN affiliate KUTV has more.
+
+## Bank of England hikes interest rates yet again as inflation spirals
+ - [https://www.cnn.com/collections/intl-interest-rates/](https://www.cnn.com/collections/intl-interest-rates/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 12:14:25+00:00
+
+
+
+## Post-pandemic home design trends reflect a need for more fluidity and nature
+ - [https://www.cnn.com/style/article/milan-design-week-2022/index.html](https://www.cnn.com/style/article/milan-design-week-2022/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 11:15:19+00:00
+
+After a year off due to the pandemic and a scaled-down iteration in September 2021, Milan's Salone del Mobile --  the international design fair that's been held annually since 1961  -- was back in full force last week. Beyond the trade show itself, which was packed with household names in the world of interiors, the Fuorisalone saw young creatives and smaller brands take over galleries, abandoned spaces and art hubs across the city with shows and installations, proposing new ideas for what our homes of tomorrow might look like.
+
+## Meet the parkour athletes defying fear and gravity at Red Bull Art of Motion
+ - [https://www.cnn.com/2022/06/16/sport/parkour-red-bull-art-of-motion-spt-intl/index.html](https://www.cnn.com/2022/06/16/sport/parkour-red-bull-art-of-motion-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 10:52:56+00:00
+
+The athletes participating in Red Bull's Art of Motion mimic the wonders of the Greek island of Astypalea around them.
+
+## Trump is weighing whether to announce a 2024 bid before the midterms. Advisers are divided on that timing
+ - [https://www.cnn.com/2022/06/16/politics/trump-2024-announcement-timing/index.html](https://www.cnn.com/2022/06/16/politics/trump-2024-announcement-timing/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 10:29:52+00:00
+
+The signs of Donald Trump's next White House run are there. He has hosted wannabe campaign managers at Mar-a-Lago and quizzed golf partners between shots on who he should put in charge, though no formal interviews have been conducted.
+
+## Americans are facing a Rainbow Scare -- and it may get worse before it gets better
+ - [https://www.cnn.com/2022/06/16/opinions/rainbow-scare-lgbtq-rights-pride-hope/index.html](https://www.cnn.com/2022/06/16/opinions/rainbow-scare-lgbtq-rights-pride-hope/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 10:11:31+00:00
+
+As Pride celebrations take place around the world this month, marking more than 50 years of LGBTQ+ visibility, extreme right groups in localities nationwide have been acting like it's pre-Stonewall. And they're targeting our children.
+
+## Boris Johnson suffers blow as second ethics adviser resigns
+ - [https://www.cnn.com/2022/06/16/uk/boris-johnson-geidt-ethics-adviser-resigns-intl-gbr/index.html](https://www.cnn.com/2022/06/16/uk/boris-johnson-geidt-ethics-adviser-resigns-intl-gbr/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 10:03:52+00:00
+
+British Prime Minister Boris Johnson suffered a further blow to his authority on Wednesday when his second ethics adviser in less than two years quit his post.
+
+## Europe is making it much harder for Russia to ship oil anywhere
+ - [https://www.cnn.com/2022/06/16/energy/russia-oil-ships-insurance/index.html](https://www.cnn.com/2022/06/16/energy/russia-oil-ships-insurance/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 09:00:20+00:00
+
+The European Union's embargo on 90% of the oil it imports from Russia is the toughest punishment it's inflicted on the Kremlin since President Vladimir Putin ordered the invasion of Ukraine.
+
+## Lightyear 0 solar-assisted car will go into production this year
+ - [https://www.cnn.com/travel/article/lightyear-0-solar-assisted-car-spc-c2e-intl/index.html](https://www.cnn.com/travel/article/lightyear-0-solar-assisted-car-spc-c2e-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 08:33:30+00:00
+
+Dutch company Lightyear has announced that this fall it will start making the world's first production car fitted with solar panels.
+
+## Australian star Nick Kyrgios in heated argument with umpire during comeback win
+ - [https://www.cnn.com/2022/06/16/tennis/nick-kyrgios-australia-umpire-argument-spt-intl/index.html](https://www.cnn.com/2022/06/16/tennis/nick-kyrgios-australia-umpire-argument-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 08:31:02+00:00
+
+Tennis star Nick Kyrgios was involved in a fiery exchange with the umpire during his comeback win against Stefanos Tsitsipas at TP 500 Halle Open Wednesday.
+
+## Why experts believe dead little blue penguins keep washing ashore in New Zealand
+ - [https://www.cnn.com/2022/06/16/world/new-zealand-dead-little-blue-penguins-climate-intl-hnk-scn/index.html](https://www.cnn.com/2022/06/16/world/new-zealand-dead-little-blue-penguins-climate-intl-hnk-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 07:36:05+00:00
+
+The bodies of hundreds of little blue penguins have washed up on the beaches of New Zealand's northern coast in recent weeks, according to conservationists, who fear climate change is starving the birds to death.
+
+## American, Canadian and Mexican 2026 World Cup host cities set to be announced
+ - [https://www.cnn.com/2022/06/16/football/host-cities-2026-fifa-world-cup/index.html](https://www.cnn.com/2022/06/16/football/host-cities-2026-fifa-world-cup/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 07:19:02+00:00
+
+Cities that have applied to host matches at the 2026 men's World Cup, the first edition to feature 48 teams and the first to be staged in three countries, will find out on Thursday whether their bids have been successful.
+
+## Analysis: Ukraine's longshot bid to join EU is likely to enrage Putin
+ - [https://www.cnn.com/2022/06/16/europe/ukraine-nato-membership-putin-analysis-cmd/index.html](https://www.cnn.com/2022/06/16/europe/ukraine-nato-membership-putin-analysis-cmd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 04:48:02+00:00
+
+• Top US general: Russian control of eastern Ukraine not 'an inevitability'
+• See Ukrainian troops try out US-supplied M4 rifles
+
+## Police department uses high-tech simulator for active shooter training
+ - [https://www.cnn.com/videos/us/2022/06/16/active-shooter-simulator-enid-oklahoma-police-tuchman-dnt-ac360-vpx.cnn](https://www.cnn.com/videos/us/2022/06/16/active-shooter-simulator-enid-oklahoma-police-tuchman-dnt-ac360-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 03:42:50+00:00
+
+CNN's Gary Tuchman looks at how a police department in Enid, Oklahoma, uses a high-tech, realistic simulator to train for active shooter situations.
+
+## 'Testy exchange': Pleitgen challenges Russian official on Putin's message
+ - [https://www.cnn.com/videos/world/2022/06/16/pleitgen-questions-russian-official-on-putin-international-law-sot-ac360-vpx.cnn](https://www.cnn.com/videos/world/2022/06/16/pleitgen-questions-russian-official-on-putin-international-law-sot-ac360-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 03:10:38+00:00
+
+CNN's Frederik Pleitgen questions a Russian official on whether President Vladimir Putin likening his Ukraine strategy to that of Peter the Great is an admission of breaching international law.
+
+## 'A lot of talk': Why Germany is under scrutiny for its lack of support to Ukraine
+ - [https://www.cnn.com/videos/world/2022/06/15/germany-involvement-ukraine-russia-war-critics-olaf-scholz-lead-tapper-dnt-vpx.cnn](https://www.cnn.com/videos/world/2022/06/15/germany-involvement-ukraine-russia-war-critics-olaf-scholz-lead-tapper-dnt-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 01:04:56+00:00
+
+German Chancellor Olaf Scholz is under scrutiny for his country's lack of support to Ukraine during the war with Russia. CNN's Jake Tapper reports that Germany has not banned imports from Russia and has not sent a single weapon to Ukraine despite promising them back in April.
+
+## Late night hosts joke about Donald Trump's birthday amid January 6th hearings
+ - [https://www.cnn.com/videos/politics/2022/06/15/trevor-noah-colbert-myers-trump-birthday-jan-6th-gr-orig.cnn](https://www.cnn.com/videos/politics/2022/06/15/trevor-noah-colbert-myers-trump-birthday-jan-6th-gr-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-06-16 00:18:40+00:00
+
+Late night had a few things to say about the former president's birthday during a week of revelations from the House January 6th Select Committee.
+

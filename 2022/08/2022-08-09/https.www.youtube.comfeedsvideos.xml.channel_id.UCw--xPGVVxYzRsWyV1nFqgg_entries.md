@@ -1,0 +1,59 @@
+# Source:Daniel Greene, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg, language:en-US
+
+## THE LIGHTSABER SAGA!
+ - [https://www.youtube.com/watch?v=XjyiaY6jXSU](https://www.youtube.com/watch?v=XjyiaY6jXSU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg
+ - date published: 2022-08-10 00:00:00+00:00
+
+I did a stupid #StarWars thing. 
+
+Companies mentioned in this video: 
+https://rebelsabers.com/
+https://saberforms.com/ 
+https://www.crimsondawn.com/
+
+New Channel: https://www.youtube.com/channel/UC9tQc_K_LtoCiVGx7_R3FRA
+Patreon: https://www.patreon.com/DanielBGreene 
+All the Me Social Links: https://linktr.ee/DanielGreene
+
+Merch: https://www.designbyhumans.com/shop/FantasyNews/ 
+
+Lawful Times Series: 
+Breach of Peace: https://amzn.to/3CnKsfX
+Rebels Creed: https://amzn.to/3Gtqt2p
+
+Equipment: 
+Camera: https://amzn.to/3siqgHv  
+Lense: https://amzn.to/3ugGxhQ  
+Lighting: https://amzn.to/3aI3brK  
+Microphone: https://amzn.to/3pCGtWg  
+Tripod: https://amzn.to/3kd9yq1  
+
+P.O. Box: PO Box 7874 Henrico, VA 23231
+
+## Future Of Manga On The Channel/Wano REVIEW
+ - [https://www.youtube.com/watch?v=3SBR5Eg-5HU](https://www.youtube.com/watch?v=3SBR5Eg-5HU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg
+ - date published: 2022-08-09 00:00:00+00:00
+
+Let's talk about what the future of Manga on the channel holds, and review #OnePiece's Wano! 
+
+New Channel: https://www.youtube.com/channel/UC9tQc_K_LtoCiVGx7_R3FRA
+Patreon: https://www.patreon.com/DanielBGreene 
+All the Me Social Links: https://linktr.ee/DanielGreene
+
+Merch: https://www.designbyhumans.com/shop/FantasyNews/ 
+
+Lawful Times Series: 
+Breach of Peace: https://amzn.to/3CnKsfX
+Rebels Creed: https://amzn.to/3Gtqt2p
+
+Equipment: 
+Camera: https://amzn.to/3siqgHv  
+Lense: https://amzn.to/3ugGxhQ  
+Lighting: https://amzn.to/3aI3brK  
+Microphone: https://amzn.to/3pCGtWg  
+Tripod: https://amzn.to/3kd9yq1  
+
+P.O. Box: PO Box 7874 Henrico, VA 23231
+

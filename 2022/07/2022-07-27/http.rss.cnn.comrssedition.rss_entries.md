@@ -1,0 +1,332 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Hunter Biden's emails show deep debt, insufficient funds and overdue taxes
+ - [https://www.cnn.com/videos/politics/2022/07/27/hunter-biden-emails-debt-overdue-back-taxes-insufficient-funds-investigation-griffin-pkg-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/07/27/hunter-biden-emails-debt-overdue-back-taxes-insufficient-funds-investigation-griffin-pkg-lead-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 22:37:02+00:00
+
+CNN's own investigation into Hunter Biden has authenticated emails showing the President's son struggled with massive debt and overdue tax bills. CNN's Drew Griffin takes a closer look.
+
+## Congo set to auction UNESCO World Heritage site to oil companies
+ - [https://www.cnn.com/videos/world/2022/07/27/drc-auction-rainforest-oil-drilling-greenpeace-oneworld-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/07/27/drc-auction-rainforest-oil-drilling-greenpeace-oneworld-intl-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 22:29:04+00:00
+
+The Democratic Republic of Congo plans on auctioning off land within the country's rainforest for oil drilling. Mbong Akiy Fokwa Tsafack of Greenpeace Africa explains why climate change activists are opposed to the move.
+
+## Who is Viktor Bout, arms dealer known as 'Merchant of Death'?
+ - [https://www.cnn.com/2022/07/27/americas/viktor-bout-profile-intl/index.html](https://www.cnn.com/2022/07/27/americas/viktor-bout-profile-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 20:07:11+00:00
+
+The future of two American citizens detained in Russia could hinge on the release of a convicted Russian arms dealer, nicknamed the "Merchant of Death" by his accusers, whose life story inspired a Hollywood film.
+
+## US would exchange Viktor Bout, who is serving a 25-year prison sentence, as part of a potential deal for Brittney Griner and Paul Whelan
+ - [https://www.cnn.com/2022/07/27/politics/griner-whelan-biden-offer-viktor-bout-exchange-russia-arms-dealer/index.html](https://www.cnn.com/2022/07/27/politics/griner-whelan-biden-offer-viktor-bout-exchange-russia-arms-dealer/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 19:47:05+00:00
+
+
+
+## Fed makes history with second massive rate hike in as many months
+ - [https://www.cnn.com/2022/07/27/economy/fed-meeting-interest-rates-75-basis-points/index.html](https://www.cnn.com/2022/07/27/economy/fed-meeting-interest-rates-75-basis-points/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 19:41:38+00:00
+
+What seemed unfathomable just six months ago -- a 75-basis-point rate hike by the Federal Reserve -- has now happened twice in a row.
+
+## CNN reporter breaks down potential deal to release Griner and Whelan from Russia
+ - [https://www.cnn.com/videos/politics/2022/07/27/blinken-griner-whelan-bout-detained-americans-russia-exchange-deal-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/07/27/blinken-griner-whelan-bout-detained-americans-russia-exchange-deal-nr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 19:41:34+00:00
+
+Secretary of State Antony Blinken announced the US has offered convicted Russian arms dealer Viktor Bout in exchange for the release of two Americans held by Russia, Brittney Griner and Paul Whelan, according to people briefed on the matter. CNN's Fred Pleitgen explains the details of the potential trade.
+
+## Iraqi protesters break into parliament denouncing the nomination of new premier
+ - [https://www.cnn.com/2022/07/27/middleeast/iraq-protests-baghdad-green-zone-intl/index.html](https://www.cnn.com/2022/07/27/middleeast/iraq-protests-baghdad-green-zone-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 19:32:15+00:00
+
+Hundreds of angry protesters loyal to nationalist cleric Moqtada al-Sadr broke into the heavily protected Green Zone in Baghdad on Wednesday, denouncing the nomination of Mohammed Shiya al-Sudani for the position of prime minister.
+
+## Beyoncé fans upset about reported leak of 'Renaissance' album
+ - [https://www.cnn.com/2022/07/27/entertainment/beyonce-renaissance-leak/index.html](https://www.cnn.com/2022/07/27/entertainment/beyonce-renaissance-leak/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 19:03:46+00:00
+
+The Hive is buzzing over Beyoncé's new album, but not in a good way.
+
+## First mission to return samples from another planet set to land on Earth in 2033
+ - [https://www.cnn.com/2022/07/27/world/mars-sample-return-2033-scn/index.html](https://www.cnn.com/2022/07/27/world/mars-sample-return-2033-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 18:50:29+00:00
+
+The first mission to return samples from another planet will touch down on Earth in 2033, according to NASA and European Space Agency officials. The Perseverance rover is currently collecting the samples on Mars.
+
+## Mega Millions jackpot surges to $1.02 billion after no winner Tuesday
+ - [https://www.cnn.com/2022/07/27/us/mega-millions-jackpot-tuesday/index.html](https://www.cnn.com/2022/07/27/us/mega-millions-jackpot-tuesday/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 18:31:14+00:00
+
+The Mega Millions jackpot has skyrocketed to $1.02 billion after no ticket matched all six winning numbers in Tuesday night's drawing, the lottery said.
+
+## Former Gov. Cuomo staffer killed after Lyft driver allegedly demanded passengers exit vehicle in middle of highway
+ - [https://www.cnn.com/2022/07/27/us/cuomo-staffer-killed-lyft/index.html](https://www.cnn.com/2022/07/27/us/cuomo-staffer-killed-lyft/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 18:18:16+00:00
+
+A former staff member for ex-New York Gov. Andrew Cuomo was killed after a Lyft driver allegedly ordered him and five friends out of a car on Delaware's Coastal Highway, state police said in a news release.
+
+## Legal analyst: These are the indicators pointing to 'severe legal peril' for Trump
+ - [https://www.cnn.com/videos/politics/2022/07/27/merrick-garland-donald-trump-doj-criminal-probe-eisen-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/07/27/merrick-garland-donald-trump-doj-criminal-probe-eisen-nr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 18:11:54+00:00
+
+CNN legal analyst Norman Eisen breaks down US Attorney General Merrick Garland's remarks on the status of the Department of Justice's criminal probe into January 6 and why it points to "severe legal peril" for former President Donald Trump.
+
+## After surviving abuse from biological parents for years, six kids were placed in foster home 'of horrors'
+ - [https://www.cnn.com/2022/07/27/us/turpin-children-foster-home-attorney-interview/index.html](https://www.cnn.com/2022/07/27/us/turpin-children-foster-home-attorney-interview/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 17:12:50+00:00
+
+Six of the 13 Turpin children -- who were tortured for years by their biological parents -- were then placed in a foster home where they endured a "second bout" of abuse, including sexual, physical and emotional abuse, and their reports were ignored by the foster care agency, an attorney for two of the children told HLN.
+
+## Saudi Arabia wants to build a 106-mile-long building in the desert that will act as a city
+ - [https://www.cnn.com/style/article/saudi-arabia-the-line-city-scli-intl/index.html](https://www.cnn.com/style/article/saudi-arabia-the-line-city-scli-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 16:28:01+00:00
+
+Saudi Arabia has unveiled designs for its ambitious urban project "The Line," touted as a one-building city in the desert which will stretch over 106 miles and ultimately house 9 million people.
+
+## This massive neutron star spins 707 times a second
+ - [https://www.cnn.com/2022/07/27/world/heaviest-neutron-star-scn/index.html](https://www.cnn.com/2022/07/27/world/heaviest-neutron-star-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 16:08:11+00:00
+
+Astronomers have spied a "black widow" lurking in space 3,000 light-years from Earth, and it's a record-breaking cosmic object.
+
+## Sen. Hawley defends Jan. 6 actions, including fist pump
+ - [https://www.cnn.com/videos/politics/2022/07/27/josh-hawley-defends-actions-january-6-raju-ath-sot-vpx.cnn](https://www.cnn.com/videos/politics/2022/07/27/josh-hawley-defends-actions-january-6-raju-ath-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 15:39:15+00:00
+
+In an interview with CNN's Manu Raju, Sen. Josh Hawley (R-MO) defends his actions on the day of the January 6 insurrection.
+
+## From Chromat to Skims, inclusive design is radically changing the bathing suit silhouette
+ - [https://www.cnn.com/style/article/inclusive-swimwear-design/index.html](https://www.cnn.com/style/article/inclusive-swimwear-design/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 15:28:47+00:00
+
+When bombshell "Baywatch"-era one-pieces and teeny bikinis reigned in the 1990s, relief for many women came in the form of the tankini -- a tank-top silhouette that offered more coverage than most two-pieces, but could still be modest, sporty or sexy. It was one of the few innovations at a time when women's swim styles only catered to few body types and style preferences -- and even got the stamp of approval on Sports Illustrated's 1990 Swimsuit Issue cover.
+
+## Russian threats to close Jewish Agency strike a nerve in Israel
+ - [https://www.cnn.com/2022/07/27/middleeast/russia-israel-jewish-agency-mime-intl/index.html](https://www.cnn.com/2022/07/27/middleeast/russia-israel-jewish-agency-mime-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 15:24:40+00:00
+
+Israeli officials are trying to tamp down the diplomatic fracas that has erupted in recent weeks as Moscow has sought to dissolve the Jewish Agency's Russian branch, an organization that helps Jews emigrate to Israel.
+
+## Shania Twain's journey from a violent household to 'liberation' is traced in 'Not Just A Girl' documentary on Netflix
+ - [https://www.cnn.com/2022/07/27/entertainment/shania-twain-documentary-netflix/index.html](https://www.cnn.com/2022/07/27/entertainment/shania-twain-documentary-netflix/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 15:19:49+00:00
+
+Shania Twain is showing fans everything in her new documentary "Not Just A Girl," released on Netflix July 26.
+
+## This counts as good news for Boeing
+ - [https://www.cnn.com/2022/07/27/business/boeing-loss/index.html](https://www.cnn.com/2022/07/27/business/boeing-loss/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 14:47:37+00:00
+
+Boeing has become so embattled, the company's stock rose even after reporting a worse-than-expected loss and sales that came in $900 million short of forecasts.
+
+## They spent $100k on lotto tickets for employees. No one won, so they're doing it again
+ - [https://www.cnn.com/videos/business/2022/07/27/mega-millions-jackpot-raising-canes-ceo-aj-kumaran-newday-vpx.cnn](https://www.cnn.com/videos/business/2022/07/27/mega-millions-jackpot-raising-canes-ceo-aj-kumaran-newday-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 14:21:48+00:00
+
+Raising Cane's Co-CEO AJ Kumaran tells CNN New Day that the company spent $100,000 on 50,000 Mega Million lottery tickets for its employees. Nobody won the jackpot so Kumaran says they are doing it all over again.
+
+## Hungary's Viktor Orban condemned for 'mixed race' speech by ex-aide and Holocaust victims' group
+ - [https://www.cnn.com/2022/07/27/europe/viktor-orban-hungary-race-speech-intl/index.html](https://www.cnn.com/2022/07/27/europe/viktor-orban-hungary-race-speech-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 14:04:25+00:00
+
+Hungary's hardline nationalist leader Viktor Orban is facing international condemnation after making remarks on race and multiculturalism that were slammed as a "pure Nazi text" by his longtime aide.
+
+## Reality Check: Trump's 'law and order' speech does not add up to his actions as president
+ - [https://www.cnn.com/videos/politics/2022/07/27/trump-law-order-speech-reality-check-new-day-vpx.cnn](https://www.cnn.com/videos/politics/2022/07/27/trump-law-order-speech-reality-check-new-day-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 14:02:09+00:00
+
+Former President Donald Trump delivered a "law and order" speech during his first return to Washington, DC, since leaving office, but his words sharply contrasted with his actions during the January 6 insurrection. CNN's John Avlon has more.
+
+## 'Abortion issue' is one that 'needs to be talked about,' says US college head coach
+ - [https://www.cnn.com/2022/07/27/sport/jim-harbaugh-abortion-michigan-spt-intl/index.html](https://www.cnn.com/2022/07/27/sport/jim-harbaugh-abortion-michigan-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 13:53:28+00:00
+
+Michigan Wolverines head coach Jim Harbaugh has told ESPN that "the abortion issue is one that's so big that it needs to be talked about" after saying he'd raise an unwanted baby from a player or staff member of his.
+
+## 'The Most Hated Man on the Internet' tackles the fight against a 'revenge porn' site
+ - [https://www.cnn.com/2022/07/27/entertainment/the-most-hated-man-on-the-internet-review/index.html](https://www.cnn.com/2022/07/27/entertainment/the-most-hated-man-on-the-internet-review/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 13:40:29+00:00
+
+"The Most Hated Man on the Internet" faces a bit of a logistical problem: How to visually represent the kind of photos that were posted by the "revenge porn" site IsAnyoneUp.com without invading people's privacy all over again. Creatively tackling that, the producers deliver a highly watchable if salacious three-part docuseries, fueled by its truly hissable, made-for-TV villain.
+
+## New Croatia bridge redraws map of Adriatic coast
+ - [https://www.cnn.com/travel/article/new-croatia-bridge-redraws-map-of-adriatic-coast/index.html](https://www.cnn.com/travel/article/new-croatia-bridge-redraws-map-of-adriatic-coast/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 13:25:55+00:00
+
+Celebrations have been taking place in Croatia to commemorate the opening of a long-awaited bridge that bypasses a narrow strip of Bosnian coastline to connect its southern Adriatic region with the rest of the country.
+
+## Take a look at the 'world's only carbon-neutral spaceship'
+ - [https://www.cnn.com/travel/article/space-perspective-patented-capsule-design-scn/index.html](https://www.cnn.com/travel/article/space-perspective-patented-capsule-design-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 13:15:59+00:00
+
+The space tourism race is now firing on all rockets, but one company is hoping to carve out a niche as "the only carbon-neutral, zero-emission way" to travel to the edge of space.
+
+## South Korean giant SK Group is pouring $22 billion into the United States
+ - [https://www.cnn.com/2022/07/27/business/south-korea-sk-group-plans-us-investment-intl-hnk/index.html](https://www.cnn.com/2022/07/27/business/south-korea-sk-group-plans-us-investment-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 13:00:46+00:00
+
+South Korea's second biggest conglomerate is investing $22 billion into the United States, in high-priority areas including chips and clean energy.
+
+## DOJ has reached out to more former White House officials, ex-Trump official says
+ - [https://www.cnn.com/2022/07/27/politics/alyssa-farah-griffin-doj-january-6-cnntv/index.html](https://www.cnn.com/2022/07/27/politics/alyssa-farah-griffin-doj-january-6-cnntv/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 12:57:47+00:00
+
+The Department of Justice has reached out to other Trump White House officials regarding the January 6 attack on the US Capitol in addition to two top aides to former Vice President Mike Pence, a former administration official told CNN on Wednesday.
+
+## China commentator warns of 'shocking military response' if Pelosi visits Taiwan
+ - [https://www.cnn.com/videos/world/2022/07/27/taiwan-pelosi-china-response-explainer-wang-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/07/27/taiwan-pelosi-china-response-explainer-wang-intl-ldn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 12:24:50+00:00
+
+The US is facing fierce backlash from Beijing over a proposed visit by House Speaker Nancy Pelosi to the self-governing island of Taiwan. CNN's Beijing correspondent Selina Wang explains.
+
+## Anger as Congo moves ahead with oil drilling in rainforest gorilla sanctuary
+ - [https://www.cnn.com/2022/07/27/africa/oil-rights-drc-virunga-intl/index.html](https://www.cnn.com/2022/07/27/africa/oil-rights-drc-virunga-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 12:24:01+00:00
+
+Despite growing pleas from climate change activists, the Democratic Republic of Congo says it is moving forward with its plans to auction off a vast majority of oil and gas drilling blocks located in the country's rainforest and peatland.
+
+## Now should I worry about monkeypox? Our medical analyst explains
+ - [https://www.cnn.com/collections/intl-monkeypox-072722/](https://www.cnn.com/collections/intl-monkeypox-072722/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 12:18:46+00:00
+
+
+
+## Flight cancellations, staff shortages and strikes. Hear why Germany's Lufthansa is struggling
+ - [https://www.cnn.com/videos/business/2022/07/27/lufthansa-flight-cancellations-pkg-pleitgen-intl-ldn-vpx.cnn](https://www.cnn.com/videos/business/2022/07/27/lufthansa-flight-cancellations-pkg-pleitgen-intl-ldn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 11:51:25+00:00
+
+More than 1,000 Lufthansa flights have been canceled and more than 130,000 passengers have been impacted by a nationwide strike by its ground staff, according to the airline. CNN's Frederick Pleitgen reports.
+
+## Doctor who provided abortion services for 10-year-old Ohio rape victim investigated
+ - [https://www.cnn.com/2022/07/27/us/indiana-doctor-child-rape-abortion-ag-investigation/index.html](https://www.cnn.com/2022/07/27/us/indiana-doctor-child-rape-abortion-ag-investigation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 11:44:54+00:00
+
+The Indiana doctor who provided abortion services for a 10-year-old girl who was raped is now being investigated by the state's attorney general, according to a lawyer for the doctor.
+
+## Covid is still causing havoc around the world
+ - [https://www.cnn.com/2022/07/27/world/coronavirus-newsletter-intl-07-27-22/index.html](https://www.cnn.com/2022/07/27/world/coronavirus-newsletter-intl-07-27-22/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 11:38:31+00:00
+
+• New studies agree on likely pandemic origin
+• Wuhan shuts down district of 1 million people over 4 asymptomatic Covid cases
+
+## 7.0-magnitude earthquake strikes northern Philippines, impact felt in Manila
+ - [https://www.cnn.com/2022/07/26/asia/philippines-luzon-earthquake-intl-hnk/index.html](https://www.cnn.com/2022/07/26/asia/philippines-luzon-earthquake-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 10:56:37+00:00
+
+A 7.0-magnitude earthquake struck the Philippines on Tuesday, according to the US Geological Survey (USGS).
+
+## Artist Damien Hirst to burn thousands of paintings for new project
+ - [https://www.cnn.com/style/article/damien-hirst-currency-fire-nft/index.html](https://www.cnn.com/style/article/damien-hirst-currency-fire-nft/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 10:29:27+00:00
+
+It was a project always destined to go up in a puff of smoke, at least part of it. And now British artist Damien Hirst has announced he will burn thousands of his paintings at his London gallery as part of his year-long NFT project, baldly titled "The Currency."
+
+## Lionel Messi Barça return? 'Impossible,' Xavi says
+ - [https://www.cnn.com/2022/07/27/football/lionel-messi-barcelona-impossible-intl-spt/index.html](https://www.cnn.com/2022/07/27/football/lionel-messi-barcelona-impossible-intl-spt/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 10:04:04+00:00
+
+It is "impossible" for Paris Saint-Germain and Argentina superstar Lionel Messi to return to Barcelona at the moment, the club's manager Xavi Hernández said.
+
+## What it's like inside Boeing's new 777X
+ - [https://www.cnn.com/travel/article/inside-boeing-new-777x/index.html](https://www.cnn.com/travel/article/inside-boeing-new-777x/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 09:58:10+00:00
+
+Described as "the world's largest and most efficient twin-engine jet," the Boeing 777X was originally scheduled to enter into service in 2020, but the launch of the jetliner has been beset by delays.
+
+## Police identify Saudi sisters found dead in Sydney flat
+ - [https://www.cnn.com/2022/07/27/australia/australia-saudi-sisters-deaths-investigation-intl-hnk/index.html](https://www.cnn.com/2022/07/27/australia/australia-saudi-sisters-deaths-investigation-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 09:24:20+00:00
+
+Two Saudi sisters found dead in their Sydney apartment in "unusual" circumstances last month have been identified by police, as authorities appealed for more information.
+
+## Redemption in the water for Team GB's first black female Olympic swimmer
+ - [https://www.cnn.com/2022/07/27/sport/alice-dearing-redemption-black-swimming-olympics-spt-intl/index.html](https://www.cnn.com/2022/07/27/sport/alice-dearing-redemption-black-swimming-olympics-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 08:58:22+00:00
+
+Two summers ago, Alice Dearing made history.
+
+## 'That was lit': Stunning back-heel goal has fans gushing as England advances to Euro final
+ - [https://www.cnn.com/2022/07/27/football/alessia-russo-goal-england-sweden-euro-2022-spt-intl/index.html](https://www.cnn.com/2022/07/27/football/alessia-russo-goal-england-sweden-euro-2022-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 08:50:58+00:00
+
+It just couldn't have gone much better than that.
+
+## Africa must cut reliance on food imports, says Nigerian billionaire
+ - [https://www.cnn.com/2022/07/27/business/abdul-samad-rabiu-africa-imports-spc-intl/index.html](https://www.cnn.com/2022/07/27/business/abdul-samad-rabiu-africa-imports-spc-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 08:30:05+00:00
+
+Food prices have been rising around the world, driven first by the Covid pandemic and poor harvests, and made worse by the conflict in Ukraine, which has hit exports of both wheat and fertilizer.
+
+## Poland to buy hundreds of South Korean tanks, howitzers after sending arms to Ukraine
+ - [https://www.cnn.com/2022/07/27/asia/south-korea-poland-tanks-howitzer-ukraine-intl-hnk-ml/index.html](https://www.cnn.com/2022/07/27/asia/south-korea-poland-tanks-howitzer-ukraine-intl-hnk-ml/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 07:49:54+00:00
+
+Poland is buying almost 1,000 tanks, more than 600 pieces of artillery and dozens of fighter jets from South Korea, in part to replace equipment donated to Ukraine to help Kyiv fight the Russian invasion, the Polish Ministry of Defense told CNN on Tuesday.
+
+## Dozens dead after drinking bootleg alcohol in western India
+ - [https://www.cnn.com/2022/07/27/india/india-bootleg-alcohol-deaths-gujarat-intl-hnk/index.html](https://www.cnn.com/2022/07/27/india/india-bootleg-alcohol-deaths-gujarat-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 06:45:14+00:00
+
+At least 36 people have died and about 50 others have been hospitalized in western India after drinking contaminated alcohol, according to police.
+
+## 'An audition I'll never forget': Singer's emotional story moves Simon Cowell
+ - [https://www.cnn.com/videos/entertainment/2022/07/27/americas-got-talent-ava-swiss-oxford-school-shooting-orig-jk.cnn](https://www.cnn.com/videos/entertainment/2022/07/27/americas-got-talent-ava-swiss-oxford-school-shooting-orig-jk.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 06:04:08+00:00
+
+Ava Swiss, a student who survived the shooting at Oxford High School in Michigan, stunned "America's Got Talent" judges with a song that helped her cope.
+
+## Pilot photographs mysterious red glows over Pacific
+ - [https://www.cnn.com/videos/world/2022/07/27/pacific-red-glow-aerials-moos-vpx.cnn](https://www.cnn.com/videos/world/2022/07/27/pacific-red-glow-aerials-moos-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-07-27 00:56:11+00:00
+
+Mysterious red glows over the Pacific Ocean have internet sleuths fishing for answers. CNN's Jeanne Moos has this glowing report.
+

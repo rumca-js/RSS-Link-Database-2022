@@ -1,0 +1,9 @@
+# Source:Julie Nolke, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g, language:en-US
+
+## 2022 SNL Audition - Julie Nolke
+ - [https://www.youtube.com/watch?v=iN9dFx6Jn-4](https://www.youtube.com/watch?v=iN9dFx6Jn-4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g
+ - date published: 2022-10-27 13:00:20+00:00
+
+That's right, I don't know how to take 'no' for an answer! Earlier this summer I auditioned for SNL for my second time! And while I did NOT book the job, I still worked really hard on my tape and so I wanted to share it with you all. For the audition you get roughly 5 minutes to showcase as many characters, impressions, accents and talents you can do. Third times the charm! Fool me once, shame on... shame on you. Fool me—you can't get fooled again.
+

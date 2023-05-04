@@ -1,0 +1,23 @@
+# Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
+
+## Discrimination and racism as people flee Ukraine shared on social media – video
+ - [https://www.theguardian.com/world/video/2022/feb/28/footage-shared-on-social-media-appears-to-show-discrimination-as-people-flee-ukraine-video](https://www.theguardian.com/world/video/2022/feb/28/footage-shared-on-social-media-appears-to-show-discrimination-as-people-flee-ukraine-video)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2022-02-28 22:20:21+00:00
+
+<p>A deluge of reports and footage posted on social media appears to show acts of discrimination and violence against African, Asian and Caribbean citizens while fleeing Ukrainian cities and at some of the country’s border posts. They are among hundreds of thousands of people trying to escape after Russia's invasion</p><ul><li><a href="https://www.theguardian.com/world/2022/feb/28/nigeria-condemns-treatment-africans-trying-to-flee-ukraine-government-poland-discrimination">Nigeria condemns treatment of Africans trying to flee Ukraine</a></li></ul> <a href="https://www.theguardian.com/world/video/2022/feb/28/footage-shared-on-social-media-appears-to-show-discrimination-as-people-flee-ukraine-video">Continue reading...</a>
+
+## Inside Ukraine: life in a bunker as missiles fall on Kharkiv – video
+ - [https://www.theguardian.com/world/video/2022/feb/28/inside-ukraine-life-in-a-bunker-as-missiles-fall-on-kharkiv-video](https://www.theguardian.com/world/video/2022/feb/28/inside-ukraine-life-in-a-bunker-as-missiles-fall-on-kharkiv-video)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2022-02-28 21:50:06+00:00
+
+<p>From inside a makeshift bunker in the basement of their block of flats in Kharkiv, eastern Ukraine, Olia and her neighbours give an insight into their lives as they reach day five of heavy shelling from Russian forces. Kharkiv, Ukraine’s second biggest city, was the focus of dozens of Grad missiles targeting civilian areas in an apparent change of tack by Moscow. Olia, a young artist, reflects on the conflict so far and explains how she is keeping her spirits up</p> <a href="https://www.theguardian.com/world/video/2022/feb/28/inside-ukraine-life-in-a-bunker-as-missiles-fall-on-kharkiv-video">Continue reading...</a>
+
+## Moments of defiance: how Ukraine has stood up to Russia – video
+ - [https://www.theguardian.com/world/video/2022/feb/28/moments-of-defiance-how-ukraine-has-stood-up-to-russia-video](https://www.theguardian.com/world/video/2022/feb/28/moments-of-defiance-how-ukraine-has-stood-up-to-russia-video)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2022-02-28 17:25:04+00:00
+
+<p>More than 360,000 people have already fled their homes in&nbsp;<a href="https://www.theguardian.com/world/ukraine">Ukraine</a>&nbsp;since the beginning of Vladimir Putin's bloody invasion, according to the UN refugee agency, and more than 4.5 million more could follow if the fighting spreads. But among the bloodshed, moments of hope and defiance stood out and captured the hearts and minds of the world, encapsulating the Ukrainian people's resilience and determination to stand up to the aggressor&nbsp;</p><ul><li><a href="https://www.theguardian.com/world/live/2022/feb/28/russia-ukraine-war-latest-news-update-conflict-belarus-putin-nuclear-deterrence-order-kyiv-russian-invasion-live-updates">Russia-Ukraine war - latest updates</a></li><li><a href="https://www.theguardian.com/world/2022/feb/28/russian-rocket-strikes-kill-dozens-in-kharkiv-as-ukraine-russia-talks-begin">Russian rocket strikes kill dozens in Kharkiv as Kyiv-Moscow talks begin</a><br /></li></ul> <a href="https://www.theguardian.com/world/video/2022/feb/28/moments-of-defiance-how-ukraine-has-stood-up-to-russia-video">Continue reading...</a>
+

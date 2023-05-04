@@ -1,0 +1,88 @@
+# Source:SciShow, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow, language:en-US
+
+## What We Can Learn From 10,000 Pack-Hunting Spiders
+ - [https://www.youtube.com/watch?v=BoyRBwmmYm0](https://www.youtube.com/watch?v=BoyRBwmmYm0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2022-06-08 00:00:00+00:00
+
+The first 100 people to download Endel by clicking the link below will get a free week of audio experiences! https://app.adjust.com/b8wxub6?campaign=scishow_june&adgroup=youtube 
+
+Most spiders are solitary creatures, but a few species group up instead, creating giant colonies where they live and hunt together.
+
+Hosted by: Stefan Chin
+
+SciShow is on TikTok!  Check us out at https://www.tiktok.com/@scishow 
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Matt Curls, Alisa Sherbow, Dr. Melvin Sanicas, Harrison Mills, Adam Brainard, Chris Peters, charles george, Piya Shedden, Alex Hackman, Christopher R Boucher, Jeffrey Mckishen, Ash, Silas Emrys, Eric Jensen, Kevin Bealer, Jason A Saslow, Tom Mosner, Tomás Lagos González, Jacob, Christoph Schwanke, Sam Lutfi, Bryan Cloer
+
+----------
+Looking for SciShow elsewhere on the internet?
+SciShow Tangents Podcast: https://scishow-tangents.simplecast.com/
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Instagram: http://instagram.com/thescishow
+#SciShow
+----------
+Sources:
+https://www.frontiersin.org/articles/10.3389/frobt.2020.00036/full#h4
+https://www.pnas.org/doi/abs/10.1073/pnas.2115103119 
+https://www.journals.uchicago.edu/doi/abs/10.1086/286178 
+​https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7241254/
+https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2010.1700
+
+Images:
+https://commons.wikimedia.org/wiki/File:Social_Spiders_(Anelosimus_eximius)_in_communal_web_..._(26250754708).jpg
+https://www.shutterstock.com/image-photo/web-social-spider-stegodyphus-addo-elephant-1164001324
+https://www.gettyimages.com/detail/photo/spiderweb-nest-of-the-social-spider-stegodyphus-royalty-free-image/1388623123?adppopup=true
+https://commons.wikimedia.org/wiki/File:Argiope_Pulchella_mating_pair..jpg
+https://commons.wikimedia.org/wiki/File:Net_of_Social_Spiders_(Anelosimus_eximius)_(14081302626).jpg
+https://www.flickr.com/photos/70804987@N00/26185901061
+https://commons.wikimedia.org/wiki/File:2007-social-spider-1.jpg
+https://www.gettyimages.com/detail/photo/social-spiders-hunting-stegodyphus-sarasinorum-royalty-free-image/1310040079?adppopup=true
+https://www.flickr.com/photos/berniedup/6607373097
+https://commons.wikimedia.org/wiki/File:Social_Spiders_(Anelosimus_eximius)_communal_web_..._(40140550262).jpg
+https://www.flickr.com/photos/52450054@N04/10492409073/
+https://www.flickr.com/photos/berniedup/39412840974
+https://www.shutterstock.com/image-photo/social-spiders-stegodyphus-lineatus-bug-prey-2128967879
+https://www.flickr.com/photos/60172932@N06/26426703297
+https://commons.wikimedia.org/wiki/File:Kilobot_robot_swarm.JPG
+https://commons.wikimedia.org/wiki/File:Swarm_of_Colias_Robot.jpg
+https://www.gettyimages.com/detail/video/honey-bees-entering-beehive-summer-day-in-the-orchard-stock-footage/1311810740?adppopup=true
+https://commons.wikimedia.org/wiki/File:Colonial_Spiders_(Stegodyphus_dumicola)_nest_(6607340075).jpg
+https://www.gettyimages.com/detail/photo/nest-of-the-social-spider-in-the-branches-of-a-royalty-free-image/1153394246?adppopup=true
+https://www.gettyimages.com/detail/photo/the-web-of-a-social-spider-stegodyphus-mimosarum-in-royalty-free-image/1152775753?adppopup=true
+
+## Why’d the Ocean Stop Getting Saltier?
+ - [https://www.youtube.com/watch?v=OyUYiC1FzQ8](https://www.youtube.com/watch?v=OyUYiC1FzQ8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2022-06-07 00:00:00+00:00
+
+Head to https://shopify.com/scishow to learn more and for a 14-day free trial. Thanks to Shopify, an ecommerce platform that helps you start, grow, and manage your business, for supporting SciShow.
+
+If salty water is constantly spilling into the world’s oceans, does that mean they are getting saltier by the day? 
+
+Hosted by: Hank Green
+
+SciShow is on TikTok!  Check us out at https://www.tiktok.com/@scishow 
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Matt Curls, Alisa Sherbow, Dr. Melvin Sanicas, Harrison Mills, Adam Brainard, Chris Peters, charles george, Piya Shedden, Alex Hackman, Christopher R Boucher, Jeffrey Mckishen, Ash, Silas Emrys, Eric Jensen, Kevin Bealer, Jason A Saslow, Tom Mosner, Tomás Lagos González, Jacob, Christoph Schwanke, Sam Lutfi, Bryan Cloer
+----------
+Looking for SciShow elsewhere on the internet?
+SciShow Tangents Podcast: https://scishow-tangents.simplecast.com/
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Instagram: http://instagram.com/thescishow
+#SciShow
+----------
+Sources:
+Sources:
+https://www.usgs.gov/faqs/why-ocean-salty https://oceanservice.noaa.gov/facts/riversnotsalty.html https://rwu.pressbooks.pub/webboceanography/chapter/5-3-salinity-patterns/ https://www.scientificamerican.com/article/halley-on-the-age-of-the-ocean/ http://apps.usd.edu/esci/creation/age/content/failed_scientific_clocks/ocean_salinity.html https://www.scientificamerican.com/article/the-age-of-the-ocean/ https://www.scientificamerican.com/article/halley-on-the-age-of-the-ocean/ https://pubs.usgs.gov/gip/geotime/age.html https://serc.carleton.edu/NAGTWorkshops/earlyearth/questions/formation_oceans.html http://apps.usd.edu/esci/creation/age/content/failed_scientific_clocks/ocean_salinity.html https://www.nature.com/articles/23231 https://www.whoi.edu/feature/history-hydrothermal-vents/impacts/chemistry.html https://chem.libretexts.org/Bookshelves/Environmental_Chemistry/Geochemistry_(Lower)/The_Hydrosphere/Chemistry_and_geochemistry_of_the_oceans https://rwu.pressbooks.pub/webboceanography/chapter/5-3-salinity-patterns/ https://www.nytimes.com/2021/06/04/climate/monsoons-climate-change.html https://nsidc.org/cryosphere/seaice/characteristics/brine_salinity.html https://science.nasa.gov/earth-science/oceanography/physical-ocean/salinity https://www.nature.com/articles/s43247-021-00161-3 https://usys.ethz.ch/en/news-events/news/archive/2020/09/new-study-of-ocean-salinity-finds-substantial-amplification-of-the-global-water-cycle.html https://science.nasa.gov/earth-science/oceanography/physical-ocean/salinity https://www.sciencedirect.com/science/article/abs/pii/S0031018204005905 https://www.researchgate.net/publication/51880808_Messinian_salinity_crisis_regulated_by_competing_tectonics_and_erosion_at_the_Gibraltar_Arc https://scied.ucar.edu/learning-zone/climate-change-impacts/water-cycle-climate-change Image Sources:https://bit.ly/3MrQd0Mhttps://bit.ly/3aMaUaOhttps://bit.ly/3th8EOXhttps://commons.wikimedia.org/wiki/File:John_Faber_Jr_-_Edmund_Halley_-_B1977.14.9978_-_Yale_Center_for_British_Art.jpghttps://bit.ly/3mptxE4https://www.gettyimages.com/detail/video/realistic-earth-view-from-space-stock-footage/1338202774?adppopup=truehttps://www.gettyimages.com/detail/video/slow-motion-top-view-of-sea-foamy-bewitchingly-splashing-stock-footage/1307489102?adppopup=truehttps://www.gettyimages.com/detail/illustration/water-cycle-royalty-free-illustration/491657872?adppopup=truehttps://commons.wikimedia.org/wiki/File:Anhydrite_HMNH1.jpghttps://www.gettyimages.com/detail/photo/salt-flat-salar-de-uyuni-in-bolivia-at-sunrise-royalty-free-image/161712154?adppopup=truehttps://commons.wikimedia.org/wiki/File:Etapa3muda.jpghttps://commons.wikimedia.org/wiki/File:Champagne_vent_white_smokers.jpghttps://www.gettyimages.com/detail/video/aerial-view-from-a-drone-slow-motion-waves-in-the-orange-stock-footage/1352559566?adppopup=truehttps://commons.wikimedia.org/wiki/File:Water_salinity_diagram.pnghttps://www.gettyimages.com/detail/video/stream-in-the-forest-stock-footage/1081067300?adppopup=truehttps://commons.wikimedia.org/wiki/File:Salt_evaporation_ponds,_Swakopmund.jpghttps://commons.wikimedia.org/wiki/File:Climatology_81-10_min-max_conc_tmb.pnghttps://www.gettyimages.com/detail/illustration/world-map-with-climate-zones-equator-and-royalty-free-illustration/1291192359?adppopup=truehttps://commons.wikimedia.org/wiki/File:Baltic_Sea_adm_location_map.svghttps://commons.wikimedia.org/wiki/File:Red_Sea_topographic_map-en.jpghttps://commons.wikimedia.org/wiki/File:1910-_Portion_of_U.S._experiencing_extreme_precipitation_events_-_chart_-_EPA.svghttps://commons.wikimedia.org/wiki/File:WOA09_sea-surf_DEN_AYool.pnghttps://commons.wikimedia.org/wiki/File:Aquarius_SAC-D_satellite.pnghttps://commons.wikimedia.org/wiki/File:Water_cycle.svg
+

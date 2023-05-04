@@ -1,0 +1,7 @@
+## Red Light Green Light | James Sevedge
+ - [https://jamessevedge.com/articles/red-light-green-light/](https://jamessevedge.com/articles/red-light-green-light/)
+ - RSS feed: https://jamessevedge.com
+ - date published: 2022-02-01 08:58:16.376411+00:00
+
+I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me and I have been thinking alot about it since I heard it. Below is the excerpt of that story in her own words.  It reminds me, I sometimes tell this story about my eldest son.
+

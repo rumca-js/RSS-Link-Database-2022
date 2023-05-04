@@ -1,0 +1,282 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Mexico's President threatens to skip Americas summit unless US invites every country
+ - [https://www.cnn.com/2022/05/10/americas/mexico-president-summit-of-americas-us-intl/index.html](https://www.cnn.com/2022/05/10/americas/mexico-president-summit-of-americas-us-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 22:30:59+00:00
+
+Mexican President Andrés Manuel López Obrador threatened to boycott next month's Summit of Americas, saying Tuesday that his participation will not be confirmed unless host country United States invites Cuba, Nicaragua and Venezuela.
+
+## Eurovision: Here's who is moving on in the competition so far
+ - [https://www.cnn.com/2022/05/10/entertainment/eurovision-grand-final-contenders/index.html](https://www.cnn.com/2022/05/10/entertainment/eurovision-grand-final-contenders/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 22:21:30+00:00
+
+After an intense competition in the first round of semifinals, ten countries have been selected to move on to the next stage of the Eurovision Song Contest.
+
+## US has the highest rate of gun-related deaths in more than 25 years, new CDC data shows
+ - [https://www.cnn.com/2022/05/10/health/firearm-homicide-suicide-rates-2020/index.html](https://www.cnn.com/2022/05/10/health/firearm-homicide-suicide-rates-2020/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 21:51:38+00:00
+
+Far too often, Dr. Debra Houry found herself covered in blood.
+
+## Jailer Vicky White and inmate Casey White had a head start when they fled Alabama, law enforcement experts say. Unforced errors brought it to an end
+ - [https://www.cnn.com/2022/05/10/us/alabama-fugitive-manhunt-analysis/index.html](https://www.cnn.com/2022/05/10/us/alabama-fugitive-manhunt-analysis/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 21:42:07+00:00
+
+A horde of cash. A getaway car. An enormous world in which to hide.
+
+## EA Sports will end its video game partnership with FIFA
+ - [https://www.cnn.com/2022/05/10/tech/ea-sports-fifa-partnership-ending/index.html](https://www.cnn.com/2022/05/10/tech/ea-sports-fifa-partnership-ending/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 21:24:24+00:00
+
+One of the video game industry's most iconic franchises will soon look very different.
+
+## Celebrity chef Mario Batali is acquitted of groping woman at Boston restaurant
+ - [https://www.cnn.com/2022/05/10/us/mario-batali-trial-boston-tuesday/index.html](https://www.cnn.com/2022/05/10/us/mario-batali-trial-boston-tuesday/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 21:15:07+00:00
+
+[Breaking news update, posted at 2:25 p.m. ET]
+
+## House expected to vote Tuesday on $40 billion Ukraine aid bill
+ - [https://www.cnn.com/2022/05/10/politics/house-vote-ukraine-aid-bill/index.html](https://www.cnn.com/2022/05/10/politics/house-vote-ukraine-aid-bill/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:54:08+00:00
+
+The Democratic-led House of Representatives is expected to vote Tuesday evening on a nearly $40 billion bill to deliver aid to Ukraine as it continues to face Russia's brutal assault.
+
+## Former Honduran president pleads not guilty to federal drug trafficking and firearm charges
+ - [https://www.cnn.com/2022/05/10/americas/honduras-juan-orlando-hernandez-not-guilty-us-intl/index.html](https://www.cnn.com/2022/05/10/americas/honduras-juan-orlando-hernandez-not-guilty-us-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:26:20+00:00
+
+Former Honduran president Juan Orlando Hernández on Tuesday pleaded not guilty in US court to federal drug trafficking and firearms possession charges.
+
+## Russian authorities accused of 'abducting' Crimean human rights activist
+ - [https://www.cnn.com/2022/05/10/europe/crimea-russia-missing-activist-danylovich-intl-cmd/index.html](https://www.cnn.com/2022/05/10/europe/crimea-russia-missing-activist-danylovich-intl-cmd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:25:35+00:00
+
+Iryna Danylovich's family and friends have no idea where she is.
+
+## Broken oar and tangled net cause chaos on Tucci's fishing trip
+ - [https://www.cnn.com/videos/travel/2022/04/15/stanley-tucci-searching-for-italy-bonus-fishing-origseriesfilms.cnn](https://www.cnn.com/videos/travel/2022/04/15/stanley-tucci-searching-for-italy-bonus-fishing-origseriesfilms.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:15:50+00:00
+
+While visiting Umbria, Stanley Tucci went on a fishing trip that encountered problem after problem. At least they caught a good one! Don't miss new episodes of "Stanley Tucci: Searching for Italy" Sundays at 9 p.m. ET.
+
+## US intel officials warn China is 'working hard' to be able to take over Taiwan militarily
+ - [https://www.cnn.com/2022/05/10/politics/avril-haines-china-taiwan/index.html](https://www.cnn.com/2022/05/10/politics/avril-haines-china-taiwan/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:01:44+00:00
+
+• Biden says he's discussing the future of China tariffs imposed by Trump
+
+## Lithuanian official says Putin, Russian regime must be removed
+ - [https://www.cnn.com/2022/05/10/politics/lithuanian-foreign-minister-interview/index.html](https://www.cnn.com/2022/05/10/politics/lithuanian-foreign-minister-interview/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:00:32+00:00
+
+Lithuanian Foreign Minister Gabrielius Landsbergis called for the removal of not only Vladimir Putin, but the entire regime that supports him, to stop Russia's "warmongering" and predicted the Kremlin leader will become increasingly erratic as his battlefield losses grow in Ukraine.
+
+## Top US spy says war in Ukraine will likely become 'more unpredictable and escalatory'
+ - [https://www.cnn.com/2022/05/10/politics/haines-ukraine-russia-hearing/index.html](https://www.cnn.com/2022/05/10/politics/haines-ukraine-russia-hearing/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 20:00:06+00:00
+
+The US intelligence community believes that Russian President Vladimir Putin's war in Ukraine is likely to become "more unpredictable and escalatory" in the coming months, the nation's top spymaster told Congress on Tuesday.
+
+## Biden says he's discussing the future of China tariffs imposed by Trump
+ - [https://www.cnn.com/2022/05/10/politics/china-tariffs-joe-biden/index.html](https://www.cnn.com/2022/05/10/politics/china-tariffs-joe-biden/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 19:47:07+00:00
+
+President Joe Biden said on Tuesday that his administration is currently evaluating how to best move forward on existing tariffs on China enacted during the Trump administration, but he cautioned that no decision has been made.
+
+## Elon Musk says he would reverse Twitter's Trump ban
+ - [https://www.cnn.com/2022/05/10/tech/elon-musk-twitter-trump-ban/index.html](https://www.cnn.com/2022/05/10/tech/elon-musk-twitter-trump-ban/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 19:43:18+00:00
+
+Elon Musk said Tuesday that he would restore former President Donald Trump's banned account on Twitter if his deal to acquire the company is completed.
+
+## Opinion: Kim Kardashian gives us a glimpse of how hard it was to be Marilyn Monroe, the star
+ - [https://www.cnn.com/2022/05/10/opinions/marilyn-monroe-kim-kardashian-met-gala-dress-gates/index.html](https://www.cnn.com/2022/05/10/opinions/marilyn-monroe-kim-kardashian-met-gala-dress-gates/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 19:09:04+00:00
+
+"Do you want to see me become her?"
+
+## 'This is not saving, this is destruction': Ukrainian MMA champion recounts the horrors of war
+ - [https://www.cnn.com/2022/05/10/sport/yaroslav-amosov-mma-bellator-ukraine-russian-invasion-spt-intl/index.html](https://www.cnn.com/2022/05/10/sport/yaroslav-amosov-mma-bellator-ukraine-russian-invasion-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 18:06:09+00:00
+
+As MMA fighter Yaroslav Amosov walks through the streets surrounding his hometown of Irpin, which sits around 20 kilometers (12.4 miles) west of the Ukrainian capital Kyiv, there are fleeting moments when it seems like an ordinary day in May.
+
+## Tropical Cyclone Asani threatens eastern India as another brutal heat wave continues across the country
+ - [https://www.cnn.com/2022/05/10/weather/asani-forecast-path-india-heat/index.html](https://www.cnn.com/2022/05/10/weather/asani-forecast-path-india-heat/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 17:56:45+00:00
+
+Parts of eastern India are preparing for torrential rain and strong winds as a tropical cyclone warning is in effect for the Andhra Pradesh coast -- as other portions of the country battle extreme heat.
+
+## Tesla recalls nearly 130K vehicles due to overheating infotainment system
+ - [https://www.cnn.com/2022/05/10/cars/tesla-recall-screen-issue/index.html](https://www.cnn.com/2022/05/10/cars/tesla-recall-screen-issue/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 17:00:26+00:00
+
+Tesla recalled 129,960 vehicles this month to fix infotainment systems that may overheat before and during fast charging.
+
+## US and European allies blame Russia for cyberattack on satellite provider as invasion of Ukraine began
+ - [https://www.cnn.com/2022/05/10/politics/ukraine-russia-cyberattack-satellite-blinken/index.html](https://www.cnn.com/2022/05/10/politics/ukraine-russia-cyberattack-satellite-blinken/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 16:54:30+00:00
+
+The US, European Union and the UK have blamed Russia for a hack that knocked out internet service for tens of thousands of satellite modems in Ukraine and elsewhere in Europe at the onset of Russia's invasion on February 24.
+
+## Military rescues Sri Lanka's Prime Minister in pre-dawn operation as violent clashes leave eight dead
+ - [https://www.cnn.com/2022/05/10/asia/sri-lanka-protest-deaths-economic-crisis-intl-hnk/index.html](https://www.cnn.com/2022/05/10/asia/sri-lanka-protest-deaths-economic-crisis-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 16:30:57+00:00
+
+Sri Lanka's outgoing Prime Minister Mahinda Rajapaksa was rescued in a pre-dawn military operation Tuesday, hours after his resignation, as violent clashes between pro and anti-government protesters left several dead and 217 injured.
+
+## Meet the chef who cooks for the French President
+ - [https://www.cnn.com/style/article/francis-oge-chef-french-presidents-nomad/index.html](https://www.cnn.com/style/article/francis-oge-chef-french-presidents-nomad/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 16:24:04+00:00
+
+Inside the gilded halls of the Palais de l'Élysée, master sommelier Carlton McCoy meets chef de partie Francis Oge -- the man tasked with feeding French President Emmanuel Macron.
+
+## Tom Brady just announced what he will do after he retires
+ - [https://www.cnn.com/2022/05/10/media/tom-brady-fox-sports/index.html](https://www.cnn.com/2022/05/10/media/tom-brady-fox-sports/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 16:23:32+00:00
+
+The greatest quarterback in NFL history is going to try to become the greatest announcer in NFL history — once he finally retires, that is.
+
+## A lottery player found a forgotten $242,256 ticket in his wallet
+ - [https://www.cnn.com/2022/05/10/us/michigan-lottery-forgotten-ticket-trnd/index.html](https://www.cnn.com/2022/05/10/us/michigan-lottery-forgotten-ticket-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 15:54:19+00:00
+
+A Michigan man was in for a welcome surprise when he discovered a forgotten lottery ticket in his wallet -- and won $242,256.
+
+## Finland is on the verge of asking to join NATO. Here's why that's bad news for Putin
+ - [https://www.cnn.com/2022/05/10/europe/finland-nato-putin-analysis-intl-cmd/index.html](https://www.cnn.com/2022/05/10/europe/finland-nato-putin-analysis-intl-cmd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 15:20:09+00:00
+
+• Analysis: Putin's speech keeps the world guessing
+
+## 100 miles from Ukraine, NATO special forces carry out training drills on the Black Sea
+ - [https://www.cnn.com/2022/05/10/europe/nato-special-forces-training-black-sea-intl/index.html](https://www.cnn.com/2022/05/10/europe/nato-special-forces-training-black-sea-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 15:02:04+00:00
+
+A US Navy SEAL jumps out of a Romanian helicopter and slides down a rope. He's one of several American special forces units taking part in a military drill on the Black Sea, just 100 miles from Ukraine, where Russia continues to wage its war.
+
+## Elon Musk's Twitter takeover exposes the real threat to free speech
+ - [https://www.cnn.com/2022/05/10/perspectives/elon-musk-twitter-antitrust/index.html](https://www.cnn.com/2022/05/10/perspectives/elon-musk-twitter-antitrust/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 15:01:01+00:00
+
+
+
+## Prince Charles delivers Queen's Speech for the first time
+ - [https://www.cnn.com/2022/05/10/uk/prince-charles-first-queens-speech-intl/index.html](https://www.cnn.com/2022/05/10/uk/prince-charles-first-queens-speech-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 14:43:26+00:00
+
+Britain's heir-to-the-throne Prince Charles and Prince William took center stage at the opening of parliament on Tuesday, replacing the 96-year-old Queen Elizabeth who missed the grand set-piece event for the first time in almost six decades.
+
+## Johnny Weir is a Eurovision superfan and it's paying off
+ - [https://www.cnn.com/2022/05/10/entertainment/johnny-weir-eurovision/index.html](https://www.cnn.com/2022/05/10/entertainment/johnny-weir-eurovision/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 14:36:37+00:00
+
+As a former Olympic figure skater, Johnny Weir loves a good competition.
+
+## Mark Esper was asked if Trump was a threat to democracy. Here's what he said.
+ - [https://www.cnn.com/2022/05/10/politics/donald-trump-mark-esper-democracy-threat/index.html](https://www.cnn.com/2022/05/10/politics/donald-trump-mark-esper-democracy-threat/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 14:33:16+00:00
+
+Former Secretary of Defense Mark Esper was asked a very simple question by Fox's Bret Baier on Monday: "Do you think Donald Trump was a threat to democracy?"
+
+## Putin orders local officials to douse Siberian fires
+ - [https://www.cnn.com/2022/05/10/europe/putin-russia-siberia-fires-climate-intl/index.html](https://www.cnn.com/2022/05/10/europe/putin-russia-siberia-fires-climate-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 14:07:15+00:00
+
+Russian President Vladimir Putin ordered regional officials on Tuesday to do more to tackle fires raging in Siberia, after at least eight people were killed over the weekend and hundreds of buildings burned.
+
+## CNN fact checks viral tweet about new abortion law
+ - [https://www.cnn.com/videos/politics/2022/05/10/abortion-morning-after-pill-tweet-fact-check-dale-newday-vpx.cnn](https://www.cnn.com/videos/politics/2022/05/10/abortion-morning-after-pill-tweet-fact-check-dale-newday-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 13:58:11+00:00
+
+A former congressional candidate tweeted an inaccurate claim about Tennessee banning the "morning-after pill." CNN's Daniel Dale fact checks the claim, explains what the new law really says, and how it impacts residents of the state.
+
+## Why do sleeping dogs look like they're running? Experts weigh in
+ - [https://www.cnn.com/2022/05/10/health/dog-sleep-dreams-wellness/index.html](https://www.cnn.com/2022/05/10/health/dog-sleep-dreams-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 13:27:10+00:00
+
+June seems to dream of pursuit. After the long-haired German shepherd settles down for a nap, her floofy, low-slung limbs often begin to twitch and kick. To her owners, she appears to be on the trail of some unseen prey.
+
+## Ukrainian officials alarmed by discovery of Russian pontoon bridge
+ - [https://www.cnn.com/videos/world/2022/05/10/russia-pontoon-bridge-ukraine-newday-foreman-vpx.cnn](https://www.cnn.com/videos/world/2022/05/10/russia-pontoon-bridge-ukraine-newday-foreman-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 12:44:51+00:00
+
+Ukrainian officials are raising the alarm about a Russian pontoon bridge in the country's Luhansk region. CNN's Tom Foreman explains the role this bridge could play in future combat.
+
+## US mulls what Putin's end game might look like as war in Ukraine grinds on
+ - [https://www.cnn.com/2022/05/10/politics/putin-end-game-biden-administration/index.html](https://www.cnn.com/2022/05/10/politics/putin-end-game-biden-administration/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 12:00:12+00:00
+
+US officials found Russian President Vladimir Putin muted and subdued when he delivered his Victory Day address on Monday, further obscuring their attempts to ascertain the Russian leader's ultimate objectives in Ukraine.
+
+## There's a 50:50 chance Earth will pass this critical warming threshold soon
+ - [https://www.cnn.com/2022/05/10/world/climate-warming-warning-wmo-intl-scli/index.html](https://www.cnn.com/2022/05/10/world/climate-warming-warning-wmo-intl-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 11:48:30+00:00
+
+There's now a 50:50 chance that the world will surpass a critical threshold of 1.5 degrees Celsius of global warming in the next five years, a new World Meteorological Organization report shows, warning of heating that could have devastating impacts on systems like coral reefs as well as Arctic ice.
+
+## Two Russian journalists appear to defy Putin, slamming the war in Ukraine
+ - [https://www.cnn.com/2022/05/10/media/russia-journalists-criticize-putin/index.html](https://www.cnn.com/2022/05/10/media/russia-journalists-criticize-putin/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 11:26:28+00:00
+
+Two Russian reporters appeared to post at least 30 articles on Monday that criticized President Vladimir Putin's invasion of Ukraine.
+
+## What to know about hypersonic missiles fired by Russia at Ukraine
+ - [https://www.cnn.com/2022/03/22/europe/biden-russia-hypersonic-missiles-explainer-intl-hnk/index.html](https://www.cnn.com/2022/03/22/europe/biden-russia-hypersonic-missiles-explainer-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 11:20:17+00:00
+
+A Russian bomber fired three hypersonic missiles at the southern Ukrainian port city of Odesa on Monday night, Ukrainian officials said, as part of a barrage that leveled a number of civilian targets including hotels and a shopping mall.
+
+## Dictator's son on cusp of winning Philippine election by landslide
+ - [https://www.cnn.com/2022/05/09/asia/philippines-election-results-marcos-robredo-intl-hnk/index.html](https://www.cnn.com/2022/05/09/asia/philippines-election-results-marcos-robredo-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 06:53:50+00:00
+
+Ferdinand Marcos Jr, the son of the former Philippine dictator, is on the cusp of winning the Philippine presidential election by a landslide, according to preliminary and unofficial results, taking the Marcos dynasty one step closer to the Malacañang Palace, 36 years after the family fled a mass uprising.
+
+## Why this Russian plane could signify a 'warning to the West'
+ - [https://www.cnn.com/videos/world/2022/05/09/doomsday-plane-russia-kremlin-putin-nuclear-safety-tsr-todd-dnt-vpx.cnn](https://www.cnn.com/videos/world/2022/05/09/doomsday-plane-russia-kremlin-putin-nuclear-safety-tsr-todd-dnt-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-10 00:46:41+00:00
+
+A menacing, lumbering jetliner sometimes called the "doomsday plane" or "flying Kremlin," was scheduled to fly over Russia's Victory Day celebration but was noticeably absent. CNN's Brian Todd reports on the mysterious aircraft and its capabilities.
+

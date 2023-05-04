@@ -1,0 +1,30 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## Two Things You Should Always Keep by Your Cutting Board While You Cook
+ - [https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132](https://lifehacker.com/two-things-you-should-always-keep-by-your-cutting-board-1849470132)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-08-29 20:30:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--sfHzbcKl--/c_fit,fl_progressive,q_80,w_636/57a6cfc8a6fecbb67fa0e5e83aa2337c.jpg" /><p>Cleaning as you go is widely regarded as one of the best ways to mitigate cooking mess. Loading dishes into the dishwasher as you’re done with them and tossing scraps as you make them keeps you from having to do a bunch of tedious labor once your meal has been consumed, but there are two strategies I like to take to…</p><p><a href="https://lifehacke
+
+## How Long Does It Really Take to Form a Habit?
+ - [https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-08-29 20:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--vpClOlxC--/c_fit,fl_progressive,q_80,w_636/adb3db1331ebc81d4c2592ab52eb5353.jpg" /><p>Forming a habit is a classic life hack: You want to change something about your life, so you insert a new action into your daily routine. Soon enough, it becomes automatic—that’s the dream, anyway—and then that part of your life takes care of itself. So how long does it take to form a habit? Despite what you may have…</p><p><a href="https://lifehack
+
+## How to End an Annoying Conversation Without Being Rude
+ - [https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617](https://lifehacker.com/how-to-end-an-annoying-conversation-without-being-rude-1849469617)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-08-29 19:30:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--AImlJSw7--/c_fit,fl_progressive,q_80,w_636/10aa1ed4fe658a622fa42011e9fc00d6.jpg" /><p>An underrated hurdle to the <a href="https://lifehacker.com/how-to-make-better-small-talk-1832124157">small talk</a> struggle is not how to keep the conversation alive, but how to gracefully let it die. Maybe the other person brought up the 2016 election. Or the podcast they’re thinking about starting. Or their divorce. No matter what, you’re desper
+
+## The Easiest Way to Fix Bluetooth Issues on Your Mac
+ - [https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105](https://lifehacker.com/the-easiest-way-to-fix-bluetooth-issues-on-your-mac-1849469105)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-08-29 19:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--LAIzFyZj--/c_fit,fl_progressive,q_80,w_636/e815cc612afb6d4c861c1d316581812d.jpg" /><p>Bluetooth is as fantastic as it is finicky. It enables our devices to communicate with each other wirelessly, empowering us to both walk away from our computers while still listening to music, or type on our keyboards without worrying about wires. But it isn’t perfect, and it isn’t perfect <em>often.</em> If your experience is…</p><p><a href="https:
+

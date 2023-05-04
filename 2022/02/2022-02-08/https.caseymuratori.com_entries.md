@@ -1,0 +1,7 @@
+## Semantic Compression
+ - [https://caseymuratori.com/blog_0015](https://caseymuratori.com/blog_0015)
+ - RSS feed: https://caseymuratori.com
+ - date published: 2022-02-08 17:12:54+00:00
+
+An introduction to the idea that code should be approached with a mindset towards compressing it semantically, rather than orienting it around objects.
+

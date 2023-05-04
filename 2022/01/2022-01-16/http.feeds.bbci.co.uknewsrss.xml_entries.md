@@ -1,0 +1,177 @@
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## Rooney? Martinez? Potter? Who could replace Benitez at Everton?
+ - [https://www.bbc.co.uk/sport/football/60016148?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/60016148?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 21:04:45+00:00
+
+Rafael Benitez has been sacked by Everton, leaving Farhad Moshiri searching for a seventh permanent manager in six years.
+
+## Pundits despair at England's capitulation
+ - [https://www.bbc.co.uk/sport/cricket/60015667?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/60015667?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 16:31:27+00:00
+
+Former England cricketers and pundits reacts to the tourists' latest Ashes collapse as the England lose in Hobart and Australia complete a 4-0 series win.
+
+## Texas synagogue hostage-taker was British – reports
+ - [https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-60014006?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 14:30:19+00:00
+
+The man detained four people during a morning service and died following a standoff with police.
+
+## Starmer accuses PM of breaking law over No 10 parties
+ - [https://www.bbc.co.uk/news/uk-politics-60014813?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-60014813?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 14:26:08+00:00
+
+The Labour leader says Boris Johnson has lied about "industrial scale partying" in Downing Street.
+
+## Langwith Junction: Murder probe after woman, 86, found dead
+ - [https://www.bbc.co.uk/news/uk-england-derbyshire-60012979?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-60012979?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 14:25:55+00:00
+
+An 88-year-old man with life-threatening injures was also found at a house in Derbyshire.
+
+## Nadine Dorries: BBC licence fee announcement will be the last
+ - [https://www.bbc.co.uk/news/entertainment-arts-60014514?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-60014514?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 14:20:42+00:00
+
+The culture secretary says it is time to discuss new ways to fund and sell "great British content".
+
+## Pacific volcano: Ash-covered Tonga is like a moonscape say residents
+ - [https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-60009944?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 13:59:40+00:00
+
+A huge underwater volcano that triggered tsunami waves has caused "significant damage" to Tonga.
+
+## Peter Seabrook: Gardening writer and broadcaster dies aged 86
+ - [https://www.bbc.co.uk/news/uk-england-essex-60014713?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-60014713?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 13:19:24+00:00
+
+Tributes are paid to the author and former BBC Gardeners' World presenter who died on Friday.
+
+## Novak Djokovic: Tennis star deported after losing Australia visa battle
+ - [https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-60014059?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 12:59:52+00:00
+
+The unvaccinated tennis star gets flight out from Melbourne Airport after losing visa challenge.
+
+## How tennis reacted to Djokovic's deportation from Australia
+ - [https://www.bbc.co.uk/sport/tennis/60014739?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/60014739?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 12:46:49+00:00
+
+Novak Djokovic says he is "extremely disappointed" with a court decision to stop him defending his Australian Open title and deport him from the country.
+
+## Australia tormented Djokovic - Serbian president
+ - [https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-60015738?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 12:40:59+00:00
+
+Aleksandar Vucic describes Australia's treatment of the tennis star as torment and torture.
+
+## The Ashes: Australia complete Ashes win as England collapse again - highlights
+ - [https://www.bbc.co.uk/sport/av/cricket/60015579?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/60015579?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 12:22:26+00:00
+
+Watch highlights as England's miserable Ashes tour ends with a final calamitous batting failure as Australia surge to a 146-run victory in the final Test to claim a 4-0 series win.
+
+## The Ashes: England crushed by Australia in final Test
+ - [https://www.bbc.co.uk/sport/cricket/60006669?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/60006669?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 11:53:01+00:00
+
+England's miserable Ashes tour ends with one last calamitous batting failure as Australia surge to a 146-run victory in the final Test for a 4-0 series win.
+
+## Piel Island: Search for licensee to run 300-year-old pub
+ - [https://www.bbc.co.uk/news/uk-england-cumbria-60015143?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cumbria-60015143?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 11:39:19+00:00
+
+The successful applicant will be "crowned" monarch of Piel by having alcohol poured over them.
+
+## The Ashes: Alex Carey takes brilliant catch to remove Chris Woakes
+ - [https://www.bbc.co.uk/sport/av/cricket/60015180?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/60015180?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 11:06:49+00:00
+
+Watch as wicketkeeper Alex Carey takes a "brilliant" one-handed catch to remove Chris Woakes for five as Australia close in on victory in the fifth Ashes Test in Hobart.
+
+## Novak Djokovic: The visa drama in 90 seconds
+ - [https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-60007164?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 08:46:22+00:00
+
+Deported from Australia and unable to defend his Open title, how did it get to this point?
+
+## Australian Open 2022 preview: Emma Raducanu & Andy Murray play after Novak Djokovic row
+ - [https://www.bbc.co.uk/sport/tennis/59909644?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/59909644?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 08:39:44+00:00
+
+Emma Raducanu and Andy Murray lead the British interest before the start of an Australian Open that will not feature Novak Djokovic.
+
+## Crocodile found under Rhondda school floor on display
+ - [https://www.bbc.co.uk/news/uk-wales-60009983?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-60009983?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 07:50:40+00:00
+
+The head teacher thought the story of the 120-year-old skeleton was a myth - until it turned up.
+
+## Yorkshire heart attack patient urged to take lift to York hospital
+ - [https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-59996581?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-59996581?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 07:08:19+00:00
+
+Graham Reagan says the ambulance service urged him to get a lift to hospital or face a long wait.
+
+## Aberfan: Permanent home sought for disaster artefacts
+ - [https://www.bbc.co.uk/news/uk-wales-59669044?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-59669044?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 07:02:57+00:00
+
+There are fears items like the clock recovered from the disaster will be lost once their keepers die.
+
+## Kenyan vigilantes taking on avocado gangs
+ - [https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-59989656?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 00:38:30+00:00
+
+Cartels have begun to target the lucrative crop and farmers are arming themselves.
+
+## Rutland sea dragon: How remarkable ichthyosaur fossil was protected
+ - [https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leicestershire-59969089?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 00:38:14+00:00
+
+The inside story on how the UK's largest, most complete ichthyosaur fossil was saved for the nation.
+
+## Your pictures on the theme of 'view from a window'
+ - [https://www.bbc.co.uk/news/in-pictures-59970774?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-59970774?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 00:35:57+00:00
+
+A selection of striking images from our readers around the world.
+
+## Blind woodturner: I don't want my eyesight back
+ - [https://www.bbc.co.uk/news/uk-england-derbyshire-59969009?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-59969009?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 00:06:01+00:00
+
+Chris Fisher taught himself woodturning by listening to about 600 hours of YouTube videos.
+
+## The inventor inspired by a near-death experience
+ - [https://www.bbc.co.uk/news/stories-59995066?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/stories-59995066?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-01-16 00:04:13+00:00
+
+He nearly died after being given fake medicines. Now, his invention can spot them.
+

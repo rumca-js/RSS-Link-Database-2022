@@ -1,0 +1,345 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Biden has met with at least 3 potential Supreme Court nominees
+ - [https://www.cnn.com/2022/02/22/politics/biden-potential-supreme-court-nominees/index.html](https://www.cnn.com/2022/02/22/politics/biden-potential-supreme-court-nominees/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 23:06:31+00:00
+
+President Joe Biden has met with three potential Supreme Court nominees -- including Ketanji Brown Jackson, Leondra Kruger and J. Michelle Childs, multiple sources tell CNN.
+
+## Closing arguments begin in civil rights trial of 3 ex-officers involved in George Floyd's killing
+ - [https://www.cnn.com/2022/02/22/us/george-floyd-closing-arguments-civil-rights-trial/index.html](https://www.cnn.com/2022/02/22/us/george-floyd-closing-arguments-civil-rights-trial/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 20:29:38+00:00
+
+Attorneys in the federal trial of three former Minneapolis police officers involved in George Floyd's 2020 killing will deliver closing arguments Tuesday after four days of testimony during which each officer took the stand in his own defense.
+
+## Biden laid out what he called a 'first tranche' of US sanctions
+ - [https://www.cnn.com/2022/02/22/politics/biden-invasion-sanctions/index.html](https://www.cnn.com/2022/02/22/politics/biden-invasion-sanctions/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 20:29:32+00:00
+
+President Joe Biden will address the Ukraine crisis Tuesday afternoon as the White House prepares to announce "significant" new sanctions on Russia while grappling with what one senior US official deemed the "beginning of an invasion" of Ukraine.
+
+## Politicians are stripping Black voters of their voice in Congress
+ - [https://www.cnn.com/2022/02/22/opinions/racial-gerrymandering-census-alabama-daley/index.html](https://www.cnn.com/2022/02/22/opinions/racial-gerrymandering-census-alabama-daley/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 20:29:04+00:00
+
+As the district line curves around four Alabama counties -- Macon, Elmore, Montgomery and Bullock -- it resembles a tribute to Alfred E. Neuman's protuberant craggy ears.
+
+## Jury finds Ahmaud Arbery's killers guilty on all counts in federal hate crime trial
+ - [https://www.cnn.com/2022/02/22/us/ahmaud-arbery-hate-crime-trial-tuesday/index.html](https://www.cnn.com/2022/02/22/us/ahmaud-arbery-hate-crime-trial-tuesday/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 20:28:48+00:00
+
+A jury has found the three White men who killed Ahmaud Arbery in 2020 guilty of all charges in their federal hate crimes trial, backing prosecutors' case that the men chased the 25-year-old through the streets of a Georgia neighborhood because he was Black.
+
+## Slack: Welcome back. Here's an outage
+ - [https://www.cnn.com/2022/02/22/tech/slack-outage/index.html](https://www.cnn.com/2022/02/22/tech/slack-outage/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 20:15:06+00:00
+
+Slack went down for many users Tuesday morning, throwing off companies that rely on the popular workplace communication platform just as workers returned from the extended holiday weekend.
+
+## Biden laid out what he called a 'first tranche' of US sanctions against Russia
+ - [https://www.cnn.com/collections/intl-biz-russia-ukraine-022222/](https://www.cnn.com/collections/intl-biz-russia-ukraine-022222/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 19:57:09+00:00
+
+
+
+## The 'Tinder Swindler' has some harsh words for the Netflix doc
+ - [https://www.cnn.com/videos/business/2022/02/22/tinder-swindler-simon-leviev-inside-edition.cnn](https://www.cnn.com/videos/business/2022/02/22/tinder-swindler-simon-leviev-inside-edition.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 19:29:01+00:00
+
+Simon Leviev, the subject of the new Netflix documentary "The Tinder Swindler," has given an interview to Inside Edition where he denies that he is a conman.
+
+## 2 Blackhawk helicopters crash during training accident, Utah National Guard says
+ - [https://www.cnn.com/2022/02/22/us/blackhawk-helicopters-crash-utah/index.html](https://www.cnn.com/2022/02/22/us/blackhawk-helicopters-crash-utah/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 18:11:31+00:00
+
+Two Utah National Guard UH-60 Blackhawk helicopters were involved in a training accident Tuesday morning, the Utah National Guard tweeted.
+
+## The Dow's top stock of 2021 is expecting a strong 2022
+ - [https://www.cnn.com/2022/02/22/investing/home-depot-earnings-housing/index.html](https://www.cnn.com/2022/02/22/investing/home-depot-earnings-housing/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 17:56:21+00:00
+
+Home Depot was the Dow's best-performing stock in 2021, soaring more than 55% thanks to strong demand from consumers in what was a red hot housing market. But shares are off to a bumpy start this year.
+
+## Greenland's ice is melting from the bottom up -- and far faster than previously thought, study shows
+ - [https://www.cnn.com/2022/02/22/world/greenland-ice-melting-sea-level-rise-climate-intl-scli-scn/index.html](https://www.cnn.com/2022/02/22/world/greenland-ice-melting-sea-level-rise-climate-intl-scli-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 17:44:53+00:00
+
+The ice sheet covering Greenland is melting rapidly at its base and is injecting far more water and ice into the ocean than previously understood, according to new research, which could have serious ramifications for global sea level rise.
+
+## Western nations scramble to finalize their response
+ - [https://www.cnn.com/2022/02/22/europe/russia-ukraine-tensions-tuesday-intl/index.html](https://www.cnn.com/2022/02/22/europe/russia-ukraine-tensions-tuesday-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 17:28:53+00:00
+
+The threat of a full-scale war weighed heavy in Europe on Tuesday as the international community scrambled to finalize sanctions and further rounds of diplomacy following Russian President Vladimir Putin's decision to order troops into separatist-held parts of eastern Ukraine.
+
+## Dangerously cold temperatures from Arctic expected in northern plains
+ - [https://www.cnn.com/videos/weather/2022/02/22/north-dakota-pileup-crash-snowstorm-maginnis-dlt-vpx.cnn](https://www.cnn.com/videos/weather/2022/02/22/north-dakota-pileup-crash-snowstorm-maginnis-dlt-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 17:16:39+00:00
+
+CNN Meteorologist Karen Maginnis reports on Arctic air pushing into the US and a pileup accident near Cassleton, North Dakota.
+
+## The least-visited national parks in the United States
+ - [https://www.cnn.com/travel/article/least-visited-us-national-parks-2021/index.html](https://www.cnn.com/travel/article/least-visited-us-national-parks-2021/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 17:09:24+00:00
+
+There are more than 420 sites in the US National Park System, but only 63 carry the headliner -- capital N, capital P -- "National Park" title.
+
+## Putin's speech was shocking to many, but not to people in Kyiv
+ - [https://www.cnn.com/2022/02/22/europe/ukraine-putin-reaction-kyiv-intl/index.html](https://www.cnn.com/2022/02/22/europe/ukraine-putin-reaction-kyiv-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 17:06:38+00:00
+
+The morning after Russian President Vladimir Putin suggested that Ukraine had no right to exist as an independent state, many in the country's capital of Kyiv appeared glad to see the world waking up to a reality they've been living for years.
+
+## Macy's and Kohl's get in a knife fight with Wall Street
+ - [https://www.cnn.com/2022/02/22/business/macys-kohls-activist-investors/index.html](https://www.cnn.com/2022/02/22/business/macys-kohls-activist-investors/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:39:31+00:00
+
+Activist investors are circling Macy's and Kohl's. The department store chains are fighting back.
+
+## Here's the real truth about Donald Trump's Truth Social app
+ - [https://www.cnn.com/2022/02/22/politics/donald-trump-truth-social-media-app/index.html](https://www.cnn.com/2022/02/22/politics/donald-trump-truth-social-media-app/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:31:08+00:00
+
+Truth Social, Donald Trump's social media app aimed at taking on Twitter, launched on Monday. So I decided to get in on the action, setting up my own account to see what it was all about.
+
+## A year after Morgan Wallen's controversy, country music's race issue hasn't changed
+ - [https://www.cnn.com/2022/02/22/entertainment/country-music-race-diversity/index.html](https://www.cnn.com/2022/02/22/entertainment/country-music-race-diversity/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:23:26+00:00
+
+After country artist Morgan Wallen was caught on camera using a racial slur in February 2021, things looked bleak for his career.
+
+## Supreme Court officially ends Trump's recent legal fight to block document turnover to January 6 probe
+ - [https://www.cnn.com/collections/intl-supreme-court-022222/](https://www.cnn.com/collections/intl-supreme-court-022222/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:14:32+00:00
+
+
+
+## You should be eating citrus this month
+ - [https://www.cnn.com/2022/02/22/health/citrus-winter-recipes-wellness/index.html](https://www.cnn.com/2022/02/22/health/citrus-winter-recipes-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:10:06+00:00
+
+Who else needs a pick-me-up as we move through the last few weeks of winter? While a beach vacation might not be possible for everyone, you can always get a taste of sunny weather in the form of citrus.
+
+## As Omicron cases fall, doctors anxiously await possible surge of dangerous child complication MIS-C
+ - [https://www.cnn.com/collections/intl-covid-022222/](https://www.cnn.com/collections/intl-covid-022222/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:07:51+00:00
+
+
+
+## Widow describes last talk with doctor accused of overdosing her husband
+ - [https://www.cnn.com/videos/us/2022/02/22/husel-ohio-doctor-fentanyl-trial-newday-vpx.cnn](https://www.cnn.com/videos/us/2022/02/22/husel-ohio-doctor-fentanyl-trial-newday-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:07:17+00:00
+
+A former doctor is on trial, accused of overprescribing pain medication to multiple patients near death. William Husel faces 14 counts after the judge granted the prosecution's motion to dismiss 11 additional counts. CNN correspondent Jean Casarez reports.
+
+## What is black carbon? The latest way humans are causing changes in Antarctica
+ - [https://www.cnn.com/2022/02/22/world/antarctica-human-pollution-causing-more-snow-melt-climate/index.html](https://www.cnn.com/2022/02/22/world/antarctica-human-pollution-causing-more-snow-melt-climate/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 16:01:23+00:00
+
+There are few places on Earth that humans haven't mucked up with the waste and pollution that comes from our gas-guzzling cars, the coal-fired electricity we power our homes with and the dust and soot that falls from the wildfires we've made worse.
+
+## Hear from Ukrainian business owners as drumbeat of war grows louder
+ - [https://www.cnn.com/videos/business/2022/02/22/ukraine-lviv-business-impact-holmes-pkg-intl-hnk-vpx.cnn](https://www.cnn.com/videos/business/2022/02/22/ukraine-lviv-business-impact-holmes-pkg-intl-hnk-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:58:43+00:00
+
+As the world is still reeling from the economic impact of Covid-19, Ukrainian business owners are facing another threat - a potential Russian invasion - that could harshly hit the country's economy. CNN's Michael Holmes reports from Lviv, Ukraine.
+
+## Three countries enter the 'living with Covid' phase
+ - [https://www.cnn.com/videos/world/2022/02/22/coronavirus-united-kingdom-australia-new-zealand-dos-santos-intl-ovn-vpx.cnn](https://www.cnn.com/videos/world/2022/02/22/coronavirus-united-kingdom-australia-new-zealand-dos-santos-intl-ovn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:55:47+00:00
+
+The United Kingdom, Australia and New Zealand are working towards a "living with Covid" phase where restrictions will be eased across the countries. CNN's Nina dos Santos reports.
+
+## Iceland's new Forest Lagoon spa immerses visitors among the trees
+ - [https://www.cnn.com/travel/article/forest-lagoon-spa-iceland/index.html](https://www.cnn.com/travel/article/forest-lagoon-spa-iceland/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:45:41+00:00
+
+Tucked away in the northern woodlands of Iceland lies a cozy new spa set to soothe visitors who are looking to enjoy natural hot springs and greenery in equal measure.
+
+## Can Covid 'rustiness' make pilots less prepared?
+ - [https://www.cnn.com/travel/article/flying-safety-after-covid/index.html](https://www.cnn.com/travel/article/flying-safety-after-covid/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:31:10+00:00
+
+If the pandemic has meant you've nearly forgotten what the inside of a plane looks like, you're not alone. Covid has grounded commercial airline fleets all over the world, setting up a difficult path to recovery for the aviation industry.
+
+## Putin puts foreign intelligence chief on the spot
+ - [https://www.cnn.com/videos/world/2022/02/22/putin-foreign-intelligence-chief-exchange-ukraine-sot-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/02/22/putin-foreign-intelligence-chief-exchange-ukraine-sot-intl-ldn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:17:48+00:00
+
+During a meeting of the Russian Security Council on Monday, the head of Russia's Foreign Intelligence Service, Sergei Naryshkin, appeared to hesitate in an exchange with Russian President Vladimir Putin over the matter of incorporating  recognizing the separatist-led regions of Luhansk and Donetsk in eastern Ukraine into the Russian Federation. After footage of the meeting aired, Russian state television broadcast an address to the nation by Putin, who then signed decrees recognizing the independence of the two statelets.
+
+## AT&T is shutting down its 3G network. Here's how it could impact you
+ - [https://www.cnn.com/2022/02/22/tech/att-3g-network-shutdown/index.html](https://www.cnn.com/2022/02/22/tech/att-3g-network-shutdown/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:11:11+00:00
+
+Twenty years after 3G was first introduced in the United States, paving the way for a new generation of mobile apps, the network is officially being phased out.
+
+## The conflict has put a major gas pipeline on the scrap heap
+ - [https://www.cnn.com/2022/02/22/business/nord-stream-2-russia-ukraine-europe-germany-climate-intl/index.html](https://www.cnn.com/2022/02/22/business/nord-stream-2-russia-ukraine-europe-germany-climate-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 15:10:39+00:00
+
+There are few energy projects in the world as controversial as the Nord Stream 2 gas pipeline, and on Tuesday, it all but died in the water as Germany's leader halted its approval process over the Ukraine crisis.
+
+## The Middle East already has a crypto hub, and it's not Dubai
+ - [https://www.cnn.com/2022/02/22/investing/mideast-summary-02-22-2022-intl/index.html](https://www.cnn.com/2022/02/22/investing/mideast-summary-02-22-2022-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 14:56:45+00:00
+
+When the world's biggest cryptocurrency exchange decided in December to set up an advisory body in Dubai, local bitcoin enthusiasts celebrated. Binance's presence would be the jewel in the city's crypto crown as it tried to position itself as a hub for the digital asset.
+
+## Elon Musk accuses the SEC of illegally leaking details of its Tesla investigation
+ - [https://www.cnn.com/2022/02/22/investing/elon-musk-sec/index.html](https://www.cnn.com/2022/02/22/investing/elon-musk-sec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 14:26:09+00:00
+
+Tesla CEO Elon Musk is escalating his battle with the Securities and Exchange Commission, accusing a staff member of illegally leaking the results of an investigation. Musk said the regulator is trying to "weaponize" an earlier consent decree he and Tesla signed "for illicit ends."
+
+## Channing Tatum deems training for 'Magic Mike 3' as 'unhealthy'
+ - [https://www.cnn.com/2022/02/22/entertainment/channing-tatum-magic-mike-unhealthy/index.html](https://www.cnn.com/2022/02/22/entertainment/channing-tatum-magic-mike-unhealthy/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 14:23:52+00:00
+
+If you like how Channing Tatum's body looks in the "Magic Mike" movies, know that he says it's not easy to achieve.
+
+## Keilar challenges Avlon on impact of defending democracy in Ukraine
+ - [https://www.cnn.com/videos/world/2022/02/22/democracy-importance-kitchen-table-issues-newday-avlon-keilar-intv-vpx.cnn](https://www.cnn.com/videos/world/2022/02/22/democracy-importance-kitchen-table-issues-newday-avlon-keilar-intv-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 14:17:27+00:00
+
+CNN'S John Avlon and Brianna Keilar debate the importance of fighting for democracy abroad versus addressing the kitchen table issues affecting Americans every day.
+
+## 16-year-old Indian chess sensation Rameshbabu Praggnanandhaa stuns world No. 1 Magnus Carlsen
+ - [https://www.cnn.com/2022/02/22/sport/rameshbabu-praggnanandhaa-magnus-carlsen-chess-spt-intl/index.html](https://www.cnn.com/2022/02/22/sport/rameshbabu-praggnanandhaa-magnus-carlsen-chess-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 14:11:23+00:00
+
+Sixteen-year-old Rameshbabu Praggnanandhaa stunned Magnus Carlsen on Sunday, beating the world No. 1 during the Airthings Masters.
+
+## Italy's Mount Etna erupts again
+ - [https://www.cnn.com/videos/world/2022/02/22/mount-etna-italy-volcano-eruption-lon-orig-mrg.cnn-reuters](https://www.cnn.com/videos/world/2022/02/22/mount-etna-italy-volcano-eruption-lon-orig-mrg.cnn-reuters)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 13:58:29+00:00
+
+Europe's tallest and most active volcano spewed lava and large clouds of smoke into the sky, forcing the closure of a nearby airport.
+
+## US Soccer and USWNT reach $24M agreement on equal pay dispute
+ - [https://www.cnn.com/2022/02/22/football/us-soccer-uswnt-equal-pay-agreement-spt-intl/index.html](https://www.cnn.com/2022/02/22/football/us-soccer-uswnt-equal-pay-agreement-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 13:54:03+00:00
+
+US Soccer and the United States Women's National Team (USWNT) have agreed to resolve "the outstanding equal pay claims in litigation that has been pending since March 2019."
+
+## Sex appeal meets sharp tailoring at Nensi Dojaka's London Fashion Week show
+ - [https://www.cnn.com/style/article/nensi-dojaka-london-fashion-week-22/index.html](https://www.cnn.com/style/article/nensi-dojaka-london-fashion-week-22/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 13:31:12+00:00
+
+Even if you've never heard the name Nensi Dojaka, it's likely you'll have seen her super-sexy approach to womenswear circulating on social media: slinky mesh tops and subversive LBDs that look like hosiery on first glance.
+
+## How an Ivy League swimmer became the face of the debate on transgender women in sports
+ - [https://www.cnn.com/2022/02/22/us/lia-thomas-transgender-swimmer-ivy-league/index.html](https://www.cnn.com/2022/02/22/us/lia-thomas-transgender-swimmer-ivy-league/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 13:28:06+00:00
+
+Lia Thomas stood tall and smiled wide atop the championship podium, her nearly 6-foot-4 frame pushing her head past the top of the Ivy League's green photo backdrop.
+
+## Breonna Taylor killing: A timeline of the police raid and its aftermath
+ - [https://www.cnn.com/2022/02/22/us/no-knock-raid-breonna-taylor-timeline/index.html](https://www.cnn.com/2022/02/22/us/no-knock-raid-breonna-taylor-timeline/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 12:34:21+00:00
+
+A police officer involved in a raid which led to the shooting death of Breonna Taylor in Louisville, Kentucky, in March 2020 is to be tried in court this week.
+
+## Queen cancels virtual engagements as she is still experiencing mild Covid symptoms
+ - [https://www.cnn.com/2022/02/22/uk/queen-elizabeth-ii-covid-update-intl/index.html](https://www.cnn.com/2022/02/22/uk/queen-elizabeth-ii-covid-update-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 12:21:14+00:00
+
+Britain's Queen Elizabeth II canceled her planned virtual engagements on Tuesday as she continues to suffer from mild Covid-19 symptoms, Buckingham Palace has said.
+
+## Teen tennis sensation Coco Gauff is on a mission to inspire
+ - [https://www.cnn.com/2022/02/22/tennis/coco-gauff-tennis-serena-williams-spt-intl/index.html](https://www.cnn.com/2022/02/22/tennis/coco-gauff-tennis-serena-williams-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 12:15:11+00:00
+
+You should never meet your idols, so the adage goes. But what if fate not only brings you together, but also places you in direct competition on one of the world's biggest sporting stages?
+
+## At least 60 people killed in blast at gold mine in Burkina Faso, state TV reports
+ - [https://www.cnn.com/2022/02/22/africa/blast-kills-60-burkina-faso-intl/index.html](https://www.cnn.com/2022/02/22/africa/blast-kills-60-burkina-faso-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 11:02:23+00:00
+
+About 60 people were killed and dozens more wounded on Monday in an explosion at an informal gold mining site in southwest Burkina Faso, state television reported, citing local officials.
+
+## 'You can fail and not be a failure': Mikaela Shiffrin reflects on the disappointment of Beijing 2022
+ - [https://www.cnn.com/2022/02/22/sport/mikaela-shiffrin-reflects-on-beijing-2022-spt-intl/index.html](https://www.cnn.com/2022/02/22/sport/mikaela-shiffrin-reflects-on-beijing-2022-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 10:43:27+00:00
+
+Beijing 2022 proved to be the most difficult two weeks of Mikaela Shiffrin's career.
+
+## Infertility treatments raise risk of heart and pregnancy complications, study finds
+ - [https://www.cnn.com/2022/02/22/health/infertility-treatments-heart-pregnancy-wellness/index.html](https://www.cnn.com/2022/02/22/health/infertility-treatments-heart-pregnancy-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 10:02:39+00:00
+
+If you are one of the millions of women who plan to use infertility treatments to have a baby, be aware that new research found women may be at increased risk for vascular and pregnancy-related complications, especially if they are 35 or older.
+
+## Sexual harassment and assault linked to high blood pressure in women, study says
+ - [https://www.cnn.com/2022/02/22/health/sexual-trauma-high-blood-pressure-wellness/index.html](https://www.cnn.com/2022/02/22/health/sexual-trauma-high-blood-pressure-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 10:02:14+00:00
+
+Women who experience sexual violence, workplace sexual harassment or both have a higher long-term risk of developing high blood pressure than women with no such trauma, according to new research.
+
+## 'Exceedingly rare' fossil of giant flying reptile discovered on Scottish island
+ - [https://www.cnn.com/2022/02/22/europe/flying-reptile-pterosaur-fossil-skye-scotland-scn/index.html](https://www.cnn.com/2022/02/22/europe/flying-reptile-pterosaur-fossil-skye-scotland-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 10:02:05+00:00
+
+Winged reptiles known as pterosaurs -- airplane-size creatures that swooped through the skies as dinosaurs walked the Earth -- were the first vertebrate animals to evolve powered flight.
+
+## Map shows what a potential Russian invasion could look like now
+ - [https://www.cnn.com/videos/world/2022/02/22/ukraine-russia-military-foreman-lkl-magic-wall-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/02/22/ukraine-russia-military-foreman-lkl-magic-wall-ovn-intl-hnk-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 09:42:50+00:00
+
+CNN's Tom Foreman uses a map to break down some of the potential military strategies Russia may use to invade Ukraine. On Monday, Russian President Vladimir Putin ordered troops into separatist-held parts of eastern Ukraine in what the Kremlin called a "peacekeeping" mission, just hours after he signed decrees recognizing the independence of the Moscow-backed regions.
+
+## As the West condemns Russia over Ukraine, Beijing strikes a different tone
+ - [https://www.cnn.com/2022/02/22/china/china-ukraine-russia-reaction-united-nations-intl-hnk/index.html](https://www.cnn.com/2022/02/22/china/china-ukraine-russia-reaction-united-nations-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-22 08:46:38+00:00
+
+China's envoy to the United Nations on Monday called for "all parties" to exercise restraint and avoid "fueling tensions" in Ukraine, but stopped short of condemning the Kremlin's recognition of independence for two pro-Moscow regions in the east of the country.
+

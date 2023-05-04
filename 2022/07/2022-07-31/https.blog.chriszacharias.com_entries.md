@@ -1,0 +1,7 @@
+## Page Weight Matters
+ - [https://blog.chriszacharias.com/page-weight-matters](https://blog.chriszacharias.com/page-weight-matters)
+ - RSS feed: https://blog.chriszacharias.com
+ - date published: 2022-07-31 13:11:31.456522+00:00
+
+Three years ago, while I was a web developer at YouTube, one of the senior engineers began a rant about the page weight of the video watch page being far too large. The page had ballooned to as high as 1.2MB and dozens of requests. This engineer... | Chris Zacharias | Founder of imgix. YCombinator alum. Ex-YouTuber. Studied New Media at RIT.
+

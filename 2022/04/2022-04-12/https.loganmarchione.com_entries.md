@@ -1,0 +1,7 @@
+## Impressions from a first-time Mac user | Logan Marchione
+ - [https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
+ - RSS feed: https://loganmarchione.com
+ - date published: 2022-04-12 11:22:35.065316+00:00
+
+TL;DR ⚠️ Warning Apple fanboys: this is a rant ⚠️ Hardware = Good Software = Bad Introduction I recently started a new job where my employer provided me with a brand-new 2021 16‑inch MacBook Pro. A little background on me: I’ve been using Windows and Linux my entire professional life, I have been daily-driving various Linux desktops at home for 10+ years, all of my servers run Linux, but I have never used a Mac in my life.
+

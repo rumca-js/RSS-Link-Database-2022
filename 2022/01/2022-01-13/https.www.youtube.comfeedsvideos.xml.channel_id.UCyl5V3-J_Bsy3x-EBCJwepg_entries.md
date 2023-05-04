@@ -1,0 +1,34 @@
+# Source:Babylon Bee, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg, language:en-US
+
+## THE BEE WEEKLY: Cringe Sermon Moments, SCOTUS, and Questioning a Catholic
+ - [https://www.youtube.com/watch?v=dIoQQkVx4R8](https://www.youtube.com/watch?v=dIoQQkVx4R8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg
+ - date published: 2022-01-14 00:00:00+00:00
+
+Kyle Mann and Adam Yenser are joined by Patrick Green on this Bee Weekly to talk about heroes of the faith who gave us cringe moments in the history of preaching and to talk about the Bee’s deep dark secret practice of employing a Roman Catholic. Kyle gets a surprise and Patrick Green gets put in the hot seat for being Catholic.
+
+This episode of The Bee Weekly is brought to you by INKL. Get a discount on curated, ad-free news from 100+ sources with a single subscription at: http://inkl.com/bee
+
+This episode is also brought to you by Faithful Counseling. Get counseling from people who share your faith and your values at: http://faithfulcounseling.com/babylonbee
+
+Kyle gets a surprise that should help him stay on keto for another 4 hours and the guys talk about our latest parody video getting restricted by YouTube. They talk about the banger and bomb of the week, Adam Yenser does Weakly News and then there is the latest Heroes of the Faith. After learning how to smash a television with an axe and that all atheists have video games in common, the guys show our latest sketch about a lonely unvaccinated man whose vaccinated friends all have COVID, and then the Bee’s ultimate showdown between Roman Catholics and Protestants commences. The Bee also responds to atheist hate mail.
+
+In the subscriber lounge, Patrick answers some questions from subscribers to the Babylon Bee and also answers the ten questions. The Bee guys interact with bonus Elon Musk hate mail and headline pitches from the subscribers.
+
+## Legal Experts Ask Justice Sotomayor To Recuse Herself From Case Due To Her Being An Idiot
+ - [https://www.youtube.com/watch?v=reN3dgzy-5s](https://www.youtube.com/watch?v=reN3dgzy-5s)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg
+ - date published: 2022-01-13 00:00:00+00:00
+
+In breaking news from the Supreme Court, legal scholars are suggesting that Justice Sonia Sotomayor recuse herself from the mandate case before the court, not because of any conflicting interests, but on suspicion that she's a complete and total idiot.
+
+Become a premium subscriber:  https://babylonbee.com/plans
+
+The Official The Babylon Bee Store:  https://shop.babylonbee.com/
+
+Follow The Babylon Bee:
+Website: https://babylonbee.com/
+Twitter: https://twitter.com/thebabylonbee
+Facebook: https://www.facebook.com/TheBabylonBee
+Instagram: http://instagram.com/thebabylonbee
+

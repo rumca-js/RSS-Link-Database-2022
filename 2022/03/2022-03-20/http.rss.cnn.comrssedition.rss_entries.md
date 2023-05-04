@@ -1,0 +1,114 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## One person killed and 28 wounded -- including children -- in shooting at Arkansas car show
+ - [https://www.cnn.com/2022/03/19/us/arkansas-car-show-shooting/index.html](https://www.cnn.com/2022/03/19/us/arkansas-car-show-shooting/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 22:58:47+00:00
+
+Police say they are hunting two suspects after gunfire broke out Saturday at a car show in Dumas, Arkansas, killing one person and injuring at least 28, including several children.
+
+## 'I'm still in shock': Woman stunned by pig pen surveillance video
+ - [https://www.cnn.com/videos/us/2022/03/20/pigs-fight-black-bear-that-jumped-in-pen-connecticut-orig-jc.cnn](https://www.cnn.com/videos/us/2022/03/20/pigs-fight-black-bear-that-jumped-in-pen-connecticut-orig-jc.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 22:37:48+00:00
+
+Rebecca Shaw was shocked when she watched a black bear enter her pig's pen. Watch as Hamlet and Mary courageously fend off the bear.
+
+## Rare snake found in Alabama for just the second time in 60 years
+ - [https://www.cnn.com/2022/03/20/us/rare-snake-alabama-trnd/index.html](https://www.cnn.com/2022/03/20/us/rare-snake-alabama-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 22:36:50+00:00
+
+For only the second time in more than 60 years, the elusive Eastern indigo snake has slithered into Alabama.
+
+## Opinion: Conditions ripe for talking peace. Biden should seize the moment
+ - [https://www.cnn.com/2022/03/20/opinions/ukraine-biden-peace-deal-dowling/index.html](https://www.cnn.com/2022/03/20/opinions/ukraine-biden-peace-deal-dowling/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 21:47:53+00:00
+
+Dressed in his green military T-shirt, Ukrainian President Volodymyr Zelensky ended his live-streamed speech to Congress on Wednesday with a direct appeal to President Joe Biden: "Today it's not enough to be the leader of the nation ... being the leader of the world means to be the leader of peace." It was not a throwaway line -- it was a deliberate plea that Biden should take seriously.
+
+## Retired Gen. Petraeus explains how Ukrainians are taking out Russian generals
+ - [https://www.cnn.com/videos/world/2022/03/20/ukraine-russian-generals-patraeus-sotu-vpx.cnn](https://www.cnn.com/videos/world/2022/03/20/ukraine-russian-generals-patraeus-sotu-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 17:48:06+00:00
+
+Retired US Army Gen. David Petraeus tells CNN's Jake Tapper how the Ukrainian people have aided their army in killing multiple Russian generals. CNN has not been able to confirm the killings.
+
+## Mila Kunis and Ashton Kutcher raise $30 million in donations for Ukrainian refugees
+ - [https://www.cnn.com/2022/03/20/entertainment/mila-kunis-ashton-kutcher-ukraine-trnd/index.html](https://www.cnn.com/2022/03/20/entertainment/mila-kunis-ashton-kutcher-ukraine-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 16:27:44+00:00
+
+Actors Mila Kunis and Ashton Kutcher have raised over $30 million for Ukrainain refugees fleeing the country amid the ongoing Russian invasion.
+
+## 'I couldn't sit there and do nothing': These teens created a website matching Ukrainian refugees with host families offering shelter
+ - [https://www.cnn.com/2022/03/20/us/harvard-students-ukraine-refugees-website-hosts-shelter/index.html](https://www.cnn.com/2022/03/20/us/harvard-students-ukraine-refugees-website-hosts-shelter/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 16:24:16+00:00
+
+Two Harvard University students have created a website connecting thousands of Ukrainian refugees with hosts around the world offering them a safe haven.
+
+## Why Zelensky is 'very frightened' of Putin believing his own claims
+ - [https://www.cnn.com/videos/world/2022/03/20/zelensky-putin-denazification-claims-intv-fareed-gps-vpx.cnn](https://www.cnn.com/videos/world/2022/03/20/zelensky-putin-denazification-claims-intv-fareed-gps-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 15:53:24+00:00
+
+Ukrainian President Zelensky reacts to Russian President Putin's "denazification" claims to justify invading Ukraine, warning if Putin believes his own claims, he "might be capable of very horrendous steps."
+
+## Know someone with an eating disorder? Here are 6 key ways you can help
+ - [https://www.cnn.com/2022/03/20/health/how-to-help-someone-with-eating-disorder-wellness/index.html](https://www.cnn.com/2022/03/20/health/how-to-help-someone-with-eating-disorder-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 13:22:35+00:00
+
+Being part of a support system for a loved one with an eating disorder can be game-changing -- but only if you know enough. Here are six things to keep in mind when helping someone with an eating disorder.
+
+## Zelensky's ode to freedom
+ - [https://www.cnn.com/2022/03/20/opinions/zelenskys-ode-to-freedom-opinion-column-galant/index.html](https://www.cnn.com/2022/03/20/opinions/zelenskys-ode-to-freedom-opinion-column-galant/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 13:16:31+00:00
+
+Weeks after the Berlin Wall fell in 1989, Leonard Bernstein led a performance of Beethoven's Ninth Symphony near the center of the no-longer divided city.
+
+## Six people killed after car crashes into carnival crowd in Belgium
+ - [https://www.cnn.com/2022/03/20/europe/belgium-carnival-crash-six-killed-intl/index.html](https://www.cnn.com/2022/03/20/europe/belgium-carnival-crash-six-killed-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 12:36:04+00:00
+
+Six people were killed after a car crashed into a crowd of people who had gathered to attend a local carnival on Sunday morning in Strépy-Bracquegnies, near La Louvière, Belgium.
+
+## US Southeast braces for 'significant tornado event' this week
+ - [https://www.cnn.com/2022/03/20/weather/weather-severe-storms-gulf-coast-southeast-tornadoes/index.html](https://www.cnn.com/2022/03/20/weather/weather-severe-storms-gulf-coast-southeast-tornadoes/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 12:11:44+00:00
+
+A "substantial severe weather event -- including potential for significant tornadoes -- remains evident over the Lower Mississippi Valley/central Gulf Coast" this week, the Storm Prediction Center said Sunday.
+
+## The sport with the funny name that's sweeping America
+ - [https://www.cnn.com/2022/03/20/us/pickleball-explainer-wellness-cec/index.html](https://www.cnn.com/2022/03/20/us/pickleball-explainer-wellness-cec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 11:04:46+00:00
+
+Fifty-seven years ago, three fathers vacationing on an island near Seattle faced a predicament. Their kids were bored, and they needed a summertime activity to keep them entertained.
+
+## She'd never run a marathon before. Then she qualified for the Olympics and won
+ - [https://www.cnn.com/2022/03/19/sport/molly-seidel-marathon-distance-running-spt-intl-cmd/index.html](https://www.cnn.com/2022/03/19/sport/molly-seidel-marathon-distance-running-spt-intl-cmd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 09:20:45+00:00
+
+Mastering the art of marathon running is a lifetime pursuit for some, but it seemed to take Molly Seidel roughly two-and-a-half hours on one windswept morning in Atlanta a couple of fyears ago.
+
+## Closure of Russian airspace forces airlines to go polar
+ - [https://www.cnn.com/travel/article/north-pole-air-route/index.html](https://www.cnn.com/travel/article/north-pole-air-route/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 08:49:06+00:00
+
+The closure of Russian airspace to some international carriers, including many in Europe, has forced airlines to seek alternate routes. For some flights, such as those linking Europe and Southeast Asia, that's especially problematic since Russia, the world's largest country, stands directly in between.
+
+## 'Hit so hard': Washington Post book critic on Putin's views on war
+ - [https://www.cnn.com/videos/world/2022/03/20/carlos-lozada-washington-post-vladimir-putin-views-on-war-nrwknd-vpx.cnn](https://www.cnn.com/videos/world/2022/03/20/carlos-lozada-washington-post-vladimir-putin-views-on-war-nrwknd-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-03-20 01:32:35+00:00
+
+Washington Post outlook editor Carlos Lozada gives a look into Russian President Vladimir Putin's views on war.
+

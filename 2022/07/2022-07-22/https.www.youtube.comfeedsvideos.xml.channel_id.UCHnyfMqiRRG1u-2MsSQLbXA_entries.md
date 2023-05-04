@@ -1,0 +1,55 @@
+# Source:Veritasium, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, language:en-US
+
+## The Man Who Killed Millions and Saved Billions
+ - [https://www.youtube.com/watch?v=EvknN89JoWo](https://www.youtube.com/watch?v=EvknN89JoWo)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+ - date published: 2022-07-22 17:03:09+00:00
+
+Fritz Haber is the scientist who arguably most transformed the world. Part of this video is sponsored by Wren. Offset your carbon footprint on Wren: ​https://www.wren.co/start/veritasium1. For the first 100 people who sign up, I will personally pay for the first month of your subscription!
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+A huge thanks to Dan Charles for writing a fantastic biography of Fritz Haber, for taking the time to talk to us about it, and providing valuable feedback. This video would not be what it is without his contributions. http://site.danielcharles.us https://ve42.co/Charles
+
+Thanks to Tom de Prinse from Explosions and Fire for helping us with the chemistry of explosives. If you like explosions and/or fire, you will love his channel. https://www.youtube.com/c/ExplosionsFire2
+
+Thanks to Michael Kuiper of CSIRO for the animation of the composition of air - https://www.youtube.com/watch?v=j9JvX58aRfg
+
+Special thanks to Sonya Pemberton, Karl Kruszelnicki, Mary Dobbie, Olivia McRae, and the patreon supporters for giving us feedback on the earlier version of this video.
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+References:
+
+The primary reference used is Vaclav Smil’s excellent book, Enriching The Earth – 
+Smil, V. (2004). Enriching the earth: Fritz Haber, Carl Bosch, and the transformation of world food production. MIT press. – https://ve42.co/Smil
+
+Mastermind: The Rise and Fall of Fritz Haber, the Nobel Laureate Who Launched the Age of Chemical Warfare, by Dan Charles – https://ve42.co/Charles
+
+Stoltzenberg, D. (2004). Fritz Haber: Chemist, Nobel Laureate, German, Jew. Chemical Heritage Foundation. – https://ve42.co/Stoltzenberg
+
+Postgate, J. R. (1982). The fundamentals of nitrogen fixation. CUP Archive. – https://ve42.co/postgate
+
+Miles, A. G. (1992). Biological nitrogen fixation. – https://ve42.co/Miles
+
+Friedrich, B., & Hoffmann, D. (2017). Clara Immerwahr: A life in the shadow of Fritz Haber. In One Hundred Years of Chemical Warfare: Research, Deployment, Consequences(pp. 45-67). Springer, Cham. – https://ve42.co/Friedrich2017
+
+Da Silva, G. (2020). What is ammonium nitrate, the chemical that exploded in Beirut. Sci Am, 5. – https://ve42.co/Silva
+
+Rodrigues, P., & Micael, J. (2021). The importance of guano birds to the Inca Empire and the first conservation measures implemented by humans. – https://ve42.co/rodrigues
+
+Allison, F. E. (1957). Nitrogen and soil fertility. Soil, the, 85-94. – https://ve42.co/Allison
+
+Crookes, W. (1898). Address of the President before the British Association for the Advancement of Science, Bristol, 1898. Science, 8(200), 561-575. – https://ve42.co/Crookes
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Special thanks to Patreon supporters: RayJ Johnson, Brian Busbee, Jerome Barakos M.D., Amadeo Bee, Julian Lee, Inconcision, TTST, Balkrishna Heroor, Chris LaClair, Avi Yashchin, John H. Austin, Jr., OnlineBookClub.org, Matthew Gonzalez, Eric Sexton, john kiehl, Diffbot, Gnare, Dave Kircher, Burt Humburg, Blake Byers, Dumky, Evgeny Skvortsov, Meekay, Bill Linder, Paul Peijzel, Josh Hibschman, Timothy O’Brien, Mac Malkawi, Michael Schneider, jim buckmaster, Juan Benet, Ruslan Khroma, Robert Blum, Richard Sundvall, Lee Redden, Vincent, Stephen Wilcox, Marinus Kuivenhoven, Michael Krugman, Cy 'kkm' K'Nelson, Sam Lutfi, Ron Neal 
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Written by Petr Lebedev, Derek Muller, Felicity Nelson and Kovi Rose
+Edited by Trenton Oliver
+Animation by Jakub Mistek, Fabio Albertelli, Ivy Tello, Alex Drakoulis, Nils Ramses Kullack, and Charlie Davies
+SFX by Shaun Clifford
+Filmed by Petr Lebedev, Derek Muller and Raquel Nuno
+Photo of nitrogen deficiency in rice from https://ve42.co/rice
+Additional video/photos supplied by Getty Images
+Music from Epidemic Sound: https://ve42.co/music
+

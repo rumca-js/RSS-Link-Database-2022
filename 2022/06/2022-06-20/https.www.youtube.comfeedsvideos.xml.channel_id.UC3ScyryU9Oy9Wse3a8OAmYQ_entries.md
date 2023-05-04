@@ -1,0 +1,60 @@
+# Source:FRONTLINE PBS | Official, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ, language:en-US
+
+## Rape on the Night Shift (full documentary) | FRONTLINE
+ - [https://www.youtube.com/watch?v=6zeGu_tgw9c](https://www.youtube.com/watch?v=6zeGu_tgw9c)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
+ - date published: 2022-06-21 00:00:00+00:00
+
+Every night, as most of us head home, janitors across America, many of them women, begin their night shift. They are often alone or isolated in empty buildings — and vulnerable to sexual violence. (Aired 2018)
+
+This journalism is made possible by viewers like you. Support your local PBS station here: http://www.pbs.org/donate​.
+
+Following up on the award-winning collaboration that produced “Rape in the Fields/Violación de un Sueño” in 2013, FRONTLINE, Univision, the Investigative Reporting Program (IRP) at UC Berkeley, Reveal from The Center for Investigative Reporting (CIR) and KQED teamed up to uncover the sexual abuse of immigrant women, often undocumented, who clean the malls where we shop, the banks where we do business and the offices where we work. Drawing on interviews with the women themselves, an attorney for the federal agency that enforces sexual harassment laws in the workplace and a watchdog group that monitors workplace conditions for janitors, the investigation sheds light on an underreported problem — and reveals how employers have fallen short in dealing with it.
+
+Love FRONTLINE? Find us on the PBS Video App, where there are more than 300 FRONTLINE documentaries available to watch any time: https://to.pbs.org/FLVideoApp​ 
+
+#Documentary #Frontline #SexualHarassment
+
+Subscribe on YouTube: http://bit.ly/1BycsJW​
+Instagram: https://www.instagram.com/frontlinepbs​
+Twitter: https://twitter.com/frontlinepbs​
+Facebook: https://www.facebook.com/frontline
+
+FRONTLINE is produced at GBH in Boston and is broadcast nationwide on PBS. Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; the Heising-Simons Foundation; and the FRONTLINE Journalism Fund with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen.
+
+CHAPTERS:
+Prologue - 00:00
+Danger on the Night Shift - 01:13
+When Companies Investigate Sexual Assault - 21:46
+Legislation to Curb Sexual Harassment - 44:54
+Credits - 51:59
+
+## Weinstein (full documentary) | FRONTLINE
+ - [https://www.youtube.com/watch?v=OJ8fsE_GOlg](https://www.youtube.com/watch?v=OJ8fsE_GOlg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
+ - date published: 2022-06-21 00:00:00+00:00
+
+The inside story of how Harvey Weinstein allegedly sexually harassed and abused dozens of women, and the elaborate ways he tried to silence his accusers. (Aired 2018)
+
+FRONTLINE’s documentary investigates the disgraced mogul’s spectacular downfall, and what Hollywood itself knew — and when. With allegations going back to Weinstein’s early years, the film draws on exclusive insider accounts and examines how Weinstein used lawyers and private detectives to help him suppress sexual harassment allegations.
+
+This journalism is made possible by viewers like you.
+
+Support your local PBS station here: http://www.pbs.org/donate
+
+Love FRONTLINE? Find us on the PBS Video App where there are more than 250 FRONTLINE documentaries available for you to watch any time:https://to.pbs.org/FLVideoApp
+
+Subscribe on YouTube: http://bit.ly/1BycsJW
+
+#Weinstein #Documentary
+
+EDITOR'S NOTE, from May 22, 2018: An earlier version of "Weinstein" contained comments from New York Attorney General Eric Schneiderman that are no longer in this updated film. Since the initial broadcast, Schneiderman resigned amid allegations that he physically assaulted four women.
+
+Instagram: https://www.instagram.com/frontlinepbs
+Twitter: https://twitter.com/frontlinepbs
+Facebook: https://www.facebook.com/frontline
+
+FRONTLINE is streaming more than 200 documentaries online, for free, here: http://to.pbs.org/hxRvQP 
+
+Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the John D. and Catherine T. MacArthur Foundation and the Ford Foundation. Additional funding is provided by the Abrams Foundation, the Park Foundation, The John and Helen Glessner Family Trust, the Heising-Simons Foundation, and the FRONTLINE Journalism Fund with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation.
+

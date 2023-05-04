@@ -1,0 +1,282 @@
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## Outcry in Egypt as iconic Nile houseboats are destroyed
+ - [https://www.bbc.co.uk/news/world-middle-east-61963517?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-61963517?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:46:49+00:00
+
+The last homes are being removed as part of what officials say is a plan to beautify the waterfront.
+
+## Why ex-French colonies are joining the Commonwealth
+ - [https://www.bbc.co.uk/news/world-africa-61967842?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-61967842?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:45:05+00:00
+
+Behind the Commonwealth's allure as it welcomes Gabon and Togo into its ranks.
+
+## How Michael Gardner helped transform Miami's nightlife
+ - [https://www.bbc.co.uk/news/entertainment-arts-61940343?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-61940343?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:41:02+00:00
+
+The businessman overcame racial barriers to become one of Miami’s foremost nightlife promoters.
+
+## Paris attacks: Survivors who found friendship in marathon terror trial
+ - [https://www.bbc.co.uk/news/world-europe-61967284?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-61967284?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:36:42+00:00
+
+The 2015 Paris attacks left 130 people dead and some of the survivors have formed a unique bond.
+
+## Invisible disability: Living with inflammatory bowel disease
+ - [https://www.bbc.co.uk/news/uk-england-london-61971876?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-61971876?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:34:26+00:00
+
+Inflammatory bowel disease sufferers say the lack of toilets is the worst thing about living in London.
+
+## China and Hong Kong: The UK Hongkongers living with handover's legacy
+ - [https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-61947779?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:34:12+00:00
+
+The return of Hong Kong to China in 1997 is still a polarising topic for residents now living in the UK.
+
+## Ukraine war cluster munitions: 'Everything began to explode'
+ - [https://www.bbc.co.uk/news/world-europe-61973633?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-61973633?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 23:18:06+00:00
+
+A BBC investigation has gathered evidence of the repeated use of cluster munitions in the city of Chernihiv, northern Ukraine.
+
+## Nato veto lifted and more false claims - today's Ukraine round-up
+ - [https://www.bbc.co.uk/news/world-europe-61967382?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-61967382?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 20:37:36+00:00
+
+Finland and Sweden to join the alliance as footage shows civilians running for their lives.
+
+## Deborah James ‘taught us how to live and how to die’
+ - [https://www.bbc.co.uk/news/uk-61398716?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-61398716?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 20:16:28+00:00
+
+Friends and colleagues pay tribute to podcast host Dame Deborah James, who has died at the age of 40.
+
+## Wimbledon: Nick Kyrgios admits spitting towards 'disrespectful' fan
+ - [https://www.bbc.co.uk/sport/av/tennis/61975145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/tennis/61975145?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 20:14:20+00:00
+
+Nick Kyrgios admits spitting in the direction of a "disrespectful" supporter after beating Britain's Paul Jubb in his first-round match at Wimbledon.
+
+## Ghislaine Maxwell: We still want answers, says survivor
+ - [https://www.bbc.co.uk/news/world-us-canada-61960590?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-61960590?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 19:23:08+00:00
+
+Epstein victim Annie Farmer says Maxwell's sentence will help bring some sense of justice.
+
+## Ghislaine Maxwell sentencing: 'We still want answers'
+ - [https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-61959895?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 18:42:26+00:00
+
+Annie Farmer testified in court against Jeffrey Epstein's associate in December, sharing how manipulative Maxwell was.
+
+## Why I kept my sexuality a secret at work
+ - [https://www.bbc.co.uk/news/business-61931038?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-61931038?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 16:11:34+00:00
+
+An aircraft engineer explains how he ditched his 'double-life' at work and created an LGBT+ network.
+
+## Brexit protester: We're not giving up as amplifiers removed
+ - [https://www.bbc.co.uk/news/uk-politics-61970308?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-61970308?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 15:22:45+00:00
+
+Protester Steve Bray reacts to police removing his amplifier after his noisy protest outside Parliament.
+
+## Ukraine war: Kremenchuk shopping centre attack claims fact-checked
+ - [https://www.bbc.co.uk/news/61967480?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/61967480?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 14:55:58+00:00
+
+Russia's government and its supporters online spread a number of false claims after the bombing.
+
+## Chris Martin: Coldplay's Chris Martin plays couple's wedding song in pub
+ - [https://www.bbc.co.uk/news/entertainment-arts-61964659?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-61964659?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 13:43:27+00:00
+
+The Coldplay singer surprised people in a pub near Bath on his way home from the Glastonbury Festival.
+
+## Friends pay tribute to woman killed by stranger
+ - [https://www.bbc.co.uk/news/uk-england-london-61963365?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-61963365?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:48:14+00:00
+
+Zara Aleena, who was killed in east London on Sunday, "lit up the whole room".
+
+## Wimbledon: Ryan Peniston into second round but Katie Swan beaten
+ - [https://www.bbc.co.uk/sport/tennis/61967386?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/61967386?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:31:29+00:00
+
+Britain's Ryan Peniston makes a superb start to his Wimbledon debut as he overcomes Swiss player Henri Laaksonen, but Katie Swan is beaten.
+
+## Russian threat means UK army needs more cash, says Ben Wallace
+ - [https://www.bbc.co.uk/news/uk-61961675?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-61961675?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:25:42+00:00
+
+Ben Wallace says there should be further increases in military spending to keep people safe.
+
+## Kremenchuk strike: 'I didn't think they would hit a mall - it's a safe place'
+ - [https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-61967376?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:24:32+00:00
+
+A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside.
+
+## Texas migrant deaths: At least 46 found dead in abandoned truck
+ - [https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-61961871?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:11:40+00:00
+
+The victims were discovered on the outskirts of San Antonio, 250km from the US-Mexican border.
+
+## England v South Africa: Anneke Bosch removes England openers
+ - [https://www.bbc.co.uk/sport/av/cricket/61966217?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/61966217?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:10:12+00:00
+
+Anneke Bosch dismiss England openers Tammy Beaumont and Emma Lamb on day two of the only Test in Taunton.
+
+## Lewis Hamilton and F1 condemn Nelson Piquet's racially abusive language about British driver
+ - [https://www.bbc.co.uk/sport/formula1/61962839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/61962839?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 12:09:58+00:00
+
+Lewis Hamilton says "archaic mindsets need to change" and have no place in Formula 1 after three-time world champion Nelson Piquet uses racially abusive language about him.
+
+## Census: Population of England and Wales grew 6% in a decade
+ - [https://www.bbc.co.uk/news/uk-61966084?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-61966084?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 11:49:36+00:00
+
+Last year's census shows one of the biggest population rises ever recorded.
+
+## Frenkie de Jong: Manchester United nearing agreement on £56m deal for Barcelona midfielder
+ - [https://www.bbc.co.uk/sport/football/61965079?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/61965079?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 11:47:03+00:00
+
+Manchester United reach broad agreement of £56m with Barcelona for the Netherlands midfielder Frenkie de Jong.
+
+## Marriage proposal fail as ring bounces into Watton lake
+ - [https://www.bbc.co.uk/news/uk-england-norfolk-61965695?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-norfolk-61965695?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 11:42:59+00:00
+
+A perfectly planned romantic proposal goes awry when the ring bounces into a lake.
+
+## Queen appears at armed forces parade in Edinburgh
+ - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61965005?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61965005?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 11:40:26+00:00
+
+It is the 96-year-old monarch's second public appearance since arriving in Scotland on Monday.
+
+## Non-essential petrol sales halted for two weeks in Sri Lanka
+ - [https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-61961821?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 11:15:07+00:00
+
+The country says it is saving its limited fuel supplies for vehicles used for essential services.
+
+## Gabriel Jesus: Manchester City and Brazil forward having medical at Arsenal before £45m move
+ - [https://www.bbc.co.uk/sport/football/61937038?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/61937038?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 10:58:30+00:00
+
+Manchester City and Brazil forward Gabriel Jesus is having a medical at Arsenal before a £45m move.
+
+## Alex Scott: I will carry on despite sexist abuse
+ - [https://www.bbc.co.uk/news/uk-61964823?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-61964823?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 10:56:36+00:00
+
+The TV presenter and ex-England defender says she feels a "responsibility to change perceptions".
+
+## Coldplay's Chris Martin performs couple's wedding song in pub
+ - [https://www.bbc.co.uk/news/uk-england-somerset-61963717?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-somerset-61963717?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 10:24:47+00:00
+
+He went straight to the piano when the couple said their first dance would be to a Coldplay song.
+
+## Nazi camp guard, 101, given five years for aiding murder
+ - [https://www.bbc.co.uk/news/world-europe-61963473?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-61963473?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 09:49:37+00:00
+
+The oldest Nazi criminal ever to stand trial in Germany, he had always denied being a camp guard.
+
+## Swansea girl, 7, may need skin graft after burns from buried barbecue
+ - [https://www.bbc.co.uk/news/uk-wales-61961111?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-61961111?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 09:16:52+00:00
+
+Alex Adenaike says her daughter is waiting to see if she needs a skin graft.
+
+## Helen McCourt's mother welcomes killer's death
+ - [https://www.bbc.co.uk/news/uk-61964658?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-61964658?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 08:57:06+00:00
+
+Marie McCourt says she hopes those who knew Ian Simms will now feel safe enough to speak out.
+
+## Will Sweden and Finland go from neutral to Nato?
+ - [https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 07:08:07+00:00
+
+It would be a historic shift if they do and Turkey is the only obstacle to them joining.
+
+## Euro 2022: Guides to all the teams competing in England this summer
+ - [https://www.bbc.co.uk/sport/football/61954163?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/61954163?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 06:49:08+00:00
+
+Links to the BBC Sport guides to each of the 16 teams competing in this summer's Euros in England.
+
+## ‘Sneakerheads' gather for Europe’s largest trainer festival
+ - [https://www.bbc.co.uk/news/uk-scotland-61960709?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-61960709?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 05:11:50+00:00
+
+Footwear enthusiasts have descended on Glasgow to showcase some of the world’s rarest trainers.
+
+## Nobel laureate: Captain Kirk calls me for science lessons
+ - [https://www.bbc.co.uk/news/uk-scotland-glasgow-west-61955826?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-61955826?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 05:10:06+00:00
+
+Sir David MacMillan's Nobel prize, and giving away his prize money, made him a celebrity scientist.
+
+## Is there a case for a new independence referendum?
+ - [https://www.bbc.co.uk/news/uk-scotland-scotland-politics-61953614?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-61953614?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 05:09:18+00:00
+
+BBC Scotland's Glenn Campbell considers the case for holding another vote.
+
+## Nato summit: Five challenges for the military alliance
+ - [https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-61924778?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-06-28 04:57:38+00:00
+
+After Russia's shock invasion of Ukraine, what issues are likely to dominate the Nato summit?
+

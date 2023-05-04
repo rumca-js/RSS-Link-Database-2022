@@ -1,0 +1,233 @@
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## Russia invasion: Frontline Ukraine city holds breath amid attack
+ - [https://www.bbc.co.uk/news/world-europe-60516704?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60516704?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 23:14:16+00:00
+
+People in Kostyantynivka are no strangers to war, but Russia's attack has left them fearing for the future.
+
+## Ros Atkins on... how Ukraine became the front line between the West and Russia
+ - [https://www.bbc.co.uk/news/world-europe-60518078?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60518078?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 23:09:08+00:00
+
+Russia has invaded Ukraine after weeks of escalating tensions between the two countries.
+
+## Ukraine conflict: Your guide to understanding the story
+ - [https://www.bbc.co.uk/news/world-europe-60513807?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60513807?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 20:43:51+00:00
+
+Russia has launched a full-scale attack on its neighbour. Here's what you need to know on day one.
+
+## Invasion provokes fear and anger for Ukrainians in UK
+ - [https://www.bbc.co.uk/news/uk-60512869?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-60512869?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 20:00:22+00:00
+
+Ukrainians in the UK tell the BBC of their frustration and fear after Russia began its invasion.
+
+## George Floyd’s death: What did other three officers do?
+ - [https://www.bbc.co.uk/news/world-us-canada-60499386?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-60499386?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 19:32:15+00:00
+
+These ex-officers are charged with violating George Floyd's civil rights. What did they do that day?
+
+## Ukraine crisis: How much Russian money is there in the UK?
+ - [https://www.bbc.co.uk/news/60348046?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/60348046?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 18:56:51+00:00
+
+The UK is imposing further sanctions against Russian interests, but some think more should be done.
+
+## Ukraine conflict: Shock and support on the streets of Moscow
+ - [https://www.bbc.co.uk/news/world-europe-60513632?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60513632?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 18:47:18+00:00
+
+The BBC talks to Russians in Moscow and Rostov to find out what they think of the assault on Ukraine.
+
+## In pictures: Destruction and fear as war hits Ukraine
+ - [https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 18:28:02+00:00
+
+Russian forces have crossed Ukraine's borders, bombing military targets near big cities.
+
+## Ukraine violence: Missiles, helicopters and gunfire
+ - [https://www.bbc.co.uk/news/world-europe-60508121?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60508121?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 18:13:08+00:00
+
+Footage from Ukraine as Russia attacks shows explosions, a fireball at an airport and a helicopter under fire.
+
+## Ukraine invaded: How Russia's invasion unfolded
+ - [https://www.bbc.co.uk/news/world-europe-60509374?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60509374?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 18:01:49+00:00
+
+Russia launches a full-scale attack on Ukraine - after previously saying it wouldn't. Here's how it unfolded.
+
+## Ukraine invasion: Is this a new Cold War, asks John Simpson
+ - [https://www.bbc.co.uk/news/world-europe-60515342?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60515342?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 17:49:17+00:00
+
+Vladimir Putin might turn Russia back to the days of the USSR, our world affairs editor writes.
+
+## Ukraine conflict: Many misleading images have been shared online
+ - [https://www.bbc.co.uk/news/60513452?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/60513452?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 17:44:42+00:00
+
+Social media users have posted false and misleading videos and images as Russia invades Ukraine.
+
+## Quiz of the week: Who will play the Queen's Platinum Jubilee concert?
+ - [https://www.bbc.co.uk/news/world-60508921?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-60508921?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 17:09:36+00:00
+
+How closely have you been paying attention to what's been going on during the past seven days?
+
+## Eurovision: Russia can compete despite invasion of Ukraine
+ - [https://www.bbc.co.uk/news/entertainment-arts-60514388?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-60514388?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 16:56:14+00:00
+
+Organisers of the song contest say Russia will be allowed to participate at the show in Italy in May.
+
+## How hard will it be to defend Ukraine from Russian invasion?
+ - [https://www.bbc.co.uk/news/world-europe-60492860?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60492860?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 12:29:10+00:00
+
+Ukraine is outgunned and outnumbered - and the invasion by Russian forces threatens to be bloody.
+
+## The Papers: 'State of emergency' and Putin goes 'full tonto'
+ - [https://www.bbc.co.uk/news/blogs-the-papers-60501637?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-60501637?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 06:20:48+00:00
+
+Fears of a Russian invasion of Ukraine and a jibe from the UK defence secretary lead the papers.
+
+## Ukraine conflict: Russia announces special military operation in Donbas
+ - [https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 06:07:16+00:00
+
+Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack.
+
+## New sickle cell treatment given to first patients in England
+ - [https://www.bbc.co.uk/news/health-60498916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-60498916?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 06:06:21+00:00
+
+Crizanlizumab is thought to cut visits to A&amp;E by 40% for patients with the blood disorder.
+
+## Ukraine conflict: BBC correspondent woken by loud thud in Donbas region
+ - [https://www.bbc.co.uk/news/world-europe-60501630?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-60501630?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 06:00:17+00:00
+
+BBC eastern Europe correspondent Sarah Rainsford reports from Kramatorsk in Ukraine's Donbas region.
+
+## Oil soars past $100 after Russia orders troops into Ukraine
+ - [https://www.bbc.co.uk/news/business-60502451?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-60502451?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 04:55:37+00:00
+
+This comes amid economic sanctions and moves to block a key Russian gas pipeline.
+
+## Facebook accused of blacklisting OnlyFans’ rivals
+ - [https://www.bbc.co.uk/news/uk-60497274?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-60497274?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 04:13:30+00:00
+
+​​It is claimed Facebook colluded with OnlyFans to disable social accounts of adult entertainers working for rivals, BBC News has learned.
+
+## Government climate advisers say cut fossil fuels to lower energy bills
+ - [https://www.bbc.co.uk/news/science-environment-60497058?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-60497058?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 03:22:08+00:00
+
+The government's climate change advisers say new oil and gas in the North Sea would not lower bills.
+
+## Australia floods: Surfers save elderly man from raging current
+ - [https://www.bbc.co.uk/news/world-australia-60502647?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-60502647?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 03:10:35+00:00
+
+Drone footage shows the elderly man being dragged towards the sea, after a lagoon burst its banks.
+
+## Evictions rise: 'I was quite upset, it was panic mode'
+ - [https://www.bbc.co.uk/news/uk-politics-60375760?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-60375760?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 02:51:50+00:00
+
+Evictions of private tenants are returning to pre-pandemic levels, government figures show.
+
+## Foie gras and fur: Tory MPs urge ministers not to drop import ban
+ - [https://www.bbc.co.uk/news/uk-politics-60501617?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-60501617?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 02:15:00+00:00
+
+The government is set to abandon plans for an import ban - but some Conservatives say it must go ahead.
+
+## Duchess of Cornwall says Queen Consort title will help her causes
+ - [https://www.bbc.co.uk/news/uk-60482173?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-60482173?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 01:10:22+00:00
+
+The Duchess of Cornwall tells the BBC she is on a lifelong campaign for domestic violence victims.
+
+## Sunak says he 'firmly believes in lower taxes' despite April increase
+ - [https://www.bbc.co.uk/news/business-60498425?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-60498425?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:32:17+00:00
+
+The chancellor will pledge to deliver a lower tax economy amid pressure scrap rises in National Insurance.
+
+## Could you pledge not to fly on a plane for a whole year?
+ - [https://www.bbc.co.uk/news/business-60400458?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-60400458?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:07:13+00:00
+
+The growing number of people ditching air travel entirely or choosing to carbon-offset.
+
+## Covid: End of legal need to self-isolate in England
+ - [https://www.bbc.co.uk/news/uk-60500287?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-60500287?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:03:59+00:00
+
+All Covid legal restrictions are over in England, as part of the government's Living with Covid plan.
+
+## Students to pay off loans into their 60s, plans say
+ - [https://www.bbc.co.uk/news/education-60498245?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/education-60498245?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:03:46+00:00
+
+The government announces a shake-up of student finance in England to reduce the bill for taxpayers.
+
+## The infinite chaos of Greek football: How the latest hope for change was lost
+ - [https://www.bbc.co.uk/sport/football/60483819?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/60483819?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:02:14+00:00
+
+In 2021 a national football hero was brought in to clean up the Greek game. Six months later he resigned, defeated by the task.
+
+## Why China matters in the Ukraine conflict
+ - [https://www.bbc.co.uk/news/world-asia-china-60500307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-60500307?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:01:20+00:00
+
+Beijing does billions of dollars of trade and business with both Kyiv and Moscow.
+
+## Jason Kenny: Great Britain's most successful Olympian retires
+ - [https://www.bbc.co.uk/sport/cycling/60470420?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cycling/60470420?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-02-24 00:01:16+00:00
+
+Jason Kenny, Great Britain's most successful Olympian of all time, retires to take up a coaching job with British Cycling.
+

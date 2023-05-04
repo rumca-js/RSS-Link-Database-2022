@@ -1,0 +1,93 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## DC FanDome 2022 Has Been Canceled
+ - [https://www.gamespot.com/articles/dc-fandome-2022-has-been-canceled/1100-6507077/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dc-fandome-2022-has-been-canceled/1100-6507077/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 22:19:00+00:00
+
+<p>DC's FanDome event is a huge undertaking for the comic company, raking in tens of millions of views across 220 countries and in 12 languages. After just two years though, Warner Bros. Discovery appears to be putting the event on pause, if not canceling it for good, according to a statement from the company (via <a href="https://www.indiewire.com/2022/09/dc-fandome-2022-canceled-1234757631/">IndieWire</a>)</p><p>"With the return of in-person events, Warner Bros. Discovery is excited to be able
+
+## Assassin’s Creed Mirage Confirmed - Trailer At Ubisoft Forward? | GameSpot News
+ - [https://www.gamespot.com/videos/assassins-creed-mirage-confirmed-trailer-at-ubisoft-forward-gamespot-news/2300-6459357/](https://www.gamespot.com/videos/assassins-creed-mirage-confirmed-trailer-at-ubisoft-forward-gamespot-news/2300-6459357/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 21:03:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4029956-news0901_v0.jpg" width="480" /> Assassin’s Creed Mirage has been confirmed, Zelda remake rumors have surfaced again and a Halo Infinite’s couch co-op has been canceled.
+
+## New On Netflix In September 2022: Cobra Kai Season 5, Hunter X Hunter And Other Classic Animes
+ - [https://www.gamespot.com/articles/new-on-netflix-in-september-2022-cobra-kai-season-5-hunter-x-hunter-and-other-classic-animes/1100-6507073/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-on-netflix-in-september-2022-cobra-kai-season-5-hunter-x-hunter-and-other-classic-animes/1100-6507073/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 20:38:00+00:00
+
+<p dir="ltr">Netflix is getting even bigger in September, with more new movies and TV shows to watch--including original content.</p><p dir="ltr">On September 9, Cobra Kai comes back for Season 5. A synopsis for the season reads: "As Terry leads Cobra Kai into a new regime, Daniel, Johnny and an old ally join forces in a battle that goes way beyond the mat." Netflix released <a href="https://www.gamespot.com/articles/netflixs-cobra-kai-season-5-kicks-off-with-first-images/1100-6506284/">some ima
+
+## Genshin Impact - Jadeplume Terrorshroom Boss Guide
+ - [https://www.gamespot.com/articles/genshin-impact-jadeplume-terrorshroom-boss-guide/1100-6507035/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/genshin-impact-jadeplume-terrorshroom-boss-guide/1100-6507035/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 20:14:00+00:00
+
+<p>The Jadeploom Terrorshroom is one of <a href="https://www.gamespot.com/genshin-impact/">Genshin Impact</a>'s new normal bosses found in <a href="https://www.gamespot.com/articles/genshin-impact-3-0-sumerus-release-date-characters-and-everything-we-know/1100-6506499/">Sumeru</a> after the <a href="https://www.gamespot.com/articles/genshin-impact-3-0-pulls-us-back-in-with-sumerus-tangled-vines/1100-6506821/">version 3.0 update</a>. But despite its name, this enemy isn't scary in the slightest. 
+
+## Tchia Gameplay Walkthrough Shows Off Glider And Soul Jumping
+ - [https://www.gamespot.com/articles/tchia-gameplay-walkthrough-shows-off-glider-and-soul-jumping/1100-6507072/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/tchia-gameplay-walkthrough-shows-off-glider-and-soul-jumping/1100-6507072/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 20:02:00+00:00
+
+<p dir="ltr">Indie studio Awaceb released its upcoming game <a href="https://store.steampowered.com/app/1496590/Tchia/">Tchia</a>'s gameplay walkthrough--a 10-minute video focused on exploration tools in a New Caledonian-inspired setting. Tchia takes place in a tropical open world and follows a young girl's journey to rescue her father from the archipelago's cruel ruler, Meavora.</p><p dir="ltr">In the gameplay walkthrough, Tchia explored and traversed the island with a glider, slingshots that c
+
+## Harry Potter Club Members Will Receive Exclusive Rewards In Hogwarts Legacy
+ - [https://www.gamespot.com/articles/harry-potter-club-members-will-receive-exclusive-rewards-in-hogwarts-legacy/1100-6507071/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/harry-potter-club-members-will-receive-exclusive-rewards-in-hogwarts-legacy/1100-6507071/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 20:01:00+00:00
+
+<p>In a new featurette, Warner Bros. and Avalanche revealed new features on the houses available in Hogwarts Legacy, as well as exclusive rewards available to Harry Potter Club members.</p><p>The video revealed that the Hagrid's Magical Creatures Motorbike Adventure ride located at Universal Orlando can be found in-game alongside other hidden references for fans to discover. In addition to finding tons of Easter eggs, players will be able to link their Harry Potter Fan Club account with their Wa
+
+## House Of The Dragon May Be A Prequel, But It Can Still Keep Us Guessing--Here's How
+ - [https://www.gamespot.com/articles/house-of-the-dragon-may-be-a-prequel-but-it-can-still-keep-us-guessing-heres-how/1100-6507075/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/house-of-the-dragon-may-be-a-prequel-but-it-can-still-keep-us-guessing-heres-how/1100-6507075/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 20:01:00+00:00
+
+<p dir="ltr">That <a href="https://www.gamespot.com/articles/house-of-the-dragon-is-hbos-biggest-new-series-premiere-ever/1100-6506746/">blockbuster first episode of House of the Dragon</a> went down well enough, but it didn't answer the single biggest question about this show: why does it exist? Why do this story specifically, seemingly just another story in the Game of Thrones universe, instead of a story that might be more immediately relevant to the main series?</p><p dir="ltr">And why craft
+
+## Pokemon Go’s Psychic Spectacular Event Returns In September
+ - [https://www.gamespot.com/articles/pokemon-gos-psychic-spectacular-event-returns-in-september/1100-6507058/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-gos-psychic-spectacular-event-returns-in-september/1100-6507058/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 20:00:00+00:00
+
+<p dir="ltr">Niantic is bringing back Pokemon Go's Psychic Spectacular event from 10 AM on September 6 to 8 PM on September 12 local time. The Psychic Spectacular events have always featured Psychic-type Pokemon, and this upcoming one will be no exception. September's event will feature Deoxys and Mega Alakazam. A new Shiny Elgyem will also be making its first debut ever in Pokemon Go.</p><p dir="ltr">A special Deoxys raid day will also occur on September 11 from 2 PM to 5 PM local time. Deoxys 
+
+## Every Free Game For Xbox, PlayStation, PC, And Switch (September 2022)
+ - [https://www.gamespot.com/articles/every-free-game-for-xbox-playstation-pc-and-switch-september-2022/1100-6502774/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/every-free-game-for-xbox-playstation-pc-and-switch-september-2022/1100-6502774/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 19:58:00+00:00
+
+<p>While gaming can get quite pricey, these days there's almost always something great that you can add to your library without spending a dime. Entirely free games pop up every single week thanks to the <a href="https://www.gamespot.com/articles/2-free-games-are-up-for-grabs-at-the-epic-games-store-this-week/1100-6476419/">Epic Games Store</a>, and with the help of bargain friendly subscription services, there are literally hundreds of games out there that come as perks with services on Xbox, P
+
+## Apex Legends Mobile: All Hyperbeat Store And VIP Store Rewards
+ - [https://www.gamespot.com/gallery/apex-legends-mobile-all-hyperbeat-store-and-vip-store-rewards/2900-4302/](https://www.gamespot.com/gallery/apex-legends-mobile-all-hyperbeat-store-and-vip-store-rewards/2900-4302/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 19:57:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1752/17528202/4029856-hyperbeatstorethumb.jpeg" /><br /><em>A VIP Pass will grant you access to the VIP Store, which contains even more season-exclusive cosmetics and loot.</em><br /><h3><p><a href="https://www.gamespot.com/games/apex-legends-mobile/">Apex Legends Mobile</a> Season 2.5: <a href="https://www.gamespot.com/articles/apex-legends-mobile-releases-hyperbeat-gameplay-trailer/1100-6506725/">Hyperbeat</a> launched last week, brin
+
+## Genshin Impact - Electro Regisvine Boss Guide
+ - [https://www.gamespot.com/articles/genshin-impact-electro-regisvine-boss-guide/1100-6507074/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/genshin-impact-electro-regisvine-boss-guide/1100-6507074/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 19:49:00+00:00
+
+<p>The <a href="https://www.gamespot.com/genshin-impact/">Genshin Impact</a> version <a href="https://www.gamespot.com/articles/genshin-impact-3-0-pulls-us-back-in-with-sumerus-tangled-vines/1100-6506821/">3.0 update</a> has added yet another plant boss to Teyvat: the Electro Regisvine. <a href="https://www.gamespot.com/articles/genshin-impact-3-0-sumerus-release-date-characters-and-everything-we-know/1100-6506499/">Sumeru</a>'s Regisvine is slightly tougher than the ones found in Mondstadt and 
+
+## Bungie Wants Destiny 2: Lightfall To Feel Like Blade Runner Meets Independence Day
+ - [https://www.gamespot.com/articles/bungie-wants-destiny-2-lightfall-to-feel-like-blade-runner-meets-independence-day/1100-6507069/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/bungie-wants-destiny-2-lightfall-to-feel-like-blade-runner-meets-independence-day/1100-6507069/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 19:48:00+00:00
+
+<p dir="ltr">It was back during the showcase for the <a href="https://www.gamespot.com/reviews/destiny-2-beyond-light-review-time-loop/1900-6417616/">Beyond Light expansion</a> in 2020 that Bungie first gave an indication of where its overall story for <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a> would be headed over the next few years. It was the first time the developer mentioned <a href="https://www.gamespot.com/reviews/destiny-2-the-witch-queen-review-queens-gambit/1900-
+
+## Amazon Prime Members Can Stream 6 Games For Free This Month
+ - [https://www.gamespot.com/articles/amazon-prime-members-can-stream-6-games-for-free-this-month/1100-6507070/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/amazon-prime-members-can-stream-6-games-for-free-this-month/1100-6507070/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2022-09-01 19:42:00+00:00
+
+<p>The Prime Gaming Channel's September game-streaming lineup is live now. Amazon Prime subscribers can stream six games at no additional cost this month. This month’s lineup includes platformers new and old, a few racing games, and a massive action RPG for Prime members to check out on its cloud streaming service. You can stream these games on PC, Mac, iOS, Android, Amazon Fire devices, and even some Samsung TVs.</p><h2 dir="ltr">Amazon Luna Prime Gaming Channel games for September 2022</h2><p 
+

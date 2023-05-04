@@ -1,0 +1,90 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## USB4 leaps ahead of Thunderbolt with 80Gbps standard
+ - [https://www.pcworld.com/article/919864/usb4-leaps-ahead-of-thunderbolt-with-80gbps-standard.html](https://www.pcworld.com/article/919864/usb4-leaps-ahead-of-thunderbolt-with-80gbps-standard.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 17:51:28+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Until now, USB4 matched Thunderbolt in terms of bandwidth. Now, it&rsquo;s leapt ahead, with USB4 Version 2.0.</p>
+
+
+
+<p>The USB Promoter Group announced USB4 Version 2.0 on Thursday, a specification that will allow for up to 80Gbps to be transferred over the USB-C connector that is commonly in use on PCs and smartphones. The standard will be backwards compatible with USB4 Vers
+
+## Google removes malicious Chrome extensions with 1.4 million users
+ - [https://www.pcworld.com/article/919764/google-removes-malicious-chrome-extensions-with-millions-of-users.html](https://www.pcworld.com/article/919764/google-removes-malicious-chrome-extensions-with-millions-of-users.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 15:11:45+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>By now you probably know that you need to exercise caution when installing new programs on your computer. But savvy web users know that the same thing applies to web browser extensions &mdash; which are, in a way, merely smaller programs on a more specific platform. Such is the case with a series of five Chrome browser extensions Google recently removed from its official Chrome
+
+## Dell XPS 13 Plus laptops are suffering serious screen issues
+ - [https://www.pcworld.com/article/919715/dell-xps-13-plus-laptops-screen-issues.html](https://www.pcworld.com/article/919715/dell-xps-13-plus-laptops-screen-issues.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 14:50:41+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Auto industry experts will tell you that if you buy a brand new car in its first model year, you should expect to encounter some weird quality issues. Something similar applies to gadgets. Take the radically redesigned XPS 13 Plus, for example: Dell&rsquo;s streamlined take on its perennially popular ultraportable appears to be having some widespread issues with its high-end OL
+
+## Twitter is finally testing an edit button—but you have to pay for it
+ - [https://www.pcworld.com/article/919703/tk-38.html](https://www.pcworld.com/article/919703/tk-38.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 14:39:25+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Have the gods finally answered our prayers? Maybe so. In a shocking turn of events, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blog.twitter.com/en_us/topics/product/2022/twitter-new-edit-tweet-feature-only-test&amp;xcust=2-1-919703-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Twitter finally reveals an edit button</a>. It seems like 
+
+## The best SSDs: Reviews and buying advice
+ - [https://www.pcworld.com/article/407542/best-ssds.html](https://www.pcworld.com/article/407542/best-ssds.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Switching to a solid-state drive is the best upgrade you can make for your PC. These wondrous devices speed up boot times, improve the responsiveness of your programs and games, and generally make your computer feel fast. But not all solid-state drives are the same. You can spend big to achieve read and write speeds that reach a whole other level, or you can find top-notch SSDs
+
+## Escape reality with this $140 HP curved gaming monitor
+ - [https://www.pcworld.com/article/919605/tk-37.html](https://www.pcworld.com/article/919605/tk-37.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 13:46:57+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;ve been shopping around for a curved gaming monitor, you&rsquo;re in luck, as we&rsquo;ve got a fantastic deal for you today. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Sceptre-DisplayPort-FreeSync-Speakers-C248B-FWT168/dp/B09HR8RC46?ref_=Oct_DLandingS_D_ba9c10f8_63&amp;smid=ATVPDKIKX0DER&amp;xcust=2-1-919605-1-0-0&amp;s
+
+## Tested: Intel 11th-gen vs. 12th-gen CPUs in the Framework laptop
+ - [https://www.pcworld.com/article/836251/intel-11th-gen-vs-12th-gen-cpu-framework-laptop.html](https://www.pcworld.com/article/836251/intel-11th-gen-vs-12th-gen-cpu-framework-laptop.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s universally accepted that comparing CPUs across laptops is nigh impossible. Differences in cooling and overall design between laptops make it almost impossible to separate pure CPU performance from the whole picture. When you test a laptop, you&rsquo;re testing it as a sum of its parts. &nbsp;</p>
+
+
+
+<p>But what if you could take the exact same laptop, test the CPU, 
+
+## Speed up your PC with this 60-second tune-up tip
+ - [https://www.pcworld.com/article/918588/how-to-disable-windows-startup-apps.html](https://www.pcworld.com/article/918588/how-to-disable-windows-startup-apps.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Got a minute to spare? Let&rsquo;s add some extra pep to your Windows PC by preventing it from launching unnecessary apps at startup.</p>
+
+
+
+<p>Slimming down your startup process will of course lead to faster boot times, but it can also help unclutter your taskbar or menu bar, while also freeing up processing power from programs you seldom use.</p>
+
+
+
+<p>You don&rsquo;t even ne
+
+## Lenovo’s radical ThinkPad X1 Fold nabs a much larger OLED screen
+ - [https://www.pcworld.com/article/918287/tk-35.html](https://www.pcworld.com/article/918287/tk-35.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-01 04:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Today, Lenovo unveiled the latest version of the ThinkPad X1 Fold. Unlike <a href="https://www.pcworld.com/article/394141/the-ultra-mobile-lenovo-thinkpad-x1-fold-changed-how-i-work-from-home.html">previous iterations of the device</a>, this model has a much bigger screen at 16.3-inches. According to the laptop manufacturer, it&rsquo;s about 22 percent larger. That&rsquo;s a go
+

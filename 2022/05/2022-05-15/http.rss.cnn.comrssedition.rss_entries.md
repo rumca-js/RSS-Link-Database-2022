@@ -1,0 +1,149 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Rapper Lil Keed dead at 24, record label says
+ - [https://www.cnn.com/2022/05/15/us/lil-keed-rapper-death/index.html](https://www.cnn.com/2022/05/15/us/lil-keed-rapper-death/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 23:45:38+00:00
+
+Atlanta-based rapper Lil Keed died Friday at the age of 24, according to a tweet Sunday from his record label Young Stoner Life (YSL).
+
+## At least 2 dead, multiple people injured in shooting at a Texas flea market, sheriff says
+ - [https://www.cnn.com/2022/05/15/us/texas-flea-market-shooting/index.html](https://www.cnn.com/2022/05/15/us/texas-flea-market-shooting/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 22:44:50+00:00
+
+A shooting at a flea market in Harris County, Texas, Sunday left multiple people injured and at least two dead, according to a tweet from the sheriff.
+
+## Who's who in the Michael Sussmann trial
+ - [https://www.cnn.com/2022/05/15/politics/michael-sussmann-trial-who-is-who/index.html](https://www.cnn.com/2022/05/15/politics/michael-sussmann-trial-who-is-who/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 21:32:53+00:00
+
+The trial of Hillary Clinton campaign lawyer Michael Sussmann kicks off Monday in Washington, DC, and will feature a cast of characters related to the 2016 election.
+
+## The 10 Senate seats most likely to flip in 2022
+ - [https://www.cnn.com/2022/05/01/politics/senate-race-rankings-may-elections/index.html](https://www.cnn.com/2022/05/01/politics/senate-race-rankings-may-elections/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 21:14:56+00:00
+
+The month of May brings the first Senate primaries of the year. Ohio voted first, followed by a near weekly stream of contests that will shape the midterm battle for control of the chamber. By the end of the month, the general election matchups in almost half of this year's most competitive races will be set.
+
+## Melania Trump teases second term as first lady in first interview since leaving White House
+ - [https://www.cnn.com/2022/05/15/politics/melania-trump-reelection-nft-auction/index.html](https://www.cnn.com/2022/05/15/politics/melania-trump-reelection-nft-auction/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 19:28:03+00:00
+
+In Melania Trump's first interview since leaving the White House, the former first lady hinted that there is a chance she could live there again as former President Donald Trump teases a 2024 reelection bid.
+
+## Civilians -- plus two anxious meerkats -- endure searches and shelling as they flee Russia-occupied Kherson
+ - [https://www.cnn.com/2022/05/15/europe/ukraine-russia-kherson-evacuation-intl/index.html](https://www.cnn.com/2022/05/15/europe/ukraine-russia-kherson-evacuation-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 19:01:25+00:00
+
+Every day, hundreds, or even thousands, of people are trying to flee the Russian-occupied region of Kherson in southern Ukraine, gathering up whatever they can cram into their cars, or even piling onto tractors.
+
+## Trump could be facing an endorsement waterloo this week
+ - [https://www.cnn.com/2022/05/15/politics/trump-endorsement-oz-cawthorn-republican-primary/index.html](https://www.cnn.com/2022/05/15/politics/trump-endorsement-oz-cawthorn-republican-primary/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 17:37:30+00:00
+
+This past week, former President Donald Trump suffered his first high-profile endorsement defeat of 2022. Nebraska businessman Charles Herbster, who faced allegations of sexual misconduct by multiple women, lost the GOP nomination for governor.
+
+## GOP governor says that rape victims should have to carry baby to term
+ - [https://www.cnn.com/2022/05/15/politics/nebraska-abortion-ban-roe-v-wade-cnntv/index.html](https://www.cnn.com/2022/05/15/politics/nebraska-abortion-ban-roe-v-wade-cnntv/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 17:26:28+00:00
+
+• Thousands are expected to travel to this Illinois 'oasis' if Roe is struck down
+
+## Chelsea wins thrilling Women's FA Cup final with extra time victory over Manchester City
+ - [https://www.cnn.com/2022/05/15/football/chelsea-manchester-city-womens-fa-cup-final-spt-intl/index.html](https://www.cnn.com/2022/05/15/football/chelsea-manchester-city-womens-fa-cup-final-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 17:07:17+00:00
+
+Chelsea narrowly got the better of Manchester City in a thrilling Women's FA Cup final, as Australian star Sam Kerr's deflected strike secured a 3-2 win for Emma Hayes' side in extra time.
+
+## Zelensky says he called for recognition of Russia as a 'terrorist state' in meeting with US Senate GOP delegation
+ - [https://www.cnn.com/2022/05/14/politics/zelensky-ukraine-mcconnell-republican-senators/index.html](https://www.cnn.com/2022/05/14/politics/zelensky-ukraine-mcconnell-republican-senators/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 16:39:06+00:00
+
+Ukrainian President Volodymyr Zelensky has welcomed to Kyiv a congressional delegation led by Senate Minority Leader Mitch McConnell.
+
+## Elon Musk says Twitter legal team told him he violated an NDA
+ - [https://www.cnn.com/2022/05/15/business/elon-musk-twitter-nda/index.html](https://www.cnn.com/2022/05/15/business/elon-musk-twitter-nda/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 16:18:04+00:00
+
+Elon Musk on Saturday tweeted that Twitter's legal team accused him of violating a nondisclosure agreement by revealing that the sample size for the social media platform's checks on automated users was 100.
+
+## Opinion: Public enemy No. 1's descendant roils America
+ - [https://www.cnn.com/2022/05/15/opinions/public-enemy-number-one-inflation-column-galant/index.html](https://www.cnn.com/2022/05/15/opinions/public-enemy-number-one-inflation-column-galant/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 13:20:25+00:00
+
+In 1930, the Chicago Crime Commission branded gangster Al Capone, aka "Scarface," the city's first "Public Enemy No. 1," popularizing a phrase that's inspired countless songs, movies and more.
+
+## Former Australian cricket icon Andrew Symonds dies at the age of 46
+ - [https://www.cnn.com/2022/05/14/sport/andrew-symonds-cricketer-death-intk-hnk/index.html](https://www.cnn.com/2022/05/14/sport/andrew-symonds-cricketer-death-intk-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 13:07:22+00:00
+
+Former Australian cricketer Andrew Symonds has died at the age of 46, Cricket Australia announced Sunday.
+
+## California is in a water crisis, yet usage is way up. Officials are focused on the wrong problem, advocates say
+ - [https://www.cnn.com/2022/05/15/us/california-water-usage-increase-drought-climate/index.html](https://www.cnn.com/2022/05/15/us/california-water-usage-increase-drought-climate/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 12:50:16+00:00
+
+California is facing a crisis. Not only are its reservoirs already at critically low levels due to unrelenting drought, residents and businesses across the state are also using more water now than they have in seven years, despite Gov. Gavin Newsom's efforts to encourage just the opposite.
+
+## Novak Djokovic becomes just the fifth man in history to reach this milestone
+ - [https://www.cnn.com/2022/05/15/sport/novak-djokovic-reaches-1000-tour-wins-spt-intl/index.html](https://www.cnn.com/2022/05/15/sport/novak-djokovic-reaches-1000-tour-wins-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 11:19:35+00:00
+
+Novak Djokovic became just the fifth man in history to reach 1,000 Tour wins as he defeated Norway's Casper Ruud 6-4, 6-3 in the Italian Open semifinals.
+
+## Ukraine wins Eurovision Song Contest in wave of goodwill following invasion by Russia
+ - [https://www.cnn.com/2022/05/14/entertainment/ukraine-wins-eurovision-song-contest-2022-after-russian-invasion-intl/index.html](https://www.cnn.com/2022/05/14/entertainment/ukraine-wins-eurovision-song-contest-2022-after-russian-invasion-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 07:52:13+00:00
+
+Ukraine's folk-rap group Kalush Orchestra has won this year's Eurovision Song Contest, surfing a wave of goodwill from European nations to clinch the country's third win at the glitzy event.
+
+## China tensions loom as Japan's Okinawa marks 50 years since US handover
+ - [https://www.cnn.com/2022/05/15/asia/okinawa-marks-50th-anniversary-of-end-of-us-occupation-intl-hnk/index.html](https://www.cnn.com/2022/05/15/asia/okinawa-marks-50th-anniversary-of-end-of-us-occupation-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 07:18:26+00:00
+
+The Japanese island chain of Okinawa marked the 50th anniversary on Sunday of the end of US occupation and its return to Japan with ceremonies and celebrations amid growing worry about its proximity to an increasingly assertive China.
+
+## Ferrari's resurgence 'good for Formula One,' says Red Bull boss Christian Horner
+ - [https://www.cnn.com/2022/05/15/motorsport/christian-horner-ferrari-resurgence-formula-one-spt-intl/index.html](https://www.cnn.com/2022/05/15/motorsport/christian-horner-ferrari-resurgence-formula-one-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 07:01:16+00:00
+
+The Formula One season is only five races old, but it already has a different complexion compared to previous years.
+
+## Russia is spraying civilian areas with lethal metal darts
+ - [https://www.cnn.com/2022/05/15/europe/russian-flechettes-ukraine-irpin-intl-cmd/index.html](https://www.cnn.com/2022/05/15/europe/russian-flechettes-ukraine-irpin-intl-cmd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 04:08:22+00:00
+
+
+
+## 3 people shot in downtown Milwaukee outside NBA game
+ - [https://www.cnn.com/2022/05/14/us/milwaukee-shooting-nba-game/index.html](https://www.cnn.com/2022/05/14/us/milwaukee-shooting-nba-game/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 01:16:47+00:00
+
+Milwaukee police have taken a man into custody after three people, including a teenager, were shot Friday night near the arena where the Milwaukee Bucks were playing in the NBA Playoffs.
+
+## Kim Jong Un admits Covid outbreak is bringing 'turmoil' to North Korea
+ - [https://www.cnn.com/2022/05/14/asia/north-korea-covid-outbreak-explainer-intl-hnk/index.html](https://www.cnn.com/2022/05/14/asia/north-korea-covid-outbreak-explainer-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-05-15 00:31:12+00:00
+
+North Korea's first-reported Covid-19 outbreak is the "greatest turmoil" to befall the country since its founding more than 70 years ago, according to leader Kim Jong Un, as the isolated and impoverished nation scrambles to curb the spread of a highly transmissible virus that risks causing a major humanitarian crisis.
+

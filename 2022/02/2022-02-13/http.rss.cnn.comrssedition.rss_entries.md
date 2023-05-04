@@ -1,0 +1,107 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Meet Dobby, newborn aardvark who looks like 'Harry Potter' character
+ - [https://www.cnn.com/videos/world/2022/02/13/aardvark-dobby-chester-zoo-orig-jc.cnn](https://www.cnn.com/videos/world/2022/02/13/aardvark-dobby-chester-zoo-orig-jc.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 22:39:37+00:00
+
+The first-ever aardvark born at the Chester zoo in England was named Dobby for his "uncanny resemblance" to the Harry Potter character.
+
+## Most Americans have come out ahead economically in the pandemic, despite inflation
+ - [https://www.cnn.com/2022/02/13/politics/us-economy-pandemic-politics/index.html](https://www.cnn.com/2022/02/13/politics/us-economy-pandemic-politics/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 20:57:14+00:00
+
+Public discontent with America's pandemic-battered economy obscures the good news: Even after inflation, most of the country has been coming out ahead.
+
+## Why shrugging off Joe Rogan's use of the n-word is so dangerous
+ - [https://www.cnn.com/2022/02/13/us/joe-rogan-n-word-blake-cec/index.html](https://www.cnn.com/2022/02/13/us/joe-rogan-n-word-blake-cec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 18:50:03+00:00
+
+The podcaster Joe Rogan did not join a mob that forced lawmakers to flee for their lives. He never carried a Confederate flag inside the US Capitol rotunda. No one died trying to stop him from using the n-word.
+
+## Former Fox anchor finds network's coverage of Canada protests 'ironic'
+ - [https://www.cnn.com/videos/media/2022/02/13/gretchen-carlson-fox-canada-protests-coverage-rs-vpx.cnn](https://www.cnn.com/videos/media/2022/02/13/gretchen-carlson-fox-canada-protests-coverage-rs-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 17:24:56+00:00
+
+Former Fox anchor Gretchen Carlson reacts to the network's extensive coverage of the trucker-inspired protests in Canada.
+
+## 'Don't you have an obligation, sir?': Jake Tapper hits at Biden on probe dismissal
+ - [https://www.cnn.com/videos/politics/2022/02/13/tapper-homily-biden-dismisses-afghanistan-withdrawal-probe-sotu-vpx.cnn](https://www.cnn.com/videos/politics/2022/02/13/tapper-homily-biden-dismisses-afghanistan-withdrawal-probe-sotu-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 16:37:58+00:00
+
+CNN's Jake Tapper criticizes President Biden's dismissal of the US Army probe outlining failures with the US withdrawal from Afghanistan.
+
+## Teenager tracking Elon Musk's jet explains why he's doing it
+ - [https://www.cnn.com/videos/business/2022/02/12/teenager-tracking-elon-musks-jet-on-twitter.cnn](https://www.cnn.com/videos/business/2022/02/12/teenager-tracking-elon-musks-jet-on-twitter.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 16:22:40+00:00
+
+A teenager figured out how to track the movements of Elon Musk's private jet and posted the information on Twitter. Musk personally reached out to ask him to stop. Jack Sweeney says he is holding out for a free Tesla.
+
+## Trump's unorthodox phone habits complicate January 6 investigation
+ - [https://www.cnn.com/2022/02/13/politics/trump-telephone-records-capitol-riot-investigation/index.html](https://www.cnn.com/2022/02/13/politics/trump-telephone-records-capitol-riot-investigation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 14:09:06+00:00
+
+
+
+## NFT marketplace suspends most sales, citing 'rampant' fakes and plagiarism
+ - [https://www.cnn.com/2022/02/13/tech/nft-marketplace-plagiarism/index.html](https://www.cnn.com/2022/02/13/tech/nft-marketplace-plagiarism/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 14:08:37+00:00
+
+The platform which sold an NFT of Jack Dorsey's first tweet for $2.9 million has halted most transactions because people were selling tokens of content that did not belong to them, its founder said, calling this a "fundamental problem" in the fast-growing digital assets market.
+
+## 'Lovely...innit?': See Adele get grilled over diamond on her ring finger
+ - [https://www.cnn.com/videos/celebrities/2022/02/12/adele-engaged-rumors-rich-paul-graham-norton-orig-kj.cnn](https://www.cnn.com/videos/celebrities/2022/02/12/adele-engaged-rumors-rich-paul-graham-norton-orig-kj.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 13:33:33+00:00
+
+The singer stopped by The Graham Norton show, where Norton pointed out the large diamond on Adele's finger and probed for a relationship update.
+
+## Mezzanine floor collapses at London bar, leaving 13 injured
+ - [https://www.cnn.com/2022/02/13/europe/london-bar-mezzanine-floor-collapses-scli-intl/index.html](https://www.cnn.com/2022/02/13/europe/london-bar-mezzanine-floor-collapses-scli-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 11:30:30+00:00
+
+A mezzanine floor collapsed at a bar in east London on Saturday, leaving more than a dozen people injured.
+
+## ConConnect wants to become the LinkedIn for the formerly incarcerated
+ - [https://www.cnn.com/2022/02/13/business/conconnect-social-network-formerly-incarcerated/index.html](https://www.cnn.com/2022/02/13/business/conconnect-social-network-formerly-incarcerated/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 10:01:26+00:00
+
+When Andre Peart left New York state Bare Hill Correctional Facility in 2018, he didn't have anywhere to go.
+
+## West trying to challenge Russia in the disinformation realm
+ - [https://www.cnn.com/2022/02/13/europe/ukraine-russia-disinformation-us-uk-intelligence-cmd-gbr-intl/index.html](https://www.cnn.com/2022/02/13/europe/ukraine-russia-disinformation-us-uk-intelligence-cmd-gbr-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 09:13:39+00:00
+
+Corpses strewn through wrecked buildings in the aftermath of an apparently deadly explosion. Distraught mourners, grieving for lost loved ones. And amid the smoldering ruins, evidence of Western military equipment.
+
+## GOP Senate candidate runs ad featuring armed 'showdown' with Dems
+ - [https://www.cnn.com/videos/politics/2022/02/12/arizona-senate-candidate-ad-guttenberg-intv-sot-acostanr-vpx.cnn](https://www.cnn.com/videos/politics/2022/02/12/arizona-senate-candidate-ad-guttenberg-intv-sot-acostanr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 01:59:58+00:00
+
+CNN's Jim Acosta talks to Fred Guttenberg, father of Parkland victim Jaime Guttenberg, about Republican Arizona Senate candidate Jim Lamon's campaign ad depicting him in a gunslinging "showdown" with various Democrats.
+
+## 'Water closet-gate': Jim Acosta pokes fun at Trump for reportedly flushing documents
+ - [https://www.cnn.com/videos/politics/2022/02/12/trump-white-house-documents-holdon-stepback-acostanr-vpx.cnn](https://www.cnn.com/videos/politics/2022/02/12/trump-white-house-documents-holdon-stepback-acostanr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 00:52:20+00:00
+
+CNN's Jim Acosta looks at reporting that Trump destroyed White House documents and took some marked "top secret" to Mar-A-Lago.
+
+## In India, comedians can face arrest for making the wrong kind of jokes
+ - [https://www.cnn.com/2022/02/12/india/india-comedians-crackdown-intl-hnk-dst/index.html](https://www.cnn.com/2022/02/12/india/india-comedians-crackdown-intl-hnk-dst/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-13 00:14:47+00:00
+
+This time last year Nalin Yadav was detained in an Indian prison, not knowing when he would be let out.
+

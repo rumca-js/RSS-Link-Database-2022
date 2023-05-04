@@ -1,0 +1,387 @@
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Jury finds that Sarah Palin failed to prove her defamation case against the New York Times
+ - [https://www.cnn.com/2022/02/15/media/sarah-palin-new-york-times-verdict/index.html](https://www.cnn.com/2022/02/15/media/sarah-palin-new-york-times-verdict/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 22:37:01+00:00
+
+Jurors have reached a verdict in Sarah Palin's defamation suit against the New York Times.
+
+## February's snow moon peaks this week
+ - [https://www.cnn.com/2022/02/15/world/full-moon-february-snow-moon-scn/index.html](https://www.cnn.com/2022/02/15/world/full-moon-february-snow-moon-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 21:53:51+00:00
+
+Point your cameras toward the sky as February's full moon, nicknamed the snow moon, will make its appearance from midnight Tuesday to midnight Thursday, according to NASA.
+
+## Alec Baldwin among those named in 'Rust' wrongful death lawsuit
+ - [https://www.cnn.com/2022/02/15/entertainment/rust-shooting-press-conference-halyna-hutchins-widow/index.html](https://www.cnn.com/2022/02/15/entertainment/rust-shooting-press-conference-halyna-hutchins-widow/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 21:43:13+00:00
+
+The family of Halyna Hutchins, the cinematographer killed on the set of the movie "Rust" last fall, has filed a wrongful death lawsuit against Alec Baldwin, the film's production companies, its producers, and other key members of the crew.
+
+## The 3G network shutdown will impact more than just phones
+ - [https://www.cnn.com/2022/02/15/tech/3g-network-shut-down/index.html](https://www.cnn.com/2022/02/15/tech/3g-network-shut-down/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 21:20:34+00:00
+
+The looming shutdown of 3G networks won't just impact older phones.
+
+## Biden delivers message to Russia: Ukraine is not a threat
+ - [https://www.cnn.com/videos/world/2022/02/15/biden-russia-ukraine-not-a-threat-diplomacy-sot-vpx.cnn](https://www.cnn.com/videos/world/2022/02/15/biden-russia-ukraine-not-a-threat-diplomacy-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 21:14:37+00:00
+
+President Joe Biden made an appeal for diplomacy to continue as the world watches to see if Russian President Vladimir Putin orders an invasion of neighboring Ukraine, and emphasized to Russian citizens that the US is not its enemy.
+
+## Sandy Hook families reach $73 million settlement with gun manufacturer
+ - [https://www.cnn.com/2022/02/15/us/sandy-hook-shooting-settlement-with-remington/index.html](https://www.cnn.com/2022/02/15/us/sandy-hook-shooting-settlement-with-remington/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 20:58:04+00:00
+
+The families of five children and four adults killed in the 2012 Sandy Hook Elementary School shooting have reached a $73 million settlement against the now-bankrupt gun manufacturer Remington and its four insurers, the plaintiffs' attorneys said Tuesday.
+
+## Prince Andrew and Virginia Giuffre agree to settlement of sex abuse lawsuit
+ - [https://www.cnn.com/2022/02/15/us/prince-andrew-virginia-giuffre/index.html](https://www.cnn.com/2022/02/15/us/prince-andrew-virginia-giuffre/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 20:40:39+00:00
+
+Prince Andrew and Virginia Giuffre have reached a settlement, according to a court document filed by Giuffre's attorneys Tuesday.
+
+## Avocados could become very hard to find in the US. Here's why
+ - [https://www.cnn.com/videos/business/2022/02/15/mexico-us-avocado-shortage-nr-rivers-intl-vpx.cnn](https://www.cnn.com/videos/business/2022/02/15/mexico-us-avocado-shortage-nr-rivers-intl-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 20:01:23+00:00
+
+Americans could soon see fewer avocados available at their local stores. CNN's Matt Rivers reports why the US suspended imports of the popular green fruit from Mexico.
+
+## "Fast & Furious" actor posts video before losing mom to Covid
+ - [https://www.cnn.com/videos/us/2022/02/15/actor-tyrese-gibson-mother-death-covid-orig-jc.cnn](https://www.cnn.com/videos/us/2022/02/15/actor-tyrese-gibson-mother-death-covid-orig-jc.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 19:57:58+00:00
+
+Actor Tyrese Gibson best known for his role in "Fast & Furious" shared the heartbreaking passing of his mother, Priscilla Murray after battling Covid-19 and pneumonia.
+
+## Meta agrees to pay $90 million to settle lawsuit over Facebook tracking users' online activity
+ - [https://www.cnn.com/2022/02/15/tech/facebook-internet-tracking-settlement/index.html](https://www.cnn.com/2022/02/15/tech/facebook-internet-tracking-settlement/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 19:56:40+00:00
+
+Facebook-parent Meta has agreed to pay $90 million to settle a decade-old class action lawsuit over a practice that allowed the social network to track users' activity across the internet, even if they had logged out of the platform.
+
+## New report shows alarming forecast for sea level rise along US coastline
+ - [https://www.cnn.com/2022/02/15/us/us-sea-level-rise-report-noaa-climate/index.html](https://www.cnn.com/2022/02/15/us/us-sea-level-rise-report-noaa-climate/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 19:37:25+00:00
+
+Sea level rise is accelerating. As oceans get warmer and ice sheets melt into the sea, water levels along the coast are creeping higher and higher, with significant impact for coastal communities and ecosystems.
+
+## Warren Buffett's Berkshire Hathaway perfectly timed an out-of-left-field investment
+ - [https://www.cnn.com/2022/02/15/investing/warren-buffett-berkshire-hathaway-activision-blizzard-microsoft/index.html](https://www.cnn.com/2022/02/15/investing/warren-buffett-berkshire-hathaway-activision-blizzard-microsoft/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 19:02:53+00:00
+
+Sometimes in investing, a little luck goes a long way. Just ask Warren Buffett. The Oracle of Omaha is set to make a handsome profit from a new investment in video game maker Activision Blizzard that Berkshire Hathaway made during the quarter before Microsoft announced its plans to buy it.
+
+## Hear statement from Prince Andrew in sexual abuse lawsuit settlement
+ - [https://www.cnn.com/videos/us/2022/02/15/prince-andrew-virginia-giuffre-sexual-abuse-lawsuit-settlement-vpx.cnn](https://www.cnn.com/videos/us/2022/02/15/prince-andrew-virginia-giuffre-sexual-abuse-lawsuit-settlement-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 18:38:26+00:00
+
+Prince Andrew and Virginia Giuffre have reached an undisclosed settlement in a sexual abuse lawsuit, according to a court document filed by Giuffre's attorneys. The lawsuit stemmed from the disturbing allegations against the late Jeffrey Epstein. CNN's Max Foster has more.
+
+## Tyrese Gibson's mom dies after battling Covid-19 and pneumonia
+ - [https://www.cnn.com/2022/02/15/entertainment/tyrese-gibson-mother-passes/index.html](https://www.cnn.com/2022/02/15/entertainment/tyrese-gibson-mother-passes/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 18:21:50+00:00
+
+Tyrese Gibson is mourning the death of his mother Priscilla Murray, who died on Monday from Covid-19 and pneumonia, according to the actor.
+
+## Donald Trump's financial and legal problems just got a lot worse
+ - [https://www.cnn.com/collections/trump-intl-021422/](https://www.cnn.com/collections/trump-intl-021422/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 18:11:43+00:00
+
+
+
+## Skiier's wrong turn costs dearly at Beijing
+ - [https://www.cnn.com/2022/02/15/sport/jarl-magnus-riiber-nordic-combined-joergen-graabak-spt-intl/index.html](https://www.cnn.com/2022/02/15/sport/jarl-magnus-riiber-nordic-combined-joergen-graabak-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 17:26:50+00:00
+
+We've all taken a wrong turn at some point in our lives, but Norwegian Jarl Magnus Riiber's navigational error proved costly in the Nordic combined men's individual large hill/10km competition at the Winter Olympics on Tuesday.
+
+## Ex-Honduras president agrees to extradition to the US
+ - [https://www.cnn.com/2022/02/15/americas/honduras-hernandez-president-extradition-us-intl/index.html](https://www.cnn.com/2022/02/15/americas/honduras-hernandez-president-extradition-us-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 17:19:50+00:00
+
+The former President of Honduras, Juan Orlando Hernández, opted on Tuesday to surrender to US authorities a day after they issued an extradition warrant for him.
+
+## Simone Biles and Jonathan Owens are engaged
+ - [https://www.cnn.com/2022/02/15/entertainment/simone-biles-jonathan-owens-engaged/index.html](https://www.cnn.com/2022/02/15/entertainment/simone-biles-jonathan-owens-engaged/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 15:42:35+00:00
+
+Congratulations are in order for Olympian Simone Biles and NFL player Jonathan Owens.
+
+## Naomi Campbell reflects on motherhood and her whirlwind career
+ - [https://www.cnn.com/style/article/naomi-campbell-british-vogue-intl-scli/index.html](https://www.cnn.com/style/article/naomi-campbell-british-vogue-intl-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 15:38:43+00:00
+
+Naomi Campbell has been revealed as the cover star for the latest edition of British Vogue -- and she's joined by a special guest.
+
+## Why Trump is obsessed with punishing these Republicans
+ - [https://www.cnn.com/videos/politics/2022/02/14/trump-republican-lawmakers-2022-election-cillizza-the-point-orig.cnn](https://www.cnn.com/videos/politics/2022/02/14/trump-republican-lawmakers-2022-election-cillizza-the-point-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 15:32:54+00:00
+
+Former President Donald Trump is working hard to unseat some Republican lawmakers in the 2022 elections. CNN's Chris Cillizza explains why Trump is still holding a grudge against them.
+
+## 'Insensitive' Van Gogh souvenirs removed from sale amid backlash
+ - [https://www.cnn.com/style/article/van-gogh-exhibit-mental-health-intl-scli/index.html](https://www.cnn.com/style/article/van-gogh-exhibit-mental-health-intl-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 14:57:36+00:00
+
+A London art gallery has removed some souvenirs relating to Vincent Van Gogh from its gift shop after they were branded insensitive and considered to be making light of the topic of mental health.
+
+## Justin Bieber almost single-handedly turned around Tim Hortons
+ - [https://www.cnn.com/2022/02/15/investing/justin-bieber-tim-hortons-sales/index.html](https://www.cnn.com/2022/02/15/investing/justin-bieber-tim-hortons-sales/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 14:07:52+00:00
+
+Tim Hortons is singing the Justin Bieber's praises Tuesday because his line of donuts just turned around the Canadian restaurant's fortunes.
+
+## Wanda Sykes, Amy Schumer and Regina Hall to host the Oscars
+ - [https://www.cnn.com/2022/02/15/entertainment/oscars-hosts/index.html](https://www.cnn.com/2022/02/15/entertainment/oscars-hosts/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 13:02:58+00:00
+
+And the Oscar host duties go to ... Wanda Sykes, Amy Schumer and Regina Hall.
+
+## Europe's new train routes for 2022
+ - [https://www.cnn.com/travel/article/europe-new-train-routes-2022/index.html](https://www.cnn.com/travel/article/europe-new-train-routes-2022/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 12:45:04+00:00
+
+What's the perfect accompaniment to Europe's gradual easing of its pandemic rules? A burgeoning international rail network for 2022.
+
+## Djokovic says he'd skip French Open and Wimbledon due to vaccine stance
+ - [https://www.cnn.com/2022/02/15/tennis/novak-djokovic-skip-wimbledon-french-open-spt-intl/index.html](https://www.cnn.com/2022/02/15/tennis/novak-djokovic-skip-wimbledon-french-open-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 10:23:50+00:00
+
+In an on-camera interview with the BBC, world No. 1 Novak Djokovic said he is willing to skip playing in the French Open or Wimbledon because of his vaccination stance.
+
+## Carlos Ortiz 'nailed on the back with a beer can' at Phoenix Open
+ - [https://www.cnn.com/2022/02/14/golf/carlos-ortiz-hole-in-one-beer-can-phoenix-open-spt-intl/index.html](https://www.cnn.com/2022/02/14/golf/carlos-ortiz-hole-in-one-beer-can-phoenix-open-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 10:07:57+00:00
+
+Carlos Ortiz says he was "nailed pretty hard on the back with a beer can," which had been thrown from the fans in celebration after he hit a hole-in-one at TPC Scottsdale in Arizona during the Phoenix Open.
+
+## White House to unveil multi-pronged approach to reduce emissions in the manufacturing sector
+ - [https://www.cnn.com/2022/02/15/politics/white-house-manufacturing-emissions/index.html](https://www.cnn.com/2022/02/15/politics/white-house-manufacturing-emissions/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 10:05:53+00:00
+
+The White House will unveil new efforts to reduce emissions in the manufacturing sector Tuesday, including nearly $10 billion in Department of Energy funding from President Joe Biden's signature infrastructure law aimed at "clean hydrogen" manufacturing.
+
+## Elon Musk has donated $5.7 billion in Tesla shares to charity
+ - [https://www.cnn.com/2022/02/15/business/elon-musk-charity-donation/index.html](https://www.cnn.com/2022/02/15/business/elon-musk-charity-donation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 10:05:14+00:00
+
+Tesla CEO Elon Musk has donated roughly $5.7 billion worth of the electric carmaker's shares to charity.
+
+## From submarines and amphibious landing ships to ballistic missiles and tanks, the build-up of Russian forces continues apace
+ - [https://www.cnn.com/2022/02/14/europe/russia-ukraine-troops-social-media-video-intl/index.html](https://www.cnn.com/2022/02/14/europe/russia-ukraine-troops-social-media-video-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 09:56:26+00:00
+
+The build-up of Russian forces close to the Ukrainian border continues apace, with everything from submarines and amphibious landing ships in the Black Sea to short-range ballistic missiles, tanks and howitzers around Ukraine's northeastern edges.
+
+## Stunning video shows 'ghost' village revealed by drought
+ - [https://www.cnn.com/videos/travel/2022/02/15/ghost-village-spain-portugal-winter-drought-sater-intl-ovn-pkg-vpx.cnn](https://www.cnn.com/videos/travel/2022/02/15/ghost-village-spain-portugal-winter-drought-sater-intl-ovn-pkg-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 09:38:30+00:00
+
+A ghost village that has emerged as drought has nearly emptied a dam on the Spanish-Portuguese border is drawing crowds of tourists with its eerie, gray ruins. Meteorologist Tom Sater has more.
+
+## A world on edge awaits Putin's critical move
+ - [https://www.cnn.com/2022/02/15/politics/russia-ukraine-politics-us-putin-diplomacy/index.html](https://www.cnn.com/2022/02/15/politics/russia-ukraine-politics-us-putin-diplomacy/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 09:27:37+00:00
+
+The world is suspended in an extraordinary moment of geopolitical limbo, on edge for a possible Russian invasion of Ukraine amid conflicting signals in Moscow, confusion in Kyiv and dire warnings from Washington.
+
+## Canadian officials move to block funding of protests against Covid-19 rules
+ - [https://www.cnn.com/collections/intl-canada-protests-02152022/](https://www.cnn.com/collections/intl-canada-protests-02152022/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 09:16:34+00:00
+
+
+
+## Canada-born slider wins gold for US after ​filing harassment complaint
+ - [https://www.cnn.com/2022/02/14/sport/kaillie-humphries-usa-canada-beijing-2022-spt-intl/index.html](https://www.cnn.com/2022/02/14/sport/kaillie-humphries-usa-canada-beijing-2022-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 09:03:56+00:00
+
+Canada-born Kaillie Humphries​, winner of the first-ever Olympic gold in the monobob, says she "never gave up" on herself.
+
+## Brother, who confessed to killing his social media star sister, freed by court
+ - [https://www.cnn.com/2022/02/15/asia/pakistan-qandeel-baloch-brother-acquittal-intl-hnk/index.html](https://www.cnn.com/2022/02/15/asia/pakistan-qandeel-baloch-brother-acquittal-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 08:51:28+00:00
+
+The brother of murdered social media star Qandeel Baloch has been freed by a Pakistan appeals court, three years after he was convicted of killing her for "bringing dishonor" to the family.
+
+## Celebrate yourself this day after Valentine's Day
+ - [https://www.cnn.com/2022/02/15/health/self-care-love-yourself-wellness/index.html](https://www.cnn.com/2022/02/15/health/self-care-love-yourself-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 08:48:25+00:00
+
+Hold the flowers and the chocolates and the sappy love poems. Forget Valentine's Day and Galentine's Day and the pressure to make plans and buy things and give unto others.
+
+## 'Dramatic acceleration' of Russian buildup prompts US to close Kyiv embassy
+ - [https://www.cnn.com/collections/intl-ukraine-021422/](https://www.cnn.com/collections/intl-ukraine-021422/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 07:29:47+00:00
+
+
+
+## South Korea fumes over cultural appropriation and 'biased judgments' at Beijing 2022
+ - [https://www.cnn.com/2022/02/14/sport/south-korea-china-beijing-2022-spt-intl/index.html](https://www.cnn.com/2022/02/14/sport/south-korea-china-beijing-2022-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 07:10:23+00:00
+
+South Korea may have clinched its first gold medal at Beijing 2022 last week, but the success came amid tensions with China over alleged cultural appropriation and "biased judgments" during the Winter Olympics.
+
+## Social media videos capture latest Russian military deployment near Ukraine
+ - [https://www.cnn.com/videos/world/2022/02/15/ukraine-russia-social-media-military-movements-mclean-pkg-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/02/15/ukraine-russia-social-media-military-movements-mclean-pkg-ovn-intl-hnk-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 07:04:27+00:00
+
+Amid the rising Russia-Ukraine tensions, social media posts captured by amateur videographers in Russia are helping shed light on Moscow's military mobilization toward the border with Ukraine. CNN's Scott McLean reports.
+
+## Ocasio-Cortez: 'Very real risk' US will not be a democracy in 10 years
+ - [https://www.cnn.com/videos/politics/2022/02/15/alexandria-ocasio-cortez-democracy-new-yorker-intvu-sot-dlt-vpx.cnn](https://www.cnn.com/videos/politics/2022/02/15/alexandria-ocasio-cortez-democracy-new-yorker-intvu-sot-dlt-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 07:03:59+00:00
+
+In an interview with David Remnick of "The New Yorker," Rep. Alexandria-Ocasio Cortez (D-NY) says there's a "very real risk" the United States will not still be a democracy in a decade. Don Lemon and CNN Senior Political Analyst Ron Brownstein discuss.
+
+## AirAsia flight in Malaysia rerouted after snake found on board plane
+ - [https://www.cnn.com/travel/article/airasia-malaysia-snake-plane-rerouted-intl-hnk/index.html](https://www.cnn.com/travel/article/airasia-malaysia-snake-plane-rerouted-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 07:01:02+00:00
+
+An AirAsia flight in Malaysia was re-routed after a snake was found on the plane, the airline has confirmed.
+
+## How 'Amapiano', South Africa's soulful sound, has become one of the hottest new music genres
+ - [https://www.cnn.com/2022/02/15/africa/amapiano-south-africa-music-genre-origins-spc-intl/index.html](https://www.cnn.com/2022/02/15/africa/amapiano-south-africa-music-genre-origins-spc-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 06:28:20+00:00
+
+A distinct sound is currently vibing on social feeds around the world: the deep house, log-drum driven basslines and soulful piano melodies of "Amapiano." While Amapiano dance challenges are currently sweeping TikTok, the streets of South Africa have been thrumming with its sound for years.
+
+## Suspect arrested after an Albuquerque stabbing spree that left 11 people wounded
+ - [https://www.cnn.com/2022/02/14/us/new-mexico-albuquerque-stabbings/index.html](https://www.cnn.com/2022/02/14/us/new-mexico-albuquerque-stabbings/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 06:04:57+00:00
+
+At least 11 people were stabbed Sunday in Albuquerque, New Mexico -- and police believe the same suspect was responsible for each attack.
+
+## Ottawa resident and protester squabble during CNN reporter's interview
+ - [https://www.cnn.com/videos/world/2022/02/15/canada-trudeau-emergencies-act-protests-newton-pkg-intl-ovn-vpx.cnn](https://www.cnn.com/videos/world/2022/02/15/canada-trudeau-emergencies-act-protests-newton-pkg-intl-ovn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 05:59:31+00:00
+
+Canadian Prime Minister Justin Trudeau has issued his most aggressive response yet to the so-called "Freedom Convoy" protests, invoking the government's Emergencies Act for the first time to try to end more than two weeks of blockades and demonstrations. The law can temporarily suspend people's freedom of movement or assembly and allows authorities to go after those who financially support the protests. CNN's Paula Newton has more.
+
+## Louisiana man jailed for 44 years on rape charges is freed
+ - [https://www.cnn.com/2022/02/14/us/vincent-simmons-rape-charges-dismissed-after-44-years/index.html](https://www.cnn.com/2022/02/14/us/vincent-simmons-rape-charges-dismissed-after-44-years/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 04:55:48+00:00
+
+Vincent Simmons, a Louisiana man who fought for 44 years to overturn his conviction on attempted aggravated rape charges, has had the judgment vacated and the charges have been dismissed, according to his attorneys Justin Bonus and Malcolm Larvadain.
+
+## Hundreds of birds suddenly drop from the sky
+ - [https://www.cnn.com/videos/world/2022/02/14/birds-fall-from-sky-mexico-orig-jc.cnn](https://www.cnn.com/videos/world/2022/02/14/birds-fall-from-sky-mexico-orig-jc.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 04:19:37+00:00
+
+Nearly 100 migratory birds were found after dropping mid-flight in Chihuahua, Mexico. Local authorities haven't confirmed what caused the birds' sudden death, Reuters reports.
+
+## Opinion: Putin could turn off Europe's gas tap. This is the solution
+ - [https://www.cnn.com/2022/02/14/opinions/putin-russia-gas-europe-climate-connolly/index.html](https://www.cnn.com/2022/02/14/opinions/putin-russia-gas-europe-climate-connolly/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 04:07:48+00:00
+
+As Russian troops remain camped across several of Ukraine's frontiers, Europe and the United States are scrambling to prevent an incursion, with a flurry of diplomatic efforts and by bolstering their own troops in nearby NATO countries.
+
+## Hollywood actor sentenced to 20 years for mutlimillion dollar Ponzi scheme
+ - [https://www.cnn.com/2022/02/14/media/ponzi-scheme-zachary-horwitz-sentenced/index.html](https://www.cnn.com/2022/02/14/media/ponzi-scheme-zachary-horwitz-sentenced/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 03:35:35+00:00
+
+Zachary Horwitz, a small-time actor who admitted to operating a multi-million dollar Ponzi scheme, was sentenced to 20 years in federal prison on Monday.
+
+## Pastor baptized people for decades using one wrong word. Now those are all considered invalid
+ - [https://www.cnn.com/2022/02/14/us/pastor-invalid-baptisms-resignation/index.html](https://www.cnn.com/2022/02/14/us/pastor-invalid-baptisms-resignation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 02:57:32+00:00
+
+A Catholic priest has resigned after a church investigation found he performed invalid baptisms throughout most of his more than 20-year career, according to Bishop Thomas Olmsted of the Diocese of Phoenix.
+
+## Popular Super Bowl ad crashes system
+ - [https://www.cnn.com/videos/media/2022/02/14/qr-code-coinbase-super-bowl-ad-kj-orig-moos-pkg-vpx.cnn](https://www.cnn.com/videos/media/2022/02/14/qr-code-coinbase-super-bowl-ad-kj-orig-moos-pkg-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 02:42:41+00:00
+
+Humans cheer and dogs bark at one weird Super Bowl ad that was so popular it crashed the advertiser's website. CNN's Jeanne Moos reports.
+
+## George Conway explains why he thinks this is worse than impeachment
+ - [https://www.cnn.com/videos/politics/2022/02/15/george-conway-accounting-firm-trump-org-sot-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/02/15/george-conway-accounting-firm-trump-org-sot-ac360-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 02:34:53+00:00
+
+CNN's John Berman and George Conway discuss possible implications of former President Donald Trump's long-time accounting firm informing the Trump Organization that it should no longer rely on nearly 10 years' worth of financial statements and that they would no longer be their accountants, citing a conflict of interest.
+
+## A skier slid hundreds of feet and off a 50-foot cliff during an avalanche. He survived
+ - [https://www.cnn.com/2022/02/14/us/colorado-skier-survives-avalanche-trnd/index.html](https://www.cnn.com/2022/02/14/us/colorado-skier-survives-avalanche-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 01:32:39+00:00
+
+A Colorado skier survived an avalanche that threw him off a 50-foot cliff and sent him sliding hundreds of feet.
+
+## Israeli nationalists clash with Palestinians over Jerusalem housing settlements
+ - [https://www.cnn.com/videos/world/2022/02/15/jerusalem-housing-tension-carey-pkg-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/02/15/jerusalem-housing-tension-carey-pkg-intl-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 01:04:39+00:00
+
+CNN's Andrew Carey reports on the tensions, that sometimes turn violent, between Israeli nationalists and Palestinian settlers over housing in Jerusalem.
+
+## Eating raw cookie dough is your choice, but it has nothing to do with Covid precautions
+ - [https://www.cnn.com/2022/02/14/opinions/covid-restrictions-variants-sepkowitz/index.html](https://www.cnn.com/2022/02/14/opinions/covid-restrictions-variants-sepkowitz/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 00:45:41+00:00
+
+Here we go again: Covid-19 cases are falling in nearly every state, spring is in the air and everyone is getting restless. Some have even gone so far as to let us know they are done with the pandemic or at least ready to move away from the problem.
+
+## Origin of rocket on course to slam into moon wrongly identified
+ - [https://www.cnn.com/2022/02/14/world/moon-rocket-collision-china-scn/index.html](https://www.cnn.com/2022/02/14/world/moon-rocket-collision-china-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 00:33:06+00:00
+
+A rogue rocket expected to collide with the moon on March 4 was wrongly identified as a SpaceX Falcon rocket stage and, instead, is likely from a past Chinese lunar mission, according to NASA.
+
+## US Coast Guard searches for downed airplane with 8 people
+ - [https://www.cnn.com/2022/02/14/us/north-carolina-downed-airplane-search/index.html](https://www.cnn.com/2022/02/14/us/north-carolina-downed-airplane-search/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-02-15 00:02:00+00:00
+
+One body was recovered as the US Coast Guard searches for an airplane believed to have gone down about four miles east of Drum Inlet, on North Carolina's Outer Banks, with eight people on board, CNN affiliate WITN reported, citing a sheriff.
+

@@ -1,0 +1,9 @@
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
+
+## They live in Soviet-era housing blocks. Here's what it's like
+ - [https://www.cnn.com/style/article/what-is-it-like-living-in-soviet-era-housing-today/index.html](https://www.cnn.com/style/article/what-is-it-like-living-in-soviet-era-housing-today/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2022-07-26 13:00:46+00:00
+
+Across the former Soviet Union and Eastern Bloc, huge concrete complexes stand as testament to Europe's post-war housing drive. Constructed en masse in the second half of the 20th century, their utilitarian designs were usually geared toward providing homes as quickly and cheaply as possible.
+

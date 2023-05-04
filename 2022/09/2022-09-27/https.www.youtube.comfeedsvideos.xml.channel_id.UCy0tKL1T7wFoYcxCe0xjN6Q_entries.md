@@ -1,0 +1,24 @@
+# Source:Technology Connections, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q, language:en-US
+
+## This 1960's camera is powered by light and completely automatic
+ - [https://www.youtube.com/watch?v=bwm_Dya0PFQ](https://www.youtube.com/watch?v=bwm_Dya0PFQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q
+ - date published: 2022-09-27 15:47:13+00:00
+
+Amazing what you can do with a few photons here and there.
+
+Links 'n' stuff
+Other videos on Photography
+https://www.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV
+
+Technology Connections on Twitter:
+https://twitter.com/TechConnectify
+The TC Subreddit
+https://www.reddit.com/r/technologyconnections
+
+This channel is supported through viewer contributions on Patreon. Thanks to the generous support of people like you, Technology Connections has remained independent and possible. If you'd like to join the amazing people who've pledged their support, check out the link below. Thank you for your consideration!
+https://www.patreon.com/technologyconnections
+
+Oh, and look at these wonderful patrons!
+Alessandro Viani, asakai, Kathryn Brenner, Leonard Carter, Stephen, Martin Ziegler, Jeffrey Morse, Bradley Hall, Luke Alonso, Luis, Kevin, Tango McBlasty, Philip Buchan, AngryPanda, Kevin Stock, LadySeifenblase, Michael Eagan, Robert S Mozayeni, Justin Paupore, Joshua Meredith, Gerry Cardinal III, mrklean, Skeleton Honey, Mark Poczatek, Gary Virta, Matthew Carlone, Trevor Griswold, Alex Appleton, Zeniian, alexone305, W. , Colin McVey, Steven Baker, Justin Collier, Anna, Avi Dobkin, Nick Loh, musicon , Aaron LaCluyze, Eric Emroll, Justin K. Phillips, christian schönefeldt, Chloë Jane, Juiposa, Phil Baxter, Elliot Reid, Timothy Joy, Adam Webb, Chris Munz, Steve Bennett, Marcus Griep, Jerrett Peake, Ole Kristian Fjellheim, Ian Rexroad, Clint Harrison, Mark Shaw, John Stewart, cstone , Natalie J, Daniel Kent, Alice Caldwell-Kelly, Background Tree, Joel Wood, Thaddaeus Yale, UnknownPlaying , Lorathas , Hans Brigman, Anatoly Volnov, April White, STOP He who would cross the Bridge of Death must answer me these questions three, ere the other side he see (TG-Techie), Chris Marshall, David Wirths, Hugo Dahl, GKAu, Burnhard, IronWolf, Arthur, Alec Bowman, Tim Paschke, Angela Flierman, spatron, Jason Morgan, Tobias Bagger Kaufmanas, Jacob, Adam Stasiniewicz, Luke Skelding, Derek Nylen, Jack Stephens, John Sanchez, Craig Tumblison, Kaleb Haas, Kevin Cole, I Move for a Bad Science Thingy, MustangsbyMatt, Mikely Whiplash, Mark Rathke, Jim Collins, Freekvs , DaSkippy , Ed Saipetch, Mason Erwin, Bryce Williams, DJ TI-99, omg that was my worst patreon name ever and I kept it up for two months, Mark Lehmann, Raymond Keller, Jason Gorringe, Jono Price, benjamin mayer, Daniel Allen, S R, Jamie Lodberg, Grant Wade, Brady OBrien, Saager Mhatre, Curtis Fenner, Rob Nieuwkerk, Myke Hurley, Ian, FAST640kdsl , Robert Mauritson, Jean-Paul Bouliane, MustacheDuctTape , Casey Hutchins, Kazran , Beep Boop
+

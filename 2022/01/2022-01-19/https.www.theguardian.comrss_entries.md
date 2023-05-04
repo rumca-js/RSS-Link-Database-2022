@@ -1,0 +1,9 @@
+# Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
+
+## Sign up for the Winter Olympics daily briefing: the best of Beijing 2022
+ - [https://www.theguardian.com/sport/2022/jan/19/sign-up-winter-olympics-beijing-daily-briefing-2022](https://www.theguardian.com/sport/2022/jan/19/sign-up-winter-olympics-beijing-daily-briefing-2022)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2022-01-19 12:18:34+00:00
+
+<p>Running throughout the Winter Olympics, a guide to the day’s highlights and the best that is yet to come</p><ul><li><strong><a href="https://www.theguardian.com/email-newsletters">Explore all our newsletters:</a></strong><a href="https://www.theguardian.com/email-newsletters"> from football to the climate crisis</a></li></ul><p>Join Martin Belam for a daily run through of the action from Beijing during the Winter Olympics.</p><p>Starting on Friday 4 February, the newsletter will run daily through the Games through to 20 February.</p> <a href="https://www.theguardian.com/sport/2022/jan/19/sign-up-winter-olympics-beijing-daily-briefing-2022">Continue reading...</a>
+

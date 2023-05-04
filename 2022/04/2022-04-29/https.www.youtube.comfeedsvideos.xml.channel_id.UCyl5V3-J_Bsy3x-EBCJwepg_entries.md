@@ -1,0 +1,40 @@
+# Source:Babylon Bee, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg, language:en-US
+
+## Babylon Bee Weak-ly News Update 4/29/2022: Fauci Declares Pandemic Over and Macron Leaves Biden On
+ - [https://www.youtube.com/watch?v=kcwpMeq3HaQ](https://www.youtube.com/watch?v=kcwpMeq3HaQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg
+ - date published: 2022-04-29 00:00:00+00:00
+
+Host Adam Yenser gives us the news of the week, including Dr. Fauci declaring that the pandemic phase is over to anyone still listening to him, Macron winning the French presidential election and ignoring Joe Biden’s call,  and a stunt by Red Bull going horribly wrong.
+
+Watch the full podcast here: https://youtu.be/FYjgNeV6e_Y
+
+Follow Adam on Youtube: https://www.youtube.com/user/adamyenser
+
+Become a premium subscriber: https://babylonbee.com/plans
+
+The Official The Babylon Bee Store: https://shop.babylonbee.com/
+
+Follow The Babylon Bee:
+Website: https://babylonbee.com/
+Twitter: https://twitter.com/thebabylonbee
+Facebook: https://www.facebook.com/TheBabylonBee
+Instagram: http://instagram.com/thebabylonbee
+
+## The Bee Weekly: Lil’ Bladder and the Global Failure of Masks
+ - [https://www.youtube.com/watch?v=FYjgNeV6e_Y](https://www.youtube.com/watch?v=FYjgNeV6e_Y)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg
+ - date published: 2022-04-29 00:00:00+00:00
+
+Check out Private Internet Access and get a special deal: https://www.privateinternetaccess.com/offer/recommended?channel=The%20Babylon%20Bee&source=podcastgeneral&coupon=3Y4M&aff_sub4=3Y4M&aff_id=12775
+
+Kyle, Adam, and Brandon Toy talk about this week at The Bee and also talk to Ian Miller about his book Unmasked: The Global Failure of COVID Mask Mandates. Kyle gains a new street name as he sits in the slammer of Twitter Jail and Anthony Fauci has declared that the pandemic is now over to anyone still listening to him. Due to popular demand Sizzler Facts is back and then The Bee analyzes what satire is currently banging and bombing on the site. Bee Radio from Austin Robertson runs straight into your ear canal like smooth honey dripping from a wooden spoon and Adam Yenser brings Weakly News. The Bee dips into the everflowing hate mail and Brandon Toy is subjected to the Ten Questions in the subscriber lounge.
+
+Check out Ian's book: https://www.amazon.com/Unmasked-Global-Failure-COVID-Mandates/dp/1637583761
+
+This episode is also brought to you by Undertac. Get Undertac today: https://www.sierrawhiskeyco.com/mens-boxer-brief
+
+Get Christian counseling from our friends at Faithful Counseling: https://www.faithfulcounseling.com/get-started/?transaction_id=102a2c500fac156821bba950451832&utm_source=affiliate&utm_campaign=281&utm_medium=Desktop&utm_content=&utm_term=babylonbee&not_found=1&gor=start&go=true
+
+Be a flag bearer for freedom today! Support our friends at Alliance Defending Freedom as they fight for your First Amendment rights today and get a free American flag: https://adflegal.org/monthly-gift-flags?sourcecode=10022276_r850&utm_medium=podcast&utm_campaign=flag_bearer&reference_code=10022276
+
