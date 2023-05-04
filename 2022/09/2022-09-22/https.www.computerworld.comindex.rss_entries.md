@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Microsoft Viva enhancements address employee disconnect in hybrid work environments
  - [https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all](https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all)
@@ -41,3 +41,4 @@
 <article>
 	<section class="page">
 <p>If you’re building a large spreadsheet in Google Sheets or need to read one that has a hefty amount of data, it’s helpful to apply filters to it. A filter lets you hide specific data (such as numbers or text) inside a range of cells that you select so that you can see what your spreadsheet looks like without this information. In other words, it filters out the data that you don’t want to see in your spreadsheet.</p><p>For example, you can design a filter that
+

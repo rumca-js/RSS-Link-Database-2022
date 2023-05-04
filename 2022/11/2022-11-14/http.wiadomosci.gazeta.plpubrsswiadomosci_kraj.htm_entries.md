@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Jerzy Połomski nie żyje. Artysta znany m.in. z utworu "Cała sala śpiewa z nami" miał 89 lat
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29139679,nie-zyje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29139679,nie-zyje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -83,3 +83,4 @@
  - date published: 2022-11-14 06:12:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/9e/c4/1b/z29116062M,Czestochowa--7-listopada-2022-r--Manifestacja-posw.jpg" vspace="2" />- Mamy dziś władzę, której biskupi są w stanie podyktować każde prawo - stwierdziła Justyna Pochanke w rozmowie z "Newsweekiem". - Dla Kościoła i polityków wiernych Kościołowi mam propozycję: zamiast zaglądania Polkom pod kołdrę, proszę zajrzeć pod sutanny. Tam jest się z czego rozliczać, jest z czego robić rachunek sumienia i to stamtąd dochodzi płacz dzieci, a nie od zarodków - podkreśliła wieloletnia prowadząca "Fakty" TVN".
+

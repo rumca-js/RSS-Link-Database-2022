@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Halo's Identity Problem Began With an Admirable Mess
  - [https://gizmodo.com/halo-4-10-year-retrospective-343-industries-1849749879](https://gizmodo.com/halo-4-10-year-retrospective-343-industries-1849749879)
@@ -27,3 +27,4 @@
  - date published: 2022-11-06 15:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--rcyMDM1V--/c_fit,fl_progressive,q_80,w_636/fa29634480fdf3e528eb01e9ef0a1bf5.png" /><p>Creator-owned comics have been on the rise in recent years across indie (read: non-Big Two) publishers like <a href="https://gizmodo.com/radiant-black-supermassive-2-image-comics-1849466802">Image</a> or <a href="https://gizmodo.com/oscar-isaac-head-wounds-sparrow-comic-book-legendary-1849712050">Legendary Comics</a>. Much of those new books are from well established comics presences such as <a href="https://gizmodo.com/saladin-ahmed-and-megan-levens-new-comic-starsigns-is-f-1848035749">Saladin Ahmed</a> or <a href="https://gizmodo.com/marvels-king-of-the-inhumans-is-getting-his-first-ever-1789261128">Christian Ward</a>, but actors like <a href="https://gizmodo.com/keanu-reeves-brzrkr-comic-netflix-anime-adaptation-1849324390">Keanu Reeves</a> and Oscar Isaac have also recently joined in on…</p><p><a href="https://gizmodo.com/vault-comics-headshell-imprint-metallica-1849749003">Read more...</a></p>
+

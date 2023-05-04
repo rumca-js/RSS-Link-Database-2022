@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Lomi indoor composter review: Is this thing magic?
  - [https://www.zdnet.com/article/lomi-indoor-composter-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/lomi-indoor-composter-review/#ftag=RSSbaffb68)
@@ -48,3 +48,4 @@ HP is best known as one of the biggest PC makers out there, but the company also
  - date published: 2022-11-19 02:13:00+00:00
 
 Your monitor is the main point of communication between you and your PC, so it's of the utmost importance that you're using a good quality display with a size and spec sheet that suits your needs, regardless of whether you're a straight-laced office worker or a hardcore gamer.
+

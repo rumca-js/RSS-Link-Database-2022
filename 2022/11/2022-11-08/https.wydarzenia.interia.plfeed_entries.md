@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Węgierski minister: Mamy "wszelkie szanse" na porozumienie z KE w tym roku
  - [https://wydarzenia.interia.pl/zagranica/news-wegierski-minister-mamy-wszelkie-szanse-na-porozumienie-z-ke,nId,6399077](https://wydarzenia.interia.pl/zagranica/news-wegierski-minister-mamy-wszelkie-szanse-na-porozumienie-z-ke,nId,6399077)
@@ -564,3 +564,4 @@
  - date published: 2022-11-08 04:34:52+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-258-dzien-inwazji-rosji-relacja-na-zywo,nzId,3336,akt,080759"><img align="left" alt="Wojna w Ukrainie. 258. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-258-dzien-inwazji-rosji-relacja-na-zywo/000GB6RGYQTW3QFY-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

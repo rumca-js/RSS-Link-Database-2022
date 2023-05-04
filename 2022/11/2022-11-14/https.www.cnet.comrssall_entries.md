@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## False QAnon Conspiracies in Politics: Q Candidates Lose Big in Midterms     - CNET
  - [https://www.cnet.com/news/misinformation/false-qanon-conspiracies-in-politics-q-candidates-lose-big-in-midterms/#ftag=CADf328eec](https://www.cnet.com/news/misinformation/false-qanon-conspiracies-in-politics-q-candidates-lose-big-in-midterms/#ftag=CADf328eec)
@@ -615,3 +615,4 @@ Mystery thriller 1899, aka the new show from the creators of Dark, hits Netflix 
  - date published: 2022-11-14 00:00:03+00:00
 
 No weights, no problem. Build muscle and get stronger without the dumbbells.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'Not outside the norm': Superintendent downplays male student masturbating in class in front of female classmates
  - [https://www.louderwithcrowder.com/superintendent-downplays-student](https://www.louderwithcrowder.com/superintendent-downplays-student)
@@ -48,3 +48,4 @@
  - date published: 2022-10-12 11:40:09+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31894429&amp;width=1200&amp;height=800&amp;coordinates=24%2C0%2C0%2C0" /><br /><br /><p>Katie Hobbs is running for Arizona governor and is afraid to debate her opponent Kari Lake. <a href="https://www.louderwithcrowder.com/kari-lake-town-hall-hobbs" target="_blank">She freaks out over the idea</a> of even being in the same room as Kari. Among her many excuses is that debating an alleged "<a href="https://www.louderwithcrowder
+

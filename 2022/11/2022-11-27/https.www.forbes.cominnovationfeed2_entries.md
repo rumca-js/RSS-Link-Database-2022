@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Around 2,500 Australians Pose Naked For Skin Cancer Awareness
  - [https://www.forbes.com/sites/brucelee/2022/11/27/around-2500-australians-pose-naked-for-skin-cancer-awareness/](https://www.forbes.com/sites/brucelee/2022/11/27/around-2500-australians-pose-naked-for-skin-cancer-awareness/)
@@ -216,3 +216,4 @@ Engineers will now take evasive action to avoid further damage by meteoroids to 
  - date published: 2022-11-27 00:30:31+00:00
 
 Concerned about home air quality? The new Toshiba CAF-Z85US(W) is a 3-speed, 3-stage, large room HEPA air purifier with a $299.99 retail price.
+

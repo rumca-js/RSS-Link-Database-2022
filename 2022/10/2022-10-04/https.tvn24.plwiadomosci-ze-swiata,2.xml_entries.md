@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## La Nina. Dziwne zachowanie anomalii pogodowej. Tego prognozy nie przewidywały
  - [https://tvn24.pl/tvnmeteo/swiat/la-nina-i-el-nino-dziwne-zachowanie-anomalii-pogodowej-6145342?source=rss](https://tvn24.pl/tvnmeteo/swiat/la-nina-i-el-nino-dziwne-zachowanie-anomalii-pogodowej-6145342?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="La Nina. Dziwne zachowanie anomalii pogodowej. Tego prognozy nie przewidywały" src="https://tvn24.pl/najnowsze/cdn-zdjecie-18dsy7-la-nina-znow-moze-sie-utrzymac-6145368/alternates/LANDSCAPE_1280" />
     La Nina może pojawić się zimą na Oceanie Spokojnym - informują amerykańscy naukowcy. Gdyby tak się stało, byłby to trzeci raki rok z rzędu, przy czym modele klimatyczne nie zapowiadały tego w prognozach. Przewidywanie zjawiska La Nina, a także jego odwrotności, czyli El Nino, ma duże zn
+

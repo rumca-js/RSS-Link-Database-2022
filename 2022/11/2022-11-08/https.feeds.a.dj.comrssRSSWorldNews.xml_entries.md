@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## U.S., China Climate Envoys Rekindle Contact at COP27
  - [https://www.wsj.com/articles/u-s-climate-envoy-john-kerry-rekindles-contact-with-china-at-cop27-11667932938](https://www.wsj.com/articles/u-s-climate-envoy-john-kerry-rekindles-contact-with-china-at-cop27-11667932938)
@@ -83,3 +83,4 @@ Egyptian farmers in the fertile Nile Delta region face changing weather patterns
  - date published: 2022-11-08 03:51:00+00:00
 
 North Korea denied providing Russia with artillery shells, days after the Biden administration alleged Pyongyang sought covert ways to supply weapons for Moscow’s war with Ukraine.
+

@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Brytyjskie gwiazdy żegnają zmarłą królową. "Pamiętam ją jako piękną młodą damę i kochaną babcię narodu"
  - [https://tvn24.pl/swiat/elzbieta-ii-nie-zyje-brytyjskie-gwiazdy-zegnaja-zmarla-krolowa-6104105?source=rss](https://tvn24.pl/swiat/elzbieta-ii-nie-zyje-brytyjskie-gwiazdy-zegnaja-zmarla-krolowa-6104105?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="USA przeprowadziły test rakiety międzykontynentalnej Minuteman III" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jn9e2n-usa-dysponujabronia-atomowa-o-niskiej-mocy-3795197/alternates/LANDSCAPE_1280" />
     Amerykańskie wojsko poinformowało o przeprowadzeniu drugiego w ciągu miesiąca udanego testu nieuzbrojonego pocisku balistycznego o zasięgu międzykontynentalnym Minuteman III. Rakieta została wystrzelona z bazy Vandenberg w Kalifornii i wylądowała 6,75 tysiąca kilometrów dalej na poligo
+

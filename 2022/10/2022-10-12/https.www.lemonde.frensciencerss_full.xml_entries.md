@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Decline in frog populations leads to malaria outbreaks
  - [https://www.lemonde.fr/en/science/article/2022/10/13/zoology-decline-in-frog-populations-leads-to-malaria-outbreaks_6000139_10.html](https://www.lemonde.fr/en/science/article/2022/10/13/zoology-decline-in-frog-populations-leads-to-malaria-outbreaks_6000139_10.html)
@@ -13,3 +13,4 @@ A large multidisciplinary study conducted in Costa Rica and Panama directly ties
  - date published: 2022-10-12 08:07:13+00:00
 
 The mission was aborted after failing to enter a planned orbit.
+

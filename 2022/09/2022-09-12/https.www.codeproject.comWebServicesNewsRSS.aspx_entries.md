@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Another ancient oddity in .NET
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58839](https://www.codeproject.com/script/News/View.aspx?nwid=58839)
@@ -62,3 +62,4 @@ Is it any good? It's WASM
  - date published: 2022-09-12 04:00:00+00:00
 
 We work in a house of cards, on a bowl of jello, on top of a swamp
+

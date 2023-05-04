@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Record number of parents miss work as respiratory illnesses spike in kids
  - [https://arstechnica.com/?p=1898421](https://arstechnica.com/?p=1898421)
@@ -111,3 +111,4 @@ Despite costly Silicon Valley project, CEO says this isn't just for wealthy area
  - date published: 2022-11-16 08:33:59+00:00
 
 The US space agency had not launched an orbital rocket since 2011.
+

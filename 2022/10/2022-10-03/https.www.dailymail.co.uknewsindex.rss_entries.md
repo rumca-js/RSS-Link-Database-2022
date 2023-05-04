@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## How almost 800 burglaries go unsolved every day
  - [https://www.dailymail.co.uk/news/article-11276895/How-800-burglaries-unsolved-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11276895/How-800-burglaries-unsolved-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1561,3 +1561,4 @@ McDonald's reopened some of its walk-in restaurants in Ukraine on October 1 - af
 
 British Steel's former Basic Oxygen Steelmaking (BOS) plant here at Redcar involved 105,000 tons of solid steel and iron.
 It took nearly two tons of explosives to bring it down.
+

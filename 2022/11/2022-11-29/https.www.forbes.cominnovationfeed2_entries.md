@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Next Generation Probe Of The Cosmic Microwave Background May Prove Inflation Theory
  - [https://www.forbes.com/sites/brucedorminey/2022/11/29/next-generation-probe-of-the-cosmic-microwave-background-may-prove-inflation-theory/](https://www.forbes.com/sites/brucedorminey/2022/11/29/next-generation-probe-of-the-cosmic-microwave-background-may-prove-inflation-theory/)
@@ -804,3 +804,4 @@ This article focuses on Why AI in Healthcare is critical to improve mental healt
  - date published: 2022-11-29 00:26:53+00:00
 
 Twitter owner and CEO Elon Musk said today on Twitter that Apple has threatened to “withhold” Twitter from its App Store, suggesting that Apple is less than happy with the state of content moderation on the social news platform.
+

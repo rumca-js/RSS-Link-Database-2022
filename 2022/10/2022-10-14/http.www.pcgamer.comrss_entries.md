@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## CD Projekt's big roadmap doesn't indicate an impending acquisition, says analyst
  - [https://www.pcgamer.com/cd-projekts-big-roadmap-doesnt-indicate-an-impending-acquisition-says-analyst](https://www.pcgamer.com/cd-projekts-big-roadmap-doesnt-indicate-an-impending-acquisition-says-analyst)
@@ -223,3 +223,4 @@ Acclaimed director says it "would make a real great movie".
  - date published: 2022-10-14 07:01:28+00:00
 
 Wordle today: The solution and a hint for Friday's puzzle.
+

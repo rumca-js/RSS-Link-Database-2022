@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Disney Dreamlight Valley - How To Unlock All Characters
  - [https://www.gamespot.com/articles/disney-dreamlight-valley-how-to-unlock-all-characters/1100-6507527/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-how-to-unlock-all-characters/1100-6507527/?ftag=CAD-01-10abi2f)
@@ -307,3 +307,4 @@
  - date published: 2022-09-14 03:44:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4034858-maxresdefault%2859%29.jpg" width="480" /> Warhaven is a visceral Medieval-Fantasy sword-fight experience. Take part in 16vs16 teams fighting with swords, arrows and magic. Transform into powerful heroes called Immortals to unleash brutal havoc and turn the tide of war.
+

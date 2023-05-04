@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## James Wan And Jason Blum Merging Their Companies To Create A Horror Powerhouse - Report
  - [https://www.gamespot.com/articles/james-wan-and-jason-blum-merging-their-companies-to-create-a-horror-powerhouse-report/1100-6509228/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/james-wan-and-jason-blum-merging-their-companies-to-create-a-horror-powerhouse-report/1100-6509228/?ftag=CAD-01-10abi2f)
@@ -300,3 +300,4 @@
  - date published: 2022-11-16 00:46:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4063906-bendy_v0.jpg" width="480" /> Return to the kingdom of Bendy in the ink soaked horror survival game Bendy and the Dark Revival. Here are the first 21 minutes of PC gameplay.
+

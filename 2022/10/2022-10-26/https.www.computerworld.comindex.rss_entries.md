@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## BrandPost: Q&A: How do you proactively solve problems by tracking IoT devices?
  - [https://www.computerworld.com/article/3677578/qanda-how-do-you-proactively-solve-problems-by-tracking-iot-devices.html#tk.rss_all](https://www.computerworld.com/article/3677578/qanda-how-do-you-proactively-solve-problems-by-tracking-iot-devices.html#tk.rss_all)
@@ -85,3 +85,4 @@
 <article>
 	<section class="page">
 <p>Productivity and performance tracking have been <a href="https://www.computerworld.com/article/3586616/the-new-normal-when-work-from-home-means-the-boss-is-watching.html">on the rise since the start of the COVID-19 pandemic</a> and the shift to remote and hybrid work. Now, as pandemic restrictions recede and more traditional work habits reemerge, it’s inevitable some organizations will want to extend tracking beyond the company PC to mobile devices.</p><p>That means IT could soon be involved in selecting, implementing, and supporting productivity and <a href="https://www.computerworld.com/article/3614119/collaboration-analytics-yes-you-can-track-employees-should-you.html">performance monitoring solutions that keep tabs on workers wherever they are</a> — even if they’re not sitting in front of a computer.</p><p class="jumpTag"><a href="/article/3677855/is-performance-tracking-about-to-go-mobile.html#jump">To read this article in full, please click here</a></p></section></article>
+

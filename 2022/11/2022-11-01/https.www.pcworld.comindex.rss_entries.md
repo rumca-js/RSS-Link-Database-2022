@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## PCWorld specs out Will Smith’s RTX 4090 gaming PC
  - [https://www.pcworld.com/article/1367226/pcworld-plans-out-will-smiths-new-gaming-pc.html](https://www.pcworld.com/article/1367226/pcworld-plans-out-will-smiths-new-gaming-pc.html)
@@ -1808,3 +1808,4 @@ GPUs</div>
 
 <p>These problems hold the Chromebook Spin 513 short of greatness, but it still remains a good option for ChromeOS fans who want a big, attractive touchscreen with tons of usable space.&nbsp;</p>
 Laptops</div>
+

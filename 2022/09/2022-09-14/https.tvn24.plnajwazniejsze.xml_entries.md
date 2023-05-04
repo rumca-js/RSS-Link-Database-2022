@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Gol Milika, dwie pomyłki Zielińskiego z karnych. Polska huśtawka nastrojów
  - [https://eurosport.tvn24.pl/gol-milika--dwie-pomy-ki-zieli-skiego-z-karnych--polska-hu-tawka-nastroj-w-w-lidze-mistrz-w,1118569.html?source=rss](https://eurosport.tvn24.pl/gol-milika--dwie-pomy-ki-zieli-skiego-z-karnych--polska-hu-tawka-nastroj-w-w-lidze-mistrz-w,1118569.html?source=rss)
@@ -375,3 +375,4 @@
 
 <img alt="Czy Niemcy chcą być mocarstwem? Czeka je kolejne wyzwanie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-fp2a5s-1409-podcast-o-zagranicy-6110323/alternates/LANDSCAPE_1280" />
     Maciej Tomaszewski rozmawia z Lidią Gibadło z Ośrodka Studiów Wschodnich.
+

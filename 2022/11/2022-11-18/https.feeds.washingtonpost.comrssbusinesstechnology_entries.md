@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Need gifts for a gamer this holiday season? We’ve got recommendations.
  - [https://www.washingtonpost.com/video-games/2022/11/18/best-video-game-gifts-holiday-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/18/best-video-game-gifts-holiday-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ Twitter’s billionaire leader Elon Musk is pushing a workplace culture focused 
  - date published: 2022-11-18 06:00:04+00:00
 
 Former Theranos CEO Elizabeth Holmes faces sentencing from a federal judge Friday.
+

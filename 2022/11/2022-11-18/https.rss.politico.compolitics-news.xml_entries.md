@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Trump lashes out at special prosecutor announcement, says he will not 'partake'
  - [https://www.politico.com/news/2022/11/18/trump-special-prosecutor-00069498](https://www.politico.com/news/2022/11/18/trump-special-prosecutor-00069498)
@@ -20,3 +20,4 @@ Every week political cartoonists throughout the country and across the political
  - date published: 2022-11-18 05:01:00+00:00
 
 Sen. Ed Markey (D-Mass.) has been an outspoken critic of changes to Twitter under Elon Musk, using the platform to raise concerns and exchange barbs with Musk.
+

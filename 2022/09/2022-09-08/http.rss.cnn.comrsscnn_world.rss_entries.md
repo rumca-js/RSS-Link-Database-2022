@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## 'One of my favorite people': What Queen Elizabeth meant to decades of American presidents
  - [https://www.cnn.com/2022/09/08/politics/american-presidents-queen-elizabeth-ii/index.html](https://www.cnn.com/2022/09/08/politics/american-presidents-queen-elizabeth-ii/index.html)
@@ -62,3 +62,4 @@ North Korea's rubber-stamp parliament convened this week to pass legislation aim
  - date published: 2022-09-08 00:00:37+00:00
 
 Kim Kardashian. You know her because she's a reality TV and social media star, an entrepreneur, and a budding lawyer. She's a whole brand. And an increasingly powerful force in business.
+

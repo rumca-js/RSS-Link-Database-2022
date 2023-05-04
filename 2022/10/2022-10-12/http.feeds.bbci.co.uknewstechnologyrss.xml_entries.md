@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## China-Taiwan: Can a tech billionaire create a civilian fighting force?
  - [https://www.bbc.co.uk/news/world-asia-63196623?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63196623?at_medium=RSS&at_campaign=KARANGA)
@@ -41,3 +41,4 @@ Tens of millions of people work in the global gig economy across services like f
  - date published: 2022-10-12 00:24:42+00:00
 
 Children are among those pleading for hours for digital gifts, as the company takes a cut of up to 70%.
+

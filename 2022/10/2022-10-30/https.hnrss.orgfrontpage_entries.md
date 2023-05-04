@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## English Sparkling Wines Challenge the Supremacy of Champagne, via Climate Change
  - [https://www.smithsonianmag.com/science-nature/english-sparkling-wines-challenge-supremacy-champagne-francethanks-climate-change-180974057/](https://www.smithsonianmag.com/science-nature/english-sparkling-wines-challenge-supremacy-champagne-francethanks-climate-change-180974057/)
@@ -597,7 +597,6 @@ Thanks!</p>
  - [http://dranger.com/ffmpeg/](http://dranger.com/ffmpeg/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-30 08:04:48+00:00
- - tags: it,ffmpeg
 
 <p>Article URL: <a href="http://dranger.com/ffmpeg/">http://dranger.com/ffmpeg/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33392260">https://news.ycombinator.com/item?id=33392260</a></p>
@@ -707,3 +706,4 @@ Thanks!</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33389843">https://news.ycombinator.com/item?id=33389843</a></p>
 <p>Points: 8</p>
 <p># Comments: 1</p>
+

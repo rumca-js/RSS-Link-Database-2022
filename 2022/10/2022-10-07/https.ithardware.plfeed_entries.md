@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Google Chrome to nie tylko najpopularniejsza przeglądarka, ale też najbardziej podatna na ataki
  - [https://ithardware.pl/aktualnosci/google_chrome_to_nie_tylko_najpopularniejsza_przegladarka_ale_tez_najbardziej_podatna_na_ataki-23732.html](https://ithardware.pl/aktualnosci/google_chrome_to_nie_tylko_najpopularniejsza_przegladarka_ale_tez_najbardziej_podatna_na_ataki-23732.html)
@@ -155,3 +155,4 @@ Linia smukłych i lekkich...
 
 <img src="https://ithardware.pl/artykuly/min/23715_1.jpg" />            Blisko rok od pojawienia się pierwszych plotek na temat zegarka od Google, Pixel Watch wreszcie doczekał się oficjalnej prezentacji. Urządzenie działa na systemie Wear OS 3.5 i będzie rywalizować na rynku z wearable pokroju Apple Watch czy Samsung...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/pixel_watch_oficjalnie_jest_drogo_ale_design_urzeka-23715.html">https://ithardware.pl/aktualnosci/p
+

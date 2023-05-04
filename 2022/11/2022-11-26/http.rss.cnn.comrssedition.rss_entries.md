@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Police believe the attack on four Idaho college students was targeted
  - [https://www.cnn.com/collections/crime-for-intl-112622/](https://www.cnn.com/collections/crime-for-intl-112622/)
@@ -272,3 +272,4 @@ A violent workers' revolt at the world's largest iPhone factory this week in cen
  - date published: 2022-11-26 00:32:56+00:00
 
 Russian President Vladmir Putin met with the mothers of Russian soldiers, some of whom have died while fighting his war in Ukraine. CNN's Fred Pleitgen reports.
+

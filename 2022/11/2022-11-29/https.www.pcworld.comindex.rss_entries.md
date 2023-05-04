@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Microsoft Hackathon winner wants to help you fix your friend’s phone from afar
  - [https://www.pcworld.com/article/1398491/microsoft-may-allow-you-to-fix-your-folks-smartphone-while-in-bed.html](https://www.pcworld.com/article/1398491/microsoft-may-allow-you-to-fix-your-folks-smartphone-while-in-bed.html)
@@ -453,3 +453,4 @@ Desktop PCs, Gaming, Gaming PCs</div>
 
 <p><em>Prices subject to change.</em></p>
 Microsoft Surface</div>
+

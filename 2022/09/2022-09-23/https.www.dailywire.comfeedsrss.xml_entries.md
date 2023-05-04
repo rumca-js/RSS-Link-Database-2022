@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## WATCH: Fetterman Asked If He Supports Making ‘LGBTQ Education’ In Schools ‘Mandatory’ Nationwide
  - [https://www.dailywire.com/news/watch-fetterman-asked-if-he-supports-making-lgbtq-education-in-schools-mandatory-nationwide](https://www.dailywire.com/news/watch-fetterman-asked-if-he-supports-making-lgbtq-education-in-schools-mandatory-nationwide)
@@ -214,7 +214,6 @@ Pierce Brosnan may have played James Bond in four films, but that doesn’t mean
  - [https://www.dailywire.com/news/troubling-track-record-ron-johnson-questions-youtube-over-covid-censorship](https://www.dailywire.com/news/troubling-track-record-ron-johnson-questions-youtube-over-covid-censorship)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 08:58:15+00:00
- - tags: censorship,youtube,covid
 
 Senator Ron Johnson (R-WI) sent a letter to the CEO of YouTube this week asking for information on the company’s “troubling track record” of censorship.  Johnson, who has been suspended twice from YouTube, is demanding that YouTube turn over documents and emails pertaining to his suspensions and the formation of the tech giant’s COVID misinformation ...
 
@@ -231,3 +230,4 @@ Stephen A. Smith of ESPN slammed the Boston Celtics after news broke that their 
  - date published: 2022-09-23 07:46:44+00:00
 
 An Arizona woman who sabotaged the Dakota Access pipeline and set fire to equipment to protest the controversial project was sentenced by a federal judge Thursday to six years in prison. Ruby Katherine Montoya, 32, who used a cutting torch to damage the oil pipeline in Iowa in 2016 and destroyed equipment over the next ...
+

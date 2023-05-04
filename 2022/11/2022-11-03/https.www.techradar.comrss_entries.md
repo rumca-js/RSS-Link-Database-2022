@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Barely anyone is using Windows 11 still
  - [https://www.techradar.com/news/barely-anyone-is-using-windows-11-still/](https://www.techradar.com/news/barely-anyone-is-using-windows-11-still/)
@@ -202,3 +202,4 @@ After months of deliberation, Netflix has finally made a decision on what to do 
  - date published: 2022-11-03 04:00:04+00:00
 
 Continuing the company's family focused push, Assistant is gettings its first set of Parental Controls and new voices.
+

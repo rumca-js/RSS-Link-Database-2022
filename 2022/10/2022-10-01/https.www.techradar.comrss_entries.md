@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Nvidia RTX 4090 GPU benchmark leak has some folks disappointed
  - [https://www.techradar.com/news/nvidia-rtx-4090-gpu-benchmark-leak-has-some-folks-disappointed/](https://www.techradar.com/news/nvidia-rtx-4090-gpu-benchmark-leak-has-some-folks-disappointed/)
@@ -90,3 +90,4 @@ We've found the best prices on the Instax Mini instant cameras
  - date published: 2022-10-01 10:30:07+00:00
 
 Google might have inadvertently revealed two of the minor upgrades arriving with its Pixel phones next week.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Why Thanksgiving-weekend movies aren't doing well this year
  - [https://www.cnn.com/2022/11/25/media/thanksgiving-box-office/index.html](https://www.cnn.com/2022/11/25/media/thanksgiving-box-office/index.html)
@@ -64,3 +64,4 @@ Two European chip deals have run into trouble over their links with China, a sig
  - date published: 2022-11-25 02:45:04+00:00
 
 Foxconn has offered to pay newly recruited workers 10,000 yuan ($1,400) to quit and leave its largest iPhone assembly factory, in an attempt to quell protests that saw hundreds of workers clash with security forces at the facility in central China.
+

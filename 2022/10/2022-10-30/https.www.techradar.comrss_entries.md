@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Watch out: The Meta Quest Pro might not be the VR headset of your dreams
  - [https://www.techradar.com/news/watch-out-the-meta-quest-pro-might-not-be-the-vr-headset-of-your-dreams/](https://www.techradar.com/news/watch-out-the-meta-quest-pro-might-not-be-the-vr-headset-of-your-dreams/)
@@ -34,3 +34,4 @@ ThousandEyes co-founder and Cisco VP Mohit Lad discusses the internet monitoring
  - date published: 2022-10-30 07:00:00+00:00
 
 Gaming laptops can be expensive, but Black Friday is a great time to find them packed with premium features for some very compelling prices.
+

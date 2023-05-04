@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Special master appointed to review documents from Mar-a-Lago search
  - [https://www.cnn.com/2022/09/15/politics/mar-a-lago-search-special-master/index.html](https://www.cnn.com/2022/09/15/politics/mar-a-lago-search-special-master/index.html)
@@ -482,3 +482,4 @@ CNN's Anna Stewart breaks down King Charles' royal inheritance - more than $21 b
  - date published: 2022-09-15 00:15:33+00:00
 
 Ford has unveiled the seventh-generation of its Mustang. While it updated the interior with large digital screens, the automaker has maintained a gas-powered engine.
+

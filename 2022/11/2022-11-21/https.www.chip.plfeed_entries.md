@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Sekunda przestępna musi odejść. Tak przynajmniej twierdzą naukowcy
  - [https://www.chip.pl/2022/11/sekunda-przestepna-musi-odejsc-apel-naukowcow](https://www.chip.pl/2022/11/sekunda-przestepna-musi-odejsc-apel-naukowcow)
@@ -159,3 +159,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="975" src="https://konto.chip.pl/wp-content/uploads/2022/03/wirus-hiv.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/03/wirus-hiv.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>W niektórych placówkach stosuje się mechanizmy odpowiedzialne za kontrolę przepływu powietrza. Ich działanie może jednak zostać zakłócone z wykorzystaniem stosunkowo prostych środków. Naukowcy z Uniwersytetu Kalifornijskiego w Irvine twierdzą bowiem, że do naruszenia bezpieczeństwa w takich miejscach (na przykład laboratoriach biologicznych) wystarczy aparatura składająca się między innymi ze smartfona. Emitując dźwięk o określonej częstotliwości, ukryty [&#8230;]</p>
+

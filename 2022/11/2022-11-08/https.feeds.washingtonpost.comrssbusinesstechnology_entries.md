@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Binance moves to buy rival crypto exchange FTX in major industry shake-up
  - [https://www.washingtonpost.com/business/2022/11/08/binance-buys-ftx/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/11/08/binance-buys-ftx/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Losing your job is stressful. But workers can do several things before, during a
  - date published: 2022-11-08 06:00:21+00:00
 
 TrustCor Systems, which vouches for the legitimacy of websites, has connections to contractors for U.S. intelligence agencies and law enforcement, according to security researchers, documents and interviews.
+

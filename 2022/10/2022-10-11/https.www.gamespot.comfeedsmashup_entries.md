@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Warner Bros. Pushes Dune Part Two Up Two Weeks
  - [https://www.gamespot.com/articles/warner-bros-pushes-dune-part-two-up-two-weeks/1100-6508195/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warner-bros-pushes-dune-part-two-up-two-weeks/1100-6508195/?ftag=CAD-01-10abi2f)
@@ -461,3 +461,4 @@
  - date published: 2022-10-11 12:23:00+00:00
 
 <p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4046355-prime-day-tvs-sony.jpg" /><br /><h3><p>Amazon Prime Day (Prime Early Access Sale) is now live, and if you've been looking to upgrade your entertainment system with a slick new TV, now is a great time to invest in a slab of high performance visual technology. The last few years have seen terrific advancements made in this hardware field, and with PS5 and Xbox Series X|S consoles easier to acquire, seeing your favori
+

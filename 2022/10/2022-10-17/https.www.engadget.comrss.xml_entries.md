@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Smart buoy 'hears' the sea to protect whales against ship collisions
  - [https://www.engadget.com/smart-buoys-protect-whales-211616043.html?src=rss](https://www.engadget.com/smart-buoys-protect-whales-211616043.html?src=rss)
@@ -125,3 +125,4 @@
  - date published: 2022-10-17 08:34:43+00:00
 
 <p>As part of its ambitious electric vehicle plans, Mercedes has taken the wraps off its latest model, the <a href="https://media.mbusa.com/releases/release-23947dccb0afc03381f301b9bc085c2d-the-new-eqe-suv-high-tech-and-luxury-meet-versatility">EQE SUV</a> — along with a bonus <a href="https://media.mbusa.com/releases/release-23947dccb0afc03381f301b9bc08b59e-the-new-mercedes-amg-eqe-suv">high-performance AMG version</a>. Highlights of the new models include slippery aerodynamics, a large 90.6 kW
+

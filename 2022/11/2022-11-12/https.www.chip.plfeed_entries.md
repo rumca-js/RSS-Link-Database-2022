@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Test Jabra Engage 55 Stereo. Idealny wybór do otwartych biur&#8230; i nie tylko
  - [https://www.chip.pl/2022/11/jabra-engage-55-stereo-test-recenzja-opinia](https://www.chip.pl/2022/11/jabra-engage-55-stereo-test-recenzja-opinia)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="441" src="https://konto.chip.pl/wp-content/uploads/2022/11/tetra.jpg" style="margin-bottom: 10px;" width="1200" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/tetra.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Materiał, który nie występuje na Ziemi, przybył do nas z kosmosu i został odtworzony przez naukowców. Brzmi to jak scenariusz filmu, ale okazuje się rzeczywistością. Głównym bohaterem tej wiadomości jest tetratenit, czyli związek żelaza i niklu. Badaniami w jego sprawie zajęli się naukowcy Uniwersytetu w Cambridge oraz Northeastern University. W toku analiz zauważyli, że dodanie [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 10 Best Buy Black Friday Deals Amazon Can't Beat, Still Available Before Cyber Monday     - CNET
  - [https://www.cnet.com/deals/12-best-buy-black-friday-deals-amazon-cant-beat-still-available-before-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/12-best-buy-black-friday-deals-amazon-cant-beat-still-available-before-cyber-monday/#ftag=CADf328eec)
@@ -559,3 +559,4 @@ This color-saturated movie is a fun family quest that's well worth embarking on.
  - date published: 2022-11-26 00:00:02+00:00
 
 TikTok has some creative money-savings solutions, but these hacks could cost you.
+

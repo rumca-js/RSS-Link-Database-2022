@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## NFL Player Allegedly Exposes Himself In Middle East Swimming Pool
  - [https://www.dailywire.com/news/nfl-player-allegedly-exposes-himself-in-middle-east-swimming-pool](https://www.dailywire.com/news/nfl-player-allegedly-exposes-himself-in-middle-east-swimming-pool)
@@ -104,3 +104,4 @@ New details continue to emerge in the shooting of an 84-year-old pro-life Mic
  - date published: 2022-10-01 11:14:58+00:00
 
 Thousands of Floridians without flood insurance could face financial ruin in the wake of Hurricane Ian, which first hit the Gulf Coast as a Category 4 hurricane on Wednesday, according to a new report. Large swaths of Florida’s western coastline, including the Fort Myers area, were battered by Ian as ocean waters slammed the coast ...
+

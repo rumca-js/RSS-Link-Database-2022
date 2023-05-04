@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Digging 10 miles underground could yield enough geothermal energy to power Earth
  - [https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy](https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy)
@@ -695,3 +695,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33665621">https://news.ycombinator.com/item?id=33665621</a></p>
 <p>Points: 58</p>
 <p># Comments: 18</p>
+

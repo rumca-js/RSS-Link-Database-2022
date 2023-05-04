@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Holandia. Wyrok za strącony samolot. "To nie kończy sprawy"
  - [https://www.polsatnews.pl/wiadomosc/2022-11-17/holandia-wyrok-za-stracony-samolot-to-nie-konczy-sprawy/](https://www.polsatnews.pl/wiadomosc/2022-11-17/holandia-wyrok-za-stracony-samolot-to-nie-konczy-sprawy/)
@@ -83,3 +83,4 @@ Partia Republikańska zdobyła większość w Izbie Reprezentantów - ogłosiła
  - date published: 2022-11-17 05:12:00+00:00
 
 - Rosyjska agresja przekroczyła polską granicę (...) Dlatego potrzebujemy, aby nasi specjaliści włączyli się w prace międzynarodowego śledztwa i uzyskali dostęp do wszystkich danych - oświadczył Wołodymyr Zełenski, komentując wybuch pocisku, do którego doszło we wtorek w Przewodowie. Wcześniej ukraiński prezydent zapewniał, że rakieta, która uderzyła w Polskę na pewno nie była ukraińska.
+

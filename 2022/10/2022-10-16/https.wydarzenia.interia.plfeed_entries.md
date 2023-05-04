@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Chcą Specjalnego Trybunału do ścigania rosyjskich zbrodni. "Luka w prawie"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-chca-specjalnego-trybunalu-do-scigania-rosyjskich-zbrodni-lu,nId,6351602](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-chca-specjalnego-trybunalu-do-scigania-rosyjskich-zbrodni-lu,nId,6351602)
@@ -314,3 +314,4 @@
  - date published: 2022-10-16 04:09:56+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-235-dzien-inwazji-rosji-relacja-na-zywo,nzId,3191,akt,160846"><img align="left" alt="Wojna w Ukrainie. 235. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-235-dzien-inwazji-rosji-relacja-na-zywo/000G7H3JISJ9PQN4-C321.jpg" /></a>Najnowsze informacje z frontu</p><br clear="all" />
+

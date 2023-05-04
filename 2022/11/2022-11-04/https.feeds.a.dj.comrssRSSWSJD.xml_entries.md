@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Elon Musk Says Twitter Has Had Massive Revenue Drop
  - [https://www.wsj.com/articles/elon-musk-says-twitter-has-had-massive-revenue-drop-11667573127?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-says-twitter-has-had-massive-revenue-drop-11667573127?mod=rss_Technology)
@@ -48,3 +48,4 @@ Elon Musk plans to charge $8 a month for a premium Twitter subscription. Others 
  - date published: 2022-11-04 01:58:00+00:00
 
 The move comes about a week after Elon Musk acquired the social-media platform.
+

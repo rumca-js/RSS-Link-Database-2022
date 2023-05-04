@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Police Respond To Shooting At Virginia Walmart
  - [https://www.dailywire.com/news/breaking-police-respond-to-shooting-at-virginia-walmart](https://www.dailywire.com/news/breaking-police-respond-to-shooting-at-virginia-walmart)
@@ -419,3 +419,4 @@ For anyone with basic computer programming knowledge, it needed to take only min
  - date published: 2022-11-22 09:21:51+00:00
 
 At least two counties in Arizona have confirmed that their certification of the 2022 election will be delayed as the state&#8217;s attorney general&#8217;s office wrote a letter claiming there&#8217;s evidence of &#8220;statutory violations&#8221; that occurred in Maricopa County on Election Day. Republican-controlled Cochise County and Mohave County both voted to delay certification until the November 28 ...
+

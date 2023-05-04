@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Svitzer will not lockout tugboat workers in Australia amid growing industrial tensions
  - [https://www.dailymail.co.uk/news/article-11441049/Svitzer-not-lockout-tugboat-workers-Australia-amid-growing-industrial-tensions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11441049/Svitzer-not-lockout-tugboat-workers-Australia-amid-growing-industrial-tensions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1791,3 +1791,4 @@ Conservative councillor Andy Weatherhead took an interest in the New British Uni
  - date published: 2022-11-17 00:20:40+00:00
 
 PM Rishi Sunak has pledged to publish his tax return, but will not release details of his wife Akshata Murthy's financial affairs. Ms Murthy is the daughter of an Indian tech billionaire.
+

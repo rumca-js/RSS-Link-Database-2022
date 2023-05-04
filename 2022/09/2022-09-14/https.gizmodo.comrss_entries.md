@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Disney Parks' Halloween Parties Scare Up Fun Tricks and Treats
  - [https://gizmodo.com/disney-parks-halloween-disneyland-walt-disney-world-1849531310](https://gizmodo.com/disney-parks-halloween-disneyland-walt-disney-world-1849531310)
@@ -314,3 +314,4 @@
  - date published: 2022-09-14 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--T6ai9c42--/c_fit,fl_progressive,q_80,w_636/0d098920474b1a2e8cc198ccff2130c1.png" /><p>Bring Jean Jacket home with the Blu-ray and 4K release of <a href="https://gizmodo.com/nope-spoilers-jordan-peele-gordys-home-keke-palmer-yeun-1849332974"><em>Nope</em></a><em>—</em>the latest from the mind of modern horror master Jordan Peele, who’s made looking up at the sky a whole lot scarier lately. </p><p><a href="https://gizmodo.com/jordan-pe
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Tiktok profits from livestreams of refugees begging
  - [https://www.bbc.co.uk/news/world-63223212?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63223212?at_medium=RSS&at_campaign=KARANGA)
@@ -48,3 +48,4 @@ This year's Ada Lovelace Day will be the last because of a lack of corporate fun
  - date published: 2022-10-11 01:32:21+00:00
 
 Children are at risk of viewing harmful content by lying about their age online, according to Ofcom.
+

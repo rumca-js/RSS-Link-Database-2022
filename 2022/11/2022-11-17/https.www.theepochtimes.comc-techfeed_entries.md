@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## FTX Used Corporate Funds to Buy Homes in Bahamas, Bankruptcy Documents Show
  - [https://www.theepochtimes.com/ftx-used-corporate-funds-to-buy-homes-in-the-bahamas-bankruptcy-documents-show_4870040.html](https://www.theepochtimes.com/ftx-used-corporate-funds-to-buy-homes-in-the-bahamas-bankruptcy-documents-show_4870040.html)
@@ -39,7 +39,6 @@ Illustration by The Epoch Times. (Craig Barritt/Getty Images)
  - [https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html](https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-17 13:06:53+00:00
- - tags: digital identity,government control,digital passport
 
 A vaccine vial on a European passport in Paris, on March 3, 2021. (Joel Saget/AFP via Getty Images)
 
@@ -49,3 +48,4 @@ A vaccine vial on a European passport in Paris, on March 3, 2021. (Joel Saget/AF
  - date published: 2022-11-17 10:14:04+00:00
 
 The headquarters for the social media company Twitter in San Francisco, on Nov. 11, 2022. (Stephen Lam/San Francisco Chronicle via AP)
+

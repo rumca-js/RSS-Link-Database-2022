@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Tesla's Optimus and the problem with humanoids
  - [https://www.bbc.co.uk/news/technology-63130363?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63130363?at_medium=RSS&at_campaign=KARANGA)
@@ -587,3 +587,4 @@ Heat energy is being captured from people dancing to help a Glasgow venue reduce
  - date published: 2022-10-07 00:04:59+00:00
 
 More than 100 licences are expected to be granted for new fossil fuel exploration in the North Sea.
+

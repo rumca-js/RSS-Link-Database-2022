@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Watch out - that WeTransfer link could be a phishing scam
  - [https://www.techradar.com/news/watch-out-that-wetransfer-link-could-be-a-phishing-scam/](https://www.techradar.com/news/watch-out-that-wetransfer-link-could-be-a-phishing-scam/)
@@ -223,3 +223,4 @@ Apple's long-rumored hardware subscription service is reportedly still on the wa
  - date published: 2022-09-12 09:00:47+00:00
 
 The screen sizes and physical dimensions of Samsung's next flagship phones have leaked out online.
+

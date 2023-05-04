@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Georgia Voting Numbers Do Indeed Show Youth Surge
  - [https://theintercept.com/2022/11/22/midterm-elections-young-voters-turnout-georgia/](https://theintercept.com/2022/11/22/midterm-elections-young-voters-turnout-georgia/)
@@ -15,3 +15,4 @@
 
 <p>Twitter has censored the website of nonprofit transparency collective Distributed Denial of Secrets for more than two years.</p>
 <p>The post <a href="https://theintercept.com/2022/11/22/elon-musk-twitter-censor-ddosecrets/" rel="nofollow">Elon Musk’s “Free Speech” Twitter Is Still Censoring DDoSecrets</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

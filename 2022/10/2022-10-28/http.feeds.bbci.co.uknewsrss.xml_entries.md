@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Pay up, PM' and 'Navy probes sex pest scandal'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63435594?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63435594?at_medium=RSS&at_campaign=KARANGA)
@@ -510,3 +510,4 @@ From music to cultural discussions, Asian Network has provided a "community" fee
  - date published: 2022-10-28 00:20:09+00:00
 
 Gloucestershire Royal has some of England's worst ambulance waiting times, with a hard winter to come.
+

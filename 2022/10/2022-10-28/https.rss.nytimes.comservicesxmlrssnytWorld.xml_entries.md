@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine accuses Russia of violating international law by placing Ukrainian children in Russian families.
  - [https://www.nytimes.com/2022/10/28/world/europe/ukraine-accuses-russia-of-violating-international-law-by-placing-ukrainian-children-in-russian-families.html](https://www.nytimes.com/2022/10/28/world/europe/ukraine-accuses-russia-of-violating-international-law-by-placing-ukrainian-children-in-russian-families.html)
@@ -125,3 +125,4 @@ Here’s what you need to know.
  - date published: 2022-10-28 04:01:12+00:00
 
 Britain’s new prime minister married into an $800 million stake in Infosys, a company that does not fit neatly into his party’s views on immigration.
+

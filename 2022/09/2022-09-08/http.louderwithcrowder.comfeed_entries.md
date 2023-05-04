@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'They can't even keep the power on': Ron DeSantis levels Gavin Newsom simply by pointing out the obvious
  - [https://www.louderwithcrowder.com/ron-desantis-levels-gavin-newsom](https://www.louderwithcrowder.com/ron-desantis-levels-gavin-newsom)
@@ -76,3 +76,4 @@
  - date published: 2022-09-08 12:11:38+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31611076&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>A democrat official has been arrested for the stabbing death of a journalist whose critical story cost the democrat re-election.</p><p>Veteran journalist for the Las Vegas Review-Journal Jeff German was found dead outside of his home on Saturday. Robert Telles, the Democrat Clark County Public Administrator, was arrested for the murder on
+

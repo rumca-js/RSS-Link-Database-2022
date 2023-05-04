@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Paraliż w Portugalii. 200 tys. cudzoziemców nie może zalegalizować pobytu
  - [https://www.bankier.pl/wiadomosc/Paraliz-w-Portugalii-200-tys-cudzoziemcow-nie-moze-zalegalizowac-pobytu-8436866.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Paraliz-w-Portugalii-200-tys-cudzoziemcow-nie-moze-zalegalizowac-pobytu-8436866.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -406,3 +406,4 @@ był najmniejszy od 18 lat.</p>
  - date published: 2022-11-09 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/6/30b7bb361c0c5f-948-567-0-67-1000-599.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W środę 9 listopada odbędzie się kolejny duży strajk w Brukseli. Belgowie będą protestować przeciw rosnącym cenom energii i produktów w sklepach.  Z lotniska w stolicy odwołanych ma zostać 40 proc. lotów.</p>
+

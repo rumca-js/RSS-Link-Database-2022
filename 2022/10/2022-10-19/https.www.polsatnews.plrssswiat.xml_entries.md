@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. Ukraińskie miasto ostrzelane pociskami zapalającymi
  - [https://www.polsatnews.pl/wiadomosc/2022-10-19/wojna-w-ukrainie-ukranskie-miasto-ostrzelane-pociskami-zapalajacymi/](https://www.polsatnews.pl/wiadomosc/2022-10-19/wojna-w-ukrainie-ukranskie-miasto-ostrzelane-pociskami-zapalajacymi/)
@@ -111,3 +111,4 @@ Administracja okupowanego Chersonia wysłała do mieszkańców SMS-y o konieczno
  - date published: 2022-10-19 04:19:00+00:00
 
 Tragicznie zakończyła się bójka dwóch mężczyzn w nowojorskim metrze. Jeden z nich został wepchnięty na tory, wprost pod nadjeżdżający pociąg. 48-latek nie przeżył. Wszystko zaczęło się od przypadkowego zderzenia.
+

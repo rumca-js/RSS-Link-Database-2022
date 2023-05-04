@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Gran Turismo chief says devs are ‘looking into’ a PC port
  - [https://www.theverge.com/2022/11/27/23480846/gran-turismo-chief-looking-into-pc-port-playstation](https://www.theverge.com/2022/11/27/23480846/gran-turismo-chief-looking-into-pc-port-playstation)
@@ -158,3 +158,4 @@
   <p>
     <a href="https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Clam Thought To Have Gone ‘Extinct’ 30,000 Years Ago Found Alive
  - [https://www.dailywire.com/news/clam-thought-to-have-gone-extinct-30000-years-ago-found-alive](https://www.dailywire.com/news/clam-thought-to-have-gone-extinct-30000-years-ago-found-alive)
@@ -300,3 +300,4 @@ A federal judge appointed by former President Barack Obama faced backlash this w
  - date published: 2022-11-18 00:53:03+00:00
 
 Daily Wire Host and best selling author Matt Walsh addressed a crowd of about 400 people at the University of California, Berkeley after airing his acclaimed documentary “What is a Woman?” UC Berkeley is well known for the left-wing tilt of its campus culture and its history as the birthplace of the free speech movement — ...
+

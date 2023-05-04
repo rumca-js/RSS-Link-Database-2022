@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Dazzling Kylian Mbappé displays his range of talents to inspire France win | Barney Ronay
  - [https://www.theguardian.com/football/blog/2022/nov/22/dazzling-kylian-mbappe-displays-his-range-of-talents-to-inspire-france-win](https://www.theguardian.com/football/blog/2022/nov/22/dazzling-kylian-mbappe-displays-his-range-of-talents-to-inspire-france-win)
@@ -1049,3 +1049,4 @@ A supremely simple supper that punches way above its weight in terms of flavour<
  - date published: 2022-11-22 00:24:13+00:00
 
 <p>Speculation that Belgian designer may be closing brand due to tough financial market and to focus on role at Prada</p><p>Raf Simons is closing his eponymous label after 27 years.</p><p>Announcing the news on Monday via a brief statement on Instagram, the Belgian-born fashion designer revealed that the brand’s spring/summer 2023 collection shown in October in London will be its last.</p> <a href="https://www.theguardian.com/fashion/2022/nov/22/raf-simons-to-close-fashion-label-after-nearly-three-decades">Continue reading...</a>
+

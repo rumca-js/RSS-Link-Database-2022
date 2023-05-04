@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Nothing Ear (stick) will have the price but maybe not all you want in ear buds
  - [https://www.techradar.com/news/nothing-ear-stick-will-have-the-price-but-maybe-not-all-you-want-in-ear-buds/](https://www.techradar.com/news/nothing-ear-stick-will-have-the-price-but-maybe-not-all-you-want-in-ear-buds/)
@@ -251,3 +251,4 @@ The OM System OM-5 is an upgraded version of its Olympus-branded predecessor, tr
  - date published: 2022-10-26 03:35:53+00:00
 
 Rode is launching a new line of microphones with accompanying software Unify, tailored specifically for streamers and gamers under the sub-range Rode X.
+

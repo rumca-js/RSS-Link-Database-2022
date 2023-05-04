@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Medicalgorithmics ma inwestora. Gwałtowny wzrost kursu akcji
  - [https://www.bankier.pl/wiadomosc/Biofund-Capital-Management-obejmie-49-99-proc-akcji-Medicalgorithmics-8415722.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Biofund-Capital-Management-obejmie-49-99-proc-akcji-Medicalgorithmics-8415722.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -181,3 +181,4 @@ temperatury w domu. </p>
  - date published: 2022-10-01 04:46:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/4/33a66c2997c7fc-948-568-0-100-1920-1151.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W sobotę 1 października, wraz z początkiem tzw. roku gazowego ruszyć ma import gazu przez gazociąg Baltic Pipe. W pierwszych dniach działania płynąć ma nim do Polski gaz duński. Przez około dwa miesiące gazociąg będzie działał z ograniczoną mocą.</p>
+

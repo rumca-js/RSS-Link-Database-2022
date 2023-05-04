@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## MIDTERM EXAM: Tidbits And More From The Campaign Trail (Part Two)
  - [https://www.dailywire.com/news/midterm-exam-tidbits-and-more-from-the-campaign-trail-part-two](https://www.dailywire.com/news/midterm-exam-tidbits-and-more-from-the-campaign-trail-part-two)
@@ -153,3 +153,4 @@ Florida Republican Governor Ron DeSantis explained during an interview Friday ni
  - date published: 2022-10-08 08:03:15+00:00
 
 A key bridge connecting Crimea to mainland Russia was badly damaged in a huge explosion early Saturday, according to Russian media and social media video. The Kerch bridge, which joins the annexed Russian peninsula to Russia, is Europe’s longest bridge. Reports said an explosion ignited fuel tanks on the strategically important bridge, and social media ...
+

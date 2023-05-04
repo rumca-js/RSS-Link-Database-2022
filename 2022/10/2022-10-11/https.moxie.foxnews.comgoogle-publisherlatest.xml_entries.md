@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Yordan Alvarez' walk-off homer completes Astros' comeback in Game 1 of ALDS
  - [https://www.foxnews.com/sports/yordan-alvarez-walk-off-homer-completes-astros-comeback-game-1-alds](https://www.foxnews.com/sports/yordan-alvarez-walk-off-homer-completes-astros-comeback-game-1-alds)
@@ -1294,3 +1294,4 @@ Planned Parenthood was criticized last week after one of its videos promoting ho
  - date published: 2022-10-11 00:04:12+00:00
 
 British entertainer John Cleese, who was part of the Monty Python comedy troupe, will be joining a new channel and launching a new show to discuss cancel culture.
+

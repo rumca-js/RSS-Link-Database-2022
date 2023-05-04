@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Kętrzyn. W mieszkaniu na ostatnim piętrze wybuchł pożar. Mężczyzna wyskoczył z balkonu
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29206635,ketrzyn.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29206635,ketrzyn.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -153,3 +153,4 @@
  - date published: 2022-11-30 06:07:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/47/cc/1b/z29147207M,Minister-edukacji-i-nauki-Przemyslaw-Czarnek-podcz.jpg" vspace="2" />Senat odrzucił Lex Czarnek 2.0. Nowelizacja ustawy Prawo oświatowe wróci teraz do Sejmu. Od głosowania posłów będzie zależało, czy projekt trafi do prezydenta Andrzeja Dudy, czy zostanie ostatecznie odrzucony.
+

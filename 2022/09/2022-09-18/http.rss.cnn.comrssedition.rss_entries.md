@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Former Royal cheff says the Queen only ever sent one dish back and it's not what you think
  - [https://www.cnn.com/videos/world/2022/09/18/queen-elizabeth-ii-chef-higgins-acostanr-vpx.cnn](https://www.cnn.com/videos/world/2022/09/18/queen-elizabeth-ii-chef-higgins-acostanr-vpx.cnn)
@@ -260,3 +260,4 @@ With the sun shining, drinks on the table and music in the air, it looks like th
  - date published: 2022-09-18 01:11:58+00:00
 
 About two million people in southwestern Japan have been ordered to evacuate ahead of a powerful typhoon forecast to hit the region on Sunday, according to public broadcaster NHK-World Japan.
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## All iPhone 15 models will reportedly feature Dynamic Island display cutouts
  - [https://www.engadget.com/all-iphone-15-models-will-reportedly-feature-dynamic-island-cutouts-222957434.html?src=rss](https://www.engadget.com/all-iphone-15-models-will-reportedly-feature-dynamic-island-cutouts-222957434.html?src=rss)
@@ -41,3 +41,4 @@
  - date published: 2022-09-18 15:00:37+00:00
 
 <p>We all have those thoughts, the ones that come to us in the small hours of the night. Who am I? Why are we here? What if my cellphone ran on vacuum tubes instead? Randall Munroe has the answer to, well, only one of those questions, but also the answers to a whole bunch of others collected together into <a href="https://www.amazon.com/gp/product/0525537112/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=productpost2022-20&amp;language=en_USa"><em>What If? 2: Additional Serious Scientific Answ
+

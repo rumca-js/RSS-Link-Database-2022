@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## TikTok wprowadza przydatną funkcję dla wszystkich użytkowników
  - [https://ithardware.pl/aktualnosci/tiktok_wprowadza_przydatna_funkcje_dla_wszystkich_uzytkownikow-23489.html](https://ithardware.pl/aktualnosci/tiktok_wprowadza_przydatna_funkcje_dla_wszystkich_uzytkownikow-23489.html)
@@ -105,3 +105,4 @@ Choć popularność laptop&oacute;w stale rośnie, wciąż nie brakuje os&oacute
 
 Valve udostępniło na Steam panel Steam...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/steam_prezentuje_funkcje_charts_ktora_pokaze_jakie_gry_sa_popularne-23480.html">https://ithardware.pl/aktua
+

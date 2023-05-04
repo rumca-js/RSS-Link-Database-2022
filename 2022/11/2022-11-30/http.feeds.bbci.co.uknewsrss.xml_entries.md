@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Royal race row' and Covid jabs warning
  - [https://www.bbc.co.uk/news/blogs-the-papers-63816860?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63816860?at_medium=RSS&at_campaign=KARANGA)
@@ -636,3 +636,4 @@ The action is the latest in a series of walkouts and will affect deliveries of l
  - date published: 2022-11-30 00:02:39+00:00
 
 One in every 26 trains has been cancelled this year, which on top of strikes are adding to passengers' woes.
+

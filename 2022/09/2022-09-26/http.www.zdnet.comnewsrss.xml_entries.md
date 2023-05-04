@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The Eve Light Strips are on sale at Amazon: Save $38
  - [https://www.zdnet.com/home-and-office/smart-home/eve-light-strips-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eve-light-strips-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
@@ -188,3 +188,4 @@ When you're looking for the best VPN for your Windows PC, everything from server
  - date published: 2022-09-26 01:08:01+00:00
 
 With digital transformation comes the need for data and Google Cloud says it wants to help Singapore organisations generate the insights they need to identify revenue opportunities, but they should do so with the right guidelines to ensure they use AI ethically.
+

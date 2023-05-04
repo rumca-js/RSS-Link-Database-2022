@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Blizzard będzie nagrywał rozmowy głosowe w Overwatch 2
  - [https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html](https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html)
@@ -183,3 +183,4 @@ Kilka tygodni temu w...
 
 <img src="https://ithardware.pl/artykuly/min/23529_1.jpg" />            Wiedźmin 3: Dziki Gon cieszy się bardzo dużą popularnością wśr&oacute;d tw&oacute;rc&oacute;w mod&oacute;w i nieustannie jesteśmy zasypywani kolejnymi ciekawymi modyfikacjami do tej gry. Od czasu do czasu w sieci pojawia się jednak mod do...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/wiedzmin_3_ciri_niczym_gwiazda_porno_tworca_modow_przesadzil-23529.html">https://ithardware.pl/aktualnosci/w
+

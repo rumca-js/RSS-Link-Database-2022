@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Black Friday AirPods Pro 2 deal 2022: Save $50 on Apple's new earbuds
  - [https://www.zdnet.com/article/airpods-pro-2-black-friday-deal-cyber-monday-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-black-friday-deal-cyber-monday-2022-sale/#ftag=RSSbaffb68)
@@ -363,3 +363,4 @@ Black Friday deals started earlier than ever, with retailers offering the lowest
  - date published: 2022-11-26 00:11:00+00:00
 
 New and existing Verizon customers can upgrade to a 5G smartphone like the iPhone 12 mini, the Google Pixel 6, or the Samsung Galaxy S20 and get three free gifts: A free smartwatch, tablet, and earbuds.
+

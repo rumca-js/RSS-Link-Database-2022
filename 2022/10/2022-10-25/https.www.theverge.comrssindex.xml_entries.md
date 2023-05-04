@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Starlink satellite internet for moving vehicles launches in December
  - [https://www.theverge.com/2022/10/25/23423755/spacex-starlink-for-rvs-moving-vehicles-flat-high-performance](https://www.theverge.com/2022/10/25/23423755/spacex-starlink-for-rvs-moving-vehicles-flat-high-performance)
@@ -833,3 +833,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/25/23422343/whatsapp-down-outage">Continue reading&hellip;</a>
   </p>
+

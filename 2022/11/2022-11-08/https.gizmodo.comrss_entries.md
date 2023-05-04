@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## New to Mastodon? Here's How to DM Like a Pro
  - [https://gizmodo.com/mastodon-how-to-dm-send-messages-twitter-1849759852](https://gizmodo.com/mastodon-how-to-dm-send-messages-twitter-1849759852)
@@ -300,3 +300,4 @@
  - date published: 2022-11-08 01:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--C81aN1ki--/c_fit,fl_progressive,q_80,w_636/bdc7f3dfa2346392502147867066f8da.png" /><p>Experience Matt Reeves’ moody and dark spectacle in a theater where it won’t matter if the visuals are too dim, because you’ll hear <a href="https://gizmodo.com/the-batman-perfume-candle-houe-of-sillage-1849715344"><em>The Batman</em></a><em> </em>in a whole new way. The “<a href="https://gizmodo.com/warner-bros-dc-release-dates-hbo-max-cast-details-1848354161">DC</a> in Concert” series aims to bring Warner Brothers’ new and classic superhero catalogue to audiences by appealing to cinema fans who want to see their…</p><p><a href="https://gizmodo.com/the-batman-score-dc-in-concert-tour-michael-giacchino-1849755033">Read more...</a></p>
+

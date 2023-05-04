@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Brazil's Bolsonaro and Lula battle it out for top job
  - [https://www.bbc.co.uk/news/world-latin-america-63439230?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63439230?at_medium=RSS&at_campaign=KARANGA)
@@ -391,3 +391,4 @@ Ernest Marke was attacked by a white mob in Liverpool.
  - date published: 2022-10-29 00:03:35+00:00
 
 World Cup host Qatar is receiving complaints over its human rights record and laws on homosexuality.
+

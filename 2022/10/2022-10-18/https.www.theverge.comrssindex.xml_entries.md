@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Netflix is ‘seriously exploring’ a cloud gaming service
  - [https://www.theverge.com/2022/10/18/23411684/netflix-cloud-gaming-studio-pc-tv](https://www.theverge.com/2022/10/18/23411684/netflix-cloud-gaming-studio-pc-tv)
@@ -772,3 +772,4 @@
     </figure>
 
   <p id="2nLAGC">Last year, only a thir
+

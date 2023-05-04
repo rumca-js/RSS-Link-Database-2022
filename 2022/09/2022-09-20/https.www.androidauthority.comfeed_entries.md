@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Samsung Galaxy phone not charging? Try these 6 solutions
  - [https://www.androidauthority.com/samsung-galaxy-phone-not-charging-3209842/](https://www.androidauthority.com/samsung-galaxy-phone-not-charging-3209842/)
@@ -104,3 +104,4 @@ You're better off choosing "don't recommend channel" or "remove from watch histo
  - date published: 2022-09-20 07:15:40+00:00
 
 The "yes" camp only won by a few percentage points.
+

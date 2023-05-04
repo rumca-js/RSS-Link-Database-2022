@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This new AMD feature can boost your games with one click
  - [https://www.digitaltrends.com/computing/amd-advantage-hypr-rx-desktop-pcs/](https://www.digitaltrends.com/computing/amd-advantage-hypr-rx-desktop-pcs/)
@@ -20,3 +20,4 @@ Clippy has returned in the form of an ugly Christmas sweater.
  - date published: 2022-11-15 00:05:10.536342+00:00
 
 AMD experts talked about the creation of the upcoming Radeon RX 7900 XTX. The GPU lineup had very small beginnings.
+

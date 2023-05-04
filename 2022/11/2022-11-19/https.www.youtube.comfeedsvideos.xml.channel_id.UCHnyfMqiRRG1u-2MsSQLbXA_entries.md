@@ -1,4 +1,4 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
+# Source:Veritasium, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, language:en-US
 
 ## The world depends on a strange collection of items. They're not cheap
  - [https://www.youtube.com/watch?v=esQyYGezS7c](https://www.youtube.com/watch?v=esQyYGezS7c)
@@ -36,3 +36,4 @@ Filmed by Derek Muller, Trenton Oliver, and Emily Zhang
 Additional video/photos supplied by Pond5 & Getty Images
 Music from Epidemic Sound 
 Produced by Derek Muller, Petr Lebedev, and Emily Zhang
+

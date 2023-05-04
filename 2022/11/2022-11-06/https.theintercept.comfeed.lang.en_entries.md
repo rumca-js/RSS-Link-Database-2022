@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## America's 9/11 Wars Created the Foot Soldiers of Far-Right Violence at Home
  - [https://theintercept.com/2022/11/06/jan-6-far-right-us-military/](https://theintercept.com/2022/11/06/jan-6-far-right-us-military/)
@@ -15,3 +15,4 @@
 
 <p>A Kentucky ballot measure, Amendment 2, would bar state courts from considering the constitutionality of abortion.</p>
 <p>The post <a href="https://theintercept.com/2022/11/06/kentucky-abortion-amendment-2/" rel="nofollow">Kentucky Lawmakers Seek Exclusive Control Over Residents’ Reproductive Rights</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

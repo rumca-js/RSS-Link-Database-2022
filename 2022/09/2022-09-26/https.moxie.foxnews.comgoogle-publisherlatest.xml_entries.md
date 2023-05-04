@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Swedish Golf Federation cuts ties with Henrik Stenson over LIV Golf, Ian Poulter takes aim
  - [https://www.foxnews.com/sports/swedish-golf-federation-cuts-ties-henrik-stenson-liv-golf-ian-poulter-takes-aim](https://www.foxnews.com/sports/swedish-golf-federation-cuts-ties-henrik-stenson-liv-golf-ian-poulter-takes-aim)
@@ -1105,3 +1105,4 @@ Lara Trump called President Joe Biden an "anchor around the neck of the Democrat
  - date published: 2022-09-26 00:03:13+00:00
 
 The Atlantic staff writer Tom Nichols painted a grim picture of how America might look if Republicans take back power in Congress.
+

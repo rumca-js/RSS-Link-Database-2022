@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Korea Południowa: Wzrosła liczba ofiar śmiertelnych tragedii w Seulu
  - [https://wydarzenia.interia.pl/zagranica/news-korea-poludniowa-wzrosla-liczba-ofiar-smiertelnych-tragedii-,nId,6382344](https://wydarzenia.interia.pl/zagranica/news-korea-poludniowa-wzrosla-liczba-ofiar-smiertelnych-tragedii-,nId,6382344)
@@ -539,3 +539,4 @@
  - date published: 2022-10-31 04:35:39+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-250-dzien-inwazji-rosji-relacja-na-zywo,nzId,3300,akt,310758"><img align="left" alt="Wojna w Ukrainie. 250. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-250-dzien-inwazji-rosji-relacja-na-zywo/000G70MPRMR20S30-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

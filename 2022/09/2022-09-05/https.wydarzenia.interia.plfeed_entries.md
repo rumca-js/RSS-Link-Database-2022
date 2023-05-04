@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Francja dostarczy gaz do Niemiec. "Potrzebujemy rozwiązań na poziomie Unii"
  - [https://wydarzenia.interia.pl/zagranica/news-francja-dostarczy-gaz-do-niemiec-potrzebujemy-rozwiazan-na-p,nId,6266770](https://wydarzenia.interia.pl/zagranica/news-francja-dostarczy-gaz-do-niemiec-potrzebujemy-rozwiazan-na-p,nId,6266770)
@@ -447,3 +447,4 @@
  - date published: 2022-09-05 03:51:32+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-194-dzien-inwazji-relacja-na-zywo,nzId,2946,akt,050840"><img align="left" alt="Wojna w Ukrainie. 194 dzień inwazji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-194-dzien-inwazji-relacja-na-zywo/000G0YTRGSKHRFTW-C321.jpg" /></a>Najważniejsze i najnowsze informacje dotyczące wojny w Ukrainie w jednym miejscu. Śledź naszą relację na żywo.</p><br clear="all" />
+

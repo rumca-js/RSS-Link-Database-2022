@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## YouTube has finally stopped crashing on Apple devices, for some
  - [https://www.androidauthority.com/apple-youtube-crash-3243050/](https://www.androidauthority.com/apple-youtube-crash-3243050/)
@@ -118,3 +118,4 @@ The Huawei Watch Buds features a watch display that pops up to reveal earbud slo
  - date published: 2022-11-30 06:11:49+00:00
 
 Google announced the perk at the Pixel 7 series launch in October, and it's finally here.
+

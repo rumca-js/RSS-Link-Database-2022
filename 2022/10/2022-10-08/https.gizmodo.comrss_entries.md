@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The Walking Dead Teases a Simmering Conflict In a New Clip
  - [https://gizmodo.com/walking-dead-nycc-clipcomic-con-final-season-1849627662](https://gizmodo.com/walking-dead-nycc-clipcomic-con-final-season-1849627662)
@@ -132,3 +132,4 @@
  - date published: 2022-10-08 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--k4z96Bum--/c_fit,fl_progressive,q_80,w_636/da01440016a56124863eed175c29c5b3.jpg" /><p><a href="https://gizmodo.com/she-hulk-attorney-at-law-episode-8-review-1849633036">Read more...</a></p>
+

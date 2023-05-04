@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Holandia wprowadzi maksymalny pułap cen dla rachunków za energię i gaz
  - [https://www.bankier.pl/wiadomosc/Holandia-wprowadzi-maksymalny-pulap-cen-dla-rachunkow-za-energie-i-gaz-8408531.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Holandia-wprowadzi-maksymalny-pulap-cen-dla-rachunkow-za-energie-i-gaz-8408531.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -412,3 +412,4 @@ mocniej obciążają portfel.</p>
  - date published: 2022-09-19 00:07:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/4/7ed7ed957b3338-948-568-0-22-3000-1799.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent Ukrainy Wołodymyr Zełenski oświadczył w niedzielę wierczorem, że kontrofensywa wojsk ukraińskich przeciwko armii rosyjskiej będzie kontynuowana a wrażenie, iż na froncie, po serii zwycięstw ukraińskich, zapanowała "pewna cisza" jest mylne.</p>
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Uber Boss Testifies He ‘Could Not Trust’ Ex-Security Chief
  - [https://www.nytimes.com/2022/09/16/business/dara-khosrowshahi-ceo-uber-breach-trial.html](https://www.nytimes.com/2022/09/16/business/dara-khosrowshahi-ceo-uber-breach-trial.html)
@@ -48,3 +48,4 @@ The video platform will let more creators earn payments and place ads in Shorts,
  - date published: 2022-09-16 01:12:03+00:00
 
 The company said on Thursday that it was looking into the scope of the apparent hack.
+

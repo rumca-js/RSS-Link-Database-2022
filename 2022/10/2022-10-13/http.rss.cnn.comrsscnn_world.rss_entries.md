@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Qatari Emir met with Putin to 'defuse tensions' between Moscow and Doha, source says
  - [https://www.cnn.com/2022/10/13/middleeast/qatar-russia-talks-intl/index.html](https://www.cnn.com/2022/10/13/middleeast/qatar-russia-talks-intl/index.html)
@@ -76,3 +76,4 @@ A Singapore court on Tuesday sentenced an OnlyFans creator to three weeks in pri
  - date published: 2022-10-13 00:12:51+00:00
 
 Every decade or so, China's political system is wrenched by change. Some of these events are headline-grabbing -- the Tiananmen massacre of 1989 or the brutal crushing of the Falun Gong spiritual movement in 1999.
+

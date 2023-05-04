@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## This Windows Dev Kit Is the Mac Mini of the PC World
  - [https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668](https://lifehacker.com/this-windows-dev-kit-is-the-mac-mini-of-the-pc-world-1849704668)
@@ -146,3 +146,4 @@
  - date published: 2022-10-26 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--AVQDpXom--/c_fit,fl_progressive,q_80,w_636/188caabea973ec9f7a69df8f1b965d1b.jpg" /><p>About twice a month, my boyfriend and I order doughnuts on Saturday evening, usually around 10 p.m., almost always while watching Italian horror movies. We order a dozen, which is too many doughnuts for two people to eat in an evening. My boyfriend does not take any doughnuts with him when he goes back to his place on…</p><p><a href="https://lifehacker.com/fry-your-sad-stale-doughnuts-in-salted-butter-1849701197">Read more...</a></p>
+

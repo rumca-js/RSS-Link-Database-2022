@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## PlayStation 5 Slim ma zadebiutować w 2023 roku. Co wiemy o nowej konsoli?
  - [https://ithardware.pl/aktualnosci/playstation_5_slim_ma_zadebiutowac_w_2023_roku_co_wiemy_o_nowej_konsoli-24245.html](https://ithardware.pl/aktualnosci/playstation_5_slim_ma_zadebiutowac_w_2023_roku_co_wiemy_o_nowej_konsoli-24245.html)
@@ -165,3 +165,4 @@ Alibaba zaprezentowała sw&oacute;j imponujący 128-rdzeniowy...
 
 <img src="https://ithardware.pl/artykuly/min/24218_1.jpg" />            Kolejne mundialowe promocje w x-komie już są. W pierwszej z nich możesz kupić wymarzony smartfon z rabatem do 400 zł. Druga promocja to znana klientom x-komu akcja o nazwie 100x100, gdzie rabaty na produkty z r&oacute;żnych kategorii sięgają...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/smartfony_nawet_do_400_zl_taniej_i_promocja_100x100_z_rabatami_do_58-24218.html">https://ithardware.pl/aktualnosci/smartfony_nawet_do_400_zl_taniej_i_promocja_100x100_z_rabatami_do_58-24218.html</a></p>
+

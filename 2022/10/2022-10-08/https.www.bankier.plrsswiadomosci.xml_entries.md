@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Oszustka, której życie zainspirowało serial Netflixa wyszła z więzienia
  - [https://www.bankier.pl/wiadomosc/Oszustka-ktorej-zycie-zainspirowalo-serial-Netflixa-wyszla-z-wiezienia-8419725.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Oszustka-ktorej-zycie-zainspirowalo-serial-Netflixa-wyszla-z-wiezienia-8419725.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -253,3 +253,4 @@
  - date published: 2022-10-08 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/c/d/864250ac59a05e-945-567-11-93-1488-893.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Nadmierne stosowanie tymczasowego aresztowania w Polsce stanowi problem od lat. Największą liczbę osób przebywających w aresztach śledczych odnotowano w 2001 roku - ponad 24 tys. osób. W kolejnej dekadzie...</p>
+

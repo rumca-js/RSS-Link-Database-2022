@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Apple Watch female health tracking: Everything you need to know
  - [https://www.androidauthority.com/apple-watch-female-health-tracking-3213080/](https://www.androidauthority.com/apple-watch-female-health-tracking-3213080/)
@@ -132,3 +132,4 @@ Update: A bumped-up security version and not much else.
  - date published: 2022-09-29 06:37:45+00:00
 
 Are the Pixel 7 series colorways a step back from the Pixel 6 series?
+

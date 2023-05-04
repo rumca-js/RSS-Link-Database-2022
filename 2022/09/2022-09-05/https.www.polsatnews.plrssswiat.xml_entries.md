@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Sean Penn i Ben Stiller wpisani na "czarną listę". Mają zakaz wjazdu do Rosji
  - [https://www.polsatnews.pl/wiadomosc/2022-09-05/sean-penn-i-ben-stiller-wpisani-na-czarna-liste-maja-zakaz-wjazdu-do-rosji/](https://www.polsatnews.pl/wiadomosc/2022-09-05/sean-penn-i-ben-stiller-wpisani-na-czarna-liste-maja-zakaz-wjazdu-do-rosji/)
@@ -104,3 +104,4 @@ Zamachowiec-samobójca zdetonował materiały wybuchowe w pobliżu wejścia do a
  - date published: 2022-09-05 04:08:00+00:00
 
 Wciąż nie odnaleziono 57-letniego Polaka, który w sobotę wyszedł na Rysy i nie wrócił. O zaginięciu słowackich ratowników z Horskiej Zachrannej Służby (HZS) poinformował kolega mężczyzny, który miał się z nim spotkać. W trakcie poszukiwań z pomocą dronów i śmigłowca odnaleziono śpiwór należący do zaginionego.
+

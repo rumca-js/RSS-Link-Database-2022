@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch media get trolled by this bro who claimed Twitter laid him off, his fake name didn't set off any red flags
  - [https://www.louderwithcrowder.com/twitter-elon-musk-layoff](https://www.louderwithcrowder.com/twitter-elon-musk-layoff)
@@ -165,3 +165,4 @@
 <a href="https://youtu.be/e9YA0z3j5AA" target="_blank">youtu.be</a>
 </small>
 </p>
+

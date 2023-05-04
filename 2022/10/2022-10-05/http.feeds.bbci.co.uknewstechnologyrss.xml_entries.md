@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Ex-Google ad boss builds tracker-free search engine
  - [https://www.bbc.co.uk/news/technology-63130364?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63130364?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ The story of Musk buying Twitter, and how it began with "X, the everything app".
  - date published: 2022-10-05 04:33:43+00:00
 
 Elizabeth Holmes requested a new trial after claiming federal prosecutors presented misleading evidence.
+

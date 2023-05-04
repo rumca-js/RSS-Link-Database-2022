@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This Google Chrome tool could actually be used to steal login data
  - [https://www.techradar.com/news/this-google-chrome-tool-could-actually-be-used-to-steal-login-data/](https://www.techradar.com/news/this-google-chrome-tool-could-actually-be-used-to-steal-login-data/)
@@ -244,3 +244,4 @@ To mark Fallout's 25th anniversary, Bethesda is making multiplayer FPS Fallout 7
  - date published: 2022-10-04 05:00:43+00:00
 
 The Synk X is a new haptic gaming chair from Cooler Master, which comes with tons of features such as Bluetooth compatibility.
+

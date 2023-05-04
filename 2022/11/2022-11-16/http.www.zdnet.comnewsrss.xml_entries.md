@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Stop using Twitter to log in to other websites
  - [https://www.zdnet.com/article/stop-using-twitter-to-log-in-to-other-websites/#ftag=RSSbaffb68](https://www.zdnet.com/article/stop-using-twitter-to-log-in-to-other-websites/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ You can enjoy $80 off a large, curved gaming monitor ahead of Black Friday, cour
  - date published: 2022-11-16 08:47:07+00:00
 
 Central banks of Singapore, Indonesia, Malaysia, Thailand, and the Philippines have signed an agreement to boost connectivity and facilitate speedier and "more transparent" cross-border payments.
+

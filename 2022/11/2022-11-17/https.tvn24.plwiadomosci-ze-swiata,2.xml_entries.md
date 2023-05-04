@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Polski elektryk na chińskiej platformie
  - [https://tvn24.pl/biznes/moto/izera-polski-samochod-elektryczny-ma-powstac-na-chinskiej-platformie-technologicznej-firmy-geely-6224725?source=rss](https://tvn24.pl/biznes/moto/izera-polski-samochod-elektryczny-ma-powstac-na-chinskiej-platformie-technologicznej-firmy-geely-6224725?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Porwał 16-latkę spod klubu nocnego, zgwałcił i uwięził. Wyśledził go ojciec dziewczyny" src="https://tvn24.pl/najnowsze/cdn-zdjecie-focve9-liverpool-uk-miasto-ulica-shutterstock298828970-6224441/alternates/LANDSCAPE_1280" />
     Trzydziestoczteroletni mężczyzna uprowadził szesnastolatkę spod klubu nocnego pod pozorem pomocy. Przetrzymywał ją i wykorzystał seksualnie. Wyśledził go ojciec dziewczyny z pomocą taksówkarza. Porywacz został skazany na siedem i pół roku więzienia.
+

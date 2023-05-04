@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## The Fallout of the FTX Collapse
  - [https://www.wired.com/story/the-fallout-of-the-ftx-collapse/](https://www.wired.com/story/the-fallout-of-the-ftx-collapse/)
@@ -27,3 +27,4 @@ Tens of thousands of job cuts have rocked the industry, but unemployment among t
  - date published: 2022-11-11 12:00:00+00:00
 
 Layoffs leave only two people in the company’s Brussels office, just as Europe prepares to enforce sweeping new tech rules.
+

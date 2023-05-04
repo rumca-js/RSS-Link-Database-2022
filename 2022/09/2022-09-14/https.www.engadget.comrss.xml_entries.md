@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## California sues Amazon for preventing third-party sellers offering cheaper prices elsewhere
  - [https://www.engadget.com/california-amazon-antitrust-lawsuit-prices-195937087.html?src=rss](https://www.engadget.com/california-amazon-antitrust-lawsuit-prices-195937087.html?src=rss)
@@ -188,3 +188,4 @@
  - date published: 2022-09-14 00:54:12+00:00
 
 <p>It's been awhile since Sony teased us with the next installment in Kratos' story. <a href="https://www.engadget.com/god-of-war-ragnarok-november-9-release-date-134836215.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAFsbB8dQbnA5yoH8a-JgTbeEtHX3ccLyhQU2EngRqVi0VfDvSLkJbGjr0R_b60ctEU6YtDwr195q3QLutsUswiXWIF38LZi4sfHH2b4dqzkTEW3L1S0xTz9C42QFLsiH-sV4TDfDwvRJ9tNTk8cCVJ3dy6y3IoiLTrufvE94_oy4">Earlier this year,</a> a first look at <em>God of War: Ragn
+

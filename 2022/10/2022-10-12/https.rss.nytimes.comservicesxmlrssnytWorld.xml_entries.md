@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Offensive Will Push Through Winter, U.S. Defense Chief Says
  - [https://www.nytimes.com/2022/10/12/world/europe/russia-ukraine-war.html](https://www.nytimes.com/2022/10/12/world/europe/russia-ukraine-war.html)
@@ -160,3 +160,4 @@ Calls for more weapons for Ukraine.
  - date published: 2022-10-12 04:01:08+00:00
 
 Fears of more severe retaliation grew after the attack on Russia’s sole bridge to Crimea. But U.S. officials have said they think the chances of Moscow using nuclear weapons are low.
+

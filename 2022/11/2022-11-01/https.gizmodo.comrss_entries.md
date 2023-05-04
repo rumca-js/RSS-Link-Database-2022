@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Bryan Fuller Wants His Friday the 13th Show to Go to Space
  - [https://gizmodo.com/friday-the-13-prequel-crystal-lake-peacock-bryan-fuller-1849729795](https://gizmodo.com/friday-the-13-prequel-crystal-lake-peacock-bryan-fuller-1849729795)
@@ -244,3 +244,4 @@
  - date published: 2022-11-01 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--45fdDIbT--/c_fit,fl_progressive,q_80,w_636/a9a71a9f939b140296e2870555a5aeb2.jpg" /><p><a href="https://gizmodo.com/webb-telescope-images-the-pillars-of-creation-1849725916">Read more...</a></p>
+

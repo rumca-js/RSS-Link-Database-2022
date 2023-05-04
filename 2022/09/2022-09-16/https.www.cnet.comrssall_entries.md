@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## T-Mobile Spends $300 Million to Boost Service in Latest 5G Auction     - CNET
  - [https://www.cnet.com/tech/mobile/t-mobile-spends-300-million-to-boost-service-in-latest-5g-auction/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/t-mobile-spends-300-million-to-boost-service-in-latest-5g-auction/#ftag=CADf328eec)
@@ -825,3 +825,4 @@ Apple's iOS 16 security feature can guard against an industrial-strength iPhone 
  - date published: 2022-09-16 00:00:02+00:00
 
 Improper sleeping postures can take a toll on your back. Here's how to use a pillow to relieve lower back pain.
+

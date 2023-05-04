@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Urgent Bunnings Warehouse recall of popular product
  - [https://www.dailymail.co.uk/news/article-11454953/Urgent-Bunnings-Warehouse-recall-popular-product.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11454953/Urgent-Bunnings-Warehouse-recall-popular-product.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1735,3 +1735,4 @@ When Mick Thompson walks around his North Devon farm, it's the silence that gets
  - date published: 2022-11-21 00:05:07+00:00
 
 From November 30 to December 2, the Prince and Princess of Wales will travel around Boston learning about the city's history and ambitious attempts to combat the effects of climate change.
+

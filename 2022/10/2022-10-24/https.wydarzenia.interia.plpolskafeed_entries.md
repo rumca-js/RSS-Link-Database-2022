@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Kosiniak-Kamysz: Możliwe, że wiosną Morawiecki będzie chciał, by doszło do zmiany premiera
  - [https://wydarzenia.interia.pl/kraj/news-kosiniak-kamysz-mozliwe-ze-wiosna-morawiecki-bedzie-chcial-b,nId,6367453](https://wydarzenia.interia.pl/kraj/news-kosiniak-kamysz-mozliwe-ze-wiosna-morawiecki-bedzie-chcial-b,nId,6367453)
@@ -13,3 +13,4 @@
  - date published: 2022-10-24 05:42:12+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-masz-tylko-kilka-dni-by-dostac-dodatkowe-3-tys-zl-termin-na-,nId,6362066"><img align="left" alt="Masz tylko kilka dni, by dostać dodatkowe 3 tys. zł. Termin na złożenie wniosku już blisko " src="https://i.iplsc.com/masz-tylko-kilka-dni-by-dostac-dodatkowe-3-tys-zl-termin-na/000E3JAAIAVLBT8L-C321.jpg" /></a>Obecny sezon grzewczy jest szczególnie trudny ze względu na rosnące ceny opały i energii. Rząd, aby to zrekompensować, zaproponował dodatki do ogrzewania. Dotyczą one różnych źródeł ciepła i różnią się między sobą kwotami wypłacanego świadczenia. Sprawdź, jakie są możliwości otrzymania dofinansowania i do kiedy trzeba złożyć wnioski o dodatek do ogrzewania.</p><br clear="all" />
+

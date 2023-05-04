@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Microsoft says it will keep Call of Duty on PlayStation 'as long as there's a PlayStation out there'
  - [https://www.pcgamer.com/microsoft-says-it-will-keep-call-of-duty-on-playstation-as-long-as-theres-a-playstation-out-there](https://www.pcgamer.com/microsoft-says-it-will-keep-call-of-duty-on-playstation-as-long-as-theres-a-playstation-out-there)
@@ -244,3 +244,4 @@ Sorting through every new game on Steam so you don't have to.
  - date published: 2022-10-31 00:26:18+00:00
 
 My clock tried to kill me.
+

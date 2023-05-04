@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 3 Common misconceptions about object-relational mapping
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58877](https://www.codeproject.com/script/News/View.aspx?nwid=58877)
@@ -90,3 +90,4 @@ If your AI apocalypse needs to be standardized
  - date published: 2022-09-14 04:00:00+00:00
 
 He copies those floppies
+

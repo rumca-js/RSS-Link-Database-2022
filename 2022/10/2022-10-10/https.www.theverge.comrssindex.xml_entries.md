@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The Verge Guide to Amazon’s Prime Early Access Sale
  - [https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)
@@ -193,3 +193,4 @@
     </figure>
 
   <p id="bADZ01"><em>Call of Duty: Modern Warfare II</em> will require players to register with a phone number on Battle.net to play the game, in order to 
+

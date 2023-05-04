@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## New RansomExx Ransomware Variant Rewritten in the Rust Programming Language
  - [https://thehackernews.com/2022/11/new-ransomexx-ransomware-variant.html](https://thehackernews.com/2022/11/new-ransomexx-ransomware-variant.html)
@@ -50,3 +50,4 @@ SharkBot, first discovered towards
 
 Companies based in the U.S. have been at the receiving end of an "aggressive" Qakbot malware campaign that leads to Black Basta ransomware infections on compromised networks.
 "In this latest campaign, the Black Basta ransomware gang is using QakBot malware to create an initial point of entry and move laterally within an organization's network," Cybereason researchers Joakim Kandefelt and
+

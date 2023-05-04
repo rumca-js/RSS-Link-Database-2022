@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## The 2022 Emmy Awards are starting soon
  - [https://cnn.it/3eCRxTj](https://cnn.it/3eCRxTj)
@@ -514,3 +514,4 @@ Indian poet Ashok Vajpeyi called Bikaner "a city where one half of the populatio
  - date published: 2022-09-12 00:15:01+00:00
 
 Chief Justice John Roberts says he's worried that the Supreme Court is losing "legitimacy" in the eyes of those disagree with its decisions. Addressing a judicial conference Friday in Colorado, Roberts acknowledged, "The court has always decided controversial cases and decisions always have been subject to intense criticism and that is entirely appropriate."
+

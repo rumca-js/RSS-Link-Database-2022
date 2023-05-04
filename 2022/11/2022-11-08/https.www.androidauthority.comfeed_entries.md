@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## The Google Home app public preview is live and you can sign up now
  - [https://www.androidauthority.com/google-home-public-preview-3232744/](https://www.androidauthority.com/google-home-public-preview-3232744/)
@@ -153,3 +153,4 @@ Start organizing all of those open tabs of yours.
  - date published: 2022-11-08 01:52:24+00:00
 
 That's enough YouTube for the day.
+

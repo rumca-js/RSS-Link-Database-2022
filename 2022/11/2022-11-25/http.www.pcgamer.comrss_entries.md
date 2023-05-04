@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Warhammer 40,000: Darktide progress will carry over into the full game, Fatshark confirms
  - [https://www.pcgamer.com/warhammer-40000-darktide-progress-will-carry-over-into-the-full-game-fatshark-confirms](https://www.pcgamer.com/warhammer-40000-darktide-progress-will-carry-over-into-the-full-game-fatshark-confirms)
@@ -139,3 +139,4 @@ Oh, what a beautiful morning!
  - date published: 2022-11-25 00:19:40+00:00
 
 This upcoming blocky sim boasts you'll be able to work for the man, or start a rebellion.
+

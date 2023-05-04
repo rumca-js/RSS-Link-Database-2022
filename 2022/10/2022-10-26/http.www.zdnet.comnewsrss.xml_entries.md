@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 6 best cheap 5G phones of 2022
  - [https://www.zdnet.com/article/best-cheap-5g-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cheap-5g-phone/#ftag=RSSbaffb68)
@@ -188,3 +188,4 @@ Rode's reputation as a professional audio company had already earned it a spot o
  - date published: 2022-10-26 01:16:24+00:00
 
 Like Samsung, SK Hynix is seeing demand for memory chips drop significantly from the economic downturn.
+

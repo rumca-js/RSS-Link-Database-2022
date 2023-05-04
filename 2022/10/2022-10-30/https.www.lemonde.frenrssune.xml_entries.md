@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Lula defeats Bolsonaro in Brazil's runoff election
  - [https://www.lemonde.fr/en/international/article/2022/10/31/lula-defeats-bolsonaro-in-brazil-s-runoff-election_6002332_4.html](https://www.lemonde.fr/en/international/article/2022/10/31/lula-defeats-bolsonaro-in-brazil-s-runoff-election_6002332_4.html)
@@ -151,7 +151,6 @@ Brazilians will vote on Sunday in the final round of Brazil's presidential elect
  - [https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-30 03:49:00+00:00
- - tags: billionaires,politics,bill gates,elon musk
 
 Thanks to their financial clout, Elon Musk and Bill Gates are behind more and more initiatives in the geopolitical, health and climate fields, thereby weakening democracies and international organizations, says 'Le Monde' columnist Philippe Bernard.
 
@@ -182,3 +181,4 @@ According to a German study, conventional cyclists spend more time in the saddle
  - date published: 2022-10-30 00:42:26+00:00
 
 Boosted by the exceptionally warm weather, the mosquitoes are continuing to spread and are now present in 70 French departments.
+

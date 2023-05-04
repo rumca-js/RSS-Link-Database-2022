@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Microsoft relaunches Syntex with broad set of AI-based content management tools
  - [https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
@@ -45,3 +45,4 @@
 <article>
 	<section class="page">
 <p>The thousands of companies waiting for a new US-EU data-transfer agreement to go into effect soon and ease the burdensome legal work necessary for cross-border data transfer shouldn’t get their hopes up. US President Joe Biden’s executive order to implement rules for the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/fact-sheet-united-states-and-european-commission-announce-trans-atlantic-data-privacy-framework/" rel="nofollo
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## How social media ‘censorship’ became a front line in the culture war
  - [https://www.washingtonpost.com/technology/2022/10/09/social-media-content-moderation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/09/social-media-content-moderation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ What people can and can’t say online — and the role of Big Tech in making th
  - date published: 2022-10-09 06:00:31+00:00
 
 The quantum internet aims to use nature's smallest particles to share information in a manner that can't be hacked--and someday to link new quantum computers.
+

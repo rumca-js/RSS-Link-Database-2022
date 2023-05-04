@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## The Spurs, 'StarCraft' and their link to the 1999 NBA title
  - [https://www.washingtonpost.com/video-games/2022/10/13/nba-spurs-starcraft-lan-photo/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/13/nba-spurs-starcraft-lan-photo/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Yasmin Green left Iran when she was a toddler. Now she runs a Google unit that i
  - date published: 2022-10-13 07:00:09+00:00
 
 Here's what to consider about the best age for giving a child their first phone.
+

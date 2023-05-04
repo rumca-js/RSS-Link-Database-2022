@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## World Cup 2022: Watch Kylian Mbappe's highlights for France against Australia
  - [https://www.bbc.co.uk/sport/av/football/63724904?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63724904?at_medium=RSS&at_campaign=KARANGA)
@@ -629,3 +629,4 @@ Some Canadians are concerned the country's aggressive immigration targets are to
  - date published: 2022-11-22 00:01:10+00:00
 
 The regulator says its review has found serious problems among firms but suppliers have hit back.
+

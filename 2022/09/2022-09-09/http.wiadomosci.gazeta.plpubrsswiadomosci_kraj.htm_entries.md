@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## W 1996 roku dla Elżbiety II wysprzątano Kraków i opóźniono hejnał z Wieży Mariackiej
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28891816,w-1996-roku-dla-elzbiety-ii-wysprzatano-krakow-i-opozniono-hejnal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28891816,w-1996-roku-dla-elzbiety-ii-wysprzatano-krakow-i-opozniono-hejnal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -34,3 +34,4 @@
  - date published: 2022-09-09 10:35:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/dd/8d/1b/z28889309M,Tarnowskie-Gory--Woda-wdziera-sie-do-budynkow--zdj.jpg" vspace="2" />Powalone drzewa, zalane drogi i piwnice, brak prądu, kilkaset interwencji straży pożarnet - tak wygląda wstępny bilans nawałnic, które przeszły nad województwem śląskim. Najbardziej ucierpiały Tarnowskie Góry. Deszcz sparaliżował miasto.
+

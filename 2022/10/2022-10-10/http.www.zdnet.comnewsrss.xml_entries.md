@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Microsoft Surface Pro 8 for Business review: Still in love
  - [https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/#ftag=RSSbaffb68)
@@ -188,3 +188,4 @@ Do you have to crane your neck to see your work? A laptop stand will raise your 
  - date published: 2022-10-10 02:17:00+00:00
 
 The Echo Studio is ZDNET's top choice in terms of sound projection and quality. But if you're curious about how it compares to all the other Amazon Echo speakers available, we've pitted it against 11 other Alexa devices from Amazon.
+

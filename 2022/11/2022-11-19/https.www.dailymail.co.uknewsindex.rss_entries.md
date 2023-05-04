@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Make Boris Johnson Tory chairman, say Red Wall MPs
  - [https://www.dailymail.co.uk/news/article-11448335/Make-Boris-Johnson-Tory-chairman-say-Red-Wall-MPs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11448335/Make-Boris-Johnson-Tory-chairman-say-Red-Wall-MPs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1105,3 +1105,4 @@ A new wave of militancy is sweeping through the NHS. Despite the extra funding  
  - date published: 2022-11-19 00:20:22+00:00
 
 Southern Australia will feel the cold from Monday with temperatures in Victoria, Tasmania and southern NSW expected to peak at just 15C.
+

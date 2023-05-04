@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Star Trek: Picard’s latest trailer suggests the series will end with a bang
  - [https://www.engadget.com/star-trek-picard-new-york-comic-con-trailer-220919228.html?src=rss](https://www.engadget.com/star-trek-picard-new-york-comic-con-trailer-220919228.html?src=rss)
@@ -34,3 +34,4 @@
  - date published: 2022-10-08 09:55:48+00:00
 
 <p><a href="https://www.engadget.com/rivian-r1t-electric-truck-review-150019762.html">Rivian</a> has notified customers that it's recalling 13,000 EVs — or almost all of the electric trucks and SUVs it has ever delivered — due to an issue that could render drivers unable to steer and control their vehicles. The company issued the recall after becoming aware of seven reports wherein a fastener connecting the steering knuckle to the vehicle's upper control arm &quot;may not have been sufficiently 
+

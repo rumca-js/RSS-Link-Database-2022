@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Japan Issues Emergency Alert After North Korean Missile Launch     - CNET
  - [https://www.cnet.com/culture/japan-issues-emergency-alert-after-north-korean-missile-launch/#ftag=CADf328eec](https://www.cnet.com/culture/japan-issues-emergency-alert-after-north-korean-missile-launch/#ftag=CADf328eec)
@@ -321,3 +321,4 @@ Wi-Fi router companies say they don't track the websites you visit, but all of t
  - date published: 2022-10-03 01:00:00+00:00
 
 Sunday's episode of the Game of Thrones prequel was the wildest yet.
+

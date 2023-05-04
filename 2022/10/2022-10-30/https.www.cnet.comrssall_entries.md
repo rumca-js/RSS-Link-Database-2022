@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Everyone Should Watch This Heartbreaking Documentary on Netflix     - CNET
  - [https://www.cnet.com/culture/entertainment/everyone-should-watch-this-heartbreaking-documentary-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/everyone-should-watch-this-heartbreaking-documentary-on-netflix/#ftag=CADf328eec)
@@ -398,3 +398,4 @@ The intense Star Wars show comes Disney Plus weekly until late November, so let'
  - date published: 2022-10-30 00:00:03+00:00
 
 Recap: The Disney Plus series gives us a new angle on the Empire's cruelty, along with a pair of familiar faces.
+

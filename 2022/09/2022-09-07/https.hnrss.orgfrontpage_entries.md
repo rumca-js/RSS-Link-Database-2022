@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Your attention span is being robbed!
  - [https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
@@ -438,7 +438,6 @@
  - [https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/](https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-07 13:09:02+00:00
- - tags: facebook,meta,privacy
 
 <p>Article URL: <a href="https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/">https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32750059">https://news.ycombinator.com/item?id=32750059</a></p>
@@ -719,3 +718,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32744795">https://news.ycombinator.com/item?id=32744795</a></p>
 <p>Points: 52</p>
 <p># Comments: 96</p>
+

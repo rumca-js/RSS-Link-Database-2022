@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Philadelphia sanitation worker gunned down on job in 'heinous act of violence,' mayor says
  - [https://www.foxnews.com/us/philadelphia-sanitation-worker-gunned-down-job-in-heinous-act-violence-mayor-says](https://www.foxnews.com/us/philadelphia-sanitation-worker-gunned-down-job-in-heinous-act-violence-mayor-says)
@@ -1287,3 +1287,4 @@ Virginia Attorney General Jason Miyares will appoint a special counsel to review
  - date published: 2022-11-18 00:01:02+00:00
 
 The All England Club announced Thursday that Wimbledon has adjusted its all-white clothing policy to accommodate female tennis pros during their menstrual cycle.
+

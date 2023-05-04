@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Democratic Lawmakers Call for Investigation of Elon Musk’s Twitter
  - [https://www.nytimes.com/2022/11/17/technology/twitter-elon-musk-ftc.html](https://www.nytimes.com/2022/11/17/technology/twitter-elon-musk-ftc.html)
@@ -48,3 +48,4 @@ Naver, a South Korean internet firm, is trying to introduce robots into the worl
  - date published: 2022-11-17 10:00:14+00:00
 
 Charges filed with federal regulators accuse the company of retaliating against eight workers over an open letter critical of the chief executive.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Hasła tracą na popularności. Użytkownicy wolą inne zabezpieczenia
  - [https://ithardware.pl/aktualnosci/hasla_traca_na_popularnosci_uzytkownicy_wola_inne_zabezpieczenia-23933.html](https://ithardware.pl/aktualnosci/hasla_traca_na_popularnosci_uzytkownicy_wola_inne_zabezpieczenia-23933.html)
@@ -187,3 +187,4 @@ Gry, filmy w wysokich rozdzielczościach, zdjęcia i inne dane wymagają coraz w
 
 Need for Speed Unbound wywołał kontrowersje za...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/need_for_speed_unbound_zaprezentowany_na_nowym_trailerze_ea_pokazuje_ucieczke_przed_policja-23913.html">
+

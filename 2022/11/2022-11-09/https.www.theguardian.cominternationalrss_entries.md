@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Florida buckles down for direct hit from rare November hurricane
  - [https://www.theguardian.com/us-news/2022/nov/09/storm-nicole-florida-rare-november-hurricane-warning](https://www.theguardian.com/us-news/2022/nov/09/storm-nicole-florida-rare-november-hurricane-warning)
@@ -1084,3 +1084,4 @@
  - date published: 2022-11-09 00:01:14+00:00
 
 <p>The Socceroos go into a fifth straight finals with the euphoria of dramatic qualification tempered slightly by a string of injuries</p><p><em>This article is part of the Guardian’s <a href="https://world/%20Cup%202022%20Experts’%20Network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/09/world-cup-2022-team-guide-australia">Continue reading...</a>
+

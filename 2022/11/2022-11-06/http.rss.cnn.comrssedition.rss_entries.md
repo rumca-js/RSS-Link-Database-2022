@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Coy Gibbs, co-owner of NASCAR's Joe Gibbs Racing, dies at 49
  - [https://www.cnn.com/2022/11/06/sport/coy-gibbs-obit-ctrp/index.html](https://www.cnn.com/2022/11/06/sport/coy-gibbs-obit-ctrp/index.html)
@@ -272,3 +272,4 @@ In what was being advertised as the game of the year in college football, the de
  - date published: 2022-11-06 00:13:39+00:00
 
 The Los Angeles Football Club won the 2022 Major League Soccer Cup for the first time in club history, downing the Philadelphia Union 3-0 in a penalty shootout following a 3-3 draw on Saturday at Banc of California Stadium in Los Angeles.
+

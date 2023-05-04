@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Black Friday 2022 monitor deal: Gigabyte ultra-wide curved gaming monitor is $80 off
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2022-monitor-deal-gigabyte-ultra-wide-curved-gaming-monitor/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2022-monitor-deal-gigabyte-ultra-wide-curved-gaming-monitor/#ftag=RSSbaffb68)
@@ -440,3 +440,4 @@ Costco doesn't disappoint when it comes to savings, and it's continuing the trad
  - date published: 2022-11-17 02:07:00+00:00
 
 Amazon's Black Friday plan involves getting the deals straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.
+

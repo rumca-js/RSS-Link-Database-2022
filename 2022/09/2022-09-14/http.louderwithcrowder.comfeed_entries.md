@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'They know they're liars': Crowder discusses the globalist radical left with Alex Jones
  - [https://www.louderwithcrowder.com/alex-jones-globalist-radical-left](https://www.louderwithcrowder.com/alex-jones-globalist-radical-left)
@@ -86,3 +86,4 @@
  - date published: 2022-09-14 12:25:19+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31703443&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>Chivalry is not dead and a Rhode Island middle school teacher is put on leave thanks to a student-created "<a href="https://www.louderwithcrowder.com/teacher-hawaii-arrested" target="_blank">pedo</a> database" tracking him creeping on twelve-year-old girls. </p><p>Starting in sixth grade, <a href="https://news.yahoo.com/rhode-island-teach
+

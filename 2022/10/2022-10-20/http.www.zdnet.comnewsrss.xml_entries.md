@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Red Hat releases a virtual Red Hat Enterprise Linux desktop on AWS
  - [https://www.zdnet.com/article/red-hat-releases-a-virtual-red-hat-enterprise-linux-desktop-on-aws/#ftag=RSSbaffb68](https://www.zdnet.com/article/red-hat-releases-a-virtual-red-hat-enterprise-linux-desktop-on-aws/#ftag=RSSbaffb68)
@@ -272,3 +272,4 @@ Beware of crooks asking for money or data.
  - date published: 2022-10-20 08:22:28+00:00
 
 Compact gaming PCs with decent specs can be hard to come by in deals, but Amazon has you covered with $200 off.
+

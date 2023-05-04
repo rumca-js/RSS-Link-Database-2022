@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## New Apple Leak Reveals iPhone 15 Release Shock
  - [https://www.forbes.com/sites/gordonkelly/2022/11/06/apple-iphone-15-pro-max-ultra-qualcomm-apple-modem-fears/](https://www.forbes.com/sites/gordonkelly/2022/11/06/apple-iphone-15-pro-max-ultra-qualcomm-apple-modem-fears/)
@@ -216,3 +216,4 @@ A total lunar eclipse is coming to North America on Tuesday for the last time un
  - date published: 2022-11-06 01:58:17+00:00
 
 This number is well above and beyond the 8,000 that's long been circulated.
+

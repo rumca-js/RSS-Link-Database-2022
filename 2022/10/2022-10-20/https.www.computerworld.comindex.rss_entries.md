@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Google opens up Workspace with slew of third-party integrations
  - [https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
@@ -51,3 +51,4 @@ The company's third quarter financial report reveals a strong showing for mainfr
 <article>
 	<section class="page">
 <p>With the technology job market riding high and industry unemployment rates close to half that of the overall US, <a href="https://www.comptia.org/content/tech-jobs-report" rel="nofollow">new data from CompTIA</a>, a nonprofit association for the IT industry and workforce, shows the best states for knowledge workers.</p><p>CompTIA bases its data on the monthly US Bureau of Labor Statistics (BLS) <a href="https://www.bls.gov/schedule/news_release/empsit.htm" re
+

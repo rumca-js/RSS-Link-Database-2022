@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Wojna nerwów w Gliwicach. Wielcy Polacy w półfinale mistrzostw świata
  - [https://eurosport.tvn24.pl/wojna-nerw-w-w-gliwicach--wielcy-polacy-w-p--finale-mistrzostw--wiata,1117926.html?source=rss](https://eurosport.tvn24.pl/wojna-nerw-w-w-gliwicach--wielcy-polacy-w-p--finale-mistrzostw--wiata,1117926.html?source=rss)
@@ -335,3 +335,4 @@
 
 <img alt="Festiwal przełamań i wojna nerwów. Świątek ma półfinał US Open" src="https://tvn24.pl/najnowsze/cdn-zdjecie-134mi8-iga-swiatek-awansowala-do-polfinalu-us-open-6102389/alternates/LANDSCAPE_1280" />
     Liderka światowego rankingu pokonała w ćwierćfinale Amerykankę Jessicę Pegulę 6:3, 7:6 (7-4).
+

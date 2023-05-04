@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Are You Owed Money From American Airlines $7.5 Million Luggage Fee Case?     - CNET
  - [https://www.cnet.com/personal-finance/american-airlines-7-5-million-checked-bag-fee-settlement/#ftag=CADf328eec](https://www.cnet.com/personal-finance/american-airlines-7-5-million-checked-bag-fee-settlement/#ftag=CADf328eec)
@@ -748,3 +748,4 @@ Workouts are great, but this activity can also make or break your health.
  - date published: 2022-11-07 00:00:03+00:00
 
 If your clothes smell gross when they come out of the washing machine, you may have a mold problem. But you can fix it.
+

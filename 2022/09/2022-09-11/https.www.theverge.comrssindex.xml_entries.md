@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Now you can stream Elden Ring’s soundtrack on Spotify, Apple Music, and YouTube
  - [https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware](https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware)
@@ -47,3 +47,4 @@
     </figure>
 
   <p id="wLcO6G">Matternet has received approval from the Federal Aviation Administration (FAA) f
+

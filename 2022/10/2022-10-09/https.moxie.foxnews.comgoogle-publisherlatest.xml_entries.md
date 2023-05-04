@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Cooper Rush stays undefeated as starter, Cowboys increase win streak to 4 games
  - [https://www.foxnews.com/sports/cooper-rush-stays-undefeated-starter-cowboys-increase-win-streak-games](https://www.foxnews.com/sports/cooper-rush-stays-undefeated-starter-cowboys-increase-win-streak-games)
@@ -874,3 +874,4 @@ George Springer was carted off the Rogers Centre turf after he and Bo Bichette c
  - date published: 2022-10-09 00:00:00+00:00
 
 United States officials met with leaders of the Taliban on Saturday for the first time since Al-Qaeda leader Ayman al-Zawahiri was killed by a U.S. drone strike in Kabul.
+

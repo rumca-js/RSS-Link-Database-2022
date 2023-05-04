@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Queen Elizabeth II: Details revealed for Queen's lying-in-state at Westminster
  - [https://www.bbc.co.uk/news/uk-62872323?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62872323?at_medium=RSS&at_campaign=KARANGA)
@@ -286,3 +286,4 @@ Want to lay flowers or sign a book of condolence to remember the Queen? Here's w
  - date published: 2022-09-11 00:16:21+00:00
 
 World number one Iga Swiatek caps a dominant season by beating Tunisia's Ons Jabeur at the US Open to win her second major title of 2022.
+

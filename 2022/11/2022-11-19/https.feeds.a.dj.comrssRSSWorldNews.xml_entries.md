@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Russia Redoubles Attacks in Ukraine's East After Retreat From Kherson
  - [https://www.wsj.com/articles/russia-redoubles-attacks-in-ukraines-east-after-retreat-from-kherson-11668859223](https://www.wsj.com/articles/russia-redoubles-attacks-in-ukraines-east-after-retreat-from-kherson-11668859223)
@@ -34,3 +34,4 @@ Kim Jong Un had kept his children out of the public eye until the intercontinent
  - date published: 2022-11-19 07:46:00+00:00
 
 Voting begins in Malaysia as its prime minister seeks to end political instability that led to two leadership changes in as many years.
+

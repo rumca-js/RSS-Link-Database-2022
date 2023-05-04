@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Google Contract Workers Claim They Were Fired for Union Discussions and Fight Over Benefits
  - [https://gizmodo.com/google-union-council-bluffs-contract-workers-fired-1849627671](https://gizmodo.com/google-union-council-bluffs-contract-workers-fired-1849627671)
@@ -279,3 +279,4 @@
  - date published: 2022-10-06 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--u1EeQ7rn--/c_fit,fl_progressive,q_80,w_636/69a3d33e639eed9fcbccecc6ee2f0075.jpg" /><p><a href="https://gizmodo.com/favorite-vampires-in-media-jacob-anderson-sam-reid-1849611888">Read more...</a></p>
+

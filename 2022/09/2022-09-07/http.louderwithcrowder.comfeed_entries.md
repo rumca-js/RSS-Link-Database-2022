@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Tesla sends government message to owners about conserving electricity and not charging their Teslas
  - [https://www.louderwithcrowder.com/tesla-sends-warning-owners](https://www.louderwithcrowder.com/tesla-sends-warning-owners)
@@ -76,3 +76,4 @@
  - date published: 2022-09-07 11:46:51+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31531006&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>The worst kind of trolls are the ones so desperate for attention, they tag the target of their trolling. I don't know if "The Southern Gentleman" was expecting <a href="https://www.louderwithcrowder.com/mike-rowe-troll-conservative-video" target="_blank">Mike Rowe's response</a> over this dumb meme, but Rowe wasn't busy, and TSG got the s
+

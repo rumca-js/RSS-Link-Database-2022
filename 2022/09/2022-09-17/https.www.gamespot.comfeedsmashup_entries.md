@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Sypher PK's Fortnite Skin Gets Cooler As You Notch More Elims
  - [https://www.gamespot.com/articles/sypher-pk-fortnite-skin/1100-6507623/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sypher-pk-fortnite-skin/1100-6507623/?ftag=CAD-01-10abi2f)
@@ -20,3 +20,4 @@
  - date published: 2022-09-17 14:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4036757-r6siegep3_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down more of the weaponry of Rainbow Six: Siege, including the AK-74M, the P90 and .44 Mag Semi-Auto.
+

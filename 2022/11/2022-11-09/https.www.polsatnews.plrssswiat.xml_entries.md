@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: Odsiadywał wyrok dożywocia za zabójstwo. Zwolniony po 29 latach szybko wrócił za kratki
  - [https://www.polsatnews.pl/wiadomosc/2022-11-09/usa-odsiadywal-wyrok-dozywocia-za-zabojstwo-zwolniony-po-29-latach-szybko-wrocil-za-kratki/](https://www.polsatnews.pl/wiadomosc/2022-11-09/usa-odsiadywal-wyrok-dozywocia-za-zabojstwo-zwolniony-po-29-latach-szybko-wrocil-za-kratki/)
@@ -69,3 +69,4 @@ Wciąż trwa liczenie głosów w wyborach do Kongresu Stanów Zjednoczonych. Ame
  - date published: 2022-11-09 05:07:00+00:00
 
 Minister rozwoju regionalnego i funduszy europejskich Tibor Navracsics stwierdził, że istnieje duża szansa, aby ​​do końca 2022 roku rząd Węgier osiągnął porozumienie z Komisją Europejską. - W ten sposób będziemy mieli uzyskać dostęp funduszy, które pozwolą nam się rozwijać - przekazał. Dodał, że Węgry są jednym z najefektywniejszych krajów pod kątem wykorzystywania środków unijnych.
+

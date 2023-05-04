@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Świetny początek Kubicy w Bahrajnie. Tankowanie przekreśliło marzenia o podium
  - [https://eurosport.tvn24.pl/-wietny-pocz-tek-kubicy-w-bahrajnie--tankowanie-przekre-li-o-marzenia-o-podium,1124471.html?source=rss](https://eurosport.tvn24.pl/-wietny-pocz-tek-kubicy-w-bahrajnie--tankowanie-przekre-li-o-marzenia-o-podium,1124471.html?source=rss)
@@ -191,3 +191,4 @@
 
 <img alt="Nie do każdego samorządu przyjedzie pociąg z węglem. Dlaczego? " src="https://tvn24.pl/najnowsze/cdn-zdjecie-u1tz0s-woz-albo-przewoz-reportaz-cnb-6216825/alternates/LANDSCAPE_1280" />
     "Wóz albo przewóz". Reportaż Marty Gordziewicz.
+

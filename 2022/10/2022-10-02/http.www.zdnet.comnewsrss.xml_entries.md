@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Apple and Amazon have different visions of the future. Neither is totally right
  - [https://www.zdnet.com/article/apple-and-amazon-have-different-visions-of-the-future-neither-is-totally-right/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-and-amazon-have-different-visions-of-the-future-neither-is-totally-right/#ftag=RSSbaffb68)
@@ -55,3 +55,4 @@ With this five-course Scratch bundle, you and your kids can discover the world o
  - date published: 2022-10-02 05:35:00+00:00
 
 Score a super-fast refurbished Surface Laptop for less than $320.
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Some Republicans Want to Count Votes by Hand. Bad Idea, Experts Say.
  - [https://www.nytimes.com/2022/10/18/us/politics/republicans-hand-count-ballots-votes.html](https://www.nytimes.com/2022/10/18/us/politics/republicans-hand-count-ballots-votes.html)
@@ -27,3 +27,4 @@ By a 2-to-1 margin, the group marked its second defeat after a surprise victory 
  - date published: 2022-10-18 13:44:01+00:00
 
 The sale is the first time Meta has been forced by regulators to sell a part of its business, a sign of increased antitrust scrutiny around the world.
+

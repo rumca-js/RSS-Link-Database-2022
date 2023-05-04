@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Resident Evil 4's remake retreads old ground in style, but feels too familiar
  - [https://www.pcgamer.com/resident-evil-4s-remake-retreads-old-ground-in-style-but-feels-too-familiar](https://www.pcgamer.com/resident-evil-4s-remake-retreads-old-ground-in-style-but-feels-too-familiar)
@@ -216,3 +216,4 @@ Bustin' ghosts in Ghostbusters: Spirits Unleashed makes me feel… meh.
  - date published: 2022-10-20 01:12:15+00:00
 
 Running up that hill.
+

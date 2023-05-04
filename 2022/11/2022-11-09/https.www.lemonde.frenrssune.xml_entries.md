@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Meta layoffs, a setback for Mark Zuckerberg
  - [https://www.lemonde.fr/en/pixels/article/2022/11/10/meta-layoffs-a-setback-for-mark-zuckerberg_6003632_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/10/meta-layoffs-a-setback-for-mark-zuckerberg_6003632_13.html)
@@ -412,3 +412,4 @@ The 2022 midterm election is underway and Le Monde has results for key Senate ra
  - date published: 2022-11-09 00:36:55+00:00
 
 US voters were called to the polls to elect the House of Representatives and one-third of the Senate. Here are the results in both chambers.
+

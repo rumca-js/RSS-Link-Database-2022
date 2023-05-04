@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Lee Zeldin for RNC Chair? Allow this map of what he did in New York make the case.
  - [https://www.louderwithcrowder.com/lee-zeldin-rnc-chair](https://www.louderwithcrowder.com/lee-zeldin-rnc-chair)
@@ -115,3 +115,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

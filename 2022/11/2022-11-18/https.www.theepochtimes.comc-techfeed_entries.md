@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Elon Musk ‘Not Super Worried’ Amid Reports Twitter Offices Closed
  - [https://www.theepochtimes.com/elon-musk-not-super-worried-amid-reports-twitter-offices-closed_4872186.html](https://www.theepochtimes.com/elon-musk-not-super-worried-amid-reports-twitter-offices-closed_4872186.html)
@@ -69,3 +69,4 @@ Men wave rainbow and Black Lives Matter flags while marching in the Pride Parade
  - date published: 2022-11-18 01:24:06+00:00
 
 In this photo illustration, the download page for the TikTok app is displayed on an Apple iPhone in Washington, DC on Aug. 7, 2020. (Drew Angerer/Getty Images)
+

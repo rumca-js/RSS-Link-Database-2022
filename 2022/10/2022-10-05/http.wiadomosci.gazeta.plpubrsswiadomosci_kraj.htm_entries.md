@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Jacek Jaworek nadal nieuchwytny. Prokuratura chce pomocy amerykańskich śledczych
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28990284,jacek-jaworek-nadal-nieuchwytny-prokuratura-chce-pomocy-amerykanskich.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28990284,jacek-jaworek-nadal-nieuchwytny-prokuratura-chce-pomocy-amerykanskich.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -160,3 +160,4 @@
  - date published: 2022-10-05 03:45:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/4c/a4/1b/z28985932M,Zapadlisko-na-Pustyni-Bledowskiej.jpg" vspace="2" />Na terenie nadleśnictwa Olkusz pojawia się coraz więcej zapadlisk. Leśnicy ostrzegają grzybiarzy. Przyczyną powstawania zapadlisk ma być zamknięcie pobliskiej kopalni.
+

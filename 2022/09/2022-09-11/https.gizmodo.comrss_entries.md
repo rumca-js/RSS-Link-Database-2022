@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Disney Theme Parks Reveals Hits Like Coco, Encanto, Moana and Zootopia For Walt Disney World Expansion Plans
  - [https://gizmodo.com/coco-encanto-moana-and-zootopia-disney-parks-d23-expo-1849523161](https://gizmodo.com/coco-encanto-moana-and-zootopia-disney-parks-d23-expo-1849523161)
@@ -55,3 +55,4 @@
  - date published: 2022-09-11 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--iHaR97i6--/c_fit,fl_progressive,q_80,w_636/ce7a3b729c0ea00d4ab1ca764f72bce3.png" /><p>Leave it to James Cameron to turn the <a href="https://gizmodo.com/indiana-jones-5-footage-d23-expo-lucasfilm-d23-expo-1849521230">D23 Expo </a>into a Dolby-powered 3D theater. The legendary director didn’t have a new trailer for fans, but he did bring <a href="https://gizmodo.com/avatar-trailer-rerelease-james-cameron-pandora-navi-3d-1849447876">Pa
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Fire Erupts at Iran’s Most Notorious Prison Amid National Protests
  - [https://www.nytimes.com/2022/10/15/world/middleeast/iran-evin-prison-fire.html](https://www.nytimes.com/2022/10/15/world/middleeast/iran-evin-prison-fire.html)
@@ -111,3 +111,4 @@ An air defense system is still not a part of the package, but that may be on the
  - date published: 2022-10-15 00:50:21+00:00
 
 The Russian president said the draft should be completed within two weeks.
+

@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Alex Murdaugh 911 call came an hour after he arrived at property where son, wife were found dead: documents
  - [https://www.foxnews.com/us/alex-murdaugh-911-call-came-hour-after-arrived-property-son-wife-found-dead-documents](https://www.foxnews.com/us/alex-murdaugh-911-call-came-hour-after-arrived-property-son-wife-found-dead-documents)
@@ -1161,3 +1161,4 @@ Two families who lost loved ones in the 2021 Astroworld tragedy have settled the
  - date published: 2022-10-21 00:05:35+00:00
 
 The Arizona Cardinals got DeAndre Hopkins back, but they lost Marquise "Hollywood" Brown for at least four weeks after he was placed on the IR with a foot injury.
+

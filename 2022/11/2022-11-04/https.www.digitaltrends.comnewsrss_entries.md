@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## AMD quietly slashes the prices of some of its best CPUs
  - [https://www.digitaltrends.com/computing/amd-ryzen-5000-gets-massive-price-cuts/](https://www.digitaltrends.com/computing/amd-ryzen-5000-gets-massive-price-cuts/)
@@ -13,3 +13,4 @@ AMD has just quietly lowered the prices of many Zen 3 processors, making for som
  - date published: 2022-11-04 09:26:47.469434+00:00
 
 If you want a keyboard that's fancier than any RGB model out there, you might want to check out this fun prototype.
+

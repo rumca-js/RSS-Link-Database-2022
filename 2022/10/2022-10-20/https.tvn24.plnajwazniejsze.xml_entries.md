@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zabójcze minuty Lewandowskiego. Gole najwyższej klasy
  - [https://eurosport.tvn24.pl/zab-jcze-minuty-lewandowskiego--gole-najwy-szej-klasy-w-starciu-z-villarreal,1122163.html?source=rss](https://eurosport.tvn24.pl/zab-jcze-minuty-lewandowskiego--gole-najwy-szej-klasy-w-starciu-z-villarreal,1122163.html?source=rss)
@@ -143,3 +143,4 @@
 
 <img alt="Wyjściowa piątka, efektowny wsad. Sochan przywitał się z NBA" src="https://tvn24.pl/najnowsze/cdn-zdjecie-b1fzmr-sochan-ma-za-soba-pierwszy-wystep-w-nba-6171678/alternates/LANDSCAPE_1280" />
     Stało się, Jeremy Sochan oficjalnie zadebiutował w NBA.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'You're good, bud!': Man books it during traffic stop for no reason, only to give the officer a reason
  - [https://www.louderwithcrowder.com/traffic-stop-stupid-meth](https://www.louderwithcrowder.com/traffic-stop-stupid-meth)
@@ -76,3 +76,4 @@
  - date published: 2022-09-13 11:54:56+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31697539&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>The Queen is dead. Long live the... meh. I don't get Americans having strong opinions either way. Not to mention, the queen died in 1992. To the zoomers at Meta who decide "community guidelines," that's a reference to Freddie Mercury being the lead singer of a band called Queen and not a slur. </p><p>While I don't care about the Queen, th
+

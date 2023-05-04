@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Dystopian Short Heartless Imagines a World of Endless Arranged Marriages
  - [https://gizmodo.com/short-film-sci-fi-dystopian-heartless-iceland-1849571110](https://gizmodo.com/short-film-sci-fi-dystopian-heartless-iceland-1849571110)
@@ -265,3 +265,4 @@
  - date published: 2022-09-22 10:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--6ixABtAo--/c_fit,fl_progressive,q_80,w_636/715d916b560cad217e1072627a8e984e.jpg" /><p>Internet services like WhatsApp and Instagram are currently being blocked in Iran along with at least two major mobile networks, according to the UK-based internet access watchdog <a href="https://netblocks.org/reports/internet-disrupted-in-iran-amid-protests-over-death-of-mahsa-amini-X8qVEwAD" rel="noopener noreferrer" target="_blank">Netblocks</a>
+

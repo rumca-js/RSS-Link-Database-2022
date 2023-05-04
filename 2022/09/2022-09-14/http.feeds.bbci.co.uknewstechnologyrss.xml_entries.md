@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Ethereum Merge: A cryptocurrency 'going green'
  - [https://www.bbc.co.uk/news/world-62899880?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-62899880?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ The second biggest cryptocurrency is to switch to a new operating model that it 
  - date published: 2022-09-14 10:49:31+00:00
 
 An EU court has largely upheld a £3.5bn fine against Google over its Android platform.
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Mali: France halts development aid amid growing isolation of Bamako
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/18/mali-france-halts-development-aid-amid-growing-isolation-of-bamako_6004707_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/18/mali-france-halts-development-aid-amid-growing-isolation-of-bamako_6004707_124.html)
@@ -230,3 +230,4 @@ Since April 1, almost 2,000 activists belonging to the movement have been arrest
  - date published: 2022-11-17 00:34:30+00:00
 
 A dozen Republicans joined all 50 Democrats in the chamber in clearing a procedural hurdle so the bill can move on to the full Senate. This puts the Congress on track to take the historic step of ensuring that same-sex unions are enshrined in federal law.
+

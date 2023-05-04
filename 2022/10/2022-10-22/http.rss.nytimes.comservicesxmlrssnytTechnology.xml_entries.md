@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitch’s Relationship With Its Streamers Shows Its Cracks
  - [https://www.nytimes.com/2022/10/22/business/twitch-streamers.html](https://www.nytimes.com/2022/10/22/business/twitch-streamers.html)
@@ -13,3 +13,4 @@ The service recently said it was going to take a bigger cut of the money it shar
  - date published: 2022-10-22 07:00:11+00:00
 
 When Laurene Powell Jobs unveiled a website dedicated to the story of her late husband, historians wondered if it could change how influential people burnish their legacies.
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 30+ best headphone Black Friday deals 2022: Today's lowest prices on AirPods, Beats, Bose, and Sony
  - [https://www.zdnet.com/article/early-black-friday-headphone-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-headphone-deals-november-21-2022/#ftag=RSSbaffb68)
@@ -223,3 +223,4 @@ ZDNET has rounded up its top picks for early laptop deals ahead of Black Friday,
  - date published: 2022-11-21 07:52:15+00:00
 
 It's an excellent flagship phone with a class-leading camera system, but lack of Google Mobile Services and 5G will hamper the Mate 50 Pro's prospects outside China.
+

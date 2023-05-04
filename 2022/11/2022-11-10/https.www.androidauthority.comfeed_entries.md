@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to hard reset an Amazon Fire tablet
  - [https://www.androidauthority.com/hard-reset-amazon-fire-tablet-3233397/](https://www.androidauthority.com/hard-reset-amazon-fire-tablet-3233397/)
@@ -111,3 +111,4 @@ Basic access to Peacock is free, but you'll need a Premium subscription to unloc
  - date published: 2022-11-10 05:00:40+00:00
 
 Generally speaking, the best way is straight from your Roku.
+

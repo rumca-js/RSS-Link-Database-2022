@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Epic Games Store. Nowe gry dostępne za darmo do pobrania
  - [https://ithardware.pl/aktualnosci/epic_games_store_nowe_gry_dostepne_za_darmo_do_pobrania-23457.html](https://ithardware.pl/aktualnosci/epic_games_store_nowe_gry_dostepne_za_darmo_do_pobrania-23457.html)
@@ -179,3 +179,4 @@ Według lokalnych medi&oacute;w...
 
 <img src="https://ithardware.pl/artykuly/min/23435_1.jpg" />            Logitech od jakiegoś czasu zwiastuje handheld G Cloud i w końcu doczekaliśmy się pełnoprawnej prezentacji tej mobilnej konsoli do gier. Nie będzie ona jednak bezpośrednim konkurentem Steam Decka, ponieważ zamiast na mocne podzespoły wewnętrzne...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/logitech_prezentuje_swoja_przenosna_konsole_g_cloud_cena_nie_zacheca-23435.html">https://ithardware.pl/
+

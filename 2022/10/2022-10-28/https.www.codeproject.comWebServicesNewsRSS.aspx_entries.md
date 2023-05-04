@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Building the Future of TensorFlow
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59326](https://www.codeproject.com/script/News/View.aspx?nwid=59326)
@@ -97,3 +97,4 @@ What? You have to do something to fix these?
  - date published: 2022-10-28 04:00:00+00:00
 
 Because nothing says, "ease of use" like "we're adding a search bar"
+

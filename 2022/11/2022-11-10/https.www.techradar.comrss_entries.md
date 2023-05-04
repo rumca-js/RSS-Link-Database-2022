@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## iCloud Photos is coming to Windows 11
  - [https://www.techradar.com/news/icloud-photos-will-be-integrated-with-windows-11-soon/](https://www.techradar.com/news/icloud-photos-will-be-integrated-with-windows-11-soon/)
@@ -272,3 +272,4 @@ Make sure security doesn't get in the way of productivity in your business.
  - date published: 2022-11-10 05:00:56+00:00
 
 Known as Custom Accessibility Mode, it aims to simplify the UI of iPhones and iPad, but you can't use it yet.
+

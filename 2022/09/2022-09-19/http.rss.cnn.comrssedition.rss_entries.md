@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Twitter founder Jack Dorsey to be deposed in Twitter v. Musk case
  - [https://www.cnn.com/2022/09/19/tech/jack-dorsey-deposition-twitter-musk/index.html](https://www.cnn.com/2022/09/19/tech/jack-dorsey-deposition-twitter-musk/index.html)
@@ -529,5 +529,6 @@ A bus transferring dozens of people to a Covid-19 quarantine facility in China's
  - [https://www.cnn.com/collections/intl-1909-biden/](https://www.cnn.com/collections/intl-1909-biden/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-19 00:36:13+00:00
+
 
 

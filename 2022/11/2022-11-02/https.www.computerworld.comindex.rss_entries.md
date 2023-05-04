@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple must take another brick from its wall, says EU
  - [https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all](https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all)
@@ -47,3 +47,4 @@
 <article>
 	<section class="page">
 <p>Google Assistant's got all sorts of <a href="https://www.computerworld.com/article/3255009/google-assistant-efficiency-tips-android.html">time-saving smarts</a> on Android. That much we all <a href="https://www.computerworld.com/article/3639844/google-assistant-android.html">know by now</a>, right?</p><p>But get this: Assistant's most useful Android superpower is something that's completely out of sight and up to <em>you</em> to dig up and activate. (And no, I'm not talking about its <a href="https://www.androidintel.net/24798/android-automation/" rel="noopener nofollow" target="_blank">freshly expanded Android automation station </a>— though that's pretty sweet, too.)</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#jump">To read this article in full, please click here</a></p></section></article>
+

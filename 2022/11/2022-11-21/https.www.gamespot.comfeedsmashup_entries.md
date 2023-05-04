@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Anjelica Huston To Reprise John Wick Role For Ballerina Spinoff
  - [https://www.gamespot.com/articles/anjelica-huston-to-reprise-john-wick-role-for-ballerina-spinoff/1100-6509375/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/anjelica-huston-to-reprise-john-wick-role-for-ballerina-spinoff/1100-6509375/?ftag=CAD-01-10abi2f)
@@ -454,3 +454,4 @@
  - date published: 2022-11-21 09:26:00+00:00
 
 <p>Sonic's return to the mainstream has been fantastic over the last couple of years, and with the momentum of two successful feature films behind the blue blur, Sega's iconic mascot hit the ground running in Sonic Frontiers recently. While it's a game that definitely has room for improvement, the flaws can easily be overlooked when you dig into what makes Sonic Frontiers special.</p><p>Right now, you can <span class="norewrite">           <a href="https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/exec/obidos/ASIN/B0B9ZFWMK1?tag=gamespotdeals-20&amp;ascsubtag=ag:|vg:-|st:dtp">save big on Sonic Frontiers</a> </span> at multiple retailers, including Amazon. Nintendo Switch and Xbox Series X owners can grab Sonic Frontiers for only $29. PlayStation users will have to pay a bit more, as the game is discounted to $35 on PS4 and PS5. If Amazon sells out, you can grab Sonic Frontiers for any platform at Best Buy for $40.</p><div><div class="norewrite" title="">           <a href="https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/exec/obidos/ASIN/B0B9ZFWMK1?tag=gamespotdeals-20&amp;ascsubtag=ag:|vg:-|st:dtp">See at Amazon</a> </div></div><p> </p><a href="https://www.gamespot.com/articles/sonic-frontiers-gets-a-big-black-friday-discount-at-select-retailers/1100-6509317/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

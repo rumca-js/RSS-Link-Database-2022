@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Friday Briefing: Mass Shooting in Thailand
  - [https://www.nytimes.com/2022/10/06/briefing/thailand-shooting-russia.html](https://www.nytimes.com/2022/10/06/briefing/thailand-shooting-russia.html)
@@ -307,3 +307,4 @@ In an attack in central Ukraine, Russian forces used what Ukrainians said were I
  - date published: 2022-10-06 02:58:23+00:00
 
 OPEC’s decision to curb oil production was a signal that President Biden’s influence over his Gulf allies was far less than he had hoped.
+

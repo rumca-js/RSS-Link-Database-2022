@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukrainians Recount Frantic Russian Retreat
  - [https://www.nytimes.com/2022/09/13/world/europe/ukraine-russia-retreat-morale.html](https://www.nytimes.com/2022/09/13/world/europe/ukraine-russia-retreat-morale.html)
@@ -188,3 +188,4 @@ More Ukrainian advances.
  - date published: 2022-09-13 04:01:08+00:00
 
 As prince, Charles used tax breaks, offshore accounts and canny real estate investments to turn a sleepy estate into a billion-dollar business.
+

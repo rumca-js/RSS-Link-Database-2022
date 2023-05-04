@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Reuniting With Diego Luna
  - [https://gizmodo.com/reuniting-with-diego-luna-1849461566](https://gizmodo.com/reuniting-with-diego-luna-1849461566)
@@ -289,3 +289,4 @@ The Expedition 68 crew will spend the next six months in low Earth orbit
  - date published: 2022-09-21 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--f_RwVut9--/c_fit,fl_progressive,q_80,w_636/f4dd5f6259b959e2259574ca8ecabc00.jpg" /><p>After a film grosses almost <a href="https://gizmodo.com/avatar-re-release-spells-trouble-for-avengers-endgames-1846441767">$3 billion at the global box office</a>, you have to imagine <a href="https://gizmodo.com/film-from-studio-acquired-by-walt-disney-finally-beats-1836581329">the studio behind it would want</a> to cash in immediately. Get a sequ
+

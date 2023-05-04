@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Belarus dissident Maria Kolesnikova in intensive care, opposition spokesman says
  - [https://www.cnn.com/2022/11/29/europe/belarus-opposition-maria-kolesnikova-hospital-intl/index.html](https://www.cnn.com/2022/11/29/europe/belarus-opposition-maria-kolesnikova-hospital-intl/index.html)
@@ -55,3 +55,4 @@ The rare protests that spread across China over the weekend often featured demon
  - date published: 2022-11-29 12:02:39+00:00
 
 The mayor of Kyiv has said the city "cannot let Putin steal our Christmas" as Ukrainians prepare to tentatively celebrate the festive season with darkened trees while Russian airstrikes knock out power and wreck havoc on critical infrastructure.
+

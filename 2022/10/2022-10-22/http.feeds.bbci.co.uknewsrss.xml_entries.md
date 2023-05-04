@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Cost of living: Why more Australians are giving up their pets
  - [https://www.bbc.co.uk/news/business-63071930?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63071930?at_medium=RSS&at_campaign=KARANGA)
@@ -370,3 +370,4 @@ Producer Giles Martin has used artificial intelligence to pull apart and reconst
  - date published: 2022-10-22 01:29:51+00:00
 
 Hundreds of people with hard-to-treat epilepsy will benefit from the innovative treatment.
+

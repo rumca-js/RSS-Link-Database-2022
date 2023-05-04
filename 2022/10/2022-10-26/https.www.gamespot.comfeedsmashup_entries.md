@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Signalis Tarot Card And Moon Phase Puzzle Guide
  - [https://www.gamespot.com/articles/signalis-tarot-card-and-moon-phase-puzzle-guide/1100-6508666/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/signalis-tarot-card-and-moon-phase-puzzle-guide/1100-6508666/?ftag=CAD-01-10abi2f)
@@ -370,3 +370,4 @@
  - date published: 2022-10-26 04:17:00+00:00
 
 <p>While Dying Light 2's zombie-filled open world already feels ready for the spooky season, developer Techland has announced a week-long Halloween event to bring even more seasonal treats. The game's dangerous volatiles have been turned into jack-o-lantern-esque "Pumpkintiles," with all infected dropping a new currency called "Treats," which can be traded for Halloween-themed goodies.</p><p>The All Hallows Eve event is active now, running from October 25 to November 4, with Techland describing it as Dying Light 2's "biggest in-game event" since it released in February. The event calls back to the original game's classic Halloween events, with visual updates scattering decorations around the world--including the pumpkin-headed volatiles.</p><div>          </div><p><span>Once players have collected enough Treats from infected, they can visit a new seasonal in-game vendor called Baka the Unfortunate, who will exchange Treats for potions with unusual new effects.</span></p><a href="https://www.gamespot.com/articles/dying-light-2-stay-humans-first-halloween-event-turns-zombies-into-pumpkins/1100-6508621/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

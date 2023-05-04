@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## ButtFish – Effortlessly transmitting Morse Code of chess moves to your butt
  - [https://github.com/RonSijm/ButtFish](https://github.com/RonSijm/ButtFish)
@@ -701,3 +701,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33002991">https://news.ycombinator.com/item?id=33002991</a></p>
 <p>Points: 7</p>
 <p># Comments: 6</p>
+

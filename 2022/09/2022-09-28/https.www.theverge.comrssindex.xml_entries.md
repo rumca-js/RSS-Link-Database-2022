@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Now you can get a really round Oura smart ring
  - [https://www.theverge.com/2022/9/28/23377115/oura-horizon-smart-ring-rose-gold-announcement](https://www.theverge.com/2022/9/28/23377115/oura-horizon-smart-ring-rose-gold-announcement)
@@ -640,3 +640,4 @@
     </figure>
 
   <p id="0X2nQE">VK, the Russian technology conglomerate behind a social network with hundreds of millions of downloads called VKontakte, <a href="https://vk.com/press/app-st
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Amazon CEO Jassy Says Layoffs to Extend Into 2023
  - [https://www.wsj.com/articles/amazon-ceo-andy-jassy-addresses-layoffs-in-memo-11668723921?mod=rss_Technology](https://www.wsj.com/articles/amazon-ceo-andy-jassy-addresses-layoffs-in-memo-11668723921?mod=rss_Technology)
@@ -125,3 +125,4 @@ The bankrupt exchange and crypto peers had spent heavily on advertising since 20
  - date published: 2022-11-17 02:23:00+00:00
 
 Federal authorities are continuing to investigate the firm’s relationship with a startup tied to Mo Chen, the co-founder.
+

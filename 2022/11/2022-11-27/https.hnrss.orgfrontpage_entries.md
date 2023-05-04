@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Photography for Geeks
  - [https://lcamtuf.coredump.cx/photo_basics/](https://lcamtuf.coredump.cx/photo_basics/)
@@ -753,3 +753,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33758471">https://news.ycombinator.com/item?id=33758471</a></p>
 <p>Points: 8</p>
 <p># Comments: 1</p>
+

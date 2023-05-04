@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## PKO BP rozważa odkupienie od Poczty Polskiej pakietu akcji Banku Pocztowego
  - [https://www.bankier.pl/wiadomosc/PKO-BP-rozwaza-odkupienie-od-Poczty-Polskiej-pakietu-akcji-Banku-Pocztowego-8402404.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/PKO-BP-rozwaza-odkupienie-od-Poczty-Polskiej-pakietu-akcji-Banku-Pocztowego-8402404.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -466,3 +466,4 @@ nie było od stycznia 2007 roku.</p>
  - date published: 2022-09-07 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/7/69217516ac8b15-948-568-0-264-4608-2764.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Wycena CD Projektu spadła od początku roku już o 59 proc. Studio według ekspertów byłoby znakomitym obiektem do przejęcia, gdyby nie mechanizm poison pill, który uchwalono blisko 6 lat temu, gdy kurs akcji wynosił nieco ponad 50 zł. Na czym polega obrona przed przejęciem zast
+

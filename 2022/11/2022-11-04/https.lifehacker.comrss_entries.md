@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Is a Walking Pad Really Better Than a Treadmill?
  - [https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029](https://lifehacker.com/is-a-walking-pad-really-better-than-a-treadmill-1849745029)
@@ -111,3 +111,4 @@
  - date published: 2022-11-04 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ZN1_V60s--/c_fit,fl_progressive,q_80,w_636/f9dda0d4f0c055316d60c7e7cdda4258.jpg" /><p>After years at the bottom of a contractual pond, the rights to the <em>Friday the 13th</em> horror franchise have landed in a truly fascinating new home: A24, producers of some of the weirder, artier, and more successful independent films of the past decade (<em>X</em>,<em> Lamb</em>, <em>The Green Knight</em>, and <em>Everything Everywhere All at Once</em>). <br /><br />…</p><p><a href="https://lifehacker.com/15-tv-shows-you-didnt-know-were-movies-first-1849737095">Read more...</a></p>
+

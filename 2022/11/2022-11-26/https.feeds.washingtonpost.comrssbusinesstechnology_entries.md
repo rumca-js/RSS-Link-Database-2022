@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Crypto company stunt brings giant Musk ‘Goat’ statue to Tesla factory
  - [https://www.washingtonpost.com/technology/2022/11/26/elon-musk-cryptocurrency-goat-statue/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/26/elon-musk-cryptocurrency-goat-statue/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ Elon GOAT Token, a cryptocurrency company, commissioned the statue with the goal
  - date published: 2022-11-26 06:00:17+00:00
 
 China is already a major manufacturer of electric vehicles for its own market. Now it's starting to export to the U.S. and Europe.
+

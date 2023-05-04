@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Ronaldo zaatakował. "Czuję się zdradzony"
  - [https://eurosport.tvn24.pl/ronaldo-zaatakowa----czuj--si--zdradzony-,1124578.html?source=rss](https://eurosport.tvn24.pl/ronaldo-zaatakowa----czuj--si--zdradzony-,1124578.html?source=rss)
@@ -199,3 +199,4 @@
 
 <img alt="Jak działają sankcje? " src="https://tvn24.pl/najnowsze/cdn-zdjecie-ybzakk-wiatr-ze-wschodu-2-6217762/alternates/LANDSCAPE_1280" />
     Andrzej Zaucha rozmawiał z  byłym wiceministrem finansów Rosji.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Renewables Are Holding Back the Emissions Tide
  - [https://gizmodo.com/renewables-are-holding-back-the-emissions-tide-1849682588](https://gizmodo.com/renewables-are-holding-back-the-emissions-tide-1849682588)
@@ -321,3 +321,4 @@
  - date published: 2022-10-20 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--NEKwtI-d--/c_fit,fl_progressive,q_80,w_636/b7c35187b2c678e80afcd0333ff7573f.png" /><p>In the court of io9 I too am guilty of finding Daemon Targaryen himself, Matt Smith, surprisingly attractive. For me it happened somewhere between <a href="https://gizmodo.com/edgar-wright-on-the-supernatural-of-last-night-in-soho-1847957527"><em>Last Night in Soho</em></a> and his dancing sequence in <a href="https://gizmodo.com/morbius-review-jare
+

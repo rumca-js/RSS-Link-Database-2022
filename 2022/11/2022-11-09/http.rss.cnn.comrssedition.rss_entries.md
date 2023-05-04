@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Biden says Elon Musk's relationships with foreign countries are 'worth being looked at'
  - [https://www.cnn.com/videos/business/2022/11/09/joe-biden-elon-musk-twitter-acquisition-threat-to-us-national-security-question.cnn](https://www.cnn.com/videos/business/2022/11/09/joe-biden-elon-musk-twitter-acquisition-threat-to-us-national-security-question.cnn)
@@ -615,3 +615,4 @@ Twitter said Tuesday evening that to resolve ambiguity about which accounts on i
  - date published: 2022-11-09 00:01:01+00:00
 
 A magnitude 5.6 earthquake hit western Nepal on Wednesday morning local time, killing at least five people, according to local officials.
+

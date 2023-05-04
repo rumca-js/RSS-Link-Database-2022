@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Dolly Parton honored for her many years of philanthropic work: 'I just give from my heart'
  - [https://www.foxnews.com/entertainment/dolly-parton-honored-years-philanthropic-work-heart](https://www.foxnews.com/entertainment/dolly-parton-honored-years-philanthropic-work-heart)
@@ -1280,3 +1280,4 @@ Kyle Richards discussed her new movie, "Halloween Ends," with Jamie Lee Curtis a
  - date published: 2022-10-14 00:00:39+00:00
 
 Former "America's Got Talent" and "The Voice" contestant Nolan Neal's cause of death has been confirmed by a medical examiner. The musician died in July at 41.
+

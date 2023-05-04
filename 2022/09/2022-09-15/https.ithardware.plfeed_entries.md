@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Poznajcie kolejną wersję karty Intela. ASRock Arc A750 Challenger sfotografowany
  - [https://ithardware.pl/aktualnosci/poznajcie_kolejna_wersje_karty_intela_asrock_arc_a750_challenger_sfotografowany-23316.html](https://ithardware.pl/aktualnosci/poznajcie_kolejna_wersje_karty_intela_asrock_arc_a750_challenger_sfotografowany-23316.html)
@@ -191,3 +191,4 @@ Trybunał potwierdził jednak, że&nbsp;Google szantażowało...
 
 <img src="https://ithardware.pl/artykuly/min/23295_1.jpg" />            W ostatnich dniach praktycznie zalewają nas kolejne przecieki na temat nadchodzących kart graficznych NVIDII z serii GeForce RTX 4000. VideoCardz donosi zaś o kolejnych szczeg&oacute;łach, powołując się na informacje ujawniane przez informatora...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4090_i_rtx_4080_poznalismy_kolejne_szczegoly_specyfikacji_premiera_tuz_tuz-23295.html">htt
+

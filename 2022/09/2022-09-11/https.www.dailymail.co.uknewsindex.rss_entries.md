@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Wreath tribute to Queen's beloved as flowers laid on her coffin shared similarity with Philip's
  - [https://www.dailymail.co.uk/news/article-11202461/Wreath-tribute-Queens-beloved-flowers-laid-coffin-shared-similarity-Philips.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11202461/Wreath-tribute-Queens-beloved-flowers-laid-coffin-shared-similarity-Philips.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1056,3 +1056,4 @@ Quarterback for the Green Bay Packers Aaron Rodgers has spoken out about COVID-1
  - date published: 2022-09-11 00:00:39+00:00
 
 A man arrested over the IRA's bombing of Manchester city centre in 1996 has been released without charge. Police held the suspect at Birmingham airport on Thursday night as he entered Britain.
+

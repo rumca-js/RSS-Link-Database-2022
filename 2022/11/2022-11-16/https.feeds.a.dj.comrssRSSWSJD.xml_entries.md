@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Nvidia Issues Muted Outlook as Videogaming Business Slows
  - [https://www.wsj.com/articles/nvidia-nvda-q3-earnings-report-2023-11668636320?mod=rss_Technology](https://www.wsj.com/articles/nvidia-nvda-q3-earnings-report-2023-11668636320?mod=rss_Technology)
@@ -97,3 +97,4 @@ Warren Buffett’s investment in Taiwan Semiconductor Manufacturing marks the la
  - date published: 2022-11-16 01:12:00+00:00
 
 New rollout target follows suspension of updated subscription service after impersonators swarmed the platform.
+

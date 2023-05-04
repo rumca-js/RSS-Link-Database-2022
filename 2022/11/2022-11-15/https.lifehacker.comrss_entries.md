@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Need to Prepare Now for a Holiday Guest With a Food Allergy
  - [https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376](https://lifehacker.com/you-need-to-prepare-now-for-a-holiday-guest-with-a-food-1849787376)
@@ -132,3 +132,4 @@
  - date published: 2022-11-15 13:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ejOjjbPO--/c_fit,fl_progressive,q_80,w_636/919b2424bcfd45ed721a3cda559e963a.jpg" /><p>What was life like in the Middle Ages? If you believe what you’ve seen in movies—or maybe even what your history teacher told you—you might expect that people died young, never bathed, were ignorant of anything going on outside their community, and stood a decent chance of being tortured in a castle dungeon if they…</p><p><a href="https://lifehacker.com/11-facts-from-medieval-history-that-are-just-plain-wron-1849782044">Read more...</a></p>
+

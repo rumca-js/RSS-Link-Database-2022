@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Sorry, That's Not a UFO in This NASA Mars Rover Image     - CNET
  - [https://www.cnet.com/science/space/sorry-thats-not-a-ufo-in-this-nasa-mars-rover-image/#ftag=CADf328eec](https://www.cnet.com/science/space/sorry-thats-not-a-ufo-in-this-nasa-mars-rover-image/#ftag=CADf328eec)
@@ -636,3 +636,4 @@ A home-for-the-holidays gem that should be on everyone's yuletide watch list.
  - date published: 2022-11-29 00:05:27+00:00
 
 The goal of the redesign is to reportedly reduce the number of components and complexity.
+

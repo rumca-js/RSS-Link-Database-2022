@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## White House Denies Report of Elon Musk National Security Reviews     - CNET
  - [https://www.cnet.com/tech/white-house-denies-report-of-musk-national-security-reviews/#ftag=CADf328eec](https://www.cnet.com/tech/white-house-denies-report-of-musk-national-security-reviews/#ftag=CADf328eec)
@@ -629,3 +629,4 @@ Yup, sneakers for equines are a thing.
  - date published: 2022-10-24 02:12:00+00:00
 
 Episode 10 of House of the Dragon's first season saw Rhaenyra and Daemon prepare for battle with the Hightowers.
+

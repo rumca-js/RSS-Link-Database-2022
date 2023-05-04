@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## WFH staff having to pay for printer ink which is SEVEN TIMES the cost of Dom Perignon champagne
  - [https://www.dailymail.co.uk/news/article-11244857/WFH-staff-having-pay-printer-ink-SEVEN-TIMES-cost-Dom-Perignon-champagne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11244857/WFH-staff-having-pay-printer-ink-SEVEN-TIMES-cost-Dom-Perignon-champagne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1693,3 +1693,4 @@ Two people tried CPR on the Brit but he died to the severity of his injuries at 
  - date published: 2022-09-23 00:03:13+00:00
 
 Last night the White House denied the term had been 'retired' but offered to suspend its use, with an official saying: 'We'll shut it down until we can figure out what's going on.'
+

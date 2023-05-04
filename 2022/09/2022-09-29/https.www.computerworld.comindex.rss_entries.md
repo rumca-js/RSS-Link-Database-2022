@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Atlassian takes aim at app sprawl with collaboration-suite subscription service
  - [https://www.computerworld.com/article/3675388/atlassian-takes-aim-at-saas-sprawl-with-new-subscription-service-for-its-work-management-suite.html#tk.rss_all](https://www.computerworld.com/article/3675388/atlassian-takes-aim-at-saas-sprawl-with-new-subscription-service-for-its-work-management-suite.html#tk.rss_all)
@@ -42,3 +42,4 @@ Jetcool says that its use of microconvection enables on-board liquid cooling and
 <article>
 	<section class="page">
 <p>Let's face it: This wishy-washy world wide web of ours can sometimes be an endless-seeming series of nuisances and annoyances.</p><p>And while you can <a href="https://www.computerworld.com/article/3674134/android-design-revolution.html">take total control</a> of <em>most</em> parts of your Android experience, the web itself is far more wily. From sites where the text is too tiny to ones that bombard you with audio-blaring auto-playing videos (cough, cough, a
+

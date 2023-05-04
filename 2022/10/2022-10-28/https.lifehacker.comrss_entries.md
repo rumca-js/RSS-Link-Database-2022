@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## These Hyundai and Kia Cars Are Being Recalled Because of Sudden Power Loss
  - [https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774](https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774)
@@ -118,3 +118,4 @@
  - date published: 2022-10-28 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--OCO3VB-C--/c_fit,fl_progressive,q_80,w_636/b65fad92ba855e1235361cfe42465ed8.jpg" /><p>I think I hate flying. I don’t hate <em>traveling</em>. Just the flying, and all that comes with it. The security lines, the agony of boarding, and the most uncomfortable seats you’ll ever pay several hundred dollars to be trapped in for several hours. Anything you can do to make your time in the air even <em>slightly</em> better is…</p><p><a href="https://lifehacker.com/use-this-extension-to-search-google-flights-for-the-one-1849711306">Read more...</a></p>
+

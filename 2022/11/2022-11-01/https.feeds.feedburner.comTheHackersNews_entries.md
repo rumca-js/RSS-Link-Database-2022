@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## OpenSSL Releases Patch for 2 New High-Severity Vulnerabilities
  - [https://thehackernews.com/2022/11/just-in-openssl-releases-patch-for-2.html](https://thehackernews.com/2022/11/just-in-openssl-releases-patch-for-2.html)
@@ -41,3 +41,4 @@ Linus Torvalds, the creator of Linux and Git, has his own law in software develo
 IT service management software platform ConnectWise has released Software patches for a critical security vulnerability in Recover and R1Soft Server Backup Manager (SBM).
 The issue, characterized as a "neutralization of Special Elements in Output Used by a Downstream Component," could be abused to result in the execution of remote code or disclosure of sensitive information.
 ConnectWise's
+

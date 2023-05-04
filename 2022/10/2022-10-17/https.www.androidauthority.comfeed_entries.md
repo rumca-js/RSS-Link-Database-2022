@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## When even Zuckerberg is making fun of iMessage, you know you have a problem
  - [https://www.androidauthority.com/imessage-vs-whatsapp-3221388/](https://www.androidauthority.com/imessage-vs-whatsapp-3221388/)
@@ -90,3 +90,4 @@ They're by no means necessary, but in the right circumstances, smart buttons can
  - date published: 2022-10-17 04:00:13+00:00
 
 Roku and Disney have made jumping into the service as streamlined as possible.
+

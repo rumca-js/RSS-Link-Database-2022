@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Sankcje wobec Rosji podniosły koszty na rynku tankowców, co może napędzać inflację
  - [https://forsal.pl/swiat/artykuly/8598433,sankcje-wobec-rosji-podniosly-koszty-na-rynku-tankowcow-co-moze-napedzac-inflacje.html](https://forsal.pl/swiat/artykuly/8598433,sankcje-wobec-rosji-podniosly-koszty-na-rynku-tankowcow-co-moze-napedzac-inflacje.html)
@@ -482,3 +482,4 @@
  - date published: 2022-11-28 07:09:54+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/YQ0ktkuTURBXy83NmY4YmM5MC1lMGZkLTRkYjUtOWJkYS0xNzg2NjNhZTg1YzcuanBlZ5GTBc0BHcyg" />Włoscy rolnicy są gotowi zwiększyć uprawy o jeden milion hektarów, by zapewnić krajowi suwerenność żywnościową. Dążenie do niej jest jednym z celów nowego rządu Giorgii Meloni, w którym utworzone zostało Ministerstwo Rolnictwa i ds. Suwerenności Żywnościowej.
+

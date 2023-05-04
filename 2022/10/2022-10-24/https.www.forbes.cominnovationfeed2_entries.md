@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## When Is The Next Solar Eclipse In North America? After Europe’s ‘Smiley Face’ Sun Today Comes Six Eclipses For The U.S. And Canada
  - [https://www.forbes.com/sites/jamiecartereurope/2022/10/24/when-is-the-next-solar-eclipse-in-america-after-todays-smiley-face-sun-comes-five-unmissable-eclipses/](https://www.forbes.com/sites/jamiecartereurope/2022/10/24/when-is-the-next-solar-eclipse-in-america-after-todays-smiley-face-sun-comes-five-unmissable-eclipses/)
@@ -214,7 +214,6 @@ Trains aren’t available because most of Metro’s 7000-series rail cars, built
  - [https://www.forbes.com/sites/paultassi/2022/10/24/netflix-ubisoft-disney-nintendo-and-the-nightmare-media-mergers-we-dont-need/](https://www.forbes.com/sites/paultassi/2022/10/24/netflix-ubisoft-disney-nintendo-and-the-nightmare-media-mergers-we-dont-need/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-24 14:45:32+00:00
- - tags: netflix,corporatocracy,monopoly
 
 Consolidation is happening all across the video game industry, with massive publishers devouring smaller ones on a nearly monthly basis, and it can often feel like we are heading toward a future where every video game is published by Microsoft, Sony, Nintendo or Embracer Group.
 
@@ -449,3 +448,4 @@ Here’s where we can learn from Covid-19 vaccine development. Speed should be a
  - date published: 2022-10-24 10:31:09+00:00
 
 This scenario actually already exists via projects like API gateway authentication, which is full of authoritative content.
+

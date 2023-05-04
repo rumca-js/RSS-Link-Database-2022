@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Twitter's Mass Resignations Test Elon Musk's Management Playbook
  - [https://www.wsj.com/articles/twitters-mass-resignations-test-elon-musks-management-playbook-11668803573?mod=rss_Technology](https://www.wsj.com/articles/twitters-mass-resignations-test-elon-musks-management-playbook-11668803573?mod=rss_Technology)
@@ -90,3 +90,4 @@ Holmes’s downfall was triggered by these Wall Street Journal articles about th
  - date published: 2022-11-18 10:30:00+00:00
 
 The lack of detail in financial statements echoes past scandals including Enron.
+

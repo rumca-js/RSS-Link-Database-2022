@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Sparaliżowany człowiek mówi, choć fizycznie nie jest w stanie. Jak to możliwe?
  - [https://www.chip.pl/2022/11/sparalizowany-czlowiek-komunikacja-interfejs](https://www.chip.pl/2022/11/sparalizowany-czlowiek-komunikacja-interfejs)
@@ -151,3 +151,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="760" src="https://konto.chip.pl/wp-content/uploads/2022/04/slonce-rozblysk.png" style="margin-bottom: 10px;" width="1366" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/04/slonce-rozblysk.png" style="display: block; margin: 1em auto;" /></p>
 <p>Silny rozbłysk słoneczny, do którego doszło w poniedziałkowy poranek, doprowadził do tymczasowych problemów z komunikacją. Tego typu problemy mogą zdarzać się coraz częściej. Sprawcą całego zamieszania okazała się plama słoneczna AR3141. To właśnie ona doprowadziła do powstania rozbłysku słonecznego klasy M5. Tego typu wydarzenia wiążą się z emisjami wysokoenergetycznego promieniowania elektromagnetycznego z powierzchni naszej gwiazdy. [&#8230;]</p>
+

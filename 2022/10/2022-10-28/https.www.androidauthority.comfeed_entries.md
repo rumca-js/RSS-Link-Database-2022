@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Black Friday 2022: Our pick of the best offers in the early sales
  - [https://www.androidauthority.com/black-friday-deals-3049753/](https://www.androidauthority.com/black-friday-deals-3049753/)
@@ -76,3 +76,4 @@ And he's already fired former CEO Parag Agarwal, amongst others.
  - date published: 2022-10-28 04:00:30+00:00
 
 You'll be back to watching games and DJ parties in no time.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## CNN Accuses GOP Candidate Of Having ‘Ties To White Nationalists’ Over Random Street Interview, Campaign Fires Back
  - [https://www.dailywire.com/news/cnn-accuses-gop-candidate-of-having-ties-to-white-nationalists-over-random-street-interview-campaign-fires-back](https://www.dailywire.com/news/cnn-accuses-gop-candidate-of-having-ties-to-white-nationalists-over-random-street-interview-campaign-fires-back)
@@ -391,3 +391,4 @@ A former NFL player was one of two rock climbers who were found dead Wednesday i
  - date published: 2022-09-30 07:14:03+00:00
 
 Miami Dolphins star quarterback Tua Tagovailoa was rushed to the hospital Thursday night after sustaining a head injury while being sacked by a defensive lineman for the Cincinnati Bengals. Tagovailoa hit the back of his head on the ground when he was thrown on the ground by Bengals nose tackle Josh Tupou. Tagovailoa laid on the ...
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 15 Ways to Simplify Your Post-Thanksgiving Cleanup
  - [https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695](https://lifehacker.com/15-ways-to-simplify-your-post-thanksgiving-cleanup-1849781695)
@@ -139,3 +139,4 @@
  - date published: 2022-11-14 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--drbsoqtM--/c_fit,fl_progressive,q_80,w_636/b1e602feed79fe1ea11ad94458cfef58.jpg" /><p>Getting a good meal of carbs and protein after your workout is a <a href="https://lifehacker.com/what-to-eat-before-and-after-a-strength-training-workou-1798556343">great way to fuel yourself and support your goals</a>, whether you’re training for strength, endurance, or both. But what if you don’t have the perfect post-workout meal lined up? Is your workout wasted?<br /></p><p><a href="https://lifehacker.com/your-post-workout-meal-isnt-as-important-as-you-think-1849774458">Read more...</a></p>
+

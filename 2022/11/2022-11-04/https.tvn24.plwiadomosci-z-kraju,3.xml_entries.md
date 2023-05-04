@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Hermeliński: przedsiębiorstwa publiczne nie mogą być wehikułem do pośredniego finansowania polityki
  - [https://tvn24.pl/polska/kampania-wyborcza-politykow-pis-wplaty-od-osob-z-panstwowych-spolek-wojciech-hermelinski-komentuje-6193487?source=rss](https://tvn24.pl/polska/kampania-wyborcza-politykow-pis-wplaty-od-osob-z-panstwowych-spolek-wojciech-hermelinski-komentuje-6193487?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Uważajmy na gęste mgły. Żółte alarmy IMGW w części kraju" src="https://tvn24.pl/najnowsze/cdn-zdjecie-3w4h1s-mgla-w-lodzi-6187641/alternates/LANDSCAPE_1280" />
     W piątkowy poranek w niektórych częściach Polski pojawiają się mgły. Miejscami widzialność ograniczona jest do 100 metrów. Synoptycy IMGW wydali ostrzeżenia meteorologiczne. Gdzie kierowcy powinni zachować szczególna ostrożność?
+

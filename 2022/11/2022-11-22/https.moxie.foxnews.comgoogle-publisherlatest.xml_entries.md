@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## NHL showcases transgender and nonbinary hockey tournament, responds to criticism on Twitter
  - [https://www.foxnews.com/sports/nhl-showcases-transgender-nonbinary-hockey-tournament-responds-criticism-twitter](https://www.foxnews.com/sports/nhl-showcases-transgender-nonbinary-hockey-tournament-responds-criticism-twitter)
@@ -1175,3 +1175,4 @@ The chief of the nearby Washington State University Police reacted Monday to new
  - date published: 2022-11-22 00:00:02+00:00
 
 Bill Maher slammed the parents of the man at the core of the FTX scandal, noting they come from academia, an American institution he says is rife with political groupthink.
+

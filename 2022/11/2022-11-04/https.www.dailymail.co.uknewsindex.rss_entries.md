@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Argentine Divorce court gives final say to who will get the dogs... to the PETS themselves
  - [https://www.dailymail.co.uk/news/article-11392447/Argentine-Divorce-court-gives-final-say-dogs-PETS-themselves.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11392447/Argentine-Divorce-court-gives-final-say-dogs-PETS-themselves.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1693,3 +1693,4 @@ Major UK retailers including Asda, Sainsbury's and Lidl have released their Chri
  - date published: 2022-11-04 00:05:06+00:00
 
 Philip David Woodcock (pictured), 60, has been named by South Yorkshire Police as the man who died in the attack in Rotherham on the morning of Wednesday, November 2.
+

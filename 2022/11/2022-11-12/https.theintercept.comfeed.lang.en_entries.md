@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## AOC and Mo Mitchell on the Midterms
  - [https://theintercept.com/2022/11/12/deconstructed-midterms-new-york/](https://theintercept.com/2022/11/12/deconstructed-midterms-new-york/)
@@ -23,3 +23,4 @@
 
 <p>“I know that there are lots of people that think I’m the worst person in the world,” Jay Jacobs said, “but the truth is I’m probably only in third or fourth place.”</p>
 <p>The post <a href="https://theintercept.com/2022/11/12/midterms-new-york-democrats-jay-jacobs/" rel="nofollow">New York Democratic Party Chair Takes No Responsibility for Elections. So What Does He Do?</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

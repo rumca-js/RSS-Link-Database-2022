@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Microsoft Office Is Retiring After 30 Years of Service. Behold ‘Microsoft 365’
  - [https://gizmodo.com/microsoft-office-retiring-30-years-365-excel-word-1849655996](https://gizmodo.com/microsoft-office-retiring-30-years-365-excel-word-1849655996)
@@ -293,3 +293,4 @@
  - date published: 2022-10-13 01:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--codpGbvR--/c_fit,fl_progressive,q_80,w_636/c4b5801b8bc2c5e0fb2ecee7781769f3.png" /><p>Finally, the Rock has made his <a href="https://gizmodo.com/an-epic-timeline-of-the-rock-willing-dc-s-black-adam-in-1846528042">long-awaited</a> debut in the DC Universe as <a href="https://gizmodo.com/black-adam-musical-theme-lorne-balfe-1849606362"><em>Black Adam</em></a>. Promising that the hierarchy of power will change, Dwayne Johnson suits up 
+

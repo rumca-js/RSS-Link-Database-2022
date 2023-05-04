@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Microsoft's Struggles Enter the Metaverse
  - [https://www.wsj.com/articles/microsoft-headsets-augmented-reality-hololens-metaverse-11666793622?mod=rss_Technology](https://www.wsj.com/articles/microsoft-headsets-augmented-reality-hololens-metaverse-11666793622?mod=rss_Technology)
@@ -13,3 +13,4 @@ Problems plagued development of its HoloLens augmented reality headset, a ring-s
  - date published: 2022-10-26 03:52:00+00:00
 
 Derek Li and Rick Chang both benefited from China’s tech boom. When the atmosphere changed, each had to make a decision.
+

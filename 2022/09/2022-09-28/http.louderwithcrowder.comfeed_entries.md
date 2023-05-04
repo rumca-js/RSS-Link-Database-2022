@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Here's the truth about January 6th that the committee won't tell you
  - [https://www.louderwithcrowder.com/january-6th-debunk-trump](https://www.louderwithcrowder.com/january-6th-debunk-trump)
@@ -72,3 +72,4 @@
  - date published: 2022-09-28 12:06:53+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31834179&amp;width=1245&amp;height=700&amp;coordinates=0%2C10%2C0%2C108" /><br /><br /><p>A 2017 clip has resurfaced of Anthony Mackie taking a dump all over what Hollywood had turned into. In light of <a href="https://www.thewrap.com/september-box-office-record-lows/" target="_blank">Hollywood having its worst month since 9/11</a> and just because sh*tting on Hollywood is always fun, I thought we'd enjoy revisiting. Keep in 
+

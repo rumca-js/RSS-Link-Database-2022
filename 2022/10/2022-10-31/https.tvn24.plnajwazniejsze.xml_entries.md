@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Netanjahu może wrócić do władzy na czele skrajnie prawicowej koalicji
  - [https://fakty.tvn24.pl/netanjahu-mo-e-wr-ci--do-w-adzy--i-to-na-czele-skrajnie-prawicowej-koalicji,1123211.html?source=rss](https://fakty.tvn24.pl/netanjahu-mo-e-wr-ci--do-w-adzy--i-to-na-czele-skrajnie-prawicowej-koalicji,1123211.html?source=rss)
@@ -151,3 +151,4 @@
 
 <img alt="Miała 19 lat, była w ciąży, przez wojnę została wdową. " src="https://tvn24.pl/swiat/cdn-zdjecie-spxdsz-reportaz-konrada-borusiewicza-6186680/alternates/LANDSCAPE_1280" />
     Konrad Borusiewicz odwiedził Sołomię Fedynyszyn po narodzinach jej syna. Jej mąż zginął podczas rosyjskiego ataku rakietowego na poligon w Jaworowie.
+

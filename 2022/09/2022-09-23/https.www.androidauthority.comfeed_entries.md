@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Android’s Game Dashboard quietly expands to more devices
  - [https://www.androidauthority.com/android-game-dashboard-3212521/](https://www.androidauthority.com/android-game-dashboard-3212521/)
@@ -125,3 +125,4 @@ Check out the Pixel Watch in all its glory before its October 6 reveal.
  - date published: 2022-09-23 05:56:38+00:00
 
 The update should stop your iPhone 14 Pro camera from rattling when using the likes of Instagram and TikTok.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Five things to take to university - and one to avoid
  - [https://www.bbc.co.uk/news/education-58545266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/education-58545266?at_medium=RSS&at_campaign=KARANGA)
@@ -538,3 +538,4 @@ In an impassioned UN speech, the Ukrainian leader calls for the creation of a sp
  - date published: 2022-09-22 00:06:16+00:00
 
 The health secretary unveils plans to boost access - but doctors say they will have minimal impact.
+

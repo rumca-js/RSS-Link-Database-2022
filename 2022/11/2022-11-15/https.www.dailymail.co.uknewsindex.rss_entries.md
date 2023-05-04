@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Netflix fails to make it into top 50 shows chart on first week of joining
  - [https://www.dailymail.co.uk/news/article-11432545/Netflix-fails-make-50-shows-chart-week-joining.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11432545/Netflix-fails-make-50-shows-chart-week-joining.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -396,7 +396,6 @@ Kevin McCarthy on Tuesday overcame a challenge from the conservative right to hi
  - [https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-15 19:36:31+00:00
- - tags: ideology,propaganda,blm
 
 EXCLUSIVE: Universities are being told to 'go woke' and 'decolonise' courses from computing to classics by the degrees watchdog.
 
@@ -2030,3 +2029,4 @@ Hospital bosses should raid their NHS budgets to pay for care home places so pat
  - date published: 2022-11-15 00:00:09+00:00
 
 Millions of shoppers have been switching to supermarket 'own label' food and budget chain products because of surging prices.
+

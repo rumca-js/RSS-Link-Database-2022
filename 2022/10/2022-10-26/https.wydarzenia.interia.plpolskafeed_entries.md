@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Jerzy Zięba wraca. YouTube zdecydował w sprawie jego kanału
  - [https://wydarzenia.interia.pl/kraj/news-jerzy-zieba-wraca-youtube-zdecydowal-w-sprawie-jego-kanalu,nId,6371932](https://wydarzenia.interia.pl/kraj/news-jerzy-zieba-wraca-youtube-zdecydowal-w-sprawie-jego-kanalu,nId,6371932)
@@ -41,3 +41,4 @@
  - date published: 2022-10-26 07:06:23+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-jerzy-owsiak-musi-przeprosic-barbare-piele-cala-rozprawa-jak,nId,6371628"><img align="left" alt="Jerzy Owsiak musi przeprosić Barbarę Pielę. &quot;Cała rozprawa jak z Kafki&quot;" src="https://i.iplsc.com/jerzy-owsiak-musi-przeprosic-barbare-piele-cala-rozprawa-jak/000G95D2Q1XME113-C321.jpg" /></a>Jerzy Owsiak przegrał proces z Barbarą Pielą, autorką plastelinowych filmów animowanych &quot;Plastusie&quot; dla TVP, która przedstawiła go jako narzędzie do robienia pieniędzy w rękach ówczesnej prezydent Warszawy. W swoich mediach społecznościowych twórca i lider Wielkiej Orkiestry Świątecznej Pomocy poinformował, że musi przeprosić kobietę w mediach ogólnopolskich. &quot;Cała rozprawa jak z powieści Kafki&quot; - napisał Owsiak.</p><br clear="all" />
+

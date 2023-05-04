@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Sejm podejmie decyzję ws. immunitetu posła Brauna. Głosowanie w czwartek
  - [https://wydarzenia.interia.pl/kraj/news-sejm-podejmie-decyzje-ws-immunitetu-posla-brauna-glosowanie-,nId,6314196](https://wydarzenia.interia.pl/kraj/news-sejm-podejmie-decyzje-ws-immunitetu-posla-brauna-glosowanie-,nId,6314196)
@@ -580,3 +580,4 @@
  - date published: 2022-09-28 03:40:52+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-217-dzien-inwazji-rosji-relacja-na-zywo,nzId,3091,akt,280723"><img align="left" alt="Wojna w Ukrainie. 217. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-217-dzien-inwazji-rosji-relacja-na-zywo/000G4M2ANXS8PU69-C321.jpg" /></a>Śledź naszą relację na żywo. Najnowsze informacje z frontu.</p><br clear="all" />
+

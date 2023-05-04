@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Amazon Hardware Event liveblog
  - [https://www.digitaltrends.com/news/amazon-hardware-event-liveblog-2022/](https://www.digitaltrends.com/news/amazon-hardware-event-liveblog-2022/)
@@ -20,3 +20,4 @@ There have been many concerns about the power consumption of RTX 40-Series GPUs.
  - date published: 2022-09-29 08:29:56.636821+00:00
 
 The NOAA has released dramatic footage of one of its aircraft flying through Hurricane Ian as part of a science mission.
+

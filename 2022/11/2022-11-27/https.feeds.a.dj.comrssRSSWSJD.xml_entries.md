@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## 'Knives Out' Sequel Delivers in Theaters for Streaming Giant Netflix
  - [https://www.wsj.com/articles/knives-out-sequel-delivers-in-theaters-for-streaming-giant-netflix-11669581476?mod=rss_Technology](https://www.wsj.com/articles/knives-out-sequel-delivers-in-theaters-for-streaming-giant-netflix-11669581476?mod=rss_Technology)
@@ -27,3 +27,4 @@ Sam Bankman-Fried’s Washington charm offensive revolved around a small financi
  - date published: 2022-11-27 02:27:00+00:00
 
 Co-founders of the Elon GOAT token delivered the 12,000-pound sculpture to Tesla’s Austin headquarters, but the billionaire didn’t respond.
+

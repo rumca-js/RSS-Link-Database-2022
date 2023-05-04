@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Analysis: Democrats have these Americans to thank for a strong midterm performance
  - [https://www.cnn.com/2022/11/12/politics/young-voters-democrats-midterm-elections/index.html](https://www.cnn.com/2022/11/12/politics/young-voters-democrats-midterm-elections/index.html)
@@ -216,3 +216,4 @@ In many countries, cursing online about the government is so commonplace nobody 
  - date published: 2022-11-12 02:19:02+00:00
 
 Former President Donald Trump has sued the House select committee investigating January 6, 2021, as a way to challenge its subpoena for documents and his testimony, according to filings in a federal court in Florida.
+

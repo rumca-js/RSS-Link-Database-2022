@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How (and Why) to Do Copenhagen Planks
  - [https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524](https://lifehacker.com/how-and-why-to-do-copenhagen-planks-1849569524)
@@ -139,3 +139,4 @@
  - date published: 2022-09-22 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--AJIQmJ4T--/c_fit,fl_progressive,q_80,w_636/eeeb21ddbb9e12e1eafd075fda951912.jpg" /><p>Learning a completely new-to-me use for a familiar ingredient is one of my favorite parts of cooking. It’s exciting and humbling—a nice little reminder that, in the grand scheme of things, I don’t know shit about shit. The most recent example of this is semolina flour: I’d only used it while baking bread until about a…</p><p><a href="https://lifehac
+

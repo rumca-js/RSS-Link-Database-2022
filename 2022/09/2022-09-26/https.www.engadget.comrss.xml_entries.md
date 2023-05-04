@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## NASA successfully smacked its DART spacecraft into an asteroid
  - [https://www.engadget.com/nasa-successfully-smacked-its-dart-impactor-spacecraft-into-an-asteroid-231706710.html?src=rss](https://www.engadget.com/nasa-successfully-smacked-its-dart-impactor-spacecraft-into-an-asteroid-231706710.html?src=rss)
@@ -139,3 +139,4 @@
  - date published: 2022-09-26 06:26:44+00:00
 
 <p>After weeks of rumors, Amazon has <a href="https://press.aboutamazon.com/news-releases/news-release-details/introducing-amazons-prime-early-access-sale-new-holiday-shopping">officially announced</a> that it plans to hold a second sales event this fall exclusively for Prime members. The second Prime Day of the year, dubbed &quot;Prime Early Access Sale,&quot; will be held on October 11th and 12th in the US, UK, Canada and 12 other countries, following the same two-day format as the original ev
+

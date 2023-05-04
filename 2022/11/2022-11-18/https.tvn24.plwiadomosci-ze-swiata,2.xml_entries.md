@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Przebudzenie Cotopaxi. Wulkan wystrzelił w powietrze gaz i parę wodną
  - [https://tvn24.pl/tvnmeteo/swiat/ekwador-przebudzenie-wulkanu-cotopaxi-wulkan-wystrzelil-w-powietrze-gaz-i-pare-wodna-6227001?source=rss](https://tvn24.pl/tvnmeteo/swiat/ekwador-przebudzenie-wulkanu-cotopaxi-wulkan-wystrzelil-w-powietrze-gaz-i-pare-wodna-6227001?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Rusza zbiórka podpisów pod projektem " src="https://tvn24.pl/najnowsze/cdn-zdjecie-lms6y4-byla-premier-ewa-kopacz-poinformowala-o-rozpoczeciu-zbiorki-podpisow-pod-obywatelskim-projektem-dotyczacym-refundacji-procedury-in-vitro-6225850/alternates/LANDSCAPE_1280" />
     Komitet Inicjatywy Ustawodawczej "TAK dla in vitro" rozpoczął zbiórkę podpisów pod obywatelskim projektem dotyczącym refundacji procedury. - Postanowiliśmy wyręczyć rządzących w tym, co było ich obowiązkiem w nowoczesnym państwie - powiedziała była premier Ewa Kopacz. Lider PO Donald Tusk podkreślał, że "żyjemy w państwie, które jest rządzone przez mężczyzn, którzy nienawidzą kobiet".
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Frontier vs. Xfinity: Compare Internet Pricing, Plans and Speeds     - CNET
  - [https://www.cnet.com/news/frontier-vs-xfinity/#ftag=CADf328eec](https://www.cnet.com/news/frontier-vs-xfinity/#ftag=CADf328eec)
@@ -916,3 +916,4 @@ Described as among the most important days in crypto, the ethereum blockchain th
  - date published: 2022-09-13 00:30:06+00:00
 
 A small projector, maybe with a battery, can give you big-screen TV, movies and games just about anywhere. Here are our favorites.
+

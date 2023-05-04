@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Delete Your Android Phone Browser Cookies and Cache to Get Rid of Junk Files     - CNET
  - [https://www.cnet.com/tech/mobile/delete-your-android-phone-browser-cookies-cache-get-rid-of-junk-files/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/delete-your-android-phone-browser-cookies-cache-get-rid-of-junk-files/#ftag=CADf328eec)
@@ -349,3 +349,4 @@ One of the built-in apps on iPhone lets you keep your conversations hidden.
  - date published: 2022-09-17 00:00:02+00:00
 
 If your Nintendo Switch has died, you can use the Joy-Con controllers on your Apple devices.
+

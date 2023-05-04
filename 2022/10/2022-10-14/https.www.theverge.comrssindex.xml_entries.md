@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## A tweet about hair relaxer kits connected models from the boxes with women who grew up seeing them
  - [https://www.theverge.com/2022/10/14/23391086/black-twitter-hair-relaxer-models-memories](https://www.theverge.com/2022/10/14/23391086/black-twitter-hair-relaxer-models-memories)
@@ -310,3 +310,4 @@
     </figure>
 
   <p id="Ly29LQ">During Meta’s Connect conference on Tuesday, Mark Zuckerberg made a huge announcement: the avatars in the company’s 
+

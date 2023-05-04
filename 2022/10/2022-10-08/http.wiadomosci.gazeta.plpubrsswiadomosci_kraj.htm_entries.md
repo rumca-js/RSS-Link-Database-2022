@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Elbląg: kierowca potrącił cztery osoby na przejściu dla pieszych. Trzy trafiły do szpitala
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29001345,elblag-kierowca-potracil-cztery-osoby-na-przejsciu-dla-pieszych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29001345,elblag-kierowca-potracil-cztery-osoby-na-przejsciu-dla-pieszych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-10-08 08:09:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/38/a8/1b/z28999736M,Jesienna-pogoda--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda w weekend będzie zmienna. Przed nami zarówno chwile ze sporą ilością słońca, jak i z zachmurzeniem, a nawet opadami deszczu. W niedzielę czeka nas małe ochłodzenie, ale już od poniedziałku temperatura ma znów wzrosnąć.
+

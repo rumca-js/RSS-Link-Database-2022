@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 8 Black Friday Must-Haves That Have Never Had Prices Lower Than This     - CNET
  - [https://www.cnet.com/deals/8-black-friday-must-haves-that-have-never-had-prices-lower-than-this/#ftag=CADf328eec](https://www.cnet.com/deals/8-black-friday-must-haves-that-have-never-had-prices-lower-than-this/#ftag=CADf328eec)
@@ -489,3 +489,4 @@ Let's dive into the biggest moments from Andor's finale.
  - date published: 2022-11-24 00:13:00+00:00
 
 The former cryptocurrency CEO is accused of mismanaging billions of dollars of customers funds.
+

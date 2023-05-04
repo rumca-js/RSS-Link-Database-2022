@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Are Your Patients Worried About the Polio Vaccine?
  - [https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html](https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html)
@@ -27,3 +27,4 @@ British regulars have sent a warning notice to the company, the first major case
  - date published: 2022-09-26 09:00:23+00:00
 
 A draft agreement with the Biden administration to keep the Chinese-owned video app operating in the United States is under review. That could mean more wrangling.
+

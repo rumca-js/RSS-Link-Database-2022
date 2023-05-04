@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Morawiecki gratuluje i pisze o "bezprecedensowych wyzwaniach", nowa premier Włoch odpowiada
  - [https://tvn24.pl/swiat/wlochy-giorgia-meloni-podziekowala-premierowi-mateuszowi-morawieckiemu-za-gratulacje-6175651?source=rss](https://tvn24.pl/swiat/wlochy-giorgia-meloni-podziekowala-premierowi-mateuszowi-morawieckiemu-za-gratulacje-6175651?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Morawiecki gratuluje i pisze o " src="https://tvn24.pl/najnowsze/cdn-zdjecie-dvo90k-giorgia-meloni-6175654/alternates/LANDSCAPE_1280" />
     Nowa szefowa włoskiego rządy Giorgia Meloni podziękowała Mateuszowi Morawieckiemu za gratulacje, jakie złożył jej w dniu zaprzysiężenia jej rządu. Wcześniej polski premier napisał, że "przed nami wiele bezprecedensowych wyzwań".
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## OECD urges countries around the world to prioritize the battle against inflation
  - [https://www.lemonde.fr/en/economy/article/2022/11/22/oecd-urges-countries-around-the-world-to-prioritize-the-battle-against-inflation_6005265_19.html](https://www.lemonde.fr/en/economy/article/2022/11/22/oecd-urges-countries-around-the-world-to-prioritize-the-battle-against-inflation_6005265_19.html)
@@ -279,3 +279,4 @@ China has a history of industrial accidents caused by lax regard to safety measu
  - date published: 2022-11-22 01:42:34+00:00
 
 After a first half dominated by the US, Welsh start Garreth Bale scored an 82nd-minute penalty to break American hearts.
+

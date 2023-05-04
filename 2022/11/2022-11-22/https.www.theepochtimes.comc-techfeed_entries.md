@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Elon Musk Delaying Twitter Blue Checkmark Launch, May Offer Different Colors for Organizations
  - [https://www.theepochtimes.com/elon-musk-delaying-twitter-blue-checkmark-launch-may-offer-different-colors-for-organizations_4879760.html](https://www.theepochtimes.com/elon-musk-delaying-twitter-blue-checkmark-launch-may-offer-different-colors-for-organizations_4879760.html)
@@ -27,3 +27,4 @@ The logo of Tesla in Taipei, Taiwan, on Aug. 11, 2017. (Tyrone Siu/Reuters)
  - date published: 2022-11-22 02:12:58+00:00
 
 A 3D-printed Facebook like button in front of the Facebook logo in an illustration taken on Oct. 25, 2017. (Dado Ruvic/Illustration/Reuters)
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Like Game of Thrones Before It, House of the Dragon Now Has Its Own VFX-Correctible Oopsie
  - [https://gizmodo.com/house-of-the-dragon-vfx-fingers-error-game-of-thrones-1849508398](https://gizmodo.com/house-of-the-dragon-vfx-fingers-error-game-of-thrones-1849508398)
@@ -293,3 +293,4 @@
  - date published: 2022-09-07 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--BAZANcnd--/c_fit,fl_progressive,q_80,w_636/7d68029b3fbd5f03a8fb991d09997027.jpg" /><p>Anyone who’s seen the Peter Jackson <em>Lord of the Rings</em> movies will recall that for all their creatures and battle scenes, one of their niftiest special effects—showing the height difference between wee <a href="https://gizmodo.com/sean-astins-cool-with-you-shipping-sam-and-frodo-two-b-1845942699">Frodo</a> and towering <a href="https://gizmo
+

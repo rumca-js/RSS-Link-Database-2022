@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Chris Wallace Show Tanks On CNN, Loses Big To His Former Network
  - [https://www.dailywire.com/news/chris-wallace-show-tanks-on-cnn-loses-big-to-his-former-network](https://www.dailywire.com/news/chris-wallace-show-tanks-on-cnn-loses-big-to-his-former-network)
@@ -356,3 +356,4 @@ Have you accidentally created an avatar for yourself? More specifically, have yo
  - date published: 2022-09-26 10:16:01+00:00
 
 Giorgia Meloni claimed victory early Monday morning and is projected to win a battle to become Italy&#8217;s first female prime minister, leading her conservative party Brothers of Italy in the country&#8217;s national elections. Her party indicated Meloni&#8217;s center-right coalition had received 44% of the vote with nearly all ballots counted on Monday, far ahead of ...
+

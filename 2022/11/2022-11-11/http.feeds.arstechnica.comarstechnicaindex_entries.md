@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Southeast US has hit the roof of CDC’s respiratory illness level scale
  - [https://arstechnica.com/?p=1897339](https://arstechnica.com/?p=1897339)
@@ -118,3 +118,4 @@ Prop 30 would've taxed wealthiest residents to build EV infrastructure, wildfire
  - date published: 2022-11-11 01:00:07+00:00
 
 The hacking group Microsoft ID'd is among the world's most cutthroat and skilled.
+

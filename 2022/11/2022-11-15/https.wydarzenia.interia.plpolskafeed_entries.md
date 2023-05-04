@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Przewodów. Joe Biden: Rozmawiałem z prezydentem Dudą, złożyłem kondolencje
  - [https://wydarzenia.interia.pl/kraj/news-przewodow-joe-biden-rozmawialem-z-prezydentem-duda-zlozylem-,nId,6413150](https://wydarzenia.interia.pl/kraj/news-przewodow-joe-biden-rozmawialem-z-prezydentem-duda-zlozylem-,nId,6413150)
@@ -34,3 +34,4 @@
  - date published: 2022-11-15 08:20:01+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-odklejka-onuca-czy-essa-az-20-kandydatow-do-mlodziezowego-sl,nId,6412375"><img align="left" alt="Odklejka, onuca czy essa? Aż 20 kandydatów do Młodzieżowego Słowa Roku" src="https://i.iplsc.com/odklejka-onuca-czy-essa-az-20-kandydatow-do-mlodziezowego-sl/000GCBQTAGEN5SI6-C321.jpg" /></a>&quot;Pokemon&quot;, &quot;Twoja stara&quot;, ale także &quot;onuca&quot; - między innymi te wyrażenia walczą o tytuł Młodzieżowego Słowa Roku. W finałowej dwudziestce plebiscytu zabrakło słowa, które podbiło TikToka. W poprzednich latach zwyciężyły takie określenia jak np. &quot;alternatywka&quot; czy &quot;śpiulkolot&quot;. W tym roku na swoich faworytów można głosować do końca listopada. Wyjaśniamy, co oznaczają &quot;essa&quot;, &quot;rel&quot; czy &quot;łymyn&quot;. </p><br clear="all" />
+

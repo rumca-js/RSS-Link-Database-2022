@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Keane backs Biden's pledge to defend Taiwan: 'Very appropriate'
  - [https://www.foxnews.com/media/keane-backs-bidens-pledge-defend-taiwan-very-appropriate](https://www.foxnews.com/media/keane-backs-bidens-pledge-defend-taiwan-very-appropriate)
@@ -1294,3 +1294,4 @@ Illinois Sen. Dick Durbin's son was a victim of fraud related to the Paycheck Pr
  - date published: 2022-09-20 00:00:50+00:00
 
 MSNBC guest Francesca Fiorentini condemned both Republicans and Democrats for militarizing the border and supporting Customs and Border Patrol.
+

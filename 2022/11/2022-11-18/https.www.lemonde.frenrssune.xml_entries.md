@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Elizabeth Holmes gets more than 11 years in prison for Theranos scam
  - [https://www.lemonde.fr/en/international/article/2022/11/19/elizabeth-holmes-gets-more-than-11-years-in-prison-for-theranos-scam_6004839_4.html](https://www.lemonde.fr/en/international/article/2022/11/19/elizabeth-holmes-gets-more-than-11-years-in-prison-for-theranos-scam_6004839_4.html)
@@ -209,3 +209,4 @@ On November 9, President Macron clarified his assessment of the French deterrenc
  - date published: 2022-11-18 01:05:21+00:00
 
 Both boys and girls were sexually and physically abused, according to the court filing on Thursday, with ages ranging from preschool through young adulthood.
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## World Series Game 3 live: Bryce Harper and Phillies return home for Game 3 against Astros
  - [https://www.theguardian.com/sport/live/2022/nov/01/world-series-game-3-philadelphia-phillies-v-houston-astros-live-latest-score](https://www.theguardian.com/sport/live/2022/nov/01/world-series-game-3-philadelphia-phillies-v-houston-astros-live-latest-score)
@@ -986,3 +986,4 @@ A sweet and nutty soft-centred treat<p>Weigh 120g of <strong>plain flour</strong
  - date published: 2022-11-01 00:01:35+00:00
 
 <ul><li>Twenty-eight clubs have written to government over plans</li><li>‘Football is at a crossroads and future of game hangs in balance’</li></ul><p>Twenty-eight clubs have written to the government urging it to press ahead with plans for an independent regulator, warning inaction would lead to clubs being “wiped off the map”.</p><p>An independent regulator was the central recommendation of the fan-led review, which was commissioned by the government last year in the wake of the <a href="https://www.theguardian.com/football/2021/apr/20/european-super-league-unravelling-as-manchester-city-and-chelsea-withdraw">European Super League scandal</a>.</p> <a href="https://www.theguardian.com/football/2022/nov/01/clubs-fear-being-wiped-off-the-map-without-independent-regulator">Continue reading...</a>
+

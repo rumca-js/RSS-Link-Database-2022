@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Send Your Kids on a Christmas Treasure Hunt
  - [https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183](https://lifehacker.com/send-your-kids-on-a-christmas-treasure-hunt-1849822183)
@@ -20,3 +20,4 @@
  - date published: 2022-11-26 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--7sO4qSHK--/c_fit,fl_progressive,q_80,w_636/bdc5f982f114c29438aa055d50520381.jpg" /><p>Want to do something with the kids for the holidays, but can’t afford breakfast with Santa or the Polar Express train ride? Or perhaps you’re looking for something festive to do with your friends or on a date, but tickets to the Nutcracker aren’t in the budget. Don’t worry, we’ve got you covered.</p><p><a href="https://lifehacker.com/go-to-these-cheap-or-free-holiday-events-this-year-1849822194">Read more...</a></p>
+

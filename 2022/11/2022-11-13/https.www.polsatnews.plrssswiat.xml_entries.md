@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. Zełenski: Rosjanie popełnili ponad 400 zbrodni wojennych w obwodzie chersońskim
  - [https://www.polsatnews.pl/wiadomosc/2022-11-13/wojna-w-ukrainie-zelenski-rosjanie-popelnili-ponad-400-zbrodni-wojennych-w-obwodzie-chersonskim/](https://www.polsatnews.pl/wiadomosc/2022-11-13/wojna-w-ukrainie-zelenski-rosjanie-popelnili-ponad-400-zbrodni-wojennych-w-obwodzie-chersonskim/)
@@ -90,3 +90,4 @@ Pasażerowie chcieli wysiąść w Polance nad Odrą, lecz pociąg Kolei Czeskich
  - date published: 2022-11-13 05:17:00+00:00
 
 Partia Demokratyczna utrzyma kontrolę nad Senatem, jedną z izb amerykańskiego Kongresu - podały media z USA, bazując na policzonych dotąd głosach. Partia Joe Bidena może ogłosić wyborczy sukces, ponieważ jej członkini - Catherine Cortez Masto - obroniła mandat senatora z Nevady. Nadal nierozstrzygnięty jest pojedynek w Izbie Reprezentantów, choć tu większe szanse mają Republikanie.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## WhatsApp is getting Facebook’s Bitmoji-style avatars
  - [https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars](https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars)
@@ -81,3 +81,4 @@
     </figure>
 
   <p id="4OgDKA">Remember TiVo? It still exists, even if you probably haven’t used a TiVo device in quite awhile. (Unless you’re one of the f
+

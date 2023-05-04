@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Microsoft considering buying more studios to stay competitive with Tencent and Sony
  - [https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)
@@ -167,3 +167,4 @@ Wordle today: The solution and a hint for Friday's puzzle.
  - date published: 2022-09-16 00:19:03+00:00
 
 Spartan Points won't be purchasable, 343 Industries confirms.
+

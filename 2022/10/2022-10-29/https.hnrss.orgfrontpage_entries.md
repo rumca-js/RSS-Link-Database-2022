@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## The Year of the Femcel
  - [https://unherd.com/2022/10/the-year-of-the-femcel/](https://unherd.com/2022/10/the-year-of-the-femcel/)
@@ -703,3 +703,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33379932">https://news.ycombinator.com/item?id=33379932</a></p>
 <p>Points: 10</p>
 <p># Comments: 3</p>
+

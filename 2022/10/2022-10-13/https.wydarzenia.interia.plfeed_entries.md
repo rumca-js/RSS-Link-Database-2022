@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Francuskie władze krytykują pomysł Putina. "To nie ma sensu"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-francuskie-wladze-krytykuja-pomysl-putina-to-nie-ma-sensu,nId,6346021](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-francuskie-wladze-krytykuja-pomysl-putina-to-nie-ma-sensu,nId,6346021)
@@ -573,3 +573,4 @@
  - date published: 2022-10-13 03:35:01+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-232-dzien-inwazji-rosji-relacja-na-zywo,nzId,3175,akt,130735"><img align="left" alt="Wojna w Ukrainie. 232. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-232-dzien-inwazji-rosji-relacja-na-zywo/000G5UEG46J8J1JK-C321.jpg" /></a>Najnowsze doniesienia z wojennego frontu. Śledź naszą relację.</p><br clear="all" />
+

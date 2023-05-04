@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Brazylia: Mała różnica między kandydatami w wyborach prezydenckich
  - [https://www.polsatnews.pl/wiadomosc/2022-10-30/brazylia-jair-bolsonaro-prowadzi-w-wyborach-prezydenckich/](https://www.polsatnews.pl/wiadomosc/2022-10-30/brazylia-jair-bolsonaro-prowadzi-w-wyborach-prezydenckich/)
@@ -90,3 +90,4 @@ Rosyjscy hakerzy mieli zhakować prywatny telefon Lizz Truss w czasie, gdy pełn
  - date published: 2022-10-30 07:41:00+00:00
 
 - Byłam dosłownie ulicę obok. W tamtej okolicy są one wąskie i strome. Wyglądało to jak lawina, ludzie na siebie spadali. Sześć, siedem osób leżało na sobie. Niektórzy, by się uratować, wspinali się na budynki. Makabryczne sceny - tak Karolina Salwa, aktualnie przebywająca w Seulu, relacjonowała w Polsat News tragedię, w której zginęło ponad 150 osób.
+

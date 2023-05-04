@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Coinbase users were unable to withdraw funds to US bank accounts for six hours
  - [https://www.engadget.com/coinbase-major-outage-withdrawals-us-bank-accounts-214635790.html?src=rss](https://www.engadget.com/coinbase-major-outage-withdrawals-us-bank-accounts-214635790.html?src=rss)
@@ -34,3 +34,4 @@
  - date published: 2022-10-02 12:00:20+00:00
 
 <p><a href="https://www.engadget.com/twitter-direct-messaging-chatbox-110541267.html">Twitter</a> has started rolling out some changes for its Android app that gives people sliding into DMs a more visually appealing interface. The social network's Android app has remained largely the same over the years, but this update, while pretty minor, was meant to give users &quot;a smoother, more consistent experience overall.&quot; Twitter says it set to work redesigning its DMs on Android after its team
+

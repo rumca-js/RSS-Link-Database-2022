@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Iranian women are cutting off their hair in protest. Here's why
  - [https://www.cnn.com/2022/09/28/middleeast/iran-hair-cutting-mime-intl/index.html](https://www.cnn.com/2022/09/28/middleeast/iran-hair-cutting-mime-intl/index.html)
@@ -34,3 +34,4 @@ Typhoon Noru made landfall near Vietnam's popular beach resort city of Da Nang o
  - date published: 2022-09-28 00:03:42+00:00
 
 After tumbling to a record low against the dollar, the British pound stabilized Tuesday, rising more than 1% to $1.08.
+

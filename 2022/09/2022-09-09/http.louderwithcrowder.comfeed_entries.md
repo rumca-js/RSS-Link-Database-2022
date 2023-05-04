@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Not-so-secret life of pets?: Man arrested after recording allowing his dog to drive his car
  - [https://www.louderwithcrowder.com/man-allowed-dog-to-drive](https://www.louderwithcrowder.com/man-allowed-dog-to-drive)
@@ -56,3 +56,4 @@
  - date published: 2022-09-09 12:32:48+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31635019&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Krystle Matthews is running for U.S. Senate in the great state of South Carolina. Matthews also sounds like she hates a sizable portion of her electorate. Independent rousers of rabble Project Veritas released an audio recording of Matthews disparaging an entire group of voters based on nothing but the color of their skin.</p><div class="
+

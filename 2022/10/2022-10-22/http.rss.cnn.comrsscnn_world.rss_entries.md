@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Red Bull owner Dietrich Mateschitz dies, company says
  - [https://www.cnn.com/2022/10/22/business/red-bull-owner-dietrich-mateschitz-death/index.html](https://www.cnn.com/2022/10/22/business/red-bull-owner-dietrich-mateschitz-death/index.html)
@@ -34,3 +34,4 @@ Giorgia Meloni, the hard-right leader who is due to be sworn in as Italy's first
  - date published: 2022-10-22 01:22:33+00:00
 
 Tyrique Glasgow's life has always revolved around his South Philadelphia neighborhood, and gun violence has always been a part of it.
+

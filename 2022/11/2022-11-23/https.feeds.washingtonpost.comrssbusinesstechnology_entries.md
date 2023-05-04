@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## ‘World of Warcraft’ developers working to keep the game open to Chinese fans
  - [https://www.washingtonpost.com/video-games/2022/11/23/wow-mmo-china-restoring-access/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/23/wow-mmo-china-restoring-access/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Most of what you see at first on Amazon is now an ad.
  - date published: 2022-11-23 05:00:22+00:00
 
 The ‘patron saint of the internet’ tells The Post he’ll never pay for verification but will learn to code if Musk offers him a job.
+

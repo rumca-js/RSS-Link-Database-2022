@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Jedno dotknięcie piłki i zupełnie szaleńcza radość. Zobacz gola Lewandowskiego
  - [https://eurosport.tvn24.pl/jedno-dotkni-cie-pi-ki-i-zupe-nie-szale-cza-rado----zobacz-gola-lewandowskiego,1123050.html?source=rss](https://eurosport.tvn24.pl/jedno-dotkni-cie-pi-ki-i-zupe-nie-szale-cza-rado----zobacz-gola-lewandowskiego,1123050.html?source=rss)
@@ -175,3 +175,4 @@
 
 <img alt="Jolanta Kwaśniewska: straciłam zaufanie do tego państwa" src="https://tvn24.pl/najnowsze/cdn-zdjecie-nvdv63-jolanta-kwasniewska-w-bardzo-bardzo-serio-6184994/alternates/LANDSCAPE_1280" />
     Poznajcie też przepis na konfitury z pigwy z czerwonym pieprzem i dowiecie się, co była pierwsza dama myśli o haśle "Sex, drugs & rock'n'roll".
+

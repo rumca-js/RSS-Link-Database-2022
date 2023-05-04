@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The Google Pixel 7 has an official launch date - but what else will the day bring?
  - [https://www.techradar.com/news/the-google-pixel-7-has-an-official-launch-date-but-what-else-will-the-day-bring/](https://www.techradar.com/news/the-google-pixel-7-has-an-official-launch-date-but-what-else-will-the-day-bring/)
@@ -181,3 +181,4 @@ OneWeb had been using Baikonur Cosmodrome to launch LEO satellites
  - date published: 2022-09-06 08:49:30+00:00
 
 Security firm confirms the leading provider does exactly what it states in its privacy policy: never storing sensitive users' data.
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Detail New Malware Campaign Targeting Indian Government Employees
  - [https://thehackernews.com/2022/11/researchers-detail-new-malware-campaign.html](https://thehackernews.com/2022/11/researchers-detail-new-malware-campaign.html)
@@ -23,3 +23,4 @@ As IT assets became increasingly connected to the outside world via the internet
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published three Industrial Control Systems (ICS) advisories about multiple vulnerabilities in software from ETIC Telecom, Nokia, and Delta Industrial Automation.
 Prominent among them is a set of three flaws affecting ETIC Telecom's Remote Access Server (RAS), which "could allow an attacker to obtain sensitive information and
+

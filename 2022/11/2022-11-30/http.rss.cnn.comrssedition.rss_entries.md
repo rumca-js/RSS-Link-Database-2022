@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Analysis: DOJ wants 'all' transcripts and evidence in House January 6 probe, Garland says
  - [https://www.cnn.com/2022/11/30/politics/merrick-garland-news-conference/index.html](https://www.cnn.com/2022/11/30/politics/merrick-garland-news-conference/index.html)
@@ -594,3 +594,4 @@ Death metal fans might just have a new animal mascot.
  - date published: 2022-11-30 00:05:01+00:00
 
 President Biden had just wrapped his remarks at a Bay City, Michigan chip manufacturing plant when he heard about the USA Men's National Team's win against Iran in the World Cup. See his reaction.
+

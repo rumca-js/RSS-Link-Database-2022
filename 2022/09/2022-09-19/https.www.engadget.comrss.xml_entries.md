@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Diablo IV's public beta will start in early 2023
  - [https://www.engadget.com/diablo-4-closed-beta-starting-soon-230820747.html?src=rss](https://www.engadget.com/diablo-4-closed-beta-starting-soon-230820747.html?src=rss)
@@ -139,3 +139,4 @@
  - date published: 2022-09-19 06:48:09+00:00
 
 <p>After the launch of the <a href="https://www.engadget.com/asus-rog-phone-6-pro-pricing-availability-123058737.html">ROG Phone 6 Pro</a> gaming phone, some hardcore fans were left wondering what happened to the "Ultimate" variant. As it turns out, ASUS waited for over two months before unveiling its "one more thing": the ROG Phone 6D Ultimate. It's identical to the 6 Pro in almost every way, except for four things: the new "space gray" color, the interesting choice of the MediaTek Dimensity 90
+

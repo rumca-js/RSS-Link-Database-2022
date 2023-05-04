@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Iran: Siły bezpieczeństwa zabiły nastolatkę. Jej ciało skradziono i pochowano
  - [https://www.polsatnews.pl/wiadomosc/2022-10-04/iran-sily-bezpieczenstwa-zabily-nastolatke-jej-cialo-skradziono-i-pochowano/](https://www.polsatnews.pl/wiadomosc/2022-10-04/iran-sily-bezpieczenstwa-zabily-nastolatke-jej-cialo-skradziono-i-pochowano/)
@@ -125,3 +125,4 @@ Ukraina kontynuuje kontrofensywę i odnosi sukcesy w północnej i południowej 
  - date published: 2022-10-04 06:11:00+00:00
 
 Korea Północna przeprowadziła kolejny lot testowy rakiety. Tym razem pocisk przeleciał nad Japonią wywołując alarm w północnej części kraju. Wspólnota międzynarodowa skrytykowała próby balistyczne.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## How Xi has changed China
  - [https://cnn.com/interactive/2022/10/asia/china-party-congress-change-under-xi-intl-hnk/](https://cnn.com/interactive/2022/10/asia/china-party-congress-change-under-xi-intl-hnk/)
@@ -62,3 +62,4 @@ British Prime Minister Liz Truss on Monday apologized for her controversial mini
  - date published: 2022-10-18 02:13:15+00:00
 
 The trial of a former Indonesian police general accused of orchestrating the murder of his bodyguard started at a Jakarta court on Monday, in a case that has put a spotlight on alleged impunity and corruption in the country's police force.
+

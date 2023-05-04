@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best smart scales of 2022
  - [https://www.zdnet.com/article/best-smart-scale/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-smart-scale/#ftag=RSSbaffb68)
@@ -237,3 +237,4 @@ You can save $30 on the typical retail price of the Hue starter kit.
  - date published: 2022-09-06 07:27:00+00:00
 
 You can save $30 on the typical retail price of the Hue starter kit.
+

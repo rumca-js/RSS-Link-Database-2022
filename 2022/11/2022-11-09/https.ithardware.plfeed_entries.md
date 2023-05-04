@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 82. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_drugi_listopad_2022-24283.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_drugi_listopad_2022-24283.html)
@@ -183,3 +183,4 @@ Ponad trzy tygodnie po tym, jak NVIDIA ogłosiła zmianę plan&oacute;w dotyczą
 
 <img src="https://ithardware.pl/artykuly/min/24256_1.jpg" />            Alibaba i start-up Biren Technology zmieniają swoje najbardziej zaawansowane projekty układ&oacute;w scalonych, aby zmniejszyć prędkość przetwarzania i uniknąć nałożonych przez USA sankcji mających na celu stłumienie chińskiej mocy...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/nvidia_alibaba_i_inni_spowalniaja_procesory_zeby_obejsc_sankcje_nalozone_na_chiny-24256.html">https://ithardware.pl/aktualnosci/nvidia_alibaba_i_inni_spowalniaja_procesory_zeby_obejsc_sankcje_nalozone_na_chiny-24256.html</a></p>
+

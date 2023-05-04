@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Democratic Consultants Cash In on AIPAC Spending — Even as It Tries to Hand the House to Republicans
  - [https://theintercept.com/2022/11/03/democratic-consultants-aipac-summer-lee/](https://theintercept.com/2022/11/03/democratic-consultants-aipac-summer-lee/)
@@ -23,3 +23,4 @@
 
 <p>Robert Adams alleges that a guard sodomized him with a baton. A yearlong investigation into his story uncovered a system plagued by retaliation and primed for abuse.</p>
 <p>The post <a href="https://theintercept.com/2022/11/03/new-york-prison-sexual-assault-prea/" rel="nofollow">Sexual Assault Allegation Exposes Self-Policing Prison System</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

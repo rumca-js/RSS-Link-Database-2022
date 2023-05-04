@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Genshin Impact is Getting an Anime from Demon Slayer's Ufotable
  - [https://gizmodo.com/genshin-impact-hoyoverse-anime-adaptation-1849549095](https://gizmodo.com/genshin-impact-hoyoverse-anime-adaptation-1849549095)
@@ -62,3 +62,4 @@
  - date published: 2022-09-17 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--njWsZ3TV--/c_fit,fl_progressive,q_80,w_636/773d999dd9b5d192ad8b78ae62630782.jpg" /><p><a href="https://gizmodo.com/coinbase-launches-pro-crypto-politician-identifier-1849547458">Read more...</a></p>
+

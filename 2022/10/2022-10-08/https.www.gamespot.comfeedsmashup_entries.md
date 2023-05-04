@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## WWE Extreme Rules 2022 Results, Live Match Card Updates, Review, And Surprises
  - [https://www.gamespot.com/articles/wwe-extreme-rules-2022-results-live-match-card-updates-review-and-surprises/1100-6508124/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wwe-extreme-rules-2022-results-live-match-card-updates-review-and-surprises/1100-6508124/?ftag=CAD-01-10abi2f)
@@ -48,3 +48,4 @@
  - date published: 2022-10-08 01:00:00+00:00
 
 <p><span>Xerneas makes its return to </span><a href="https://www.gamespot.com/games/pokemon-go/">Pokemon Go</a><span> Gyms near you for a limited-time appearance in five-star raid battles. This legendary Pokemon is appearing after its counterpart, the embodiment of destruction Yveltal, leaves raids during Pokemon Go’s </span><a href="https://pokemongolive.com/en/post/evolving-stars-2022/">Evolving Stars event</a><span>.</span></p><h2 dir="ltr"><strong>Xerneas Raid Schedule</strong></h2><p dir="l
+

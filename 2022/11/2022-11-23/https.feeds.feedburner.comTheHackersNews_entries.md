@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## 34 Russian Hacker Groups Stole Over 50 Million Passwords with Stealer Malware
  - [https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html](https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html)
@@ -49,3 +49,4 @@ The network, which originated from the U.S., primarily singled out Afghanistan, 
 A nascent and legitimate penetration testing framework known as Nighthawk is likely to gain threat actors' attention for its Cobalt Strike-like capabilities.
 Enterprise security firm Proofpoint said it detected the use of the software in mid-September 2022 with a number of test emails sent using generic subject lines such as "Just checking in" and "Hope this works2."
 However, there are no
+

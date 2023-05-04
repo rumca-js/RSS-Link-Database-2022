@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Trudeau Announces $62.5 Million in Health Initiatives During Visit of Tragedy-Struck First Nation
  - [https://www.theepochtimes.com/trudeau-announces-62-5-million-in-health-initiatives-during-visit-of-tragedy-struck-first-nation_4891045.html](https://www.theepochtimes.com/trudeau-announces-62-5-million-in-health-initiatives-during-visit-of-tragedy-struck-first-nation_4891045.html)
@@ -67,7 +67,6 @@ Sean McCowan, right, reacts as he stands Kaelin McCowan, brothers of Erin Gilmou
  - [https://www.theepochtimes.com/elon-musk-denounces-esg-as-the-devil-incarnate_4890385.html](https://www.theepochtimes.com/elon-musk-denounces-esg-as-the-devil-incarnate_4890385.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-11-28 22:08:59+00:00
- - tags: elon musk,esg
 
 Tesla CEO Elon Musk talks to the press as he arrives to have a look at the construction site of the new Tesla Gigafactory near Berlin, Germany, on Sept. 3, 2020. (Maja Hitij/Getty Images)
 
@@ -357,3 +356,4 @@ People light a fire during a protest over the death of Mahsa Amini, a woman who 
  - date published: 2022-11-28 00:05:42+00:00
 
 Victorian Opposition Leader Matthew Guy speaks to media during a press conference in Melbourne, Australia, on Sept. 21, 2022. (AAP Image/Diego Fedele)
+

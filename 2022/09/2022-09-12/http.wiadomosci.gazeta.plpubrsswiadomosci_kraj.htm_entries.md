@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wojciech "Jaszczur" Olszański w białoruskiej telewizji, chwalił Łukaszenkę. Jest komentarz polskich służb
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28903493,jaszczur-w-bialoruskiej-telewizji-zaryn-to-kolejny-polak-wykorzystywany.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28903493,jaszczur-w-bialoruskiej-telewizji-zaryn-to-kolejny-polak-wykorzystywany.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-09-12 06:11:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ba/45/1b/z28596410M,Abp--Marek-Jedraszewski---zdjecie-archiwalne.jpg" vspace="2" />- Jak to możliwe, że człowiek odwraca się od zamysłu Boga i tworzy sobie zupełnie nowe definicje tego, czym jest małżeństwo i rodzina - tak swoje niedzielne rozważania zaczął abp Marek Jędraszewski. Osoby starające się o dziecko z pomocą in vitro mogły słowami hierarchy poczuć się urażone. Nazwa metody leczenia niepłodności nie padła, duchowny użył sformułowa
+

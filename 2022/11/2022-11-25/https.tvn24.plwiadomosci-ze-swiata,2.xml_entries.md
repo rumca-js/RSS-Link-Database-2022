@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Putin do matek żołnierzy, którzy zginęli na froncie: kiedyś wszyscy z tego świata odejdziemy
  - [https://tvn24.pl/swiat/wladimir-putin-spotkal-sie-z-matkami-rosyjskich-zolnierzy-walczacych-w-ukrainie-6236852?source=rss](https://tvn24.pl/swiat/wladimir-putin-spotkal-sie-z-matkami-rosyjskich-zolnierzy-walczacych-w-ukrainie-6236852?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Putin do matek żołnierzy, którzy zginęli na froncie: kiedyś wszyscy z tego świata odejdziemy" src="https://tvn24.pl/najnowsze/cdn-zdjecie-hg4l0m-wladimir-putin-spotkal-sie-z-matkami-rosyjskich-zolnierzy-walczacych-i-poleglych-na-ukrainie-6236858/alternates/LANDSCAPE_1280" />
     Prezydent Rosji Władimir Putin spotkał się w piątek z kilkunastoma matkami rosyjskich żołnierzy walczących w Ukrainie. Tym, które straciły synów powiedział, że podziela ich cierpienie - donosi agencja Reutera. O spotkaniu poinformował także portal RBK-Ukraina, który ocenił, że prezydent Rosji wykazał się cynizmem, mówiąc kobietom, których synowie zginęli na froncie, że wszyscy kiedyś umrą.
+

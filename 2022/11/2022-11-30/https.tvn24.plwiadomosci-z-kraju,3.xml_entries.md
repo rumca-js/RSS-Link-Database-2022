@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Potrącenie pieszego przez ciężarówkę na krajowej "92"
  - [https://tvn24.pl/tvnwarszawa/ulice/topolowa-wypadek-na-dk92-pieszy-potracony-przez-ciezarowke-6273888?source=rss](https://tvn24.pl/tvnwarszawa/ulice/topolowa-wypadek-na-dk92-pieszy-potracony-przez-ciezarowke-6273888?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Pogoda na dziś - środa 30.11. Pochmurna aura i niekorzystne warunki biometeorologiczne" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-j684ae-mgla-pochmurno-pozna-jesien-6253549/alternates/LANDSCAPE_1280" />
     Pogoda na dziś, czyli na środę 30.11. Dzień zapowiada się pochmurno i mglisto, chociaż miejscami prognozowane są przejaśnienia. W ciągu dnia na termometrach zobaczymy od -1 do 4 stopni Celsjusza. W całym kraju towarzyszyć nam będą również niekorzystne warunki biometeorologiczne.
+

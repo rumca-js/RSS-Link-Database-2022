@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## AWS IoT FleetWise Now Generally Available
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59120](https://www.codeproject.com/script/News/View.aspx?nwid=59120)
@@ -111,3 +111,4 @@ They ate it  all
  - date published: 2022-10-07 04:00:00+00:00
 
 As a tear forms as I look at my free disc space
+

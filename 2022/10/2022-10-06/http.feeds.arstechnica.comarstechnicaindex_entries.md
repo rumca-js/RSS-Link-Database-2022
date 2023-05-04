@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## 2K warns users their info has been stolen following breach of its help desk
  - [https://arstechnica.com/?p=1887894](https://arstechnica.com/?p=1887894)
@@ -146,3 +146,4 @@ There are better options than destroying used hard drives in the name of data se
  - date published: 2022-10-06 12:00:24+00:00
 
 Key is whether the gene-editing technology can stop the virus from replicating.
+

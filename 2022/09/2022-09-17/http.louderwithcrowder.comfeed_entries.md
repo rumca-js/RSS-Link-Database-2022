@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Wisconsin education department seeks to indoctrinate preschoolers into LGBTQ+, transgender ideology
  - [https://www.louderwithcrowder.com/wisconsin-transgender-preschooler-resources](https://www.louderwithcrowder.com/wisconsin-transgender-preschooler-resources)
@@ -34,3 +34,4 @@
  - date published: 2022-09-17 12:42:27+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31741260&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Kanye West had a dream. His dream was to work with the Gap to bring the best product possible to the masses, products at $20 for the people, designed at the same level as the top fashion houses in the world. Sadly, that dream won't become a reality. <a href="https://www.louderwithcrowder.com/search/?q=kanye+west" target="_blank">Kanye Wes
+

@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Rise of Generative AI will be comparable to the rise of CGI in the early 90s
  - [https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
@@ -643,7 +643,6 @@ Readers: please only email these addresses to discuss work opportunities.<p>Sear
  - [https://twitter.com/lhfang/status/1587104660355096576](https://twitter.com/lhfang/status/1587104660355096576)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-01 08:07:01+00:00
- - tags: censorship,surveillance,government,fbi,twitter
 
 <p>Article URL: <a href="https://twitter.com/lhfang/status/1587104660355096576">https://twitter.com/lhfang/status/1587104660355096576</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33418284">https://news.ycombinator.com/item?id=33418284</a></p>
@@ -831,3 +830,4 @@ Readers: please only email these addresses to discuss work opportunities.<p>Sear
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33415192">https://news.ycombinator.com/item?id=33415192</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
+

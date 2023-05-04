@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Trombone Champ, but it's Sephiroth playing One Winged Angel (badly)
  - [https://www.pcgamer.com/trombone-champ-but-its-sephiroth-playing-one-winged-angel-badly](https://www.pcgamer.com/trombone-champ-but-its-sephiroth-playing-one-winged-angel-badly)
@@ -69,3 +69,4 @@ A mutated sequel that succeeds in spite of itself.
  - date published: 2022-10-15 07:01:28+00:00
 
 Wordle today: The solution and a hint for Saturday's puzzle.
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Red Bull to accept penalty as part of FIA agreement over budget cap breach
  - [https://www.theguardian.com/sport/2022/oct/27/red-bull-to-accept-penalty-as-part-of-fia-agreement-over-budget-cap-breach](https://www.theguardian.com/sport/2022/oct/27/red-bull-to-accept-penalty-as-part-of-fia-agreement-over-budget-cap-breach)
@@ -97,3 +97,4 @@
  - date published: 2022-10-27 02:00:17+00:00
 
 <p>After the chaos of Liz Truss’s short-lived stint as PM, there were claims the Conservative party was ungovernable. Can Rishi Sunak unify it once more?</p><p>Rishi Sunak has been the prime minister for only a few days but yesterday he faced his first PMQs. A week earlier the party had spectacularly fallen apart after a chaotic vote on fracking. The deep divisions it exposed led to yet another leadership contest – and claims the Conservatives had become ungovernable.</p><p>After Sunak’s win he promised to bring Conservatives together so they could focus on the country’s needs. And yesterday his newly reshuffled cabinet rallied around him to offer a united front. But despite an impressive performance at the dispatch box, the Spectator’s deputy editor Katy Balls tells Nosheen Iqbal that some of his new appointments are already causing controversy. What do they tell us about his priorities and has Sunak done enough to stabilise the Conservative party?</p> <a href="https://www.theguardian.com/news/audio/2022/oct/27/can-rishi-sunak-pull-the-conservative-party-back-together-podcast">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Hitting the Books: The women who made ENIAC more than a weapon
  - [https://www.engadget.com/hitting-the-books-proving-grounds-kathy-kleiman-grand-central-publishing-143001879.html?src=rss](https://www.engadget.com/hitting-the-books-proving-grounds-kathy-kleiman-grand-central-publishing-143001879.html?src=rss)
@@ -13,3 +13,4 @@
  - date published: 2022-10-16 07:56:16+00:00
 
 <p>In September, SpaceX <a href="https://www.engadget.com/spacex-starlink-ukraine-funding-defense-department-135027598.html">sent a letter</a> to the Department of Defense, asking the Pentagon to take over paying for the expenses related to Ukraine's use of its Starlink satellite internet. According to <a href="https://edition.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html"><em>CNN</em></a>, SpaceX told the department that continuing to provide the Ukranian government w
+

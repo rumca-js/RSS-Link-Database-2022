@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## US officials meet with Taliban in person for first time since drone strike killed Al Qaeda chief in Kabul
  - [https://www.foxnews.com/world/u-s-officials-meet-taliban-person-first-time-since-drone-strike-killed-al-qaeda-chief-kabul](https://www.foxnews.com/world/u-s-officials-meet-taliban-person-first-time-since-drone-strike-killed-al-qaeda-chief-kabul)
@@ -734,3 +734,4 @@ Justin Trudeau and his deputy, Chrystia Freeland, promised more targeted sanctio
  - date published: 2022-10-08 00:02:16+00:00
 
 Saudi Arabian minister of state Adel Al-Jubeir says that lack of American refinery production is the cause of high U.S. gas prices on Friday's "Special Report."
+

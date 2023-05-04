@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Bob Iger lays out his priorities for Disney as he returns as CEO
  - [https://www.cnn.com/2022/11/28/media/bob-iger-disney-town-hall/index.html](https://www.cnn.com/2022/11/28/media/bob-iger-disney-town-hall/index.html)
@@ -41,3 +41,4 @@ At least eight people have been confirmed dead after a landslide hit the Italian
  - date published: 2022-11-28 13:58:35+00:00
 
 Online Black Friday sales in the United States topped a record-breaking $9.12 billion this year, according to Adobe Analytics, kicking off a solid start to the holiday shopping season despite inflation and other economic concerns.
+

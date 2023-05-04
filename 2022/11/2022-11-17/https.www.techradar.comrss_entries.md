@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This infostealer has a vicious sting for Python developers
  - [https://www.techradar.com/news/this-infostealer-has-a-vicious-sting-for-python-developers/](https://www.techradar.com/news/this-infostealer-has-a-vicious-sting-for-python-developers/)
@@ -216,3 +216,4 @@ How to help your business succeed in these challenging times.
  - date published: 2022-11-17 06:00:17+00:00
 
 DuckDuckGo App Tracking Protection tool also adds real-time viewer so users know what data is being collected and by whom.
+

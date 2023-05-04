@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Szczęśliwy finał thrillera w San Diego
  - [https://eurosport.tvn24.pl/szcz--liwy-fina--thrillera-w-san-diego---wi-tek-pokona-a-chink--i-zagra-w--wier-finale,1121490.html?source=rss](https://eurosport.tvn24.pl/szcz--liwy-fina--thrillera-w-san-diego---wi-tek-pokona-a-chink--i-zagra-w--wier-finale,1121490.html?source=rss)
@@ -479,3 +479,4 @@
 
 <img alt="To była jedna z najważniejszych obietnic PiS. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-spkmhf-czarno-na-bialym-wykluczenie-komunikacyjne-6160881/alternates/LANDSCAPE_1280" />
     PiS obiecywało przywrócenie zlikwidowanych połączeń autobusowych. Reporterzy "Czarno na białym" sprawdzili, gdzie można dojechać, a gdzie trzeba dojść pieszo.
+

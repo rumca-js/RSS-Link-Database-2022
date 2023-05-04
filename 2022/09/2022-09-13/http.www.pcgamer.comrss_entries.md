@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## This weird comedy horror game from March went mostly unnoticed
  - [https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed](https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed)
@@ -258,3 +258,4 @@ The video looks pretty convincing.
  - date published: 2022-09-13 00:31:07+00:00
 
 Bonnie Ross founded the Halo successor studio after Bungie's split with Microsoft in 2007.
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## ‘Draconian’: gay footballer Josh Cavallo hits out at Fifa over rainbow armband edict
  - [https://www.theguardian.com/football/2022/nov/22/draconian-gay-footballer-josh-cavallo-hits-out-at-fifa-over-rainbow-armband-edict](https://www.theguardian.com/football/2022/nov/22/draconian-gay-footballer-josh-cavallo-hits-out-at-fifa-over-rainbow-armband-edict)
@@ -1098,3 +1098,4 @@ French film-maker who challenged the primacy of narration and orthodox  notions 
  - date published: 2022-11-21 00:08:03+00:00
 
 <p>Foreign arrivals slowly return, but cost of living pressures and China’s zero-Covid policy weigh on visitor numbers</p><p>Mari Kishigawa’s family have been in the tourism business for decades. In the remote Pacific country of Palau, on an even more remote archipelago, Mari runs the 11-room Carp Island Resort, a 30km boat journey from Palau’s commercial centre, Koror.</p><p>But beneath canopies of palm trees, bordered by crystal clear water, Mari is reassessing her future.</p> <a href="https://www.theguardian.com/world/2022/nov/21/paradise-paused-asia-pacific-tourism-continues-to-lag-after-the-covid-induced-freeze">Continue reading...</a>
+

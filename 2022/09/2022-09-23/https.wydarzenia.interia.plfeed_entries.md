@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Protesty w Iranie. 50 ofiar śmiertelnych. ONZ apeluje
  - [https://wydarzenia.interia.pl/zagranica/news-protesty-w-iranie-50-ofiar-smiertelnych-onz-apeluje,nId,6304554](https://wydarzenia.interia.pl/zagranica/news-protesty-w-iranie-50-ofiar-smiertelnych-onz-apeluje,nId,6304554)
@@ -454,3 +454,4 @@
  - date published: 2022-09-23 03:34:25+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-212-dzien-inwazji-rosji-relacja-na-zywo,nzId,3057,akt,230836"><img align="left" alt="Wojna w Ukrainie. 212. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-212-dzien-inwazji-rosji-relacja-na-zywo/000G3LMWGFPCM3LS-C321.jpg" /></a>Najważniejsze i najnowsze informacje o sytuacji w Ukrainie. Śledź relację na żywo.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Google Pixel 7 and 7 Pro are getting a built-in VPN at no extra cost
  - [https://www.techradar.com/news/google-pixel-7-and-7-pro-are-getting-a-built-in-vpn-at-no-extra-cost/](https://www.techradar.com/news/google-pixel-7-and-7-pro-are-getting-a-built-in-vpn-at-no-extra-cost/)
@@ -286,3 +286,4 @@ The Google Pixel 7 launch event will reveal the Pixel 7, 7 Pro and Pixel Watch i
  - date published: 2022-10-06 04:00:04+00:00
 
 Currently available from the Release Preview Channel, Windows 11 will suggest what you can do with copied text and pin folders in File Explorer.
+

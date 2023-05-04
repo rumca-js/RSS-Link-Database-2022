@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Czy warto zainstalować aplikację mobilną swojego banku?
  - [https://niebezpiecznik.pl/post/czy-warto-zainstalowac-aplikacje-mobilna-swojego-banku/](https://niebezpiecznik.pl/post/czy-warto-zainstalowac-aplikacje-mobilna-swojego-banku/)
@@ -13,3 +13,4 @@
  - date published: 2022-11-02 13:48:45+00:00
 
 <a href="https://niebezpiecznik.pl/post/minelo-13-lat-od-startu-niebezpiecznika/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/11/trenerzy3-150x150.jpg" width="100" /></a>W Halloween minęło 13 lat od pierwszego artykułu, który opublikowaliśmy na Niebezpieczniku. Dla większości naszych Czytelników jesteśmy wyłącznie serwisem piszącym o bezpieczeństwie i nawet ci, którzy czytają Niebezpiecznika regularnie, często dziwią się, kiedy idąc na firmowe szkolenie z bezpieczeństwa, spotykają kogoś od nas w roli trenera. Nie wszyscy wiedzą, że poza pisaniem o bezpieczeństwie szkolimy [&#8230;]
+

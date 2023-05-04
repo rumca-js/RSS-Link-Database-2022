@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Dell CTO: All computer systems open up, our job is to do that to the cloud
  - [https://www.zdnet.com/article/dell-cto-all-computer-systems-open-up-our-job-is-to-do-that-to-the-cloud/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-cto-all-computer-systems-open-up-our-job-is-to-do-that-to-the-cloud/#ftag=RSSbaffb68)
@@ -209,3 +209,4 @@ This complete IT certification training package can prepare students for the top
  - date published: 2022-09-30 02:46:00+00:00
 
 With this 14-course bundle, you don't need any tech experience to learn Python, Javascript, C++, and more.
+

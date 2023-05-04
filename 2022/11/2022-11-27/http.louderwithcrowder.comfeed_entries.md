@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Biden's IRS is coming after your Venmo, PayPal payments of over $600 if you work in the gig economy
  - [https://www.louderwithcrowder.com/venmo-paypal-irs](https://www.louderwithcrowder.com/venmo-paypal-irs)
@@ -51,3 +51,4 @@
 <a href="https://youtu.be/6O8NoaEsDzE" target="_blank">youtu.be</a>
 </small>
 </p>
+

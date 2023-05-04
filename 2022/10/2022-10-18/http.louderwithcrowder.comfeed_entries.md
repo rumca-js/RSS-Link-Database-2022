@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Reporter corners WH: Does Biden care more about abortion than the inflation crippling American families?
  - [https://www.louderwithcrowder.com/abortion-inflation-white-house](https://www.louderwithcrowder.com/abortion-inflation-white-house)
@@ -78,3 +78,4 @@
  - date published: 2022-10-18 11:52:10+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31957516&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>There is a reason why so many democrats are <a href="https://www.louderwithcrowder.com/katie-hobbs-uber-driver" target="_blank">running away from debating their opponents</a>. The alternative is looking like Rep. Tim Ryan as he gets wrecked by JD Vance <a href="https://www.louderwithcrowder.com/jd-vance-tim-ryan-debate" target="_blank">ov
+

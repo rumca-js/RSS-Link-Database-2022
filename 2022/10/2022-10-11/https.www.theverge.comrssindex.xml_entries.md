@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## BMW uses QR codes and your phone to control casual games on its big in-car screen
  - [https://www.theverge.com/2022/10/11/23399754/bmw-7-series-ix-airconsole-car-video-games-curved-infotainment-screen](https://www.theverge.com/2022/10/11/23399754/bmw-7-series-ix-airconsole-car-video-games-curved-infotainment-screen)
@@ -686,3 +686,4 @@
     </figure>
 
   <p id="hc29gw">On Monday afternoon, <a href="https://twitter.com/ParkerMolloy/status/1579582286735224832">as pointed out by Parker 
+

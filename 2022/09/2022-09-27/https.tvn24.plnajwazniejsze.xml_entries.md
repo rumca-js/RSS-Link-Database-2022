@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Hiszpanie wydarli zwycięstwo i awans do Final Four Ligi Narodów
  - [https://eurosport.tvn24.pl/portugalczycy-w-szoku--hiszpanie-wydarli-awans-do-final-four-ligi-narod-w,1119820.html?source=rss](https://eurosport.tvn24.pl/portugalczycy-w-szoku--hiszpanie-wydarli-awans-do-final-four-ligi-narod-w,1119820.html?source=rss)
@@ -183,3 +183,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-q9s26b-paul-gray-amerykanin-od-pierwszych-dni-walczy-w-ukrainie-6131229/alternates/LANDSCAPE_1280" />
     Amerykański ochotnik o wojnie w Ukrainie w rozmowie z Radomirem Czarneckim.
+

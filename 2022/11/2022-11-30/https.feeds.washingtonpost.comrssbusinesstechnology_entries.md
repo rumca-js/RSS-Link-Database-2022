@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Web browsers drop mysterious company with ties to U.S. military contractor
  - [https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Amazon's fan-favorite reading gadget got its first major overhaul in years, but 
  - date published: 2022-11-30 06:00:06+00:00
 
 Apple holds the key to its App Store and its advertising budget, both items Elon Musk needs if he's to make a success of his Twitter purchase.
+

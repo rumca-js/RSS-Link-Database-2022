@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: That trans shop teacher with enormous fake chesticles? Well, parents spoke to the school board...
  - [https://www.louderwithcrowder.com/shop-teacher-school-board](https://www.louderwithcrowder.com/shop-teacher-school-board)
@@ -63,3 +63,4 @@
  - date published: 2022-10-13 11:23:35+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31940485&amp;width=1245&amp;height=700&amp;coordinates=0%2C97%2C0%2C21" /><br /><br /><p>JP Morgan Chase decided they no longer want to be in the Yeezy business. They contacted Ye to tell him he has to take his personal banking elsewhere. His PERSONAL BANKING. Keep that in the back of your mind.</p><p>Candace Owens broke the news on Wednesday.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Earlier toda
+

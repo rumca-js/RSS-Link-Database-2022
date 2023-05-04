@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Frans de Waal: 'Primates are also born with a gender identity'
  - [https://www.lemonde.fr/en/science/article/2022/11/06/frans-de-waal-primates-are-also-born-with-a-gender-identity_6003120_10.html](https://www.lemonde.fr/en/science/article/2022/11/06/frans-de-waal-primates-are-also-born-with-a-gender-identity_6003120_10.html)
@@ -13,3 +13,4 @@ In his book, the Dutch-American primatologist Frans de Waal presents the results
  - date published: 2022-11-06 07:00:08+00:00
 
 According to a recent report,  the proportion of French youth reaching recommended levels of physical activity drops sharply by age 11, especially among girls.
+

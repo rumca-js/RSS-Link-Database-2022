@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## US Senator reveals how US Customs has amassed data from Americans' devices
  - [https://www.zdnet.com/article/us-senator-reveals-how-us-customs-has-amassed-data-from-americans-devices/#ftag=RSSbaffb68](https://www.zdnet.com/article/us-senator-reveals-how-us-customs-has-amassed-data-from-americans-devices/#ftag=RSSbaffb68)
@@ -223,3 +223,4 @@ Net zero carbon emissions by 2030 across its consumer electronics division and a
  - date published: 2022-09-15 00:40:06+00:00
 
 Nile aims to disrupt networking status quo by using AI, zero-trust security, and automation so networks can run themselves.
+

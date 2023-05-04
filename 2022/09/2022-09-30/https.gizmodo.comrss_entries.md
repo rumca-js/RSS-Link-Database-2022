@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## She-Hulk: Attorney at Law Episode 7 Review
  - [https://gizmodo.com/she-hulk-episode-7-review-1849604260](https://gizmodo.com/she-hulk-episode-7-review-1849604260)
@@ -265,3 +265,4 @@
  - date published: 2022-09-30 11:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--xnAzhMgh--/c_fit,fl_progressive,q_80,w_636/35a23eacde6a4204cbf7189e80ded86c.jpg" /><p>Elon Musk’s private texts were included in new court filings on Thursday as part of the lawsuit brought by Twitter to make the billionaire buy the social media company. And whatever you think of Musk’s weird attempt to back out of the deal to buy Twitter for <a href="https://gizmodo.com/twitter-sues-elon-musk-44-billion-1849171116">$44 billion</a>, 
+

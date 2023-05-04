@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wielkopolska. Dwóch policjantów rannych. Jechali na motocyklach do wypadku
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29038699,wielkopolska-dwoch-policjantow-rannych-jechali-na-motocyklach.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29038699,wielkopolska-dwoch-policjantow-rannych-jechali-na-motocyklach.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-10-17 10:38:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/a2/b0/1b/z29036194M,Iwona-Kinda-Wieczorek.jpg" vspace="2" />- To jest sprawa medialna i jeszcze bardziej podgrzewać tę całą atmosferę, która i tak jest podgrzana, i lecieć ze swoimi opowieściami do mediów, co się przeżyło, bo raptem kilka godzin ktoś miał zakłócony mir domowy? To jest trochę dla mnie śmieszne - mówiła w rozmowie z Fakt.pl Iwona Kinda-Wieczorek, matka zaginionej w 2010 r. Iwony Wieczorek. W ten sposób kobieta odniosła się do
+

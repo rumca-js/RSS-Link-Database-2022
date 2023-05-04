@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Iron Curtain Descends on Russia's Top Internet Company
  - [https://www.wsj.com/articles/iron-curtain-descends-on-russias-top-internet-company-11669399027?mod=rss_Technology](https://www.wsj.com/articles/iron-curtain-descends-on-russias-top-internet-company-11669399027?mod=rss_Technology)
@@ -34,3 +34,4 @@ The Bahamas encouraged crypto companies such as FTX to set up shop. The firm’s
  - date published: 2022-11-25 07:48:00+00:00
 
 The recall involves Model S and Model X vehicles with software problems that may lead to battery malfunction, as well as Model 3 cars with seat-belt issues.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## W tym lodowcu znajdują się wirusy sprzed 15 tysięcy lat. Czy mogą stanowić zagrożenie?
  - [https://www.chip.pl/2022/10/w-tym-lodowcu-znajduja-sie-wirusy-sprzed-15-tysiecy-lat-czy-moga-stanowic-zagrozenie](https://www.chip.pl/2022/10/w-tym-lodowcu-znajduja-sie-wirusy-sprzed-15-tysiecy-lat-czy-moga-stanowic-zagrozenie)
@@ -111,3 +111,4 @@
 
 <img alt="ćwiczenia Armii USA" class="attachment-full size-full wp-post-image" height="1280" src="https://konto.chip.pl/wp-content/uploads/2022/10/Pierwsze-takie-cwiczenia-Armii-USA.-Scenariusz-symulowal-bitwy-z-II-wojny-swiatowej-2.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/Pierwsze-takie-cwiczenia-Armii-USA.-Scenariusz-symulowal-bitwy-z-II-wojny-swiatowej-2.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Od 24 września do 3 października trwały wyjątkowe, bo pierwsze takie ćwiczenia Armii USA, które miały wykazać, że dowódcy oraz żołnierze są gotowi do realizowania zadań bojowych w wymagającym rejonie Indo-Pacyfiku. W efekcie współpraca między US Army Pacific i Mission Command Training Program pozwoliła zasymulować dwie główne operacje wojskowe, a przy tym wspólną operację wtargnięcia [&#8230;]</p>
+

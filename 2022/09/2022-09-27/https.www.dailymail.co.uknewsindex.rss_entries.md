@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Man left paralyzed after breaking neck in back of police van sues Connecticut cops for $100 million
  - [https://www.dailymail.co.uk/news/article-11256231/Man-left-paralyzed-breaking-neck-police-van-sues-Connecticut-cops-100-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11256231/Man-left-paralyzed-breaking-neck-police-van-sues-Connecticut-cops-100-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1666,3 +1666,4 @@ The tourist, 35, has been left critically injured and requiring emergency surger
  - date published: 2022-09-27 00:00:14+00:00
 
 The confirmation of Labour's nationalisation policy comes after months of confusion and contrasting rhetoric from the Shadow Cabinet.
+

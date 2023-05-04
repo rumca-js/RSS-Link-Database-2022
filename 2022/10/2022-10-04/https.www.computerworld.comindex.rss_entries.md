@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Micron to build largest chip factory in US history
  - [https://www.computerworld.com/article/3675354/micron-to-build-largest-chip-factory-in-us-history.html#tk.rss_all](https://www.computerworld.com/article/3675354/micron-to-build-largest-chip-factory-in-us-history.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Your smartphone is a powerful computer in your pocket — and with Android, part of that PC-like muscle means being able to plug your phone into any Windows, Mac, or <a href="https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html">ChromeOS</a> system and then drag and drop files either way.</p><p>Unlike iPhones, Android devices allow you to access their <a href="https://www.computerworld.com/article/3221287/android-file-management-an-easy
+

@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Jeep is launching its first two electric SUVs in the U.S. in 2024
  - [https://www.digitaltrends.com/cars/jeep-recon-electric-suv-and-wagoneer-ev-coming-to-north-america/](https://www.digitaltrends.com/cars/jeep-recon-electric-suv-and-wagoneer-ev-coming-to-north-america/)
@@ -27,3 +27,4 @@ Here's all you need to know about the Samsung Galaxy Note 20 and Note 20 Ultra, 
  - date published: 2022-09-08 15:45:43.147920+00:00
 
 The 2024 Chevrolet Equinox EV will emphasize affordability, but won't skimp on tech.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## This Is What It Sounds Like When Space Rocks Crash Into Mars     - CNET
  - [https://www.cnet.com/science/space/this-is-what-it-sounds-like-when-space-rocks-crash-into-mars/#ftag=CADf328eec](https://www.cnet.com/science/space/this-is-what-it-sounds-like-when-space-rocks-crash-into-mars/#ftag=CADf328eec)
@@ -748,3 +748,4 @@ This week's big release is Lou, an action flick starring Allison Janney and Jurn
  - date published: 2022-09-19 00:04:00+00:00
 
 Review: Camila Mendes and Maya Hawke star in a disappointingly flat teen comedy about plotting revenge.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Netflix: The 44 Absolute Best Movies to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch-tonight/#ftag=CADf328eec)
@@ -1385,3 +1385,4 @@ Mark your calendar: You can get your order in starting Sept. 9.
  - date published: 2022-09-08 00:02:37+00:00
 
 Palm Springs is the perfect package of sharp comedy and sci-fi intrigue.
+

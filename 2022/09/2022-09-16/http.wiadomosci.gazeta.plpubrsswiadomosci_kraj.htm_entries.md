@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Piastów. Nie żyje 15-miesięczne dziecko. Prokuratura zleciła sekcję zwłok
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28921463,mazowieckie-smierc-15-miesiecznego-dziecka-w-piastowie-zlecono.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28921463,mazowieckie-smierc-15-miesiecznego-dziecka-w-piastowie-zlecono.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-09-16 07:47:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/63/94/1b/z28918371M,Pogoda--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda w weekend przyniesie nam sporą zmianę. Nad wschodnią Europę zbliża się cyklon, który spowoduje ochłodzenie. Sprowadzi też opady deszczu, silny wiatr, a gdzieniegdzie też burze z gradem. Ponadto w Tatrach może spaść śnieg.
+

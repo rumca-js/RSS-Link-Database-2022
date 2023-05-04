@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## New Zealand ‘suitcase’ murders: suspect to be extradited from South Korea within 30 days
  - [https://www.theguardian.com/world/2022/nov/15/new-zealand-suitcase-murders-suspect-to-be-extradited-from-south-korea-within-30-days](https://www.theguardian.com/world/2022/nov/15/new-zealand-suitcase-murders-suspect-to-be-extradited-from-south-korea-within-30-days)
@@ -1140,3 +1140,4 @@
  - date published: 2022-11-14 00:01:24+00:00
 
 <p>Luka Modric still dazzles but behind him Zlatko Dalic has moved on from the stalwarts of 2018 and built a more mobile defence</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/14/world-cup-2022-team-guides-part-23-croatia">Continue reading...</a>
+

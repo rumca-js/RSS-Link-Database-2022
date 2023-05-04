@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Korea Północna wystrzeliła kolejne pociski w kierunku Morza Japońskiego i Żółtego
  - [https://wydarzenia.interia.pl/kraj/news-korea-polnocna-wystrzelila-kolejne-pociski-w-kierunku-morza-,nId,6385603](https://wydarzenia.interia.pl/kraj/news-korea-polnocna-wystrzelila-kolejne-pociski-w-kierunku-morza-,nId,6385603)
@@ -27,3 +27,4 @@
  - date published: 2022-11-02 05:01:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-zaduszki-co-to-za-swieto-i-kiedy-wypada-swieto-zmarlych,nId,6360006"><img align="left" alt="Zaduszki. Co to za święto i kiedy wypada Święto Zmarłych?" src="https://i.iplsc.com/zaduszki-co-to-za-swieto-i-kiedy-wypada-swieto-zmarlych/000G7UKKOAFA5UX3-C321.jpg" /></a>Zaduszki - czyli inaczej Dzień Zaduszny lub Święto Zmarłych - obchodzimy co roku 2 listopada. Uroczystość przypada zawsze po Wszystkich Świętych. Odwiedzamy wówczas cmentarze, zapalając na grobach znicze i stawiając kwiaty. Historia święta jest dosyć długa, choć nie każdy ją zna. Co warto o nim wiedzieć?</p><br clear="all" />
+

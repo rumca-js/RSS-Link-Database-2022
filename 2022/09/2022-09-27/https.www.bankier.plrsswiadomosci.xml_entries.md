@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Bogdanka chce w 2023 r. wydobyć ok. 8,3 mln ton węgla handlowego
  - [https://www.bankier.pl/wiadomosc/Plan-produkcyjny-Bogdanki-na-23-zaklada-wydobycie-ok-8-3-mln-ton-wegla-handlowego-8412949.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Plan-produkcyjny-Bogdanki-na-23-zaklada-wydobycie-ok-8-3-mln-ton-wegla-handlowego-8412949.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -381,3 +381,4 @@ komisję poprawka tnąca limity opłat. Spraw
  - date published: 2022-09-27 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/4/0/ad65665eb83354-948-568-0-144-4128-2476.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Najwyższe oprocentowanie na lokatach terminowych to obecnie 8 proc. w skali roku. Na taką stawkę mogą również liczyć klienci, którzy planują zapewnić sobie takie oprocentowanie na dłuższy okres. 12 miesięcy i 8 proc. rocznie to połączenie, które można znaleźć w dwóch bankach.
+

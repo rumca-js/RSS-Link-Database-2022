@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Tropical Storm Ian Forces NASA to Postpone Upcoming Launch of Megarocket
  - [https://gizmodo.com/artemis-launch-nasa-tropical-storm-ian-1849577539](https://gizmodo.com/artemis-launch-nasa-tropical-storm-ian-1849577539)
@@ -167,3 +167,4 @@
  - date published: 2022-09-24 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--8ALR_pUG--/c_fit,fl_progressive,q_80,w_636/f0d45030afa890e8ea64d1933315e31e.jpg" /><p><a href="https://gizmodo.com/andor-episodes-1-3-review-1849575269">Read more...</a></p>
+

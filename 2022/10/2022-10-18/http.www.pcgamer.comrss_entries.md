@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Gotham Knights system requirements are surprisingly demanding
  - [https://www.pcgamer.com/gotham-knights-system-requirements](https://www.pcgamer.com/gotham-knights-system-requirements)
@@ -244,3 +244,4 @@ You can watch the free webinar on YouTube, or with the FSA to ask questions live
  - date published: 2022-10-18 03:29:09+00:00
 
 Improved USB 4 compatibility and higher cable standards are among the highlights.
+

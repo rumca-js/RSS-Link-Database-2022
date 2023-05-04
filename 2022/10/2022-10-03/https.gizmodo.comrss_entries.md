@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Who Made Bobby Moynihan Break Character During SNL?
  - [https://gizmodo.com/who-made-bobby-moynihan-break-character-during-snl-1849610508](https://gizmodo.com/who-made-bobby-moynihan-break-character-during-snl-1849610508)
@@ -237,3 +237,4 @@
  - date published: 2022-10-03 01:59:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ijD-uVDh--/c_fit,fl_progressive,q_80,w_636/40eeaecc03b1e35640d06ac156ce0767.jpg" /><p><a href="https://gizmodo.com/targaryen-names-house-of-the-dragon-game-of-thrones-1849462873">Targaryen</a> blood has been spilled. The unbelievable tension that has been building between Rhaenyra (Emma D’Arcy) and Alicent (Olivia Cooke) since the beginning erupted in a mesmerizing episode of <a href="https://gizmodo.com/house-of-the-dragon-cut-bisex
+

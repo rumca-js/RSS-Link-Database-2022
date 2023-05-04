@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Marseille lose to Tottenham, eliminated from all European competitions
  - [https://www.lemonde.fr/en/france/article/2022/11/01/marseille-lose-to-tottenham-eliminated-from-all-european-competitions_6002594_7.html](https://www.lemonde.fr/en/france/article/2022/11/01/marseille-lose-to-tottenham-eliminated-from-all-european-competitions_6002594_7.html)
@@ -272,3 +272,4 @@ The Republican Senate candidate said in 2016 he would 'hold his nose and vote fo
  - date published: 2022-11-01 00:46:51+00:00
 
 The high court appeared poised on Monday to ban the use of race or ethnicity as a factor in deciding who gets into America's elite universities. This sets the stage for another potential historic reversal like in June, when the right to abortion was overturned.
+

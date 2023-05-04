@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Cisco Webex supports hybrid work with new collaboration capabilities
  - [https://www.computerworld.com/article/3677497/cisco-webex-supports-hybrid-work-with-new-collaboration-capabilities.html#tk.rss_all](https://www.computerworld.com/article/3677497/cisco-webex-supports-hybrid-work-with-new-collaboration-capabilities.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Two new studies warn that more than half of IT leaders are actively looking for new jobs because, in part, they’re dissatisfied with the amount of C-level support they and their tech organizations receive.</p><p>As many as 58% of enterprise IT managers are currently job hunting, according to a <a href="https://www.manageengine.com/news/manageengine-report-finds-it-leaders-seeking-new-job.html" rel="noopener nofollow" target="_blank">survey of 3,300 “decision makers" </a> commissioned by <a href="https://www.manageengine.com/" rel="nofollow">ManageEngine</a>, the enterprise IT management division of Zoho. ManageEngine used market research agency <a href="https://www.vansonbourne.com/" rel="nofollow">Vanson Bourne</a> to conduct the global study, which included IT and other key business functions from a range of private sector organizations.</p><p class="jumpTag"><a href="/article/3677573/why-more-than-half-of-it-leaders-may-be-looking-for-new-jobs.html#jump">To read this article in full, please click here</a></p></section></article>
+

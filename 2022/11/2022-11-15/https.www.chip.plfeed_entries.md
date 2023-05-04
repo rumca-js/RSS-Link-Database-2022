@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Naukowcy obiecują tanie panele fotowoltaiczne. Ich prototyp zostawia konkurencję daleko w tyle
  - [https://www.chip.pl/2022/11/perowskitowe-tandemowe-ogniwo-sloneczne](https://www.chip.pl/2022/11/perowskitowe-tandemowe-ogniwo-sloneczne)
@@ -143,3 +143,4 @@
 
 <img alt="izraelskie skrytobójcze drony LANIUS" class="attachment-full size-full wp-post-image" height="1153" src="https://konto.chip.pl/wp-content/uploads/2022/11/Oto-izraelskie-skrytobojcze-drony-LANIUS.-Rozwiazuja-najwiekszy-problem-walk-w-miastach-2.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/Oto-izraelskie-skrytobojcze-drony-LANIUS.-Rozwiazuja-najwiekszy-problem-walk-w-miastach-2.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>UCAV to akronim od słów Unmanned Combat Aerial Vehicle, co oznacza po prostu bojowy odłam dronów. Te mogą przyjmować różne formy, ale obok bezzałogowych bombowców, latających na granicy kosmosu, czy szybkich bezzałogowych myśliwców, najbardziej przerażające są te małe, bardziej tradycyjne i typowo wyglądające drony, które działają jak kamikadze i zabijają bezpośrednio i w mgnieniu oka. [&#8230;]</p>
+

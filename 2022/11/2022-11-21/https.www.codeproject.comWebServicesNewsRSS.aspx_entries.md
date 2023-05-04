@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Account problems
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59568](https://www.codeproject.com/script/News/View.aspx?nwid=59568)
@@ -83,3 +83,4 @@ Does it also make you look thinner in the photos?
  - date published: 2022-11-21 05:00:00+00:00
 
 While they're hacking the Bluetooth, can they also fix the pairing problems I've been having?
+

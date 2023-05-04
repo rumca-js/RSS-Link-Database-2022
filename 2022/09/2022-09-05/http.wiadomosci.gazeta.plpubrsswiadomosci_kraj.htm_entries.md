@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Koniec zakazu korzystania z wód Odry. Wojewoda: Nie możemy już mówić o stanie kryzysu
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28871861,koniec-zakazu-korzystania-z-wod-odry-wojewoda-nie-mozemy-juz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28871861,koniec-zakazu-korzystania-z-wod-odry-wojewoda-nie-mozemy-juz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -90,3 +90,4 @@
  - date published: 2022-09-05 05:50:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/36/cd/1a/z28105526M,Rysy--zdjecie-ilustracyjne.jpg" vspace="2" />Słowackie Górskie Pogotowie Ratunkowe z Horskiej Zachrannej Służby już drugi dzień poszukuje polskiego turysty, który nie wrócił ze wspinaczki na Rysy. 57-letni mężczyzna zaginął w sobotę.
+

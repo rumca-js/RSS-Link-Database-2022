@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Polacy też są na froncie w Ukrainie. "Walczymy apteczką i plecakiem medycznym"
  - [https://fakty.tvn24.pl/polacy-te--s--na-froncie-w-ukrainie---walczymy-apteczk--i-plecakiem-medycznym-,1119137.html?source=rss](https://fakty.tvn24.pl/polacy-te--s--na-froncie-w-ukrainie---walczymy-apteczk--i-plecakiem-medycznym-,1119137.html?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="Karetka wzywana do papugi i psa. Albo do ogrzania domu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-0vam8p61jr-1909n370xr-pis-dnz-zalewski/alternates/LANDSCAPE_1280" />
     Z tym dyspozytorzy pogotowia spotykają się bardzo często.
+

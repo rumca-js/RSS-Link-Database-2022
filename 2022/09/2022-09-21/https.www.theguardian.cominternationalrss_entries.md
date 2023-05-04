@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Iranians: share your views on the protests following Mahsa Amini’s death
  - [https://www.theguardian.com/world/2022/sep/21/iranians-share-your-views-on-the-protests-following-mahsa-aminis-death](https://www.theguardian.com/world/2022/sep/21/iranians-share-your-views-on-the-protests-following-mahsa-aminis-death)
@@ -13,3 +13,4 @@
  - date published: 2022-09-21 10:33:21+00:00
 
 <p>We would like to hear views and opinions from Russians at this stage of the Russia-Ukraine war</p><p>Russia has announced a <a href="https://www.theguardian.com/world/2022/sep/21/putin-announces-partial-mobilisation-in-russia-in-escalation-of-ukraine-war">partial mobilisation</a> in a major escalation that places the country’s people and economy on a wartime footing.</p><p>With president Vladimir Putin also threatening nuclear retaliation, we would like to hear from Russians about how ordinary people are reacting to the latest developments in the war on Ukraine.</p> <a href="https://www.theguardian.com/world/2022/sep/21/russians-tell-us-what-you-think-about-putins-escalation-of-war-in-ukraine">Continue reading...</a>
+

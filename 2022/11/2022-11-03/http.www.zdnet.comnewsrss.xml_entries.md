@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 6 best iPad stylus of 2022
  - [https://www.zdnet.com/article/best-ipad-stylus/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-stylus/#ftag=RSSbaffb68)
@@ -223,3 +223,4 @@ According to Gartner, there are five ways managers can increase an employee's se
  - date published: 2022-11-03 10:17:00+00:00
 
 A Samsung soundbar and subwoofer combination is available with a $60 discount.
+

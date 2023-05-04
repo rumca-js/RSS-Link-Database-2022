@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Disgraced Hollywood mogul Harvey Weinstein will NOT testify at his Los Angeles rape trial
  - [https://www.dailymail.co.uk/news/article-11479151/Disgraced-Hollywood-mogul-Harvey-Weinstein-NOT-testify-Los-Angeles-rape-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11479151/Disgraced-Hollywood-mogul-Harvey-Weinstein-NOT-testify-Los-Angeles-rape-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1602,3 +1602,4 @@ One fast-food customer and expectant mother walked away with a different kind of
  - date published: 2022-11-28 00:10:46+00:00
 
 It's a meal families traditionally enjoy tucking into at Sunday lunchtime. But experts have now found that a roast dinner can contain a staggering 230,000 microplastic particles.
+

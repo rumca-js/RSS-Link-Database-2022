@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Reparations: The US town paying its black residents
  - [https://www.bbc.co.uk/news/world-us-canada-63165668?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63165668?at_medium=RSS&at_campaign=KARANGA)
@@ -517,3 +517,4 @@ Violent and sexual crimes were among 60 cases wrongfully dropped by the Crown Pr
  - date published: 2022-10-11 00:03:46+00:00
 
 Relatives of those who died in the Air France crash yelled "shame" as the trial started in Paris.
+

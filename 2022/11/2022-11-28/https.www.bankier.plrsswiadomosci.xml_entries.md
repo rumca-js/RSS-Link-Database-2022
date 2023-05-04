@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Akcje Apple’a pociągnęły w dół indeksy w USA
  - [https://www.bankier.pl/wiadomosc/Akcje-Apple-a-pociagnely-w-dol-indeksy-w-USA-8447510.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Akcje-Apple-a-pociagnely-w-dol-indeksy-w-USA-8447510.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -366,3 +366,4 @@ Bankier.pl wynika, że zróżnicowanie w ocenach zdolności kredytowej rośnie.<
  - date published: 2022-11-28 00:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/d/a0c7df723ff4e5-945-560-19-139-3959-2375.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Brytyjska publiczna stacja BBC przekazała w niedzielę wieczorem, że chińska policja zatrzymała i pobiła w jednego z jej dziennikarzy relacjonujących w Szanghaju protesty przeciw restrykcjom covidowym. Po kilku godzinach został on wypuszczony.</p>
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Pledge to raise pensions could fall victim to Jeremy Hunt's cuts, expert warns
  - [https://www.dailymail.co.uk/news/article-11325891/Pledge-raise-pensions-fall-victim-Jeremy-Hunts-cuts-expert-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11325891/Pledge-raise-pensions-fall-victim-Jeremy-Hunts-cuts-expert-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -760,7 +760,6 @@ Murdaugh is in custody on multiple charges including double homicide. Police say
  - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-17 15:37:14+00:00
- - tags: woke
 
 Crime rates are a priority for millions of voters, giving Republicans ammunition to use against 'soft-on-crime' Democrats in barrages of television adverts ahead of the midterms
 
@@ -1736,3 +1735,4 @@ As of last night, 70 per cent of more than 9,000 subscribers responding to our o
  - date published: 2022-10-17 00:01:00+00:00
 
 Mr Biden made the comments while visiting an ice-cream parlour, when he was asked by journalists what his view on Liz Truss's u-turn over abolishing the plan to freeze corporation tax.
+

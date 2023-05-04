@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Combat medic becomes first female soldier to pass Parachute Regiment's gruelling selection course
  - [https://www.dailymail.co.uk/news/article-11344785/Combat-medic-female-soldier-pass-Parachute-Regiments-gruelling-selection-course.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11344785/Combat-medic-female-soldier-pass-Parachute-Regiments-gruelling-selection-course.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1035,3 +1035,4 @@ The King will visit Australia, New Zealand and several Commonwealth countries in
  - date published: 2022-10-22 00:01:25+00:00
 
 A federal appeals court in Missouri has temporarily blocked the Biden administration's forgiveness of student loan debt, saying they need more time to consider a Republican challenge.
+

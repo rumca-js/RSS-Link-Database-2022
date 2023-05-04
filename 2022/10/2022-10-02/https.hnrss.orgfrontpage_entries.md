@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Go Auth Lib
  - [https://github.com/go-pkgz/auth](https://github.com/go-pkgz/auth)
@@ -543,3 +543,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33051393">https://news.ycombinator.com/item?id=33051393</a></p>
 <p>Points: 321</p>
 <p># Comments: 256</p>
+

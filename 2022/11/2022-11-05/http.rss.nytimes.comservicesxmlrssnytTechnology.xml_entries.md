@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## YouTube May Have Misinformation Blind Spots, Researchers Say
  - [https://www.nytimes.com/2022/11/05/technology/youtube-misinformation.html](https://www.nytimes.com/2022/11/05/technology/youtube-misinformation.html)
@@ -20,3 +20,4 @@ The video platform said it had limited the spread of misinformation ahead of Ele
  - date published: 2022-11-05 09:00:21+00:00
 
 In this polarized climate, hundreds of Americans told us they agree on one thing: Campaigns must stop spamming voters’ phones with unwanted political texts.
+

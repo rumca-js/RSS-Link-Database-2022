@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Los Angeles' famed Hollywood sign gets a new paint job as workers apply 250 gallons of paint
  - [https://www.dailymail.co.uk/news/article-11305255/Los-Angeles-famed-Hollywood-sign-gets-new-paint-job-workers-apply-250-gallons-paint.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11305255/Los-Angeles-famed-Hollywood-sign-gets-new-paint-job-workers-apply-250-gallons-paint.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1856,3 +1856,4 @@ Yevgeny Ivanov wanted a pet alligator, MI5's surveillance of the Russian spy dis
  - date published: 2022-10-11 00:01:27+00:00
 
 Lidia Thorpe, who gave a black power salute in the Senate and called Queen Elizabeth a 'coloniser', has met Indigenous leader Warren Mundine to discuss their plan to oppose the Voice.
+

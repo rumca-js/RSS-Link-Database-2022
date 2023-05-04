@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## In Seized Parts of Ukraine, Moscow Stages Balloting on Joining Russia
  - [https://www.nytimes.com/2022/09/23/world/europe/ukraine-russia-referendums-annexation.html](https://www.nytimes.com/2022/09/23/world/europe/ukraine-russia-referendums-annexation.html)
@@ -209,3 +209,4 @@ Peregrine falcons nesting in the city’s financial district offer riveting thea
  - date published: 2022-09-23 04:48:04+00:00
 
 Interest rate hikes around the world.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Niemiecki Urząd statystyczny: tankowanie znacznie droższe niż w krajach sąsiednich
  - [https://www.bankier.pl/wiadomosc/Niemiecki-Urzad-statystyczny-tankowanie-znacznie-drozsze-niz-w-krajach-sasiednich-8405433.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemiecki-Urzad-statystyczny-tankowanie-znacznie-drozsze-niz-w-krajach-sasiednich-8405433.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -443,3 +443,4 @@ względem pierwszych trzech miesięcy roku. Zanotowane podwyżki
  - date published: 2022-09-13 00:58:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/4/e3e76bbd981d02-948-568-0-45-2000-1199.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Zarzuty i pseudoargumenty przedstawione przez stację TVN są fałszywe i prezentują rosyjski punt widzenia, wprowadzając w błąd polską opinię publiczną - czytamy w przesłanym PAP oświadczeniu Podkomisji ds. Ponownego Zbadania Wypadku Lotniczego w związku z emisją programu "Czarn
+

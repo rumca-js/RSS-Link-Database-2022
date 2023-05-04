@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Black Adam: Post-Credits Scene, Legendary DC Superhero Cameo Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-legendary-dc-superhero-cameo-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-legendary-dc-superhero-cameo-explained/#ftag=CADf328eec)
@@ -235,7 +235,6 @@ This Halloween, catch Torn Hearts, a horror movie about rising country music art
  - [https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-29 14:24:49+00:00
- - tags: streaming,netflix,ad business
 
 Starting early next year, Netflix will start charging fees when you share an account outside one household.
 
@@ -476,3 +475,4 @@ No, not the Vision we know and love.
  - date published: 2022-10-29 00:00:03+00:00
 
 Recap: The Disney Plus series gives us a new angle on the Empire's cruelty, along with some familiar faces.
+

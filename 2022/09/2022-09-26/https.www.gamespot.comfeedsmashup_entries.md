@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Cyberpunk 2077 Dev Reacts To Game’s Popularity | GameSpot News
  - [https://www.gamespot.com/videos/cyberpunk-2077-dev-reacts-to-games-popularity-gamespot-news/2300-6459640/](https://www.gamespot.com/videos/cyberpunk-2077-dev-reacts-to-games-popularity-gamespot-news/2300-6459640/)
@@ -244,3 +244,4 @@
  - date published: 2022-09-26 13:00:00+00:00
 
 <p dir="ltr">The survival-crafting genre is famous for a few things: steep learning curves, a bit of jank in its systems, and a sense of seriousness that, to be fair, is to be expected in an experience that starts you off hungry, thirsty, cold, and defenseless. Obsidian's <a href="https://www.gamespot.com/games/grounded/">Grounded</a>, launching into its 1.0 state after two years in Xbox Game Preview, delightfully rejects these tropes, by and large. Instead, it takes the best bits of these games
+

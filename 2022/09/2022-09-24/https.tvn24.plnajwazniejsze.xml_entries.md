@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Korzystajcie ze słońca. To ostatni dzień przed zmianą pogody
  - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-2509-opady-deszczu-na-poludniu-kraju-maksymalnie-19-stopni-6128495?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-2509-opady-deszczu-na-poludniu-kraju-maksymalnie-19-stopni-6128495?source=rss)
@@ -247,3 +247,4 @@
 
 <img alt="Polskie siatkarki zadowolone. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-bom3ie-polki-zagraly-bardzo-ambitnie/alternates/LANDSCAPE_1280" />
     Pokonały Chorwację w inauguracyjnym meczu mistrzostw świata.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Strike Near Another Ukrainian Nuclear Plant Escalates Fears of Disaster
  - [https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html](https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html)
@@ -244,3 +244,4 @@ Pressure on Russian forces in southern Ukraine.
  - date published: 2022-09-19 04:07:51+00:00
 
 The things that made the queen the queen.
+

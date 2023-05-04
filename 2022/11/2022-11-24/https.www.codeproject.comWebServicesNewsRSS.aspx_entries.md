@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## DevOps is hot but most IT pros say practices need improvement
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59611](https://www.codeproject.com/script/News/View.aspx?nwid=59611)
@@ -104,3 +104,4 @@ If you didn't want them to look, why did you break your computer in the first pl
  - date published: 2022-11-24 05:00:00+00:00
 
 Friction is in the eye of the beholder
+

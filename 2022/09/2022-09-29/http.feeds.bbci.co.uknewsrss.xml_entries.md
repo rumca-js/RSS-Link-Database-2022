@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## First-time buyer challenges minister over 10.4% mortgage offer
  - [https://www.bbc.co.uk/news/uk-politics-63084380?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63084380?at_medium=RSS&at_campaign=KARANGA)
@@ -482,3 +482,4 @@ The Queen was buried with Prince Philip and alongside the remains of her father,
  - date published: 2022-09-29 00:01:34+00:00
 
 The average annual household energy bill in the UK will rise from £1,971 to £2,500.
+

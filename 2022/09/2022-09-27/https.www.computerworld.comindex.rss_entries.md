@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Jamf touts big boost to enterprise security at JNUC
  - [https://www.computerworld.com/article/3674843/jamf-touts-big-boost-to-enterprise-security-at-jnuc.html#tk.rss_all](https://www.computerworld.com/article/3674843/jamf-touts-big-boost-to-enterprise-security-at-jnuc.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>The COVID-19 pandemic dramatically changed the way people work, as working from home became the rule rather than the exception. Moving forward, many companies are continuing to support 100% remote workforces, or they’re adopting a hybrid work model, with some employees working in the corporate office, some working at home, and many splitting their time between the two.</p><p>These remote and hybrid workers rely on company-provided technology to communicate wi
+

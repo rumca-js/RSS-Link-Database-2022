@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 18 of the Best Uses for Vodka, Besides the Obvious
  - [https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
@@ -125,3 +125,4 @@
  - date published: 2022-11-10 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Rchj1j0G--/c_fit,fl_progressive,q_80,w_636/8611f51a4ad6d44e004bc937005376ec.jpg" /><p>For anyone burdened with debt, <a href="https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721">fighting lifestyle creep</a>, and  overwhelmed by the current state of <a href="https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643">inflation</a>, it’s all too easy to feel as if  your finances are in disarray. You might be plagued with anxiety and assume that you’re “bad with money.” But when we live in a state of anxiety, we make worse financial…</p><p><a href="https://lifehacker.com/the-signs-that-your-finances-aren-t-as-bad-as-you-think-1849763526">Read more...</a></p>
+

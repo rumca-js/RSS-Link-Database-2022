@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How to become a pirate archivist
  - [http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
@@ -798,3 +798,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33228533">https://news.ycombinator.com/item?id=33228533</a></p>
 <p>Points: 5</p>
 <p># Comments: 1</p>
+

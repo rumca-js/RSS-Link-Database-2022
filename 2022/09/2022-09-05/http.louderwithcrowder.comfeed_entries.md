@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Posh private school defends woke teacher exposed for attacking her 'white boy' students
  - [https://www.louderwithcrowder.com/woke-teacher-private-school-defends](https://www.louderwithcrowder.com/woke-teacher-private-school-defends)
@@ -34,3 +34,4 @@
  - date published: 2022-09-05 12:15:55+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31486869&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>Warning: your brain may have trouble processing so much irony. Not unlike electric vehicles having trouble processing getting from point A to point B. A guy from Washington, DC, decided to take his electric vehicle out for a weekend getaway. It made it to West Virginia... where it broke down outside of a COAL PLANT. Five coal miners had t
+

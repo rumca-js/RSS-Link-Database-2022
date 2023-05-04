@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Epic alleges Google paid $360 million to keep Activision from launching its own app store
  - [https://www.theverge.com/2022/11/18/23466359/activision-riot-mobile-app-stores-epic-games-google-court-filings-project-hug](https://www.theverge.com/2022/11/18/23466359/activision-riot-mobile-app-stores-epic-games-google-court-filings-project-hug)
@@ -513,3 +513,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/17/23465659/rip-twitter-trending-elon-musk-ultimatum">Continue reading&hellip;</a>
   </p>
+

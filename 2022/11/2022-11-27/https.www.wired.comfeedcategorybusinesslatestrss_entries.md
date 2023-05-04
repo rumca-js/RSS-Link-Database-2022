@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## The US Congress Is Starting to Question This Whole Crypto Thing
  - [https://www.wired.com/story/us-congress-ftx-cryptocurrency-regulation/](https://www.wired.com/story/us-congress-ftx-cryptocurrency-regulation/)
@@ -6,3 +6,4 @@
  - date published: 2022-11-27 12:00:00+00:00
 
 Think Washington lawmakers have what it takes to tackle the volatile world of cryptocurrencies? Neither do they.
+

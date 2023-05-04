@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Latest Super Mario Bros. movie trailer features a bold, new Princess Peach
  - [https://arstechnica.com/?p=1900814](https://arstechnica.com/?p=1900814)
@@ -125,3 +125,4 @@ Evidence from millennia of Atlantic storms is not good news for the coast.
  - date published: 2022-11-29 13:18:20+00:00
 
 The man reportedly infected 39 people in one outdoor jog through a park.
+

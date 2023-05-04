@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Roger Stone filmed ranting he SUPPORTS second impeachment of Donald Trump
  - [https://www.dailymail.co.uk/news/article-11322035/Roger-Stone-filmed-ranting-SUPPORTS-second-impeachment-Donald-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11322035/Roger-Stone-filmed-ranting-SUPPORTS-second-impeachment-Donald-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -944,3 +944,4 @@ Neil Maxwell, who had a string of past convictions for sexual offences including
  - date published: 2022-10-16 00:26:54+00:00
 
 Images show the 48-year-old was joined in the stands by partner Zara Charles and Old Trafford heroes Roy Keane, Steve Bruce and Paul Scholes at the League Two game at the Peninsula Stadium.
+

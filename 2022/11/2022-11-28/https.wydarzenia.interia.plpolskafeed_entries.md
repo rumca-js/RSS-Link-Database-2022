@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Ziobro o Tusku: Mam nadzieję, że tym razem nie okaże się polityczną fujarą
  - [https://wydarzenia.interia.pl/kraj/news-ziobro-o-tusku-mam-nadzieje-ze-tym-razem-nie-okaze-sie-polit,nId,6439490](https://wydarzenia.interia.pl/kraj/news-ziobro-o-tusku-mam-nadzieje-ze-tym-razem-nie-okaze-sie-polit,nId,6439490)
@@ -13,3 +13,4 @@
  - date published: 2022-11-28 12:06:55+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-plaga-odrzuconych-wnioskow-o-3-tys-zl-ty-tez-nie-dostaniesz-,nId,6439268"><img align="left" alt="Plaga odrzuconych wniosków o 3 tys. zł. Ty też nie dostaniesz dodatku?" src="https://i.iplsc.com/plaga-odrzuconych-wnioskow-o-3-tys-zl-ty-tez-nie-dostaniesz/000GDZXJE7UNRXD3-C321.jpg" /></a>Odrzucony wniosek o dodatek węglowy to problem, który dotyczy prawie 20 proc. osób starających się o wypłatę. Zazwyczaj powodem jest brak deklaracji CEEB lub nieścisłości w dokumentacji. W takiej sytuacji istnieje możliwość ponownego złożenia wniosku, trzeba się jednak spieszyć. Termin mija wraz z końcem listopada. </p><br clear="all" />
+

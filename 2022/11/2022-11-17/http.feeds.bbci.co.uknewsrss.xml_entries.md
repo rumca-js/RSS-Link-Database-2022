@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Gaza: At least 21 killed in Jabalia refugee camp fire
  - [https://www.bbc.co.uk/news/world-middle-east-63668821?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63668821?at_medium=RSS&at_campaign=KARANGA)
@@ -503,3 +503,4 @@ As more people turn to non-dairy alternatives, vegan 'cheese' sales are taking o
  - date published: 2022-11-17 00:02:47+00:00
 
 As anti-government protests continue to rage in Iran, the country's football team will soon have a global stage for their voice.
+

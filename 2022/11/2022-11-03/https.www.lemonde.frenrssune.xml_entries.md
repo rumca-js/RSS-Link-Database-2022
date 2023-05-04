@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## After years of lagging behind, photovoltaic energy is on a spectacular rise in Spain
  - [https://www.lemonde.fr/en/economy/article/2022/11/04/after-years-of-lagging-behind-photovoltaic-energy-is-on-a-spectacular-rise-in-spain_6002913_19.html](https://www.lemonde.fr/en/economy/article/2022/11/04/after-years-of-lagging-behind-photovoltaic-energy-is-on-a-spectacular-rise-in-spain_6002913_19.html)
@@ -265,3 +265,4 @@ Supporters of the far-right leader, unwilling to accept the results of Mr. Bolso
  - date published: 2022-11-03 00:26:58+00:00
 
 The meeting on Tuesday, November 2, between Mr. Petro and his Venezuelan counterpart, President Nicolas Maduro, indicates the restoration of diplomatic relations between the two countries that have been broken since 2019.
+

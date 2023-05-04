@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Microsoft CEO Weighs In On Xbox/Activision Deal In Jeopardy
  - [https://www.gamespot.com/videos/microsoft-ceo-weighs-in-on-xbox-activision-deal-in-jeopardy/2300-6459622/](https://www.gamespot.com/videos/microsoft-ceo-weighs-in-on-xbox-activision-deal-in-jeopardy/2300-6459622/)
@@ -342,3 +342,4 @@
  - date published: 2022-09-22 12:02:00+00:00
 
 <p>Ahead of the Overwatch 2 launch next month, Blizzard has posted a preview of changes that players can expect. One of the big tweaks, when compared to the previous betas, is a new passive ability for each class of hero, with DPS role characters getting an increase in speed.</p><p>In the betas, DPS heroes retained 30% of their ultimate power when they were swapped out for another character, and this buff will also be applied to Tank and Support heroes. To give DPS characters a more clearly defi
+

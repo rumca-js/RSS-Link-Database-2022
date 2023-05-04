@@ -1,4 +1,4 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
+# Source:Veritasium, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, language:en-US
 
 ## The Algorithm That Transformed The World
  - [https://www.youtube.com/watch?v=nmgFG7PUHfo](https://www.youtube.com/watch?v=nmgFG7PUHfo)
@@ -67,3 +67,4 @@ Research Assistant: Katie Barnshaw
 Additional video/photos supplied by Pond5 and Getty Images
 Music from Epidemic Sound
 Produced by Derek Muller, Petr Lebedev, and Emily Zhang
+

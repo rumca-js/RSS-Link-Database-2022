@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk’s response to fake verified Elon Twitter accounts: a new permanent ban policy for impersonation
  - [https://www.theverge.com/2022/11/6/23443871/elon-musk-twitter-permaban-impersonation-parody](https://www.theverge.com/2022/11/6/23443871/elon-musk-twitter-permaban-impersonation-parody)
@@ -138,3 +138,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x">Continue reading&hellip;</a>
   </p>
+

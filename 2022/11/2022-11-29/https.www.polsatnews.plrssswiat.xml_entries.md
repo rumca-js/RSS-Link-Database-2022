@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Prehistoryczny gad odkryty w Europie. Był wielki jak samochód
  - [https://www.polsatnews.pl/wiadomosc/2022-11-29/prehistoryczny-gad-odkryty-w-europie-byl-wielki-jak-samochod/](https://www.polsatnews.pl/wiadomosc/2022-11-29/prehistoryczny-gad-odkryty-w-europie-byl-wielki-jak-samochod/)
@@ -167,3 +167,4 @@ Melissa Highsmith została porwana jako prawie dwuroczne dziecko przez własną 
  - date published: 2022-11-29 05:25:00+00:00
 
 Na Białoruś trafił transport broni z Rosji. Docelowo ma zostać przerzucony pod Baranowicze w obwodzie brzeskim graniczącym z Polską. Według niezależnego portalu Zerkalo.io trafi tam 15 systemów przeciwlotniczych Tor-M2 SAM.
+

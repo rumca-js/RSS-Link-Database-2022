@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Jesse Watters: Nancy Pelosi loves open borders
  - [https://www.foxnews.com/media/jesse-watters-nancy-pelosi-loves-open-borders](https://www.foxnews.com/media/jesse-watters-nancy-pelosi-loves-open-borders)
@@ -1189,3 +1189,4 @@ Three-time World Series champion Curt Schilling gave his opinion on how Yankees 
  - date published: 2022-09-30 00:11:11+00:00
 
 Minnesota authorities said a recent bust of thousands of fentanyl pills could be the largest such seizure in the Midwest.
+

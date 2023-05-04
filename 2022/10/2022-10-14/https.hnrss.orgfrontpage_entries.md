@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Disposable Root Servers
  - [https://blog.thc.org/disposable-root-servers](https://blog.thc.org/disposable-root-servers)
@@ -696,3 +696,4 @@ Those rejections hit hard and the fact that I
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33198198">https://news.ycombinator.com/item?id=33198198</a></p>
 <p>Points: 35</p>
 <p># Comments: 8</p>
+

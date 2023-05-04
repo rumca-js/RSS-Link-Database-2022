@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land
  - [https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html](https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html)
@@ -223,3 +223,4 @@ Russia moves to annex Ukrainian territory.
  - date published: 2022-09-30 00:04:38+00:00
 
 The Russian president’s remarks came after anger with the draft spilled over into street protests across Russia.
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Intel plans major job cuts and billions in savings as profits plummet
  - [https://www.techradar.com/news/intel-plans-major-job-cuts-and-billions-in-savings-as-profits-plummet/](https://www.techradar.com/news/intel-plans-major-job-cuts-and-billions-in-savings-as-profits-plummet/)
@@ -209,3 +209,4 @@ DJI has revealed a teaser for its next big launch – and the rumors suggest it
  - date published: 2022-10-28 04:53:49+00:00
 
 Elon Musk's $44 billion acquisition of Twitter has been finalised, with the tech entrepreneur hinting at changes to come for the platform
+

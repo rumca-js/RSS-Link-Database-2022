@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Modern Warfare 2 - Why I'm Cautiously Optimistic
  - [https://www.gamespot.com/videos/modern-warfare-2-why-im-cautiously-optimistic/2300-6459766/](https://www.gamespot.com/videos/modern-warfare-2-why-im-cautiously-optimistic/2300-6459766/)
@@ -34,3 +34,4 @@
  - date published: 2022-10-15 02:17:00+00:00
 
 <p dir="ltr">After announcing a four-player co-op mode will be coming to Gotham Knights next month, Warner Bros. Montreal has shared another piece of less exciting news: The game will run at 30 frames per second on console with no performance mode option.</p><p dir="ltr">The announcement was made via the official Gotham Knights Discord server by the game's executive producer Fleur Marty. She confirmed that the game will not provide an option to switch between a high-quality graphics mode and a p
+

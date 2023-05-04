@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## What should you watch after the Walking Dead series finale?
  - [https://www.androidauthority.com/shows-like-the-walking-dead-series-finale-amc-3236273/](https://www.androidauthority.com/shows-like-the-walking-dead-series-finale-amc-3236273/)
@@ -83,3 +83,4 @@ Hear everything, including your music.
  - date published: 2022-11-21 08:14:23+00:00
 
 Black Friday deals, 10 years of the Wii U, and more in today's edition!
+

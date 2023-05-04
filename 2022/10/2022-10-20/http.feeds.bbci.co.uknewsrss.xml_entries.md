@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## China Covid: The politics driving the hellish lockdowns
  - [https://www.bbc.co.uk/news/world-asia-china-63310524?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63310524?at_medium=RSS&at_campaign=KARANGA)
@@ -566,3 +566,4 @@ The BBC’s Sliced Bread Team have been investigating whether the popular food g
  - date published: 2022-10-20 00:16:20+00:00
 
 Liam Hampson's family say they are "heartbroken" after he suffered an accident in Barcelona.
+

@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Pogoda na dziś - niedziela 9.10. Wiatr w niektórych regionach mocno się rozpędzi, lokalnie może spać deszcz
  - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-910-wiatr-w-niektorych-regionach-mocno-sie-rozpedzi-lokalnie-moze-spac-deszcz-6153889?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-910-wiatr-w-niektorych-regionach-mocno-sie-rozpedzi-lokalnie-moze-spac-deszcz-6153889?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Pogoda na dziś - niedziela 9.10. Wiatr w niektórych regionach mocno się rozpędzi, lokalnie może spać deszcz" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-5rsffr-pogodnie-slonecznie-6153959/alternates/LANDSCAPE_1280" />
     Pogoda w niedzielę 09.10 w większości kraju będzie dopisywać. Słabych opadów deszczu spodziewamy się tylko na Suwalszczyźnie. Termometry wskażą maksymalnie do 15 stopni Celsjusza na zachodzie kraju.
+

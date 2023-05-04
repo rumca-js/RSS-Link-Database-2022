@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Dillian Whyte: Briton delivers flat performance in points victory over Jermaine Franklin
  - [https://www.bbc.co.uk/sport/boxing/63770501?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63770501?at_medium=RSS&at_campaign=KARANGA)
@@ -426,3 +426,4 @@ Nearly 100 species of sharks and rays were added to an international treaty whic
  - date published: 2022-11-26 00:08:51+00:00
 
 A selection of powerful images from all over the globe, taken in the past seven days.
+

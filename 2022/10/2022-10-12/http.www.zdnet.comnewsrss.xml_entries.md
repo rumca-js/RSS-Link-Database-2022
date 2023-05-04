@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to transfer photos from your Android device to your Windows PC
  - [https://www.zdnet.com/article/how-to-transfer-photos-from-your-android-device-to-your-windows-pc/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-transfer-photos-from-your-android-device-to-your-windows-pc/#ftag=RSSbaffb68)
@@ -335,3 +335,4 @@ Three new Amazon Web Services programs will offer free training to help people g
  - date published: 2022-10-12 06:34:00+00:00
 
 ZDNET has rounded up the best Amazon Prime Early Access Sale -- aka October Prime Day -- Echo deals. We're seeing discounts for up to 75% off certain devices.
+

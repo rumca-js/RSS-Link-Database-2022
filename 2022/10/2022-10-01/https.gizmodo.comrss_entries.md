@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Figrin D'an & the Modal Nodes Get a Delightful New Set of Star Wars Figures
  - [https://gizmodo.com/star-wars-figures-figrin-dan-modal-nodes-1849605558](https://gizmodo.com/star-wars-figures-figrin-dan-modal-nodes-1849605558)
@@ -41,3 +41,4 @@
  - date published: 2022-10-01 04:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--laWbRAIp--/c_fit,fl_progressive,q_80,w_636/3144cd34afe0e490e033674f442ba60a.png" /><p>A prototype of the Tesla robot has finally arrived and dear God is it just as ridiculous as we’d hoped.</p><p><a href="https://gizmodo.com/optimus-the-tesla-bot-is-finally-here-sorta-well-a-1849604441">Read more...</a></p>
+

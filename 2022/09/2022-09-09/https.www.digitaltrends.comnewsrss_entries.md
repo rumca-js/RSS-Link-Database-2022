@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Leak confirms Intel Raptor Lake may bring huge core increase
  - [https://www.digitaltrends.com/computing/intel-raptor-lake-specifications-leaked/](https://www.digitaltrends.com/computing/intel-raptor-lake-specifications-leaked/)
@@ -20,3 +20,4 @@ The amount of data crawling on the internet is so pervasive that more than 80% o
  - date published: 2022-09-09 10:30:55.962588+00:00
 
 It's time to get excited -- Nvidia has just teased an upcoming special announcement that could finally reveal the next-gen RTX 40-Series GPUs.
+

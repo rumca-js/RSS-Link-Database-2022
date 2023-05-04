@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Batman and Spawn Cross Over for the First Time in Decades
  - [https://gizmodo.com/batman-spawn-crossover-dc-comics-trailer-1849664573](https://gizmodo.com/batman-spawn-crossover-dc-comics-trailer-1849664573)
@@ -27,3 +27,4 @@
  - date published: 2022-10-16 15:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--4-NzD3Yl--/c_fit,fl_progressive,q_80,w_636/98d67b4e3f41f180f4ee21f6cb27b9f4.jpg" /><p>Of the many guest appearances that graced the first season of <a href="https://gizmodo.com/she-hulk-new-trailer-san-diego-comic-con-disney-plus-1849197180"><em>Marvel’s She-Hulk</em></a><em>, </em>the ones featuring <a href="https://gizmodo.com/marvel-she-hulk-mark-ruffalo-marvel-studios-disney-plus-1849357564">Mark Ruffalo’s Hulk</a> were among the
+

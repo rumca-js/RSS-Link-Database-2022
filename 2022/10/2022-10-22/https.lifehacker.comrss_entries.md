@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Sleep Comfortably on a Couch
  - [https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779](https://lifehacker.com/how-to-sleep-comfortably-on-a-couch-1849684779)
@@ -20,3 +20,4 @@
  - date published: 2022-10-22 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--sTrdzjPa--/c_fit,fl_progressive,q_80,w_636/f02f57d1fac78428c53a224b1c9c1cd9.jpg" /><p>Even with all their bells and whistles, most modern televisions are prone to at least some type of glare. Whether it’s caused by sunlight streaming through a window, or various light fixtures in the room, there are certain times of day when the color of at least part of the screen appears distorted.</p><p><a href="https://lifehacker.com/how-to-reduc
+

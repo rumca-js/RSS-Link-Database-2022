@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Andrew Tate incident ends G2’s bid for ‘Valorant’ partnership slot
  - [https://www.washingtonpost.com/video-games/esports/2022/09/21/g2-valorant-andrew-tate-carlos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/esports/2022/09/21/g2-valorant-andrew-tate-carlos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Change your clock font, get the cool widgets and 8 other tricks you can try on y
  - date published: 2022-09-21 06:00:43+00:00
 
 Airlines including United, Mesa and Air Canada have started putting orders in for Heart Aerospace ES-30, a battery-operated plane that seats up to 30 people.
+

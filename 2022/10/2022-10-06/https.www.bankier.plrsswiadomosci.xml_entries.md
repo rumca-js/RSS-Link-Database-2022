@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Morawiecki: Polityka energetyczna i klimatyczna to pięta achillesowa w UE
  - [https://www.bankier.pl/wiadomosc/Morawiecki-Polityka-energetyczna-i-klimatyczna-to-pieta-achillesowa-w-UE-8418847.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Morawiecki-Polityka-energetyczna-i-klimatyczna-to-pieta-achillesowa-w-UE-8418847.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -464,3 +464,4 @@ parkiecie kredytodawców wynika, że próg ten został przekroczony w poło
  - date published: 2022-10-06 01:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/e/03fdb52e84d2e5-945-560-48-225-1306-783.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Administracja prezydenta Joe Bidena planuje zniesienie niektórych sankcji wobec Wenezueli, które umożliwiłyby temu państwu zwiększenie wydobycia ropy naftowej - poinformował w środę  dziennik "The Wall Street Journal", zaznaczając, że możliwe jest przywrócenie eksportu surowc
+

@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Nvidia’s RTX 4080 may be up to 45% slower than the RTX 4090, but it’s still pricey
  - [https://www.digitaltrends.com/computing/nvidia-rtx-4080-16gb-benchmarked/](https://www.digitaltrends.com/computing/nvidia-rtx-4080-16gb-benchmarked/)
@@ -13,3 +13,4 @@ Nvidia's upcoming RTX 4080 16GB was just spotted in some benchmarks. Is its perf
  - date published: 2022-11-07 10:40:33.961855+00:00
 
 A Chinese rocket booster has made an uncontrolled re-entry into the atmosphere for the second time this year.
+

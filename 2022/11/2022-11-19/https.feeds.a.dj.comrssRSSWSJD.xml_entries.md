@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## My Glucose Monitor Can Drive Me Crazy---and I Wouldn't Have It Any Other Way
  - [https://www.wsj.com/articles/wearable-medical-technology-lifestyle-11668810603?mod=rss_Technology](https://www.wsj.com/articles/wearable-medical-technology-lifestyle-11668810603?mod=rss_Technology)
@@ -41,3 +41,4 @@ Society’s belief that startup founders possess extraordinary powers is harmful
  - date published: 2022-11-19 05:00:00+00:00
 
 The emerging picture of what went wrong suggests the crypto empire was a mess almost from the start, with few boundaries, financial or personal
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Clashes in Iran as thousands gather at Mahsa Amini's grave, 40 days after her death
  - [https://www.cnn.com/2022/10/26/middleeast/iran-clashes-mahsa-amini-grave-intl/index.html](https://www.cnn.com/2022/10/26/middleeast/iran-clashes-mahsa-amini-grave-intl/index.html)
@@ -53,5 +53,6 @@ The team will gather data on "events in the sky that cannot be identified as air
  - [https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616](https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-10-26 06:48:26.604283+00:00
+
 
 

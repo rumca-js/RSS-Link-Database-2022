@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Rishi Sunak, Now the Front-Runner for U.K. Prime Minister, Could Say, ‘I Told You So’
  - [https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html](https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html)
@@ -160,3 +160,4 @@ In the United States, too, the rise of inside-party primaries has empowered cand
  - date published: 2022-10-23 02:44:35+00:00
 
 A health scare? A brazen political gesture? Whatever else it was, the episode was awkward.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Niezwykła metoda produkcji związków chemicznych. Tak powstaną nowe leki?
  - [https://www.chip.pl/2022/11/leki-produkowane-dzieki-ripp](https://www.chip.pl/2022/11/leki-produkowane-dzieki-ripp)
@@ -103,3 +103,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="975" src="https://konto.chip.pl/wp-content/uploads/2022/03/siec-neuronowa-wzor.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/03/siec-neuronowa-wzor.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Człowiek potrzebuje przeciętnie od 7 do 13 godzin snu dobę. Nie oznacza to jednak, że w tym czasie mózg jest całkowicie nieaktywny. Jak się okazuje, sieci neuronowe mają z tym wiele wspólnego. Mózg jest bardzo zajęty, gdy śpimy, powtarzając to, czego nauczyliśmy się w ciągu dnia. Sen pomaga zreorganizować wspomnienia i przedstawić je w najbardziej [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Wall Street w górę trzeci dzień z rzędu
  - [https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-trzeci-dzien-z-rzedu-8403741.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-trzeci-dzien-z-rzedu-8403741.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -288,3 +288,4 @@ oddawać butelki PET i otrzymywać w zamian kupony rabatowe na zakupy - te
  - date published: 2022-09-09 01:01:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/4/8/7eacd8ce2c4e22-945-560-0-0-1735-1040.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Korea Północna przyjęła ustawę, oficjalnie deklarując się jako państwo posiadające broń jądrową.</p>
+

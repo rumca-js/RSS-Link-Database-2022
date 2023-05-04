@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Could the Huawei MateStation X dethrone Apple’s iMac?
  - [https://www.digitaltrends.com/computing/could-the-huawei-matestation-x-dethrone-apples-imac/](https://www.digitaltrends.com/computing/could-the-huawei-matestation-x-dethrone-apples-imac/)
@@ -6,3 +6,4 @@
  - date published: 2022-10-28 02:37:38.203033+00:00
 
 Huawei is updating its MateStation X with an all-new form factor, according to a leak on Weibo.
+

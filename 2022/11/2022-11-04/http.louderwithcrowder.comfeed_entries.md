@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: NBC News dunce Joy Reid thinks you only care about inflation because the GOP taught you the word
  - [https://www.louderwithcrowder.com/joy-reid-inflation](https://www.louderwithcrowder.com/joy-reid-inflation)
@@ -196,3 +196,4 @@ That you give to me
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

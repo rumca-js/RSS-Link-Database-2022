@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## S&P500 zatrzymany na 4 000 punktów
  - [https://www.bankier.pl/wiadomosc/S-P500-zatrzymany-na-4-000-punktow-8439390.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/S-P500-zatrzymany-na-4-000-punktow-8439390.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -541,3 +541,4 @@ możliwości. Pokazują to, chociażby ostatnie decyzje jednego z kredytodawców
  - date published: 2022-11-14 03:56:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/6/91ce9c0c8b017c-948-568-0-286-997-598.png" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Firmy sektora transportowego z Hiszpanii rozpoczęły bezterminowy strajk tej branży domagając się od rządu premiera Pedro Sancheza działań służących obniżeniu kosztów prowadzenia działalności w sektorze transportowym, a także w pokrewnych branżach.</p>
+

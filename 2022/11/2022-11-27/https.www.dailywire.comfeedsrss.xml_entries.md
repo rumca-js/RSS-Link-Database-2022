@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Disney’s ‘Strange World’ On Track To Lose $100 Million
  - [https://www.dailywire.com/news/disneys-strange-world-on-track-to-lose-100-million](https://www.dailywire.com/news/disneys-strange-world-on-track-to-lose-100-million)
@@ -90,3 +90,4 @@ Rep. James Comer (R-KY) promised that the House Oversight Committee would target
  - date published: 2022-11-27 13:02:09+00:00
 
 The United States Soccer Federation (USSF) briefly altered the flag of Iran in social media posts on multiple platforms ahead of the U.S. men&#8217;s team&#8217;s critical match with the Islamic Republic at the World Cup on Tuesday. The move comes amidst a controversial World Cup in Qatar, the first time soccer’s biggest tournament has been ...
+

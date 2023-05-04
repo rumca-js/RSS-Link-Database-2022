@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## GOP Establishment Leaders Call on Senate to Enshrine Same-Sex Marriage
  - [https://www.dailywire.com/news/gop-establishment-leaders-call-on-senate-to-enshrine-same-sex-marriage](https://www.dailywire.com/news/gop-establishment-leaders-call-on-senate-to-enshrine-same-sex-marriage)
@@ -433,3 +433,4 @@ Meghan Markle told actress and creator Mindy Kaling last week that it&#8217;s e
  - date published: 2022-09-12 09:24:57+00:00
 
 A mentally disturbed mom was in custody after her three young children drowned early Monday at a beach on New York City’s famous Coney Island. The unidentified, 30-year-old mother was being questioned by police but had not yet been charged in the incident. Her children, a 3-month-old boy, a 4-year-old girl, and a 7-year-old boy ...
+

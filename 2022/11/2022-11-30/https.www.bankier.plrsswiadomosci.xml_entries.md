@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Zełenski krytykuje Muska: przyjedź na Ukrainę i sam zobacz wszystko
  - [https://www.bankier.pl/wiadomosc/Zelenski-krytykuje-Muska-przyjedz-na-Ukraine-i-sam-zobacz-wszystko-8449198.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zelenski-krytykuje-Muska-przyjedz-na-Ukraine-i-sam-zobacz-wszystko-8449198.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -165,6 +165,14 @@ prognoz, a zwłaszcza projekcji inflacji NBP, poziom stóp jest optymalny -
  - date published: 2022-11-30 12:14:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/9/da6a41b30bf46c-948-568-102-0-1783-1070.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Generalna Dyrekcja Dróg Krajowych i Autostrad podpisała w środę dwie umowy na zaprojektowanie Zachodniej Obwodnicy Szczecina długości 51,6 km. Minister infrastruktury Andrzej Adamczyk poinformował, że jednym z fragmentów trasy będzie najdłuższy tunel w Polsce, który ma liczyć 5 km.</p>
+
+## Tak powstaje polska ekoalternatywa dla plastiku
+ - [https://www.bankier.pl/wiadomosc/Tak-powstaje-polska-eko-alternatywa-dla-plastiku-8464458.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tak-powstaje-polska-eko-alternatywa-dla-plastiku-8464458.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-30 12:00:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/1/e7a121dfc28752-948-568-4-14-994-596.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Tomasz Ciamulski, założyciel i prezes FibriTech, stworzył niezwykły start-up, który wykorzystuje technologię dla dobra natury, projektując eko-alternatywę dla plastiku i innych materiałów
+ropopochodnych. Posłuchaj podcastu i dowiedz się, na czym polega innowacyjna technologia, co jest istotą pomysłu FibriTech i jak może wyglądać przyszłość bez plastiku.</p>
 
 ## Eksperci: Konieczne zmiany w hipotekach. Rekompensaty za wcześniejszą spłatę kredytu czy rozwiązania dla młodych
  - [https://www.bankier.pl/wiadomosc/Eksperci-Konieczne-zmiany-w-hipotekach-Rekompensaty-za-wczesniejsza-splate-kredytu-czy-rozwiazania-dla-mlodych-8448721.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Eksperci-Konieczne-zmiany-w-hipotekach-Rekompensaty-za-wczesniejsza-splate-kredytu-czy-rozwiazania-dla-mlodych-8448721.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -401,3 +409,4 @@ zapowiadało i uruchomiło w 2018 roku.</p>
  - date published: 2022-11-30 01:42:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/3/8377c41ac15f57-948-568-0-297-3135-1881.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Administracja Bidena prowadzi konsultacje , czy uznać prywatną firmę wojskową Grupa Wagnera, kontrolowaną przez bliskiego sojusznika Władimira Putina Jewgienija Prigożyna, za zagraniczną organizację terrorystyczną, poinformował we wtrorek Bloomberg</p>
+

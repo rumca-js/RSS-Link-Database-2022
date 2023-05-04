@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Foxconn: iPhone maker bets on electric truck firm Lordstown Motors
  - [https://www.bbc.co.uk/news/business-63551439?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63551439?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ Privacy campaign group Big Brother Watch has asked the UK privacy watchdog to in
  - date published: 2022-11-08 00:02:15+00:00
 
 Progress is being made on systems to make hydrogen more economical to store and transport.
+

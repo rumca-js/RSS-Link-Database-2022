@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## How will Meta handle a dose of Apple Reality?
  - [https://www.computerworld.com/article/3676633/how-will-meta-handle-a-dose-of-apple-reality.html#tk.rss_all](https://www.computerworld.com/article/3676633/how-will-meta-handle-a-dose-of-apple-reality.html#tk.rss_all)
@@ -35,3 +35,4 @@
 <article>
 	<section class="page">
 <p>US legislators continue to press for the creation of a digital dollar, raising questions about whether the move could make it easy for the federal government to track business and consumer transactions.</p><p>Putting all the digital dollars on one electronic ledger operated by the Federal Reserve would also be a tempting target for cyber criminals.</p><p>In March, <a href="https://www.computerworld.com/article/3655728/lawmakers-join-growing-push-to-create-a-d
+

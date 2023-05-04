@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Intel wants to help make Windows play friendly with both Android and iOS
  - [https://www.androidauthority.com/intel-unison-windows-3213822/](https://www.androidauthority.com/intel-unison-windows-3213822/)
@@ -153,3 +153,4 @@ There aren't many upgrades over the original model, but it's still a pretty comp
  - date published: 2022-09-27 05:40:42+00:00
 
 You can now pre-arrange WhatsApp video calls using the new Call Links feature.
+

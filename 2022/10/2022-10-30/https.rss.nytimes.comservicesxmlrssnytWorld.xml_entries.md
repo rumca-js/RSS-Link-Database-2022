@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Father of One U.S. Victim Found Warmth Online as Worry Became Grief
  - [https://www.nytimes.com/2022/10/29/world/asia/us-victim.html](https://www.nytimes.com/2022/10/29/world/asia/us-victim.html)
@@ -251,3 +251,4 @@ As many as 100,000 people were celebrating in a popular nightlife district in th
  - date published: 2022-10-30 00:06:58+00:00
 
 As many as 100,000 people were celebrating in a popular nightlife district in the center of the South Korean capital.
+

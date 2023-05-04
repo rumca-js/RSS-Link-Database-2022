@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Chimps show off their 'signature' drum beats
  - [https://www.bbc.co.uk/news/science-environment-62809420?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-62809420?at_medium=RSS&at_campaign=KARANGA)
@@ -454,3 +454,4 @@ A prior attempt to drain the lake to stem the overflow had failed to adequately 
  - date published: 2022-09-06 00:41:54+00:00
 
 Bullitt, which makes rugged smartphones, is due to launch a satellite-connected handset in February.
+

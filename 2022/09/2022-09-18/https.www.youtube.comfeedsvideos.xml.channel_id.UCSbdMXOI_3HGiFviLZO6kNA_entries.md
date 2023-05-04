@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## This VR Headset is INSANE - NO MORE BLACK BARS
  - [https://www.youtube.com/watch?v=T9BtCcCKV6c](https://www.youtube.com/watch?v=T9BtCcCKV6c)
@@ -28,3 +28,4 @@ My discord:
 https://discord.gg/2hCGM9BYez
 Patreon link:
 https://www.patreon.com/Thrillseeker
+

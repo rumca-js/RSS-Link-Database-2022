@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Andrzej Duda zwołał naradę z udziałem premiera i dowódców wojskowych
  - [https://wydarzenia.interia.pl/kraj/news-andrzej-duda-zwolal-narade-z-udzialem-premiera-i-dowodcow-wo,nId,6369753](https://wydarzenia.interia.pl/kraj/news-andrzej-duda-zwolal-narade-z-udzialem-premiera-i-dowodcow-wo,nId,6369753)
@@ -27,3 +27,4 @@
  - date published: 2022-10-25 08:10:47+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-jak-rozpoznac-prawdziwy-oscypek-goral-z-tiktoka-wyjasnia,nId,6369489"><img align="left" alt="Jak rozpoznać prawdziwy oscypek? Góral z TikToka wyjaśnia" src="https://i.iplsc.com/jak-rozpoznac-prawdziwy-oscypek-goral-z-tiktoka-wyjasnia/000G8Z3KMUEFYL3O-C321.jpg" /></a>Turyści odwiedzający polskie góry szukają lokalnych przysmaków. Jednym z nich są oscypki. TikToker z Czarnego Dunajca, Corno Owca, ujawnił jakie muszą być cechy prawdziwego oscypka.</p><br clear="all" />
+

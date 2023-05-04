@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Peace Talks Remain Distant Even as Moscow Signals a Retreat
  - [https://www.nytimes.com/2022/11/09/us/politics/ukraine-russia-peace-talks.html](https://www.nytimes.com/2022/11/09/us/politics/ukraine-russia-peace-talks.html)
@@ -202,3 +202,4 @@ Results from the U.S. midterm elections.
  - date published: 2022-11-09 05:01:10+00:00
 
 Both Russia and Ukraine are using confusion as well as artillery on the battlefield.
+

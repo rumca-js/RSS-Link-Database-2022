@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Wyoming college wrestlers injured during bear attack, left 'blood-soaked,' coach says
  - [https://www.foxnews.com/us/wyoming-college-wrestlers-bear-attack](https://www.foxnews.com/us/wyoming-college-wrestlers-bear-attack)
@@ -1049,3 +1049,4 @@ The Buffalo Bills got their revenge on the Kansas City Chiefs as Taron Johnson's
  - date published: 2022-10-17 00:05:10+00:00
 
 Kenneth Walker III had a crucial touchdown in the fourth quarter to lift the Seattle Seahawks over the Philadelphia Eagle 19-9 on Sunday.
+

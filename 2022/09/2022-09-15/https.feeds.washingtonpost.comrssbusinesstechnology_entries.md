@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Uber suffers computer system breach, alerts authorities
  - [https://www.washingtonpost.com/technology/2022/09/15/uber-hack/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/15/uber-hack/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ U.S. government officials are adding data from as many as 10,000 electronic devi
  - date published: 2022-09-15 07:00:36+00:00
 
 Twitter whistleblower Peiter Zatko was asked repeatedly about whether Twitter is aware of how its user data is accessed and stored. He gave a troublesome answer: The company doesn’t know. Experts say the problem is bigger than Twitter.
+

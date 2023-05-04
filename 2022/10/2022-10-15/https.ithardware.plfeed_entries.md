@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Technologia kosmiczna z ISS wchodzi na rynek: akumulator Enervenue z 20-letnią gwarancją
  - [https://ithardware.pl/aktualnosci/technologia_kosmiczna_z_iss_wchodzi_na_rynek_akumulator_enervenue_z_20_letnia_gwarancja-23861.html](https://ithardware.pl/aktualnosci/technologia_kosmiczna_z_iss_wchodzi_na_rynek_akumulator_enervenue_z_20_letnia_gwarancja-23861.html)
@@ -99,3 +99,4 @@ Joe...
 
 <img src="https://ithardware.pl/artykuly/min/23849_1.jpg" />            Telenowela związana z przejęciem Activision Blizzard przez Microsoft nie ma końca ze względu na postępowania wyjaśniające, kt&oacute;re prowadzą r&oacute;żne organy regulacyjne na całym świecie. Jednym z nich jest brytyjski&nbsp;CMA,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/cma_odrzuca_argumenty_microsoftu_odnosnie_ekskluzywnosci_call_of_duty-23849.html">https://ithardware.pl/aktualnos
+

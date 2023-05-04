@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best smoke detectors of 2022
  - [https://www.zdnet.com/home-and-office/best-cheap-smoke-detector/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-cheap-smoke-detector/#ftag=RSSbaffb68)
@@ -27,3 +27,4 @@ With remote and hybrid working, many companies have resorted to instant, constan
  - date published: 2022-09-25 11:00:00+00:00
 
 Review: With so many new camera features, a new alert and multitasking experience, and a display that breaks new ground, the iPhone 14 Pro might be even better than advertised.
+

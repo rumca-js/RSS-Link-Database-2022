@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Most Ukranians without power after latest wave of Russian air strikes
  - [https://www.lemonde.fr/en/energies/article/2022/11/24/most-ukranians-without-power-after-latest-wave-of-russian-air-strikes_6005397_98.html](https://www.lemonde.fr/en/energies/article/2022/11/24/most-ukranians-without-power-after-latest-wave-of-russian-air-strikes_6005397_98.html)
@@ -251,3 +251,4 @@ Ending a long legal fight, the Supreme Court rejected on Tuesday, November 22, t
  - date published: 2022-11-23 00:37:08+00:00
 
 Citing a software bug, Brazilian Liberal party contested on Tuesday, November 22, the victory of Luiz Inacio Lula da Silva against the incumbent Jair Bolsonaro.
+

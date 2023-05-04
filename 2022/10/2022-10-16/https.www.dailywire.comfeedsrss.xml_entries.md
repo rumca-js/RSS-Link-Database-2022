@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Arizona Authorities Requests Feds Investigate Non-Profit Group Behind Voter Fraud Documentary ‘2,000 Mules’
  - [https://www.dailywire.com/news/arizona-authorities-requests-feds-investigate-non-profit-group-behind-voter-fraud-documentary-2000-mules](https://www.dailywire.com/news/arizona-authorities-requests-feds-investigate-non-profit-group-behind-voter-fraud-documentary-2000-mules)
@@ -146,3 +146,4 @@ Independent Vermont Sen. Bernie Sanders said the Federal Reserve is not helping 
  - date published: 2022-10-16 09:38:03+00:00
 
 Disturbing images emerged over the weekend of a notorious Iranian prison, where the country&#8217;s political enemies are detained, erupting in flames as explosions and gunshots can be seen and heard. The violence comes as the Islamic Republic has seen weeks of riots and backlash against the authoritarian regime that was sparked in the middle of ...
+

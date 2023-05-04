@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Kim Dzong Un: Celem Korei Północnej jest posiadanie najpotężniejszego arsenału nuklearnego na świecie
  - [https://www.bankier.pl/wiadomosc/Kim-Dzong-Un-Celem-Korei-Polnocnej-jest-posiadanie-najpotezniejszego-arsenalu-nuklearnego-na-swiecie-8446686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kim-Dzong-Un-Celem-Korei-Polnocnej-jest-posiadanie-najpotezniejszego-arsenalu-nuklearnego-na-swiecie-8446686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -88,7 +88,6 @@
  - [https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-11-26 07:00:00+00:00
- - tags: digital identity,government control,digital passport
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/8/812bc107fe1c88-948-568-0-141-1736-1041.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Holenderskie linie lotnicze KLM ogłosiły, że od przyszłego roku na lotnisku Schiphol w Amsterdamie wprowadzą specjalny cyfrowy paszport połączony z rozpoznawaniem twarzy podczas przechodzenia przez bramkę na lotnisku - informuje dziennik „De Telegraaf”. Nowy system ma pomóc w rozładowaniu kolejek.</p>
 
@@ -149,3 +148,4 @@ mieć taka nieruchomość.</p>
  - date published: 2022-11-26 00:55:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/2/d390bd34e50d01-945-560-33-37-1466-879.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Administracja prezydenta Joe Bidena w piątek zakazała zatwierdzania sprzedaży nowych urządzeń telekomunikacyjnych chińskich firm Huawei Technologies, ZTE i kilku innych. Uzasadniła to stwarzaniem "nieakceptowalnego ryzyka" dla bezpieczeństwa narodowego USA.</p>
+

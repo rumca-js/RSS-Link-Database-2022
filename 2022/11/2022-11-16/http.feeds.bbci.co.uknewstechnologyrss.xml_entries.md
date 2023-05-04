@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## What is behind the big tech companies' job cuts?
  - [https://www.bbc.co.uk/news/technology-63635821?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63635821?at_medium=RSS&at_campaign=KARANGA)
@@ -48,3 +48,4 @@ This week it was reported that the firm is planning to cut 10,000 jobs, around 3
  - date published: 2022-11-16 00:18:21+00:00
 
 Many young Indians who've lost their jobs are looking for ways to air their frustration and build support.
+

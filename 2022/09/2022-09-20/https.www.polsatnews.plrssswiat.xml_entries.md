@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## W. Brytania. Mężczyzna chciał podpalić dom, podpalił siebie. Policja udostępniła nagranie
  - [https://www.polsatnews.pl/wiadomosc/2022-09-20/w-brytania-mezczyzna-chcial-podpalic-dom-podpalil-siebie-policja-udostepnila-nagranie/](https://www.polsatnews.pl/wiadomosc/2022-09-20/w-brytania-mezczyzna-chcial-podpalic-dom-podpalil-siebie-policja-udostepnila-nagranie/)
@@ -83,3 +83,4 @@ Po wycieku w niemieckiej elektrowni jądrowej Isar II polskie służby wydały k
  - date published: 2022-09-20 05:41:00+00:00
 
 Prezydent Rosji po raz kolejny musiał czekać na światowego przywódcę. Tuż przed spotkaniem z przywódca Turcji kamery wychwyciły nietypowe gesty u Władimira Putina połączone z wymowną mimiką. Głowa państwa miała się dziwić sposobem przywitania jednego z tureckich gości uczestniczących w spotkaniu.
+

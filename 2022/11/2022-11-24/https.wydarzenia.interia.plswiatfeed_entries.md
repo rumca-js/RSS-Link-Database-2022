@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Katar. Wszystko, co chcielibyście wiedzieć o organizatorze mundialu 2022, ale boicie się zapytać
  - [https://wydarzenia.interia.pl/zagranica/news-katar-wszystko-co-chcielibyscie-wiedziec-o-organizatorze-mun,nId,6429227](https://wydarzenia.interia.pl/zagranica/news-katar-wszystko-co-chcielibyscie-wiedziec-o-organizatorze-mun,nId,6429227)
@@ -13,3 +13,4 @@
  - date published: 2022-11-24 09:51:39+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukrainski-wywiad-rosja-potrzebuje-tygodnia-by-przygotowac-at,nId,6431270"><img align="left" alt="Ukraiński wywiad: Rosja potrzebuje tygodnia, by przygotować atak rakietowy" src="https://i.iplsc.com/ukrainski-wywiad-rosja-potrzebuje-tygodnia-by-przygotowac-at/000GDZBHMVHURA76-C321.jpg" /></a>Rosja potrzebuje tygodnia, by przygotować zmasowany atak rakietowy - stwierdził przedstawiciel ukraińskiego wywiadu wojskowego (HUR) Andrij Jusow. Według niego Kreml &quot;bez wątpienia&quot; będzie ponawiać ostrzały, w ramach których - ze względu na posiadany arsenał - najbardziej zagrożone są miasta przyfrontowe. &quot;Pomimo swojej nieudolności, wróg jest poważny, uzbrojony i masowy&quot; - dodał Jusow.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Penguin Random House's $2.2 billon deal for Simon & Schuster is over
  - [https://www.cnn.com/2022/11/21/business/penguin-random-house-simon-schuster-merger-ended/index.html](https://www.cnn.com/2022/11/21/business/penguin-random-house-simon-schuster-merger-ended/index.html)
@@ -62,3 +62,4 @@ China has reported its first deaths of Covid-19 patients in nearly six months as
  - date published: 2022-11-21 07:13:26+00:00
 
 New Zealand's highest court ruled on Monday that the country's current voting age of 18 was discriminatory, forcing parliament to discuss whether it should be lowered.
+

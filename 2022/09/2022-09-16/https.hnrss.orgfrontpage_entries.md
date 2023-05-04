@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Synthetic embryo with brain and beating heart created by Cambridge scientists
  - [https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/](https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/)
@@ -727,3 +727,4 @@ We detected a compromise of two unique passwords that were used to access a cust
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32860250">https://news.ycombinator.com/item?id=32860250</a></p>
 <p>Points: 67</p>
 <p># Comments: 74</p>
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Elon goes to war
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59661](https://www.codeproject.com/script/News/View.aspx?nwid=59661)
@@ -69,3 +69,4 @@ For everyone waiting to "jack into cyberspace" as an anime heroine
  - date published: 2022-11-30 05:00:00+00:00
 
 Read me a bedtime story, Mr. Edge
+

@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Kaczyński o parach jednopłciowych, dzieciach i wzywaniu na policję. O jaką historię chodzi?
  - [https://konkret24.tvn24.pl/polityka/jaroslaw-kaczynski-o-parach-jednoplciowych-dzieciach-i-wzywaniu-na-policje-o-jaka-historie-chodzi-6187951?source=rss](https://konkret24.tvn24.pl/polityka/jaroslaw-kaczynski-o-parach-jednoplciowych-dzieciach-i-wzywaniu-na-policje-o-jaka-historie-chodzi-6187951?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Nie żyje Julie Powell, miała 49 lat. Jej historia stała się inspiracją dla filmu " src="https://tvn24.pl/najnowsze/cdn-zdjecie-ku4kp8-julie-powell-w-2009-roku-6189744/alternates/LANDSCAPE_1280" />
     W wieku 49 lat zmarła Julie Powell, autorka bloga kulinarnego, w którym odtwarzała dania legendarnej amerykańskiej kucharki Julii Child. Zamieszczane na nim przepisy w 2005 roku zostały wydane w formie książki. Historia Powell zainspirowała Norę Ephron do nakręcenia filmu "Julie i Julia" z Meryl Streep i Amy Adams w rolach głównych, który stał się kinowym hitem również w Polsce.
+

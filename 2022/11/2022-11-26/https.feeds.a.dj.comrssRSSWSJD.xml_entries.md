@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Musk Champions Twitter Fact-Checking Feature
  - [https://www.wsj.com/articles/elon-musk-champions-twitter-fact-checking-feature-that-corrects-him-11669436937?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-champions-twitter-fact-checking-feature-that-corrects-him-11669436937?mod=rss_Technology)
@@ -20,3 +20,4 @@ Vlad, Niki, Diana and Nastya party on yachts, ride in Ferraris and travel the wo
  - date published: 2022-11-26 02:16:00+00:00
 
 The Federal Communications Commission voted to ban sales of new telecom and surveillance equipment made by several Chinese companies, arguing that their ownership and practices threaten U.S. national security.
+

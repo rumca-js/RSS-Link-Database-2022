@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## If you extract with a gun in Warzone 2 DMZ, you unlock it forever in Modern Warfare 2
  - [https://www.pcgamer.com/if-you-extract-with-a-gun-in-warzone-2-dmz-you-unlock-it-forever-in-modern-warfare-2](https://www.pcgamer.com/if-you-extract-with-a-gun-in-warzone-2-dmz-you-unlock-it-forever-in-modern-warfare-2)
@@ -461,3 +461,4 @@ A single new feature is already changing how Warzone is played.
  - date published: 2022-11-17 00:06:25+00:00
 
 Everyone is going dragon mode.
+

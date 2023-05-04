@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## A mother of four traveled to Fort Myers to celebrate her birthday. Now her family is preparing to lay her to rest
  - [https://www.cnn.com/2022/10/04/us/victims-hurricane-ian/index.html](https://www.cnn.com/2022/10/04/us/victims-hurricane-ian/index.html)
@@ -604,3 +604,4 @@ CNN's Melissa Bell reports on widely-circulated social media videos of recruits 
  - date published: 2022-10-04 00:21:59+00:00
 
 The Lake Erie Walleye Trail tournament ended in the disqualification of two fisherman when lead weights were found inside the fish they caught.
+

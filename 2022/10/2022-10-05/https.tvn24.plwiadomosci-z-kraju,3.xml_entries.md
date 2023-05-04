@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Władze Świnoujścia pomogą mieszkańcom taniej kupić węgiel
  - [https://tvn24.pl/pomorze/swinoujscie-wladze-miasta-pomoga-mieszkancom-taniej-kupic-wegiel-informacja-rozeszla-sie-blyskawicznie-6148113?source=rss](https://tvn24.pl/pomorze/swinoujscie-wladze-miasta-pomoga-mieszkancom-taniej-kupic-wegiel-informacja-rozeszla-sie-blyskawicznie-6148113?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="W Lublinie stanął Pomnik Węgla. Jest też podziurawiony plac zabaw przywieziony z Ukrainy  " src="https://tvn24.pl/najnowsze/cdn-zdjecie-336352-carbon-monument-pomnika-wegla-grzegorza-klamana-6146121/alternates/LANDSCAPE_1280" />
     Pomnik Węgla, człowiek ukrzyżowany w miejsce Jezusa czy też podziurawiony kulami plac zabaw przywieziony z Ukrainy. Między innymi takie instalacje artystyczne można oglądać w Lublinie w ramach 14. już edycji festiwalu Open City.
+

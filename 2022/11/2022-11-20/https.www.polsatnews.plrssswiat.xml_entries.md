@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Niemcy zaoferowali Polsce systemy obrony przeciwlotniczej Patriot
  - [https://www.polsatnews.pl/wiadomosc/2022-11-20/niemcy-zaoferowali-polsce-systemy-obrony-przeciwlotniczej-patriot/](https://www.polsatnews.pl/wiadomosc/2022-11-20/niemcy-zaoferowali-polsce-systemy-obrony-przeciwlotniczej-patriot/)
@@ -118,3 +118,4 @@ Prokurator generalny Ukrainy poinformował, że na terenach wyzwolonych spod ros
  - date published: 2022-11-20 07:20:00+00:00
 
 Nowe nagranie katastrofy pasażerskiego samolotu Airbus A320neo na międzynarodowym lotnisku w Limie, stolicy Peru. Trasę startującej maszyny przeciął wóz strażacki. Zginęło dwóch strażaków, samolot stracił silnik i podwozie, a następnie zapalił się. Rannych zostało kilkadziesiąt osób, które były na pokładzie. Śledztwo ma wyjaśnić, czy pojazd gaśniczy miał autoryzację do wjazdu na pas startowy.
+

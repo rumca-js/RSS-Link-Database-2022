@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## The sudden and unexplained death of Belarussian foreign minister Vladimir Makei
  - [https://www.lemonde.fr/en/international/article/2022/11/29/the-sudden-and-unexplained-death-of-belarussian-minister-of-foreign-affairs-vladimir-makei_6005949_4.html](https://www.lemonde.fr/en/international/article/2022/11/29/the-sudden-and-unexplained-death-of-belarussian-minister-of-foreign-affairs-vladimir-makei_6005949_4.html)
@@ -202,3 +202,4 @@ Many participants in Mexico City on Sunday had been bused in from provinces acro
  - date published: 2022-11-28 00:28:45+00:00
 
 The Spanish parliament has approved the reform of the penal code to abolish the offense under which nine pro-independence leaders were convicted in 2019.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The Absolute Best Fantasy TV Shows on HBO Max     - CNET
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-tv-shows-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-tv-shows-on-hbo-max/#ftag=CADf328eec)
@@ -825,3 +825,4 @@ I use subtitles all the time. No matter what.
  - date published: 2022-09-20 00:00:02+00:00
 
 There is evidence that people used to regularly sleep in two shifts. Whether this could improve your sleeping pattern is up in the air.
+

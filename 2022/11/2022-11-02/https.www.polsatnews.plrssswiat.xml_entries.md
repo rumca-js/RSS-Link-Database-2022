@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. Policjanci przebrali policyjne konie za duchy. Wytknięto podobieństwo do Ku Klux Klanu
  - [https://www.polsatnews.pl/wiadomosc/2022-11-02/usa-policjanci-przebrali-policyjne-konie-za-duchy-wytknieto-podobienstwo-do-ku-klux-klanu/](https://www.polsatnews.pl/wiadomosc/2022-11-02/usa-policjanci-przebrali-policyjne-konie-za-duchy-wytknieto-podobienstwo-do-ku-klux-klanu/)
@@ -132,3 +132,4 @@ Władze miejscowości Santa Croce Camerina na Sycylii wypowiedziały wojnę ludz
  - date published: 2022-11-02 05:32:00+00:00
 
 W odpowiedzi na wspólne ćwiczenia wojskowe Stanów Zjednoczonych i Korei Południowej, Korea Północna wydała zawoalowaną groźbę użycia broni jądrowej przeciwko tym dwóm krajom - podaje agencja AP. Tymczasem w środę rano czasu lokalnego Korea Płn. wystrzeliła 10 pocisków różnego rodzaju w kierunku wschodnim i zachodnim.
+

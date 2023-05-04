@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Disney Parks Icon Figment Starring in Movie From Seth Rogen and Detective Pikachu Scribes
  - [https://gizmodo.com/seth-rogen-disney-parks-figment-movie-detective-pikachu-1849593834](https://gizmodo.com/seth-rogen-disney-parks-figment-movie-detective-pikachu-1849593834)
@@ -286,3 +286,4 @@
  - date published: 2022-09-28 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--vEvBPUm5--/c_fit,fl_progressive,q_80,w_636/6cdc8b25fb75b2ffe6291d0bdc831663.jpg" /><p>As the marketing for <a href="https://gizmodo.com/halloween-ends-final-trailer-jamie-lee-curtis-peacock-1849585955"><em>Halloween Ends</em></a>—and <a href="https://gizmodo.com/disney-parks-halloween-disneyland-walt-disney-world-1849531310">Halloween itself</a>, for that matter—builds into a crescendo of spookiness, the director responsible for some
+

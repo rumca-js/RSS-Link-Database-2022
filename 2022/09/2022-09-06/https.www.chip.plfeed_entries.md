@@ -1,5 +1,3 @@
-# Source URL:https://www.chip.pl/feed/, Source language: None
-
 ## Stworzyli ludzki mikrobiom w laboratorium. Jak udało się tego dokonać?
  - [https://www.chip.pl/2022/09/ludzki-mikrobiom-w-laboratorium-eksperyment/](https://www.chip.pl/2022/09/ludzki-mikrobiom-w-laboratorium-eksperyment/)
  - RSS feed: https://www.chip.pl/feed/
@@ -135,3 +133,4 @@
 
 <p><img src="https://www.chip.pl/wp-content/uploads/2022/09/sonda-slonce.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Jak poinformowali przedstawiciele Europejskiej Agencji Kosmicznej, w minion&#261; niedziel&#281; sonda Solar Orbiter zosta&#322;a trafiona przez tzw. koronalny wyrzut masy. Start misji mia&#322; miejsce na pocz&#261;tku 2020 roku, a sonda wykorzystuje tzw. manewr asysty grawitacyjnej, aby utrzyma&#263; odpowiedni&#261; trajektori&#281; i zbli&#380;y&#263; si&#281; do 
+

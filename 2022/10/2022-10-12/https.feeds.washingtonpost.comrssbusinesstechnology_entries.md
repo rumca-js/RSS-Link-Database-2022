@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Why Amazon won’t foot the bill to pay Twitch streamers better
  - [https://www.washingtonpost.com/video-games/2022/10/12/amazon-twitch-streamer-70-30-pay/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/12/amazon-twitch-streamer-70-30-pay/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ The AbramsX is the largest redesign of U.S. military tanks since the Cold War, b
  - date published: 2022-10-12 06:15:19+00:00
 
 A visual guide to what Amazon learns about you through Alexa, Echo speakers, Fire TVs, Ring doorbells, Roombas and more.
+

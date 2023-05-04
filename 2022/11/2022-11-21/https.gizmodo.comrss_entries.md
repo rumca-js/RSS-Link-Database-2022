@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Star Wars: The High Republic - Convergence Audiobook Excerpt
  - [https://gizmodo.com/star-wars-the-high-republic-convergence-audiobook-1849809065](https://gizmodo.com/star-wars-the-high-republic-convergence-audiobook-1849809065)
@@ -258,3 +258,4 @@
  - date published: 2022-11-21 02:59:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ln3BNxQ5--/c_fit,fl_progressive,q_80,w_636/ca9da247ff09a85a2b2b1db12e378236.jpg" /><p>Bob was replaced by Bob but now Bob is back to replace Bob again. In a shocking turn of events late Sunday night, The Walt Disney Company announced that <a href="https://gizmodo.com/disney-ceo-bob-chapek-animated-films-quote-frozen-pixar-1849710032">CEO Bob Chapek</a> is stepping down and will be <a href="https://gizmodo.com/disney-twitter-bob-iger-elon-musk-lots-bots-no-buy-1849510255">replaced by Bob Iger</a>, the man who was running the company before Chapek took over.</p><p><a href="https://gizmodo.com/disney-ceo-bob-iger-replace-chapek-lucasfilm-marvel-1849807049">Read more...</a></p>
+

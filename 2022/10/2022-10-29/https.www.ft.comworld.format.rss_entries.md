@@ -1,4 +1,4 @@
-# Source URL:https://www.ft.com/world?format=rss, Source language: en-GB
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## Japan’s empty villages are a warning for China
  - [https://www.ft.com/content/9e75fd6d-75a4-41d6-a161-d7006662d5cb](https://www.ft.com/content/9e75fd6d-75a4-41d6-a161-d7006662d5cb)
@@ -83,3 +83,4 @@ New US act may make it more expensive to switch to cleaner energy in emerging ma
  - date published: 2022-10-29 04:00:54+00:00
 
 After another turbulent week and the potential return of Boris Johnson, Britain has its first non-white leader and the youngest in modern history
+

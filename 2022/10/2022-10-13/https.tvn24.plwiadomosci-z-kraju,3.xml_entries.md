@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Pogoda na dziś - piątek 14.10. Deszcz popada w większości kraju
  - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-1410-deszcz-popada-w-wiekszosci-kraju-6162612?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-1410-deszcz-popada-w-wiekszosci-kraju-6162612?source=rss)
@@ -127,3 +127,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-v2krcq-pedro-castillo-6160983/alternates/LANDSCAPE_1280" />
     Prezydent Peru, Pedro Castillo, został we wtorek oskarżony przed parlamentem o korupcję. Prokurator generalna Patricia Benavides wystąpiła z formalnym oskarżeniem, ogłaszając, że "stoi on na czele organizacji przestępczej".
+

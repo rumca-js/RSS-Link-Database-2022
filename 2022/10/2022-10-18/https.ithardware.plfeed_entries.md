@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nowe iPady oficjalnie. Apple przedstawiło modele iPad Pro M2 oraz iPad 10
  - [https://ithardware.pl/aktualnosci/nowe_ipady_oficjalnie_apple_przedstawilo_modele_ipad_pro_m2_oraz_ipad_10-23911.html](https://ithardware.pl/aktualnosci/nowe_ipady_oficjalnie_apple_przedstawilo_modele_ipad_pro_m2_oraz_ipad_10-23911.html)
@@ -169,3 +169,4 @@ Rosyjski dziennik gospodarczy Коммерсантъ (Kommiersant) donosi, że..
 
 Przygotowywanie nowego standardu trwało wiele miesięcy, a VESA wsp&oacute;łpracowała...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/vesa_oglasza_displayport_2_1_nowy_standard_moze_zadebiutowc_w_kartach_radeon_rx_7000-23891.html">https://itha
+

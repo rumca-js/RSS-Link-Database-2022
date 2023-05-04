@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Judge drops 4 of 11 counts against Harvey Weinstein at trial
  - [https://www.lemonde.fr/en/international/article/2022/11/15/judge-drops-4-of-11-counts-against-harvey-weinstein-at-trial_6004417_4.html](https://www.lemonde.fr/en/international/article/2022/11/15/judge-drops-4-of-11-counts-against-harvey-weinstein-at-trial_6004417_4.html)
@@ -174,3 +174,4 @@ The migrants rescued by the Ocean Viking were taken in by France and are staying
  - date published: 2022-11-15 01:34:08+00:00
 
 In an attempt to stem hazardous "small-boat" migrants crossings of the English Channel, London has pledged to pay Paris 72.2 million euros for the period 2022-2023 to buy drones and finance the deployment of 40% more police and local authorities on the French beaches.
+

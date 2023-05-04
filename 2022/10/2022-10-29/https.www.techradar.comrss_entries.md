@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The first photo taken by the Samsung Galaxy S23 may have leaked
  - [https://www.techradar.com/news/the-first-photo-taken-by-the-samsung-galaxy-s23-may-have-leaked/](https://www.techradar.com/news/the-first-photo-taken-by-the-samsung-galaxy-s23-may-have-leaked/)
@@ -41,3 +41,4 @@ With the demise of Google Stadia, you might think that cloud gaming is on its wa
  - date published: 2022-10-29 07:00:00+00:00
 
 Gaming keyboards can be expensive, but Black Friday is a great time to find one packed with premium features at fantastic prices.
+

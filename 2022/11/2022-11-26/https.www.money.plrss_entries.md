@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Regionalne sery, wina i drony. Tym Dolny Śląsk chce podbić Koreę
  - [https://www.money.pl/gospodarka/regionalne-sery-wina-i-drony-tym-dolny-slask-chce-podbic-koree-6837314002852512a.html](https://www.money.pl/gospodarka/regionalne-sery-wina-i-drony-tym-dolny-slask-chce-podbic-koree-6837314002852512a.html)
@@ -55,3 +55,4 @@
  - date published: 2022-11-26 06:37:48+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b2b37f6f-122a-42f5-beac-91e940194421" width="308" /> "Kolejne pokolenia, nieważne czy stare, czy młode, są bardzo różne, ale podstawowe zasady dotyczące sukcesu pozostają te same" - twierdzi John Spooner, amerykański doradca finansowy, milioner i autor książek o finansach. Spooner w CNBC dał kilka porad dotyczących pieniędzy i kariery, które jego zdaniem powinien przyswoić każdy młody człowiek.
+

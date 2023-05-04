@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Minister ds. UE Szynkowski vel Sęk: Zmasowany atak Rosjan może skutkować zwiększoną migracją
  - [https://www.polsatnews.pl/wiadomosc/2022-11-18/szynkowski-vel-sek-zmasowany-atak-rosjan-moze-skutkowac-zwiekszona-migracja/](https://www.polsatnews.pl/wiadomosc/2022-11-18/szynkowski-vel-sek-zmasowany-atak-rosjan-moze-skutkowac-zwiekszona-migracja/)
@@ -118,3 +118,4 @@ W całej Francji trwa akcja przeciwko dziecięcej pornografii. Policja zatrzyma�
  - date published: 2022-11-18 05:14:00+00:00
 
 70-metrowa trąba powietrzna przeszła przez niewielką miejscowość w zachodnich Niemczech. Zniszczone lub uszkodzone zostało ponad 50 budynków - przekazały media. Straż pożarna zabezpiecza i oczyszcza miejsce, które nawiedziło tornado.
+

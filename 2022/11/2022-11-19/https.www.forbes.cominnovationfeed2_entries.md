@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## AMD Ryzen 7000 Processors Get Huge Surprise Price Cuts
  - [https://www.forbes.com/sites/antonyleather/2022/11/19/amd-ryzen-7000-processors-get-huge-surprise-price-cuts/](https://www.forbes.com/sites/antonyleather/2022/11/19/amd-ryzen-7000-processors-get-huge-surprise-price-cuts/)
@@ -258,3 +258,4 @@ Waymo gets a permit to take the public and will start running with trusted teste
  - date published: 2022-11-19 00:12:44+00:00
 
 Vice President & Security, Carriers and Enterprise Networking, Will Townsend, dives in as he recently attended the Indy Autonomous Challenge at the Texas Motor Speedway in Fort Worth, Texas. Cisco is the lead sponsor for the event in its second year. He wanted to share his experience.
+

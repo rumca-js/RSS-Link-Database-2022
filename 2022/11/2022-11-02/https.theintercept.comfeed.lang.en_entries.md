@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Israel's Far-Right Kingmakers Draw on U.S. Funding — Despite Terror Classifications
  - [https://theintercept.com/2022/11/02/israel-us-funding-terror/](https://theintercept.com/2022/11/02/israel-us-funding-terror/)
@@ -23,3 +23,4 @@
 
 <p>How the Federal Reserve is undermining workers’ recent modest gains.</p>
 <p>The post <a href="https://theintercept.com/2022/11/02/intercepted-federal-reserve-fed/" rel="nofollow">The Fed&#8217;s War on Workers</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

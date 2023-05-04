@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Kamala Harris questions the integrity of an 'activist' Supreme Court after abortion ruling
  - [https://www.cnn.com/2022/09/09/politics/kamala-harris-scotus-abortion-activist-court/index.html](https://www.cnn.com/2022/09/09/politics/kamala-harris-scotus-abortion-activist-court/index.html)
@@ -554,3 +554,4 @@ Duty is a rather old-fashioned concept today in a world rife with public figures
  - date published: 2022-09-09 00:00:20+00:00
 
 Queen Elizabeth II's former personal chef Darren McGrady, who traveled with the Queen and her family for more than a decade, reminisces over fond memories and the Queen's favorite meals.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Auto-resize/position another app's window?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59341](https://www.codeproject.com/script/News/View.aspx?nwid=59341)
@@ -69,3 +69,4 @@ No, it's not just the programs that only work once before crashing
  - date published: 2022-10-31 04:00:00+00:00
 
 So you (temporarily) need to go back to work
+

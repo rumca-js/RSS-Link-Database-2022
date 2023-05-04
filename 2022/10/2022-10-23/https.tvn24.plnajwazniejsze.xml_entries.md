@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Lewandowski znów się zabawił. Wysoka wygrana Barcelony
  - [https://eurosport.tvn24.pl/lewandowski-zn-w-si--zabawi---wysoka-wygrana-barcelony,1122419.html?source=rss](https://eurosport.tvn24.pl/lewandowski-zn-w-si--zabawi---wysoka-wygrana-barcelony,1122419.html?source=rss)
@@ -151,3 +151,4 @@
 
 <img alt="Nowy program badań ratujących życie miał być lepszy od starego. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-dw007c-skonczyly-sie-badania-przesiewowe-w-kierunku-raka-jelita-grubego-balagan-w-resorcie/alternates/LANDSCAPE_1280" />
     Bałagan w resorcie zdrowia, program nie działa.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## These speaker deals can save you as much as $850
  - [https://www.androidauthority.com/crutchfield-speaker-deals-3210484/](https://www.androidauthority.com/crutchfield-speaker-deals-3210484/)
@@ -97,3 +97,4 @@ Don't expect a new CPU setup here.
  - date published: 2022-09-19 05:30:16+00:00
 
 The ROG Phone 6D and 6D Ultimate offer many of the same features as their siblings, but have made a couple of changes.
+

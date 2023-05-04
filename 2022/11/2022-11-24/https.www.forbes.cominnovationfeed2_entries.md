@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## What’s An Average Exoplanet? ESA’s Upcoming ARIEL Mission Should Provide Answers
  - [https://www.forbes.com/sites/brucedorminey/2022/11/24/whats-an-average-exoplanet-esas-upcoming-ariel-mission-should-provide-answers/](https://www.forbes.com/sites/brucedorminey/2022/11/24/whats-an-average-exoplanet-esas-upcoming-ariel-mission-should-provide-answers/)
@@ -195,3 +195,4 @@ The Federal Trade Commission is "likely" to try and block Microsoft's attempt to
  - date published: 2022-11-24 01:00:00+00:00
 
 As soon as the Sun goes down one really bright star is visible high in the eastern night sky. About an hour later another bright star begins to shine closer to the horizon. What’s going on?
+

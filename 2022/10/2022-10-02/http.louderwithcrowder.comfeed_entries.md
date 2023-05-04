@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Ron DeSantis teams up with Elon Musk to provide relief to families affected by Hurricane Ian
  - [https://www.louderwithcrowder.com/starlink-elon-musk-ron-desantis](https://www.louderwithcrowder.com/starlink-elon-musk-ron-desantis)
@@ -20,3 +20,4 @@
  - date published: 2022-10-02 12:41:11+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31852591&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>I don't know what's going on at Walmart lately. <a href="https://www.louderwithcrowder.com/walmart-meltdown-cut-line" target="_blank">I'm just grateful for the content</a> and for the Walmart customers who think of us who  hustle content for a living. What we have for you is a story in two parts of a bizarre love triangle. Though it could
+

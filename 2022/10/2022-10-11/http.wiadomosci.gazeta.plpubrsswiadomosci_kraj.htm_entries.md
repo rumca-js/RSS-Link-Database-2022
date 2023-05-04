@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Pabianice. Dwóch nastolatków kopało jeża jak piłkę - nagrał ich monitoring. Sprawa jest już w sądzie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29011795,pabianice-dwoch-nastolatkow-kopalo-jeza-jak-pilke-nagral.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29011795,pabianice-dwoch-nastolatkow-kopalo-jeza-jak-pilke-nagral.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -83,3 +83,4 @@
  - date published: 2022-10-11 05:44:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/e7/aa/1b/z29008103M,Straz-pozarna--zdjecie-ilustracyjne-.jpg" vspace="2" />Cztery osoby zmarły w wyniku nocnego pożaru domu jednorodzinnego w miejscowości Zalasewo. Według Radia Poznań dwoje z nich to dzieci w wieku 7 i 11 lat. Strażacy zostali wezwani do ugaszenia pożaru po północy.
+

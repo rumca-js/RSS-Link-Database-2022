@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple to spend $450M on SOS via satellite for iPhones
  - [https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all](https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all)
@@ -37,3 +37,4 @@
 <article>
 	<section class="page">
 <p>About six in 10 executives believe they can achieve their corporate sustainability goals over the next year, according to a recent global survey commissioned by Honeywell International. But only about 16% think they'll do so primarily through technology-driven changes, such as upgrading or replacing existing systems with newer, more efficient or more sustainable technologies.</p><p>The vast majority of the 600 business leaders surveyed — 62% — expect to hit their short-term goals mainly by modifying or eliminating operational processes or business behaviors.</p><p>Sustainability has become an increasingly hot-button issue in recent years for companies looking to reduce their carbon emissions. The idea is that by making changes now, they will see a substantial return on investment later, spend less on energy and materials, and build up infrastructure resiliency to weather-related catastrophes. </p><p class="jumpTag"><a href="https://www.computerworld.com/article/3679508/corporate-execs-confident-on-sustainability-goals-admit-more-work-needed.html#jump">To read this article in full, please click here</a></p></section></article>
+

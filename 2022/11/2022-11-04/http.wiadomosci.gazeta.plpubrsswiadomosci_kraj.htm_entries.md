@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Barbara Nowak mówiła nt. religii na pierwszych i ostatnich lekcjach. Teraz się tłumaczy RPO
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29107754,barbara-nowak-mowila-nt-religii-na-pierwszych-i-ostatnich-lekcjach.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29107754,barbara-nowak-mowila-nt-religii-na-pierwszych-i-ostatnich-lekcjach.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -111,3 +111,4 @@
  - date published: 2022-11-04 05:40:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ba/7c/1b/z28820154M,Ksiadz-Piotr-M---skazany-za-molestowanie-dziewczyn.jpg" vspace="2" />Po ponad roku od wydania wyroku ksiądz Piotr M. trafił do więzienia. Sąd skazał mężczyznę za wykorzystywanie seksualne niepełnosprawnych intelektualnie dziewczynek. W zakładzie karnym na Kleczkowskiej we Wrocławiu Piotr M. ma spędzić cztery lata.
+

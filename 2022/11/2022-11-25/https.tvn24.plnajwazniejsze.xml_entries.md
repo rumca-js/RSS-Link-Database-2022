@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Biała koszula przynosząca mu zwycięstwa. Trener rywali Polaków znów ma ją założyć
  - [https://eurosport.tvn24.pl/zak-ada-j--od-lat--tajemnica-bia-ej-koszuli-trenera-rywali-polak-w,1126271.html?source=rss](https://eurosport.tvn24.pl/zak-ada-j--od-lat--tajemnica-bia-ej-koszuli-trenera-rywali-polak-w,1126271.html?source=rss)
@@ -319,3 +319,4 @@
 
 <img alt="Sierakowski: zostałem handlarzem bronią, bo jestem pacyfistą" src="https://tvn24.pl/najnowsze/cdn-zdjecie-q1maxg-2511go-bbs-sierakowski-cln-0058-6235613/alternates/LANDSCAPE_1280" />
     Szef "Krytyki Politycznej" opowiada też, dlaczego nie chciałby zostać premierem.
+

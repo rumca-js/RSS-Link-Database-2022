@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Lions of Arabia' and 'soft Brexit warnings'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63697978?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63697978?at_medium=RSS&at_campaign=KARANGA)
@@ -419,3 +419,4 @@ Michelle told no-one she was pregnant. So when she gave birth by the roadside, s
  - date published: 2022-11-20 00:02:51+00:00
 
 Jang Jung Hyuck used kickboxing to cope with the trauma of escaping North Korea.
+

@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## AMD’s new naming scheme for mobile Ryzen is a doozy
  - [https://www.pcworld.com/article/1063208/amd-mobile-ryzen-naming-scheme.html](https://www.pcworld.com/article/1063208/amd-mobile-ryzen-naming-scheme.html)
@@ -88,3 +88,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p><a href="https://www.pcworld.com/article/814102/microsoft-has-cloned-facebook-on-top-of-teams.html" rel="noreferrer noopener" target="_blank">Communication</a>&nbsp;is a key to success in the professional world, whether you&rsquo;re leading teams or landing clients. However, while many folks are intrinsic communicators, anyone can&nbsp;<a href="https://shop.pcworld.com/sales/th
+

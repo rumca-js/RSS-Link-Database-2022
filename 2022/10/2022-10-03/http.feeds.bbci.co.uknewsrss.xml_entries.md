@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Pakistan floods: 'It’s like fighting a war with no end'
  - [https://www.bbc.co.uk/news/world-asia-63080101?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63080101?at_medium=RSS&at_campaign=KARANGA)
@@ -238,6 +238,20 @@ The average two-year fixed rate is now close to 6% as major lenders raise the co
 
 Artist Sam Cox, known as Mr Doodle, is living his childhood dream in a house he's adorned with his own art.
 
+## Women's Champions League draw: Arsenal to face eight-time winners Lyon, while Chelsea meet Paris St-Germain
+ - [https://www.bbc.co.uk/sport/football/63118534?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63118534?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-03 12:07:10+00:00
+
+Arsenal meet eight-time winners and holders Lyon in the Women's Champions League group stage, while Chelsea face Paris St-Germain.
+
+## King Charles to host South African president for first state visit
+ - [https://www.bbc.co.uk/news/uk-63117898?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63117898?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-03 11:58:51+00:00
+
+President Cyril Ramaphosa's state visit next month will be the first of King Charles' reign.
+
 ## How the late Hilaree Nelson inspired mountaineers
  - [https://www.bbc.co.uk/news/world-asia-63112666?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63112666?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -273,6 +287,13 @@ Women of colour being treated at a London hospital can now choose a "softie" to 
 
 Sweden's Svante Paabo wins the prize for discoveries on humanity's extinct relatives.
 
+## Water rebates for some customers after £150m fines for missing targets
+ - [https://www.bbc.co.uk/news/uk-england-63115634?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-63115634?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-03 10:21:01+00:00
+
+Thames Water and Southern Water are hardest hit and will have to return almost £80m to customers.
+
 ## Popular Minecraft YouTuber Dream reveals face
  - [https://www.bbc.co.uk/news/technology-63082329?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63082329?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -293,6 +314,13 @@ Tory MPs said the decision to offer the best paid a tax cut was unsellable, the 
  - date published: 2022-10-03 09:20:47+00:00
 
 Lula and Bolsonaro go head-to-head after a closer than expected first-round result.
+
+## Make cannabis Class A drug, say Conservative police commissioners
+ - [https://www.bbc.co.uk/news/uk-politics-63115171?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63115171?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-03 09:14:18+00:00
+
+A group of police and crime commissioners urge tougher penalties for supply and possession.
 
 ## Chris Wilder: Middlesbrough sack manager with club in Championship bottom three
  - [https://www.bbc.co.uk/sport/football/63116336?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63116336?at_medium=RSS&at_campaign=KARANGA)
@@ -391,3 +419,4 @@ Neither presidential candidate got more than 50% of the overall vote, meaning th
  - date published: 2022-10-03 00:21:35+00:00
 
 Growing concerns within the Conservative Party over the PM's tax plans dominate Monday's papers.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Musk Sides With Communist China, Suggests Giving Them Partial Control Of Taiwan To Avoid War
  - [https://www.dailywire.com/news/musk-sides-with-communist-china-suggests-giving-them-partial-control-of-taiwan-to-avoid-war](https://www.dailywire.com/news/musk-sides-with-communist-china-suggests-giving-them-partial-control-of-taiwan-to-avoid-war)
@@ -370,3 +370,4 @@ A new report on Thursday shed more light into what was going on behind the scene
  - date published: 2022-10-07 07:21:53+00:00
 
 A Mississippi daycare has been harshly criticized after a horrifying video surfaced  that showed an alleged worker wearing a terrifying Halloween mask while screaming into toddlers’ faces and chasing them because they were “bad.” A daycare worker at Lil’ Blessings Childcare and Learning Center in Hamilton, Mississippi reportedly filmed the incidents last month showing the frightened children ...
+

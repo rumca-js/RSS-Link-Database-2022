@@ -1,5 +1,3 @@
-# Source URL:https://www.chip.pl/feed/, Source language: None
-
 ## Pojawiają się kolejne informacje o Xiaomi 13. Tym razem przeciek skupia się na wyświetlaczu
  - [https://www.chip.pl/2022/09/xiaomi-13-przeciek-specyfikacja-wyswietlacza/](https://www.chip.pl/2022/09/xiaomi-13-przeciek-specyfikacja-wyswietlacza/)
  - RSS feed: https://www.chip.pl/feed/
@@ -127,3 +125,4 @@
 
 <p><img src="https://www.chip.pl/wp-content/uploads/2022/04/lhc-rekord.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Europejska Organizacja Bada&#324; J&#261;drowych, szerzej znana jako CERN, rozwa&#380;a wy&#322;&#261;czenie akcelerator&#243;w cz&#261;stek. W zwi&#261;zku z tym eksperci pr&#243;buj&#261; wypracowa&#263; odpowiednie rozwi&#261;zanie dla Wielkiego Zderzacza Hadron&#243;w. Chodzi o to, by nie trzeba by&#322;o go ca&#322;kowicie wy&#322;&#261;cza&#263;, co by&#322;oby rz
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Epic Games and Match Group want to bring additional antitrust allegations against Google
  - [https://www.engadget.com/epic-games-match-group-google-motion-213036490.html?src=rss](https://www.engadget.com/epic-games-match-group-google-motion-213036490.html?src=rss)
@@ -27,3 +27,4 @@
  - date published: 2022-10-09 14:30:45+00:00
 
 <p>The fates of Apple and Taiwanese semiconductor manufacturer <a href="https://www.crfs.com/tscm/">TSCM</a> have grown inextricably intertwined since the advent of the iPhone. As each subsequent generation of iPhone hurtled past the technological capabilities of its predecessor, the processors that powered them grew increasingly complex and specialized — to the point that, today, TSCM has become the only chip fab on the planet with the requisite tools and know-how to actually build them. In his
+

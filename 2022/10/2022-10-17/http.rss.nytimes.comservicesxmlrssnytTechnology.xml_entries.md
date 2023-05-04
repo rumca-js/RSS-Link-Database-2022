@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elizabeth Holmes Case Takes On More Drama Ahead of Sentencing
  - [https://www.nytimes.com/2022/10/17/technology/elizabeth-holmes-case-adam-rosendorff.html](https://www.nytimes.com/2022/10/17/technology/elizabeth-holmes-case-adam-rosendorff.html)
@@ -20,3 +20,4 @@ The agreement in principle to buy the social media service comes days after Twit
  - date published: 2022-10-17 09:00:24+00:00
 
 Salem Media, which counts the conservative personalities Charlie Kirk and Sebastian Gorka among its radio hosts, has taken a pointed stance ahead of the midterm elections.
+

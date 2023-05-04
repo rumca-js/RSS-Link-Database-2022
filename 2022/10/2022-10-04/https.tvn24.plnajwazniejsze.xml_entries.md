@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Należał się rzut karny?
  - [https://eurosport.tvn24.pl/barcelonie-nale-a--si--rzut-karny-w-mediolanie--ta-klatka-m-wi-bardzo-wiele,1120539.html?source=rss](https://eurosport.tvn24.pl/barcelonie-nale-a--si--rzut-karny-w-mediolanie--ta-klatka-m-wi-bardzo-wiele,1120539.html?source=rss)
@@ -288,3 +288,4 @@
 
 <img alt="Ukraina walczy. Najważniejsze wydarzenia ostatnich godzin" src="https://tvn24.pl/najnowsze/cdn-zdjecie-d0bmvb-cywile-w-wyzwolonym-kupiansku-6144580/alternates/LANDSCAPE_1280" />
     Wtorek jest 223. dniem rosyjskiej inwazji na Ukrainę.
+

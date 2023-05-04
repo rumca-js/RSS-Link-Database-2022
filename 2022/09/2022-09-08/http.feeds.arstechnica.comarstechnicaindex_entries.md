@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Feds claw back $30 million of cryptocurrency stolen by North Korean hackers
  - [https://arstechnica.com/?p=1879887](https://arstechnica.com/?p=1879887)
@@ -90,3 +90,4 @@ The Urtopia Carbon is a decent bike that tries to do a lot with its software.
  - date published: 2022-09-08 13:38:08+00:00
 
 First up are the all-new Jeep Recon and the Jeep Wagoneer S.
+

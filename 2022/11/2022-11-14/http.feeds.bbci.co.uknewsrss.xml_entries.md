@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Day in the life of a struggling single dad: 'I can't take any more of this'
  - [https://www.bbc.co.uk/news/uk-63626563?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63626563?at_medium=RSS&at_campaign=KARANGA)
@@ -545,3 +545,4 @@ Six-year-old Cohen survives off the machines in his home and his mum's energy bi
  - date published: 2022-11-14 00:00:08+00:00
 
 The Autumn Statement will address the risk of a future “black hole” in the UK's finances.
+

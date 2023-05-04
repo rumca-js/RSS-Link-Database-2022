@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Powell zatrzymał szarżę byków. Mocne spadki na giełdach w USA
  - [https://www.bankier.pl/wiadomosc/Powell-zatrzymal-szarze-bykow-Mocne-spadki-na-gieldach-w-USA-8432895.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Powell-zatrzymal-szarze-bykow-Mocne-spadki-na-gieldach-w-USA-8432895.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -527,3 +527,4 @@ Bankier.pl. Zapraszamy do obejrzenia transmisji.</p>
  - date published: 2022-11-02 00:28:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/9/216cf4f7c66e11-945-560-0-11-1150-689.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Nic jeszcze nie wiadomo, dopóki liczone są głosy - powiedział we wtorek premier Izraela Jair Lapid po ogłoszeniu wyników sondaży exit poll, dających zwycięstwo w wyborach parlamentarnych blokowi popierającemu Benjamina Netanjahu. Liderzy skrajnie nacjonalistycznego sojuszu Religijny Syjonizm cieszą się z trzeciego wyniku.</p>
+

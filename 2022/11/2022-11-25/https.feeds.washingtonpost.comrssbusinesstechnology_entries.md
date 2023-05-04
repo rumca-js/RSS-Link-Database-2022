@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Buying an electric car? These models are made in China.
  - [https://www.washingtonpost.com/business/interactive/2022/ev-made-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/interactive/2022/ev-made-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Here's advice on being a climate-conscious shopper this holiday season. Perfecti
  - date published: 2022-11-25 10:49:30+00:00
 
 The second launch follows a chaotic rollout of the feature earlier this month.
+

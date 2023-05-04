@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Google Play apps with >20M downloads depleted batteries and network bandwidth
  - [https://arstechnica.com/?p=1891835](https://arstechnica.com/?p=1891835)
@@ -67,7 +67,6 @@ Each individual hot day has a small effect, but they can add up—and it will ge
  - [https://arstechnica.com/?p=1891666](https://arstechnica.com/?p=1891666)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-20 19:31:25+00:00
- - tags: facebook,censorship
 
 Pizza slices, cupcakes, and peaches among emojis hijacked.
 
@@ -126,3 +125,4 @@ Built in 1897, the 1.7-mile Catesby Tunnel is now an alternative to a wind tunne
  - date published: 2022-10-20 13:00:06+00:00
 
 AMD's tech is ahead of the curve, but Raptor Lake swamps Ryzen with E-cores.
+

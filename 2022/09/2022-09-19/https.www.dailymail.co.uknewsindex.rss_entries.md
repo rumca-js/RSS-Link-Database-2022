@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Lip reader reveals what Prince Harry said to Prince William before the Queen's committal service
  - [https://www.dailymail.co.uk/femail/article-11228395/Lip-reader-reveals-Prince-Harry-said-Prince-William-Queens-committal-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11228395/Lip-reader-reveals-Prince-Harry-said-Prince-William-Queens-committal-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -466,7 +466,6 @@ Der Spiegel journalist Nikolaus Blome, who admits he is not 'familiar' with the 
  - [https://www.dailymail.co.uk/news/article-11227779/Biden-says-covid-pandemic-over.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227779/Biden-says-covid-pandemic-over.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:26:36+00:00
- - tags: covid
 
 President Joe Biden declared the covid-19 pandemic is 'over' in a statement that took officials by surprise and led to questions about why the government continues to enforce mandates.
 
@@ -1849,3 +1848,4 @@ The BBC's massive broadcasting operation at the Queen's funeral will be fuelled 
  - date published: 2022-09-19 00:24:54+00:00
 
 Three AFL big wigs almost didn't make Saturday's preliminary final because their Qantas flights were delayed because of an 'unusual smell' and baggage issue.
+

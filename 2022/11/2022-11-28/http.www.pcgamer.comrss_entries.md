@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Keep your coffee hot at your desk all day with the best insulated mug I've ever used
  - [https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used](https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used)
@@ -146,3 +146,4 @@ Last weekend's Farming Simulator League World Championship reached a thrilling c
  - date published: 2022-11-28 01:23:23+00:00
 
 Sorting through every new game on Steam so you don't have to.
+

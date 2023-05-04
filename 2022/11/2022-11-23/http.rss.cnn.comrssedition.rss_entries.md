@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Fisherman catches 67-pound goldfish
  - [https://www.cnn.com/travel/article/fisherman-catches-giant-goldfish-carrot-scn/index.html](https://www.cnn.com/travel/article/fisherman-catches-giant-goldfish-carrot-scn/index.html)
@@ -447,3 +447,4 @@ Stone Age cooks were surprisingly sophisticated, combining an array of ingredien
  - date published: 2022-11-23 00:19:05+00:00
 
 Some of soccer's biggest names -- notably Croatia's Luka Modrić and Kevin De Bruyne of Belgium -- will begin their World Cup campaigns on Wednesday, while the decades-long wait is nearly over for Canada fans as their team makes its tournament bow for the first time in 36 years.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## CI Games pracuje nad nową marką i ujawnia plany na najbliższe lata
  - [https://ithardware.pl/aktualnosci/ci_games_pracuje_nad_nowa_marka_i_ujawnia_plany_na_najblizsze_lata-24010.html](https://ithardware.pl/aktualnosci/ci_games_pracuje_nad_nowa_marka_i_ujawnia_plany_na_najblizsze_lata-24010.html)
@@ -187,3 +187,4 @@ Wczoraj około godziny 16:00 czasu polskiego ze Steam...
 
 <img src="https://ithardware.pl/artykuly/min/23989_1.jpg" />            Brakuje Ci kilku sprzęt&oacute;w lub akcesori&oacute;w i planowałeś ich zakup w najbliższym czasie? Sprawdź trwające promocje x-komu, bo można w nich wyhaczyć naprawdę niezłe promocje. W halloweenowej promocji peryferia oraz sprzęty z...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/halloweenowa_promocja_na_peryferia_i_sprzet_lifestyle_skorzystaj_z_rabatow_do_36-23989.html">https://ithardware.
+

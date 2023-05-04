@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Forget Prime Day, Criterion's 50% off sale is the real steal today
  - [https://www.pcgamer.com/forget-prime-day-criterions-50-off-sale-is-the-real-steal-today](https://www.pcgamer.com/forget-prime-day-criterions-50-off-sale-is-the-real-steal-today)
@@ -195,3 +195,4 @@ The new Armada screens from HyperX prove it.
  - date published: 2022-10-11 00:26:49+00:00
 
 Glitches to their ultimate powers have resulted in some hilariously unfair fights.
+

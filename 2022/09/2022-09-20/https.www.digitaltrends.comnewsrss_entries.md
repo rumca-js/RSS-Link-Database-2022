@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Nvidia’s $200 Jetson Orin Nano minicomputer is 80 times faster than the previous version
  - [https://www.digitaltrends.com/computing/nvidia-announces-jetson-orin-nano-gtc-2022/](https://www.digitaltrends.com/computing/nvidia-announces-jetson-orin-nano-gtc-2022/)
@@ -20,3 +20,4 @@ Nvidia's GeForce Beyond event starts today as part of GTC 2022, where the compan
  - date published: 2022-09-20 01:48:13.168523+00:00
 
 Are you using an enhanced version of spellchecker in Microsoft Edge or Google Chrome? Bad news -- your personal information might be at risk.
+

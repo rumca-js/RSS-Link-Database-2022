@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Scrutiny – A WebUI for smartd S.M.A.R.T monitoring (written in Go)
  - [https://github.com/AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
@@ -155,7 +155,6 @@
  - [https://fuzzypixelz.com/blog/source-code-is-not-enough/](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:34:30+00:00
- - tags: programming
 
 <p>Article URL: <a href="https://fuzzypixelz.com/blog/source-code-is-not-enough/">https://fuzzypixelz.com/blog/source-code-is-not-enough/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585203">https://news.ycombinator.com/item?id=33585203</a></p>
@@ -216,7 +215,6 @@
  - [https://craigmod.com/essays/fast_software/](https://craigmod.com/essays/fast_software/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:08:21+00:00
- - tags: programming
 
 <p>Article URL: <a href="https://craigmod.com/essays/fast_software/">https://craigmod.com/essays/fast_software/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584958">https://news.ycombinator.com/item?id=33584958</a></p>
@@ -237,7 +235,6 @@
  - [https://fathy.fr/html2svg](https://fathy.fr/html2svg)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:06:26+00:00
- - tags: programming
 
 <p>Article URL: <a href="https://fathy.fr/html2svg">https://fathy.fr/html2svg</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584941">https://news.ycombinator.com/item?id=33584941</a></p>
@@ -822,3 +819,4 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578550">https://news.ycombinator.com/item?id=33578550</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 16 Running Myths That Are Holding You Back
  - [https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159](https://lifehacker.com/16-running-myths-that-are-holding-you-back-1849588159)
@@ -125,3 +125,4 @@
  - date published: 2022-09-28 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--TR0u81zu--/c_fit,fl_progressive,q_80,w_636/d17f9523e0b63f2ceb3471026ad3ef10.jpg" /><p>I love a good, thick sausage, particularly one that has been roasted or grilled to encourage lots of delicious browning. It seems that the Barefoot Contessa is also a fan, as her <a href="https://barefootcontessa.com/recipes/hasselback-kielbasa" rel="noopener noreferrer" target="_blank">Hasselbacked Kielbasa recipe</a> is designed to maximize that p
+

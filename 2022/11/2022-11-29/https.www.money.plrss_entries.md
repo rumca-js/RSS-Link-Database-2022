@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## 15 tys. zł mandatu za niezgłoszenie gotówki na granicy. Bolesny efekt kontroli w Medyce
  - [https://www.money.pl/pieniadze/15-tys-zl-mandatu-za-niezgloszenie-gotowki-na-granicy-bolesny-efekt-kontroli-w-medyce-6839265071831616a.html](https://www.money.pl/pieniadze/15-tys-zl-mandatu-za-niezgloszenie-gotowki-na-granicy-bolesny-efekt-kontroli-w-medyce-6839265071831616a.html)
@@ -174,3 +174,4 @@
  - date published: 2022-11-29 06:14:55+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/f25df134-ca5f-469f-b693-7773e001842b" width="308" /> Kursy walut - 29.11.2022. We wtorek za jednego dolara (USD) zapłacimy 4.52 zł. Cena jednego funta szterlinga (GBP) to 5.46 zł, a franka szwajcarskiego (CHF) 4.78 zł. Z kolei euro (EUR) możemy zakupić za 4.69 zł.
+

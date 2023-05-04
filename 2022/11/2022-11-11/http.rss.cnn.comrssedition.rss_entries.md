@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Pence reveals what Trump said as he tried to persuade him to reject elections results on Jan 6
  - [https://www.cnn.com/videos/politics/2022/11/11/trump-pence-relationship-mike-pence-new-book-details-jan-6-todd-dnt-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/11/trump-pence-relationship-mike-pence-new-book-details-jan-6-todd-dnt-vpx.cnn)
@@ -545,3 +545,4 @@ For over 50 years, ecologists have studied and debated the mystery of the Namib 
  - date published: 2022-11-11 00:26:53+00:00
 
 Rep. Alexandria Ocasio-Cortez (D-NY) tells CNN's Chris Wallace how she navigates feeling danger in her life, and how that has shaped her political moves.
+

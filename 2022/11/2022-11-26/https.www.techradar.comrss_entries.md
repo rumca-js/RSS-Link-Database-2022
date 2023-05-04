@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The 50 best Amazon Black Friday deals still available today
  - [https://www.techradar.com/news/the-50-best-amazon-black-friday-deals-still-available-today](https://www.techradar.com/news/the-50-best-amazon-black-friday-deals-still-available-today)
@@ -62,3 +62,4 @@ Another source now says that Apple is going to use haptic technology in place of
  - date published: 2022-11-26 10:23:22+00:00
 
 This is a nasty bug that causes stuttering frame rates, but Microsoft still needs to implement an actual full fix.
+

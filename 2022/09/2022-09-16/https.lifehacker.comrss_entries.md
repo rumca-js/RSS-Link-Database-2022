@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## What's New on Hulu in October 2022
  - [https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572](https://lifehacker.com/whats-new-on-hulu-in-october-2022-1849546572)
@@ -111,3 +111,4 @@
  - date published: 2022-09-16 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--_ZqaTrPZ--/c_fit,fl_progressive,q_80,w_636/ce49fbd392ed1d283c57a71393e84ee4.jpg" /><p>When you need  caffeine, you don’t always have the time or energy to brew a pot of coffee. That’s part of what makes energy drinks so convenient and appealing. But it’s neither convenient nor appealing if they contain metal fragments, and unfortunately, that’s what might be in some ready-to-drink Starbucks beverages…</p><p><a href="https://lifehacke
+

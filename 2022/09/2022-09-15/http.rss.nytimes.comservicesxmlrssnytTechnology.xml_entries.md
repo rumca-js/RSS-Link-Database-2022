@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Biden Issues New Order to Block Chinese Investment in Technology in the U.S.
  - [https://www.nytimes.com/2022/09/15/us/politics/biden-china-tech-executive-order.html](https://www.nytimes.com/2022/09/15/us/politics/biden-china-tech-executive-order.html)
@@ -34,3 +34,4 @@ The targeted political ads could spread some of the same voter-influence techniq
  - date published: 2022-09-15 07:09:46+00:00
 
 Ethereum, the most popular cryptocurrency platform, completed its much-anticipated switch to a more energy-efficient infrastructure.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Pocztowy chaos w  Niemczech. Listy nie dochodzą tygodniami
  - [https://www.bankier.pl/wiadomosc/Pocztowy-chaos-w-Niemczech-Listy-nie-dochodza-tygodniami-8426479.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pocztowy-chaos-w-Niemczech-Listy-nie-dochodza-tygodniami-8426479.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -541,3 +541,4 @@ porównaniu do października ubiegłego roku nie została zacieśniona, tylko
  - date published: 2022-10-20 00:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/d/280f90d818b3b6-948-568-5-44-1995-1196.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Przed Kanadą są trudne dni, gospodarka zwolni, niezbędne do walki z inflacją podwyżki stóp procentowych sprawią, że kredyt będzie droższy – ostrzegła w środę wicepremier i minister finansów Chrystia Freeland.</p>
+

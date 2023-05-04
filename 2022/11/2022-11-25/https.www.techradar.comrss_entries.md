@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Over a thousand Docker container images found hiding malicious content
  - [https://www.techradar.com/news/over-a-thousand-docker-container-images-found-hiding-malicious-content](https://www.techradar.com/news/over-a-thousand-docker-container-images-found-hiding-malicious-content)
@@ -166,3 +166,4 @@ The job market is changing forever, and your company needs to adapt or fall behi
  - date published: 2022-11-25 03:26:40+00:00
 
 Our live coverage of Black Friday TV deals begins with all the best deals on 4K, QLED, and OLED TVs, plus tips and tricks to land your dream TV.
+

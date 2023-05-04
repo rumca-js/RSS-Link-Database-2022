@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Windows 11 22H2 gets a slew of new group policy changes
  - [https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all](https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>The largest multinational four-day workweek experiment to date has reached the <a href="https://www.4dayweek.com/news-posts/uk-four-day-week-pilot-mid-results" rel="nofollow">midway point in the UK</a>, and feedback from participating organizations indicates most hope to retain a 32-hour workweek after their pilot ends.</p><p>The experiment is being run by the <a href="https://www.4dayweek.com/pilot-program" rel="nofollow">4 Day Week Global coalition</a> in c
+

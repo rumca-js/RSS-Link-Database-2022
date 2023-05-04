@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Stanford investigating its OWN president over allegations papers he authored contain doctored data
  - [https://www.dailymail.co.uk/news/article-11487845/Stanford-investigating-president-allegations-papers-authored-contain-doctored-data.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11487845/Stanford-investigating-president-allegations-papers-authored-contain-doctored-data.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1770,3 +1770,4 @@ Indian authorities are promising a quick extradition for Rajwinder Singh, the fu
  - date published: 2022-11-30 00:06:39+00:00
 
 Thousands of Australian workers are being encouraged to 'act your wage' and only complete work they are being paid to do, in a new workplace trend sweeping offices.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Trzecia rakieta świata przedwcześnie kończy sezon
  - [https://eurosport.tvn24.pl/trzecia-rakieta--wiata-przedwcze-nie-ko-czy-sezon,1121566.html?source=rss](https://eurosport.tvn24.pl/trzecia-rakieta--wiata-przedwcze-nie-ko-czy-sezon,1121566.html?source=rss)
@@ -350,3 +350,4 @@
 
 <img alt="Wanda Nowicka gwiazdą TikToka. Zdradza, jak zdobyć miliony polubień " src="https://tvn24.pl/najnowsze/cdn-zdjecie-6f0dky-sejmwita-foto-wanda-nowicka-i-radomir-wit-6162668/alternates/LANDSCAPE_1280" />
     W programie również o sztuce życzenia sobie dobrej nocy, garść lotnych wspomnień i quiz śląski.
+

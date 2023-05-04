@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Live updates: NASA tries again to launch its Artemis I moon mission
  - [https://www.washingtonpost.com/technology/2022/11/15/artemis-moon-launch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/15/artemis-moon-launch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ The Tech Friend newsletter will bring you straight talk and advice to help make 
  - date published: 2022-11-15 02:45:31+00:00
 
 Google settled with 40 states in the largest such deal in U.S. history, according to a group of state attorneys general.
+

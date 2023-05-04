@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Alarm przeciwlotniczy pod Kijowem. Prezydent Niemiec musiał zejść do schronu
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-alarm-przeciwlotniczy-pod-kijowem-prezydent-niemiec-musial-z,nId,6369790](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-alarm-przeciwlotniczy-pod-kijowem-prezydent-niemiec-musial-z,nId,6369790)
@@ -13,3 +13,4 @@
  - date published: 2022-10-25 12:44:30+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-nad-przepascia-co-zrobi-nowy-premier,nId,6369706"><img align="left" alt="Wielka Brytania nad przepaścią. Co zrobi nowy premier?" src="https://i.iplsc.com/wielka-brytania-nad-przepascia-co-zrobi-nowy-premier/000G907BWY4O4H6E-C321.jpg" /></a>Wielka Brytania nowego premiera poznała szybciej, niż zakładano. Na tym jednak dobre wiadomości się kończą. Rishi Sunak stoi bowiem przed arcytrudnym wyzwaniem - ma ściągnąć kraj znad gospodarczej przepaści i uratować Partię Konserwatywną przed upadkiem. Jednocześnie musi uważać, żeby nie skończyć na politycznym marginesie jak Boris Johnson i Liz Truss, bo problemów i wyzwań z całą pewnością mu nie zabraknie.</p><br clear="all" />
+

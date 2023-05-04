@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Pokemon Scarlet and Violet Gimmighoul Story Trailer
  - [https://www.gamespot.com/videos/pokemon-scarlet-and-violet-gimmighoul-story-trailer/2300-6459938/](https://www.gamespot.com/videos/pokemon-scarlet-and-violet-gimmighoul-story-trailer/2300-6459938/)
@@ -48,3 +48,4 @@
  - date published: 2022-11-06 14:00:00+00:00
 
 <p dir="ltr">Stadia user CloudKnight was eating breakfast at Huddle House when a devastating notification flashed on his phone: Google <a href="https://www.gamespot.com/articles/google-stadia-is-shutting-down-on-january-18-2023/1100-6507919/">announced</a> that the streaming service Stadia would die in just a few short months. Like a lot of Stadia fans, CloudKnight was taken aback by <a href="https://www.gamespot.com/articles/game-developers-react-to-google-stadias-surprise-shutdown/1100-6507939/">the news</a>. Just a few weeks earlier, Google had said that Stadia would expand into Mexico, as well as confirming a slate of games coming to the service in the coming months. He took that as assurance that the tech giant was committed to the cause, at least in the short-term.</p><p dir="ltr">"I was very surprised," he says. "I didn't expect it at all. I have mixed feelings about the whole thing, but the main one is definitely disappointment."</p><p dir="ltr">Google Stadia's prescribed shutdown day of January 18, 2023 continues to inch ever closer, and fans have adopted different strategies to deal with their negative emotions. Some continue to play games on the service, determined to enjoy every minute they can until the final sunset. Others have abandoned their boxes entirely, lobbying Google to make the popular Stadia controller more PC-gaming friendly as a future-proofing measure.</p><a href="https://www.gamespot.com/articles/stadia-fans-are-still-mourning-the-death-of-their-favorite-service/1100-6508930/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

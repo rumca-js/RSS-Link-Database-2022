@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Padres vs. Dodgers Livestream: How to Watch Game 4 of the Division Series Today     - CNET
  - [https://www.cnet.com/tech/services-and-software/padres-vs-dodgers-livestream-how-to-watch-game-4-of-the-division-series-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/padres-vs-dodgers-livestream-how-to-watch-game-4-of-the-division-series-today/#ftag=CADf328eec)
@@ -447,3 +447,4 @@ OK but seriously, who is the stranger?
  - date published: 2022-10-15 00:00:03+00:00
 
 Recap: The Disney Plus show leans hard into moral ambiguity as the rebels make their move on the Imperial garrison, and it's amazing.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The Internet Archive just put 565 Palm Pilot apps in your web browser
  - [https://www.theverge.com/2022/11/25/23478396/internet-archive-palm-pilot-emulation-games-apps-dope-wars](https://www.theverge.com/2022/11/25/23478396/internet-archive-palm-pilot-emulation-games-apps-dope-wars)
@@ -400,3 +400,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/25/23477550/twitter-manual-verification-blue-checkmark-gold-grey">Continue reading&hellip;</a>
   </p>
+

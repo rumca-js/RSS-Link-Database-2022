@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Truth Social is now available on the Google Play Store
  - [https://www.theverge.com/2022/10/12/23401489/truth-social-trump-google-play-store-download](https://www.theverge.com/2022/10/12/23401489/truth-social-trump-google-play-store-download)
@@ -543,3 +543,4 @@
     </figure>
 
   <p id="4gFvi7">It’s Prime Day 2022 — yes, again — at Amazon, and the company is offering a ton of hard-to-resist deals on headph
+

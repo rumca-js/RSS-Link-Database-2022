@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The 2023 BMW i7 proves a luxury car doesn’t need internal combustion
  - [https://arstechnica.com/?p=1894874](https://arstechnica.com/?p=1894874)
@@ -34,3 +34,4 @@ Developers Justin Ma and Matthew Davis look back at the game's creation and lega
  - date published: 2022-11-05 10:31:41+00:00
 
 A chat with Xbox CEO Phil Spencer and Worlds’s Edge Studio chief Michael Mann.
+

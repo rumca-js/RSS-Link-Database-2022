@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## MCU 2023 Calendar: What movies and Disney Plus TV shows are on the way?
  - [https://www.androidauthority.com/mcu-2023-calendar-3222377/](https://www.androidauthority.com/mcu-2023-calendar-3222377/)
@@ -62,3 +62,4 @@ There's more to a smart home than bulbs and switches.
  - date published: 2022-10-22 00:00:08+00:00
 
 Keep music at arm's length.
+

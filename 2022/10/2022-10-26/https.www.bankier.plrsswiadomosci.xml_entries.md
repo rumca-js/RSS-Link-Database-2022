@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Wall Street z przewagą spadków, spółki technologiczne na czele zniżek
  - [https://www.bankier.pl/wiadomosc/Wall-Street-z-przewaga-spadkow-spolki-technologiczne-na-czele-znizek-8429614.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wall-Street-z-przewaga-spadkow-spolki-technologiczne-na-czele-znizek-8429614.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -470,3 +470,4 @@ w bankowych propozycjach. Część instytucji stara się przyciągnąć klientó
  - date published: 2022-10-26 02:08:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/a/292ef2d1cef627-948-568-0-0-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sejmowa Komisja Edukacji, Nauki i Młodzieży wprowadziła poprawki do projektu nowelizacji ustawy Prawo oświatowe, autorstwa posłów PiS, dotyczącego m.in. działalności organizacji i stowarzyszeń w szkołach i przedszkolach. Wszystkie wprowadzone do projektu poprawki dotyczą edukacji domowej.</p>
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Ohio foragers are accidentally poisoning themselves with lethal mushrooms
  - [https://arstechnica.com/?p=1889959](https://arstechnica.com/?p=1889959)
@@ -104,3 +104,4 @@ Apps aren't changing, and Office will still be available as a standalone purchas
  - date published: 2022-10-13 14:31:46+00:00
 
 Understanding how different variables affect battery performance.
+

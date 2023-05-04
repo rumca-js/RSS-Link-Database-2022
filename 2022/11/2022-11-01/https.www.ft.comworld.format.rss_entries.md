@@ -1,4 +1,4 @@
-# Source URL:https://www.ft.com/world?format=rss, Source language: en-GB
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## European stocks jump following big rallies in China and Hong Kong
  - [https://www.ft.com/content/cef35c40-9f2e-4700-869d-282e8e81c729](https://www.ft.com/content/cef35c40-9f2e-4700-869d-282e8e81c729)
@@ -160,3 +160,4 @@ Head of Itochu says there are ‘all kinds of ways’ Moscow can continue to exp
  - date published: 2022-11-01 00:01:49+00:00
 
 Many families will struggle as cost of energy doubles compared with a year ago, John Pettigrew says
+

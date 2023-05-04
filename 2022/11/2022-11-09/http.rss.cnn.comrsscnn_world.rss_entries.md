@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## This oil refiner is cutting 1,100 jobs — and giving billions of dollars to its shareholders
  - [https://www.cnn.com/2022/11/09/economy/phillips-66-energy-layoffs/index.html](https://www.cnn.com/2022/11/09/economy/phillips-66-energy-layoffs/index.html)
@@ -62,3 +62,4 @@ A strong earthquake of magnitude 5.7 struck off Italy's Adriatic coast early on 
  - date published: 2022-11-09 05:25:35+00:00
 
 A Pakistani journalist shot dead by police in Kenya last month was the victim of a "targeted killing," a senior member of Pakistan's government said on Tuesday, without offering any evidence to support his claim.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## SPAC shareholders agree to delay merger with Trump media company
  - [https://www.washingtonpost.com/technology/2022/11/22/merger-trump-media-company-spac-delayed-after-shareholder-vote/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/22/merger-trump-media-company-spac-delayed-after-shareholder-vote/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ The letter from France's audiovisual and digital regulator Arcom comes as Twitte
  - date published: 2022-11-22 08:07:41+00:00
 
 Musk arrived at Twitter with a key priority: restore the Babylon Bee.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## California governor signs bill forcing social media company transparency
  - [https://www.washingtonpost.com/technology/2022/09/13/california-social-network-transparency/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/13/california-social-network-transparency/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Twitter whistleblower Peiter Zatko's responses to lawmakers could provide furthe
  - date published: 2022-09-13 07:00:35+00:00
 
 Meta and TikTok are spinning up ‘custom browsers' equipped with potential key loggers, a researcher warns. Here's how concerned to be and what you can do to keep your data safe.
+

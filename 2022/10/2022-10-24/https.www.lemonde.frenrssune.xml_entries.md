@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## In South Korea, K-pop band's plans for exemption from military service thwarted by defense department's concerns
  - [https://www.lemonde.fr/en/international/article/2022/10/25/in-south-korea-k-pop-band-s-plans-for-exemption-from-military-service-thwarted-by-defense-department-s-concerns_6001627_4.html](https://www.lemonde.fr/en/international/article/2022/10/25/in-south-korea-k-pop-band-s-plans-for-exemption-from-military-service-thwarted-by-defense-department-s-concerns_6001627_4.html)
@@ -188,3 +188,4 @@ There is no evidence that the tax reforms undertaken during President Macron's f
  - date published: 2022-10-24 00:36:48+00:00
 
 The town of Mubende in central Uganda is under a 7 pm curfew, and all forms of transportation are prohibited.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## The only 2022 midterm election playlist that matters
  - [https://www.louderwithcrowder.com/2022-midterm-election-playlist](https://www.louderwithcrowder.com/2022-midterm-election-playlist)
@@ -170,3 +170,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

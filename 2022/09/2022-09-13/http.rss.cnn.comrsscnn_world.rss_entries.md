@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Russia has spent over $300 million on influencing foreign elections since 2014, US officials say
  - [https://www.cnn.com/2022/09/13/politics/russia-foreign-elections-influence/index.html](https://www.cnn.com/2022/09/13/politics/russia-foreign-elections-influence/index.html)
@@ -27,3 +27,4 @@ Iran has taken "a step backward" with its latest response to a nuclear deal prop
  - date published: 2022-09-13 00:01:08+00:00
 
 This Friday, tens of thousands of railroad workers are poised to go on strike, potentially bringing a nearly a third of all US freight to a grinding halt. It would be the first national rail strike in 30 years.
+

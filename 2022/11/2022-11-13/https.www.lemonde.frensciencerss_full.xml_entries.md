@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Frankenviruses: Better regulation of virology is urgent
  - [https://www.lemonde.fr/en/opinion/article/2022/11/13/frankenviruses-better-regulation-of-virology-is-urgent_6004114_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/13/frankenviruses-better-regulation-of-virology-is-urgent_6004114_23.html)
@@ -13,3 +13,4 @@ The benefits of experiments in making pathogens more virulent or transmissible a
  - date published: 2022-11-13 15:47:58+00:00
 
 A series of laboratory leaks and risky experiments have taken place since the 1970s.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Clean Faucet Aerators (and Why You Should)
  - [https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599](https://lifehacker.com/how-to-clean-faucet-aerators-and-why-you-should-1849508599)
@@ -20,3 +20,4 @@
  - date published: 2022-09-10 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Nmsxq0T4--/c_fit,fl_progressive,q_80,w_636/2576fbaf851f07551e3fe31c795c06f9.jpg" /><p>When it comes to updating the interior of your home (especially on a budget), paint is your best friend. A few coats can transform a room or a hallway, and make tired, worn furniture look new. </p><p><a href="https://lifehacker.com/how-to-paint-upholstery-1849508620">Read more...</a></p>
+

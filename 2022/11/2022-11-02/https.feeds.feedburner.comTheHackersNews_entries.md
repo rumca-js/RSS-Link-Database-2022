@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software
  - [https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html](https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html)
@@ -41,3 +41,4 @@ Russian cybersecurity firm Kaspersky is tracking the campaign under the monikerÂ
 
 File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.
 "These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the
+

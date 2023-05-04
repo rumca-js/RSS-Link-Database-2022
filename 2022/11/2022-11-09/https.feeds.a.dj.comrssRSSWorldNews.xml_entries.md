@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## U.S. Releases 9/11 Commission Interview With George W. Bush, Dick Cheney
  - [https://www.wsj.com/articles/u-s-expected-to-release-9-11-commission-interview-with-bush-and-cheney-11668018211](https://www.wsj.com/articles/u-s-expected-to-release-9-11-commission-interview-with-bush-and-cheney-11668018211)
@@ -83,3 +83,4 @@ Consumer-price inflation also slowed to a five-month low, a reflection of the ec
  - date published: 2022-11-09 06:54:00+00:00
 
 Australia will review policies after an investigation into the training of Chinese aircrews raises concerns.
+

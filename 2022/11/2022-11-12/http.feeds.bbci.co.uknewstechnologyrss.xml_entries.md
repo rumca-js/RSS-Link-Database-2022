@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## AI reunites Holocaust survivor with childhood photos
  - [https://www.bbc.co.uk/news/technology-63483694?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63483694?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Google engineer develops technology to help identify Holocaust victims in archiv
  - date published: 2022-11-12 00:42:52+00:00
 
 Blue tick accounts impersonating major brands, politicians and celebrities have appeared on the platform.
+

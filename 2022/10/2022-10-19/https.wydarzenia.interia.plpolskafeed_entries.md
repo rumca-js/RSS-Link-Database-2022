@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Co Polacy sądzą o biciu dzieci? Najnowszy raport
  - [https://wydarzenia.interia.pl/kraj/news-co-polacy-sadza-o-biciu-dzieci-najnowszy-raport,nId,6355516](https://wydarzenia.interia.pl/kraj/news-co-polacy-sadza-o-biciu-dzieci-najnowszy-raport,nId,6355516)
@@ -27,3 +27,4 @@
  - date published: 2022-10-19 08:28:35+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-wypadek-krzysztofa-holowczyca-jego-samochod-dachowal,nId,6357382"><img align="left" alt="Wypadek Krzysztofa Hołowczyca. Jego samochód dachował" src="https://i.iplsc.com/wypadek-krzysztofa-holowczyca-jego-samochod-dachowal/000G800M9AMD0UD9-C321.jpg" /></a>Krzysztof Hołowczyc miał wypadek - poinformowało Radio Zet. Słynny kierowca dachował, zaś wezwana na miejsce Żandarmeria Wojskowa zastosowała wobec niego pouczenie. Rajdowcowi nic się nie stało
+

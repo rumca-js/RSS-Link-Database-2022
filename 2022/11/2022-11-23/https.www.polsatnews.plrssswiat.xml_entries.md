@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: W jednym z bagaży na lotnisku znaleziono żywe zwierzę
  - [https://www.polsatnews.pl/wiadomosc/2022-11-23/usa-w-jednym-z-bagazy-na-lotnisku-znaleziono-zywe-zwierze/](https://www.polsatnews.pl/wiadomosc/2022-11-23/usa-w-jednym-z-bagazy-na-lotnisku-znaleziono-zywe-zwierze/)
@@ -125,3 +125,4 @@ W środę rano w pobliżu głównego dworca autobusowego w Jerozolimie doszło d
  - date published: 2022-11-23 05:41:00+00:00
 
 W nocy z wtorku na środę celem rosyjskiego ataku rakietowego był szpital położniczy w Zaporożu w południowo-wschodniej Ukrainie. W wyniku ostrzału zginął noworodek.
+

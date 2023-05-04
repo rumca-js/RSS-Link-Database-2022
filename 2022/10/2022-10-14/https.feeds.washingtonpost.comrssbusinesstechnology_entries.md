@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## TikTok stars, Hollywood A list celebrate Ralph Lauren’s first Calif. show
  - [https://www.washingtonpost.com/technology/2022/10/14/raplph-lauren-la-fashion-show/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/14/raplph-lauren-la-fashion-show/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Clumsy map design, phoned in combat mechanics and an especially intense set piec
  - date published: 2022-10-14 05:00:03+00:00
 
 You don’t tell TikTok what you want to see. It tells you. And the internet can’t get enough.
+

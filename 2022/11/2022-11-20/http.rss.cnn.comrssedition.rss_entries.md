@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Best red carpet fashion at the 2022 American Music Awards
  - [https://www.cnn.com/style/article/red-carpet-american-music-awards-2022/index.html](https://www.cnn.com/style/article/red-carpet-american-music-awards-2022/index.html)
@@ -298,3 +298,4 @@ Retired Air Force Col. Cedric Leighton reacts to reports that the US is running 
  - date published: 2022-11-20 00:33:31+00:00
 
 Malaysia was facing a hung parliament for the first time in its history as support for a conservative Islamic alliance prevented major coalitions from winning a simple majority in a general election.
+

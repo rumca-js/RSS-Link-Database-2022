@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## We are still early with the cloud
  - [https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html)
@@ -671,3 +671,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33255772">https://news.ycombinator.com/item?id=33255772</a></p>
 <p>Points: 15</p>
 <p># Comments: 10</p>
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'Ridiculous': Former WH official on Trump's offer to pardon Jan. 6 rioters
  - [https://www.cnn.com/videos/politics/2022/09/06/trump-jan-6-pardons-stephanie-grisham-sot-ebof-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/06/trump-jan-6-pardons-stephanie-grisham-sot-ebof-vpx.cnn)
@@ -543,5 +543,6 @@ CNN's Sam Kiley reports on Ukraine's counter-offensive to recapture Kherson in t
  - [https://www.cnn.com/collections/int-0906-liz-truss/](https://www.cnn.com/collections/int-0906-liz-truss/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-06 00:07:24+00:00
+
 
 

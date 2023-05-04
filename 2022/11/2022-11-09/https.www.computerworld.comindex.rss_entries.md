@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Cloud, services to fuel 3.7% jump in EMEA IT spending in 2023: Gartner
  - [https://www.computerworld.com/article/3679492/cloud-services-to-fuel-37-jump-in-emea-it-spending-in-2023-gartner.html#tk.rss_all](https://www.computerworld.com/article/3679492/cloud-services-to-fuel-37-jump-in-emea-it-spending-in-2023-gartner.html#tk.rss_all)
@@ -17,3 +17,4 @@
 <article>
 	<section class="page">
 <p>Apple includes its Mail app on every iPhone. While it is a perfectly usable email client that connects to a variety of mail services including Microsoft Exchange and Microsoft 365, it isn’t as feature-rich as it could be, particularly for business and enterprise environments.</p><p>Thankfully, there’s a wide range of alternative email apps for iOS. In this article, I’ll discuss five excellent choices, each with its own unique feature set.</p><p>One note before we get started: I am only including mail apps that connect to multiple services. Services like Gmail and Yahoo Mail offer first-party apps that connect with only that service. They are generally solid options if you only need to access a single service.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678729/ios-mail-alternatives-for-business.html#jump">To read this article in full, please click here</a></p></section></article>
+

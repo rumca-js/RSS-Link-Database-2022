@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## New Pixel Watch leak reveals watch faces, strap styles and more
  - [https://www.techradar.com/news/new-pixel-watch-leak-reveals-watch-faces-strap-styles-and-more/](https://www.techradar.com/news/new-pixel-watch-leak-reveals-watch-faces-strap-styles-and-more/)
@@ -20,3 +20,4 @@ But there is a caveat
  - date published: 2022-10-02 10:03:55+00:00
 
 Intel’s readying its top-end Arc graphics cards to hit the market, but this leak might disappoint some folks.
+

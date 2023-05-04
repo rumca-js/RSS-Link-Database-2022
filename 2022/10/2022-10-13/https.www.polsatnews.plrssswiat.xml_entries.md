@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Ukraina. Rosyjska szeregowa Anna Babicka w niewoli. Chwaliła się, że jedzie zabijać Ukraińców
  - [https://www.polsatnews.pl/wiadomosc/2022-10-13/ukraina-rosyjska-szeregowa-anna-babicka-w-niewoli-chwalila-sie-ze-jedzie-zabijac-ukraincow/](https://www.polsatnews.pl/wiadomosc/2022-10-13/ukraina-rosyjska-szeregowa-anna-babicka-w-niewoli-chwalila-sie-ze-jedzie-zabijac-ukraincow/)
@@ -139,3 +139,4 @@ Rosyjskie wojsko w czwartek rano zaatakowało ukraińskie miasta, m.in. w rejoni
  - date published: 2022-10-13 04:01:00+00:00
 
 Zgromadzenie Ogólne ONZ zdecydowanie potępiło rosyjską próbę aneksję czterech częściowo okupowanych regionów w Ukrainie i wezwało wszystkie kraje do nieuznawania tego posunięcia. Za rezolucją opowiedziały się 143 kraje, zaś przeciwko było tylko pięć, w tym sama Rosja.
+

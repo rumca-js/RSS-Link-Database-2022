@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## DeSantis' migrant flights to Martha's Vineyard were outside the scope of Florida transport program guidelines, state documents show
  - [https://www.cnn.com/2022/10/08/us/florida-migrants-marthas-vineyard-state-documents-contractors/index.html](https://www.cnn.com/2022/10/08/us/florida-migrants-marthas-vineyard-state-documents-contractors/index.html)
@@ -274,3 +274,4 @@ Many were hoping Dwayne "The Rock" Johnson could be a potential rock for America
  - date published: 2022-10-08 01:06:41+00:00
 
 The US Postal Service on Friday proposed increased prices "to offset the rise in inflation," according to a statement from the agency.
+

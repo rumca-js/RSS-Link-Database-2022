@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## List Xi Jinpinga do Kim Dzong Una. Chiny oferują Korei współpracę na rzecz pokoju i stabilności
  - [https://www.bankier.pl/wiadomosc/List-Xi-Jinpinga-do-Kim-Dzong-Una-Chiny-oferuja-Korei-wspolprace-na-rzecz-pokoju-i-stabilnosci-8446482.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/List-Xi-Jinpinga-do-Kim-Dzong-Una-Chiny-oferuja-Korei-wspolprace-na-rzecz-pokoju-i-stabilnosci-8446482.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -352,3 +352,4 @@ kurczącym się stale rynku.</p>
  - date published: 2022-11-25 01:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/e/f18821cc1dc05f-945-567-50-95-1916-1150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Rosja  za dziewięć miesięcy wydała na wojnę w  Ukrainie 82 mld dolarów, około jednej czwartej dochodów swojego zeszłorocznego budżetu, donosi w piątek ukraińskie wydanie magazynu ekonomicznego Forbes.</p>
+

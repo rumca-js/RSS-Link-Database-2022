@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## What's New on HBO Max in October 2022
  - [https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375](https://lifehacker.com/whats-new-on-hbo-max-in-october-2022-1849583375)
@@ -139,3 +139,4 @@
  - date published: 2022-09-26 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0QAShXAG--/c_fit,fl_progressive,q_80,w_636/a28a889ceba9bc255b686837aef94e5d.jpg" /><p>Avocados have a fan club that hates to love them. They taste great, can be sliced, mashed, or blended, and can be used to make everything from <a href="https://www.recipetineats.com/creamy-avocado-salad-dressing/" rel="noopener noreferrer" target="_blank">salad dressings</a> to <a href="https://www.foodnetwork.com/recipes/alton-brown/avocado-ice-cre
+

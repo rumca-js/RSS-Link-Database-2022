@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How the US can stop wasting billions of dollars on each transit project
  - [https://www.vice.com/en/article/xgym5j/heres-how-the-us-can-stop-wasting-billions-of-dollars-on-each-transit-project](https://www.vice.com/en/article/xgym5j/heres-how-the-us-can-stop-wasting-billions-of-dollars-on-each-transit-project)
@@ -834,3 +834,4 @@ How would you personally approach this problem?</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33487271">https://news.ycombinator.com/item?id=33487271</a></p>
 <p>Points: 10</p>
 <p># Comments: 8</p>
+

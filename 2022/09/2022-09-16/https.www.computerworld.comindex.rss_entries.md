@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Critical zero-days make September's Patch Tuesday a 'Patch Now' release
  - [https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all](https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Geolocation was once a glorious way to know who your company is dealing with (and sometimes what they are doing). Then VPNs started to undermine that. And now, things have gotten so bad that the Apple App Store and Google Play both offer apps that unashamedly declare they can spoof locations — and neither mobile OS vendor does anything to stop it.</p><p>Why? It seems both Apple and Google created the holes these developers are using.</p><p>In a nutshell, Appl
+

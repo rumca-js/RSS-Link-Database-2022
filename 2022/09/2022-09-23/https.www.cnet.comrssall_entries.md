@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## NASA's DART: How to Watch Live as a Spacecraft Crashes Into an Asteroid     - CNET
  - [https://www.cnet.com/science/space/nasas-dart-how-to-watch-live-as-a-spacecraft-crashes-into-an-asteroid/#ftag=CADf328eec](https://www.cnet.com/science/space/nasas-dart-how-to-watch-live-as-a-spacecraft-crashes-into-an-asteroid/#ftag=CADf328eec)
@@ -783,3 +783,4 @@ There's some unique advantages to keeping a houseful of Amazon Echo products.
  - date published: 2022-09-23 00:00:07+00:00
 
 The Disney Plus series kicks off with three episodes, giving us two deliberately paced installments that build to an adrenaline-pumping part 3.
+

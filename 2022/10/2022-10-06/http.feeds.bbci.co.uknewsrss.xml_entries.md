@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## How sport can help the industry with UK's worst suicide rate
  - [https://www.bbc.co.uk/news/uk-england-london-63137591?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63137591?at_medium=RSS&at_campaign=KARANGA)
@@ -559,3 +559,4 @@ New guidance asks staff to share concerns with "trusted contacts", even without 
  - date published: 2022-10-06 00:23:44+00:00
 
 Families of some of those affected are giving evidence at a public inquiry into the treatment disaster.
+

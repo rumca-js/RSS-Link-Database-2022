@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 2 California bakers create a life-size Han Solo out of bread
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59235](https://www.codeproject.com/script/News/View.aspx?nwid=59235)
@@ -62,3 +62,4 @@ They "fixed" it (as in puppy, not repair)
  - date published: 2022-10-19 04:00:00+00:00
 
 Now they need to change the name of the product to Tabs
+

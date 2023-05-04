@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Secure your family with 1Password’s huge 50% Black Friday discount
  - [https://www.pcworld.com/article/1391427/get-a-rare-50-black-friday-discount-on-1password-one-of-the-best-password-managers-for-families.html](https://www.pcworld.com/article/1391427/get-a-rare-50-black-friday-discount-on-1password-one-of-the-best-password-managers-for-families.html)
@@ -2289,3 +2289,4 @@ Dash Cams</div>
 
 <p><em>Prices subject to change.</em></p>
 Travel Apps</div>
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Poparcie Bidena spadło poniżej 40 proc. Sondaż Reuters/Ipsos
  - [https://www.bankier.pl/wiadomosc/Poparcie-Bidena-spadlo-ponizej-40-proc-Sondaz-Reuters-Ipsos-8435408.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Poparcie-Bidena-spadlo-ponizej-40-proc-Sondaz-Reuters-Ipsos-8435408.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -575,3 +575,4 @@ przez rzekomy brak zdolności, zauważają specjaliści Expander Advisors.</p>
  - date published: 2022-11-07 00:10:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/b/b50e36f850f002-948-568-0-10-4000-2399.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Doradca prezydenta USA Joe Bidena ds. bezpieczeństwa narodowego Jake Sullivan prowadził w ostatnich miesiącach poufne rozmowy z sekretarzem rosyjskiej Rady Bezpieczeństwa Nikołajem Patruszewem i doradcą prezydenta Rosji ds. polityki zagranicznej Jurijem Uszakowem - podał w niedzielę "The Wall Street Journal".</p>
+

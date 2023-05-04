@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Lula da Silva will return to Brazil's presidency in stunning comeback
  - [https://www.cnn.com/2022/10/30/americas/brazil-election-lula-da-silva-wins-intl/index.html](https://www.cnn.com/2022/10/30/americas/brazil-election-lula-da-silva-wins-intl/index.html)
@@ -412,3 +412,4 @@ Bill Clinton made his case here Saturday for New York Rep. Sean Patrick Maloney,
  - date published: 2022-10-30 00:00:29+00:00
 
 Brooklyn Nets star Kyrie Irving on Saturday tweeted that he "meant no disrespect to anyone's religious beliefs" after the owner of his NBA team condemned him for tweeting a link to a documentary deemed antisemitic.
+

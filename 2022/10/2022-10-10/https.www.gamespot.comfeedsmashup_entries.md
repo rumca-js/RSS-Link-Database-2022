@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Walmart's New Anti-Prime Day Sale Features So Many Good Deals
  - [https://www.gamespot.com/gallery/walmarts-new-anti-prime-day-sale-features-so-many-good-deals/2900-4384/](https://www.gamespot.com/gallery/walmarts-new-anti-prime-day-sale-features-so-many-good-deals/2900-4384/)
@@ -62,3 +62,4 @@
  - date published: 2022-10-10 13:07:00+00:00
 
 <p>It's Monday and that can only mean one thing: We're back for another week of <a href="https://www.gamespot.com/games/wordle/">Wordle</a> guides. After a long weekend, it's time to get back into the swing of things, and we're here to make sure you do that by getting the Wordle correct. To start out the week, players are met with a challenging Wordle. The word itself isn't uncommon, but the spelling of it will surely have players searching for hints after a few guesses. If you haven't started t
+

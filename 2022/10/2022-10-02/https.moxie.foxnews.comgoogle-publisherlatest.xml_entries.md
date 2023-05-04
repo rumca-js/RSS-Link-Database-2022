@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Bailey Zappe's first Patriots touchdown pass covered with controversy
  - [https://www.foxnews.com/sports/bailey-zappes-first-patriots-touchdown-pass-covered-controversy](https://www.foxnews.com/sports/bailey-zappes-first-patriots-touchdown-pass-covered-controversy)
@@ -734,3 +734,4 @@ On June 1, the New York Mets led the National League East by 1.5 games. After Sa
  - date published: 2022-10-02 03:05:37+00:00
 
 Producer Michael Gregg Wilson revealed that all actors who want to play the role of James Bond audition with the famous seduction scene from the 1963 film "From Russia With Love."
+

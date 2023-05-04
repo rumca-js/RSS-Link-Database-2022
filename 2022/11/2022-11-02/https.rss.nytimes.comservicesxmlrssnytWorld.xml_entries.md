@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia’s Nuclear Weapons Rhetoric: How Concerned Should We Be?
  - [https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html](https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html)
@@ -174,3 +174,4 @@ People on an island took cover as one missile landed near South Korean territori
  - date published: 2022-11-02 01:49:36+00:00
 
 If the right-wing bloc does eke out a narrow victory, it would allow Mr. Netanyahu, Israel’s longest-serving prime minister, to return to office even as he stands trial on corruption charges.
+

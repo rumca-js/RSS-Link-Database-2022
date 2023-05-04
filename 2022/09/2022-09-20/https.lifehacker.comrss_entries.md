@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Make Apple Music Less Agonizingly Slow
  - [https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548](https://lifehacker.com/how-to-make-apple-music-less-agonizingly-slow-1849558548)
@@ -139,3 +139,4 @@
  - date published: 2022-09-20 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--KsywBFOp--/c_fit,fl_progressive,q_80,w_636/560ea18decfd29d9e1a341a5069e971b.jpg" /><p>According to <a href="https://www.psychologytoday.com/us/blog/out-the-darkness/202202/can-there-be-communication-after-death" rel="noopener noreferrer" target="_blank">Psychology Today</a>, as many three-quarters of bereaved people report some kind of after-death communication with loved ones. This could come in the form of a dream, a feeling, a fav
+

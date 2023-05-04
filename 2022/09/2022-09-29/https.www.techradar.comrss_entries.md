@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Why NetSuite isn't bothered about chasing Salesforce or any other competitor
  - [https://www.techradar.com/news/why-netsuite-isnt-bothered-about-chasing-salesforce-or-any-other-competitor/](https://www.techradar.com/news/why-netsuite-isnt-bothered-about-chasing-salesforce-or-any-other-competitor/)
@@ -314,3 +314,4 @@ Currently available for download from the Google Play Store, The OG App allows y
  - date published: 2022-09-29 03:02:42+00:00
 
 Viewsonic revealed 135-inch foldable display, the world’s largest to date.
+

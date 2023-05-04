@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Samsung Galaxy Tab A7 Lite review: Lite on the money
  - [https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/](https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/)
@@ -27,3 +27,4 @@ Close but no cigar.
  - date published: 2022-10-16 12:00:39+00:00
 
 Why do I have to use all of my phone's resources to run Facebook when Facebook Lite exists?
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Lula: Can Brazil's 'most popular president' win again?
  - [https://www.bbc.co.uk/news/world-latin-america-62832605?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-62832605?at_medium=RSS&at_campaign=KARANGA)
@@ -322,6 +322,13 @@ Olivia, 22, says the psychiatric system is making her worse, despite repeated pr
 
 The grandmaster was criticised for on-air remarks labelled "offensive" and "embarrassing".
 
+## Bank of England steps in to calm markets
+ - [https://www.bbc.co.uk/news/business-63061614?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63061614?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-09-28 12:06:09+00:00
+
+The Bank says it will buy government bonds to prevent a "material risk to UK financial stability".
+
 ## 'Toxic culture' of abuse at mental health hospital revealed by BBC secret filming
  - [https://www.bbc.co.uk/news/uk-63045298?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63045298?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -503,3 +510,4 @@ The scale of Stagecoach's bus service cuts have shocked passengers, politicians 
  - date published: 2022-09-28 00:19:36+00:00
 
 Keir Starmer thinks the UK's economic turmoil presents him with a chance, says our political editor.
+

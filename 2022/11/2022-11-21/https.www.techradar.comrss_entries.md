@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Torrent sites are infiltrating Google Search with some crafty SEO hacks
  - [https://www.techradar.com/news/torrent-sites-are-infiltrating-google-search-with-some-crafty-seo-hacks/](https://www.techradar.com/news/torrent-sites-are-infiltrating-google-search-with-some-crafty-seo-hacks/)
@@ -153,3 +153,4 @@ A whole load of world records have fallen, including some big 3DMark scores.
  - date published: 2022-11-21 10:54:14+00:00
 
 A leaker claims that the iPhone 15 will have titanium sides and a new design, but that could come at a cost.
+

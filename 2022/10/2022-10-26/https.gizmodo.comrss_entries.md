@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Exclusive Featurette: Meet Lord of the Rings: The Rings of Power Composer Bear McCreary
  - [https://gizmodo.com/exclusive-lord-of-the-rings-on-composer-bear-mccreary-1849705285](https://gizmodo.com/exclusive-lord-of-the-rings-on-composer-bear-mccreary-1849705285)
@@ -279,3 +279,4 @@
  - date published: 2022-10-26 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--1bYW1v8m--/c_fit,fl_progressive,q_80,w_636/c43e8cf03484c403582e05a01b0db6d1.png" /><p>It’s almost the big weekend! Here’s your <a href="https://gizmodo.com/halloween-costume-show-week-3-nope-marvel-pokemon-1849679141">last chance to be featured in our annual costume show</a> on Halloween this upcoming Monday. So if you’re going to an epic party, parade, out for candy, or staying in but dressing up,<a href="https://gizmodo.com/halloween-costume-show-week-2-1849643764"> send us your pop-culture inspired costumes</a>. </p><p><a href="https://gizmodo.com/halloween-costume-show-week-4-marvel-dc-stranger-things-1849702432">Read more...</a></p>
+

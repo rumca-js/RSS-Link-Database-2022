@@ -1,5 +1,3 @@
-# Source URL:https://www.chip.pl/feed/, Source language: None
-
 ## Jak ludzkie zwłoki zachowają się poza Ziemią?
  - [https://www.chip.pl/2022/09/zwloki-w-kosmosie-smierc-przestrzen-kosmiczna/](https://www.chip.pl/2022/09/zwloki-w-kosmosie-smierc-przestrzen-kosmiczna/)
  - RSS feed: https://www.chip.pl/feed/
@@ -159,3 +157,4 @@
 
 <p><img src="https://www.chip.pl/wp-content/uploads/2022/09/turbulencja.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>P&#322;yny s&#261; tak chaotyczne, &#380;e maj&#261; z nimi problem nawet najt&#281;&#380;sze umys&#322;y tego &#347;wiata. Nowa spos&#243;b obliczania ich ruchu mo&#380;e jednak sprawi&#263;, &#380;e ich przep&#322;yw b&#281;dzie znacznie bardziej przewidywalny. B&#281;dzie to zapewnia&#322;o szereg korzy&#347;ci, cho&#263;by w kontek&#347;cie skuteczniejszych prognoz
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Overwatch 2 Ramattra Gameplay Trailer
  - [https://www.gamespot.com/videos/overwatch-2-ramattra-gameplay-trailer/2300-6460088/](https://www.gamespot.com/videos/overwatch-2-ramattra-gameplay-trailer/2300-6460088/)
@@ -69,3 +69,4 @@
  - date published: 2022-11-26 15:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4068063-battlefield1part2_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down more of the weaponry of Battlefield 1, including the Cei-Rigotti rifle, the Hellfighter M1911, and a range of experimental period weaponry from the early 20th century.
+

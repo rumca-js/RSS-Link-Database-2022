@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Knock: Convert ACSM files to PDF/EPUBs with one command on Linux
  - [https://github.com/BentonEdmondson/knock](https://github.com/BentonEdmondson/knock)
@@ -614,3 +614,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33137196">https://news.ycombinator.com/item?id=33137196</a></p>
 <p>Points: 14</p>
 <p># Comments: 1</p>
+

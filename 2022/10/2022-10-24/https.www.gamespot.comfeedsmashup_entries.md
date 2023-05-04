@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## All The Harry Potter Movies Return To HBO Max, Bringing 10 Star Trek Movies With
  - [https://www.gamespot.com/articles/all-the-harry-potter-movies-return-to-hbo-max-bringing-10-star-trek-movies-with/1100-6508587/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/all-the-harry-potter-movies-return-to-hbo-max-bringing-10-star-trek-movies-with/1100-6508587/?ftag=CAD-01-10abi2f)
@@ -328,3 +328,4 @@
  - date published: 2022-10-24 12:54:00+00:00
 
 <p>A new Star Wars movie is in development from two-time Academy Award winning director Sharmeen Obaid-Chinoy and writer Damon Lindelof.</p><p>Lindelof, who is perhaps best known for the TV series Lost, is co-writing the movie, <a href="https://deadline.com/2022/10/star-wars-damon-lindelof-lucasfilm-ms-marvel-sharmeen-obaid-chinoy-1235152896/">per Deadline's report</a>, but there was no word on who the other writer is. Sources said the script is still being written, which suggests filming is very far off.</p><p>Obaid-Chinoy directed multiple episodes of Ms. Marvel and is known for her Oscar-winning documentaries, including Saving Face and A Girl in the River, The Price of Forgiveness.</p><a href="https://www.gamespot.com/articles/star-wars-movie-from-oscar-winning-ms-marvel-director-and-lost-writer-revealed/1100-6508543/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

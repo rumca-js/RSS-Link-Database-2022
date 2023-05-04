@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Unusual Ebola strain kills 23 in Uganda; no vaccines, treatments available
  - [https://arstechnica.com/?p=1885102](https://arstechnica.com/?p=1885102)
@@ -125,3 +125,4 @@ Air AR glasses add support for M1/M2 MacBooks, an iPhone adapter amid US launch.
  - date published: 2022-09-27 12:48:06+00:00
 
 Surge, winds, rainfall—unfortunately, Hurricane Ian is going to pack quite a punch.
+

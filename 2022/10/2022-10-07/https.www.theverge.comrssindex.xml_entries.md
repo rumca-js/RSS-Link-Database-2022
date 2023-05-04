@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Blizzard will be taking Overwatch 2 offline again
  - [https://www.theverge.com/2022/10/7/23393571/blizzard-overwatch-2-offline-downtime-friday-lc-208-error-watchpoint-pack](https://www.theverge.com/2022/10/7/23393571/blizzard-overwatch-2-offline-downtime-friday-lc-208-error-watchpoint-pack)
@@ -419,3 +419,4 @@
     </figure>
 
   <p id="btaH73">Tesla has started production on its long-awaited Semi truck, and plans to start delivering it to Pepsi by December 1st, acc
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Jan-Krzysztof Duda z kolejnym zwycięstwem. O finał z mistrzem świata
  - [https://eurosport.tvn24.pl/jan-krzysztof-duda-z-kolejnym-zwyci-stwem--o-fina--z-mistrzem--wiata,1121953.html?source=rss](https://eurosport.tvn24.pl/jan-krzysztof-duda-z-kolejnym-zwyci-stwem--o-fina--z-mistrzem--wiata,1121953.html?source=rss)
@@ -151,3 +151,4 @@
 
 <img alt="Czekali na to długie lata. Benzema dołączył do największych rodaków" src="https://tvn24.pl/najnowsze/cdn-zdjecie-mn63gd-benzema-i-zidane-na-gali-zlotej-pilki/alternates/LANDSCAPE_1280" />
     Przed Karimem Benzemą Złotą Piłkę zdobyło jeszcze czterech, wybitnych francuskich zawodników.
+

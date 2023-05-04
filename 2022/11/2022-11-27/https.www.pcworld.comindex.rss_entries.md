@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Missed out on the Powerball? This puzzle might help, and it’s $20 today only.
  - [https://www.pcworld.com/article/1395066/missed-out-on-the-powerball-this-puzzle-might-help-and-its-20-today-only.html](https://www.pcworld.com/article/1395066/missed-out-on-the-powerball-this-puzzle-might-help-and-its-20-today-only.html)
@@ -39,3 +39,4 @@
 
 <p><em>Prices subject to change.</em></p>
 Video Games</div>
+

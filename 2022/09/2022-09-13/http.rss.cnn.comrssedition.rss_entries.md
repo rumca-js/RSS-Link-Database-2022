@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Former governor meets with Russian leadership as Griner and Whelan remain detained
  - [https://www.cnn.com/2022/09/13/politics/bill-richardson-new-mexico-governor-moscow/index.html](https://www.cnn.com/2022/09/13/politics/bill-richardson-new-mexico-governor-moscow/index.html)
@@ -531,3 +531,4 @@ Minnesota nurses went on strike from 13 hospitals, arguing for better staffing a
  - date published: 2022-09-13 00:26:39+00:00
 
 Officials at NASA are pushing back the next launch attempt for its Artemis I mega moon rocket by four days to September 27, the space agency announced Monday.
+

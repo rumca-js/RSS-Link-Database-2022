@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Andor's Torture Device Originally Had a Sound to Go With It
  - [https://gizmodo.com/star-wars-andor-disney-plus-sonic-torture-device-sound-1849764985](https://gizmodo.com/star-wars-andor-disney-plus-sonic-torture-device-sound-1849764985)
@@ -265,3 +265,4 @@
  - date published: 2022-11-09 01:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0G4QJ_PA--/c_fit,fl_progressive,q_80,w_636/b2d14a12c4eb95c9cbc90dc9dc3024b0.jpg" /><p>When you think of <a href="https://gizmodo.com/the-addams-family-movie-is-proof-of-how-perfectly-faith-1789276493"><em>The Addams Family</em></a>, odds are the first thing you think of is its theme song: “They’re creepy and they’re kooky/mysterious and spooky, they’re all together ooky/the Addams family,” <em>snap, snap</em>, etc. And so one might think the reveal of the credits sequence for <em>Wednesday</em>, the <a href="https://gizmodo.com/tim-burton-wednesday-clip-jenna-ortega-netflix-tudum-1849574742">upcoming Addams-inspired show</a></p><p><a href="https://gizmodo.com/wednesday-netflix-addams-family-tim-burton-danny-elfman-1849760396">Read more...</a></p>
+

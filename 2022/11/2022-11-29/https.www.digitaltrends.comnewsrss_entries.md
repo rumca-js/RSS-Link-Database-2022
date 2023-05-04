@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Old tech sounds preserved as part of huge audio project
  - [https://www.digitaltrends.com/news/old-tech-sounds-preserved-as-part-of-huge-audio-project/](https://www.digitaltrends.com/news/old-tech-sounds-preserved-as-part-of-huge-audio-project/)
@@ -6,3 +6,4 @@
  - date published: 2022-11-29 05:59:21.483351+00:00
 
 The Cities and Memory sound project includes a growing collection of recordings of various tech gear from years gone by.
+

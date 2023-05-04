@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Anglia. Atak przed szkołą. 16-latek zadźgał 15-latka na oczach uczniów
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/anglia-atak-z-nozem-przed-szkola-16-latek-zadzgal-15-latka-na-oczach-uczniow/](https://www.polsatnews.pl/wiadomosc/2022-09-22/anglia-atak-z-nozem-przed-szkola-16-latek-zadzgal-15-latka-na-oczach-uczniow/)
@@ -104,3 +104,4 @@ Ponad tysiąc zatrzymanych osób i wiele pobić - to wstępny bilans protestów 
  - date published: 2022-09-22 06:21:00+00:00
 
 Drażniący gardło smog i ostry zapach spalenizny towarzyszą Rosjanom z Jekaterynburga od czwartkowego poranka. Zastanawiają się, skąd wzięło się takie stężenie pyłów, skoro lokalne centrum meteorologiczne nie wydało ostrzeżeń o zanieczyszczeniach w atmosferze. - Czuję się, jakbym chodził wśród ognia - opisał jeden z mieszkańców.
+

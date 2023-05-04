@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Ska Band Half Past Two Releases Music Video Shot Entirely In The Sims 3
  - [https://www.gamespot.com/articles/ska-band-half-past-two-releases-music-video-shot-entirely-in-the-sims-3/1100-6507795/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ska-band-half-past-two-releases-music-video-shot-entirely-in-the-sims-3/1100-6507795/?ftag=CAD-01-10abi2f)
@@ -230,3 +230,4 @@
  - date published: 2022-09-23 00:47:00+00:00
 
 <p>Bugs, imbalanced gameplay mechanics, and other issues can be frustrating, but according to <a href="https://www.gamespot.com/games/apex-legends/">Apex Legends</a> developer Respawn Entertainment, some players have taken the issues too far, sending personal attack to individual developers on social media. Respawn tweeted about the harassment this evening, stating, "<span>We welcome community input, however, the line between constructive feedback and the harassment of our dev team cannot be cro
+

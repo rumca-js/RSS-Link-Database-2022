@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Bonelab review
  - [https://www.pcgamer.com/bonelab-review](https://www.pcgamer.com/bonelab-review)
@@ -160,3 +160,4 @@ Wordle today: The solution and a hint for the #503 puzzle.
  - date published: 2022-11-04 09:34:16+00:00
 
 Enjoy some serious price drops on everything from ultrawide 4K gaming monitors to budget panels in the run up to Black Friday.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Aubrey Plaza Joining Marvel's Agatha: Coven of Chaos Is an On-Brand No-Brainer
  - [https://gizmodo.com/aubrey-plaza-joins-mcu-show-agatha-coven-of-chaos-1849735603](https://gizmodo.com/aubrey-plaza-joins-mcu-show-agatha-coven-of-chaos-1849735603)
@@ -258,3 +258,4 @@
  - date published: 2022-11-02 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--AWJdPpKT--/c_fit,fl_progressive,q_80,w_636/db1ce2fee1abdb3cb574ea9ce70355e7.jpg" /><p>A <a href="https://gizmodo.com/friday-the-13-prequel-crystal-lake-peacock-bryan-fuller-1849724455"><em>Friday the 13th</em> prequel show</a> titled <em>Crystal Lake</em> is coming to Peacock, and now its showrunner, <a href="https://gizmodo.com/bryan-fullers-original-plans-for-star-trek-discoverys-1843186864">Bryan Fuller</a>, is clearing up some misconceptions. In a new interview, Fuller explained that the show can, in fact, use anything from the <em>Friday the 13th</em> franchise because it’s a streaming series, not a movie. He also…</p><p><a href="https://gizmodo.com/friday-the-13-prequel-crystal-lake-peacock-bryan-fuller-1849729795">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Korea Północna przeprowadziła kolejne testy pocisków dalekiego zasięgu
  - [https://wydarzenia.interia.pl/zagranica/news-korea-polnocna-przeprowadzila-kolejne-testy-pociskow-dalekie,nId,6343877](https://wydarzenia.interia.pl/zagranica/news-korea-polnocna-przeprowadzila-kolejne-testy-pociskow-dalekie,nId,6343877)
@@ -622,3 +622,4 @@
  - date published: 2022-10-12 03:38:32+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-231-dzien-inwazji-rosji-relacja-na-zywo,nzId,3168,akt,120807"><img align="left" alt="Wojna w Ukrainie. 231. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-231-dzien-inwazji-rosji-relacja-na-zywo/000G6V98114FV657-C321.jpg" /></a>Zapraszamy do śledzenia relacji na żywo. Najnowsze informacje z frontu.</p><br clear="all" />
+

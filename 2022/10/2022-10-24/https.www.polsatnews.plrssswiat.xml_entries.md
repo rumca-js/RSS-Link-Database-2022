@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania. Prezenter radiowy Tim Gough zmarł podczas audycji
  - [https://www.polsatnews.pl/wiadomosc/2022-10-24/wielka-brytania-prezenter-radiowy-tim-gough-zmarl-podczas-audycji/](https://www.polsatnews.pl/wiadomosc/2022-10-24/wielka-brytania-prezenter-radiowy-tim-gough-zmarl-podczas-audycji/)
@@ -146,3 +146,4 @@ W nocy z niedzieli na poniedziałek doszło do wymiany ognia między okrętami K
  - date published: 2022-10-24 04:20:00+00:00
 
 14-letnia dziewczyna została dźgnięta nożem w klatkę piersiową po tym, jak pokłóciła się z dwiema innymi nastolatkami. Dziewczynę przewieziono do szpitala w stabilnym stanie. Ranny został też 13-latek, który odniósł powierzchowne obrażenia. Policja szuka napastniczek.
+

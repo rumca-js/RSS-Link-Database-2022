@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## More Google Pixel Tablet details appear in the latest specs leak
  - [https://www.techradar.com/news/more-google-pixel-tablet-details-appear-in-the-latest-specs-leak/](https://www.techradar.com/news/more-google-pixel-tablet-details-appear-in-the-latest-specs-leak/)
@@ -153,3 +153,4 @@ Sensitive data taken from Optus customers includes phone numbers, passport info 
  - date published: 2022-09-24 01:00:47+00:00
 
 Exclusive: An interview with Steve Santamaria, CEO of Folio Photonics
+

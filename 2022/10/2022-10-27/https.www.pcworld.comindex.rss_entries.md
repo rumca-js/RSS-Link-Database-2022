@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The best VPNs for Android: Our picks for phones and tablets
  - [https://www.pcworld.com/article/403351/best-vpns-for-android.html](https://www.pcworld.com/article/403351/best-vpns-for-android.html)
@@ -1649,3 +1649,4 @@ iPad</div>
 
 <p>Pricing is the final, and important, factor. The Ultragear 48GQ900-B debuted at an MSRP of $1,499.99, but it&rsquo;s now on sale at multiple retailers (and listed on LG&rsquo;s website) at $1,199.99. That&rsquo;s no bargain, but it&rsquo;s less expensive than a number of smaller Mini-LED and OLED monitors. The Ultragear 48GQ900-B is a solid, though not flawless, choice if you want a huge screen for your PC.</p>
 Monitors</div>
+

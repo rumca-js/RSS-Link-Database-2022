@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## NASA observes huge meteoroid impact on Mars, discovers more ice on the Red Planet
  - [https://www.zdnet.com/article/nasa-observes-huge-meteoroid-impact-on-mars-discovers-more-ice-on-the-red-planet/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-observes-huge-meteoroid-impact-on-mars-discovers-more-ice-on-the-red-planet/#ftag=RSSbaffb68)
@@ -202,3 +202,4 @@ But the South Korean tech giant said it expects its annual revenue this year to 
  - date published: 2022-10-27 00:23:14+00:00
 
 SAS Institute says the integration of its Viya platform with the software toolkit released by Monetary Authority of Singapore, aims to help financial institutions struggling to put into practice core principles governing the ethical and responsible use of artificial intelligence.
+

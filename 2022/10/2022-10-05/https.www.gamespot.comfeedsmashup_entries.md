@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Keanu Reeves Wants To Direct Netflix's BRZRKR Film
  - [https://www.gamespot.com/articles/keanu-reeves-wants-to-direct-netflixs-brzrkr-film/1100-6508068/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/keanu-reeves-wants-to-direct-netflixs-brzrkr-film/1100-6508068/?ftag=CAD-01-10abi2f)
@@ -363,3 +363,4 @@
  - date published: 2022-10-05 00:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4044299-220920_gsu_ytthumbhellraiser_v2_notext.jpg" width="480" /> The cast of the Hulu's Hellraiser (2022) film discusses queer representation in the history of the long-running film series and in the horror genre as a whole.
+

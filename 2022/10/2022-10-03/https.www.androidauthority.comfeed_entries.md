@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google’s Pixel Watch just got an early unboxing
  - [https://www.androidauthority.com/google-pixel-watch-2-3215962/](https://www.androidauthority.com/google-pixel-watch-2-3215962/)
@@ -97,3 +97,4 @@ New branding is here for the ubiquitous connector.
  - date published: 2022-10-03 05:18:01+00:00
 
 Time to up the photography game on your older Samsung flagship.
+

@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Obama Already Said Some of What the Progressive Caucus Got Slammed for About Ukraine
  - [https://theintercept.com/2022/10/26/obama-ukraine-congress-progressive-caucus/](https://theintercept.com/2022/10/26/obama-ukraine-congress-progressive-caucus/)
@@ -31,3 +31,4 @@
 
 <p>Durham has used the criminal justice system to score political points, not to search for the truth.</p>
 <p>The post <a href="https://theintercept.com/2022/10/26/trump-john-durham/" rel="nofollow">John Durham Was Trump&#8217;s Answer to Robert Mueller. His Investigation Went Nowhere.</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

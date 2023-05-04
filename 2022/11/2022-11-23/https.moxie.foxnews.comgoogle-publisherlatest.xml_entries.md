@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Quick tech tricks to make the busy holiday season easier
  - [https://www.foxnews.com/tech/quick-tech-tricks-make-busy-holiday-season-easier](https://www.foxnews.com/tech/quick-tech-tricks-make-busy-holiday-season-easier)
@@ -1238,3 +1238,4 @@ Arizona Cardinals head coach Kliff Kingsbury told the Arizona Republic on Tuesda
  - date published: 2022-11-23 00:00:52+00:00
 
 The New York Times once sounded the alarm that President Biden's age has become an "uncomfortable issue" for Democrats, but now it is citing experts who say he's in good shape.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Galaxy Z Fold 4 and Flip 4 owners finally get access to the Android 13 beta
  - [https://www.androidauthority.com/galaxy-z-fold-flip-4-android-13-3221905/](https://www.androidauthority.com/galaxy-z-fold-flip-4-android-13-3221905/)
@@ -118,3 +118,4 @@ This concept might be the Galaxy Z Flip of the rollable world.
  - date published: 2022-10-18 06:07:31+00:00
 
 Your Fossil Gen 6 is now getting the latest Google software but not all its features.
+

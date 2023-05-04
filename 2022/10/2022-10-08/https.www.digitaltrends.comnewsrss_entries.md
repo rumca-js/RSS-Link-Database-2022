@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Why you may need an outrageous power supply for the RTX 4090 after all
  - [https://www.digitaltrends.com/computing/nvidia-geforce-rtx-4090-partner-psu-requirements/](https://www.digitaltrends.com/computing/nvidia-geforce-rtx-4090-partner-psu-requirements/)
@@ -13,3 +13,4 @@ Nvidia's board partners are also releasing their own versions of the RTX 4090. S
  - date published: 2022-10-08 07:37:40.201190+00:00
 
 Intel just teamed up with CLX in order to create a proof-of-concept gaming PC that bundles two desktops into one.
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Elon Musk says Twitter will offer 'amnesty' to suspended accounts
  - [https://www.bbc.co.uk/news/business-63752208?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63752208?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Several accounts - including Donald Trump's - have already been reinstated by th
  - date published: 2022-11-25 01:00:57+00:00
 
 How the former US president might lose money if he starts tweeting.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Save up to $280 on these Amazon Eero Black Friday deals
  - [https://www.androidauthority.com/eero-black-friday-3241483/](https://www.androidauthority.com/eero-black-friday-3241483/)
@@ -118,3 +118,4 @@ Google was the big winner here, with Sony and Xiaomi gaining plenty of votes too
  - date published: 2022-11-25 05:58:21+00:00
 
 Samsung's apparent solution would differ from rival services by offering image transmission too.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Opolskie. Syn miał zabić swoich rodziców krzesłem. Usłyszał zarzut podwójnego zabójstwa
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29099429,opolskie-syn-mial-zabic-swoich-rodzicow-krzeslem-uslyszal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29099429,opolskie-syn-mial-zabic-swoich-rodzicow-krzeslem-uslyszal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -125,3 +125,4 @@
  - date published: 2022-11-02 06:52:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/10/bf/1b/z29095952M,Antyrosyjska-pikieta--zdjecie-ilustracyjne-.jpg" vspace="2" />Niemal połowa Polaków deklaruje, że nasz kraj powinien pomagać rosyjskiej opozycji. Inaczej jednak jest wśród elektoratu obozu władzy - aż 65 proc. z nich jest przeciwna pomaganiu przeciwnikom Władimira Putina.
+

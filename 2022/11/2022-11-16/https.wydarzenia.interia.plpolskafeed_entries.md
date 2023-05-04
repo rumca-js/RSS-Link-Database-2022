@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Premier zainicjował modlitwę w Sejmie
  - [https://wydarzenia.interia.pl/kraj/news-premier-zainicjowal-modlitwe-w-sejmie,nId,6415026](https://wydarzenia.interia.pl/kraj/news-premier-zainicjowal-modlitwe-w-sejmie,nId,6415026)
@@ -20,3 +20,4 @@
  - date published: 2022-11-16 11:00:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-prezydent-o-przewodowie-wine-za-cale-zajscie-ponosi-strona-r,nId,6414710"><img align="left" alt="Prezydent o Przewodowie: Winę za całe zajście ponosi strona rosyjska" src="https://i.iplsc.com/prezydent-o-przewodowie-wine-za-cale-zajscie-ponosi-strona-r/000GCJHWIFLQU56G-C321.jpg" /></a>Winę za całe wczorajsze zajście ponosi strona rosyjska - powiedział prezydent Andrzej Duda po spotkaniu z premierem, ministrami oraz dowódcami wojskowymi w Biurze Bezpieczeństwa Narodowego. - Nic nie wskazuje na to, że był to intencjonalny atak na Polskę - dodał. Prezydent przyznał również, że istnieje wysokie prawdopodobieństwo, że pocisk, który spadł na wieś Przewodów, to rakieta ukraińskiej obrony.</p><br clear="all" />
+

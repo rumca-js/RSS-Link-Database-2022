@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja: Samorządowiec pokonał w wyborach komisarza wojskowego. Ten "za karę" go zmobilizował
  - [https://www.polsatnews.pl/wiadomosc/2022-11-08/rosja-samorzadowiec-pokonal-w-wyborach-komisarza-wojskowego-ten-za-kare-go-zmobilizowal/](https://www.polsatnews.pl/wiadomosc/2022-11-08/rosja-samorzadowiec-pokonal-w-wyborach-komisarza-wojskowego-ten-za-kare-go-zmobilizowal/)
@@ -146,3 +146,4 @@ W poniedziałek o godz. 23 czasu wschodnioamerykańskiego (godz. 5 we wtorek w P
  - date published: 2022-11-08 05:46:00+00:00
 
 Rosyjski oligarcha Jewgienij Prigożyn, założyciel Grupy Wagnera i firmy cateringowej dowożącej jedzenia na Kreml, przyznał, że Rosja ingerowała w wyniki wyborów prezydenckich w USA. - Mieszaliśmy się i nadal będziemy to robić - stwierdził bez ogródek. Do jego słów odniosła się rzeczniczka Białego Domu.
+

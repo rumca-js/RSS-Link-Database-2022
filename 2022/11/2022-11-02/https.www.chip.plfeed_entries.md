@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Ewolucyjna luka wypełniona. Wystarczyła jedna skamieniałość
  - [https://www.chip.pl/2022/11/ewolucyjna-luka-yuanmoupithecus-xiaoyuan-gibon](https://www.chip.pl/2022/11/ewolucyjna-luka-yuanmoupithecus-xiaoyuan-gibon)
@@ -159,3 +159,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="731" src="https://konto.chip.pl/wp-content/uploads/2022/02/podwojna-czarna-dziura.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/02/podwojna-czarna-dziura.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Matematyczny dowód na kwantową naturę czarnych dziur może doprowadzić do &#8220;pogodzenia&#8221; fizyki kwantowej i ogólnej teorii względności. To z kolei powinno przełożyć się na przełom dotyczący zrozumienia, jak działa wszechświat. Dokonania w tej sprawie są dziełem autorów publikacji zamieszczonej na łamach Physical Review Letters. To właśnie oni wykazali, że superpozycje masy w teoretycznym typie czarnej [&#8230;]</p>
+

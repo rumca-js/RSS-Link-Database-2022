@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## 5 reasons Sonic fans see ‘Sonic Frontiers’ as an undeniable win
  - [https://www.washingtonpost.com/video-games/2022/11/14/sonic-frontiers-fans-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/14/sonic-frontiers-fans-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ The Amazon founder, who has a net worth north of $124 billion, joins a growing l
  - date published: 2022-11-14 06:00:00+00:00
 
 Your phone could now give you an up to 60 second warning when a big earthquake is about to hit
+

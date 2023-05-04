@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## There’s never been a better time to land on this brilliant 404 page
  - [https://www.digitaltrends.com/news/this-brilliant-404-page-is-more-important-than-ever/](https://www.digitaltrends.com/news/this-brilliant-404-page-is-more-important-than-ever/)
@@ -13,3 +13,4 @@ The FT's brilliant 404 error page has been online for a few years now, but in th
  - date published: 2022-10-17 07:06:54.490983+00:00
 
 The 2023 Mercedes-Benz EQE SUV is the fifth model in Mercedes' EQ lineup of electric cars.
+

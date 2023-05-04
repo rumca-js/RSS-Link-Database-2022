@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The bike that got me through the pandemic (it's $2000 less than a Peloton)
  - [https://www.zdnet.com/article/the-bike-that-got-me-through-the-pandemic-its-2000-less-than-a-peloton/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-bike-that-got-me-through-the-pandemic-its-2000-less-than-a-peloton/#ftag=RSSbaffb68)
@@ -34,3 +34,4 @@ Do you have a gadget-loving dad or tech-challenged grandparent? ZDNET rounded up
  - date published: 2022-11-06 03:20:00+00:00
 
 Whether you are creating content for YouTube or simply documenting key family memories, the quality of your video should be a top priority. Consider these cameras before making your next big investment in a content-capturing device.
+

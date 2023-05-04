@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## The Apple Watch Series 8 is $50 off ahead of Black Friday
  - [https://www.engadget.com/the-apple-watch-series-8-is-50-off-ahead-of-black-friday-210357649.html?src=rss](https://www.engadget.com/the-apple-watch-series-8-is-50-off-ahead-of-black-friday-210357649.html?src=rss)
@@ -153,3 +153,4 @@
  - date published: 2022-11-14 11:27:38+00:00
 
 <p><em>Berserk</em>, the long-running manga that married fantasy and, well, violence, is coming back to the small screen. The original 25-episode 1997 anime series based on the manga and directed by Naohito Takahashi is coming to Netflix on December 1st, according to <a href="https://comicbook.com/anime/news/berserk-original-anime-netflix-release-date/"><em>ComicBook.com</em></a>.</p><p>As is clear from the trailer below, <em>Berserk</em> is a pitch black and fairly brutal anime that came some eight years after the manga first appeared in <em>Young Animal</em> magazine. The series covers the so-called Golden Age Arc, covering the period when Guts joined the Band Of the Hawk and met the other primary characters, Griffith and Casca. It's considered by some fans to be the best take on the manga, and is said to have inspired or influenced major anime hits like <em>Fullmetal Alchemist </em>and <em>Attack on Titan</em>.</p><span id="end-legacy-contents"></span><div id="9d17e1df34f54ceeac03d01ead30e333"></div><p>The release of Berserk material from Netflix seemed a fait accompli when it was <a href="https://www.engadget.com/netflix-nippon-tv-deal-160813690.html">announced</a> that the streaming service had secured the rights to that franchise, along with <em>Parasyte</em>, <em>Monster</em> and other classic anime. In addition, new material could be coming soon as well, according to a <a href="https://berserk-me.com/">countdown clock</a> that appeared recently on Berserk's official website, pointing to a date in mid-December. Nothing is official yet, but it looks like promising times for fans of the franchise.&nbsp;</p>
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The iQOO 9T is a killer phone that you probably can't buy
  - [https://www.zdnet.com/article/iqoo-9t-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/iqoo-9t-review/#ftag=RSSbaffb68)
@@ -34,3 +34,4 @@ If you want the best electric pressure washer to tackle that tough outdoor clean
  - date published: 2022-09-10 02:31:00+00:00
 
 With top-notch smart lights, you can create cool lighting effects both inside and outside of your home. They're entertaining all year round, but for Halloween, you can use them to create an atmosphere that will terrify your trick-or-treaters and party guests.
+

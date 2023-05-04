@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Elon Musk mówi o bankructwie. Twitter ma 13 mld USD długu i generuje 4 mln USD strat dziennie
  - [https://ithardware.pl/aktualnosci/elon_musk_mowi_o_bankructwie_twitter_ma_13_mld_usd_dlugu_i_generuje_4_mln_usd_strat_dziennie-24331.html](https://ithardware.pl/aktualnosci/elon_musk_mowi_o_bankructwie_twitter_ma_13_mld_usd_dlugu_i_generuje_4_mln_usd_strat_dziennie-24331.html)
@@ -46,9 +46,9 @@ Seria smartfon&oacute;w Oppo Reno9 ma posiadać trzech...
  - [https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html](https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-11-13 09:00:01+00:00
- - tags: apple,monopoly,amazon
 
 <img src="https://ithardware.pl/artykuly/min/24324_1.jpg" />            Apple i Amazon mogą mieć kłopoty. Giganci zostali oskarżeni o wsp&oacute;łdziałanie na niekorzyść rynku i łamanie przepis&oacute;w antymonopolowych. Chodzi o porozumienie zawarte przez korporacje w 2019 roku.
 
 Kancelaria Hagens Berman,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html">https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html</a></p>
+

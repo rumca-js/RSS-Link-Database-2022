@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja: Popis bandytów. Napadli na bezgotówkowego bukmachera
  - [https://www.polsatnews.pl/wiadomosc/2022-11-19/rosja-popis-bandytow-napadli-na-bezgotowkowego-bukmachera/](https://www.polsatnews.pl/wiadomosc/2022-11-19/rosja-popis-bandytow-napadli-na-bezgotowkowego-bukmachera/)
@@ -125,3 +125,4 @@ Kreml przygotowuje się do kolejnej rundy mobilizacji, podczas gdy jesienny cykl
  - date published: 2022-11-19 05:19:00+00:00
 
 Prezydent Ukrainy Wołodymyr Zełenski w wieczornym wystąpieniu podał, że trwa przywracanie dostaw prądu po intensywnych rosyjskich ostrzałach z ostatnich dni. Trudna sytuacja panuje nadal w 17 regionach i stolicy Kijowie. W wyzwolonym Chersoniu powstały punkty niezwyciężoności. Wolontariusze gotują jedzenie, rozdają wrzątek, można naładować telefon i połączyć się z siecią przez system Starlink.
+

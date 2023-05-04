@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Moskwa. Awaria prądu w czasie narady z Putinem. Ministrowie siedzieli w ciemności
  - [https://www.polsatnews.pl/wiadomosc/2022-11-03/moskwa-awaria-pradu-w-czasie-spotkania-z-putinem-ministrowie-siedzieli-w-ciemnosci/](https://www.polsatnews.pl/wiadomosc/2022-11-03/moskwa-awaria-pradu-w-czasie-spotkania-z-putinem-ministrowie-siedzieli-w-ciemnosci/)
@@ -90,3 +90,4 @@ Paliwa do pracy starczy na 15 dni. Zaczęło się odliczanie - napisał w komuni
  - date published: 2022-11-03 05:05:00+00:00
 
 Korea Północna wystrzeliła pociski rakietowe, które wywołały alarm w środkowej i północnej Japonii. To nie pierwsze próby balistyczne dokonywane przez Pjongjang tej jesieni. Mają one zniechęcić USA i Koreę Południową do wspólnych ćwiczeń wojskowych - przekazał Reuters.
+

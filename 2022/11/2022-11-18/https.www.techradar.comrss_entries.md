@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Creatives will benefit from this top graphics card, if they can find one
  - [https://www.techradar.com/news/creatives-will-benefit-from-this-top-graphics-card-if-they-can-find-one/](https://www.techradar.com/news/creatives-will-benefit-from-this-top-graphics-card-if-they-can-find-one/)
@@ -188,3 +188,4 @@ We break down everything you need to know about this year's Black Friday deals e
  - date published: 2022-11-18 01:19:51+00:00
 
 Being more sustainable is good news for everyone.
+

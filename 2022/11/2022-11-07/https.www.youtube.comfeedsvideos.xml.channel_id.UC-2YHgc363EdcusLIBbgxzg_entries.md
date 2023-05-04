@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## Weirdest Senses Animals Have That You Don't
  - [https://www.youtube.com/watch?v=Iyfn4pkezfY](https://www.youtube.com/watch?v=Iyfn4pkezfY)
@@ -83,3 +83,4 @@ TIMESTAMPS -
 13:23 - Super Taste
 14:51 - Biomimicry Benefits
 16:20 - Sponsor - NordVPN
+

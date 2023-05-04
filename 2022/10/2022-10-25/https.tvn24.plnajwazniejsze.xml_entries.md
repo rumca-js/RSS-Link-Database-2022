@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Siedem goli w Lizbonie, jeden Milika. Juventus wyrzucony z Ligi Mistrzów
  - [https://eurosport.tvn24.pl/siedem-goli-w-lizbonie--jeden-milika--juventus-wyrzucony-z-ligi-mistrz-w,1122627.html?source=rss](https://eurosport.tvn24.pl/siedem-goli-w-lizbonie--jeden-milika--juventus-wyrzucony-z-ligi-mistrz-w,1122627.html?source=rss)
@@ -143,3 +143,4 @@
 
 <img alt="Został ranny w czasie okupacji Kupiańska. Przygarnął go Andrea Bocelli" src="https://tvn24.pl/najnowsze/cdn-zdjecie-p9l0ds-pies-dzek-6178122/alternates/LANDSCAPE_1280" />
     Pies Dżek trafił już do Włoch, jest ze swoim nowym opiekunem.
+

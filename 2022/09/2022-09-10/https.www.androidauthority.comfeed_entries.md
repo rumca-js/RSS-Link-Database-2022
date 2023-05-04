@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Samsung Galaxy S22 vs iPhone 14: Which should you buy?
  - [https://www.androidauthority.com/samsung-galaxy-s22-vs-apple-iphone-14-3206618/](https://www.androidauthority.com/samsung-galaxy-s22-vs-apple-iphone-14-3206618/)
@@ -62,3 +62,4 @@ Looking past the hype with the Master of Nothing.
  - date published: 2022-09-10 11:14:05+00:00
 
 Pixel 7 launch date, Apple event updates, Rick and Morty's GoW Ragnarok trailer, and more of this week's top tech news.
+

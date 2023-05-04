@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: The Daily Show(?) torches Kamala Harris over tossing the word salad, compares her to fictional 'Veep'
  - [https://www.louderwithcrowder.com/kamala-harris-veep-daily-show](https://www.louderwithcrowder.com/kamala-harris-veep-daily-show)
@@ -72,3 +72,4 @@
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31854619&amp;width=1200&amp;height=600&amp;coordinates=0%2C64%2C0%2C134" /><br /><br /><p>When you make a Hollywood movie for a niche audience that tanks at the box office, it is best practices to attack and insult the people from outside your niche audience for your failure. That's what hateful douchebag Billy Eichner is doing over his movie <em>Bros</em>.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
 <img 
+

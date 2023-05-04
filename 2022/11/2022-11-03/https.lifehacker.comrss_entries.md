@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Everything You Didn't Know You Could Do With an iPhone Screenshot
  - [https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349](https://lifehacker.com/everything-you-didnt-know-you-could-do-with-an-iphone-s-1849738349)
@@ -118,3 +118,4 @@
  - date published: 2022-11-03 04:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--peOuUv70--/c_fit,fl_progressive,q_80,w_636/24cde82bd0d3545646c4f9fe7d47becb.jpg" /><p>When you’re watching a relaxing YouTube video, the last thing you need is an obnoxious autoplaying video or a loud notification blasting into your ears from another open tab. If muting all background tabs is not the best option for you, try <a href="https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke" rel="noopener noreferrer" target="_blank">Volume Master</a>, a Chrome extension that lets you individually control the audio…</p><p><a href="https://lifehacker.com/you-can-adjust-the-volume-of-individual-tabs-in-google-1849737905">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Andor's Cool Imperial Cruiser Has a Long Star Wars History
  - [https://gizmodo.com/andor-episode-11-arrestor-cruiser-explained-star-wars-1849792892](https://gizmodo.com/andor-episode-11-arrestor-cruiser-explained-star-wars-1849792892)
@@ -307,3 +307,4 @@
  - date published: 2022-11-16 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0IE14H4n--/c_fit,fl_progressive,q_80,w_636/c9737f8b40d5502af5cc4ce3afecc691.jpg" /><p><em>The Walking Dead</em> may be <a href="https://gizmodo.com/walking-dead-recap-season-11-episode-23-family-1849772298">coming to an end</a>, but like the zombies at its core, its <a href="https://gizmodo.com/frank-darabont-sues-the-bejeezus-out-of-the-walking-dea-1485762047">legal troubles</a> never die. Last year, <a href="https://gizmodo.com/walking-dead-lawsuit-ends-in-200-million-settlement-1847310301">AMC reached a $200 million settlement</a> with producer <a href="https://gizmodo.com/how-much-does-walking-dead-showrunner-frank-darabont-ha-1751389592">Frank Darabont</a> after he sued the network over what he believed was “shady accounting” in regard to his profits. That result was in direct contrast to…</p><p><a href="https://gizmodo.com/new-walking-dead-lawsuit-robert-kirkman-zombies-amc-sho-1849787575">Read more...</a></p>
+

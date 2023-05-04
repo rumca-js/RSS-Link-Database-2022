@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Mando and Grogu are a clan of two in The Mandalorian S3 teaser
  - [https://arstechnica.com/?p=1880214](https://arstechnica.com/?p=1880214)
@@ -27,3 +27,4 @@ Protesters oppose Israeli government contract they say could have military uses.
  - date published: 2022-09-10 11:07:04+00:00
 
 Without big companies like Microsoft, Sony, indies had more room to shine.
+

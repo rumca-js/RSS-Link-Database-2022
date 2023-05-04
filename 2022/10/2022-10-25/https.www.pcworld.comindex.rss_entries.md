@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## AMD says it won’t use ATX 3.0 power rails for new Radeon cards
  - [https://www.pcworld.com/article/1361668/amd-says-it-wont-use-atx-3-0-power-rails-for-radeon-6000-cards.html](https://www.pcworld.com/article/1361668/amd-says-it-wont-use-atx-3-0-power-rails-for-radeon-6000-cards.html)
@@ -1673,3 +1673,4 @@ Laptops, Microsoft Surface, Tablet PCs</div>
 			</div>
 		</div>
 CPUs and Processors</div>
+

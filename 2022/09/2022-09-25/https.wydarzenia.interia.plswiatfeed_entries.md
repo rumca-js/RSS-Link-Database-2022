@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Zełenski: Do Ukrainy dotarły pierwsze systemy NASAMS
  - [https://wydarzenia.interia.pl/zagranica/news-zelenski-do-ukrainy-dotarly-pierwsze-systemy-nasams,nId,6307783](https://wydarzenia.interia.pl/zagranica/news-zelenski-do-ukrainy-dotarly-pierwsze-systemy-nasams,nId,6307783)
@@ -27,3 +27,4 @@
  - date published: 2022-09-25 04:27:35+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lawrow-w-nowym-jorku-mowil-o-doktrynie-nuklearnej,nId,6307538"><img align="left" alt="Ławrow w Nowym Jorku. Mówił o doktrynie nuklearnej" src="https://i.iplsc.com/lawrow-w-nowym-jorku-mowil-o-doktrynie-nuklearnej/000G44QA2EU2RQBE-C321.jpg" /></a>Rosyjski minister spraw zagranicznych Siergiej Ławrow zapowiedział w sobotę w Nowym Jorku, że wszystkie rosyjskie prawa i doktryny, w tym doktryna nuklearna, będą mia
+

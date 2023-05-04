@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Nalot służb na seminarium. Wykryto "antyukraińskie materiały"
  - [https://www.money.pl/gospodarka/nalot-sluzb-na-seminarium-wykryto-antyukrainskie-materialy-6838945916287648a.html](https://www.money.pl/gospodarka/nalot-sluzb-na-seminarium-wykryto-antyukrainskie-materialy-6838945916287648a.html)
@@ -174,3 +174,4 @@
  - date published: 2022-11-28 04:53:30+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/df4566fa-6cc7-4048-a9fb-35ed437d65c6" width="308" /> Niechęć szefa Narodowego Banku Polskiego prof. Adama Glapińskiego do euro to nie tylko słowa. Jak wynika z informacji Wirtualnej Polski, od sześciu lat nie spotyka się osobiście z przewodniczącymi narodowych banków w Unii Europejskiej. Posiedzenia Rady Ogólnej Europejskiego Banku Centralnego, które są do tego okazją, omija szerokim łukiem. Przedstawiciele innych krajów od tych wizyt się nie uchylają.
+

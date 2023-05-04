@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Pennsylvania GOP House Leader Blessed Larry Krasner Impeachment Vote After Heated Caucus Meeting
  - [https://theintercept.com/2022/11/15/larry-krasner-impeachment-kerry-benninghoff/](https://theintercept.com/2022/11/15/larry-krasner-impeachment-kerry-benninghoff/)
@@ -23,3 +23,4 @@
 
 <p>In an exclusive video, a hunger striker is force-fed in ICE detention — lifting the veil of secrecy on a practice condemned by medical ethicists.</p>
 <p>The post <a href="https://theintercept.com/2022/11/15/force-feeding-video-ice/" rel="nofollow">The Public Has Never Seen the U.S. Government Force-Feed Someone — Until Now</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

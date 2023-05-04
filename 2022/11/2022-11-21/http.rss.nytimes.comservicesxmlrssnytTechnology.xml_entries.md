@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## What Elon Musk Is Doing to Twitter Is What He Did at Tesla and SpaceX
  - [https://www.nytimes.com/2022/11/21/technology/elon-musk-twitter-management.html](https://www.nytimes.com/2022/11/21/technology/elon-musk-twitter-management.html)
@@ -20,3 +20,4 @@ Microsoft’s $69 billion deal for Activision Blizzard, which is undergoing revi
  - date published: 2022-11-21 08:00:12+00:00
 
 Gary Gensler, the chair of the S.E.C., is at the center of a reckoning over the future of cryptocurrency after the implosion of FTX.
+

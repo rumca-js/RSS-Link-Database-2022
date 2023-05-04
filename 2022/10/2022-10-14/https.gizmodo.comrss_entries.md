@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## That [Redacted] Rings of Power Star Talks About That [Redacted] Twist
  - [https://gizmodo.com/rings-of-power-finale-twist-lord-of-the-rings-1849660044](https://gizmodo.com/rings-of-power-finale-twist-lord-of-the-rings-1849660044)
@@ -223,3 +223,4 @@
  - date published: 2022-10-14 10:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--gkjYlehs--/c_fit,fl_progressive,q_80,w_636/ac5e55df6096649541ad5d187fdfac77.jpg" /><p>Elon Musk’s aerospace company SpaceX has officially asked the Pentagon to pay for 100% of Ukraine’s access to Starlink, the satellite internet service the billionaire previously said he’d donated to the country, according to documents obtained by <a href="https://edition.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html" rel="
+

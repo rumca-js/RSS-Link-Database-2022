@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## A crypto exchange agrees to pay $360,000 for possibly violating Iran sanctions
  - [https://www.theverge.com/2022/11/28/23482884/crypto-exchange-kraken-fined-sanctions-violation-iran](https://www.theverge.com/2022/11/28/23482884/crypto-exchange-kraken-fined-sanctions-violation-iran)
@@ -216,7 +216,6 @@
  - [https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:02:03+00:00
- - tags: meta,privacy,facebook
 
 <figure>
       <img alt="The Facebook logo on a blue background." src="https://cdn.vox-cdn.com/thumbor/RIsXLcSPSs1B6EMm6Tfudb0c6tI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682088/STK040_VRG_Illo_N_Barclay_6_facebook.0.jpg" />
@@ -372,3 +371,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/28/23481637/european-union-inflight-5g-commission-spectrum">Continue reading&hellip;</a>
   </p>
+

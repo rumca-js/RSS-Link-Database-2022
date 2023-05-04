@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## HELLRAISER Cast on Making Queer Horror
  - [https://www.gamespot.com/videos/hellraiser-cast-on-making-queer-horror/2300-6459684/](https://www.gamespot.com/videos/hellraiser-cast-on-making-queer-horror/2300-6459684/)
@@ -363,3 +363,4 @@
  - date published: 2022-10-04 00:30:00+00:00
 
 <p>The latest major patch for <a href="https://www.gamespot.com/games/final-fantasy-xiv-online/">Final Fantasy XIV Online</a>, <a href="https://www.gamespot.com/articles/ffxivs-6-2-patch-notes-everything-you-need-to-know-about-island-sanctuary/1100-6506681/">Patch 6.2</a> added new quests, dungeons, and raids. The patch also added additional long-awaited chapters to some of the storylines in the MMORPG, as well as the all-new Island Sanctuary--an almost Animal Crossing-like island--for players t
+

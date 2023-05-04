@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Iga Świątek gra mecz w WTA Finals. Wygrana zapewni jej awans
  - [https://eurosport.tvn24.pl/iga--wi-tek-gra-mecz-w-wta-finals--wygrana-zapewni-jej-awans,1123523.html?source=rss](https://eurosport.tvn24.pl/iga--wi-tek-gra-mecz-w-wta-finals--wygrana-zapewni-jej-awans,1123523.html?source=rss)
@@ -207,3 +207,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-cfhq3u-john-van-den-brom-trener-lecha-poznan/alternates/LANDSCAPE_1280" />
     Lech Poznań w czwartkowy wieczór zagra o miejsce w barażach Ligi Konferencji.
+

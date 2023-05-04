@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "W tym miejscu mogę cofnąć się o 100 lat. To pokazuje całe piękno Łodzi"
  - [https://fakty.tvn24.pl/mark-brzezinski-odwiedzi----d---stolic--polskiej-kinematografii,1124293.html?source=rss](https://fakty.tvn24.pl/mark-brzezinski-odwiedzi----d---stolic--polskiej-kinematografii,1124293.html?source=rss)
@@ -199,3 +199,4 @@
 
 <img alt="Kontrowersje wokół inwestycji byłego senatora PiS" src="https://tvn24.pl/najnowsze/cdn-zdjecie-1r2ok7lry8-0911n369xr-pis-dnz-zalewski-6210385/alternates/LANDSCAPE_1280" />
     Materiał Macieja Zalewskiego.
+

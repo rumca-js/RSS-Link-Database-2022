@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Building the future of the command line
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58923](https://www.codeproject.com/script/News/View.aspx?nwid=58923)
@@ -62,3 +62,4 @@ Did people think "Gattaca" was a documentary?
  - date published: 2022-09-19 04:00:00+00:00
 
 Why create a new language, when you can just change the syntax of the old one?
+

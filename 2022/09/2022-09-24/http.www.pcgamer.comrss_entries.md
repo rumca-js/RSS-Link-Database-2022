@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Do you check how long games take to finish before you play them?
  - [https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them](https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them)
@@ -69,3 +69,4 @@ Tate is a controversial figure and under investigation by Romanian police for hu
  - date published: 2022-09-24 07:01:28+00:00
 
 Wordle today: The solution and a hint for Saturday's puzzle.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Candace Owens becomes latest high profile backer to jump off the Trump train
  - [https://www.dailymail.co.uk/news/article-11421249/Candace-Owens-latest-high-profile-backer-jump-Trump-train.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11421249/Candace-Owens-latest-high-profile-backer-jump-Trump-train.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1056,3 +1056,4 @@ PAUL BRACCHI: Gemma Brogan and her partner Christopher Bennett claimed £84,000 
  - date published: 2022-11-12 00:03:14+00:00
 
 Chandler Tran, 8, was enjoying his Easter holidays when his parents noticed he began to limp, spotting a lump no larger than a pea on his shin, which turned out to be a rare form of disease.
+

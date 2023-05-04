@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## One Year After Facebook Went Meta, It's Built a Multiverse of Problems
  - [https://gizmodo.com/one-year-after-facebook-went-meta-its-built-a-multiver-1849715493](https://gizmodo.com/one-year-after-facebook-went-meta-its-built-a-multiver-1849715493)
@@ -34,3 +34,4 @@
  - date published: 2022-10-30 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--krlRia7K--/c_fit,fl_progressive,q_80,w_636/a8b3dc98a625cb6851d1ed3b94736e42.png" /><p>Here’s an acclaimed director who doesn’t shun the <a href="https://gizmodo.com/new-black-panther-wakanda-forever-ryan-coogler-marvel-1849677919">Marvel Cinematic Universe</a>. During an <a href="https://www.rollingstone.com/music/music-news/almost-famous-musical-cameron-crowe-interview-true-story-1234616740/" rel="noopener noreferrer" target="_blank">interview with Rolling Stone</a> while being profiled for the opening of his <em>Almost Famous</em> musical, filmmaker Cameron Crowe talked about his interest in taking on an MCU film, if there was a right fit for him.Thankfully, he was…</p><p><a href="https://gizmodo.com/cameron-crowe-considers-marvel-studios-dazzler-movie-1849719647">Read more...</a></p>
+

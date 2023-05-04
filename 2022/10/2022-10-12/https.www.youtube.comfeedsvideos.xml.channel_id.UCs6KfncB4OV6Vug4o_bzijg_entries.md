@@ -1,4 +1,4 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
+# Source:Techlore, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, language:en-US
 
 ## Dispelling Myths of VPN Alternatives w/ Safing!
  - [https://www.youtube.com/watch?v=Myn2MiCV1oU](https://www.youtube.com/watch?v=Myn2MiCV1oU)
@@ -51,3 +51,4 @@ Notice: Throughout this interview (up until the end) I generally ask about the S
 45:10 Wrapping things up
 46:44 Fun announcement for sticking to the end :)
 #safing #VPN #techlore
+

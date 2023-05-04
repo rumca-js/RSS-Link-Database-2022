@@ -1,4 +1,4 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
+# Source:Jordan B Peterson, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, language:en-US
 
 ## Eugenics: Flawed Thinking Behind Pushed Science | Alex Story | #294
  - [https://www.youtube.com/watch?v=ZAaY0gbis4s](https://www.youtube.com/watch?v=ZAaY0gbis4s)
@@ -82,3 +82,4 @@ Telegram: https://t.me/DrJordanPeterson
 All socials: https://linktr.ee/drjordanbpeterson
 
 #JordanPeterson #JordanBPeterson #DrJordanPeterson #DrJordanBPeterson #DailyWirePlus #podcast #politics #totalitarianism #Eugenics #alexstory #government
+

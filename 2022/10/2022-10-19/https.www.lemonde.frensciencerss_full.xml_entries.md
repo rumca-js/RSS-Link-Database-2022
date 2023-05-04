@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Iconic 'Pillars of Creation' captured by Webb Telescope
  - [https://www.lemonde.fr/en/science/article/2022/10/19/iconic-pillars-of-creation-captured-by-webb-telescope_6001033_10.html](https://www.lemonde.fr/en/science/article/2022/10/19/iconic-pillars-of-creation-captured-by-webb-telescope_6001033_10.html)
@@ -13,3 +13,4 @@ The James Webb Space Telescope captured these huge structures of gas and dust te
  - date published: 2022-10-19 03:29:48+00:00
 
 The 'Hyla orientalis' species living in the vicinity of the 1986 nuclear plant accident has turned from green to black. It is thought to be the effect of the protective actions of melanin selected by accelerated evolutionary pressures.
+

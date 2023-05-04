@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Embracer shuts down Square Enix Montréal two months after buying it
  - [https://www.pcgamer.com/embracer-shuts-down-square-enix-montreal-two-months-after-buying-it](https://www.pcgamer.com/embracer-shuts-down-square-enix-montreal-two-months-after-buying-it)
@@ -188,3 +188,4 @@ It's Black November, people, and the discounts are piling up all the way towards
  - date published: 2022-11-01 08:01:28+00:00
 
 Wordle today: The solution and a hint for the #500 puzzle.
+

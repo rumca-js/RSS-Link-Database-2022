@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Ana de Armas lauded in reviews of X-rated Marilyn Monroe biopic Blonde 14 minute standing ovation
  - [https://www.dailymail.co.uk/news/article-11198625/Ana-Armas-lauded-reviews-X-rated-Marilyn-Monroe-biopic-Blonde-14-minute-standing-ovation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11198625/Ana-Armas-lauded-reviews-X-rated-Marilyn-Monroe-biopic-Blonde-14-minute-standing-ovation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1833,3 +1833,4 @@ The Commons will, unusually, sit again tomorrow for further tributes from 2pm an
  - date published: 2022-09-09 00:05:46+00:00
 
 The final years were not how they were meant to be, so very different from the slowing down and gentle decline together that the Queen had always envisaged.
+

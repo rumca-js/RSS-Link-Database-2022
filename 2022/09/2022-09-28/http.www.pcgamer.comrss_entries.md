@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## 'Hey everyone,' says Walmart executive to the single person in its new Roblox metaverse nightmare
  - [https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare](https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare)
@@ -237,3 +237,4 @@ Other than the usual minimum wattage requirements, don't stress.
  - date published: 2022-09-28 05:03:09+00:00
 
 Not having to pay to use Nvidia's tech sure makes for savings.
+

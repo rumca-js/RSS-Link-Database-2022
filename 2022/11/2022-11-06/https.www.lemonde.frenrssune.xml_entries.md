@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Danish teenager Rune wins Paris Masters with shock Djokovic defeat
  - [https://www.lemonde.fr/en/france/article/2022/11/06/danish-teenager-rune-wins-paris-masters-with-shock-defeat-of-djokovic_6003171_7.html](https://www.lemonde.fr/en/france/article/2022/11/06/danish-teenager-rune-wins-paris-masters-with-shock-defeat-of-djokovic_6003171_7.html)
@@ -160,3 +160,4 @@ In American tribal politics, education triggers fantasies and provokes crusades.
  - date published: 2022-11-06 00:27:21+00:00
 
 On Saturday, November 5, Welsh star Gareth Bale scored a dramatic stoppage-time equalizer before Los Angeles FC defeated Philadelphia Union on penalties to clinch their first MLS Cup crown on Saturday.
+

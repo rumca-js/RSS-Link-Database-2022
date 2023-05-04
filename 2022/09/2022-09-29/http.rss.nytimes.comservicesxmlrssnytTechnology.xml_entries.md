@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Meta Will Freeze Most Hiring, Zuckerberg Tells Employees
  - [https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html](https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html)
@@ -13,3 +13,4 @@ The company’s chief executive had signaled for several months that he wanted t
  - date published: 2022-09-29 18:01:39+00:00
 
 After nearly three years, Google has decided to winnow its video game ambitions because Stadia was less popular than it had anticipated.
+

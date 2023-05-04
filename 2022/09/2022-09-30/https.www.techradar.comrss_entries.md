@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Even the Windows logo isn't safe from malware
  - [https://www.techradar.com/news/even-the-windows-logo-isnt-safe-from-malware/](https://www.techradar.com/news/even-the-windows-logo-isnt-safe-from-malware/)
@@ -265,3 +265,4 @@ Upcoming Giger-inspired FPS Scorn is releasing a whole seven days earlier than e
  - date published: 2022-09-30 03:03:04+00:00
 
 Has the Ryzen Threadripper Pro 7995WX been used in the wild? We think so.
+

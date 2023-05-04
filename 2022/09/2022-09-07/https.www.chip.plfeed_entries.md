@@ -1,5 +1,3 @@
-# Source URL:https://www.chip.pl/feed/, Source language: None
-
 ## Słońce odsłoniło swoje nieznane do tej pory oblicze. Sami zobaczcie
  - [https://www.chip.pl/2022/09/slonce-zdjecie-inouye-solar-telescope/](https://www.chip.pl/2022/09/slonce-zdjecie-inouye-solar-telescope/)
  - RSS feed: https://www.chip.pl/feed/
@@ -167,3 +165,4 @@
 
 <p><img src="https://www.chip.pl/wp-content/uploads/2022/09/dron.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Qimingxing-50, to najwi&#281;kszy chi&#324;ski dron zasilany energi&#261; s&#322;oneczn&#261;, kt&#243;rego rozmiary s&#261; dwukrotnie wi&#281;ksze od s&#322;ynnego Zephyra S, odby&#322; sw&#243;j pierwszy lot. Od lat naukowcy pr&#243;buj&#261; projektowa&#263; drony zasilane energi&#261; s&#322;oneczn&#261;. Mog&#322;yby one znacznie d&#322;u&#380;ej od konwencjonalnie stos
+

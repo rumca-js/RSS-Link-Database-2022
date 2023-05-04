@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Merhan Karimi Nasseri nie żyje. Przez 18 lat mieszkał na paryskim lotnisku, był inspiracją dla Spielberga
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29134656,merhan-karimi-nasseri-nie-zyje-przez-18-lat-mieszkal-na-paryskim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29134656,merhan-karimi-nasseri-nie-zyje-przez-18-lat-mieszkal-na-paryskim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -90,3 +90,4 @@
  - date published: 2022-11-12 05:15:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/fe/c7/1b/z29128958M,Zakupy---zdjecie-ilustracyjne.jpg" vspace="2" />W piątek 11 listopada wypadł dzień wolny od pracy, dlatego wielu zastanawia się, czy w niedzielę 13 listopada sklepy będą otwarte. Jak wygląda kalendarz niedziel handlowych do końca 2022 roku i w 2023 roku?
+

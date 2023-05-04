@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Trains and postal services hit by mass strikes
  - [https://www.bbc.co.uk/news/business-63087621?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63087621?at_medium=RSS&at_campaign=KARANGA)
@@ -538,3 +538,4 @@ As Brazil's election - and the World Cup - approach, the famous yellow shirt is 
  - date published: 2022-09-30 00:13:10+00:00
 
 The accession of King Charles could lead to greater reconciliation with indigenous people in Canada.
+

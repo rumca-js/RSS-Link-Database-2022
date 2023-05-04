@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## PDC Players Championship Finals: Michael van Gerwen beats Rob Cross to win seventh title
  - [https://www.bbc.co.uk/sport/darts/63776767?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/63776767?at_medium=RSS&at_campaign=KARANGA)
@@ -475,3 +475,4 @@ The Sunday Telegraph reports about 4,000 patients a day are waiting more than 12
  - date published: 2022-11-27 00:01:12+00:00
 
 The Queen Consort is ending the traditional title of ladies-in-waiting for assistants at events.
+

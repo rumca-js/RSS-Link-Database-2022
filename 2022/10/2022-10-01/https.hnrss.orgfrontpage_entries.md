@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How Writing Has Spread Across the World, from 3000 BC to This Year
  - [https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
@@ -531,3 +531,4 @@ I'd like to be able to use IP v6 only servers to collect artefacts and do builds
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33042405">https://news.ycombinator.com/item?id=33042405</a></p>
 <p>Points: 24</p>
 <p># Comments: 1</p>
+

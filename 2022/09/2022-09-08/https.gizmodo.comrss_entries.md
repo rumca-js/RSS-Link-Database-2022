@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The New Black Adam Trailer Looks a Lot Like a Justice Society Trailer
  - [https://gizmodo.com/black-adam-trailer-justice-society-dc-films-the-rock-1849508762](https://gizmodo.com/black-adam-trailer-justice-society-dc-films-the-rock-1849508762)
@@ -265,3 +265,4 @@
  - date published: 2022-09-08 10:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--OAcOj9Hn--/c_fit,fl_progressive,q_80,w_636/1ab4b0f8efb10286ff77cb36cc217f51.jpg" /><p>The workers managing Apple’s iCloud datacenter in China, employees of Apple-partner Guizhou Cloud Big Data, haven’t been able to see their families in a week, thanks to a lockdown of the city of Guiyang over covid-19 concerns, according to a new report from <a href="https://www.bloomberg.com/news/articles/2022-09-08/apple-s-china-icloud-operator-war
+

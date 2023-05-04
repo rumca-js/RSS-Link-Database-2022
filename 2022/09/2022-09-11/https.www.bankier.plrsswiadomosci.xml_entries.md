@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Niemcy i Austria odnotowują znaczny wzrost nielegalnej migracji
  - [https://www.bankier.pl/wiadomosc/Niemcy-i-Austria-odnotowuja-znaczny-wzrost-nielegalnej-migracji-8404149.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-i-Austria-odnotowuja-znaczny-wzrost-nielegalnej-migracji-8404149.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -171,3 +171,4 @@ ogrzewania. Te informacje są bardzo ważne w kontekście obecnej sytuacji. </p>
  - date published: 2022-09-11 01:20:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/0/b8857c4631da32-945-560-0-97-3543-2125.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Premier Grecji Kyriakos Mitsotakis zapowiedział w sobotę, że w przyszłym roku, po raz pierwszy od ponad 10 lat, czyli od wybuchu kryzysu finansowego w tym kraju, wzrośnie płaca minimalna i zrewaloryzowane zostaną emerytury.</p>
+

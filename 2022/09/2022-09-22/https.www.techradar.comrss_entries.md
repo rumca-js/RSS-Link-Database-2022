@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The newest Mozilla Firefox is much faster and smoother than ever before
  - [https://www.techradar.com/news/mozilla-firefox-is-now-faster-and-runs-better-on-low-ram/](https://www.techradar.com/news/mozilla-firefox-is-now-faster-and-runs-better-on-low-ram/)
@@ -100,6 +100,13 @@ Nvidia might well want to keep DLSS 3 as an incentive to buy RTX 4000 graphics c
 
 ## Samsung Galaxy Z Fold 5: what we want to see
  - [https://www.techradar.com/news/samsung-galaxy-z-fold-5-what-we-want-to-see/](https://www.techradar.com/news/samsung-galaxy-z-fold-5-what-we-want-to-see/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-09-22 13:40:16+00:00
+
+The Samsung Galaxy Z Fold 5 could be the best foldable phone of 2023. Here's what we've heard about it and what we want.
+
+## Samsung Galaxy Z Fold 5: what we want to see
+ - [https://www.techradar.com/news/samsung-galaxy-z-fold-5-what-we-want-to-see](https://www.techradar.com/news/samsung-galaxy-z-fold-5-what-we-want-to-see)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-22 13:40:16+00:00
 
@@ -265,3 +272,4 @@ Microsoft just teased its next major event, but is mum on what it plans to show 
  - date published: 2022-09-22 04:00:06+00:00
 
 The Netgear AXE3000 dongle offers speeds of up to 1,200 Mbps on the 6GHz band, but you'll also need Windows 11.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## "Zablokowanie Brauna". PiS za zmianami w przepisach o speckomisji, opozycja zapowiada sprzeciw
  - [https://www.bankier.pl/wiadomosc/PiS-za-zmianami-w-przepisach-o-speckomisji-opozycja-zapowiada-sprzeciw-8433662.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/PiS-za-zmianami-w-przepisach-o-speckomisji-opozycja-zapowiada-sprzeciw-8433662.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -532,3 +532,4 @@ centralą firmy we Wrocławiu. "Już teraz zarabiamy średnio nawet 4 pensje mni
 mocniejszego promowania kredytów hipotecznych. Realia rynkowe są jednak
 nieubłagane – rośnie oprocentowanie, a kurczy się grupa zainteresowanych finansowaniem
 i spełniających wyśrubowane normy zdolności kredytowej.  </p>
+

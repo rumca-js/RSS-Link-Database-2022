@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Samsung Galaxy Buds 2 Pro review: Excellent ANC, ecosystem limitations
  - [https://www.androidauthority.com/samsung-galaxy-buds-2-pro-review-3207774/](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-review-3207774/)
@@ -27,3 +27,4 @@ Cutting a product mid-development just signals to the world that you’re not re
  - date published: 2022-09-18 12:00:18+00:00
 
 From Samsung to Google and beyond, here's what we use as our personal devices.
+

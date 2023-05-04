@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Everything You Need to Do to Clean Up After a DIY Project
  - [https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843](https://lifehacker.com/everything-you-need-to-do-to-clean-up-after-a-diy-proje-1849746843)
@@ -20,3 +20,4 @@
  - date published: 2022-11-05 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--OulnMRfp--/c_fit,fl_progressive,q_80,w_636/e99740b107f867e38660bc5a75e71d42.jpg" /><p>Inflation has hit us hard this year, and so far, things aren’t looking great for 2023. No, buying some fast food in order to get more fast food for free probably isn’t going to fix things, but thanks to Wendy’s, you can try it out and see what happens. Here’s what to know.<br /></p><p><a href="https://lifehacker.com/you-can-get-a-free-wendy-s-frosty-every-day-for-a-year-1849746368">Read more...</a></p>
+

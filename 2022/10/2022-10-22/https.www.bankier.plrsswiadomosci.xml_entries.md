@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Media: Hakerzy opublikowali dokumenty dotyczące irańskiego programu nuklearnego
  - [https://www.bankier.pl/wiadomosc/Media-Hakerzy-opublikowali-dokumenty-dotyczace-iranskiego-programu-nuklearnego-8427391.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Hakerzy-opublikowali-dokumenty-dotyczace-iranskiego-programu-nuklearnego-8427391.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -190,3 +190,4 @@ których dostaną bankowy kredyt. Na celowniku są
 najbardziej dochodowym przestępstwem na świecie. Każdego roku przestępcy
  zyskują na tym procederze około 32 miliardów dolarów - podkreślił 
 rzecznik Komendy Głównej Policji inspektor Mariusz Ciarka. </p>
+

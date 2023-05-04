@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Truth Social in limbo as merger partner grapples with another failed vote
  - [https://www.washingtonpost.com/technology/2022/09/08/truth-social-digital-world-trump-failed-vote/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/08/truth-social-digital-world-trump-failed-vote/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Girls Make Games founder Laila Shabir wants her young campers to make games they
  - date published: 2022-09-08 07:03:49+00:00
 
 You might relish a few nifty tech improvements, but don’t upgrade your iPhone thinking it will save your life.
+

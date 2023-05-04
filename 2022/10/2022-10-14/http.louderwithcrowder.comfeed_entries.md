@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Teen girls forced to defend themselves against not wanting to share locker room with biological boy
  - [https://www.louderwithcrowder.com/locker-room-vermont-speaks-out](https://www.louderwithcrowder.com/locker-room-vermont-speaks-out)
@@ -48,3 +48,4 @@
  - date published: 2022-10-14 12:15:47+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31945306&amp;width=1245&amp;height=700&amp;coordinates=0%2C74%2C0%2C44" /><br /><br /><p>Troy Aikman offered a soft, milquetoast criticism of how ridiculous NFL referees are getting with roughing-the-passer calls. Bloggers and random idiots on Twitter were outraged by it. So, of course, Aikman was forced to apologize.</p><p>Here's the offending incident in question. Aikman said the referees need to "take the dresses off" and 
+

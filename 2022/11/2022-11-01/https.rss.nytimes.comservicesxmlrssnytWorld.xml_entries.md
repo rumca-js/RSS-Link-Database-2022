@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia Pushes Ukrainians to Relocate as Possible Battle for Kherson Looms
  - [https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html](https://www.nytimes.com/2022/11/01/world/europe/russia-ukraine-kherson-civilians.html)
@@ -139,3 +139,4 @@ A divided electorate and shifting alliances make for a delicate balance in the c
  - date published: 2022-11-01 05:23:03+00:00
 
 Skyrocketing inflation in Europe.
+

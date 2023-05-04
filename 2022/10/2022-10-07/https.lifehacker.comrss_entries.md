@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## What to Do Immediately After You Click a Phishing Link
  - [https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419](https://lifehacker.com/what-to-do-immediately-after-you-click-a-phishing-link-1849632419)
@@ -139,3 +139,4 @@
  - date published: 2022-10-07 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--k6XbsvbL--/c_fit,fl_progressive,q_80,w_636/2923b66a2d791c36233dee768e569b32.jpg" /><p>One of things everyone loves about their air fryer is how it can make foods crispy without using a ton of oil. This does not, however, prevent people from adding <em>some</em> oil to their food. After all, fat is flavor, and there can be some anxiety over things sticking to the basket tray.</p><p><a href="https://lifehacker.com/please-dont-put-cooki
+

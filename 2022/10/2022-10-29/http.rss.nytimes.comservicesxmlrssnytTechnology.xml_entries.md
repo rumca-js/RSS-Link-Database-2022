@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk Is Said to Have Ordered Job Cuts Across Twitter
  - [https://www.nytimes.com/2022/10/29/technology/twitter-layoffs-musk-jobs.html](https://www.nytimes.com/2022/10/29/technology/twitter-layoffs-musk-jobs.html)
@@ -41,3 +41,4 @@ Commutes are still painful, readers say. And it’s hard to give up the joys of 
  - date published: 2022-10-29 00:25:49+00:00
 
 The campaign appeared to start after Mr. Musk had officially taken control of the company.
+

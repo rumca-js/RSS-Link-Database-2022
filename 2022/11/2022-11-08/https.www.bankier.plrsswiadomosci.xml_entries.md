@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Biomed Lublin ma umowę pożyczki na 9 mln zł na finansowanie inwestycji
  - [https://www.bankier.pl/wiadomosc/Biomed-Lublin-ma-umowe-pozyczki-na-9-mln-zl-na-finansowanie-inwestycji-8436088.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Biomed-Lublin-ma-umowe-pozyczki-na-9-mln-zl-na-finansowanie-inwestycji-8436088.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -420,3 +420,4 @@ rekordów.</p>
  - date published: 2022-11-08 04:06:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/8/8/0eef5e708ab18b-948-568-0-0-4500-2699.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Były prezydent Donald Trump powiedział w poniedziałek wieczorem w Ohio, na ostatnim wiecu przed wtorkowymi wyborami, że 15 listopada wygłosi "wielkie oświadczenie" ze swej rezydencji na Florydzie. Nie podał bliższych szczegółów.</p>
+

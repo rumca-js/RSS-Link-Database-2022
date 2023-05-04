@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Meta Fined $24.6M For Violating Washington Campaign Finance Disclosure Law     - CNET
  - [https://www.cnet.com/news/social-media/meta-fined-24-6m-for-violating-washington-campaign-finance-disclosure-law/#ftag=CADf328eec](https://www.cnet.com/news/social-media/meta-fined-24-6m-for-violating-washington-campaign-finance-disclosure-law/#ftag=CADf328eec)
@@ -895,3 +895,4 @@ You have the option to convert a HELOC into a fixed-rate loan, which is ideal as
  - date published: 2022-10-27 00:00:02+00:00
 
 The Affordable Connectivity Program could net you free broadband. Read more to find out if you're eligible.
+

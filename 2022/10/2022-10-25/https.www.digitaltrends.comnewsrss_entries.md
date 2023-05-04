@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This new Best Buy program lets you lease a MacBook
  - [https://www.digitaltrends.com/computing/best-buy-new-upgrade-plus-program-lease-a-macbook/](https://www.digitaltrends.com/computing/best-buy-new-upgrade-plus-program-lease-a-macbook/)
@@ -20,3 +20,4 @@ Philips has just announced the arrival of its new Evnia gaming brand, starting w
  - date published: 2022-10-25 10:48:48.895531+00:00
 
 Qatar's small size means accommodation is tight for next month's World Cup, but some moneyed fans are determined to enjoy the sporting extravaganza in style.
+

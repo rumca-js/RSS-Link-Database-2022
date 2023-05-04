@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitch Says It Will Reduce Payments for Many Popular Streamers
  - [https://www.nytimes.com/2022/09/21/technology/twitch-reduce-payments-streamers.html](https://www.nytimes.com/2022/09/21/technology/twitch-reduce-payments-streamers.html)
@@ -41,3 +41,4 @@ Four whales have died near San Francisco this year after ships crashed into them
  - date published: 2022-09-21 13:00:11+00:00
 
 The accessibility features Apple and Google include in their mobile software can help people of all abilities get more from their devices.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Ukraina prosi o rakiety ATACMS. Deklarują, że USA będą mieć wgląd w listę celów
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-prosi-o-rakiety-atacms-deklaruja-ze-usa-beda-miec-wg,nId,6324725](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-prosi-o-rakiety-atacms-deklaruja-ze-usa-beda-miec-wg,nId,6324725)
@@ -20,3 +20,4 @@
  - date published: 2022-10-03 16:37:35+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-turcja-nie-zyje-muzyk-onur-sener-mial-nie-spelnic-prosby-pub,nId,6324405"><img align="left" alt="Turcja. Nie żyje muzyk Onur Sener. Miał nie spełnić prośby publiczności" src="https://i.iplsc.com/turcja-nie-zyje-muzyk-onur-sener-mial-nie-spelnic-prosby-pub/000G5IIN48ULD4H1-C321.jpg" /></a>Muzyk Onur Sener zmarł w wyniku obrażeń, których doznał po ataku na koncercie. Jak informują media, piosenkarz miał nie spełnić muzycznej prośby od public
+

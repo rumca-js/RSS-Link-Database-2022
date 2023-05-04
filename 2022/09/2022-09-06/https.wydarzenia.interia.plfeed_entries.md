@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Ławrow oskarża Zachód o niedotrzymywanie obietnicy w sprawie sankcji
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lawrow-oskarza-zachod-o-niedotrzymywanie-obietnicy-w-sprawie,nId,6268963](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lawrow-oskarza-zachod-o-niedotrzymywanie-obietnicy-w-sprawie,nId,6268963)
@@ -475,3 +475,4 @@
  - date published: 2022-09-06 03:55:55+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-kanada-jeden-z-nozownikow-nie-zyje-cialo-bylo-okaleczone,nId,6268114"><img align="left" alt="Kanada: Jeden z nożowników nie żyje. &quot;Ciało było okaleczone&quot;" src="https://i.iplsc.com/kanada-jeden-z-nozownikow-nie-zyje-cialo-bylo-okaleczone/000G14SFRH7I0HEJ-C321.jpg" /></a>Nie żyje Damien Sanderson, napastnik poszukiwany w Kanadzie w związku z serią napaści z użyciem noża - poinformowały tamtejsze służby w poniedziałek tamtejszego cz
+

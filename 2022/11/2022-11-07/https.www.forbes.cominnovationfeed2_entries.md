@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## ‘Sonic Frontiers’ PlayStation 5 Review: Easily One Of The Best ‘Sonic’ Games Ever Made
  - [https://www.forbes.com/sites/games/2022/11/07/sonic-frontiers-playstation-5-review-easily-one-of-the-best-sonic-games-ever-made/](https://www.forbes.com/sites/games/2022/11/07/sonic-frontiers-playstation-5-review-easily-one-of-the-best-sonic-games-ever-made/)
@@ -447,3 +447,4 @@ AI-powered text generation will create many orders of magnitude more value than 
  - date published: 2022-11-07 00:22:38+00:00
 
 While many are deciding if they'll pay $8 a month for Twitter Blue, how they'll pay has created an unexpected benefactor to Elon Musk's maverick decision.
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Overwatch 2 Lead Hero Designer Has Left Blizzard
  - [https://www.gamespot.com/articles/overwatch-2-lead-hero-designer-has-left-blizzard/1100-6507692/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/overwatch-2-lead-hero-designer-has-left-blizzard/1100-6507692/?ftag=CAD-01-10abi2f)
@@ -314,3 +314,4 @@
  - date published: 2022-09-20 02:23:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1568/15687785/4037854-preview_returntomonkeyisland_site.jpg" width="480" /> The iconic point-and-click adventure series returns with a heartfelt and nostalgic adventure that any mighty pirate would be a fool to miss.
+

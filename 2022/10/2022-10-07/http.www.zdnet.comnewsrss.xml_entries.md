@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The best Prime Day October 2022 TV deals
  - [https://www.zdnet.com/article/best-prime-day-october-2022-tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-prime-day-october-2022-tv-deals/#ftag=RSSbaffb68)
@@ -342,3 +342,4 @@ Looking to snag a new tablet? Ahead of Amazon's October Prime Day, there are gre
  - date published: 2022-10-07 00:16:22+00:00
 
 Samsung reported its first profit drop in three years for the third quarter as demand for memory chips dip.
+

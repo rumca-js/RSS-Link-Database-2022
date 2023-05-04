@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Może to nie "bomba ciepła", ale powiew lata - na pewno. 25 st. C w połowie października [PROGNOZA]
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29034344,pogoda-na-poczatek-tygodnia-ciepla-i-sloneczna-jesien.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29034344,pogoda-na-poczatek-tygodnia-ciepla-i-sloneczna-jesien.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -48,3 +48,4 @@
  - date published: 2022-10-16 09:38:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/c9/af/1b/z29029833M,Jaroslaw-Kaczynski-i-Jadwiga-Wisniewska.jpg" vspace="2" />- Od 2005 roku melduje się szeregowa Wiśniewska do wykonywania zadań - tak spotkanie z Jarosławem Kaczyńskim w Myszkowie rozpoczęła europosłanka Jadwiga Wiśniewska. Polityczka wcześniej zasłynęła m.in. z krytycznej wypowiedzi w stronę Ursuli von der Leyen odnośnie do dystrybucji szczepionek na COVID-19.
+

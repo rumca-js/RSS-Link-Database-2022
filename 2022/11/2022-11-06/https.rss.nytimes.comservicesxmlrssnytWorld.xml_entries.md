@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia Looks to Private Militia to Secure a Victory in Eastern Ukraine
  - [https://www.nytimes.com/2022/11/06/world/europe/russia-bakhmut-wagner-group.html](https://www.nytimes.com/2022/11/06/world/europe/russia-bakhmut-wagner-group.html)
@@ -111,3 +111,4 @@ Russia is still the world’s second-largest arms exporter but its performance o
  - date published: 2022-11-06 06:50:50+00:00
 
 Analysts say Russia’s performance in Ukraine, coupled with Western sanctions, is likely to hurt its ability to sell weapons abroad. Southeast Asia is a case in point.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Hobby Lobby owner reveals he is GIVING AWAY his multi-million dollar firm: Says he left it 'to God'
  - [https://www.dailymail.co.uk/news/article-11342381/Hobby-Lobby-owner-reveals-GIVING-AWAY-multi-million-dollar-firm-Says-left-God.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11342381/Hobby-Lobby-owner-reveals-GIVING-AWAY-multi-million-dollar-firm-Says-left-God.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1812,3 +1812,4 @@ There have been 31 confirmed human cases and six deaths so far this year and the
  - date published: 2022-10-21 00:00:33+00:00
 
 The incident occurred at the Bright Beginnings Family Day Care Centre at Broadmeadows, an outer northern suburb of Melbourne, at about 9am as the centre was opening.
+

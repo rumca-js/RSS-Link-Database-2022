@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Aktywista LGBT z Homokomando oskarżany o gwałt. Jest odpowiedź
  - [https://wydarzenia.interia.pl/kraj/news-aktywista-lgbt-z-homokomando-oskarzany-o-gwalt-jest-odpowied,nId,6324569](https://wydarzenia.interia.pl/kraj/news-aktywista-lgbt-z-homokomando-oskarzany-o-gwalt-jest-odpowied,nId,6324569)
@@ -55,3 +55,4 @@
  - date published: 2022-10-03 06:00:34+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ambasador-rosji-siergiej-andriejew-wezwany-do-msz,nId,6323863"><img align="left" alt="Ambasador Rosji Siergiej Andriejew wezwany do MSZ" src="https://i.iplsc.com/ambasador-rosji-siergiej-andriejew-wezwany-do-msz/000EV4VFDSV0EYRU-C321.jpg" /></a>Ministerstwo Spraw Zagranicznych wezwało do siebie ambasadora Rosji. Siergiej Andriejew ma usłyszeć polskie stanowisko nieuznające pseudoreferendów na Ukrainie i prób 
+

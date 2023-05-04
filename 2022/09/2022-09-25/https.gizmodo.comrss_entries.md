@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Spotify Promoted White Supremacist Artists, Including One With Song Featuring Adolf Hitler Speech
  - [https://gizmodo.com/spotify-promoted-white-supremacist-artists-adl-report-1849579291](https://gizmodo.com/spotify-promoted-white-supremacist-artists-adl-report-1849579291)
@@ -62,3 +62,4 @@
  - date published: 2022-09-25 02:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Uvst-FCL--/c_fit,fl_progressive,q_80,w_636/e5d9d5be0409f09af43636afeefcf272.jpg" /><p>SpaceX chief Elon Musk said he was activating his company’s Starlink internet service in Iran, which <a href="https://gizmodo.com/iran-mahsa-amini-whatsapp-instagram-internet-protests-1849566793">cut off web access</a> to its more than 80 million citizens this week, after the U.S. Treasury Department eased sanctions to help support the free flow of 
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Apple iPhone: Can India be China’s ‘plus one’ to the world?
  - [https://www.bbc.co.uk/news/world-asia-india-63140815?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63140815?at_medium=RSS&at_campaign=KARANGA)
@@ -573,3 +573,4 @@ Angelina Jolie says Brad Pitt grabbed her head and attacked two of their childre
  - date published: 2022-10-05 00:11:50+00:00
 
 Time-restricted eating reduced blood pressure and cholesterol in a study of US firefighters.
+

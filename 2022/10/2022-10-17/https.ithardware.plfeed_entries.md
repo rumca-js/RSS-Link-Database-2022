@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 79. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_dziewiaty_pazdziernik_2022-23889.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_dziewiaty_pazdziernik_2022-23889.html)
@@ -165,3 +165,4 @@ Najnowsze...
 
 Sasha...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/sasha_grey_pojawi_sie_w_dodatku_do_gry_cyberpunk_2077-23874.html">https://ithardware.pl/aktualnosci/sasha
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Utytułowany trener przejął drużynę Polaków
  - [https://eurosport.tvn24.pl/utytu-owany-trener-przej---klub-polak-w,1122508.html?source=rss](https://eurosport.tvn24.pl/utytu-owany-trener-przej---klub-polak-w,1122508.html?source=rss)
@@ -175,3 +175,4 @@
 
 <img alt="Legenda tenisa nie ma dobrych wiadomości dla rywalek Igi Świątek" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jr8unl-martina-navratilova-i-iga-swiatek-po-finale-us-open/alternates/LANDSCAPE_1280" />
     Martina Navratilova o dominacji Polki w kobiecym tourze.
+

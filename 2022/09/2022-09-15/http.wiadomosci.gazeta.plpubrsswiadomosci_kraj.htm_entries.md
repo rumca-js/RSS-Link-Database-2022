@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Zakopane wprowadza prohibicję. Szampan nie poleje się w godz. od 23 do 6. Zakaz jeszcze przed Sylwestrem
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28918074,zakopane-wprowadza-prohibicje-szampan-nie-poleje-sie-w-godz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28918074,zakopane-wprowadza-prohibicje-szampan-nie-poleje-sie-w-godz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -104,3 +104,4 @@
  - date published: 2022-09-15 04:15:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/cf/6f/1a/z27717839M,21-10-2021--Jesien-w-Lodzi--Park-Zrodliska.jpg" vspace="2" />Synoptycy z Centrum Modelowania Meteorologicznego IMGW-PIB opublikowali najnowszą, długoterminową prognozę pogody. Wiadomo, jakie temperatury mogą się pojawić w poszczególnych miesiącach.
+

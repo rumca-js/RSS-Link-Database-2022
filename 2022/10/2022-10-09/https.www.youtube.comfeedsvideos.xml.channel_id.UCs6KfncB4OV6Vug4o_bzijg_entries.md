@@ -1,4 +1,4 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
+# Source:Techlore, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, language:en-US
 
 ## Cognitive Dissonance & Confirmation Bias  - Techlore Talks #3
  - [https://www.youtube.com/watch?v=E8Pzhpyf-Ow](https://www.youtube.com/watch?v=E8Pzhpyf-Ow)
@@ -32,3 +32,4 @@ Support our mission to spread privacy to the masses:
 🧡 Patreon: https://www.patreon.com/techlore
 🪙 Monero: 49H4jTvUY5zaX8qLpVBstJFR7ayTMxxU3UyWpGqUoBM4UzM2zwUHA2sJ9i3AhQYdaqhFmS8PDfWKn1Tea4SKU6haMTXG8qD
 #privacy #security #techlore
+

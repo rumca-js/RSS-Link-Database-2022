@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Holandia: Polak po alkoholu wjechał pod prąd i spowodował wypadek. Kara? 100 godzin prac społecznych
  - [https://www.polsatnews.pl/wiadomosc/2022-09-16/holandia-polak-po-alkoholu-wjechal-pod-prad-i-spowodowal-wypadek-kara-100-godzin-prac-spolecznych/](https://www.polsatnews.pl/wiadomosc/2022-09-16/holandia-polak-po-alkoholu-wjechal-pod-prad-i-spowodowal-wypadek-kara-100-godzin-prac-spolecznych/)
@@ -146,3 +146,4 @@ Ukraińskie władze poinformowały o odkryciu grobów co najmniej 440 ofiar na c
  - date published: 2022-09-16 07:12:00+00:00
 
 We Francji zaplanowano na dzisiaj strajk kontrolerów lotów. Wpłynie on na siatkę połączeń z całego świata. W związku z tym Dyrekcja Generalna Lotnictwa Cywilnego poprosiła linie lotnicze o zmniejszenie liczby rejsów o połowę. Utrudnienia i odwołane loty pojawią się także na kierunkach z Polski. Również w Wielkiej Brytanii, londyńskie lotnisko Heathrow odwołało w poniedziałek ponad 100 lotów.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A Guide to Mobile Cross-Platform Development With Couchbase
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59317](https://www.codeproject.com/script/News/View.aspx?nwid=59317)
@@ -118,3 +118,4 @@ We launched Jetpack Compose over a year ago, and have been busy improving it eve
  - date published: 2022-10-27 04:00:00+00:00
 
 Yeah, _that's_ why Vista didn't succeed. Sure.
+

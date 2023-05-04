@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google Search results could actually be useful again starting today
  - [https://www.androidauthority.com/google-search-results-3214502/](https://www.androidauthority.com/google-search-results-3214502/)
@@ -139,3 +139,4 @@ Samsung has offered lock screen customization for years before Apple, but the On
  - date published: 2022-09-28 07:24:58+00:00
 
 The Galaxy Z Fold 2 has also suffered from swelling, according to the YouTuber.
+

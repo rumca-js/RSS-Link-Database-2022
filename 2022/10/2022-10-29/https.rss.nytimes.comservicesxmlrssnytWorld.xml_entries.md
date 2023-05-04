@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Survivor of Seoul Halloween Crowd Surge Describes Chaotic Scene
  - [https://www.nytimes.com/2022/10/29/world/asia/survivor-south-korea-stampede.html](https://www.nytimes.com/2022/10/29/world/asia/survivor-south-korea-stampede.html)
@@ -132,3 +132,4 @@ In the weeks since dozens of aerial attacks severely damaged 30 percent of the n
  - date published: 2022-10-29 04:39:54+00:00
 
 Dozens more Australians, many of them children, are still being held in Syria, but there is hope that the government will soon sponsor more releases.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Kamala Harris Unveils $5 Billion For Electric School Buses As Nation Sees Largest Learning Decline In Decades
  - [https://www.dailywire.com/news/kamala-harris-unveils-5-billion-for-electric-school-buses-as-nation-sees-largest-learning-decline-in-decades](https://www.dailywire.com/news/kamala-harris-unveils-5-billion-for-electric-school-buses-as-nation-sees-largest-learning-decline-in-decades)
@@ -419,3 +419,4 @@ A popular British radio presenter died in the middle of doing the morning show. 
  - date published: 2022-10-26 09:58:58+00:00
 
 The campaign for Pennsylvania U.S. Senate candidate John Fetterman (D) blamed the captioning system used during Tuesday night&#8217;s debate for his widely criticized performance. Fetterman has faced scrutiny over his fitness for office after he suffered a stroke earlier this year. He has demonstrated that he sometimes struggles to understand words and has difficulty speaking, ...
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware
  - [https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html](https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html)
@@ -40,3 +40,4 @@ The text of the announcement contains several statements that anyone who's ever 
 
 Microsoft this week confirmed that it inadvertently exposed information related to thousands of customers following a security lapse that left an endpoint publicly accessible over the internet sans any authentication.
 "This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective
+

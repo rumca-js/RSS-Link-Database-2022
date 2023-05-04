@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## What Happened to FTX? Here’s What to Know.
  - [https://www.nytimes.com/2022/11/10/technology/ftx-binance-crypto-explained.html](https://www.nytimes.com/2022/11/10/technology/ftx-binance-crypto-explained.html)
@@ -55,3 +55,4 @@ Hiring the best, the brightest and the highest number of employees was a badge o
  - date published: 2022-11-10 00:56:08+00:00
 
 Eugene Yu was accused of illegally sending data about poll workers to China, in a case that became fodder for election deniers.
+

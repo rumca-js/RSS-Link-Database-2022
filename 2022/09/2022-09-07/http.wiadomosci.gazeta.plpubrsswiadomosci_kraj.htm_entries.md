@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Ostrów Mazowiecka. 31-latek trafił do szpitala bez dłoni. Policjanci szukali jej w lesie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28882973,ostrow-mazowiecka-31-latek-trafil-do-szpitala-bez-dloni-policjanci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28882973,ostrow-mazowiecka-31-latek-trafil-do-szpitala-bez-dloni-policjanci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -90,3 +90,4 @@
  - date published: 2022-09-07 07:51:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/a9/8a/1b/z28876969M,Punkt-wydawania-pomocy-rzeczowej-dla-uchodzcow-z-U.jpg" vspace="2" />22,2 proc. uchodźców z Ukrainy planuje wrócić do kraju w ciągu najbliższych trzech miesięcy. Z kolei 25,6 proc. chce zrobić to po zakończeniu wojny. Tak wynika z sondażu przeprowadzonego przez agencję pracy Gremi Personal.
+

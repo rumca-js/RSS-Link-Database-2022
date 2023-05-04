@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Meta reportedly set to cut thousands of jobs this week
  - [https://www.computerworld.com/article/3678772/meta-reportedly-set-to-cut-thousands-of-jobs-this-week.html#tk.rss_all](https://www.computerworld.com/article/3678772/meta-reportedly-set-to-cut-thousands-of-jobs-this-week.html#tk.rss_all)
@@ -46,3 +46,4 @@
 	<section class="page">
 <p>There has been some concern that Windows 10 gathers too much private information from users. Whether you think Microsoft's operating system crosses the privacy line or just want to make sure you safeguard as much of your personal life as possible, we're here to help. Here's how to protect your privacy in just a few minutes.</p><p><em>Note: This story has been updated for Windows 10 version 22H2</em><em>. If you have an earlier release of Windows 10, some things may be different.</em></p><h2 class="toc">Turn off ad tracking</h2>
 <p>At the top of many people's privacy concerns is what data is being gathered about them as they browse the web. That information creates a profile of a person's interests that is used by a variety of companies to target ads.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3622001/how-to-protect-privacy-windows-10.html#jump">To read this article in full, please click here</a></p></section></article>
+

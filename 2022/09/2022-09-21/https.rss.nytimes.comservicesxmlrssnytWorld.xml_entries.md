@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Putin Raises Stakes in the War, With Direct Challenge to the West
  - [https://www.nytimes.com/2022/09/21/world/europe/putin-ukraine-russia-nuclear.html](https://www.nytimes.com/2022/09/21/world/europe/putin-ukraine-russia-nuclear.html)
@@ -237,3 +237,4 @@ Ferdinand E. Marcos placed the country under military rule 50 years ago this wee
  - date published: 2022-09-21 05:06:01+00:00
 
 Here’s what you need to know.
+

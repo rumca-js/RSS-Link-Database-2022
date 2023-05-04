@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Polecane zestawy komputerowe do gier grudzień 2022
  - [https://ithardware.pl/poradniki/polecane_zestawy_komputerowe_do_gier_grudzien_2022-24595.html](https://ithardware.pl/poradniki/polecane_zestawy_komputerowe_do_gier_grudzien_2022-24595.html)
@@ -203,3 +203,4 @@ Jak donosi VideoCardz, Gigabyte zgłosiło kilka modeli karty...
 
 Warto na wstępie zaznaczyć, że wydajność energetyczna...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/nvidia_geforce_rtx_4090_przetestowany_po_undervoltingu_wyniki_sa_zaskakujace_dobre-24597.html">https://ithardware.pl/aktualnosci/nvidia_geforce_rtx_4090_przetestowany_po_undervoltingu_wyniki_sa_zaskakujace_dobre-24597.html</a></p>
+

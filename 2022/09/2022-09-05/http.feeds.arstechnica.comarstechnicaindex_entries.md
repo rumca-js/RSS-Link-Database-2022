@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## In New Zealand, conservation is buoyed by Indigenous knowledge
  - [https://arstechnica.com/?p=1878074](https://arstechnica.com/?p=1878074)
@@ -20,3 +20,4 @@ The best ThinkPad qualities are sadly diluted, but performance is excellent.
  - date published: 2022-09-05 11:30:05+00:00
 
 A study on the consequences of becoming a monk related to evolutionary fitness.
+

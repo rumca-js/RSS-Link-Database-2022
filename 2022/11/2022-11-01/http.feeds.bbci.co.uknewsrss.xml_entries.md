@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## How pop band A-ha inspired Norway's electric car revolution
  - [https://www.bbc.co.uk/news/uk-scotland-63375504?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63375504?at_medium=RSS&at_campaign=KARANGA)
@@ -482,3 +482,4 @@ UK energy supplies should be sufficient this winter, the firm says, but power cu
  - date published: 2022-11-01 00:02:05+00:00
 
 Ukrainian civilians and troops paint a picture of endurance and hardship as winter approaches.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## A new Facebook Marketplace rule could make it harder to find legit car listings
  - [https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta](https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta)
@@ -45,3 +45,4 @@
       <img alt="A Mobileye autonomous vehicle in Israel" src="https://cdn.vox-cdn.com/thumbor/IIDG7g5h0d4ANRyqjwZ-WUBHecc=/0x0:1080x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71443364/mobileye_intel_car.0.jpg" />
         <figcaption><em>A Mobileye self-driving vehicle.</em> | Image: <a class="ql-link" href="https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-autonomous-driving.html#gs.eb3e6m" target="_blank">Mobileye, an Intel company</a></figcaption>
     
+

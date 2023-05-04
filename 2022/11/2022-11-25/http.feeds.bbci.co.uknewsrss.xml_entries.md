@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## NI Protocol: Poots denies letter tried to dilute protocol bill
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63762220?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63762220?at_medium=RSS&at_campaign=KARANGA)
@@ -608,3 +608,4 @@ The SDF's head tells the BBC Turkish-led air strikes are harming the fight again
  - date published: 2022-11-25 00:00:02+00:00
 
 Royal College of Nursing members are set to stage their biggest-ever NHS walkout on 15 and 20 December.
+

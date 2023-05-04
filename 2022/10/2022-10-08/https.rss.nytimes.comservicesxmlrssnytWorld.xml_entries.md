@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine’s Zaporizhzhia Nuclear Plant Loses Power Again, Officials Say
  - [https://www.nytimes.com/2022/10/08/world/europe/zaporizhzhia-nuclear-power-plant-offline.html](https://www.nytimes.com/2022/10/08/world/europe/zaporizhzhia-nuclear-power-plant-offline.html)
@@ -125,3 +125,4 @@ Russia’s domination of Central Asia and the Caucasus region is unraveling as t
  - date published: 2022-10-08 04:01:10+00:00
 
 Russia’s domination of Central Asia and the Caucasus region is unraveling as the Kremlin focuses on the war in Ukraine — and border violence is flaring.
+

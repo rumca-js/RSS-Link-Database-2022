@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Apple set to issue fix for iPhone 14 Pro 'shaking uncontrollably'
  - [https://www.zdnet.com/article/apple-set-to-issue-fix-for-iphone-14-pro-shaking-uncontrollably/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-set-to-issue-fix-for-iphone-14-pro-shaking-uncontrollably/#ftag=RSSbaffb68)
@@ -160,3 +160,4 @@ GPUs for gaming are finally becoming more readily available at retailers as well
  - date published: 2022-09-19 02:55:00+00:00
 
 Watch movies, shows, and sporting events outside with this portable, high-powered projector.
+

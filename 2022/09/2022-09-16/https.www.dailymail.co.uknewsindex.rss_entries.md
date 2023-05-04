@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Facebook reverses ban on ads for Roy Scheider Holocaust movie after claiming it violated race policy
  - [https://www.dailymail.co.uk/news/article-11221099/Facebook-BANS-ads-promoting-Roy-Scheider-Holocaust-movie-violates-race-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11221099/Facebook-BANS-ads-promoting-Roy-Scheider-Holocaust-movie-violates-race-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1715,3 +1715,4 @@ From 9.30am, Queen Elizabeth II: The State Funeral will be hosted by Bradby, 55,
 
 The Queen's personal piper Scott Methven, 48, 
 accidentally revealed he was a 'true Scotsman' when the wind lifted his kilt in front of her, he said yesterday.
+

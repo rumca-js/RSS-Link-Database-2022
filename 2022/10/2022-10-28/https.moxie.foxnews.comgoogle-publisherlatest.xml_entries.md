@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Formula One's governing body hits Red Bull with $7 million fine for exceeding cost cap
  - [https://www.foxnews.com/sports/fia-hands-red-bull-7m-f1-fine-aero-testing-reduction-for-cost-cap-breach](https://www.foxnews.com/sports/fia-hands-red-bull-7m-f1-fine-aero-testing-reduction-for-cost-cap-breach)
@@ -557,7 +557,6 @@ Pelosi was assaulted around 2:30 a.m. Friday at the couple's multimillion-dollar
  - [https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds](https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-28 15:19:51+00:00
- - tags: covid,covid lie,wuhan
 
 A Senate committee's Republican-led report into the origins of the COVID-19 pandemic found it "likely" originated in a research-related incident.
 
@@ -1232,3 +1231,4 @@ Valerie Bertinelli was spotted on Thursday after Matthew Perry confessed the duo
  - date published: 2022-10-28 00:09:04+00:00
 
 Ex-NBA guard Eric Bledsoe was arrested for domestic violence Wednesday night just hours after reportedly signing to play in the Chinese Basketball Association.
+

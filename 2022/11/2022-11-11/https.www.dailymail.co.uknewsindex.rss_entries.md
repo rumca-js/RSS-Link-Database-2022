@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## MISS MONEYSAVER: The savviest gadgets for staying warm this winter
  - [https://www.dailymail.co.uk/femail/article-11418985/MISS-MONEYSAVER-savviest-gadgets-staying-warm-winter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11418985/MISS-MONEYSAVER-savviest-gadgets-staying-warm-winter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1834,3 +1834,4 @@ The temporary Cenotaph was put up in July 1919 and was meant to stand for just a
  - date published: 2022-11-11 00:00:44+00:00
 
 Boebert denied being caught off guard by the close race, instead suggesting that underwhelming Republican candidates further up the ticket in had dragged her down.
+

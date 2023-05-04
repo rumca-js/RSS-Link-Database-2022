@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Google settles “Location History” lawsuit with 40 states, will pay $392 million
  - [https://arstechnica.com/?p=1897732](https://arstechnica.com/?p=1897732)
@@ -104,3 +104,4 @@ An unbiased industry source is back for more space policy spitballing.
  - date published: 2022-11-14 08:00:58+00:00
 
 The chassis department just couldn’t help itself.
+

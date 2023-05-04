@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Salesforce is getting into bed with WhatsApp
  - [https://www.techradar.com/news/salesforce-is-getting-into-bed-with-whatsapp/](https://www.techradar.com/news/salesforce-is-getting-into-bed-with-whatsapp/)
@@ -223,3 +223,4 @@ Big tech firms already make a lots of money off your data. That's why many would
  - date published: 2022-09-21 04:00:34+00:00
 
 The mother of all leaks has confirmed a whole lot of details about Grand Theft Auto 6.
+

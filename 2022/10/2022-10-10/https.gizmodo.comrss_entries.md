@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Interview With the Vampire's Second Episode Serves Dinner and a Show
  - [https://gizmodo.com/interview-with-the-vampire-recap-episode-2-1849640178](https://gizmodo.com/interview-with-the-vampire-recap-episode-2-1849640178)
@@ -251,3 +251,4 @@
  - date published: 2022-10-10 02:05:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ChIH1A8m--/c_fit,fl_progressive,q_80,w_636/1a90c3c860d4c02fefc33343d0a26eef.jpg" /><p>What the hell was <a href="https://gizmodo.com/the-walking-dead-added-some-kind-of-killer-performance-1792541812"><em>that</em></a>?<br /></p><p><a href="https://gizmodo.com/walking-dead-recap-new-deal-season-11-episode-18-1849618550">Read more...</a></p>
+

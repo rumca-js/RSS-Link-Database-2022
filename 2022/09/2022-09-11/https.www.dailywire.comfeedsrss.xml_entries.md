@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Appalling’: James Woods Unloads Over Report That Prosecutors Could Let 9/11 Planner Could Cop A Plea
  - [https://www.dailywire.com/news/appalling-james-woods-unloads-over-report-that-prosecutors-could-let-9-11-planner-could-cop-a-plea](https://www.dailywire.com/news/appalling-james-woods-unloads-over-report-that-prosecutors-could-let-9-11-planner-could-cop-a-plea)
@@ -146,3 +146,4 @@ The elite world of international chess competition is in turmoil amid suspicions
  - date published: 2022-09-11 08:33:03+00:00
 
 A defiant New Orleans Mayor Latoya Cantrell insisted she had to fly first class on recent taxpayer-funded junkets to France and Switzerland because economy class is not safe for a black woman and because she has a child. The Democrat mayor made the shocking claim at a news conference Thursday where she was asked if ...
+

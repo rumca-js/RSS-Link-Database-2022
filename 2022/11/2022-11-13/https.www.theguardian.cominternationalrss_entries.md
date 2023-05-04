@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## ‘I felt betrayed’: Ronaldo aims broadside at Ten Hag and Manchester United
  - [https://www.theguardian.com/football/2022/nov/13/i-felt-betrayed-ronaldo-aims-broadside-at-ten-hag-and-manchester-united](https://www.theguardian.com/football/2022/nov/13/i-felt-betrayed-ronaldo-aims-broadside-at-ten-hag-and-manchester-united)
@@ -806,3 +806,4 @@ Ukraine is in a strong position after retaking Kherson but the west must resist 
  - date published: 2022-11-13 00:01:02+00:00
 
 <p>Don’t expect any tactical innovations from a team with only two world-class players: Kevin De Bruyne and Thibaut Courtois</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/13/world-cup-2022-belgium-team-guide">Continue reading...</a>
+

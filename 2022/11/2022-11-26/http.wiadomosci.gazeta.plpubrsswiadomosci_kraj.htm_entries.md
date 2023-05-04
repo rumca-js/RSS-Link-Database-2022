@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Słupsk. Podczas imprezy zginął 34-latek. Ojciec z zarzutem, sąsiadka podejrzana o zacieranie śladów
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29187245,slupsk-podczas-imprezy-zginal-34-latek-policja-zatrzymala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29187245,slupsk-podczas-imprezy-zginal-34-latek-policja-zatrzymala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-11-26 09:02:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/cb/d5/1b/z29185739M,Protest-przeciwnikow-futer-przed-domem-Jaroslawa-K.jpg" vspace="2" />Aktywiści zgromadzili się w piątek przed domem Jarosława Kaczyńskiego na warszawskim Żoliborzu. W Międzynarodowy Dzień Bez Futra przypomniano prezesowi PiS o jego projekcie, który miał doprowadzić m.in. do zakazu hodowli zwierząt na futro w Polsce. Projekt, w którego prace zaangażował się sam Kaczyński, został wycofany.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Zoom focuses on email and contact center integrations at Zoomtopia 2022
  - [https://www.computerworld.com/article/3679392/zoom-focuses-on-email-and-contact-center-integrations-at-zoomtopia-2022.html#tk.rss_all](https://www.computerworld.com/article/3679392/zoom-focuses-on-email-and-contact-center-integrations-at-zoomtopia-2022.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>Microsoft's Windows Phone platform may be <a href="https://www.computerworld.com/article/3235127/rip-windows-phone-your-demise-could-lead-microsoft-to-redemption.html">long gone</a> at this point, but don't despair: You can still get a fantastic Microsoft experience on your mobile device. You just have to look to an unlikely bedfellow.</p><p>With Windows Phone out of the picture, Microsoft has been devoting an ever-increasing amount of energy to <a href="https://www.computerworld.com/article/3566143/microsoft-android-transformation.html">creating its own mini-platform</a> within Google's Android ecosystem. And given Android's immense flexibility and customization potential, that opens the door to some pretty compelling possibilities.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3262705/how-to-create-a-complete-microsoft-experience-on-android.html#jump">To read this article in full, please click here</a></p></section></article>
+

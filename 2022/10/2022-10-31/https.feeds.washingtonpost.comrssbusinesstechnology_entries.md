@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Musk tweeted an employee’s Slack message. How to protect your work chats.
  - [https://www.washingtonpost.com/technology/2022/07/25/work-messages-emails-privacy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/07/25/work-messages-emails-privacy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ It happens to the best of us, and getting it repaired shouldn't be hard. Just ma
  - date published: 2022-10-31 05:00:19+00:00
 
 Elon Musk plans to cut Twitter's workforce just days after taking control of the company.
+

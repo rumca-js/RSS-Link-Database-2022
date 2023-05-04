@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Here's why Russia accusing Ukraine of planning a 'dirty bomb' could be a warning
  - [https://www.cnn.com/videos/world/2022/10/24/russia-dirty-bomb-accusation-ukraine-clark-dougherty-sot-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/10/24/russia-dirty-bomb-accusation-ukraine-clark-dougherty-sot-tsr-vpx.cnn)
@@ -539,3 +539,4 @@ Matthew Perry is continuing to share candid moments from his long journey to sob
  - date published: 2022-10-24 00:58:49+00:00
 
 When Australia's richest woman Gina Rinehart threw a financial lifeline to Netball Australia, she triggered a debate about sponsorships and the role of social and political issues in the sporting sphere. Then she walked away.
+

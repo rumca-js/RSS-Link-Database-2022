@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Biden’s Support for Iran Protesters Comes After Bitter Lessons of 2009
  - [https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html](https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html)
@@ -209,3 +209,4 @@ Early results suggested her nationalist party would be the top vote-getter, leav
  - date published: 2022-09-26 01:36:55+00:00
 
 The comments by the national security adviser, Jake Sullivan, illustrate how quickly the rhetoric has intensified as Russia has faltered on the battlefield in recent months.
+

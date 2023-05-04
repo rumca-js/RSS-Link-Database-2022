@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Food prices are soaring, and our eating habits are changing
  - [https://www.cnn.com/2022/09/24/business/food-inflation-habits/index.html](https://www.cnn.com/2022/09/24/business/food-inflation-habits/index.html)
@@ -27,3 +27,4 @@ When Iranian authorities pulled the plug on the internet in 2019 amid anti-gover
  - date published: 2022-09-24 00:23:19+00:00
 
 Near a dry, red rock peninsula on Australia's far western coast, a dusty highway separates two communities with contrasting fortunes tied to an ancient land.
+

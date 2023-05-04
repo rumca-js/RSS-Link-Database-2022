@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Twenty questions is a weird game
  - [https://aaronson.org/blog/twenty-questions](https://aaronson.org/blog/twenty-questions)
@@ -786,3 +786,4 @@ Let me know if you have any feedback or questions!</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33588778">https://news.ycombinator.com/item?id=33588778</a></p>
 <p>Points: 15</p>
 <p># Comments: 5</p>
+

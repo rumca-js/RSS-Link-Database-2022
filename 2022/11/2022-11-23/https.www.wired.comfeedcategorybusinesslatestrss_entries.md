@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Elon Musk’s Twitter Risks Big Fines From US Regulators
  - [https://www.wired.com/story/elon-musks-twitter-risks-big-fines-from-ftc-us-regulators/](https://www.wired.com/story/elon-musks-twitter-risks-big-fines-from-ftc-us-regulators/)
@@ -13,3 +13,4 @@ The company’s past failings place its security under scrutiny by the Federal T
  - date published: 2022-11-23 12:00:00+00:00
 
 Amid Twitter chaos and Donald Trump’s 2024 presidential bid, the conservative social network is having a moment of its own.
+

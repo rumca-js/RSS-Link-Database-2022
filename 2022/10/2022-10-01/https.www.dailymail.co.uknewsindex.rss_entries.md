@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Climate change: Australia's coal fired power plants to close by 2035 as renewables brought in
  - [https://www.dailymail.co.uk/news/article-11261425/Climate-change-Australias-coal-fired-power-plants-close-2035-renewables-brought-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11261425/Climate-change-Australias-coal-fired-power-plants-close-2035-renewables-brought-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -902,3 +902,4 @@ JANE FRYER: The horses might look as if they're on parade, but they're here to w
  - date published: 2022-10-01 00:00:53+00:00
 
 There is, many argue, an obvious solution to Blackpool's plight that could restore the Lancashire resort to its former glory - and it lies beneath our feet, in fuel-rich shale.
+

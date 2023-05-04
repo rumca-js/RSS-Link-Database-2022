@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 74. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_czwarty_wrzesien_2022-23285.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_czwarty_wrzesien_2022-23285.html)
@@ -151,3 +151,4 @@ Big N...
 
 <img src="https://ithardware.pl/artykuly/min/23277_1.jpg" />            Minęło trochę czasu, odkąd Sony pochwaliło się jakimś nowym materiałem z kolejnej odsłony przyg&oacute;d Kratosa. Na odbywającym się dziś w nocy State of Play firma postanowiła więc nieco osłodzić nam oczekiwanie na God of War: Ragnarok i...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/god_of_war_ragnarok_na_nowym_zwiastunie_to_nie_moze_sie_nie_udac-23277.html">https://ithardware.pl/aktualnos
+

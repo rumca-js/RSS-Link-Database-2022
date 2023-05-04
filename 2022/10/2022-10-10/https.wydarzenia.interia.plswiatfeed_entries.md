@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Odwołano ponowny alarm przeciwlotniczy w Kijowie i regionie
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-odwolano-ponowny-alarm-przeciwlotniczy-w-kijowie-i-regionie,nId,6338614](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-odwolano-ponowny-alarm-przeciwlotniczy-w-kijowie-i-regionie,nId,6338614)
@@ -13,3 +13,4 @@
  - date published: 2022-10-10 09:03:52+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ostrzal-ukrainskich-miast-bedzie-pilne-posiedzenie-grupy-g7,nId,6338421"><img align="left" alt="Ostrzał ukraińskich miast. Będzie pilne posiedzenie grupy G7" src="https://i.iplsc.com/ostrzal-ukrainskich-miast-bedzie-pilne-posiedzenie-grupy-g7/000G6JRUPKTFLR21-C321.jpg" /></a>&quot;Uzgodniliśmy z kanclerzem Olaf Scholzem, sprawującym przewodnictwo w grupie G7 o pilnym posiedzeniu tej grupy. Zaplanowano moje wy
+

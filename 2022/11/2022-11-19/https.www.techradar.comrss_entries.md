@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Here's one spec where the Samsung Galaxy S23 might not get an upgrade
  - [https://www.techradar.com/news/heres-one-spec-where-the-samsung-galaxy-s23-might-not-get-an-upgrade/](https://www.techradar.com/news/heres-one-spec-where-the-samsung-galaxy-s23-might-not-get-an-upgrade/)
@@ -48,3 +48,4 @@ This problem is affecting some users on bootup, but the good news is a firmware 
  - date published: 2022-11-19 10:17:58+00:00
 
 Apparently some 50 cases of melting cables have been recorded across the globe.
+

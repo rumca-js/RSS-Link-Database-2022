@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Tragedia na Śląsku. W wypadku zginęły 39-letnia kobieta i jej 14-letnia córka
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29084945,tragedia-na-slasku-w-wypadku-zginely-39-letnia-kobieta-i-jej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29084945,tragedia-na-slasku-w-wypadku-zginely-39-letnia-kobieta-i-jej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -139,3 +139,4 @@
  - date published: 2022-10-28 04:22:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/15/bb/1b/z29077781M,Horror-i-terror--ponizanie-i-agresja-tak-prace-w-l.jpg" vspace="2" />Maja usłyszała, że mogłaby przynajmniej "wyglądać", to może znalazłaby sobie "jakąś dupę". Aneta powiedziała koniec, kiedy Wilczyński rzucił w nią talerzem z jedzeniem. Wcześniej poradził: "Jakbyś pokazała cycki, to miałabyś większe napiwki". Horror i terror, poniżanie i agresja - tak pracę w lokalach należących do poznańskiego restauratora Jakuba Wilczyńskiego wspominają byli pracownicy.
+

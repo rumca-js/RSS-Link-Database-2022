@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Kari Lake's response to Officer Brian Sicknick's Mom's attack ad is pure, heartfelt brilliance
  - [https://www.louderwithcrowder.com/kari-lake-sicknick-attack](https://www.louderwithcrowder.com/kari-lake-sicknick-attack)
@@ -137,3 +137,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p><p><br /></p>
+

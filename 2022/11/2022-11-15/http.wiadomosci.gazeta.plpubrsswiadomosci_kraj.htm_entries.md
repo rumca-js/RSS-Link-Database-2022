@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Eksplozja w Przewodowie - relacja świadka. "Usłyszałem wybuch: najpierw jeden, potem drugi"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29144085,eksplozja-w-przewodowie-relacja-swiadka-uslyszalem-wybuch.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29144085,eksplozja-w-przewodowie-relacja-swiadka-uslyszalem-wybuch.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -265,3 +265,4 @@
  - date published: 2022-11-15 05:15:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/1d/99/1b/z28940317M,Matura-2023---zmiany--zdjecie-ilustracyjne-.jpg" vspace="2" />Maturzyści mają już za sobą złożenie wstępnej deklaracji maturalnej. Czeka ich jednak jeszcze przedstawienie ostatecznego wyboru przedmiotów, które chcą zdawać na egzaminie dojrzałości. Jeśli nie złożą deklaracji końcowej, system automatycznie zatwierdzi ich pierwszy wniosek.
+

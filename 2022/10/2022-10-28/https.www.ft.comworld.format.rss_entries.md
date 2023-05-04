@@ -1,4 +1,4 @@
-# Source URL:https://www.ft.com/world?format=rss, Source language: en-GB
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## The rise and fall of China’s rustbelt aluminium powerhouse
  - [https://www.ft.com/content/b730a990-d577-4e80-ace1-54cc4e707cec](https://www.ft.com/content/b730a990-d577-4e80-ace1-54cc4e707cec)
@@ -335,3 +335,4 @@ Spiralling home loan rates add to households’ cost of living pressures
  - date published: 2022-10-28 04:00:04+00:00
 
 With a premium of about £4,000 a year, the money might do better in a rainy day savings account
+

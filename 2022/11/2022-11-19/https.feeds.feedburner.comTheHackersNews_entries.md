@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Indian Government Publishes Draft of Digital Personal Data Protection Bill 2022
  - [https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html](https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html)
@@ -33,3 +33,4 @@ The primary targets of the intrusions from May to October 2022 included counties
 Australian software company Atlassian has rolled out security updates to address two critical flaws affecting Bitbucket Server, Data Center, and Crowd products.
 The issues, tracked as CVE-2022-43781 and CVE-2022-43782, are both rated 9 out of 10 on the CVSS vulnerability scoring system.
 CVE-2022-43781, which Atlassian said was introduced in version 7.0.0 of Bitbucket Server and Data Center,
+

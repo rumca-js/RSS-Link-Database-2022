@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Declutter Your Home When Downsizing
  - [https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657](https://lifehacker.com/how-to-declutter-your-home-when-downsizing-1849662657)
@@ -20,3 +20,4 @@
  - date published: 2022-10-16 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--BV3SdZNT--/c_fit,fl_progressive,q_80,w_636/61f655278a520edbf9f0c87236340bf7.jpg" /><p>Blood stains on clothing can be difficult to remove—especially if they’ve had time to soak into the fabric. Fortunately, there are a few techniques that you can try to get rid of them. Here’s what to know.</p><p><a href="https://lifehacker.com/how-to-get-blood-stains-out-of-clothing-1849662672">Read more...</a></p>
+

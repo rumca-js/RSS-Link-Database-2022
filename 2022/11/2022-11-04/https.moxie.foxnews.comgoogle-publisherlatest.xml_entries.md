@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Bills' Josh Allen urges caution for Zach Wilson critics: 'Sometimes it takes a little longer'
  - [https://www.foxnews.com/sports/bills-josh-allen-urges-caution-zach-wilson-critics-sometimes-takes-little-longer](https://www.foxnews.com/sports/bills-josh-allen-urges-caution-zach-wilson-critics-sometimes-takes-little-longer)
@@ -438,7 +438,6 @@ The Cook Political Report adjusted its ratings in the Wisconsin Senate race from
  - [https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights](https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-04 17:08:42+00:00
- - tags: censorship,covid
 
 California physicians are suing Governor Gavin Newsom over a bill that empowers California medical boards to punish doctors for having different views on COVID-19 treatment.
 
@@ -1183,3 +1182,4 @@ Jackson State Tigers football coach Deion Sanders reminded his players they are 
  - date published: 2022-11-04 00:02:23+00:00
 
 Miami OnlyFans model Courtney Clenney allegedly slashed beau Christian Obumseli in the face weeks before she killed him with a kitchen knife, shocking new texts reveal.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Katar: Plac budowy na tydzień przed mundialem, a reformy to PR-owy chwyt
  - [https://wydarzenia.interia.pl/zagranica/news-katar-plac-budowy-na-tydzien-przed-mundialem-a-reformy-to-pr,nId,6408303](https://wydarzenia.interia.pl/zagranica/news-katar-plac-budowy-na-tydzien-przed-mundialem-a-reformy-to-pr,nId,6408303)
@@ -13,3 +13,4 @@
  - date published: 2022-11-13 05:00:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-wygrywaja-wybory-do-senatu,nId,6406776"><img align="left" alt="USA: Demokraci wygrywają wybory do Senatu" src="https://i.iplsc.com/usa-demokraci-wygrywaja-wybory-do-senatu/000GBWIPNHFRKITO-C321.jpg" /></a>W wyborach do Senatu przeprowadzonych w stanie Nevada Catherine Cortez Masto z Partii Demokratycznej pokonała Adama Laxalta z Partii Republikańskiej. Oznacza to, że demokraci ostatecznie utrzymają kontrolę nad Senatem. To duży sukces partii Joe Bidena. Przed wyborami oceniano, że faworytami są republikanie.</p><br clear="all" />
+

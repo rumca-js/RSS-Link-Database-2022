@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Pokemon Go Deoxys Raid Guide: Best Counters, Weaknesses, Raid Hours, and More Tips
  - [https://www.gamespot.com/articles/pokemon-go-deoxys-raid-guide-best-counters-weaknesses-raid-hours-and-more-tips/1100-6507269/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-go-deoxys-raid-guide-best-counters-weaknesses-raid-hours-and-more-tips/1100-6507269/?ftag=CAD-01-10abi2f)
@@ -517,3 +517,4 @@
  - date published: 2022-09-08 02:48:00+00:00
 
 <p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4032609-untitled-1-recovered.jpg" /><br /><h3><p dir="ltr">On both Game of Thrones and House of the Dragon, the Targaryen family legacy looms large.. While House of the Dragon focuses on them at the height of its power, hundreds of years in the past, Game of Thrones--gives us a look at those who remain after their dragon-riding empire ultimately crumbles.</p><p dir="ltr">And unsurprisingly, there have been quite a few memb
+

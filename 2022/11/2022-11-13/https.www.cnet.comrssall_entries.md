@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## More People Need to Watch the Absolute Best True Crime Documentary on Netflix     - CNET
  - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-absolute-best-true-crime-documentary-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-absolute-best-true-crime-documentary-on-netflix/#ftag=CADf328eec)
@@ -447,3 +447,4 @@ The 30th Marvel Cinematic Universe movie ends with a surprise that'll bring tear
  - date published: 2022-11-13 01:00:02+00:00
 
 This trick also helps conserve your phone's cellular data.
+

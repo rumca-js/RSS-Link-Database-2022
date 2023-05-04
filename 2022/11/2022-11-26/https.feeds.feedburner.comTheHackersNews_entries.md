@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## All You Need to Know About Emotet in 2022
  - [https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html](https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html)
@@ -44,3 +44,4 @@ All these Chinese telecom and video surveillance companies were previously inclu
 Ukraine has come under a fresh onslaught of ransomware attacks that mirror previous intrusions attributed to the Russia-based Sandworm nation-state group.
 Slovak cybersecurity company ESET, which dubbed the new ransomware strain RansomBoggs, said the attacks against several Ukrainian entities were first detected on November 21, 2022.
 "While the malware written in .NET is new, its deployment is
+

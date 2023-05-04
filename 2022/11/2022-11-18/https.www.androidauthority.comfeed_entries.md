@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Here’s how to watch the World Cup on your mobile device
  - [https://www.androidauthority.com/watch-the-world-cup-on-mobile-device-fifa-3236562/](https://www.androidauthority.com/watch-the-world-cup-on-mobile-device-fifa-3236562/)
@@ -104,3 +104,4 @@ Looking to pull a prank on a friend? We can help! Here are the best spoof call a
  - date published: 2022-11-18 05:53:59+00:00
 
 The 2021 mid-ranger is also getting in on the stable One UI 5 action.
+

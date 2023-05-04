@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple hits the brakes on plans to use Chinese memory chips
  - [https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all](https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all)
@@ -45,3 +45,4 @@
 <article>
 	<section class="page">
 <p>Android dominates smartphone usage throughout the world — in every region except North America and Oceania. Thus, businesses in many regions are likely to support and issue Android devices to employees as their mainstay mobile devices. Even in areas where Apple’s iPhone dominates or is comparable in market share, businesses are likely to support or issue Android devices at least as a secondary option.</p><p>Google has a certification called <a href="https://a
+

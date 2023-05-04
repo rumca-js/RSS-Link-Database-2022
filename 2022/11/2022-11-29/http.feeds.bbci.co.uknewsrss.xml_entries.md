@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Camels battle it out in Qatar beauty contest
  - [https://www.bbc.co.uk/news/world-middle-east-63803267?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63803267?at_medium=RSS&at_campaign=KARANGA)
@@ -601,3 +601,4 @@ How small businesses are using savings clubs to help customers spread the cost o
  - date published: 2022-11-29 00:02:11+00:00
 
 Clinical records of 44 patients who died under the care of Michael Watt have been examined.
+

@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## The Dangers of Democrats Boosting MAGA Republicans
  - [https://theintercept.com/2022/11/19/keri-lake-democrats-arizona/](https://theintercept.com/2022/11/19/keri-lake-democrats-arizona/)
@@ -15,3 +15,4 @@
 
 <p>At Fivemile Tank, a watering hole in the bleak desert of West Texas, two men pulled up in a truck. One aimed a gun into the brush. </p>
 <p>The post <a href="https://theintercept.com/2022/11/19/texas-migrant-shooting-warden-sierra-blanca/" rel="nofollow">Was the Killing of a Migrant by a Former ICE Warden a Hate Crime or a Terrible Accident?</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

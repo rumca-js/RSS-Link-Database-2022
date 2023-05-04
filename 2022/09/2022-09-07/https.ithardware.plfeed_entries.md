@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 73. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_trzeci_wrzesien_2022-23173.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_trzeci_wrzesien_2022-23173.html)
@@ -195,3 +195,4 @@ QbitLeaks...
 
 <img src="https://ithardware.pl/artykuly/min/23152_1.jpg" />            Qualcomm oficjalnie ogłosił swoje chipsety, czyli Snapdragon 6 Gen 1 dla smartfon&oacute;w klasy średniej i Snapdragon 4 Gen 1 dla budżetowych telefon&oacute;w. Ten pierwszy SoC jest oparty na 4 nm procesie technologicznym, podczas gdy tańszy...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/qualcomm_prezentuje_snapdragona_6_gen_1_i_4_gen_1_nowa_genercja_soc_dla_tanszych_smartfonow-23152.html">
+

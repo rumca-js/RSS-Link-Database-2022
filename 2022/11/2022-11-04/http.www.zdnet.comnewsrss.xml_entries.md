@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Best early Target Black Friday deals 2022: $80 off AirPods Pro, $50 off Echo
  - [https://www.zdnet.com/article/early-target-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-target-black-friday-deals-2022/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ Twitter is temporarily closing its offices as it plans to announce mass layoffs 
  - date published: 2022-11-04 08:37:00+00:00
 
 Australia Cyber Security Centre says the number of reported cybercrime cases climbed almost 13% in the past year, with state actors an ongoing threat and ransomware the "most destructive".
+

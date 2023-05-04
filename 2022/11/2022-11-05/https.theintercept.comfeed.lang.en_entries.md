@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## New Justice Department Media Rules Won’t Help if Trump Wins Again
  - [https://theintercept.com/2022/11/05/justice-department-reporters-classified/](https://theintercept.com/2022/11/05/justice-department-reporters-classified/)
@@ -15,3 +15,4 @@
 
 <p>Two new lawsuits want to hold federal and state leaders accountable for failing to protect the iconic predators.</p>
 <p>The post <a href="https://theintercept.com/2022/11/05/wolf-grizzly-bear-hunt-endangered/" rel="nofollow">The Fight to Stop Republicans From Killing Wolves and Grizzlies</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

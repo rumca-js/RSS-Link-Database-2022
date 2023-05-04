@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Battle Of Good Vs. Evil’: Read Matt Walsh’s Full Speech Delivered At The ‘Rally To End Child Mutilation’
  - [https://www.dailywire.com/news/battle-of-good-vs-evil-read-matt-walshs-full-speech-delivered-at-the-rally-to-end-child-mutilation](https://www.dailywire.com/news/battle-of-good-vs-evil-read-matt-walshs-full-speech-delivered-at-the-rally-to-end-child-mutilation)
@@ -391,3 +391,4 @@ TikTok responded to an explosive report in Forbes that alleged that the company&
  - date published: 2022-10-21 07:21:59+00:00
 
 A fellow “briefcase girl” from the show “Deal or No Deal” suggested that Meghan Markle lied when she claimed that the show provided “stations” where various “briefcase girls” could have their bras stuffed. Patricia Kara, 50, who appeared on the series for its entire 2005 to 2009 run , including all 34 2006-2007 episodes in ...
+

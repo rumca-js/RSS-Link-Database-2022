@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Prokuratura wszczęła śledztwo ws. sytuacji w "Newsweeku". Przesłuchiwani są współpracownicy Tomasza Lisa
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28986178,jest-postepowanie-prokuratury-ws-sytuacji-w-newsweeku-trwaja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28986178,jest-postepowanie-prokuratury-ws-sytuacji-w-newsweeku-trwaja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -139,3 +139,4 @@
  - date published: 2022-10-04 06:29:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/08/a3/1b/z28982280M,Krzysztof-Kosinski-gosciem-Porannej-Rozmowy-Gazeta.jpg" vspace="2" />Gościem wtorkowej Porannej Rozmowy Gazeta.pl będzie Krzysztof Kosiński. Z prezydentem Ciechanowa porozmawiamy m.in. o sytuacji materialnej samorządów w obliczu inflacji i kryzysu energetycznego oraz o przesunięciu terminu wyborów samorządowych. Program poprowadzi Karolina Hytrek-Prosiecka.
+

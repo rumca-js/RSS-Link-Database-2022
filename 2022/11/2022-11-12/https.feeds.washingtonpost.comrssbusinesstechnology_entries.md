@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## FTX is investigating a potential hack
  - [https://www.washingtonpost.com/technology/2022/11/12/ftx-crypto-hack/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/12/ftx-crypto-hack/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ Even grandparents can struggle with screen time. Here's how to help them put dow
  - date published: 2022-11-12 06:00:05+00:00
 
 Tens of thousands of tech workers lost their jobs this week as pandemic overspending, high interest rates and recession fears hit home.
+

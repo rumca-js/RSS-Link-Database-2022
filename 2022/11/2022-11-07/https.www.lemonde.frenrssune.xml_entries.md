@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## 'Did German Chancellor Olaf Scholz really have the choice not to go to Beijing?'
  - [https://www.lemonde.fr/en/opinion/article/2022/11/08/did-german-chancellor-olaf-scholz-really-have-the-choice-not-to-go-to-beijing_6003313_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/08/did-german-chancellor-olaf-scholz-really-have-the-choice-not-to-go-to-beijing_6003313_23.html)
@@ -286,3 +286,4 @@ The latest plans from Facebook-parent Meta follow recent announcements by other 
  - date published: 2022-11-07 01:12:01+00:00
 
 As the world grapples with the urgency of the climate crisis, FIFA and Qatar's organizing committee have tried to sell the tournament as being 'carbon neutral', their arguments fail to convince.
+

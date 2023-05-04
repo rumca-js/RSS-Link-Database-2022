@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Koronawirus. WHO: Najmniej przypadków zgonów z powodu COVID-19 od marca 2020 roku
  - [https://www.polsatnews.pl/wiadomosc/2022-09-14/koronawirus-who-najmniej-przypadkow-zgonow-z-powodu-covid-19-od-marca-2020-roku/](https://www.polsatnews.pl/wiadomosc/2022-09-14/koronawirus-who-najmniej-przypadkow-zgonow-z-powodu-covid-19-od-marca-2020-roku/)
@@ -139,3 +139,4 @@ Z relacji świadków wynika, że byli torturowani na różne sposoby. Nie będę
  - date published: 2022-09-14 04:21:00+00:00
 
 Rosyjscy urzędnicy zwrócili się do Ukrainy z propozycją wznowienia negocjacji. Na ten moment Kijów nie wyraził na to zgody - informuje ukraiński portal hromadske, powołując się na wypowiedź wicepremier Ukrainy Olgi Stefaniszyny. Polityk zdradziła też, kiedy Kijów przystanie na propozycję Kremla.
+

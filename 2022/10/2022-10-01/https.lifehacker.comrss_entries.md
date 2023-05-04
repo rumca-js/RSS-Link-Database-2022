@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Can Use Oven Cleaner to Strip Wood Furniture
  - [https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349](https://lifehacker.com/you-can-use-oven-cleaner-to-strip-wood-furniture-1849599349)
@@ -20,3 +20,4 @@
  - date published: 2022-10-01 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--4eo3CL3G--/c_fit,fl_progressive,q_80,w_636/5cf3abab8268263b19dfa336ad1f1816.jpg" /><p>Pumpkins are everywhere this time of year—perhaps even if your own garden. At this point, you’ve probably picked and pruned the other fruits, vegetables, and plants that you’ve grown this year, but what about everyone’s favorite orange winter squash? Here’s how to know when it’s time to harvest your pumpkins, and how…</p><p><a href="https://lifehack
+

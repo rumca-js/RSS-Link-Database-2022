@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Elon Musk Mocks Kathy Griffin After Suspending Her, Then He Appears To Completely Cave
  - [https://www.dailywire.com/news/elon-musk-mocks-kathy-griffin-after-suspending-her-then-he-appears-to-completely-cave](https://www.dailywire.com/news/elon-musk-mocks-kathy-griffin-after-suspending-her-then-he-appears-to-completely-cave)
@@ -146,3 +146,4 @@ Former Republican North Carolina Governor Pat McCrory said that all of the winni
  - date published: 2022-11-06 10:55:35+00:00
 
 To rally urban Democrat turnout, the DNC Black Caucus and the Michigan Democratic Women&#8217;s Caucus on Wednesday held a &#8220;Flint GOTV Rally&#8221; at the Cathedral of Faith Church headlined by Rep. Dan Kildee, Rep. Haley Stevens, and Bishop Christopher Martin, who was taped making a virulently anti-gay screed months ago.
+

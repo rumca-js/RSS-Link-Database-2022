@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Football claims another Microsoft Surface tablet
  - [https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey](https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey)
@@ -69,3 +69,4 @@
   <p>
     <a href="https://www.theverge.com/23318247/acer-predator-triton-500-se-gaming-laptop-test-benchmark-review">Continue reading&hellip;</a>
   </p>
+

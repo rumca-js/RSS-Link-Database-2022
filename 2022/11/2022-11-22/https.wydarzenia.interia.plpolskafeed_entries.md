@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Mundial 2022. Prezydent oglądał mecz wspólnie z żołnierzami
  - [https://wydarzenia.interia.pl/kraj/news-mundial-2022-prezydent-ogladal-mecz-wspolnie-z-zolnierzami,nId,6427223](https://wydarzenia.interia.pl/kraj/news-mundial-2022-prezydent-ogladal-mecz-wspolnie-z-zolnierzami,nId,6427223)
@@ -27,3 +27,4 @@
  - date published: 2022-11-22 06:08:32+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-teraz-latwiej-wybudujesz-dom-w-2023-roku-szykuja-sie-duze-zm,nId,6419598"><img align="left" alt="Teraz łatwiej wybudujesz dom. W 2023 roku szykują się duże zmiany w prawie" src="https://i.iplsc.com/teraz-latwiej-wybudujesz-dom-w-2023-roku-szykuja-sie-duze-zm/000434FP5RFSP94T-C321.jpg" /></a>W przyszłym roku w życie wchodzi nowelizacja Prawa budowalnego, a wraz z nią sporo ważnych zmian. Dotyczą one m.in. możliwości budowy domów jednorodzinnych bez pozwolenia, cyfryzacji procesu inwestycyjnego czy likwidacji niezbędnej do tej pory zgody na użytkowanie. Większość z nich zacznie obowiązywać już od 1 stycznia 2023 r.</p><br clear="all" />
+

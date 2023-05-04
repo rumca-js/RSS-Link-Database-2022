@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Obrońcy Meksyku popełniają błędy. Pierwsi rywale Polaków przegrali ze Szwecją
  - [https://eurosport.tvn24.pl/obro-cy-meksyku-pope-niaj--b--dy--pierwsi-rywalem-polak-w-przegrali-ze-szwecj-,1124926.html?source=rss](https://eurosport.tvn24.pl/obro-cy-meksyku-pope-niaj--b--dy--pierwsi-rywalem-polak-w-przegrali-ze-szwecj-,1124926.html?source=rss)
@@ -214,3 +214,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-07t2fw-16-0005-przewodow-0048-6221791/alternates/LANDSCAPE_1280" />
     Relacje mieszkańców Przewodowa.
+

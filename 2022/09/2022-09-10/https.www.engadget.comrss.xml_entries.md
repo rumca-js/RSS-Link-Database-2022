@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## The ‘Elden Ring’ soundtrack is now available on music streaming services
  - [https://www.engadget.com/elden-ring-soundtrack-221612657.html?src=rss](https://www.engadget.com/elden-ring-soundtrack-221612657.html?src=rss)
@@ -69,3 +69,4 @@
  - date published: 2022-09-10 13:30:57+00:00
 
 <p>A judge recently ruled that Elon Musk <a href="https://www.engadget.com/elon-musk-can-use-whistleblower-twitter-deal-200216099.html">can use the allegations</a> made by <a href="https://www.engadget.com/twitter-still-hasnt-addressed-egregious-whistleblower-claims-161554874.html">Twitter whistleblower Peiter Zatko</a> as part of the arguments in his countersuit against the company. As it turns out, Musk intends to use not just Zatko's claims to win his case, but also the fact that the former T
+

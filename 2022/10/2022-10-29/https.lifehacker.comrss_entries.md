@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## These Are the Cheapest American Cities to Buy a Home in Right Now
  - [https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203](https://lifehacker.com/these-are-the-cheapest-american-cities-to-buy-a-home-in-1849718203)
@@ -27,3 +27,4 @@
  - date published: 2022-10-29 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--mfA3M3kp--/c_fit,fl_progressive,q_80,w_636/5b1c73147e8d91db9b44fdda969118fc.jpg" /><p>Imagine your car alerting you about an issue and telling you to pull over as soon as possible in the next 20 to 30 seconds before the transmission disengages and renders your car unable to move. That is the reality 122,000 Hyundai and Kia owners could be facing at any moment.<br /></p><p><a href="https://lifehacker.com/these-hyundai-and-kia-cars-are-being-recalled-because-o-1849667774">Read more...</a></p>
+

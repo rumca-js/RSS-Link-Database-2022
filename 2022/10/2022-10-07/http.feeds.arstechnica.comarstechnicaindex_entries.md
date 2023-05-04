@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The stage is set for a war between worlds in His Dark Materials S3 teaser
  - [https://arstechnica.com/?p=1888152](https://arstechnica.com/?p=1888152)
@@ -111,3 +111,4 @@ Also, the Ariane 6 rocket is inching closer to the launch pad.
  - date published: 2022-10-07 04:30:44+00:00
 
 The AMD-based Swift Edge is bigger and OLED-ier than the Intel-based Swift ultralight.
+

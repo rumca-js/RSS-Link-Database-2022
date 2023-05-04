@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## God Of War: Ragnarok Leak Reveals Possible Playtime
  - [https://www.gamespot.com/articles/god-of-war-ragnarok-leak-reveals-possible-playtime/1100-6507981/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/god-of-war-ragnarok-leak-reveals-possible-playtime/1100-6507981/?ftag=CAD-01-10abi2f)
@@ -146,3 +146,4 @@
  - date published: 2022-10-03 15:52:00+00:00
 
 <p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4043061-0.jpg" /><br /><h3><p dir="ltr">A new trailer for <a href="https://www.gamespot.com/articles/new-black-panther-2-trailer-shows-off-someone-else-in-the-suit-and-ironheart/1100-6507956/">Black Panther: Wakanda Forever</a> has arrived, and guess what? It still looks fantastic. Much like the last trailer, we're still left with quite a bit of mystery surrounding the film. But we did learn a few more things.</p><p dir="l
+

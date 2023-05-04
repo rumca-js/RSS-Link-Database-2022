@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The Apple Watch Ultra is on sale for the first time ever this Black Friday
  - [https://www.pcworld.com/article/1389571/the-apple-watch-ultra-is-on-sale-for-the-first-time-ever-this-black-friday.html](https://www.pcworld.com/article/1389571/the-apple-watch-ultra-is-on-sale-for-the-first-time-ever-this-black-friday.html)
@@ -811,3 +811,4 @@ Monitors</div>
 
 <p><em>Prices subject to change.</em></p>
 Smart Heaters</div>
+

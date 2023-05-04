@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## New North Korea Law Allows For Preemptive Nuclear Strikes, Country Will ‘Automatically And Immediately’ Fire Nuke If Kim Dies In Attack
  - [https://www.dailywire.com/news/new-north-korea-law-allows-for-preemptive-nuclear-strikes-country-will-automatically-and-immediately-fire-nuke-if-kim-dies-in-attack](https://www.dailywire.com/news/new-north-korea-law-allows-for-preemptive-nuclear-strikes-country-will-automatically-and-immediately-fire-nuke-if-kim-dies-in-attack)
@@ -335,3 +335,4 @@ Former President Donald Trump is facing several criminal investigations, at the 
  - date published: 2022-09-09 07:14:20+00:00
 
 Carnegie Mellon University condemned a professor on Thursday who called for the death of Queen Elizabeth II to be “excruciating[ly]” painful, saying that the professor&#8217;s tweet was &#8220;offensive and objectionable.&#8221; Queen Elizabeth II, who ascended to the British throne at age 25, counted Winston Churchill and former President Reagan as close friends, and became the ...
+

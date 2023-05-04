@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## NASA Blazes a Path Back to the Moon With Artemis I Rocket Launch
  - [https://www.nytimes.com/2022/11/16/science/nasa-launch-artemis-1.html](https://www.nytimes.com/2022/11/16/science/nasa-launch-artemis-1.html)
@@ -48,3 +48,4 @@ Those worried about the service’s longevity can preserve their tweets, media a
  - date published: 2022-11-18 10:00:07+00:00
 
 Sam Bankman-Fried’s DMs go public, and Congress announces an investigation. Tech’s nightmare November continues.
+

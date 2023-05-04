@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Ogromna liczba telefonów zniknie z obiegu i stanie się elektrośmieciami
  - [https://ithardware.pl/aktualnosci/okolo_5_3_mld_telefonow_zniknie_z_obiegu_i_stanie_sie_elektrosmieciami-23873.html](https://ithardware.pl/aktualnosci/okolo_5_3_mld_telefonow_zniknie_z_obiegu_i_stanie_sie_elektrosmieciami-23873.html)
@@ -101,3 +101,4 @@ Gotham Knights aspiruje do bycia jedną z lepiej wyglądających gier 2022...
 
 <img src="https://ithardware.pl/artykuly/min/23856_1.jpg" />            Do sieci wyciekła pełna oferta serwerowych procesor&oacute;w AMD EPYC Genoa wraz z ich testami wydajności. Nowa seria oferuje do 2,6 razy wyższą wydajność od konkurencyjnych układ&oacute;w Intel Xeon. Procesory EPYC Genoa są r&oacute;wnież...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/procesory_intel_xeon_to_przy_nich_pikus_wyciekly_testy_oraz_specyfikacje_ukladow_amd_epyc_genoa-23856.html"
+

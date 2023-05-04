@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Microsoft will amp up its anti-harassment rules after investigation following Gates affair
  - [https://www.theverge.com/2022/11/15/23460918/microsoft-announces-new-steps-curb-sexual-harassment-workplace](https://www.theverge.com/2022/11/15/23460918/microsoft-announces-new-steps-curb-sexual-harassment-workplace)
@@ -749,3 +749,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/14/23459244/twitter-elon-musk-blue-verification-internal-warnings-ignored">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Szef BBN: Stanowisko prezydenta ws. Patriotów jest niezmienne
  - [https://wydarzenia.interia.pl/kraj/news-szef-bbn-stanowisko-prezydenta-ws-patriotow-jest-niezmienne,nId,6434460](https://wydarzenia.interia.pl/kraj/news-szef-bbn-stanowisko-prezydenta-ws-patriotow-jest-niezmienne,nId,6434460)
@@ -636,3 +636,4 @@
  - date published: 2022-11-25 04:37:56+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-275-dzien-inwazji-rosji-relacja-na-zywo,nzId,3438,akt,250746"><img align="left" alt="Wojna w Ukrainie. 275. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-275-dzien-inwazji-rosji-relacja-na-zywo/000GE4O1V1II0GCB-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

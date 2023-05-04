@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Massive sinkhole opens up on top of M4 Westconnex in Sydney on Lucas Road, Five Dock
  - [https://www.dailymail.co.uk/news/article-11260319/Massive-sinkhole-opens-M4-Westconnex-Sydney-Lucas-Road-Five-Dock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11260319/Massive-sinkhole-opens-M4-Westconnex-Sydney-Lucas-Road-Five-Dock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1672,3 +1672,4 @@ It may seem like a staple of student life. But the drinking culture during fresh
  - date published: 2022-09-28 00:01:57+00:00
 
 The International Monetary Fund was told to keep its nose out of British affairs last night after it launched a withering attack on the Government's tax-cutting mini-Budget.
+

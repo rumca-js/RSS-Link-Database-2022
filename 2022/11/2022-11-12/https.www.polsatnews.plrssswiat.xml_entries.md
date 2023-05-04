@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: Katastrofa na pokazie lotniczym. Dwa samoloty zderzyły się w powietrzu
  - [https://www.polsatnews.pl/wiadomosc/2022-11-12/usa-katastrofa-na-pokazie-lotniczym-w-locie-zderzyly-sie-dwa-samoloty/](https://www.polsatnews.pl/wiadomosc/2022-11-12/usa-katastrofa-na-pokazie-lotniczym-w-locie-zderzyly-sie-dwa-samoloty/)
@@ -118,3 +118,4 @@ Polska jest na liście krajów, do których najczęściej trafiały dzieci porwa
  - date published: 2022-11-12 06:02:00+00:00
 
 - W Chersoniu nikt nie będzie dziś spał - zapowiadał jeden z mieszkańców miasta, wyzwolonego w piątek przez ukraińskie wojska. I tak najpewniej się stało. Na nagraniach widać, jak chersończycy fetują na ulicach, śpiewają i wznoszą niebiesko-żółte flagi. Pod rosyjską okupacją byli od marca do 11 listopada.
+

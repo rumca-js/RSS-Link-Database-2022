@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## I can't afford to heat my flat - but free coats keep me warm
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63401596?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63401596?at_medium=RSS&at_campaign=KARANGA)
@@ -482,3 +482,4 @@ Many customers with non-smart prepayment meters have not cashed in vouchers aime
  - date published: 2022-10-31 00:00:57+00:00
 
 West Ham striker Michail Antonio gives a unique analysis of himself on Match of the Day 2 after his side's 1-0 defeat by Manchester United.
+

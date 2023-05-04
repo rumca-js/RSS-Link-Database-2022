@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Twitter Stops Giving Out Blue Check Marks After Impersonators Take to the Platform
  - [https://www.wsj.com/articles/whats-real-and-what-isnt-on-twitter-under-elon-musk-it-is-really-unclear-11668184148?mod=rss_Technology](https://www.wsj.com/articles/whats-real-and-what-isnt-on-twitter-under-elon-musk-it-is-really-unclear-11668184148?mod=rss_Technology)
@@ -76,3 +76,4 @@ The company has cut its target for this year’s ad revenue to $10 billion from 
  - date published: 2022-11-11 04:08:00+00:00
 
 Next-generation chips are aimed to be produced by the late 2020s as Japan lags behind other nations.
+

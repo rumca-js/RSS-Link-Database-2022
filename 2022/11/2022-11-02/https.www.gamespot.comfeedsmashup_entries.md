@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Sonic Frontiers Everything To Know
  - [https://www.gamespot.com/videos/sonic-frontiers-everything-to-know/2300-6459908/](https://www.gamespot.com/videos/sonic-frontiers-everything-to-know/2300-6459908/)
@@ -356,3 +356,4 @@
  - date published: 2022-11-02 00:35:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4057566-reviews_codmw2mulitplayer_site.jpg" width="480" /> Modern Warfare 2 dials back Call of Duty's multiplayer experience for a refreshing and more classic feel, but the overall package is incomplete.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Minnesota Governor Promises Marijuana Legalization Will Be One Of First Bills Passed Under Newly-Flipped Legislature
  - [https://www.dailywire.com/news/minnesota-governor-promises-marijuana-legalization-will-be-one-of-first-bills-passed-under-newly-flipped-legislature](https://www.dailywire.com/news/minnesota-governor-promises-marijuana-legalization-will-be-one-of-first-bills-passed-under-newly-flipped-legislature)
@@ -419,3 +419,4 @@ There was no red wave. There was no red tide. There was no red trickle. There wa
  - date published: 2022-11-10 07:23:59+00:00
 
 On Wednesday, after most of the results had been tabulated from Election Day, President Biden declared that he would do nothing differently, despite voters being disenchanted with the direction of the country. Earlier in his press conference, Biden had stated that “the voters were also clear that they’re still frustrated.  I get it.  I understand ...
+

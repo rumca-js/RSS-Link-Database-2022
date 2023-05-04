@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Włochy: Centroprawicowy blok wygrywa wybory parlamentarne
  - [https://wydarzenia.interia.pl/zagranica/news-wlochy-centroprawicowy-blok-wygrywa-wybory-parlamentarne,nId,6307823](https://wydarzenia.interia.pl/zagranica/news-wlochy-centroprawicowy-blok-wygrywa-wybory-parlamentarne,nId,6307823)
@@ -279,3 +279,4 @@
  - date published: 2022-09-25 05:20:45+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-wladimir-putin-oglosil-mobilizacje-i-wyjechal-na-urlop,nId,6307541"><img align="left" alt="Media: Władimir Putin ogłosił mobilizację i wyjechał na urlop" src="https://i.iplsc.com/media-wladimir-putin-oglosil-mobilizacje-i-wyjechal-na-urlop/000G2VCUTI4336LH-C321.jpg" /></a>Władimir Putin po ogłoszeniu częściowej mobilizacji w Rosji pojechał na urlop - informuje portal Swoboda. Putin miał udać się do rezy
+

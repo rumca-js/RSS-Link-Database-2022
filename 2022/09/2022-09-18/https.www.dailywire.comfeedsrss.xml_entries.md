@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Biden Declares U.S. Troops Will Engage In War With China If Taiwan Attacked, White House Walks Back Statement
  - [https://www.dailywire.com/news/biden-declares-u-s-troops-will-engage-in-war-with-china-if-taiwan-attacked-white-house-walks-back-statement](https://www.dailywire.com/news/biden-declares-u-s-troops-will-engage-in-war-with-china-if-taiwan-attacked-white-house-walks-back-statement)
@@ -188,3 +188,4 @@ Governor Ron DeSantis&#8217; (R-FL) political operation has raised a historic $1
  - date published: 2022-09-18 08:14:57+00:00
 
 A Canadian school district is standing behind a biologically male teacher whose wearing of massive prosthetic breasts created an online furor, according to a new report. Pictures and video circulating online show the shop teacher using a table saw and teaching students while wearing the enormous fake bust, complete with prominent nipples. The teacher has ...
+

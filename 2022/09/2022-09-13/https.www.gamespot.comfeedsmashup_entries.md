@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## PlayStation Reveals Synduality, A Post-Apocalyptic Mecha Game
  - [https://www.gamespot.com/articles/playstation-reveals-synduality-a-post-apocalyptic-mecha-game/1100-6507467/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-reveals-synduality-a-post-apocalyptic-mecha-game/1100-6507467/?ftag=CAD-01-10abi2f)
@@ -426,3 +426,4 @@
  - date published: 2022-09-13 02:30:00+00:00
 
 <p>Niantic has announced a new <a href="https://www.gamespot.com/games/pokemon-go/">Pokemon Go</a> event that will take place from September 16, 10 AM, to September 21, 8 PM local time. Players will have to battle against steel-type pokemon. Those in the Northern Hemisphere will encounter the Ultra Beast Kartana, while players in the Southern Hemisphere will encounter the Ultra Beast Celesteela.</p><p dir="ltr">Whenever someone catches a pokemon during this event, there's an increased chance for
+

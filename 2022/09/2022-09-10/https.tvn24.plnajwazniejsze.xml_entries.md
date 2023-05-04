@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Świątek uhonorowana. Jej nazwisko wśród mistrzyń
  - [https://eurosport.tvn24.pl/-wi-tek-uhonorowana--jej-nazwisko-w-r-d-mistrzy-,1118144.html?source=rss](https://eurosport.tvn24.pl/-wi-tek-uhonorowana--jej-nazwisko-w-r-d-mistrzy-,1118144.html?source=rss)
@@ -311,3 +311,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-s02zkq-przedsiebiorca-reportaz-krezela-6105649/alternates/LANDSCAPE_1280" />
     Prowadzą swoje firmy nawet po kilkadziesiąt lat i dopiero teraz grozi im widmo bankructwa.
+

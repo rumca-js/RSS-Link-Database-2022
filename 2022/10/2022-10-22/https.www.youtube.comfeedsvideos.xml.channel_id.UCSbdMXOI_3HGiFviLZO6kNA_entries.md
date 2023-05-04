@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## Meta gets MASSIVE Backlash for the Quest Pro
  - [https://www.youtube.com/watch?v=Uxs8n4TRBrU](https://www.youtube.com/watch?v=Uxs8n4TRBrU)
@@ -36,3 +36,4 @@ TIMESTAMPS:
 11:21 HTC
 11:45 QOTW
 12:44 Outro
+

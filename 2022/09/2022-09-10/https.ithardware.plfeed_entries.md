@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nowa Xperia Pro-I może być bestią dla fanów fotografii
  - [https://ithardware.pl/aktualnosci/nowa_xperia_pro_i_moze_byc_bestia_dla_fanow_fotografii-23224.html](https://ithardware.pl/aktualnosci/nowa_xperia_pro_i_moze_byc_bestia_dla_fanow_fotografii-23224.html)
@@ -77,3 +77,4 @@ YouTube z reklamami jest irytujący dla wielu...
 
 Ubisoft+ ma być dostępny bez żadnych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/ubisoft_ma_byc_dostepny_za_darmo_przez_okreslony_czas-23217.html">https://ithardware.pl/aktualnosci/ubisoft_
+

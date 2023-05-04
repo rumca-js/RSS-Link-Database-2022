@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk Takes a Page Out of Mark Zuckerberg’s Social Media Playbook
  - [https://www.nytimes.com/2022/11/02/technology/musk-twitter-advertisers-civil-rights.html](https://www.nytimes.com/2022/11/02/technology/musk-twitter-advertisers-civil-rights.html)
@@ -76,3 +76,4 @@ Instead of streaming a new TV show or movie, some Roku users are in it for the s
  - date published: 2022-11-02 09:00:13+00:00
 
 “The Playlist” resembles other TV dramas that follow founders to their eventual comeuppance — except Spotify isn’t facing any messy implosion.
+

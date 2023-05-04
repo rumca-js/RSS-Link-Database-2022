@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Know the price-matching policies for Best Buy, Target, Walmart, and others
  - [https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
@@ -382,3 +382,4 @@
     </figure>
 
   <p id="TclIvL">Elon Musk <a href="https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html">is <em>back,</em> and now he wants to own Twitter aga
+

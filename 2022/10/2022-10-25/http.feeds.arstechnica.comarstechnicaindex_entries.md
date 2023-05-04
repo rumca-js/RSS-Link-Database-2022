@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## With shots and infections, the most common COVID symptoms have shifted
  - [https://arstechnica.com/?p=1892816](https://arstechnica.com/?p=1892816)
@@ -83,3 +83,4 @@ This fragment was one of more than 1,500 pieces of debris from Cosmos 1408.
  - date published: 2022-10-25 13:25:37+00:00
 
 It only took 50 years, but there's finally a replacement that's safer and easier to use.
+

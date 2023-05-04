@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The Walking Dead is Shambling to TTRPGs and Actual Play
  - [https://gizmodo.com/the-walking-dead-ttrpg-actual-play-series-amc-1849805274](https://gizmodo.com/the-walking-dead-ttrpg-actual-play-series-amc-1849805274)
@@ -83,3 +83,4 @@
  - date published: 2022-11-19 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--RpFgaYJo--/c_fit,fl_progressive,q_80,w_636/f01f72b953fb4fe4ee6492b088a7c3f1.jpg" /><p><a href="https://gizmodo.com/does-mali-elfman-believe-in-ghosts-next-exit-1849789877">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Beyond Meat executive arrested and charged after biting a man's nose during dispute
  - [https://www.louderwithcrowder.com/fake-meat-executive-bites-nose](https://www.louderwithcrowder.com/fake-meat-executive-bites-nose)
@@ -69,3 +69,4 @@
  - date published: 2022-09-19 11:58:25+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31780797&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1" /><br /><br /><p>Joe Biden sat down for an interview with "60 Minutes." Even while Scott Pelley was giving the president a glorified tongue bath, Americans were provided with examples of why the White House avoids letting Ol' Puddinghead talk to people for extended periods of time.</p><p>Here Biden is getting snippy about the record high inflation under Bid
+

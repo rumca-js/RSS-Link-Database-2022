@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## 'Annoying' people say these 75 things, according to Reddit users
  - [https://www.foxnews.com/lifestyle/annoying-people-say-75-things-reddit-users](https://www.foxnews.com/lifestyle/annoying-people-say-75-things-reddit-users)
@@ -699,3 +699,4 @@ Mandy Moore and husband Taylor Goldsmith welcomed their second baby into the wor
  - date published: 2022-10-22 00:15:44+00:00
 
 A woman alerted police after a Florida man she met on Tinder admitted to being attracted to young girls and sexually abusing them, authorities said.
+

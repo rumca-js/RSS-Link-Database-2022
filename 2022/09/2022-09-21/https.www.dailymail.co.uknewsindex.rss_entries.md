@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Flawed breast cancer surgeries leave thousands of women at risk of a relapse, review warns
  - [https://www.dailymail.co.uk/news/article-11237281/Flawed-breast-cancer-surgeries-leave-thousands-women-risk-relapse-review-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11237281/Flawed-breast-cancer-surgeries-leave-thousands-women-risk-relapse-review-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1749,3 +1749,4 @@ Liz Truss said she would honour Boris Johnson's pledge to ensure that no one wil
  - date published: 2022-09-21 00:03:05+00:00
 
 Chinese researchers recreated a series of typical accident scenarios via computational methods to investigate how head injuries were affected by collisions or falls.
+

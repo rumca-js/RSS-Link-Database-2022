@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Bolsonaro’s Team Makes Late Bid to Overturn Brazil’s Election
  - [https://www.nytimes.com/2022/11/23/world/americas/bolsonaro-brazil-election.html](https://www.nytimes.com/2022/11/23/world/americas/bolsonaro-brazil-election.html)
@@ -174,3 +174,4 @@ A closer look at the state of the war in Ukraine.
  - date published: 2022-11-23 05:11:25+00:00
 
 NATO is determined to help Ukraine battle Russia, but wants no direct part of the war. A new promise of air defense weapons for Poland may make that more complicated.
+

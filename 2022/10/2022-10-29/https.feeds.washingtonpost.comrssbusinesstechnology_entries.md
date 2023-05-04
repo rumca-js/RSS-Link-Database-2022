@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Inside Google’s new Halloween-themed playable Doodle
  - [https://www.washingtonpost.com/video-games/2022/10/29/google-halloween-doodle-splatoon-league/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/29/google-halloween-doodle-splatoon-league/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Tesla engineers were on-site to evaluate the Twitter staff’s code, workers sai
  - date published: 2022-10-29 05:00:16+00:00
 
 In the days before the presidential election, Meta and TikTok have steered millions toward conspiracy theories and extremist content, researchers say.
+

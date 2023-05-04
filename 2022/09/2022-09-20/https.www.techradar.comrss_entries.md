@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Salesforce is trying to take the complexity out of the push for net zero
  - [https://www.techradar.com/news/salesforce-is-trying-to-take-the-complexity-out-of-the-push-for-net-zero/](https://www.techradar.com/news/salesforce-is-trying-to-take-the-complexity-out-of-the-push-for-net-zero/)
@@ -181,6 +181,13 @@ As the rumors hinted, the Nvidia GeForce RTX 4090 has been shown off at GTC 2022
  - date published: 2022-09-20 15:16:33+00:00
 
 The next generation of Nvidia GPUs is coming, so what do we know about the GeForce RTX 30 series' successor?
+
+## Nvidia Lovelace RTX 4000: everything we know so far
+ - [https://www.techradar.com/news/nvidia-lovelace-rtx-40-series-everything-we-know-so-far](https://www.techradar.com/news/nvidia-lovelace-rtx-40-series-everything-we-know-so-far)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-09-20 15:16:33+00:00
+
+The next generation of Nvidia GPUs has finally launched, but not everyone is happy with the new cards.
 
 ## OnePlus just confirmed its new smartwatch specs in the silliest way ever
  - [https://www.techradar.com/news/oneplus-just-confirmed-its-new-smartwatch-specs-in-the-silliest-way-ever/](https://www.techradar.com/news/oneplus-just-confirmed-its-new-smartwatch-specs-in-the-silliest-way-ever/)
@@ -377,3 +384,4 @@ The recent iOS 16 update brought a number of audio changes, and some of them imp
  - date published: 2022-09-20 04:00:40+00:00
 
 Launching today, the Connected Stores program also allow shoppers to learn about products before they buy.
+

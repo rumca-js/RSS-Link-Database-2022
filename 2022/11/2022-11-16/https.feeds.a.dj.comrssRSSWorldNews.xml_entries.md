@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## COP27 Talks Weigh Who Should Pay for Climate Damage to Poor Countries
  - [https://www.wsj.com/articles/cop27-talks-weigh-who-should-pay-for-climate-damage-to-poor-countries-11668598218](https://www.wsj.com/articles/cop27-talks-weigh-who-should-pay-for-climate-damage-to-poor-countries-11668598218)
@@ -62,3 +62,4 @@ Remote working is now a favor that some bosses in Europe are asking from their w
  - date published: 2022-11-16 09:43:00+00:00
 
 Major economies overcame divisions to put out a joint statement that focused on the economic fallout of the Ukraine conflict.
+

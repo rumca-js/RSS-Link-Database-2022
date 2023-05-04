@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Uber driver documents wild night of dude passing out drunk before the strip club, and then cops got involved
  - [https://www.louderwithcrowder.com/uber-driver-drunk-strip-police](https://www.louderwithcrowder.com/uber-driver-drunk-strip-police)
@@ -237,3 +237,4 @@
 <a href="https://youtu.be/E6-i_FhbOSI" target="_blank">youtu.be</a>
 </small>
 </p>
+

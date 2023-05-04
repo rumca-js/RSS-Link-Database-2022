@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Thursday Briefing: U.S. Believes Ukrainians Were Behind a Killing in Russia
  - [https://www.nytimes.com/2022/10/05/briefing/ukraine-assassination-dugina-taiwan-opec.html](https://www.nytimes.com/2022/10/05/briefing/ukraine-assassination-dugina-taiwan-opec.html)
@@ -167,3 +167,4 @@ Tens of thousands of men have ended up in places like Kyrgyzstan, a former Sovie
  - date published: 2022-10-05 03:20:16+00:00
 
 Mold in homes is a costly crisis that often accompanies hurricanes and flooding, and climate change is amplifying the rain that feeds outbreaks.
+

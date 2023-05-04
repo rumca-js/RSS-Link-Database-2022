@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Snapdragon 8 Gen 2 deep dive: Everything you need to know
  - [https://www.androidauthority.com/snapdragon-8-gen-2-explained-3231826/](https://www.androidauthority.com/snapdragon-8-gen-2-explained-3231826/)
@@ -125,3 +125,4 @@ The modest Mi Band series gains a Pro model, but is it worth your time?
  - date published: 2022-11-15 06:50:28+00:00
 
 Finally! A WhatsApp feature we've wanted forever.
+

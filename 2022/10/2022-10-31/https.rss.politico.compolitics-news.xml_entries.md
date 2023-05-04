@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Prominent conservatives share online disinformation about Paul Pelosi assault
  - [https://www.politico.com/news/2022/10/31/conservatives-disinformation-paul-pelosi-assault-00064208](https://www.politico.com/news/2022/10/31/conservatives-disinformation-paul-pelosi-assault-00064208)
@@ -13,3 +13,4 @@ The posts by Donald Trump Jr. and Rep. Clay Higgins, among others, come as GOP l
  - date published: 2022-10-31 03:30:00+00:00
 
 The America First movement finds a partner in the Saudi-funded tour.
+

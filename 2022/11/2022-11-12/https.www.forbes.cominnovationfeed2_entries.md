@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Elizabeth Holmes Theranos Update: Prosecutors Seek 15-Year Prison Sentence
  - [https://www.forbes.com/sites/brucelee/2022/11/12/elizabeth-holmes-theranos-update-prosecutors-seek-15-year-prison-sentence/](https://www.forbes.com/sites/brucelee/2022/11/12/elizabeth-holmes-theranos-update-prosecutors-seek-15-year-prison-sentence/)
@@ -237,3 +237,4 @@ Space startup aims to radically redefine the way astronomy in space is funded. T
  - date published: 2022-11-12 01:00:00+00:00
 
 The experimental heat shield technology is needed for future crewed missions to Mars and beyond.
+

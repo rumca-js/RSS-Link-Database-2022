@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Midterms Will Determine Republicans' Stance on Ukraine — and America
  - [https://theintercept.com/2022/11/07/republicans-ukraine-aid/](https://theintercept.com/2022/11/07/republicans-ukraine-aid/)
@@ -7,3 +7,4 @@
 
 <p>Christian nationalists see Putin’s invasion of Ukraine as a key step in his campaign to crush the global woke left.</p>
 <p>The post <a href="https://theintercept.com/2022/11/07/republicans-ukraine-aid/" rel="nofollow">Midterms Will Determine Republicans&#8217; Stance on Ukraine — and America</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

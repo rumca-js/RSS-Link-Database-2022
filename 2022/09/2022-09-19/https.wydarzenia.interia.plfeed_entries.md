@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Pracownicy Gazpromu mają "zrzucić się" na leczenie rannych żołnierzy
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-pracownicy-gazpromu-maja-zrzucic-sie-na-leczenie-rannych-zol,nId,6295648](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-pracownicy-gazpromu-maja-zrzucic-sie-na-leczenie-rannych-zol,nId,6295648)
@@ -691,3 +691,4 @@ Szczegółowy harmonogram
  - date published: 2022-09-19 03:40:01+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-208-dzien-inwazji-rosji-relacja-na-zywo,nzId,3038,akt,190735"><img align="left" alt="Wojna w Ukrainie. 208. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-208-dzien-inwazji-rosji-relacja-na-zywo/000G34AJB852T1L1-C321.jpg" /></a>208. dzień inwazji Rosji na Ukrainę.</p><br clear="all" />
+

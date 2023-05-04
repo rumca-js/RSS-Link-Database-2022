@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Meta teaches an AI to lie, strategize
  - [https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.html#tk.rss_all](https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.html#tk.rss_all)
@@ -17,3 +17,4 @@
 <article>
 	<section class="page">
 <p>After <a href="https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html">several major technology companies announced layoffs</a> due to macroeconomic headwinds in the last few months, Google is now under the spotlight as news reports this week predict that the company will cut at least 10,000 jobs.</p><p>The forecasts are based on a <a href="https://www.theinformation.com/articles/10-000-google-employees-could-be-rated-as-low-performers" rel="nofollow">report</a> from the Information, which said that under the Google Reviews and Development (GRAD) program, launched earlier this year, managers have been told to allocate a low performer rating to at least 6% of employees compared to 2% under the old performance review process.   </p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681109/changes-to-googles-employee-appraisal-system-stir-layoff-fears.html#jump">To read this article in full, please click here</a></p></section></article>
+

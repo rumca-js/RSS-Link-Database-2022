@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Idaho murders: police have 'cleared' phone calls victims made on the night of stabbings
  - [https://www.foxnews.com/us/idaho-murders-police-have-cleared-phone-calls-victims-made-night-stabbings](https://www.foxnews.com/us/idaho-murders-police-have-cleared-phone-calls-victims-made-night-stabbings)
@@ -685,3 +685,4 @@ Heavyweights Derrick Lewis and Serghei Spivac will no longer battle at UFC Vegas
  - date published: 2022-11-20 00:15:37+00:00
 
 Latah County prosecuting attorney Bill Thompson was seen on Saturday entering the Moscow, Idaho, home where four students were killed on Nov. 13.
+

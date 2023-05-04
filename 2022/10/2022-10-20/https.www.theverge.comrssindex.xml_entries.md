@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The Glow is gone — Amazon shuts down support for its kid-focused video calling device
  - [https://www.theverge.com/2022/10/20/23415167/amazon-glow-support-discontinued-refund](https://www.theverge.com/2022/10/20/23415167/amazon-glow-support-discontinued-refund)
@@ -408,3 +408,4 @@
     </figure>
 
   <p id="y8DTQ8">For its latest mechanical keyboard switch, German manufacturer Cherry has taken inspiration from a popular modification of one of its existing sw
+

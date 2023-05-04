@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Meta Reportedly Fires Dozens of Employees for Hijacking Users' Facebook and Instagram Accounts
  - [https://thehackernews.com/2022/11/meta-reportedly-fires-dozens-of.html](https://thehackernews.com/2022/11/meta-reportedly-fires-dozens-of.html)
@@ -40,3 +40,4 @@ The threat actors behind the Hive ransomware-as-a-service (RaaS) scheme have lau
 
 An ongoing supply chain attack has been leveraging malicious Python packages to distribute malware called W4SP Stealer, with over hundreds of victims ensnared to date.
 "The threat actor is still active and is releasing more malicious packages," Checkmarx researcher Jossef Harush said in a technical write-up, calling the adversary WASP. "The attack seems related to cybercrime as the attacker
+

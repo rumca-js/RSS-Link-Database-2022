@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## NASA just crashed a spacecraft into an asteroid to see what would happen
  - [https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
@@ -397,3 +397,4 @@
     </figure>
 
   <p id="hNVRoI">The rumors were true: Amazon’s holding a second Prime-exclusive sales event starting on Tuesday, October 11th at 3AM ET / 12AM PT and running thr
+

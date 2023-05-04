@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## World Cup 2022: Kieran Trippier has to start for England, says Alan Shearer
  - [https://www.bbc.co.uk/sport/football/63538071?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63538071?at_medium=RSS&at_campaign=KARANGA)
@@ -314,3 +314,4 @@ Match of the Day's Gary Lineker, Jermaine Jenas and Danny Murphy analyse midfiel
  - date published: 2022-11-06 00:00:49+00:00
 
 Controversially Twitter says blue-tick status will be open to those who pay a monthly $7.99.
+

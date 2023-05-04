@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Why countries run or walk toward a fossil-free world
  - [https://arstechnica.com/?p=1888603](https://arstechnica.com/?p=1888603)
@@ -69,3 +69,4 @@ All the best features of a circa-2015 Paperwhite in a smaller, cheaper package.
  - date published: 2022-10-10 04:01:55+00:00
 
 The 2nd-generation Niro comes as a hybrid, plug-in hybrid, or battery EV.
+

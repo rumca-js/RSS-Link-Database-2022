@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## UnitedHealth’s Optum Rx PBM To Coax Patients To Less Pricey Biosimilars Of Abbvie’s Humira
  - [https://www.forbes.com/sites/brucejapsen/2022/11/15/unitedhealths-optum-rx-pbm-to-coax-patients-to-less-pricey-biosimilars-of-abbvies-humira/](https://www.forbes.com/sites/brucejapsen/2022/11/15/unitedhealths-optum-rx-pbm-to-coax-patients-to-less-pricey-biosimilars-of-abbvies-humira/)
@@ -629,3 +629,4 @@ In a little more than three years he's been part of creating the Wonderfront fes
  - date published: 2022-11-15 00:05:54+00:00
 
 The Warzone 2 launch trailer is over-the-top as video game trailers come, and it's great. 'Free Bird' is the perfect song choice for the free-to-play Call Of Duty Battle Royale.
+

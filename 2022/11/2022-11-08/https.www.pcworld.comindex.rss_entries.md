@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Microsoft is going to clamp down on your OneDrive data cap
  - [https://www.pcworld.com/article/1374270/microsoft-is-clamping-down-on-its-onedrive-data-cap.html](https://www.pcworld.com/article/1374270/microsoft-is-clamping-down-on-its-onedrive-data-cap.html)
@@ -1296,3 +1296,4 @@ Business, Productivity Software</div>
 
 <p><em>Prices subject to change.</em></p>
 Python</div>
+

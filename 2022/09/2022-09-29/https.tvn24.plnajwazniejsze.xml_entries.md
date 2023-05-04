@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zwycięska seria zakończona. Dominikanki zatrzymały Polki
  - [https://eurosport.tvn24.pl/zwyci-ska-seria-zako-czona--dominikanki-zatrzyma-y-polki,1120056.html?source=rss](https://eurosport.tvn24.pl/zwyci-ska-seria-zako-czona--dominikanki-zatrzyma-y-polki,1120056.html?source=rss)
@@ -247,3 +247,4 @@
 
 <img alt="Zmobilizowani bez podstawowego przeszkolenia. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-8cx487-mobilizowani-do-armii-mezczyzni-w-moskwie-6135756/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

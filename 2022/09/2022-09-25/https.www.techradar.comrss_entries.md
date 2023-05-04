@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## OnePlus Nord Watch leak includes unofficial renders and key specs
  - [https://www.techradar.com/news/oneplus-nord-watch-leak-includes-unofficial-renders-and-key-specs/](https://www.techradar.com/news/oneplus-nord-watch-leak-includes-unofficial-renders-and-key-specs/)
@@ -27,3 +27,4 @@ Following the RTX 4000 reveal earlier this week, price tags have come down quick
  - date published: 2022-09-25 08:00:02+00:00
 
 JBL's is a novel and fresh approach with tailored sound profiles for each wearing style, but for me, there are issues with both…
+

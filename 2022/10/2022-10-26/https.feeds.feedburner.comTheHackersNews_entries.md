@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## U.S. Charges Ukrainian Hacker Over Role in Raccoon Stealer Malware Service
  - [https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html](https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html)
@@ -58,3 +58,4 @@ Tracked as CVE-2020-3153 (CVSS score: 6.5) and CVE-2020-3433 (CVSS score: 7.
 VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.
 Tracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.
 "Due to an unauthenticated endpoint that leverages XStream for input serialization in
+

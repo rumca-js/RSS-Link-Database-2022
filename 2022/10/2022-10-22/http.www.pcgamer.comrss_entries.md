@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Use disposable android bodies to take down megacorps in this cyberpunk FPS
  - [https://www.pcgamer.com/use-disposable-android-bodies-to-take-down-megacorps-in-this-cyberpunk-fps](https://www.pcgamer.com/use-disposable-android-bodies-to-take-down-megacorps-in-this-cyberpunk-fps)
@@ -55,3 +55,4 @@ Wordle today: The solution and a hint for Saturday's puzzle.
  - date published: 2022-10-22 00:30:12+00:00
 
 YouTuber 3kliksphilip has entered the gaming Speed Force.
+

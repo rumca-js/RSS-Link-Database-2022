@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Musk suggests openness to continue funding Starlink access in Ukraine
  - [https://www.washingtonpost.com/technology/2022/10/15/elon-musk-ukraine-starlink/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/15/elon-musk-ukraine-starlink/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Many Russians want no part of Putin’s war, so they’re using this online comm
  - date published: 2022-10-15 06:50:23+00:00
 
 Workers in the Apple Oklahoma City store voted to unionize, joining the Communications Workers of America Union.
+

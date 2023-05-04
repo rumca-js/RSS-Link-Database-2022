@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Meta Spokesperson Denies Report of CEO Zuckerberg Stepping Down Next Year
  - [https://www.theepochtimes.com/meta-spokesperson-denies-report-of-ceo-zuckerberg-stepping-down-next-year_4881213.html](https://www.theepochtimes.com/meta-spokesperson-denies-report-of-ceo-zuckerberg-stepping-down-next-year_4881213.html)
@@ -20,3 +20,4 @@ Credit cards in Orlando, Fla., on July 1, 2021. (John Raoux/AP Photo)
  - date published: 2022-11-24 00:02:30+00:00
 
 Samuel Bankman-Fried, founder and CEO of FTX, testifies during a Senate Committee on Agriculture, Nutrition and Forestry hearing about "Examining Digital Assets: Risks, Regulation, and Innovation," on Capitol Hill in Washington, DC, on Feb. 9, 2022. (SAUL LOEB/AFP via Getty Images)
+

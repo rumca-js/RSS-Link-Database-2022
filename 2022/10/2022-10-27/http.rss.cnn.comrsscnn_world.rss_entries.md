@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Apple is weathering the economic downturn better than fellow tech giants
  - [https://www.cnn.com/2022/10/27/tech/apple-earnings/index.html](https://www.cnn.com/2022/10/27/tech/apple-earnings/index.html)
@@ -69,3 +69,4 @@ Israeli President Isaac Herzog on Wednesday said he is "extremely pleased" with 
  - date published: 2022-10-27 00:09:52+00:00
 
 George Washington knew when to cede power. But many of today's global leaders find it much harder to leave the stage — and could do with a dose of the first US President's humility.
+

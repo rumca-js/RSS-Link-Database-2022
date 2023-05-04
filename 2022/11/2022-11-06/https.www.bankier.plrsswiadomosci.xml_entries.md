@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Rosjanie zmuszają do ewakuacji z obwodu chersońskiego
  - [https://www.bankier.pl/wiadomosc/Rosjanie-zmuszaja-do-ewakuacji-z-obwodu-chersonskiego-8434764.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rosjanie-zmuszaja-do-ewakuacji-z-obwodu-chersonskiego-8434764.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -160,3 +160,4 @@
  - date published: 2022-11-06 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/c/d5e9ef0a8d18d5-948-568-0-128-1758-1054.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Przed rozpoczynającą się w niedzielę konferencją klimatyczną COP27 w Egipcie, w specjalnym raporcie naukowcy podsumowali informacje o zmianach klimatu w 2021 roku. Silnie oddziałujące zjawiska pogodowe i klimatyczne dotknęły w 2021 bezpośrednio ponad pół miliona ludzi - wynika z raportu.</p>
+

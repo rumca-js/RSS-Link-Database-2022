@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## The FDA may have unintentionally made 'Nyquil Chicken' go viral on TikTok
  - [https://www.engadget.com/nyquil-chicken-tiktok-fda-232314004.html?src=rss](https://www.engadget.com/nyquil-chicken-tiktok-fda-232314004.html?src=rss)
@@ -167,3 +167,4 @@
  - date published: 2022-09-22 03:46:56+00:00
 
 <p>The next Artemis 1 launch attempt might take place as soon as next week, seeing as NASA has met all the objectives it set out to do to consider its rocket's <a href="https://blogs.nasa.gov/artemis/">fuel test a success</a>. NASA had to test adding super-cooled fuel to the Space Launch System's tanks to confirm the repairs it made after it <a href="https://www.engadget.com/nasa-scrubs-artemis-1-again-153016409.html">scrubbed</a> the mission's second launch attempt in late August. The ground te
+

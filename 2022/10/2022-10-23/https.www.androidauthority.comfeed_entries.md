@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Here are the best sci-fi horror movies to stream for Halloween
  - [https://www.androidauthority.com/best-sci-fi-horror-movies-to-stream-3223353/](https://www.androidauthority.com/best-sci-fi-horror-movies-to-stream-3223353/)
@@ -41,3 +41,4 @@ Smartphone colors have become a bit too dull for my taste.
  - date published: 2022-10-23 12:00:40+00:00
 
 IP-based security cameras offer several benefits over internet-connected options. Here's why I switched and you should too.
+

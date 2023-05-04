@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Easiest Way to Choose the Perfect Lampshade
  - [https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111](https://lifehacker.com/the-easiest-way-to-choose-the-perfect-lampshade-1849748111)
@@ -20,3 +20,4 @@
  - date published: 2022-11-06 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--9QADguNf--/c_fit,fl_progressive,q_80,w_636/a3f3b7069ebf7c1518d9eea6b7c78075.jpg" /><p>Rising energy costs means that most of us will be paying more to heat our homes this winter. And unfortunately, that’s only one of many price increases we’ve seen over the last year or so. This makes it especially important to ensure that we keep the resources, appliances, and home features we do have working for us,…</p><p><a href="https://lifehacker.com/how-to-maximize-the-heat-from-your-fireplace-1849748121">Read more...</a></p>
+

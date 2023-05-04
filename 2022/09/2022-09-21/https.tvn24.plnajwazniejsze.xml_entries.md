@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Media: Ponitka osiągnął porozumienie z greckim potentatem
  - [https://eurosport.tvn24.pl/media--ponitka-osi-gn---porozumienie-z-greckim-potentatem,1119262.html?source=rss](https://eurosport.tvn24.pl/media--ponitka-osi-gn---porozumienie-z-greckim-potentatem,1119262.html?source=rss)
@@ -191,3 +191,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-lyhtfi-usg-6122208/alternates/LANDSCAPE_1280" />
     Marina o wadzie letalnej swojego dziecka dowiedziała się dopiero u progu 30. tygodnia ciąży. Jak do tego doszło? Reportaż Marty Warchoł.
+

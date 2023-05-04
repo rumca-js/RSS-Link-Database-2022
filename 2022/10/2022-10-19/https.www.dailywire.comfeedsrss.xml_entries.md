@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘We Can’t Rely On These Institutions To Police Themselves’: Matt Walsh Affirms Why Nation Needs Laws Banning Castrating Children
  - [https://www.dailywire.com/news/we-cant-rely-on-these-institutions-to-police-themselves-matt-walsh-affirms-why-nation-needs-laws-banning-castrating-children](https://www.dailywire.com/news/we-cant-rely-on-these-institutions-to-police-themselves-matt-walsh-affirms-why-nation-needs-laws-banning-castrating-children)
@@ -384,3 +384,4 @@ The U.S. military in 2022, under the leadership of President Joe Biden, received
  - date published: 2022-10-19 04:30:50+00:00
 
 Republicans are close to holding Arizona’s governor’s seat and potentially flipping a U.S. Senate seat, according to a new Trafalgar Group/Daily Wire poll. Republican gubernatorial candidate Kari Lake is ahead of her Democratic opponent, Arizona Secretary of State Katie Hobbs, with a lead just inside the poll’s 2.9-point margin of error: 49.2% to 46.4%. Republican ...
+

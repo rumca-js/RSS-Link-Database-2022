@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## "Kartka do Czarnka". Nauczyciele w całej Polsce alarmują o brakach kadrowych w szkołach
  - [https://tvn24.pl/polska/kartka-do-czarnka-nauczyciele-alarmuja-o-brakach-kadrowych-w-szkolach-pisza-do-ministra-edukacji-6163587?source=rss](https://tvn24.pl/polska/kartka-do-czarnka-nauczyciele-alarmuja-o-brakach-kadrowych-w-szkolach-pisza-do-ministra-edukacji-6163587?source=rss)
@@ -95,3 +95,4 @@
 
 <img alt="Pogoda na dziś - piątek 14.10. Deszcz popada w większości kraju" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-9i2iyi-deszcz-6162650/alternates/LANDSCAPE_1280" />
     Pogoda na dziś. Piątek 14.10 upłynie ze słabymi opadami deszczu na przeważającym obszarze Polski. Termometry wskażą maksymalnie 19 stopni Celsjusza w południowo-wschodniej części kraju.
+

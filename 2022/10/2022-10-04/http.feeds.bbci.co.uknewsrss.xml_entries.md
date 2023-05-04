@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## More rail disruption as 9,000 train drivers strike
  - [https://www.bbc.co.uk/news/business-63125652?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63125652?at_medium=RSS&at_campaign=KARANGA)
@@ -322,6 +322,13 @@ Euro-MPs vote to make all mobile devices use the same USB-C type charger from 20
 
 Dramatic scenes show teenagers waving headscarves and chanting against clerical authorities.
 
+## Alex Scott on the abuse she says she endured at the hands of her father
+ - [https://www.bbc.co.uk/news/uk-63128934?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63128934?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-04 12:51:53+00:00
+
+The commentator responds after her father denies being violent to her, her brother and her mother.
+
 ## Gateshead: Boy, 14, held in murder probe into teenager's death
  - [https://www.bbc.co.uk/news/uk-england-tyne-63132334?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-tyne-63132334?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -636,3 +643,4 @@ Inspectors also endorsed staff "values" at a time when the BBC was filming patie
  - date published: 2022-10-04 00:08:17+00:00
 
 The former president weighed bombing Mexican drug labs and nearly fired his daughter, a new book claims.
+

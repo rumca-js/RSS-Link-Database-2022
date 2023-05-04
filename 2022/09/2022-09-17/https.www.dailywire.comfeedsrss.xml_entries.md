@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## NBC News Deletes Tweet That Contained Disturbing Quote From Immigration Activist About Migrants
  - [https://www.dailywire.com/news/nbc-news-deletes-tweet-that-contained-disturbing-quote-from-immigration-activist-about-migrants](https://www.dailywire.com/news/nbc-news-deletes-tweet-that-contained-disturbing-quote-from-immigration-activist-about-migrants)
@@ -111,3 +111,4 @@ Former Democratic House member Tulsi Gabbard scorched Vice President Kamala Harr
  - date published: 2022-09-17 09:41:05+00:00
 
 California Governor Gavin Newsom (D) moved from calling for a criminal investigation into Florida Governor Ron DeSantis (R) after DeSantis sent 50 illegal immigrants to Martha&#8217;s Vineyard this week to demanding that DeSantis debate him. Newsom, who has repeatedly sought to elevate himself on the national political stage by attacking DeSantis, wrote a letter to ...
+

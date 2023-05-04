@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Heartbroken father of cop killed in ambush hails him as an 'true American patriot'
  - [https://www.dailymail.co.uk/news/article-11313945/Heartbroken-father-cop-killed-ambush-hails-true-American-patriot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11313945/Heartbroken-father-cop-killed-ambush-hails-true-American-patriot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2226,3 +2226,4 @@ ALEX BRUMMER: On Tuesday, with the pension funds still experiencing a degree of 
  - date published: 2022-10-13 00:00:31+00:00
 
 Pennsylvania Democratic Senate hopeful John Fetterman thrice refused to commit to provide additional medical records to prove he's fit to serve post-stroke, during an interview Wednesday.
+

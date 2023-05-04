@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google Pixel 7 Pro review: All that and a bag of (Tensor) chips
  - [https://www.androidauthority.com/google-pixel-7-pro-review-3218245/](https://www.androidauthority.com/google-pixel-7-pro-review-3218245/)
@@ -76,3 +76,4 @@ Having trouble installing that old app on your Pixel 7? There's a reason for tha
  - date published: 2022-10-14 04:00:10+00:00
 
 If you can see a channel app on your Roku, you probably have control over it.
+

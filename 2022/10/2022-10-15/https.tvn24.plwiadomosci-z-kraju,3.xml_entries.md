@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Trudna sytuacja Ukraińców w obliczu rosyjskiej agresji
  - [https://tvn24.pl/programy/trudna-sytuacja-ukraincow-w-obliczu-rosyjskiej-agresji-6164449?source=rss](https://tvn24.pl/programy/trudna-sytuacja-ukraincow-w-obliczu-rosyjskiej-agresji-6164449?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Trudna sytuacja Ukraińców w obliczu rosyjskiej agresji" src="https://tvn24.pl/najnowsze/cdn-zdjecie-4u4ne6-piestrzynska-6164439/alternates/LANDSCAPE_1280" />
     Wojna w Ukrainie trwa już osiem miesięcy, w piątek był jej 233. dzień. Jeśli wszystko pójdzie dobrze, wojna może zakończyć się już zimą lub wiosną przyszłego roku - powiedział Mychajło Podolak, doradca prezydenta Wołodymyra Zełenskiego. Na razie wojna trwa i kryzys humanitarny też - Ukraińcy potrzebują długoterminowej pomocy. 
+

@@ -1,4 +1,4 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
+# Source:Virtual Reality Oasis, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, language:en-US
 
 ## Pico 4 Review - A Great Quest 2 Alternative!
  - [https://www.youtube.com/watch?v=i6uMxzBMwLY](https://www.youtube.com/watch?v=i6uMxzBMwLY)
@@ -65,3 +65,4 @@ Website: http://virtualrealityoasis.com/
 Email: contact@virtualrealityoasis.com
 
 #Pico4 #VirtualReality #VR
+

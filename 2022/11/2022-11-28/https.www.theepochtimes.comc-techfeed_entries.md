@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Facebook Fined $277 Million for Privacy Violations
  - [https://www.theepochtimes.com/facebook-fined-275-million-for-privacy-violations_4890444.html](https://www.theepochtimes.com/facebook-fined-275-million-for-privacy-violations_4890444.html)
@@ -34,3 +34,4 @@ A Chinese worker walks past a Foxconn factory in an industrial district of Fosha
  - date published: 2022-11-28 00:01:08+00:00
 
 Elon Musk's Twitter profile on a smartphone placed on printed Twitter logos on April 28, 2022. (Dado Ruvic/Illustration/Reuters)
+

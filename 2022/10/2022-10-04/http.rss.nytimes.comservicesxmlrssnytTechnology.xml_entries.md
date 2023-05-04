@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Facebook Winds Down Its Newsletter Service
  - [https://www.nytimes.com/2022/10/04/business/media/facebook-ends-bulletin-newsletter.html](https://www.nytimes.com/2022/10/04/business/media/facebook-ends-bulletin-newsletter.html)
@@ -69,3 +69,4 @@ With its new acquisition — the company’s largest to date — Naver has gaine
  - date published: 2022-10-04 01:58:31+00:00
 
 The embattled video game company is in union negotiations with workers at its subsidiary Raven Software.
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Elizabeth Warren presses Texas on crypto miners’ energy use
  - [https://www.engadget.com/elizabeth-warren-presses-texas-on-crypto-miners-energy-use-235053032.html?src=rss](https://www.engadget.com/elizabeth-warren-presses-texas-on-crypto-miners-energy-use-235053032.html?src=rss)
@@ -300,3 +300,4 @@
  - date published: 2022-10-12 05:36:27+00:00
 
 <p>Blizzard <a href="https://www.engadget.com/overwatch-2-no-longer-requires-legacy-players-verify-phone-number-114017280.html">previously admitted</a> that <em>Overwatch 2's </em>launch, which was spoiled by a bunch of bugs, DDoS attacks and other issues, has not met players of the company's expectations. While the company has made a lot of progress to make the game playable — a lot of players <a href="https://www.engadget.com/ddos-attack-overwatch-2-050328450.html">couldn't even log in</a> at 
+

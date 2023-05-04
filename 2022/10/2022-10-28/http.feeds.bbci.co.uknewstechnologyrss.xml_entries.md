@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## UK online safety legislation delayed again
  - [https://www.bbc.co.uk/news/uk-politics-63426734?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63426734?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Commons leader Penny Mordaunt insists the legislation aimed at protecting childr
  - date published: 2022-10-28 09:37:17+00:00
 
 The boss of Tesla and SpaceX is the world's richest person and a business celebrity with few rivals.
+

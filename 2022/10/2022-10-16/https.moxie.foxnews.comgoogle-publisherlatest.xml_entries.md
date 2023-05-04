@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Bird flu strikes Emmanuel the emu, causes Nebraska zoo to close some exhibits
  - [https://www.foxnews.com/us/bird-flu-emmanuel-emu-nebraska-zoo-close-exhibits](https://www.foxnews.com/us/bird-flu-emmanuel-emu-nebraska-zoo-close-exhibits)
@@ -895,3 +895,4 @@ Shannon Brandt, the man who is accused of killing 18-year-old Cayler Ellingson, 
  - date published: 2022-10-16 00:07:47+00:00
 
 Tennessee beat Alabama on a last-second field goal, beating Nick Saban for the first time in 16 tries as fans emptied Neyland Stadium onto the field.
+

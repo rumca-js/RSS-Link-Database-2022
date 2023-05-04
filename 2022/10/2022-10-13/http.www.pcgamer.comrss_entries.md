@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Elden Ring's 1.07 patch introduces PvP-only nerfs, buffs a whole bunch of weapons
  - [https://www.pcgamer.com/elden-rings-107-patch-introduces-pvp-only-nerfs-buffs-a-whole-bunch-of-weapons](https://www.pcgamer.com/elden-rings-107-patch-introduces-pvp-only-nerfs-buffs-a-whole-bunch-of-weapons)
@@ -174,3 +174,4 @@ Tips and tricks for patching and enjoying this janky cult classic.
  - date published: 2022-10-13 03:32:50+00:00
 
 Up to double digit gains in some titles.
+

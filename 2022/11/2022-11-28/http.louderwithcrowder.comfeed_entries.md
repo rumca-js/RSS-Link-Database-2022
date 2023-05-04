@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Humorless CNN fact-checks hilarious Elon Musk meme mocking them, so he mocked them some more
  - [https://www.louderwithcrowder.com/cnn-elon-musk](https://www.louderwithcrowder.com/cnn-elon-musk)
@@ -169,3 +169,4 @@
 <a href="https://youtu.be/xjVSOb0y0FM" target="_blank">youtu.be</a>
 </small>
 </p>
+

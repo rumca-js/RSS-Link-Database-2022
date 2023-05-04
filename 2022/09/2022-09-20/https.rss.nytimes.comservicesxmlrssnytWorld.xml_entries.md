@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Royal Shakespeare Company Names Two Directors for Top Job
  - [https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html](https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html)
@@ -179,5 +179,6 @@ Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign t
  - [https://www.nytimes.com/2022/09/20/world/russia-is-struggling-to-attract-new-recruits-for-its-army-a-us-official-says.html](https://www.nytimes.com/2022/09/20/world/russia-is-struggling-to-attract-new-recruits-for-its-army-a-us-official-says.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 00:32:42+00:00
+
 
 

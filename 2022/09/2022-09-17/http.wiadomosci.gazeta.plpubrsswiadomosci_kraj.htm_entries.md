@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Andrzej Duda wyznaczył 11 sędziów Sądu Najwyższego do nowej Izby Odpowiedzialności Zawodowej
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28924175,andrzej-duda-wyznaczyl-11-sedziow-sadu-najwyzszego-do-nowej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28924175,andrzej-duda-wyznaczyl-11-sedziow-sadu-najwyzszego-do-nowej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-09-17 08:28:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/01/56/1b/z28665601M,Zdjecie-ilustracyjne.jpg" vspace="2" />Paweł J. udusił swoją partnerkę Danutę N. pod koniec października 2021 roku. Mieszkał z jej zwłokami przez dwa tygodnie - mężczyzna przyznał się do zabójstwa. Po niemal roku od tych zdarzeń Prokuratura Rejonowa w Grodzisku Mazowieckim skierowała do sądu akt oskarżenia.
+

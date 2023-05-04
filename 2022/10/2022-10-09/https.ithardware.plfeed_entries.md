@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## WhatsApp Premium dostępny dla wybranych użytkowników
  - [https://ithardware.pl/aktualnosci/whatsapp_premium_dostepny_dla_wybranych_uzytkownikow-23757.html](https://ithardware.pl/aktualnosci/whatsapp_premium_dostepny_dla_wybranych_uzytkownikow-23757.html)
@@ -87,3 +87,4 @@ Raport zatytułowany &quot;Examining the Intersection between Gaming and Violent
 
 W raporcie analitycy...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/meta_ostrzega_uzytkownikow_facebooka_przed_aplikacjami_z_app_store_i_play_store-23747.html">https://ithardware.pl/ak
+

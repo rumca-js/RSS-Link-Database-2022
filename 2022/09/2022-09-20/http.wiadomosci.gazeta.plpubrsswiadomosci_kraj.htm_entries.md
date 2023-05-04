@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Sejny. Policjanci pochwalili się, że przechwycili 3 kg marihuany. Zdjęcia "zdobyczy" rozbawiły internautów
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28934909,sejny-policjanci-pochwalili-sie-ze-przechwycili-3-kg-marihuany.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28934909,sejny-policjanci-pochwalili-sie-ze-przechwycili-3-kg-marihuany.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -111,3 +111,4 @@
  - date published: 2022-09-20 05:11:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/b3/94/1b/z28917939M,Przemyslaw-Czarnek.jpg" vspace="2" />Przemysław Czarnek odniósł się do wypowiedzi szefa Związku Nauczycielstwa Polskiego, który w związku z "bardzo złą sytuacją w oświacie" nie wyklucza strajku. "Gdzie byliście przed 2016? Na whisky?" - zapytał minister, zwracając się w internetowym wpisie do związku i Sławomira Broniarza.
+

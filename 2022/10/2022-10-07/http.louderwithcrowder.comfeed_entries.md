@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Doofus Tries Attacking Old Man at Traffic Light, Isn't So Tough When Old Man Flashes His Gun
  - [https://www.louderwithcrowder.com/gun-man-traffic-light-run](https://www.louderwithcrowder.com/gun-man-traffic-light-run)
@@ -63,3 +63,4 @@
  - date published: 2022-10-07 12:29:38+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31878386&amp;width=980" /><br /><br /><p>Jeffrey Toobin was caught <a href="https://www.louderwithcrowder.com/oj-simpson-jeffrey-toobin" target="_blank">whacking off on Zoom in front of his female colleagues</a>. Mary Katherine Ham criticized Jeffrey Toobin for whacking off in front of his female colleagues. Both were suspended. The difference is CNN had the professionalism to tell Toobin he was suspended. MKH only found out 
+

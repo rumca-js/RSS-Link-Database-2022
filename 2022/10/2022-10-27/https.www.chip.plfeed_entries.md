@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Te komórki kodują upływ czasu. Gdzie można je znaleźć?
  - [https://www.chip.pl/2022/10/komorki-czasu-jak-tworzymy-wspomnienia](https://www.chip.pl/2022/10/komorki-czasu-jak-tworzymy-wspomnienia)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="866" src="https://konto.chip.pl/wp-content/uploads/2022/10/material.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/material.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Z publikacji dostępnej w Nature dowiadujemy się, że naukowcy z Uniwersytetu w Chicago mają sposób na stworzenie materiału, który może być wykonany w podobny sposób jak plastik, ale cechuje się świetną przewodnością &#8211; na poziomie metalu. W zasadzie otwiera to możliwość projektowania zupełnie nowej klasy materiałów, które przewodzą prąd, są łatwe do kształtowania i bardzo [&#8230;]</p>
+

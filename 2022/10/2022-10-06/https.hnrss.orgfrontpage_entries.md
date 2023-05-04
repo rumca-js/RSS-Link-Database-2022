@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus
  - [https://github.com/woodrush/lambda-8cc](https://github.com/woodrush/lambda-8cc)
@@ -576,3 +576,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33103157">https://news.ycombinator.com/item?id=33103157</a></p>
 <p>Points: 52</p>
 <p># Comments: 43</p>
+

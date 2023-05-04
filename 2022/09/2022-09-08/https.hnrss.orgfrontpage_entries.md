@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut
  - [https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/](https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/)
@@ -708,3 +708,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32759786">https://news.ycombinator.com/item?id=32759786</a></p>
 <p>Points: 5</p>
 <p># Comments: 1</p>
+

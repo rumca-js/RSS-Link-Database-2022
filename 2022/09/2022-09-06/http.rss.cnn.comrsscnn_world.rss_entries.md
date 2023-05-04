@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## What should be keeping Liz Truss awake
  - [https://www.cnn.com/2022/09/06/investing/liz-truss-economy-pound-crisis/index.html](https://www.cnn.com/2022/09/06/investing/liz-truss-economy-pound-crisis/index.html)
@@ -34,3 +34,4 @@ A Palestinian man was shot dead and 16 others were wounded during an Israeli mil
  - date published: 2022-09-06 08:42:00+00:00
 
 It was raining when Kainat Solangi's daughter was born on August 14 and it's barely stopped since, stranding her family in a makeshift tent on a thin strip of land surrounded by Pakistan's worst-ever floods.
+

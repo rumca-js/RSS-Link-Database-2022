@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## NY AG tries to explain how Apple’s free Yankees stream is worse than cable TV
  - [https://www.theverge.com/2022/9/23/23369233/apple-tv-mlb-yankees-red-sox-stream-ny-ag-letitia-james-cable-yes-network](https://www.theverge.com/2022/9/23/23369233/apple-tv-mlb-yankees-red-sox-stream-ny-ag-letitia-james-cable-yes-network)
@@ -331,3 +331,4 @@
     </figure>
 
   <p id="W0L4GO">Google’s Art
+

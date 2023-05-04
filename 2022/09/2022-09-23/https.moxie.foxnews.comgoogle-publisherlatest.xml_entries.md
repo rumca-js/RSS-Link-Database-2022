@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Hillary Clinton ripped for Trump-Hitler rally comparison: 'Desperate' attempt by someone who lost an argument
  - [https://www.foxnews.com/media/hillary-clinton-ripped-trump-hitler-rally-comparison-desperate-attempt-lost-argument](https://www.foxnews.com/media/hillary-clinton-ripped-trump-hitler-rally-comparison-desperate-attempt-lost-argument)
@@ -1140,3 +1140,4 @@ New York City Mayor Eric Adams says that he is open to conversations with Madiso
  - date published: 2022-09-23 00:08:09+00:00
 
 Rep. Vicente Gonzalez, D-Texas, elaborated on the strategy that former President Trump liked to deal with the crisis at the southern border on "Your World."
+

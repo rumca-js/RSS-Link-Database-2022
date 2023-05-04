@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Microsoft moves to patch this potentially serious security flaw
  - [https://www.techradar.com/news/microsoft-moves-to-patch-this-potentially-serious-security-flaw/](https://www.techradar.com/news/microsoft-moves-to-patch-this-potentially-serious-security-flaw/)
@@ -209,3 +209,4 @@ It looks very likely that the iPad Pro 2022 line will land today, with a new bas
  - date published: 2022-10-18 06:51:11+00:00
 
 Join us as we pixel peep the handy tools coming to Adobe’s apps
+

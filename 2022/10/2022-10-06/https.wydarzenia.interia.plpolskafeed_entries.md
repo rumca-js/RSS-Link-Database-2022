@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Małopolska: Inwazja biedronek ninja. To owad niebezpieczny także dla ludzi
  - [https://wydarzenia.interia.pl/malopolskie/news-malopolska-inwazja-biedronek-ninja-to-owad-niebezpieczny-tak,nId,6330975](https://wydarzenia.interia.pl/malopolskie/news-malopolska-inwazja-biedronek-ninja-to-owad-niebezpieczny-tak,nId,6330975)
@@ -27,3 +27,4 @@
  - date published: 2022-10-06 08:34:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-to-dzis-najtanszy-opal-decyduje-sie-na-niego-coraz-wiecej-po,nId,6328589"><img align="left" alt="To dziś najtańszy opał. Decyduje się na niego coraz więcej Polaków" src="https://i.iplsc.com/to-dzis-najtanszy-opal-decyduje-sie-na-niego-coraz-wiecej-po/000ARDV7R37OVEBD-C321.jpg" /></a>Ogrzewanie drewnem opałowym domu może być skutecznym remedium dla gospodarstw, które bezskutecznie próbują zaopatrzyć się w węgiel. Mimo że z powodu niższej kaloryc
+

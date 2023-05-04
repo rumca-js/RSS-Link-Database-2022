@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## The Pixel Watch is proof that Wear OS isn’t bad, it just needs a lot of work
  - [https://www.androidauthority.com/pixel-watch-wear-os-3238298/](https://www.androidauthority.com/pixel-watch-wear-os-3238298/)
@@ -48,3 +48,4 @@ Elon Musk says he could totally build an alternative mobile platform. Don’t th
  - date published: 2022-11-26 00:06:16+00:00
 
 Sony's Black Friday sale triggered record-low prices on some of the best headphones and earbuds on the market.
+

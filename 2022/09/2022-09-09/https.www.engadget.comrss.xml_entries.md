@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Marvel is getting the 'Pokémon Go' treatment thanks to Niantic
  - [https://www.engadget.com/marvel-world-of-heroes-ar-mobile-game-niantic-205203600.html?src=rss](https://www.engadget.com/marvel-world-of-heroes-ar-mobile-game-niantic-205203600.html?src=rss)
@@ -132,3 +132,4 @@
  - date published: 2022-09-09 04:57:58+00:00
 
 <p>More Uber Eats customers would be getting their orders from vehicles with no delivery personnel in sight. That's because Uber has <a href="https://twitter.com/UberEats/status/1567877227106258945">signed</a> a 10-year partnership with Nuro to use its autonomous, electric vehicles to deliver food orders in the US. They'll start in Houston, Texas and Mountain View, California this fall before eventually expanding their service to the greater Bay Area.</p><p>According to <a href="https://techcrun
+

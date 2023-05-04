@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Uncover 29 Malicious PyPI Packages Targeted Developers with W4SP Stealer
  - [https://thehackernews.com/2022/11/researchers-uncover-29-malicious-pypi.html](https://thehackernews.com/2022/11/researchers-uncover-29-malicious-pypi.html)
@@ -15,3 +15,4 @@ Cybersecurity researchers have uncovered 29 packages in Python Package Index (Py
 
 Microsoft is warning of an uptick in the nation-state and criminal actors increasingly leveraging publicly-disclosed zero-day vulnerabilities for breaching target environments.
 The tech giant, in its 114-page Digital Defense Report, said it has "observed a reduction in the time between the announcement of a vulnerability and the commoditization of that vulnerability," making it imperative that
+

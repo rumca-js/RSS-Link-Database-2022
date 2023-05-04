@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## AirPods Pro Paired With an iPhone Could Be an Alternative to Hearing Aids, Study Finds     - CNET
  - [https://www.cnet.com/science/airpods-pro-paired-with-an-iphone-could-be-an-alternative-to-hearing-aids-study-finds/#ftag=CADf328eec](https://www.cnet.com/science/airpods-pro-paired-with-an-iphone-could-be-an-alternative-to-hearing-aids-study-finds/#ftag=CADf328eec)
@@ -818,3 +818,4 @@ Two women share details of their attempts -- one successful, one not -- to snag 
  - date published: 2022-11-18 00:00:00+00:00
 
 The games advance the franchise with a terrific open world, but there are some sharp growing pains.
+

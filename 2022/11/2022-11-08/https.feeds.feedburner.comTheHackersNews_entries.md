@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Amadey Bot Spotted Deploying LockBit 3.0 Ransomware on Hacked Machines
  - [https://thehackernews.com/2022/11/amadey-bot-spotted-deploying-lockbit-30.html](https://thehackernews.com/2022/11/amadey-bot-spotted-deploying-lockbit-30.html)
@@ -33,3 +33,4 @@ The bitcoin, which was obtained in 2012 and valued at $3.36 billion when it was 
 
 The news surrounding the slowing economy has many wondering how much of an impact it will have on their businesses – and lives. And there's good reason to start preparing. 
 A recent survey by McKinsey & Company found that 85% of small and midsize businesses plan to increase their security spending heading into 2023, while Gartner recently projected that 2022 IT spending will only grow by 3%,
+

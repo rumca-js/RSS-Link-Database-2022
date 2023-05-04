@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch as Doocy sets trap for Karine Jean Pierre on gas prices that the fool walks right into
  - [https://www.louderwithcrowder.com/doocy-gas-prices-jean-pierre](https://www.louderwithcrowder.com/doocy-gas-prices-jean-pierre)
@@ -64,3 +64,4 @@
  - date published: 2022-10-19 12:03:46+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31966852&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>Electric vehicles are an excellent source to signal your virtue, provided you don't drive very much. If you have to take a road trip anywhere or expect your EV to do <a href="https://www.louderwithcrowder.com/ford-electric-truck-total-disaster" target="_blank">basic car or truck things</a>, you're sh*t out of luck. But hey! At least you o
+

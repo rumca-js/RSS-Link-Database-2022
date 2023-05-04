@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Greens senator Mehreen Faruqi wants student loans wiped out instead of stage three tax cuts
  - [https://www.dailymail.co.uk/news/article-11248791/Greens-senator-Mehreen-Faruqi-wants-student-loans-wiped-instead-stage-three-tax-cuts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11248791/Greens-senator-Mehreen-Faruqi-wants-student-loans-wiped-instead-stage-three-tax-cuts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -698,7 +698,6 @@ An American girl living in Australia has revealed how her Southern Californian a
  - [https://www.dailymail.co.uk/news/article-11247181/FDA-vaccine-adviser-says-healthy-young-people-SHOULDNT-COVID-booster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11247181/FDA-vaccine-adviser-says-healthy-young-people-SHOULDNT-COVID-booster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-25 07:04:15+00:00
- - tags: covid,covid booster,fda
 
 Dr. Paul Offit, a member of the FDA's Vaccine Advisory Committee, said he's not fully sold that the benefits of a third shot outweigh the harm and the booster has only been tested on lab mice.
 
@@ -911,3 +910,4 @@ It is believed that West Midlands Police didn't receive a complaint because offi
  - date published: 2022-09-25 00:02:22+00:00
 
 Chilling surveillance footage captured the moment a nervous Philadelphia gunman murdered a recent Temple University graduate, shooting him in the neck at pointblank range.
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## John Major and Tony Blair criticise The Crown’s dramatisation of secret meeting
  - [https://www.theguardian.com/tv-and-radio/2022/nov/04/john-major-and-tony-blair-criticise-the-crowns-dramatisation-of-secret-meeting](https://www.theguardian.com/tv-and-radio/2022/nov/04/john-major-and-tony-blair-criticise-the-crowns-dramatisation-of-secret-meeting)
@@ -1007,3 +1007,4 @@
  - date published: 2022-11-04 00:00:59+00:00
 
 <p>Fund was paralysed when far-right president Jair Bolsonaro wound up two committees in 2019</p><p>Brazilian environmentalists have celebrated a timely victory after the country’s supreme court ruled for the reactivation of <a href="https://www.theguardian.com/environment/2022/oct/31/brazil-lula-protect-amazon-environment-minister-marina-silva">the Amazon Fund,</a> a major weapon in the country’s fight against deforestation.</p><p>The fund was paralysed in 2019 when far-right president Jair Bolsonaro wound up two of its key committees, citing unspecified irregularities.</p> <a href="https://www.theguardian.com/world/2022/nov/04/brazil-supreme-court-ruling-to-reactivate-amazon-fund-gives-hope-in-fight-to-save-rainforest">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Nothing Ear Stick review: Great if you don’t like sticking things in your ears
  - [https://www.androidauthority.com/nothing-ear-stick-review-3229214/](https://www.androidauthority.com/nothing-ear-stick-review-3229214/)
@@ -41,3 +41,4 @@ Let's take a look at some of the downsides of overusing mobile devices, and how 
  - date published: 2022-11-13 13:00:05+00:00
 
 Even just the option to turn them all off all the time would be nice.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'I started Mike Tysoning his head': Watch the fists start flying when a NASCAR driver gets upset he was flipped off
  - [https://www.louderwithcrowder.com/nascar-fight-martinsville-speedway-wreck](https://www.louderwithcrowder.com/nascar-fight-martinsville-speedway-wreck)
@@ -34,3 +34,4 @@
  - date published: 2022-09-25 12:29:55+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31818982&amp;width=1200&amp;height=800&amp;coordinates=24%2C0%2C0%2C0" /><br /><br /><p>Chattanooga played host to another pride youth day event.  These events used to only take place in June when we are ordered to celebrate Ls, Gs, Bs, especially the Ts, Qs, As, Is, other Is, Ps, and whatever the hell the pluses are. Now, every month is a time to show Pride!</p><p>It follows the usual controversy. Supporters find events like
+

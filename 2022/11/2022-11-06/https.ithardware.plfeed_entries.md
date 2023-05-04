@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Need for Speed Unbound w pełni wykorzysta możliwości PS5 i kontrolera DualSense
  - [https://ithardware.pl/aktualnosci/need_for_speed_unbound_w_pelni_wykorzysta_mozliwosci_ps5_i_kontrolera_dualsense-24226.html](https://ithardware.pl/aktualnosci/need_for_speed_unbound_w_pelni_wykorzysta_mozliwosci_ps5_i_kontrolera_dualsense-24226.html)
@@ -89,3 +89,4 @@ Lada moment na rynku wylądują pierwsze dyski SSD obsługujące interfejs PCIe 
 
 Biden wysunął mocne zarzuty podczas przem&oacute;wienia w Chicago w piątek podczas zbi&oacute;rki...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/prezydent_biden_twitter_rozsiewa_klamstwa_na_calym_swiecie_spadaja_przychody_platformy-24216.html">https://ithardware.pl/aktualnosci/prezydent_biden_twitter_rozsiewa_klamstwa_na_calym_swiecie_spadaja_przychody_platformy-24216.html</a></p>
+

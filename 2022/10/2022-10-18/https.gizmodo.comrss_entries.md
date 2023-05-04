@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Trailer: The House From... | Famous TV & Movie Houses
  - [https://gizmodo.com/trailer-the-house-from-famous-tv-movie-houses-1849673361](https://gizmodo.com/trailer-the-house-from-famous-tv-movie-houses-1849673361)
@@ -286,3 +286,4 @@
  - date published: 2022-10-18 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--tUf0NsCp--/c_fit,fl_progressive,q_80,w_636/2371439a51efb6794c888a5878f6b202.jpg" /><p>If you’re a movie fan, maybe you’ve <a href="https://gizmodo.com/how-shazam-will-use-childlike-wonder-to-set-it-apart-fr-1831816883">visited a filming location</a> from one of your favorite movies. A park, a restaurant, a beach, somewhere that the cast and crew of an iconic movie <a href="https://gizmodo.com/star-wars-andor-locations-diego-luna-rogu
+

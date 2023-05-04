@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Candace Owens Defends Kanye’s ‘White Lives Matter’ Apparel, Talks ‘Racist’ Truths Really Threatening The Black Community
  - [https://www.dailywire.com/news/candace-owens-defends-kanyes-white-lives-matter-apparel-talks-racist-truths-really-threatening-the-black-community](https://www.dailywire.com/news/candace-owens-defends-kanyes-white-lives-matter-apparel-talks-racist-truths-really-threatening-the-black-community)
@@ -447,3 +447,4 @@ A video of a Florida man went viral on social media Monday as the man, who said 
  - date published: 2022-10-04 07:21:06+00:00
 
 On Monday, CNN revealed that its polling showed a significant drop in support for Democrats among black voters, which could cost Democrats the U.S. Senate. CNN senior data reporter Harry Enten opined that blacks were the core part of the Democratic Party, but slippage there may spell doom for some Democratic senatorial candidates. “Look, they&#8217;re ...
+

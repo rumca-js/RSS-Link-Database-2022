@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Gay Rights Organization Gets Deplatformed By PayPal While Pro-Pedophile Group Remains
  - [https://www.dailywire.com/news/gay-rights-organization-gets-deplatformed-by-paypal-while-pro-pedophile-group-remains](https://www.dailywire.com/news/gay-rights-organization-gets-deplatformed-by-paypal-while-pro-pedophile-group-remains)
@@ -377,3 +377,4 @@ J.R. Majewski, a Republican U.S. congressional candidate in Ohio, allegedly lied
  - date published: 2022-09-22 07:17:28+00:00
 
 Former UCLA basketball player Jalen Hill has died at the age of 22, according to his family and the university. The Associated Press reported that Hill&#8217;s family learned of his death after he recently went missing while in Costa Rica. “We know Jalen has played a part in the lives of so many people,” Hill’s ...
+

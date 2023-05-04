@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Obamacare Open Enrollment Starts Today. Here’s What You Need To Know.
  - [https://www.forbes.com/sites/debgordon/2022/11/01/obamacare-open-enrollment-starts-today-heres-what-you-need-to-know/](https://www.forbes.com/sites/debgordon/2022/11/01/obamacare-open-enrollment-starts-today-heres-what-you-need-to-know/)
@@ -671,3 +671,4 @@ Mac users get a compact, wireless mechanical keyboard with macOS-specific keys. 
  - date published: 2022-11-01 00:02:11+00:00
 
 Mindfulness has many benefits and is a real business imperative for Healthier and more Productive Organizations. Specific mindfulness benefits are highlighted, both pragmatically, but also with scientific references.
+

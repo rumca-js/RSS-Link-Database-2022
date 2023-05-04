@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Black Friday w x-komie już za chwilę. Znamy pierwsze produkty, które pojawią się w promocji
  - [https://ithardware.pl/aktualnosci/black_friday_w_x_komie_juz_za_chwile_znamy_pierwsze_produkty_ktore_pojawia_sie_w_promocji-24517.html](https://ithardware.pl/aktualnosci/black_friday_w_x_komie_juz_za_chwile_znamy_pierwsze_produkty_ktore_pojawia_sie_w_promocji-24517.html)
@@ -177,3 +177,4 @@ Daniel Arsham, korzystając ze swej idei tzw....
 
 <img src="https://ithardware.pl/artykuly/min/24503_1.jpg" />            Redakcja Tom's Hardware przygotowała analizę sprzedaży kart graficznych GeForce RTX 40 na eBayu. Ta co prawda dotyczy tylko amerykańskiego rynku, ale zakładać można, że podobnie to wygląda także w Europie i innych regionach świata. Zdaje...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/skalperzy_nie_beda_mile_wspominac_geforce_a_rtx_4080_slaba_sprzedaz_w_porownaniu_do_rtx_4090-24503.html">https://ithardware.pl/aktualnosci/skalperzy_nie_beda_mile_wspominac_geforce_a_rtx_4080_slaba_sprzedaz_w_porownaniu_do_rtx_4090-24503.html</a></p>
+

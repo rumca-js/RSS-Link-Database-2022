@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Cyber Monday pick: Score up to $500 off Samsung home audio
  - [https://www.androidauthority.com/cyber-monday-samsung-home-audio-3242061/](https://www.androidauthority.com/cyber-monday-samsung-home-audio-3242061/)
@@ -104,3 +104,4 @@ It's pretty easy to start streaming Apple TV Plus if you've got an Apple ID and 
  - date published: 2022-11-28 05:00:12+00:00
 
 By going methodically, you can probably diagnose any problems with triggering Siri.
+

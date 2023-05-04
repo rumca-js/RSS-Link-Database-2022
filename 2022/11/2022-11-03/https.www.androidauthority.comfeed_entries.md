@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to use Audio Message Transcription on Google Pixel phones
  - [https://www.androidauthority.com/audio-message-transcription-pixel-3225866/](https://www.androidauthority.com/audio-message-transcription-pixel-3225866/)
@@ -111,3 +111,4 @@ Time to update your Xperia 1 IV and Xperia 5 IV.
  - date published: 2022-11-03 02:00:53+00:00
 
 It all starts with a solid fit.
+

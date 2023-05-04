@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## More of Your Savory Foods Could Do With a Honey Finish
  - [https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197](https://lifehacker.com/more-of-your-savory-foods-could-do-with-a-honey-finish-1849532197)
@@ -111,3 +111,4 @@
  - date published: 2022-09-13 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--AgwvpdoJ--/c_fit,fl_progressive,q_80,w_636/9e308f79a851c957aa330be96eddcf0e.jpg" /><p>The best fried rice is made with “leftover” rice. Specifically, rice that has already been cooked, then <a href="https://lifehacker.com/make-perfect-fried-rice-with-help-from-a-small-fan-1759964474">dried</a>, usually in the refrigerator. The best breakfast burritos are, in turn, made with leftover fried rice—or at least, that’s what was inside the 
+

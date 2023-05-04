@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Rivian recalls nearly all of its vehicles
  - [https://www.cnn.com/2022/10/08/business/rivian-recall/index.html](https://www.cnn.com/2022/10/08/business/rivian-recall/index.html)
@@ -13,3 +13,4 @@ Rivian, the Irvine, California-based electric vehicle company, is recalling near
  - date published: 2022-10-08 12:57:05+00:00
 
 Pension funds are designed to be dull. Their singular goal — earning enough money to make payouts to retirees — favors cool heads over brash risk takers.
+

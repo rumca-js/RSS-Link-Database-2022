@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Best Nintendo Switch Controller Black Friday Deals
  - [https://www.gamespot.com/gallery/best-nintendo-switch-controller-black-friday-deals/2900-4483/](https://www.gamespot.com/gallery/best-nintendo-switch-controller-black-friday-deals/2900-4483/)
@@ -202,3 +202,4 @@
  - date published: 2022-11-24 01:30:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4067627-v1%282%29.jpg" width="480" /> Evil West's kinetic combat thrills as you dismember vampires by the bucket load, but it's dragged down by level design that's both formulaic and repetitive.
+

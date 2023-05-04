@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Francja: Ukrainiec pobił swoje rodaczki, bo myślał, że są Rosjankami
  - [https://www.polsatnews.pl/wiadomosc/2022-09-15/nicea-ukrainiec-pobil-swoje-rodaczki-bo-myslal-ze-sa-rosjankami/](https://www.polsatnews.pl/wiadomosc/2022-09-15/nicea-ukrainiec-pobil-swoje-rodaczki-bo-myslal-ze-sa-rosjankami/)
@@ -132,3 +132,4 @@ Agencja Interfax podała, że prezydent Rosji Władimir Putin przybył do Uzbeki
  - date published: 2022-09-15 04:28:00+00:00
 
 Rzecznik prezydenta Ukrainy poinformował w nocy, że samochód wiozący ukraińskiego lidera miał wypadek. Doszło do niego w Kijowie, gdy w kolumnę szefa państwa wjechało prywatne auto. Wołodymyr Zełenski został zbadany przez lekarza, który nie stwierdził obrażeń. Do szpitala trafił jego kierowca. Urząd prezydenta nie ujawnił, kiedy doszło do zdarzenia.
+

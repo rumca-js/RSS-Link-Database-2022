@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## What Russians left behind in hasty retreat from Ukrainian town
  - [https://www.cnn.com/videos/world/2022/10/07/ukraine-liberated-town-dudchany-npw-tsr-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/10/07/ukraine-liberated-town-dudchany-npw-tsr-pkg-vpx.cnn)
@@ -643,3 +643,4 @@ Mark Cuban opens up to CNN's Chris Wallace about how much longer he plans to be 
  - date published: 2022-10-07 00:00:19+00:00
 
 New York Times reporter Maggie Haberman discusses her conversations with former President Donald Trump around his support for Herschel Walker and his political future.
+

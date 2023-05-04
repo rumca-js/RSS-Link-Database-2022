@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Francuska minister na pokładzie samolotu, który wypadł z pasa
  - [https://wydarzenia.interia.pl/zagranica/news-francuska-minister-na-pokladzie-samolotu-ktory-wypadl-z-pasa,nId,6360308](https://wydarzenia.interia.pl/zagranica/news-francuska-minister-na-pokladzie-samolotu-ktory-wypadl-z-pasa,nId,6360308)
@@ -636,3 +636,4 @@
  - date published: 2022-10-20 03:32:14+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-239-dzien-inwazji-rosji-relacja-na-zywo,nzId,3210,akt,200807"><img align="left" alt="Wojna w Ukrainie. 239. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-239-dzien-inwazji-rosji-relacja-na-zywo/000G85RUM06RGV52-C321.jpg" /></a>Najnowsze informacje z frontu. Zapraszamy do śledzenia relacji na żywo.</p><br clear="all" />
+

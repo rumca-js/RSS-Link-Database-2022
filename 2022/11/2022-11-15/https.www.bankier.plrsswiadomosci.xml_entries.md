@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Biały Dom prosi Kongres o dodatkowe 37 mld dol. pomocy dla Ukrainy
  - [https://www.bankier.pl/wiadomosc/Bialy-Dom-prosi-Kongres-o-dodatkowe-37-mld-dol-pomocy-dla-Ukrainy-8440241.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Bialy-Dom-prosi-Kongres-o-dodatkowe-37-mld-dol-pomocy-dla-Ukrainy-8440241.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -492,3 +492,4 @@ ostatnie decyzje jako wyczekiwany podwójny piwot, nie jest to jednak wcale taki
  - date published: 2022-11-15 04:55:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/4/0294ae55d2b1c1-948-568-0-110-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Polska spodziewa się w zimie nowej fali uchodźców z Ukrainy w związku ze zniszczeniami systemu energetycznego – powiedział podczas poniedziałkowego spotkania z kanadyjską Polonią sekretarz stanu w Kancelarii Prezydenta RP Andrzej Dera.</p>
+

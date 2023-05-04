@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Best practice: Post-mortems
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59061](https://www.codeproject.com/script/News/View.aspx?nwid=59061)
@@ -76,3 +76,4 @@ I'm sure pre-orders will be starting soon
  - date published: 2022-10-03 04:00:00+00:00
 
 In my day, I think we called that 'alpha testing'
+

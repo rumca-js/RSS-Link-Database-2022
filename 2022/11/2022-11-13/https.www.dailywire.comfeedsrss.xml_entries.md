@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Maricopa County Is Still Counting Votes, But They Had Time To Lash Out At ‘Disinformation Super Spreaders’
  - [https://www.dailywire.com/news/maricopa-county-is-still-counting-votes-but-they-had-time-to-lash-out-at-disinformation-super-spreaders](https://www.dailywire.com/news/maricopa-county-is-still-counting-votes-but-they-had-time-to-lash-out-at-disinformation-super-spreaders)
@@ -111,3 +111,4 @@ Sen. Elizabeth Warren (D-MA) doesn&#8217;t have &#8220;any doubt&#8221; that Pre
  - date published: 2022-11-13 12:10:00+00:00
 
 House Speaker Nancy Pelosi (D-CA) said on Sunday that President Joe Biden should run for re-election in 2024. With the midterm elections mostly complete and Democrats projected to retain the majority in the Senate and a slight minority in the House, the 82-year-old Democratic leader said that Biden, who turns 80 next Sunday, should run ...
+

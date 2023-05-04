@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Antyrządowe demonstracje w centrum Kiszyniowa
  - [https://www.bankier.pl/wiadomosc/Antyrzadowe-demonstracje-w-centrum-Kiszyniowa-8419917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Antyrzadowe-demonstracje-w-centrum-Kiszyniowa-8419917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -206,3 +206,4 @@ wy
  - date published: 2022-10-09 00:12:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/d/7f774ea684f9df-948-568-0-112-1709-1025.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Trzęsienie ziemi  o magnitudzie 5,1 st. nawiedziło w nocy z soboty na niedzielę rejon Zatoki Korynckiej w Grecji - poinformowało Europejskie Śródziemnomorskie Centrum Sejsmologiczne (EMSC).</p>
+

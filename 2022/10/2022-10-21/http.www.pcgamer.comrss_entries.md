@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Warm up for the World Series with this free baseball game full of animals
  - [https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals](https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals)
@@ -188,3 +188,4 @@ There was a camera here. It's gone now.
  - date published: 2022-10-21 00:24:52+00:00
 
 Our favorite FPS experiences of PC gaming's past and present.
+

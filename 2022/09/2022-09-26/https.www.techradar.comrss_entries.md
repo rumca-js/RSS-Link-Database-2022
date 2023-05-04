@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## These new AMD 7000 Series processors are a content creator’s best friend
  - [https://www.techradar.com/news/these-new-amd-7000-series-processors-are-a-content-creators-best-friend/](https://www.techradar.com/news/these-new-amd-7000-series-processors-are-a-content-creators-best-friend/)
@@ -251,3 +251,4 @@ The Google Pixel 7 hasn't leaked much compared to its Pro sibling, but a new inf
  - date published: 2022-09-26 09:08:31+00:00
 
 Amazon has announced that a Prime Early Access sale will take place in October - an exclusive Prime Day style deals event for its Prime members.
+

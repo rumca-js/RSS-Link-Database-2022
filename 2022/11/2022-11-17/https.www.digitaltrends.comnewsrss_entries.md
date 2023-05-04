@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Want an RTX 4080? Nvidia may have a way to make it easier to get
  - [https://www.digitaltrends.com/computing/nvidia-verified-priority-access-adds-rtx-4080/](https://www.digitaltrends.com/computing/nvidia-verified-priority-access-adds-rtx-4080/)
@@ -6,3 +6,4 @@
  - date published: 2022-11-17 17:53:50.526632+00:00
 
 Nvidia's Verified Priority Access program has just been expanded, and it might be good news if you want to score an RTX 4080.
+

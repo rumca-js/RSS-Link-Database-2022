@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Microsoft Patch Tuesday: 84 new vulnerabilities
  - [https://www.zdnet.com/article/microsoft-patch-tuesday-84-new-vulnerabilities/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-patch-tuesday-84-new-vulnerabilities/#ftag=RSSbaffb68)
@@ -307,3 +307,4 @@ By acting like hackers, Google's red team helps to keep the company safe from cy
  - date published: 2022-10-11 09:00:00+00:00
 
 Amazon's Prime Early Access Sale (aka Prime Day October) starts Oct. 11. Looking for the best deals on Amazon? We're tracking them live. Refresh the page for the latest deals.
+

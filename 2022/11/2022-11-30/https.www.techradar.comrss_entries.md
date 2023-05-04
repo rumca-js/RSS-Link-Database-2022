@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## GPT-3 is making even more art obsolete
  - [https://www.techradar.com/news/gpt-3-is-making-even-more-art-obsolete](https://www.techradar.com/news/gpt-3-is-making-even-more-art-obsolete)
@@ -202,3 +202,4 @@ OnePlus has announced that upcoming phones will get four years of Android update
  - date published: 2022-11-30 05:00:31+00:00
 
 Alongside the app, Samsung may be expanding its repair program to include watches and earbuds.
+

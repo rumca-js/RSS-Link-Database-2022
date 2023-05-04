@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## DeSantis draws contrast with Trump as party hunts for 2024 alternative
  - [https://www.politico.com/news/2022/11/16/desantis-trump-2024-election-00067834](https://www.politico.com/news/2022/11/16/desantis-trump-2024-election-00067834)
@@ -13,3 +13,4 @@ Without mentioning the former president, Florida Gov. Ron DeSantis touted lesson
  - date published: 2022-11-16 04:30:00+00:00
 
 The newcomers will join a group of governors who are seeing their power and prominence expand.
+

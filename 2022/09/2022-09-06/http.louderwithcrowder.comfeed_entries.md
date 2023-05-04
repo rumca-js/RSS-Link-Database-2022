@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## What are MAGA Republicans? Crowder Drops truth bombs
  - [https://www.louderwithcrowder.com/what-are-maga-republicans](https://www.louderwithcrowder.com/what-are-maga-republicans)
@@ -76,3 +76,4 @@
  - date published: 2022-09-06 12:32:22+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31514201&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>The Supreme Court ruled that it is unconstitutional for states to require applicants to prove they have “proper cause” to ask for a gun permit. New York governor Kathy Hochul responded with new soon-to-be unconstitutional gun laws. According to a leaked memo, that includes a directive for law enforcement to assume guilt unless proven othe
+

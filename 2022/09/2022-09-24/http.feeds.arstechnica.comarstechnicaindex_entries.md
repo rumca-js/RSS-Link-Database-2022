@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## iOS 16 review: Customization unlocked
  - [https://arstechnica.com/?p=1884255](https://arstechnica.com/?p=1884255)
@@ -20,3 +20,4 @@ NASA is buying some time with this decision.
  - date published: 2022-09-24 11:00:22+00:00
 
 The "Mozart effect" isn't real—but music does affect our mental processes.
+

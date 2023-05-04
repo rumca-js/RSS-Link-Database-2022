@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## This Site Gives Away New PC Games Every Week
  - [https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344](https://lifehacker.com/this-site-gives-away-new-pc-games-every-week-1849792344)
@@ -125,3 +125,4 @@
  - date published: 2022-11-16 13:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--6vRa0AEO--/c_fit,fl_progressive,q_80,w_636/74bbdc2ccdf15fa0429ca7448cb890e4.jpg" /><p>This year’s <a href="https://www.vox.com/science-and-health/23453765/flu-season-2022-2023-winter-influenza-shot-vaccine" rel="noopener noreferrer" target="_blank">flu season</a> is shaping up to be especially bad, with the current weekly number of cases at extraordinarily high levels. Meanwhile, doctors are seeing a <a href="https://lifehacker.com/what-you-need-to-know-about-rsv-the-respiratory-illnes-1849693964" target="_blank">surge in respiratory syncytial virus</a>, more commonly known as RSV, which generally causes mild, cold-like symptoms in adults, but can be especially dangerous…</p><p><a href="https://lifehacker.com/masks-aren-t-to-blame-for-the-surge-in-rsv-and-flu-righ-1849785992">Read more...</a></p>
+

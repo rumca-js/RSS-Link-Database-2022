@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wojna w Ukrainie. Rosjanie poddają się na froncie. Wywiesili białą flagę
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-rosjanie-poddaja-sie-na-froncie-wywiesili-b,nId,6329114](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-rosjanie-poddaja-sie-na-froncie-wywiesili-b,nId,6329114)
@@ -615,3 +615,4 @@
  - date published: 2022-10-05 04:14:52+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-angela-merkel-z-nagroda-onz-wykazala-sie-wielka-moralna-i-po,nId,6328286"><img align="left" alt="Angela Merkel z nagrodą ONZ. &quot;Wykazała się wielką moralną i polityczną odwagą&quot;" src="https://i.iplsc.com/angela-merkel-z-nagroda-onz-wykazala-sie-wielka-moralna-i-po/000A13XKO4G2U69S-C321.jpg" /></a>Była kanclerz Niemiec Angela Merkel otrzyma nagrodę im. Nansena, przyznawaną przez Wysokiego Komisarza Narodów Zjednoczonych ds. Uchodźcó
+

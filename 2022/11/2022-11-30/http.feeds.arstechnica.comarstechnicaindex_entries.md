@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## First M2 Max benchmark scores appear to leak on Geekbench
  - [https://arstechnica.com/?p=1901150](https://arstechnica.com/?p=1901150)
@@ -146,3 +146,4 @@ Russian assault on electricity grid drives Starlink prices up.
  - date published: 2022-11-30 12:00:46+00:00
 
 Building your own can be considerably cheaper, but DIY-ing isn't always easy.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## How Apple Car could become the future car-as-a-service
  - [https://www.computerworld.com/article/3675355/how-apple-car-could-become-the-future-car-as-a-service.html#tk.rss_all](https://www.computerworld.com/article/3675355/how-apple-car-could-become-the-future-car-as-a-service.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>An online resume-validating network has garnered support from than a dozen board members from companies whose ranks include <a href="https://assessment.aon.com/en-us/" rel="nofollow noopener" target="_blank">Aon</a>, <a href="https://www.oracle.com/human-capital-management/" rel="nofollow noopener" target="_blank">Oracle</a>, <a href="https://www.sap.com/products/hcm.html?src=sfsf" rel="nofollow noopener" target="_blank">SAP</a>, <a href="https://www.ukg.com/
+

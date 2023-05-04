@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## We are currently testing the Nvidia RTX 4090—let us show you its heft
  - [https://arstechnica.com/?p=1887417](https://arstechnica.com/?p=1887417)
@@ -125,3 +125,4 @@ Court case over broken merger deal only happened "because Elon Musk is Elon."
  - date published: 2022-10-05 13:00:59+00:00
 
 New GPU series, ranging from $289 to $349, is less "amazing" and more "interesting."
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Małopolska. Nie żyje strażak Wojtuś. "Opuścił nas nasz najmłodszy druh"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29190367,malopolska-nie-zyje-strazak-wojtus-opuscil-nas-nasz-najmlodszy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29190367,malopolska-nie-zyje-strazak-wojtus-opuscil-nas-nasz-najmlodszy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -48,3 +48,4 @@
  - date published: 2022-11-27 07:10:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/eb/d5/1b/z29188075M,kopalnia---zdjecie-ilustracyjne.jpg" vspace="2" />W 1948 roku kopalnia w Kletnie została przebadana przez radzieckich geologów. To właśnie wtedy odkryli oni promieniowanie w założonej już w średniowieczu sztolni. Rosjanie długo nie czekali i niemal od razu zabrali się do wydobywania uranu - a raczej kazali robić to Polakom. Pierwiastek ten był im potrzebny do budowy bomby atomowej.
+

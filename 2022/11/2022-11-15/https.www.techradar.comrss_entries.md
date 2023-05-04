@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Snapdragon 8 Gen 2 announced: All the killer features it's bringing to your next phone
  - [https://www.techradar.com/news/qualcomm-snapdragon-8-gen-2/](https://www.techradar.com/news/qualcomm-snapdragon-8-gen-2/)
@@ -160,3 +160,4 @@ A massive Google Pixel Fold leak has shown off the possible design in full, and 
  - date published: 2022-11-15 05:00:09+00:00
 
 One beta introduces Companion Mode for connecting multiple phones, while the other revamps self-messaging.
+

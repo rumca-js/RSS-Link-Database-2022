@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'They think it's all sober' and PM's fears for women
  - [https://www.bbc.co.uk/news/blogs-the-papers-63685096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63685096?at_medium=RSS&at_campaign=KARANGA)
@@ -615,3 +615,4 @@ Extending the tax to include electric models is "short-sighted" says Ford.
  - date published: 2022-11-18 00:00:25+00:00
 
 Messaging apps have become a popular way to reach people who are struggling with the cost of food.
+

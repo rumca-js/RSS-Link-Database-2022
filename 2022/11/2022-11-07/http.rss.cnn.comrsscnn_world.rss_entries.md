@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Carvana stock plummets as used car prices fall
  - [https://www.cnn.com/2022/11/07/cars/carvana-stock-drop/index.html](https://www.cnn.com/2022/11/07/cars/carvana-stock-drop/index.html)
@@ -34,3 +34,4 @@ China has reiterated its unswerving commitment to its longstanding zero-Covid po
  - date published: 2022-11-07 00:38:47+00:00
 
 The deteriorating health of jailed Egyptian-British activist, Alaa Abd El-Fattah will dominate the upcoming COP27 summit if Egyptian authorities fail to intervene, Amnesty International has warned.
+

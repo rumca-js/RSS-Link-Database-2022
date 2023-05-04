@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Hormone replacement therapy and menopause: What you need to know about HRT
  - [https://www.bbc.co.uk/news/health-62336456?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-62336456?at_medium=RSS&at_campaign=KARANGA)
@@ -713,3 +713,4 @@ A woman who can detect Parkinson's through smell helps scientists develop a test
  - date published: 2022-09-07 00:10:35+00:00
 
 Scientists say they can predict which youngsters might get the dry, itchy skin condition.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## When fees are 'taxes' and free speech costs $8 a month
  - [https://www.computerworld.com/article/3681077/when-fees-are-taxes-and-free-speech-costs-8-a-month.html#tk.rss_all](https://www.computerworld.com/article/3681077/when-fees-are-taxes-and-free-speech-costs-8-a-month.html#tk.rss_all)
@@ -18,3 +18,4 @@
 <article>
 	<section class="page">
 <p>By the time you read this, there's a decent chance Twitter will be dead in the water. Technically, there are many reasons I can safely predict its coming crash, but I'm not here to talk about <a href="https://www.theregister.com/2022/11/14/musk_twitter_rpc_spat/" rel="noopener nofollow" target="_blank">Twitter remote procedure calls (RPCs)</a> or its <a href="https://www.zdnet.com/article/stop-using-twitter-to-log-in-to-other-websites/" rel="noopener nofollow" target="_blank">SMS Two-Factor Authentication</a> failures. No, even worse than the technical land mines ahead for Twitter are billionaire Elon Musk's management blunders.</p><p>I know, some of you are saying, "Musk is a genius! You just don't understand!" Actually, I do. Musk is brilliant...at some things. He has great engineering vision. He has passion. That's why he is largely responsible for the commercialization of space with SpaceX and the rebirth of the electric car with Tesla. But — and this is a big but — just because you're great at one thing doesn't mean you're even competent at other things.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681073/how-not-to-manage-a-business-starring-twitters-elon-musk.html#jump">To read this article in full, please click here</a></p></section></article>
+

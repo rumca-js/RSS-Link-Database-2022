@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Elon Musk now says Twitter 'will not take yes for an answer'
  - [https://www.zdnet.com/article/elon-musk-now-says-twitter-will-not-take-yes-for-an-answer/#ftag=RSSbaffb68](https://www.zdnet.com/article/elon-musk-now-says-twitter-will-not-take-yes-for-an-answer/#ftag=RSSbaffb68)
@@ -314,3 +314,4 @@ Government is revising regulations to allow telcos to temporarily share some of 
  - date published: 2022-10-06 04:00:02+00:00
 
 In a strange turn of events, Apple wants to give you more for less.
+

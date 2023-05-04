@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## 13 Spooky Videos to Get in the Halloween Spirit
  - [https://gizmodo.com/13-spooky-videos-for-halloween-simpsons-scooby-doo-1849723544](https://gizmodo.com/13-spooky-videos-for-halloween-simpsons-scooby-doo-1849723544)
@@ -265,3 +265,4 @@
  - date published: 2022-10-31 02:09:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--wFHrItsr--/c_fit,fl_progressive,q_80,w_636/1086f86ca34dde93ad56859b8ad4bccc.jpg" /><p>Well, it’s taken a while, but <a href="https://gizmodo.com/walking-dead-recap-season-11-episode-20-what-was-lost-1849682400"><em>The Walking Dead</em></a> seems to be getting on track. In tonight’s episode, it choo-choo-chooses to gather its characters (well, most of them) for a single, <a href="https://gizmodo.com/walking-dead-recap-new-deal-season-11-episode-18-1849618550">coherent plotline</a> that will lead directly to the final conflict with the Commonwealth. One could even say the show is running at full steam…</p><p><a href="https://gizmodo.com/walking-dead-recap-outpost-22-season-11-episode-21-1849719903">Read more...</a></p>
+

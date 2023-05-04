@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Israel Considers Filing Charges Against Soldiers Over Death of Palestinian-American
  - [https://www.wsj.com/articles/israel-considers-filing-charges-against-soldiers-over-death-of-palestinian-american-11668121037](https://www.wsj.com/articles/israel-considers-filing-charges-against-soldiers-over-death-of-palestinian-american-11668121037)
@@ -97,3 +97,4 @@ The zero-Covid policy, plunging share values and a property slump have erased hu
  - date published: 2022-11-10 04:41:00+00:00
 
 President Biden said he plans to discuss how the U.S. and China can avoid conflict when he meets with Chinese leader Xi Jinping during his coming Asia trip, but won’t make concessions on critical issues.
+

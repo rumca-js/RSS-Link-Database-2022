@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The Mormon Church has been hit by a major cyberattack
  - [https://www.techradar.com/news/the-mormon-church-has-been-hit-by-a-major-cyberattack/](https://www.techradar.com/news/the-mormon-church-has-been-hit-by-a-major-cyberattack/)
@@ -209,3 +209,4 @@ Bethesda's Todd Howard talks about realism and hard science fiction in relation 
  - date published: 2022-10-14 07:00:00+00:00
 
 The Rings of Power season 1 finale answers some of our biggest questions – but leaves others unresolved.
+

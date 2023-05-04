@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Real estate: The Parisian ultra-luxury market unaffected by the crisis
  - [https://www.lemonde.fr/en/money-investments/article/2022/11/13/real-estate-the-parisian-ultra-luxury-market-unaffected-by-the-crisis_6004053_102.html](https://www.lemonde.fr/en/money-investments/article/2022/11/13/real-estate-the-parisian-ultra-luxury-market-unaffected-by-the-crisis_6004053_102.html)
@@ -286,3 +286,4 @@ The hacker group Lockbit has released an archive containing 9.5 gigabytes of dat
  - date published: 2022-11-12 00:40:28+00:00
 
 Algiers was asked by the United States to stop "harassing journalists and human rights defenders" during the Human Rights Council's Universal Periodic Review.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wielka Brytania: Został skazany na dożywocie. Narzędziem zbrodni był 35 cm nóż
  - [https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-zostal-skazany-na-dozywocie-narzedziem-zbrod,nId,6405352](https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-zostal-skazany-na-dozywocie-narzedziem-zbrod,nId,6405352)
@@ -434,3 +434,4 @@
  - date published: 2022-11-11 04:36:59+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-czy-11-listopada-sklepy-beda-otwarte-oto-gdzie-dzis-mozna-zr,nId,6402843"><img align="left" alt="Czy 11 listopada sklepy będą otwarte? Oto, gdzie dziś można zrobić zakupy" src="https://i.iplsc.com/czy-11-listopada-sklepy-beda-otwarte-oto-gdzie-dzis-mozna-zr/000GBMEA8LBRW9K2-C321.jpg" /></a>11 listopada przypada Narodowe Święto Niepodległości. Jest to dzień ustawowo wolny od nauki oraz pracy. Zamknięte są również sklepy. Zakaz handlu przewiduje jednak pewne wyjątki. W których sklepach zrobimy zakupy w najbliższy piątek?</p><br clear="all" />
+

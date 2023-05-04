@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Rośnie forma grupowych rywali Polaków
  - [https://eurosport.tvn24.pl/ro-nie-forma-grupowych-rywali-polak-w,1123843.html?source=rss](https://eurosport.tvn24.pl/ro-nie-forma-grupowych-rywali-polak-w,1123843.html?source=rss)
@@ -183,3 +183,4 @@
 
 <img alt="Rywalka Świątek znów bez szans" src="https://tvn24.pl/najnowsze/cdn-zdjecie-73tly9-trzy-mecze-trzy-zwyciestwa-swiatek-w-usa/alternates/LANDSCAPE_1280" />
     Polska tenisistka z kompletem zwycięstw zakończyła fazę grupową w tenisowym turnieju WTA Finals.
+

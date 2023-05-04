@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: Democrat Tina Kotek Beats Republican Christine Drazan In Oregon Governor’s Race: Projection
  - [https://www.dailywire.com/news/breaking-democrat-tina-kotek-beats-republican-christine-drazan-in-oregon-governors-race-projection](https://www.dailywire.com/news/breaking-democrat-tina-kotek-beats-republican-christine-drazan-in-oregon-governors-race-projection)
@@ -321,3 +321,4 @@ Winsome Sears, the black former Marine who Virginians elected lieutenant governo
  - date published: 2022-11-11 07:23:22+00:00
 
 Rep. Sean Patrick Maloney (D-NY), head of the Democratic Congressional Campaign Committee, slammed Rep. Alexandria Ocasio-Cortez (D-NY) in an interview with The New York Times on Thursday following his loss in this week&#8217;s midterm elections. Maloney laughingly blamed the media for Democrats losing U.S. House seats throughout deep blue New York before acknowledging that Governor ...
+

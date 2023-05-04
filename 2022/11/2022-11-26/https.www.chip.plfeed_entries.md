@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Metamateriały jeszcze bardziej złożone niż obecnie. Pomaga uczenie maszynowe
  - [https://www.chip.pl/2022/11/metamaterialy-projektowanie-uczenie-maszynowe](https://www.chip.pl/2022/11/metamaterialy-projektowanie-uczenie-maszynowe)
@@ -79,3 +79,4 @@
 
 <img alt="HAAWC" class="attachment-full size-full wp-post-image" height="1083" src="https://konto.chip.pl/wp-content/uploads/2022/11/Amerykanskie-lotnictwo-uczynilo-z-samolotu-rozpoznawczego-skuteczniejszego-niszczyciela-wrogich-okretow-podwodnych-1.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/Amerykanskie-lotnictwo-uczynilo-z-samolotu-rozpoznawczego-skuteczniejszego-niszczyciela-wrogich-okretow-podwodnych-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Samoloty Boeing P-8 Posejdon są wykorzystywane od lat w roli morskich samolotów patrolowych, które mają za zadanie przede wszystkim wykrywać okręty podwodne. Teraz amerykańskie lotnictwo uczyniło z tego samolotu rozpoznawczego jeszcze bardziej skutecznego niszczyciela wrogich okrętów podwodnych, wprowadzając na wstępną służbę wyjątkową broń HAAWC, która wniesie jego możliwości na zupełnie nowy poziom. P-8 Posejdon z [&#8230;]</p>
+

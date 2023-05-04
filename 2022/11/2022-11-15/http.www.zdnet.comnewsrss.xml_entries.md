@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Qualcomm unveils the Snapdragon 8 Gen 2 with Wi-Fi 7 support, AI and gaming performance boosts and more
  - [https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/#ftag=RSSbaffb68)
@@ -335,3 +335,4 @@ Suddenly, being stuck at home is a new adventure when you upgrade to one of thes
  - date published: 2022-11-15 00:28:00+00:00
 
 The holidays are fast approaching, which means it's time to get started on those gift lists. If you've got a gamer to buy for, we've put together a massive list of the best gaming holiday gift ideas: from arcade cabinets to gift cards for stocking stuffers and more!
+

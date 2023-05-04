@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Netflix will begin charging 'extra user' fees early next year
  - [https://www.engadget.com/netflix-will-begin-charging-extra-user-fees-early-next-year-221450520.html?src=rss](https://www.engadget.com/netflix-will-begin-charging-extra-user-fees-early-next-year-221450520.html?src=rss)
@@ -216,3 +216,4 @@
  - date published: 2022-10-18 01:00:58+00:00
 
 <p>Cadillac has finally provided more details for <a href="https://www.engadget.com/cadillac-celestiq-luxury-ev-reveal-174256350.html">the Celestiq</a>, and it's evident the EV prioritizes luxury over raw power. The custom-built sedan is now known to include a dual-motor 600HP powertrain, all-wheel drive and a 111kWh Ultium battery pack. The combination delivers a 0-60MPH sprint in 3.8 seconds with an estimated 300-mile range. That makes it one of the quickest cars "in the segment," according to
+

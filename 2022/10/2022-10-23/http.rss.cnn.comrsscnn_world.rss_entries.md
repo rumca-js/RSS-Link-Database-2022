@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Suspicious device found at a Toronto airport has been disarmed and 2 people are in custody, authorities say
  - [https://www.cnn.com/2022/10/23/americas/toronto-airport-suspicious-device-controlled-explosion/index.html](https://www.cnn.com/2022/10/23/americas/toronto-airport-suspicious-device-controlled-explosion/index.html)
@@ -13,3 +13,4 @@ Two people were taken into custody after authorities located and later disarmed 
  - date published: 2022-10-23 06:41:50+00:00
 
 Boris Johnson has held talks with his former finance minister Rishi Sunak as a key deadline looms in the race to replace Liz Truss as British Prime Minister, media outlets in the United Kingdom are reporting.
+

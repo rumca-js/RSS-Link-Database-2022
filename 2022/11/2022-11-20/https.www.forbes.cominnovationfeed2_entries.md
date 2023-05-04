@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## The Technology Behind The Epic Livestream Of ‘Elton John Live: Farewell From Dodger Stadium’
  - [https://www.forbes.com/sites/tonybradley/2022/11/20/the-technology-behind-the-epic-livestream-of-elton-john-live-farewell-from-dodger-stadium/](https://www.forbes.com/sites/tonybradley/2022/11/20/the-technology-behind-the-epic-livestream-of-elton-john-live-farewell-from-dodger-stadium/)
@@ -139,3 +139,4 @@ Apple iOS 16.2 could see a new feature called Rapid Security Response in action,
  - date published: 2022-11-20 01:00:00+00:00
 
 Almost as soon as it began science operations last summer the James Webb Space Telescope revealed an “undiscovered country” of early galaxies. They exist just after the Big Bang and are surprisingly bright and active, confusing astronomers.
+

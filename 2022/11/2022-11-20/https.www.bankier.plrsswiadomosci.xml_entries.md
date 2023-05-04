@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Media: Kazachstan może stać się nową stacją benzynową dla Europy. Kraj powoli odsuwa się od Rosji
  - [https://www.bankier.pl/wiadomosc/Media-Kazachstan-moze-stac-sie-nowa-stacja-benzynowa-dla-Europy-Kraj-powoli-odsuwa-sie-od-Rosji-8442987.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Kazachstan-moze-stac-sie-nowa-stacja-benzynowa-dla-Europy-Kraj-powoli-odsuwa-sie-od-Rosji-8442987.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -165,3 +165,4 @@ podsunie pomysł, co można z nich zbudować. </p>
  - date published: 2022-11-20 01:27:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/d/71099a5cb26cde-948-568-2-62-997-598.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Nieco ponad 15 milionów użytkowników Twittera głosowało w ankiecie, czy Trump może wrócić  na Twittera. Za  głosowało 51,8 proc. uczestników ankiety. Elon Mask zapowiedział, że przywróci konto zbanowanego prezydenta. Trump odpowiedział, że nie jest tym zainteresowany.</p>
+

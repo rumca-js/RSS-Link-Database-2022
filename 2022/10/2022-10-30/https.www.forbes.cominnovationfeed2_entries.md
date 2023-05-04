@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## CDC: Flu Season Is Here Already With Over 6,900 Hospitalizations, 360 Deaths
  - [https://www.forbes.com/sites/brucelee/2022/10/30/cdc-flu-season-is-here-already-with-over-6900-hospitalizations-360-deaths/](https://www.forbes.com/sites/brucelee/2022/10/30/cdc-flu-season-is-here-already-with-over-6900-hospitalizations-360-deaths/)
@@ -244,3 +244,4 @@ The report from the office of Richard Burr (R-NC) claimed that "the COVID-19 pan
  - date published: 2022-10-30 02:30:44+00:00
 
 How to solve today's Wordle.
+

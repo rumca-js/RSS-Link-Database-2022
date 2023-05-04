@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Best Personalized Gift Under $5
  - [https://lifehacker.com/the-best-personalized-gift-under-5-1849820831](https://lifehacker.com/the-best-personalized-gift-under-5-1849820831)
@@ -20,3 +20,4 @@
  - date published: 2022-11-25 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--V0NWpn_I--/c_fit,fl_progressive,q_80,w_636/fdc58ea671391650f3e74bcd90151f8a.png" /><p>If you’ve ever wanted to travel to a galaxy far, far away, now’s your chance to get at least a peak at some on a map—around 200,000 galaxies, to be more specific. But this isn’t just any <a href="https://mapoftheuniverse.net/" rel="noopener noreferrer" target="_blank">interactive map of the universe</a>: It’s the first to display “the span of the entire known cosmos with pinpoint accuracy,” according…</p><p><a href="https://lifehacker.com/use-this-interactive-map-to-explore-200k-galaxies-1849820835">Read more...</a></p>
+

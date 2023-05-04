@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## BONELAB.
  - [https://www.youtube.com/watch?v=uJJES7wSf5w](https://www.youtube.com/watch?v=uJJES7wSf5w)
@@ -14,3 +14,4 @@ I hope you all enjoyed, worked hard on this one.
 
 You can get my mods for bonelab in my discord server:
 Discord.gg/Thrill
+

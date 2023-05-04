@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Wróciły stare koszmary. Milik zmarnował wyborną okazję na gola
  - [https://eurosport.tvn24.pl/wr-ci-y-stare-koszmary--milik-zmarnowa--wyborn--okazj--na-gola,1119357.html?source=rss](https://eurosport.tvn24.pl/wr-ci-y-stare-koszmary--milik-zmarnowa--wyborn--okazj--na-gola,1119357.html?source=rss)
@@ -232,3 +232,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-dideks-muzea-reportaz-kacpra-sulowskiego-6124429/alternates/LANDSCAPE_1280" />
     Przez pięć rządów Zjednoczona Prawica wydała na inwestycje w muzea dwa razy więcej niż koalicja PO-PSL w analogicznym okresie.
+

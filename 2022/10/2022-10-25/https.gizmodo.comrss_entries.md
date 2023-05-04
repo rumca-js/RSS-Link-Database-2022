@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## io9's Halloween Costume Show Week 4: Mysterious and Spooky
  - [https://gizmodo.com/halloween-costume-show-week-4-marvel-dc-stranger-things-1849702432](https://gizmodo.com/halloween-costume-show-week-4-marvel-dc-stranger-things-1849702432)
@@ -272,3 +272,4 @@
  - date published: 2022-10-25 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--xGguqfUe--/c_fit,fl_progressive,q_80,w_636/63cdfd725ef1e37218cd94520ba17082.jpg" /><p>New research suggests that cats can distinguish their owner’s voice from that of a stranger’s, while also being able to identify when their owner is specifically talking to them. The findings are the latest to indicate that cats can indeed form strong social bonds with humans.</p><p><a href="https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518">Read more...</a></p>
+

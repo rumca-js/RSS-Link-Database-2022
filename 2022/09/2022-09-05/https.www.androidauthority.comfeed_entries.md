@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Apple iPhone 14: Everything we know so far (Updated: September 5)
  - [https://www.androidauthority.com/apple-iphone-14-3153710/](https://www.androidauthority.com/apple-iphone-14-3153710/)
@@ -111,3 +111,4 @@ Update: We now have prices for Huawei's new hardware lineup launched last week.
  - date published: 2022-09-05 05:49:38+00:00
 
 Android 12L is coming to Samsung's previous foldable phones, One UI Watch 4.5 to older watches.
+

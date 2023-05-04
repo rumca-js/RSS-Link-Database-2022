@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Android Adaptive Brightness: Everything you need to know
  - [https://www.androidauthority.com/adaptive-brightness-android-explained-3222961/](https://www.androidauthority.com/adaptive-brightness-android-explained-3222961/)
@@ -104,3 +104,4 @@ The new SE could lose the fingerprint sensor on its bigger, notched display.
  - date published: 2022-10-20 06:29:36+00:00
 
 Material You, the Discover screen, and Google Play System Updates feature here. But it comes at a cost.
+

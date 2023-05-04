@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## COVID may have pushed a leading seasonal flu strain to extinction
  - [https://arstechnica.com/?p=1886149](https://arstechnica.com/?p=1886149)
@@ -125,3 +125,4 @@ Sound waves in a piezoelectric material can steer electrons to precise destinati
  - date published: 2022-09-30 11:00:59+00:00
 
 "Getting back out there might be a challenge."
+

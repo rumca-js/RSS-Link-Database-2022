@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Need to Know About 'Recovery' Scams
  - [https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394](https://lifehacker.com/you-need-to-know-about-recovery-scams-1849729394)
@@ -132,3 +132,4 @@
  - date published: 2022-11-01 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--XVyaAxdV--/c_fit,fl_progressive,q_80,w_636/0ef02c3b79209d7b2724c7029c499057.jpg" /><p>When overnight guests descend for the holidays, in addition to doing the usual cleaning, straightening and emptying of wastebaskets, you may wish to incorporate design touches to amplify that cozy holiday feeling for your guests, and facilitate convenience for you both. (This is helpful if you don’t want your…</p><p><a href="https://lifehacker.com/give-your-guest-bedroom-and-bathroom-a-holiday-glow-1849671938">Read more...</a></p>
+

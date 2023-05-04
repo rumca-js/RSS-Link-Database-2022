@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Biden and Netanyahu Gear Up for a Complicated New Era
  - [https://www.nytimes.com/2022/11/03/us/politics/biden-netanyahu.html](https://www.nytimes.com/2022/11/03/us/politics/biden-netanyahu.html)
@@ -216,3 +216,4 @@ Here’s what you need to know.
  - date published: 2022-11-03 01:17:43+00:00
 
 Just a day after launching nearly two dozen missiles, the North fired off more, one of which officials said appeared to be an intercontinental ballistic missile.
+

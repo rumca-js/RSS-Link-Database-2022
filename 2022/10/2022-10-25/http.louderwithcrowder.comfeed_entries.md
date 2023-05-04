@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Reviewing the 'Guardians of the Galaxy Christmas Special' trailer starring Chris Pratt and... Kevin Bacon?
  - [https://www.louderwithcrowder.com/guardians-of-the-galaxy-christmas](https://www.louderwithcrowder.com/guardians-of-the-galaxy-christmas)
@@ -194,3 +194,4 @@
 <a href="https://youtu.be/T-vEWrJCLko" target="_blank">youtu.be</a>
 </small>
 </p>
+

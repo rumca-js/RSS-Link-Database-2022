@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Use your smartwatch to get the best sleep ever: Practical tips
  - [https://www.androidauthority.com/how-to-get-better-sleep-with-smartwatch-3209016/](https://www.androidauthority.com/how-to-get-better-sleep-with-smartwatch-3209016/)
@@ -69,3 +69,4 @@ As well as lots of Pixel news we've got a look at Dynamic Island on Android, tha
  - date published: 2022-09-24 03:00:10+00:00
 
 It's not as popular as it used to be, but it's still as important as ever.
+

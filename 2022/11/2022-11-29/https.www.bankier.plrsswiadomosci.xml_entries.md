@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## "Zwiększyć dostępność". Zmiany w rządowych programach mieszkaniowych
  - [https://www.bankier.pl/wiadomosc/Zwiekszyc-dostepnosc-Zmiany-w-rzadowych-planach-mieszkaniowych-8448387.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zwiekszyc-dostepnosc-Zmiany-w-rzadowych-planach-mieszkaniowych-8448387.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -468,3 +468,4 @@ bezpłatnej edukacyjnej serii wideo pt. "Akademia Blockchain".</p>
  - date published: 2022-11-29 00:07:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/3/f0560b562bdf03-948-568-0-0-1787-1072.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Musimy być silniejsi w obronie naszych wartości, ale nie za pomocą wielkiej retoryki, lecz twardego pragmatyzmu - mówił w poniedziałek brytyjski premier Rishi Sunak. Zapewnił, że Londyn będzie wspierać Ukrainę, jak długo jak potrzeba, a złota era w stosunkach z Chinami się skończyła.</p>
+

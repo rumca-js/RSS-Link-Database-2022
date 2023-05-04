@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'I weep for humanity': THIS new generation of police officers need to do better
  - [https://www.louderwithcrowder.com/police-officer-training](https://www.louderwithcrowder.com/police-officer-training)
@@ -170,3 +170,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

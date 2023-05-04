@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Cambodia’s modern slavery nightmare: the human trafficking crisis overlooked by authorities
  - [https://www.theguardian.com/world/2022/nov/03/cambodias-modern-slavery-nightmare-the-human-trafficking-crisis-overlooked-by-authorities](https://www.theguardian.com/world/2022/nov/03/cambodias-modern-slavery-nightmare-the-human-trafficking-crisis-overlooked-by-authorities)
@@ -1063,3 +1063,4 @@
  - date published: 2022-11-02 00:01:46+00:00
 
 <p>UK intelligence agencies to broaden pool of talent by accepting anyone with British citizenship</p><p>The selection criteria for spies are, perhaps unsurprisingly, quite opaque and presumed to be fairly stringent. But there is one thing that will no longer be required of would-be British agents: British parentage.</p><p>The UK’s three intelligence agencies are seeking to broaden the pool of talent they can recruit from by accepting anyone who has British citizenship – regardless of where their parents are from.</p> <a href="https://www.theguardian.com/uk-news/2022/nov/02/recruitment-of-uk-spies-no-longer-restricted-to-those-with-british-parents">Continue reading...</a>
+

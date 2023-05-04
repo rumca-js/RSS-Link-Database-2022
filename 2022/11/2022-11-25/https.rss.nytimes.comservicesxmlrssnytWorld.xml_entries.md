@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## As Venezuelan Antagonists Talk, the U.S. Softens Its Stance
  - [https://www.nytimes.com/2022/11/25/world/americas/venezuela-maduro-talks.html](https://www.nytimes.com/2022/11/25/world/americas/venezuela-maduro-talks.html)
@@ -118,3 +118,4 @@ People born in American Samoa, which has been held by the United States for more
  - date published: 2022-11-25 05:40:20+00:00
 
 After missiles rained down on Ukraine, cutting off water and electricity, people are adjusting to life in the dark.
+

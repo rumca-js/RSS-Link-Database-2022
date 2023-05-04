@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Colombia Unnerves Markets With Higher Taxes to Boost Antipoverty Spending
  - [https://www.wsj.com/articles/colombia-unnerves-markets-with-higher-taxes-on-oil-wealth-to-boost-antipoverty-spending-11667596233](https://www.wsj.com/articles/colombia-unnerves-markets-with-higher-taxes-on-oil-wealth-to-boost-antipoverty-spending-11667596233)
@@ -97,3 +97,4 @@ More than a third of Ukraine’s power-generation capacity has been knocked out 
  - date published: 2022-11-04 09:30:00+00:00
 
 The U.S. and its allies have reached agreement on which sales of Russian oil will be subject to a price cap, racing to flesh out the details of the major new sanctions program before it begins on Dec. 5.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Salesforce Co-CEO Bret Taylor to Step Down
  - [https://www.wsj.com/articles/salesforce-co-ceo-bret-taylor-to-step-down-11669843853?mod=rss_Technology](https://www.wsj.com/articles/salesforce-co-ceo-bret-taylor-to-step-down-11669843853?mod=rss_Technology)
@@ -118,3 +118,4 @@ The U.S. Department of Homeland Security has approved research that will use art
  - date published: 2022-11-30 01:27:00+00:00
 
 Yoel Roth said he departed following the botched launch of the upgraded Twitter Blue subscription program after Elon Musk ignored his team’s warnings about the rollout.
+

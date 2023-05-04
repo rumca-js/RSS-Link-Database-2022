@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Nerf is making a $170 gun based on a League of Legends rocket launcher
  - [https://www.pcgamer.com/nerf-is-making-a-dollar170-gun-based-on-a-league-of-legends-rocket-launcher](https://www.pcgamer.com/nerf-is-making-a-dollar170-gun-based-on-a-league-of-legends-rocket-launcher)
@@ -195,3 +195,4 @@ God mode, no clip, and and maxed out skills are just a few Skyrim console comman
  - date published: 2022-11-14 00:05:05+00:00
 
 Sorting through every new game on Steam so you don't have to.
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## North Korean missile launch triggers evacuation warnings in Japan
  - [https://www.cnn.com/collections/north-korea-shenanigans-intl-1102022/](https://www.cnn.com/collections/north-korea-shenanigans-intl-1102022/)
@@ -2552,3 +2552,4 @@ One of India's worst disasters for years left 135 people dead - how did it happe
  - date published: 2022-11-02 00:01:01+00:00
 
 The former president has showed Republicans that there is no penalty — and possibly a reward — from voters for spreading false claims and insulting political opponents. <br /><br /> #pelosiattack #voters
+

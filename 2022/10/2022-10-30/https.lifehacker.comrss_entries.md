@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Change the Cabin Air Filter in Your Car
  - [https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959](https://lifehacker.com/how-to-change-the-cabin-air-filter-in-your-car-1849717959)
@@ -20,3 +20,4 @@
  - date published: 2022-10-30 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--mCi8CNcx--/c_fit,fl_progressive,q_80,w_636/70355454681939235319d377665e652a.jpg" /><p>Even before the pandemic made everything worse, air travel was already harder than it needed to be. One of the most frustrating parts is that as a passenger, you could do everything right—following all the rules, getting there with ample of time before your flight, always having your ticket and ID ready to go—and…</p><p><a href="https://lifehacker.com/how-to-see-if-american-airlines-owes-you-money-in-their-1849717941">Read more...</a></p>
+

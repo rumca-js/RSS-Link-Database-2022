@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Polki poza mistrzostwami Europy
  - [https://eurosport.tvn24.pl/polki-poza-mistrzostwami-europy--kluczowy-triumf-hiszpanek,1124193.html?source=rss](https://eurosport.tvn24.pl/polki-poza-mistrzostwami-europy--kluczowy-triumf-hiszpanek,1124193.html?source=rss)
@@ -151,3 +151,4 @@
 
 <img alt="Bajka o żelaznej kopule i inne niepraktyczne teorie wokół wojny w Ukrainie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-dgoy1l-pocisk-w-ukrainie-6208517/alternates/LANDSCAPE_1280" />
     Marcin Andrzej Piotrowski z PISM gościem Macieja Tomaszewskiego.
+

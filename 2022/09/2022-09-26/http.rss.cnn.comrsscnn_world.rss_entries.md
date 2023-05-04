@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Expect big holiday sales on everything but the bling
  - [https://www.cnn.com/2022/09/26/business/jewelry-holiday-sales/index.html](https://www.cnn.com/2022/09/26/business/jewelry-holiday-sales/index.html)
@@ -48,3 +48,4 @@ Five rescue workers have died in the aftermath of Typhoon Noru, which made landf
  - date published: 2022-09-26 03:01:41+00:00
 
 The baby sleeps listlessly on the hospital bed, her frail and dehydrated body fighting for survival. Next to her lies a motionless infant wrapped in a white cloth, who died just minutes earlier.
+

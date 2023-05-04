@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## How to pick the right GIGABYTE 4K monitor for any setup
  - [https://www.techradar.com/news/how-to-pick-the-right-gigabyte-4k-monitor-for-any-setup/](https://www.techradar.com/news/how-to-pick-the-right-gigabyte-4k-monitor-for-any-setup/)
@@ -97,6 +97,13 @@ Amazon's October Prime Day sale can save you up to 63% on memory cards for your 
  - date published: 2022-10-11 16:17:46+00:00
 
 The next iPad operating system is coming, with a new way to multitask, a dedicated weather app and more.
+
+## iPadOS 16.3 is here: new features, supported iPads, everything we know
+ - [https://www.techradar.com/news/ipados-16](https://www.techradar.com/news/ipados-16)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-11 16:17:46+00:00
+
+The next iPad operating system has arrived with a new way to multitask, a dedicated weather app and more.
 
 ## Making Smart Homes Simple
  - [https://www.techradar.com/news/ways-aqara-makes-smarthomes-simple/](https://www.techradar.com/news/ways-aqara-makes-smarthomes-simple/)
@@ -293,3 +300,4 @@ AliExpress, eBay struggling with eliminating bogus bargains ahead of Black Frida
  - date published: 2022-10-11 00:58:48+00:00
 
 We've rounded up the highlights from this year's PAX Aus, straight from the show floor in Melbourne.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Here are the first not-an-NFT “digital collectibles” for PlayStation Stars
  - [https://www.theverge.com/2022/9/13/23352063/sony-playstation-stars-digital-collectibles-previews](https://www.theverge.com/2022/9/13/23352063/sony-playstation-stars-digital-collectibles-previews)
@@ -546,3 +546,4 @@
 <figure>
       <img alt="This is a piece of concept art from EA and Koei Tecmo’s new “hunting game.” In the middle of the image, a tall tree with pink leaves winds through a large building with Japanese-inspired architecture. On the sides of the image, there are other buildings and trees." src="https://cdn.vox-cdn.com/thumbor/ojtPvfVxCjo4XrkWAmerpb9m-9E=/660x0:3437x1851/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71359270/conceptart_EMBARGO_SEPT_12_3PM_PST___11PM_GMT_UK.0.jpg" />
        
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Wordle Tips: The Very Best Start Words and More     - CNET
  - [https://www.cnet.com/culture/internet/wordle-tips-the-very-best-start-words-and-more/#ftag=CADf328eec](https://www.cnet.com/culture/internet/wordle-tips-the-very-best-start-words-and-more/#ftag=CADf328eec)
@@ -804,3 +804,4 @@ Judge rejects disgraced Theranos founder's claim of "newly discovered" evidence.
  - date published: 2022-11-09 00:02:06+00:00
 
 T-Mobile has identified 76 million customers whose information was compromised in a 2021 cyberattack.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Co musi się wydarzyć, żeby Polska wyszła z grupy? Scenariusze
  - [https://eurosport.tvn24.pl/co-musi-si--wydarzy----eby-polska-wysz-a-z-grupy--kilka-scenariuszy,1126446.html?source=rss](https://eurosport.tvn24.pl/co-musi-si--wydarzy----eby-polska-wysz-a-z-grupy--kilka-scenariuszy,1126446.html?source=rss)
@@ -335,3 +335,4 @@
 
 <img alt="Zszokowali Argentynę, nie boją się Polaków" src="https://tvn24.pl/najnowsze/cdn-zdjecie-4o05xz-arabia-saudyjska-po-raz-szosty-rywalizuje-w-pilkarskich-ms/alternates/LANDSCAPE_1280" />
     Dzisiaj kolejny mecz Polaków na mundialu.
+

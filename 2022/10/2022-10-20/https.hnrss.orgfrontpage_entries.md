@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How the ‘Black Death’ Left Its Genetic Mark on Future Generations
  - [https://www.nytimes.com/2022/10/19/science/bubonic-plague-black-death-genetic-protection.html](https://www.nytimes.com/2022/10/19/science/bubonic-plague-black-death-genetic-protection.html)
@@ -772,3 +772,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33269443">https://news.ycombinator.com/item?id=33269443</a></p>
 <p>Points: 28</p>
 <p># Comments: 1</p>
+

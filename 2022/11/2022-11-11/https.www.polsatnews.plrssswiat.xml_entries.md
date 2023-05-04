@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Kevin Conroy nie żyje. Legendarny głos Batmana miał 66 lat
  - [https://www.polsatnews.pl/wiadomosc/2022-11-11/nie-zyje-kevin-conroy-legendarny-glos-batmana-mial-66-lat/](https://www.polsatnews.pl/wiadomosc/2022-11-11/nie-zyje-kevin-conroy-legendarny-glos-batmana-mial-66-lat/)
@@ -111,3 +111,4 @@ Zgodnie z tradycją 11 listopada, w dniu św. Marcina rozpoczął się w Niemcze
  - date published: 2022-11-11 05:19:00+00:00
 
 25-letni funkcjonariusz brukselskiej policji został zabity przez nożownika. Napastnik został postrzelony. Do ataku doszło na dworcu kolejowym w północnej części stolicy Belgii.
+

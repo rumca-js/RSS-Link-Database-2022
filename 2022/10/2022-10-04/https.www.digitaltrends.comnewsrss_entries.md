@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This gaming chair makes your butt a part of the action
  - [https://www.digitaltrends.com/computing/cooler-master-synk-x-haptic-gaming-chair/](https://www.digitaltrends.com/computing/cooler-master-synk-x-haptic-gaming-chair/)
@@ -6,3 +6,4 @@
  - date published: 2022-10-04 18:35:37.334808+00:00
 
 Cooler Master's cheeky team of designers have cracked the butt-immersion problem of gaming with the new Synk X haptic gaming chair.
+

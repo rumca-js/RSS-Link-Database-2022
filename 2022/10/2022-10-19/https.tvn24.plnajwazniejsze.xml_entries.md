@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Ważne zwycięstwo Hurkacza. W trzecim secie nie miał z kim grać
  - [https://eurosport.tvn24.pl/wa-ne-zwyci-stwo-hurkacza-w-antwerpii--w-trzecim-secie-nie-mia--z-kim-gra-,1122057.html?source=rss](https://eurosport.tvn24.pl/wa-ne-zwyci-stwo-hurkacza-w-antwerpii--w-trzecim-secie-nie-mia--z-kim-gra-,1122057.html?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="Praworządność, suwerenność, teorie spiskowe. Kraj podzielony, wszystkie chwyty dozwolone" src="https://tvn24.pl/najnowsze/cdn-zdjecie-oxfpyr-wybory-w-brazylii-6169497/alternates/LANDSCAPE_1280" />
     Kim są ludzie, którzy ścierają się o przyszłość Brazylii?
+

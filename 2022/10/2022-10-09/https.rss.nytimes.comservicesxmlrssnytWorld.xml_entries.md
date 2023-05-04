@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia Warns of Reprisals for Crimea Bridge Attack
  - [https://www.nytimes.com/2022/10/09/world/europe/crimea-bridge-ukraine-russia.html](https://www.nytimes.com/2022/10/09/world/europe/crimea-bridge-ukraine-russia.html)
@@ -139,3 +139,4 @@ For an unconventional former Marine colonel, Ukraine represents the morally just
  - date published: 2022-10-09 00:30:12+00:00
 
 Any impediment to traffic on the bridge could affect Russia’s ability to wage war in southern Ukraine, where Ukraine’s forces have been fighting an increasingly effective counteroffensive.
+

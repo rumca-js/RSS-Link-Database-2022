@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Pentagon Orders Review of Its Overseas Social Media Campaigns
  - [https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html](https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html)
@@ -27,3 +27,4 @@ As the war in Ukraine has put pressure on the global markets for food, Russia ha
  - date published: 2022-09-19 09:00:17+00:00
 
 As the war in Ukraine has put pressure on the global markets for food, Russia has spread conspiracy theories that blame the West.
+

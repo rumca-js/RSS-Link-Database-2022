@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Play a weird wordle-like where you guess what prompt an image generator used
  - [https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used](https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used)
@@ -41,3 +41,4 @@ More and more devs are announcing plans to help players on the platform.
  - date published: 2022-10-08 07:01:28+00:00
 
 Wordle today: The solution and a hint for Saturday's puzzle.
+

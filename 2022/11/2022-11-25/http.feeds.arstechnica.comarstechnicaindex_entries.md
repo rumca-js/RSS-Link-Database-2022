@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The best Black Friday deals for Apple devices
  - [https://arstechnica.com/?p=1899376](https://arstechnica.com/?p=1899376)
@@ -20,3 +20,4 @@ Recent study offers evidence of link between Epstein-Barr and multiple sclerosis
  - date published: 2022-11-25 05:01:01+00:00
 
 Some favorite and notable laptops are getting solid discounts this week.
+

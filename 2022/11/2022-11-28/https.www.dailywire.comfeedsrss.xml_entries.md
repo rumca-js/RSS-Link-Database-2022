@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## CNN Blasted For Fact-Checking Meme From Elon Musk That Mocked The Far-Left Network
  - [https://www.dailywire.com/news/cnn-blasted-for-fact-checking-meme-from-elon-musk-that-mocked-the-far-left-network](https://www.dailywire.com/news/cnn-blasted-for-fact-checking-meme-from-elon-musk-that-mocked-the-far-left-network)
@@ -454,3 +454,4 @@ Comedian Jay Leno returned to the stage over the weekend for the first time sinc
  - date published: 2022-11-28 08:35:31+00:00
 
 Kim Kardashian was slammed Sunday evening over a statement that she released about the recent Balenciaga campaign in which the company was widely accused of sexualizing young children. The brand, which celebrities like Kardashian often wear, displayed images on its website last week as part of its “Toy Stories” campaign. The photos showed child models ...
+

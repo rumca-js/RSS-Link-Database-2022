@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Roku Shares Tumble as Company Warns of Tough Holiday Season
  - [https://www.wsj.com/articles/roku-q3-earnings-report-2022-11667430844?mod=rss_Technology](https://www.wsj.com/articles/roku-q3-earnings-report-2022-11667430844?mod=rss_Technology)
@@ -69,3 +69,4 @@ Elon Musk said he had spoken to civil-society leaders about how Twitter “will 
  - date published: 2022-11-02 09:30:00+00:00
 
 Disney, NBCU and Sony are among the companies still negotiating licensing with the streaming service, which says advertiser demand is strong.
+

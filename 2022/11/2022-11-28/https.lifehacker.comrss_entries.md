@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Best Questions to Ask a Hiring Manager During an Interview
  - [https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
@@ -139,3 +139,4 @@
  - date published: 2022-11-28 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0-qKDhL7--/c_fit,fl_progressive,q_80,w_636/c21b0e2100b83027fbe688d25c60074e.jpg" /><p>If you celebrate Christmas, you probably have a decorated tree set up somewhere in your house. As a kid, the tree in my house was a dusty old artificial model that had to be assembled branch by branch. We always kept it in the basement, stuffed into a cardboard box, and every holiday season, unboxing it was a game of…</p><p><a href="https://lifehacker.com/15-of-the-best-species-of-live-christmas-trees-and-whi-1849785446">Read more...</a></p>
+

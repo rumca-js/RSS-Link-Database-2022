@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## 650 osób przez trzy dni przeszło za Jackiem Jaworkiem 3 tysiące hektarów. "Mało prawdopodobne, że coś pominęli"
  - [https://tvn24.pl/katowice/borowce-650-osob-przez-trzy-dni-przeszlo-za-jackiem-jaworkiem-3-tysiace-hektarow-malo-prawdopodobne-ze-cos-pomineli-6233452?source=rss](https://tvn24.pl/katowice/borowce-650-osob-przez-trzy-dni-przeszlo-za-jackiem-jaworkiem-3-tysiace-hektarow-malo-prawdopodobne-ze-cos-pomineli-6233452?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="650 osób przez trzy dni przeszło za Jackiem Jaworkiem 3 tysiące hektarów. " src="https://tvn24.pl/katowice/cdn-zdjecie-ibzaut-poszukiwania-jacka-jaworka-6233521/alternates/LANDSCAPE_1280" />
     W środę o zmierzchu zakończyły się trzydniowe poszukiwania ciała Jacka Jaworka, oskarżonego o potrójne zabójstwo w Borowcach (woj. śląskie). Jedna z hipotez śledztwa zakłada, że mężczyzna nie żyje. Przedstawiciele różnych służb przeczesali trzy tysiące hektarów, ale po poszukiwanym mężczyźnie nie znaleźli ani śladu.
+

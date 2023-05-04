@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Here’s a lifetime Microsoft Office deal to be thankful for
  - [https://www.pcworld.com/article/1383015/heres-a-lifetime-microsoft-office-deal-to-be-thankful-for.html](https://www.pcworld.com/article/1383015/heres-a-lifetime-microsoft-office-deal-to-be-thankful-for.html)
@@ -39,3 +39,4 @@
 
 <p><em>Prices subject to change.</em></p>
 Microsoft, Microsoft Office</div>
+

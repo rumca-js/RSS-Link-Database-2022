@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Enviro group dumps 'bucket of s***' on memorial of beloved veteran because this is who they are as people
  - [https://www.louderwithcrowder.com/environmental-group-uk-veteran](https://www.louderwithcrowder.com/environmental-group-uk-veteran)
@@ -20,3 +20,4 @@
  - date published: 2022-10-09 12:19:38+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31883936&amp;width=2000&amp;height=1500&amp;coordinates=81%2C0%2C81%2C0" /><br /><br /><p>While you were busy enjoying life over the weekend, PayPal launched a plan to take money from you if you spread what they consider to be "misinformation." They have since changed their mind once this plan was exposed, and claimed the new terms were published in -- and I quote -- "error."</p><p>The tumbler merchants at <a href="https://ww
+

@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## TeamGroup’s radical new AIO cooler chills your SSD, too
  - [https://www.pcworld.com/article/1360274/teamgroups-latest-aio-cooler-can-cool-down-your-ssd-too.html](https://www.pcworld.com/article/1360274/teamgroups-latest-aio-cooler-can-cool-down-your-ssd-too.html)
@@ -728,3 +728,4 @@ Laptops</div>
 			</div>
 		</div>
 CPUs and Processors</div>
+

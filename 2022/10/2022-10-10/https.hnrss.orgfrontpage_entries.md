@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Science is the belief in the ignorance of experts
  - [https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
@@ -671,3 +671,4 @@ We are working on Step CI - a fully automated API testing platform for developer
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33146686">https://news.ycombinator.com/item?id=33146686</a></p>
 <p>Points: 5</p>
 <p># Comments: 1</p>
+

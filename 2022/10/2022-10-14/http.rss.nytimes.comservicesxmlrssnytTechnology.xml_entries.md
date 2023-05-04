@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk Foments More Geopolitical Controversy With Ukraine Internet Dispute
  - [https://www.nytimes.com/2022/10/14/technology/elon-musk-ukraine-internet.html](https://www.nytimes.com/2022/10/14/technology/elon-musk-ukraine-internet.html)
@@ -27,3 +27,4 @@ Long after the death of Joseph Pilates, the exercise program’s magnetic founde
  - date published: 2022-10-14 00:14:20+00:00
 
 A new analysis found that algorithms and some features of social media sites help false posts go viral.
+

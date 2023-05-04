@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Study Shows 30% of People Are Redoing Google Searches     - CNET
  - [https://www.cnet.com/tech/services-and-software/study-shows-30-of-people-are-redoing-google-searches/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/study-shows-30-of-people-are-redoing-google-searches/#ftag=CADf328eec)
@@ -769,3 +769,4 @@ Food is fuel, but here are some foods may help you sleep better at night.
  - date published: 2022-10-31 00:00:02+00:00
 
 Recap: The Disney Plus series gives us a new angle on the Empire's cruelty, along with two familiar faces.
+

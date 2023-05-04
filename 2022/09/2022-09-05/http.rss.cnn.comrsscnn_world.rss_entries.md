@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## In pictures: Liz Truss, the UK's new prime minister
  - [https://www.cnn.com/2022/09/05/uk/gallery/liz-truss/index.html](https://www.cnn.com/2022/09/05/uk/gallery/liz-truss/index.html)
@@ -76,3 +76,4 @@ Chilean voters resoundingly rejected a newly proposed constitution in a referend
  - date published: 2022-09-05 06:13:38+00:00
 
 Cyrus Mistry, the Indian scion of one of the country's most prominent empires, died in a road accident on a highway near Mumbai on Sunday, according to Maharashtra police.
+

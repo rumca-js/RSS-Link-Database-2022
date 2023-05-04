@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Valve rejestruje znak towarowy Neon Prime. Twórcy Steam pracują nad nową grą?
  - [https://ithardware.pl/aktualnosci/valve_rejestruje_znak_towarowy_neon_prime_tworcy_steam_pracuja_nad_nowa_gra-23848.html](https://ithardware.pl/aktualnosci/valve_rejestruje_znak_towarowy_neon_prime_tworcy_steam_pracuja_nad_nowa_gra-23848.html)
@@ -97,3 +97,4 @@ Witchfire to...
 
 <img src="https://ithardware.pl/artykuly/min/23837_1.jpg" />            Okazuje się, że najnowsze sterowniki graficzne NVIDII nie tylko przynoszą optymalizację wydajności DX12 oraz obsługę odświeżonych kart z serii GeForce RTX 30, ale podobno wyłączają także wprowadzoną w zeszłym roku technologię ograniczania...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/nvidia_podobno_usunela_ogranicznik_kopania_na_kartach_geforce_rtx_30_lhr-23837.html">https://ithardware.pl/a
+

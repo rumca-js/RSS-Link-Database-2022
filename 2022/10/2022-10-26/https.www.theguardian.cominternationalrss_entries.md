@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## French-German friendship ‘still alive’ as Macron meets Scholz amid tensions
  - [https://www.theguardian.com/world/2022/oct/26/french-german-friendship-still-alive-as-macron-meets-scholz-amid-tensions](https://www.theguardian.com/world/2022/oct/26/french-german-friendship-still-alive-as-macron-meets-scholz-amid-tensions)
@@ -20,3 +20,4 @@
  - date published: 2022-10-26 02:00:48+00:00
 
 <p>Why are far-right parties becoming more influential in European politics? Jon Henley reports on the rise of the Brothers of Italy and the Sweden Democrats</p><p>On Saturday, Giorgia Meloni, the leader of the Brothers of Italy party, was sworn in as the prime minister of Italy. She has pledged to crack down on migrant boats and limit abortion rights, and opposes same-sex marriage and parenting.</p><p>Support for far-right parties has been static in recent years, so why are they now making political gains across Europe? <strong>Jon Henley</strong>, the Guardian’s Europe correspondent, analyses Meloni’s victory in Italy and the success of the Sweden Democrats to explain what is happening. He tells <strong>Michael Safi</strong> how far-right parties across Europe have worked to detoxify their brands and how their ideas have been normalised by mainstream parties and the media.</p> <a href="https://www.theguardian.com/news/audio/2022/oct/26/the-rise-of-europes-far-right-parties-podcast">Continue reading...</a>
+

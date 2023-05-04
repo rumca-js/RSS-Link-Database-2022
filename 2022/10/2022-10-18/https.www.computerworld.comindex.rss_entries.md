@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Microsoft lays off nearly 1,000 staffers: Reports
  - [https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all](https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all)
@@ -54,3 +54,4 @@
 <article>
 	<section class="page">
 <p>For both Windows 10 and 11, the Windows Terminal app offers powerful and interesting ways to run and interact with a variety of command line environments. Via a single interface, this tool offers access to multiple versions of PowerShell, the Command Prompt, Azure Cloud Shell, and a wide variety of Linux shells via the Windows Subsystem for Linux (bash, Z-shell, Korn Shell, and so forth).</p><p>Working with Windows Terminal can involve nothing more than launc
+

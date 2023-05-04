@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Alyssa Milano blasted by conservatives, Elon Musk after trading in Tesla for Volkswagen: 'Founded by Nazis'
  - [https://www.foxnews.com/entertainment/alyssa-milano-blasted-conservatives-elon-musk-trading-tesla-volkswagen-founded-nazis](https://www.foxnews.com/entertainment/alyssa-milano-blasted-conservatives-elon-musk-trading-tesla-volkswagen-founded-nazis)
@@ -601,3 +601,4 @@ New York City police officers rushed to rescue a man who fell onto the subway tr
  - date published: 2022-11-26 00:01:46+00:00
 
 After a tremendous World Cup upset victory over Argentina, each player of the Saudi Arabia team was gifted a new Rolls Royce Phantom.
+

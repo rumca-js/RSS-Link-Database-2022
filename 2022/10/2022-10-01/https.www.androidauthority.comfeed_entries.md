@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Boo! Check out the new and upcoming Halloween/horror streaming shows and movies
  - [https://www.androidauthority.com/new-halloween-streaming-shows-and-movies-3212854/](https://www.androidauthority.com/new-halloween-streaming-shows-and-movies-3212854/)
@@ -55,3 +55,4 @@ Stay safe while you listen away!
  - date published: 2022-10-01 11:12:28+00:00
 
 Plus a ton of Pixel news before next week's event, deepfake Bruce Willis, cloned Arctic wolves, and more.
+

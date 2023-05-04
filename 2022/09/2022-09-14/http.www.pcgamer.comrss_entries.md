@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Wuthering Waves is an Open-World ARPG with an emphasis on the action
  - [https://www.pcgamer.com/wuthering-waves-is-an-open-world-arpg-with-an-emphasis-on-the-action](https://www.pcgamer.com/wuthering-waves-is-an-open-world-arpg-with-an-emphasis-on-the-action)
@@ -202,3 +202,4 @@ No more Google laptops?
  - date published: 2022-09-14 01:46:27+00:00
 
 The Lost and the Damned.
+

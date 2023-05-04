@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## China Officials Soften Tone on Covid Curbs Amid Protests
  - [https://www.wsj.com/articles/china-officials-soften-tone-on-covid-curbs-amid-protests-11669759134](https://www.wsj.com/articles/china-officials-soften-tone-on-covid-curbs-amid-protests-11669759134)
@@ -90,3 +90,4 @@ Chinese police have begun leveraging the powers of the country’s surveillance 
  - date published: 2022-11-29 10:35:00+00:00
 
 French President Macron’s visit to the U.S. is likely to focus on trade and geopolitical concerns, as European officials begin to express frustration at their increasing reliance on the U.S. for security and economic stability as the war in Ukraine continues.
+

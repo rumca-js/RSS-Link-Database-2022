@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## As Windows 11 22H2 draws near, Windows 10 hangs on
  - [https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all](https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all)
@@ -17,3 +17,4 @@
 <article>
 	<section class="page">
 <p>Once upon a time, Microsoft Office ruled the business world. By the late ‘90s and early 2000s, Microsoft’s office suite had brushed aside rivals such as WordPerfect Office and Lotus SmartSuite, and there was no competition on the horizon.</p><p>Then in 2006 Google came along with <a href="http://googlepress.blogspot.com/2006/10/google-announces-google-docs_11.html" rel="nofollow noopener" target="_blank">Google Docs &amp; Spreadsheets</a>, a collaborative onl
+

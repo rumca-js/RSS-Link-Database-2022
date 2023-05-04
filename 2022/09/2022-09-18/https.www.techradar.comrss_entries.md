@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Wowed by Dopesick? Here are 6 meaty dramas for your next TV binge...
  - [https://www.techradar.com/news/wowed-by-dopesick-here-are-6-meaty-dramas-for-your-next-tv-binge/](https://www.techradar.com/news/wowed-by-dopesick-here-are-6-meaty-dramas-for-your-next-tv-binge/)
@@ -34,3 +34,4 @@ The Qualcomm Snapdragon 8 Gen 2 is expected to be unveiled in November, and coul
  - date published: 2022-09-18 05:00:14+00:00
 
 Despite faster chips coming to the market, a 'slower' Tensor 2 engine might not be that much of an issue.
+

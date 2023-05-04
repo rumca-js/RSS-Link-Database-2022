@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Save up to $450 in the latest Samsung tablet and laptop Black Friday deals
  - [https://www.androidauthority.com/samsung-tablet-laptop-black-friday-deals-3241158/](https://www.androidauthority.com/samsung-tablet-laptop-black-friday-deals-3241158/)
@@ -55,3 +55,4 @@ From the Pixel 6a to the Apple Watch and beyond, here are the best UK deals we'v
  - date published: 2022-11-24 08:32:17+00:00
 
 Plus, a look at ramen-based fuel in Japan!
+

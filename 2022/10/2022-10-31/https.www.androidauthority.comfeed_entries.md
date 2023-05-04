@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## PSA: Pixel phones automatically turn into wireless charging pads when plugged in
  - [https://www.androidauthority.com/wireless-charging-pixel-phone-3229394/](https://www.androidauthority.com/wireless-charging-pixel-phone-3229394/)
@@ -111,3 +111,4 @@ A curious look at what perhaps could've been for the Pixel series.
  - date published: 2022-10-31 05:08:02+00:00
 
 Users would be given 90 days to subscribe to the costlier Twitter Blue or lose their blue tick.
+

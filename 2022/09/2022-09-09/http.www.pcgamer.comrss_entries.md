@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## One of Elden Ring's best choral songs wasn't sung by a proper choir
  - [https://www.pcgamer.com/one-of-elden-rings-best-choral-songs-wasnt-sung-by-a-proper-choir](https://www.pcgamer.com/one-of-elden-rings-best-choral-songs-wasnt-sung-by-a-proper-choir)
@@ -279,3 +279,4 @@ Small Man Syndrome.
  - date published: 2022-09-09 00:06:11+00:00
 
 Black is the new black in Dominaria United.
+

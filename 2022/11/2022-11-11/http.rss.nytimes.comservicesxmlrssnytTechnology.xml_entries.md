@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitter Users Create Havoc by Impersonating Brands
  - [https://www.nytimes.com/2022/11/11/technology/twitter-blue-impersonation-brands.html](https://www.nytimes.com/2022/11/11/technology/twitter-blue-impersonation-brands.html)
@@ -41,3 +41,4 @@ Mr. Musk ordered immediate layoffs, fired executives by email, laid down product
  - date published: 2022-11-11 10:00:11+00:00
 
 Plus: Is the latest round of tech layoffs a sign of impending doom, or a much-needed structural correction?
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Protests in Iran: State-run live TV hacked by protesters
  - [https://www.bbc.co.uk/news/world-middle-east-63188795?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63188795?at_medium=RSS&at_campaign=KARANGA)
@@ -454,3 +454,4 @@ When your job is your way of life, the cost of living crisis bites doubly hard o
  - date published: 2022-10-08 00:14:50+00:00
 
 Worthing has voted Conservative for decades but an influx of urbanities has ruptured the status quo.
+

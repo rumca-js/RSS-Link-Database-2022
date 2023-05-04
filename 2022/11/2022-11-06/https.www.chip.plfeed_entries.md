@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Energię można pozyskać z oceanu. Wyniki testów urządzenia zaskoczyły nawet jego twórców
  - [https://www.chip.pl/2022/11/energia-z-oceanu-waveswing-technologia](https://www.chip.pl/2022/11/energia-z-oceanu-waveswing-technologia)
@@ -87,3 +87,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="731" src="https://konto.chip.pl/wp-content/uploads/2022/11/biale-karly.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/biale-karly.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Astronomowie z University of Warwick odnaleźli liczące miliardy lat gwiazdy, które znajdują się niedaleko Ziemi. Obiekty te zbierają materię z krążących wokół nich planet. Na ten temat naukowcy piszą w Monthly Notices of the Royal Astronomical Society wyjaśniając, gdzie znajdują się te tzw. białe karły i co wiadomo o ich aktywności. Jak wyjaśniają, odległość dzieląca [&#8230;]</p>
+

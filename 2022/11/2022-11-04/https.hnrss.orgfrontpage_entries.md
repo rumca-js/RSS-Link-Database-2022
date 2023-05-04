@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Intel plans to rival TSMC and Samsung as a chip supplier
  - [https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
@@ -356,7 +356,6 @@
  - [https://rsapkf.org/weblog/q2z/](https://rsapkf.org/weblog/q2z/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-04 16:22:38+00:00
- - tags: rss,privacy
 
 <p>Article URL: <a href="https://rsapkf.org/weblog/q2z/">https://rsapkf.org/weblog/q2z/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33469271">https://news.ycombinator.com/item?id=33469271</a></p>
@@ -367,7 +366,6 @@
  - [https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-04 15:49:20+00:00
- - tags: vpn,google
 
 <p>Article URL: <a href="https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586">https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33468654">https://news.ycombinator.com/item?id=33468654</a></p>
@@ -825,3 +823,4 @@ We built this because we wanted a simple, developer-friendly way to automate API
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33459918">https://news.ycombinator.com/item?id=33459918</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
+

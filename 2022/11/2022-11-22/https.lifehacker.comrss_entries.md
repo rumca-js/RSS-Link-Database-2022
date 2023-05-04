@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## What's New on Prime Video in December 2022
  - [https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629](https://lifehacker.com/whats-new-on-prime-video-in-december-2022-1849814629)
@@ -118,3 +118,4 @@
  - date published: 2022-11-22 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--XOb5h4ok--/c_fit,fl_progressive,q_80,w_636/4feee1fde52255626f75aac46059ae32.png" /><p>So you want to lay a curse on your enemies? I’m not going to judge—I’m sure they deserve it. But if you want to hex, jinx, bedevil, imprecate, and otherwise lay down powerful gris-gris on your foes, you better do it <em>right. </em>So follow our no-nonsense guide to practical cursing using two of history’s most famous methods…</p><p><a href="https://lifehacker.com/how-to-curse-your-enemies-1849791469">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## What are the best Netflix shows of all time? See our top 15
  - [https://www.androidauthority.com/best-netflix-shows-of-all-time-3204050/](https://www.androidauthority.com/best-netflix-shows-of-all-time-3204050/)
@@ -174,3 +174,4 @@ Irregular heart rate detection is now available in over a dozen European countri
  - date published: 2022-09-06 05:30:15+00:00
 
 The largest Apple Watch ever with a programmable button.
+

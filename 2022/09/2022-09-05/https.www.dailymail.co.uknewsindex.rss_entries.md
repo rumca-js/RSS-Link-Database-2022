@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Cars submerged underwater on I-95 in Rhode Island after intense rain caused buildings to COLLAPSE
  - [https://www.dailymail.co.uk/news/article-11182917/Cars-submerged-underwater-95-Rhode-Island-intense-rain-caused-buildings-COLLAPSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11182917/Cars-submerged-underwater-95-Rhode-Island-intense-rain-caused-buildings-COLLAPSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1546,3 +1546,4 @@ The bikie associate and convicted drug importer is understood to be a 'very clos
  - date published: 2022-09-05 00:01:02+00:00
 
 Sainsbury revealed a job offer in Gumtree for a 'gentleman's club' in Sydney led to her being caught up in a life of cocaine trafficking.
+

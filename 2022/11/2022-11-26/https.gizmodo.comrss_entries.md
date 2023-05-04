@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Rian Johnson on Knives Out's Future Inspirations and Keeping the Franchise Fresh
  - [https://gizmodo.com/rian-johnson-knives-out-franchise-future-1849823560](https://gizmodo.com/rian-johnson-knives-out-franchise-future-1849823560)
@@ -41,3 +41,4 @@
  - date published: 2022-11-26 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--dz00sdEW--/c_fit,fl_progressive,q_80,w_636/c1598511a9c7ff58c43e68d8529defcc.png" /><p>Welcome back to Toy Aisle, io9's regular round up of the coolest toys around on the internet. This week: <em>Star Trek</em>’s 1/6 figure line goes to <em>Deep Space Nine</em>, the hottest anime of the season gets a hot new figure, and sit back and relax <em>Pokémon</em> style. Check it out!<br /></p><p><a href="https://gizmodo.com/figuarts-chainsaw-man-pokemon-slowpoke-chair-exo-6-quar-1849820579">Read more...</a></p>
+

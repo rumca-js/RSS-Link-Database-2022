@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Apple AirPods Pro (2nd gen) vs AirPods (3rd gen): Which should you buy?
  - [https://www.androidauthority.com/airpods-pro-2-vs-airpods-3-3206855/](https://www.androidauthority.com/airpods-pro-2-vs-airpods-3-3206855/)
@@ -41,3 +41,4 @@ It started the year with a bang, but how well has Samsung's expensive flagship h
  - date published: 2022-09-11 12:00:23+00:00
 
 You can even pair two of these in stereo mode.
+

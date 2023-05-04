@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Watch out - scammers are impersonating DHL and DPD this Black Friday
  - [https://www.techradar.com/news/watch-out-scammers-are-impersonating-dhl-and-dpd-this-black-friday](https://www.techradar.com/news/watch-out-scammers-are-impersonating-dhl-and-dpd-this-black-friday)
@@ -111,3 +111,4 @@ Join us for our live coverage of the Amazon Black Friday sale, including all the
  - date published: 2022-11-24 05:00:48+00:00
 
 Coming to both iOS and Android, Venmo is also redesigning payment screens for easier transactions.
+

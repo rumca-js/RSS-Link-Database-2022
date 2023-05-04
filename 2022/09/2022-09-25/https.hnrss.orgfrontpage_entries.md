@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Downturn Career Decisions
  - [https://lethain.com/downturn-career-decisions/](https://lethain.com/downturn-career-decisions/)
@@ -607,3 +607,4 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32968480">https://news.ycombinator.com/item?id=32968480</a></p>
 <p>Points: 107</p>
 <p># Comments: 86</p>
+

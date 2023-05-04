@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Apple’s next Mac Pro could feature an M2 chip with up to 48 CPU cores
  - [https://www.engadget.com/apple-mac-pro-m2-ultra-extreme-report-215731047.html?src=rss](https://www.engadget.com/apple-mac-pro-m2-ultra-extreme-report-215731047.html?src=rss)
@@ -41,3 +41,4 @@
  - date published: 2022-10-23 14:30:06+00:00
 
 <p>General Motors has been in business for more than a century, but in its 112 years, the company has never faced such challenges as it does in today's rapidly electrifying and automating industry. The assembly line jobs from Detroit's heyday have been replaced by legions of automated industrial arms, almost as quickly as the era of internal combustion engines has been supplanted by EVs. Since 2014, it's been Mary Barra's job as CEO of GM to help guide America's largest automaker into the 21st c
+

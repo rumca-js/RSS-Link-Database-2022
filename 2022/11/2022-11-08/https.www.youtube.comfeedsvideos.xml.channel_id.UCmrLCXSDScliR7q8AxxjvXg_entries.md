@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## A New World Order is RISING
  - [https://www.youtube.com/watch?v=h8lE0TWZnOQ](https://www.youtube.com/watch?v=h8lE0TWZnOQ)
@@ -61,3 +61,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your-retirement/
 
 # #felixrex #blackpigeonspeaks
+

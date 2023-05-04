@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Economic future of U.S. depends on making engineering cool
  - [https://www.washingtonpost.com/technology/2022/10/23/engineer-shortage-us-chips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/23/engineer-shortage-us-chips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -6,3 +6,4 @@
  - date published: 2022-10-23 07:00:19+00:00
 
 The United States wants to build its own computer chips again but not enough workers know how. Purdue is one of several universities racing to expand education.
+

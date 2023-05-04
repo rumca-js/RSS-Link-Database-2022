@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Xbox Game Pass Games Not To Miss
  - [https://www.gamespot.com/videos/xbox-game-pass-games-not-to-miss/2300-6459650/](https://www.gamespot.com/videos/xbox-game-pass-games-not-to-miss/2300-6459650/)
@@ -335,3 +335,4 @@
  - date published: 2022-09-27 07:58:00+00:00
 
 <p> <a href="https://www.gamespot.com/games/madden-nfl-23/">Madden NFL 23</a> Ultimate Team's regular weekly schedule has come with an unusual warning this week, as Florida braces for the arrival of Hurricane Ian. EA Tiburon, which is based in Orlando, has anticipated potential disruptions to its usual content schedule as Florida enters a state of emergency.</p><p>The weekly schedule for Madden Ultimate Team content looks pretty similar to its usual weekly announcement, with new content drops pl
+

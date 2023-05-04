@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Tytanowe Oko" dla Playera za "Skazaną", wyróżniona grupa TVN Warner Bros. Discovery
  - [https://tvn24.pl/polska/konferencja-i-wystawa-pike-2022-nagrody-dla-playera-za-serial-skazana-i-dla-tvn-warner-bros-discovery-6144655?source=rss](https://tvn24.pl/polska/konferencja-i-wystawa-pike-2022-nagrody-dla-playera-za-serial-skazana-i-dla-tvn-warner-bros-discovery-6144655?source=rss)
@@ -327,3 +327,4 @@
 
 <img alt="17 minut, 5 punktów. Obiecujący debiut Sochana" src="https://tvn24.pl/najnowsze/cdn-zdjecie-0fj7s4-jeremy-sochan-w-akcji/alternates/LANDSCAPE_1280" />
     W pierwszym przedsezonowym meczu ligi NBA.
+

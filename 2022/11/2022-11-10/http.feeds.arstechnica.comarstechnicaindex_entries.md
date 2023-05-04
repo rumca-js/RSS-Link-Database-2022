@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone
  - [https://arstechnica.com/?p=1896689](https://arstechnica.com/?p=1896689)
@@ -139,3 +139,4 @@ Hackers can exploit vulnerabilities to install malicious firmware that survives 
  - date published: 2022-11-10 00:16:45+00:00
 
 "May this [ivory] tusk root out the lice of the hair and the beard."
+

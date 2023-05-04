@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Transatlantic 'Route du Rhum' sailing race postponed due to weather concerns
  - [https://www.lemonde.fr/en/international/article/2022/11/06/transatlantic-route-du-rhum-sailing-race-postponed-due-to-weather-concerns_6003098_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/transatlantic-route-du-rhum-sailing-race-postponed-due-to-weather-concerns_6003098_4.html)
@@ -167,3 +167,4 @@ The German chancellor was criticized by both his European partners and members o
  - date published: 2022-11-05 00:18:12+00:00
 
 Nancy Pelosi spoke publicly on-camera on Friday, November 4, for the first time since the attack on her husband, Paul.
+

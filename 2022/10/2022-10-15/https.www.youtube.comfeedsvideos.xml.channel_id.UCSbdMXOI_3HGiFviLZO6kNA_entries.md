@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The Most Advanced VR Headset Has Me Questioning Reality
  - [https://www.youtube.com/watch?v=23RS3RAg16k](https://www.youtube.com/watch?v=23RS3RAg16k)
@@ -16,3 +16,4 @@ My discord:
 Discord.gg/Thrill
 Patreon link:
 https://www.patreon.com/Thrillseeker
+

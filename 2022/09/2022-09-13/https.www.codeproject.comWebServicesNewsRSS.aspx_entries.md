@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET now on Windows Package Manager
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58860](https://www.codeproject.com/script/News/View.aspx?nwid=58860)
@@ -125,3 +125,4 @@ JavaScript frameworks are a useful tool for developers because they help develop
  - date published: 2022-09-13 04:00:00+00:00
 
 Does it auto-convert all the messages to "Can you hear me now?"
+

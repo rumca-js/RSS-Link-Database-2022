@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## The GOP should never have bet on Herschel Walker
  - [https://www.cnn.com/2022/10/06/opinions/herschel-walker-scandal-georgia-senate-gop-duncan/index.html](https://www.cnn.com/2022/10/06/opinions/herschel-walker-scandal-georgia-senate-gop-duncan/index.html)
@@ -412,3 +412,4 @@ President Joe Biden was caught on microphone using profanity while speaking with
  - date published: 2022-10-06 01:46:55+00:00
 
 Ekaterina Kotrikadze, Russia's TV Rain News Director, explains to CNN's Erin Burnett why Russian pundits and pro-Kremlin analysts are beginning to show frustration on air over the Ukrainian war.
+

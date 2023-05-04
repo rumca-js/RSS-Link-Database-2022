@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Ex-Green Beret, Son Return to U.S. After Prison Sentence Over Carlos Ghosn Escape
  - [https://www.wsj.com/articles/ex-green-beret-son-return-to-u-s-after-prison-sentence-over-carlos-ghosn-escape-11667680351](https://www.wsj.com/articles/ex-green-beret-son-return-to-u-s-after-prison-sentence-over-carlos-ghosn-escape-11667680351)
@@ -48,3 +48,4 @@ From arming Ukraine with drones to expanding trade with Russia, the Turkish lead
  - date published: 2022-11-05 06:51:00+00:00
 
 China’s top anticorruption agency is investigating a deputy governor of the People’s Bank of China, in a move that signals tighter scrutiny of the nation’s central bank after the conclusion of a Communist Party conclave last month.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Announcing .NET MAUI support for .NET 7 Release Candidate 2
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59242](https://www.codeproject.com/script/News/View.aspx?nwid=59242)
@@ -125,3 +125,4 @@ From the other side?
  - date published: 2022-10-20 04:00:00+00:00
 
 By their command(.com)
+

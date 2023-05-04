@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Gerard Depardieu zamyka biznes w Rosji. Wcześniej krytykował Putina
  - [https://www.bankier.pl/wiadomosc/Gerard-Depardieu-zamyka-biznes-w-Rosji-Wczesniej-krytykowal-Putina-8438265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Gerard-Depardieu-zamyka-biznes-w-Rosji-Wczesniej-krytykowal-Putina-8438265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -190,3 +190,4 @@ weksli in blanco od najemców. Wyjaśniamy, czy to legalne.  </p>
  - date published: 2022-11-12 01:57:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/d/4d5d5a2b7a39e0-948-568-0-70-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Dowódcy trzech rodzajów sił zbrojnych Brazylii w pierwszym wspólnym oświadczeniu wydanym w piątek po  wyborach prezydenckich, wygranych  przez lidera lewicy, eksprezydenta Luiza Inacio Luli da Silvy przewagą 1,8  proc. głosów  nad urzędującym szefem państwa, prawicowym politykiem Jairem Bolsonaro, potwierdzili swą „całkowitą lojalność wobec demokracji”.</p>
+

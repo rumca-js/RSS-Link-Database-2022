@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Hiszpańscy koszykarze czwarty raz najlepsi w Europie
  - [https://eurosport.tvn24.pl/hiszpa-scy-koszykarze-czwarty-raz-najlepsi-w-europie,1118957.html?source=rss](https://eurosport.tvn24.pl/hiszpa-scy-koszykarze-czwarty-raz-najlepsi-w-europie,1118957.html?source=rss)
@@ -176,3 +176,4 @@
 
 <img alt="NATO chwali Ukraińców i obiecuje dalszą pomoc" src="https://tvn24.pl/lodz/cdn-zdjecie-x74tst-zniszczenia-w-wyzwolonym-miescie-izium-6117801/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

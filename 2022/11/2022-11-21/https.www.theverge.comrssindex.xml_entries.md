@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Apple changed how reading books works in iOS 16, and I may never be happy again
  - [https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
@@ -433,3 +433,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out">Continue reading&hellip;</a>
   </p>
+

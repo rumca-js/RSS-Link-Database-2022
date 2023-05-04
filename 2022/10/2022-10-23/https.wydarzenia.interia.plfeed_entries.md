@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wybory prezydenckie w Słowenii. W drugiej turze "walka wartości"
  - [https://wydarzenia.interia.pl/zagranica/news-wybory-prezydenckie-w-slowenii-w-drugiej-turze-walka-wartosc,nId,6365884](https://wydarzenia.interia.pl/zagranica/news-wybory-prezydenckie-w-slowenii-w-drugiej-turze-walka-wartosc,nId,6365884)
@@ -342,3 +342,4 @@
  - date published: 2022-10-23 04:18:08+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-242-dzien-inwazji-rosji-relacja-na-zywo,nzId,3227,akt,230902"><img align="left" alt="Wojna w Ukrainie . 242. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-242-dzien-inwazji-rosji-relacja-na-zywo/000G8MZHL2F2YQST-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

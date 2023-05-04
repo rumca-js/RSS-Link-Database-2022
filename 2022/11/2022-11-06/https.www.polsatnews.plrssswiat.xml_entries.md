@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. W Kijowie przerwy w dostawie prądu większe, niż zakładano
  - [https://www.polsatnews.pl/wiadomosc/2022-11-06/wojna-w-ukrainie-w-kijowie-przerwy-w-dostawie-pradu-wieksze-niz-zakladano/](https://www.polsatnews.pl/wiadomosc/2022-11-06/wojna-w-ukrainie-w-kijowie-przerwy-w-dostawie-pradu-wieksze-niz-zakladano/)
@@ -69,3 +69,4 @@ Aaron Carter, piosenkarz i brat członka Backstreet Boys, Nicka Cartera, zmarł 
  - date published: 2022-11-06 05:30:00+00:00
 
 Iran po raz pierwszy przyznał w sobotę, że dostarczył Moskwie drony. Zaznaczono jednak, że zostały one wysłane przed wojną w Ukrainę.
+

@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Ivanka Trump on dad's announcement night: I'm done with politics
  - [https://www.politico.com/news/2022/11/15/ivanka-trump-done-with-politics-00067450](https://www.politico.com/news/2022/11/15/ivanka-trump-done-with-politics-00067450)
@@ -34,3 +34,4 @@ Trump has repeatedly taken swipes at DeSantis in both speeches and statements.
  - date published: 2022-11-15 11:27:54+00:00
 
 Sara Craig Gongol has served as Iowa Gov. Kim Reynolds' chief of staff.
+

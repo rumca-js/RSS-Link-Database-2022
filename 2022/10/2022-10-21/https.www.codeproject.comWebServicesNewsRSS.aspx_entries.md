@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Binary Classification Using New PyTorch Best Practices, Part 2: Training, Accuracy, Predictions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59264](https://www.codeproject.com/script/News/View.aspx?nwid=59264)
@@ -118,3 +118,4 @@ In this tutorial, you will discover how to train the Transformer model for neura
  - date published: 2022-10-21 04:00:00+00:00
 
 Error: The operation completed successfully
+

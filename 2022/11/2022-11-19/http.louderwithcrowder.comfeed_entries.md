@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## CBS News announces they are pausing all Twitter activity and it's unclear why they expect us to care
  - [https://www.louderwithcrowder.com/cbs-news-twitter-pause](https://www.louderwithcrowder.com/cbs-news-twitter-pause)
@@ -71,3 +71,4 @@
 <a href="https://youtu.be/BXe8RkaIH8I" target="_blank">youtu.be</a>
 </small>
 </p>
+

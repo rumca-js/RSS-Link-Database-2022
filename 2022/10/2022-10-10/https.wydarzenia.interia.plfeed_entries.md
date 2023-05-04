@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Poniedziałkowy atak rakietowy w Ukrainie największym od początku wojny. Ludzie ginęli na ulicach
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-poniedzialkowy-atak-rakietowy-w-ukrainie-najwiekszym-od-pocz,nId,6339005](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-poniedzialkowy-atak-rakietowy-w-ukrainie-najwiekszym-od-pocz,nId,6339005)
@@ -652,3 +652,4 @@
  - date published: 2022-10-10 03:45:46+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-229-dzien-inwazji-rosji-relacja-na-zywo,nzId,3159,akt,100657"><img align="left" alt="Wojna w Ukrainie. 229. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-229-dzien-inwazji-rosji-relacja-na-zywo/000G6ID4RFU1JORU-C321.jpg" /></a>Najnowsze informacje z frontu.</p><br clear="all" />
+

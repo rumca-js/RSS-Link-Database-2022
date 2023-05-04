@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Protest przed ambasadą Rosji w Warszawie. "Żądamy usunięcia rosyjskich dyplomatów"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29007443,protest-przed-ambasada-rosji-w-warszawie-zadamy-usuniecia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29007443,protest-przed-ambasada-rosji-w-warszawie-zadamy-usuniecia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -55,3 +55,4 @@
  - date published: 2022-10-10 05:30:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/51/9e/1a/z27912785M,Mgla--zdjecie-ilustracyjne-.jpg" vspace="2" />Instytut Meteorologii i Gospodarki Wodnej wydał na poniedziałek ostrzeżenia pierwszego stopnia przed mgłą. Obowiązują one sześć województw wschodniej Polski do godzin porannych.
+

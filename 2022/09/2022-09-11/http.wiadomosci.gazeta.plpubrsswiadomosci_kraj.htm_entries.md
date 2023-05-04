@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Poznań. "Polska" ławka za 100 tys. złotych poległa już po pierwszym dniu deszczu [ZDJĘCIA]
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28898041,poznan-polska-lawka-za-100-tys-zlotych-polegla-juz-po-pierwszym.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28898041,poznan-polska-lawka-za-100-tys-zlotych-polegla-juz-po-pierwszym.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-09-11 08:20:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/4b/0e/1b/z28369739M,Pogoda--Deszcz--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda w weekend mija pod znakiem deszczu. Synoptycy IMGW wydali alerty pierwszego stopnia, w których ostrzegają przed intensywnymi opadami i burzami. Dla których regionów wydano ostrzeżenia?
+

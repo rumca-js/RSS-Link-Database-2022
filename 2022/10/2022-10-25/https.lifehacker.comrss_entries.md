@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don't Use These Recalled Heating Pads, FDA Says
  - [https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187](https://lifehacker.com/dont-use-these-recalled-heating-pads-fda-says-1849700187)
@@ -153,3 +153,4 @@
  - date published: 2022-10-25 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--rdfP3TfZ--/c_fit,fl_progressive,q_80,w_636/33b76f907864261151185c557e92d4cc.jpg" /><p>No one wants to be the friend who always has to miss dinners, concerts, and vacations because of their strict budget. Maybe you’re unexpectedly tight on cash all of a sudden, or maybe your friend group has slowly but surely fallen victim to <a href="https://lifehacker.com/beware-the-costs-of-lifestyle-creep-1849672721?rev=1666632091080">lifestyle creep</a>. Whatever your reasons, saying “no” to well-intentioned…</p><p><a href="https://lifehacker.com/here-s-how-to-stop-succumbing-to-financial-peer-pressur-1849694842">Read more...</a></p>
+

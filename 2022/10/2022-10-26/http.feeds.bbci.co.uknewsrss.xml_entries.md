@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Aastha Arora: Where is India's billionth baby now?
  - [https://www.bbc.co.uk/news/world-asia-india-63327635?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63327635?at_medium=RSS&at_campaign=KARANGA)
@@ -552,3 +552,4 @@ Any cuts in funding in next week's spending announcement will hit poorest people
  - date published: 2022-10-26 00:07:18+00:00
 
 Experts say why they think it appears increasingly difficult for prime ministers to remain in power.
+

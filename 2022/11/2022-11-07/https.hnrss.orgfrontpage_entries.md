@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Industrialization of Biotech vs. the Biologization of Industry
  - [https://centuryofbio.substack.com/p/atoms-are-local](https://centuryofbio.substack.com/p/atoms-are-local)
@@ -898,3 +898,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33499366">https://news.ycombinator.com/item?id=33499366</a></p>
 <p>Points: 27</p>
 <p># Comments: 1</p>
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple's Q4 results show growth in 'interesting times'
  - [https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all](https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all)
@@ -27,3 +27,4 @@
 	<section class="page">
 <p>So, you're ready to leave your <a href="https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html">iPhone</a> for greener pastures — specifically, the bright green hue of Google's Android ecosystem.</p><p>It's a major move, to be sure, but it doesn't have to be daunting. Beneath the surface-level differences, Android and iOS actually have a lot in common — and with the right steps, you can switch from an iPhone to an Android device without losing anything significant (including your sanity).</p><p>Make your way through this easy-to-follow guide, and you'll be happily settled in your new high-tech home in no time.</p><h2 class="toc">All-in-one iOS-to-Android switching tools</h2>
 <p>First things first: Google itself now offers a <a href="https://www.android.com/switch-to-android/" rel="noopener nofollow" target="_blank">universal iOS-to-Android switching service</a> that works with any device running 2020's <a href="https://www.computerworld.com/article/3645142/24-advanced-tips-for-android-12.html">Android 12</a> software or higher. That's hands-down the simplest way to get everything from your old iPhone onto your new Android device in one fell swoop and with the least amount of hassle possible.</p><p class="jumpTag"><a href="/article/3218067/how-to-switch-from-iphone-to-android-ultimate-guide.html#jump">To read this article in full, please click here</a></p></section></article>
+

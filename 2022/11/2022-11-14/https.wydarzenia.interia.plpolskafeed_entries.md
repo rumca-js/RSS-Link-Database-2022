@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Rząd przejmuje aktywa Gazpromu w Polsce
  - [https://wydarzenia.interia.pl/kraj/news-rzad-przejmuje-aktywa-gazpromu-w-polsce,nId,6410303](https://wydarzenia.interia.pl/kraj/news-rzad-przejmuje-aktywa-gazpromu-w-polsce,nId,6410303)
@@ -14,3 +14,4 @@
  - date published: 2022-11-14 12:13:54+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-kryzys-energetyczny/aktualnosci/news-mozesz-dostac-1-5-tys-zl-do-rachunkow-za-prad-przygotuj-wnio,nId,6410032"><img align="left" alt="Możesz dostać 1,5 tys. zł do rachunków za prąd. Przygotuj wniosek. Termin coraz bliżej" src="https://i.iplsc.com/mozesz-dostac-1-5-tys-zl-do-rachunkow-za-prad-przygotuj-wnio/000DBA3K0KVS9Y1A-C321.jpg" /></a>Dodatek do prądu, zwany też dodatkiem elektrycznym, będzie przysługiwał osobom stosującym w domu lub mieszkaniu ogrzewanie elektryczne. Aby otrzymać to świadczenie należy jednak spełnić kilka określonych warunków. Do kiedy można złożyć wniosek o dodatek do prądu i kto może otrzymać dopłatę? Ile wynosi dodatek elektryczny do prądu? Wyjaśniamy.</p><br clear="all" />
+

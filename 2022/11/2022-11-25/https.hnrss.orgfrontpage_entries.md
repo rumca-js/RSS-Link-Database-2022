@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## AI Art Panic
  - [https://opguides.info/posts/aiartpanic/](https://opguides.info/posts/aiartpanic/)
@@ -825,3 +825,4 @@ Despite clearly indicating that it is an impersonation of me, facebook auto supp
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33737577">https://news.ycombinator.com/item?id=33737577</a></p>
 <p>Points: 27</p>
 <p># Comments: 4</p>
+

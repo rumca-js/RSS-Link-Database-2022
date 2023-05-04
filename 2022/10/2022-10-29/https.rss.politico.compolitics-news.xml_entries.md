@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Law enforcement agencies rush to assess new threats to lawmakers
  - [https://www.politico.com/news/2022/10/29/law-enforcement-assess-new-threats-politicians-00064118](https://www.politico.com/news/2022/10/29/law-enforcement-assess-new-threats-politicians-00064118)
@@ -20,3 +20,4 @@ Lawmakers and judges have decried an uptick in threats against them.
  - date published: 2022-10-29 12:59:42+00:00
 
 The assailant who attacked Paul Pelosi is expected to be arraigned in court on Tuesday, though law enforcement has still not disclosed a motive.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Twitter-Musk Update: Child Safety Team Reportedly Gutted     - CNET
  - [https://www.cnet.com/news/social-media/twitter-musk-update-spam-obscured-chinese-covid-19-protest-tweets/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-musk-update-spam-obscured-chinese-covid-19-protest-tweets/#ftag=CADf328eec)
@@ -909,3 +909,4 @@ Cyber Monday is here, which means Amazon's best deals are live.
  - date published: 2022-11-28 00:08:32+00:00
 
 No need to wait for Cyber Monday: Grab deep discounts on items like Apple AirTags, Amazon tablets, shoes and toys right now.
+

@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## Putin: The Cobra Commander of 2022
  - [https://www.youtube.com/watch?v=t5nFPOCNzIw](https://www.youtube.com/watch?v=t5nFPOCNzIw)
@@ -65,3 +65,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/putin-is-the-cobra-commander-of-2022-notes/
 
 #felixrex #blackpigeonspeaks #topgunmaverick2022 #ringsofpower
+

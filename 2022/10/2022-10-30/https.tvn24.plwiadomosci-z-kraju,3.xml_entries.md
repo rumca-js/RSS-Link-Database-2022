@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Brazylia czeka na rozstrzygnięcie wyborów prezydenckich
  - [https://tvn24.pl/swiat/brazylia-wybory-prezydenckie-druga-tura-luiz-inacio-lula-da-silva-zwyciezca-jair-bolsonaro-przegral-6186841?source=rss](https://tvn24.pl/swiat/brazylia-wybory-prezydenckie-druga-tura-luiz-inacio-lula-da-silva-zwyciezca-jair-bolsonaro-przegral-6186841?source=rss)
@@ -39,3 +39,4 @@
 
 <img alt="Mołdawia. Szef służb o " src="https://tvn24.pl/najnowsze/cdn-zdjecie-k3rcs9-kiszyniow-moldawia-6158831/alternates/LANDSCAPE_1280" />
     Alexandru Musteata, szef mołdawskich służb wywiadowczych, ocenił, że władze Rosji "próbowały w ostatnich latach i wciąż podejmują wysiłki w celu oddziaływania na sytuację" w Mołdawii. Jak stwierdził, Kreml stara się doprowadzić do przywrócenia do władzy prorosyjskiej Partii Socjalistów Republiki Mołdawii (PSRM).
+

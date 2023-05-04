@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Pressure Grows for West to Give Ukraine Air-Defense Systems
  - [https://www.nytimes.com/2022/10/11/world/europe/ukraine-g7-air-defense.html](https://www.nytimes.com/2022/10/11/world/europe/ukraine-g7-air-defense.html)
@@ -167,3 +167,4 @@ Russia unleashes mass strikes on Ukrainian civilians.
  - date published: 2022-10-11 02:00:03+00:00
 
 拜登谴责俄罗斯袭击，中印呼吁立即缓和局势；朝鲜称正建造水下核武器发射井；美联储前主席伯南克等三名经济学家获诺贝尔经济学奖……这里是今日要闻。
+

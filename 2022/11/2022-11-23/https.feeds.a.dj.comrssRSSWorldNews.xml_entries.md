@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## EU Fails to Reach Agreement on G-7's Price Cap for Russian Oil
  - [https://www.wsj.com/articles/eu-fails-to-reach-agreement-on-g-7s-price-cap-for-russian-oil-11669241308](https://www.wsj.com/articles/eu-fails-to-reach-agreement-on-g-7s-price-cap-for-russian-oil-11669241308)
@@ -76,3 +76,4 @@ Every week, workers at one of Australia’s major airports spend hours searching
  - date published: 2022-11-23 10:09:00+00:00
 
 Both explosions occurred near bus stops in what the police suspect was an organized terrorist attack; no group has yet taken responsibility.
+

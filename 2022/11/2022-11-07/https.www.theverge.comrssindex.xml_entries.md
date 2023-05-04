@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## T-Mobile may be looking to spend big on fiber home internet
  - [https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search](https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search)
@@ -424,3 +424,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/7/23436994/devialet-mania-design-bluetooth-speaker-features-battery-spotify-airplay">Continue reading&hellip;</a>
   </p>
+

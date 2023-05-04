@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Apple Watch Ultra becomes a diving computer with launch of Oceanic+
  - [https://arstechnica.com/?p=1900415](https://arstechnica.com/?p=1900415)
@@ -97,3 +97,4 @@ Successful ground test in the development of hydrogen power to cut carbon emissi
  - date published: 2022-11-28 12:00:32+00:00
 
 We tested the best multi-port, high-wattage chargers for the plug-deprived.
+

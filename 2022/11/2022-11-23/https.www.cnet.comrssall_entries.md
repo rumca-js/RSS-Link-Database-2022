@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## WHO to Rename Monkeypox 'MPOX,' Report Says     - CNET
  - [https://www.cnet.com/health/medical/who-to-rename-monkeypox-mpox-report-says/#ftag=CADf328eec](https://www.cnet.com/health/medical/who-to-rename-monkeypox-mpox-report-says/#ftag=CADf328eec)
@@ -846,3 +846,4 @@ Daring rebel recruiter Luthen Rael reminds us why spinning is a good trick in th
  - date published: 2022-11-23 00:30:02+00:00
 
 This color-saturated movie is a fun quest well worth embarking on.
+

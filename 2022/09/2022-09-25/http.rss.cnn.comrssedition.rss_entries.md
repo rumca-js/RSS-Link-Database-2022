@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Why 'SNL' will look different this season
  - [https://www.cnn.com/videos/media/2022/09/25/snl-departures-new-season-melas-pkg-nr-vpx.cnn](https://www.cnn.com/videos/media/2022/09/25/snl-departures-new-season-melas-pkg-nr-vpx.cnn)
@@ -238,3 +238,4 @@ The cake with figurines of two brides on top melted in the Caribbean heat and th
  - date published: 2022-09-25 04:06:16+00:00
 
 Tension was in the air as a long trail of cars lined up near the Petkuhovo checkpoint on the border between Russia and Kazakhstan late Friday night.
+

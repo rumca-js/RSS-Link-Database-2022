@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Male punk sucker punches female teacher who attempted to break up a fight in her classroom
  - [https://www.louderwithcrowder.com/teacher-punched-male-student](https://www.louderwithcrowder.com/teacher-punched-male-student)
@@ -41,3 +41,4 @@
  - date published: 2022-09-23 12:54:13+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31811640&amp;width=1245&amp;height=700&amp;coordinates=0%2C30%2C0%2C88" /><br /><br /><p>Ye -- I guess we're not calling him Kanye at all anymore -- gave an interview where he detailed his battle to be allowed to co-parent his children after a nasty and public break-up with Kim Kardashian.</p><p>It was a messy time that led to Chelsea Clinton <a href="https://www.louderwithcrowder.com/chelsea-clinton-kanye" target="_blank">de
+

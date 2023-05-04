@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Tell If a Detergent is Actually 'Mild' Before You Buy It
  - [https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046](https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046)
@@ -20,3 +20,4 @@
  - date published: 2022-10-08 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--IN1nhjmf--/c_fit,fl_progressive,q_80,w_636/3f839bd1efcd742b662eb83b10982713.jpg" /><p>When it comes to household chores, few products are as handy and versatile as baking soda. From cooking to cleaning to deodorizing, it does so much for something that costs so little.</p><p><a href="https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056">Read more...</a></p>
+

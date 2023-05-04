@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Qualcomm doubles down on augmented reality, spatial audio updates, more
  - [https://www.androidauthority.com/qualcomm-snapdragon-day-2-2022-3235537/](https://www.androidauthority.com/qualcomm-snapdragon-day-2-2022-3235537/)
@@ -104,3 +104,4 @@ How much is your gift card worth?
  - date published: 2022-11-16 02:34:13+00:00
 
 Some videos are worth watching again and again.
+

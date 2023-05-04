@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Przemówienie polityka PiS wywołało emocje. "Wstyd" kontra "doskonale"
  - [https://wydarzenia.interia.pl/zagranica/news-przemowienie-polityka-pis-wywolalo-emocje-wstyd-kontra-dosko,nId,6429000](https://wydarzenia.interia.pl/zagranica/news-przemowienie-polityka-pis-wywolalo-emocje-wstyd-kontra-dosko,nId,6429000)
@@ -13,3 +13,4 @@
  - date published: 2022-11-23 06:13:40+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-te-grupy-zaplaca-mniej-za-prad-jestes-w-jednej-z-nich,nId,6426982"><img align="left" alt="Te grupy zapłacą mniej za prąd. Jesteś w jednej z nich?" src="https://i.iplsc.com/te-grupy-zaplaca-mniej-za-prad-jestes-w-jednej-z-nich/000GDQMYTH1M3KK5-C321.jpg" /></a>Wysoka inflacja oraz kryzys energetyczny to poważne problemy, które negatywnie wpływają na budżet domowy Polaków. Jednym ze sposobów na poprawę ich sytuacji ma być zamrożenie cen prądu. Gospodarstwa domowe, których zużycie energii w 2023 r. nie przekroczy 2000 kWh, będą miały zagwarantowaną aktualną jednostkową cenę prąd. Dodatkowo część osób może skorzystać z wyższych limitów. Kto należy do tej grupy i jakie warunki musi spełnić? Czy wymagane jest złożenie wniosku?</p><br clear="all" />
+

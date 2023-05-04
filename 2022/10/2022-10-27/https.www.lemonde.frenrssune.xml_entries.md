@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## US orders diplomatic staff and families to leave Nigerian capital
  - [https://www.lemonde.fr/en/international/article/2022/10/28/us-orders-diplomatic-staff-and-families-to-leave-nigerian-capital_6002042_4.html](https://www.lemonde.fr/en/international/article/2022/10/28/us-orders-diplomatic-staff-and-families-to-leave-nigerian-capital_6002042_4.html)
@@ -244,3 +244,4 @@ The 12-0 vote represents the strongest step the council can take to publicly rep
  - date published: 2022-10-27 00:03:43+00:00
 
 A takeover by Gautam Adani, considered close to Prime Minister Narendra Modi, would have deep repercussions on India's TV landscape.
+

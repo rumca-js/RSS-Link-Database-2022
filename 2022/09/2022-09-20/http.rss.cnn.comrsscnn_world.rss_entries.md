@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Queen's funeral draws 26 million UK viewers
  - [https://www.cnn.com/2022/09/20/media/queens-funeral-tv-viewing-figures/index.html](https://www.cnn.com/2022/09/20/media/queens-funeral-tv-viewing-figures/index.html)
@@ -69,3 +69,4 @@ The Chinese government on Monday, September 19, issued draft regulations that ai
  - date published: 2022-09-20 04:23:49+00:00
 
 Kyrgyz President Sadyr Japarov urged his country on Monday to have trust in its army and strategic partners, and said there was no need for volunteer forces at the border with Tajikistan after deadly clashes there last week.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Minister finansów Holandii: Wprowadzenie cyfrowego euro nie wyeliminuje z obiegu gotówki
  - [https://www.bankier.pl/wiadomosc/Minister-finansow-Holandii-Wprowadzenie-cyfrowego-euro-nie-wyeliminuje-z-obiegu-gotowki-8445009.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Minister-finansow-Holandii-Wprowadzenie-cyfrowego-euro-nie-wyeliminuje-z-obiegu-gotowki-8445009.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -448,3 +448,4 @@ ewentualnego połączenia z Orlenem. </p>
 zamierzała nadpłacić swoje zobowiązania z zaoszczędzonych środków. Najnowsze
 dane udostępnione Bankier.pl przez BIK wskazują, że klienci na razie nie
 realizują masowo wcześniejszych zapowiedzi.</p>
+

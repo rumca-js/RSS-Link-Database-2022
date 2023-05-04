@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Watch PCWorld try to fix a remote PC with TeamViewer
  - [https://www.pcworld.com/article/1067094/watch-pcworld-try-to-fix-a-remote-pc-with-teamviewer-2.html](https://www.pcworld.com/article/1067094/watch-pcworld-try-to-fix-a-remote-pc-with-teamviewer-2.html)
@@ -124,3 +124,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Not so long ago, using anything wireless with a PC gaming setup was a small heresy. Gamers terrified of their inputs, um, inputting even thousandths-of-a-second slower put their trust in good old-fashioned copper wiring. But these days wireless keyboards abound, as do designs made specifically for PC gaming. And unless you&rsquo;re some kind of computer yourself, you won&rsquo;
+

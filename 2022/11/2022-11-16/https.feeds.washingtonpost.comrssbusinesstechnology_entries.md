@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## ‘Warzone 2.0’ impressions: Good riddance, Caldera. Hello, Al Mazrah.
  - [https://www.washingtonpost.com/video-games/reviews/warzone-2-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/warzone-2-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -76,3 +76,4 @@ The SLS cost billions to develop and most of it was ditched at sea. But it succe
  - date published: 2022-11-16 03:37:07+00:00
 
 “If you are sure that you want to be part of the new Twitter, please click yes on the link below,” read Elon Musk's email to all staff.
+

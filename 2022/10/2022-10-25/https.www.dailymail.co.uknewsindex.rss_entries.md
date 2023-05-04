@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Elizabeth Gaskell's novel Mary Barton on 19th century poor gets trigger warning from Warwick Uni
  - [https://www.dailymail.co.uk/news/article-11354909/Elizabeth-Gaskells-novel-Mary-Barton-19th-century-poor-gets-trigger-warning-Warwick-Uni.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11354909/Elizabeth-Gaskells-novel-Mary-Barton-19th-century-poor-gets-trigger-warning-Warwick-Uni.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2045,3 +2045,4 @@ Rail travel is now the most popular way to travel between London and Edinburgh, 
  - date published: 2022-10-25 00:04:16+00:00
 
 Mr Hazzard announced on Monday night he was retiring from politics after 32 years. He became emotional when discussing the recent death of his younger brother.
+

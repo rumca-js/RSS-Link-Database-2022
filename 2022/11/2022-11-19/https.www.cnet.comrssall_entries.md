@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## This Simple NASA Artemis I Photo of Earth is Stark, Beautiful and Evocative     - CNET
  - [https://www.cnet.com/science/space/this-simple-nasa-artemis-i-photo-of-earth-is-stark-beautiful-and-evocative/#ftag=CADf328eec](https://www.cnet.com/science/space/this-simple-nasa-artemis-i-photo-of-earth-is-stark-beautiful-and-evocative/#ftag=CADf328eec)
@@ -426,3 +426,4 @@ The Theranos founder was convicted on multiple counts of fraud in the high-profi
  - date published: 2022-11-19 00:30:02+00:00
 
 The new Black Panther battles their nemesis in the climax of this emotional Marvel sequel, which sets up intriguing new possibilities. Spoilers ahead!
+

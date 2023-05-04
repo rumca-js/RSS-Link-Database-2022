@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Microsoft’s DirectStorage may improve loading times by 200%, but don’t get too excited
  - [https://www.digitaltrends.com/computing/microsoft-directstorage-introduces-gpu-decompression/](https://www.digitaltrends.com/computing/microsoft-directstorage-introduces-gpu-decompression/)
@@ -13,3 +13,4 @@ Microsoft has introduced GPU decompression to DirectStorage 1.1, resulting in up
  - date published: 2022-10-15 01:07:59.139799+00:00
 
 It seems that Nvidia may have changed its mind about allowing cryptomining on RTX 30-series graphics cards.
+

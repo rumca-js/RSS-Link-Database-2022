@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Echuca residents divided by man-made flood levee as Murray River continues to rise
  - [https://www.dailymail.co.uk/news/article-11329449/Echuca-residents-divided-man-flood-levee-Murray-River-continues-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11329449/Echuca-residents-divided-man-flood-levee-Murray-River-continues-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1903,3 +1903,4 @@ Australians looking to book a holiday over Christmas could pay almost double for
  - date published: 2022-10-18 00:01:40+00:00
 
 A New York man was arrested after setting fire to a restaurant that had reportedly gotten his order wrong. Choephel Norbu, 49, was arrested Friday after drunkenly setting the restaurant ablaze.
+

@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: Zwolniono najstarszego więźnia Guantanamo. Bez zarzutów spędził za kratami 18 lat
  - [https://www.polsatnews.pl/wiadomosc/2022-10-29/usa-zwolniono-najstarszego-wieznia-guantanamo-bez-zarzutow-spedzil-za-kratami-18-lat/](https://www.polsatnews.pl/wiadomosc/2022-10-29/usa-zwolniono-najstarszego-wieznia-guantanamo-bez-zarzutow-spedzil-za-kratami-18-lat/)
@@ -76,3 +76,4 @@ Airbus A320 wleciał w silną burzę, podczas której doszło do zniszczeń masz
  - date published: 2022-10-29 04:36:00+00:00
 
 Na degeneratów z polskiego MSZ, którzy domagają się od Rosji odszkodowania za straty wojenne, można zareagować dwojako - napisał na Telegramie były prezydent i premier Rosji Dmitrij Miedwiediew i przedstawił swoje dwa pomysły.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Smartphone ray tracing is here, but is it the real deal?
  - [https://www.androidauthority.com/smartphone-ray-tracing-fact-check-3236029/](https://www.androidauthority.com/smartphone-ray-tracing-fact-check-3236029/)
@@ -55,3 +55,4 @@ Apple's got nothing on APKs.
  - date published: 2022-11-19 04:43:15+00:00
 
 Hone in on key portions of your favorite runs and rides.
+

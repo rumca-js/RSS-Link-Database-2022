@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Will Elon Musk Be Able to Keep Twitter’s Advertisers Happy?
  - [https://www.nytimes.com/2022/10/28/technology/musk-twitter-advertisers-general-motors.html](https://www.nytimes.com/2022/10/28/technology/musk-twitter-advertisers-general-motors.html)
@@ -97,3 +97,4 @@ Some of Twitter’s top executives were fired on Thursday as Mr. Musk completes 
  - date published: 2022-10-28 00:42:31+00:00
 
 Some of Twitter’s top executives were fired on Thursday as Mr. Musk completes his takeover of the social media company.
+

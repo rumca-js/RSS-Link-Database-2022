@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Some Google Chrome ad blockers could stop working next year
  - [https://www.techradar.com/news/some-google-chrome-ad-blockers-could-stop-working-next-year/](https://www.techradar.com/news/some-google-chrome-ad-blockers-could-stop-working-next-year/)
@@ -181,3 +181,4 @@ The official trailer for Black Adam, the next DC Extended Universe movie, has be
  - date published: 2022-09-09 04:00:57+00:00
 
 Wolfenstein: Enemy Territory has been brought back online as it gains dedicated servers once again.
+

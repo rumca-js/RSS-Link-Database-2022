@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## PlayStation Store Black Friday Sale Is Live - Check Out The Best Deals
  - [https://www.gamespot.com/gallery/playstation-store-black-friday-sale-is-live-check-out-the-best-deals/2900-4473/](https://www.gamespot.com/gallery/playstation-store-black-friday-sale-is-live-check-out-the-best-deals/2900-4473/)
@@ -426,3 +426,4 @@
  - date published: 2022-11-18 13:02:00+00:00
 
 <p dir="ltr">The gaming conglomerate Embracer Group recently released its interim <a href="https://embracer.com/releases/embracer-group-publishes-interim-report-q2-july-september-2022-net-sales-increased-by-190-to-sek-9569-million-35-organic-growth/">Q2 report</a>, and it revealed a "transformative" six-year deal with multiple partners. However, it's not clear who these partners are, and what this deal will actually involve.</p><p dir="ltr">According to the report, the Embracer Group expects "the whole or parts" of this six-year transaction to close during the financial year. The partnership apparently covers a range of "large-budget upcoming games," and Embracer expects it to "improve predictability, lower business risk, and provide a positive impact on our cash flow and profits."</p><p dir="ltr">This apparent blockbuster deal is a ray of good news in a report that featured a few negative revelations. For example, Saints Row developer <a href="https://www.gamespot.com/articles/saints-row-dev-merging-with-gearbox-after-new-games-lukewarm-reviews/1100-6509233/">Volition will merge with Gearbox</a>, after the game failed to recapture the critical acclaim of previous games in the series. (However, Embracer insists that the game sold in line with expectations.)</p><a href="https://www.gamespot.com/articles/embracer-group-reveals-mysterious-and-transformative-six-year-deal/1100-6509250/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

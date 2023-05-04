@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Tysiące osób ewakuowanych na Florydzie z domów opieki i szpitali z powodu huraganu
  - [https://www.bankier.pl/wiadomosc/Tysiace-osob-ewakuowanych-na-Florydzie-z-domow-opieki-i-szpitali-z-powodu-huraganu-8414478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tysiace-osob-ewakuowanych-na-Florydzie-z-domow-opieki-i-szpitali-z-powodu-huraganu-8414478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -456,3 +456,4 @@ amerykańskiego nadal przekracza 5 zł.</p>
  - date published: 2022-09-29 02:41:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/4/84bad6a1d0a5ec-948-568-15-145-1983-1190.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Rząd Finlandii poinformował w środę, że postanowił znacznie ograniczyć prawo uciekających przed mobilizacją Rosjan do wjazdu na teren Finlandii - podała ukraińska prasa.</p>
+

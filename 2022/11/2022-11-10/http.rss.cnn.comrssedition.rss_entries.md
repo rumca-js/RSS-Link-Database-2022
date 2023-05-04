@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## GOP blame game spreads after midterm shortfalls
  - [https://www.cnn.com/2022/11/10/politics/republican-reaction-midterm-results/index.html](https://www.cnn.com/2022/11/10/politics/republican-reaction-midterm-results/index.html)
@@ -487,5 +487,6 @@ While the outcome of some races remained too close to call, news hosts, reporter
  - [https://cnn.it/3WQn9qo](https://cnn.it/3WQn9qo)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-10 00:37:23.722166+00:00
+
 
 

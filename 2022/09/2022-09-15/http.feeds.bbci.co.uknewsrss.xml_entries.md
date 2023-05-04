@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'William's agony' and 'Mother's heartbreak' over Olivia
  - [https://www.bbc.co.uk/news/blogs-the-papers-62922422?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-62922422?at_medium=RSS&at_campaign=KARANGA)
@@ -468,3 +468,4 @@ The bear has popped up frequently during the tributes to the Queen, following th
  - date published: 2022-09-15 00:24:00+00:00
 
 In drought-stricken California, trouble brews for famous water hogs like Kevin Hart and the Kardashians.
+

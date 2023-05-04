@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Wall Street w górę. S&P500 skończył najlepszy tydzień od czerwca
  - [https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-S-P500-skonczyl-najlepszy-tydzien-od-czerwca-8438075.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-S-P500-skonczyl-najlepszy-tydzien-od-czerwca-8438075.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -210,3 +210,4 @@ Warszawie odbędzie się pierwsza rozprawa – napisał "Super Express".</p>
  - date published: 2022-11-11 00:31:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/2/76cb1b569ece06-948-568-0-13-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Największy komercyjny bank na Węgrzech OTP może wkrótce ogłosić zakup dużego uzbeckiego banku –  poinformował w czwartek na Facebooku Viktor Orban, przebywający na spotkaniu  Organizacji Państw Tureckich w Samarkandzie w południowo-wschodnim Uzbekistanie.</p>
+

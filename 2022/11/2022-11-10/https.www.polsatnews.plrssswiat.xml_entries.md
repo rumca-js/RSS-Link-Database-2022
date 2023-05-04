@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Walka o życie dziewczynki z Ukrainy. Fundacja Polsat uruchomiła zbiórkę na operację w Polsce
  - [https://www.polsatnews.pl/wiadomosc/2022-11-10/walka-o-zycie-siedmioletniej-darii-z-ukrainy-potrzebna-skomplikowana-operacja-w-polsce/](https://www.polsatnews.pl/wiadomosc/2022-11-10/walka-o-zycie-siedmioletniej-darii-z-ukrainy-potrzebna-skomplikowana-operacja-w-polsce/)
@@ -118,3 +118,4 @@ Ogłoszony przez Rosję odwrót z Chersonia oraz potencjalny impas w walkach w z
  - date published: 2022-11-10 05:21:00+00:00
 
 Prezydent Rosji nie weźmie udziału w przyszłotygodniowym szczycie grupy G20 na wyspie Bali. Władze Indonezji poinformowały, że Władimir Putin weźmie udział w jednym spotkaniu za pośrednictwem łącza wideo, a Rosję będzie reprezentował szef rosyjskiego MSZ Siergiej Ławrow.
+

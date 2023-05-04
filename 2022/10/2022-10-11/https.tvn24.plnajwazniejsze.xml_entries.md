@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Polki zasłużyły na największe brawa, a Stysiak na medal
  - [https://eurosport.tvn24.pl/c---to-by--za-turniej--polki-zas-u-y-y-na-najwi-ksze-brawa--a-stysiak-na-medal,1121242.html?source=rss](https://eurosport.tvn24.pl/c---to-by--za-turniej--polki-zas-u-y-y-na-najwi-ksze-brawa--a-stysiak-na-medal,1121242.html?source=rss)
@@ -215,3 +215,4 @@
 
 <img alt="Najtrudniejsze z możliwych rywalek na drodze Polek " src="https://tvn24.pl/najnowsze/cdn-zdjecie-12j8w8-siatka/alternates/LANDSCAPE_1280" />
     Polska - Serbia w ćwierćfinale mistrzostw świata w siatkówce kobiet.
+

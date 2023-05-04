@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## What Is Bayesian/Frequentist Inference? (2012)
  - [https://normaldeviate.wordpress.com/2012/11/17/what-is-bayesianfrequentist-inference/](https://normaldeviate.wordpress.com/2012/11/17/what-is-bayesianfrequentist-inference/)
@@ -662,3 +662,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33116230">https://news.ycombinator.com/item?id=33116230</a></p>
 <p>Points: 29</p>
 <p># Comments: 38</p>
+

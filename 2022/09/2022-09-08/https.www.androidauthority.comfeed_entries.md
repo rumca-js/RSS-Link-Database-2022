@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## 11 shows like The Rings of Power to scratch that Lord of the Rings itch
  - [https://www.androidauthority.com/shows-like-the-rings-of-power-lord-of-the-rings-prequel-amazon-prime-video-3206586/](https://www.androidauthority.com/shows-like-the-rings-of-power-lord-of-the-rings-prequel-amazon-prime-video-3206586/)
@@ -132,3 +132,4 @@ You probably use it every day, but Bluetooth has some interesting tech and histo
  - date published: 2022-09-08 04:55:00+00:00
 
 The Apple CEO said iPhone users aren't asking for RCS support.
+

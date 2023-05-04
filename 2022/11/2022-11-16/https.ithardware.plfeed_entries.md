@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Apple TV+ i Apple Music dostępne za darmo dla użytkowników Game Pass
  - [https://ithardware.pl/aktualnosci/apple_tv_i_apple_music_dostepne_za_darmo_dla_uzytkownikow_xbox_game_pass-24389.html](https://ithardware.pl/aktualnosci/apple_tv_i_apple_music_dostepne_za_darmo_dla_uzytkownikow_xbox_game_pass-24389.html)
@@ -163,3 +163,4 @@ Tajwańskie konto NVIDIA nie...
 
 <img src="https://ithardware.pl/artykuly/min/24371_1.jpg" />            Qualcomm zaprezentował sw&oacute;j nowy flagowy chipset dla smartfon&oacute;w Snapdragon 8 Gen 2. Producent chwali się, że wydajność nowego SoC została poprawiona praktycznie w każdym aspekcie w por&oacute;wnaniu z Gen 1, co będziemy mogli...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/qualcomm_zapowiada_snapdragon_8_gen_2_ten_procesor_bedzie_napedzal_nadchodzace_flagowce-24371.html">https://ithardware.pl/aktualnosci/qualcomm_zapowiada_snapdragon_8_gen_2_ten_procesor_bedzie_napedzal_nadchodzace_flagowce-24371.html</a></p>
+

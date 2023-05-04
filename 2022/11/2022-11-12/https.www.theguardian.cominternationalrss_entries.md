@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## ‘Come together as one’: Black Ferns’ World Cup triumph unites nation
  - [https://www.theguardian.com/sport/2022/nov/13/come-together-as-one-black-ferns-world-cup-triumph-unites-nation](https://www.theguardian.com/sport/2022/nov/13/come-together-as-one-black-ferns-world-cup-triumph-unites-nation)
@@ -881,3 +881,4 @@
  - date published: 2022-11-12 00:01:25+00:00
 
 <p>Japan have transitioned smoothly to a more youthful side since 2018 but doubts remain over who will score the goals</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/12/world-cup-2022-team-guide-japan">Continue reading...</a>
+

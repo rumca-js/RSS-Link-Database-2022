@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## W jego dom uderzył meteoryt. Budynek doszczętnie spłonął
  - [https://www.polsatnews.pl/wiadomosc/2022-11-07/metoeryt/](https://www.polsatnews.pl/wiadomosc/2022-11-07/metoeryt/)
@@ -111,3 +111,4 @@ Wycofujący się z Chersonia Rosjanie zabierają ze sobą wszystko co ma jakąko
  - date published: 2022-11-07 08:20:00+00:00
 
 W szpitalu w Australii uratowano dziewczynkę, która urodziła się z guzem dwukrotnie większym od niej samej. Zabieg usunięcia narośli odbył się zaraz po porodzie i trwał sześć godzin. Rodzicom dziecka przekazano, że ich córka ma nie więcej niż 40 procent szansy na przeżycie.
+

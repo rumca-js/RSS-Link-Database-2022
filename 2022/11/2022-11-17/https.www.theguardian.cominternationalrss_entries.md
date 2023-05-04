@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Russia-Ukraine war at a glance: what we know on day 268 of the invasion
  - [https://www.theguardian.com/world/2022/nov/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-268-of-the-invasion](https://www.theguardian.com/world/2022/nov/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-268-of-the-invasion)
@@ -1147,3 +1147,4 @@ Ballerina who played a Juliet of ‘genuine power’ opposite Nureyev’s Romeo 
  - date published: 2022-11-17 00:01:34+00:00
 
 <p>Qualifying at Nigeria’s expense generated optimism but Black Stars have struggled since under a manager who likes to tinker</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/17/world-cup-2022-team-guide-ghana">Continue reading...</a>
+

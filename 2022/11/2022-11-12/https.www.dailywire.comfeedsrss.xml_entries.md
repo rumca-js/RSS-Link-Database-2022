@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: Republicans Fail To Take Back The Senate From Democrats: Projection
  - [https://www.dailywire.com/news/breaking-republicans-fail-to-take-back-the-senate-from-democrats-projection](https://www.dailywire.com/news/breaking-republicans-fail-to-take-back-the-senate-from-democrats-projection)
@@ -76,3 +76,4 @@ Republican and Republican-leaning Independents have shifted their views of who t
  - date published: 2022-11-12 15:39:23+00:00
 
 Sam Bankman-Fried, the now-bankrupt founder of the cryptocurrency exchange FTX, gave a staggering sum of money to Democrats and far-left causes this midterm election cycle before his multi-billion dollar empire imploded this week. FTX, which is headquartered in the Bahamas, was launched in 2019 and had accrued more than one million users by 2022. Users ...
+

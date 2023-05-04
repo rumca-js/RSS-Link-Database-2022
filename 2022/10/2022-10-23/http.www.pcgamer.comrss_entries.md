@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Lego built a spooky gaming PC inside a handmade haunted house
  - [https://www.pcgamer.com/lego-built-a-spooky-gaming-pc-inside-a-handmade-haunted-house](https://www.pcgamer.com/lego-built-a-spooky-gaming-pc-inside-a-handmade-haunted-house)
@@ -62,3 +62,4 @@ Warhammer 40,000: Shootas, Blood & Teef is out now.
  - date published: 2022-10-23 00:24:20+00:00
 
 And it'll have crossplay.
+

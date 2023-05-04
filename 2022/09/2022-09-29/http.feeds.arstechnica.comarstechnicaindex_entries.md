@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## FDA’s rotten definition of “healthy” food is finally getting tossed
  - [https://arstechnica.com/?p=1885776](https://arstechnica.com/?p=1885776)
@@ -125,3 +125,4 @@ Hurricanes, other disasters can knock out your power—solar can help, study sho
  - date published: 2022-09-29 11:00:35+00:00
 
 Enthusiasts are intent on improving old games, whether Nintendo likes it or not.
+

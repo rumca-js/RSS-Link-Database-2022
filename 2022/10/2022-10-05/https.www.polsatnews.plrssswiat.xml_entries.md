@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Ilja Ponomariow, były deputowany do Dumy Państwowej: Ta wojna skończy się śmiercią Putina
  - [https://www.polsatnews.pl/wiadomosc/2022-10-05/ilja-ponomariow-byly-deputowany-do-dumy-panstwowej-ta-wojna-skonczy-sie-smiercia-putina/](https://www.polsatnews.pl/wiadomosc/2022-10-05/ilja-ponomariow-byly-deputowany-do-dumy-panstwowej-ta-wojna-skonczy-sie-smiercia-putina/)
@@ -167,3 +167,4 @@ Miasto Biała Cerkiew w obwodzie kijowskim zostało zaatakowane w nocy z wtorku 
  - date published: 2022-10-05 05:02:00+00:00
 
 Korea Południowa i Stany Zjednoczone wystrzeliły cztery rakiety ziemia-ziemia w kierunku morskich celów - podaje Reuters, powołując się na informacje południowokoreańskiej agencji Yonhap. To odpowiedź na wtorkową próbę balistyczną przeprowadzoną przez Koreę Północną.
+

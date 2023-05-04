@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## ‘We need help’: Eric Adams declares state of emergency amid migrant arrivals
  - [https://www.politico.com/video/2022/10/07/we-need-help-eric-adams-declares-state-of-emergency-amid-migrant-arrivals-731491](https://www.politico.com/video/2022/10/07/we-need-help-eric-adams-declares-state-of-emergency-amid-migrant-arrivals-731491)
@@ -27,3 +27,4 @@ Think you have a rocky relationship with your former boss? Sarah Matthews resign
  - date published: 2022-10-07 03:30:00+00:00
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.
+

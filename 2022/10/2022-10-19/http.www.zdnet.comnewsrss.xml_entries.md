@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 6 best VPN deals right now: October 2022
  - [https://www.zdnet.com/article/best-vpn-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-vpn-deals/#ftag=RSSbaffb68)
@@ -237,3 +237,4 @@ John L. Scott Real Estate is using Amazon Web Services technology to tackle the 
  - date published: 2022-10-19 07:57:03+00:00
 
 A range of Apple iPad Pros, with different specifications, are currently on sale.
+

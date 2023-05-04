@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Bolt reaguje na gwałty w taksówkach. Firma inwestuje w poprawę bezpieczeństwa
  - [https://www.chip.pl/2022/11/bolt-nowe-wymagania-kierowcow-badania-oznaczenia-aut](https://www.chip.pl/2022/11/bolt-nowe-wymagania-kierowcow-badania-oznaczenia-aut)
@@ -151,3 +151,4 @@
 
 <img alt="Rapid Dragon" class="attachment-full size-full wp-post-image" height="576" src="https://konto.chip.pl/wp-content/uploads/2021/11/Prowizoryczne-bombowce-z-samolotow-transportowych.-Znamy-wazna-date-dla-programu-Rapid-Dragon-1.jpg" style="margin-bottom: 10px;" width="1024" /><p><img src="https://konto.chip.pl/wp-content/uploads/2021/11/Prowizoryczne-bombowce-z-samolotow-transportowych.-Znamy-wazna-date-dla-programu-Rapid-Dragon-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Rozwijany od dłuższego czasu projekt szybkiego i taniego uzbrajania samolotów transportowych Amerykańskich Sił Powietrznych został po raz pierwszy przetestowany poza granicami Stanów Zjednoczonych. Tym razem jednak test Rapid Dragon przeprowadzony nad norweskimi wodami przybrzeżnymi był o tyle wyjątkowy, że lotnictwo USA pokazało potężne pociski wystrzeliwane z palet na specjalnym nagraniu. Rapid Dragon to wyjątkowy system [&#8230;]</p>
+

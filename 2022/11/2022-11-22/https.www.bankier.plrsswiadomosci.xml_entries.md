@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Zaznania podatkowe Donalda Trumpa i jego spółek trafią do Kongresu
  - [https://www.bankier.pl/wiadomosc/Zaznania-podatkowe-Donalda-Trumpa-i-jego-spolek-trafia-do-Kongresu-8444288.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zaznania-podatkowe-Donalda-Trumpa-i-jego-spolek-trafia-do-Kongresu-8444288.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -438,3 +438,4 @@ której efekt w latach
  - date published: 2022-11-22 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/0/a6853bceb38dd0-948-568-0-129-2475-1484.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Lokując środki na 12 miesięcy, można uzyskać oprocentowanie w wysokości do 8 proc. w skali roku. Wybór najlepszej lokaty wiąże się jednak z koniecznością spełnienia dodatkowych warunków. Najwyższa stawka na depozycie bez tzw. haczyków na ten termin 7,50 proc. w skali roku.</p>
+

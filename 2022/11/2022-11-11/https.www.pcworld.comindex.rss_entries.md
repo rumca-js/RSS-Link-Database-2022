@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The Steam Deck’s button mapper is the best feature you’re not using
  - [https://www.pcworld.com/article/1364387/the-steam-decks-button-mapper-is-the-best-feature-youre-not-using.html](https://www.pcworld.com/article/1364387/the-steam-decks-button-mapper-is-the-best-feature-youre-not-using.html)
@@ -490,3 +490,4 @@ Computer Storage Devices</div>
 
 <p><em>Prices subject to change.</em></p>
 Computers</div>
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Upgrading to iPhone 14 Won't Be as Simple as Swapping in Your SIM Card     - CNET
  - [https://www.cnet.com/tech/mobile/upgrading-to-iphone-14-wont-be-as-simple-as-swapping-in-your-sim-card/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/upgrading-to-iphone-14-wont-be-as-simple-as-swapping-in-your-sim-card/#ftag=CADf328eec)
@@ -1406,3 +1406,4 @@ Cuban's affordable drugs company has attracted customers by circumventing pharma
  - date published: 2022-09-07 00:07:00+00:00
 
 Episode 3 was a barn burner. When can we watch the next episode?
+

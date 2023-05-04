@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Troops in Belarus Spur Debate Over the Threat to Ukraine
  - [https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html](https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html)
@@ -153,3 +153,4 @@ Liz Truss resigns.
  - date published: 2022-10-21 04:01:14+00:00
 
 The downfall of Britain’s prime minister served as a warning to all of the political peril that awaits those who fail to address the erosion of living standards, no matter the cause.
+

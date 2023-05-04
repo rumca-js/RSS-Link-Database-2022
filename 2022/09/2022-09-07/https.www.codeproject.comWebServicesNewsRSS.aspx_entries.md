@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## An AI alternative to code search tools
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58797](https://www.codeproject.com/script/News/View.aspx?nwid=58797)
@@ -62,3 +62,4 @@ You ain't gonna make me do it!
  - date published: 2022-09-07 04:00:00+00:00
 
 "Just remember that it's a grand illusion"
+

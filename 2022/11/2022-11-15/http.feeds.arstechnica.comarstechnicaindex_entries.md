@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The Snapdragon 8 Gen 2 brings Wi-Fi 7, sticks with some 32-bit support
  - [https://arstechnica.com/?p=1897640](https://arstechnica.com/?p=1897640)
@@ -118,3 +118,4 @@ Regulators around the world have "substantial interest" after crypto group’s d
  - date published: 2022-11-15 12:00:32+00:00
 
 There's a reason it isn't a Surface PC, but it's good for its intended purpose.
+

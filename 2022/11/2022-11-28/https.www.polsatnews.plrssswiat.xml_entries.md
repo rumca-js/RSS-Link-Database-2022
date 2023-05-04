@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: Policja znalazła zwłoki zaginionego 12-latka. "Grał w rosyjską ruletkę"
  - [https://www.polsatnews.pl/wiadomosc/2022-11-28/usa-policja-znalazla-zwloki-zaginionego-12-latka-gral-w-rosyjska-ruletke/](https://www.polsatnews.pl/wiadomosc/2022-11-28/usa-policja-znalazla-zwloki-zaginionego-12-latka-gral-w-rosyjska-ruletke/)
@@ -132,3 +132,4 @@ Stacja BBC poinformowała, że chińska policja zatrzymała i pobiła jednego z 
  - date published: 2022-11-28 05:44:00+00:00
 
 Jednosilnikowy samolot Mooney M20J zaplątał się w linie wysokiego napięcia. Do zdarzenia doszło w amerykanskim stanie Maryland. Pilot i pasażer przez kilka godzin byli uwięzieni w maszynie wiszącej 30 metrów nad ziemią.
+

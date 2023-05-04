@@ -1,4 +1,4 @@
-# Source The Hated One, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, Source language: en-US
+# Source:The Hated One, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, language:en-US
 
 ## How CIA Spies Spread Dangerous Propaganda On YouTube
  - [https://www.youtube.com/watch?v=fKNAXLX6pKg](https://www.youtube.com/watch?v=fKNAXLX6pKg)
@@ -55,3 +55,4 @@ https://twitter.com/The_HatedOne_
 https://www.reddit.com/r/thehatedone/
 
 The footage and images featured in the video were for critical analysis, commentary and parody, which are protected under the Fair Use laws of the United States Copyright act of 1976.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Call of Duty Warzone Legacy: How to See Your Career Highlights     - CNET
  - [https://www.cnet.com/tech/gaming/call-of-duty-warzone-legacy-how-to-see-your-career-highlights/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/call-of-duty-warzone-legacy-how-to-see-your-career-highlights/#ftag=CADf328eec)
@@ -741,3 +741,4 @@ Scott Marder, Justin Roiland and more also discuss reduced portal travel and wha
  - date published: 2022-11-16 00:12:36+00:00
 
 Stranded without food? Help could be on the way.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Prezydent podpisał ustawę pozwalającą przekazać samorządom blisko 13,7 mld zł
  - [https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-pozwalajaca-przekazac-samorzadom-blisko-13-7-mld-zl-8407746.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-pozwalajaca-przekazac-samorzadom-blisko-13-7-mld-zl-8407746.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -207,3 +207,4 @@ nazistów.</p>
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/e/2619f9aa137d17-948-568-0-183-1669-1001.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Drastycznie drożejące kredyty hipotecze zmuszają wielu potencjalnie
 zainteresowanych kupnem mieszkania do przeczekania niekorzystnego okresu. Stąd
 też rosnące zainteresowanie wynajmem nieruchomości. Co jednak opłaca się bardziej?</p>
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## This New iPhone 14 Feature Might Save Your Life in an Emergency
  - [https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
@@ -104,3 +104,4 @@
  - date published: 2022-09-08 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--pvrooOeA--/c_fit,fl_progressive,q_80,w_636/8e6c0ba7fedc0a15ea37cac9a603897b.jpg" /><p>You probably vaguely know that getting frisky in public could get you in trouble, which is why articles about or viral videos of people doing so tend to get major attention. It’s just so out of the norm, right? Well, not really. There are levels to these things, after all. Young people who live with their parents, for…</p><p><a href="https://lifehac
+

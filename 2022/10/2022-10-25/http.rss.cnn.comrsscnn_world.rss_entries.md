@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## 'Everything is expensive': Seniors cut back on socializing and meals as inflation pinches
  - [https://www.cnn.com/2022/10/25/economy/inflation-impact-on-seniors/index.html](https://www.cnn.com/2022/10/25/economy/inflation-impact-on-seniors/index.html)
@@ -76,3 +76,4 @@ The Federal Trade Commission is seeking tough new restrictions against Drizly, t
  - date published: 2022-10-25 02:29:21+00:00
 
 Indonesia's food and drugs agency on Monday said it may pursue criminal action against two pharmaceutical firms that made products linked to acute kidney injury (AKI), amid a spike in cases and deaths among children this year.
+

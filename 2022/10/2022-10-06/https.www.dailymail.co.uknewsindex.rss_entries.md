@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Pub landlady who knifed teenager she suspected of affair with her husband is found guilty of attack
  - [https://www.dailymail.co.uk/news/article-11289733/Pub-landlady-knifed-teenager-suspected-affair-husband-guilty-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11289733/Pub-landlady-knifed-teenager-suspected-affair-husband-guilty-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1975,3 +1975,4 @@ Anthony Pandrella, 63, a Gambino crime family associate, was sentenced to 40 ye
  - date published: 2022-10-06 00:02:27+00:00
 
 Fitch on Wednesday lowered the outlook for its credit rating for British government debt from stable to negative after Liz Truss announced a crash program of debt-fueled tax cuts.
+

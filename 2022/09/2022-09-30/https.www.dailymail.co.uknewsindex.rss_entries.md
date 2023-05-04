@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Businesses face losing £6.6bn as parents miss work to collect ill kids from school this winter
  - [https://www.dailymail.co.uk/news/article-11267523/Businesses-face-losing-6-6bn-parents-miss-work-collect-ill-kids-school-winter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11267523/Businesses-face-losing-6-6bn-parents-miss-work-collect-ill-kids-school-winter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1722,3 +1722,4 @@ Prime Minister Liz Truss yesterday reiterated her plan to solve long-term supply
  - date published: 2022-09-30 00:06:31+00:00
 
 A man has been struck and killed by a passing vehicle following a police pursuit north of Byron Bay.
+

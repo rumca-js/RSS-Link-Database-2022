@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The Absolute Best Sci-Fi Movies on HBO Max     - CNET
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max/#ftag=CADf328eec)
@@ -293,3 +293,4 @@ Some Amazon and USPS packages never make it to their destinations. When that hap
  - date published: 2022-10-23 01:00:03+00:00
 
 You can make distilled water with supplies you likely already have in your kitchen
+

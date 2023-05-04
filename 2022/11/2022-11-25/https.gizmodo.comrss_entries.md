@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## This Weeks Toys Rip, Tear, Swindle, and... Comfort?
  - [https://gizmodo.com/figuarts-chainsaw-man-pokemon-slowpoke-chair-exo-6-quar-1849820579](https://gizmodo.com/figuarts-chainsaw-man-pokemon-slowpoke-chair-exo-6-quar-1849820579)
@@ -139,3 +139,4 @@
  - date published: 2022-11-25 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0e7xCuse--/c_fit,fl_progressive,q_80,w_636/b1d745948a0b48ef70809543bf07be94.png" /><p>It’s weird. While <a href="https://gizmodo.com/new-avatar-the-way-of-water-funko-pops-exclusive-reveal-1849740830">Funko Pops</a> are <a href="https://gizmodo.com/new-york-comic-con-funko-pop-vinyl-toy-exclusives-nycc-1849625370">ubiquitous</a>—they’re about the closest thing to real-life Tribbles, in my opinion—the company doesn’t always make them easy to track down. While a few more <a href="https://gizmodo.com/spider-man-no-way-home-is-a-brand-new-day-for-the-mcus-1848255234"><em>Spider-Man: No Way Home</em></a> Pops will be widely released next year, there’s a huge assortment of figures exclusively going to a variety…</p><p><a href="https://gizmodo.com/spider-man-no-way-home-funko-pop-toy-exclusives-1849816640">Read more...</a></p>
+

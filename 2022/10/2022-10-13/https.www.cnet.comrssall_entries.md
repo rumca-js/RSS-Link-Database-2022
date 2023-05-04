@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 10 Tips to Help You Lower Your Streaming TV Costs     - CNET
  - [https://www.cnet.com/deals/10-tips-help-lower-your-streaming-tv-costs/#ftag=CADf328eec](https://www.cnet.com/deals/10-tips-help-lower-your-streaming-tv-costs/#ftag=CADf328eec)
@@ -804,3 +804,4 @@ How to use your six guesses most effectively.
  - date published: 2022-10-13 00:11:00+00:00
 
 Musk declares it the "finest fragrance on Earth."
+

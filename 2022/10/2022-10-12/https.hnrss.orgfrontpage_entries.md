@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## California Man Fined $1k for Drawing Lines on Maps
  - [https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps](https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps)
@@ -680,3 +680,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33170988">https://news.ycombinator.com/item?id=33170988</a></p>
 <p>Points: 47</p>
 <p># Comments: 27</p>
+

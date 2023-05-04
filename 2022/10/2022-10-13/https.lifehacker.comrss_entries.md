@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Clean and Decorate for Halloween Simultaneously With a ‘Broomba’
  - [https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818](https://lifehacker.com/clean-and-decorate-for-halloween-simultaneously-with-a-1849654818)
@@ -118,3 +118,4 @@
  - date published: 2022-10-13 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--K7Zr0MIo--/c_fit,fl_progressive,q_80,w_636/004957afc250850d2c1d637133af41e3.jpg" /><p>If you have a grass lawn on your property, you already know <a href="https://lifehacker.com/fuck-lawns-1847736416">how much they suck</a>. Grass is fragile, fickle, and expensive to maintain. <a href="https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919">Lawns suck your time</a> and energy and are pretty much ecol
+

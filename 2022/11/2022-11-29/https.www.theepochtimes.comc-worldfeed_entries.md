@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## EXCLUSIVE: Canadian Military Says Critical Race Theory Being Used for Culture Change
  - [https://www.theepochtimes.com/exclusive-canadian-military-says-critical-race-theory-being-used-for-culture-change_4893778.html](https://www.theepochtimes.com/exclusive-canadian-military-says-critical-race-theory-being-used-for-culture-change_4893778.html)
@@ -468,3 +468,4 @@ Parliamentary budget officer Yves Giroux. (The Canadian Press)
  - date published: 2022-11-29 00:35:53+00:00
 
 A Harp seal pup lies on an ice floe in the Gulf of Saint Lawrence near Charlottetown, PEI, on March 31, 2008. (Joe Raedle/Getty Images)
+

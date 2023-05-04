@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Nvidia RTX 4090 liveblog: what we expect to see at GTC 2022
  - [https://www.techradar.com/news/live/nvidia-rtx-4090-liveblog-what-we-expect-to-see-at-gtc-2022/](https://www.techradar.com/news/live/nvidia-rtx-4090-liveblog-what-we-expect-to-see-at-gtc-2022/)
@@ -97,3 +97,4 @@ We were expecting the Xiaomi 12 and the Xiaomi 12 Pro to get mid-range versions 
  - date published: 2022-09-19 05:00:00+00:00
 
 Is Sony working on an ASP-C version of its FX3 video camera? The rumors mill seems to think so and it could launch soon.
+

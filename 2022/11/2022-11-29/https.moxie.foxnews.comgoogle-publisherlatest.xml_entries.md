@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Biden administration's border woes increasing, as 2022 draws to a close
  - [https://www.foxnews.com/politics/biden-admins-border-woes-increasing-2022-draws-close](https://www.foxnews.com/politics/biden-admins-border-woes-increasing-2022-draws-close)
@@ -1693,3 +1693,4 @@ Landon Donovan knows a thing or two about becoming an American hero in the socce
  - date published: 2022-11-29 00:05:37+00:00
 
 Auburn found its new head coach to lead the football team on Monday, bringing Hugh Freeze back to the SEC after stepping down from Ole Miss.
+

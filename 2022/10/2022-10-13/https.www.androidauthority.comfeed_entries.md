@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Meta may use the Quest Pro’s eye-tracking to serve ads because of course it will
  - [https://www.androidauthority.com/quest-pro-targeted-ads-3220392/](https://www.androidauthority.com/quest-pro-targeted-ads-3220392/)
@@ -97,3 +97,4 @@ The first Pixel Watch update brings enhanced GPS accuracy and more.
  - date published: 2022-10-13 04:00:05+00:00
 
 As long as an app chooses to play nice with Roku OS, you can quickly toggle captions on or off across the board.
+

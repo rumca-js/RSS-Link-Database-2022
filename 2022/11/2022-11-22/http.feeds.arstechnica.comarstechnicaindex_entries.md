@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Meta researchers create AI that masters Diplomacy, tricking human players
  - [https://arstechnica.com/?p=1899693](https://arstechnica.com/?p=1899693)
@@ -118,3 +118,4 @@ Cupras drive very differently from VWs; Cupra's head of R&#038;D explains how.
  - date published: 2022-11-22 14:23:26+00:00
 
 "This is a dream for many of us who work at NASA."
+

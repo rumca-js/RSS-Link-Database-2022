@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Pokemon Scarlet and Violet Review: Too Much for the Switch to Handle     - CNET
  - [https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-review-too-much-for-the-switch-to-handle/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-review-too-much-for-the-switch-to-handle/#ftag=CADf328eec)
@@ -874,3 +874,4 @@ The session will also look at the digital assets ecosystem.
  - date published: 2022-11-17 00:00:11+00:00
 
 The famous Cleveland house will only be sold to someone who is the "right fit," says its current owner.
+

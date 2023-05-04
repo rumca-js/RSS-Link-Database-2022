@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Filthy floodwaters from Hurricane Ian drove wave of flesh-eating infections
  - [https://arstechnica.com/?p=1891019](https://arstechnica.com/?p=1891019)
@@ -111,3 +111,4 @@ Experts on social media grade readiness of Facebook, TikTok, Twitter, and YouTub
  - date published: 2022-10-18 12:00:56+00:00
 
 Smooth, silent electric motors will only make Rolls-Royce's cars better.
+

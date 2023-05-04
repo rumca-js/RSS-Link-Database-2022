@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Josh Duhamel tops Halloween costume contest with wife Audra in Anna Nicole Smith and J. Howard Marshall garb
  - [https://www.foxnews.com/entertainment/josh-duhamel-tops-halloween-costume-contest-wife-audra-anna-nicole-smith-j-howard-marshall-garb](https://www.foxnews.com/entertainment/josh-duhamel-tops-halloween-costume-contest-wife-audra-anna-nicole-smith-j-howard-marshall-garb)
@@ -853,3 +853,4 @@ No. 2 Ohio State was on the verge of being upset at State College, but they scor
  - date published: 2022-10-30 00:09:30+00:00
 
 Henry Hodges, a man on Tennessee's death row, sliced off own penis with a razor over a disagreement with jail officials over a food package.
+

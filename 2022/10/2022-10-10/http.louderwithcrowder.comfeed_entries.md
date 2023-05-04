@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: So, I guess Madonna announced that she's gay now
  - [https://www.louderwithcrowder.com/madonna-tiktok-out](https://www.louderwithcrowder.com/madonna-tiktok-out)
@@ -49,3 +49,4 @@
  - date published: 2022-10-10 12:05:53+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31886459&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>John Cleese is a legend in comedy. He's also been on an anti-cancel culture kick as of late, what with comedy being a popular target of pro-cancel culture twats. Cleese is bringing his controversial idea that "<a href="https://www.louderwithcrowder.com/john-cleese-life-fun" target="_blank">life is supposed to be fun</a>" to GB News. It's 
+

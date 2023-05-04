@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The Absolute Best Horror Movies on Prime Video Right Now     - CNET
  - [https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CADf328eec)
@@ -433,3 +433,4 @@ Here are the exact release dates and times for the 12 episodes of the incredible
  - date published: 2022-09-25 00:00:02+00:00
 
 We know, we know. But for some people, it can actually make your sleep worse.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Elon Musk's Downscaled Twitter Faces Soccer World Cup Test
  - [https://www.wsj.com/articles/elon-musks-downscaled-twitter-faces-soccer-world-cup-test-11668952945?mod=rss_Technology](https://www.wsj.com/articles/elon-musks-downscaled-twitter-faces-soccer-world-cup-test-11668952945?mod=rss_Technology)
@@ -27,3 +27,4 @@ The bank’s shares have plummeted even as Silvergate takes steps to reassure in
  - date published: 2022-11-20 01:54:00+00:00
 
 The move would broaden the former president’s potential reach days after he declared another run for the White House.
+

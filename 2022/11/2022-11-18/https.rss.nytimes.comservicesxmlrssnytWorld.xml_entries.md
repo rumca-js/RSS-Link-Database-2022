@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Oil Prices Slide as Investors Worry Energy Demand Is Slowing
  - [https://www.nytimes.com/2022/11/18/business/energy-environment/oil-prices-fall.html](https://www.nytimes.com/2022/11/18/business/energy-environment/oil-prices-fall.html)
@@ -118,3 +118,4 @@ Corrections that appeared in print on Friday, Nov. 18, 2022.
  - date published: 2022-11-18 02:30:17+00:00
 
 If confirmed, it would be the North’s second test of an intercontinental ballistic missile this month.
+

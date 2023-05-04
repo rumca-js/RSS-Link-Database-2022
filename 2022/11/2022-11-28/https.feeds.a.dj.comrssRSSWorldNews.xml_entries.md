@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## European Differences Over a Russian Oil Price Cap Persist
  - [https://www.wsj.com/articles/european-differences-over-a-russian-oil-price-cap-persist-11669668732](https://www.wsj.com/articles/european-differences-over-a-russian-oil-price-cap-persist-11669668732)
@@ -76,3 +76,4 @@ The pontiff defended his practice of not naming Russia as the aggressor in Ukrai
  - date published: 2022-11-28 10:30:00+00:00
 
 Governments left the COP27 with new doubts that global warming can be limited to 1.5 degrees Celsius, but hope that a more-realistic 1.7 degrees is within reach.
+

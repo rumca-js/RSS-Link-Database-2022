@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Frontier Airlines no longer has a customer service phone line
  - [https://www.cnn.com/2022/11/26/business/frontier-airlines-customer-service-call-center/index.html](https://www.cnn.com/2022/11/26/business/frontier-airlines-customer-service-call-center/index.html)
@@ -27,3 +27,4 @@ Polls opened in Taiwan on Saturday in local elections that President Tsai Ing-we
  - date published: 2022-11-26 00:59:56+00:00
 
 With a blinding yellow flash and a concussion that shakes bones, K9 self-propelled howitzers launch artillery shells onto a hill that's just been hit by rockets fired from helicopters. Then K2 tanks roar in, speeding up roads and firing as they go.
+

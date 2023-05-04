@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja: Domagają się rezygnacji Putina. "Ponownie grozimy światu bronią nuklearną"
  - [https://www.polsatnews.pl/wiadomosc/2022-09-09/rosja-domagaja-sie-rezygnacji-putina-ponownie-grozimy-swiatu-bronia-nuklearna/](https://www.polsatnews.pl/wiadomosc/2022-09-09/rosja-domagaja-sie-rezygnacji-putina-ponownie-grozimy-swiatu-bronia-nuklearna/)
@@ -174,3 +174,4 @@ Najlepsza polska tenisistka awansowała do finału US Open po wygranej z Białor
  - date published: 2022-09-09 04:12:00+00:00
 
 Bank Anglii zadecydował, co stanie się z funtami z wizerunkiem Elżbiety II. W komunikacie wydanym po śmierci monarchini podkreślono, że banknoty z wizerunkiem zmarłej królowej pozostają prawnym środkiem płatniczym. Portrety Elżbiety II po raz pierwszy pojawiły się na banknotach emitowanych przez Bank Anglii w roku 1960.
+

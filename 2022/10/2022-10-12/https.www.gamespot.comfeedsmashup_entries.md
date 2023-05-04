@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## October PS Plus Game Catalog Revealed | GameSpot News
  - [https://www.gamespot.com/videos/october-ps-plus-game-catalog-revealed-gamespot-news/2300-6459734/](https://www.gamespot.com/videos/october-ps-plus-game-catalog-revealed-gamespot-news/2300-6459734/)
@@ -321,3 +321,4 @@
  - date published: 2022-10-12 00:30:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4047078-etk_scorn_site.jpg" width="480" /> Scorn is an upcoming first person survival horror game by Ebb Software that takes visual inspiration from the likes of H. R. Giger and Zdizislaw Beksinski. The game releases soon, so - here is Everything You Need to Know About Scorn.
+

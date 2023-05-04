@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Drax: UK power station owner cuts down primary forests in Canada
  - [https://www.bbc.co.uk/news/science-environment-63089348?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63089348?at_medium=RSS&at_campaign=KARANGA)
@@ -342,3 +342,4 @@ Polling in Sunday's papers indicates that faith in the government's economic com
  - date published: 2022-10-02 01:15:26+00:00
 
 It was widely reported that the actor had sold his face to a deepfake company.
+

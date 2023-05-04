@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Home Ownership Assistance for Australian Defence Forces, Veterans Given a Boost
  - [https://www.theepochtimes.com/home-ownership-assistance-for-australian-defence-forces-veterans-given-a-boost_4883245.html](https://www.theepochtimes.com/home-ownership-assistance-for-australian-defence-forces-veterans-given-a-boost_4883245.html)
@@ -209,3 +209,4 @@ Local residents stand near their building destroyed by a Russian missile attack 
  - date published: 2022-11-26 00:14:08+00:00
 
 Prime Minister Justin Trudeau returns from a lunch break to testify at the Public Order Emergency Commission in Ottawa, Nov 25, 2022. (Sean Kilpatrick/The Canadian Press)
+

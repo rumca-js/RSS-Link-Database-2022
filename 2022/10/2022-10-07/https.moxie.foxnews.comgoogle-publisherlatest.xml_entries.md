@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Luis Castillo's gem gives Mariners win in first playoff game since 2001
  - [https://www.foxnews.com/sports/luis-castillos-gem-gives-mariners-win-first-playoff-game-2001](https://www.foxnews.com/sports/luis-castillos-gem-gives-mariners-win-first-playoff-game-2001)
@@ -1000,3 +1000,4 @@ This is a rush transcript from "Hannity," October 6, 2022
  - date published: 2022-10-07 00:00:49+00:00
 
 This is a rush transcript of "Tucker Carlson Tonight" on October 6, 2022
+

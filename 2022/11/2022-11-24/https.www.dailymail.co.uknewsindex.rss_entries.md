@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Scheming civil servants declare 'open season' on Dominic Raab after predicting Labour election win
  - [https://www.dailymail.co.uk/news/article-11467545/Scheming-civil-servants-declare-open-season-Dominic-Raab-predicting-Labour-election-win.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11467545/Scheming-civil-servants-declare-open-season-Dominic-Raab-predicting-Labour-election-win.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1602,3 +1602,4 @@ Shocking figures reveal ruthless private companies issued 2.7m tickets to driver
  - date published: 2022-11-24 00:02:18+00:00
 
 Scammers paid a subscription to iSpoof.cc to use technology that let them to make it appear to victims they were phoning from banks such as Barclays, NatWest and Halifax.
+

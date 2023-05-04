@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Zelensky: Ukraine applying to NATO in 'accelerated procedure'
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-30-22/h_2127c3e731deebfdc354906a0210d0d1](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-30-22/h_2127c3e731deebfdc354906a0210d0d1)
@@ -547,3 +547,4 @@ The Biden administration scaled back eligibility for its student loan forgivenes
  - date published: 2022-09-30 00:17:20+00:00
 
 The Pentagon is working to form a new command to coordinate arming and training Ukraine, according to two US officials, in an effort to streamline what was a largely ad hoc process rapidly created in the wake of Russia's invasion.
+

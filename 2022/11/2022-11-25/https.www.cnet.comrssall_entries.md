@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## If You Love To Read, Grab the Kindle Paperwhite Black Friday Deal Right Now     - CNET
  - [https://www.cnet.com/tech/computing/if-you-love-to-read-grab-the-kindle-paperwhite-black-friday-deal-right-now/#ftag=CADf328eec](https://www.cnet.com/tech/computing/if-you-love-to-read-grab-the-kindle-paperwhite-black-friday-deal-right-now/#ftag=CADf328eec)
@@ -559,3 +559,4 @@ Check out these 14 Black Friday deals before they're gone.
  - date published: 2022-11-25 00:26:26+00:00
 
 If you want just the best Black Friday deals available to shop today, you've landed at the right place.
+

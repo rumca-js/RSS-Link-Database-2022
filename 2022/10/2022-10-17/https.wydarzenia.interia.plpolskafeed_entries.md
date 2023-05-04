@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Nie wszyscy będą mogli kupić tani węgiel. Jest jeden haczyk
  - [https://wydarzenia.interia.pl/kraj/news-nie-wszyscy-beda-mogli-kupic-tani-wegiel-jest-jeden-haczyk,nId,6353028](https://wydarzenia.interia.pl/kraj/news-nie-wszyscy-beda-mogli-kupic-tani-wegiel-jest-jeden-haczyk,nId,6353028)
@@ -6,3 +6,4 @@
  - date published: 2022-10-17 14:13:39+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-nie-wszyscy-beda-mogli-kupic-tani-wegiel-jest-jeden-haczyk,nId,6353028"><img align="left" alt="Nie wszyscy będą mogli kupić tani węgiel. Jest jeden haczyk" src="https://i.iplsc.com/nie-wszyscy-beda-mogli-kupic-tani-wegiel-jest-jeden-haczyk/000G7MGK4JECHI2T-C321.jpg" /></a>Tani węgiel od gmin Polacy będą mogli kupić w cenie maksymalnej do 2 tysięcy złotych za tonę. Jest to efekt ustawy o zakupie preferencyjnym paliwa stałego przez gospodarstwa d
+

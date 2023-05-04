@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Złota Piłka 2022. Karim Benzema zwycięzcą
  - [https://www.polsatnews.pl/wiadomosc/2022-10-17/zlota-pilka-2022-karim-benzema-zwyciezca/](https://www.polsatnews.pl/wiadomosc/2022-10-17/zlota-pilka-2022-karim-benzema-zwyciezca/)
@@ -125,3 +125,4 @@ Nadszedł czas, aby Ukraina otrzymała również od nas pomoc wojskową - oświa
  - date published: 2022-10-17 04:20:00+00:00
 
 W poniedziałek rano doszło do kilku eksplozji w stolicy Ukrainy - Kijowie. Szef kancelarii prezydenta Ukrainy poinformował, że miasto zostało zaatakowane dronami kamikadze.
+

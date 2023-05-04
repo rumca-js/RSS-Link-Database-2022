@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Strajk obsługi naziemnej lotniska Heathrow. Utrudnienia mogą dotknąć pasażerów z Polski
  - [https://www.bankier.pl/wiadomosc/Strajk-obslugi-naziemnej-lotniska-Heathrow-Utrudnienia-moga-dotknac-pasazerow-z-Polski-8441853.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Strajk-obslugi-naziemnej-lotniska-Heathrow-Utrudnienia-moga-dotknac-pasazerow-z-Polski-8441853.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -494,3 +494,4 @@ euro ustabilizował się tuż poniżej linii 4,70 zł.</p>
  - date published: 2022-11-17 02:19:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/8/178030c08dfae0-945-567-0-83-1755-1053.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Korea Północna zagroziła w czwartek "ostrzejszą odpowiedzią militarną" na zapowiedź Waszyngtonu zwiększenia, wraz z sojusznikami, aktywności wojskowej w regionie - poinformowała agencja prasowa KCNA. Północnokoreańskie MSZ oświadczyło, że Waszyngton "podejmuje rozgrywkę, której pożałuje".</p>
+

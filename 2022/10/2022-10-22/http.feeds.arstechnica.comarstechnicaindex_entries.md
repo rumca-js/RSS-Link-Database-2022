@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The weekend’s best deals: Google Pixel 7, Apple MacBooks, 4K TVs, and more
  - [https://arstechnica.com/?p=1892146](https://arstechnica.com/?p=1892146)
@@ -13,3 +13,4 @@ Dealmaster also has iPads, Nest smart home, and some of our favorite wearables.
  - date published: 2022-10-22 13:15:12+00:00
 
 An SUV with removable hydrogen-filled pods and a stylish sedan caught our attention.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Get ready to say goodbye to Fitbit accounts
  - [https://www.androidauthority.com/fitbit-accounts-ending-3212066/](https://www.androidauthority.com/fitbit-accounts-ending-3212066/)
@@ -97,3 +97,4 @@ dynamicSpot is now available on the Google Play Store to equip your Android phon
  - date published: 2022-09-22 06:10:59+00:00
 
 There are many apps that allow for group chats, but if you're looking for chat rooms you can join at will, here are the best ones.
+

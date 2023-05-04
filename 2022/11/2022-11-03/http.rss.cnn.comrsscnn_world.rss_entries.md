@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Ecuador authorities vow to regain control of prisons amid wave of violence
  - [https://www.cnn.com/2022/11/03/americas/ecudor-state-emergency-police-killed-intl-latam/index.html](https://www.cnn.com/2022/11/03/americas/ecudor-state-emergency-police-killed-intl-latam/index.html)
@@ -39,5 +39,6 @@ At 87 years old, Sylvia Earle has no retirement plans. The celebrated oceanograp
  - [https://www.cnn.com/world/live-news/call-to-earth-day-2022-c2e-spc-intl/index.html](https://www.cnn.com/world/live-news/call-to-earth-day-2022-c2e-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-03 00:57:46+00:00
+
 
 

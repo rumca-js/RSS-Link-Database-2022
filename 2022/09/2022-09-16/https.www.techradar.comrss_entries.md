@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## These YouTube gaming videos are spreading malware
  - [https://www.techradar.com/news/these-youtube-gaming-videos-are-spreading-malware/](https://www.techradar.com/news/these-youtube-gaming-videos-are-spreading-malware/)
@@ -216,3 +216,4 @@ Some welcome good news for Intel is that going by an early test, XeSS appears to
  - date published: 2022-09-16 05:00:45+00:00
 
 Releasing on iOS first, Walmart's Be Your Own Model lets you try on clothes, but lacks information on its cybersecurity
+

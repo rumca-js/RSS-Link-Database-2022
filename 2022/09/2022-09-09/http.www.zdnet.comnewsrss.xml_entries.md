@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to enable Gmail features for easy Google Calendar event creation
  - [https://www.zdnet.com/article/how-to-enable-gmail-features-for-easy-google-calendar-event-creation/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-enable-gmail-features-for-easy-google-calendar-event-creation/#ftag=RSSbaffb68)
@@ -202,3 +202,4 @@ A free lens has also been thrown in.
  - date published: 2022-09-09 00:33:16+00:00
 
 The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.
+

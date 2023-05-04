@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Canada get everything except the points against Belgium in World Cup return
  - [https://www.theguardian.com/football/2022/nov/23/canada-belgium-world-cup-qatar-2022-soccer](https://www.theguardian.com/football/2022/nov/23/canada-belgium-world-cup-qatar-2022-soccer)
@@ -1084,3 +1084,4 @@ Musician with Dr Feelgood whose stark chords and pin-sharp riffs made him one of
  - date published: 2022-11-23 00:19:31+00:00
 
 <p>High-profile lawyer who represented family of George Floyd calls Derrick J Kittling’s death ‘unwarranted’ as he takes on case</p><p>Footage of a deadly traffic stop in central Louisiana between a Black motorist and white officer, which spiraled into a 30-second struggle on the ground before the officer fired his weapon, has been released by state police.</p><p>Ben Crump, a prominent civil rights attorney representing the family of Derrick J Kittling – the 45-year-old motorist fatally shot in the head – called the death “unwarranted” and “completely preventable”. In addition, Crump demanded that the officer involved, Rapides parish sheriff’s office deputy, Rodney Anderson, be fired and accused him of profiling Kittling. The deputy has been placed on administrative leave while Louisiana state police investigate.</p> <a href="https://www.theguardian.com/us-news/2022/nov/22/louisiana-police-officer-fatal-shooting-black-motorist">Continue reading...</a>
+

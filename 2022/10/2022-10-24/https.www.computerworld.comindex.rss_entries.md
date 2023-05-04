@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## 10+ ways iPadOS 16 can make you more productive
  - [https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all](https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Sustainable or green IT is not new. In fact, it has been a topic of discussion among IT leaders for decades. But the concept of <a href="https://www.un.org/en/academic-impact/sustainability" rel="noopener nofollow" target="_blank">sustainability</a> in general, which the United Nations defines as “meeting the needs of the present without compromising the ability of future generations to meet their own needs,” is something people and organizations are prioritizing more than ever — and for good reason.</p><p>Concerns about the environment and climate change are front and center among world leaders, environmental advocacy groups, and society at large. Corporate executives and boards want their organizations to do their part — or at least be perceived as doing their part — to help.</p><p class="jumpTag"><a href="/article/3676131/sustainable-it-environmental-and-social-approach-to-business-technology.html#jump">To read this article in full, please click here</a></p></section></article>
+

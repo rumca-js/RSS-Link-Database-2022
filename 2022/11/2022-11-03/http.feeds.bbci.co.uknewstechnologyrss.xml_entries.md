@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Former exec says charge will cost Twitter its magic
  - [https://www.bbc.co.uk/news/technology-63495124?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63495124?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ The Chinese social media giant said the policy is "based on a demonstrated need 
  - date published: 2022-11-03 00:05:35+00:00
 
 Workers at the plant in Zhengzhou, China, thought they were going to be part of a huge Covid experiment.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Kari Lake BRUTALIZES Katie Hobbs in new video over her derptastic comments about Hispanic voters
  - [https://www.louderwithcrowder.com/katie-lake-hispanic-ad](https://www.louderwithcrowder.com/katie-lake-hispanic-ad)
@@ -235,3 +235,4 @@
 <a href="https://youtu.be/ccHKrsMLd4U" target="_blank">youtu.be</a>
 </small>
 </p>
+

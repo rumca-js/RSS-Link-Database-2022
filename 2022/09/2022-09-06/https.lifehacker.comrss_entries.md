@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## These Habits Are Cute When Dating but Irritating in a Relationship, According to Lifehacker Readers
  - [https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066](https://lifehacker.com/these-habits-are-cute-when-dating-but-irritating-in-a-r-1849502066)
@@ -111,3 +111,4 @@
  - date published: 2022-09-06 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--fKSWkOH8--/c_fit,fl_progressive,q_80,w_636/db142ade3bb8fac1bb1744db1343246f.jpg" /><p>Cilantro is one of the most divisive flavors in the culinary world. You’re either in the “it’s soapy” party or the “it’s absolute magic” party. (Or maybe we just like the taste of soap? Who’s to know.) One thing’s for sure—it’s a powerful herb. The stem and the leaves pack a strong herbal kick, but there’s a more…</p><p><a href="https://lifehacker.c
+

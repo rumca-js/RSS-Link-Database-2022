@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Tuesday Briefing: Anxiety in China
  - [https://www.nytimes.com/2022/11/28/briefing/covid-protests-china-beijing-asia.html](https://www.nytimes.com/2022/11/28/briefing/covid-protests-china-beijing-asia.html)
@@ -125,3 +125,4 @@ Anger over Covid restrictions in China has created a crisis for its leader, Xi J
  - date published: 2022-11-28 00:51:22+00:00
 
 Tens of thousands of Mexicans walked through the streets Sunday to show their support for President Andrés Manuel López Obrador amid some pushback to his political agenda in recent weeks.
+

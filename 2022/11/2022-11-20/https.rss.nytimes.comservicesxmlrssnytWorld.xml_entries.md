@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Plans Evacuations in Kherson and Mykolaiv
  - [https://www.nytimes.com/2022/11/20/world/europe/ukraine-evacuation-kherson-mykolaiv.html](https://www.nytimes.com/2022/11/20/world/europe/ukraine-evacuation-kherson-mykolaiv.html)
@@ -118,3 +118,4 @@ New rules curtailing protests have alarmed some who fear an erosion of civil rig
  - date published: 2022-11-20 07:19:27+00:00
 
 The country has been hit by a series of political shocks in recent years and now confronts the first hung Parliament in its history.
+

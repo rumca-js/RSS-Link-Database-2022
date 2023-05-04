@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Nagi Putin na złotym sedesie pomoże Ukrainie. Nietypowy posąg trafi na aukcję
  - [https://wydarzenia.interia.pl/zagranica/news-nagi-putin-na-zlotym-sedesie-pomoze-ukrainie-nietypowy-posag,nId,6311982](https://wydarzenia.interia.pl/zagranica/news-nagi-putin-na-zlotym-sedesie-pomoze-ukrainie-nietypowy-posag,nId,6311982)
@@ -20,3 +20,4 @@
  - date published: 2022-09-27 08:14:35+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-finlandia-szef-strazy-granicznej-na-granicy-z-rosja-trzeba-p,nId,6311453"><img align="left" alt="Finlandia. Szef Straży Granicznej: Na granicy z Rosją trzeba postawić płot" src="https://i.iplsc.com/finlandia-szef-strazy-granicznej-na-granicy-z-rosja-trzeba-p/000G4GRFRTUSI57K-C321.jpg" /></a>Na fińsko-rosyjskiej granicy potrzebna jest fizyczna bariera, która zapobiegłaby nielegalnemu przemieszczaniu się do kraju - stwierdził komendant główn
+

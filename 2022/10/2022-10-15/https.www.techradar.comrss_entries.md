@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Spotify could be readying a hi-res audio Platinum plan
  - [https://www.techradar.com/news/spotify-could-be-readying-a-hi-res-audio-platinum-plan/](https://www.techradar.com/news/spotify-could-be-readying-a-hi-res-audio-platinum-plan/)
@@ -48,3 +48,4 @@ GITEX is the biggest technology trade show you've never heard of, but that could
  - date published: 2022-10-15 08:23:35+00:00
 
 Nvidia’s wallet-friendly Lovelace graphics card isn’t about to turn up anytime in the near future, we’re sure of that.
+

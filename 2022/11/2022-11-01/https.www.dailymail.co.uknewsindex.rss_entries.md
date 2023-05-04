@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Sky News host Peta Credlin unleashes after ISIS brides and families visit McDonalds and Kmart
  - [https://www.dailymail.co.uk/news/article-11379059/Sky-News-host-Peta-Credlin-unleashes-ISIS-brides-families-visit-McDonalds-Kmart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11379059/Sky-News-host-Peta-Credlin-unleashes-ISIS-brides-families-visit-McDonalds-Kmart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1924,3 +1924,4 @@ Sir Keir Starmer has signalled that Labour would force tech giants to pay news p
  - date published: 2022-11-01 00:02:20+00:00
 
 Elizabeth Debicki, who plays Princess Diana in the upcoming season of the Netflix show, said it was an 'interpretation' of events and 'we can maybe stop talking' about the controversy.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Chodorkowski: Wątpliwe, by reżim w Rosji upadł wcześniej niż w 2026 roku
  - [https://wydarzenia.interia.pl/zagranica/news-chodorkowski-watpliwe-by-rezim-w-rosji-upadl-wczesniej-niz-w,nId,6383937](https://wydarzenia.interia.pl/zagranica/news-chodorkowski-watpliwe-by-rezim-w-rosji-upadl-wczesniej-niz-w,nId,6383937)
@@ -372,3 +372,4 @@
  - date published: 2022-11-01 04:07:13+00:00
 
 <p><a href="https://wydarzenia.interia.pl/galerie/kraj/zdjecie,iId,3270199,iAId,441272"><img align="left" alt="Odeszli 2021/2022 " src="https://i.iplsc.com/odeszli-2021-2022/000G9YK4CWMGBAFD-C321.jpg" /></a>Wszystkich Świętych i Dzień Zaduszny to szczególny czas, gdy wspominamy tych, których już tu z nami nie ma. W ciągu minionych dwunastu miesięcy zmarło wielu artystów, twórców, polityków, sportowców, ludzi znanych i wpływowych. Wybrane postaci prezentujemy w kolejności chronologicznej, według daty ich śmierci. </p><br clear="all" />
+

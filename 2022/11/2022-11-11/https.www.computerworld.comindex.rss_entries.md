@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Patch Tuesday includes 6 Windows zero-day flaws; patch now!
  - [https://www.computerworld.com/article/3679631/patch-tuesday-includes-6-windows-zero-day-flaws-patch-now.html#tk.rss_all](https://www.computerworld.com/article/3679631/patch-tuesday-includes-6-windows-zero-day-flaws-patch-now.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Remember when everybody used to obsess over productivity? That conversation has fallen out of fashion in recent years. But it's time to bring it back.</p><p>The reason is that productivity crashed this year.</p><p>A <a href="https://www.bls.gov/opub/ted/2022/nonfarm-business-labor-productivity-down-4-6-percent-in-second-quarter-2022.htm" rel="nofollow">productivity decline in the second quarter</a> of this year was the largest ever recorded by the Bureau of Labor Statistics. (It <a href="https://www.computerworld.com/article/3678971/are-in-office-mandates-killing-productivity.html">recovered very slightly in the third quarter</a>.)</p><p>Changes in productivity appear to shed light on the remote work/work-from-home trends. A simplistic view is that productivity went up when more people worked from home, then crashed when many were forced to come to work again.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3679434/its-time-to-talk-about-productivity-again.html#jump">To read this article in full, please click here</a></p></section></article>
+

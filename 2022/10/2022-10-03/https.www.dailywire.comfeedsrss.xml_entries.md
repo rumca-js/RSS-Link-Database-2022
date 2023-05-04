@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Couple Rescues 3-Month Old Baby Using Storage Bin During Hurricane Ian
  - [https://www.dailywire.com/news/couple-rescues-3-month-old-baby-using-storage-bin-during-hurricane-ian](https://www.dailywire.com/news/couple-rescues-3-month-old-baby-using-storage-bin-during-hurricane-ian)
@@ -349,3 +349,4 @@ A former U.S. Congressman, a Democrat, was sentenced to more than two years in j
  - date published: 2022-10-03 07:25:56+00:00
 
 Former CIA Director David Petraeus, the general who led U.S. forces in Iraq in 2007-2008, said Sunday that Russia cannot win its war against Ukraine and if Russian President Vladimir Putin uses tactical nuclear weapons, the U.S. will lead NATO in an unprecedented attack against Russia. Petraeus spoke to Jon Karl of ABC News on ...
+

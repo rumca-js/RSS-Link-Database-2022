@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## USA. Adrienne Watson: Kreml jest skłonny zwiększyć ryzyko incydentu jądrowego
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-usa-adrienne-watson-kreml-jest-sklonny-zwiekszyc-ryzyko-incy,nId,6429744](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-usa-adrienne-watson-kreml-jest-sklonny-zwiekszyc-ryzyko-incy,nId,6429744)
@@ -622,3 +622,4 @@
  - date published: 2022-11-23 04:38:38+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-273-dzien-inwazji-rosji-relacja-na-zywo,nzId,3425,akt,230741"><img align="left" alt="Wojna w Ukrainie. 273. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-273-dzien-inwazji-rosji-relacja-na-zywo/000GDQ5JHH2RO7WY-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

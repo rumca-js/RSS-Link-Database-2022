@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Media nieoficjalnie: Ukraińskie wojsko na terenie lotniska w Doniecku
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-nieoficjalnie-ukrainskie-wojsko-na-terenie-lotniska-w-,nId,6277434](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-nieoficjalnie-ukrainskie-wojsko-na-terenie-lotniska-w-,nId,6277434)
@@ -308,3 +308,4 @@
  - date published: 2022-09-10 04:23:04+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosjanie-wepchnieci-w-pulapke-ukraina-moze-odzyskac-krym-w-2,nId,6277095"><img align="left" alt="Rosjanie wepchnięci w pułapkę. &quot;Ukraina może odzyskać Krym w 2023 roku&quot;" src="https://i.iplsc.com/rosjanie-wepchnieci-w-pulapke-ukraina-moze-odzyskac-krym-w-2/000FW5NOJ56DDRPA-C321.jpg" /></a>Rosyjscy najeźdźcy zostali wepchnięci w pułapkę na południu kraju przez ukraińskie wojsko - poinformował w nocy z
+

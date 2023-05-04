@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Border Patrol officers seize over $5.8 million worth of meth on truck entering U.S.
  - [https://www.foxnews.com/us/border-patrol-officers-seize-over-million-worth-meth-truck-entering-u-s](https://www.foxnews.com/us/border-patrol-officers-seize-over-million-worth-meth-truck-entering-u-s)
@@ -1469,3 +1469,4 @@ David DePape, the man accused of violently attacking Paul Pelosi, was on a suici
  - date published: 2022-11-02 00:00:50+00:00
 
 Guests: Vivek Ramaswamy, Marc Siegel, Mehmet Oz, Glenn Greenwald, Adam Laxalt, Nayib Bukele
+

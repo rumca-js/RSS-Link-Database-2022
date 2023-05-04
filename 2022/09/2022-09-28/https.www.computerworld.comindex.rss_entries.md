@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## 16 Wall Street firms fined $1.8B for using private text apps, lying about it
  - [https://www.computerworld.com/article/3675289/16-wall-street-firms-fined-18b-for-using-private-text-apps-lying-about-it.html#tk.rss_all](https://www.computerworld.com/article/3675289/16-wall-street-firms-fined-18b-for-using-private-text-apps-lying-about-it.html#tk.rss_all)
@@ -26,3 +26,4 @@
 <article>
 	<section class="page">
 <p>Apple, Google, Microsoft and others have essentially locked users into their web browsers through default settings in their OS platforms, giving the platform makers an unfair advantage over competitors, according to <a href="https://research.mozilla.org/browser-competition/" rel="nofollow noopener" target="_blank">a new report by Firefox maker Mozilla</a>.</p><p>Mozilla researchers found each platform maker “wants to keep people within its walled garden” by s
+

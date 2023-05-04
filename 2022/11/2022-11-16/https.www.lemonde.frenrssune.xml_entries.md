@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Republicans take control of US House of Representatives
  - [https://www.lemonde.fr/en/united-states/article/2022/11/17/republicans-take-control-of-us-house-of-representatives_6004567_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/17/republicans-take-control-of-us-house-of-representatives_6004567_133.html)
@@ -230,3 +230,4 @@ The pro-European Moldovan government is under significant pressure from Moscow, 
  - date published: 2022-11-16 00:05:15+00:00
 
 Rights group Hengaw accused Iranian security forces of having shot dead at least three protesters on Tuesday. Protesters were responding to a call to commemorate those slain in the 2019 crackdown.
+

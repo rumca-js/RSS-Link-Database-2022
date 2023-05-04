@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Disney's Live-Action Little Mermaid Shares Its First Teaser
  - [https://gizmodo.com/disney-live-action-little-mermaid-first-teaser-1849519932](https://gizmodo.com/disney-live-action-little-mermaid-first-teaser-1849519932)
@@ -351,3 +351,4 @@ observatory ever built. The new addition is a reminder of the many striking stam
  - date published: 2022-09-09 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--A8nFOBzY--/c_fit,fl_progressive,q_80,w_636/3fe9efbe6e2afd6d2962e5cf0c21dbd9.jpg" /><p>With<em> Black Adam</em> now just a few weeks away, it was <a href="https://gizmodo.com/new-black-adam-trailer-the-rock-san-diego-comic-con-hal-1849181067">about time for another trailer</a> to get unleashed on the world. This new trailer makes the upcoming film look much different <a href="https://gizmodo.com/black-adam-trailer-dwayne-johnson-the-r
+

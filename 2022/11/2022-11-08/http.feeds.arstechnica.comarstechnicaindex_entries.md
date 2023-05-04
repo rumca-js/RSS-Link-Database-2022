@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Ars OpenForum & Commenting System are getting a big upgrade
  - [https://arstechnica.com/?p=1896147](https://arstechnica.com/?p=1896147)
@@ -90,3 +90,4 @@ US is likely to end another year without clear guidance on digital assets.
  - date published: 2022-11-08 13:30:49+00:00
 
 Formula E is getting a lot faster in 2023 with the introduction of a new race car.
+

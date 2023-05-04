@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Logitech’s new webcams are an alternative to Apple Desk View
  - [https://www.digitaltrends.com/computing/logitech-brio-500-alternative-to-apple-desk-view/](https://www.digitaltrends.com/computing/logitech-brio-500-alternative-to-apple-desk-view/)
@@ -41,3 +41,4 @@ Queen Elizabeth’s final flight on Tuesday has become the most tracked in histo
  - date published: 2022-09-14 13:52:11.854520+00:00
 
 Keen to burnish its green credentials by making sneakers last as long as possible, Nike has come up with a brush-laden bot called BILL.
+

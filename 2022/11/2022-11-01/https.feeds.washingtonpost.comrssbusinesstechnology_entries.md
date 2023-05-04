@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Elon Musk’s Twitter is working on a ‘high’-risk paid video feature
  - [https://www.washingtonpost.com/technology/2022/11/01/elon-musk-twitter-paywalled-video/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/01/elon-musk-twitter-paywalled-video/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Twitter disrupted three separate China-based operations that were seeking to inf
  - date published: 2022-11-01 06:00:13+00:00
 
 Elon Musk wants to charge Twitter users for verification. Here's what that means for people who have the blue checkmark, and those who want it.
+

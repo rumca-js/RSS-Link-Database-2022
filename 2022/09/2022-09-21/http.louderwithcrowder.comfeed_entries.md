@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'They've abandoned him': Crowder explains situation of jailed Hong Kong Catholic cardinal
  - [https://www.louderwithcrowder.com/cardinal-joseph-zen-hong-kong](https://www.louderwithcrowder.com/cardinal-joseph-zen-hong-kong)
@@ -77,3 +77,4 @@
  - date published: 2022-09-21 11:53:27+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31795854&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Ron DeSantis' "stunt" was to force the media to pay attention to the crisis along our southern border. The border has been in crisis since Joe Biden enacted his immigration policies. The media has done its best to ignore it. <a href="https://www.louderwithcrowder.com/ron-desantis-delaware" target="_blank">That's hard to do now</a>. The Wh
+

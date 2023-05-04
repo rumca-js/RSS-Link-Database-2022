@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter ends its ban on covid misinformation
  - [https://www.washingtonpost.com/technology/2022/11/29/twitter-covid-misinformation-policy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/29/twitter-covid-misinformation-policy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ China has big ambitions in space that rival those of the United States.
  - date published: 2022-11-29 03:13:38+00:00
 
 There are posters, scripts and music for a 1973 film by Martin Scorsese — but none of it is real.
+

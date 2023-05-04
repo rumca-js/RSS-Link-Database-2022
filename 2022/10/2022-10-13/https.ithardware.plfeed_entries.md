@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Netflix zapowiada abonament z reklamami. Wiemy, ile będzie kosztował
  - [https://ithardware.pl/aktualnosci/netflix_zapowiada_abonament_z_reklamami_wiemy_ile_bedzie_kosztowal-23836.html](https://ithardware.pl/aktualnosci/netflix_zapowiada_abonament_z_reklamami_wiemy_ile_bedzie_kosztowal-23836.html)
@@ -173,3 +173,4 @@ Surface Pro 9 otrzymał 13-calowy wyświetlacz...
 
 <img src="https://ithardware.pl/artykuly/min/23816_1.jpg" />            Linia komputer&oacute;w typu all-in-one Microsoft Surface Studio jest skierowana do profesjonalist&oacute;w i klient&oacute;w biznesowych, gdzie wysoka cena i względny brak możliwości upgrade'u nie są tak bolesnymi czynnikami. Mimo to w...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/surface_studio_2_oficjalnie_microsoft_prezentuje_swoj_nowy_all_in_one_z_rtx_3060-23816.html">https://ithardwar
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Business energy bills could be cut by a third under government plan
  - [https://www.bbc.co.uk/news/business-62969427?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62969427?at_medium=RSS&at_campaign=KARANGA)
@@ -587,3 +587,4 @@ After the solemnity and silence of the Queen's funeral, UK politics comes roarin
  - date published: 2022-09-20 00:27:47+00:00
 
 People have shared messages of condolence with the BBC. They show many felt a personal connection to her.
+

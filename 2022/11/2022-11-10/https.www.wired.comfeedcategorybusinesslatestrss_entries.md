@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Amazon’s New Robot Sparrow Can Handle Most Items in the Everything Store
  - [https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/](https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/)
@@ -27,3 +27,4 @@ Anyone can get a blue tick on Twitter without proving who they are. And it’s a
  - date published: 2022-11-10 12:00:00+00:00
 
 One of the world’s biggest crypto groups just voted to back its enigmatic founder. The only problem is, no one understands his plan.
+

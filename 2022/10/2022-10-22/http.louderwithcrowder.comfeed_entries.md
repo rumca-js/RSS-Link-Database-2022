@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## College wrestling bros get mauled by grizzly bear, live to wrestle again with a badass photo as a souvenir
  - [https://www.louderwithcrowder.com/grizzly-bear-college-wrestlers](https://www.louderwithcrowder.com/grizzly-bear-college-wrestlers)
@@ -21,3 +21,4 @@
  - date published: 2022-10-22 12:26:08+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31990537&amp;width=1245&amp;height=700&amp;coordinates=0%2C81%2C0%2C39" /><br /><br /><p>Let's skip right to the fact check because no doubt the "independent" "fact" checkers are being dispatched to circle the wagons as we speak: Joe Biden was just resting his eyes. That's what they're going to tell us when they <a href="https://www.louderwithcrowder.com/butts-been-wiped-biden-cnn" target="_blank">break the video down like it
+

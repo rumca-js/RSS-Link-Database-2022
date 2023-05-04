@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Węgry kontra UE. KE ma zaakceptować węgierski Krajowy Plan Odbudowy
  - [https://www.bankier.pl/wiadomosc/Wegry-kontra-UE-KE-ma-zaakceptowac-wegierski-Krajowy-Plan-Odbudowy-8445798.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wegry-kontra-UE-KE-ma-zaakceptowac-wegierski-Krajowy-Plan-Odbudowy-8445798.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -447,3 +447,4 @@ konsumpcyjne, gdzie jedynym wyjątkiem pozostały produkty ratalne.</p>
  - date published: 2022-11-24 00:01:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/6/11cdf36b158337-948-568-0-0-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Szkocja znajdzie inną drogę do niepodległości - oświadczyła w środę wieczorem szefowa szkockiego rządu Nicola Sturgeon po tym, jak brytyjski Sąd Najwyższy orzekł, że nowe referendum niepodległościowe nie może zostać rozpisane bez zgody rządu w Londynie.</p>
+

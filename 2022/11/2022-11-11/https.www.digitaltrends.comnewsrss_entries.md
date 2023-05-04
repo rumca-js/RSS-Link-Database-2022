@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## We’re lovin’ this official McDonald’s gaming chair — the McCrispy Ultimate
  - [https://www.digitaltrends.com/computing/were-lovin-this-mccrispy-ultimate-gaming-chair/](https://www.digitaltrends.com/computing/were-lovin-this-mccrispy-ultimate-gaming-chair/)
@@ -69,3 +69,4 @@ Nvidia has another graphics card up its sleeve, and it may be launching soon. Is
  - date published: 2022-11-11 15:39:21.285465+00:00
 
 This new USB-C dock can help you add several external displays to a Mac running on Apple's own M1 or M2 chip.
+

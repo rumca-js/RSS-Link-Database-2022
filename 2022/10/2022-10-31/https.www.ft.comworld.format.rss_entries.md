@@ -1,4 +1,4 @@
-# Source URL:https://www.ft.com/world?format=rss, Source language: en-GB
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## UK lags behind comparable countries in cancer survival rates, study finds
  - [https://www.ft.com/content/e5999ea6-fa60-4b0c-993b-4e88033ba6ea](https://www.ft.com/content/e5999ea6-fa60-4b0c-993b-4e88033ba6ea)
@@ -419,3 +419,4 @@ Cost of opium and methamphetamine soars despite little evidence the ban is being
  - date published: 2022-10-31 00:01:20+00:00
 
 World’s largest nickel producer exploring governance structure similar to that used by oil group
+

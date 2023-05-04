@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Włochy. Exit poll: Centroprawica wygrywa wybory parlamentarne
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wlochy-centroprawica-wygrywa-wybory-parlamentarne/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wlochy-centroprawica-wygrywa-wybory-parlamentarne/)
@@ -104,3 +104,4 @@ Szantaż nuklearny, to nie jest to już kwestia Ukrainy, jest to kwestia bardzie
  - date published: 2022-09-25 04:09:00+00:00
 
 Ukraiński prezydent Wołodymyr Zełenski, przekazał, że jest w szoku po tym jak Izrael poinformował, że nie wyśle do Kijowa wsparcia militarnego w postaci systemów antyrakietowych. Prośby o pomoc Ukraina wystosowała w lutym.
+

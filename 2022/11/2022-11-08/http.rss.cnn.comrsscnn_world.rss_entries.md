@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## US and Russia agree to hold talks on nuclear treaty for first time since Ukraine war began
  - [https://www.cnn.com/2022/11/08/politics/us-russia-nuclear-treaty-talks/index.html](https://www.cnn.com/2022/11/08/politics/us-russia-nuclear-treaty-talks/index.html)
@@ -34,3 +34,4 @@ Kyiv residents have been getting used to 12 hours a day without electricity, but
  - date published: 2022-11-08 03:20:26+00:00
 
 Hong Kong's government said on November 7 it was relaxing COVID-19 restrictions on inbound tour groups including allowing them to enter theme parks and museums after arriving in the financial hub.
+

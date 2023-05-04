@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Waloryzacja rent i emerytur. Senat podjął decyzję
  - [https://wydarzenia.interia.pl/kraj/news-waloryzacja-rent-i-emerytur-senat-podjal-decyzje,nId,6415390](https://wydarzenia.interia.pl/kraj/news-waloryzacja-rent-i-emerytur-senat-podjal-decyzje,nId,6415390)
@@ -731,3 +731,4 @@
  - date published: 2022-11-16 00:21:07+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-przewodow-sa-pierwsze-informacje-o-ofiarach-wybuchu,nId,6413179"><img align="left" alt="Przewodów. Są pierwsze informacje o ofiarach wybuchu" src="https://i.iplsc.com/przewodow-sa-pierwsze-informacje-o-ofiarach-wybuchu/000GCGVSVVSELS9W-C321.jpg" /></a>Zakończył się sztab kryzysowy, który trwał w starostwie hrubieszowskim w związku z eksplozją we wsi Przewodów. - Rodziny ofiar eksplozji zostały objęte opieką psychologiczną - powiedziała starosta powiatu hrubieszowskiego Aneta Karpiuk. Zmarli to dwaj starsi mężczyźni - wynika z niepotwierdzonych informacji. </p><br clear="all" />
+

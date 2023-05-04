@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Polscy naukowcy z przełomowymi badaniami. Chodzi o jądra atomowe
  - [https://www.chip.pl/2022/11/jadra-atomowe-centrum-cyklotronowe-bronowice](https://www.chip.pl/2022/11/jadra-atomowe-centrum-cyklotronowe-bronowice)
@@ -44,7 +44,6 @@
  - [https://www.chip.pl/2022/11/apple-monopol-2022](https://www.chip.pl/2022/11/apple-monopol-2022)
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-11-04 16:00:00+00:00
- - tags: apple,monopoly
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1080" src="https://konto.chip.pl/wp-content/uploads/2022/11/apple-monopol-2022-3.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/apple-monopol-2022-3.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Jeśli myśląc „obrzydliwie bogaty” masz przed oczami Jeffa Bezosa, Marka Zuckerberga czy Elona Muska, to… masz rację, oczywiście. Ale w świecie Big Techa synonimem obrzydliwego bogactwa jest dziś tak naprawdę jedna firma – Apple. Naprawdę ktoś jeszcze uważa, że to nie monopol? To historyczny moment. Apple jest już bogatszy nie tylko od wielu krajów na [&#8230;]</p>
@@ -136,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="960" src="https://konto.chip.pl/wp-content/uploads/2022/07/kosmiczne-smieci.jpg" style="margin-bottom: 10px;" width="1200" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/07/kosmiczne-smieci.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Jeśli wierzyć słowom przedstawicieli DARPA, amerykańska agencja zamierza skierować swoje satelity w obszar, który dla wszystkich pozostałych mógłby pełnić rolę kosmicznego wysypiska śmieci. Dokładniej rzecz biorąc, chodzi o bardzo niską orbitę okołoziemską, na którą w większości przypadków trafiają statki niezdolne do dalszego i bezpiecznego funkcjonowania. Po trafieniu tam zostają one zniszczone na skutek tarcia atmosferycznego. [&#8230;]</p>
+

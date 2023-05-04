@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## 10 Final Fantasy 14 tips to conquer tank anxiety
  - [https://www.pcgamer.com/final-fantasy-14-tanking-guide-tips](https://www.pcgamer.com/final-fantasy-14-tanking-guide-tips)
@@ -216,3 +216,4 @@ Nvidia can make a lot more money pumping out enterprise GPUs.
  - date published: 2022-10-24 00:07:12+00:00
 
 Sorting through every new game on Steam so you don't have to.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Zelensky Warns Russia Plans to Blow Up a Major Dam in a ‘False Flag’ Attack
  - [https://www.nytimes.com/2022/10/20/world/europe/zelensky-putin-russia-ukraine-dam.html](https://www.nytimes.com/2022/10/20/world/europe/zelensky-putin-russia-ukraine-dam.html)
@@ -244,3 +244,4 @@ The latest iteration of the “Modern Love” franchise, “Modern Love Tokyo,�
  - date published: 2022-10-20 02:04:39+00:00
 
 Iran has denied supplying Russia with drones for use in Ukraine.
+

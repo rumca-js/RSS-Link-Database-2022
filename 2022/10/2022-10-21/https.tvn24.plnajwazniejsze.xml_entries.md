@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Nazywali Jana Pawła II "wujkiem". "Bardzo chciałbym go obronić, ale najważniejsza jest prawda"
  - [https://tvn24.pl/go/programy,7/czarno-na-bialym---bielmo-odcinki,880782/odcinek-17,S00E17,893152?source=rss](https://tvn24.pl/go/programy,7/czarno-na-bialym---bielmo-odcinki,880782/odcinek-17,S00E17,893152?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="Obraził na tle religijnym. W tym roku już nie zagra" src="https://tvn24.pl/najnowsze/cdn-zdjecie-rm6vny-kyle-lafferty-w-batwach-rangers-fc/alternates/LANDSCAPE_1280" />
     Kyle Lafferty surowo ukarany po derbach Glasgow między Celtikiem a Rangers, choć nie jest piłkarzem żadnego z tych klubów.
+

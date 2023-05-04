@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Asana to lay off 9% of its workforce to improve operating costs
  - [https://www.computerworld.com/article/3680153/asana-to-lay-off-9-of-its-workforce-to-improve-operating-costs.html#tk.rss_all](https://www.computerworld.com/article/3680153/asana-to-lay-off-9-of-its-workforce-to-improve-operating-costs.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>You'd think keeping tabs on your contacts would be about the simplest and most straightforward task imaginable in our modern connected world — wouldn't you?</p><p>I sure would. But as I've learned over the years, that perfectly understandable instinct couldn't be more inaccurate.</p><p>Effectively wrangling your contacts on Android and keeping 'em manageable, organized, and optimized for efficiency really is a fine art. And in a way, it's no wonder: Most of us have reached a point where our phones' contacts are a sprawling goulash of earthlings from all different eras of our lives — clients, colleagues, college buddies, and, of course, your cousin Carl from Poughkeepsie.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3679708/android-contacts-management-ultimate-guide.html#jump">To read this article in full, please click here</a></p></section></article>
+

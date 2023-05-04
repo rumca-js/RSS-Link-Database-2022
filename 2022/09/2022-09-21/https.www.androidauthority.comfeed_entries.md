@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to delete history on Google Chrome
  - [https://www.androidauthority.com/delete-history-google-chrome-3101758/](https://www.androidauthority.com/delete-history-google-chrome-3101758/)
@@ -146,3 +146,4 @@ Realme is asking users for feedback on a potential 'Realme Island' feature.
  - date published: 2022-09-21 06:39:28+00:00
 
 The Wireless Charger Hub could pick up where the Wireless Charger Trio left off.
+

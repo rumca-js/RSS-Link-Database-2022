@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Analysis: Big moments for women at the men's World Cup
  - [https://www.cnn.com/2022/11/30/politics/world-cup-women-pay-what-matters/index.html](https://www.cnn.com/2022/11/30/politics/world-cup-women-pay-what-matters/index.html)
@@ -39,7 +39,6 @@ For the first time in 17 months, inflation in Europe is easing.
  - [https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html](https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-30 08:24:43+00:00
- - tags: zerocovid,censorship,china
 
 Internet users in China will soon be held liable for liking posts deemed illegal or harmful, sparking fears that the world's second largest economy plans to control social media like never before.
 
@@ -63,3 +62,4 @@ The central Chinese city of Zhengzhou, home to the world's largest iPhone factor
  - date published: 2022-11-30 02:08:55+00:00
 
 The United States on Tuesday said it was deeply concerned by Cambodia's arrest of union leader Chhim Sithar and called for her release and that of other detained trade unionists.
+

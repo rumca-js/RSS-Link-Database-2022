@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Is Apple preparing its big idea for digital health?
  - [https://www.computerworld.com/article/3672410/is-apple-preparing-its-big-idea-for-digital-health.html#tk.rss_all](https://www.computerworld.com/article/3672410/is-apple-preparing-its-big-idea-for-digital-health.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Tech companies added 25,500 workers last month, one of the strongest hiring months so far this year, according to <a href="https://www.bls.gov/news.release/empsit.nr0.htm" rel="nofollow noopener" target="_blank">new data from the US Bureau of Labor Statistics</a> (BLS) and industry analysts.</p><p>So far this year, employment in in the tech industry has increased by 175,700 jobs, 46% ahead of 2021 — and 92% ahead of 2019, <a href="https://www.comptia.org/cont
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The most breakable iPhones? How the iPhone 14 fared in drop tests
  - [https://www.zdnet.com/article/the-most-breakable-iphones-how-the-iphone-14-fared-in-drop-tests/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-most-breakable-iphones-how-the-iphone-14-fared-in-drop-tests/#ftag=RSSbaffb68)
@@ -223,3 +223,4 @@ A green screen is an invaluable tool for content creators and photographers, sin
  - date published: 2022-10-18 00:46:00+00:00
 
 Not all devices should be small and ultra-portable. Samsung, Microsoft, and Apple offer some of the best large tablets that boast big screens and ample storage.
+

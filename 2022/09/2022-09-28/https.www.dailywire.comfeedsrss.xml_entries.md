@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Dem Senator Raphael Warnock On Abortion: ‘Even God Gave Us A Choice’
  - [https://www.dailywire.com/news/dem-senator-raphael-warnock-on-abortion-even-god-gave-us-a-choice](https://www.dailywire.com/news/dem-senator-raphael-warnock-on-abortion-even-god-gave-us-a-choice)
@@ -496,3 +496,4 @@ Among more than a dozen abortion and so-called reproductive health bills Califor
  - date published: 2022-09-28 07:21:11+00:00
 
 CNN&#8217;s Don Lemon repeatedly tried to get the National Hurricane Center’s new acting director on Tuesday night to link Hurricane Ian to climate change, and he was not expecting the response that he received. Lemon&#8217;s segment with Jamie Rohme comes as Hurricane Ian, a category 4 hurricane, made landfall on southern Florida Tuesday evening. &#8220;Can ...
+

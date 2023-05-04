@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Here's a medley of the most cringetastic liberals pandering on the Communist China run TikTok
  - [https://www.louderwithcrowder.com/tiktok-best-democrats](https://www.louderwithcrowder.com/tiktok-best-democrats)
@@ -137,3 +137,4 @@
 </p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

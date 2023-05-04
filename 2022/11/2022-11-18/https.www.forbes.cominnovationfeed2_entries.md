@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Super Computing And Storage On Earth And In Space
  - [https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/](https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/)
@@ -531,3 +531,4 @@ Geopolitical concerns are "very important" for customers, GlobalWafers CEO says
  - date published: 2022-11-18 01:00:00+00:00
 
 The space telescope has revealed the once-hidden features of the protostar growing within a cloud of gas and dust.
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Free PS Plus For November 2022 Leaked | GameSpot News
  - [https://www.gamespot.com/videos/free-ps-plus-for-november-2022-leaked-gamespot-news/2300-6459847/](https://www.gamespot.com/videos/free-ps-plus-for-november-2022-leaked-gamespot-news/2300-6459847/)
@@ -342,3 +342,4 @@
  - date published: 2022-10-25 00:20:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4053677-reviews_revillagewintersexpansion_site.jpg" width="480" /> New additions to The Mercenaries make the Winters' Expansion for Resident Evil Village worthwhile, but Shadows of Rose is a fleeting slice of forgettable story DLC.
+

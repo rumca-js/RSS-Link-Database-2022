@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Putin calls off mobilization of college students in two annexed regions of Ukraine, Russia state media says
  - [https://www.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-13-22/h_1a6e424239f528756ae8806ebfcd5ab0](https://www.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-13-22/h_1a6e424239f528756ae8806ebfcd5ab0)
@@ -314,3 +314,4 @@ Mehran Karimi Nasseri, the man who had lived inside the Paris-Charles de Gaulle 
  - date published: 2022-11-13 01:24:47+00:00
 
 Paralympic gold medalist swimmer Robert Griswold "maliciously targeted," groomed and sexually abused a younger, intellectually disabled teammate, a civil lawsuit filed on Friday in Colorado alleges.
+

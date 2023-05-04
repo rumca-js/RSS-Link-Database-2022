@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## These fake Zoom websites want to trick you into downloading malware
  - [https://www.techradar.com/news/these-fake-zoom-websites-want-to-trick-you-into-downloading-malware/](https://www.techradar.com/news/these-fake-zoom-websites-want-to-trick-you-into-downloading-malware/)
@@ -223,3 +223,4 @@ The Rings of Power episode 5 is the Prime Video series' darkest entry yet – bu
  - date published: 2022-09-23 04:00:18+00:00
 
 Currently available for purchase, the new Chromecast sacrifices video quality but keeps older model's audio formats.
+

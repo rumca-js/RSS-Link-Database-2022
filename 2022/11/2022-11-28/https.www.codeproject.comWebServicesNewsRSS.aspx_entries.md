@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Elimination of programmers
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59633](https://www.codeproject.com/script/News/View.aspx?nwid=59633)
@@ -76,3 +76,4 @@ For those that still write everything in Graffiti
  - date published: 2022-11-28 05:00:00+00:00
 
 Because you needed a new icon down there
+

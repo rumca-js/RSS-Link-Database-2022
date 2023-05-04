@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## NetSuite’s latest addition could be a blessing for firms on a shoestring budget
  - [https://www.techradar.com/news/netsuites-latest-addition-could-be-a-blessing-for-firms-on-a-shoestring-budget/](https://www.techradar.com/news/netsuites-latest-addition-could-be-a-blessing-for-firms-on-a-shoestring-budget/)
@@ -349,3 +349,4 @@ Amazon is expected to unveil lots of new gadgets soon, with a big launch event c
  - date published: 2022-09-28 01:16:51+00:00
 
 Ryan Reynolds has confirmed on Twitter that Hugh Jackman will reprise his role as Wolverine for the next Deadpool film.
+

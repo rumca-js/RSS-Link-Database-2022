@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Assassin's Creed Mirage is just one of three newly revealed games in the series
  - [https://www.techradar.com/news/assassins-creed-mirage-is-just-one-of-three-newly-revealed-games-in-the-series/](https://www.techradar.com/news/assassins-creed-mirage-is-just-one-of-three-newly-revealed-games-in-the-series/)
@@ -55,3 +55,4 @@ New 3D printing materials could save space agencies hundreds of thousands of dol
  - date published: 2022-09-10 10:17:56+00:00
 
 We really hope this isn’t true, and it is still just a rumor – but things sound pretty dire for Arc graphics cards.
+

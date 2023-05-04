@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Senators Begin Amending Proposed Online Streaming Act Aimed at Regulating the Internet
  - [https://www.theepochtimes.com/senators-begin-amending-proposed-online-streaming-act-aimed-at-regulating-the-internet_4888347.html](https://www.theepochtimes.com/senators-begin-amending-proposed-online-streaming-act-aimed-at-regulating-the-internet_4888347.html)
@@ -160,3 +160,4 @@ A flood levee is seen in Echuca, Victoria, Australia on Oct. 26, 2022. (AAP Imag
  - date published: 2022-11-27 00:14:35+00:00
 
 A vendor covers herself with a plastic sheet to protect from rain while she waits for customers at a market, in Lahore, Pakistan, on July 21, 2022. (AP Photo/K.M. Chaudary)
+

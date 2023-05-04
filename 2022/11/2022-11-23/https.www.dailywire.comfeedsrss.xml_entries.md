@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Lisa Murkowski Wins Re-Election In U.S. Senate, Mike Dunleavy First Alaska Governor To Win Re-Election Since 1998: Projection
  - [https://www.dailywire.com/news/lisa-murkowski-wins-re-election-in-u-s-senate-mike-dunleavy-first-alaska-governor-to-win-re-election-since-1998-projection](https://www.dailywire.com/news/lisa-murkowski-wins-re-election-in-u-s-senate-mike-dunleavy-first-alaska-governor-to-win-re-election-since-1998-projection)
@@ -370,3 +370,4 @@ This week, another evil mass shooter unleashed horror at a gay club in Colorado 
  - date published: 2022-11-23 08:57:35+00:00
 
 A Virginia Walmart manager reportedly turned the store&#8217;s breakroom into a bloodbath Tuesday night, gunning down six people, including employees, before killing himself even as shoppers were stocking up on last-minute Thanksgiving Day provisions. The gunman, who was identified by a witness but not yet by police, has been reported to be a male manager ...
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Rosjanie budują "zęby smoka". Mają ich bronić przed Ukraińcami
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosjanie-buduja-zeby-smoka-maja-ich-bronic-przed-ukraincami,nId,6364256](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosjanie-buduja-zeby-smoka-maja-ich-bronic-przed-ukraincami,nId,6364256)
@@ -335,3 +335,4 @@
  - date published: 2022-10-22 04:01:22+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-241-dzien-inwazji-rosji-relacja-na-zywo,nzId,3219,akt,220753"><img align="left" alt="Wojna w Ukrainie . 241. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-241-dzien-inwazji-rosji-relacja-na-zywo/000G8J9XEEV8J2O8-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

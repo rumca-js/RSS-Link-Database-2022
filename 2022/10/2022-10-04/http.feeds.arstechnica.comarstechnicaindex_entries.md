@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## 2022 Nobel Physics Prize goes to seminal tests of spooky action at a distance
  - [https://arstechnica.com/?p=1886630](https://arstechnica.com/?p=1886630)
@@ -97,3 +97,4 @@ What to do with recordings from a whopping 300,000 mouse neurons?
  - date published: 2022-10-04 13:10:54+00:00
 
 "NASA is not able to share the number of bids."
+

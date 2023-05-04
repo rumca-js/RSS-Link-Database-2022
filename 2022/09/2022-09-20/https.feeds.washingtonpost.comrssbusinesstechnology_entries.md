@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Biden administration announces Chips Act implementation team
  - [https://www.washingtonpost.com/technology/2022/09/20/chips-commerce-biden-team-announcement/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/20/chips-commerce-biden-team-announcement/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Joe Borg, the chief financial watchdog in Alabama, was months ahead of the Secur
  - date published: 2022-09-20 06:32:50+00:00
 
 The campaign to undermine the legitimacy of the 2020 election launched a powerful new generation of online influencers, a Washington Post analysis has found.
+

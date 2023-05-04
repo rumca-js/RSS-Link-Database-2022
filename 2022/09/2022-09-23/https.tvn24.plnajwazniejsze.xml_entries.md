@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Roger Federer zszedł ze sceny pokonany
  - [https://eurosport.tvn24.pl/roger-federer-zszed--ze-sceny-pokonany,1119460.html?source=rss](https://eurosport.tvn24.pl/roger-federer-zszed--ze-sceny-pokonany,1119460.html?source=rss)
@@ -199,3 +199,4 @@
 
 <img alt="Zieliński widzi jasne strony porażki z Holandią" src="https://tvn24.pl/najnowsze/cdn-zdjecie-y8u7oi-piotr-zielinski/alternates/LANDSCAPE_1280" />
     "Wyciągniemy z niego coś dobrego".
+

@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Deaths of Children at Iran Protests Stir Anger Among Demonstrators
  - [https://www.wsj.com/articles/deaths-of-children-at-iran-protests-stir-anger-among-demonstrators-11668800874](https://www.wsj.com/articles/deaths-of-children-at-iran-protests-stir-anger-among-demonstrators-11668800874)
@@ -76,3 +76,4 @@ The Biden administration told a U.S. court that the Saudi Arabian crown princeâ€
  - date published: 2022-11-18 02:58:00+00:00
 
 South Korean authorities report the launch, but donâ€™t say where the missile flew.
+

@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The Biggest Partnership in VR history (this is a massive deal)
  - [https://www.youtube.com/watch?v=qtYvkOanrzc](https://www.youtube.com/watch?v=qtYvkOanrzc)
@@ -22,3 +22,4 @@ Twitter:
 https://twitter.com/Thrilluwu
 Patreon:
 https://www.patreon.com/Thrillseeker
+

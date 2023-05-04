@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Hurricane Roslyn Strengthens to Category 4 and Heads Toward  Mexico
  - [https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html](https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html)
@@ -125,3 +125,4 @@ At the important Communist Party congress this week, the Chinese leader didn’t
  - date published: 2022-10-22 04:02:09+00:00
 
 Thousands of Ukrainian children have been transferred to Russia. “I didn’t want to go,” one girl told The New York Times from a foster home near Moscow.
+

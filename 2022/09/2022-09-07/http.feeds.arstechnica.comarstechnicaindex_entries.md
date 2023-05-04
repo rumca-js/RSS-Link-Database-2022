@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Hackers with Conti cybercrime group are repurposing tools for attacks on Ukraine
  - [https://arstechnica.com/?p=1879583](https://arstechnica.com/?p=1879583)
@@ -181,3 +181,4 @@ Nintendo's "coolest" series has run out of fresh ideas, both online and off.
  - date published: 2022-09-07 11:05:52+00:00
 
 Officials hope booster uptake will at least match seasonal flu shot coverage.
+

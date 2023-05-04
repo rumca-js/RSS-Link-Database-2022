@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## BeReal is hotter than TikTok. So TikTok is copying it.
  - [https://www.washingtonpost.com/technology/2022/09/17/bereal-copy-tiktok-instagram-snapchat/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/17/bereal-copy-tiktok-instagram-snapchat/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ Instagram, Snapchat and TikTok are racing to copy key features of BeReal, which 
  - date published: 2022-09-17 06:00:33+00:00
 
 In the days following Queen Elizabeth's passing, more than 40 types of meme coins have been minted, industry experts said.
+

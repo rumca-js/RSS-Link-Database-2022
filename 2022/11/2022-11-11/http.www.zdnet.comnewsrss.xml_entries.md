@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The ultimate TV gift guide: Top TVs to give away in 2022
  - [https://www.zdnet.com/home-and-office/home-entertainment/tv-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/tv-gift/#ftag=RSSbaffb68)
@@ -279,3 +279,4 @@ For many developers, that could mean a shift towards C#, Go, Java, Ruby, Rust, a
  - date published: 2022-11-11 11:21:05+00:00
 
 SlashData's 23rd Developer Nation global survey ran from June to August 2022 and reached more than 26,000 developers from 163 countries.
+

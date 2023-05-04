@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Elastic.co lays off 13% of team
  - [https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees](https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees)
@@ -823,3 +823,4 @@ I pared that idea all the way down to this: trading cards made of e-ink displays
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33795122">https://news.ycombinator.com/item?id=33795122</a></p>
 <p>Points: 120</p>
 <p># Comments: 100</p>
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## HP to cut up to 6,000 staff in plan to mitigate PC market softness
  - [https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all](https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Even as <a href="https://www.computerworld.com/article/3680448/what-amazon-twitter-meta-and-others-got-wrong-with-layoffs.html">high-profile layoffs continue</a> in the tech sector, the demand for experienced IT professionals remains high, according to <a href="https://itmanager.substack.com/p/it-pros-still-in-high-demand?publication_id=562760&amp;post_id=85450473&amp;isFreemail=false" rel="nofollow noopener" target="_blank">a new report</a> by IT employment consultancy Janco Associates.</p><p>Over 100,000 jobs for experienced IT pros remain unfilled in the US, according to Janco’s report. Those job roles include coders, application design specialists, security and compliance specialists, and blockchain/e-commence engineers at all levels.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3680731/demand-for-it-pros-remains-high-even-as-layoffs-continue.html#jump">To read this article in full, please click here</a></p></section></article>
+

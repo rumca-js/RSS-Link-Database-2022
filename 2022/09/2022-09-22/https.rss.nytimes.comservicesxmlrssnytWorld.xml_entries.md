@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine War Comes Home to Russia as Putin Imposes Draft
  - [https://www.nytimes.com/2022/09/22/world/europe/putin-russia-military-ukraine-war.html](https://www.nytimes.com/2022/09/22/world/europe/putin-russia-military-ukraine-war.html)
@@ -188,3 +188,4 @@ In towns reclaimed from Russian occupation, Ukrainian officials are working to i
  - date published: 2022-09-22 01:10:15+00:00
 
 “We cannot afford to waste another moment debating the merits of doing something vis a vis doing nothing,” he said.
+

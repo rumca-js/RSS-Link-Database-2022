@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Tesla recalls over 321,000 vehicles due to taillight software issue
  - [https://www.theverge.com/2022/11/20/23469616/tesla-recalls-over-300000-vehicles-taillight-issue-airbags](https://www.theverge.com/2022/11/20/23469616/tesla-recalls-over-300000-vehicles-taillight-issue-airbags)
@@ -96,3 +96,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/19/23467280/donald-trump-twitter-back-elon-musk-poll">Continue reading&hellip;</a>
   </p>
+

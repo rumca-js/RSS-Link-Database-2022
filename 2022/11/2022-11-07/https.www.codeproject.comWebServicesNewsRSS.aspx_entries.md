@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Bring WCF apps to the latest .NET with CoreWCF and Upgrade Assistant
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59415](https://www.codeproject.com/script/News/View.aspx?nwid=59415)
@@ -76,3 +76,4 @@ Done.
  - date published: 2022-11-07 05:00:00+00:00
 
 Beware of hackers flying drones next to your house
+

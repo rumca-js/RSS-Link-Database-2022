@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Russia covertly spent $300m to meddle abroad - US
  - [https://www.bbc.co.uk/news/world-us-canada-62897570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62897570?at_medium=RSS&at_campaign=KARANGA)
@@ -482,3 +482,4 @@ The newspapers reflect on the Royal Family's vigil for the Queen as her children
  - date published: 2022-09-13 00:13:59+00:00
 
 President Volodymyr Zelensky says the gains were made in the east and south during a swift counter-offensive.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Amazon shuts Wickr Me encrypted messaging service; enterprise service remains
  - [https://www.computerworld.com/article/3680554/amazon-shuts-wickr-me-encrypted-messaging-service-enterprise-service-remains.html#tk.rss_all](https://www.computerworld.com/article/3680554/amazon-shuts-wickr-me-encrypted-messaging-service-enterprise-service-remains.html#tk.rss_all)
@@ -35,3 +35,4 @@
 <article>
 	<section class="page">
 <p>Twitter, Stripe, Coinbase, Salesforce, Zendesk, Tesla, Meta, and others have <a href="https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html">announced significant layoffs in recent months</a>, even though unemployment rates are among the lowest in 50 years.</p><p>Facebook parent company <a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/amp/" rel="nofollow noopener" target="_blank">Meta announced last week it would cut 13% of its staff</a> or 11,000 workers, with Meta CEO Mark Zuckerberg saying he <a href="https://www.washingtonpost.com/technology/2022/11/10/meta-ecommerce-boom-stalls/" rel="nofollow noopener" target="_blank">overestimated how long the pandemic’s e-commerce boom would last</a>.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3680448/what-amazon-twitter-meta-and-others-got-wrong-with-layoffs.html#jump">To read this article in full, please click here</a></p></section></article>
+

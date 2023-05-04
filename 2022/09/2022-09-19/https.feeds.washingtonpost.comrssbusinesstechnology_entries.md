@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Disgraced crypto founder says he’s not on the run. But no one knows where he is.
  - [https://www.washingtonpost.com/business/2022/09/19/cryptocurrency-founder-do-kwon-red-notice/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/09/19/cryptocurrency-founder-do-kwon-red-notice/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ The stakes are high because of the increasingly dominate role platforms such as 
  - date published: 2022-09-19 12:27:30+00:00
 
 "Return to Monkey Island" is a nostalgic, forward-looking sequel from original series creator Ron Gilbert and a love letter for golden age adventure games.
+

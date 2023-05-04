@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Snap Reports Slowest-Ever Quarterly Growth but Adds New Users
  - [https://www.nytimes.com/2022/10/20/technology/snap-earnings-q3.html](https://www.nytimes.com/2022/10/20/technology/snap-earnings-q3.html)
@@ -34,3 +34,4 @@ Ken Paxton, the state attorney general, said products like Google Photos and the
  - date published: 2022-10-20 12:45:03+00:00
 
 A government committee issued new guidelines for how it determines penalties for foreign companies that break agreements to protect U.S. national security.
+

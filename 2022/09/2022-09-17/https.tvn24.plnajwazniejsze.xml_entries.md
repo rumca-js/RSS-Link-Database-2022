@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Bal Nocy Letniej Fundacji TVN. Na licytacji rakieta Igi Świątek i spotkanie z Robertem Makłowiczem
  - [https://tvn24.pl/polska/bal-nocy-letniej-fundacji-tvn-zbiorka-na-budowe-centrum-psychiatrii-i-onkologii-dzieci-i-mlodziezy-6117618?source=rss](https://tvn24.pl/polska/bal-nocy-letniej-fundacji-tvn-zbiorka-na-budowe-centrum-psychiatrii-i-onkologii-dzieci-i-mlodziezy-6117618?source=rss)
@@ -255,3 +255,4 @@
 
 <img alt="Mówią o sobie " src="https://tvn24.pl/najnowsze/cdn-zdjecie-mblmf2-tradwife-6116779/alternates/LANDSCAPE_1280" />
     Twierdzą, że feminizm nie tyle zawiódł, ile "zmęczył" kobiety.
+

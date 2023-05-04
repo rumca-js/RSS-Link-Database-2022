@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## How to install Android apps on Windows 11
  - [https://www.digitaltrends.com/computing/how-to-use-android-apps-in-windows-11/](https://www.digitaltrends.com/computing/how-to-use-android-apps-in-windows-11/)
@@ -27,3 +27,4 @@ AMD has cut the prices for its Ryzen 7000-series processors by up to $120 in som
  - date published: 2022-11-23 00:04:31.120202+00:00
 
 Scientists continue looking for ways to make future chips more powerful and efficient than ever. The answer may lie in graphene.
+

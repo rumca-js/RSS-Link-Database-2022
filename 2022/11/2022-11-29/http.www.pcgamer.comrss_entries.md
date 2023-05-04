@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## A new 'rogue-looter shooter' about the machine betrayal of humanity is going into open beta soon
  - [https://www.pcgamer.com/a-new-rogue-looter-shooter-about-the-machine-betrayal-of-humanity-is-going-into-open-beta-soon](https://www.pcgamer.com/a-new-rogue-looter-shooter-about-the-machine-betrayal-of-humanity-is-going-into-open-beta-soon)
@@ -251,3 +251,4 @@ The Cyberpunk 2077 turnaround was felt in CDPR's coffers.
  - date published: 2022-11-29 00:02:44+00:00
 
 A wave of Arma 3 gameplay videos purporting to be from the war in Ukraine has prompted the studio to speak out.
+

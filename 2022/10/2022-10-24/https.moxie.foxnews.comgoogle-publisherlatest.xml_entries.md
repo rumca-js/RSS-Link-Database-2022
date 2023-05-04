@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Teachers' union head silent over latest US test scores showing troubling decline in math, reading
  - [https://www.foxnews.com/media/teachers-union-head-silent-latest-us-test-scores-showing-troubling-decline-math-reading](https://www.foxnews.com/media/teachers-union-head-silent-latest-us-test-scores-showing-troubling-decline-math-reading)
@@ -1161,3 +1161,4 @@ The San Francisco 49ers got a huge jolt when they acquired Christian McCaffrey, 
  - date published: 2022-10-24 00:03:40+00:00
 
 A CBS focus group of parents agreed that 'woke' school curriculums have become a main concern for them and will be a voting priority in the upcoming midterms.
+

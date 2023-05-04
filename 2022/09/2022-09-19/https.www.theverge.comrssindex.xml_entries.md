@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Emoji statuses and ‘infinite’ reactions are among Telegram’s latest features
  - [https://www.theverge.com/2022/9/19/23360878/telegram-emoji-reactions-status-profile-link-update](https://www.theverge.com/2022/9/19/23360878/telegram-emoji-reactions-status-profile-link-update)
@@ -328,3 +328,4 @@
     </figure>
 
   <p id="kLXEud">Google’s big hardware event isn’t until next month but the leaks have already begun, this time showing pricing for 
+

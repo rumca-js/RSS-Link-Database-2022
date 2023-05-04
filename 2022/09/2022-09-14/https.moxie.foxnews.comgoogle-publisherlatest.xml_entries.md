@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## What makes fentanyl a 'weapon of mass destruction': Texas sheriff
  - [https://www.foxnews.com/media/fentanyl-weapon-mass-destruction-texas-sheriff](https://www.foxnews.com/media/fentanyl-weapon-mass-destruction-texas-sheriff)
@@ -1105,3 +1105,4 @@ Bret Baier spoke with Ben Domenech on "Special Report" about the sprint to the m
  - date published: 2022-09-14 00:10:42+00:00
 
 NRCC chairman Rep. Tom Emmer, D-Minn., blasted President Biden for his White House celebration of the Inflation Reduction Act's passage amid an uptick in inflation in August.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Black Panther Lives with Wakanda Forever's Mighty Box Office Open
  - [https://gizmodo.com/black-panther-wakanda-forever-box-office-open-1849777950](https://gizmodo.com/black-panther-wakanda-forever-box-office-open-1849777950)
@@ -27,3 +27,4 @@
  - date published: 2022-11-13 15:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--vPYh22Ez--/c_fit,fl_progressive,q_80,w_636/81436b6f431ed7a8dd9fc68e856ed8e5.jpg" /><p>Just before the weekend started, it was reported that longtime Batman voice actor <a href="https://gizmodo.com/kevin-conroy-dead-obituary-batman-dc-comics-rip-1849772917">Kevin Conroy</a> passed away at the age of 66 following a short battle with cancer. And similar to what part of nerd Twitter has been doing over the weekend, we asked you about some of <a href="https://gizmodo.com/open-channel-kevin-conroy-batman-moments-1849773121">your favorite scenes</a> that encapsulated why Conroy’s take…</p><p><a href="https://gizmodo.com/kevin-conroy-favorite-batman-moments-chosen-by-fans-1849776313">Read more...</a></p>
+

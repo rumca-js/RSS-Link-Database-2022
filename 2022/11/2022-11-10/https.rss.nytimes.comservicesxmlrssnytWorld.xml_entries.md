@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Moves Forward in South, With Little Resistance From Russia
  - [https://www.nytimes.com/2022/11/10/world/europe/ukraine-kherson-russia.html](https://www.nytimes.com/2022/11/10/world/europe/ukraine-kherson-russia.html)
@@ -139,3 +139,4 @@ Each catastrophe is a test of what kind of society we’ve built. And each recov
  - date published: 2022-11-10 05:12:01+00:00
 
 Takeaways from the U.S. midterms.
+

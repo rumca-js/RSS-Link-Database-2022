@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Razer’s kitty-ears headset now comes with bear and bunny ears, too
  - [https://www.pcworld.com/article/1354247/razers-kitty-ear-headset-now-comes-with-bear-and-bunny-ears-too.html](https://www.pcworld.com/article/1354247/razers-kitty-ear-headset-now-comes-with-bear-and-bunny-ears-too.html)
@@ -15,3 +15,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Razer is no stranger to mobile gaming, having released two Android-powered phones and <a href="https://www.pcworld.com/article/540331/540331.html" rel="noreferrer noopener" target="_blank">several phone controllers</a> in the past. But the new Razer Edge is its most ambitious mobile gaming device to date. Ostensibly a small Android-powered tablet (not, we are assured, another p
+

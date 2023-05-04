@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Brittney Griner Has Begun Serving Nine-Year Sentence at a Russian Penal Colony
  - [https://www.wsj.com/articles/brittney-griner-has-begun-serving-nine-year-sentence-at-a-russian-penal-colony-11668722699](https://www.wsj.com/articles/brittney-griner-has-begun-serving-nine-year-sentence-at-a-russian-penal-colony-11668722699)
@@ -104,3 +104,4 @@ The amnesty is unlikely to improve Myanmar’s relations with the West, which fr
  - date published: 2022-11-17 04:27:00+00:00
 
 The short-range missile fired off the North’s east coast before landing in waters between peninsula and Japan.
+

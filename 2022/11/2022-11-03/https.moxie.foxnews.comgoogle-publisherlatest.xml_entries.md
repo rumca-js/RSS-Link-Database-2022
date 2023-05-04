@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Selena Gomez says she may not be able to carry children due to bipolar disorder medications
  - [https://www.foxnews.com/entertainment/selena-gomez-says-may-not-be-able-carry-children-bipolar-disorder-medications](https://www.foxnews.com/entertainment/selena-gomez-says-may-not-be-able-carry-children-bipolar-disorder-medications)
@@ -1399,3 +1399,4 @@ From 2011 to 2022, the Manhattan DA's office and HSI have recovered over 2,500 a
  - date published: 2022-11-03 00:05:14+00:00
 
 Gwen Stefani is revealing how she and country music star Blake Shelton started their relationship. "I didn't see it coming," the "Hollaback Girl" singer admitted.
+

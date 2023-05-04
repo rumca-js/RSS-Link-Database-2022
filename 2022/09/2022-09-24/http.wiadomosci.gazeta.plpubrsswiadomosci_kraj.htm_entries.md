@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Kraków. Zwolnienie zastępcy komendanta policji za brak interwencji w czasie protestu przed siedzibą PiS
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28949342,krakow-zwolnienie-zastepcy-komendanta-policji-za-brak-interwencji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28949342,krakow-zwolnienie-zastepcy-komendanta-policji-za-brak-interwencji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -48,3 +48,4 @@
  - date published: 2022-09-24 07:52:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/db/9b/1b/z28947675M,Pogoda--Snieg-w-Tatrach.jpg" vspace="2" />Jaka pogoda w weekend w Polsce? Praktycznie w całym kraju czeka nas ocieplenie - gdzieniegdzie na termometrach będzie nawet 19 stopni Celsjusza. Z kolei wysoko w górach panują naprawdę trudne warunki pogodowe - na szczytach miejscami zalega nawet metrowa warstwa śniegu. Wydane zostało zagrożenie lawinowe.
+

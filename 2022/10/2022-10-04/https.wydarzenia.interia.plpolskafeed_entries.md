@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Wniosek o dodatek węglowy. Jak go wypełnić, by dostać trzy tysiące zł?
  - [https://wydarzenia.interia.pl/raporty/raport-kryzys-energetyczny/aktualnosci/news-wniosek-o-dodatek-weglowy-jak-go-wypelnic-by-dostac-trzy-tys,nId,6311461](https://wydarzenia.interia.pl/raporty/raport-kryzys-energetyczny/aktualnosci/news-wniosek-o-dodatek-weglowy-jak-go-wypelnic-by-dostac-trzy-tys,nId,6311461)
@@ -6,3 +6,4 @@
  - date published: 2022-10-04 06:35:23+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-kryzys-energetyczny/aktualnosci/news-wniosek-o-dodatek-weglowy-jak-go-wypelnic-by-dostac-trzy-tys,nId,6311461"><img align="left" alt="Wniosek o dodatek węglowy. Jak go wypełnić, by dostać trzy tysiące zł?" src="https://i.iplsc.com/wniosek-o-dodatek-weglowy-jak-go-wypelnic-by-dostac-trzy-tys/000G4JXL0KWUKBUC-C321.jpg" /></a>Jak wypełnić wniosek o dodatek węglowy? Formularz jest niezwykle prosty, a warunkiem otrzymania 3 tys. zł jest wpis lu
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Microsoft Quarterly Earnings Show Slowest Growth in Five Years
  - [https://www.nytimes.com/2022/10/25/technology/microsoft-earnings.html](https://www.nytimes.com/2022/10/25/technology/microsoft-earnings.html)
@@ -55,3 +55,4 @@ The automaker sold more cars in the third quarter after struggling with a shorta
  - date published: 2022-10-25 08:40:14+00:00
 
 The messaging app was down on Tuesday morning. WhatsApp said it was working to restore service as quickly as possible.
+

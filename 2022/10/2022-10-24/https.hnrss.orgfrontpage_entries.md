@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Antibody responses to Omicron BA.4/BA.5 bivalent mRNA vaccine booster shot
  - [https://www.biorxiv.org/content/10.1101/2022.10.22.513349v1](https://www.biorxiv.org/content/10.1101/2022.10.22.513349v1)
@@ -905,3 +905,4 @@ Now there is veracrypt based on the same source code, but I am not sure I trust 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33311807">https://news.ycombinator.com/item?id=33311807</a></p>
 <p>Points: 23</p>
 <p># Comments: 3</p>
+

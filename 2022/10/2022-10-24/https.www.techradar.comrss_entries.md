@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## YouTube is finally letting you zoom in and out on videos
  - [https://www.techradar.com/news/youtube-is-finally-letting-you-zoom-in-and-out-on-videos/](https://www.techradar.com/news/youtube-is-finally-letting-you-zoom-in-and-out-on-videos/)
@@ -216,3 +216,4 @@ Improvements to the Dynamic Island and shared photo libraries in iCloud are amon
  - date published: 2022-10-24 09:02:07+00:00
 
 Discord's PS5 voice integration has been added to the app's beta, signalling an update is coming soon.
+

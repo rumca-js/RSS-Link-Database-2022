@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET 7 Performance Improvements in .NET MAUI
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59452](https://www.codeproject.com/script/News/View.aspx?nwid=59452)
@@ -118,3 +118,4 @@ An abbreviated list
  - date published: 2022-11-10 05:00:00+00:00
 
 Because 'copy and paste' is too danged difficult.
+

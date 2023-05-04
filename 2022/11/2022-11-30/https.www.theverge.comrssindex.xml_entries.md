@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk says Tim Cook told him Apple ‘never considered’ removing Twitter
  - [https://www.theverge.com/2022/11/30/23487040/elon-musk-tim-cook-apple-threatening-twitter](https://www.theverge.com/2022/11/30/23487040/elon-musk-tim-cook-apple-threatening-twitter)
@@ -735,3 +735,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/29/23484470/apple-iphone-14-pro-production-delay-foxconn-kuo">Continue reading&hellip;</a>
   </p>
+

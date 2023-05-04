@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Polacy dotarli do Kataru. Pierwsze wrażenia i nadchodzące plany
  - [https://eurosport.tvn24.pl/bia-o-czerwoni-bez-problem-w-dotarli-do-kataru--pierwsze-wra-enia-i-nadchodz-ce-plany,1125118.html?source=rss](https://eurosport.tvn24.pl/bia-o-czerwoni-bez-problem-w-dotarli-do-kataru--pierwsze-wra-enia-i-nadchodz-ce-plany,1125118.html?source=rss)
@@ -159,3 +159,4 @@
 
 <img alt="Pozytywy po meczu Polaków. Doliczyliśmy się minimum pięciu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-37ifba-polska-chile/alternates/LANDSCAPE_1280" />
     Warto jednak zwrócić uwagę na pozytywne aspekty tego występu, których nie zabrakło.
+

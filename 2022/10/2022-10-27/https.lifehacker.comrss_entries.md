@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 12 Things You Didn't Know About Halloween
  - [https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381](https://lifehacker.com/12-things-you-didnt-know-about-halloween-1849712381)
@@ -132,3 +132,4 @@
  - date published: 2022-10-27 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0fkhdTd0--/c_fit,fl_progressive,q_80,w_636/d1b5dd41760f91d918cb740f025bdf5f.jpg" /><p>It’s hard to keep track of the many ways malware can infect your devices, but “typosquatting” is one of the sneakiest. As the name implies, hackers create websites, download links, and other legit-looking but malicious URLs including slight misspellings that can be easy to overlook.<br /></p><p><a href="https://lifehacker.com/hackers-and-bad-actors-are-weaponizing-your-typos-1849706716">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Marvel's 'Armor Wars' Shifts From Disney Plus Series to Movie, Report Says     - CNET
  - [https://www.cnet.com/culture/entertainment/marvels-armor-wars-shifts-from-disney-plus-series-to-movie-report-says/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/marvels-armor-wars-shifts-from-disney-plus-series-to-movie-report-says/#ftag=CADf328eec)
@@ -902,3 +902,4 @@ TMZ is reporting that the rapper mostly likely died of cardiac arrest.
  - date published: 2022-09-29 00:36:00+00:00
 
 See intense lightning spark around surrounding the dangerous Category 4 storm as it makes landfall in Florida.
+

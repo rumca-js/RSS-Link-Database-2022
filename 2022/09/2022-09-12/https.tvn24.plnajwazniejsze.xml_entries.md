@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Bayernie, uważaj!". Niemcy piszą o dodatkowym ostrzeżeniu dotyczącym Lewandowskiego
  - [https://eurosport.tvn24.pl/-bayernie--uwa-aj----niemcy-pisz--o-dodatkowym-ostrze-eniu-dotycz-cym-lewandowskiego,1118315.html?source=rss](https://eurosport.tvn24.pl/-bayernie--uwa-aj----niemcy-pisz--o-dodatkowym-ostrze-eniu-dotycz-cym-lewandowskiego,1118315.html?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="19-letni mistrz US Open i nowy lider rankingu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-cajpse-carlos-alcaraz-wygral-us-open-2022/alternates/LANDSCAPE_1280" />
     Carlos Alcaraz pokonał Caspera Ruuda w finale US Open.
+

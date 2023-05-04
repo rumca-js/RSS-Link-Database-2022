@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Do alkoholizmu nie trzeba 20 lat. Jarosław Kaczyński się myli
  - [https://wydarzenia.interia.pl/kraj/news-do-alkoholizmu-nie-trzeba-20-lat-jaroslaw-kaczynski-sie-myli,nId,6395547](https://wydarzenia.interia.pl/kraj/news-do-alkoholizmu-nie-trzeba-20-lat-jaroslaw-kaczynski-sie-myli,nId,6395547)
@@ -20,3 +20,4 @@
  - date published: 2022-11-07 08:23:30+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-abonament-rtv-juz-wkrotce-w-gore-te-grupy-nie-musza-placic-n,nId,6387432"><img align="left" alt="Abonament RTV już wkrótce w górę. Te grupy nie muszą płacić. Należysz do jednej z nich?" src="https://i.iplsc.com/abonament-rtv-juz-wkrotce-w-gore-te-grupy-nie-musza-placic-n/000CY2CC79OPHB3J-C321.jpg" /></a>Abonament radiowo-telewizyjny to jedna z opłat, dzięki której funkcjonują publiczne media. Już wiadomo, że w 2023 roku stawki wzrosną. Ile będzie kosztował abonament RTV? I kto jest z niego zwolniony?</p><br clear="all" />
+

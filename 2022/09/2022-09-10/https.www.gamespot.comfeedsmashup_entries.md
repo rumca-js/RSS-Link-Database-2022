@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## D23 Expo 2022: The Best Costumes, Props, And Star Wars Droids On Display In The Disney 100 Exhibit
  - [https://www.gamespot.com/gallery/d23-expo-2022-the-best-costumes-props-and-star-wars-droids-on-display-in-the-disney-100-exhibit/2900-4325/](https://www.gamespot.com/gallery/d23-expo-2022-the-best-costumes-props-and-star-wars-droids-on-display-in-the-disney-100-exhibit/2900-4325/)
@@ -272,3 +272,4 @@
  - date published: 2022-09-10 00:27:00+00:00
 
 <p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4033450-untitled-1-recovered.jpg" /><br /><h3><p>It's D23 time, a yearly celebration of everything coming from Disney in the near future. Friday's events covered games like the upcoming one featuring <a href="https://www.gamespot.com/articles/uncharted-directors-new-marvel-game-stars-captain-america-and-black-panther/1100-6507325/">Captain America and Black Panther</a>. However, a good chunk of Disney's Friday was showing 
+

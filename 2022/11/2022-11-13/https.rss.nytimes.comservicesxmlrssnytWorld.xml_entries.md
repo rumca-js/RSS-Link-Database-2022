@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia Tried to Absorb Ukraine’s Kherson City. It Didn’t Work.
  - [https://www.nytimes.com/2022/11/13/world/europe/russia-kherson-ukraine.html](https://www.nytimes.com/2022/11/13/world/europe/russia-kherson-ukraine.html)
@@ -118,3 +118,4 @@ President Volodymyr Zelensky of Ukraine promised to rebuild critical infrastruct
  - date published: 2022-11-13 08:00:15+00:00
 
 The West African nation of Benin adopted one of the continent’s most liberal laws on abortion last year after hearing testimony from gynecologists about women dying from illegal abortions.
+

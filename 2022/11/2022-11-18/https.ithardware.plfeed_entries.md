@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Poglądy polityczne i orientacja seksualna znikają z profili na Facebooku
  - [https://ithardware.pl/aktualnosci/poglady_polityczne_i_orientacja_seksualna_znikaja_z_profili_na_facebooku-24428.html](https://ithardware.pl/aktualnosci/poglady_polityczne_i_orientacja_seksualna_znikaja_z_profili_na_facebooku-24428.html)
@@ -173,3 +173,4 @@ Według najnowszych doniesien, sytuacja w Twitterze dynamicznie się zmienia i n
 
 Moore Threads MTT S80 to nowa karta graficzna...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/moore_threads_mtt_s80_chinska_karta_graficzna_dla_graczy_przetestowana_spelnia_oczekiwania-24410.html">https://ithardware.pl/aktualnosci/moore_threads_mtt_s80_chinska_karta_graficzna_dla_graczy_przetestowana_spelnia_oczekiwania-24410.html</a></p>
+

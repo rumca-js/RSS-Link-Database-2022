@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Apollo update transforms the iPhone 14 Pro’s Dynamic Island into a home for ‘Pixel Pals’
  - [https://www.engadget.com/apollo-reddit-iphone-14-pro-dynamic-island-pixel-pals-update-221206984.html?src=rss](https://www.engadget.com/apollo-reddit-iphone-14-pro-dynamic-island-pixel-pals-update-221206984.html?src=rss)
@@ -48,3 +48,4 @@
  - date published: 2022-09-17 06:46:49+00:00
 
 <p>In August, <a href="https://www.engadget.com/lastpass-fido-passwordless-vault-152525387.html">LastPass</a> had <a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/">admitted</a> that an &quot;unauthorized party&quot; gained entry into its system. Any news about a password manager getting hacked can be alarming, but the company is now reassuring its users that their logins and other information weren't compromised in the event.</p><p>
+

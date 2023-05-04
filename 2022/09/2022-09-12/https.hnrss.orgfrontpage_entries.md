@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Li-Ion Battery Warehouse Fire Put Out with Portland Cement
  - [https://abc7chicago.com/morris-fire-update-evacuation/10849672/](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
@@ -810,3 +810,4 @@ timecube.2enp.com<p>Things on the fringes of sanity, or sometimes far over the l
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32804468">https://news.ycombinator.com/item?id=32804468</a></p>
 <p>Points: 4</p>
 <p># Comments: 1</p>
+

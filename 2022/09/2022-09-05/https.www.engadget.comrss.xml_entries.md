@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Apple Watch Pro renders and leaked cases show off a larger screen and new button
  - [https://www.engadget.com/apple-watch-pro-leaked-case-renders-button-223305424.html?src=rss](https://www.engadget.com/apple-watch-pro-leaked-case-renders-button-223305424.html?src=rss)
@@ -55,3 +55,4 @@
  - date published: 2022-09-05 01:00:33+00:00
 
 <p>Over its long history, LG has never been shy about jumping on some unusual bandwagons. So it should come as no surprise that the South Korean electronics giant is getting into NFTs. Starting today, if you live in the US and own a webOS 5.0 or later TV, you’ll have access to the company’s new LG Art Lab platform. It’s a marketplace for buying and selling non-fungible tokens available directly through your TV’s home screen. It’s based on the Hedera network and uses LG’s new Wallypto mobile wall
+

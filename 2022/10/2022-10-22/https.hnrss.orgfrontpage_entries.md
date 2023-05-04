@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Tell HN: I was tired of being a perfectionist so I built an app within 24 hours
  - [https://news.ycombinator.com/item?id=33303269](https://news.ycombinator.com/item?id=33303269)
@@ -589,3 +589,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33294448">https://news.ycombinator.com/item?id=33294448</a></p>
 <p>Points: 32</p>
 <p># Comments: 5</p>
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## YouTube suspended Louder with Crowder for our episode about Elon Musk's Twitter takeover
  - [https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk](https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk)
@@ -88,3 +88,4 @@
 <a href="https://youtu.be/VnF6h7sxWBg" target="_blank">youtu.be</a>
 </small>
 </p>
+

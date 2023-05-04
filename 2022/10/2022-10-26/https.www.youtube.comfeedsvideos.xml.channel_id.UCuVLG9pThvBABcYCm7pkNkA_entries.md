@@ -1,4 +1,4 @@
-# Source Climate Town, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA, Source language: en-US
+# Source:Climate Town, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA, language:en-US
 
 ## The News Media Is Selling You Out | Climate Town
  - [https://www.youtube.com/watch?v=jkhGJUTW3ag](https://www.youtube.com/watch?v=jkhGJUTW3ag)
@@ -32,3 +32,4 @@ Written by Rollie Williams and Matt Nelsen with help from Ben Boult & Nicole Con
 Shot by Matt Nelsen
 Opening Graphics by Ian MK Cessna (https://ianhasawebsite.com/) 
 Theme music by Gratis (https://www.gratistheband.com/)
+

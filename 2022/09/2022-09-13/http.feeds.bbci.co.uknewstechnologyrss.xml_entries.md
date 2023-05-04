@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Ethereum Merge: How one big cryptocurrency is going green
  - [https://www.bbc.co.uk/news/technology-62891715?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62891715?at_medium=RSS&at_campaign=KARANGA)
@@ -18,6 +18,6 @@ Publishers should be compensated over Google's 'anti-competitive' digital ad pra
  - [https://www.bbc.co.uk/news/technology-62889754?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62889754?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-09-13 15:40:30+00:00
- - tags: twitter,security
 
 Twitter's former head of security Peiter Zatko has been giving evidence to US lawmakers.
+

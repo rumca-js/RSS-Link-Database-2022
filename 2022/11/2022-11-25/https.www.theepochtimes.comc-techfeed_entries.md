@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## US Bans Huawei, ZTE Telecom Equipment Citing Threats to National Security
  - [https://www.theepochtimes.com/us-bans-huawei-zte-telecom-equipment-citing-threat-to-national-security_4886197.html](https://www.theepochtimes.com/us-bans-huawei-zte-telecom-equipment-citing-threat-to-national-security_4886197.html)
@@ -48,3 +48,4 @@ Elon Musk on a smartphone placed on printed Twitter logos on April 28, 2022. (Da
  - date published: 2022-11-25 01:29:01+00:00
 
 SpaceX owner and Tesla CEO Elon Musk speaks during a conversation with legendary game designer Todd Howard (not pictured) at the E3 gaming convention in Los Angeles on June 13, 2019. (Mike Blake/Reuters)
+

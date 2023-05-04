@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Top marks! Headmaster who runs his own chip shop is in line for prestigious award
  - [https://www.dailymail.co.uk/news/article-11350619/Top-marks-Headmaster-runs-chip-shop-line-prestigious-award.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11350619/Top-marks-Headmaster-runs-chip-shop-line-prestigious-award.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1781,3 +1781,4 @@ Sir Iain Duncan Smith questioned yesterday whether anyone could lead the Conserv
  - date published: 2022-10-24 00:02:31+00:00
 
 President Volodymyr Zelensky's wife, Olena Zelenska, issued a plea for more weapons as she met some of the million Ukrainian refugees who have fled to German cities including Frankfurt.
+

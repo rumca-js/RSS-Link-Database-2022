@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Ukraiński minister obrony: Nie wierzę, że Rosja użyje broni jądrowej
  - [https://www.bankier.pl/wiadomosc/Ukrainski-minister-obrony-Nie-wierze-ze-Rosja-uzyje-broni-jadrowej-8437686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ukrainski-minister-obrony-Nie-wierze-ze-Rosja-uzyje-broni-jadrowej-8437686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -515,3 +515,4 @@ być jednak spokojni, pracy dla kasjerów nie powinno zabraknąć.</p>
  - date published: 2022-11-10 03:01:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/1/5e70cb01af9d47-948-568-0-0-4000-2399.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Chiny działają coraz bardziej destrukcyjnie, a firmy prowadzące interesy w Chinach muszą zdać sobie sprawę z ryzyka – ostrzegła w środę kanadyjski biznes minister spraw zagranicznych Melanie Joly.</p>
+

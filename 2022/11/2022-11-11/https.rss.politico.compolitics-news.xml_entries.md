@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Liberal nonprofit spent $174M in 2021 as big money kept flowing after Trump
  - [https://www.politico.com/news/2022/11/11/liberal-nonprofit-big-money-trump-00066522](https://www.politico.com/news/2022/11/11/liberal-nonprofit-big-money-trump-00066522)
@@ -27,3 +27,4 @@ Greg Landsman, a Democrat, ousted 13-term incumbent Republican Rep. Steve Chabot
  - date published: 2022-11-11 04:30:00+00:00
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## GM stops taking reservations for Hummer EV
  - [https://www.cnn.com/2022/09/22/business/gm-hummer-ev/index.html](https://www.cnn.com/2022/09/22/business/gm-hummer-ev/index.html)
@@ -83,3 +83,4 @@ Stealing older model Hyundai and Kia cars and SUVs became a scary social media t
  - date published: 2022-09-22 03:02:02+00:00
 
 Around 200 whales have died and just 35 remain alive following a mass stranding in Australia this week, rescue teams say.
+

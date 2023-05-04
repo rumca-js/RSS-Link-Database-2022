@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Nicaragua takes CNN en Español signal off the air
  - [https://www.cnn.com/2022/09/22/americas/nicaragua-cnn-espanol-air-intl-latam/index.html](https://www.cnn.com/2022/09/22/americas/nicaragua-cnn-espanol-air-intl-latam/index.html)
@@ -552,3 +552,4 @@ The day began with an escalation of force from Russian President Vladimir Putin,
  - date published: 2022-09-22 00:10:52+00:00
 
 Russian President Vladimir Putin has called for a partial military mobilization in Russia amid the ongoing war in Ukraine. CNN's Nick Paton Walsh reports.
+

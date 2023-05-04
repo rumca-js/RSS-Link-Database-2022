@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Bonds bailout aimed at stemming financial chaos has cost £3.7billion so far
  - [https://www.dailymail.co.uk/news/article-11281409/Bonds-bailout-aimed-stemming-financial-chaos-cost-3-7billion-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11281409/Bonds-bailout-aimed-stemming-financial-chaos-cost-3-7billion-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1883,3 +1883,4 @@ A Tory Police and Crime Commissioner has called for cannabis to be reclassified 
  - date published: 2022-10-04 00:02:34+00:00
 
 Michelle Ainsworth, the new boss of the Canberra bureau of ABC, announced to staff in a 10am editorial meeting that the beer fridge was being removed.
+

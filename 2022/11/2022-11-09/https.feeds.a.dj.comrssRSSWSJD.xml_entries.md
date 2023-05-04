@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Binance Is Said to Be Likely to Walk Away from Deal to Buy FTX
  - [https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=rss_Technology](https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=rss_Technology)
@@ -83,3 +83,4 @@ Taiwan Semiconductor Manufacturing, the world’s largest contract chip maker, p
  - date published: 2022-11-09 02:59:00+00:00
 
 The sale this month of 19.5 million shares came after the billionaire completed his $44 billion purchase of Twitter.
+

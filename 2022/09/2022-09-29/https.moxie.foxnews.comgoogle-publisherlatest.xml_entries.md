@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Rep. Demings uses Hurricane Ian to tout Inflation Reduction Act’s climate provisions: ‘So glad’ it passed
  - [https://www.foxnews.com/media/rep-demings-hurricane-ian-tout-inflation-reduction-acts-climate-provisions-glad-passed](https://www.foxnews.com/media/rep-demings-hurricane-ian-tout-inflation-reduction-acts-climate-provisions-glad-passed)
@@ -1280,3 +1280,4 @@ Fox News host Jesse Watters voices his concerns over the destruction from Hurric
  - date published: 2022-09-29 00:01:47+00:00
 
 With the Yankees clinching the AL East on Tuesday, many starters have the night off Wednesday — but Anthony Rizzo still has an important job to do.
+

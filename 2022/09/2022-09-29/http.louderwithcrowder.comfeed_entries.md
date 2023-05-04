@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Army's first trans officer shatters another glass ceiling, becomes first trans officer indicted for spying
  - [https://www.louderwithcrowder.com/army-officier-indicted](https://www.louderwithcrowder.com/army-officier-indicted)
@@ -55,3 +55,4 @@
  - date published: 2022-09-29 12:10:57+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31841983&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>I had collected a bunch of videos of Florida Man doing Florida Man things while Ian rocked the state like a hurricane. It was for a compilation blog post. Then while eating tacos, a site I frequent had the same idea with most of the same videos and almost the exact same title I was thinking. Spoiler: most of us right-wing bloggers share t
+

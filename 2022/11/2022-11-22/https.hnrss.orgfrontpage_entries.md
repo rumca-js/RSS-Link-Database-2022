@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Against Parasite Publishers: Making Journals Free
  - [https://zenodo.org/record/7212922](https://zenodo.org/record/7212922)
@@ -528,7 +528,6 @@
  - [https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-22 06:45:48+00:00
- - tags: apple,privacy,tracking
 
 <p>Article URL: <a href="https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/">https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33702830">https://news.ycombinator.com/item?id=33702830</a></p>
@@ -676,3 +675,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33700136">https://news.ycombinator.com/item?id=33700136</a></p>
 <p>Points: 10</p>
 <p># Comments: 2</p>
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Get the Pixel 7’s ‘Feathers’ wallpapers for your phone
  - [https://www.androidauthority.com/google-pixel-7-wallpapers-3219883/](https://www.androidauthority.com/google-pixel-7-wallpapers-3219883/)
@@ -188,3 +188,4 @@ Android has changed a lot in recent years, but One UI looks pretty much the same
  - date published: 2022-10-12 08:39:08+00:00
 
 Google's stepping up its cloud gaming efforts without Stadia, and more on the Fat Bear Week scandal that rocked the internet.
+

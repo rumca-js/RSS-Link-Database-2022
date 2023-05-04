@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Egypt's Climate Summit Was a "Rehearsal" for COP28 in Dubai
  - [https://theintercept.com/2022/11/26/egypt-cop27-climate-human-rights/](https://theintercept.com/2022/11/26/egypt-cop27-climate-human-rights/)
@@ -15,3 +15,4 @@
 
 <p>The FBI paid a convicted sex offender $90,000 to set up his friend and his friend’s mentally ill buddy in a terrorism sting. </p>
 <p>The post <a href="https://theintercept.com/2022/11/26/fbi-sting-informant-abu-khalid-abdul-latif/" rel="nofollow">A Criminal Ratted Out His Friend to the FBI. Now He&#8217;s Trying to Make Amends.</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

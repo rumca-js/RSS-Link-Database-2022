@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Stop Using These Arrogant-Sounding Phrases at Work
  - [https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215](https://lifehacker.com/stop-using-these-arrogant-sounding-phrases-at-work-1849822215)
@@ -20,3 +20,4 @@
  - date published: 2022-11-27 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--dxxHodzb--/c_fit,fl_progressive,q_80,w_636/d094a6cce3be0f4ffd14b2c95b36bada.jpg" /><p>Children can be fickle creatures. A toy they wanted more than anything else could lose its appeal in a matter of minutes. But through fads and trends, one item has kept kids entertained for generation: A (large) cardboard box.</p><p><a href="https://lifehacker.com/yes-you-really-can-gift-your-little-kid-a-cardboard-bo-1849822223">Read more...</a></p>
+

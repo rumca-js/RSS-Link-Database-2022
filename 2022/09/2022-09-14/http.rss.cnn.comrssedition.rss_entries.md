@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Accuser sues former New York Gov. Cuomo for sexual harassment and discrimination
  - [https://www.cnn.com/2022/09/14/politics/cuomo-sued-by-accuser/index.html](https://www.cnn.com/2022/09/14/politics/cuomo-sued-by-accuser/index.html)
@@ -407,6 +407,13 @@ A coin dating back to a Jewish rebellion against Roman rule almost 2,000 years a
 
 For eight seasons, Bayern Munich fans had become accustomed to watching Robert Lewandowski find the back of the net on almost a weekly basis.
 
+## Photographer captures the unseen side of Dubai
+ - [https://www.cnn.com/travel/gallery/photographer-nostalgia-dubai-now-spc-intl/index.html](https://www.cnn.com/travel/gallery/photographer-nostalgia-dubai-now-spc-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-09-14 08:24:39+00:00
+
+Many photographers choose to illustrate the luxury and scale that Dubai is known for, but Preet Uday shows a different side of the city.
+
 ## How to live without chronic back pain, according to an expert
  - [https://www.cnn.com/2022/09/14/health/chronic-back-pain-prevention-wellness/index.html](https://www.cnn.com/2022/09/14/health/chronic-back-pain-prevention-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -526,3 +533,4 @@ Russian businessman Ivan Pechorin, the top manager for the Corporation for the D
  - date published: 2022-09-14 00:00:14+00:00
 
 Tuesday's inflation reading wasn't what anyone was hoping for.
+

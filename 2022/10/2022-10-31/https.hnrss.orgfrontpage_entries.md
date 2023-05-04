@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Caring for the only full kākāpō feather cloak in the world Show image caption
  - [https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world](https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world)
@@ -729,3 +729,4 @@ There's plenty of examples in the projects github repository for the interested!
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33400687">https://news.ycombinator.com/item?id=33400687</a></p>
 <p>Points: 20</p>
 <p># Comments: 1</p>
+

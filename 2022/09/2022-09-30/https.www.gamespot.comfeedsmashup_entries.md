@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Friday 'Nite: Fortnite Chapter 4 Rumors Seem Legit
  - [https://www.gamespot.com/articles/friday-nite-fortnite-chapter-4-rumors-seem-legit/1100-6507952/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/friday-nite-fortnite-chapter-4-rumors-seem-legit/1100-6507952/?ftag=CAD-01-10abi2f)
@@ -146,3 +146,4 @@
  - date published: 2022-09-30 01:00:00+00:00
 
 <p dir="ltr">Super Buckyball Tournament, a futuristic 3v3 multiplayer sports hero game, will be released on November 15 through <a href="https://store.steampowered.com/app/1059110/Super_Buckyball_Tournament/">Steam</a>.</p><p dir="ltr">From trailers and teasers, Super Buckyball seems like soccer, but with superpowers. Dev Pathea Games (My Time at Portia) has seasonal battle passes planned for the game, as well as regular content updates. Players can try the beta version for free during <a href="
+

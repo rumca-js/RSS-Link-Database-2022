@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Stocks finish mixed, but Dow and S&P hit lowest levels since November 2020
  - [https://www.cnn.com/2022/09/27/business/dow-stock-market-today/index.html](https://www.cnn.com/2022/09/27/business/dow-stock-market-today/index.html)
@@ -55,3 +55,4 @@ Vice President Kamala Harris will visit the Korean Demilitarized Zone that divid
  - date published: 2022-09-27 02:24:02+00:00
 
 The Philippines will stop operations of 175 offshore gambling firms and deport about 40,000 Chinese workers, a justice ministry official said on Monday, part of a crackdown on the notoriously opaque online gaming industry.
+

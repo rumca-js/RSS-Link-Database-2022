@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Microsoft zaproponował Sony 10-letnią umowę na Call of Duty
  - [https://ithardware.pl/aktualnosci/microsoft_zaproponowal_sony_10_letnia_umowe_na_call_of_duty-24466.html](https://ithardware.pl/aktualnosci/microsoft_zaproponowal_sony_10_letnia_umowe_na_call_of_duty-24466.html)
@@ -161,3 +161,4 @@ To osiągnięcie było możliwe...
 
 <img src="https://ithardware.pl/artykuly/min/24423_1.jpg" />            To już! Właśnie w x-komie rozpoczął się Black Week, a więc czas najlepszych promocji w ciągu roku. Każdego dnia, aż do piątku, w sklepie znajdziecie nową porcję przecenionych produkt&oacute;w. To wszystko będzie tyko rozgrzewką przed...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/ruszyl_black_week_w_x_komie_al_to_oraz_na_combat_pl_codziennie_nowe_promocje-24423.html">https://ithardware.pl/aktualnosci/ruszyl_black_week_w_x_komie_al_to_oraz_na_combat_pl_codziennie_nowe_promocje-24423.html</a></p>
+

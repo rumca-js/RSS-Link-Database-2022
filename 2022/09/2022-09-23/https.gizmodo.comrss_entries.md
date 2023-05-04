@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Andor Episodes 1-3 Review
  - [https://gizmodo.com/andor-episodes-1-3-review-1849575269](https://gizmodo.com/andor-episodes-1-3-review-1849575269)
@@ -209,3 +209,4 @@
  - date published: 2022-09-23 00:01:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--UQGXFMbB--/c_fit,fl_progressive,q_80,w_636/aaf9e359122c232612f6c15be29763e5.jpg" /><p>A Kenyan court has set a new date to hear submissions in a lawsuit brought against Meta and one of its outsourcing partners by a former Facebook content moderator, who accuses the companies of exploitation and union busting. <br /></p><p><a href="https://gizmodo.com/meta-facebook-kenya-moderator-suit-new-hearing-1849571022">Read more...</a></p>
+

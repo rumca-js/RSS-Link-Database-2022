@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## The Messy Unwinding of the New World Order---in Charts
  - [https://www.wsj.com/articles/the-messy-unwinding-of-the-new-world-order-11667486979](https://www.wsj.com/articles/the-messy-unwinding-of-the-new-world-order-11667486979)
@@ -55,3 +55,4 @@ With 93% of votes counted, Israel’s former prime minister appears set to retur
  - date published: 2022-11-03 07:20:00+00:00
 
 The activity came a day after the Kim Jong Un regime launched nearly two dozen missiles off its eastern and western coasts.
+

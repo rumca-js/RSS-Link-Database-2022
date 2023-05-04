@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## NFL star Odell Beckham Jr. removed from Miami flight after refusing to comply with safety protocol, police say
  - [https://www.cnn.com/2022/11/27/us/odell-beckham-jr-removed-miami-flight/index.html](https://www.cnn.com/2022/11/27/us/odell-beckham-jr-removed-miami-flight/index.html)
@@ -263,5 +263,6 @@ The World Cup is well underway in Qatar, but issues surrounding LGBTQ+ rights fo
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-26-22/h_8aac87bb6c2d71485eeea77404af31e2](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-26-22/h_8aac87bb6c2d71485eeea77404af31e2)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-27 00:00:41.268487+00:00
+
 
 

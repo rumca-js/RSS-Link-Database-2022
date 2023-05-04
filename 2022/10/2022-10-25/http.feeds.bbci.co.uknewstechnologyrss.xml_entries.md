@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Google and Microsoft hit by slowing economy
  - [https://www.bbc.co.uk/news/business-63394516?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63394516?at_medium=RSS&at_campaign=KARANGA)
@@ -6,3 +6,4 @@
  - date published: 2022-10-25 21:53:33+00:00
 
 The tech giants say customers are cutting back amid growing signs of an economic downturn.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## John Wick May Have Video Games Involved in His Future
  - [https://gizmodo.com/john-wick-lionsgate-video-game-possibility-1849748261](https://gizmodo.com/john-wick-lionsgate-video-game-possibility-1849748261)
@@ -83,3 +83,4 @@
  - date published: 2022-11-05 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--nitiCe87--/c_fit,fl_progressive,q_80,w_636/78bd0dd8b6075b918b081eedd76701d6.jpg" /><p>UK-based “clean” energy company Drax Group is looking to sell offset credits tied to U.S.-based power plants that the company hasn’t even built yet, <a href="https://www.bloomberg.com/news/articles/2022-10-26/world-s-largest-co2-removal-deal-ever-depends-on-tech-that-isn-t-ready-yet" rel="noopener noreferrer" target="_blank">Bloomberg reports</a>. While the company is being vague about specifics, Drax says its first biomass plant with carbon capture technology<strong> </strong>is expected to be up and running…</p><p><a href="https://gizmodo.com/a-carbon-capture-company-wants-to-sell-credits-on-tech-1849710164">Read more...</a></p>
+

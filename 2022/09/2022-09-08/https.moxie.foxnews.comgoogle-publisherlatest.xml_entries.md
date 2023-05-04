@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Mike Pompeo: Queen Elizabeth II was 'always about someone else'
  - [https://www.foxnews.com/media/mike-pompeo-queen-elizabeth-ii-always-about-someone-else](https://www.foxnews.com/media/mike-pompeo-queen-elizabeth-ii-always-about-someone-else)
@@ -1189,3 +1189,4 @@ Justin Fields, last year's No. 1 pick of the Chicago Bears out of Ohio State, ho
  - date published: 2022-09-08 00:02:07+00:00
 
 Big 12 commissioner Brett Yormark wants to continue his expansion of the conference after nabbing four more schools, including Cincinnati. He has his eyes set out west.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Wojna jądrowa i jej skutki. Jak zareagowałyby morza i oceany?
  - [https://www.chip.pl/2022/11/wojna-jadrowa-skutki-dla-morz-i-oceanow](https://www.chip.pl/2022/11/wojna-jadrowa-skutki-dla-morz-i-oceanow)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="720" src="https://konto.chip.pl/wp-content/uploads/2022/11/jezioro.png" style="margin-bottom: 10px;" width="1280" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/jezioro.png" style="display: block; margin: 1em auto;" /></p>
 <p>Axel Meyer z Uniwersytetu w Konstancji przeprowadził badania poświęcone tworzeniu się nowego gatunku, co jest prawdopodobnie pierwszym przykładem genetycznej metody specjacji u kręgowców. Ewolucja nowego gatunku poprzez hybrydyzację dwóch wcześniej opisanych gatunków bez zmiany liczby chromosomalnej jest bowiem bardzo nietypowa. Zespół Meyera stojący za publikacją, która trafiła na łamy Nature Communications wykazał, że nowy gatunek [&#8230;]</p>
+

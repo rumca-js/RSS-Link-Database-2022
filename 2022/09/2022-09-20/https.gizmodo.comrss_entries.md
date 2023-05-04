@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## James Cameron Was Worried Avatar 2 Might Have Taken Too Long
  - [https://gizmodo.com/james-cameron-avatar-2-release-date-disney-fox-pandora-1849559989](https://gizmodo.com/james-cameron-avatar-2-release-date-disney-fox-pandora-1849559989)
@@ -286,3 +286,4 @@
  - date published: 2022-09-20 00:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--8oLtZxrx--/c_fit,fl_progressive,q_80,w_636/bc06044397412e1ee7befb26b3142aef.jpg" /><p>Japan’s much-anticipated <a href="https://gizmodo.com/studio-ghiblis-theme-park-is-finally-opening-up-in-nove-1848448533">Studio Ghibli-themed attraction</a> features a variety of sights and activities  inspired by the worlds of <a href="https://gizmodo.com/hayao-miyazaki-s-spirited-away-stage-play-looks-fantast-1848732915">Hayao Miyazaki’s</a> lega
+

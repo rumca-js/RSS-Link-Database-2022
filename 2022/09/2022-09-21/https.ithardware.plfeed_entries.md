@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Samsung Galaxy S24 może być pierwszym smartfonem z obsługą Wi-Fi 7
  - [https://ithardware.pl/aktualnosci/samsung_galaxy_s24_moze_byc_pierwszym_smartfonem_z_obsluga_wi_fi_7-23432.html](https://ithardware.pl/aktualnosci/samsung_galaxy_s24_moze_byc_pierwszym_smartfonem_z_obsluga_wi_fi_7-23432.html)
@@ -209,3 +209,4 @@ Portfolio Hikvision, międzynarodowego lidera z zakresu system&oacute;w bezpiecz
 
 <img src="https://ithardware.pl/artykuly/min/23408_1.jpg" />            Wczorajsza konferencja NVIDII koncentrowała się gł&oacute;wnie na trzech kartach graficznych nowej generacji, czyli GeForce RTX 4090, GeForce RTX 4080 16 GB i GeForce RTX 4080 12 GB, ale partnerzy ujawnili także dodatkowe szczeg&oacute;ły na temat...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/gpu_ad102_w_szczegolach_wiemy_jak_moze_wygladac_geforce_rtx_4090_ti-23408.html">https://ithardware.
+

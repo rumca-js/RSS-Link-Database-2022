@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## British Official Stresses Threat From China Even Amid Russian Aggression
  - [https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html](https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html)
@@ -174,3 +174,4 @@ Comments from President Biden last week raised the issue for the first time in d
  - date published: 2022-10-10 00:35:12+00:00
 
 The Venezuelan armed forces planned to deploy canines and drones to find missing residents and to deliver food and medicine.
+

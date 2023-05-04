@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Some clown tried to sneak a knife onto a plane inside a gaming laptop
  - [https://www.pcgamer.com/some-clown-tried-to-sneak-a-knife-onto-a-plane-inside-a-gaming-laptop](https://www.pcgamer.com/some-clown-tried-to-sneak-a-knife-onto-a-plane-inside-a-gaming-laptop)
@@ -208,3 +208,4 @@ Have a look at what changed, and what stayed the same.
  - date published: 2022-11-21 00:20:00+00:00
 
 You'll need to link up a 2K account to get him.
+

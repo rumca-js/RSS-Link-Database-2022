@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Alan Perlis and the evolution of programming languages
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58814](https://www.codeproject.com/script/News/View.aspx?nwid=58814)
@@ -125,3 +125,4 @@ When AI meets political intelligence
  - date published: 2022-09-08 04:00:00+00:00
 
 The version of The Swift Programming Language published on docs.swift.org is currently built using a legacy toolchain, not from this repository or its content. The goal is to replace that version with a version built from this repository, working with the community to extend Swift-DocC where needed.
+

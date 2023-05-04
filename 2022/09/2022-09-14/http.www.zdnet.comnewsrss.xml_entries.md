@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Arista rolls out new routing capabilities for cloud-first companies
  - [https://www.zdnet.com/home-and-office/networking/arista-rolls-out-new-routing-capabilities-for-cloud-first-companies/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/arista-rolls-out-new-routing-capabilities-for-cloud-first-companies/#ftag=RSSbaffb68)
@@ -188,3 +188,4 @@ Autoframing via an ultra-wide lens, Show Mode for top-down demos, and a $129 pri
  - date published: 2022-09-14 05:00:02+00:00
 
 Canva is already a popular design platform. Its newest product is competing with ubiquitous workplace programs like Microsoft Word and Google Docs.
+

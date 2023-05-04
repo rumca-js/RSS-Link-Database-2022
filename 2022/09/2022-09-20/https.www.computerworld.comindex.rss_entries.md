@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Windows 11 2022 Update is the version enterprises can move to
  - [https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all](https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all)
@@ -44,3 +44,4 @@
 <article>
 	<section class="page">
 <p>Over the past couple years, those of us who pay close attention to mobile-tech matters have been watching a whole new paradigm of design shape up right before our overly moist eyeballs.</p><p>And you <em>know</em> I have to be talking about something important here, 'cause I'm using big words like "paradigm" and, erm, "eyeballs."</p><p>The subject in question is something core to the Android experience — particularly for anyone who's palming a <a href="https:
+

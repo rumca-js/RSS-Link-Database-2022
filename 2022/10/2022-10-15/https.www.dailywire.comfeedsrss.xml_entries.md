@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## WATCH: Tennessee Fans Tear Down Goal Posts, Parade Them Through City Streets After Huge Win Against Alabama
  - [https://www.dailywire.com/news/watch-tennessee-fans-tear-down-goal-posts-parade-them-through-city-streets-after-huge-win-against-alabama](https://www.dailywire.com/news/watch-tennessee-fans-tear-down-goal-posts-parade-them-through-city-streets-after-huge-win-against-alabama)
@@ -90,3 +90,4 @@ A massive thousand-year-old mosaic depicting the Trojan War and mythological fig
  - date published: 2022-10-15 10:04:26+00:00
 
 The following is the opening satirical monologue from &#8220;The Andrew Klavan Show.&#8220; The mid-term elections are almost upon us, and political experts are beginning to carefully study the polls that have never been right before and then discuss them as if they were somehow going to be right this time for some reason. These intense ...
+

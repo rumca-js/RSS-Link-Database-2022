@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wielkopolskie. Kłótnia nastolatków w czasie Halloween. 14-latek dźgnięty nożem
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29094562,wielkopolskie-klotnia-nastolatkow-w-czasie-halloween-14-latek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29094562,wielkopolskie-klotnia-nastolatkow-w-czasie-halloween-14-latek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-11-01 04:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/69/87/1a/z27818345M,Kamil-Durczok.jpg" vspace="2" />Przez ostatni rok odeszło wiele osób, które na różne sposoby zapisały się w polskim życiu publicznym. Przypominamy pokrótce ich życiorysy.
+

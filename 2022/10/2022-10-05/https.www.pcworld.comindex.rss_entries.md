@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best laptop deals: Prime Early Access Sale top picks
  - [https://www.pcworld.com/article/796350/prime-day-laptop-deals.html](https://www.pcworld.com/article/796350/prime-day-laptop-deals.html)
@@ -60,3 +60,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s the start of a new era of competition. Today, Intel&rsquo;s <a href="https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-review.html">debut Arc A770 and A750 GPUs</a> had their curtain drawn fully back, heralding the company&rsquo;s long-teased entry into discrete <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gam
+

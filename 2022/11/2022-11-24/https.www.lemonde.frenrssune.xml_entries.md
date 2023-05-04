@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Serbia and Kosovo end license plate dispute
  - [https://www.lemonde.fr/en/international/article/2022/11/25/serbia-and-kosovo-end-license-plate-dispute_6005557_4.html](https://www.lemonde.fr/en/international/article/2022/11/25/serbia-and-kosovo-end-license-plate-dispute_6005557_4.html)
@@ -286,3 +286,4 @@ The electoral authority also ordered the suspension of government funds for Mr. 
  - date published: 2022-11-24 03:00:16+00:00
 
 While France's Minister of the Interior promised dozens of deportations, almost all the survivors were integrated into the national reception system for asylum seekers.
+

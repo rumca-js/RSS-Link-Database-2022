@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Twitter can't help but notice how natural President DeSantis looks during Hurricane Ian visit with Joe Biden
  - [https://www.louderwithcrowder.com/ron-desantis-biden-hurricane-ian](https://www.louderwithcrowder.com/ron-desantis-biden-hurricane-ian)
@@ -62,3 +62,4 @@
  - date published: 2022-10-05 12:08:40+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31864246&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Consider this Exhibit Q on how self-proclaimed "independent" "fact" checkers don't check facts as much as circle the wagons on behalf of Democrats and the media (but I repeat myself). At issue is the desperate attempt to use <a href="https://www.louderwithcrowder.com/hurricane-ian-fjb" target="_blank">Hurricane Ian</a> as an excuse to att
+

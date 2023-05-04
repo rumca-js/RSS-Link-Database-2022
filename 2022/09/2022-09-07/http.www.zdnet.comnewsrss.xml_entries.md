@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## NASA picks a firm to build its next-gen spacesuits
  - [https://www.zdnet.com/article/nasa-picks-a-firm-to-build-its-next-gen-spacesuits/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-picks-a-firm-to-build-its-next-gen-spacesuits/#ftag=RSSbaffb68)
@@ -350,3 +350,4 @@ Python is so easy that even 7-year-olds are learning it, yet entry-level salarie
  - date published: 2022-09-07 05:30:00+00:00
 
 Perlego partners with over 6,000 publishers to provide a wide variety of books including academic texts, professional development, non-fiction, classical literature, and much more
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Republicans scrape back control of US House after underwhelming midterms
  - [https://www.theguardian.com/us-news/2022/nov/16/us-midterms-2022-republicans-win-control-house-representatives-congress-midterm-election-results](https://www.theguardian.com/us-news/2022/nov/16/us-midterms-2022-republicans-win-control-house-representatives-congress-midterm-election-results)
@@ -1007,3 +1007,4 @@
  - date published: 2022-11-16 00:01:05+00:00
 
 <p>Two dangerous strikers, an attacking style of play and a cult hero manager make Dragan Stojkovic’s team one to watch</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/16/world-cup-2022-team-guide-serbia">Continue reading...</a>
+

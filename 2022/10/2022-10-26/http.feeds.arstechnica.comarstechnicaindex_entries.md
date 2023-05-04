@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Feds open criminal investigation into Tesla Autopilot claims
  - [https://arstechnica.com/?p=1893177](https://arstechnica.com/?p=1893177)
@@ -139,3 +139,4 @@ Apple’s latest tablet doesn’t quite justify its price compared to other iPad
  - date published: 2022-10-26 00:08:45+00:00
 
 Currently, researchers often have to choose between publishing and science.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Two young chefs 'a few beers down' tell of their encounter with the Somerset Gimp
  - [https://www.dailymail.co.uk/news/article-11369581/Two-young-chefs-beers-tell-encounter-Somerset-Gimp.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11369581/Two-young-chefs-beers-tell-encounter-Somerset-Gimp.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1098,3 +1098,4 @@ Mining magnate Lang Hancock was thrusted back into the spotlight this month afte
  - date published: 2022-10-29 00:09:07+00:00
 
 More than four in ten (43 per cent) have bought an item online, not liked it but kept it anyway. With 59 per cent of those who've done this admitting they 'couldn't be bothered' to return it.
+

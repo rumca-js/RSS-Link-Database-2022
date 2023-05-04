@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The Absolute Best Horror Movies on Netflix     - CNET
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-see-this-evening/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-see-this-evening/#ftag=CADf328eec)
@@ -720,3 +720,4 @@ Episode 12 of Andor arrives on Disney Plus this week.
  - date published: 2022-11-21 00:03:00+00:00
 
 Following the restoration of accounts owned by Jordan Peterson and Donald Trump, Ye has returned to the Elon Musk-owned Twitter.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Ceny węgla biją rekordy: Za tonę nawet 7 tys. zł. Polacy znaleźli sposób, jak kupić taniej
  - [https://wydarzenia.interia.pl/kraj/news-ceny-wegla-bija-rekordy-za-tone-nawet-7-tys-zl-polacy-znalez,nId,6285243](https://wydarzenia.interia.pl/kraj/news-ceny-wegla-bija-rekordy-za-tone-nawet-7-tys-zl-polacy-znalez,nId,6285243)
@@ -62,3 +62,4 @@
  - date published: 2022-09-14 07:00:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/lodzkie/news-ceny-energii-za-wysokie-dla-lodzkiej-filmowki-odwolano-zajec,nId,6285112"><img align="left" alt="Ceny energii za wysokie dla łódzkiej Filmówki. Odwołano zajęcia w styczniu" src="https://i.iplsc.com/ceny-energii-za-wysokie-dla-lodzkiej-filmowki-odwolano-zajec/000G2E8LMNF8UKAQ-C321.jpg" /></a>Drastyczny wzrost cen za gaz i prąd bardzo uderza w polskie szkoły wyższe, które żeby przetrwać, będą musiały zdecydować się na poważne cięcia. Pierwsze 
+

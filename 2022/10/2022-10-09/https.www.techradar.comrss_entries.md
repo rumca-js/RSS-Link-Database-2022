@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## We could be waiting a while for the Samsung Galaxy Tab S9
  - [https://www.techradar.com/news/we-could-be-waiting-a-while-for-the-samsung-galaxy-tab-s9/](https://www.techradar.com/news/we-could-be-waiting-a-while-for-the-samsung-galaxy-tab-s9/)
@@ -41,3 +41,4 @@ It's likely to be a busy month for Apple, with numerous product refreshes now be
  - date published: 2022-10-09 07:00:34+00:00
 
 It looks like the cost for cheap 32-inch TV panels will rise next year, to add insult to cost-of-living injury.
+

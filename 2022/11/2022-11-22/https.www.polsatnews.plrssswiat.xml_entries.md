@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Eurowizja 2023: Wprowadzono zmiany w głosowaniu
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/eurowizja-2023-wprowadzono-zmiany-w-glosowaniu/](https://www.polsatnews.pl/wiadomosc/2022-11-22/eurowizja-2023-wprowadzono-zmiany-w-glosowaniu/)
@@ -111,3 +111,4 @@ Dziennikarz amerykańskiej agencji prasowej Associated Press został zwolniony t
  - date published: 2022-11-22 05:25:00+00:00
 
 Wicepremier Iryna Wereszczuk wezwała mieszkańców wyzwolonego niedawno z rosyjskiej okupacji Chersonia do ewakuacji na okres zimowy do bezpieczniejszych regionów kraju - przekazał Ukrinform.
+

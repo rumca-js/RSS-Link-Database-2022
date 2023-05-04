@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wojna w Ukrainie. Ukrywający się Rosjanie wychodzą z lasów. Powodem jest głód
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-ukrywajacy-sie-rosjanie-wychodza-z-lasow-po,nId,6326954](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-ukrywajacy-sie-rosjanie-wychodza-z-lasow-po,nId,6326954)
@@ -573,3 +573,4 @@
  - date published: 2022-10-04 05:07:39+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-isw-putin-moze-probowac-obciazyc-wojskowych-wina-za-niepowod,nId,6326064"><img align="left" alt="ISW: Putin może próbować obciążyć wojskowych winą za niepowodzenia " src="https://i.iplsc.com/isw-putin-moze-probowac-obciazyc-wojskowych-wina-za-niepowod/000ESWJKSFN2DODQ-C321.jpg" /></a>Amerykański Instytut Studiów nad Wojną (ISW) ocenił w najnowszej analizie, że Władimir Putin i Kreml mogą w dalszym ciągu stara
+

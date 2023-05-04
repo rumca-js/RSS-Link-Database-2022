@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## W warstwie ozonowej powstała gigantyczna dziura, a naukowcy wskazali winnego
  - [https://www.chip.pl/2022/10/dziura-warstwa-ozonowa-zorza-protonowa](https://www.chip.pl/2022/10/dziura-warstwa-ozonowa-zorza-protonowa)
@@ -87,3 +87,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1120" src="https://konto.chip.pl/wp-content/uploads/2022/10/Spojrzcie-na-superlotniskowiec-Francji-Jak-ten-kolos-wypada-na-tle-dziela-USA-i-Chin.jpg" style="margin-bottom: 10px;" width="1600" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/Spojrzcie-na-superlotniskowiec-Francji-Jak-ten-kolos-wypada-na-tle-dziela-USA-i-Chin.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Superlotniskowce są, jak sama nazwa wskazuje, “super”, a choć to określenie jest dosyć płynne, zdecydowanie możemy określić tym mianem najnowsze dzieła Chin, Francji oraz Stanów Zjednoczonych. Tę nazwę zawdzięczają nie tylko swoim gabarytom z wagą idącą w dziesiątki tysięcy ton, ale też imponujących technologii oraz dodatków. Chociaż amerykańska klasa Ford i chiński Typ 003 są [&#8230;]</p>
+

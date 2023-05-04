@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## CDC director’s COVID returns as study finds such rebounds shockingly common
  - [https://arstechnica.com/?p=1894139](https://arstechnica.com/?p=1894139)
@@ -90,3 +90,4 @@ Fintech platforms help US regulators weigh security benefits of digital IDs.
  - date published: 2022-10-31 10:00:10+00:00
 
 We've seen ads ruin the user experience of nearly every product under the sun.
+

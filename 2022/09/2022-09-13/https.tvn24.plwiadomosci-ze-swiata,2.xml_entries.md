@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Możliwe alerty IMGW. Synoptycy mogą ostrzegać przed ulewnym deszczem
  - [https://tvn24.pl/tvnmeteo/pogoda/mozliwe-alerty-imgw-przed-ulewnym-deszczem-prognoza-zagrozen-na-srode-6110485?source=rss](https://tvn24.pl/tvnmeteo/pogoda/mozliwe-alerty-imgw-przed-ulewnym-deszczem-prognoza-zagrozen-na-srode-6110485?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Przekroczony budżet na dodatki węglowe, kiedy wypłata świadczeń. Ministerstwo odpowiada" src="https://tvn24.pl/najnowsze/cdn-zdjecie-uvkxqv-pieniadze-zlotowki-pln-shutterstock1246227253-5760573/alternates/LANDSCAPE_1280" />
     Według danych zebranych przez TVN24 Biznes z 14 województw kwota wynikająca z wniosków o dodatek węglowy sięgnęła 15,7 miliarda złotych. Tymczasem na wypłatę świadczenia rząd przeznaczył 11,5 miliarda złotych. Aleksander Brzózka, rzecznik Ministerstwa Środowiska
+

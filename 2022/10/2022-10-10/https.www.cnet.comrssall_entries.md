@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'House of the Dragon:' Mysaria's Mysterious Episode 8 Return Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-mysarias-mysterious-episode-8-return-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-mysarias-mysterious-episode-8-return-explained/#ftag=CADf328eec)
@@ -692,3 +692,4 @@ Netflix has a decently wide range of sci-fi flicks.
  - date published: 2022-10-10 00:15:07+00:00
 
 It's been a stunning year for documentaries on Netflix.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## What Is Heel-Toe Drop, and Does It Matter for Runners?
  - [https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
@@ -111,3 +111,4 @@
  - date published: 2022-09-29 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--2WTvyseQ--/c_fit,fl_progressive,q_80,w_636/2bc7e435b23fc476f91f11ba8daba920.jpg" /><p>On Aug. 30, the <a href="https://www.dea.gov/press-releases/2022/08/30/dea-warns-brightly-colored-fentanyl-used-target-young-americans" rel="noopener noreferrer" target="_blank">Drug Enforcement Administration</a> warned America’s parents about the “emerging trend” of colored fentanyl pills. According to DEA Administrator Anne Milgram, the color of 
+

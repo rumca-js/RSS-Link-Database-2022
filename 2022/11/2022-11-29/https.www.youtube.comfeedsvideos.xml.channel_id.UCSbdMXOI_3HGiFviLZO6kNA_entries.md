@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## VRChat just got WAY BETTER, Full Body Tracking FOR QUEST 2!!
  - [https://www.youtube.com/watch?v=KKPfbpPYWQk](https://www.youtube.com/watch?v=KKPfbpPYWQk)
@@ -30,3 +30,4 @@ TIMESTAMPS:
 10:09 VR deals
 11:07 Message for the community
 12:09 Outro
+

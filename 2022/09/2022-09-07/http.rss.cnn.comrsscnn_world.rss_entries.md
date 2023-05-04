@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Britain's Queen Elizabeth II postpones important meeting after doctors advise her to rest
  - [https://www.cnn.com/2022/09/07/europe/uk-queen-elizabeth-rest-privy-council-intl/index.html](https://www.cnn.com/2022/09/07/europe/uk-queen-elizabeth-rest-privy-council-intl/index.html)
@@ -62,3 +62,4 @@ Every year, September 7 in Brazil is a day of colorful parades, military demonst
  - date published: 2022-09-07 01:53:29+00:00
 
 A US judge said Rio Tinto Plc must face an investor lawsuit accusing the Anglo-Australian mining giant of concealing delays and huge cost overruns at a Mongolian copper and gold mine owned by Turquoise Hill Resources Ltd, in which Rio Tinto has a majority stake.
+

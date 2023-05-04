@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## The dream isn’t over — AMD’s RX 7900 XTX may still hit 3GHz
  - [https://www.digitaltrends.com/computing/amd-radeon-rx-7900-xtx-clock-speed-may-go-up/](https://www.digitaltrends.com/computing/amd-radeon-rx-7900-xtx-clock-speed-may-go-up/)
@@ -13,3 +13,4 @@ The upcoming AMD Radeon RX 7900 XTX was initially said to have a higher clock sp
  - date published: 2022-11-05 08:27:22.267380+00:00
 
 The Nvidia drama just got worse as Tom's Hardware has reported on a GeForce RTX 4090 power connector meltdown.
+

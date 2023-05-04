@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter
  - [https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline](https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline)
@@ -724,3 +724,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/16/23463477/amazon-layoffs-steve-aoki-concert-twitch">Continue reading&hellip;</a>
   </p>
+

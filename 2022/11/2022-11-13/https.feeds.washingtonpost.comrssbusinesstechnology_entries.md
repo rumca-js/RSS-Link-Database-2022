@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Sen. Edward Markey and Musk exchange barbs on impersonation scandal
  - [https://www.washingtonpost.com/technology/2022/11/13/elon-musk-markey-twitter-tesla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/13/elon-musk-markey-twitter-tesla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ Counter-Strike esports finally came to Brazil, to fans’ raucous delight.
  - date published: 2022-11-13 07:00:02+00:00
 
 Dan O’Dowd is on a one-man crusade to challenge what he sees as the cavalier development of dangerous technology, starting with Tesla’s ‘Full Self Driving.’
+

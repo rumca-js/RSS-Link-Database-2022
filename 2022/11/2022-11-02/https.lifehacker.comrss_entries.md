@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Here’s How to Snag a 55" TV From Walmart for $188
  - [https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936](https://lifehacker.com/here-s-how-to-snag-a-55-tv-from-walmart-for-188-1849732936)
@@ -125,3 +125,4 @@
  - date published: 2022-11-02 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--JFmpxjTG--/c_fit,fl_progressive,q_80,w_636/238df0c4f670e5fe9a34b7610625ca5a.jpg" /><p>Whether you call it <a href="https://lifehacker.com/the-difference-between-stuffing-and-dressing-1847999886">stuffing or dressing</a>, the broth-soaked bread dish is a Thanksgiving must-have. Though it’s not advisable to stuff the turkey with anything, it’s commonly agreed upon that “dressing” is always made with cornbread, and “stuffing” is usually made with a white bread of some kind—usually sandwich bread. …</p><p><a href="https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944">Read more...</a></p>
+

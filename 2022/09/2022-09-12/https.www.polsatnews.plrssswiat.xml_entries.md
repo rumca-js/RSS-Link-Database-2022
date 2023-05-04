@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Niemcy. Rozbił się mały samolot. Nie żyje główny inspektor policji
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/niemcy-rozbil-sie-maly-samolot-nie-zyje-glowny-inspektor-policji/](https://www.polsatnews.pl/wiadomosc/2022-09-12/niemcy-rozbil-sie-maly-samolot-nie-zyje-glowny-inspektor-policji/)
@@ -125,3 +125,4 @@ Rosyjski przywódca przygotowuje się do nowego etapu wojny w październiku - tw
  - date published: 2022-09-12 04:17:00+00:00
 
 - Nadal uważasz, że możesz nas przestraszyć, złamać, sprawić, że pójdziemy na ustępstwa? Naprawdę nic nie zrozumiałeś, prawda? Nie zdajesz sobie sprawy, kim jesteśmy - Wołodymyr Zełenski zwrócił się do Rosjan, reagując na potężny niedzielny ostrzał obwodu charkowskiego. W swoim przemówieniu podsumował też 200 dzień inwazji na swój kraj.
+

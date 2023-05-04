@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Niechlubna seria Barcelony trwa
  - [https://eurosport.tvn24.pl/niechlubna-seria-barcelony-trwa,1118460.html?source=rss](https://eurosport.tvn24.pl/niechlubna-seria-barcelony-trwa,1118460.html?source=rss)
@@ -239,3 +239,4 @@
 
 <img alt="Z Kielc na Czerwoną Planetę. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-6f9ctg-kijek-w-kosmosie-misja-na-marsa-6109321/alternates/LANDSCAPE_1280" />
     Zawodom łazików w Kielcach przyjrzał się Hubert Kijek.
+

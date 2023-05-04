@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Chinese Hackers Using 42,000 Imposter Domains in Massive Phishing Attack Campaign
  - [https://thehackernews.com/2022/11/chinese-hackers-using-42000-imposter.html](https://thehackernews.com/2022/11/chinese-hackers-using-42000-imposter.html)
@@ -49,3 +49,4 @@ The details, which were shared by the U.S. Cybersecurity and Infrastructure Secu
 
 Hackers tied to the North Korean government have been observed using an updated version of a backdoor known as Dtrack targeting a wide range of industries in Germany, Brazil, India, Italy, Mexico, Switzerland, Saudi Arabia, Turkey and the U.S.
 "Dtrack allows criminals to upload, download, start or delete files on the victim host," Kaspersky researchers Konstantin Zykov and Jornt van der Wiel
+

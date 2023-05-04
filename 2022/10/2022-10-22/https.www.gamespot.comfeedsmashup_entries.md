@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Firearms Expert Reacts To Call of Duty: Warzone’s Guns PART 2
  - [https://www.gamespot.com/videos/firearms-expert-reacts-to-call-of-duty-warzones-guns-part-2/2300-6459780/](https://www.gamespot.com/videos/firearms-expert-reacts-to-call-of-duty-warzones-guns-part-2/2300-6459780/)
@@ -34,3 +34,4 @@
  - date published: 2022-10-22 00:03:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4052929-review_mariorabbids_20221020_site.jpg" width="480" /> Mario + Rabbids: Sparks of Hope is an improvement over its predecessor in every way, and one of the best modern Mario spin-offs.
+

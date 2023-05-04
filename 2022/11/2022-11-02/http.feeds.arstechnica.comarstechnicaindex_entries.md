@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## After nearly 50 years, FBI identifies “Lady of the Dunes” murder victim
  - [https://arstechnica.com/?p=1894476](https://arstechnica.com/?p=1894476)
@@ -111,3 +111,4 @@ The automaker is battling the dendrite problem with a polymer fiber coating.
  - date published: 2022-11-02 11:30:24+00:00
 
 Are games art? Who cares. Exhibit is more interested in how they bring us together.
+

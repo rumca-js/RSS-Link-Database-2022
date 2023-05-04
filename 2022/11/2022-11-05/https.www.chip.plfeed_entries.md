@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## 600 milionów kształtów w rekordowym czasie, czyli sztuczna inteligencja w akcji
  - [https://www.chip.pl/2022/11/sztuczna-inteligencja-przewidywanie-ksztaltow](https://www.chip.pl/2022/11/sztuczna-inteligencja-przewidywanie-ksztaltow)
@@ -87,3 +87,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="669" src="https://konto.chip.pl/wp-content/uploads/2022/11/strefa-unikania.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/strefa-unikania.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Strefa unikania obejmuje naszą galaktykę i charakteryzuje się tym, że trudno w jej obrębie prowadzić obserwacje niektórych obiektów. Oznacza to, że stosunkowo blisko Ziemi znajduje się słabo zbadany obszar, w którym właśnie udało się coś wykryć. Wspomniana strefa nie należy do małych: przesłania od10 do 20 procent nieba, co jest podyktowane między innymi obecnością gwiazd [&#8230;]</p>
+

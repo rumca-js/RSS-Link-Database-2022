@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Web browsers need to stop trying to be all things to everyone
  - [https://www.zdnet.com/article/web-browsers-need-to-stop-trying-to-be-all-things-to-everyone/#ftag=RSSbaffb68](https://www.zdnet.com/article/web-browsers-need-to-stop-trying-to-be-all-things-to-everyone/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ Uplevel permanently switched to a four-day workweek after a trial boosted produc
  - date published: 2022-10-13 08:48:20+00:00
 
 This sturdy 10.1-inch Windows tablet can be kitted out to service a wide range of challenging use cases.
+

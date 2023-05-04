@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## More Spider-Man: No Way Home Funko Pops Are Swinging Your Way
  - [https://gizmodo.com/spider-man-no-way-home-funko-pop-toy-exclusives-1849816640](https://gizmodo.com/spider-man-no-way-home-funko-pop-toy-exclusives-1849816640)
@@ -104,3 +104,4 @@
  - date published: 2022-11-24 00:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--78XzkJif--/c_fit,fl_progressive,q_80,w_636/2006ad8f650dcc8826a6b4131ccaa91f.jpg" /><p>A couple of weeks ago G/O Media had a casket delivered to the office. We received a crimson red burial fixture from Titan Casket because my colleague, <a href="https://gizmodo.com/taylor-swift-casket-anti-hero-1849699888">Kevin Hurler</a>, has made Taylor Swift a facet of his personality that can be mined for blogs, and this casket (in a different colorway) was featured in her Anti-Hero…</p><p><a href="https://gizmodo.com/can-you-sleep-in-a-casket-like-a-vampire-yes-actually-1849818618">Read more...</a></p>
+

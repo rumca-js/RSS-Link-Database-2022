@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Family fears for life of rapper they say was violently arrested after encouraging Iranians to protest
  - [https://www.cnn.com/2022/11/06/middleeast/iranian-rapper-arrested-intl/index.html](https://www.cnn.com/2022/11/06/middleeast/iranian-rapper-arrested-intl/index.html)
@@ -13,3 +13,4 @@
  - date published: 2022-11-06 09:54:23+00:00
 
 British Prime Minister Rishi Sunak announced Sunday there would be a public holiday to celebrate the coronation of King Charles III next year.
+

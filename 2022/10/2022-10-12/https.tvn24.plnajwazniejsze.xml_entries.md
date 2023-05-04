@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Barcelona nad przepaścią. Co musi się wydarzyć, by awansowała?
  - [https://eurosport.tvn24.pl/barcelona-nad-przepa-ci---co-musi-si--wydarzy---by-awansowa-a-,1121387.html?source=rss](https://eurosport.tvn24.pl/barcelona-nad-przepa-ci---co-musi-si--wydarzy---by-awansowa-a-,1121387.html?source=rss)
@@ -215,3 +215,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-evrd9l-chiny-6159163/alternates/LANDSCAPE_1280" />
     Czy Xi Jinping jeszcze bardziej się umocni na stanowisku?
+

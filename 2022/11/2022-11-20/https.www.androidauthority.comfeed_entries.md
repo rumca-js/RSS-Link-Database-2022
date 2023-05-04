@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## These very rare Sonos deals just dropped for Black Friday
  - [https://www.androidauthority.com/sonos-black-friday-sale-3238088/](https://www.androidauthority.com/sonos-black-friday-sale-3238088/)
@@ -41,3 +41,4 @@ Let's trick Google Assistant into understanding the most difficult-to-enunciate 
  - date published: 2022-11-20 10:30:08+00:00
 
 Email is still quite popular as a communication medium. Do yours right with one of the best email apps for Android.
+

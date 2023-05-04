@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Why Interview With the Vampire's Finale Didn't Stick to the Book
  - [https://gizmodo.com/interview-with-the-vampire-season-finale-change-book-1849782205](https://gizmodo.com/interview-with-the-vampire-season-finale-change-book-1849782205)
@@ -256,6 +256,6 @@
  - [https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042](https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-14 01:05:00+00:00
- - tags: fbi,surveillance
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--qeaSyaDE--/c_fit,fl_progressive,q_80,w_636/f52819357204b6ebee36d642b3cfb180.jpg" /><p>The FBI came very close to using commercial  spyware to aid in its domestic criminal investigations, the New York Times has <a href="https://www.nytimes.com/2022/11/12/us/politics/fbi-pegasus-spyware-phones-nso.html" rel="noopener noreferrer" target="_blank">reported</a>. The spyware was developed by the <a href="https://gizmodo.com/nso-groups-spyware-may-have-been-used-to-target-u-s-st-1848157598">NSO Group</a>, the notorious  surveillance vendor from Israel whose products have been tied to spying <a href="https://gizmodo.com/presidents-prime-ministers-and-a-king-among-potential-1847331005">scandals</a> all over the world.</p><p><a href="https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042">Read more...</a></p>
+

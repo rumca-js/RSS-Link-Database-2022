@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## How to use the Steam Deck interface on your PC
  - [https://www.pcworld.com/article/1366964/how-to-try-out-the-steam-deck-interface-on-your-pc.html](https://www.pcworld.com/article/1366964/how-to-try-out-the-steam-deck-interface-on-your-pc.html)
@@ -1481,3 +1481,4 @@ Motherboards</div>
 </div></div>
 </div>
 Gaming Laptops, Laptops, Ultraportable Laptops</div>
+

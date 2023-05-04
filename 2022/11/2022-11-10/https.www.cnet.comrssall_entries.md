@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Split Screen on Mac: The Simplest Way to Multitask     - CNET
  - [https://www.cnet.com/tech/services-and-software/how-to-split-screen-on-mac/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/how-to-split-screen-on-mac/#ftag=CADf328eec)
@@ -720,3 +720,4 @@ Text message authentication for 2FA is just not as secure.
  - date published: 2022-11-10 00:00:25+00:00
 
 Showrunner Tony Gilroy talks about the Disney Plus series' prison arc and building up its emotional stakes.
+

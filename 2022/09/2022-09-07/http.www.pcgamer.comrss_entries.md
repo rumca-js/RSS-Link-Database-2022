@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Bethesda revives servers for 20-year-old FPS in rare instance of a corporation being cool
  - [https://www.pcgamer.com/bethesda-revives-dedicated-servers-for-20-year-old-fps-in-rare-instance-of-a-corporation-being-cool](https://www.pcgamer.com/bethesda-revives-dedicated-servers-for-20-year-old-fps-in-rare-instance-of-a-corporation-being-cool)
@@ -300,3 +300,4 @@ The Wandering Village lumbers onto Steam this month.
  - date published: 2022-09-07 01:51:16+00:00
 
 But something "special" is planned for next week.
+

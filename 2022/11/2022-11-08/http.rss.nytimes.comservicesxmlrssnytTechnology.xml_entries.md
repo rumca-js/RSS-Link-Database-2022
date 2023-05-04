@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## An Inside Look at the Ohio Team Pushing Back on Election Fraud Claims
  - [https://www.nytimes.com/2022/11/08/technology/ohio-election-fraud-misinformation.html](https://www.nytimes.com/2022/11/08/technology/ohio-election-fraud-misinformation.html)
@@ -48,3 +48,4 @@ The new owner of Twitter has urged his followers to vote Republican.
  - date published: 2022-11-08 16:44:13+00:00
 
 Binance, the world’s largest cryptocurrency exchange, said it reached a deal to buy one of its biggest rivals, FTX, amid fears that the crypto industry could be entering another meltdown.
+

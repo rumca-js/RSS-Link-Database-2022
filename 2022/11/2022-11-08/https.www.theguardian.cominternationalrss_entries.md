@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Donald Trump warns party rival Ron DeSantis not to run for president in 2024
  - [https://www.theguardian.com/us-news/2022/nov/08/donald-trump-ron-desantis-2024-president-campaign](https://www.theguardian.com/us-news/2022/nov/08/donald-trump-ron-desantis-2024-president-campaign)
@@ -1077,3 +1077,4 @@
  - date published: 2022-11-08 00:00:33+00:00
 
 <p>Zelenskiy claims Ukrainian forces are pushing back Russian troops in some parts of the east and south; Ukraine accuses Russian troops of looting and occupying empty homes in Kherson</p><ul><li><strong><a href="https://www.theguardian.com/world/ukraine">See all our Ukraine coverage</a></strong></li></ul> <a href="https://www.theguardian.com/world/2022/nov/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-258-of-the-invasion">Continue reading...</a>
+

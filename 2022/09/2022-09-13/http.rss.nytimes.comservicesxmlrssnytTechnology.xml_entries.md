@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Celsius Network Plots a Comeback After a Crypto Crash
  - [https://www.nytimes.com/2022/09/13/technology/celsius-network-crypto.html](https://www.nytimes.com/2022/09/13/technology/celsius-network-crypto.html)
@@ -13,3 +13,4 @@ The chief executive of the experimental crypto bank Celsius has told employees a
  - date published: 2022-09-13 15:25:38+00:00
 
 At a congressional hearing, Peiter Zatko, Twitter’s former head of security, told lawmakers that the company lied about its data practices.
+

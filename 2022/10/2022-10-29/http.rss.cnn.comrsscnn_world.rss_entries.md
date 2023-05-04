@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Former Guantanamo detainee Saifullah Paracha repatriated to Pakistan
  - [https://www.cnn.com/2022/10/29/politics/guatanamo-detainee-saifullah-paracha-pakistan/index.html](https://www.cnn.com/2022/10/29/politics/guatanamo-detainee-saifullah-paracha-pakistan/index.html)
@@ -34,3 +34,4 @@ A Haitian politician has been shot dead outside his home, authorities have said,
  - date published: 2022-10-29 07:33:53+00:00
 
 Australia has repatriated a group of women and children who were left stranded in refugee camps in northeastern Syria after the Islamic State (ISIS) terror group lost control of the area in 2019.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Anker’s Soundcore Liberty 4 earbuds add spatial audio and heart rate tracking
  - [https://www.theverge.com/2022/9/29/23379558/anker-liberty-4-earbuds-announced-price-specs](https://www.theverge.com/2022/9/29/23379558/anker-liberty-4-earbuds-announced-price-specs)
@@ -476,3 +476,4 @@
     </figure>
 
   <p id="Ot6xIO">In high school, I’
+

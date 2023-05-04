@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Apple’s own 5G modems might come to iPhones later than expected
  - [https://www.theverge.com/2022/11/2/23437586/apple-iphone-5g-modems-later-expected-2023-qualcomm](https://www.theverge.com/2022/11/2/23437586/apple-iphone-5g-modems-later-expected-2023-qualcomm)
@@ -573,3 +573,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/1/23435872/google-lens-image-search-home-page">Continue reading&hellip;</a>
   </p>
+

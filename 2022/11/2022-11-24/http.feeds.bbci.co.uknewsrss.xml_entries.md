@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Ukraine war: Ukraine struggles to restore power after Russian strikes
  - [https://www.bbc.co.uk/news/world-europe-63746614?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63746614?at_medium=RSS&at_campaign=KARANGA)
@@ -657,3 +657,4 @@ The Stop Loan Sharks agency is warning against illegal lenders as families strug
  - date published: 2022-11-24 00:04:07+00:00
 
 Menu sizes have been halved at one restaurant in Colchester due to staff shortages and soaring food prices.
+

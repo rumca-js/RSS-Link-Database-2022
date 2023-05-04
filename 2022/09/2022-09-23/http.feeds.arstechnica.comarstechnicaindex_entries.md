@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## GeForce GPUs are slowing down after installing the Windows 11 2022 Update
  - [https://arstechnica.com/?p=1884284](https://arstechnica.com/?p=1884284)
@@ -97,3 +97,4 @@ This is the first time the Rocket Report has used the word "yeeted" in its histo
  - date published: 2022-09-23 00:07:06+00:00
 
 The modern-retro goodness of <em>Shovel Knight</em> returns with a refreshing take on roguelites.
+

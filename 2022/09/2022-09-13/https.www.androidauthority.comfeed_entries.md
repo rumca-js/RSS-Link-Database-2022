@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## $400 off the 2021 MacBook Pro, and more of the latest Laptop deals
  - [https://www.androidauthority.com/best-laptop-deals-1109232/](https://www.androidauthority.com/best-laptop-deals-1109232/)
@@ -139,3 +139,4 @@ We want a processor that's not just a chip off the old block.
  - date published: 2022-09-13 06:51:28+00:00
 
 It turns out that just under a third of respondents are happy with camera zoom results.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## A Carbon Capture Company Wants to Sell Credits on Tech That Hasn’t Been Commercially Tested Yet
  - [https://gizmodo.com/a-carbon-capture-company-wants-to-sell-credits-on-tech-1849710164](https://gizmodo.com/a-carbon-capture-company-wants-to-sell-credits-on-tech-1849710164)
@@ -300,3 +300,4 @@
  - date published: 2022-11-04 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--bPlJKgGA--/c_fit,fl_progressive,q_80,w_636/3653be78c6e4f4358e5013e6eb10ac2a.jpg" /><p>Scientists investigating the genomes of ancient South Americans have made a surprising discovery: the presence of DNA from Neanderthals and Denisovans, two species of humans that are now extinct.  The findings complicate our understanding of ancient South Americans and their ancestries.</p><p><a href="https://gizmodo.com/neanderthal-and-denisovan-dna-discovered-in-ancient-sou-1849728899">Read more...</a></p>
+

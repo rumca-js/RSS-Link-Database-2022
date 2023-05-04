@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Will your enterprise app dev teams visit Apple's Dynamic Island?
  - [https://www.computerworld.com/article/3673291/will-your-enterprise-app-dev-teams-visit-apples-dynamic-island.html#tk.rss_all](https://www.computerworld.com/article/3673291/will-your-enterprise-app-dev-teams-visit-apples-dynamic-island.html#tk.rss_all)
@@ -26,3 +26,4 @@
 <article>
 	<section class="page">
 <p>Got extra smartphones sitting around your office? How about tablets? As we move multiple generations into mobile technology, more and more of us are building up collections of old, dated devices from both our work and our personal lives. And more often than not, those devices do little more than take up space and gather dust.</p><p>Here's a little secret, though: Your abandoned Android gadgets are actually virtual gold mines. You just have to find the right w
+

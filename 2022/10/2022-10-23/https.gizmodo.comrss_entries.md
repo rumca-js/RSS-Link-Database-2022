@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## House of the Dragon's Prosthetic Designer Talks the Process of Transforming Viserys Targaryen
  - [https://gizmodo.com/house-of-dragon-viserys-targyen-disease-creation-1849691630](https://gizmodo.com/house-of-dragon-viserys-targyen-disease-creation-1849691630)
@@ -27,3 +27,4 @@
  - date published: 2022-10-23 14:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--_Ae8HBIW--/c_fit,fl_progressive,q_80,w_636/81f9c67dc08b62edba8e2711baf8f06d.jpg" /><p>It’s taken <a href="https://gizmodo.com/an-epic-timeline-of-the-rock-willing-dc-s-black-adam-in-1846528042">15 years</a> and several pandemic-forced delays, and now <a href="https://gizmodo.com/black-adam-review-dwayne-johnson-the-rock-superman-dc-1849627545"><em>Black Adam</em></a><em> </em>has finally arrived in theaters. <a href="https://gizmodo.
+

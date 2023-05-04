@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## 10 best mastodon apps that work with other federated social media
  - [https://www.androidauthority.com/best-mastodon-apps-android-1210889/](https://www.androidauthority.com/best-mastodon-apps-android-1210889/)
@@ -97,3 +97,4 @@ A budget-friendly spin on a popular workout experience.
  - date published: 2022-11-17 00:02:08+00:00
 
 The recently released GoPro Hero 11 Black is already on offer for $399.99 in the Black Friday sales.
+

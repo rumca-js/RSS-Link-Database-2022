@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## World Cup 2022: Cristiano Ronaldo comes close but misses out on landmark goal
  - [https://www.bbc.co.uk/sport/football/63789392?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63789392?at_medium=RSS&at_campaign=KARANGA)
@@ -448,6 +448,13 @@ Authorities are stopping anyone taking photos at the Shanghai Covid protest site
 
 Former Lioness Jill Scott is crowned queen of the jungle in ITV show I'm a Celebrity... Get Me Out of Here!
 
+## Cost of living: Bristol single dad flooded with offers of help
+ - [https://www.bbc.co.uk/news/uk-england-bristol-63744159?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-bristol-63744159?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-11-28 07:49:31+00:00
+
+Struggling single dad Samuel, from Bristol, is flooded with offers of help after featuring on the BBC.
+
 ## NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams
  - [https://www.bbc.co.uk/sport/american-football/63777983?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/american-football/63777983?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -587,3 +594,4 @@ Government announces extra funding to help those in least efficient homes in low
  - date published: 2022-11-28 00:02:08+00:00
 
 Business leaders say ministers must act this week to avert a "meltdown" in the northern rail system.
+

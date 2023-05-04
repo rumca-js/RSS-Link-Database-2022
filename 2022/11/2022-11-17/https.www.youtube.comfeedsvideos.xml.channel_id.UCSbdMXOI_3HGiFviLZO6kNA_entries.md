@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The Pokemon Go Devs just did something MASSIVE with Qualcomm!
  - [https://www.youtube.com/watch?v=BK_wHlxAsYE](https://www.youtube.com/watch?v=BK_wHlxAsYE)
@@ -34,3 +34,4 @@ TIMESTAMPS:
 11:14 Games releases
 13:24 QOTW
 13:49 Outro
+

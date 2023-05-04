@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Jeśli Iga się tego nauczy, będzie nie do pokonania"
  - [https://eurosport.tvn24.pl/fina--us-open-oczami-eksperta---je-li-iga-si--tego-nauczy--b-dzie-nie-do-pokonania-,1117996.html?source=rss](https://eurosport.tvn24.pl/fina--us-open-oczami-eksperta---je-li-iga-si--tego-nauczy--b-dzie-nie-do-pokonania-,1117996.html?source=rss)
@@ -223,3 +223,4 @@
 
 <img alt="67 minut i po sprawie. Niespodziewane rozstrzygnięcie pierwszego półfinału US Open" src="https://tvn24.pl/najnowsze/cdn-zdjecie-16wtrf-ons-jabeur-pierwsza-finalistka-us-open/alternates/LANDSCAPE_1280" />
     Tunezyjka niespodziewania i bardzo łatwo pokonała Francuzkę.
+

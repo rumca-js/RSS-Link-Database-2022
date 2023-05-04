@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Who's who in the line of succession to Elizabeth II
  - [https://cnn.it/3TZXavk](https://cnn.it/3TZXavk)
@@ -566,3 +566,4 @@ Former President Barack Obama plans to campaign for a variety of candidates this
  - date published: 2022-09-08 00:01:16+00:00
 
 Big oil companies are spending millions to portray themselves as taking action climate change, but their investments and lobbying activities don't live up to their planet-friendly claims, according to a new report.
+

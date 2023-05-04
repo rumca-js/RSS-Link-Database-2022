@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'Please arrest me': Curvy police officer goes viral, has thirsty fans backing the blue
  - [https://www.louderwithcrowder.com/big-booty-french-cop](https://www.louderwithcrowder.com/big-booty-french-cop)
@@ -76,3 +76,4 @@
  - date published: 2022-09-15 11:54:06+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31717681&amp;width=600&amp;height=600&amp;coordinates=221%2C0%2C221%2C0" /><br /><br /><p>Chick-fil-A is bland, overrated chicken. Being honest with ourselves is important. It's generic <a href="https://www.louderwithcrowder.com/professor-upset-manager-earns-more" target="_blank">fast food</a> in desperate need of a few more <a href="https://www.louderwithcrowder.com/kfc-bordder-lockdown-new-zealand" target="_blank">herbs and
+

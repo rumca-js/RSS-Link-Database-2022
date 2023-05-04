@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Tech’s Biggest Companies Are Sending Worrying Signals About the Economy
  - [https://www.nytimes.com/2022/10/26/technology/economy-facebook-google.html](https://www.nytimes.com/2022/10/26/technology/economy-facebook-google.html)
@@ -62,3 +62,4 @@ The world’s richest man has inserted himself in some of the world’s most com
  - date published: 2022-10-26 07:00:09+00:00
 
 Kathaleen St. J. McCormick, the chief judge of Delaware’s Chancery Court, gave Mr. Musk until Friday to acquire Twitter. She is also the judge in at least one other case involving the billionaire.
+

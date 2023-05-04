@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## 1000TB SSDs could become mainstream by 2030 as Samsung plans 1000-layer NAND
  - [https://www.techradar.com/news/1000tb-ssds-could-become-mainstream-by-2030-as-samsung-plans-1000-layer-nand/](https://www.techradar.com/news/1000tb-ssds-could-become-mainstream-by-2030-as-samsung-plans-1000-layer-nand/)
@@ -181,3 +181,4 @@ Heroes of Hyrule was the tactical Zelda games that never was, but could have bee
  - date published: 2022-10-05 04:00:21+00:00
 
 Dubbed the Nest Wifi Pro, the new device connects to the 6GHz spectrum for connection speeds and supports the revamped Home app.
+

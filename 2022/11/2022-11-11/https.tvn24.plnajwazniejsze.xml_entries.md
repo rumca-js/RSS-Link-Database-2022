@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zagrają po sąsiedzku. PZPN podał nową lokalizację meczu Polska-Chile
  - [https://eurosport.tvn24.pl/zagraj--po-s-siedzku--pzpn-poda--now--lokalizacj--meczu-polska---chile,1124388.html?source=rss](https://eurosport.tvn24.pl/zagraj--po-s-siedzku--pzpn-poda--now--lokalizacj--meczu-polska---chile,1124388.html?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="Waglewski: wylało się szambo po prostu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-2wsggo-wojciech-waglewski-6215607/alternates/LANDSCAPE_1280" />
     Wojciech Waglewski o tym, czy mógłby żyć bez muzyki, o swoich marzeniach i Polsce.
+

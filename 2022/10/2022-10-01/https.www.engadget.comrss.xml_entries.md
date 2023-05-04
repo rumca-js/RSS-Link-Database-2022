@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Intel-owned autonomous driving tech company Mobileye files for an IPO
  - [https://www.engadget.com/intel-mobileye-files-for-an-ipo-131049124.html?src=rss](https://www.engadget.com/intel-mobileye-files-for-an-ipo-131049124.html?src=rss)
@@ -76,3 +76,4 @@
  - date published: 2022-10-01 01:20:54+00:00
 
 <p>It seems like just yesterday that Elon Musk <a href="https://www.engadget.com/tesla-bot-humanoid-robot-033635103.html">ushered a gig worker in a spandex suit onto the Tesla AI Day 2021 stage and told us it was an robot</a> — or at least probably would be one eventually. In the intervening 13 months, the company has apparently been hard at work, replacing the squishy bits from what crowd saw on stage with proper electronics and mechanizations. At this year's AI Day on Friday, Tesla unveiled th
+

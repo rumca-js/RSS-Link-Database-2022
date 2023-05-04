@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## My boyfriend is addicted to his phone. Should I use spy software to be sure he’s cheating? | Leading questions
  - [https://www.theguardian.com/lifeandstyle/2022/nov/04/my-boyfriend-is-addicted-to-his-phone-should-i-use-spy-software-to-be-sure-hes-cheating](https://www.theguardian.com/lifeandstyle/2022/nov/04/my-boyfriend-is-addicted-to-his-phone-should-i-use-spy-software-to-be-sure-hes-cheating)
@@ -937,3 +937,4 @@
  - date published: 2022-11-03 00:01:29+00:00
 
 <p>Argentinian coach Gustavo Alfaro has put his faith in youth and Moisés Caicedo is the leader of a vibrant new generation</p><p><em>This article is part of the Guardian’s World Cup 2022 Experts’ Network, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/03/world-cup-2022-team-guide-ecuador">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Intel's Mobileye Reportedly Mulling Substantially Lower IPO Value     - CNET
  - [https://www.cnet.com/tech/intels-mobileye-reportedly-mulling-substantially-lower-ipo-value/#ftag=CADf328eec](https://www.cnet.com/tech/intels-mobileye-reportedly-mulling-substantially-lower-ipo-value/#ftag=CADf328eec)
@@ -685,3 +685,4 @@ Get your historical epic fix with season 2 of Barbarians.
  - date published: 2022-10-17 00:00:07+00:00
 
 Recap: The Disney Plus show leans into moral ambiguity as the rebels make their move on the Empire's garrison, and it's amazing.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don’t Eat This Recalled Lettuce, FDA Says
  - [https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306](https://lifehacker.com/don-t-eat-this-recalled-lettuce-fda-says-1849754306)
@@ -139,3 +139,4 @@
  - date published: 2022-11-07 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Is4yFbbP--/c_fit,fl_progressive,q_80,w_636/85a47f37fd37578859bdc3b784951fd5.jpg" /><p>When you browse your credit card statement and see an odd purchase amount or company name you can’t place, it’s possible that best-case scenario, you just forgot what you bought, or worst-case, your card number was stolen. Often, mysterious card charges are recurring payments (such as subscriptions) you forgot about,…</p><p><a href="https://lifehacker.com/how-to-look-up-an-unauthorized-charge-on-your-credit-ca-1849749942">Read more...</a></p>
+

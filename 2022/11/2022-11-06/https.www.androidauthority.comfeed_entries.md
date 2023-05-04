@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## 7 foldable phone problems that haven’t been fixed yet
  - [https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/](https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/)
@@ -27,3 +27,4 @@ Rocking in and out of focus.
  - date published: 2022-11-06 13:00:54+00:00
 
 Superb comfort and unparalleled portability have won me over.
+

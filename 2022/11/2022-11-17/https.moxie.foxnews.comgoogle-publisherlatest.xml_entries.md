@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Russia-Ukraine grain deal extended in win for food prices
  - [https://www.foxnews.com/world/russia-ukraine-grain-deal-extended-win-food-prices](https://www.foxnews.com/world/russia-ukraine-grain-deal-extended-win-food-prices)
@@ -1245,3 +1245,4 @@ Caroline Bryan said this week she underwent "unexpected hip surgery" as she shar
  - date published: 2022-11-17 00:08:50+00:00
 
 Darrell Brooks Jr. drove his Ford Escape through a crowd of paradegoers – including children and elderly individuals – during a Christmas parade.
+

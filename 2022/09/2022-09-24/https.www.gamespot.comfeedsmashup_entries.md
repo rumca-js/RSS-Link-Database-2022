@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Netflix's Creepy New Series The Watcher Gets First Trailer
  - [https://www.gamespot.com/articles/netflixs-creepy-new-series-the-watcher-gets-first-trailer/1100-6507797/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflixs-creepy-new-series-the-watcher-gets-first-trailer/1100-6507797/?ftag=CAD-01-10abi2f)
@@ -83,3 +83,4 @@
  - date published: 2022-09-24 14:00:00+00:00
 
 <p><span>Few games are as influential to the modern gaming world as King's Field, From Software's 1994 PlayStation 1 dungeon crawler. Almost every game in From Software's catalog owes something to King's Field. The studio iterated on King's Field's dark fantasy setting, unrelenting difficulty, and hands-off storytelling until eventually spawning Demon's Souls and, most recently, Elden Ring. Without King's Field, there is no Armored Core, Sekiro, or any of the vast swathes of games from other stu
+

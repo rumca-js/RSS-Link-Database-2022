@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Chłopiec złoty także na mundialu. Nastolatek przeszedł do historii
  - [https://eurosport.tvn24.pl/ch-opiec-z-oty-tak-e-na-mundialu--nastoletni-hiszpan-przeszed--do-historii,1125929.html?source=rss](https://eurosport.tvn24.pl/ch-opiec-z-oty-tak-e-na-mundialu--nastoletni-hiszpan-przeszed--do-historii,1125929.html?source=rss)
@@ -271,3 +271,4 @@
 
 <img alt="Bereszyński czuje niedosyt" src="https://tvn24.pl/najnowsze/cdn-zdjecie-irbmyv-bartosz-bereszynski-rozegral-dobry-mecz/alternates/LANDSCAPE_1280" />
     Bartosz Bereszyński był jednym z najlepszych i najbardziej zapracowanych piłkarzy meczu Polski z Meksykiem na mistrzostwach świata w Katarze. Po zremisowanym 0:0 spotkaniu boczny obrońca Biało-Czerwonych odczuwał spory niedosyt.
+

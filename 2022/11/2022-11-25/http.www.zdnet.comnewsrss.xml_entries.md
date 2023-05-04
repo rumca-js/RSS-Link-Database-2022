@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 15 best Apple Black Friday deals 2022: AirPods, iPads, more
  - [https://www.zdnet.com/article/apple-black-friday-deals-2022-november-25-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-black-friday-deals-2022-november-25-2022/#ftag=RSSbaffb68)
@@ -531,3 +531,4 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - date published: 2022-11-25 03:00:00+00:00
 
 Amazon's Black Friday 2022 deal plan involves getting the discounts straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.
+

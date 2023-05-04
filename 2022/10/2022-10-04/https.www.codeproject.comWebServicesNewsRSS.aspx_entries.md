@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Annals of artificial stupidity
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59078](https://www.codeproject.com/script/News/View.aspx?nwid=59078)
@@ -111,3 +111,4 @@ Because we never do learn
  - date published: 2022-10-04 04:00:00+00:00
 
 Many of the most common performance problems in websites and applications today are caused by how they load and rely upon JavaScript, and the difficulty involved in solving those problems often depends on the degree of that reliance.
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Insomniac’s Wolverine Launch Window, According To Microsoft | GameSpot News
  - [https://www.gamespot.com/videos/insomniacs-wolverine-launch-window-according-to-microsoft-gamespot-news/2300-6459819/](https://www.gamespot.com/videos/insomniacs-wolverine-launch-window-according-to-microsoft-gamespot-news/2300-6459819/)
@@ -433,3 +433,4 @@
  - date published: 2022-10-20 11:00:00+00:00
 
 <p><a href="https://www.gamespot.com/games/new-tales-from-the-borderlands/">New Tales from the Borderlands</a> is a fun pit stop in the space Western of the Borderlands series. Much like its predecessor, Telltale Games' <a href="https://www.gamespot.com/games/tales-from-the-borderlands-a-telltale-game-series/">Tales from the Borderlands</a>, this new adventure focuses on an ensemble cast of everyday people, not the superhero-like Vault Hunters of the main series. And in a very similar vein to th
+

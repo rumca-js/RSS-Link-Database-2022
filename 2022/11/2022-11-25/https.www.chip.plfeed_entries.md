@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Te wirusy czekały na uwolnienie od tysięcy lat. Spokojnie, raczej nie grozi nam apokalipsa
  - [https://www.chip.pl/2022/11/przebudzone-wirusy-z-syberii-zagrozenie](https://www.chip.pl/2022/11/przebudzone-wirusy-z-syberii-zagrozenie)
@@ -119,3 +119,4 @@
 
 <img alt="prototyp unikalnego myśliwca MMU" class="attachment-full size-full wp-post-image" height="916" src="https://konto.chip.pl/wp-content/uploads/2022/11/Turcja-pokazala-prototyp-unikalnego-mysliwca-MMU.-Bedzie-sluzyl-nawet-do-2080-roku.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/Turcja-pokazala-prototyp-unikalnego-mysliwca-MMU.-Bedzie-sluzyl-nawet-do-2080-roku.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>O dążeniu Turcji do przekucia Krajowego Samolotu Bojowego w coś rzeczywistego, wiedzieliśmy od lat. Prezentacji makiet doczekaliśmy się już w 2019 roku, ale dopiero teraz krajowe media mogły pokazać jego rzeczywisty prototyp. To tak zwany MMU (Milli Muharip Uçağı/Krajowy Samolot Bojowy), który dzierży też nazwę TAI TF-X i ma przed sobą świetlaną przyszłość. Prototyp unikalnego [&#8230;]</p>
+

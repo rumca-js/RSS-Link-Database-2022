@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## A new California law will require social media platforms to add more 'protections' for children
  - [https://www.engadget.com/california-ab-2273-children-social-media-230652145.html?src=rss](https://www.engadget.com/california-ab-2273-children-social-media-230652145.html?src=rss)
@@ -160,3 +160,4 @@
  - date published: 2022-09-15 00:30:24+00:00
 
 <p>Top executives from Meta, Twitter, YouTube and TikTok just wrapped up a three-hour hearing in front of the Senate Homeland Security Committee. The <a href="https://www.hsgac.senate.gov/hearings/social-medias-impact-on-homeland-security">hearing</a>, which featured Meta CPO Chris Cox, YouTube CPO Neal Mohan, TikTok COO Vanessa Pappas and Twitter’s GM of consumer product (known as “Bluebird”), was meant to be focused on how their services impact national security issues.</p><p>Notably, the hear
+

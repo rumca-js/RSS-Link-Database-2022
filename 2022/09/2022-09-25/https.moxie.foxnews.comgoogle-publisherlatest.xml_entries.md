@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Trevor Lawrence thrives in Jaguars' rout of Chargers
  - [https://www.foxnews.com/sports/trevor-lawrence-thrives-jaguars-rout-chargers](https://www.foxnews.com/sports/trevor-lawrence-thrives-jaguars-rout-chargers)
@@ -748,3 +748,4 @@ Just two weeks after being upset at home by an unranked Appalachian State team, 
  - date published: 2022-09-25 02:59:47+00:00
 
 Trafalgar Group senior strategist Robert Cahaly shares what pollsters are "getting wrong" and how that might lead to "under-reporting GOP" support on "Unfiltered with Dan Bongino."
+

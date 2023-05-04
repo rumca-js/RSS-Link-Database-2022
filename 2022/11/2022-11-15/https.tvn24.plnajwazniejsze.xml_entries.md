@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Bielik wierzy w siebie
  - [https://eurosport.tvn24.pl/bielik-wierzy-w-siebie---licz--na-to---e-zagram-w-pierwszej-jedenastce-,1124765.html?source=rss](https://eurosport.tvn24.pl/bielik-wierzy-w-siebie---licz--na-to---e-zagram-w-pierwszej-jedenastce-,1124765.html?source=rss)
@@ -175,3 +175,4 @@
 
 <img alt="Zebrał rekordową kwotę na swoją kampanię. W tym od ludzi, których CV otrzymał w słynnych mailach " src="https://tvn24.pl/najnowsze/cdn-zdjecie-ju5jjj-1411n000x-cnb-kubik-jojo-0026-6219980/alternates/LANDSCAPE_1280" />
     Dariusz Kubik i Grzegorz Łakomski o finansowych plecach Joachima Brudzińskiego.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Tesla Is Recalling 40,000 Cars In Its 17th Recall of the Year
  - [https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373](https://lifehacker.com/tesla-is-recalling-40-000-cars-in-its-17th-recall-of-th-1849758373)
@@ -139,3 +139,4 @@
  - date published: 2022-11-08 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--aSSF5-qh--/c_fit,fl_progressive,q_80,w_636/f548496002af00c5d6d880c36818cb17.jpg" /><p>The other day I was looking for some sage, probably to make a test batch of <a href="https://lifehacker.com/you-should-make-your-stuffing-with-fast-food-biscuits-1849753343">this stuffing</a>. It took three whole trips to three whole stores before I found any. This, to me, does not bode well for the coming weeks, at least sage-wise. Maybe it’s just my city, but there have been a fair amount of herbs missing from all…</p><p><a href="https://lifehacker.com/how-to-substitute-your-dried-thanksgiving-herbs-for-fre-1849754492">Read more...</a></p>
+

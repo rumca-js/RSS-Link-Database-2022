@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Italy expected to look right as polls open in national election
  - [https://www.cnn.com/2022/09/25/europe/italy-general-election-polls-open-intl/index.html](https://www.cnn.com/2022/09/25/europe/italy-general-election-polls-open-intl/index.html)
@@ -13,3 +13,4 @@ Polls opened Sunday in the Italian national elections, with the far-right Brothe
  - date published: 2022-09-25 02:36:08+00:00
 
 North Korea has fired a ballistic missile into the waters off the east coast of the Korean peninsula, according to officials in both South Korea and Japan.
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Why Cyberpunk 2077 Is Popular Again | GameSpot News
  - [https://www.gamespot.com/videos/why-cyberpunk-2077-is-popular-again-gamespot-news/2300-6459579/](https://www.gamespot.com/videos/why-cyberpunk-2077-is-popular-again-gamespot-news/2300-6459579/)
@@ -384,3 +384,4 @@
  - date published: 2022-09-16 01:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4036421-crisiscorereunion_v4_site.jpg" width="480" /> Crisis Core: Final Fantasy Reunion is the upcoming remake of Crisis Core: Final Fantasy, a well regarded game amongst Final Fantasy fans that sadly saw limited players due to it being on the PSP. Crisis Core Reunion is brings the game to modern systems with updated graphics and gameplay.
+

@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Arizona judge: State can enforce near-total abortion ban
  - [https://www.politico.com/news/2022/09/23/arizona-abortion-ban-roe-00058702](https://www.politico.com/news/2022/09/23/arizona-abortion-ban-roe-00058702)
@@ -20,3 +20,4 @@ The only exemption is if the woman’s life is in jeopardy.
  - date published: 2022-09-23 04:00:00+00:00
 
 Rachael Bade, Playbook’s co-author, and Karoun Demirjian, national security reporter at the Washington Post, pull back the curtain on Congress in their hotly anticipated new book, "Unchecked: The Untold Story Behind Congress's Botched Impeachments of Donald Trump.”
+

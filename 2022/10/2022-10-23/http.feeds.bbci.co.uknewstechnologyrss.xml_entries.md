@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## TikTok blamed by filmmaker for allowing abusive comments on video
  - [https://www.bbc.co.uk/news/technology-63243423?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63243423?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Emmeline Hartley feels its software drives sexist hate towards her film, but Tik
  - date published: 2022-10-23 23:12:06+00:00
 
 As much of the world's earth has been degraded, efforts are being made to improve matters.
+

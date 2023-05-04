@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Musk's SpaceX says it can no longer pay for critical satellite services in Ukraine, asks Pentagon to pick up the tab
  - [https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html](https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html)
@@ -588,3 +588,4 @@ A Texas family of five was sentenced together on Wednesday for storming the Capi
  - date published: 2022-10-13 00:12:03+00:00
 
 The United Nations General Assembly voted overwhelmingly to condemn Russia's attempted annexations in Ukraine after Moscow unleashed another round of missile strikes targeting civilians and critical infrastructure. CNN correspondent Fred Pleitgen reports and speaks with Mikhail Podolyak, Advisor to Ukraine's Presidential Office, who contradicted President Biden's after his comment in an exclusive interview with CNN's Jake Tapper.
+

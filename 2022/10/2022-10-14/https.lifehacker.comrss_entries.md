@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Out-of-Touch Adults' Guide to Kid Culture: What the Hell is 'Don't Hug Me I'm Scared?'
  - [https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077](https://lifehacker.com/what-is-dont-hug-me-im-scared-1849660077)
@@ -125,3 +125,4 @@
  - date published: 2022-10-14 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--lOvT-9e4--/c_fit,fl_progressive,q_80,w_636/9318605b40e2e59a2df872eda30d4185.jpg" /><p>Trying to make a sinister monster eyeball cake for Halloween might sound like a <em>Nailed It!</em> disaster waiting to happen, but it’s not as hard as you think to make a spooky season-appropriate decorative treat to terrify your friends and family. You don’t need any special equipment or a particular set of cake carving…</p><p><a href="https://lif
+

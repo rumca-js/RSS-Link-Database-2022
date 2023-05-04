@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Istebna. 69-latek zgubił się na grzybach. Wyszedł w środę, odnalazł się dopiero w piątek
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28999358,istebna-69-latek-zgubil-sie-na-grzybach-wyszedl-w-srode-odnalazl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28999358,istebna-69-latek-zgubil-sie-na-grzybach-wyszedl-w-srode-odnalazl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -125,3 +125,4 @@
  - date published: 2022-10-07 03:55:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ef/a6/1b/z28994287M,Zegarek--zdjecie-ilustracyjne-.jpg" vspace="2" />Zmiana czasu zbliża się wielkimi krokami. Już niebawem przestawimy swoje zegarki i przejdziemy z czasu letniego na zimowy. Wskazówki przesuniemy tym razem o godzinę do przodu czy do tyłu? Odpowiadamy.
+

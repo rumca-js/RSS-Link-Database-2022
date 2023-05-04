@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This Google Pixel bug fix could have spelled trouble for all Android phones
  - [https://www.techradar.com/news/this-google-pixel-bug-fix-could-have-spelled-trouble-for-all-android-phones/](https://www.techradar.com/news/this-google-pixel-bug-fix-could-have-spelled-trouble-for-all-android-phones/)
@@ -167,3 +167,4 @@ The creators of Netflix's hugely popular series appear to tease there'll be mult
  - date published: 2022-11-14 04:01:16+00:00
 
 Adobe has announced a big saving to its Creative Cloud plan, both for users and students until November 25.
+

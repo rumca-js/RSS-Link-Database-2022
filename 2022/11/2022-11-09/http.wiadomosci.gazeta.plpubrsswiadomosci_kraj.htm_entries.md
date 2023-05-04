@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Ciężarówka "Żegnaj religio!" tym razem na Podlasiu. "Białystoku, wiemy, że nas potrzebujesz"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29124852,ciezarowka-zegnaj-religio-tym-razem-na-podlasiu-bialystoku.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29124852,ciezarowka-zegnaj-religio-tym-razem-na-podlasiu-bialystoku.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -132,3 +132,4 @@
  - date published: 2022-11-09 05:05:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/39/bd/1b/z29088825M,Swieto-Niepodleglosci.jpg" vspace="2" />Podczas tegorocznego Święta Niepodległości ulicami Warszawy przejdzie m.in. Marsz Niepodległości, który organizowany jest pod hasłem "Silny Naród, Wielka Polska". Tego samego dnia zaplanowano 20 innych manifestacji w stolicy.
+

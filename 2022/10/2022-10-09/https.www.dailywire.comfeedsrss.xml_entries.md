@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Trafalgar Pollster Signals Republican Voters Will Be Undercounted Again Ahead Of Midterms
  - [https://www.dailywire.com/news/trafalgar-pollster-signals-republican-voters-will-be-undercounted-again-ahead-of-midterms](https://www.dailywire.com/news/trafalgar-pollster-signals-republican-voters-will-be-undercounted-again-ahead-of-midterms)
@@ -118,3 +118,4 @@ Michigan Democratic Rep. Elissa Slotkin called for a “new generation” and �
  - date published: 2022-10-09 11:37:30+00:00
 
 Ye, the rap and fashion mogul formerly known as Kanye West, sparked new controversy Saturday night with a tweet pledging to take on “Jewish people” after finding himself restricted from his 18-million-follower Instagram account earlier in the day. Ye, who spent the entire week in a media firestorm after appearing at a Paris fashion show with ...
+

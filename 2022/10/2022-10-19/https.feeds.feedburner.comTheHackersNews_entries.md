@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Detail Azure SFX Flaw That Could've Allowed Attackers to Gain Admin Access
  - [https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html](https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html)
@@ -43,3 +43,4 @@ Details have emerged about a previously undocumented and fully undetectable (FUD
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released two Industrial Control Systems (ICS) advisories pertaining to severe flaws in Advantech R-SeeNet and Hitachi Energy APM Edge appliances.
 This consists of three weaknesses in the R-SeeNet monitoring solution, successful exploitation of which "could result in an unauthorized attacker remotely deleting files on the
+

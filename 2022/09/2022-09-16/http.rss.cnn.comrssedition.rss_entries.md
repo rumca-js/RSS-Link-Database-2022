@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Why a mysterious fireball in the skies has scientists puzzled
  - [https://www.cnn.com/videos/world/2022/09/16/fireball-scotland-space-skies-nr-fisher-vpx.cnn](https://www.cnn.com/videos/world/2022/09/16/fireball-scotland-space-skies-nr-fisher-vpx.cnn)
@@ -475,3 +475,4 @@ In campaign remarks, Pennsylvania's Republican nominee for governor Doug Mastria
  - date published: 2022-09-16 00:03:27+00:00
 
 "Jeopardy!" host Ken Jennings allowed a contestant to change his answer, but later denied a second contestant from doing the same.
+

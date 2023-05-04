@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Austin police arrest man who stabbed sheriff's deputy, shoplifted, has prior criminal history
  - [https://www.foxnews.com/us/austin-police-arrest-man-stabbed-sheriffs-deputy-shoplifted-criminal-history](https://www.foxnews.com/us/austin-police-arrest-man-stabbed-sheriffs-deputy-shoplifted-criminal-history)
@@ -1049,3 +1049,4 @@ Philadelphia officials are preparing for the potential arrival of 52 migrants on
  - date published: 2022-11-14 00:07:00+00:00
 
 An explosion in Istanbul, Turkey killed six people and injured at least 81 after ripping through the popular pedestrian Istiklal Avenue.
+

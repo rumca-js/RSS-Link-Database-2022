@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The US Army could soon be equipped with Microsoft Hololens
  - [https://www.techradar.com/news/the-us-army-could-soon-be-equipped-with-microsoft-hololens/](https://www.techradar.com/news/the-us-army-could-soon-be-equipped-with-microsoft-hololens/)
@@ -181,3 +181,4 @@ The Apple Watch SE 2 might get a power boost and little else, but there should b
  - date published: 2022-09-05 09:47:19+00:00
 
 This year's best Labor Day mattress sales from from Saatva, Nectar, DreamCloud, GhostBed and more
+

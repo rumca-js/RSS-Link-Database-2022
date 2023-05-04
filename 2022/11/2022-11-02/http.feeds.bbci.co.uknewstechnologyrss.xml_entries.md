@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Apple store Glasgow workers unionise in UK first
  - [https://www.bbc.co.uk/news/technology-63485697?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63485697?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ Foxconn locked down the world's largest iPhone factory in line with China's zero
  - date published: 2022-11-02 01:18:26+00:00
 
 BBC News has seen evidence Evolv, which claims to have the "signatures" of all weapons, has limitations.
+

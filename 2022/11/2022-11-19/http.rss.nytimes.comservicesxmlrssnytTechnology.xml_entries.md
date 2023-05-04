@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## It’s Official: The Leap Second Will Be Retired (a Decade from Now)
  - [https://www.nytimes.com/2022/11/19/science/time-leap-second-bipm.html](https://www.nytimes.com/2022/11/19/science/time-leap-second-bipm.html)
@@ -13,3 +13,4 @@ On Friday, an international vote was taken to ditch the leap second, a technical
  - date published: 2022-11-19 14:00:10+00:00
 
 A new vocabulary — a little fun, a little dystopian — has emerged on the social video platform, as creators try to get around algorithms and strict content moderation. They call it algospeak.
+

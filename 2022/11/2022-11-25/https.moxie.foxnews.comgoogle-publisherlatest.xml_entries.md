@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## PETA blasts 'shameful' National Dog Show whose best-in-show winner is owned by NFL player
  - [https://www.foxnews.com/sports/peta-blasts-shameful-national-dog-show-whose-best-in-show-winner-is-owned-by-nfl-player](https://www.foxnews.com/sports/peta-blasts-shameful-national-dog-show-whose-best-in-show-winner-is-owned-by-nfl-player)
@@ -804,3 +804,4 @@ For Thanksgiving 2022 Gergely Dudás, a graphic artist from Budapest, Hungary, s
  - date published: 2022-11-25 00:00:36+00:00
 
 As investigators search for a suspect in the slaying of four University of Idaho students, a third unsolved stabbing has resurfaced with eerie similarities.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘It’s Called Soccer!’ U.S. Fans Troll World Cup During Match Vs. England
  - [https://www.dailywire.com/news/its-called-soccer-u-s-fans-troll-world-cup-during-match-vs-england](https://www.dailywire.com/news/its-called-soccer-u-s-fans-troll-world-cup-during-match-vs-england)
@@ -209,3 +209,4 @@ The DailyWire+ is announcing the rollout of a host of deals and discounts for Bl
  - date published: 2022-11-25 00:06:59+00:00
 
 Protests have broken out throughout communist China in response to revamped coronavirus lockdown measures that have gone back into effect amid a skyrocketing number of coronavirus infections. Dozens of cities across the country have gone back into lockdown with millions of people impacted, a situation that has negatively impacted economic forecasts. Notable demonstrations have included ...
+

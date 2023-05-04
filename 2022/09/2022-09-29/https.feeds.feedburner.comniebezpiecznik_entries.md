@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Uwaga na sprytny atak na użytkowników Facebooka
  - [https://niebezpiecznik.pl/post/uwaga-na-sprytny-atak-na-uzytkownikow-facebooka/](https://niebezpiecznik.pl/post/uwaga-na-sprytny-atak-na-uzytkownikow-facebooka/)
@@ -13,3 +13,4 @@
  - date published: 2022-09-29 07:40:47+00:00
 
 <a href="https://niebezpiecznik.pl/post/wyciekly-dane-studentow-z-uniwersytetu-medycznego-w-lodzi/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/09/umed-wyciek-150x150.png" width="100" /></a>Wczoraj do studentów UMED-u wewnętrzną pocztą dotarła wiadomość od rektora. Pracownicy i studenci dowiedzieli się z niej, że &#8212; podobnie jak w przypadku SGH kilka dni temu &#8212; na skutek &#8220;błędu w syst
+

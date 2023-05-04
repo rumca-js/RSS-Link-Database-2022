@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Na Wall Street dalszy ciąg odbicia
  - [https://www.bankier.pl/wiadomosc/Na-Wall-Street-dalszy-ciag-odbicia-8428208.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Na-Wall-Street-dalszy-ciag-odbicia-8428208.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -442,3 +442,4 @@ inter
  - date published: 2022-10-24 02:51:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/4/0954a5f91a2cf2-945-560-0-0-1732-1039.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Gwałtowny wzrost imigracji do USA z Wenezueli, Kuby i Nikaragui we wrześniu zwiększył liczbę nielegalnych imigrantów w zakończonym 30 września roku podatkowym do najwyższego z dotychczasowych poziomu . Na granicy z Meksykiem zatrzymano w ciągu 12 miesięcy 227 547 osób.</p>
+

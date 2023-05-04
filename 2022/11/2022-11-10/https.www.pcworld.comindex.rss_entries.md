@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Black Friday SSD deals: What to expect and early sales
  - [https://www.pcworld.com/article/1377302/black-friday-ssd-deals-what-to-expect.html](https://www.pcworld.com/article/1377302/black-friday-ssd-deals-what-to-expect.html)
@@ -2057,3 +2057,4 @@ PlayStation</div>
 
 <p></p>
 Chromebooks</div>
+

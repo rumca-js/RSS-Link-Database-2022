@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Ex-FBI Agent Who Played Key Role In Crossfire Hurricane Scrutinized Over Alleged Russia Ties: Report
  - [https://www.dailywire.com/news/ex-fbi-agent-who-played-key-role-in-crossfire-hurricane-scrutinized-over-alleged-russia-ties-report](https://www.dailywire.com/news/ex-fbi-agent-who-played-key-role-in-crossfire-hurricane-scrutinized-over-alleged-russia-ties-report)
@@ -384,3 +384,4 @@ Pressure is building for Prince Harry and Meghan Markle to have their royal titl
  - date published: 2022-09-15 07:26:24+00:00
 
 Republican candidates in Pennsylvania are lagging in their midterm races against Democratic rivals, according to a recent poll from CBS News and YouGov. Democratic Senate nominee and Lt. Governor John Fetterman is supported by 52% of respondents, while Republican rival and celebrity cardiologist Dr. Mehmet Oz is backed by 47%. Voters also indicated a higher ...
+

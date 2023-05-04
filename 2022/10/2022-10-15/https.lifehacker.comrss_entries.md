@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Involve Teens in Basic Family Caregiving (and Why You Should)
  - [https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563](https://lifehacker.com/how-to-involve-teens-in-basic-family-caregiving-and-wh-1849662563)
@@ -20,3 +20,4 @@
  - date published: 2022-10-15 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--cpK0jp6b--/c_fit,fl_progressive,q_80,w_636/59acaa84d5146fa06dc6d9634417ca71.jpg" /><p>Humans aren’t the only ones looking for someone to cozy up with as temperatures drop. Fall is officially deer mating season, making them particularly active this time of year. Unfortunately, as they’re playing the field, it’s not uncommon for deer to wander (or run) into the road and oncoming traffic.</p><p><a href="https://lifehacker.com/how-to-red
+

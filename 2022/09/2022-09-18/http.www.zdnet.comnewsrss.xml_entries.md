@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Hybrid workers don't want to return to the office. But soon, they might have to
  - [https://www.zdnet.com/article/hybrid-workers-dont-want-to-return-to-the-office-but-soon-they-might-have-to/#ftag=RSSbaffb68](https://www.zdnet.com/article/hybrid-workers-dont-want-to-return-to-the-office-but-soon-they-might-have-to/#ftag=RSSbaffb68)
@@ -41,3 +41,4 @@ When someone famous rages against your service, how should you react? In Best Bu
  - date published: 2022-09-18 03:35:00+00:00
 
 Dash cams are great for recording evidence of accidents and vehicle break-ins. If you're looking for the best dash cam, our expert pick is the Vantrue N2 Pro for its 1440p resolution recording, infrared night vision, motion detection, and dual view recording.
+

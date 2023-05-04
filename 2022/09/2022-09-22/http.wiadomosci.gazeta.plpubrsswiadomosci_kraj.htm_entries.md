@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Prokurator Ewa Wrzosek może mieć postępowanie służbowe. W tle próba udzielenia wywiadu
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28943369,prokurator-ewa-wrzosek-moze-miec-postepowanie-sluzbowe-za-probe.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28943369,prokurator-ewa-wrzosek-moze-miec-postepowanie-sluzbowe-za-probe.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-09-22 08:32:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/97/8f/1a/z27852439M,Ciaza---zdjecie-ilustracyjne.jpg" vspace="2" />Aborcja w Polsce w przypadku, gdy stwierdzona zostanie ciężka wada płodu, zgodnie z orzeczeniem Trybunału Konstytucyjnego, jest nielegalna. Oznacza to, że kobieta nosząca w sobie chory płód jest zmuszona urodzić, nawet jeśli te nie będzie miało szansy na przeżycie. Jedną z takich osób jest pani Marina, która dopiero w siódmym miesiącu ciąży dowiedziała się, że płód nie ma ko
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## There won't be a Westworld season 5 as HBO cancels the show
  - [https://www.techradar.com/news/there-wont-be-a-westworld-season-5-as-hbo-cancels-the-show/](https://www.techradar.com/news/there-wont-be-a-westworld-season-5-as-hbo-cancels-the-show/)
@@ -55,3 +55,4 @@ We spoke with Amazon representatives at the Matter launch event to find out the 
  - date published: 2022-11-05 06:47:55+00:00
 
 Blizzard announced a new tank during the Grand Final Overwatch League; he's set to seriously shake up the meta.
+

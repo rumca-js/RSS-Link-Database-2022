@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Meta pushes metaverse as the new office. Will corporate America buy it?
  - [https://www.washingtonpost.com/technology/2022/10/11/meta-connect-headset-vr/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/11/meta-connect-headset-vr/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ It's clear the Quest Pro is not for gamers.
  - date published: 2022-10-11 13:34:14+00:00
 
 The new Meta Quest Pro adds "mixed reality" and face-tracking capabilities. But even with the upgrade, what makes the metaverse better than the internet we already have on phones and laptops?
+

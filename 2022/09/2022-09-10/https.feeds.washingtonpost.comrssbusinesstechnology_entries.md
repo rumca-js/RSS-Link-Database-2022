@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Netflix to get three exclusive Ubisoft games, including Assassin’s Creed
  - [https://www.washingtonpost.com/video-games/2022/09/10/netflix-assassins-creed-ubisoft-mobile/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/10/netflix-assassins-creed-ubisoft-mobile/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ The Army is creating a next-generation ‘Iron Man’ suit for soldier back pain
  - date published: 2022-09-10 06:00:26+00:00
 
 Researchers in Singapore have created a robot that follows seniors around while they walk and can predict when they'll fall and stop it from happening.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## UK Snooker Championship 2022: Neil Robertson and John Higgins beaten in first round
  - [https://www.bbc.co.uk/sport/snooker/63615988?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/snooker/63615988?at_medium=RSS&at_campaign=KARANGA)
@@ -356,3 +356,4 @@ Brian Hough was only 18 when he fought in the Korean War but 70 years on he's tr
  - date published: 2022-11-13 00:00:16+00:00
 
 Match of the Day's Alan Shearer tells fellow pundit Ian Wright and Gary Lineker how a "magnificent" Brentford outperformed Manchester City during their dramatic 2-1 win.
+

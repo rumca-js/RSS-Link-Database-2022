@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## What the Hell Happened to FTX?
  - [https://www.wired.com/story/ftx-collapse-binance-crypto-deal/](https://www.wired.com/story/ftx-collapse-binance-crypto-deal/)
@@ -20,3 +20,4 @@ Hunting down crypto criminals is a dying art as law enforcement officers jump in
  - date published: 2022-11-09 12:00:00+00:00
 
 The network’s servers are overrun by almost half a million new sign-ups, as Elon Musk’s Twitter takeover has thrust it into the spotlight.
+

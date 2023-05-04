@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## How Every Team Can Win The ‘Rocket League’ Championship Series Fall Major - North American Region
  - [https://www.forbes.com/sites/maxthielmeyer/2022/11/22/how-every-team-can-win-the-rocket-league-championship-series-fall-majornorth-american-region/](https://www.forbes.com/sites/maxthielmeyer/2022/11/22/how-every-team-can-win-the-rocket-league-championship-series-fall-majornorth-american-region/)
@@ -455,3 +455,4 @@ How to solve today's Wordle.
  - date published: 2022-11-22 01:00:00+00:00
 
 What is a hybrid solar eclipse? This rare event happens only a handful of times each century and is a jaw-dropping sight.
+

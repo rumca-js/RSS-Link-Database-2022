@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET 7 is available today
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59439](https://www.codeproject.com/script/News/View.aspx?nwid=59439)
@@ -62,3 +62,4 @@ Now you can become the next media sensation
  - date published: 2022-11-09 05:00:00+00:00
 
 In order to send an email, you will have to remind the service that it's muted first
+

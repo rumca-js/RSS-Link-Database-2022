@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Deepfaked: ‘They put my face on a porn video’
  - [https://www.bbc.co.uk/news/uk-62821117?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62821117?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ A group-action claim alleges Amazon breached competition law and caused customer
  - date published: 2022-10-20 13:49:52+00:00
 
 GMB says it was three votes short of reaching the 50% threshold needed for industrial action.
+

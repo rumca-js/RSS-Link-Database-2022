@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Calculate How Much Money Your Free Time Is Worth
  - [https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832](https://lifehacker.com/how-to-calculate-how-much-money-your-free-time-is-worth-1849526832)
@@ -90,3 +90,4 @@
  - date published: 2022-09-12 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Xwte9SiH--/c_fit,fl_progressive,q_80,w_636/16024bc3b8d04426d3a7c2bd8f304b22.jpg" /><p>Grieving is  hard and complicated after a loss, but some people may find themselves dealing with <a href="https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855" rel="noopener noreferrer" target="_blank">anticipatory grief</a>, which is grief that comes <em>before</em> a loss. Anticipatory grief can happen in situations
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The White House passes an AI "Bill of Rights" that attempts to put your AI concerns at ease
  - [https://www.zdnet.com/article/the-white-house-passes-an-ai-bill-of-rights-that-attempts-to-put-your-privacy-concerns-at-ease/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-white-house-passes-an-ai-bill-of-rights-that-attempts-to-put-your-privacy-concerns-at-ease/#ftag=RSSbaffb68)
@@ -153,3 +153,4 @@ It's not perfect, with moderate battery life and a 720p webcam the main disappoi
  - date published: 2022-10-04 04:00:00+00:00
 
 Amazon is hosting two days of deals with a Prime Early Access Sale to boost holiday shopping. But with all the discounts popping up, how do you know you're actually snagging a good deal?
+

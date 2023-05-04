@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Comcast says 2-gig speeds are rolling out now to ‘millions’
  - [https://www.theverge.com/2022/9/10/23345904/comcast-2-gig-speeds-rolling-out-symmetrical-broadband-cable](https://www.theverge.com/2022/9/10/23345904/comcast-2-gig-speeds-rolling-out-symmetrical-broadband-cable)
@@ -152,3 +152,4 @@
   <p>
     <a href="https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price">Continue reading&hellip;</a>
   </p>
+

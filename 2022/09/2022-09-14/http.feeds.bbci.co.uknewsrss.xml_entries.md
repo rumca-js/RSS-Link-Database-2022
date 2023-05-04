@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Patagonia: Billionaire boss of fashion retailer gives company away
  - [https://www.bbc.co.uk/news/business-62906853?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62906853?at_medium=RSS&at_campaign=KARANGA)
@@ -419,3 +419,4 @@ The Royal Mail says it admires the "creativity" that has gone into producing the
  - date published: 2022-09-14 05:04:17+00:00
 
 A Welsh corgi breeder recalls a special appointment with the Queen to help with her pet project.
+

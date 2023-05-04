@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Fodcha DDoS Botnet Resurfaces with New Capabilities
  - [https://thehackernews.com/2022/10/fodcha-ddos-botnet-resurfaces-with-new.html](https://thehackernews.com/2022/10/fodcha-ddos-botnet-resurfaces-with-new.html)
@@ -40,3 +40,4 @@ The vulnerability, which affects Galaxy Store version 4.5.32.4, relates to a cro
 
 Cloud-based repository hosting service GitHub has addressed a high-severity security flaw that could have been exploited to create malicious repositories and mount supply chain attacks.
 The RepoJacking technique, disclosed by Checkmarx, entails a bypass of a protection mechanism called popular repository namespace retirement, which aims to prevent developers from pulling unsafe repositories with
+

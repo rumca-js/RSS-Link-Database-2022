@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Nobel Prize for chemistry awarded to trio for 'snapping molecules together'
  - [https://www.lemonde.fr/en/science/article/2022/10/05/nobel-prize-for-chemistry-awarded-to-trio-for-snapping-molecules-together_5999206_10.html](https://www.lemonde.fr/en/science/article/2022/10/05/nobel-prize-for-chemistry-awarded-to-trio-for-snapping-molecules-together_5999206_10.html)
@@ -13,3 +13,4 @@ American scientists Carolyn Bertozzi and Barry Sharpless shared the award with D
  - date published: 2022-10-05 06:18:41+00:00
 
 A SpaceX spacecraft is set to carry a Russian woman cosmonaut to the ISS on Wednesday, October 5.
+

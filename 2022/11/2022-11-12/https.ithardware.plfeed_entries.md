@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Meta Platforms kończy z ekranami Portal i anuluje projekt smartwatcha
  - [https://ithardware.pl/aktualnosci/meta_platforms_konczy_z_ekranami_portal_i_anuluje_projekt_smartwatcha-24323.html](https://ithardware.pl/aktualnosci/meta_platforms_konczy_z_ekranami_portal_i_anuluje_projekt_smartwatcha-24323.html)
@@ -139,3 +139,4 @@ Celem...
 
 <img src="https://ithardware.pl/artykuly/min/24314_1.jpg" />            Fabio Panetta, członek zarządu Europejskiego Banku Centralnego (EBC), zaproponował, aby użytkownicy cyfrowego euro mogli wydawać tylko 50 euro na transakcję i mieć maksymalny miesięczny limit wydatk&oacute;w wynoszący zaledwie 1000 euro, jeśli...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/cyfrowe_euro_ma_miec_restrykcyjne_limity_wydatkow_i_oszczednosci-24314.html">https://ithardware.pl/aktualnosci/cyfrowe_euro_ma_miec_restrykcyjne_limity_wydatkow_i_oszczednosci-24314.html</a></p>
+

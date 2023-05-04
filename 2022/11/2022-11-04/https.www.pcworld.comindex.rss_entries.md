@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The best graphics cards for PC gaming: A blistering new generation arrives
  - [https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html](https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html)
@@ -2621,3 +2621,4 @@ Gaming, GPUs</div>
 
 <p><em>Prices subject to change.</em></p>
 Certifications</div>
+

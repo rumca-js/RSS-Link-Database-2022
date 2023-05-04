@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Join crusade to save triple lock' and 'no way back?'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63421729?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63421729?at_medium=RSS&at_campaign=KARANGA)
@@ -538,3 +538,4 @@ A jury has been dismissed after "misconduct" during deliberations in a trial tha
  - date published: 2022-10-27 00:02:01+00:00
 
 Susan Wamaitha was urged to take a Chinese-made contraceptive not knowing it was banned in Kenya.
+

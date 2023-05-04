@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## I asked Amazon to show me weird tech gadgets. I still haven't recovered
  - [https://www.zdnet.com/article/i-asked-amazon-to-show-me-weird-tech-gadgets-i-still-havent-recovered/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-asked-amazon-to-show-me-weird-tech-gadgets-i-still-havent-recovered/#ftag=RSSbaffb68)
@@ -41,3 +41,4 @@ If you're looking for a cheap Windows laptop, you don't have to skimp out on fea
  - date published: 2022-10-22 01:30:00+00:00
 
 When you buy the right waterproof phone pouch, there are no longer any worries about water ruining your phone. Before you go swimming, you need the best waterproof phone pouch to protect your cell phone, which is where we come in with our best picks.
+

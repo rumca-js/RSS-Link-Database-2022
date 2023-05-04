@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## TikTok raises livestream age after BBC exposes child begging
  - [https://www.bbc.co.uk/news/technology-63262102?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63262102?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ A fire shut down Kakao's messaging, banking and gaming services for more than ei
  - date published: 2022-10-19 05:29:14+00:00
 
 The store will initially focus on home insurance and has just three insurers on board.
+

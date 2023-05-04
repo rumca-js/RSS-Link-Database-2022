@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Tamron 35-150mm f/2-2.8 Di III VXD &#8211; czy to faktycznie może być jedyny obiektyw do wszystkiego?
  - [https://www.chip.pl/2022/11/tamron-35-150mm-f-2-2-8-di-iii-vxd-test-recenzja-obiektyw-do-wszystkiego](https://www.chip.pl/2022/11/tamron-35-150mm-f-2-2-8-di-iii-vxd-test-recenzja-obiektyw-do-wszystkiego)
@@ -143,3 +143,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="808" src="https://konto.chip.pl/wp-content/uploads/2022/11/rakiet.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/rakiet.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Agnikul Cosmos to indyjska firma odpowiedzialna za projekt jednoczęściowego silnika rakietowego, który został wykonany z użyciem technologii druku 3D. Agnilet został już poddany testom. W czasie tej niezwykle ważnej próby sprawdzono działanie silnika, co jest imponującym osiągnięciem, szczególnie jeśli wziąć pod uwagę fakt, że firma została założona zaledwie pięć lat temu. Srinath Ravichandran, pełniący funkcję [&#8230;]</p>
+

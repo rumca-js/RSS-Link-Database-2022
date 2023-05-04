@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Iranian police looking into incident involving woman surrounded by officers in street
  - [https://www.cnn.com/2022/10/15/middleeast/iran-police-womens-rights-protests-intl/index.html](https://www.cnn.com/2022/10/15/middleeast/iran-police-womens-rights-protests-intl/index.html)
@@ -13,3 +13,4 @@ Video from Tehran has shown a large group of male security forces surrounding an
  - date published: 2022-10-15 09:02:09+00:00
 
 It's a great time to be a closeout store like TJ Maxx.
+

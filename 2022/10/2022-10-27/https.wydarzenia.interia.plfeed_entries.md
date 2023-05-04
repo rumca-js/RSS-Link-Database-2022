@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Maseczki obowiązkowe w szpitalach i aptekach. Rząd przedłuża ograniczenia
  - [https://wydarzenia.interia.pl/raporty/raport-koronawirus-chiny/polska/news-maseczki-obowiazkowe-w-szpitalach-i-aptekach-rzad-przedluza-,nId,6374718](https://wydarzenia.interia.pl/raporty/raport-koronawirus-chiny/polska/news-maseczki-obowiazkowe-w-szpitalach-i-aptekach-rzad-przedluza-,nId,6374718)
@@ -711,3 +711,4 @@
  - date published: 2022-10-27 03:27:54+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-246-dzien-inwazji-rosji-relacja-na-zywo,nzId,3244,akt,270738"><img align="left" alt="Wojna w Ukrainie. 246. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-246-dzien-inwazji-rosji-relacja-na-zywo/000G9B7B6GSP5J9R-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

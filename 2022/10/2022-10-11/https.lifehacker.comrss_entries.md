@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Can Get a Free AppTrails Pro Membership by Going on a Hike
  - [https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998](https://lifehacker.com/you-can-get-a-free-apptrails-pro-membership-by-going-on-1849644998)
@@ -132,3 +132,4 @@
  - date published: 2022-10-11 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--j_1tEEp1--/c_fit,fl_progressive,q_80,w_636/e1604661328bb2e442e9d3e92dafd286.jpg" /><p>“<a href="https://lifehacker.com/leave-onion-roots-intact-for-easier-slicing-and-dicing-1833271164">How to chop an onion</a>” is to food videos as “how to do a perfect cat eye” is to makeup tutorials; both have been done to death, yet people keep clicking, because both topics are critically important. And you never know when you might learn somethin
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Minister Błaszczak rozmawiał z szefem Pentagonu
  - [https://tvn24.pl/polska/minister-obrony-narodowej-mariusz-blaszczak-rozmawial-z-szefem-pentagonu-lloydem-austinem-o-wybuchu-w-przewodowie-6253785?source=rss](https://tvn24.pl/polska/minister-obrony-narodowej-mariusz-blaszczak-rozmawial-z-szefem-pentagonu-lloydem-austinem-o-wybuchu-w-przewodowie-6253785?source=rss)
@@ -839,3 +839,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-0xxg0l-rosyjscy-rezerwisci-wbrew-swojej-woli-sa-wyslani-na-cwiczenia-w-poblize-ukrainy-6064905/alternates/LANDSCAPE_1280" />
     Pierwsza dama Ukrainy Ołena Zełenska wystąpiła podczas konferencji w ramach Inicjatywy na rzecz Zapobiegania Przemocy Seksualnej w Konfliktach.
+

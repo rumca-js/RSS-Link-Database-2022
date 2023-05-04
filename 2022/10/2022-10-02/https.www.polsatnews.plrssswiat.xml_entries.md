@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Grzegorz Braun w rosyjskiej telewizji. Propaganda wykorzystała jego wypowiedź
  - [https://www.polsatnews.pl/wiadomosc/2022-10-02/grzegorz-braun-w-rosyjskiej-telewizji-propaganda-wykorzystala-jego-wypowiedz/](https://www.polsatnews.pl/wiadomosc/2022-10-02/grzegorz-braun-w-rosyjskiej-telewizji-propaganda-wykorzystala-jego-wypowiedz/)
@@ -97,3 +97,4 @@ Floryda walczy ze skutkami potężnego uderzenia huraganu Ian, który przechodz�
  - date published: 2022-10-02 04:31:00+00:00
 
 Zamieszki po meczu w indonezyjskiej prowincji Jawa Wschodnia. Awantura po przegranym spotkaniu doprowadziła do wybuchu paniki i zamieszek. Nie żyje co najmniej 129 osób, a 180 rannych. Według agencji Reutera to jedna z największych tragedii piłkarskich na świecie.
+

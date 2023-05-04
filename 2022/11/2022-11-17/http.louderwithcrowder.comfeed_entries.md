@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## San Francisco launches guaranteed income only for trans people, giving 97 different genders to choose from
  - [https://www.louderwithcrowder.com/san-francisco-guaranteed-income](https://www.louderwithcrowder.com/san-francisco-guaranteed-income)
@@ -159,3 +159,4 @@
 <a href="https://youtu.be/BXe8RkaIH8I" target="_blank">youtu.be</a>
 </small>
 </p>
+

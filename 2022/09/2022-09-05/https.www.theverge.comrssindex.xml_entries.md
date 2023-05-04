@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Streaming services need to stop showing me the same ad over and over (and over)
  - [https://www.theverge.com/2022/9/5/23338364/streaming-service-ads-repetition](https://www.theverge.com/2022/9/5/23338364/streaming-service-ads-repetition)
@@ -204,3 +204,4 @@
     </figure>
 
   <p id="e66hN8">Just months after Samsung announced that it’s <a href="https://www.theverge.com/2022/3/31/23005593/samsung-nifty-gateway-integration-ambient-mode-nft">bringing non-fungible tokens</a> (NFTs) to its TVs, now LG’s doing the same. The co
+

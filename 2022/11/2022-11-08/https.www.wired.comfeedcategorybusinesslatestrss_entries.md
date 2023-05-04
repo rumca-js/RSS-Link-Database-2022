@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## A Race to Bridge the Analog Divide in US Politics
  - [https://www.wired.com/story/retail-politics-analog-divide/](https://www.wired.com/story/retail-politics-analog-divide/)
@@ -18,7 +18,6 @@ True the Vote’s IV3 app is meant to catch election cheaters. But it has a fund
  - [https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-11-08 13:00:00+00:00
- - tags: cbdc,digital identity
 
 Government officials are urging citizens to adopt the official digital currency in a bid to gain more control over the economy.
 
@@ -35,3 +34,4 @@ The long-suffering staffers who remain at the company are scrambling to regroup 
  - date published: 2022-11-08 11:00:00+00:00
 
 Mark Zuckerberg set up the panel to investigate how his company handles controversial posts. Now its members want to transform how social platforms work.
+

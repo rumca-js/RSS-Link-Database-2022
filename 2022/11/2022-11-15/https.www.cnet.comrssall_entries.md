@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Andor' Writer Reveals Origin of Episode 10's Heartbreaking Sacrifice     - CNET
  - [https://www.cnet.com/culture/entertainment/andor-writer-reveals-origin-of-episode-10s-heartbreaking-sacrifice/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-writer-reveals-origin-of-episode-10s-heartbreaking-sacrifice/#ftag=CADf328eec)
@@ -818,3 +818,4 @@ A common ADHD medication was added to the long list of shortages.
  - date published: 2022-11-15 00:00:03+00:00
 
 Beau Willimon and executive producer Sanne Wohlenberg unrvael how Kino Loy embodies the spirit of the Disney Plus Star Wars series' rebellion.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Tesla w końcu wypuszcza pełną autonomiczną wersję beta dla wszystkich klientów w USA
  - [https://ithardware.pl/aktualnosci/tesla_w_koncu_wypuszcza_pelna_autonomiczna_wersje_beta_dla_wszystkich_klientow_w_usa-24555.html](https://ithardware.pl/aktualnosci/tesla_w_koncu_wypuszcza_pelna_autonomiczna_wersje_beta_dla_wszystkich_klientow_w_usa-24555.html)
@@ -89,3 +89,4 @@ ASUS w ostatnim czasie bardzo mocno poszedł w OLED-y, oferując tego typu matry
 
 Polyphony Digital odpowiadające...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/gran_turismo_7_moze_trafic_na_pc_tworcy_rozwazaja_taka_opcje-24548.html">https://ithardware.pl/aktualnosci/gran_turismo_7_moze_trafic_na_pc_tworcy_rozwazaja_taka_opcje-24548.html</a></p>
+

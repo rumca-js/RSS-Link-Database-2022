@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Bydgoszcz ma plac Praw Kobiet w 104. rocznicę uzyskania praw wyborczych przez Polki. "Dosyć już zdzierania gardeł"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29195403,bydgoszcz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29195403,bydgoszcz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -104,3 +104,4 @@
  - date published: 2022-11-28 07:18:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/7f/d6/1b/z29191039M,Pogoda--Idzie-ochlodzenie-znad-Rosji--Mozliwy-nawe.jpg" vspace="2" />Początek grudnia przyniesie kolejny spadek temperatury. "W wielu regionach Polski płynnie przejdziemy z zaawansowanego termicznego przedzimia do lekkiej zimy termicznej i mróz stanie się całodobowy" - przewidują synoptycy. Sprawdź prognozę pogody na najbliższe dni.
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Google Home can now use Nest speakers to detect your presence
  - [https://www.engadget.com/google-home-nest-speaker-presence-detection-211055011.html?src=rss](https://www.engadget.com/google-home-nest-speaker-presence-detection-211055011.html?src=rss)
@@ -118,3 +118,4 @@
  - date published: 2022-09-23 06:03:25+00:00
 
 <p>Apple released its latest iPhone lineup and mobile platforms earlier this month, and a couple of annoying bugs quickly made themselves known to users. The good news is that the tech giant has quickly whipped up patches to fix the issues and has now released them as part of the <a href="https://support.apple.com/en-ph/HT213407">iOS 16.0.2 update</a>. One of the problems the update solves is the <a href="https://www.engadget.com/apple-iphone-14-pro-max-review-dynamic-island-useful-always-on-dis
+

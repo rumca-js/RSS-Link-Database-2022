@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## CNN reporter describes local accounts of Poland explosion that left 2 dead
  - [https://www.cnn.com/videos/world/2022/11/15/poland-explosion-przewodow-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/11/15/poland-explosion-przewodow-intl-vpx.cnn)
@@ -512,3 +512,4 @@ Former Vice President Mike Pence said in a newly released interview clip that he
  - date published: 2022-11-15 00:07:09+00:00
 
 In an interview with Piers Morgan for TalkTV, Manchester United's Cristiano Ronaldo said he is being forced out by the club. CNN's Coy Wire reports.
+

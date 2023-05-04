@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Holandia: Tajemnicza śmierć Polaka w Bredzie. Wpadł w szał na festiwalu muzycznym
  - [https://www.polsatnews.pl/wiadomosc/2022-09-26/holandia-tajemnicza-smierc-polaka-w-bredzie-wpadl-w-szal-na-festiwalu-muzycznym/](https://www.polsatnews.pl/wiadomosc/2022-09-26/holandia-tajemnicza-smierc-polaka-w-bredzie-wpadl-w-szal-na-festiwalu-muzycznym/)
@@ -104,3 +104,4 @@ W Republice Południowej Afryki doszło do śmiertelnego ataku rekina. Ofiarą b
  - date published: 2022-09-26 07:22:00+00:00
 
 W punkcie komisji poborowej w Ust-Ilimsku w obwodzie irkuckim doszło do strzelaniny. Jeden z rekrutów wyciągnął broń i strzelił do szefa komisji. Gubernator obwodu poinformował, że wojskowy żyje, ale jest w ekstremalnie krytycznym stanie.
+

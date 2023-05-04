@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## From insolent staff to bosses in denial, probe lays bare the baby ward failures at NHS trust
  - [https://www.dailymail.co.uk/news/article-11334321/From-insolent-staff-bosses-denial-probe-lays-bare-baby-ward-failures-NHS-trust.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11334321/From-insolent-staff-bosses-denial-probe-lays-bare-baby-ward-failures-NHS-trust.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1903,3 +1903,4 @@ Officials say Oscar Mercado Salazar, 31, stabbed his wife, Byanca Cruz Tovar, 2
  - date published: 2022-10-19 00:01:39+00:00
 
 The 3.4 magnitude earthquake was recorded in Mansfield, a small town in Victoria's northeast, just after 9am on Wednesday with residents reporting hearing a 'loud boom' and the ground 'shaking'.
+

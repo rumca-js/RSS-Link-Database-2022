@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Can’t find that file? These advanced Windows Search tips can help
  - [https://www.pcworld.com/article/1341497/how-to-find-what-youre-looking-for-with-windows-search.html](https://www.pcworld.com/article/1341497/how-to-find-what-youre-looking-for-with-windows-search.html)
@@ -52,3 +52,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Are you looking for a second set of eyes to help you on the road? Now is a great time to buy a dash cam for piece of mind. Amazon&rsquo;s next sales event, Prime Early Access Sale, will run between October 11th and 12th. What many people are calling &ldquo;October Prime Day&rdquo; should include great deals on everything from 4K front and rearview sets to mini-cams, and more.</
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Gubernator obwodu ługańskiego: Ziemia w Donbasie jest usłana ciałami rosyjskich żołnierzy
  - [https://www.bankier.pl/wiadomosc/Gubernator-obwodu-luganskiego-Ziemia-w-Donbasie-jest-uslana-cialami-rosyjskich-zolnierzy-8434339.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Gubernator-obwodu-luganskiego-Ziemia-w-Donbasie-jest-uslana-cialami-rosyjskich-zolnierzy-8434339.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -425,3 +425,4 @@ wynosi przestrzeń dzieląca standard od minimum.</p>
  - date published: 2022-11-04 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/e/c967c94ae8b559-948-568-753-1091-1462-877.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Jedna z gwiazd 2020 r. ma szansę pobić wyznaczony wtedy historyczny szczyt notowań. Kurs XTB stale rośnie na fali fantastycznych wyników. Odwrotnie rzecz się ma z GPW. Różnica w kapitalizacji obu spółek zbliża się do 2 mld zł, a jeszcze rok temu była na tym samym poziomie.</p>
+

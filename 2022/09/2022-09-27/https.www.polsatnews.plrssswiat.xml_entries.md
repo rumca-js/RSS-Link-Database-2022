@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wyciek gazociągów Nord Stream. Marija Zacharowa reaguje na wpis Radosława Sikorskiego
  - [https://www.polsatnews.pl/wiadomosc/2022-09-27/wyciek-gazociagow-nord-stream-marija-zacharowa-reaguje-na-wpis-radoslawa-sikorskiego/](https://www.polsatnews.pl/wiadomosc/2022-09-27/wyciek-gazociagow-nord-stream-marija-zacharowa-reaguje-na-wpis-radoslawa-sikorskiego/)
@@ -83,3 +83,4 @@ Siedem osób zginęło w wyniku pożaru w centrum handlowym w południowokoreań
  - date published: 2022-09-27 04:04:00+00:00
 
 Sonda NASA w ramach misji DART uderzyła z prędkością hipersoniczną w odległą asteroidę. Był to pierwszy na świecie test planetarnego systemu obronnego. Został zaprojektowany w celu zapobieżenia potencjalnej kolizji meteorytu z Ziemią.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Mocne wzrosty na Wall Street na koniec najlepszego tygodnia od czerwca
  - [https://www.bankier.pl/wiadomosc/Mocne-wzrosty-na-Wall-Street-na-koniec-najlepszego-tygodnia-od-czerwca-8427155.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Mocne-wzrosty-na-Wall-Street-na-koniec-najlepszego-tygodnia-od-czerwca-8427155.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -480,3 +480,4 @@ nadzoru nie wpłynie na poprawę zdolności kredytowej chętnych na hipote
  - date published: 2022-10-21 01:04:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/8/e/f5bf74b6d2c04c-948-568-0-314-4500-2699.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Niemiecka policja, w poszukiwaniu majątku rosyjskich oligarchów, natrafiła na luksusowe jachty, mogące być ich własnością. Także FBI zainteresowało się kilkoma jachtami, powstałymi na terenie stoczni w Bremie, które należą z dużym prawdopodobieństwem do Rosjan objętych sankcj
+

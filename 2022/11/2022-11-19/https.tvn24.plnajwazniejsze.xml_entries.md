@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Polka pokazała się z dobrej strony
  - [https://eurosport.tvn24.pl/polka-ponownie-pokaza-a-si--z-dobrej-strony-w-kolarskiej-lidze-mistrz-w,1125351.html?source=rss](https://eurosport.tvn24.pl/polka-ponownie-pokaza-a-si--z-dobrej-strony-w-kolarskiej-lidze-mistrz-w,1125351.html?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="Schrony dla Polaków. Jaki jest ich stan i ile osób mogą pomieścić" src="https://tvn24.pl/najnowsze/cdn-zdjecie-t47eg2-czarno-na-bialym-bunkry-6227159/alternates/LANDSCAPE_1280" />
     Do ogromnego schronu pod jednym z warszawskich parków ekipa telewizyjna została wpuszczona po raz pierwszy.
+

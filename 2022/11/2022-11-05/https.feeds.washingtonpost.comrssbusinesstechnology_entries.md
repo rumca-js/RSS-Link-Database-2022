@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter co-founder apologizes for growing company ‘too quickly’
  - [https://www.washingtonpost.com/technology/2022/11/05/jack-dorsey-elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/jack-dorsey-elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Elon Musk turned his hobby into a career when he purchased Twitter a week ago. O
  - date published: 2022-11-05 00:44:23+00:00
 
 The Dallas Fuel victory over the San Francisco Shock marks the team's first Grand Finals victory. A new tank hero, Ramattra, was also announced at the event.
+

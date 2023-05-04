@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Anthony Blinken: Putin jest pod presją Chin i Indii, by zakończyć wojnę
  - [https://wydarzenia.interia.pl/zagranica/news-anthony-blinken-putin-jest-pod-presja-chin-i-indii-by-zakonc,nId,6290323](https://wydarzenia.interia.pl/zagranica/news-anthony-blinken-putin-jest-pod-presja-chin-i-indii-by-zakonc,nId,6290323)
@@ -468,3 +468,4 @@
  - date published: 2022-09-16 04:10:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-205-dzien-inwazji-rosji-relacja-na-zywo,nzId,3015,akt,160739"><img align="left" alt="Wojna w Ukrainie. 205. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-205-dzien-inwazji-rosji-relacja-na-zywo/000G2QH415MQU3WA-C321.jpg" /></a>Najważniejsze i najnowsze informacje dotyczące wojny w Ukrainie w jednym miejscu. Śledź naszą relację na żywo.</p><br clear="all" />
+

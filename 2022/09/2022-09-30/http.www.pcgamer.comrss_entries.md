@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## 12 upcoming games without names that we're excited about
  - [https://www.pcgamer.com/12-upcoming-games-without-names-that-were-excited-about](https://www.pcgamer.com/12-upcoming-games-without-names-that-were-excited-about)
@@ -251,3 +251,4 @@ The collection will hit in 2024.
  - date published: 2022-09-30 00:11:58+00:00
 
 Here's how the games industry is reacting to the news that Stadia is going away.
+

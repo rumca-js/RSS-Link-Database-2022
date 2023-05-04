@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Documents detail plans to gut Twitter’s workforce
  - [https://www.washingtonpost.com/technology/2022/10/20/musk-twitter-acquisition-staff-cuts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/20/musk-twitter-acquisition-staff-cuts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ Do Not Track Kids, made by an ex-NSA researcher, works behind the scenes to bloc
  - date published: 2022-10-20 07:00:00+00:00
 
 “New Tales from the Borderlands” takes a lot of what made Telltale’s gameplay unique and either keeps it the same or improves on it.
+

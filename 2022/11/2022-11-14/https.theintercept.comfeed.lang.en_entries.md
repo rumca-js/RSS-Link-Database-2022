@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Senate Homeland Security Counsel Quietly Settled With Justice Department Over Conflict of Interest Claim
  - [https://theintercept.com/2022/11/14/dhs-conflict-of-interest-ifos-settlement/](https://theintercept.com/2022/11/14/dhs-conflict-of-interest-ifos-settlement/)
@@ -15,3 +15,4 @@
 
 <p>The hunger strike of Egypt’s Alaa Abd El Fattah overshadows COP27 and Sisi’s attempt to whitewash his regime’s human rights record.</p>
 <p>The post <a href="https://theintercept.com/2022/11/14/egypt-cop27-alaa-crackdown/" rel="nofollow">The Hunger Striker vs. The Dictator</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Zabrali dzieci na pierwszy mecz żużlowy, wygrali paletę ekogroszku
  - [https://tvn24.pl/katowice/rybnik-zabrali-dzieci-na-pierwszy-mecz-zuzlowy-wygrali-tone-wegla-palete-ekogroszku-6166964?source=rss](https://tvn24.pl/katowice/rybnik-zabrali-dzieci-na-pierwszy-mecz-zuzlowy-wygrali-tone-wegla-palete-ekogroszku-6166964?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Kolejne oskarżenie pod adresem Billa Murraya. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-f1nkg8-bill-murray-5696097/alternates/LANDSCAPE_1280" />
     Seth Green to kolejny aktor, który oskarża Billa Murraya o nieodpowiednie zachowanie. Ujawnił, że gdy był dzieckiem, Murray chwycił go za kostki i wrzucił do kosza na śmieci. Powód? Dziewięcioletni Green usiadł na jego fotelu.
+

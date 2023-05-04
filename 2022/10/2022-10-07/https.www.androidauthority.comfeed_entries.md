@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to connect a PS5 controller to any device
  - [https://www.androidauthority.com/connect-ps5-controller-pc-3145639/](https://www.androidauthority.com/connect-ps5-controller-pc-3145639/)
@@ -97,3 +97,4 @@ We've also got a gag product from Google Japan and more!
  - date published: 2022-10-07 07:09:23+00:00
 
 New Pixel sales data suggests Google is still a very tiny fish in the smartphone pond.
+

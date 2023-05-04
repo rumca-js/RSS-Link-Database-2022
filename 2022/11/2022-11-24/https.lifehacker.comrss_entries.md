@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Best-Smelling Types of Live Christmas Trees
  - [https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020](https://lifehacker.com/the-best-smelling-types-of-live-christmas-trees-1849819020)
@@ -20,3 +20,4 @@
  - date published: 2022-11-24 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Vr7FK1Hn--/c_fit,fl_progressive,q_80,w_636/3b0c74333e80ad172bd132349c739832.jpg" /><p>Even the most like-minded families don’t agree on everything, and holiday dinners are often the setting of heated discussions on controversial topics. Of course, we don’t plan for that to happen, but when you think about it, the timing makes sense, given that  people who may not otherwise see each other are gathered…</p><p><a href="https://lifehacker.com/here-s-how-to-disagree-at-thanksgiving-dinner-1849816916">Read more...</a></p>
+

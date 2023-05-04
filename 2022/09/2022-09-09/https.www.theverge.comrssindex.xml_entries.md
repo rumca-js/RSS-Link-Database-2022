@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk sends yet another notice trying to terminate the Twitter deal
  - [https://www.theverge.com/2022/9/9/23345286/elon-musk-twitter-third-termination-notice-letter-deal-acquisition](https://www.theverge.com/2022/9/9/23345286/elon-musk-twitter-third-termination-notice-letter-deal-acquisition)
@@ -346,3 +346,4 @@
     </figure>
 
   <p id="Wj5rqV">Amazon’s current Echo lineup offers a broad selection of smart speakers and displays that can fit just about anywh
+

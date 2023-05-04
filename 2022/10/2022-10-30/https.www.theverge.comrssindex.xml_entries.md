@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Twitter battles hateful trolling campaign following Elon Musk's takeover
  - [https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech](https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech)
@@ -94,3 +94,4 @@
   <p>
     <a href="https://www.theverge.com/23426924/acer-chromebook-spin-714-2022-review">Continue reading&hellip;</a>
   </p>
+

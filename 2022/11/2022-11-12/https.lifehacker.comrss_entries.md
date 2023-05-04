@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Right Way to Clean Your Fireplace
  - [https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210](https://lifehacker.com/the-right-way-to-clean-your-fireplace-1849773210)
@@ -27,3 +27,4 @@
  - date published: 2022-11-12 02:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--yyljHv5d--/c_fit,fl_progressive,q_80,w_636/5c6f6be4a2a9e5ac029b1a89d604de8d.jpg" /><p>The holidays bring up all sorts of different feelings for singles, which explains why some engage in cuffing season (aka when you “cuff” yourself to someone—metaphorically of course—to get through the winter months together). But now, <a href="https://www.cosmopolitan.com/sex-love/a30211085/breakups-after-holidays-explained/#:~:text=Coined%20right%20here%2C%20right%20now,more%20serious%20than%20you%20are." rel="noopener noreferrer" target="_blank">according to Cosmo</a>, there’s a different dating trend that couples need to look out…</p><p><a href="https://lifehacker.com/beware-of-snow-globing-when-dating-during-the-holidays-1849768804">Read more...</a></p>
+

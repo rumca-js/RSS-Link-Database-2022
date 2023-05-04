@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Communication key for Liz Truss as MPs gather for Tory conference
  - [https://www.bbc.co.uk/news/uk-politics-63105748?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63105748?at_medium=RSS&at_campaign=KARANGA)
@@ -363,3 +363,4 @@ Their ancestors were among the first black Americans on Sanibel Island. Hurrican
  - date published: 2022-10-01 01:42:53+00:00
 
 Two marathon runners tell BBC Newsbeat about overcoming the odds to compete in the London Marathon.
+

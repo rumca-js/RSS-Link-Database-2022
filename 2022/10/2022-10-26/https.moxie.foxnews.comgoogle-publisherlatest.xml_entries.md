@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Neil Patrick Harris slammed online over resurfaced Nick Jonas remark: ‘How do celebs get away with’ this?
  - [https://www.foxnews.com/entertainment/neil-patrick-harris-slammed-online-resurfaced-nick-jonas-remark](https://www.foxnews.com/entertainment/neil-patrick-harris-slammed-online-resurfaced-nick-jonas-remark)
@@ -1686,3 +1686,4 @@ Democratic Gov. Gretchen Whitmer of Michigan claimed that Republicans were enfla
  - date published: 2022-10-26 00:00:03+00:00
 
 The CMA Awards, which will be co-hosted by Luke Bryan and Peyton Manning, are set to honor legendary country singer Loretta Lynn.
+

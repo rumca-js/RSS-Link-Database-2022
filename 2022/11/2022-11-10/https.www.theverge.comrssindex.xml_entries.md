@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The $50 TinyTV 2 will let you channel surf on a one-inch screen
  - [https://www.theverge.com/2022/11/10/23452213/tiny-circuits-tiny-tv-2-mini-television-raspberry-pi-2040](https://www.theverge.com/2022/11/10/23452213/tiny-circuits-tiny-tv-2-mini-television-raspberry-pi-2040)
@@ -620,3 +620,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/9/23450027/auto-sales-climate-vw-gm-toyota-hyundai-greenpeace">Continue reading&hellip;</a>
   </p>
+

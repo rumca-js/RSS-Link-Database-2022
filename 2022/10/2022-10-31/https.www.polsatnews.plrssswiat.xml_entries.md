@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja. Były mistrz świata w szachach Anatolij Karpow w śpiączce. Tajemniczy wypadek
  - [https://www.polsatnews.pl/wiadomosc/2022-10-31/rosja-byly-mistrz-swiata-w-szachach-anatolij-karpow-w-spiaczce-tajemniczy-wypadek-czy-pijanstwo/](https://www.polsatnews.pl/wiadomosc/2022-10-31/rosja-byly-mistrz-swiata-w-szachach-anatolij-karpow-w-spiaczce-tajemniczy-wypadek-czy-pijanstwo/)
@@ -69,3 +69,4 @@ Pod względem współpracy gospodarczej dla Korei jesteśmy w pierwszej dziesią
  - date published: 2022-10-31 05:28:00+00:00
 
 Część produkcji południowokoreańskiego uzbrojenia zostanie przeniesiona do Polski. Takie zapewnienia podczas wizyty w Seulu miał otrzymać od szefa agencji uzbrojenia Korei Płd. Eoma Dong-Hwanema wicepremier Jacek Sasin.
+

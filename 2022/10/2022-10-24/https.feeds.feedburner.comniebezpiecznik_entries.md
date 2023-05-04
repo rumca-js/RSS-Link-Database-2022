@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## &#x2139;&#xfe0f; Centralne Biuro Zwalczania Cyberprzestępczości wysyła SMS-y poszkodowanym
  - [https://niebezpiecznik.pl/post/centralne-biuro-zwalczania-cyberprzestepczosci-wysyla-sms-y-poszkodowanym/](https://niebezpiecznik.pl/post/centralne-biuro-zwalczania-cyberprzestepczosci-wysyla-sms-y-poszkodowanym/)
@@ -13,3 +13,4 @@
  - date published: 2022-10-24 09:56:58+00:00
 
 <a href="https://niebezpiecznik.pl/post/wiezien-ukradl-50-milionow-zlotych-w-trakcie-wyroku-korzystajac-przemyconego-smartfona/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/10/charles-schwab-150x150.jpg" width="100" /></a>Myślicie, że jak kogoś zamknęli to nie może już kraść i oszukiwać? Historia więźnia Artura, to dowód na to, że nawet odbywając wyrok można dalej kraść i całkiem nieźle zarobić. Wybierz miliardera na ofiarę To oszustwo zaczęło się 5 czerwca z w 2020 roku, kiedy Arthur Lee Cofield, więzień odbywający 14-letni wyrok za napad i [&#8230;]
+

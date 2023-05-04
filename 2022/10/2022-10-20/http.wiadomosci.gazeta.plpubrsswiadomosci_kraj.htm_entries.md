@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Kraków. "Król lotniska" chciał lecieć do Irlandii, a został uziemiony. Wszystko przez dowód
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29052348,krakow-krol-lotniska-chcial-leciec-do-irlandii-a-zostal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29052348,krakow-krol-lotniska-chcial-leciec-do-irlandii-a-zostal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -104,3 +104,4 @@
  - date published: 2022-10-20 04:53:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/97/65/1b/z28728471M,Paulina-K-.jpg" vspace="2" />W lipcu Paulina K. zorganizowała porwanie 14-latki, która miała mieć u jej córki dług w wysokości 20 złotych. Dziewczynka została zgwałcona, a czyn ten nagrany telefonami. Poza tym, sprawcy ogolili jej część głowy, brwi i przypalali papierosami. Teraz sąd podjął decyzję w sprawie 39-latki oraz jej dzieci - kobieta jest bowiem matką 7- i 13-latki oraz 16-latka.
+

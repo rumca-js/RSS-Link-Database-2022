@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Całkowite zaćmienie Księżyca w obiektywie. Tak prezentują się kolejne fazy tego zjawiska
  - [https://www.chip.pl/2022/11/zdjecia-calkowite-zacmienie-ksiezyca](https://www.chip.pl/2022/11/zdjecia-calkowite-zacmienie-ksiezyca)
@@ -143,3 +143,4 @@
 
 <img alt="Smoczy Ogień, broń laserowa" class="attachment-full size-full wp-post-image" height="964" src="https://konto.chip.pl/wp-content/uploads/2022/11/Smoczy-Ogien-dowiodl-swojej-mocy-i-precyzji.-Ta-bron-moze-zmienic-wiele-na-polach-walki.jpg" style="margin-bottom: 10px;" width="1446" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/Smoczy-Ogien-dowiodl-swojej-mocy-i-precyzji.-Ta-bron-moze-zmienic-wiele-na-polach-walki.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Rozwój broni laserowej trwa na całym świecie i nic dziwnego, bo to idealny sposób na przeciwdziałanie wrogim pociskom, dronom czy mniejszym kutrom i pojazdom, a nawet okrętom (im większy/bardziej opancerzony cel, tym większej mocy wymaga). Obecnie można powiedzieć, że rozwój broni laserowej wszedł na kolejny poziom i coraz to nowsze testy zdają się to potwierdzać. [&#8230;]</p>
+

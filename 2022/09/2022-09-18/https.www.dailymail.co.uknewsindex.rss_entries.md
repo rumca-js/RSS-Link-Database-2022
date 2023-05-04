@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Queen Victoria's 1901 funeral left her subjects with imperishable memories
  - [https://www.dailymail.co.uk/news/article-11225787/Queen-Victorias-1901-funeral-left-subjects-imperishable-memories.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225787/Queen-Victorias-1901-funeral-left-subjects-imperishable-memories.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1058,3 +1058,4 @@ Video on social media shows an axe-wielding man going on a rampage inside a McDo
  - date published: 2022-09-18 00:05:55+00:00
 
 This Morning bosses have denied Holly Willoughby and Phillip Schofield had 'VIP access' and filed 'past the Queen lying in state' as they filmed a segment for the programme.
+

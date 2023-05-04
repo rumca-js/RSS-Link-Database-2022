@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Dominican Republic expelled hundreds of children to Haiti without their families this year
  - [https://www.cnn.com/2022/11/21/americas/dominican-republic-expels-haiti-children-intl-latam/index.html](https://www.cnn.com/2022/11/21/americas/dominican-republic-expels-haiti-children-intl-latam/index.html)
@@ -484,3 +484,4 @@ Defender Ehsan Hajsafi became on Sunday the first member of Iran's national team
  - date published: 2022-11-21 03:02:32+00:00
 
 Actor Billy Porter breaks down his 2019 Met Gala look and explains the significance of the moment for him.
+

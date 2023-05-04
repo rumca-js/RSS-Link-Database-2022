@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## S&P 500 i Nasdaq w dół piąty dzień z rzędu
  - [https://www.bankier.pl/wiadomosc/S-P-500-i-Nasdaq-w-dol-piaty-dzien-z-rzedu-8421293.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/S-P-500-i-Nasdaq-w-dol-piaty-dzien-z-rzedu-8421293.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -342,3 +342,4 @@ operatorowi sprzęt, którego już nie używamy, można otrzymać bon do
  - date published: 2022-10-11 04:56:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/4/3e5431618f270d-948-568-0-57-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W najbliższych miesiącach zakupy będą droższe, jednak ceny nie będą już tak szybko rosły jak w pierwszej połowie roku  - wskazują eksperci Wyższej Szkoły Bankowej. Szacują, że tempo wzrostu nie będzie już dwucyfrowe.</p>
+

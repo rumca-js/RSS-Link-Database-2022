@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Greg Gutfeld: Biden's really good at playing middle of the road, and the media happily promotes the ruse
  - [https://www.foxnews.com/media/greg-gutfeld-bidens-really-good-playing-middle-road-media-happily-promotes-ruse](https://www.foxnews.com/media/greg-gutfeld-bidens-really-good-playing-middle-road-media-happily-promotes-ruse)
@@ -1329,3 +1329,4 @@ Torry Holt knows what it takes to win a Super Bowl. That's why he's predicting a
  - date published: 2022-09-09 00:04:19+00:00
 
 The WSJ editorial board published an article Thursday arguing that California's energy shortages are not caused by climate change, but instead by climate policies.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Ireland 13-10 Australia: Andy Farrell says Ross Byrne's winning kick 'never in doubt'
  - [https://www.bbc.co.uk/sport/rugby-union/63691887?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63691887?at_medium=RSS&at_campaign=KARANGA)
@@ -398,3 +398,4 @@ Joe Biden's granddaughter gets married at America's most famous address, who els
  - date published: 2022-11-19 00:01:41+00:00
 
 Barbara Kennedy is one of thousands of private renters in Northern Ireland struggling with rising costs.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Materiały graficzne z Need for Speed ​​Unbound wyciekły do sieci tuż przed prezentacją
  - [https://ithardware.pl/aktualnosci/materialy_graficzne_z_need_for_speed_unbound_wyciekly_do_sieci_tuz_przed_prezentacja-23694.html](https://ithardware.pl/aktualnosci/materialy_graficzne_z_need_for_speed_unbound_wyciekly_do_sieci_tuz_przed_prezentacja-23694.html)
@@ -147,3 +147,4 @@ Endorfy to nowa marka, kt&oacute;ra powstała z połączenia dw&oacute;ch brand&
 
 <img src="https://ithardware.pl/artykuly/min/23679_1.jpg" />            Robot-odkurzacz, pierwsza w historii marki seria odkurzaczy czyszczących na mokro i sucho, inteligentna opaska, tablet i słuchawki bezprzewodowe &ndash; Xiaomi zaprezentowało wczoraj całą gamę urządzeń, kt&oacute;re mają nam ułatwić codzienne...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/xiaomi_zasypuje_nas_urzadzeniami_poprawiajacymi_jakosc_zycia_co_nowego-23679.html">https://ithardware.pl
+

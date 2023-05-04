@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Florida Border Patrol agents arrest Cuban migrants after they make landfall on windsurfing boards
  - [https://www.foxnews.com/us/florida-border-patrol-agents-arrest-cuban-migrants-they-make-landfall-windsurfing-boards](https://www.foxnews.com/us/florida-border-patrol-agents-arrest-cuban-migrants-they-make-landfall-windsurfing-boards)
@@ -1131,7 +1131,6 @@ Tesla CEO Elon Musk joked in a recent interview that he doesn't have any other b
  - [https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship](https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-12 05:22:18+00:00
- - tags: censorship,cancel culture
 
 Dr. Phil McGraw discusses his show's recent episode highlighting cancel culture and censorship on with Fox News host Sean Hannity on Tuesday's "Hannity."
 
@@ -1323,3 +1322,4 @@ Cell phone video captured by students shows a massive brawl that broke out recen
  - date published: 2022-10-12 00:25:20+00:00
 
 Kathie Lee Gifford described a "culture change" happening in cities across the United States, and praised the South for extraordinary "culture of kindness."
+

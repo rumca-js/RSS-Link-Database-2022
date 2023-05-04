@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## $35M fine for Morgan Stanley after unencrypted, unwiped hard drives are auctioned
  - [https://arstechnica.com/?p=1883001](https://arstechnica.com/?p=1883001)
@@ -111,3 +111,4 @@ By 2035, batteries in California BEVs could power every home in the state for 3 
  - date published: 2022-09-20 13:00:10+00:00
 
 It won't be an impressive performer, but it could still be a budget contender.
+

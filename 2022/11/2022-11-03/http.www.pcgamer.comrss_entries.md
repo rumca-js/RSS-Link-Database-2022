@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Ghost Trick, which has the best dog in videogames, has been rated for PC in Korea
  - [https://www.pcgamer.com/ghost-trick-which-has-the-best-dog-in-videogames-has-been-rated-for-pc-in-korea](https://www.pcgamer.com/ghost-trick-which-has-the-best-dog-in-videogames-has-been-rated-for-pc-in-korea)
@@ -209,3 +209,4 @@ Turn one metre of space into your own VR universe.
  - date published: 2022-11-03 00:04:39+00:00
 
 Turn the world of Fallout 4 into a true horror experience.
+

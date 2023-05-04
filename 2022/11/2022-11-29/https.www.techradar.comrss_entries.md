@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## AWS launches data lake to help you spot your next big security threat
  - [https://www.techradar.com/news/aws-launches-data-lake-to-help-you-spot-your-next-big-security-threat](https://www.techradar.com/news/aws-launches-data-lake-to-help-you-spot-your-next-big-security-threat)
@@ -223,3 +223,4 @@ The Fire TV Stick 4K is now selling for its lowest-ever price, and will spice up
  - date published: 2022-11-29 00:15:11+00:00
 
 Cyber Monday has arrived, and we've rounded up the best Cyber Monday gift ideas, including AirPods, Keurig, air fryers and more.
+

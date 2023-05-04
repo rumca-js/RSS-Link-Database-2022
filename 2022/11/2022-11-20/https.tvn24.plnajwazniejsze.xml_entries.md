@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Autokar wpadł do przejścia podziemnego. Nie żyje jedna osoba
  - [https://tvn24.pl/wroclaw/wroclaw-plac-grunwaldzki-autokar-wpadl-do-przejscia-podziemnego-nie-zyje-jedna-osoba-6229051?source=rss](https://tvn24.pl/wroclaw/wroclaw-plac-grunwaldzki-autokar-wpadl-do-przejscia-podziemnego-nie-zyje-jedna-osoba-6229051?source=rss)
@@ -224,3 +224,4 @@
 
 <img alt="Anna Seniuk: im mniej gram, tym więcej żyję" src="https://tvn24.pl/najnowsze/cdn-zdjecie-n6tc60-bez-polityki-anna-seniuk-6228127/alternates/LANDSCAPE_1280" />
     Opowiedziała między innymi o swoim debiucie w monodramie  ("Życie pani Pomsel"), o aktorstwie i życiu rodzinnym.
+

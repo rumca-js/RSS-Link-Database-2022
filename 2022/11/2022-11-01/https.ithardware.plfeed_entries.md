@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 81. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_pierwszy_listopad_2022-24141.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_pierwszy_listopad_2022-24141.html)
@@ -73,3 +73,4 @@ Nowy system, nazwany systemem...
 
 Szef marki Xbox, Phil Spencer gościł&nbsp;w...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/szef_marki_xbox_phil_spencer_twierdzi_ze_microsoft_sprzedaje_konsole_ze_strata-24134.html">https://ithardware.pl/aktualnosci/szef_marki_xbox_phil_spencer_twierdzi_ze_microsoft_sprzedaje_konsole_ze_strata-24134.html</a></p>
+

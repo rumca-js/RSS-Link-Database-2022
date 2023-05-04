@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Remembering an “effervescently affable man”: Kurt Vonnegut at 100
  - [https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/](https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/)
@@ -866,3 +866,4 @@ Some ideas for how to perhaps deal with these challenges:<p><pre><code>  1. Crea
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33526049">https://news.ycombinator.com/item?id=33526049</a></p>
 <p>Points: 12</p>
 <p># Comments: 1</p>
+

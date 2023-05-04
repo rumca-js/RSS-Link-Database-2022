@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## U.S. Pledges $53 Million to Help Fix Ukraine’s Electrical Grid
  - [https://www.nytimes.com/2022/11/29/world/europe/nato-ukraine.html](https://www.nytimes.com/2022/11/29/world/europe/nato-ukraine.html)
@@ -153,3 +153,4 @@ The treaty,  New START, calls for reciprocal inspections, but they have not been
  - date published: 2022-11-29 00:24:29+00:00
 
 Russian forces are fortifying positions in southern Ukraine after retreating from Kherson, and the Kremlin denied planning to withdraw from the Zaporizhzhia nuclear plant.
+

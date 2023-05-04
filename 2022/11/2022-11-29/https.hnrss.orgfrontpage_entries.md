@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Who Controls the Internet? Authoritative NS Records in gTLDs
  - [https://netmeister.org/blog/nsauth-diversity.html](https://netmeister.org/blog/nsauth-diversity.html)
@@ -131,3 +131,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33792157">https://news.ycombinator.com/item?id=33792157</a></p>
 <p>Points: 68</p>
 <p># Comments: 62</p>
+

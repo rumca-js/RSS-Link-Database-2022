@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## The designers of the new ‘Apex Legends’ map want to help you die less
  - [https://www.washingtonpost.com/video-games/2022/10/24/apex-legends-broken-moon-pois/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/24/apex-legends-broken-moon-pois/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ The space agency is working to develop an telescope that would track many more p
  - date published: 2022-10-24 05:00:48+00:00
 
 Should you log in with Facebook or Google on other sites or apps? Short answer: No.
+

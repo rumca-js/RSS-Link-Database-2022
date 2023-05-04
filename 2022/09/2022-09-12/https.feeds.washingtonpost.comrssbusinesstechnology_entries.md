@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## In ‘Splatoon 3,’ gamers ‘memorialize’ Queen Elizabeth II with memes
  - [https://www.washingtonpost.com/video-games/2022/09/12/queen-elizabeth-splatoon-nintendo-wii/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/12/queen-elizabeth-splatoon-nintendo-wii/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ What is Sam Barlow's "Immortality" about? Best you draw your own conclusions.
  - date published: 2022-09-12 06:00:41+00:00
 
 An examination of Elon Musk's 19,000 tweets shows his complicated relationship with Twitter and the billionaire's changing views of the company he's trying to buy.
+

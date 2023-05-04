@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Generał Pacek: sam Putin nie był świadomy, jak dalece zrujnowana jest rosyjska armia
  - [https://tvn24.pl/swiat/ukraina-dzialania-rosji-i-wladimira-putina-generalowie-boguslaw-pacek-i-roman-polko-komentuja-6146821?source=rss](https://tvn24.pl/swiat/ukraina-dzialania-rosji-i-wladimira-putina-generalowie-boguslaw-pacek-i-roman-polko-komentuja-6146821?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="W walce z Rosjanami stracił słuch. Odzyskał go dzięki implantowi, który wszczepili krakowscy lekarze" src="https://tvn24.pl/najnowsze/cdn-zdjecie-07qyyl-pierwsza-w-malopolsce-operacja-wszczepienia-implantu-slimakowego-u-doroslego-pacjenta-6146131/alternates/LANDSCAPE_1280" />
     Żołnierz z Ukrainy, który na froncie stracił słuch i kobieta z postępującym niedosłuchem - to dorośli pacjenci w Małopolsce, którym lekarze wszczepili implanty ślimakowe. Każda z operacji trwała dwie godziny, 
+

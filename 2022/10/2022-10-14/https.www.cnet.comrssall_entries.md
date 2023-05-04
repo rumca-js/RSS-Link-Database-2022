@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Live Brain Cells Playing Pong in a Dish Could Illuminate Mind's Mechanics     - CNET
  - [https://www.cnet.com/science/live-brain-cells-playing-pong-in-a-dish-could-teach-about-minds-mechanics/#ftag=CADf328eec](https://www.cnet.com/science/live-brain-cells-playing-pong-in-a-dish-could-teach-about-minds-mechanics/#ftag=CADf328eec)
@@ -727,3 +727,4 @@ Other Fossil watches will reportedly get Wear OS 3 soon.
  - date published: 2022-10-14 00:00:00+00:00
 
 Between price hikes, the economy and too little time, your streaming bill could be a pain. Here are ways to fix that.
+

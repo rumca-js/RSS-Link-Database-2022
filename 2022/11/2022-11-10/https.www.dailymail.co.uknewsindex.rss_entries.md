@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Driverless truck testing in Melbourne put thousands of jobs at risk, Victorian Tippers United says
  - [https://www.dailymail.co.uk/news/article-11411017/Driverless-truck-testing-Melbourne-thousands-jobs-risk-Victorian-Tippers-United-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11411017/Driverless-truck-testing-Melbourne-thousands-jobs-risk-Victorian-Tippers-United-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1736,3 +1736,4 @@ Westpac tweeted on Thursday morning that its online and mobile banking services 
  - date published: 2022-11-10 00:00:46+00:00
 
 More than 1,200 individuals, including oligarchs such as ex-Chelsea owner Roman Abramovich, generals and even the head of the Orthodox Church, have asset freezes.
+

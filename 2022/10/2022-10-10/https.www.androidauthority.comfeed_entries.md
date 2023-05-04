@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google flaunts the potential of Pixel 7 Pro’s zoom, night, and macro shots
  - [https://www.androidauthority.com/pixel-7-pro-camera-shots-3218354/](https://www.androidauthority.com/pixel-7-pro-camera-shots-3218354/)
@@ -118,3 +118,4 @@ These two features can help out the visually impaired, but if they're on by acci
  - date published: 2022-10-10 02:30:30+00:00
 
 The second big Amazon sales event of the year is just hours away, and you can already find big bargains.
+

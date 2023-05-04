@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How to Make a Sundial
  - [https://www.sundialzone.com/en/sundial](https://www.sundialzone.com/en/sundial)
@@ -674,3 +674,4 @@ http://feeds.marketwatch.com/marketwatch/topstories/<p>are now down.</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32873563">https://news.ycombinator.com/item?id=32873563</a></p>
 <p>Points: 15</p>
 <p># Comments: 10</p>
+

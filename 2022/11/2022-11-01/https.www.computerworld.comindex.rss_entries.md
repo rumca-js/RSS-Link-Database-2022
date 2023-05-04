@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Location flexibility linked to improved organizational outcomes
  - [https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all](https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all)
@@ -55,3 +55,4 @@
 <article>
 	<section class="page">
 <p>Enterprises have been moving steadily to the cloud for years, often paying for multiple cloud platforms — and the COVID-19 pandemic greatly accelerated that trend, as businesses closed offices and outsourced their on-prem operations. </p><p>Now, as the pandemic seemingly winds down and workers are returning to the office, several questions arise: Has anyone on your team run an ROI analysis on your cloud use? Is your company actually saving money? Is the cloud-centric environment indeed more scalable and secure than your team can deliver internally? Has someone — anyone — recently done the math? </p><p>David Heinemeier Hansson, the co-owner and CTO of 37Signals (maker of Basecamp and HEY), argues that many have not — and they need to. With 2023 just around the corner, and the need to support fully remote workers with cloud-based apps and software waning, this is the time to crunch some numbers. </p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678430/this-would-be-a-good-time-to-test-your-cloud-roi.html#jump">To read this article in full, please click here</a></p></section></article>
+

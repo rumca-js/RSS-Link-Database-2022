@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## David's guide to surviving Thanksgiving (2022 edition)
  - [https://www.zdnet.com/article/davids-guide-to-surviving-thanksgiving/#ftag=RSSbaffb68](https://www.zdnet.com/article/davids-guide-to-surviving-thanksgiving/#ftag=RSSbaffb68)
@@ -286,3 +286,4 @@ Costco doesn't disappoint when it comes to savings, and it's continuing the trad
  - date published: 2022-11-22 02:24:00+00:00
 
 If you held off on upgrading your smartphone until the holiday shopping season, your patience is finally being rewarded. These are the best early Black Friday deals that will save you hundreds on prime-time handsets.
+

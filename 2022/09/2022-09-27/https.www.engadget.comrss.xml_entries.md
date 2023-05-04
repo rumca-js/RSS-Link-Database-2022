@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## SEC sues former MoviePass executives for fraud
  - [https://www.engadget.com/sec-sues-moviepass-executives-220027888.html?src=rss](https://www.engadget.com/sec-sues-moviepass-executives-220027888.html?src=rss)
@@ -202,3 +202,4 @@
  - date published: 2022-09-27 04:00:16+00:00
 
 <p>There are plenty of robots that say they can vacuum and mop your floors, but never to anyone’s satisfaction. With some, you have to futz with the system to add the mop halfway through, others it’ll drag the dirty pad across your clean carpets and rugs. It’s a problem that <a href="https://www.engadget.com/amazon-buys-irobot-roomba-creator-122257453.html">iRobot</a> has spent plenty of engineering resources trying to solve, saying that the new Combo j7+ is the solution. Co-founder and CEO Coli
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Not All iPhones Will Work With iOS 16: How to Find Out if Yours Will     - CNET
  - [https://www.cnet.com/tech/mobile/is-your-iphone-compatible-with-ios-16-heres-how-to-find-out/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/is-your-iphone-compatible-with-ios-16-heres-how-to-find-out/#ftag=CADf328eec)
@@ -426,3 +426,4 @@ Here are the classics you need to check out.
  - date published: 2022-09-05 00:15:00+00:00
 
 Netflix is stacked with incredible documentaries.
+

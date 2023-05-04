@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Możesz zyskać prawie 1,5 tys. zł. Na złożenie wniosku masz 10 dni
  - [https://wydarzenia.interia.pl/kraj/news-mozesz-zyskac-prawie-1-5-tys-zl-na-zlozenie-wniosku-masz-10-,nId,6359868](https://wydarzenia.interia.pl/kraj/news-mozesz-zyskac-prawie-1-5-tys-zl-na-zlozenie-wniosku-masz-10-,nId,6359868)
@@ -6,3 +6,4 @@
  - date published: 2022-10-21 06:53:26+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-mozesz-zyskac-prawie-1-5-tys-zl-na-zlozenie-wniosku-masz-10-,nId,6359868"><img align="left" alt="Możesz zyskać prawie 1,5 tys. zł. Na złożenie wniosku masz 10 dni" src="https://i.iplsc.com/mozesz-zyskac-prawie-1-5-tys-zl-na-zlozenie-wniosku-masz-10/000FMPZRLR49WVPV-C321.jpg" /></a>Dodatek osłonowy to dofinansowanie, które ma na celu wsparcie polskich rodzin w związku z rosnącą inflacją. Jednak, aby środki zostały przyznane danemu gospodarstwu, 
+

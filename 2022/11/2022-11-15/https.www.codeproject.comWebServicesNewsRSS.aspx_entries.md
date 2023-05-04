@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Amazon reportedly plans sweeping layoffs that could affect thousands of employees
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59507](https://www.codeproject.com/script/News/View.aspx?nwid=59507)
@@ -132,3 +132,4 @@ WebSocket is a protocol for creating two-way communication between a client and 
  - date published: 2022-11-15 05:00:00+00:00
 
 There may have been a time when it was possible to know most CSS properties and how they work. Those days are long-gone, at least for an old hand like me. But that sort of begs the question: what CSS do you absolutely have to know?
+

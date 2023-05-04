@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Takiego paliwa jeszcze nie widzieliście. Można będzie je wyprodukować również na Księżycu
  - [https://www.chip.pl/2022/11/paliwo-na-ksiezycu-zasoby-in-situ-regolit](https://www.chip.pl/2022/11/paliwo-na-ksiezycu-zasoby-in-situ-regolit)
@@ -167,3 +167,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="576" src="https://konto.chip.pl/wp-content/uploads/2022/08/fobos.jpg" style="margin-bottom: 10px;" width="1024" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/08/fobos.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Bezzałogowa sonda Mars Express rozpoczęła swoją misję w czerwcu 2003 roku, więc wkrótce będzie można obchodzić jej dwudziestolecie. Może się okazać, że do świętowania będzie jeszcze jeden powód. Wszystko za sprawą Fobosa, naturalnego satelity Czerwonej Planety, większego z dwóch tego typu obiektów krążących wokół Marsa. Dzięki instrumentowi MARSIS (Mars Advanced Radar for Subsurface and Ionosphere [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Korea Północna testuje kolejny rodzaj pocisku. Kim Dzong Un o strategii
  - [https://wydarzenia.interia.pl/zagranica/news-korea-polnocna-testuje-kolejny-rodzaj-pocisku-kim-dzong-un-o,nId,6419982](https://wydarzenia.interia.pl/zagranica/news-korea-polnocna-testuje-kolejny-rodzaj-pocisku-kim-dzong-un-o,nId,6419982)
@@ -546,3 +546,4 @@
  - date published: 2022-11-18 04:20:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-ze-szkoly-ukrainskiej-do-polskiej-jak-radza-sobie-dzieci-jed,nId,6417262"><img align="left" alt="Ze szkoły ukraińskiej do polskiej. Jak radzą sobie dzieci? Jedni się oswoili, inni &quot;tworzą mur&quot;" src="https://i.iplsc.com/ze-szkoly-ukrainskiej-do-polskiej-jak-radza-sobie-dzieci-jed/000GCSEVN6XAIRBB-C321.jpg" /></a>&quot;U nas nie ma dzieci z Polski i z Ukrainy. Są po prostu 'dzieci nasze'. I każdemu należy się taka sama opieka i uwaga. Bez względu na to, jakiej jest narodowości&quot; - usłyszała nauczycielka języka polskiego w szkole, do której dołączyła we wrześniu. Dyrektorzy szkół podstawowych i średnich mówią Interii, że uczniowie z Ukrainy, którzy wyjechali z ojczyzny, uciekając przed wojną, wciąż się aklimatyzują. - Są dzieci, które angażują się, są odważne. Ale mamy też takich uczniów, którzy zamykają się - mówi Marek Krukowski, dyrektor SP nr 51 w...</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Ye exposes what Adidas did to his ApplePay: 'If this can happen to me, this can happen to other Americans'
  - [https://www.louderwithcrowder.com/ye-applepay-other-americans](https://www.louderwithcrowder.com/ye-applepay-other-americans)
@@ -176,3 +176,4 @@
 <a href="https://youtu.be/qROpsszu5U0" target="_blank">youtu.be</a>
 </small>
 </p>
+

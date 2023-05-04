@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Vatican Says China Broke Agreement on Bishops
  - [https://www.wsj.com/articles/vatican-says-china-broke-agreement-on-bishops-11669480974](https://www.wsj.com/articles/vatican-says-china-broke-agreement-on-bishops-11669480974)
@@ -27,3 +27,4 @@ Authorities were working to repair critical infrastructure and bolster the spiri
  - date published: 2022-11-26 10:30:00+00:00
 
 Tying individual weather events to global warming remains a difficult challenge, and new research on the causes of recent catastrophic flooding in Pakistan yields mixed results.
+

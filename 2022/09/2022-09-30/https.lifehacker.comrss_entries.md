@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## This Feature Makes AirPods Pro Worth the Cost
  - [https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971](https://lifehacker.com/this-feature-makes-airpods-pro-worth-the-cost-1849601971)
@@ -125,3 +125,4 @@
  - date published: 2022-09-30 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--WFYPAIK1--/c_fit,fl_progressive,q_80,w_636/46217711f4cacf5ce95eb1a2a005520d.jpg" /><p>Even though countless experts, including the American Association of Pediatrics, say that <a href="https://lifehacker.com/schools-should-start-later-when-teen-brains-are-ready-t-1800671670">high schools should not start so ding-dang early in the morning</a>, many still do. That means teens are commonly sleep-deprived, with 70% getting <a href="https
+

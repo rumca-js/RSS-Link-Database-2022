@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Deep learning with light
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59284](https://www.codeproject.com/script/News/View.aspx?nwid=59284)
@@ -69,3 +69,4 @@ Is that why no one answers my posts on c0dproject.com?
  - date published: 2022-10-24 04:00:00+00:00
 
 Won't you take me to func-y town?
+

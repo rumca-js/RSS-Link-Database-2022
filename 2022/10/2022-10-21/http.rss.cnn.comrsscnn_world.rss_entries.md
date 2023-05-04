@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Iranian teachers call for nationwide ​​strike in protest over deaths and ​​detention of students
  - [https://www.cnn.com/2022/10/21/middleeast/iran-teachers-nationwide-strike-students-intl/index.html](https://www.cnn.com/2022/10/21/middleeast/iran-teachers-nationwide-strike-students-intl/index.html)
@@ -27,3 +27,4 @@ Four more bodies of suspected illegal migrants from Ethiopia have been found nea
  - date published: 2022-10-21 05:17:27+00:00
 
 China's economy is faltering. Unemployment is skyrocketing. Endless Covid lockdowns are wreaking havoc on businesses and people's lives. The property sector is in crisis. Ties between Beijing and major global powers are under strain.
+

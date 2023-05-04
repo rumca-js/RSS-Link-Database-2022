@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## BrandPost: AIOps: The Path to a Better IT Paradigm
  - [https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all](https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all)
@@ -73,3 +73,4 @@
 <p>By the time she was 21, Sara Mothersil had attended college for three years — and changed her major three times. She didn’t know what she wanted to do, but did realize one thing: college wasn’t her path to a career.</p><p>“I did not like college; it was just the thing to do,” the West Palm Beach, FL native said in a recent interview. “Your parents encourage you to go to college and get an education, but my heart just wasn’t into it. I couldn’t find anything I was passionate about.”</p><figure class="medium left"><a class="zoom" href="https://images.idgesg.net/images/article/2022/11/sara-mothersil-2-100934993-orig.jpeg?auto=webp&amp;quality=85,70" rel="nofollow"><img alt="sara mothersil 2" border="0" height="297" src="https://images.idgesg.net/images/article/2022/11/sara-mothersil-2-100934993-medium.jpg?auto=webp&amp;quality=85,70" width="300" /></a> <small class="credit">Sara Mothersil</small>
 <figcaption>
 <p>Sara Mothersil, an apprentice with Multiverse and a fulltime analyst with Intermountain Healthcare.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681651/the-new-way-to-hire-tech-workers-from-the-bottom-up.html#jump">To read this article in full, please click here</a></p></section></article>
+

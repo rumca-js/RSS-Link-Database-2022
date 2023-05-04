@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google Pixel Watch hands-on: This would’ve killed in 2019!
  - [https://www.androidauthority.com/google-pixel-watch-hands-on-3217379/](https://www.androidauthority.com/google-pixel-watch-hands-on-3217379/)
@@ -244,3 +244,4 @@ Download them here!
  - date published: 2022-10-06 06:33:57+00:00
 
 New data from IDC suggests Google's Pixel line is just a blip in the Android smartphone market.
+

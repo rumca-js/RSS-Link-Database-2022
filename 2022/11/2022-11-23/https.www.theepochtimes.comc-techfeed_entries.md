@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Bill C-11 Raising Serious Doubts About CRTC’s Independence From Feds
  - [https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html](https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html)
@@ -13,3 +13,4 @@ Minister of Canadian Heritage Pablo Rodriguez prepares to appear before the Sena
  - date published: 2022-11-23 07:19:59+00:00
 
 Elon Musk's Twitter profile on a smartphone placed on printed Twitter logos, on April 28, 2022. (Dado Ruvic/Illustration/Reuters)
+

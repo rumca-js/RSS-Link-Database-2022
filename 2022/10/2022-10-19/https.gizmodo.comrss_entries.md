@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## io9's Halloween Costume Show Week 3: Gordy's Home!
  - [https://gizmodo.com/halloween-costume-show-week-3-nope-marvel-pokemon-1849679141](https://gizmodo.com/halloween-costume-show-week-3-nope-marvel-pokemon-1849679141)
@@ -279,3 +279,4 @@
  - date published: 2022-10-19 00:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--3ftTNqRk--/c_fit,fl_progressive,q_80,w_636/f32486f61f52c534ff8037be99123dc1.jpg" /><p>So you’ve put off buying a <a href="https://gizmodo.com/marvel-dc-star-wars-stranger-things-halloween-costumes-1849611224">Halloween costume</a> and it’s now suddenly party season—don’t worry, <a href="https://gizmodo.com/new-york-comic-con-funko-pop-vinyl-toy-exclusives-nycc-1849625370">Funko</a> has you covered. Here’s the company’s line of Pop-in
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Big gaming companies get DHS help to keep players from becoming terrorists
  - [https://arstechnica.com/?p=1882731](https://arstechnica.com/?p=1882731)
@@ -90,3 +90,4 @@ Roughly 50 minutes of video confirms Vice City setting, Latina protagonist.
  - date published: 2022-09-19 14:57:52+00:00
 
 "I didn't believe we could survive just doing what everyone else is doing."
+

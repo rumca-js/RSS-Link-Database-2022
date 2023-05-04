@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Bitter woman to hot neighbor: put clothes on, my husband won't stop watching you through the doorbell camera
  - [https://www.louderwithcrowder.com/doorbell-camera-wife-neighbor](https://www.louderwithcrowder.com/doorbell-camera-wife-neighbor)
@@ -76,3 +76,4 @@
  - date published: 2022-10-06 12:00:05+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31872755&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>In an effort to teach children about tolerance and acceptance, school boards have been hiring men to dress like women and dance for them. Prior to 2022, these drag shows with men who call themselves "queens" were meant to entertain middle-aged suburban women in bars at Bingo night. I guess one of those women sat on a school board and felt
+

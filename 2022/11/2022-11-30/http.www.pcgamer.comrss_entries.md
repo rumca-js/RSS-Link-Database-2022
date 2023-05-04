@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Amazon's Fallout TV series is 'not retelling a game story' says Todd Howard
  - [https://www.pcgamer.com/amazons-fallout-tv-series-is-not-retelling-a-game-story-says-todd-howard](https://www.pcgamer.com/amazons-fallout-tv-series-is-not-retelling-a-game-story-says-todd-howard)
@@ -216,3 +216,4 @@ Who doesn't love to open an off-brand console on Xmas morning?
  - date published: 2022-11-30 04:10:16+00:00
 
 Warhammer 40,000: Darktide is full of secrets, including messages written in Chaos Runes. Sit down and let a veteran tell you all about them.
+

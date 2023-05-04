@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Review Roundup for Black Adam
  - [https://www.gamespot.com/articles/review-roundup-for-black-adam/1100-6508395/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/review-roundup-for-black-adam/1100-6508395/?ftag=CAD-01-10abi2f)
@@ -300,3 +300,4 @@
  - date published: 2022-10-18 04:27:00+00:00
 
 <p><a href="https://www.gamespot.com/games/minecraft/">Minecraft</a> has announced its next big update for 2023. So far only referred to as update 1.20, it'll bring camels, craftable bamboo items, new default skins, and more to vanilla Minecraft, as reported by <a href="https://www.eurogamer.net/minecrafts-big-2023-update-includes-camels">Eurogamer</a>. Unlike past updates, the upcoming one doesn't have a name yet, and to avoid overpromising has only revealed new features that will definitely ma
+

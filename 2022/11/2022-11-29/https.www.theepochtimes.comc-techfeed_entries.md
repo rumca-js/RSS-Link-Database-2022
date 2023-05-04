@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Apple Restricted AirDrop Access Ahead of Chinese Protests
  - [https://www.theepochtimes.com/apple-restricted-airdrop-access-ahead-of-chinese-protests_4893223.html](https://www.theepochtimes.com/apple-restricted-airdrop-access-ahead-of-chinese-protests_4893223.html)
@@ -34,3 +34,4 @@ Tesla head Elon Musk talks to the press as he arrives to have a look at the cons
  - date published: 2022-11-29 09:38:05+00:00
 
 In this photo illustration, the download page for the TikTok app is displayed on an Apple iPhone in Washington, on Aug. 7, 2020. (Drew Angerer/Getty Images)
+

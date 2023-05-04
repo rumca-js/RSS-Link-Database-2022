@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Boston-area father and son restaurant owners charged with human smuggling
  - [https://www.foxnews.com/us/boston-area-father-son-restaurant-owners-charged-human-smuggling](https://www.foxnews.com/us/boston-area-father-son-restaurant-owners-charged-human-smuggling)
@@ -1077,3 +1077,4 @@ Guests: Leo Terrell, Kayleigh McEnany, Mike Huckabee, Ron DeSantis, Clay Travis,
  - date published: 2022-10-04 00:00:49+00:00
 
 Guests: Glenn Greenwald, Alex Berenson, Emily Ekanayake, Gladden Pappin
+

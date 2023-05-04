@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## New IRS rules mean your paycheck could be bigger next year
  - [https://www.cnn.com/2022/10/19/success/inflation-adjustment-2023-taxes/index.html](https://www.cnn.com/2022/10/19/success/inflation-adjustment-2023-taxes/index.html)
@@ -41,3 +41,4 @@ On Sunday morning, a puffy, Michelin Man-like figure trudged through Times Squar
  - date published: 2022-10-19 01:13:35+00:00
 
 Presidents don't have magic wands to make inflation disappear. But they do have a powerful tool that can help ease the pain of high gas prices: The Strategic Petroleum Reserve.
+

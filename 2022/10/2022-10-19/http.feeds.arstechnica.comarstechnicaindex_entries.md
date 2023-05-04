@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Cause is unknown for mysterious GPS outage that rerouted Texas air traffic
  - [https://arstechnica.com/?p=1891367](https://arstechnica.com/?p=1891367)
@@ -132,3 +132,4 @@ UK-based Wejo unveils new operating system to "democratize" AV data.
  - date published: 2022-10-19 11:39:26+00:00
 
 The Vintage Roadster offers a load of performance in a gorgeous package.
+

@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## We Can Now Predict Disease With Smell
  - [https://www.youtube.com/watch?v=8LGtG8iACIQ](https://www.youtube.com/watch?v=8LGtG8iACIQ)
@@ -56,3 +56,4 @@ TIMESTAMPS -
 8:31 - History of Smelling Diseases
 9:28 - Practical Application
 11:08 - Sponsor - Curiosity Stream
+

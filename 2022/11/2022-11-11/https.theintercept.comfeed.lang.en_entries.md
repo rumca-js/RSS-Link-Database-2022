@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## A Controversial Decision in Oregon Could Cost Democrats the House
  - [https://theintercept.com/2022/11/11/midterms-house-democrats-spending/](https://theintercept.com/2022/11/11/midterms-house-democrats-spending/)
@@ -23,3 +23,4 @@
 
 <p>Murdoch’s conservative media outlets seem to have launched a coordinated effort to nudge Trump off the stage. It is not going well.</p>
 <p>The post <a href="https://theintercept.com/2022/11/11/desantis-trump-fox-rupert-murdoch/" rel="nofollow">Rupert Murdoch Is Having the Same Problem Dr. Frankenstein Once Faced With His Monster</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

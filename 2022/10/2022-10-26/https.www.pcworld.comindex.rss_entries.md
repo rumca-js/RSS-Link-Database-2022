@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best webcams 2022: Why now is a great time to buy one
  - [https://www.pcworld.com/article/393756/1080p-webcam-buying-guide.html](https://www.pcworld.com/article/393756/1080p-webcam-buying-guide.html)
@@ -1000,3 +1000,4 @@ Gaming, Keyboards</div>
 
 <p>Our review of the latest Spectre design is coming soon, but you can <a href="https://www.pcworld.com/article/825567/dell-xps-13-plus-9320-review.html" rel="noreferrer noopener" target="_blank">check out the full review of the XPS 13 Plus now</a>. For more deep dives in the laptop market, be sure to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/c/pcworld&amp;xcust=2-1-1358796-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">subscribe to PCWorld on YouTube!</a> </p>
 Laptops</div>
+

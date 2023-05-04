@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Twitter drama continues with blue-tick confusion
  - [https://www.bbc.co.uk/news/technology-63597087?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63597087?at_medium=RSS&at_campaign=KARANGA)
@@ -41,3 +41,4 @@ Ros Atkins looks at the twists and turns of Elon Musk’s early days in charge o
  - date published: 2022-11-11 00:16:31+00:00
 
 The Federal Trade Commission says developments at Twitter could risk it violating regulatory orders.
+

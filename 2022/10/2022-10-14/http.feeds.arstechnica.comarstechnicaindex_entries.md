@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Removing notes from Mendelssohn overture shows plight of humpback whales
  - [https://arstechnica.com/?p=1890094](https://arstechnica.com/?p=1890094)
@@ -153,3 +153,4 @@ But the total cost of buying into AMD's new platform still makes it a tough sell
  - date published: 2022-10-14 11:00:05+00:00
 
 Game makers were still working on their ports when shutdown news went public.
+

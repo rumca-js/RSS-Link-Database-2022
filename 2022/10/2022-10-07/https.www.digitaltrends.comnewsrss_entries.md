@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Number of Amazon’s new holiday recruits equals population of Pasadena
  - [https://www.digitaltrends.com/news/amazon-needs-150000-new-workers-for-holiday-rush/](https://www.digitaltrends.com/news/amazon-needs-150000-new-workers-for-holiday-rush/)
@@ -20,3 +20,4 @@ Microsoft has just announced that some of the settings in Windows 11 can slow do
  - date published: 2022-10-07 06:26:52.809778+00:00
 
 Amazon has announced it's ending field tests of its Scout delivery robot nearly four years after it unveiled the machine.
+

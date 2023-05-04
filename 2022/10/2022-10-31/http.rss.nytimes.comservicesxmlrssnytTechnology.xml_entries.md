@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Republicans Continue to Spread Baseless Claims About Pelosi Attack
  - [https://www.nytimes.com/2022/10/31/technology/pelosi-attack-misinformation-conspiracy-republicans.html](https://www.nytimes.com/2022/10/31/technology/pelosi-attack-misinformation-conspiracy-republicans.html)
@@ -34,3 +34,4 @@ Chegg, a homework help app, exposed the data of 40 million users, including deta
  - date published: 2022-10-31 14:56:16+00:00
 
 Some users said they could not access the social media app and had been notified that their accounts were suspended.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Shop on TikTok Without Overpaying
  - [https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840](https://lifehacker.com/how-to-shop-on-tiktok-without-overpaying-1849575840)
@@ -13,3 +13,4 @@
  - date published: 2022-09-25 16:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--HX9bYmMo--/c_fit,fl_progressive,q_80,w_636/411cd78eb1256a155bafce8dfbc8c08d.jpg" /><p>There’s a lot of information out there—including <a href="https://lifehacker.com/use-this-september-garden-checklist-to-get-ready-for-fa-1849494154">on this site</a>—listing garden tasks to complete in a particular month, or ahead of a certain season. And while there are always jobs you can do now to make your life easier in the future, some gardeni
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Girl fight breaks out at McDonald's until one goes to town with savage UFC-style ground and pound
  - [https://www.louderwithcrowder.com/mcdonalds-employee-fight](https://www.louderwithcrowder.com/mcdonalds-employee-fight)
@@ -196,3 +196,4 @@
 <a href="https://youtu.be/sEqjIamq-mc" target="_blank">youtu.be</a>
 </small>
 </p>
+

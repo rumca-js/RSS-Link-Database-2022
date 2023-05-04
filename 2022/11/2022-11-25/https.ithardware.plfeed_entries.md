@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Zdjęcia z ukrycia i doklejanie twarzy do nagiego ciała będą karalne
  - [https://ithardware.pl/aktualnosci/zdjecia_z_ukrycia_i_doklejanie_twarzy_do_nagiego_ciala_beda_karalne-24538.html](https://ithardware.pl/aktualnosci/zdjecia_z_ukrycia_i_doklejanie_twarzy_do_nagiego_ciala_beda_karalne-24538.html)
@@ -129,3 +129,4 @@ Star Wars:&nbsp;Squadrons został...
 
 <img src="https://ithardware.pl/artykuly/min/24519_1.jpg" />            Black Friday 2022 czas zacząć! Artykuł, kt&oacute;ry aktualnie czytasz, jest transmisją na żywo, a zatem co jakiś czas dodawać będziemy według nas najlepsze, znalezione w sieci urządzenia elektroniczne w atrakcyjnych cenach. Nie przegap...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/black_friday_2022_na_zywo-24519.html">https://ithardware.pl/aktualnosci/black_friday_2022_na_zywo-24519.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk just decided to bring the worst people on the internet back to Twitter
  - [https://www.theverge.com/2022/11/24/23476655/elon-musk-general-amnesty-mass-unban-twitter](https://www.theverge.com/2022/11/24/23476655/elon-musk-general-amnesty-mass-unban-twitter)
@@ -365,3 +365,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/23/23476092/ftc-investigating-microsoft-activision-deal-sony-call-of-duty">Continue reading&hellip;</a>
   </p>
+

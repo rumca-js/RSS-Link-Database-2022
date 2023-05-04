@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The MOST HYPED VR Game of ALL TIME
  - [https://www.youtube.com/watch?v=kFuyLh7B8nY](https://www.youtube.com/watch?v=kFuyLh7B8nY)
@@ -22,3 +22,4 @@ My discord:
 https://discord.gg/2hCGM9BYez
 Patreon link:
 https://www.patreon.com/Thrillseeker
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## 9 big questions about the ‘Super Mario Bros. Movie’ trailer
  - [https://www.washingtonpost.com/video-games/2022/10/07/mario-movie-trailer-analysis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/07/mario-movie-trailer-analysis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -62,3 +62,4 @@ Two top artificial intelligence talents left Google to create a new chatbot star
  - date published: 2022-10-07 07:00:33+00:00
 
 Apps like Microsoft Office, Zoom, Google Workspace and Slack may provide bosses information on workers’ digital activities. But experts say it’s not an accurate representation of productivity or performance.
+

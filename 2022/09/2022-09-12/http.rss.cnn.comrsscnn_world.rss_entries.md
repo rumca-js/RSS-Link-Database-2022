@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## 1 person dead and four others wounded in two separate shootings near Toronto
  - [https://www.cnn.com/2022/09/12/americas/ontario-deadly-shootings/index.html](https://www.cnn.com/2022/09/12/americas/ontario-deadly-shootings/index.html)
@@ -34,3 +34,4 @@ When Queen Elizabeth II ascended to the throne in 1952, Britain was the dominant
  - date published: 2022-09-12 12:41:20+00:00
 
 Forces in Ethiopia's Tigray region said they are ready to observe an immediate ceasefire and accept an African Union-led peace process to end a conflict with federal forces that has stretched over nearly two years.
+

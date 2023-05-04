@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Death Toll Rises as Russia Bombards Ukraine’s Cities for a Fourth Day
  - [https://www.nytimes.com/2022/10/13/world/europe/russia-ukraine-missiles-deaths.html](https://www.nytimes.com/2022/10/13/world/europe/russia-ukraine-missiles-deaths.html)
@@ -153,3 +153,4 @@ Western support for Ukraine.
  - date published: 2022-10-13 04:01:14+00:00
 
 The cutting of Russian gas supplies to Europe has led Germany to step up coal use, despite its goal to phase it out by 2030.
+

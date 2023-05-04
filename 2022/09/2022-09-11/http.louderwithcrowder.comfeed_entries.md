@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Democrat refuses to reimburse taxpayers for luxury flights, it's too dangerous for black women to fly coach
  - [https://www.louderwithcrowder.com/new-orleans-mayor-luxury-flight](https://www.louderwithcrowder.com/new-orleans-mayor-luxury-flight)
@@ -36,3 +36,4 @@
  - date published: 2022-09-11 13:38:57+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31683955&amp;width=1200&amp;height=800&amp;coordinates=11%2C0%2C12%2C0" /><br /><br /><p>The state of Illinois must be looking at <a href="https://www.louderwithcrowder.com/sasha-banks-oakland" target="_blank">California </a>and thinking, "We can be worse than that." It's not difficult--they already have <a href="https://www.louderwithcrowder.com/chicago-police-street-race" target="_blank">Chicago</a>, which is a terrible pla
+

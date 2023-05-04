@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Gliwice. Wypadek na osiedlowej drodze. Siedmiolatek zginął pod kołami auta
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29003223,gliwice-wypadek-na-osiedlowej-drodze-siedmiolatek-zginal-pod.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29003223,gliwice-wypadek-na-osiedlowej-drodze-siedmiolatek-zginal-pod.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -48,3 +48,4 @@
  - date published: 2022-10-09 09:06:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/34/a8/1b/z29001780M,Prognoza-pogody-na-zime---zdjecie-ilustracyjne.jpg" vspace="2" />Tegoroczna zima będzie cieplejsza niż zwykle - zapowiadają synoptycy. Dla tych, którzy drżą w obawie o rosnące ceny ogrzewania to dobra wiadomość. W gorsze humory aura może wprawić miłośników sportów zimowych. Tym razem na narty tylko w wysokie góry.
+

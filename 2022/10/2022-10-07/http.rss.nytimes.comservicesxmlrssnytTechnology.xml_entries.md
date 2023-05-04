@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Biden Administration Clamps Down on China’s Access to Chip Technology
  - [https://www.nytimes.com/2022/10/07/business/economy/biden-chip-technology.html](https://www.nytimes.com/2022/10/07/business/economy/biden-chip-technology.html)
@@ -41,3 +41,4 @@ Every hour of the day and night with the gamers, parents, insomniacs, preteens a
  - date published: 2022-10-07 00:50:56+00:00
 
 President Biden traveled to Poughkeepsie, N.Y., to connect a $20 billion investment by IBM to the bipartisan bill meant to spur production of critical microchips.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Best Ways to Support the Runner in Your Life, According to Reddit
  - [https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299](https://lifehacker.com/the-best-ways-to-support-the-runner-in-your-life-accor-1849674299)
@@ -125,3 +125,4 @@
  - date published: 2022-10-18 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--JfU-kk7T--/c_fit,fl_progressive,q_80,w_636/cf1c3504fedb795a6df86dbd1794082e.jpg" /><p>I am convinced being rich and famous does terrible things to your brain. It seems to rob you of empathy, especially if you are mid-level celeb with medium-low talent whose only real trick is getting actually talented people to sing with you in a car. Such is the case with James Corden, who has been 86'd from New York…</p><p><a href="https://lifehack
+

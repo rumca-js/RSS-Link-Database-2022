@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Over 280,000 WordPress sites may have been hijacked by zero-day hiding in popular plugin
  - [https://www.techradar.com/news/over-280000-wordpress-sites-may-have-been-hijacked-by-zero-day-hiding-in-popular-plugin/](https://www.techradar.com/news/over-280000-wordpress-sites-may-have-been-hijacked-by-zero-day-hiding-in-popular-plugin/)
@@ -16,6 +16,13 @@ Leaked data suggests Intel’s new Xeon chips fail to match the level of perform
 
 ## Nvidia RTX 4060: everything we know about Nvidia's next-gen 'budget' graphics card
  - [https://www.techradar.com/news/nvidia-rtx-4060/](https://www.techradar.com/news/nvidia-rtx-4060/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-09-14 18:38:36+00:00
+
+The Nvidia RTX 4060 may be released as soon as 2023, but what do we know about it so far?
+
+## Nvidia RTX 4060: everything we know about Nvidia's next-gen 'budget' graphics card
+ - [https://www.techradar.com/news/nvidia-rtx-4060](https://www.techradar.com/news/nvidia-rtx-4060)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-14 18:38:36+00:00
 
@@ -209,3 +216,4 @@ Amazon's Kindle ereaders are getting pricier, but there are ways to avoid the hi
  - date published: 2022-09-14 04:00:48+00:00
 
 Tunic is hopping over to Nintendo and PlayStation consoles later this year.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Warner Bros. Discovery is ‘absolutely not for sale,’ says CEO
  - [https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max](https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max)
@@ -391,3 +391,4 @@
     </figure>
 
   <p id="TLm0Wv">Elon Musk’s deposition for the <em>Twitter v. Musk</em> suit may have been <a href="https://www.theguardian.com/technology/2022/sep/27/elon-musk-deposition-tw
+

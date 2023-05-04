@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## New York Governor Kathy Hochul Holds On Against Republican Lee Zeldin: Projection
  - [https://www.dailywire.com/news/new-york-governor-kathy-hochul-holds-on-against-republican-lee-zeldin-projection](https://www.dailywire.com/news/new-york-governor-kathy-hochul-holds-on-against-republican-lee-zeldin-projection)
@@ -482,3 +482,4 @@ Several final polls for Georgia&#8217;s 2022 gubernatorial race show that incumb
  - date published: 2022-11-08 08:34:07+00:00
 
 VANDALIA, OHIO &#8211; Former President Donald Trump said Monday that he will make a &#8220;big announcement&#8221; next week, fueling speculation that he is planning a 2024 presidential run. Trump teased the announcement at an Ohio rally where he joined forces with Ohio Republican Senate candidate J.D. Vance in a final push for Vance&#8217;s campaign. &#8220;I am ...
+

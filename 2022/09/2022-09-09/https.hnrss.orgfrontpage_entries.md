@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Regarding the eSIM-only iPhone 14 models in the U.S.
  - [https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
@@ -439,7 +439,6 @@
  - [https://news.ycombinator.com/item?id=32777875](https://news.ycombinator.com/item?id=32777875)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-09 11:23:47+00:00
- - tags: cbdc
 
 <p>Many countries', including the United States, central banks are trying to figure out Central Bank Digital Currency (CDBC). This move has accelerated after China introduced its digital currency (e-CNY).<p>But why do we need a digital currency when most of my transactions (presumably true for most people in a modern economy) is digital? I receive my salary via a bank transfer, make payments in grocery stores via credit cards, deposit checks via my phone by taking pictures of them, and split res
 
@@ -732,3 +731,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32773944">https://news.ycombinator.com/item?id=32773944</a></p>
 <p>Points: 18</p>
 <p># Comments: 4</p>
+

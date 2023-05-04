@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Na Wall Street spadki szósty dzień z rzędu. S&P500 balansuje na wsparciu
  - [https://www.bankier.pl/wiadomosc/Na-Wall-Street-spadki-szosty-dzien-z-rzedu-8422009.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Na-Wall-Street-spadki-szosty-dzien-z-rzedu-8422009.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -479,3 +479,4 @@ czekać kolejna fala sporów.</p>
  - date published: 2022-10-12 00:29:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/e/1d386793934dd1-948-568-0-50-4000-2399.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Około 30 procent ukraińskiej infrastruktury energetycznej zostało uszkodzone od poniedziałku w wyniku rosyjskich ostrzałów rakietowych - poinformował minister energetyki Ukrainy Herman Hałuszczenko, cytowany przez CNN.</p>
+

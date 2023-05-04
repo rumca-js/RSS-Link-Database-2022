@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## ABC defends Louise Milligan after Liberal Senator Sarah Henderson slams her controversial speech
  - [https://www.dailymail.co.uk/news/article-11405319/ABC-defends-Louise-Milligan-Liberal-Senator-Sarah-Henderson-slams-controversial-speech.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11405319/ABC-defends-Louise-Milligan-Liberal-Senator-Sarah-Henderson-slams-controversial-speech.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1481,7 +1481,6 @@ The charismatic leader has taken on a new role after she was pipped at the post 
  - [https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-08 04:55:16+00:00
- - tags: bill clinton,epstein
 
 Bill Clinton was campaigning in Laredo, Texas on Monday when he was asked by a reporter to comment on his friendship with Jeffrey Epstein. Clinton replied: 'I think the evidence is clear.'
 
@@ -1848,3 +1847,4 @@ The deal will also see the largest-ever sum handed by the UK taxpayer to France 
  - date published: 2022-11-08 00:00:11+00:00
 
 The singer, 29, urged the Prime Minister to use his November budget to extend the threshold to include young people from families on Universal Credit.
+

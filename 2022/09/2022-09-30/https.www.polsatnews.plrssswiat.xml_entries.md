@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## "Dzień na świecie". Julia Tymoszenko przewiduje rozpad Rosji. "Upadek wojska i reżimu Putina"
  - [https://www.polsatnews.pl/wiadomosc/2022-09-30/dzien-na-swiecie-julia-tymoszenko-przewiduje-rozpad-rosji-upadek-wojska-i-rezimu-putina/](https://www.polsatnews.pl/wiadomosc/2022-09-30/dzien-na-swiecie-julia-tymoszenko-przewiduje-rozpad-rosji-upadek-wojska-i-rezimu-putina/)
@@ -132,3 +132,4 @@ Po ataku Rosjan w mieście Dniepr zginęły cztery osoby - dwoje dzieci, ich mam
  - date published: 2022-09-30 04:22:00+00:00
 
 Władimir Putin podpisał dekrety o uznaniu obwodów chersońskiego i zaporoskiego za niezależne terytoria - informuje prokremlowska agencja Ria Nowosti. Zgodnie z zapowiedziami, Putin w piątek włączy do Rosji cztery okupowane ukraińskie obwody.
+

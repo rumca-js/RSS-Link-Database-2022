@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Opal miner Paul Murray death in Lightning Ridge reopened by NSW Police with $500,000 reward
  - [https://www.dailymail.co.uk/news/article-11285001/Opal-miner-Paul-Murray-death-Lightning-Ridge-reopened-NSW-Police-500-000-reward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11285001/Opal-miner-Paul-Murray-death-Lightning-Ridge-reopened-NSW-Police-500-000-reward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1917,3 +1917,4 @@ The Conservative leader has come under mounting pressure  to say if she will vis
  - date published: 2022-10-05 00:01:31+00:00
 
 Chiara Passari has taken to Instagram to reveal how she lost 'all hope in love, in myself and in any form of happiness or meaning' - with one photo captioned: 'I hate myself'.
+

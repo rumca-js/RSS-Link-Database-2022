@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## NASA kicks off UFO study with 16-member team
  - [https://www.zdnet.com/article/nasa-kicks-off-ufo-study-with-16-member-team/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-kicks-off-ufo-study-with-16-member-team/#ftag=RSSbaffb68)
@@ -230,3 +230,4 @@ Whether you're just starting out or an experienced content creator, the right we
  - date published: 2022-10-24 02:11:06+00:00
 
 Looking to put down the book and pick up a tablet instead? The best tablets for reading are handheld in size, have sharp displays, and long battery lives so you can spend a whole afternoon with your favorite book.
+

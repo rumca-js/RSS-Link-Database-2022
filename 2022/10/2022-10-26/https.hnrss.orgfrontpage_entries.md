@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## MIT campus is planning on mostly remaining permanently closed to the public
  - [https://twitter.com/jack_b_reid/status/1556735206547066880](https://twitter.com/jack_b_reid/status/1556735206547066880)
@@ -789,3 +789,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33338008">https://news.ycombinator.com/item?id=33338008</a></p>
 <p>Points: 24</p>
 <p># Comments: 7</p>
+

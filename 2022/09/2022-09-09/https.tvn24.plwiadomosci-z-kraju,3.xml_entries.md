@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Morawiecki w Kijowie: Polska wzywa Komisję Europejską do przekazania Ukrainie 9 miliardów euro
  - [https://tvn24.pl/najnowsze/morawiecki-w-kijowie-spotkal-sie-z-prezydentem-zelenskim-mowil-o-przekazaniu-pieniedzy-ukrainie-6105140?source=rss](https://tvn24.pl/najnowsze/morawiecki-w-kijowie-spotkal-sie-z-prezydentem-zelenskim-mowil-o-przekazaniu-pieniedzy-ukrainie-6105140?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Nie tylko znaczki i banknoty. Co zmieni się po śmierci Elżbiety II" src="https://tvn24.pl/najnowsze/cdn-zdjecie-clz1xb-krolowa-elzbieta-ii-na-banknocie-6104119/alternates/LANDSCAPE_1280" />
     "Była z nami od zawsze" - to fraza powtarzana przez wielu Brytyjczyków opłakujących zmarłą królową Elżbietę II. W ciągu 70 lat panowania wizerunek monarchini znalazł się na miliardach banknotów, monet i znaczków pocztowych, a wzmianki o niej były elementem przysiąg i modlitw.
+

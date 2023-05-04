@@ -1,4 +1,4 @@
-# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, Source language: en-US
+# Source:Luke Smith - YouTube, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, language:en-US
 
 ## I Will Be Throwing Away My Computers.
  - [https://www.youtube.com/watch?v=HAGWOx2dw1Y](https://www.youtube.com/watch?v=HAGWOx2dw1Y)
@@ -21,3 +21,4 @@ XMR: 89yML3AtqnTNdo3wNuoaW44D94Zx1kBZNSBc9SyNxGdaKEZwZNdVzvy9zpbzJMzysiWZEU3b5Lw
 OR affiliate links to things l use:
 https://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.
 https://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## C# and Java
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58765](https://www.codeproject.com/script/News/View.aspx?nwid=58765)
@@ -83,3 +83,4 @@ Assuming the estimate of cost isn't based on bad data
  - date published: 2022-09-05 04:00:00+00:00
 
 Because, as we know Microsoft software is never attacked by malware
+

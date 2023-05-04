@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Palestinian gunmen seize body of Israeli Druze man from hospital in Jenin, demanding exchange of bodies
  - [https://www.cnn.com/2022/11/23/middleeast/palestinian-body-exchange-demand-intl/index.html](https://www.cnn.com/2022/11/23/middleeast/palestinian-body-exchange-demand-intl/index.html)
@@ -62,3 +62,4 @@ Prosecutors in Taiwan said on Tuesday they had charged a senior military officer
  - date published: 2022-11-23 03:19:32+00:00
 
 A Chinese streaming platform has resumed distributing South Korean content after suspending it for nearly six years, South Korean officials said on Tuesday, in what Seoul called a sign of Beijing's readiness to improve ties.
+

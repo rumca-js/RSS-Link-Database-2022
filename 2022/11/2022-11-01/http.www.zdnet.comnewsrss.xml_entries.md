@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## OpenSSL dodges a security bullet
  - [https://www.zdnet.com/article/openssl-dodges-a-security-bullet/#ftag=RSSbaffb68](https://www.zdnet.com/article/openssl-dodges-a-security-bullet/#ftag=RSSbaffb68)
@@ -165,7 +165,6 @@ The Honor Pad 8 provides a big screen, great speakers and long battery life for 
  - [https://www.zdnet.com/finance/banking/singapore-explores-programmable-digital-currency-use-cases-with-industry-trials/#ftag=RSSbaffb68](https://www.zdnet.com/finance/banking/singapore-explores-programmable-digital-currency-use-cases-with-industry-trials/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-01 10:40:54+00:00
- - tags: cbdc
 
 Central bank says it is testing various uses of "purpose-bound" digital money with industry players, including funds disbursement without requiring recipients to have a bank account.
 
@@ -182,3 +181,4 @@ With winter fast approaching, now might be the time to invest in smart temperatu
  - date published: 2022-11-01 09:38:00+00:00
 
 With winter fast approaching, now's the time to invest in smart temperature and home solutions.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Thirty years ago Windsor Castle caught fire
  - [https://www.dailymail.co.uk/news/article-11445827/Thirty-years-ago-Windsor-Castle-caught-fire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11445827/Thirty-years-ago-Windsor-Castle-caught-fire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1728,3 +1728,4 @@ Ivanka Trump and Jared Kushner have no plans to return to Washington DC or poli
  - date published: 2022-11-18 00:11:58+00:00
 
 Amazon CEO Andy Jassy said the company will continue to layoff workers into the new year in a memo sent around Thursday.
+

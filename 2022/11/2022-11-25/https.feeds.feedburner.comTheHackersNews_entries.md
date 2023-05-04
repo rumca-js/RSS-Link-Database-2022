@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Update Chrome Browser Now to Patch New Actively Exploited Zero-Day Flaw
  - [https://thehackernews.com/2022/11/update-chrome-browser-now-to-patch-new.html](https://thehackernews.com/2022/11/update-chrome-browser-now-to-patch-new.html)
@@ -34,3 +34,4 @@ Worldwide losses exceeded €115 million ($
 Interpol on Thursday announced the seizure of $130 million worth of virtual assets in connection with a global crackdown on cyber-enabled financial crimes and money laundering.
 The international police operation, dubbed HAECHI-III, transpired between June 28 and November 23, 2022, resulting in the arrests of 975 individuals and the closure of more than 1,600 cases.
 This comprised two fugitives
+

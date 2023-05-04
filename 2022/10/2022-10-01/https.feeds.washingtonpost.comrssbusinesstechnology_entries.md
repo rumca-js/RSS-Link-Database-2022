@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Tech companies are gaming out responses to the Texas social media law
  - [https://www.washingtonpost.com/technology/2022/10/01/texas-social-media-impact/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/01/texas-social-media-impact/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ Social media companies aren't waiting on the Supreme Court to start thinking abo
  - date published: 2022-10-01 06:00:53+00:00
 
 A secretive air-taxi startup backed by Google co-founder Larry Page, is winding down, underscoring how difficult it will be to get electric-powered flying cars and planes.
+

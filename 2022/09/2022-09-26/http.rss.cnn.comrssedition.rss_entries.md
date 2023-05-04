@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## See moment DART collides with asteroid
  - [https://www.cnn.com/videos/tech/2022/09/26/nasa-dart-asteroid-impact-vpx-ebof.cnn](https://www.cnn.com/videos/tech/2022/09/26/nasa-dart-asteroid-impact-vpx-ebof.cnn)
@@ -554,3 +554,4 @@ CNN's Chris Wallace sits down with former Supreme Court Justice Stephen Breyer t
  - date published: 2022-09-26 01:34:29+00:00
 
 Country music star Shania Twain tells CNN's Chris Wallace she thought her career was over after she got Lyme disease and lost her voice.
+

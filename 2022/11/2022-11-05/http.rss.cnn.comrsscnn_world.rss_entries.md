@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Climate activists block private jet runway at Schiphol Airport in Amsterdam
  - [https://www.cnn.com/2022/11/05/europe/amsterdam-climate-activists-block-private-jet-runway-intl/index.html](https://www.cnn.com/2022/11/05/europe/amsterdam-climate-activists-block-private-jet-runway-intl/index.html)
@@ -13,3 +13,4 @@ Hundreds of climate activists breached a runway Saturday at Amsterdam's Schiphol
  - date published: 2022-11-05 04:01:29+00:00
 
 Egypt is facing a barrage of criticism over what rights group say is a crackdown on protests and activists, as it prepares to host the COP27 climate summit starting Sunday.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Jak oszukać algorytmy Facebooka? Wystarczy marchewka
  - [https://ithardware.pl/aktualnosci/jak_oszukac_algorytmy_facebooka_wystarczy_marchewka-23361.html](https://ithardware.pl/aktualnosci/jak_oszukac_algorytmy_facebooka_wystarczy_marchewka-23361.html)
@@ -107,3 +107,4 @@ Kiedyś było tak. Gra miała swoją premierę, producent ustalał...
 
 <img src="https://ithardware.pl/artykuly/min/23350_1.jpg" />            Wielu graczy czeka na oficjalną zapowiedź Grand Theft Auto 6, jednak Rockstar Games milczy i w zasadzie nie uraczył nas żadnymi konkretami poza informacją, że pracuje nad nowym GTA. Zawsze można liczyć na internaut&oacute;w, kt&oacute;rzy...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/gta_6_wycieklo_do_sieci_trafily_rzekome_materialy_z_wczesnej_wersji_gry-23350.html">https://ithardware.pl/ak
+

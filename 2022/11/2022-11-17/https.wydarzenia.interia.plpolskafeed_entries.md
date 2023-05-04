@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Prezydent Andrzej Duda przyjedzie do Przewodowa
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-prezydent-andrzej-duda-przyjedzie-do-przewodowa,nId,6416839](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-prezydent-andrzej-duda-przyjedzie-do-przewodowa,nId,6416839)
@@ -13,3 +13,4 @@
  - date published: 2022-11-17 07:36:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-media-sad-usunal-wibor-z-umowy-nie-ma-takiego-wyroku,nId,6416782"><img align="left" alt="Media: Sąd usunął WIBOR z umowy. &quot;Nie ma takiego wyroku&quot;" src="https://i.iplsc.com/media-sad-usunal-wibor-z-umowy-nie-ma-takiego-wyroku/000GANNFRXCYRYL3-C321.jpg" /></a>Sąd nakazał usunięcie z umowy kredytu zapisu, że na oprocentowanie, oprócz marży, składa się też WIBOR. Powodem było m.in. niedołączenie do umowy regulaminu ustalania stopy referencyjnej - pisze w czwartek &quot;Dziennik Gazeta Prawna&quot;. Do sprawy odniósł się później wiceprezes ZBP Tadeusza Białka, który stwierdził, że &quot;na razie nie ma mowy ani o wyroku sądu ani też o usunięciu WIBOR-u z umowy kredytowej&quot;.</p><br clear="all" />
+

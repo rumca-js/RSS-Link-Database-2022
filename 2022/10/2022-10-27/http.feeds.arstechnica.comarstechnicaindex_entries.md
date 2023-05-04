@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Six children among latest Ebola cases in Uganda’s capital as outbreak grows
  - [https://arstechnica.com/?p=1893454](https://arstechnica.com/?p=1893454)
@@ -97,3 +97,4 @@ Dealmaster also has discounts on Google smart home, Microsoft Surfaces, and some
  - date published: 2022-10-27 12:10:45+00:00
 
 Facebook parent’s earnings add to gloom surrounding Big Tech.
+

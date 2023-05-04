@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## "Always on top" attribute...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59200](https://www.codeproject.com/script/News/View.aspx?nwid=59200)
@@ -111,3 +111,4 @@ Why maintain? Just create a new project with that week's framework.
  - date published: 2022-10-14 04:00:00+00:00
 
 Pre­trained neural net­works have reached the point where they are good enough for many appli­ca­tions with­out fur­ther train­ing.
+

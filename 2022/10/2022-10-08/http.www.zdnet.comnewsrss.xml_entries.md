@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 7 best Android tablets of 2022
  - [https://www.zdnet.com/article/best-android-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-android-tablet/#ftag=RSSbaffb68)
@@ -76,3 +76,4 @@ What is the best cheap meal delivery service? Dinnerly is ZDNET's top choice bec
  - date published: 2022-10-08 03:01:00+00:00
 
 An antenna is a great way to keep up with local news, sports, and entertainment for free. If you don't know which one to get, the Gesobyte amplified digital TV antenna is ZDNET's pick for the best TV antenna. But we compared it to other top antennas so you can figure out which is right for you.
+

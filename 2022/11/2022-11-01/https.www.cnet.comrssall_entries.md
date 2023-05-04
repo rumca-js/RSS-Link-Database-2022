@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## How to Watch 'Glass Onion: A Knives Out Mystery'     - CNET
  - [https://www.cnet.com/culture/entertainment/how-to-watch-glass-onion-a-knives-out-mystery/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/how-to-watch-glass-onion-a-knives-out-mystery/#ftag=CADf328eec)
@@ -755,3 +755,4 @@ Fake Spirit Halloween costumes poke fun at literally everyone.
  - date published: 2022-11-01 00:00:02+00:00
 
 Recap: The Disney Plus series gives us a fresh angle on the Empire's cruelty, along with two familiar faces.
+

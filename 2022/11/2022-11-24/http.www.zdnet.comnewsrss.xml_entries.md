@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 36 best Walmart Black Friday 2022 deals on TVs, iPads, laptops, more
  - [https://www.zdnet.com/article/walmart-black-friday-deals-november-24-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/walmart-black-friday-deals-november-24-2022/#ftag=RSSbaffb68)
@@ -307,3 +307,4 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - date published: 2022-11-24 00:34:18+00:00
 
 Let's talk about what project management is, what tools are available, and how they make you more productive.
+

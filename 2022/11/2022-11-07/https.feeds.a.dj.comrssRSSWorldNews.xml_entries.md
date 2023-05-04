@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## French Cardinal Admits Abusing 14-Year-Old Girl
  - [https://www.wsj.com/articles/french-cardinal-admits-abusing-14-year-old-girl-11667846037](https://www.wsj.com/articles/french-cardinal-admits-abusing-14-year-old-girl-11667846037)
@@ -55,3 +55,4 @@ The climate conference participants face the challenge of building consensus at 
  - date published: 2022-11-07 05:20:00+00:00
 
 The pullback in demand for its goods abroad removes a key prop for China’s growth as its economy is pressured by the government’s zero-Covid strategy and a severe real-estate slump.
+

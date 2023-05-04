@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## BONELAB is Absolutely POPPING OFF
  - [https://www.youtube.com/watch?v=XxfsDJVOlpw](https://www.youtube.com/watch?v=XxfsDJVOlpw)
@@ -32,3 +32,4 @@ TIMESTAMPS:
 11:02 PSVR 2
 11:32 QOTW
 12:09 Outro
+

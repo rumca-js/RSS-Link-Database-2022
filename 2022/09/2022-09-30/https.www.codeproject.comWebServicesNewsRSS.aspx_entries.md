@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 13 open source projects transforming AI and machine learning
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59054](https://www.codeproject.com/script/News/View.aspx?nwid=59054)
@@ -104,3 +104,4 @@ A happy developer is a secure developer
  - date published: 2022-09-30 04:00:00+00:00
 
 "I'm going off the rails on a crazy train"
+

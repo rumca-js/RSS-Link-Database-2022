@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Ron Johnson hits back at Obama calling him 'out of touch'
  - [https://www.dailymail.co.uk/news/article-11375271/Ron-Johnson-hits-Obama-calling-touch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11375271/Ron-Johnson-hits-Obama-calling-touch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1483,3 +1483,4 @@ Like you, I have a brother, in my case born three years before me. His name is A
  - date published: 2022-10-31 00:00:14+00:00
 
 Facial age-estimation technology is being installed on thousands of betting machines in bars, pubs and service stations across the country.
+

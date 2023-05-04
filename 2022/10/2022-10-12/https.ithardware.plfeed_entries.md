@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## PS Plus Extra i PS Plus Premium. Sony ujawniło listę gier na październik
  - [https://ithardware.pl/aktualnosci/ps_plus_extra_i_ps_plus_premium_sony_ujawnilo_liste_gier_na_pazdziernik-23815.html](https://ithardware.pl/aktualnosci/ps_plus_extra_i_ps_plus_premium_sony_ujawnilo_liste_gier_na_pazdziernik-23815.html)
@@ -173,3 +173,4 @@ Przełamanie bariery 100 TFLOPs&oacute;w to niezwykle...
 
 Od jakiegoś czasu spekulowano, że trwają prace nad Fallout New...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/co_z_kontynuacja_fallout_new_vegas_obsidian_odnosi_sie_do_plotek-23799.html">https://ithardware.pl/aktualnosci/
+

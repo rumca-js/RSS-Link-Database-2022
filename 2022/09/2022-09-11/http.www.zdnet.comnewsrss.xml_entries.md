@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The ransomware problem won't get better until we change one thing
  - [https://www.zdnet.com/article/the-ransomware-problem-wont-get-better-until-we-change-one-thing/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-ransomware-problem-wont-get-better-until-we-change-one-thing/#ftag=RSSbaffb68)
@@ -41,3 +41,4 @@ The metaCat is AI-powered. It's the perfect companion. It's lifelike. But what e
  - date published: 2022-09-11 03:06:00+00:00
 
 Looking for a new PS5 game to play? Ghost of Tsushima is a great choice. The attention to incredible visuals and the 45 hours of story content is what makes this PS5 game one of the best on the market. But we found some others worth playing, too.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## How to keep your phone charged and useful in dangerous weather
  - [https://www.washingtonpost.com/technology/2021/08/31/tips-phone-disasters/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2021/08/31/tips-phone-disasters/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ Tech tips to stay in touch, find help and be safe during storms, from getting th
  - date published: 2022-09-24 10:00:59+00:00
 
 The space agency had hoped to launch its rocket and Orion spacecraft to the moon on Tuesday.
+

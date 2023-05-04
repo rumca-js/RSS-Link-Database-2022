@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'They enriched us.' Migrants' 44-hour visit leaves indelible mark on Martha's Vineyard
  - [https://www.cnn.com/2022/09/17/us/marthas-vineyard-migrants-journey-desantis/index.html](https://www.cnn.com/2022/09/17/us/marthas-vineyard-migrants-journey-desantis/index.html)
@@ -203,3 +203,4 @@ CNN's Rosa Flores walks through the path migrants took to get from San Antonio, 
  - date published: 2022-09-17 00:08:25+00:00
 
 Authorities in London are preparing for the largest state funeral in British history, as two million expected mourners - including high-level dignitaries - begin to arrive ahead of the Queen's funeral.
+

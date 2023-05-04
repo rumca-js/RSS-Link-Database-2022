@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Your Cat Knows When You're Using Your 'Cat Talk' Voice
  - [https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518](https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518)
@@ -244,3 +244,4 @@
  - date published: 2022-10-24 02:03:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--DlLg_0LM--/c_fit,fl_progressive,q_80,w_636/da7b12fd3f0a1b2c04be34a7b0ab2667.jpg" /><p>Good news, <a href="https://gizmodo.com/walking-dead-final-season-11-who-dies-zombies-1849610980"><em>Walking Dead</em></a> fans—er, people who have been watching the show so long that they feel compelled to watch it until the end, regardless of how much pleasure <a href="https://gizmodo.com/walking-dead-recap-variant-season-11-episode-19-1849644481
+

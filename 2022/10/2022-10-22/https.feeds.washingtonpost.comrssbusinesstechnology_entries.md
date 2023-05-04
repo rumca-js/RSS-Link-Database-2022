@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## The ‘This American Life’ of ghost stories is captivating Gen Z
  - [https://www.washingtonpost.com/technology/2022/10/22/otherworld-podcast-wagner-ufos-ghosts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/22/otherworld-podcast-wagner-ufos-ghosts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ The "Otherworld" podcast plays to resurgent interest in the supernatural.
  - date published: 2022-10-22 06:00:52+00:00
 
 As protests shake up Iran, the digital news outlet Iran Wire is providing critical insight into the revolt
+

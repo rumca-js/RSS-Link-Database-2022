@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Download eBook: Top virtual CISOs share 7 tips for vCISO service providers
  - [https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html](https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html)
@@ -31,3 +31,4 @@ The
 
 The breach of LA Unified School District (LAUSD) highlights the prevalence of password vulnerabilities, as criminal hackers continue to use breached credentials in increasingly frequent ransomware attacks on education.
 The Labor Day weekend breach of LAUSD brought significant districtwide disruptions to access to email, computers, and applications. It's unclear what student or employee data the
+

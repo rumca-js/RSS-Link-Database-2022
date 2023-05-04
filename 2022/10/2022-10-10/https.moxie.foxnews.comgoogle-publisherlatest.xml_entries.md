@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Biden is a 'political skunk,' Dems can't wash the stink off: Jesse Watters
  - [https://www.foxnews.com/media/biden-political-skunk-dems-cant-wash-stink-off-jesse-watters](https://www.foxnews.com/media/biden-political-skunk-dems-cant-wash-stink-off-jesse-watters)
@@ -1161,3 +1161,4 @@ The Arizona Cardinals couldn't convert a game-tying field goal as time expired, 
  - date published: 2022-10-10 00:03:55+00:00
 
 The Tennessee Titans needed a clutch, late-game interception to secure their win over the Washington Commanders on their final drive of the day Sunday.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Odbicie na Wall Street po sześciu dniach spadków
  - [https://www.bankier.pl/wiadomosc/Odbicie-na-Wall-Street-po-szesciu-dniach-spadkow-8413665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Odbicie-na-Wall-Street-po-szesciu-dniach-spadkow-8413665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -446,3 +446,4 @@ zapewne jeden z punktów zapalnych w psujących się portfelach k
  - date published: 2022-09-28 02:17:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/3/a37acd57cb2497-948-568-0-320-4752-2851.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Co najmniej dwie osoby zginęły w efekcie huraganu Ian, który we wtorek nawiedził Kubę. Największe zniszczenia odnotowano w zachodniej części wyspy, szczególnie w prowincji Pinar del Rio. Żywioł uszkodził sieć elektryczną, pozbawiając cały kraj prądu.</p>
+

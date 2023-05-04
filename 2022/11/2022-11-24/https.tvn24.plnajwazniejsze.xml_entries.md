@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zaczarował. Fenomenalny gol Brazylijczyka
  - [https://eurosport.tvn24.pl/richarlison-zaczarowa---fenomenalny-gol-brazylijczyka,1126115.html?source=rss](https://eurosport.tvn24.pl/richarlison-zaczarowa---fenomenalny-gol-brazylijczyka,1126115.html?source=rss)
@@ -223,3 +223,4 @@
 
 <img alt="Mundial 2022. Jakie mecze w czwartek?" src="https://tvn24.pl/najnowsze/cdn-zdjecie-adjrer-portugalia-zawiodla-ronaldo-czeka-gra-w-barazach/alternates/LANDSCAPE_1280" />
     W akcji zobaczymy między innymi brazylijskie gwiazdy oraz Cristiano Ronaldo.
+

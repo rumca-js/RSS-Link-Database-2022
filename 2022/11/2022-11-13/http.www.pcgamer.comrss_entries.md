@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Dungeons & Dragons Monopoly is a thing now, because of course it is
  - [https://www.pcgamer.com/dungeons-and-dragons-monopoly-is-a-thing-now-because-of-course-it-is](https://www.pcgamer.com/dungeons-and-dragons-monopoly-is-a-thing-now-because-of-course-it-is)
@@ -55,3 +55,4 @@ Time to phone a friend.
  - date published: 2022-11-13 00:51:49+00:00
 
 A medieval murder mystery in manuscript motif.
+

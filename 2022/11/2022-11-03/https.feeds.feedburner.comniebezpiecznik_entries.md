@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Podszył się pod pracownika mBanku i chciał oszukać naszą Czytelniczkę
  - [https://niebezpiecznik.pl/post/podszyl-sie-pod-pracownika-mbanku-i-chcial-oszukac-nasza-czytelniczke/](https://niebezpiecznik.pl/post/podszyl-sie-pod-pracownika-mbanku-i-chcial-oszukac-nasza-czytelniczke/)
@@ -13,3 +13,4 @@
  - date published: 2022-11-03 12:06:30+00:00
 
 <a href="https://niebezpiecznik.pl/post/circuit-breakers-apple-tv/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/11/circuit-breakers-apple-tv-150x150.jpg" width="100" /></a>Ciężko nam w to uwierzyć, ale ktoś w Apple TV wpadł na pomysł, żeby zatytułować nowy serial jako &#8220;Niebezpiecznik&#8220;, czyli tak, jak od ponad 13 lat nazywa się nasz serwis i firma. Nie rozumiemy, jak mogło dojść do tak niefortunnej pomyłki po stronie tak dużej firmy, ale w związku z tym chcieliśmy wszystkich poinformować, że: [&#8230;]
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Jakie skutki miałaby wojna atomowa? Wystarczy spojrzeć na wyniki symulacji
  - [https://www.chip.pl/2022/10/jakie-skutki-mialaby-wojna-atomowa-usa](https://www.chip.pl/2022/10/jakie-skutki-mialaby-wojna-atomowa-usa)
@@ -151,3 +151,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="900" src="https://konto.chip.pl/wp-content/uploads/2022/07/Korea-Poludniowa-dolaczyla-do-elity-Niewielu-panstwom-sie-to-udalo-2.jpg" style="margin-bottom: 10px;" width="1600" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/07/Korea-Poludniowa-dolaczyla-do-elity-Niewielu-panstwom-sie-to-udalo-2.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Wreszcie Korea Południowa zaprezentowała publicznie prototyp swojego własnego myśliwca następnej generacji, KF-21 Boramae (&#8220;Jastrząb&#8221;). Miało to miejsce podczas czterodniowego wydarzenia Sacheon Air Show w bazie lotniczej w Sacheon i było dosyć szczególnym wydarzeniem, bo ten południowokoreański myśliwiec nowej generacji powstał lokalnie. KF-21 to południowokoreański myśliwiec nowej generacji, który właśnie został pokazany publicznie KF-21 jest jednym [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Andor' Creator Promises Star Wars Show Will Reveal Luthen Rael's Past     - CNET
  - [https://www.cnet.com/culture/entertainment/andor-mastermind-promises-star-wars-show-will-reveal-luthen-raels-past/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-mastermind-promises-star-wars-show-will-reveal-luthen-raels-past/#ftag=CADf328eec)
@@ -839,3 +839,4 @@ Carbon emissions, extreme drivers of global warming, remain at record levels whi
  - date published: 2022-11-11 00:00:04+00:00
 
 Smart scales can provide metrics beyond your weight. These are our top picks for home use.
+

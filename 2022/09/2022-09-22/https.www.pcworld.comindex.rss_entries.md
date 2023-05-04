@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Asus TUF Gaming VG289Q: 4K on a budget
  - [https://www.pcworld.com/article/803583/asus-tuf-gaming-vg289q-review.html](https://www.pcworld.com/article/803583/asus-tuf-gaming-vg289q-review.html)
@@ -76,3 +76,4 @@
 
 
 <p>But when you&rsquo;re on a laptop or desktop PC and already furiously typing away, don&rsquo;t count out the value of those keyboard shortcuts. Tapping a few keys is usually much faster. The extra few seconds (
+

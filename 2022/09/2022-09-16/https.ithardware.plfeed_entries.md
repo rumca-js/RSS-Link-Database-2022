@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Ruszyło czyszczenie magazynów. Sklepy łączą GPU z innym sprzętem, tylko szkoda, że nie u nas...
  - [https://ithardware.pl/aktualnosci/ruszylo_czyszczenie_magazynow_sklepy_lacza_gpu_z_innym_sprzetem_tylko_szkoda_ze_nie_u_nas-23341.html](https://ithardware.pl/aktualnosci/ruszylo_czyszczenie_magazynow_sklepy_lacza_gpu_z_innym_sprzetem_tylko_szkoda_ze_nie_u_nas-23341.html)
@@ -217,3 +217,4 @@ Call of Duty zwiększy swoją obecność na...
 
 <img src="https://ithardware.pl/artykuly/min/23319_1.jpg" />            Najnowszy głośnik Bluetooth od tego producenta wyr&oacute;żnia się 5 r&oacute;żnymi trybami iluminacji i 30 W mocy dook&oacute;lnego dźwięku. Wodoodporny głośnik jest ładowany przez złącze USB-C i może grać nieprzerwanie przez 12...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/hama_prezentuje_glosnik_mobilny_shine_2_0-23319.html">https://ithardware.pl/aktualnosci/hama_prezentuje_glosnik_mobil
+

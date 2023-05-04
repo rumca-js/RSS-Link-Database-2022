@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## Kanye Channels Sinéad: BLM & Internet ERUPTS in FURY
  - [https://www.youtube.com/watch?v=6ivAipI9AB8](https://www.youtube.com/watch?v=6ivAipI9AB8)
@@ -56,3 +56,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your-retirement/
 
 #kanyewest #blm #sineadoconnor
+

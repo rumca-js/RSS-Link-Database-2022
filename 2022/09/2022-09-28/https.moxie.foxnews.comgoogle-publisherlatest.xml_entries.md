@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## US Capitol Police arrest two suspects in Union Station shooting that left one injured
  - [https://www.foxnews.com/us/us-capitol-police-arrest-two-suspects-union-station-shooting-left-one-injured](https://www.foxnews.com/us/us-capitol-police-arrest-two-suspects-union-station-shooting-left-one-injured)
@@ -1273,3 +1273,4 @@ The 2023 Ford F-Series Super Duty lineup has been revealed, and Ford claims it w
  - date published: 2022-09-28 00:00:00+00:00
 
 Fox News host Jesse Watters shreds the Democratic Party over their handling of the crisis at the southern border on "Jesse Watters Primetime."
+

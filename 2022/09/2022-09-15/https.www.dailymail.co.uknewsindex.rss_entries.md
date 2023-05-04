@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## RICHARD KAY: Tall Paul... keeper of the Queen's secrets
  - [https://www.dailymail.co.uk/news/article-11216865/RICHARD-KAY-Tall-Paul-keeper-Queens-secrets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11216865/RICHARD-KAY-Tall-Paul-keeper-Queens-secrets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1743,3 +1743,4 @@ Michael Fagan broke into Buckingham Palace in 1982, entering the Queen's bedroom
  - date published: 2022-09-15 00:09:36+00:00
 
 DAILY MAIL COMMENT: Even in a country with a history as long, distinguished and glorious as ours, barely a day can have pulsated with such intensity and emotion.
+

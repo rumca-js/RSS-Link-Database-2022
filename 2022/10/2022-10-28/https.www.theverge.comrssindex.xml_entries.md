@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Apple’s first unionized workers say the company is withholding new benefits
  - [https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract](https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract)
@@ -608,3 +608,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/27/23427453/twitter-employees-wait-for-elon-musk-takeover-to-close">Continue reading&hellip;</a>
   </p>
+

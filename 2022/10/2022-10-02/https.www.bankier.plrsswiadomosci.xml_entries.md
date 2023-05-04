@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Szef MEiN pytany o ceny energii dla uczelni. "Nie widzę żadnego zagrożenia"
  - [https://www.bankier.pl/wiadomosc/Szef-MEiN-pytany-o-ceny-energii-dla-uczelni-Nie-widze-zadnego-zagrozenia-8415939.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Szef-MEiN-pytany-o-ceny-energii-dla-uczelni-Nie-widze-zadnego-zagrozenia-8415939.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -162,3 +162,4 @@
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/2/9a10890e847440-948-568-0-0-1000-600.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Piesi
 oraz rowerzyści (zwłaszcza młodzi) dość często korzystają ze słuchawek. Wyjaśniamy,
 jak taka sytuacja może wpływać na wysokość odszkodowania za wypadek.</p>
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Swarzędz. Zabrakło wolnej karetki, na pomoc czterolatce ruszyli strażacy i LPR. Nie udało się jej uratować
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29166677,swarzedz-zabraklo-wolnej-karetki-na-pomoc-czterolatce-ruszyli.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29166677,swarzedz-zabraklo-wolnej-karetki-na-pomoc-czterolatce-ruszyli.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -125,3 +125,4 @@
  - date published: 2022-11-21 05:33:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/03/3c/1b/z28560643M,Policja---zdjecie-ilustracyjne.jpg" vspace="2" />Trwa wyjaśnianie okoliczności wypadku, do którego doszło w niedzielę wieczorem we Wrocławiu. W wyniku zderzenia z samochodem autokar wycieczkowy wjechał w przejście podziemne. Zginął kierowca pojazdu.
+

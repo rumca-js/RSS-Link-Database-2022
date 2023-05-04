@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Reporter on MSNBC says migrants 'not angry at DeSantis,' but are thanking him for Martha's Vineyard flight
  - [https://www.foxnews.com/media/reporter-msnbc-immigrants-not-angry-desantis-thanking-marthas-vineyard-flight](https://www.foxnews.com/media/reporter-msnbc-immigrants-not-angry-desantis-thanking-marthas-vineyard-flight)
@@ -1294,3 +1294,4 @@ Gov. Gavin Newsom was called out for blasting Governors Ron DeSantis and Greg Ab
  - date published: 2022-09-16 00:15:22+00:00
 
 A homeless coordinator on Martha's Vineyard said the island doesn't have the resources to take care of migrants flown from Florida.
+

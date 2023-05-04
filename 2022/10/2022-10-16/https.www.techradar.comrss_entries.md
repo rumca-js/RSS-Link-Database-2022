@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## The Rings of Power season 2 may tackle the One Ring's creation
  - [https://www.techradar.com/news/the-rings-of-power-season-2-may-tackle-the-one-rings-creation/](https://www.techradar.com/news/the-rings-of-power-season-2-may-tackle-the-one-rings-creation/)
@@ -41,3 +41,4 @@ A new version of DirectStorage makes an important improvement, but there’s an 
  - date published: 2022-10-16 09:30:23+00:00
 
 We have fresh information about Apple's range of tablets, and it comes from a reliable source.
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Andor first impressions: Star Wars inches toward the best of modern adult TV
  - [https://arstechnica.com/?p=1883626](https://arstechnica.com/?p=1883626)
@@ -146,3 +146,4 @@ Designers don't run car companies, so what's the business reason behind it?
  - date published: 2022-09-21 11:30:15+00:00
 
 "These fish literally have their hearts in their mouths and under their gills."
+

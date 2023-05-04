@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Zastępczyni szefa Pentagonu odwiedzi Polskę i Turcję. Tematem Ukraina
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zastepczyni-szefa-pentagonu-odwiedzi-polske-i-turcje-tematem,nId,6393898](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zastepczyni-szefa-pentagonu-odwiedzi-polske-i-turcje-tematem,nId,6393898)
@@ -303,3 +303,4 @@
  - date published: 2022-11-06 04:53:31+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-czy-6-listopada-to-niedziela-handlowa-odpowiadamy,nId,6387475"><img align="left" alt="Czy 6 listopada to niedziela handlowa? Odpowiadamy" src="https://i.iplsc.com/czy-6-listopada-to-niedziela-handlowa-odpowiadamy/000GAFOQ59WTGP8Y-C321.jpg" /></a>W Polsce zakaz handlu obowiązuje w większość niedziel w roku. Kilka wyjątków w kalendarzu zostało zaplanowanych tak, aby Polacy mogli zrobić zakupy przed ważnymi świętami lub istotnymi wydarzeniami. Sprawdź, czy 6 listopada to niedziela handlowa i kiedy jeszcze będzie można zrobić zakupy w niedziele w 2022 roku?</p><br clear="all" />
+

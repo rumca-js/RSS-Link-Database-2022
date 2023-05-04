@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Aż 60% ofiar ataków ransomware mogło zapłacić okup przestępcom
  - [https://niebezpiecznik.pl/post/60-ofiar-atakow-ransomware-moglo-zaplacic-okup-przestepcom/](https://niebezpiecznik.pl/post/60-ofiar-atakow-ransomware-moglo-zaplacic-okup-przestepcom/)
@@ -20,3 +20,4 @@
  - date published: 2022-11-04 08:41:04+00:00
 
 <a href="https://niebezpiecznik.pl/post/uwaga-programisci-wiele-bibliotek-pythona-zostalo-zainfekowanych/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/11/python-chain-150x150.png" width="100" /></a>Przestępcy próbują zainfekować komputery programistów trojanem W4SP Stealer. Jego ślady znaleziono w kilkunastu paczkach PyPI. Złośliwe i ukryte instrukcje import Wstrzykiwanie złośliwego kodu w mniejsze (i mniej znane) biblioteki, ale takie, które wykorzystywane są jako zależności do innych programach to znana technika, tzw. supply chain attack. Okazuje się, że od połowy października ktoś regularnie próbuje w [&#8230;]
+

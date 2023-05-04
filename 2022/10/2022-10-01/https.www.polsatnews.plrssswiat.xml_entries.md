@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Ukraina. Kyryło Budanow: Wojna nie potrwa długo, wrócimy do granic z 1991 roku
  - [https://www.polsatnews.pl/wiadomosc/2022-10-01/ukraina-kyrylo-budanow-wojna-nie-potrwa-dlugo-wrocimy-do-granic-z-1991-roku/](https://www.polsatnews.pl/wiadomosc/2022-10-01/ukraina-kyrylo-budanow-wojna-nie-potrwa-dlugo-wrocimy-do-granic-z-1991-roku/)
@@ -118,3 +118,4 @@ Federalna rosyjska agencja zamawia tabletki z jodkiem potasu, a na złożenie of
  - date published: 2022-10-01 04:54:00+00:00
 
 Korea Północna wystrzeliła w sobotę dwie rakiety balistyczne krótkiego zasięgu. Pociski spadły do Morza Japońskiego przy wschodnim wybrzeżu kraju. Armia Korei Południowej poinformowała, że w tym tygodniu odnotowano już cztery starty rakiet Pjongjangu.
+

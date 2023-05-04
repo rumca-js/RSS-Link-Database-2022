@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Analiza ISW. Amerykańscy eksperci prognozują dalsze kroki Ukrainy: Chersoń to nie będzie ostatnie zwycięstwo
  - [https://tvn24.pl/swiat/instytut-badan-nad-wojna-isw-ukrainskie-zwyciestwo-w-chersoniu-nie-bedzie-ostatnie-6215959?source=rss](https://tvn24.pl/swiat/instytut-badan-nad-wojna-isw-ukrainskie-zwyciestwo-w-chersoniu-nie-bedzie-ostatnie-6215959?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Prezydent Andrzej Duda wręczył odznaczenia państwowe. Wśród uhonorowanych ojciec Jacek Salij " src="https://tvn24.pl/najnowsze/cdn-zdjecie-of8mc0-prezydent-rp-andrzej-duda-oraz-ojciec-jacek-salij-6215958/alternates/LANDSCAPE_1280" />
     Prezydent Andrzej Duda odznaczył Orderem Orła Białego dominikanina, teologa i pisarza ojca Jacka Salija. Prezydent podczas uroczystości w Belwederze wyróżnił też Krzyżem Wielkim Orderu Odrodzenia Polski satyryka Jana Pietrzaka oraz księdza Jana Sikorskiego.
+

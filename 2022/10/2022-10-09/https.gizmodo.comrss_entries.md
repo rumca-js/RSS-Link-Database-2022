@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Titans' Season 4 Trailer Welcomes a Bloody New Foe
  - [https://gizmodo.com/titans-season-4-trailer-hbo-max-brother-blood-dc-comics-1849627758](https://gizmodo.com/titans-season-4-trailer-hbo-max-brother-blood-dc-comics-1849627758)
@@ -83,3 +83,4 @@
  - date published: 2022-10-09 00:10:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0LypSNiF--/c_fit,fl_progressive,q_80,w_636/24e73de959b75fab8bbc9962ffb8290d.jpg" /><p>Just in time for spooky season, NYCC got a little visit from our favorite member of the Addams family. Tim Burton’s<a href="https://gizmodo.com/wednesday-addams-new-teaser-trailer-netflix-tim-burton-1849423281"> <em>Wednesday</em> </a>series from Netflix stars Jenna Ortega in the title role, with Catherine Zeta-Jones as Morticia, Luis Guzman as Gome
+

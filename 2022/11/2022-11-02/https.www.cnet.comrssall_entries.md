@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Stranger Things': Creel House Is for Sale for $1.5 Million     - CNET
  - [https://www.cnet.com/culture/entertainment/stranger-things-creel-house-is-for-sale-for-1-5-million/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/stranger-things-creel-house-is-for-sale-for-1-5-million/#ftag=CADf328eec)
@@ -804,3 +804,4 @@ Former parts buyer engaged in theft, taking kickbacks and inflating invoices, pr
  - date published: 2022-11-02 00:00:03+00:00
 
 Recap: The Disney Plus series gives us a fresh angle on the Empire's long-term cruelty, along with a pair of familiar faces.
+

@@ -1,4 +1,4 @@
-# Source Washington Examiner - world, Source URL:https://feeds.feedburner.com/dcexaminer/WorldNews, Source language: en-US
+# Source:Washington Examiner - world, URL:https://feeds.feedburner.com/dcexaminer/WorldNews, language:en-US
 
 ## Global population surpasses eight billion for first time
  - [https://www.washingtonexaminer.com/news/global-population-surpasses-eight-billion-first-time](https://www.washingtonexaminer.com/news/global-population-surpasses-eight-billion-first-time)
@@ -13,3 +13,4 @@ For the first time ever, the living human population blew past eight billion peo
  - date published: 2022-11-15 18:39:35+00:00
 
 The global average sperm count decreased over 50% in the last 49 years, adding to concerns some have regarding the depopulation on Earth.
+

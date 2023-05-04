@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The best Black Friday Google deals you can get
  - [https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast](https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast)
@@ -567,3 +567,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks">Continue reading&hellip;</a>
   </p>
+

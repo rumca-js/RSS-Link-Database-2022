@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## A pair of Rust kernel modules
  - [https://lwn.net/Articles/907685/](https://lwn.net/Articles/907685/)
@@ -224,7 +224,6 @@
  - [https://news.ycombinator.com/item?id=32942635](https://news.ycombinator.com/item?id=32942635)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 18:16:42+00:00
- - tags: shadowban
 
 <p>Sharing this funny story so that people won't feel alone when it happen to them.<p>It seems my first and only reddit account created two hours ago is shadow-banned since the very beginning, tried one comment on /r/cpp and one post on /r/rust, nobody ever seen them other than one kind mod that confirmed there's nothing they can do.<p>Even funnier is that there is a subreddit /r/ShadowBan dedicated to test shadowban and some obvious spam-bot accounts are not banned yet mine is.<p>related:
 [1] h
@@ -593,3 +592,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32933603">https://news.ycombinator.com/item?id=32933603</a></p>
 <p>Points: 22</p>
 <p># Comments: 8</p>
+

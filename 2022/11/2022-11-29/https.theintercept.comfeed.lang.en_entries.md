@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Why Queer Communities Are Welcoming Armed Anti-Fascist Protection
  - [https://theintercept.com/2022/11/29/club-q-lgbtq-armed-self-defense/](https://theintercept.com/2022/11/29/club-q-lgbtq-armed-self-defense/)
@@ -47,3 +47,4 @@
 
 <p>Pennsylvania lawmakers accused Philadelphia District Attorney Larry Krasner of causing a crime “crisis.”</p>
 <p>The post <a href="https://theintercept.com/2022/11/29/deconstructed-larry-krasner-impeach/" rel="nofollow">Philly’s Reform Prosecutor Reacts to His Impeachment</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

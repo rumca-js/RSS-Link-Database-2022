@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Corsair wprowadza do oferty klawiaturę K60 PRO TKL i nowe produkty z rodziny K70 PRO
  - [https://ithardware.pl/aktualnosci/corsair_wprowadza_do_oferty_klawiature_k60_pro_tkl_i_nowe_produkty_z_rodziny_k70_pro-23276.html](https://ithardware.pl/aktualnosci/corsair_wprowadza_do_oferty_klawiature_k60_pro_tkl_i_nowe_produkty_z_rodziny_k70_pro-23276.html)
@@ -203,3 +203,4 @@ Pr&oacute;bki...
 
 <img src="https://ithardware.pl/artykuly/min/23255_1.jpg" />            Niestety Ubisoft postanowił dołączyć do grona wydawc&oacute;w, kt&oacute;rzy zdecydowali się podnieść ceny swoich gier. Wkr&oacute;tce firma zacznie sprzedawać swoje tytuły za 69,99 USD za wszystkie przyszłe duże gry AAA na nowszych systemach...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/ubisoft_kolejnym_wydawca_ktory_podnosi_ceny_swoich_gier-23255.html">https://ithardware.pl/aktualnosci/ub
+

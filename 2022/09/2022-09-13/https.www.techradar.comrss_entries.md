@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## God of War Ragnarok trailer teases Fenrir may be your wolf companion
  - [https://www.techradar.com/news/god-of-war-ragnarok-closes-state-of-play-with-action-packed-new-trailer/](https://www.techradar.com/news/god-of-war-ragnarok-closes-state-of-play-with-action-packed-new-trailer/)
@@ -314,3 +314,4 @@ The cost of a battery replacement for an iPhone 14 phone is a lot higher than it
  - date published: 2022-09-13 02:00:24+00:00
 
 A&amp;K's new baby is the world’s first portable player with a watch-grade 904L stainless steel body.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Media: dziewięć lotów rosyjskich transportowców z Chin do Rosji; mogą przewozić ładunki wojskowe
  - [https://www.bankier.pl/wiadomosc/Media-dziewiec-lotow-rosyjskich-transportowcow-z-Chin-do-Rosji-moga-przewozic-ladunki-wojskowe-8446831.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-dziewiec-lotow-rosyjskich-transportowcow-z-Chin-do-Rosji-moga-przewozic-ladunki-wojskowe-8446831.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -175,3 +175,4 @@ Gospodarcza ds. Ameryki Łacińskiej i Karaibów (CEPAL).</p>
  - date published: 2022-11-27 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/f/caf5efc5dd5eaf-948-568-0-223-3888-2332.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Polacy wydadzą średnio o 30 proc. więcej, ale kupią mniej. Cięcia dotkną wyjazdów i prezentów - pisze "Rzeczpospolita".</p>
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 78% of business professionals are up for meetings in the metaverse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59039](https://www.codeproject.com/script/News/View.aspx?nwid=59039)
@@ -97,3 +97,4 @@ Ubuntu Touch offers a compelling mobile operating system for tech-savvy users. L
  - date published: 2022-09-29 04:00:00+00:00
 
 Today LeanCode is open-sourcing Patrol — a new Flutter-first UI testing framework that revolutionizes the way we test our Flutter apps.
+

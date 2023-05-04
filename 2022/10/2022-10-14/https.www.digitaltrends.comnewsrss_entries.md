@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This new leak spells bad news for AMD Radeon RX 7000
  - [https://www.digitaltrends.com/computing/amd-rdna-3-gpu-may-not-beat-nvidia/](https://www.digitaltrends.com/computing/amd-rdna-3-gpu-may-not-beat-nvidia/)
@@ -27,3 +27,4 @@ The GeForce RTX 4090 is the latest hot thing to get snatched up by scalpers and 
  - date published: 2022-10-14 07:07:35.706833+00:00
 
 With living costs on the rise, people are looking for ways to save on things like energy bills. Work-from-pub deals could be one solution.
+

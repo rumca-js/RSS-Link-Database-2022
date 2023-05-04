@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Texas Attorney General Ken Paxton Is a Linchpin of the Right-Wing Judicial Strategy
  - [https://theintercept.com/2022/11/08/texas-attorney-general-ken-paxton-brackeen/](https://theintercept.com/2022/11/08/texas-attorney-general-ken-paxton-brackeen/)
@@ -15,3 +15,4 @@
 
 <p>Ellison’s attorney general’s office successfully prosecuted George Floyd killer Derek Chauvin. Now, in a tight race, the cops are gunning for him.</p>
 <p>The post <a href="https://theintercept.com/2022/11/08/keith-ellison-police-unions/" rel="nofollow">Will Police Money Tip Minnesota Attorney General Race Against Keith Ellison?</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

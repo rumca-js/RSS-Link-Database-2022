@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Pod Bachmutem Ukraińcy zestrzelili rosyjski samolot
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-pod-bachmutem-ukraincy-zestrzelili-rosyjski-samolot,nId,6388180](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-pod-bachmutem-ukraincy-zestrzelili-rosyjski-samolot,nId,6388180)
@@ -635,3 +635,4 @@
  - date published: 2022-11-03 04:34:33+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-253-dzien-inwazji-rosji-relacja-na-zywo,nzId,3314,akt,030749"><img align="left" alt="Wojna w Ukrainie. 253. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-253-dzien-inwazji-rosji-relacja-na-zywo/000G9WC6NNCPN2DQ-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

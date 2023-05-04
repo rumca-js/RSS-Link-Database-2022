@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Larry Page’s Kitty Hawk air taxi startup is shutting down
  - [https://www.engadget.com/kittyhawk-is-shutting-down-214542598.html?src=rss](https://www.engadget.com/kittyhawk-is-shutting-down-214542598.html?src=rss)
@@ -181,3 +181,4 @@
  - date published: 2022-09-21 03:55:10+00:00
 
 <p><a href="https://www.engadget.com/twitch-charity-closed-beta-153054186.html">Twitch</a> has <a href="https://twitter.com/Twitch/status/1572347129192132611">announced</a> a significant change to its policy amidst rising concerns about the presence of gambling streams on the platform. On Twitter, Twitch said it will prohibit the streaming of gambling websites that feature slots, roulette and dice games unlicensed in the US and other regions that &quot;provide sufficient consumer protection.&quo
+

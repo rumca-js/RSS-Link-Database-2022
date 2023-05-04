@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## ASP.Net Core Course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59475](https://www.codeproject.com/script/News/View.aspx?nwid=59475)
@@ -125,3 +125,4 @@ The greatest beneficiaries of AI are IT professionals themselves, latest IBM sur
  - date published: 2022-11-11 05:00:00+00:00
 
 This week Matter finally became official with the announcement of many launch devices and additional information on the future of the unifying smart home standard.
+

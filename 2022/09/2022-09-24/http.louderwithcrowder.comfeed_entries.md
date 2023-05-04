@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## New Jersey will punish schools, teachers who refuse mandate to teach middle school kids about anal: report
  - [https://www.louderwithcrowder.com/new-jersey-new-guidelines](https://www.louderwithcrowder.com/new-jersey-new-guidelines)
@@ -20,3 +20,4 @@
  - date published: 2022-09-24 12:20:41+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31816065&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C24%2C0" /><br /><br /><p>It's a shame Doocy is the only White House reporter who holds the White House accountable for the words coming out of Karine Jean Pierre's mouth. Exhibit Z is KJP dodging a simple abortion question before going to another reporter. At issue is Sen. Lindsey Graham's "national ban" on abortion after fifteen weeks. The WH is lying that it out
+

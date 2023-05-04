@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'Go Get Him Santa!': Watch Santa Claus and a gun-toting elf supplex, take down a car thief
  - [https://www.louderwithcrowder.com/santa-claus-car-thief-supplex](https://www.louderwithcrowder.com/santa-claus-car-thief-supplex)
@@ -71,3 +71,4 @@
 	In the latest edition of "Change My Mind," <a href="https://podcasts.apple.com/us/podcast/louder-with-crowder/id929121341" target="_blank">Steven Crowder</a> spoke with Gabriella, a partially-deaf lady, and had a civil discussion about an extremely polarizing topic — gender ideology. In this clip, Crowder and Gabriella engaged in a warm-hearted conversation and proved that two people can vastly disagree but still come together to discuss a complex topic without yelling, screaming, or calling each other names.
 </p><p>
 	In this video, Gabriella argued that the terms gender and sex mean two different things.  But Crowder made the case that considering sex and gender separate is a modern way of approaching the topic and that the left is inconsistent in the way men and women are defined throughout society. Watch the clip to witness this polarizing topic discussed with empathy and care.</p><p>Download the podcast <a href="https://podcasts.apple.com/us/podcast/louder-with-crowder/id929121341" target="_blank">here.</a></p><h3></h3><br /><span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span><h3><strong>Want more from Steven Crowder?</strong></h3><p>To enjoy more of Steven’s uncensored late-night comedy that’s actually funny, <a href="https://get.blazetv.com/lwc/?utm_source=theblaze&amp;utm_medium=referral&amp;utm_campaign=article_shortcode&amp;utm_term=crowder&amp;utm_content=crowder-subscribe-to-BlazeTV-link-090419-theblaze" target="_blank">join Mug Club</a> — the only place for all of Crowder uncensored and on demand.</p>
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Fiido L3 e-bike review: Comfortable city commuting for a week on a single charge
  - [https://www.zdnet.com/article/fiido-l3-electric-bike-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/fiido-l3-electric-bike-review/#ftag=RSSbaffb68)
@@ -167,3 +167,4 @@ Looking for the brightest flashlight? ZDNET's top picks feature flashlights with
  - date published: 2022-10-17 02:13:00+00:00
 
 Do you tire of having to be plug adjacent because your laptop's battery life is average? Thankfully, these best battery life laptops provide the juice you need to get your work or studies done without the power cord tether.
+

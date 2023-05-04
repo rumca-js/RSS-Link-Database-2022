@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Twitter's lawyers say Elon Musk wanted out of the deal because of 'World War 3,' not bots
  - [https://www.engadget.com/twitter-musk-hearing-whistleblower-230213240.html?src=rss](https://www.engadget.com/twitter-musk-hearing-whistleblower-230213240.html?src=rss)
@@ -111,3 +111,4 @@
  - date published: 2022-09-06 02:34:10+00:00
 
 <p>One of the first images taken by the <a href="https://www.engadget.com/james-webb-space-telescope-chorizo-photo-222957990.html">James Webb Telescope</a> that was released by NASA was the &quot;sharpest infrared image of the distant universe to date.&quot; It's a wondrous photo showing a detailed cluster of galaxies. It's also currently being used by bad actors <a href="https://www.popsci.com/technology/webb-telescope-photo-complex-malware/?taid=631270f6eaccd20001aad768">to infect systems with
+

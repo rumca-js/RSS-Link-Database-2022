@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The weekend’s best deals: Buy two get one free video games, Razer Blade, Apple, GoPro and more
  - [https://arstechnica.com/?p=1895882](https://arstechnica.com/?p=1895882)
@@ -34,3 +34,4 @@ Satellite monitors found 2 vessels with their trackers turned off in area of exp
  - date published: 2022-11-12 12:00:46+00:00
 
 A lower price makes this mostly unchanged device much more appealing.
+

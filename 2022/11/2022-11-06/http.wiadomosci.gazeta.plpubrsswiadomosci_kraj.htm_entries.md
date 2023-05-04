@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Jest Europejski Nakaz Aresztowania dla Ingebrigta G.
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29111983,jest-europejski-nakaz-aresztowania-dla-ingebrigta-g.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29111983,jest-europejski-nakaz-aresztowania-dla-ingebrigta-g.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-11-06 09:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/d9/c3/1b/z29110489M,Zaginiona-Mia-odnaleziona.jpg" vspace="2" />Pięcioletnia Mia przebywa pod opieką duńskich służb. Jak wynika z informacji RMF FM, ruszyła już procedura ekstradycyjna o wydanie zatrzymanego mężczyzny - ojca dziewczynki.
+

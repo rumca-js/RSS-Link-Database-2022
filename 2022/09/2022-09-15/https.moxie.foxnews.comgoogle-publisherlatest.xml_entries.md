@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Karine Jean-Pierre, Kamala Harris ripped for saying border ‘secure:’ ‘Disrespectful to everyone with a brain’
  - [https://www.foxnews.com/media/karine-jean-pierre-kamala-harris-ripped-saying-border-secure-disrespectful-everyone-brain](https://www.foxnews.com/media/karine-jean-pierre-kamala-harris-ripped-saying-border-secure-disrespectful-everyone-brain)
@@ -1231,3 +1231,4 @@ The Cardinals' Adam Wainwright and Yadier Molina were the starting pitcher and c
  - date published: 2022-09-15 00:07:31+00:00
 
 Jonathan Turley discusses the latest developments in the Durham probe and the FBI hiring an informant with ties to the debunked dossier on "Special Report."
+

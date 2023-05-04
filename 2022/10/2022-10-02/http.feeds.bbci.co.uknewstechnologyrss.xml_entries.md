@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Can electrical stimulation improve your gym workout?
  - [https://www.bbc.co.uk/news/business-62887379?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62887379?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Whole-body EMS suits are the new big thing in fitness, but do they work?
  - date published: 2022-10-02 06:21:52+00:00
 
 Powers were granted for some after her murderer was found with imagery on his computer.
+

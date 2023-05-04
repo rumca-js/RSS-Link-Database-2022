@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## This beginner-friendly Python training bundle is just $40 for a limited time
  - [https://www.zdnet.com/article/this-beginner-friendly-python-training-bundle-is-just-40-for-a-limited-time/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-beginner-friendly-python-training-bundle-is-just-40-for-a-limited-time/#ftag=RSSbaffb68)
@@ -62,3 +62,4 @@ At AI Day 2022, we got our first look at the Tesla robot and Elon Musk explained
  - date published: 2022-10-01 00:24:00+00:00
 
 Today, Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about.
+

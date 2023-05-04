@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Two 16-year-old boys fatally stabbed about mile apart in south-east London
  - [https://www.theguardian.com/uk-news/2022/nov/26/two-16-year-old-boys-fatally-stabbed-about-mile-apart-in-south-east-london](https://www.theguardian.com/uk-news/2022/nov/26/two-16-year-old-boys-fatally-stabbed-about-mile-apart-in-south-east-london)
@@ -797,3 +797,4 @@
  - date published: 2022-11-26 00:00:11+00:00
 
 <p><strong>From liberation in Ukraine to food for the festive season, the best original photographs from the Observer commissioned in November 2022</strong></p> <a href="https://www.theguardian.com/artanddesign/gallery/2022/nov/26/original-observer-photography">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Add 'Diplomacy' to the list of games AI can play as well as humans
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59588](https://www.codeproject.com/script/News/View.aspx?nwid=59588)
@@ -90,3 +90,4 @@ Just ignore all invoices to be safe
  - date published: 2022-11-23 05:00:00+00:00
 
 Not to be confused with Windows 11 22H2, or the Hummer H2
+

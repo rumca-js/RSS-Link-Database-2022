@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Jake Gyllenhaal discusses Patrick Swayze's 'Road House' remake: 'Big shoes to fill'
  - [https://www.foxnews.com/entertainment/jake-gyllenhaal-patrick-swayzes-road-house-remake-big-shoes-fill](https://www.foxnews.com/entertainment/jake-gyllenhaal-patrick-swayzes-road-house-remake-big-shoes-fill)
@@ -235,7 +235,6 @@ Two mental health patients drowned in 2018 when the van that was carrying them w
  - [https://www.foxnews.com/politics/judge-rules-jen-psaki-sit-deposition-lawsuit-collusion-big-tech-censor-speech](https://www.foxnews.com/politics/judge-rules-jen-psaki-sit-deposition-lawsuit-collusion-big-tech-censor-speech)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-21 20:42:05+00:00
- - tags: white house,jen psaki,big tech,censorship,social media
 
 A federal judge ruled Monday that former White House press secretary Jen Psaki must offer deposition in lawsuit claiming she helped the WH collude with Big Tech to censor speech.
 
@@ -1078,3 +1077,4 @@ The Buffalo Bills avoided a three-game slide on Sunday with a solid performance 
  - date published: 2022-11-21 00:04:54+00:00
 
 The New Orleans Saints, led by quarterback Andy Dalton, handed the Los Angeles Rams their fourth straight loss in a 27-20 win on Sunday at home.
+

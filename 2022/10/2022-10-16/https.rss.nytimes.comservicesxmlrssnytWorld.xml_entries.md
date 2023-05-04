@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Strikes Hit Staging Ground for Troops in Russia’s Border Region
  - [https://www.nytimes.com/2022/10/16/world/europe/ukraine-russia-belgorod-donetsk.html](https://www.nytimes.com/2022/10/16/world/europe/ukraine-russia-belgorod-donetsk.html)
@@ -88,7 +88,6 @@ Mr. Xi signaled that little would change on tech policy, as he emphasized intern
  - [https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html](https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-16 08:30:25+00:00
- - tags: covid,china,covid zero
 
 Xi Jinping doubled down on the idea that the measures have saved lives and vowed to continue the stringent set of policies.
 
@@ -133,3 +132,4 @@ On Sunday, Xi Jinping, China’s top leader, skipped the opportunity to note the
  - date published: 2022-10-16 00:04:57+00:00
 
 The service has been crucial for communications in Ukraine’s army as it advances into territory occupied by Russia.
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## China's electric car market is booming but can it last?
  - [https://www.bbc.co.uk/news/business-62825830?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62825830?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Cheap electric cars are selling fast but the end of subsidies could end the sale
  - date published: 2022-10-10 13:52:09+00:00
 
 Users say the rides triggered the phones' crash detection system, US media reports.
+

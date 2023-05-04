@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Why George Clooney says he wanted to direct instead of act in films
  - [https://www.cnn.com/videos/entertainment/2022/10/11/george-clooney-actors-too-much-credit-sot-wtcw-cprog-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/10/11/george-clooney-actors-too-much-credit-sot-wtcw-cprog-vpx.cnn)
@@ -573,3 +573,4 @@ In the midst of Russian missile strikes in Kyiv, Ukrainian parliament member Inn
  - date published: 2022-10-11 00:00:12+00:00
 
 The Nobel in economics is sort of the step-cousin of the Nobel family.
+

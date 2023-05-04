@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## World Series 2022 Game 1: Philadelphia Phillies v Houston Astros – live
  - [https://www.theguardian.com/sport/live/2022/oct/29/world-series-2022-game-1-philadelphia-phillies-v-houston-astros-live](https://www.theguardian.com/sport/live/2022/oct/29/world-series-2022-game-1-philadelphia-phillies-v-houston-astros-live)
@@ -720,3 +720,4 @@
  - date published: 2022-10-28 02:00:15+00:00
 
 <p>Incident has split China watchers with some saying former leader was unwell and others it was political purge by Xi Jinping</p><p>After eight days of China’s most important political meeting, in which the autocratic leader Xi Jinping’s precedent-breaking third term was confirmed, belligerent foreign policy reaffirmed, and the leader of the world’s largest population and second-largest economy announced through the next five years, one question was on everyone’s lips: what on earth happened to Hu Jintao and where is he now?</p><p>The drama happened on Saturday morning. In a short window between foreign media being allowed into Beijing’s Great Hall and the start of the final public meeting of the 20th party congress, the former Chinese leader Hu <a href="https://www.theguardian.com/world/2022/oct/22/former-chinese-president-hu-jintao-unexpectedly-led-out-of-party-congress">was physically removed from his seat next to his successor, Xi</a>, and out of the Great Hall of the People.</p> <a href="https://www.theguardian.com/world/2022/oct/28/china-hu-jintao-removal-20th-party-congress-suspicious-or-not">Continue reading...</a>
+

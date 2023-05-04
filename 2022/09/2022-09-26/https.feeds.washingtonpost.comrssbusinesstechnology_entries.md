@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Netflix to open video game studio in Helsinki, Finland
  - [https://www.washingtonpost.com/video-games/2022/09/26/netflix-mobile-games-new-studio/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/26/netflix-mobile-games-new-studio/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ The move will further delay the Artemis I mission by several weeks.
  - date published: 2022-09-26 07:00:00+00:00
 
 For anyone who travels or works remotely, public WiFi is part of life. Is that bad for privacy and security?
+

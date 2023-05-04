@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## AdaptOver: Persistent DoS and IMSI Extraction from 3.8km away
  - [https://dl.acm.org/doi/10.1145/3495243.3560525](https://dl.acm.org/doi/10.1145/3495243.3560525)
@@ -641,3 +641,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33210278">https://news.ycombinator.com/item?id=33210278</a></p>
 <p>Points: 13</p>
 <p># Comments: 1</p>
+

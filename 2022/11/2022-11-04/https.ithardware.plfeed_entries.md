@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Samsung wie, kiedy zadebiutuje pierwsze składane urządzenie Apple. I nie będzie to iPhone
  - [https://ithardware.pl/aktualnosci/samsung_wie_kiedy_zadebiutuje_pierwsze_skladane_urzadzenie_apple_i_nie_bedzie_to_iphone-24206.html](https://ithardware.pl/aktualnosci/samsung_wie_kiedy_zadebiutuje_pierwsze_skladane_urzadzenie_apple_i_nie_bedzie_to_iphone-24206.html)
@@ -121,3 +121,4 @@ Testowany w naszej redakcji w 2020 roku HP Elitebook x360 1040 G7 okazał się m
 
 <img src="https://ithardware.pl/artykuly/min/24191_1.jpg" />            Chociaż NVIDIA już na początku swojej poprzedniej generacji GPU (Ampere) chwaliła się, że jej nowe flagowce pozwalają grać w rozdzielczości 8K, to jednak było to nieco na wyrost. Wygląda jednak na to, że teraz, kiedy zar&oacute;wno NVIDIA,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/nowy_monitor_odyssey_neo_g9_od_samsung_pozowli_na_granie_w_8k_z_wysokim_odswiezaniem-24191.html">https://ithardware.pl/aktualnosci/nowy_monitor_odyssey_neo_g9_od_samsung_pozowli_na_granie_w_8k_z_wysokim_odswiezaniem-24191.html</a></p>
+

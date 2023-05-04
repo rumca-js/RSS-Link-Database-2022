@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The 499P: Meet Ferrari’s beautiful new Le Mans hybrid prototype
  - [https://arstechnica.com/?p=1893905](https://arstechnica.com/?p=1893905)
@@ -27,3 +27,4 @@ EU hopes DMA will force Big Tech platforms to break open their walled gardens.
  - date published: 2022-10-29 10:40:16+00:00
 
 Android phones got a notification that a temblor was about to rock Silicon Valley.
+

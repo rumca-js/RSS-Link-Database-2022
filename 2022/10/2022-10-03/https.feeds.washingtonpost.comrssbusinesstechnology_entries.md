@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Labor board says Activision withheld raises from union activists
  - [https://www.washingtonpost.com/video-games/2022/10/03/activision-raven-union-raises-nlrb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/03/activision-raven-union-raises-nlrb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ The United States is preparing to use a draconian export ban called the foreign 
  - date published: 2022-10-03 07:00:00+00:00
 
 Not all information about mental health on TikTok, Instagram and YouTube is helpful and true. Here are six questions to ask as you scroll.
+

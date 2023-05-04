@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## NASA’s Artemis I launch has officially been delayed until November
  - [https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november](https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november)
@@ -92,3 +92,4 @@
     </figure>
 
   <p id="7qIwFL">Tesla CEO Elon Musk revealed a prototype of a humanoid robot that he said utilizes the company’s AI software, as well as the sensors t
+

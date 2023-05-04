@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## COD Warzone 2.0 New Gulag & Map Explained | GameSpot News
  - [https://www.gamespot.com/videos/cod-warzone-2-0-new-gulag-map-explained-gamespot-news/2300-6459559/](https://www.gamespot.com/videos/cod-warzone-2-0-new-gulag-map-explained-gamespot-news/2300-6459559/)
@@ -426,3 +426,4 @@
  - date published: 2022-09-15 00:44:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4035818-nba2k23_review_thumb1_site.jpg" width="480" /> The annual NBA 2K installment is back with NBA 2K23, this time featuring Devin Booker on the standard cover, and NBA superstar Michael Jordan on the "Michael Jordan Edition" and "Championship Edition" covers.
+

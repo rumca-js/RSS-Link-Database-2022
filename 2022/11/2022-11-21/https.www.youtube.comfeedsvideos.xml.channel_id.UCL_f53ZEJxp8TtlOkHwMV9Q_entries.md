@@ -1,4 +1,4 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
+# Source:Jordan B Peterson, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, language:en-US
 
 ## Childhood Trauma, Marriage, and Making Friends | Dr. John Delony | #307
  - [https://www.youtube.com/watch?v=B_373YVlnDA](https://www.youtube.com/watch?v=B_373YVlnDA)
@@ -97,3 +97,4 @@ Telegram: https://t.me/DrJordanPeterson
 All socials: https://linktr.ee/drjordanbpeterson
 
 #JordanPeterson #JordanBPeterson #DrJordanPeterson #DrJordanBPeterson #DailyWirePlus
+

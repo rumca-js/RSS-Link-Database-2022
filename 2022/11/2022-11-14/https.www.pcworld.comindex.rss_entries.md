@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## MediaTek still plans to enter the Windows on Arm PC market
  - [https://www.pcworld.com/article/1377308/mediatek-still-plans-to-enter-the-pc-market.html](https://www.pcworld.com/article/1377308/mediatek-still-plans-to-enter-the-pc-market.html)
@@ -973,3 +973,4 @@ Desktop PCs, Gaming</div>
 
 <p><em>Prices subject to change.</em></p>
 Voice Assistants</div>
+

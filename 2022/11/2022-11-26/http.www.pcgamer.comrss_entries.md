@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## This 32-inch ultrawide Samsung gaming monitor is the cheapest it's ever been
  - [https://www.pcgamer.com/this-32-inch-ultrawide-samsung-gaming-monitor-is-the-cheapest-its-ever-been](https://www.pcgamer.com/this-32-inch-ultrawide-samsung-gaming-monitor-is-the-cheapest-its-ever-been)
@@ -90,3 +90,4 @@ The "Harry Potter" hacker meta returns.
  - date published: 2022-11-26 00:25:35+00:00
 
 I'm enduring the pain of this knowledge as a Black Friday service to you.
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Breach of software maker used to backdoor as many as 200,000 servers
  - [https://arstechnica.com/?p=1881102](https://arstechnica.com/?p=1881102)
@@ -146,3 +146,4 @@ The rare AFM has peaked in 2-year cycles. But it missed its last cycle amid COVI
  - date published: 2022-09-13 13:29:03+00:00
 
 "Why, Mr. Spock, you almost make me believe in miracles."
+

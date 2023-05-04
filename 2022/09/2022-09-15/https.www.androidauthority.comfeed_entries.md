@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## All of the best cheap Roku deals in one place
  - [https://www.androidauthority.com/best-cheap-roku-deals-1115065/](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)
@@ -132,3 +132,4 @@ The latest update is reserved for Verizon models of the Galaxy Watch 5 and Watch
  - date published: 2022-09-15 05:20:40+00:00
 
 Not the budget Chromecast you were expecting?
+

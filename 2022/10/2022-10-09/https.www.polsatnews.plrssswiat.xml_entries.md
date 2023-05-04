@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: 15-latek powalił policjanta na ziemię, następnie zaczął go bić. Do sieci trafiło nagranie
  - [https://www.polsatnews.pl/wiadomosc/2022-10-09/usa-15-latek-powalil-policjanta-na-ziemie-nastepnie-zaczal-go-bic-do-sieci-trafilo-nagranie/](https://www.polsatnews.pl/wiadomosc/2022-10-09/usa-15-latek-powalil-policjanta-na-ziemie-nastepnie-zaczal-go-bic-do-sieci-trafilo-nagranie/)
@@ -97,3 +97,4 @@ Rosjanie ostrzelali w nocy z soboty na niedzielę miasto Zaporoże w południowo
  - date published: 2022-10-09 04:32:00+00:00
 
 Rosyjscy okupanci przywrócili ruch pociągów towarowych i pasażerskich przez Most Krymski, który został uszkodzony w sobotę rano w wyniku eksplozji - poinformował portal Ukrainska Pravda.
+

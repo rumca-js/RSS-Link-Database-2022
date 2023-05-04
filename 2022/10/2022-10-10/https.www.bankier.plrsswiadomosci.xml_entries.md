@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Oszczędzanie po hiszpańsku. Gospodarstwa domowe i firmy zmniejszyły zużycie gazu o 38 proc.
  - [https://www.bankier.pl/wiadomosc/Oszczedzanie-po-hiszpansku-Gospodarstwa-domowe-i-firmy-zmniejszyly-zuzycie-gazu-o-38-proc-8420589.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Oszczedzanie-po-hiszpansku-Gospodarstwa-domowe-i-firmy-zmniejszyly-zuzycie-gazu-o-38-proc-8420589.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -548,3 +548,4 @@ nieaktywnych graczy, a wśród giełdowych kredytodawców jest nowy
  - date published: 2022-10-10 02:09:00+00:00
 
 <p>Przeprowadzone w ostatnich tygodniach przez Koreę Północną testy rakietowe były "ćwiczeniami taktycznych sił jądrowych" i osobiście nadzorował je przywódca KRLD Kim Dzong Un - podała w poniedziałek oficjalna północnokoreańska agencja KCNA.</p>
+

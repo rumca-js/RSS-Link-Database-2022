@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Kanał Sportowy TVP zhackowany
  - [https://niebezpiecznik.pl/post/kanal-sportowy-tvp-zhackowany/](https://niebezpiecznik.pl/post/kanal-sportowy-tvp-zhackowany/)
@@ -13,3 +13,4 @@
  - date published: 2022-11-09 12:08:29+00:00
 
 <a href="https://niebezpiecznik.pl/post/zobacz-jak-atakowac-i-chronic-swoje-firmowe-sieci-komputerowe/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/11/acc-den-150x150.jpg" width="100" /></a>Zbliża się koniec roku, a to czas kiedy zostają Wam resztki budżetów do wydania na fajne szkolenia. Więc zapraszamy na nasze najfajniejsze, 3 dniowe i mocno praktyczne szkolenie o tym &#8220;Jak atakować i chronić sieci komputerowe&#8220;. W tym szkoleniu udział wzięło już kilkanaście tysięcy osób i a sumaryczna ocena to 9,49/10. Ostatnie w tym roku terminy [&#8230;]
+

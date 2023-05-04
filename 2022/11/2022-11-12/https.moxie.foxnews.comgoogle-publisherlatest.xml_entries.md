@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## California hospitals using overflow tents for rising number of flu patients
  - [https://www.foxnews.com/health/california-hospitals-using-overflow-tents-rising-number-flu-patients](https://www.foxnews.com/health/california-hospitals-using-overflow-tents-rising-number-flu-patients)
@@ -699,3 +699,4 @@ Octavia Spencer jokes about the time she almost used prop money to buy Halloween
  - date published: 2022-11-12 00:14:01+00:00
 
 Armando "Chick" Galella is honored by Tarrytown's Dylan Smith with a memorial and some Lego figures, made for his descendants. The memorial, two benches, honors Galello's military service.
+

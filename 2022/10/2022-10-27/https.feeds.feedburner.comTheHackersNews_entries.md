@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## British Hacker Charged for Operating "The Real Deal" Dark Web Marketplace
  - [https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html](https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html)
@@ -50,3 +50,4 @@ In an update to its ongoing investigation into the incident, the firm said the
 
 A new cryptojacking campaign has been uncovered targeting vulnerable Docker and Kubernetes infrastructures as part of opportunistic attacks designed to illicitly mine cryptocurrency.
 Cybersecurity company CrowdStrike dubbed the activity Kiss-a-dog, with its command-and-control infrastructure overlapping with those associated with other groups like TeamTNT, which are known to strike misconfigured
+

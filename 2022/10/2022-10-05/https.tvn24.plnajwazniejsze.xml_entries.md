@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Juventus odetchnął z ulgą. Grad goli w Lidze Mistrzów
  - [https://eurosport.tvn24.pl/juventus-odetchn---z-ulg---grad-goli-w-lidze-mistrz-w,1120640.html?source=rss](https://eurosport.tvn24.pl/juventus-odetchn---z-ulg---grad-goli-w-lidze-mistrz-w,1120640.html?source=rss)
@@ -329,3 +329,4 @@
 
 <img alt="Przedstawicielka Pentagonu o najlepszych czołgach dla Ukrainy w tym momencie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-cjnxee-ukrainski-czolg-pod-iziumem-6115139/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

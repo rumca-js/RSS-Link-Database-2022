@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Intel claims its Arc A770 and A750 GPUs will outperform NVIDIA's mid-range RTX 3060
  - [https://www.engadget.com/intel-arc-a770-a750-gpu-graphics-cards-specs-price-release-date-210027325.html?src=rss](https://www.engadget.com/intel-arc-a770-a750-gpu-graphics-cards-specs-price-release-date-210027325.html?src=rss)
@@ -160,3 +160,4 @@
  - date published: 2022-09-29 00:59:49+00:00
 
 <p>A third-party Instagram app, called “The OG App,” which <a href="https://www.theogapp.com/">promised</a> an ad-free feed more like the original Instagram experience, has been pulled from Apple’s App Store just one day after it officially launched. It’s not clear if Apple pulled the app at the request of Meta, but the social network confirmed it had taken “enforcement actions” against the service.</p><p>“This app violates our policies and we’re taking all appropriate enforcement actions,” a Me
+

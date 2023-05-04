@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Twitter-Elon Musk Timeline: Pay-for-Verification Appears in App, Dorsey Speaks     - CNET
  - [https://www.cnet.com/news/social-media/twitter-elon-musk-timeline-pay-for-verification-appears-in-app-dorsey-speaks/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-elon-musk-timeline-pay-for-verification-appears-in-app-dorsey-speaks/#ftag=CADf328eec)
@@ -419,3 +419,4 @@ Notice something suspicious with your queue? Your profiles? Follow these tips.
  - date published: 2022-11-05 00:00:03+00:00
 
 You will want to have a store of different resins to make the most of your 3D printer.
+

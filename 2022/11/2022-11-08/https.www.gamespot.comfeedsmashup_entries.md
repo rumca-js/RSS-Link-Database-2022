@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Halo Infinite Winter Update: Forge, Co-Op, Achievements, And More
  - [https://www.gamespot.com/articles/halo-infinite-winter-update-forge-co-op-achievements-and-more/1100-6509026/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/halo-infinite-winter-update-forge-co-op-achievements-and-more/1100-6509026/?ftag=CAD-01-10abi2f)
@@ -370,3 +370,4 @@
  - date published: 2022-11-08 00:34:00+00:00
 
 <p>The <a href="https://www.gamespot.com/games/fortnite/">Fortnite</a> Championship Series (FNCS) kicks off this weekend, and for the lucky pair who walk away as champions in the heated duos tournament, a magnificent trophy awaits them. The first-ever FNCS championship trophy has been revealed by Epic and its jeweler partner, Swarovski, and it's quite a sight to behold. </p><p>Just like Epic takes Fortnite's dancing bananas and loot pools very seriously, so too does Swarovski give its jewelry the white glove treatment--despite the fact that the behind-the-scenes video below features someone in black gloves. It's a figure of speech, just go with it. See for yourself how this new Fortnite hardware came to be.</p><div>          </div><p>The Fortnite Championship Series will take place in Raleigh, North Carolina, the home of Epic Games, on November 12 and 13. The international and invite-only tournament will be played in teams of two, and you can find the <a href="https://www.gamespot.com/articles/all-50-duos-competing-in-the-fortnite-champion-series-invitational/1100-6508706/">full list of FNCS competitors here on GameSpot</a>. Is your favorite competitive Fortnite player vying for the trophy this weekend?</p><a href="https://www.gamespot.com/articles/fortnite-fncs-trophy/1100-6508980/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

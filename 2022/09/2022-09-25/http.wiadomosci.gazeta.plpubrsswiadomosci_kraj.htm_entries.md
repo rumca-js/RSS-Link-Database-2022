@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Łódzkie. Automatyczna brama przygniotła trzyletnie dziecko. Chłopiec nie żyje
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28951552,lodzkie-automatyczna-brama-przygniotla-trzyletnie-dziecko.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28951552,lodzkie-automatyczna-brama-przygniotla-trzyletnie-dziecko.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -27,3 +27,4 @@
  - date published: 2022-09-25 08:38:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/b1/9b/1b/z28950449M,Wypadek-na-trasie-Chyze---Belzec.jpg" vspace="2" />Trwa wyjaśnianie okoliczności wypadku, do którego doszło w nocy z soboty na niedzielę na tresie Chyże - Bełżec w powiecie tomaszowskim w woj. lubelskim. Po uderzeniu auta w drzewo zginęło dwóch młodych mężczyzn.
+

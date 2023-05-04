@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Microsoft is testing its tablet-friendly taskbar again in Windows 11
  - [https://www.theverge.com/2022/9/8/23343358/microsoft-taskbar-windows-11-2-in-1-tablet](https://www.theverge.com/2022/9/8/23343358/microsoft-taskbar-windows-11-2-in-1-tablet)
@@ -548,3 +548,4 @@
     </figure>
 
   <p id="JPRDE8"><a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fgeforce%2Fcampaigns%2Fpc-game-bundle-marvel-spi
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Authorities have identified members of the notorious 'Green Goblin Gang,' and of course they all have records
  - [https://www.louderwithcrowder.com/green-goblin-gang-identified](https://www.louderwithcrowder.com/green-goblin-gang-identified)
@@ -20,3 +20,4 @@
  - date published: 2022-10-08 12:22:37+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31882368&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>A man broke into a woman's house attempting to steal her dog. Now he is sitting in a jail cell full of holes while the woman and her dog are living their best lives.</p><p>According to  <a href="https://www.wral.com/i-just-shot-him-out-of-the-house-harnett-woman-scares-off-would-be-burglar/20508989/" rel="noopener noreferrer" target="_bla
+

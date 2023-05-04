@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Penn State QB gets laid out by Auburn defender in game's first drive
  - [https://www.foxnews.com/sports/penn-state-qb-gets-laid-out-auburn-defender-games-first-drive](https://www.foxnews.com/sports/penn-state-qb-gets-laid-out-auburn-defender-games-first-drive)
@@ -487,7 +487,6 @@ Fox News contributor Newt Gingrich revealed the full extent of the nationwide cr
  - [https://www.foxnews.com/media/twitter-whatever-heck-wants-users-data-josh-hawley](https://www.foxnews.com/media/twitter-whatever-heck-wants-users-data-josh-hawley)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-17 03:15:56+00:00
- - tags: twitter,censorship,free speech
 
 Sen. Josh Hawley went over his grilling of a Twitter executive who came before the Senate Homeland Security Committee and shared the "chilling" claim he revealed on "The Ingraham Angle."
 
@@ -651,3 +650,4 @@ Biden administration senior economic adviser Gene Sperling explained the White H
  - date published: 2022-09-17 00:05:58+00:00
 
 A Portland woman is in a state of shock after the stranger who allegedly entered her home and threw an ottoman at her was released from jail.
+

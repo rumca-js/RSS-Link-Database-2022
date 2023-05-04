@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Wiedźmin Sirius przypadnie do gustu osobom, które niekoniecznie grają w hardkorowe gry RPG
  - [https://ithardware.pl/aktualnosci/wiedzmin_sirius_przypadnie_do_gustu_osobom_ktore_niekoniecznie_graja_w_hardkorowe_gry_rpg-23714.html](https://ithardware.pl/aktualnosci/wiedzmin_sirius_przypadnie_do_gustu_osobom_ktore_niekoniecznie_graja_w_hardkorowe_gry_rpg-23714.html)
@@ -155,3 +155,4 @@ Apple Watch to bardzo...
 
 Infinix ZERO ULTRA to flagowy smartfon...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/infinix_zero_ultra_flagowy_smartfon_z_aparatem_200_mpix_i_ladowaniem_180_w-23695.html">https://ithardware.pl/
+

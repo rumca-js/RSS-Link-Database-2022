@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## US and Saudi Arabia concerned that Iran may be planning attack on energy infrastructure in Middle East
  - [https://www.cnn.com/2022/11/01/politics/us-saudi-arabia-iran-energy-infrastructure-middle-east/index.html](https://www.cnn.com/2022/11/01/politics/us-saudi-arabia-iran-energy-infrastructure-middle-east/index.html)
@@ -48,3 +48,4 @@ England manager Gareth Southgate has a lot on his plate as the World Cup in Qata
  - date published: 2022-11-01 06:49:45+00:00
 
 The deaths of 135 people in the collapse of a cable suspension bridge in India's western state of Gujarat is one of the worst public safety tragedies to hit the country in recent years.
+

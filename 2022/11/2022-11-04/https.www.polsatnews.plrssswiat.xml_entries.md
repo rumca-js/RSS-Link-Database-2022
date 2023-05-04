@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Szwecja. Klienci oglądali lokal ze zwłokami. Makabrycznego odkrycia dokonał komornik
  - [https://www.polsatnews.pl/wiadomosc/2022-11-04/szwecja-chetni-ogladali-lokal-ze-zwlokami-makabryczna-niespodzianke-odkryl-komornik/](https://www.polsatnews.pl/wiadomosc/2022-11-04/szwecja-chetni-ogladali-lokal-ze-zwlokami-makabryczna-niespodzianke-odkryl-komornik/)
@@ -139,3 +139,4 @@ Lekarz z St. Augustine na Florydzie został oskarżony o przepisywanie substancj
  - date published: 2022-11-04 05:09:00+00:00
 
 Rozpoczęła się jednodniowa wizyta kanclerza Niemiec w Pekinie. Pierwszy sekretarz komunistycznej partii Chin Xi Jinping podkreślił potrzebę większej współpracy z Berlinem w czasach zmian i zawirowań. Rozmowy mają dotyczyć wojny Rosji z Ukrainą, zmian klimatycznych i kontaktów gospodarczych, w tym sprzedaży Chinom udziałów w porcie w Hamburgu.
+

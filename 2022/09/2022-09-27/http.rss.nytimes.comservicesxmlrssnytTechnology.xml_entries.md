@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## C.E.O. of Celsius, the Crypto Bank, Resigns
  - [https://www.nytimes.com/2022/09/27/technology/celsius-ceo-alex-mashinsky-resigns.html](https://www.nytimes.com/2022/09/27/technology/celsius-ceo-alex-mashinsky-resigns.html)
@@ -20,3 +20,4 @@ The parent of Facebook and Instagram said that it had taken down what was the fi
  - date published: 2022-09-27 09:00:26+00:00
 
 China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.
+

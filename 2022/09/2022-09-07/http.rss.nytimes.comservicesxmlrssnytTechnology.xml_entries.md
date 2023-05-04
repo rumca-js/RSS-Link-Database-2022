@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Lawyers for Former Uber Security Chief Say He Was Scapegoated by Company
  - [https://www.nytimes.com/2022/09/07/technology/uber-security-chief-trial.html](https://www.nytimes.com/2022/09/07/technology/uber-security-chief-trial.html)
@@ -69,3 +69,4 @@ The companies behind e-commerce are embracing automation as the means of transce
  - date published: 2022-09-07 09:00:29+00:00
 
 As tech companies slow hiring and lay off workers, once-busy recruiters are shifting to other roles and cutting their rates.
+

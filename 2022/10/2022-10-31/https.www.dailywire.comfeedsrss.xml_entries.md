@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## US Military Restart Onsite Weapons Inspections In Ukraine
  - [https://www.dailywire.com/news/us-military-restarts-onsite-weapons-inspections-in-ukraine](https://www.dailywire.com/news/us-military-restarts-onsite-weapons-inspections-in-ukraine)
@@ -314,3 +314,4 @@ New Twitter CEO Elon Musk faced widespread backlash online Sunday afternoon afte
  - date published: 2022-10-31 07:07:07+00:00
 
 Fashion model Kendall Jenner decided to celebrate Halloween by dressing as a character from the iconic “Toy Story” children’s films, but catalyzed harsh criticism for her costume transforming the character from innocent to racy. Jenner, who boasts 262 million Instagram followers, posted photos of herself as the cowgirl Jessie, but instead of wearing the character’s ...
+

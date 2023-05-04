@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## US State Department says Iran nuclear deal 'not our focus right now'
  - [https://www.cnn.com/2022/10/12/politics/ned-price-iran-comments/index.html](https://www.cnn.com/2022/10/12/politics/ned-price-iran-comments/index.html)
@@ -83,3 +83,4 @@ Philippine Nobel laureate Maria Ressa plans to appeal her cyber libel conviction
  - date published: 2022-10-12 00:56:08+00:00
 
 The mother of Nika Shahkarami, a 16-year-old protester who was found dead in Tehran last month, says her daughter was killed by Iranian security forces at a protest.
+

@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## 4 Cases of Federal Department Offering Veterans Unsolicited Assisted Suicide, Says Minister
  - [https://www.theepochtimes.com/4-cases-of-federal-department-offering-veterans-unsolicited-assisted-suicide-says-minister_4884418.html](https://www.theepochtimes.com/4-cases-of-federal-department-offering-veterans-unsolicited-assisted-suicide-says-minister_4884418.html)
@@ -126,3 +126,4 @@ Minister of Finance Chrystia Freeland appears as a witness at the Public Order E
  - date published: 2022-11-24 17:27:23+00:00
 
 Penny Mordaunt during her Conservative Party leadership bid on July 15, 2022. (Victoria Jones/PA Media)
+

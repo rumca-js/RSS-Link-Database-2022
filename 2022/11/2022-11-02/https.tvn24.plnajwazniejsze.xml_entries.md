@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Komplet drużyn z awansem do 1/8 finału Ligi Mistrzów
  - [https://eurosport.tvn24.pl/liga-mistrz-w-2022-2023--kiedy-losowanie-1-8-fina-u--kto-awansowa--z-grup-,1123330.html?source=rss](https://eurosport.tvn24.pl/liga-mistrz-w-2022-2023--kiedy-losowanie-1-8-fina-u--kto-awansowa--z-grup-,1123330.html?source=rss)
@@ -183,3 +183,4 @@
 
 <img alt="Inicjatywa zbożowa " src="https://tvn24.pl/najnowsze/cdn-zdjecie-2kf7gm-zaladunek-zboza-w-porcie-w-odessie-2021-zdjecie-ilustracyjne-5785763/alternates/LANDSCAPE_1280" />
     Erdogan: korytarz będzie otwarty.
+

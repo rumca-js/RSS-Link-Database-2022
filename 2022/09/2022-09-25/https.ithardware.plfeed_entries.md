@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Instagram wydłuża czas trwania Stories
  - [https://ithardware.pl/aktualnosci/instagram_wydluza_czas_trwania_stories-23500.html](https://ithardware.pl/aktualnosci/instagram_wydluza_czas_trwania_stories-23500.html)
@@ -99,3 +99,4 @@ Prace na planie...
 
 <img src="https://ithardware.pl/artykuly/min/23490_1.jpg" />            Wniosek złożony przez Samsunga w marcu 2021 roku zawiera informacje o dw&oacute;ch kamerach umieszczonych tuż pod wyświetlaczem przyszłego telefonu Galaxy S lub Galaxy Z w celu&nbsp;stworzenia lepszego modelu 3D twarzy. Jak wynika z patentu, jedna z...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/seria_samsung_galaxy_s23_moze_oferowac_dokladniejszy_system_rozpoznawania_twarzy-23490.html">http
+

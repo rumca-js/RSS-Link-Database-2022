@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Production on Apple's mixed reality headset is rumored to be starting soon
  - [https://www.techradar.com/news/production-on-apples-mixed-reality-headset-is-rumored-to-be-starting-soon/](https://www.techradar.com/news/production-on-apples-mixed-reality-headset-is-rumored-to-be-starting-soon/)
@@ -41,3 +41,4 @@ The UCB pilot program allows apps and services to use alternate payment options 
  - date published: 2022-11-12 05:00:37+00:00
 
 The new iPad 2023 could be one of the best tablets of next year – if it includes these changes.
+

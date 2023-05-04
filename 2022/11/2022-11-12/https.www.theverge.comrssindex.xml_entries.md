@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Google’s rolling out a Nest Wifi Pro update to fix slow internet speeds
  - [https://www.theverge.com/2022/11/12/23454915/google-nest-wifi-pro-update-fix-slow-internet-speeds](https://www.theverge.com/2022/11/12/23454915/google-nest-wifi-pro-update-fix-slow-internet-speeds)
@@ -137,3 +137,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/11/23454045/disney-hiring-freeze-layoffs-cost-cutting-memo">Continue reading&hellip;</a>
   </p>
+

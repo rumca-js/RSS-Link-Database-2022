@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Tech layoffs in 2022: A timeline
  - [https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>Even before it was signed into law in August, the <a href="https://www.computerworld.com/article/3669258/chips-and-science-act-becomes-law-as-us-chipmaking-investments-rise.html">CHIPS and Science Act</a> had attracted the biggest manufacturers of semiconductors to commit to buidling fabrication plants in various parts of the United States, essentially "re-shoring" an industry the nation once dominated.</p><p>The measure is a $52.7 billion package of subsidies and grants to the US semiconductor manufacturing industry aimed at reducing US dependancy on Asia-based silicon makers. The lack of US-based chipmakers recently lead to a supply chain crisis for computer device makers, the automotive industry, and other industries dependent on the microprocessors to run their highly automated products.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3679709/qa-rpi-president-says-chips-act-will-spur-quantum-computing-next-gen-tech.html#jump">To read this article in full, please click here</a></p></section></article>
+

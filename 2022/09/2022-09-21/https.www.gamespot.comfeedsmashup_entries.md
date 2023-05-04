@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## The Diofield Chronicle Review - Forever War
  - [https://www.gamespot.com/reviews/the-diofield-chronicle-review-forever-war/1900-6417963/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/the-diofield-chronicle-review-forever-war/1900-6417963/?ftag=CAD-01-10abi2f)
@@ -377,3 +377,4 @@
  - date published: 2022-09-21 07:03:00+00:00
 
 <p> Rockstar was the <a href="https://www.gamespot.com/articles/massive-gta-6-leak-unveils-screenshots-and-early-footage/1100-6507625/">victim of a massive leak earlier this week</a>, when a hacker published a number of videos and screenshots from an early build of <a href="https://www.gamespot.com/games/grand-theft-auto-vi/">Grand Theft Auto 6</a>. The footage confirms some major details about the game, but eagle-eyed fans have also spotted some curious details that appear to be intended as ran
+

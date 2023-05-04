@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## COP27: 'We'd never seen this much water' - Pakistan flood survivors
  - [https://www.bbc.co.uk/news/world-asia-63218139?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63218139?at_medium=RSS&at_campaign=KARANGA)
@@ -496,3 +496,4 @@ This Black Friday the online marketplace is promoting used items to avoid unwant
  - date published: 2022-11-07 00:02:21+00:00
 
 A quarter of those asked in a survey had less than £100 in savings, exposing them to unexpected bills.
+

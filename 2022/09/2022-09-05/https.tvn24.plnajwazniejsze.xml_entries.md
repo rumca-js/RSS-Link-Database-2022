@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Taki jest sport. Dzięki temu jest taki fascynujący"
  - [https://eurosport.tvn24.pl/-taki-jest-sport--dzi-ki-temu-jest-taki-fascynuj-cy-,1117566.html?source=rss](https://eurosport.tvn24.pl/-taki-jest-sport--dzi-ki-temu-jest-taki-fascynuj-cy-,1117566.html?source=rss)
@@ -279,3 +279,4 @@
 
 <img alt="Świątek zagra o ćwierćfinał. Na drodze groźna Niemka" src="https://tvn24.pl/najnowsze/cdn-zdjecie-hmvgfq-iga-swiatek-wygrala-z-jasmine-paolini-6090490/alternates/LANDSCAPE_1280" />
     Jule Niemeier na tym etapie US Open znalazła się dość niespodziewanie i to Polka będzie zdecydowaną faworytką spotkania.
+

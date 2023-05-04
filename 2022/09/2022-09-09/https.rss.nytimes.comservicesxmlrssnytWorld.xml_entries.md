@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Why the U.S. Is Being Ominously Compared to Hungary and Turkey
  - [https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html](https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html)
@@ -286,3 +286,4 @@ The standoff with Russia over Ukraine and rising energy prices are rapidly overt
  - date published: 2022-09-09 01:16:55+00:00
 
 In “The Queen” and “The Crown,” actors took different approaches to get under the skin of the enigmatic monarch.
+

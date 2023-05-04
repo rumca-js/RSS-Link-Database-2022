@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Lightroom AI Finds People, Faces, Eyes for Faster Photo Editing     - CNET
  - [https://www.cnet.com/tech/computing/lightroom-ai-finds-people-faces-eyes-for-faster-photo-editing/#ftag=CADf328eec](https://www.cnet.com/tech/computing/lightroom-ai-finds-people-faces-eyes-for-faster-photo-editing/#ftag=CADf328eec)
@@ -769,3 +769,4 @@ Valerii Veduta digs into his country's dirt to add texture to a sobering photo d
  - date published: 2022-10-20 00:32:00+00:00
 
 Starlink Aviation will deliver speeds up to 350 Mbps, fast enough to conduct video calls, SpaceX says.
+

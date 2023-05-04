@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## New leak points to a compact Sony Xperia phone available worldwide
  - [https://www.techradar.com/news/new-leak-points-to-a-compact-sony-xperia-phone-available-worldwide/](https://www.techradar.com/news/new-leak-points-to-a-compact-sony-xperia-phone-available-worldwide/)
@@ -20,3 +20,4 @@ Amazon is letting users sign up for Pixel 7a updates, which suggests that anothe
  - date published: 2022-10-23 09:55:20+00:00
 
 It’s too early to get excited about the future of laptop gaming, but these leaks make it difficult not to do so.
+

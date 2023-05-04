@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## The future of security: smarter devices that protect themselves
  - [https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all](https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all)
@@ -32,3 +32,4 @@
 <li>You create a spreadsheet to track a project, in which co-workers select their work progress status from a dropdown list.</li>
 </ul>
 <p>You can create two kinds of dropdown lists in Google Sheets: The first lists specific numbers or words that you’ve entered as preset choices, while the second lists data that currently appears in a range of cells in your spreadsheet. This guide walks you through the basic steps of creating both types of dropdowns and adding color to them.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#jump">To read this article in full, please click here</a></p></section></article>
+

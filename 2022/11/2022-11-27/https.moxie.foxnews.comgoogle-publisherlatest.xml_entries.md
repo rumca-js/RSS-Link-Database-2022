@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Bengals' Ted Karras curses off Titans fans after win: 'Right up yours, Tennessee'
  - [https://www.foxnews.com/sports/bengals-ted-karras-curses-off-titans-fans-win-right-up-yours-tennessee](https://www.foxnews.com/sports/bengals-ted-karras-curses-off-titans-fans-win-right-up-yours-tennessee)
@@ -776,3 +776,4 @@ After Argentina's stunning loss to Saudi Arabia, they were on the brink of elimi
  - date published: 2022-11-27 00:54:19+00:00
 
 Former NBA player Lamar Odom hopped on the "Bootleg Kev Podcast" and criticized the Phoenix Suns mascot, a gorilla, as having racial connotations.
+

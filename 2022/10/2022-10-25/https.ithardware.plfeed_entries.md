@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Gracz zgromadził fortunę w Red Dead Redemption 2, ale niebawem straci wszystko
  - [https://ithardware.pl/aktualnosci/gracz_zgromadzil_fortune_w_red_dead_redemption_2_ale_niebawem_straci_wszystko-24034.html](https://ithardware.pl/aktualnosci/gracz_zgromadzil_fortune_w_red_dead_redemption_2_ale_niebawem_straci_wszystko-24034.html)
@@ -211,3 +211,4 @@ Co...
 
 Redditorzy znani jako reggie_gakil i NoDuelsPolicyy opublikowali zdjęcia swoich kart graficznych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4090_ma_powazny_problem_gracze_zglaszaja_zepsute_karty_i_stopione_zlacza_zasilania-24011.html">https://ithardware.pl/aktualnosci/geforce_rtx_4090_ma_powazny_problem_gracze_zglaszaja_zepsute_karty_i_stopione_zlacza_zasilania-24011.html</a></p>
+

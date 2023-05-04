@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## AI challenger Cerebras unveils 'pay-per-model' AI cloud service with Cirrascale, Jasper
  - [https://www.zdnet.com/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/#ftag=RSSbaffb68)
@@ -559,3 +559,4 @@ With a little digging around in the drawer, you can snag a new Google Pixel 7 fo
  - date published: 2022-11-29 00:24:00+00:00
 
 Last chance! Verizon is offering a Cyber Monday 2022 deal for up to $1,900 savings total. There's are Samsung and Google equivalents too.
+

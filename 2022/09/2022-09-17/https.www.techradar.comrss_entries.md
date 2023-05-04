@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## AMD Ryzen 9 7900X leak suggests an impressive 12-core CPU
  - [https://www.techradar.com/news/amd-ryzen-9-7900x-leak-suggests-an-impressive-12-core-cpu/](https://www.techradar.com/news/amd-ryzen-9-7900x-leak-suggests-an-impressive-12-core-cpu/)
@@ -34,3 +34,4 @@ Apple is making a play for the action camera market with the iPhone 14 – but A
  - date published: 2022-09-17 07:00:29+00:00
 
 The Wilson Audio Alexia V speakers might as well be a sonic supercar for your living room – and I'm all for it.
+

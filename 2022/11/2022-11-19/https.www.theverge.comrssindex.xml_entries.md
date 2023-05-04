@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The US government still isn’t sure about Elon Musk’s Twitter
  - [https://www.theverge.com/2022/11/19/23468283/us-government-elon-musk-twitter-investigation-investors-ftc-cfius](https://www.theverge.com/2022/11/19/23468283/us-government-elon-musk-twitter-investigation-investors-ftc-cfius)
@@ -158,3 +158,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/18/23467204/swiftkey-ios-iphone-app-store-return-back-microsoft">Continue reading&hellip;</a>
   </p>
+

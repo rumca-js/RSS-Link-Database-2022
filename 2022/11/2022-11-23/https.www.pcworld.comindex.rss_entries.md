@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## If your kids love Roblox, check their browser for this malware
  - [https://www.pcworld.com/article/1390739/if-your-kids-love-roblox-check-their-browsers-for-this-malware.html](https://www.pcworld.com/article/1390739/if-your-kids-love-roblox-check-their-browsers-for-this-malware.html)
@@ -734,3 +734,4 @@ Entertainment Software</div>
 
 <p>Prices subject to change.</p>
 Chargers, Wireless Charging</div>
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Fall of Liz Truss gives Italy’s far right a lesson in what not to do
  - [https://www.theguardian.com/business/2022/oct/22/fall-of-liz-truss-gives-italys-far-right-a-lesson-in-what-not-to-do](https://www.theguardian.com/business/2022/oct/22/fall-of-liz-truss-gives-italys-far-right-a-lesson-in-what-not-to-do)
@@ -13,3 +13,4 @@
  - date published: 2022-10-22 04:00:57+00:00
 
 <p>Flight victims’ relatives say it would be a ‘miracle’ if former separatist leader finally faced justice</p><ul><li><a href="https://www.theguardian.com/world/series/ukraine-live/latest">Russia-Ukraine war – latest news updates</a></li></ul><p>Piet Ploeg felt a glimmer of hope that justice would, at last, be served when he read the news that the prominent Russian nationalist Igor Girkin may be returning to the battlefield in Ukraine.</p><p>Ploeg’s brother, sister-in-law and nephew were killed alongside 295 other passengers and crew when the plane they boarded in Amsterdam on 17 July 2014 <a href="https://www.theguardian.com/world/2022/mar/14/australia-and-the-netherlands-launch-legal-action-against-russia-over-mh17-disaster">was shot down</a> over Ukraine’s separatist-held territory of Donetsk by what international investigators believe was a Russian-made surface-to-air missile.</p> <a href="https://www.theguardian.com/world/2022/oct/22/get-igor-girkin-hopes-mh17-suspect-could-be-captured-fighting-ukraine">Continue reading...</a>
+

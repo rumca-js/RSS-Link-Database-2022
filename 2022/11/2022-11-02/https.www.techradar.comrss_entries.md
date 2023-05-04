@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Arlo's new Pro 5S offers top-of-the-line security features – if you can afford it
  - [https://www.techradar.com/news/arlos-new-pro-5s-offers-top-of-the-line-security-features-if-you-can-afford-it/](https://www.techradar.com/news/arlos-new-pro-5s-offers-top-of-the-line-security-features-if-you-can-afford-it/)
@@ -195,3 +195,4 @@ The Canon EOS R6 Mark II is a new 24.2MP full-frame mirrorless camera with very 
  - date published: 2022-11-02 02:41:09+00:00
 
 Fujifilm is preparing yet another camera launch – and this one could be its most exciting of the year.
+

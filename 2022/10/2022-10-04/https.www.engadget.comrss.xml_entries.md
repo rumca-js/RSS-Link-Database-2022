@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## NASA's DART asteroid impact test left a trail over 6,000 miles long
  - [https://www.engadget.com/nasa-dart-dimorphos-impact-trail-length-210414070.html?src=rss](https://www.engadget.com/nasa-dart-dimorphos-impact-trail-length-210414070.html?src=rss)
@@ -188,3 +188,4 @@
  - date published: 2022-10-04 05:04:25+00:00
 
 <p>When was the last time you've read an amicus brief? If you're not involved in the legal profession, chances are you may have never actually spent precious time reading one. <a href="https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf"><em>This</em> amicus brief</a> (PDF) could change that. It was submitted by <a href="https://www.engadget.com/2018-03-13-elon-musk-poaching-onion-staff.html"><em>The Oni
+

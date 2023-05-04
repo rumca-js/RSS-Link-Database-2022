@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Ruda Maleniecka. Nietrzeźwy wójt wziął udział w sesji rady gminy? Tłumaczy, że tego dnia miał urlop
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29170874,ruda-maleniecka-nietrzezwy-wojt-wzial-udzial-w-sesji-rady-gminy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29170874,ruda-maleniecka-nietrzezwy-wojt-wzial-udzial-w-sesji-rady-gminy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -111,3 +111,4 @@
  - date published: 2022-11-22 05:17:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/dd/c6/1b/z29123293M,Jakub-Wilczynski-grozi-swoim-bylym-pracownikom.jpg" vspace="2" />Po publikacji naszego tekstu o agresji, przemocy i terrorze w lokalach gastronomicznych Jakuba Wilczyńskiego, otrzymaliśmy dziesiątki relacji od innych pokrzywdzonych osób. Mają wspólny mianownik. To strach. Wilczyński wysłał do niektórych byłych pracowników pisma przedsądowe, w których domaga się nie tylko "usunięcia nieprawdziwych informacji" z ich profili, ale także zadośćuczynienia wysokości pół miliona złotych. Interpelację poselską w tej sprawie złożyła partia Razem.
+

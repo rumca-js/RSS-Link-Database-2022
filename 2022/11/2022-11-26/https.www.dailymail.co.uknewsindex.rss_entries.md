@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Keir Starmer faces backlash over planned 20% VAT hike on private school fees
  - [https://www.dailymail.co.uk/news/article-11473265/Keir-Starmer-faces-backlash-planned-20-VAT-hike-private-school-fees.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473265/Keir-Starmer-faces-backlash-planned-20-VAT-hike-private-school-fees.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1008,3 +1008,4 @@ Authorities in the town of Aracruz said the shooter had opened fire on a group o
  - date published: 2022-11-26 00:07:41+00:00
 
 On Tuesday, a young man was interviewed on the BBC's World at One. 'What's your first name?' presenter Sarah Montague asked him. 'I'd rather not disclose that,' he replied.
+

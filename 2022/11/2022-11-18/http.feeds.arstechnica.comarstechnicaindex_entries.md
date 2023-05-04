@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## New Meta AI demo writes racist and inaccurate scientific literature, gets pulled
  - [https://arstechnica.com/?p=1899005](https://arstechnica.com/?p=1899005)
@@ -111,3 +111,4 @@ After Elon Musk’s staff cuts, there are hardly any moderators left to talk to.
  - date published: 2022-11-18 13:00:08+00:00
 
 Oddly named console made up for its mistakes with infinite quirky charm.
+

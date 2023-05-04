@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Testing suggests faulty cable may be to blame for melting RTX 4090 connectors
  - [https://arstechnica.com/?p=1893799](https://arstechnica.com/?p=1893799)
@@ -111,3 +111,4 @@ New cars will have to meet a 50% reduction in CO2 by 2030 ahead of complete ban.
  - date published: 2022-10-28 01:52:05+00:00
 
 Musk completes $44B purchase, fires CEO Parag Agrawal and others.
+

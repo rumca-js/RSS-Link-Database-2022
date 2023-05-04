@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Here's When the Finale of 'The Rings of Power' Lands in Your Timezone     - CNET
  - [https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-lands-in-your-timezone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-lands-in-your-timezone/#ftag=CADf328eec)
@@ -412,3 +412,4 @@ This little-known iOS feature makes typing on your keyboard so much easier. And 
  - date published: 2022-10-09 00:50:04+00:00
 
 Impress the family with a thoughtful present.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Legia zaczęła od 0:2, ale miała Mladenovicia
  - [https://eurosport.tvn24.pl/legia-zacz--a-od-0-2--ale-mia-a-mladenovicia--show-serba-w-ekstraklasie,1118770.html?source=rss](https://eurosport.tvn24.pl/legia-zacz--a-od-0-2--ale-mia-a-mladenovicia--show-serba-w-ekstraklasie,1118770.html?source=rss)
@@ -247,3 +247,4 @@
 
 <img alt="Poseł Kulesza odkrył filmowy debiut dziennikarza TVN24. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-7sqko5-sejm-wita-6115107/alternates/LANDSCAPE_1280" />
     Najnowszy odcinek Sejmu Wita.
+

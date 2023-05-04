@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Mercedes-Benz to introduce acceleration subscription fee
  - [https://www.bbc.co.uk/news/technology-63743597?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63743597?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Owners of some Mercedes electric cars in the US can soon pay a $1,200 annual fee
  - date published: 2022-11-24 05:33:41+00:00
 
 It comes after protests broke out at the world's largest iPhone factory over pay and work conditions.
+

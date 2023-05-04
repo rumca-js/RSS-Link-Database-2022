@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## 20-latek wtargnął do siedziby PiS i żądał spotkania z Kaczyńskim. Prokuratura nie może go przesłuchać
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29079437,20-latek-wtargnal-do-siedziby-pis-i-zadal-spotkania-z-kaczynskim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29079437,20-latek-wtargnal-do-siedziby-pis-i-zadal-spotkania-z-kaczynskim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -146,3 +146,4 @@
  - date published: 2022-10-27 04:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/34/94/1b/z28918836M,Jesien--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda na Wszystkich Świętych nie będzie zbyt jesienna. W całym kraju ma być wyjątkowo słonecznie, a ponadto całkiem ciepło. Początek listopada może się zacząć nawet dwucyfrową temperaturą - i to na plusie.
+

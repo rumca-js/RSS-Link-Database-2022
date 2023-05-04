@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Comcast debuts 2Gbps internet service in four states
  - [https://www.engadget.com/comcast-gigabit-2x-announced-203440991.html?src=rss](https://www.engadget.com/comcast-gigabit-2x-announced-203440991.html?src=rss)
@@ -27,3 +27,4 @@
  - date published: 2022-09-11 15:00:17+00:00
 
 <p>It's difficult to describe the state of the universe's affairs back when the whole of everything was compressed to a size slightly smaller than the period at the end of this sentence — on account that the concepts of time and space literally didn't yet apply. But that challenge hasn't stopped pioneering theoretical astrophysicist, <a href="https://physicstheory.web.unc.edu/">Dr. Laura Mersini-Houghton</a>, from seeking knowledge at the edge of the known universe and beyond. In her new book, <
+

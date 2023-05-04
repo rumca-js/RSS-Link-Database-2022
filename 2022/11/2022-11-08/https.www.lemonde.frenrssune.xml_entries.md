@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## 2022 Midterm Elections: Officials scramble after balloting problems
  - [https://www.lemonde.fr/en/international/article/2022/11/09/2022-midterm-elections-officials-scramble-after-balloting-problems_6003448_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/2022-midterm-elections-officials-scramble-after-balloting-problems_6003448_4.html)
@@ -237,3 +237,4 @@ The plan to conduct a full hand-count of ballots from the current election was a
  - date published: 2022-11-08 00:32:43+00:00
 
 The French food group, in addition to an undisclosed financial contribution, will distribute fresh dairy and plant-based products during the Olympics.
+

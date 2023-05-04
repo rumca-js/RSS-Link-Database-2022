@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Can Fix Your Dog’s Begging Before Thanksgiving Arrives
  - [https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945](https://lifehacker.com/you-can-fix-your-dog-s-begging-before-thanksgiving-arri-1849772945)
@@ -20,3 +20,4 @@
  - date published: 2022-11-13 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0uPxziiL--/c_fit,fl_progressive,q_80,w_636/5313f4ef7497d6449d57559c2b040a96.jpg" /><p>Pillows are soft and simple, and help us get more comfortable. They can also get really gross. Think about it: Night after night, your pillow is subjected to whatever combination of sweat, drool, hair oil, dead skin, makeup, and any other  dirt and schmutz coming out of your head, face, and mouth.</p><p><a href="https://lifehacker.com/you-need-two-pillowcases-on-your-pillows-1849772964">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nintendo prezentuje wyniki finansowe. Switch przybliża się do PlayStation 4
  - [https://ithardware.pl/aktualnosci/nintendo_prezentuje_wyniki_finansowe_switch_przybliza_sie_do_playstation_4-24302.html](https://ithardware.pl/aktualnosci/nintendo_prezentuje_wyniki_finansowe_switch_przybliza_sie_do_playstation_4-24302.html)
@@ -175,3 +175,4 @@ Jak donosi portal WcffTech, oficjalna prezentacja karty GeForce RTX 4070...
 
 <img src="https://ithardware.pl/artykuly/min/24284_1.jpg" />            Portal VideoCardz pogrzebał nieco głębiej w zakamarkach (chińskiej) sieci i wygrzebał kolejny testy wydajności nadchodzącej karty graficznej GeForce RTX 4080. Tym razem nie otrzymujemy jednak jedynie syntetyk&oacute;w, ale i wyniki z gier oraz po...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4080_wyniki_wydajnosci_w_grach_w_4k_i_nie_tylko_oraz_potencjal_oc-24284.html">https://ithardware.pl/aktualnosci/geforce_rtx_4080_wyniki_wydajnosci_w_grach_w_4k_i_nie_tylko_oraz_potencjal_oc-24284.html</a></p>
+

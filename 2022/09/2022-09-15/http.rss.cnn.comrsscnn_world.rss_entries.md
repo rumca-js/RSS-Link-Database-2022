@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Manchester United: Winning on Wall Street despite struggling on the field
  - [https://www.cnn.com/2022/09/15/investing/manchester-united-soccer-stock-sports/index.html](https://www.cnn.com/2022/09/15/investing/manchester-united-soccer-stock-sports/index.html)
@@ -76,3 +76,4 @@ Two seemingly armed and desperate Lebanese depositors held up banks on Wednesday
  - date published: 2022-09-15 01:26:31+00:00
 
 The Senate Foreign Relations Committee approved a bill to bolster US security assistance to Taiwan, authorizing $6.5 billion over the next five years.
+

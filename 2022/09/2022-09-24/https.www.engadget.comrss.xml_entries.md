@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Netflix’s adaptation of 'The Three-Body Problem' will arrive in 2023
  - [https://www.engadget.com/3-body-problem-netflix-2023-213717534.html?src=rss](https://www.engadget.com/3-body-problem-netflix-2023-213717534.html?src=rss)
@@ -62,3 +62,4 @@
  - date published: 2022-09-24 12:00:48+00:00
 
 <p>The Japanese government has earmarked $2 billion in funding for vaccine research in an effort to make sure its country is better prepared for any future pandemic, according to <a href="https://www.nature.com/articles/d41586-022-03000-3"><em>Nature</em></a>. Japan <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01220-4/fulltext">lagged behind</a> other countries not just in developing vaccines, but also in approving them when it came to <a href="https://www.engadget
+

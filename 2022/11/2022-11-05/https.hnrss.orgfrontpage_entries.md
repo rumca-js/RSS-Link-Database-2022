@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Bashing new myths about digital nomads
  - [https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html)
@@ -776,3 +776,4 @@ So I wanted more structure, less clutter, and no extra clicks.<p>Programming lan
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33476157">https://news.ycombinator.com/item?id=33476157</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
+

@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## (Mail) hardening your unused domains
  - [https://www.mailhardener.com/kb/hardening-unused-domains](https://www.mailhardener.com/kb/hardening-unused-domains)
@@ -755,3 +755,4 @@ Christian Staudenmeyer</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33633512">https://news.ycombinator.com/item?id=33633512</a></p>
 <p>Points: 24</p>
 <p># Comments: 4</p>
+

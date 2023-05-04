@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Jesse Watters calls on Democrats to stop name calling and do something to fix border crisis
  - [https://www.foxnews.com/media/jesse-watters-calls-democrats-stop-name-calling-something-fix-border-crisis](https://www.foxnews.com/media/jesse-watters-calls-democrats-stop-name-calling-something-fix-border-crisis)
@@ -1210,3 +1210,4 @@ A former assistant U.S. attorney says that Shannon Brandt's bond is "woefully in
  - date published: 2022-09-27 00:03:21+00:00
 
 "The Five" co-host Harold Ford Jr. joins "Special Report" to share his thoughts on how Democrats are appealing to voters ahead of the 2022 midterm elections.
+

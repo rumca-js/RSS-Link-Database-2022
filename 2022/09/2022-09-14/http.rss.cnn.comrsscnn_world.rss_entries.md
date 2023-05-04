@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## A tropical depression in the Atlantic could become Tropical Storm Fiona
  - [https://www.cnn.com/2022/09/14/weather/tropical-depression-seven-storm-fiona-forecast/index.html](https://www.cnn.com/2022/09/14/weather/tropical-depression-seven-storm-fiona-forecast/index.html)
@@ -48,3 +48,4 @@ A South Korean court has issued an arrest warrant for Do Kwon, the primary devel
  - date published: 2022-09-14 01:42:56+00:00
 
 Authorities in China's eastern province of Zhejiang ordered ships to return to port, told schools to close and evacuated tourists from nearby islands, as one of this year's strongest typhoons is set to make landfall on Wednesday.
+

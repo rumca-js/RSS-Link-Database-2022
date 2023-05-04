@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Houston Astros Win The World Series, Defeat Philadelphia Phillies
  - [https://www.dailywire.com/news/breaking-houston-astros-win-the-world-series-defeat-philadelphia-phillies](https://www.dailywire.com/news/breaking-houston-astros-win-the-world-series-defeat-philadelphia-phillies)
@@ -132,3 +132,4 @@ A former New York City cop has been convicted of murdering his 8-year-old autist
  - date published: 2022-11-05 11:13:50+00:00
 
 An elections fraud complaint claimed &#8220;evidence suggests&#8221; that Left-wing legacy media reporter Yamiche Alcindor has been illegally voting in Florida, while her permanent residence with her husband is in Washington, D.C. The American Accountability Foundation last week filed a complaint asking Florida to investigate Alcindor for potentially illegally voting in the Sunshine State, citing Alcindor&#8217;s ...
+

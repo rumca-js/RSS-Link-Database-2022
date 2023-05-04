@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to see who unfollowed you on Twitter
  - [https://www.androidauthority.com/who-unfollowed-me-twitter-3143831/](https://www.androidauthority.com/who-unfollowed-me-twitter-3143831/)
@@ -62,3 +62,4 @@ The last Nexus launched in 2015, but time hasn't dampened your enthusiasm.
  - date published: 2022-10-05 06:31:48+00:00
 
 It sounds like you should expect an iterative upgrade for the most part.
+

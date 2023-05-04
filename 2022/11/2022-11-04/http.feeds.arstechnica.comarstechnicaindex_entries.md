@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## IceCube neutrino analysis pegs possible galactic source for cosmic rays
  - [https://arstechnica.com/?p=1894039](https://arstechnica.com/?p=1894039)
@@ -104,3 +104,4 @@ Concerns over ecological destruction have delayed desalination plans for years.
  - date published: 2022-11-04 11:00:31+00:00
 
 "We’re eager to get the helicopter back out there and advance our rocket reusability."
+

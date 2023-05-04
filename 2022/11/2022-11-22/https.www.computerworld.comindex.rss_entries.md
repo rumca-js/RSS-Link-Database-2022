@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Zoom sales growth slows as online business slumps in post-pandemic era
  - [https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all](https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Google's ChromeOS is one of the world's most misunderstood computing platforms. Chromebooks are foundationally different from traditional PCs, after all — and consequently, there are <a href="https://www.computerworld.com/article/2474456/chromebook-myths.html">a lot of misconceptions</a> about how they work and what they can and can't do.</p><p>Since people are always asking me whether a <a href="https://www.computerworld.com/article/3237230/chromebook-tips-for-maximum-productivity.html">Chromebook</a> might be right for their needs, I thought I'd put together a quick guide to help any such wonderers figure it out. Whether it's you or someone you know who's curious, the following four questions should help shed some light on what the platform's all about and for whom it makes sense.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html#jump">To read this article in full, please click here</a></p></section></article>
+

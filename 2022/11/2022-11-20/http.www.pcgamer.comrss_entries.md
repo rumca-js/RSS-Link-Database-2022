@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## There are altogether too many eyeballs in this Darkest Dungeon 2 update
  - [https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update](https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update)
@@ -48,3 +48,4 @@ Overlooked real-time strategy games that should have been classics.
  - date published: 2022-11-20 00:31:35+00:00
 
 Check out the animated teaser for Broforce Forever.
+

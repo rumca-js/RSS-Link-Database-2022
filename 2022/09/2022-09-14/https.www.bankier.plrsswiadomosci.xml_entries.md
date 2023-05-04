@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## PO proponuje: zamiast wydłużać kadencję samorządów, skrócić kadencję Sejmu
  - [https://www.bankier.pl/wiadomosc/PO-proponuje-zamiast-wydluzac-kadencje-samorzadow-skrocic-kadencje-Sejmu-8406103.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/PO-proponuje-zamiast-wydluzac-kadencje-samorzadow-skrocic-kadencje-Sejmu-8406103.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -443,3 +443,4 @@ konsekwencje pandemii koronawirusa okazały się dla tych branż pozytywne,
  - date published: 2022-09-14 03:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/3/9d07cef9bf9484-948-568-0-26-1776-1065.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Dodatkowe świadczenia i dopłaty do czynszu będą formą pomocy dla najmniej zarabiających w okresie wyższej inflacji - poinformował we wtorek premier Kanady Justin Trudeau.</p>
+

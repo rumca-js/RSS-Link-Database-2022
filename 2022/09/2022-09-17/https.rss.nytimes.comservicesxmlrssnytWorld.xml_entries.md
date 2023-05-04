@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Zaporizhzhia Nuclear Plant Has Power Restored, Watchdog Says
  - [https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html](https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html)
@@ -139,3 +139,4 @@ Scientists aim to determine whether a predator population can be restored in a p
  - date published: 2022-09-17 01:28:45+00:00
 
 Masha Amini was detained for allegedly violating dress rules. Her suspicious death, publicized by social media, has led to protests and condemnations by prominent Iranians.
+

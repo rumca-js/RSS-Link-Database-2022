@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A Brief Introduction to BERT
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59398](https://www.codeproject.com/script/News/View.aspx?nwid=59398)
@@ -118,3 +118,4 @@ WebAssembly (WASM) and WebAssembly System Interface (WASI) are opening new oppor
  - date published: 2022-11-04 04:00:00+00:00
 
 The update was to their bottom line
+

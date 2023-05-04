@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Czy TikTok został zhackowany?
  - [https://niebezpiecznik.pl/post/czy-tiktok-zostal-zhackowany/](https://niebezpiecznik.pl/post/czy-tiktok-zostal-zhackowany/)
@@ -27,3 +27,4 @@ Jeśli wiadomość o udanym ataku i wycieku danych zaczyna się od słów &#822
  - date published: 2022-09-05 08:17:14+00:00
 
 Dobry post zbierający informacje dotyczące różnic dotyczących USB-C. Nie ma nic wspólnego z bezpieczeństwem IT. Ale ma wiele wspólnego z bezpieczeństwem Waszej psychiki&#8230; zwłaszcza jeśli zamierzacie dobrać odpowiednią &#8220;przejściówkę&#8221;, &#8220;docka&#8221; lub &#8230;kabel do różnego rodzaju zastosowań. Bo nie każdy będzie działał zawsze :-)Przeczytaj także: Rosjanie wręczali politykom zainfekowane ładowarki i pendrive&#8217;y na szczycie G20? * [&#8230;]
+

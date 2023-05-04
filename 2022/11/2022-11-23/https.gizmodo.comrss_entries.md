@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Here's How Tech's Shaping the 2022 FIFA World Cup
  - [https://gizmodo.com/fifa-tech-soccer-qatar-1849818515](https://gizmodo.com/fifa-tech-soccer-qatar-1849818515)
@@ -293,3 +293,4 @@
  - date published: 2022-11-23 01:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--UKFsAIsT--/c_fit,fl_progressive,q_80,w_636/bb95cd5be60d4b580de00e937fa45d17.jpg" /><p>With Thanksgiving nearly upon us, we’re off to the races with holiday shopping. It’s a good time to be a <a href="https://gizmodo.com/designercon-2022-highlights-star-wars-marvel-halloween-1849808738">pop culture fan</a>, because not only are we are feasting on dinner, we’re faced with a bounty of options to help flash our favorite fandoms.</p><p><a href="https://gizmodo.com/fandom-holiday-gifts-star-wars-marvel-stranger-things-1849815066">Read more...</a></p>
+

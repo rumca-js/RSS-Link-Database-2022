@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## To on poprowadzi mecz Polaków o awans
  - [https://eurosport.tvn24.pl/ceniony-holender-poprowadzi-mecz-polak-w-o-awans,1126739.html?source=rss](https://eurosport.tvn24.pl/ceniony-holender-poprowadzi-mecz-polak-w-o-awans,1126739.html?source=rss)
@@ -529,3 +529,4 @@
 
 <img alt="Afera, która " src="https://tvn24.pl/najnowsze/cdn-zdjecie-oibeef-to-byl-temat-6238745/alternates/LANDSCAPE_1280" />
     Jak to możliwe, że politycy obozu rządzącego dali się nagrać mimo ochrony kontrwywiadowczej służb? Kto jeszcze jest na taśmach?
+

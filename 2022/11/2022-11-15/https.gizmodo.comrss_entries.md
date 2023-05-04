@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Thousands of People Are Tweeting the Exact Same Joke About Elon's Twitter Fiasco
  - [https://gizmodo.com/elon-musk-twitter-tweet-same-joke-closest-donate-money-1849787973](https://gizmodo.com/elon-musk-twitter-tweet-same-joke-closest-donate-money-1849787973)
@@ -307,3 +307,4 @@
  - date published: 2022-11-15 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Ta5HiX_6--/c_fit,fl_progressive,q_80,w_636/fd3b1179db6a87378c9f7d42340b9774.jpg" /><p>As fans of Anne Rice’s <em>Interview With the Vampire </em>know, when <a href="https://gizmodo.com/interview-with-the-vampire-amc-recap-episode-7-finale-1849781936">Louis and Claudia</a> first attempt to murder Lestat in the books, it’s a much less gory affair than the AMC series—which just released its season one finale—might lead you to believe. </p><p><a href="https://gizmodo.com/interview-with-the-vampire-season-finale-change-book-1849782205">Read more...</a></p>
+

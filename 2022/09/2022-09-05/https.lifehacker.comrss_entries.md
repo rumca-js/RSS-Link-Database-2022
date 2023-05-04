@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Remove Tar Stains From Your Carpet
  - [https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118](https://lifehacker.com/how-to-remove-tar-stains-from-your-carpet-1849494118)
@@ -20,3 +20,4 @@
  - date published: 2022-09-05 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--RLVfhb5M--/c_fit,fl_progressive,q_80,w_636/6287d77a9ce75c0309705d416a751f64.jpg" /><p>Most potted plants—whether they live indoors or outdoors—require some level of maintenance. Even succulents, air plants, and others you can essentially neglect for long periods of time, need to be watered occasionally. Plus, over time, dirt, dust, and other debris may end up settling on (and under) the leaves.</p><p><a href="https://lifehacker.com/y
+

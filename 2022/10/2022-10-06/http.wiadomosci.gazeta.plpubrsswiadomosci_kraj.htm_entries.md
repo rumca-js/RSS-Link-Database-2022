@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Lublin. Dentysta skazany na dwa lata i 10 miesięcy więzienia za gwałt na pacjentce. Będzie apelacja
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28994633,lublin-dentysta-skazany-na-dwa-lata-i-10-miesiecy-wiezienia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28994633,lublin-dentysta-skazany-na-dwa-lata-i-10-miesiecy-wiezienia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -132,3 +132,4 @@
  - date published: 2022-10-06 03:50:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/26/a5/1b/z28990758M,Pierscieniak-gryszpanowy---zdjecie-ilustracyjne.jpg" vspace="2" />W polskich lasach rośnie grzyb, który wygląda jak z teledysku Björk. To pierścieniak gryszpanowy, nazywany też łysiczką niebieskozieloną. Jest niebieski, a jego kapelusz pokrywają jasne plamki. Czy można go jeść?
+

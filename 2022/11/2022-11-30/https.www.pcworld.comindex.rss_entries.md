@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Hands on with Microsoft Designer, an AI art masterpiece
  - [https://www.pcworld.com/article/1419066/microsoft-designer-is-almost-a-masterpiece-already.html](https://www.pcworld.com/article/1419066/microsoft-designer-is-almost-a-masterpiece-already.html)
@@ -1213,3 +1213,4 @@ Monitors</div>
 
 <p><em>Prices subject to change.</em></p>
 Certifications, IT Skills, IT Training&nbsp;</div>
+

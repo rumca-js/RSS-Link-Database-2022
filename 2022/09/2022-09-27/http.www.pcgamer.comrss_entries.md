@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Aero GPX is F-Zero with the rage throttle set to 2,000 kmph
  - [https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph](https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph)
@@ -245,3 +245,4 @@ There's some good deals, but it's all about that limited mystery box.
  - date published: 2022-09-27 04:07:13+00:00
 
 Updating to GeForce Experience 3.26 addresses the problems.
+

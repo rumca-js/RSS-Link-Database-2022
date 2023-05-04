@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Your iPhone Has a Hidden Music Quiz
  - [https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243](https://lifehacker.com/your-iphone-has-a-hidden-music-quiz-1849774243)
@@ -111,3 +111,4 @@
  - date published: 2022-11-11 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--CC9HgY1D--/c_fit,fl_progressive,q_80,w_636/854dfbb8664f15042d8cab4b2a633668.jpg" /><p>The season is upon us: Mailboxes are filling up with letters from children to a jolly bearded toymaker/reindeer breeder while we frantically shop for the things our children think will make them happy. But are these items really going to spark joy for them in the months—or even weeks—ahead. If we get them everything…</p><p><a href="https://lifehacker.com/10-ways-to-make-your-kids-less-materialistic-during-the-1849768779">Read more...</a></p>
+

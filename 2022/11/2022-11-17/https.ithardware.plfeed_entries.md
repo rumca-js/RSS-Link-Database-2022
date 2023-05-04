@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nvidia i Microsoft wspólnie zbudują potężny superkomputer do obliczeń w chmurze
  - [https://ithardware.pl/aktualnosci/nvidia_i_microsoft_wspolnie_zbuduja_potezny_superkomputer_do_obliczen_w_chmurze-24409.html](https://ithardware.pl/aktualnosci/nvidia_i_microsoft_wspolnie_zbuduja_potezny_superkomputer_do_obliczen_w_chmurze-24409.html)
@@ -181,3 +181,4 @@ GeForce RTX 4060...
 
 <img src="https://ithardware.pl/artykuly/min/24390_1.jpg" />            Twitter może stracić jeszcze więcej pracownik&oacute;w po masowych zwolnieniach, kt&oacute;re zmniejszyły o połowę liczbę os&oacute;b zatrudnionych w firmie. Według The Washington Post, Elon Musk postawił pozostałym członkom personelu...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/elon_musk_wymaga_od_pracownikow_twittera_hardkorowego_zaangazowania_albo_zegna-24390.html">https://ithardware.pl/aktualnosci/elon_musk_wymaga_od_pracownikow_twittera_hardkorowego_zaangazowania_albo_zegna-24390.html</a></p>
+

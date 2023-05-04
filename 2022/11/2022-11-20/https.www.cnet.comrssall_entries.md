@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Andor' Episode 11 Recap: An Escape Plan and a Glorious Space Battle     - CNET
  - [https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-and-a-glorious-space-battle/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-and-a-glorious-space-battle/#ftag=CADf328eec)
@@ -419,3 +419,4 @@ The 30th Marvel Cinematic Universe movie finishes with a surprise that's sure to
  - date published: 2022-11-20 00:00:03+00:00
 
 The Star Wars show's season 1 finale arrives on Disney Plus next week.
+

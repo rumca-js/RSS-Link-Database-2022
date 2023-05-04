@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Białoruś. Rekonstrukcja "wyzwolenia" miasta. NKWD wyrzuca polska flagę i portret Piłsudskiego
  - [https://www.polsatnews.pl/wiadomosc/2022-09-18/bialorus-rekonstrukcja-wyzwolenia-miasta-nkwd-wyrzuca-polska-flage-i-portret-pilsudskiego/](https://www.polsatnews.pl/wiadomosc/2022-09-18/bialorus-rekonstrukcja-wyzwolenia-miasta-nkwd-wyrzuca-polska-flage-i-portret-pilsudskiego/)
@@ -62,3 +62,4 @@ Prezydent Andrzej Duda oddał hołd królowej Elżbiecie II przy trumnie wystawi
  - date published: 2022-09-18 07:01:00+00:00
 
 Nieopodal Denver w stanie Kolorado doszło do zderzenia dwóch niewielkich samolotów. Jak poinformowała lokalna policja, w wyniku wypadku zginęły trzy osoby znajdujące się na pokładach obu maszyn. Trwa ustalanie ich tożsamości. Okoliczności, w jakich doszło do tragedii jak dotąd są nieznane.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Most Common, Yet Overlooked Causes of Home Fires
  - [https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993](https://lifehacker.com/the-most-common-yet-overlooked-causes-of-home-fires-1849628993)
@@ -20,3 +20,4 @@
  - date published: 2022-10-09 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--BzR5rMm9--/c_fit,fl_progressive,q_80,w_636/545b2f26ac22bdb257e365b6824be25f.jpg" /><p>There’s more to buying a dishwasher than finding one that fits inside the rectangular hole under your kitchen counter. In fact, that’s only one of several calculations you should  take into consideration when purchasing one of these labor-saving appliances. Physical size aside, buying a dishwasher that doesn’t fit…</p><p><a href="https://lifehacker.
+

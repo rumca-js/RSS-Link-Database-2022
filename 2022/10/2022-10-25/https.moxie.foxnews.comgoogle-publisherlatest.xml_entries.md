@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Rams' Aaron Donald leaves Donda Sports amid Kanye West controversy
  - [https://www.foxnews.com/sports/rams-aaron-donald-leaves-donda-sports-ye-controversy](https://www.foxnews.com/sports/rams-aaron-donald-leaves-donda-sports-ye-controversy)
@@ -1287,3 +1287,4 @@ New York Republican gubernatorial candidate Lee Zeldin provides insight on his m
  - date published: 2022-10-25 00:02:01+00:00
 
 President Biden mistakingly called Vice President Kamala Harris a 'great president' during a White House event Monday.
+

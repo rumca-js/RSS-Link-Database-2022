@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## In Hell: A Cyberpunk Thriller, Dennis Hopper played a porn baron who dressed like a Pentium
  - [https://www.pcgamer.com/saturday-crapshoot-hell](https://www.pcgamer.com/saturday-crapshoot-hell)
@@ -55,3 +55,4 @@ Bautista's enthusiasm for the role of Marcus Fenix has not diminished.
  - date published: 2022-11-12 00:17:16+00:00
 
 Anything World launched this week, with a free version for student and personal use.
+

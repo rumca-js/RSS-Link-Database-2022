@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## 'No-one joined the dots' - grandad who exposed an NHS scandal
  - [https://www.bbc.co.uk/news/uk-63298087?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63298087?at_medium=RSS&at_campaign=KARANGA)
@@ -552,3 +552,4 @@ The BBC's media editor on how the BBC has to prove its worth, as it reaches its 
  - date published: 2022-10-18 00:19:47+00:00
 
 Beneath where Eurostar trains once whisked people from London to Paris, empty shops now stand.
+

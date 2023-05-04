@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## DC Universe Infinite launches Ultra tier so you can read new comics sooner
  - [https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription](https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription)
@@ -81,3 +81,4 @@
     </figure>
 
   <p id="sfWIVi">Rivian’s recalling about 13,000 electric vehicles (EVs) over a loose fastener that co
+

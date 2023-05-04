@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Oscar Issac on How Hope Plays into Leo's Arc
  - [https://gizmodo.com/oscar-issac-on-how-hope-plays-into-leos-arc-1849699515](https://gizmodo.com/oscar-issac-on-how-hope-plays-into-leos-arc-1849699515)
@@ -272,3 +272,4 @@
  - date published: 2022-10-27 00:20:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--HfeGZzMU--/c_fit,fl_progressive,q_80,w_636/639dd0a481926f39c4504165b863bf59.jpg" /><p>It seems the <a href="https://gizmodo.com/elon-musk-is-twitters-biggest-shareholder-with-9-percen-1848745937">richest</a> man in the world is not without problems. </p><p><a href="https://gizmodo.com/report-tesla-faces-criminal-probe-from-doj-over-its-se-1849707342">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Why Aren’t You Here?’: Wynonna Judd Admits She’s ‘Incredibly Angry’ About Her Mom’s Suicide
  - [https://www.dailywire.com/news/why-arent-you-here-wynonna-judd-admits-shes-incredibly-angry-about-her-moms-suicide](https://www.dailywire.com/news/why-arent-you-here-wynonna-judd-admits-shes-incredibly-angry-about-her-moms-suicide)
@@ -118,3 +118,4 @@ A clip of former President Donald Trump arguing that the election of President J
  - date published: 2022-09-25 08:28:17+00:00
 
 Transportation Secretary Pete Buttigieg argued on Thursday that citizens of Texas should consider purchasing electric vehicles. During a keynote address at the Texas Tribune Festival, Buttigieg contended that the Lone Star State could save money by buying electric cars to bypass prices at the pump. “Some of the best use cases for electric vehicles are ...
+

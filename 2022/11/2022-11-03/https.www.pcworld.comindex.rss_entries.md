@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## AMD’s radical Radeon RX 7900 XTX is brutally fast and a lot cheaper than Nvidia
  - [https://www.pcworld.com/article/1370428/amd-rdna-3-radeon-rx-7900-xtx-reveal.html](https://www.pcworld.com/article/1370428/amd-rdna-3-radeon-rx-7900-xtx-reveal.html)
@@ -672,3 +672,4 @@ Internet, Social Networking Apps</div>
 
 <p><em>Prices subject to change.</em></p>
 Xbox</div>
+

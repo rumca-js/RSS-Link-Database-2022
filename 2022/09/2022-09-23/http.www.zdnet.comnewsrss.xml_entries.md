@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to save on utility bills with 4 smart home devices
  - [https://www.zdnet.com/home-and-office/smart-home/how-to-save-on-utility-bills-with-4-smart-home-devices/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/how-to-save-on-utility-bills-with-4-smart-home-devices/#ftag=RSSbaffb68)
@@ -167,3 +167,4 @@ Insta360's live-action camera sale is in full swing, but it won't last forever.
  - date published: 2022-09-23 08:30:00+00:00
 
 Insta360's live-action camera sale is in full swing, but it won't last forever.
+

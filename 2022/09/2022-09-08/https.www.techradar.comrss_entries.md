@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Rings finally adds end-to-end encryption to wireless cameras, but there's a catch
  - [https://www.techradar.com/news/rings-finally-adds-end-to-end-encryption-to-wireless-cameras-but-theres-a-catch/](https://www.techradar.com/news/rings-finally-adds-end-to-end-encryption-to-wireless-cameras-but-theres-a-catch/)
@@ -244,3 +244,4 @@ The Apple A16 Bionic's 16 billion transistors is nothin to scoff at.
  - date published: 2022-09-08 01:59:39+00:00
 
 The new iPhone 14 is the best Apple’s ever made. Rokform’s ruggedly useful cases give you the confidence to take it wherever your adventures take you.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Matt Walsh Calmly Dismantles Radical Gender Theory While Protestors Gather To Complain About His Presence
  - [https://www.dailywire.com/news/matt-walsh-calmly-dismantles-radical-gender-theory-while-protestors-gather-to-complain-about-his-presence](https://www.dailywire.com/news/matt-walsh-calmly-dismantles-radical-gender-theory-while-protestors-gather-to-complain-about-his-presence)
@@ -440,3 +440,4 @@ An English broadcaster known as Great Britain’s first transgender national tel
  - date published: 2022-10-06 06:56:32+00:00
 
 A fired police officer slaughtered at least 35 people, including at least 24 children, in a shocking rampage Thursday at a Thailand daycare center before escaping, then killing himself amid a frantic manhunt, officials said. Thai media outlet Khaosod Online reported that the gunman stormed the facility in the Na Klang district of Nong Bua Lamphu province ...
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Long Covid's astounding impact, explained in numbers and charts – video
  - [https://www.theguardian.com/world/video/2022/nov/07/long-covids-astounding-impact-explained-in-numbers-and-charts-video](https://www.theguardian.com/world/video/2022/nov/07/long-covids-astounding-impact-explained-in-numbers-and-charts-video)
@@ -797,3 +797,4 @@ A Republican midterm landslide is the last thing a divided, angry America needs<
  - date published: 2022-11-06 00:00:04+00:00
 
 <p>The z-list hazing ritual returns to Australia. Plus, more lively special forces action in Steven Knight’s new drama. Here’s what to watch this evening</p><p>It’s (already) time to stick a bunch of celebrities in the jungle after two years of being herded into a Welsh castle. Boy George, Chris Moyles, Babatunde Aléshé, Mike Tindall, Sue Cleaver, Charlene White and that most Partridge-adjacent, sucker-for-punishment of all MPs Matt Hancock are heading down under for the 22nd series. <em>Hollie Richardson</em></p> <a href="https://www.theguardian.com/tv-and-radio/2022/nov/06/tv-tonight-more-hapless-celebs-head-to-the-jungle">Continue reading...</a>
+

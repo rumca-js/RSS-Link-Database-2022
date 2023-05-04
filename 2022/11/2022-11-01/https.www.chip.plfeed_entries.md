@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Kropki kwantowe tworzą pożądany materiał, choć trzeba było spełnić pewien warunek
  - [https://www.chip.pl/2022/11/kropki-kwantowe-metamaterial-wlasciwosci](https://www.chip.pl/2022/11/kropki-kwantowe-metamaterial-wlasciwosci)
@@ -103,3 +103,4 @@
 
 <img alt="Su-57" class="attachment-full size-full wp-post-image" height="1068" src="https://konto.chip.pl/wp-content/uploads/2022/04/Rosyjski-mysliwiec-Su-57-na-ukrainskim-niebie-potwierdza-kolejna-nieudolnosc-agresora-1.jpg" style="margin-bottom: 10px;" width="1600" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/04/Rosyjski-mysliwiec-Su-57-na-ukrainskim-niebie-potwierdza-kolejna-nieudolnosc-agresora-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Jeśli wierzyć informacjom podawanym przez rosyjską agencję prasową TASS, czyli tą, której działaniami steruje właśnie tamtejszy rząd, ulepszony rosyjski Su-57 wzniósł się niedawno w przestworza, zaliczając debiutancki lot testowy. Nie jest to byle jaki myśliwiec, a rosyjskie &#8220;oczko w głowie&#8221;, choć spóźnione o wiele lat. Rosja chce jednak, żebyśmy widzieli w Su-57 najlepszą wielozadaniową maszynę [&#8230;]</p>
+

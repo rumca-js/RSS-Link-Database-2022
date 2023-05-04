@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Elon Musk sam kupuje reklamy na swoim Twitterze
  - [https://ithardware.pl/aktualnosci/elon_musk_sam_kupuje_reklamy_na_swoim_twitterze-24349.html](https://ithardware.pl/aktualnosci/elon_musk_sam_kupuje_reklamy_na_swoim_twitterze-24349.html)
@@ -155,3 +155,4 @@ Najnowsze informacje pochodzą od sprawdzonego informatora...
 
 <img src="https://ithardware.pl/artykuly/min/24332_1.jpg" />            Kilka dni temu JonnyGuru poinformował, że większość problem&oacute;w ze stopionymi 16-pinowymi złączami &bdquo;12VHPWR&rdquo; w kartach graficznych NVIDIA GeForce RTX 4090 była spowodowana złym lub niewłaściwym podłączeniem. Teraz pojawił...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4090_stopila_sie_prawidlowo_wpieta_wtyczka_zasialania_nvidia_ma_duzy_problem-24332.html">https://ithardware.pl/aktualnosci/geforce_rtx_4090_stopila_sie_prawidlowo_wpieta_wtyczka_zasialania_nvidia_ma_duzy_problem-24332.html</a></p>
+

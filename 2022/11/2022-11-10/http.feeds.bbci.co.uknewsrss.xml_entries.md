@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Carabao Cup draw: Manchester City to host holders Liverpool
  - [https://www.bbc.co.uk/sport/football/63591038?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63591038?at_medium=RSS&at_campaign=KARANGA)
@@ -636,3 +636,4 @@ The government's justification for upcoming UK tax rises and spending cuts is sh
  - date published: 2022-11-10 00:00:30+00:00
 
 The first ever national walkout by nurses and the results of the US midterms lead the papers.
+

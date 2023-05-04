@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Poważne problemy w Rosji. "Tego nie było od 1941 roku"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-powazne-problemy-w-rosji-tego-nie-bylo-od-1941-roku,nId,6326356](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-powazne-problemy-w-rosji-tego-nie-bylo-od-1941-roku,nId,6326356)
@@ -34,3 +34,4 @@
  - date published: 2022-10-04 04:11:17+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-wprowadzi-zakaz-azylu-dla-migrantow-z-kanalu,nId,6326057"><img align="left" alt="Wielka Brytania wprowadzi zakaz azylu dla migrantów z kanału La Manche" src="https://i.iplsc.com/wielka-brytania-wprowadzi-zakaz-azylu-dla-migrantow-z-kanalu/000AGJT95B6YDVBX-C321.jpg" /></a>Od początku roku do Wielkiej Brytanii przez kanał La Manche przedostało się ponad 30 tys. nielegalnych imigrantów. Brytyjska minister spraw wewnętrznych Su
+

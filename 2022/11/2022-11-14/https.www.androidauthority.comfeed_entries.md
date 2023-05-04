@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## We have sad news for anyone who somehow wanted a Facebook smartwatch
  - [https://www.androidauthority.com/facebook-smartwatch-2-3234685/](https://www.androidauthority.com/facebook-smartwatch-2-3234685/)
@@ -97,3 +97,4 @@ Check out this alleged shot from the Galaxy S23 Ultra's 200MP camera.
  - date published: 2022-11-14 06:00:06+00:00
 
 Would you resurrect LG? Or what about BlackBerry? Perhaps a different brand altogether?
+

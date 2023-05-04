@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Best Buy manager hypes up employees before the Black Friday hordes attack Steve Austin style... with beer
  - [https://www.louderwithcrowder.com/best-buy-manager](https://www.louderwithcrowder.com/best-buy-manager)
@@ -69,3 +69,4 @@
 <a href="https://youtu.be/E2U_mdhNlIA" target="_blank">youtu.be</a>
 </small>
 </p>
+

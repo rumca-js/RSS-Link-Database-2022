@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 9 arrested over Morbi bridge collapse that killed 134 in India
  - [https://www.cnn.com/2022/10/31/asia/india-bridge-collapse-arrests-intl-hnk/index.html](https://www.cnn.com/2022/10/31/asia/india-bridge-collapse-arrests-intl-hnk/index.html)
@@ -1466,5 +1466,6 @@ At least 154 people were killed and over 100 injured in a crowd surge at packed 
  - [https://www.cnn.com/collections/intl-3110-itaewon/](https://www.cnn.com/collections/intl-3110-itaewon/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-31 00:06:45+00:00
+
 
 

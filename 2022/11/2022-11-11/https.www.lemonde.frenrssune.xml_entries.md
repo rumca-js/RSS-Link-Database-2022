@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## In Hong Kong, a 'mega-events committee' watches over the city's attractiveness
  - [https://www.lemonde.fr/en/international/article/2022/11/11/in-hong-kong-a-mega-events-committee-watches-over-the-city-s-attractiveness_6003915_4.html](https://www.lemonde.fr/en/international/article/2022/11/11/in-hong-kong-a-mega-events-committee-watches-over-the-city-s-attractiveness_6003915_4.html)
@@ -230,3 +230,4 @@ One child is being admitted for medical treatment for malnutrition every minute 
  - date published: 2022-11-11 01:13:53+00:00
 
 The political world is turning its focus to the state of Nevada — which results could determine which party would control the Senate. Here's why it could take several more days until there's clarity on who won.
+

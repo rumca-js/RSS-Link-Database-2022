@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## She-Hulk: Attorney at Law Episode 8 Review
  - [https://gizmodo.com/she-hulk-attorney-at-law-episode-8-review-1849633036](https://gizmodo.com/she-hulk-attorney-at-law-episode-8-review-1849633036)
@@ -244,3 +244,4 @@
  - date published: 2022-10-07 00:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--jq3LCO0D--/c_fit,fl_progressive,q_80,w_636/98650651a4d8345e5b5972ca195d0946.jpg" /><p>A group of adult entertainers suing Meta say they were leaked new evidence of bribery—bank records that detail wire transfers from OnlyFans executives to offshore accounts for Meta executives.<br /></p><p><a href="https://gizmodo.com/onlyfans-meta-facebook-execs-wire-transfers-bribe-court-1849627800">Read more...</a></p>
+

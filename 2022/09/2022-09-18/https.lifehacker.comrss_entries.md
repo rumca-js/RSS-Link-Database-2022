@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Haggle When You're Buying a New Mattress
  - [https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757](https://lifehacker.com/how-to-haggle-when-youre-buying-a-new-mattress-1849546757)
@@ -20,3 +20,4 @@
  - date published: 2022-09-18 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--h2kVYzLP--/c_fit,fl_progressive,q_80,w_636/372d8a8399c7a402cc0889e4089e7487.jpg" /><p>When it comes to the temperature inside your home, you probably have a decent idea of how warm or cool you need it to be in order to be comfortable, and based on your energy costs, what you can afford. But what about your home’s humidity level? Your thermostat might indicate what it is, but ideally, what should it be?</p><p><a href="https://lifehack
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Zaskakujące zakończenie rozmowy u Olejnik, goście złapali się za twarze. "Danke Deutschland" [WIDEO]
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29176829,zaskakujace-zakonczenie-rozmowy-u-olejnik-goscie-zlapali-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29176829,zaskakujace-zakonczenie-rozmowy-u-olejnik-goscie-zlapali-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -132,3 +132,4 @@
  - date published: 2022-11-23 06:03:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/4a/26/1b/z28469066M,Pierwsza-prezes-Sadu-Najwyzszego-Malgorzata-Manows.jpg" vspace="2" />Będzie okrągły stół ws. polskiego sądownictwa pod auspicjami OBWE - dowiedziała się "Rzeczpospolita". Konkluzje ze spotkania mają pomóc zakończyć spór ws. sądownictwa w kontekście praworządności. Szczegóły dyskusji owiane są tajemnicą, ale wiadomo już, że weźmie w niej udział m.in. prezeska Sądu Najwyższego Małgorzata Manowska.
+

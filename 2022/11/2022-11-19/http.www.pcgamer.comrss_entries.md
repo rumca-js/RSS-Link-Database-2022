@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Assassin's Creed Valhalla comes to a close with its final, December update
  - [https://www.pcgamer.com/ac-valhalla-comes-to-a-close-with-its-final-december-update](https://www.pcgamer.com/ac-valhalla-comes-to-a-close-with-its-final-december-update)
@@ -62,3 +62,4 @@ Until then your Sims will just steal your lunch money.
  - date published: 2022-11-19 00:17:07+00:00
 
 CS:GO has nerfed the AWP. This is not a drill.
+

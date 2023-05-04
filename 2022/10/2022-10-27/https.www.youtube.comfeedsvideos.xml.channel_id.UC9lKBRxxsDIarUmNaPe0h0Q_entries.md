@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## We are officially in an oil war (USA vs OPEC)
  - [https://www.youtube.com/watch?v=Ui3DGD7qaxA](https://www.youtube.com/watch?v=Ui3DGD7qaxA)
@@ -46,3 +46,4 @@ Presented by Sorelle Amore.
 Written by Leon Hill.
 
 #OPEC #SPR #OilIndustry
+

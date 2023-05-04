@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## At least eighty killed in air raid in Myanmar
  - [https://www.lemonde.fr/en/international/article/2022/10/26/at-least-eighty-killed-in-air-raid-in-myanmar_6001782_4.html](https://www.lemonde.fr/en/international/article/2022/10/26/at-least-eighty-killed-in-air-raid-in-myanmar_6001782_4.html)
@@ -237,3 +237,4 @@ The centrist government survived three no-confidence votes Monday prompted by op
  - date published: 2022-10-25 02:11:05+00:00
 
 Four Palestinians were killed early Tuesday in Nablus and Ramallah in raids by Israeli forces, the Palestinian Health Ministry said. The Israeli army confirmed that they had conducted a large-scale night operation in the West bank.
+

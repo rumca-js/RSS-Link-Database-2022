@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Ukraine backs calls for Boris Johnson to return as UK PM after Liz Truss resigned
  - [https://www.dailymail.co.uk/news/article-11338539/Ukraine-backs-calls-Boris-Johnson-return-UK-PM-Liz-Truss-resigned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11338539/Ukraine-backs-calls-Boris-Johnson-return-UK-PM-Liz-Truss-resigned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1791,3 +1791,4 @@ When I walked through a wood in Herefordshire this week, I heard the raucous cha
  - date published: 2022-10-20 00:00:15+00:00
 
 Interest rates are on course to record the biggest rise in 30 years next month as the Bank of England continues to grapple with red-hot inflation.
+

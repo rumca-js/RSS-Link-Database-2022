@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Jean-Marie Straub, filmmaker exiled to Germany, dies at 89
  - [https://www.lemonde.fr/en/obituaries/article/2022/11/20/jean-marie-straub-filmmaker-exiled-to-germany-dies-at-89_6005001_15.html](https://www.lemonde.fr/en/obituaries/article/2022/11/20/jean-marie-straub-filmmaker-exiled-to-germany-dies-at-89_6005001_15.html)
@@ -216,3 +216,4 @@ Twitter owner Elon Musk ran a poll in which a narrow majority of voters supporte
  - date published: 2022-11-20 00:27:57+00:00
 
 The air raides come nearly a week after a deadly bombing in Istanbul that Turkish authorities attribute to the Kurdish PKK movement.
+

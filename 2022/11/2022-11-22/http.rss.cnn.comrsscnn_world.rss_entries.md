@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Shocked Iranian medics leak stories of protesters raped in detention
  - [https://www.cnn.com/interactive/2022/11/middleeast/iran-protests-sexual-assault/](https://www.cnn.com/interactive/2022/11/middleeast/iran-protests-sexual-assault/)
@@ -41,3 +41,4 @@ One day after the shock announcement of Bob Iger's return to Disney, and the res
  - date published: 2022-11-22 03:06:46+00:00
 
 More than 100 people were rescued from an overloaded vessel before it hit a sand bar in the Florida Keys, according to the US Coast Guard.
+

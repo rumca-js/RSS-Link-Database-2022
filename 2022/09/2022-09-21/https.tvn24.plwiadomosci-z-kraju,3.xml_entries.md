@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Stacje Lotosu zmienią barwy. Podano termin
  - [https://tvn24.pl/biznes/z-kraju/orlen-lotos-stacje-lotosu-zmienia-barwy-pkn-orlen-ma-zakonczyc-rebranding-w-styczniu-2023-roku-6124322?source=rss](https://tvn24.pl/biznes/z-kraju/orlen-lotos-stacje-lotosu-zmienia-barwy-pkn-orlen-ma-zakonczyc-rebranding-w-styczniu-2023-roku-6124322?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Coraz więcej ludzi traci pracę. Cięć etatów przybędzie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jn1ndh-pap2022040131f-1-6122809/alternates/LANDSCAPE_1280" />
     Już 12,9 tysięcy osób straciło do lipca pracę. To ponad jedna czwarta więcej niż przed rokiem. Cięć etatów jeszcze przybędzie - donosi w środę "Rzeczpospolita". Gazeta podaje, że liczba ofert pracy maleje w skali roku. Z kolei we wtorek Główny Urząd Statystyczny (GUS) poinformował, że przeciętne wynagrodzenie brutto w sekt
+

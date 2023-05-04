@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Google shares newly-found commercial spyware threats
  - [https://www.zdnet.com/article/google-shares-newly-found-commercial-spyware-threats/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-shares-newly-found-commercial-spyware-threats/#ftag=RSSbaffb68)
@@ -251,3 +251,4 @@ Epson will stop selling laser printers by 2026 and switch fully to more inkjet p
  - date published: 2022-11-30 10:42:52+00:00
 
 You can save big on monitors, PCs, and accessories this week at HP.
+

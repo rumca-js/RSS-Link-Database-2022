@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Remember, the Brendan Fraser Renaissance Began With Doom Patrol
  - [https://gizmodo.com/brendan-fraser-doom-patrol-robotman-comeback-whale-1849501496](https://gizmodo.com/brendan-fraser-doom-patrol-robotman-comeback-whale-1849501496)
@@ -300,3 +300,4 @@
  - date published: 2022-09-06 11:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--SI9d5KGA--/c_fit,fl_progressive,q_80,w_636/6ae9d12fd596d111e8a0ba2b5db50c2b.jpg" /><p>Will Sloan, a movie podcast host in Canada, first posted an old family photo online in 2016, asking if anyone knew what cartoon was playing on the TV in the background. Oddly, nobody could figure it out. But someone finally cracked the case on Monday after six long years.<br /></p><p><a href="https://gizmodo.com/youtube-tv-elf-photo-will-sloan-soulm
+

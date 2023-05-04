@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## OpenSSL is patching just its second critical security flaw ever
  - [https://www.techradar.com/news/openssl-is-patching-just-its-second-critical-security-flaw-ever/](https://www.techradar.com/news/openssl-is-patching-just-its-second-critical-security-flaw-ever/)
@@ -230,3 +230,4 @@ Konami announced an extensive roadmap for the future of Silent Hill and it may b
  - date published: 2022-10-27 04:00:34+00:00
 
 Sony's LinkBuds S wireless earbuds now come in a new Earth Blue version made from recycled water dispensers.
+

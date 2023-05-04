@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## President Biden Remembers Queen Elizabeth II Who ‘Defined an Era’
  - [https://www.nytimes.com/2022/09/08/world/europe/biden-queen-elizabeth.html](https://www.nytimes.com/2022/09/08/world/europe/biden-queen-elizabeth.html)
@@ -307,3 +307,4 @@ Vladimir Putin’s energy influence in Europe.
  - date published: 2022-09-08 04:01:11+00:00
 
 With nearby sunflower fields unplanted and rockets overhead, a Ukrainian’s bees ventured toward the battlefront and returned with a bumper crop.
+

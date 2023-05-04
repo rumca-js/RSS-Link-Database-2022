@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Why Horror Games Are Good For You | MindGames
  - [https://www.gamespot.com/videos/why-horror-games-are-good-for-you-mindgames/2300-6459698/](https://www.gamespot.com/videos/why-horror-games-are-good-for-you-mindgames/2300-6459698/)
@@ -13,3 +13,4 @@
  - date published: 2022-10-09 00:05:00+00:00
 
 <p> </p><p dir="ltr">Netflix has released a new trailer for Wednesday, a new series focusing on the titular Addams family member--along with the trials and tribulations of high school as well as learning how to step out of her mother's intimidating shadow and become her own woman. The series is scheduled for a November 23 debut.</p><p dir="ltr">One of the biggest reveals in this new trailer is that Fred Armisen (Our Flag Means Death, Saturday Night Live) will be taking on the role of Uncle Feste
+

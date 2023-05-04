@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Mario flipped off Twitter for nearly two hours with the blessing of Musk’s ‘verification’
  - [https://www.theverge.com/2022/11/9/23450289/twitter-impersonators-official-mario-musk-jesus-valve](https://www.theverge.com/2022/11/9/23450289/twitter-impersonators-official-mario-musk-jesus-valve)
@@ -808,3 +808,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/8/23448473/elon-musk-tesla-shares-sell-twitter">Continue reading&hellip;</a>
   </p>
+

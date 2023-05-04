@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Jurgen Klopp: Liverpool manager says he is committed to the club despite ownership uncertainty
  - [https://www.bbc.co.uk/sport/football/63579162?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63579162?at_medium=RSS&at_campaign=KARANGA)
@@ -671,3 +671,4 @@ Rising prices affect parents' shopping habits as sales of Christmas toys are for
  - date published: 2022-11-09 00:04:08+00:00
 
 The Democrats currently control all three branches of government, but that could change after the US midterms.
+

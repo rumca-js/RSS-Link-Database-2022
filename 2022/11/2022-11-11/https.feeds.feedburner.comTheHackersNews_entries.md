@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Experts Uncover Two Long-Running Android Spyware Campaigns Targeting Uyghurs
  - [https://thehackernews.com/2022/11/experts-uncover-two-long-running.html](https://thehackernews.com/2022/11/experts-uncover-two-long-running.html)
@@ -59,3 +59,4 @@ Vasiliev has been
 
 Microsoft on Thursday attributed the recent spate of ransomware incidents targeting transportation and logistics sectors in Ukraine and Poland to a threat cluster that shares overlaps with the Russian state-sponsored Sandworm group.
 The attacks, which were disclosed by the tech giant last month, involved a strain of previously undocumented malware called Prestige and is said to have taken place
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Delta pilots say they're willing to strike
  - [https://www.cnn.com/2022/10/31/business/delta-pilots-strike-thanksgiving-travel/index.html](https://www.cnn.com/2022/10/31/business/delta-pilots-strike-thanksgiving-travel/index.html)
@@ -41,3 +41,4 @@ British charities and officials are warning of increasingly dire conditions at a
  - date published: 2022-10-31 02:27:36+00:00
 
 Stellantis said that shareholders of its loss-making joint venture producing Jeep vehicles in China have approved it to file for bankruptcy.
+

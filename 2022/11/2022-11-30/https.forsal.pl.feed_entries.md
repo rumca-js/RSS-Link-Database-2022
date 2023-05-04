@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Ukraina: Wygląda na to, że Rosji skończyły się irańskie drony
  - [https://forsal.pl/swiat/ukraina/artykuly/8600323,ukraina-wyglada-na-to-ze-rosji-skonczyly-sie-iranskie-drony.html](https://forsal.pl/swiat/ukraina/artykuly/8600323,ukraina-wyglada-na-to-ze-rosji-skonczyly-sie-iranskie-drony.html)
@@ -867,3 +867,4 @@
  - date published: 2022-11-30 00:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/fxdktkuTURBXy8yM2Q2NWY0OC1iY2Q4LTQ0M2MtOWFmMi0zNGUxMTgzM2Q4ZDMuanBlZ5GTBc0BHcyg" />Przykręcanie kaloryferów, wygaszanie świateł, obniżanie temperatury wody w kranach – tak uczelnie starają się obniżyć koszty utrzymania. Aby ratować sytuację szkół wyższych, na ich rachunki zrzucają się… studenci
+

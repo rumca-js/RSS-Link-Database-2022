@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Hong Kong says it's back open for business. Will the world buy it?
  - [https://www.cnn.com/2022/11/05/asia/hong-kong-reopen-finance-summit-rugby-sevens-intl-hnk/index.html](https://www.cnn.com/2022/11/05/asia/hong-kong-reopen-finance-summit-rugby-sevens-intl-hnk/index.html)
@@ -419,3 +419,4 @@ Federal official Jeff Andre was vacationing at Walt Disney World's Animal Kingdo
  - date published: 2022-11-05 00:10:04+00:00
 
 A fresh graduate in her first full-time job; a teenager who helped raise her siblings after their father's death; a foreign exchange student excited for his first trip to Asia.
+

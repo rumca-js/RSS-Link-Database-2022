@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Rocket launches pose extinction-level threat to SA’s tiny southern emu wren, conservationists warn
  - [https://www.theguardian.com/australia-news/2022/nov/26/rocket-launches-pose-extinction-level-threat-to-sas-tiny-southern-emu-wren-conservationists-warn](https://www.theguardian.com/australia-news/2022/nov/26/rocket-launches-pose-extinction-level-threat-to-sas-tiny-southern-emu-wren-conservationists-warn)
@@ -1035,3 +1035,4 @@
  - date published: 2022-11-25 00:00:41+00:00
 
 <p>Ruling DPP puts Beijing at centre of campaign while rival KMT steers clear, in first vote since tensions in the Taiwan Strait escalated</p><ul><li><a href="https://www.theguardian.com/world/2022/aug/01/china-and-taiwan-whats-behind-the-tensions-in-30-seconds">China-Taiwan tensions explained in 30 seconds</a></li></ul><p>On Sunday afternoon 150,000 people gathered in front of the Taipei city hall. Harley motorcycles, giant floats, balloons and mascots led the parade to a soundtrack of <a href="https://generasian.blog/2018/04/08/musicians-banned-from-china-for-being-pro-taiwan/">music banned in China</a>. It looked like a concert, but on this day the main act was a politician.</p><p>The crowds were there to support Taipei mayoral candidate Chen Shih-chung, a former minister of health with the governing Democratic Progressive party (DPP).</p> <a href="https://www.theguardian.com/world/2022/nov/25/china-threat-looms-in-taiwans-local-elections-as-voters-weigh-islands-future">Continue reading...</a>
+

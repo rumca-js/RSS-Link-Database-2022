@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Energy Vault kończy budowę dwóch baterii grawitacyjnych do długoterminowego magazynowania
  - [https://ithardware.pl/aktualnosci/energy_vault_konczy_budowe_dwoch_baterii_grawitacyjnych_do_dlugoterminowego_magazynowania-24594.html](https://ithardware.pl/aktualnosci/energy_vault_konczy_budowe_dwoch_baterii_grawitacyjnych_do_dlugoterminowego_magazynowania-24594.html)
@@ -171,3 +171,4 @@ Intel Overclocking...
 
 <img src="https://ithardware.pl/artykuly/min/24576_1.jpg" />            Według źr&oacute;deł BoardChannels (za VideoCardz), NVIDIA ogłosiła partnerom zaprzestanie produkcji kart graficznych z serii GeForce RTX 2060/GTX 1660. To już drugi raz, kiedy pojawiają się plotki na temat odesłania na emeryturę RTX 2060,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/kolejne_zrodla_potwierdzaja_zakonczenie_produkcji_jednych_z_najpopularniejszych_grafik_nvidii-24576.html">https://ithardware.pl/aktualnosci/kolejne_zrodla_potwierdzaja_zakonczenie_produkcji_jednych_z_najpopularniejszych_grafik_nvidii-24576.html</a></p>
+

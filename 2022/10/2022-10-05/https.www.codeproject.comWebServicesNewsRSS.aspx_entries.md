@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET build improvement: Stop wasting resources
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59088](https://www.codeproject.com/script/News/View.aspx?nwid=59088)
@@ -76,3 +76,4 @@ You know the solution - ignore all emails from your boss
  - date published: 2022-10-05 04:00:00+00:00
 
 Will you still write me, will you still compile me, when I'm sixty-four (bits)?
+

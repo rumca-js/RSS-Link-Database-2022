@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitter Tries Calming Employees as Deal With Elon Musk Looms
  - [https://www.nytimes.com/2022/10/21/technology/twitter-employees-elon-musk.html](https://www.nytimes.com/2022/10/21/technology/twitter-employees-elon-musk.html)
@@ -48,3 +48,4 @@ Emad Mostaque, the founder of Stability AI, says his Stable Diffusion image gene
  - date published: 2022-10-21 00:34:51+00:00
 
 The food delivery company had been moving toward a public offering, but the window for such deals is shutting amid market turmoil.
+

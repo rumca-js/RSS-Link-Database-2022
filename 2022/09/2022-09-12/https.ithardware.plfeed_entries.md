@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Google zmienia zasady udostępniania ocen i recenzji w Play Store
  - [https://ithardware.pl/aktualnosci/google_zmienia_zasady_udostepniania_ocen_i_recenzji_w_play_store-23254.html](https://ithardware.pl/aktualnosci/google_zmienia_zasady_udostepniania_ocen_i_recenzji_w_play_store-23254.html)
@@ -181,3 +181,4 @@ Informator twierdzi, że wydajność GPU AD106, kt&oacute;re powinno...
 
 <img src="https://ithardware.pl/artykuly/min/23233_1.jpg" />            W grupie x-kom rozpoczął się właśnie tydzień obniżonych cen na smartfony i akcesoria GSM. Znajdziecie w nim mn&oacute;stwo urządzeń, takich jak smartfony, powerbanki czy akcesoria GSM, a to wszystko w obniżonych cenach. Dodatkowo x-kom...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/karty_graficzne_plyty_glowne_smartfony_i_akcesoria_gsm_w_zadziwiajaco_niskich_w_x_komie-23233.html">https://ith
+

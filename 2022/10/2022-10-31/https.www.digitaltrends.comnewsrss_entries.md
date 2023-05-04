@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This gaming PC inside a vintage radio is truly amazing
  - [https://www.digitaltrends.com/computing/gaming-pc-inside-vintage-radio/](https://www.digitaltrends.com/computing/gaming-pc-inside-vintage-radio/)
@@ -27,3 +27,4 @@ Nvidia's upcoming RTX 4080 graphics card is starting to appear at various retail
  - date published: 2022-10-31 23:20:03.757131+00:00
 
 Astronomers announced they have spotted a huge asteroid nearly a mile wide that could one day intersect with Earth's path.
+

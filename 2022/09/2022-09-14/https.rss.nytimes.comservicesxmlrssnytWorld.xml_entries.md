@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Prosecutor Who Sought to Use Evidence Derived From Torture Leaves Cole Case
  - [https://www.nytimes.com/2022/09/14/us/politics/torture-uss-cole-case.html](https://www.nytimes.com/2022/09/14/us/politics/torture-uss-cole-case.html)
@@ -258,3 +258,4 @@ A quarter-century ago Princess Diana’s shocking death provoked outrage at the 
  - date published: 2022-09-14 04:37:55+00:00
 
 Falling Russian morale.
+

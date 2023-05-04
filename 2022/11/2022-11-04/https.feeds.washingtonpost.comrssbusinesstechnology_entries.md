@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter layoffs gutted election information teams days before midterms
  - [https://www.washingtonpost.com/technology/2022/11/05/twitter-layoffs-election-impact/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/twitter-layoffs-election-impact/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -62,3 +62,4 @@ The pandemic created new communication habits at work, but has anything changed 
  - date published: 2022-11-04 00:01:08+00:00
 
 The remains of the massive rocket, which carried the last module of a Chinese space station to orbit on Monday, is expected to plunge through the atmosphere, perhaps as soon as Friday.
+

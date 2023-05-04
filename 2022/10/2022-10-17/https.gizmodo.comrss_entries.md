@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Man of Steel 2 Is Back in Play, Along With More Batman Villain Films
  - [https://gizmodo.com/dc-man-of-steel-2-batman-villains-wonder-woman-3-update-1849669386](https://gizmodo.com/dc-man-of-steel-2-batman-villains-wonder-woman-3-update-1849669386)
@@ -293,3 +293,4 @@
  - date published: 2022-10-17 02:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--E7HVyPuC--/c_fit,fl_progressive,q_80,w_636/0ab302194a1eed6a1f8bd3a6b6c0a62c.jpg" /><p><a href="https://gizmodo.com/house-of-the-dragon-episode-8-recap-lord-of-the-tides-1849635087">The king is dead</a>. Now the question is, long live who? Or maybe this is the better question: Does there needs to be a king regardless of his unfitness—or if someone who everyone agrees would be far superior should rule, even if they’re female? It’s a qu
+

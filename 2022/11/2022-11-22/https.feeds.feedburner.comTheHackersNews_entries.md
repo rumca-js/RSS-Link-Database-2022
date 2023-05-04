@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## This Malware Installs Malicious Browser Extensions to Steal Users' Passwords and Cryptos
  - [https://thehackernews.com/2022/11/this-malware-installs-malicious-browser.html](https://thehackernews.com/2022/11/this-malware-installs-malicious-browser.html)
@@ -41,3 +41,4 @@ Palo Alto
 
 The U.S. Justice Department (DoJ) on Monday announced the takedown of seven domain names in connection to a "pig butchering" cryptocurrency scam. The fraudulent scheme, which operated from May to August 2022, netted the actors over $10 million from five victims, the DoJ said.
 Pig butchering, also called Sha Zhu Pan, is a type of scam in which swindlers lure unsuspecting investors into sending
+

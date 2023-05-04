@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Foreign Trade Competition Has Hurt Black and Disadvantaged Workers Most, Report Says
  - [https://www.nytimes.com/2022/11/15/business/economy/trade-policy-black-disadvantaged-workers.html](https://www.nytimes.com/2022/11/15/business/economy/trade-policy-black-disadvantaged-workers.html)
@@ -202,3 +202,4 @@ The prime minister has met with more than a dozen world leaders in recent days, 
  - date published: 2022-11-15 00:00:15+00:00
 
 Just days after the southern city of Kherson was liberated after eight months of Russian occupation, accounts of beatings, torture and disappearances are emerging.
+

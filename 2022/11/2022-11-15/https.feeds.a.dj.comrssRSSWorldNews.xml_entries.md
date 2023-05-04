@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Missile Hits Polish Territory Near Ukrainian Border
  - [https://www.wsj.com/articles/poland-russian-missile-strike-11668540716](https://www.wsj.com/articles/poland-russian-missile-strike-11668540716)
@@ -97,3 +97,4 @@ China’s economy sank into a deeper funk last month as the weight of strict zer
  - date published: 2022-11-15 03:14:00+00:00
 
 The world’s third-largest economy contracted for the first time in a year, reflecting weak external demand and a sluggish recovery in private spending.
+

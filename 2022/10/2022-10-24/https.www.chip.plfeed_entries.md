@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Jak brzmi pole magnetyczne Ziemi? Przerażająco!
  - [https://www.chip.pl/2022/10/jak-brzmi-pole-magnetyczne-ziemi-nagranie](https://www.chip.pl/2022/10/jak-brzmi-pole-magnetyczne-ziemi-nagranie)
@@ -183,3 +183,4 @@
 
 <img alt="rzelot Sił Powietrznych USA" class="attachment-full size-full wp-post-image" height="1077" src="https://konto.chip.pl/wp-content/uploads/2022/10/Pierwszy-taki-przelot-Sil-Powietrznych-USA-w-historii.-Te-zdjecia-zachwycaja-6.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/Pierwszy-taki-przelot-Sil-Powietrznych-USA-w-historii.-Te-zdjecia-zachwycaja-6.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Siły Powietrzne USA potrzebują świeżej krwi w dziedzinie nauki oraz inżynierii, ale też zastrzyku kadrowego w przypadku pilotów. Ostatnie wyczyny profesjonalnych pilotów miały na celu zainteresowanie nowego pokolenia co do obrania kierunku w tę właśnie stronę, a że młodzi, to przyszłość, inicjatywa była wręcz huczna. W rzeczywistości ostatnio miał miejsce pierwszy taki przelot Sił Powietrznych [&#8230;]</p>
+

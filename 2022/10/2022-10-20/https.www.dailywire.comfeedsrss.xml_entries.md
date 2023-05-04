@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Children’s Hospitals Overflowing With Respiratory Illness Patients
  - [https://www.dailywire.com/news/childrens-hospitals-overflowing-with-respiratory-illness-patients](https://www.dailywire.com/news/childrens-hospitals-overflowing-with-respiratory-illness-patients)
@@ -489,3 +489,4 @@ Miss Universe has suspended the organizers of Miss USA after a furor erupted fol
  - date published: 2022-10-20 07:22:31+00:00
 
 After news broke that San Francisco was planning on spending $1.7 million of state money for one public toilet in Noe Valley Town Square, some of the politicians planning a celebration canceled the event. Assemblymember Matt Haney, who obtained the funds from the state, was supposed to attend the toilet celebration on Wednesday alongside State ...
+

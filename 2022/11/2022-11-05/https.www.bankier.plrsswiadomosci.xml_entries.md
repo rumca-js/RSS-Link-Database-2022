@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Za niską dzietność Kaczyński obwinił "pijące kobiety". "Do 25. roku życia dają w szyję"
  - [https://www.bankier.pl/wiadomosc/Za-niska-dzietnosc-Kaczynski-obwinil-pijace-kobiety-Do-25-roku-zycia-daja-w-szyje-8434572.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Za-niska-dzietnosc-Kaczynski-obwinil-pijace-kobiety-Do-25-roku-zycia-daja-w-szyje-8434572.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -205,3 +205,4 @@ własności jest jednak jeszcze daleko.  </p>
  - date published: 2022-11-05 04:24:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/3/9d07cef9bf9484-948-568-0-26-1776-1065.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Kanadyjskie banki i ubezpieczyciele na życie zapłacą specjalny podatek w wysokości 15 proc. Rząd Kanady wniósł w piątek do parlamentu ustawę z nowymi rozwiązaniami podatkowymi, sektor finansowy może wpłacić do budżetu nawet 3 mld CAD.</p>
+

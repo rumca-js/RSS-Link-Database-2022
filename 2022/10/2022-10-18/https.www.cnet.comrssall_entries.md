@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'House of the Dragon' Episode 9 Recap: The Queen Who Never Was     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-recap-the-queen-who-never-was/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-recap-the-queen-who-never-was/#ftag=CADf328eec)
@@ -951,3 +951,4 @@ Recap: The Disney Plus show revels in moral ambiguity as the rebels make their m
  - date published: 2022-10-18 00:00:02+00:00
 
 Use your Amazon Echo to turn your home into a haunted house, to share spooky stories and even to search for Halloween costume ideas.
+

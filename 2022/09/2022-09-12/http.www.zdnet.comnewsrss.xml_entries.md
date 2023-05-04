@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Meta Quest Pro prototype reportedly leaks well ahead of official debut
  - [https://www.zdnet.com/article/meta-quest-pro-prototype-reportedly-leaks-well-ahead-of-official-debut/#ftag=RSSbaffb68](https://www.zdnet.com/article/meta-quest-pro-prototype-reportedly-leaks-well-ahead-of-official-debut/#ftag=RSSbaffb68)
@@ -230,3 +230,4 @@ There are so many DNA testing kits it's almost impossible to choose. Do you want
  - date published: 2022-09-12 02:17:00+00:00
 
 If you prefer Android over iOS, your phone options are aplenty. From Google to Samsung to OnePlus, ZDNET has thoughtfully curated the best Android phones available on the market. Read on to learn which made the cut and why.
+

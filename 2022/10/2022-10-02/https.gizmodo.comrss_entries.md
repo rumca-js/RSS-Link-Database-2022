@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Paramount's Smile Opens to Box Office Success
  - [https://gizmodo.com/paramount-smile-box-office-1849606991](https://gizmodo.com/paramount-smile-box-office-1849606991)
@@ -41,3 +41,4 @@
  - date published: 2022-10-02 13:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--s0BRq-eT--/c_fit,fl_progressive,q_80,w_636/d9ce95cf6dba49c73dbbf1cd6e6c925e.jpg" /><p>A week ago, a new bus mascot <a href="https://twitter.com/Aj_Sabadell/status/1572978946601373696?s=20&amp;t=aib39LIHEoXa6nDJ8eXzzA" rel="noopener noreferrer" target="_blank">happily presented itself</a> to the world in Sabadell, a city outside of Barcelona in Spain. For some, it was big, unique, and colorful, with a certain <em>je ne sais quoi. </em
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Radość i niedosyt po zwycięstwie. Polki zmarnowały szansę na "łatwiejszy" ćwierćfinał
  - [https://eurosport.tvn24.pl/rado---i-niedosyt-po-zwyci-stwie--polki-zmarnowa-y-szans--na---atwiejszy---wier-fina-,1120899.html?source=rss](https://eurosport.tvn24.pl/rado---i-niedosyt-po-zwyci-stwie--polki-zmarnowa-y-szans--na---atwiejszy---wier-fina-,1120899.html?source=rss)
@@ -175,3 +175,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-xvx8kn-pociski-przeciwlotnicze-czekajace-na-start-6152991/alternates/LANDSCAPE_1280" />
     Joe Biden ostrzegł w miniony czwartek, że ryzyko nuklearnej katastrofy jest najwyższe od czasu kryzysu kubańskiego z 1962 roku.
+

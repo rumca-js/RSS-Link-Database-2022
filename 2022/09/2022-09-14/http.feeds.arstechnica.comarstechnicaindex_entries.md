@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## In mice, the new BA.5 booster works about the same as BA.1 shot FDA passed up
  - [https://arstechnica.com/?p=1881544](https://arstechnica.com/?p=1881544)
@@ -118,3 +118,4 @@ Google will have to pay the EU's biggest fine ever.
  - date published: 2022-09-14 11:45:27+00:00
 
 Driving M cars from 2001, 2013, and 2022 shows some lessons for the future.
+

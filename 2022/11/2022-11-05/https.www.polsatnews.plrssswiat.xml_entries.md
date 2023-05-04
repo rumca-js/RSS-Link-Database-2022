@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Niebieski znaczek na Twitterze za 8 dolarów miesięcznie. Twitter wprowadza płatną subskrypcję
  - [https://www.polsatnews.pl/wiadomosc/2022-11-05/niebieski-znaczek-na-twitterze-za-8-dolarow-miesiecznie-twitter-wprowadza-platna-subskrypcje/](https://www.polsatnews.pl/wiadomosc/2022-11-05/niebieski-znaczek-na-twitterze-za-8-dolarow-miesiecznie-twitter-wprowadza-platna-subskrypcje/)
@@ -111,3 +111,4 @@ Co najmniej 15 osób zginęło w pożarze klubu w rosyjskim mieście Kostroma. P
  - date published: 2022-11-05 05:38:00+00:00
 
 Ukraina obawia się, że jej żołnierze mogą stracić dostęp do usługi internetowej Starlink Elona Muska. W zeszłym tygodniu 1300 jednostek satelitarnych zostało wyłączonych. Jak podaje źródło CNN, może chodzić o problemy z finansowaniem.
+

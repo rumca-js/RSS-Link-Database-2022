@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 5 quick tips for better Android phone security right now
  - [https://www.zdnet.com/article/5-quick-tips-for-better-android-phone-security-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/5-quick-tips-for-better-android-phone-security-right-now/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ Having the right lighting setup can take your streams and videos to the next lev
  - date published: 2022-10-21 01:03:00+00:00
 
 Having the right lighting setup can take your streams and videos to the next level by giving them a more professional look. And while you don't need to have a full studio's worth of lights, having a key or fill light will go a long way towards boosting your production values.
+

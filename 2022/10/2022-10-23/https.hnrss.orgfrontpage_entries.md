@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Dotfile madness (2019)
  - [https://0x46.net/thoughts/2019/02/01/dotfile-madness/](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
@@ -529,3 +529,4 @@ I've quickly added ZincSearch and it is now basically a search engine which can 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33303313">https://news.ycombinator.com/item?id=33303313</a></p>
 <p>Points: 15</p>
 <p># Comments: 13</p>
+

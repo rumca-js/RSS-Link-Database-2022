@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A software developer’s most important skill? Communication
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58997](https://www.codeproject.com/script/News/View.aspx?nwid=58997)
@@ -83,3 +83,4 @@ Is that the one where you can only paste some code if it's been in the copy buff
  - date published: 2022-09-26 04:00:00+00:00
 
 And what if I want to log into Notepad?
+

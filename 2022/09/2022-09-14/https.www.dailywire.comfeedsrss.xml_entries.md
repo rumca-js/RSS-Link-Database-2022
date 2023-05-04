@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘No Religious Group Is Safe From Government Control’: SCOTUS Makes Yeshiva University Return To NY Court, Forces Acceptance Of LGBTQ Club
  - [https://www.dailywire.com/news/no-religious-group-is-safe-from-government-control-scotus-makes-yeshiva-university-return-to-ny-court-forces-acceptance-of-lgbtq-club](https://www.dailywire.com/news/no-religious-group-is-safe-from-government-control-scotus-makes-yeshiva-university-return-to-ny-court-forces-acceptance-of-lgbtq-club)
@@ -419,3 +419,4 @@ The man who was caught on video firing a gun moments before Kyle Rittenhouse sho
  - date published: 2022-09-14 07:15:00+00:00
 
 Sen. Joe Manchin (D-WV) bucked many in his party over the immigration crisis on the U.S. southern border during an interview this week, saying that the U.S. needs &#8220;the wall and a lot more.&#8221; Manchin made the remarks during a Fox News interview after anchor Bret Baier asked him about Vice President Kamala Harris&#8217; claim ...
+

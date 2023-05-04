@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Kate Middleton and William make surprise appearance with Harry and Meghan at Windsor
  - [https://www.dailymail.co.uk/femail/article-11200003/Kate-Middleton-William-make-surprise-appearance-Harry-Meghan-Windsor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11200003/Kate-Middleton-William-make-surprise-appearance-Harry-Meghan-Windsor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -812,3 +812,4 @@ The One Nation leader responded to Greens senator Mehreen Faruqi by telling her 
  - date published: 2022-09-10 00:07:38+00:00
 
 JAN MOIR: Not many people begin to fulfil their destiny and potential at the age of 73, but King Charles is no ordinary mortal. His long journey from boyhood to full bloom spans over half a century
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Zełenski: W obwodzie donieckim trwają zaciekłe walki
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-w-obwodzie-donieckim-trwaja-zaciekle-walki,nId,6372410](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-w-obwodzie-donieckim-trwaja-zaciekle-walki,nId,6372410)
@@ -712,3 +712,4 @@
  - date published: 2022-10-26 03:36:35+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-245-dzien-inwazji-rosji-relacja-na-zywo,nzId,3238,akt,260744"><img align="left" alt="Wojna w Ukrainie. 245. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-245-dzien-inwazji-rosji-relacja-na-zywo/000G94FXB72ODPJK-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

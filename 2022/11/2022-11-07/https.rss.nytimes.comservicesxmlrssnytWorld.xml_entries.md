@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Why Kherson, Bracing for Battle, Matters So Much to Russia and Ukraine
  - [https://www.nytimes.com/2022/11/07/world/europe/kherson-ukraine-russia-explainer.html](https://www.nytimes.com/2022/11/07/world/europe/kherson-ukraine-russia-explainer.html)
@@ -125,3 +125,4 @@ The 27th annual U.N. climate talks opened yesterday in Egypt.
  - date published: 2022-11-07 05:01:13+00:00
 
 Inflation and anxiety over nuclear weapons may be eating into some popular support for the war, but key governments remain insulated from the pressures for now.
+

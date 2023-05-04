@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Not even Nvidia’s 4090 Founders Edition is safe from melting
  - [https://www.digitaltrends.com/computing/nvidia-rtx-4090-fe-melting/](https://www.digitaltrends.com/computing/nvidia-rtx-4090-fe-melting/)
@@ -13,3 +13,4 @@ It's official -- Nvidia's own Founders Edition graphics cards aren't safe from t
  - date published: 2022-11-16 19:53:17.296287+00:00
 
 There’s a desk, in front of which you can place an entire exercise bike. Gym bros around the world are surely rejoicing.
+

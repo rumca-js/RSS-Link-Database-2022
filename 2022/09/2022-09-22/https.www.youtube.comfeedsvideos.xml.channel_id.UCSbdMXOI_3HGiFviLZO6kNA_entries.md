@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The First ACTUAL Oculus Quest 2 "Killer" is HERE
  - [https://www.youtube.com/watch?v=XSt6oFwZne0](https://www.youtube.com/watch?v=XSt6oFwZne0)
@@ -34,3 +34,4 @@ Timestamps are back!
 12:27 BONELAB 
 12:34 QOTW
 13:02 OUTRO
+

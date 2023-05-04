@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wypadek z PRL-u, śmierć milicjanta i zabójstwo dziennikarza. "Archiwum X" rozwiązało potrójną zagadkę
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29185021,wypadek-z-prl-u-smierc-milicjanta-i-zabojstwo-dziennikarza.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29185021,wypadek-z-prl-u-smierc-milicjanta-i-zabojstwo-dziennikarza.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -53,7 +53,6 @@
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
  - RSS feed: http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
  - date published: 2022-11-25 10:17:00+00:00
- - tags: surveillance,china
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/53/d4/1b/z29182291M,Chinskie-kamery-na-pieciu-ministerstwach---zdjecie.jpg" vspace="2" />Kamery chińskiego przedsiębiorstwa Hikvision są zamontowane w pięciu polskich ministerstwach, a jedynie jedno zdecydowało się je usunąć - ustaliło Radio Zet. Chińska firma jest na czarnej liście USA, gdyż producent ten został uznany za "zagrożenie dla bezpieczeństwa państwa".
 
@@ -98,3 +97,4 @@
  - date published: 2022-11-25 06:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/64/d4/1b/z29180260M,Progresja-wiekowa-Malgosi-i-Kuby-Bogdanskich.jpg" vspace="2" />W kwietniu 2003 roku w Starowej Górze dochodzi do nagłego zaginięcia pięcioosobowej rodziny Bogdańskich. Chociaż służby mają dwie teorie odnośnie do tego, co mogło stać się z rodziną, to od 19 lat nie ma żadnych przekonujących dowodów na to, gdzie podziali się Krzysztof, Danuta, Bożena, Małgosia i Kuba.
+

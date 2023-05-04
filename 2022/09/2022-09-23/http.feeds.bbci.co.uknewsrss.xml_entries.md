@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Hurricane Fiona: Canada braces for 'historic, extreme event'
  - [https://www.bbc.co.uk/news/world-us-canada-63011195?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63011195?at_medium=RSS&at_campaign=KARANGA)
@@ -608,3 +608,4 @@ Rising sea levels are threatening ancient castles and forts at an accelerating r
  - date published: 2022-09-23 00:00:40+00:00
 
 One man injected with the modified cold sore virus saw his tumour completely disappear.
+

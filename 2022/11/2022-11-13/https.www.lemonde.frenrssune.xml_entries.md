@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Record 40,000 migrants cross the Chanel this year
  - [https://www.lemonde.fr/en/international/article/2022/11/13/record-40-000-migrants-cross-the-chanel-this-year_6004146_4.html](https://www.lemonde.fr/en/international/article/2022/11/13/record-40-000-migrants-cross-the-chanel-this-year_6004146_4.html)
@@ -167,3 +167,4 @@ The Socialist government's new Democratic Memory Law allows descendants of exile
  - date published: 2022-11-13 02:00:27+00:00
 
 In 2021, the population had declined by 91,000 to 51.74 million. Young people there are less and less interested in starting a family, a symptom of deep-seated problems that run through society.
+

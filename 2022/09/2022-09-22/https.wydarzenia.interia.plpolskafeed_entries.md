@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Przemysław Czarnek zapowiada "rekordowe" zmiany w pensjach nauczycieli. Ile wyniosą podwyżki?
  - [https://wydarzenia.interia.pl/kraj/news-przemyslaw-czarnek-zapowiada-rekordowe-zmiany-w-pensjach-nau,nId,6301547](https://wydarzenia.interia.pl/kraj/news-przemyslaw-czarnek-zapowiada-rekordowe-zmiany-w-pensjach-nau,nId,6301547)
@@ -13,3 +13,4 @@
  - date published: 2022-09-22 09:55:02+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-jaka-pogoda-bedzie-tej-jesieni-synoptycy-w-normie-ale-jest-p,nId,6299466"><img align="left" alt="Jaka pogoda będzie tej jesieni? Synoptycy: W normie. Ale jest pewien haczyk" src="https://i.iplsc.com/jaka-pogoda-bedzie-tej-jesieni-synoptycy-w-normie-ale-jest-p/000G3JQ86B2BF7Q5-C321.jpg" /></a>Początek września przywitał nas bardzo kapryśną pogodą - w całej Polsce przeważała niska temperatura, silny wiatr oraz intensywne opady deszczu. W górach p
+

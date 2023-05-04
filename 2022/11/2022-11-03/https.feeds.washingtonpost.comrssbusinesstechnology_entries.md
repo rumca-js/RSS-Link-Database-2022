@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Elon Musk begins mass layoffs at Twitter
  - [https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ New software for some of Apple’s high-powered iPad models promise to make them
  - date published: 2022-11-03 07:00:40+00:00
 
 A few celebrities have said they will leave the service, but there has not been a high-profile exodus.
+

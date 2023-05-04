@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## India's tragic bridge collapse takes a political turn
  - [https://www.lemonde.fr/en/international/article/2022/10/31/india-s-tragic-bridge-collapse-takes-a-political-turn_6002463_4.html](https://www.lemonde.fr/en/international/article/2022/10/31/india-s-tragic-bridge-collapse-takes-a-political-turn_6002463_4.html)
@@ -272,3 +272,4 @@ Just over half of the fatalities were from a series of flash floods and landslid
  - date published: 2022-10-31 01:01:02+00:00
 
 The 53-year-old Spanish dancer succeeds Aurélie Dupont, who left her position on July 31.
+

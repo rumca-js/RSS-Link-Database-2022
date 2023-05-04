@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Open Wide for This Week's Toy News
  - [https://gizmodo.com/mondo-he-man-battle-cat-furai-flame-toys-megazord-mmpr-1849673546](https://gizmodo.com/mondo-he-man-battle-cat-furai-flame-toys-megazord-mmpr-1849673546)
@@ -356,3 +356,4 @@
  - date published: 2022-10-21 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--DzBy9rbr--/c_fit,fl_progressive,q_80,w_636/4121acf06362f6478b7aa2157658f300.jpg" /><p>Global emissions in 2022 are projected to rise just a fraction of the amount they increased by last year, thanks in large part to a surge in renewables installation and electric vehicle use, a major global energy organization said this week.</p><p><a href="https://gizmodo.com/renewables-are-holding-back-the-emissions-tide-1849682588">Read more...</a
+

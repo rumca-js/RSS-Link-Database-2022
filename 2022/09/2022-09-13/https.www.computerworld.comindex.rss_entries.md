@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## The quick and easy guide to eSIM on Apple's iPhone 14
  - [https://www.computerworld.com/article/3673100/the-quick-and-easy-guide-to-esim-on-apples-iphone-14.html#tk.rss_all](https://www.computerworld.com/article/3673100/the-quick-and-easy-guide-to-esim-on-apples-iphone-14.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>With the unemployment rate hovering just above 2% for tech workers, companies are focusing their recruitment efforts on skills-based hiring and <a href="https://www.computerworld.com/article/3669412/companies-move-to-drop-college-degree-requirements-for-new-hires-focus-on-skills.html">dropping college degree requirements</a>.</p><p>Among middle-skilled occupations, the openings that require college degrees are for the most part similar to those for which no d
+

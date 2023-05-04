@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Biden Pushes To Ban ‘Semi-Automatic’ Firearms: ‘No Social Redeeming Value’
  - [https://www.dailywire.com/news/biden-pushes-to-ban-semi-automatic-firearms-no-social-redeeming-value](https://www.dailywire.com/news/biden-pushes-to-ban-semi-automatic-firearms-no-social-redeeming-value)
@@ -153,3 +153,4 @@ Americans expected to pay more for Thanksgiving turkey this year than ever befor
  - date published: 2022-11-24 08:46:49+00:00
 
 On the eve of Thanksgiving, MSNBC’s Joy Reid went on a tirade against the cherished holiday in which she called it a holiday that erases the “genocide” committed by white Americans. The comments came in a segment of Reid’s show “The Reidout” that focused in on two recent mass shootings. One of the shootings involved ...
+

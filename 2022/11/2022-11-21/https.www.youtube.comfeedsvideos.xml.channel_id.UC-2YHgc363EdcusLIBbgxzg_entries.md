@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## Could The Internet Doom Humanity? (And Other Questions)
  - [https://www.youtube.com/watch?v=mlRnotq4npw](https://www.youtube.com/watch?v=mlRnotq4npw)
@@ -54,3 +54,4 @@ TIMESTAMPS -
 11:00 - Twitter and Elon
 12:03 - Fine Structure Constant
 14:56 - Sponsor - Audible
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Google to pay record $391m privacy settlement
  - [https://www.bbc.co.uk/news/technology-63635380?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63635380?at_medium=RSS&at_campaign=KARANGA)
@@ -6,3 +6,4 @@
  - date published: 2022-11-15 14:06:21+00:00
 
 The technology company tracked users' locations despite them opting out, a US investigation found.
+

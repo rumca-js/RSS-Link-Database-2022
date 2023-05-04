@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine’s Counteroffensive Forces Face Mobilized Inmates and Drones
  - [https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html](https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html)
@@ -125,3 +125,4 @@ Yoon Suk-yeol has aligned his country more closely with the United States, but t
  - date published: 2022-09-18 03:56:29+00:00
 
 Some officials worry that the more cornered Vladimir Putin feels, particularly with recent setbacks from Ukraine’s counteroffensive, the greater the chance that he might turn to an unconventional weapon.
+

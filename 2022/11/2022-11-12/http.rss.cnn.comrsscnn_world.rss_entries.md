@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Iranians mark 'Bloody Friday' as thousands protest in southeast flashpoint
  - [https://www.cnn.com/2022/11/12/middleeast/iranians-protest-bloody-friday-intl-hnk/index.html](https://www.cnn.com/2022/11/12/middleeast/iranians-protest-bloody-friday-intl-hnk/index.html)
@@ -13,3 +13,4 @@ Thousands of Iranians protested in the restive southeast on Friday to mark a Sep
  - date published: 2022-11-12 01:00:04+00:00
 
 President Joe Biden arrives in Phnom Penh, Cambodia, on Saturday morning local time for the annual summit between the US president and leaders of Southeast Asian nations.
+

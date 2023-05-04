@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Ugandan university drops mandatory pregnancy tests for students after outcry
  - [https://www.cnn.com/2022/11/11/africa/nursing-students-pregnancy-test-uganda-intl-scli/index.html](https://www.cnn.com/2022/11/11/africa/nursing-students-pregnancy-test-uganda-intl-scli/index.html)
@@ -62,3 +62,4 @@ A faulty automatic engine throttle system that was not properly monitored by pil
  - date published: 2022-11-11 00:13:03+00:00
 
 The diplomatic fallout between France and Italy over a stranded migrant ship in the Mediterranean Sea is far from over.
+

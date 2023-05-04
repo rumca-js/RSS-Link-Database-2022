@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## How to use a PS5 DualSense controller on PC
  - [https://www.pcgamer.com/ps5-dualsense-controller-on-pc](https://www.pcgamer.com/ps5-dualsense-controller-on-pc)
@@ -174,3 +174,4 @@ Play half as hard, earn the same.
  - date published: 2022-10-12 00:14:04+00:00
 
 PSA: Amazon Prime members can save 20% on open box products at the Amazon Warehouse.
+

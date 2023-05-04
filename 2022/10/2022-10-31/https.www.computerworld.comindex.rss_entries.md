@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Global monthly semiconductor sales drop as chip market takes another hit
  - [https://www.computerworld.com/article/3678152/global-monthly-semiconductor-sales-drop-as-chip-market-takes-another-hit.html#tk.rss_all](https://www.computerworld.com/article/3678152/global-monthly-semiconductor-sales-drop-as-chip-market-takes-another-hit.html#tk.rss_all)
@@ -45,3 +45,4 @@
 <article>
 	<section class="page">
 <p>The tech sector has been hit particularly hard by <a href="https://www.computerworld.com/article/3645496/the-great-resignation-why-workers-quit-and-how-companies-can-respond.html">the Great Resignation</a>, leaving organizations facing a dearth of qualified job candidates for more than a million job openings.</p><p>At the same time, CIOs and CFOs have started to slow the rate at which they’re creating new IT jobs and hiring due to inflation and recession fears, according to <a href="https://e-janco.com/press/2022/2022-10-06-it-hiring-slows.html" rel="nofollow noopener" target="_blank">a recent report</a> from job research firm Janco Associates.</p><p>Nevertheless, US tech firms added workers for the 22nd consecutive month, and companies in a range of industries hired an estimated 84,000 new tech workers in September, according to the latest <a href="https://www.comptia.org/content/tech-jobs-report" rel="nofollow noopener" target="_blank">Tech Jobs Report</a> from CompTIA.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678349/chase-cio-offers-top-interview-tips-for-tech-job-seekers.html#jump">To read this article in full, please click here</a></p></section></article>
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Ringo Starr cancels North America tour with Covid
  - [https://www.bbc.co.uk/news/entertainment-arts-63251925?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63251925?at_medium=RSS&at_campaign=KARANGA)
@@ -594,3 +594,4 @@ As the PM attends her first weekly audience with the King, the markets and count
  - date published: 2022-10-13 00:11:24+00:00
 
 As the war in Ethiopia's Tigray region intensifies, the BBC gets an exclusive report from its main city.
+

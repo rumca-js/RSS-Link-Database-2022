@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## From Berlin to Paris, French PM Elisabeth Borne juggles crises
  - [https://www.lemonde.fr/en/politics/article/2022/11/27/from-berlin-to-paris-french-pm-elisabeth-borne-juggles-crises_6005769_5.html](https://www.lemonde.fr/en/politics/article/2022/11/27/from-berlin-to-paris-french-pm-elisabeth-borne-juggles-crises_6005769_5.html)
@@ -230,3 +230,4 @@ An independent review, launched in March last year, was conducted following the 
  - date published: 2022-11-26 00:01:28+00:00
 
 It is the second country in Central America, after El Salvador, to do so to fight crimes like extortion. The measure must still be approved by Congress.
+

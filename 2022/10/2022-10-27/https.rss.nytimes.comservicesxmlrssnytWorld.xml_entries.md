@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Putin Says Russia Is Battling ‘Strange’ Western Elites
  - [https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-war-putin.html](https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-war-putin.html)
@@ -174,3 +174,4 @@ A former parliamentary staffer is accused of raping a colleague in the defense m
  - date published: 2022-10-27 00:07:25+00:00
 
 The domestic and international consensus has shown signs of fraying as midterm elections loom in the United States and Europeans face the prospect of a cold winter.
+

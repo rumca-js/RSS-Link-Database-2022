@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 12 best educational robot toy holiday gift ideas of 2022
  - [https://www.zdnet.com/article/best-tech-toys-for-kids-robots-gifts/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-tech-toys-for-kids-robots-gifts/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ I found the best laptops to give as gifts this holiday season so you can focus o
  - date published: 2022-10-31 00:50:00+00:00
 
 Looking to gift the tech-obsessed kid in your life a great gadget for the holidays? We've rounded up the best tech toys from Amazon's holiday gift catalog -- including tablets, robots, VR headsets, and more.
+

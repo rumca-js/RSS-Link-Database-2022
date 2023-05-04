@@ -1,4 +1,4 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
+# Source:Jordan B Peterson, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, language:en-US
 
 ## Breaking Good | Michael Franzese | #302
  - [https://www.youtube.com/watch?v=RzKM-VwriK0](https://www.youtube.com/watch?v=RzKM-VwriK0)
@@ -87,3 +87,4 @@ Telegram: https://t.me/DrJordanPeterson
 All socials: https://linktr.ee/drjordanbpeterson
 
 #JordanPeterson #JordanBPeterson #DrJordanPeterson #DrJordanBPeterson #DailyWirePlus #podcast #michaelfranseze #crime #mob #boss #mafia #newyork #NYC #manhattan
+

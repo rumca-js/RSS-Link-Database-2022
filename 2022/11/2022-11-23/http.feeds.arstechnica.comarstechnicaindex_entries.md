@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Porsche 911 Carrera T first drive: Simplify, then add the right options
  - [https://arstechnica.com/?p=1899450](https://arstechnica.com/?p=1899450)
@@ -97,3 +97,4 @@ The lack of cheaper electric vehicles is going to be a problem.
  - date published: 2022-11-23 11:45:25+00:00
 
 Third-party data brokers give police warrantless access to 250 million devices.
+

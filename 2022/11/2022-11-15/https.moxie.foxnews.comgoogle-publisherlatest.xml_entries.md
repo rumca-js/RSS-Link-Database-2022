@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Polish President Andrzej Duda verifies 'premises' of NATO Article 4, spoke with Jens Stoltenberg
  - [https://www.foxnews.com/world/polish-president-andrzej-duda-talks-verifies-premises-nato-article-spoke-jens-stoltenberg](https://www.foxnews.com/world/polish-president-andrzej-duda-talks-verifies-premises-nato-article-spoke-jens-stoltenberg)
@@ -326,7 +326,6 @@ Ethan Crumbley, the teen who killed four fellow students in a school shooting, w
  - [https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust](https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-15 19:35:28+00:00
- - tags: covid,vaccine,austria
 
 Austria is planning to ban the unvaccinated from wearing symbols that reference the Holocaust, which was worn to liken vaccine opponents to Jews.
 
@@ -1239,3 +1238,4 @@ Indianapolis Colts Jim Irsay owner had a response for his hiring of Jeff Saturda
  - date published: 2022-11-15 00:12:06+00:00
 
 After Sunday's season five premiere of "Yellowstone," Paramount has shared a teaser trailer of the upcoming prequel "1923" starring Harrison Ford and Helen Mirren.
+

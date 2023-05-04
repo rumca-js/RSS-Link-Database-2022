@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Keir Starmer helped Tom Watson get peerage despite VIP abuse storm
  - [https://www.dailymail.co.uk/news/article-11450875/Keir-Starmer-helped-Tom-Watson-peerage-despite-VIP-abuse-storm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11450875/Keir-Starmer-helped-Tom-Watson-peerage-despite-VIP-abuse-storm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -993,3 +993,4 @@ The 46-year-old regularly posts pictures of herself at ITN's Central London stud
  - date published: 2022-11-20 00:00:08+00:00
 
 The Only Fools and Horses star, 82, has sent a letter to all MPs asking them to vote in favour of a Bill by Tory backbencher Henry Smith which would outlaw the cruel practice.
+

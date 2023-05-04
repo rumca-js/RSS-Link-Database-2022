@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Transgender influencer Nikita Dragun is locked up in a MEN'S prison
  - [https://www.dailymail.co.uk/news/article-11410011/Transgender-influencer-Nikita-Dragun-locked-MENS-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11410011/Transgender-influencer-Nikita-Dragun-locked-MENS-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1924,3 +1924,4 @@ Narelle Fiona Smith, who is accused of murdering Peter McCarthy with a frying pa
  - date published: 2022-11-09 00:00:28+00:00
 
 The scale of lawlessness on the roads is laid bare today by shocking figures showing 2021 was the most dangerous year on record.
+

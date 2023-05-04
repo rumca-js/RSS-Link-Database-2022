@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Technology Campaigner Sues Meta in London High Court Over Facebook Ads
  - [https://www.theepochtimes.com/technology-campaigner-sues-meta-in-london-high-court-over-facebook-ads_4876080.html](https://www.theepochtimes.com/technology-campaigner-sues-meta-in-london-high-court-over-facebook-ads_4876080.html)
@@ -27,3 +27,4 @@ An engineering student takes part in a hacking challenge near Paris on March 16,
  - date published: 2022-11-21 00:24:08+00:00
 
 The ASPI report examined 1,741 videos on 18 increasingly popular YouTube accounts of influencers from regions of Xinjiang, Tibet, and Inner Mongolia. (ASPI)
+

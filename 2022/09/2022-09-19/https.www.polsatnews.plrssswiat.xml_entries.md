@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. 146 ciał ekshumowanych na cmentarzu w Iziumie. Ślady torturowania
  - [https://www.polsatnews.pl/wiadomosc/2022-09-19/wojna-w-ukrainie-146-cial-ekshumowanych-na-cmentarzu-w-iziumie-slady-torturowania/](https://www.polsatnews.pl/wiadomosc/2022-09-19/wojna-w-ukrainie-146-cial-ekshumowanych-na-cmentarzu-w-iziumie-slady-torturowania/)
@@ -111,3 +111,4 @@ Pogrzeb królowej Elżbiety II odbędzie się dzisiaj w londyńskim opactwie Wes
  - date published: 2022-09-19 06:20:00+00:00
 
 W Londynie pojawiło się kilkaset osobistości z całego świata, żeby pożegnać królową Wielkiej Brytanii Elżbietę II. W uroczystościach wezmą udział m.in. prezydenci USA Joe Biden, Turcji Recep Tayyip Erdogan, Polski Andrzej Duda czy cesarz Japonii Naruhito. Zabraknie za to m.in. prezydenta Rosji Władimira Putina, przywódcy Chin Xi Jingpinga czy papieża Franciszka.
+

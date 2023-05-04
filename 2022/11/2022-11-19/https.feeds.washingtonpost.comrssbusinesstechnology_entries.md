@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Elon Musk restores Trump’s Twitter account
  - [https://www.washingtonpost.com/technology/2022/11/19/trump-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/19/trump-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ The experience of an Arizona student journalist highlights the growing threat th
  - date published: 2022-11-19 05:00:42+00:00
 
 Advocates warn that chaos within Twitter could worsen the spread of hate speech during the tournament.
+

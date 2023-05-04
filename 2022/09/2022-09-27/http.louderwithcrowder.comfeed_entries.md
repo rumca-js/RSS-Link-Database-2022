@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Police sentence child molester, then go after the REAL criminal: someone misgendering 'her' on Twitter
  - [https://www.louderwithcrowder.com/police-sentence-twenty-years](https://www.louderwithcrowder.com/police-sentence-twenty-years)
@@ -74,3 +74,4 @@
  - date published: 2022-09-27 11:51:39+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31829786&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>God sent us Rachel Dolezal to warn us about the "trans" insanity coming our way, and we didn't listen to Him. Now men walk around in women's dressing rooms with their junk hanging out, women are now called "birthing people," and Dolezal is doing porn on OnlyFans. </p><p>Let's take a quick trip back in time. The year was 2015 and Rachel Do
+

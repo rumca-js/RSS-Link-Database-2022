@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Chris Cuomo 'demanding another News Nation slot as ratings for his heavily-promoted new show tank'
  - [https://www.dailymail.co.uk/news/article-11371453/Chris-Cuomo-demanding-News-Nation-slot-ratings-heavily-promoted-new-tank.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11371453/Chris-Cuomo-demanding-News-Nation-slot-ratings-heavily-promoted-new-tank.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -930,3 +930,4 @@ Emergency services were called to Bourke Street, in Melbourne's CBD, about 5.45a
  - date published: 2022-10-30 01:02:53+00:00
 
 Taxpayers could be facing a further £2.5 billion bill over the rescue of failed energy firm Bulb, it was claimed last night. Octopus Energy has agreed to take on Bulb's 1.5 million customers.
+

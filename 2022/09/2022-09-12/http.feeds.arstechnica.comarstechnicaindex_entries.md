@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Google’s cost-cutting kills Pixelbook division
  - [https://arstechnica.com/?p=1880622](https://arstechnica.com/?p=1880622)
@@ -125,3 +125,4 @@ The Carte du Ciel provided signposts for how future astronomical discoveries wou
  - date published: 2022-09-12 07:00:41+00:00
 
 Also: trailer for <em>Werewolf by Night</em>, new footage from <em>Loki</em> S2, <em>The Marvels</em>, and more.
+

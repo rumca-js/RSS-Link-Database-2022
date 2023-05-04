@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## CDPR's big Cyberpunk event also included some extensive new mod tools
  - [https://www.pcgamer.com/cdprs-big-cyberpunk-event-also-included-some-extensive-new-mod-tools](https://www.pcgamer.com/cdprs-big-cyberpunk-event-also-included-some-extensive-new-mod-tools)
@@ -265,3 +265,4 @@ The hype train is about to leave the station.
  - date published: 2022-09-08 05:00:26+00:00
 
 Windows 11 is gaining traction too.
+

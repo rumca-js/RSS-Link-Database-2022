@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Twitter is already testing its $8 per month verification plan
  - [https://www.techradar.com/news/twitter-is-already-testing-its-dollar8-per-month-verification-plan/](https://www.techradar.com/news/twitter-is-already-testing-its-dollar8-per-month-verification-plan/)
@@ -13,3 +13,4 @@ Changes are being quickly rolled out at Twitter following Elon Musk's acquisitio
  - date published: 2022-11-06 13:00:35+00:00
 
 We're once again hearing that the Galaxy S23 may be fitted with a Qualcomm Snapdragon chip in every region.
+

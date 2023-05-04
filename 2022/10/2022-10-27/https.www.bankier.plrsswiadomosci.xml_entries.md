@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Koniec aut spalinowych coraz bliżej. UE zgadza się na ograniczenia ich sprzedaży od 2035 roku
  - [https://www.bankier.pl/wiadomosc/Koniec-aut-spalinowych-coraz-blizej-UE-zgadza-sie-na-ograniczenia-ich-sprzedazy-od-2035-roku-8430361.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koniec-aut-spalinowych-coraz-blizej-UE-zgadza-sie-na-ograniczenia-ich-sprzedazy-od-2035-roku-8430361.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -546,3 +546,4 @@ finansowania niższą średnio o 16 tys. zł niż we wrześniu.</p>
  - date published: 2022-10-27 03:27:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/2/319d5ba39bec45-945-560-238-259-1492-895.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Pojawiły się poważne zarzuty wobec fermy drobiu w Emsland w Niemczech, która jest dostawcą dla dyskontu Lidl. Według obrońców praw zwierząt stwierdzono tam naruszenia dobrostanu zwierząt - pisze portal RND. Opublikowane filmy z firmy pokazują kurczaki w bardzo złym stanie.</p>
+

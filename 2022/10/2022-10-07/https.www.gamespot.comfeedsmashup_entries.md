@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Overwatch 2 Support Tier List - All 8 Support Heroes Ranked
  - [https://www.gamespot.com/gallery/overwatch-2-support-tier-list/2900-4382/](https://www.gamespot.com/gallery/overwatch-2-support-tier-list/2900-4382/)
@@ -279,3 +279,4 @@
  - date published: 2022-10-07 06:59:00+00:00
 
 <p>Xur is getting ready to pull a double-shift in Destiny 2 for the next couple of days, as the enigmatic arms dealer will once again be offering his finest weapons and hosting the game show Dares of Eternity. As usual, you can expect a selection of Exotic weapons, armor, and a few more goodies of the Legendary-class variety when Xur pops up after the scheduled daily reset. It's handy stuff, especially if you're planning to enter the Trials of Osiris.</p><p>We don't know where he'll be just yet,
+

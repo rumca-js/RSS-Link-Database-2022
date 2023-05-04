@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Here’s why you couldn’t see anything on House of the Dragon
  - [https://www.theverge.com/2022/10/3/23386058/house-of-the-dragon-episode-7-too-dark-compression-my-eyes](https://www.theverge.com/2022/10/3/23386058/house-of-the-dragon-episode-7-too-dark-compression-my-eyes)
@@ -137,3 +137,4 @@
     </figure>
 
   <p id="1JeJpm">Dish and Disney have reached a “handshake deal” to immediately bring Disney’s
+

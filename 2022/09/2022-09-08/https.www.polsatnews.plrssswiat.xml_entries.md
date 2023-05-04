@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Elżbieta II poznała pięciu papieży. Najwięcej razy spotkała się z Janem Pawłem II
  - [https://www.polsatnews.pl/wiadomosc/2022-09-08/elzbieta-ii-poznala-pieciu-papiezy-najwiecej-razy-spotkala-sie-z-janem-pawlem-ii/](https://www.polsatnews.pl/wiadomosc/2022-09-08/elzbieta-ii-poznala-pieciu-papiezy-najwiecej-razy-spotkala-sie-z-janem-pawlem-ii/)
@@ -111,3 +111,4 @@ Nie żyje drugi z napastników z kanadyjskiego Saskatchewan - przekazała zastę
  - date published: 2022-09-08 06:20:00+00:00
 
 Iga Świątek w dwóch setach pokonała Amerykankę Jessicę Pegulę (6:3, 7:6) i awansowała do półfinału US Open 2022. To najlepszy wynik w karierze Polki na tych kortach. O finał zagra z Aryną Sabalenką.
+

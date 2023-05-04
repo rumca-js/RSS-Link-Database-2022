@@ -1,4 +1,4 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
+# Source:Virtual Reality Oasis, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, language:en-US
 
 ## PSVR 2 Hands On - VR Just Leveled Up!
  - [https://www.youtube.com/watch?v=PxUXWpj11fw](https://www.youtube.com/watch?v=PxUXWpj11fw)
@@ -43,3 +43,4 @@ Website: http://virtualrealityoasis.com/
 Email: contact@virtualrealityoasis.com
 
 #PSVR2 #PlayStationVR2 #VR
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Five Texas Cities May Decriminalize Marijuana In Workaround To State Ban
  - [https://www.dailywire.com/news/five-texas-cities-may-decriminalize-marijuana-in-workaround-to-state-ban](https://www.dailywire.com/news/five-texas-cities-may-decriminalize-marijuana-in-workaround-to-state-ban)
@@ -356,3 +356,4 @@ The following is a transcript excerpt from Dr. Jordan Peterson’s conversation 
  - date published: 2022-10-27 07:16:52+00:00
 
 The following is a transcript excerpt from Dr. Jordan Peterson’s conversation with Warren Farrell on the role fathers play in a child’s development. You can listen to or watch the full podcast on DailyWire+. Podcast time: 1:16:11 Imagine your family has a story, and the story is where we came from, where we are, and ...
+

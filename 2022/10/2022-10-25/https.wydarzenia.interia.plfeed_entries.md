@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Nowy premier Wielkiej Brytanii do Zełenskiego: Wsparcie jest niezachwiane
  - [https://wydarzenia.interia.pl/zagranica/news-nowy-premier-wielkiej-brytanii-do-zelenskiego-wsparcie-jest-,nId,6370191](https://wydarzenia.interia.pl/zagranica/news-nowy-premier-wielkiej-brytanii-do-zelenskiego-wsparcie-jest-,nId,6370191)
@@ -558,3 +558,4 @@
  - date published: 2022-10-25 03:33:51+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-244-dzien-inwazji-rosji-relacja-na-zywo,nzId,3234,akt,250725"><img align="left" alt="Wojna w Ukrainie. 244. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-244-dzien-inwazji-rosji-relacja-na-zywo/000G8XYFQPBFA4O6-C321.jpg" /></a>Najnowsze informacje z frontu. Zapraszamy do śledzenia relacji na żywo.</p><br clear="all" />
+

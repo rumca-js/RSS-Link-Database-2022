@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Take These Tech Courses for Free This Week
  - [https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071](https://lifehacker.com/take-these-tech-courses-for-free-this-week-1849640071)
@@ -139,3 +139,4 @@
  - date published: 2022-10-10 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--6PTfUj_M--/c_fit,fl_progressive,q_80,w_636/eafdd78748d0ee15652257e48f2f6c72.jpg" /><p>My two least favorite kitchen chores are cleaning out the fridge and taking out the trash. Both tend to be a little gross, involve some amount of bending over, and it’s hard to do the former without also doing the latter. I also tend to ignore both until they become un-ignorable, which makes these tasks grosser, and…</p><p><a href="https://lifehacke
+

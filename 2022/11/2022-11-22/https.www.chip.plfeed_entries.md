@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Sztuczna inteligencja mistrzem dyplomacji. Powoli możemy czuć się zagrożeni
  - [https://www.chip.pl/2022/11/sztuczna-inteligencja-gra-diplomacy](https://www.chip.pl/2022/11/sztuczna-inteligencja-gra-diplomacy)
@@ -119,3 +119,4 @@
 
 <img alt="Rosyjski Szatan na zdjęciach" class="attachment-full size-full wp-post-image" height="1076" src="https://konto.chip.pl/wp-content/uploads/2022/11/Rosja-grozi-swiatu-arsenalem-jadrowym.-Panstwo-pokazalo-Szatana-na-szeregu-szczegolowych-zdjec-1.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/Rosja-grozi-swiatu-arsenalem-jadrowym.-Panstwo-pokazalo-Szatana-na-szeregu-szczegolowych-zdjec-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Rosja znów się wygraża. Jak bowiem inaczej można nazwać świadome udostępnienie przez tamtejsze media państwowe zdjęć swojego międzykontynentalnego pocisku balistycznego SS-18 Mod 5 Satan, zwanego też mianem R-36M2? Sam jego widok może robić wrażenie i choć to, co zobaczycie na zdjęciach, ma raczej wydźwięk propagandowy i zapewne ma za zadanie pokazać światu, że Rosja jednak [&#8230;]</p>
+

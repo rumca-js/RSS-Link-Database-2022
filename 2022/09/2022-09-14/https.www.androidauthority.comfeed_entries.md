@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google is canceling projects left and right in attempt to be more efficient
  - [https://www.androidauthority.com/google-cancels-its-projects-3208863/](https://www.androidauthority.com/google-cancels-its-projects-3208863/)
@@ -104,3 +104,4 @@ Is the Pixel 6 too big for you? Then you'd better hope that this leak turns out 
  - date published: 2022-09-14 06:09:37+00:00
 
 The Phone 1 has crossed 100,000 units in India, but there's no word on global performance.
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Netflix: Big hits help reverse subscriber losses
  - [https://www.bbc.co.uk/news/entertainment-arts-63305635?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63305635?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ The social media giant says it is disappointed with the ruling but will accept i
  - date published: 2022-10-18 13:39:51+00:00
 
 Anna Holligan finds out whether artificial intelligence can create a unique fragrance just for her.
+

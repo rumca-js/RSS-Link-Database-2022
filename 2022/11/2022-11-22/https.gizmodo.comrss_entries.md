@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Watch Power Rangers' Touching Tribute to Jason David Frank
  - [https://gizmodo.com/jason-david-frank-power-rangers-official-tribute-1849814709](https://gizmodo.com/jason-david-frank-power-rangers-official-tribute-1849814709)
@@ -293,3 +293,4 @@
  - date published: 2022-11-22 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--YcyYEfuJ--/c_fit,fl_progressive,q_80,w_636/1909e50d072afbef065437748ef60bf1.jpg" /><p><a href="https://gizmodo.com/star-wars-the-high-republic-convergence-audiobook-1849809065">Read more...</a></p>
+

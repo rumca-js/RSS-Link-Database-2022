@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Popular Steam Deck dock maker pulls upcoming design, claiming a competitor stole it
  - [https://www.pcgamer.com/popular-steam-deck-dock-maker-pulls-upcoming-design-claiming-a-competitor-stole-it](https://www.pcgamer.com/popular-steam-deck-dock-maker-pulls-upcoming-design-claiming-a-competitor-stole-it)
@@ -188,3 +188,4 @@ It's also surprisingly stable, as long as you keep those temps down.
  - date published: 2022-10-28 00:03:36+00:00
 
 Budget conscious biohazards.
+

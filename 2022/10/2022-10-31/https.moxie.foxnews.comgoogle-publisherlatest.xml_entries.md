@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Challenge to Florida's parental rights bill seeks to link law with 'concrete harms'
  - [https://www.foxnews.com/media/challenge-floridas-parental-rights-bill-seeks-link-law-concrete-harms](https://www.foxnews.com/media/challenge-floridas-parental-rights-bill-seeks-link-law-concrete-harms)
@@ -1287,3 +1287,4 @@ New research from The University of Texas MD Anderson Cancer Center indicates th
  - date published: 2022-10-31 00:03:30+00:00
 
 Derrick Henry had another savage game against the Houston Texans on Sunday, helping the Tennessee Titans to a 17-10 win in Malik Willis' first career start.
+

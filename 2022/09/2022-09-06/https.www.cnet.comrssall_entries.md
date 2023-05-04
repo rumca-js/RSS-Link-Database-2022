@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## iOS 16 Compatibility: Not Every iPhone Will Get It. Will Yours?     - CNET
  - [https://www.cnet.com/tech/mobile/ios-16-compatibility-not-every-iphone-will-get-it-will-yours/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16-compatibility-not-every-iphone-will-get-it-will-yours/#ftag=CADf328eec)
@@ -333,7 +333,6 @@ We'll get another look at the upcoming Pokemon games this week.
  - [https://www.cnet.com/news/privacy/meta-fined-400m-for-failing-to-protect-childrens-privacy-on-instagram/#ftag=CADf328eec](https://www.cnet.com/news/privacy/meta-fined-400m-for-failing-to-protect-childrens-privacy-on-instagram/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-06 15:53:38+00:00
- - tags: meta,facebook,privacy
 
 Parent company Meta says it's appealing the fine from Ireland's Data Protection Commission.
 
@@ -658,3 +657,4 @@ Prime Video has a ton to offer from the sci-fi realm -- hopefully this guide wil
  - date published: 2022-09-06 00:00:03+00:00
 
 Learn how to master the Messages app on iOS.
+

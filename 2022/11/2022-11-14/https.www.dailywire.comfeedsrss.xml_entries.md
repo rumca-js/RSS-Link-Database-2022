@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Katie Hobbs Will Be Arizona Governor: Projection
  - [https://www.dailywire.com/news/hold-arizona-governor](https://www.dailywire.com/news/hold-arizona-governor)
@@ -412,3 +412,4 @@ A former University of Virginia football player was being hunted and the schoolâ
  - date published: 2022-11-14 00:06:03+00:00
 
 The Hill published a possible plan that could propel California Governor Gavin Newsom (D) directly to the presidency, passing by Vice President Kamala Harris, without it ever coming to a vote before the American people. The plan was outlined by former Pentagon and White House official Douglas MacKinnon â€” who worked under Presidents Ronald Reagan ...
+

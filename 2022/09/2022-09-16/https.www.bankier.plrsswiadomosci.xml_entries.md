@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Kolejna sesja spadków na Wall Street. FedEx liderem zniżek
  - [https://www.bankier.pl/wiadomosc/Kolejna-sesja-spadkow-na-Wall-Street-FedEx-liderem-znizek-8407496.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kolejna-sesja-spadkow-na-Wall-Street-FedEx-liderem-znizek-8407496.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -399,3 +399,4 @@ obrotu. Niestety w obecnych warunk
  - date published: 2022-09-16 04:51:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/6/f45598c7b51309-948-568-196-0-4342-2605.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Aktualizacja etykiet ostrzegawczych na wyrobach alkoholowych jest konieczna, aby pomóc konsumentom w podejmowaniu bardziej świadomych decyzji dotyczących tego, ile piją - przekonują eksperci z dwóch naukowych ośrodków amerykańskich.</p>
+

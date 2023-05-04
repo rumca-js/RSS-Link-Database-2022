@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Chinese police increase censorship and intimidation in attempt to stop protests
  - [https://www.cnn.com/videos/world/2022/11/29/chinese-police-intimidation-censorship-tactics-wang-sot-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/11/29/chinese-police-intimidation-censorship-tactics-wang-sot-lead-vpx.cnn)
@@ -470,3 +470,4 @@ More than 150 cold-stunned sea turtles have been rescued in Cape Cod, Massachuse
  - date published: 2022-11-29 00:39:42+00:00
 
 Former Vice President Mike Pence said Monday that Donald Trump was "wrong" to recently have dinner with White nationalist and Holocaust denier Nick Fuentes and rapper Kanye West at his Florida resort and that the former president should apologize for it.
+

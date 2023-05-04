@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Full spec sheet for Pixel 7 and Pixel 7 Pro leaks
  - [https://www.androidauthority.com/pixel-7-leak-3216339/](https://www.androidauthority.com/pixel-7-leak-3216339/)
@@ -167,3 +167,4 @@ Roku makes it relatively trivial to drop subscriptions you've signed up for thro
  - date published: 2022-10-04 04:00:02+00:00
 
 It's rare if Assistant's voice triggers fail, but it's pretty easy to get things back on track.
+

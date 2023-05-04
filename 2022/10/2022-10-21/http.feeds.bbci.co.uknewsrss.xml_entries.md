@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## United States Grand Prix: Ferrari's Carlos Sainz and Charles Leclerc head practice sessions
  - [https://www.bbc.co.uk/sport/formula1/63353323?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63353323?at_medium=RSS&at_campaign=KARANGA)
@@ -468,3 +468,4 @@ Young people speak to Newsbeat about how rising prices are impacting the food th
  - date published: 2022-10-21 00:17:41+00:00
 
 Rebecca Kellaway is a waitress. And a carer. And has three cleaning roles.
+

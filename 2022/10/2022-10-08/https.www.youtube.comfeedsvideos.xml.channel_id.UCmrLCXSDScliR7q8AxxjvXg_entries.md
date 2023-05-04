@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## WHY Success is DESTROYING America
  - [https://www.youtube.com/watch?v=AH6Ny7C7Zzg](https://www.youtube.com/watch?v=AH6Ny7C7Zzg)
@@ -59,3 +59,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your-retirement/
 
 #kanyewest #blm #sineadoconnor
+

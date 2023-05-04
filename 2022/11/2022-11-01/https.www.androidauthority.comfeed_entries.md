@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Anker 767 PowerHouse deal: Score $400 off this next level power station
  - [https://www.androidauthority.com/anker-767-powerhouse-power-station-deal-3229963/](https://www.androidauthority.com/anker-767-powerhouse-power-station-deal-3229963/)
@@ -160,3 +160,4 @@ The Oppo A58 gives the OnePlus Nord 2T a run for its money when it comes to ugly
  - date published: 2022-11-01 04:00:23+00:00
 
 Roku devices are simple to install, but this is what you need to know and expect.
+

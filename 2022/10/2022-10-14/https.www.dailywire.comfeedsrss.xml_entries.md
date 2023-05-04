@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Herschel Walker Reminds Pastor Raphael Warnock ‘There’s A Baby In That Room As Well’ On Abortion Question During Debate
  - [https://www.dailywire.com/news/herschel-walker-reminds-pastor-raphael-warnock-theres-a-baby-in-that-room-as-well-on-abortion-question-during-debate](https://www.dailywire.com/news/herschel-walker-reminds-pastor-raphael-warnock-theres-a-baby-in-that-room-as-well-on-abortion-question-during-debate)
@@ -293,3 +293,4 @@ The president of the board of directors of the Mexican Hunting Federation was ki
  - date published: 2022-10-14 00:00:50+00:00
 
 Those trying to watch the Young America’s Foundation (YAF) livestream of Matt Walsh’s University of Houston speech Thursday night were met with an unavailable video, and leftist student employees are being blamed. YAF wrote following the event that it believes it is likely that student employees who opposed Walsh&#8217;s speech disrupted the livestream. Part of ...
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## National Archives says it still doesn't have all Trump White House records
  - [https://www.cnn.com/2022/10/01/politics/national-archives-trump-records-house-oversight-committee/index.html](https://www.cnn.com/2022/10/01/politics/national-archives-trump-records-house-oversight-committee/index.html)
@@ -237,3 +237,4 @@ Texas Republican Gov. Greg Abbott and Democratic challenger Beto O'Rourke clashe
  - date published: 2022-10-01 00:45:31+00:00
 
 CNN obtains a recorded phone call of a woman's struggle to survive Hurricane Ian. The storm surge flooded Hope Labriola's Fort Myers Beach's home before she was rescued. Take a listen.
+

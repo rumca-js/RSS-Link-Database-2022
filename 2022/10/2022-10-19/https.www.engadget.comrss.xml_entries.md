@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## 'Return to Silent Hill' will bring Konami's horror franchise back to movie theaters
  - [https://www.engadget.com/return-to-silent-hill-will-bring-konamis-horror-franchise-back-to-movie-theaters-225039136.html?src=rss](https://www.engadget.com/return-to-silent-hill-will-bring-konamis-horror-franchise-back-to-movie-theaters-225039136.html?src=rss)
@@ -167,3 +167,4 @@
  - date published: 2022-10-19 05:03:17+00:00
 
 <p><a href="https://www.engadget.com/ikea-unveils-the-dirigera-matter-ready-hub-and-new-smart-home-app-132535402.html">Ikea</a> has teamed up with Kodiak Robotics, a company that's working on self-driving technology for long-haul trucking, to test driverless deliveries from its warehouses. Since August this year, an autonomous heavy-duty Kodiak truck has been delivering furniture from an Ikea distribution center near Houston to a retail store near Dallas every single day. While the truck has a b
+

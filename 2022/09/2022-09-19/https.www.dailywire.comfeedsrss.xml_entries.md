@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Ron DeSantis Responds To Gavin Newsom’s Debate Challenge
  - [https://www.dailywire.com/news/ron-desantis-responds-to-gavin-newsoms-debate-challenge](https://www.dailywire.com/news/ron-desantis-responds-to-gavin-newsoms-debate-challenge)
@@ -384,3 +384,4 @@ Governor Ron DeSantis (R-FL) received a standing ovation at a rally in Kansas Ci
  - date published: 2022-09-19 07:49:24+00:00
 
 President Joe Biden (D) refused to state during a CBS News interview that aired Sunday that he was going to run again for president in 2024. Biden made the remarks during an interview on CBS News’ “60 Minutes” with host Scott Pelley as some Democrats have stated that he would not be running for office ...
+

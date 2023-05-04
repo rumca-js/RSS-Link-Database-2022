@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘I’m Sick Of This S**t’: Lori Lightfoot Rages Over Colorado Shooting, Gets Dragged Because She’s Mayor Of Chicago
  - [https://www.dailywire.com/news/im-sick-of-this-st-lori-lightfoot-rages-over-colorado-shooting-gets-dragged-because-shes-mayor-of-chicago](https://www.dailywire.com/news/im-sick-of-this-st-lori-lightfoot-rages-over-colorado-shooting-gets-dragged-because-shes-mayor-of-chicago)
@@ -83,3 +83,4 @@ Arizona’s attorney general&#8217;s office ordered Maricopa County officials to
  - date published: 2022-11-20 07:23:48+00:00
 
 A gunman opened fire inside a gay nightclub in Colorado just before midnight Saturday, killing five people and wounding at least 18, authorities said. The carnage occurred inside Club Q in Colorado Springs, which describes itself online as an “adult-oriented gay and lesbian nightclub hosting theme nights such as karaoke, drag shows &amp; DJs.” The ...
+

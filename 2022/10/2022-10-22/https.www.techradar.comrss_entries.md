@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## I tried a cordless vacuum with 2 batteries, but it didn't speed up my cleaning
  - [https://www.techradar.com/news/i-tried-a-cordless-vacuum-with-2-batteries-but-it-didnt-speed-up-my-cleaning/](https://www.techradar.com/news/i-tried-a-cordless-vacuum-with-2-batteries-but-it-didnt-speed-up-my-cleaning/)
@@ -41,3 +41,11 @@ Oracle founder wants to help build the next generation of medical information sy
  - date published: 2022-10-22 04:00:05+00:00
 
 The Google Pixel Watch 2 is probably already in the works and we know what we want from it.
+
+## Google Pixel Watch 2: what we want to see
+ - [https://www.techradar.com/news/google-pixel-watch-2](https://www.techradar.com/news/google-pixel-watch-2)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-22 04:00:05+00:00
+
+The Google Pixel Watch 2 is almost definitely in the works – and we know what we want to see from it.
+

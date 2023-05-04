@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Carlsberg becomes latest company to suspend advertising on Twitter after takeover by Elon Musk
  - [https://www.dailymail.co.uk/news/article-11388525/Carlsberg-latest-company-suspend-advertising-Twitter-takeover-Elon-Musk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11388525/Carlsberg-latest-company-suspend-advertising-Twitter-takeover-Elon-Musk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1896,3 +1896,4 @@ An American family who has been waiting to receive their son's body back after h
  - date published: 2022-11-03 00:04:09+00:00
 
 The set of six art deco-style stamps focus on key moments from the Nativity story, and each bears an outline of the late monarch for the last time in more than 50 years.
+

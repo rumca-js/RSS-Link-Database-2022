@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Noru became a super typhoon in 6 hours. Scientists say powerful storms are becoming harder to forecast
  - [https://www.cnn.com/2022/10/01/asia/philippines-super-typhoon-noru-karding-climate-intl-dst-hnk/index.html](https://www.cnn.com/2022/10/01/asia/philippines-super-typhoon-noru-karding-climate-intl-dst-hnk/index.html)
@@ -27,3 +27,4 @@ As election day approaches in Brazil, the two leading presidential candidates --
  - date published: 2022-10-01 03:56:08+00:00
 
 North Korea will face "a determined and overwhelming response" from South Korea and the United States if it attempts to use nuclear weapons, South Korea's President Yoon Suk Yeol said Saturday.
+

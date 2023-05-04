@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: Huragan Ian zdewastował Florydę. Zniszczone domy, statki na ulicach
  - [https://www.polsatnews.pl/wiadomosc/2022-09-29/usa-huragan-ian-zdewastowal-floryde-zniszczone-domy-statki-na-ulicach/](https://www.polsatnews.pl/wiadomosc/2022-09-29/usa-huragan-ian-zdewastowal-floryde-zniszczone-domy-statki-na-ulicach/)
@@ -76,3 +76,4 @@ Raper Coolio, zdobywca nagrody Grammy, nie żyje. Artysta zmarł w swoim domu. P
  - date published: 2022-09-29 05:39:00+00:00
 
 Szwedzka straż przybrzeżna poinformowała o kolejnym, czwartym już wycieku gazu w uszkodzonym gazociągu Nord Stream - poinformowała gazeta Svenska Dagabladet.
+

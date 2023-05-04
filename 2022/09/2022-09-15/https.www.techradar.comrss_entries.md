@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Nearly all firms have suffered a cloud security issue this year
  - [https://www.techradar.com/news/nearly-all-firms-have-suffered-a-cloud-security-issue-this-year/](https://www.techradar.com/news/nearly-all-firms-have-suffered-a-cloud-security-issue-this-year/)
@@ -216,3 +216,4 @@ The Xiaomi 12T is expected to launch soon, and it'll seriously undercut its pric
  - date published: 2022-09-15 04:00:57+00:00
 
 The Brio 500 series optimizes lighting conditions while the Zone Vibe cancels outside noise.
+

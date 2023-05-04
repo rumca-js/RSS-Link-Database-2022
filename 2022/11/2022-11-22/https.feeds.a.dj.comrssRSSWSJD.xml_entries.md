@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## China's Baidu Sees Little Impact From U.S. Chip Controls
  - [https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120?mod=rss_Technology](https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120?mod=rss_Technology)
@@ -104,3 +104,4 @@ Genesis told clients last week that it paused lending withdrawals while it shore
  - date published: 2022-11-22 00:30:00+00:00
 
 FTX is expected to make its debut appearance Tuesday in Delaware bankruptcy court, where its new management is expected to recount events leading up to the cryptocurrency platform’s sudden collapse and explain the steps it has since taken to secure customer funds.
+

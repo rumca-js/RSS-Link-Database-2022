@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## How Red Bull's Dietrich Mateschitz turned Thai duck farmer's 'hangover cure' into business empire
  - [https://www.dailymail.co.uk/news/article-11345357/How-Red-Bulls-Dietrich-Mateschitz-turned-Thai-duck-farmers-hangover-cure-business-empire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11345357/How-Red-Bulls-Dietrich-Mateschitz-turned-Thai-duck-farmers-hangover-cure-business-empire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -755,3 +755,4 @@ Harry Maguire was found guilty of assaulting six police officers while on holida
  - date published: 2022-10-23 00:01:36+00:00
 
 The frustrating reality of finding an affordable place to rent has been laid bare by video showing a line of around 100 people waiting patiently to inspect a $700 per week two-bedroom apartment in Sydney.
+

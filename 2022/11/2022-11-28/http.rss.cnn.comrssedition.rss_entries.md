@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## CNN reporter on 'unbelievable scenes' in China as protesters speak out
  - [https://www.cnn.com/videos/world/2022/11/28/china-protests-zero-covid-wang-pkg-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/11/28/china-protests-zero-covid-wang-pkg-lead-vpx.cnn)
@@ -505,3 +505,4 @@ Democratic Sen. Chris Murphy tells CNN's Dana Bash that Qatar is a "complicated 
  - date published: 2022-11-28 01:07:52+00:00
 
 Marion Barter won plaudits for her warmth as an elementary school teacher, but in 1997 the 51-year-old mother-of-two became restless, quit her job, sold her house, and flew from Australia's beach-lined Gold Coast to start a new life in Europe.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'She-Hulk' Release Schedule: When Does Episode 6 Hit Disney Plus?     - CNET
  - [https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-6-hit-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-6-hit-disney-plus/#ftag=CADf328eec)
@@ -937,3 +937,4 @@ WHO Director-General Tedros Adhanom Ghebreyesus cautions that Africa is still be
  - date published: 2022-09-15 00:00:03+00:00
 
 Google, Apple and Microsoft believe passkeys can completely replace passwords. Support has arrived in iOS 16 and is coming to Android and web browsers.
+

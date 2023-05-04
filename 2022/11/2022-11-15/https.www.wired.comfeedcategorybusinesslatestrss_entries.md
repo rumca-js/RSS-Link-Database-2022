@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Who Will Pay the Price for Big Tech's Hubris?
  - [https://www.wired.com/story/who-will-pay-the-price-for-big-techs-hubris/](https://www.wired.com/story/who-will-pay-the-price-for-big-techs-hubris/)
@@ -13,3 +13,4 @@ WIRED’s editor in chief mulls what lies in store for Elon Musk and Sam Bankman
  - date published: 2022-11-15 01:08:07+00:00
 
 Problems with the important security feature may be some of the first signs that Elon Musk’s social network is fraying at the edges.
+

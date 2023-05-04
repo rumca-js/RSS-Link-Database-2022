@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## The I.M.F. said $1.3 billion in emergency funding for Ukraine had been approved by its board.
  - [https://www.nytimes.com/2022/10/08/world/europe/the-imf-said-1-3-billion-in-emergency-funding-for-ukraine-had-been-approved-by-its-board.html](https://www.nytimes.com/2022/10/08/world/europe/the-imf-said-1-3-billion-in-emergency-funding-for-ukraine-had-been-approved-by-its-board.html)
@@ -328,3 +328,4 @@ Hackers infiltrated the Mexican Defense Ministry, publishing millions of emails 
  - date published: 2022-10-07 00:00:36+00:00
 
 The announcement by the Saudi-led OPEC Plus energy cartel that it would slash oil production was widely seen in Washington as a stab in the back of President Biden.
+

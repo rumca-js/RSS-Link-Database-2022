@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Chiny znów objęły lockdownem ponad 200 mln osób. Winne: nowe warianty COVID-19
  - [https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -243,3 +243,4 @@ pojazdów silnikowych.</p>
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/7/e9cccb2d1afad9-948-568-0-119-1772-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Przed nami długi weekend, ale zanim zaczniemy odpoczywać, warto wrócić 
 pamięcią do kończącego się tygodnia, bo w ostatnich dniach działo się 
 niemało.</p>
+

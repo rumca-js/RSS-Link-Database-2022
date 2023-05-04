@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## The companies that hold your crypto aren't insured the way banks are
  - [https://www.cnn.com/2022/11/13/success/crypto-accounts-legal-protections-ftx-ctrp/index.html](https://www.cnn.com/2022/11/13/success/crypto-accounts-legal-protections-ftx-ctrp/index.html)
@@ -27,3 +27,4 @@ Tesla and CEO Elon Musk will spend this week in court to defend the massive comp
  - date published: 2022-11-13 07:02:46+00:00
 
 A cruise ship with hundreds of Covid-positive passengers docked in Sydney, Australia, after being hit by a wave of infections.
+

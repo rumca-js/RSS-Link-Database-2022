@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Apple AirPods Pro (2nd generation) review: It all adds up
  - [https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/](https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/)
@@ -48,3 +48,4 @@ Plus Microsoft's Surface Pro 9, Meta's Quest Pro, iPhone time travel, and more o
  - date published: 2022-10-15 03:17:09+00:00
 
 Google's first-ever smartwatch is meant for making an impression.
+

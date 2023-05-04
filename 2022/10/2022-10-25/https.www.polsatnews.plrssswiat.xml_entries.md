@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Indie. 23-latka zmarła w trakcie zabiegu in vitro. Jej serce nagle przestało bić
  - [https://www.polsatnews.pl/wiadomosc/2022-10-25/indie-23-latka-zmarla-w-trakcie-zabiegu-in-vitro-jej-serce-nagle-przestalo-bic/](https://www.polsatnews.pl/wiadomosc/2022-10-25/indie-23-latka-zmarla-w-trakcie-zabiegu-in-vitro-jej-serce-nagle-przestalo-bic/)
@@ -153,3 +153,4 @@ Krewni prezydenta Rosji Władimira Putina są zaniepokojeni jego napadami kaszlu
  - date published: 2022-10-25 07:39:00+00:00
 
 Hiszpan, który dokumentował swoją podróż pieszo z Madrytu do Doha w Katarze na Mistrzostwa Świata FIFA 2022, nie dał znaku życia od czasu przekroczenia granicy Iranu trzy tygodnie temu - poinformowała w poniedziałek jego rodzina. Bliscy obawiają się o los mężczyzny w ogarniętym niepokojami kraju.
+

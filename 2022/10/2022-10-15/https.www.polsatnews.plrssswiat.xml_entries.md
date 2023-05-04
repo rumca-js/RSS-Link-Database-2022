@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Hiszpania: Zaprezentowano hiperrealistyczną rzeźbę obrazującą ciało Jezusa Chrystusa
  - [https://www.polsatnews.pl/wiadomosc/2022-10-15/hiszpania-zaprezentowano-hiperrealistyczna-rzezbe-obrazujaca-cialo-jezusa-chrystusa/](https://www.polsatnews.pl/wiadomosc/2022-10-15/hiszpania-zaprezentowano-hiperrealistyczna-rzezbe-obrazujaca-cialo-jezusa-chrystusa/)
@@ -125,3 +125,4 @@ Firma Microsoft poinformowała w piątek o wykryciu nowej kampanii cyberataków 
  - date published: 2022-10-15 05:02:00+00:00
 
 Pentagon poinformował o kolejnej transzy pomocy wojskowej dla Ukrainy wartej 725 mln dolarów. W zestawie znalazło się m.in. ponad 200 pojazdów Humvee (HMMWV), rakiety przeciwradarowe HARM i amunicja do systemów HIMARS.
+

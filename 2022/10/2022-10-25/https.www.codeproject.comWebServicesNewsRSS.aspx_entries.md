@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Developers are in short supply, and that's keeping IT services companies busy
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59287](https://www.codeproject.com/script/News/View.aspx?nwid=59287)
@@ -97,3 +97,4 @@ Somewhere between talc and beryl?
  - date published: 2022-10-25 04:00:00+00:00
 
 I got into Cloudflare pages because it lets you host static websites with all the latest optimizations conveniently and for free
+

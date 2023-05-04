@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Putin delivers personal show of force, firing a sniper rifle at a Russian military base
  - [https://www.cnn.com/videos/world/2022/10/20/putin-shows-of-strength-russia-ukraine-tsr-brian-todd-vpx.cnn](https://www.cnn.com/videos/world/2022/10/20/putin-shows-of-strength-russia-ukraine-tsr-brian-todd-vpx.cnn)
@@ -624,3 +624,4 @@ CNN's Fred Pleitgen gets rare access to Ukraine's front line battle in Bakhmut d
  - date published: 2022-10-20 00:04:21+00:00
 
 It has taken just a handful of years for Chinese leader Xi Jinping to make good on his promise of transforming the People's Liberation Army.
+

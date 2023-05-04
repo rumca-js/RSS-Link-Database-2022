@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## JANE FRYER meets the mourners who are braving the elements to pay their last respects to Her Majesty
  - [https://www.dailymail.co.uk/news/article-11213579/JANE-FRYER-meets-mourners-braving-elements-pay-respects-Majesty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11213579/JANE-FRYER-meets-mourners-braving-elements-pay-respects-Majesty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1589,3 +1589,4 @@ The petition was started by John Harris on Change.org and proposes that Septembe
  - date published: 2022-09-14 00:14:11+00:00
 
 The capture of two huge crocodiles in northern Australia has led the Queensland government to renew warnings to the public including advising people not to camp near their habitats.
+

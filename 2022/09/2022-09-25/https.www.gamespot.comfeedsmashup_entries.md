@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## A Casino For Kids - Is It Time To Ban Loot Boxes? | MindGames
  - [https://www.gamespot.com/videos/a-casino-for-kids-is-it-time-to-ban-loot-boxes-mindgames/2300-6459604/](https://www.gamespot.com/videos/a-casino-for-kids-is-it-time-to-ban-loot-boxes-mindgames/2300-6459604/)
@@ -13,3 +13,4 @@
  - date published: 2022-09-25 13:00:00+00:00
 
 <p><em>Halo 3 is celebrating its 15-year anniversary today, September 25, 2022. Below, we take a look at how one of its marquee new features, the Forge, had a massive impact on how fans think about and engage with the beloved shooter series.</em></p><p dir="ltr">A gigantic futuristic Jenga tower, a medieval castle with jeeps speeding through it, and a frying pan full of metal flapjacks. These maps are just a small sample of some of the most memorable and iconic Halo Forge creations that have bee
+

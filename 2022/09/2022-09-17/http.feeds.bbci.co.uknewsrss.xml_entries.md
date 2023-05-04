@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Ukraine war: Power back on at huge nuclear plant in Zaporizhzhia
  - [https://www.bbc.co.uk/news/world-europe-62943902?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62943902?at_medium=RSS&at_campaign=KARANGA)
@@ -293,3 +293,4 @@ The video feed of Westminster Hall cut away when the incident occurred at 22:00 
  - date published: 2022-09-17 01:18:02+00:00
 
 A group of thieves stole €300,000 worth of goods from passengers on high-speed trains, police say.
+

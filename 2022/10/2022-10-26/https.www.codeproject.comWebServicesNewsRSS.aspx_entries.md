@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Are developers actually happy with their day-to-day work?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59305](https://www.codeproject.com/script/News/View.aspx?nwid=59305)
@@ -62,3 +62,4 @@ So it's a key that types 'P@ssword1' for me?
  - date published: 2022-10-26 04:00:00+00:00
 
 And then they came for 'people in office, pointing at monitor and laughing' and I did nothing
+

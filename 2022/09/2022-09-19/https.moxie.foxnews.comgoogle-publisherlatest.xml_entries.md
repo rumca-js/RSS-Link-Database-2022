@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Chiefs linebacker Willie Gay suspended 4 games due to January arrest
  - [https://www.foxnews.com/sports/chiefs-linebacker-willie-gay-suspended-4-games-january-arrest](https://www.foxnews.com/sports/chiefs-linebacker-willie-gay-suspended-4-games-january-arrest)
@@ -1126,3 +1126,4 @@ The San Francisco 49ers may have taken down their NFC West rival Seattle Seahawk
  - date published: 2022-09-19 00:05:26+00:00
 
 The Los Angeles Rams almost pulled an Atlanta Falcons against the Atlanta Falcons, but defending champs held on late for their first win of the season.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Proxies in Ukraine Push Moscow to Annex Occupied Regions
  - [https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html](https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html)
@@ -230,3 +230,4 @@ Suspicious gas leaks in Europe.
  - date published: 2022-09-28 00:02:36+00:00
 
 The Kremlin dispatched federal security forces to frontier border crossings packed with Russian men trying to escape the draft by entering countries like Georgia, Kazakhstan and Mongolia.
+

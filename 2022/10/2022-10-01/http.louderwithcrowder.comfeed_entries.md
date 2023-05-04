@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Bill Maher calls on Biden to replace Kamala Harris as Vice President and his liberal audience CHEERS
  - [https://www.louderwithcrowder.com/bill-maher-replace-kamala-harris](https://www.louderwithcrowder.com/bill-maher-replace-kamala-harris)
@@ -22,3 +22,4 @@
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31850885&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>
 	Kamala Harris is under fire for making racially charged remarks over Hurricane Ian assistance. Floridians from every walk of life have lost everything they had due to the hurricane. Kamala said that when it comes to giving financial aid out, the White House will decide who goes first based on their race and gender.
 </p><div class="rm-em
+

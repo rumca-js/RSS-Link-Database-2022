@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Zelensky claims about 2,000 square kilometers of Ukraine retaken this month
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-10-22#h_60a4de8f861e0a8ba3fed4be34d37230](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-10-22#h_60a4de8f861e0a8ba3fed4be34d37230)
@@ -285,5 +285,6 @@ Queen Elizabeth II was no stranger to a good joke throughout her reign - doing e
  - [https://edition.cnn.com/uk/live-news/queen-elizabeth-death-reaction-news-09-09-22/h_9b05676fffe3568557ecabc4495308e4](https://edition.cnn.com/uk/live-news/queen-elizabeth-death-reaction-news-09-09-22/h_9b05676fffe3568557ecabc4495308e4)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-10 01:04:01.477453+00:00
+
 
 

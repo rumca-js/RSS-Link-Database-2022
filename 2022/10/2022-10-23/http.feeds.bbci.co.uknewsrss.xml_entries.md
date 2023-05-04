@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Diwali 2022: India celebrates the festival with a dazzling display of lights
  - [https://www.bbc.co.uk/news/world-asia-india-63326532?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63326532?at_medium=RSS&at_campaign=KARANGA)
@@ -335,3 +335,4 @@ In April 1945, the BBC’s Richard Dimbleby was the first reporter to enter the 
  - date published: 2022-10-23 00:00:11+00:00
 
 My Neighbour Totoro, the classic anime film, has been recreated by the Royal Shakespeare Company.
+

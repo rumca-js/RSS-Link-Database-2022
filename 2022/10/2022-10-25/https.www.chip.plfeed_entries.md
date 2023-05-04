@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Kondensat Bosego-Einsteina z kwazicząstek. Prawdziwy przełom w wykonaniu naukowców
  - [https://www.chip.pl/2022/10/kondensat-bosego-einsteina-kwaziczastki](https://www.chip.pl/2022/10/kondensat-bosego-einsteina-kwaziczastki)
@@ -159,3 +159,4 @@
 
 <img alt="Alpin" class="attachment-full size-full wp-post-image" height="1080" src="https://konto.chip.pl/wp-content/uploads/2022/10/W-Turcji-powstaje-kolejny-dron.-Alpin-bedzie-wyjatkowy-zwlaszcza-z-jednego-powodu.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/W-Turcji-powstaje-kolejny-dron.-Alpin-bedzie-wyjatkowy-zwlaszcza-z-jednego-powodu.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Turcja zasłynęła w ostatnich miesiącach w mediach za sprawą produkowanych przez państwowe firmy systemów bezzałogowych i najwyraźniej kuje to żelazko, póki jest gorące. Regularnie dowiadujemy się o nowych planowanych dronach tureckich z tymi nawodnymi na czele, ale dziś ponownie wznosimy się w przestworza po zapowiedzi drona Alpin. Pierwszy turecki bezzałogowy helikopter &#8211; tym właśnie będzie [&#8230;]</p>
+

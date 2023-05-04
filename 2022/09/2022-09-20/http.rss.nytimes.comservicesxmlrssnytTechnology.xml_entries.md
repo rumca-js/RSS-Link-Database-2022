@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## YouTube’s Dislike Button Rarely Shifts Video Recommendations, Researchers Say
  - [https://www.nytimes.com/2022/09/20/technology/youtube-recommendations.html](https://www.nytimes.com/2022/09/20/technology/youtube-recommendations.html)
@@ -13,3 +13,4 @@ New research from Mozilla shows YouTube users have little control over what is r
  - date published: 2022-09-20 07:00:17+00:00
 
 The project also illustrates how difficult it is to get lithium out of the ground and break China’s dominance in processing the metal and turning it into batteries.
+

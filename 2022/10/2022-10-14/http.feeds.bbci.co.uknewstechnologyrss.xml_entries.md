@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Shein owner Zoetop fined $1.9m over data breach response
  - [https://www.bbc.co.uk/news/technology-63255661?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63255661?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ New York Attorney General Letitia James accuses Zoetop of lying about the extent
  - date published: 2022-10-14 01:53:38+00:00
 
 The boss of messaging platform Slack says people should come into work to do other things.
+

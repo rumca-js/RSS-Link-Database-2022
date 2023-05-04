@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Meta Is Said to Plan Significant Job Cuts This Week
  - [https://www.nytimes.com/2022/11/06/technology/meta-layoffs.html](https://www.nytimes.com/2022/11/06/technology/meta-layoffs.html)
@@ -20,3 +20,4 @@ Users and employees had raised concerns that Elon Musk’s plan to give check ma
  - date published: 2022-11-06 10:00:24+00:00
 
 A group of American cryptocurrency investors is trying to turn an obscure English soccer club into “the internet’s team,” with a global following of crypto enthusiasts.
+

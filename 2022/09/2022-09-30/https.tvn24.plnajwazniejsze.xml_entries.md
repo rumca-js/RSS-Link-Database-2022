@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Grzyb z coraz szerszym kapeluszem. Czy polski senior jest skazany na biedę?
  - [https://tvn24.pl/premium/demografia-polska-sie-starzeje-polscy-seniorzy-skazani-na-biede-6140862?source=rss](https://tvn24.pl/premium/demografia-polska-sie-starzeje-polscy-seniorzy-skazani-na-biede-6140862?source=rss)
@@ -231,3 +231,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ze51m2-cnb-fotowoltaika-6139087/alternates/LANDSCAPE_1280" />
     Co ma wspólnego garnek z fotowoltaiką? Reportaż Marcina Jakubika.
+

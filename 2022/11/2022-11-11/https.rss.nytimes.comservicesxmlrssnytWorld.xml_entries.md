@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukrainian Forces Enter Kherson, a Strategic Prize, in a Blow to Putin
  - [https://www.nytimes.com/2022/11/11/world/europe/kherson-ukraine-russia.html](https://www.nytimes.com/2022/11/11/world/europe/kherson-ukraine-russia.html)
@@ -174,3 +174,4 @@ Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, has made the cas
  - date published: 2022-11-11 00:03:26+00:00
 
 Global emissions from fossil fuels are likely to reach record highs this year, new data shows, putting nations further off track from stopping global warming.
+

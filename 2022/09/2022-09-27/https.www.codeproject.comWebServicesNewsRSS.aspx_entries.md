@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Creepy apps cause emotional stress: The normalization of affective discomfort in app use
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59014](https://www.codeproject.com/script/News/View.aspx?nwid=59014)
@@ -111,3 +111,4 @@ WebTransport is an API offering low-latency, bidirectional, client-server messag
  - date published: 2022-09-27 04:00:00+00:00
 
 Next.js is a free and open-source framework developed based on React.js. Nuxt.js is also a free and open-source front-end framework, but it was created based on Vue.js.
+

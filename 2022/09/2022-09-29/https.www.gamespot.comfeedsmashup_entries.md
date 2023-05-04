@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## The 20+ Best Horror Movies Streaming on Peacock Right Now
  - [https://www.gamespot.com/gallery/the-20-best-horror-movies-streaming-on-peacock-right-now/2900-4364/](https://www.gamespot.com/gallery/the-20-best-horror-movies-streaming-on-peacock-right-now/2900-4364/)
@@ -349,3 +349,4 @@
  - date published: 2022-09-29 00:21:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4042020-cyberpunkback_site.jpg" width="480" /> Cyberpunk 2077 was met with overwhelming disappointment when it first released thanks to a mix of it being overhyped and over-buggy. But, it's back and more popular than it's been in over a year. Is it Patch 1.6? Is it Edgerunners?
+

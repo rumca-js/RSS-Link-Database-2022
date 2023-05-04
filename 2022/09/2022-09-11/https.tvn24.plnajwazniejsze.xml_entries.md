@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Milik cieszył się z gola, chwilę potem wyleciał z boiska. Szalone sceny w meczu Juventusu
  - [https://eurosport.tvn24.pl/milik-cieszy--si--z-gola--chwil--potem-wylecia--z-boiska--szalone-sceny-w-meczu-juventusu,1118242.html?source=rss](https://eurosport.tvn24.pl/milik-cieszy--si--z-gola--chwil--potem-wylecia--z-boiska--szalone-sceny-w-meczu-juventusu,1118242.html?source=rss)
@@ -271,3 +271,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-5gb6br-1009bayraktar8-6106661/alternates/LANDSCAPE_1280" />
     Jan Piotrowski rozmawiał z tureckim producentem dronów Halukiem Bayraktarem.
+

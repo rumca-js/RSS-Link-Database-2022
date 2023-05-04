@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Nancy Pelosi describes moment police told her of husband’s attack
  - [https://www.theguardian.com/us-news/2022/nov/07/nancy-pelosi-police-husband-attack](https://www.theguardian.com/us-news/2022/nov/07/nancy-pelosi-police-husband-attack)
@@ -1105,3 +1105,4 @@ Orchestral flautist who inspired generations of children with her innovative app
  - date published: 2022-11-07 00:01:33+00:00
 
 <p>The Copa América holders are calm, united and unbeaten in 35 games – and many fans think football owes Lionel Messi this trophy</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/07/world-cup-2022-team-guide-argentina">Continue reading...</a>
+

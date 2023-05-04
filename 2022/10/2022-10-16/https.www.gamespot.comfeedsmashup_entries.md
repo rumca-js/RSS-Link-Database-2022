@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Why Nioh 2 Still Stands Out In The Soulslike Space
  - [https://www.gamespot.com/articles/why-nioh-2-still-stands-out-in-the-soulslike-space/1100-6508298/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/why-nioh-2-still-stands-out-in-the-soulslike-space/1100-6508298/?ftag=CAD-01-10abi2f)
@@ -20,3 +20,4 @@
  - date published: 2022-10-16 13:00:00+00:00
 
 <p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4039814-quackshot-2.jpg" /><br /><h3><p dir="ltr">Disney has some of the most recognizable characters in the world, and it's regularly putting out new movies and TV series that immediately create pop culture icons. The likes of Mickey Mouse, Minnie, Donald, and Goofy have been progressively joined by a wide variety of other great and memorable characters, whether it's from TV shows like Darkwing Duck and Gargoyles or its p
+

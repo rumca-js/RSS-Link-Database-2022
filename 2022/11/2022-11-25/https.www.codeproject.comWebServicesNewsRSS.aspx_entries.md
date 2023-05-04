@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A far-sighted approach to machine learning
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59615](https://www.codeproject.com/script/News/View.aspx?nwid=59615)
@@ -74,7 +74,6 @@ IBM announced that it has developed and contributed code to the open-source PyTo
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59628](https://www.codeproject.com/script/News/View.aspx?nwid=59628)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: subscription,intel,subscription model
 
 Insert 10p to finish that calculation
 
@@ -119,3 +118,4 @@ You are a developer and want a simple tool to create virtual devices and test Io
  - date published: 2022-11-25 05:00:00+00:00
 
 "A strange game. The only winning move is not to play. How about a nice game of chess?"
+

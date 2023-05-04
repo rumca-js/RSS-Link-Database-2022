@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Just How Much Is the UAW Strike Fund Worth?
  - [https://theintercept.com/2022/11/16/uaw-union-election-strike-fund/](https://theintercept.com/2022/11/16/uaw-union-election-strike-fund/)
@@ -23,3 +23,4 @@
 
 <p>Ajay Kumar was force-fed while detained in an immigration jail. Years later, The Intercept finally got ahold of the video recording.</p>
 <p>The post <a href="https://theintercept.com/2022/11/16/intercepted-government-force-feeding/" rel="nofollow">This Is How the Federal Government Force-Feeds Detainees</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

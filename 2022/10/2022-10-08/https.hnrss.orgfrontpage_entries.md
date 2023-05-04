@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Basilisk II Macintosh 68K emulator ported to iPadOS (2021)
  - [https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
@@ -582,3 +582,4 @@ I am going to develop an IoT solution, maybe a framework? Anyway still in design
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33128495">https://news.ycombinator.com/item?id=33128495</a></p>
 <p>Points: 120</p>
 <p># Comments: 15</p>
+

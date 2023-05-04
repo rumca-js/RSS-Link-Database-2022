@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Śląskie otwiera biuro w Abu Zabi. "Atut korzystny dla biznesu"
  - [https://tvn24.pl/biznes/ze-swiata/wojewodztwo-slaskie-otworzylo-biuro-regionalne-w-abu-zabi-6235506?source=rss](https://tvn24.pl/biznes/ze-swiata/wojewodztwo-slaskie-otworzylo-biuro-regionalne-w-abu-zabi-6235506?source=rss)
@@ -55,3 +55,4 @@
 
 <img alt="Prawie 240 tysięcy osób zmarło przedwcześnie. Za sprawą " src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-y70kfx-korek-smog-6083260/alternates/LANDSCAPE_1280" />
     Zanieczyszczenie drobnymi cząsteczkami spowodowało w 2020 roku w Unii Europejskiej 238 tysięcy przedwczesnych zgonów – wynika z raportu Europejskiej Agencji Środowiska (EEA). Unijna agencja podkreśla, że zanieczyszczenie powietrza pozostaje największym środowiskowym zagrożeniem dla zdrowia Europejczyków.
+

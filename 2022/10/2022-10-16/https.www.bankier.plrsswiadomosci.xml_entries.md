@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Izrael wyśle Ukrainie pomoc wojskową
  - [https://www.bankier.pl/wiadomosc/Izrael-wysle-Ukrainie-pomoc-wojskowa-8423835.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Izrael-wysle-Ukrainie-pomoc-wojskowa-8423835.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -158,3 +158,4 @@ gospodarczej i jakie kroki powinien podjąć przedsiębiorca.</p>
  - date published: 2022-10-16 03:11:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/f/9d40c2abd038e5-948-568-0-0-3600-2159.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent USA Joe Biden skrytykował w sobotę porzucenie przez premier Wielkiej Brytanii Liz Truss planu obniżenia podatku od korporacji. Uznał to za błąd w obliczu "światowej inflacji".</p>
+

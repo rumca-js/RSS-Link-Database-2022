@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## At Mass Grave Site in Ukraine’s Northeast, a Sign of Occupation’s Toll
  - [https://www.nytimes.com/2022/09/16/world/europe/ukraine-graves-russia.html](https://www.nytimes.com/2022/09/16/world/europe/ukraine-graves-russia.html)
@@ -186,5 +186,6 @@ The new shipment continues the Pentagon’s recent trend of sending ammunition t
  - [https://www.nytimes.com/2022/09/16/world/europe/putins-admission-of-chinese-concerns-about-ukraine-isnt-a-sign-of-a-weakening-bond-us-officials-said.html](https://www.nytimes.com/2022/09/16/world/europe/putins-admission-of-chinese-concerns-about-ukraine-isnt-a-sign-of-a-weakening-bond-us-officials-said.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-16 00:24:26+00:00
+
 
 

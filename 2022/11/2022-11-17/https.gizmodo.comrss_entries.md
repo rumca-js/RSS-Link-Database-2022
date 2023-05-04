@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Missing Money, Crypto Houses, and Emoji Payments: Here's the Most Batshit Revelations From FTX's Latest Bankruptcy Filing
  - [https://gizmodo.com/missing-money-crypto-houses-and-emoji-payments-heres-1849797923](https://gizmodo.com/missing-money-crypto-houses-and-emoji-payments-heres-1849797923)
@@ -293,3 +293,4 @@
  - date published: 2022-11-17 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--kQ3Ov0Or--/c_fit,fl_progressive,q_80,w_636/7886c181f81e39c74dae890984d3217e.png" /><p><a href="https://gizmodo.com/andor-episode-11-recap-diego-luna-star-wars-disney-plus-1849788809"><em>Andor</em></a>’s relationship to the Easter-egg-ification of <em>Star Wars</em> has been much less about <a href="https://gizmodo.com/the-mandalorians-explosive-finale-blew-our-minds-and-im-1845912360">familiar faces showing up</a> and more about the <a href="https://gizmodo.com/andor-rakata-easter-egg-explained-star-wars-kotor-1849592236">layers and secrets</a> it puts in the background of its world, rooting its grounded story of resistance in a <em>Star Wars</em> background radiation-soaked world. Its <a href="https://gizmodo.com/andor-episode-11-space-battle-luthen-fondor-lightsaber-1849787510?utm_source=twitter&amp;utm_medium=SocialMarketing&amp;utm_campaign=dlvrit&amp;utm_content=io9">latest “Easter egg”</a> is barely…</p><p><a href="https://gizmodo.com/andor-episode-11-arrestor-cruiser-explained-star-wars-1849792892">Read more...</a></p>
+

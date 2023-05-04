@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Qwik: No hydration, auto lazy-loading, edge-optimized, and fun
  - [https://qwik.builder.io/](https://qwik.builder.io/)
@@ -184,7 +184,6 @@
  - [https://www.cspicenter.com/p/what-diversity-and-inclusion-means](https://www.cspicenter.com/p/what-diversity-and-inclusion-means)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-11 17:05:37+00:00
- - tags: lgbt,microsoft,diversity,inclusion
 
 <p>Article URL: <a href="https://www.cspicenter.com/p/what-diversity-and-inclusion-means">https://www.cspicenter.com/p/what-diversity-and-inclusion-means</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33165844">https://news.ycombinator.com/item?id=33165844</a></p>
@@ -599,3 +598,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33158475">https://news.ycombinator.com/item?id=33158475</a></p>
 <p>Points: 34</p>
 <p># Comments: 8</p>
+

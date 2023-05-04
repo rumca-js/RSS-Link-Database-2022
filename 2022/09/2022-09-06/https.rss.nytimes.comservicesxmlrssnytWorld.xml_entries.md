@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## U.N. Team Calls for No-Fire Zone at Ukraine Nuclear Plant
  - [https://www.nytimes.com/2022/09/06/world/europe/ukraine-war-nuclear-reactor.html](https://www.nytimes.com/2022/09/06/world/europe/ukraine-war-nuclear-reactor.html)
@@ -195,3 +195,4 @@ After the Sunday stabbings, police treatment of Indigenous communities is under 
  - date published: 2022-09-06 00:59:43+00:00
 
 The body of a man being sought by the authorities was found with wounds that were not believed to be self-inflicted. The killing of 10 people stunned the country.
+

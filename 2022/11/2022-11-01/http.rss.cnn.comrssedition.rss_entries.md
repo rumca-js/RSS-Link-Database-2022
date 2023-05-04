@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Kansas mom gets 20 years for leading Islamic State battalion
  - [https://biztoc.com/p/e8b67s74?ref=rss&rd=1](https://biztoc.com/p/e8b67s74?ref=rss&rd=1)
@@ -2762,3 +2762,4 @@ The controversial former prime minister could return to power, as opponents try 
  - date published: 2022-11-01 00:02:16+00:00
 
 The billionaire and a group of his friends and advisers are working on layoff plans and how to swiftly change Twitter’s product, said people with knowledge of the matter. <br /><br /> #elonmusk #advisers
+

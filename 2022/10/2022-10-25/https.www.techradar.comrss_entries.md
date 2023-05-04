@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Some businesses are turning to pirated software to save money
  - [https://www.techradar.com/news/some-businesses-are-turning-to-pirated-software-to-save-money/](https://www.techradar.com/news/some-businesses-are-turning-to-pirated-software-to-save-money/)
@@ -217,3 +217,4 @@ Best Buy revealed a brand new initiative called the Upgrade+ program, which woul
  - date published: 2022-10-25 00:26:29+00:00
 
 Fitbit has been taken to task by Australia’s competition watchdog for allegedly misleading consumers.
+

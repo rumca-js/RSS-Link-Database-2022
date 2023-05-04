@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## The best thing Google can do for the Pixel line is stay consistent
  - [https://www.androidauthority.com/google-pixel-line-consistency-3209260/](https://www.androidauthority.com/google-pixel-line-consistency-3209260/)
@@ -34,3 +34,4 @@ One is thin enough to go into a laptop sleeve, the other has a convenient built-
  - date published: 2022-09-25 10:00:13+00:00
 
 All the megapixels in the world can't save poor software.
+

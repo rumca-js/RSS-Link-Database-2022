@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Biden's generation is ceding the stage as he plots his next act
  - [https://www.politico.com/news/2022/11/23/bidens-generation-2024-00070619](https://www.politico.com/news/2022/11/23/bidens-generation-2024-00070619)
@@ -13,3 +13,4 @@ When Nancy Pelosi stepped down, she had a successor in mind. The field that foll
  - date published: 2022-11-23 04:30:00+00:00
 
 New York, Los Angeles, Chicago and Houston will all have Black leaders once Karen Bass is sworn in next month as the first woman to serve as chief executive in LA.
+

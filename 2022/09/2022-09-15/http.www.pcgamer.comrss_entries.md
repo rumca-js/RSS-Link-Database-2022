@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## This stealth game challenges you to do murders, then vacuum up the mess
  - [https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)
@@ -265,3 +265,4 @@ The castle almost travelled.
  - date published: 2022-09-15 00:00:00+00:00
 
 Dive into this open-world ARPG set in a vast and mysterious post-apocalyptic world.
+

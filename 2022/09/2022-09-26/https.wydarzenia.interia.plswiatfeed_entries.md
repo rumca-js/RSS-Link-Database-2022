@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Deutsche Bahn odpowiada prezesowi PiS. "Różnorodność to nasza wartość"
  - [https://wydarzenia.interia.pl/zagranica/news-deutsche-bahn-odpowiada-prezesowi-pis-roznorodnosc-to-nasza-,nId,6309836](https://wydarzenia.interia.pl/zagranica/news-deutsche-bahn-odpowiada-prezesowi-pis-roznorodnosc-to-nasza-,nId,6309836)
@@ -13,3 +13,4 @@
  - date published: 2022-09-26 12:23:07+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-europa-madrzejsza-od-wlochow-wygrana-meloni-to-cos-wiecej,nId,6309394"><img align="left" alt="Europa mądrzejsza od Włochów? &quot;Wygrana Meloni to coś więcej&quot;" src="https://i.iplsc.com/europa-madrzejsza-od-wlochow-wygrana-meloni-to-cos-wiecej/000G4AXPFKK657K9-C321.jpg" /></a>Choć wybory we Włoszech dosyć jednoznacznie wygrała centroprawicowa koalicja z Giorgią Meloni na czele, wynik ten nie spodobał się zarówno wielu europejskim i po
+

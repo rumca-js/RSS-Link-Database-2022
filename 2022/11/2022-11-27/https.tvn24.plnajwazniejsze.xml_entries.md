@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Mrożący krew w żyłach wypadek. Narciarz zabrany helikopterem do szpitala
  - [https://eurosport.tvn24.pl/mro--cy-krew-w--y-ach-wypadek--narciarz-zabrany-helikopterem-do-szpitala,1126582.html?source=rss](https://eurosport.tvn24.pl/mro--cy-krew-w--y-ach-wypadek--narciarz-zabrany-helikopterem-do-szpitala,1126582.html?source=rss)
@@ -217,3 +217,4 @@
 
 <img alt="Remigiusz Mróz o mundialu w Katarze: esencja wszystkiego, co jest nie tak ze środowiskiem piłki nożnej" src="https://tvn24.pl/najnowsze/cdn-zdjecie-9fzf3s-remigiusz-mroz-6237665/alternates/LANDSCAPE_1280" />
     Pisarz o mistrzostwach świata i swojej najnowszej książce "Z pierwszej piłki".
+

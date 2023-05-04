@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Przewodów. Pogrzeb drugiej ofiary wybuchu. "W XXI wieku doszło do takiego dramatu"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29161897,przewodow-pogrzeb-drugiej-ofiary-wybuchu-w-xxi-wieku-doszlo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29161897,przewodow-pogrzeb-drugiej-ofiary-wybuchu-w-xxi-wieku-doszlo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-11-20 09:12:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/6c/cf/1b/z29160812M,Pozar-w-miejscowosci-Lasoty.jpg" vspace="2" />W miejscowości Lasoty (woj. kujawsko-pomorskie) doszło do pożaru domu jednorodzinnego. Dwie osoby zginęły, a jedna w stanie ciężkim przebywa w szpitalu. Sprawę bada prokuratura.
+

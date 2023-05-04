@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## NVIDIA looks set to reveal its next-gen GeForce RTX GPUs on September 20th
  - [https://www.engadget.com/nvidia-geforce-rtx-40-series-gpus-gtc-keynote-213203124.html?src=rss](https://www.engadget.com/nvidia-geforce-rtx-40-series-gpus-gtc-keynote-213203124.html?src=rss)
@@ -153,3 +153,4 @@
  - date published: 2022-09-08 00:16:40+00:00
 
 <p>Apple wasn't the only company with <a href="https://www.engadget.com/apple-airpods-pro-2-2022-iphone-event-174902963.html">new true wireless earbuds</a> to debut today. Bose also has a new model on the way, <a href="https://www.bose.com/en_us/pressroom/featured/quietcomfort-earbuds-ii.html">the QuietComfort Earbuds II</a>. As the name suggests, this set is an update to <a href="https://www.engadget.com/bose-quietcomfort-earbuds-review-144502194.html">the first QC earbuds</a> the company debut
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## US embassy convoy attacked in Haiti
  - [https://www.cnn.com/2022/11/14/politics/us-haiti-convoy-attack/index.html](https://www.cnn.com/2022/11/14/politics/us-haiti-convoy-attack/index.html)
@@ -34,3 +34,4 @@ In the lead-up to China's Communist Party Congress last month, watercooler chatt
  - date published: 2022-11-14 06:37:44+00:00
 
 The Hong Kong government on Monday demanded an investigation after a song associated with the city's pro-democracy movement was played instead of the Chinese national anthem before a rugby sevens match between Hong Kong and South Korea.
+

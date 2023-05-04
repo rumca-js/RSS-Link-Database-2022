@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Mógł powstać film o Grand Theft Auto z Eminemem w roli głównej. Rockstar jednak odrzucił projekt
  - [https://ithardware.pl/aktualnosci/mogl_powstac_film_o_grand_theft_auto_z_eminemem_w_roli_glownej_rockstar_jednak_odrzucil_projekt-24370.html](https://ithardware.pl/aktualnosci/mogl_powstac_film_o_grand_theft_auto_z_eminemem_w_roli_glownej_rockstar_jednak_odrzucil_projekt-24370.html)
@@ -197,3 +197,4 @@ Igor&rsquo;sLAB stara się dotrzeć do sedna problemu &bdquo;topnienia&rdquo; wt
 
 <img src="https://ithardware.pl/artykuly/min/24351_1.jpg" />            Na początku tego miesiąca AMD zapowiedziało nową generację swoich kart graficznych, opartych na architekturze RDNA 3. Firma zaprezentowała dwa modele, a mianowicie Radeon RX 7900 XTX i RX 7900 XT. Chociaż w trakcie prezentacji podano pewne dane...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/amd_pokazuje_przewagi_kart_graficznych_radeon_rx_7900_tuz_przed_premiera_geforce_a_rtx_4080-24351.html">https://ithardware.pl/aktualnosci/amd_pokazuje_przewagi_kart_graficznych_radeon_rx_7900_tuz_przed_premiera_geforce_a_rtx_4080-24351.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Four Simple Ways to Save on Your Heating Bill This Winter
  - [https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363](https://lifehacker.com/four-simple-ways-to-save-on-your-heating-bill-this-wint-1849687363)
@@ -139,3 +139,4 @@
  - date published: 2022-10-21 12:31:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Ie85FrGi--/c_fit,fl_progressive,q_80,w_636/8b18d1c6ab52ca6558501599b584b8a4.jpg" /><p>There’s probably at least one beloved shirt in your closet that you no longer wear because of a small, unsightly stain. Well, no need to leave it hanging any longer—bleaching with tie dye is a great way to give any slightly stained garment a new life (and a new look). It’s like tie-dyeing without the dye, as the…</p><p><a href="https://lifehacker.co
+

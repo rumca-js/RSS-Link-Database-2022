@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Irlandia: Zarabia ponad 100 tysięcy euro za "czytanie gazety i jedzenie kanapek". Pozwał pracodawcę
  - [https://www.polsatnews.pl/wiadomosc/2022-11-30/irlandia-zarabia-ponad-100-tysiecy-euro-za-czytanie-gazety-i-jedzenie-kanapek-pozwal-pracodawce/](https://www.polsatnews.pl/wiadomosc/2022-11-30/irlandia-zarabia-ponad-100-tysiecy-euro-za-czytanie-gazety-i-jedzenie-kanapek-pozwal-pracodawce/)
@@ -188,3 +188,4 @@ Co najmniej trzy osoby zginęły a 28 zostało rannych w środę w zachodnim Pak
  - date published: 2022-11-30 05:31:00+00:00
 
 Prywatna firma wojskowa Grupa Wagnera zostanie uznana przez USA za zagraniczną organizację terrorystyczną? Nad tym zastanawiać ma się administracja Joe Bidena - podaje Bloomberg.
+

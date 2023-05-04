@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Amazon is tightening its ebook return policy to thwart BookTok
  - [https://www.theverge.com/2022/9/22/23367699/amazon-ebook-kindle-return-policy-change-refunds](https://www.theverge.com/2022/9/22/23367699/amazon-ebook-kindle-return-policy-change-refunds)
@@ -446,3 +446,4 @@
     </figure>
 
   <p id="fGIXts">Automatic emergency braking (AEB) is pretty good at preventing low-speed rear-end crashes but kind of suck
+

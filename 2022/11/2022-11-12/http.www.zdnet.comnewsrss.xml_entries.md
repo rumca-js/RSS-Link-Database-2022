@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Chick-fil-A finally gave employees what it gives customers (no, not chicken)
  - [https://www.zdnet.com/article/chick-fil-a-finally-gave-employees-what-it-gives-customers-no-not-chicken/#ftag=RSSbaffb68](https://www.zdnet.com/article/chick-fil-a-finally-gave-employees-what-it-gives-customers-no-not-chicken/#ftag=RSSbaffb68)
@@ -41,3 +41,4 @@ Don't give your mom another robe this holiday season. The best smart kitchen too
  - date published: 2022-11-12 00:00:00+00:00
 
 If you're looking to splurge on a new television for a family member or friend, check these TVs to match your picture with your price point.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Louder with Crowder LIVE Election Coverage This Tuesday Night!
  - [https://www.louderwithcrowder.com/louder-with-crowder-live-election-coverage-this-tuesday-night](https://www.louderwithcrowder.com/louder-with-crowder-live-election-coverage-this-tuesday-night)
@@ -85,3 +85,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

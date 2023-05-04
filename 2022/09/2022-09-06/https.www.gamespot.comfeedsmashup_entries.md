@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Disney Dreamlight Valley - Pixar Star Path Explained And All Rewards
  - [https://www.gamespot.com/articles/disney-dreamlight-valley-pixar-star-path-explained-and-all-rewards/1100-6507150/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-pixar-star-path-explained-and-all-rewards/1100-6507150/?ftag=CAD-01-10abi2f)
@@ -419,3 +419,4 @@
  - date published: 2022-09-06 12:01:00+00:00
 
 <p>Amazon Studio's The Lord of the Rings: The Rings of Power had a massive debut on Prime Video.</p><p>Amazon has announced that the show reached "25 million global viewers" in its first 24 hours. This made The Rings of Power the "most watched series premieres on Prime Video," Amazon said.</p><p>Amazon Studios released the first two episodes of The Rings of Power on September 1. The remaining episodes in Season 1 will drop on Fridays at 12 AM ET.</p><a href="https://www.gamespot.com/articles/lot
+

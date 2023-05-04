@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Colts' Jonathan Taylor reveals how he's helping his communities, picks side in New Jersey debates
  - [https://www.foxnews.com/sports/colts-jonathan-taylor-reveals-how-hes-helping-communities-picks-side-new-jersey-debates](https://www.foxnews.com/sports/colts-jonathan-taylor-reveals-how-hes-helping-communities-picks-side-new-jersey-debates)
@@ -1294,3 +1294,4 @@ Former president of Planned Parenthood sounded the alarm that a bill to stop mis
  - date published: 2022-09-13 00:04:44+00:00
 
 Queen Elizabeth II and her husband Prince Philip had four children after their marriage in 1947, King Charles, Princess Anne, Prince Andrew and Prince Edward.
+

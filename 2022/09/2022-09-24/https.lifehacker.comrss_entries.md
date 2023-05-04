@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Get Your Dog to Stop Barking at the Mail Carrier
  - [https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069](https://lifehacker.com/how-to-get-your-dog-to-stop-barking-at-the-mail-carrier-1849576069)
@@ -27,3 +27,4 @@
  - date published: 2022-09-24 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--bGaWq2nb--/c_fit,fl_progressive,q_80,w_636/75b0471746296bedb611cbf6331392a5.jpg" /><p>Thursday, September 29 is National Coffee Day. International Coffee Day—a separate made-up holiday that includes our friends abroad—falls two days later, on Saturday, October. 1. The important part is that there are coffee deals and freebies galore. Here are a few to consider.</p><p><a href="https://lifehacker.com/the-best-national-coffee-day-deals-
+

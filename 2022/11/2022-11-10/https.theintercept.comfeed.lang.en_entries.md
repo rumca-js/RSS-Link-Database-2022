@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Black Liberation Elder Freed From Prison — but Only on His Deathbed
  - [https://theintercept.com/2022/11/10/mutulu-shakur-prison-release-deathbed/](https://theintercept.com/2022/11/10/mutulu-shakur-prison-release-deathbed/)
@@ -31,3 +31,4 @@
 
 <p>Alexandria Ocasio-Cortez on the role of abortion and the youth vote in the midterms, Ukraine, and the political distinction between unemployment and inflation.</p>
 <p>The post <a href="https://theintercept.com/2022/11/09/alexandria-ocasio-cortez-new-york-state-democratic-party-midterms/" rel="nofollow">AOC: The New York State Democratic Party’s Corruption May Have Cost Democrats the House</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

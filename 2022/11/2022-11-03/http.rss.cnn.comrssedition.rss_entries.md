@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## See what happens when a coffee connoisseur tries deep-frying coffee
  - [https://www.cnn.com/videos/world/2022/11/03/deep-fried-coffee-beans-james-hoffmann-connoisseur-experiment-deep-fry-coffee-beans-moos-cprog-vpx.cnn](https://www.cnn.com/videos/world/2022/11/03/deep-fried-coffee-beans-james-hoffmann-connoisseur-experiment-deep-fry-coffee-beans-moos-cprog-vpx.cnn)
@@ -554,3 +554,4 @@ North Korea fired at least one unidentified ballistic missile on Thursday local 
  - date published: 2022-11-03 00:11:35+00:00
 
 President Joe Biden on Wednesday delivered a warning that American democracy is under assault from election deniers who are running for office at all levels as he tries to make defending democracy a top issue in next week's midterm elections.
+

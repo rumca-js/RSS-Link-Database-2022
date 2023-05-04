@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Google execs knew 'Incognito mode' failed to protect privacy, suit claims
  - [https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all](https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>I’ve learned to keep a collection of useful Windows tools and repair environments around. They help me restart, troubleshoot, and — if necessary — repair Windows installations that are having difficulties. These could be related to hardware problems, Windows updates gone bad, device or driver issues, and a whole lot more.</p><p>I keep all these tools on a single USB drive that I like to call the ultimate bootable Windows repair drive. Interested in building your own? You just need a modestly sized (256GB or 512GB) USB drive and the right software. This kind of setup works splendidly with Windows 7, 8, 8.1, 10, and 11 installations.</p><p>My technique relies on a special foundational tool called Ventoy, along with a collection of ISO files from which Ventoy will boot a Windows PC. The first part of this story introduces and explains Ventoy. The second part explains that improved performance may justify the cost of an NVMe SSD and a compatible USB drive enclosure. The third introduces a carefully curated collection of ISO files, with brief explanations of what they can do, what they contain, and where to find and download them.</p><p class="jumpTag"><a href="/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#jump">To read this article in full, please click here</a></p></section></article>
+

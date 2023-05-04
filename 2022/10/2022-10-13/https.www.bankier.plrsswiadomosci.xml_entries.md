@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Inflacja w Portugalii najwyższa od 30 lat
  - [https://www.bankier.pl/wiadomosc/Inflacja-w-Portugalii-najwyzsza-od-30-lat-8422704.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inflacja-w-Portugalii-najwyzsza-od-30-lat-8422704.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -485,3 +485,4 @@ Gdy z prywatnej skrzynki wyciekają coraz to nowe e-maile najważniejszych osób
  - date published: 2022-10-13 01:41:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/e/4cc89e03bc6cc3-948-568-0-0-3157-1894.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prokurator generalna Peru, Patricia Benavides, wystąpiła we wtorek  do Kongresu Republiki Peru, z formalnym oskarżeniem o korupcję prezydenta kraju Pedro Castillo, ogłaszając, że „stoi on na czele  organizacji przestępczej”.</p>
+

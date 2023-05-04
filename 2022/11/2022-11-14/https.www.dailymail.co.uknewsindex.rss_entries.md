@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Australia's most dangerous jobs are revealed
  - [https://www.dailymail.co.uk/news/article-11427487/Australias-dangerous-jobs-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11427487/Australias-dangerous-jobs-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1707,3 +1707,4 @@ Amazon has released a heartwarming festive advert, where a doting father creates
  - date published: 2022-11-14 00:00:02+00:00
 
 The mineral strengthens tooth enamel but, due to improvements in toothpastes over the past 50 years, the boost to oral health of adding it to water has been largely reduced, the study found.
+

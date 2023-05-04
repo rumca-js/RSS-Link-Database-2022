@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The Prius gets a glow-up, but it’s still just a hybrid
  - [https://www.theverge.com/2022/11/16/23462123/2023-toyota-prius-glow-up-redesign-still-hybrid-not-ev](https://www.theverge.com/2022/11/16/23462123/2023-toyota-prius-glow-up-redesign-still-hybrid-not-ev)
@@ -617,3 +617,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/15/23461187/apple-chips-arizona-us-europe-tsmc">Continue reading&hellip;</a>
   </p>
+

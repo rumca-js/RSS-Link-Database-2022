@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET MAUI for Android and cross-platform apps
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59527](https://www.codeproject.com/script/News/View.aspx?nwid=59527)
@@ -125,3 +125,4 @@ Well, don't do that then
  - date published: 2022-11-17 05:00:00+00:00
 
 Unlike previous Windows APIs, the WinUI MenuBar and MenuBarItem do not support data binding, so you must build your menu tree from MenuFlyoutItem, MenuFlyoutSubItem, and MenuFlyoutSeparator, either in code or directly in your XAML.
+

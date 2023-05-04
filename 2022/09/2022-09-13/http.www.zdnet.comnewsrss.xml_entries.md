@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to recover deleted files in Windows 10 or 11
  - [https://www.zdnet.com/article/how-to-recover-deleted-files-in-windows-10-or-11/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-recover-deleted-files-in-windows-10-or-11/#ftag=RSSbaffb68)
@@ -258,3 +258,4 @@ Even if you don't want iOS16 yet, updating to iOS 15.7 is still a very good idea
  - date published: 2022-09-13 08:50:25+00:00
 
 National Computer Virus Emergency Response Center releases a report that claims "41 types of cyber weapons" were used by the US National Security Agency in recent attacks against Northwestern Polytechnical University during which a "large amount of sensitive data" was breached.
+

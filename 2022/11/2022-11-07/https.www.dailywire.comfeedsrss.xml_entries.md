@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Netflix CEO Slams The Democrat Party In Advertisement Backing Candidate Who Was A Republican For Years
  - [https://www.dailywire.com/news/netflix-ceo-slams-the-democrat-party-in-advertisement-backing-candidate-who-was-a-republican-for-years](https://www.dailywire.com/news/netflix-ceo-slams-the-democrat-party-in-advertisement-backing-candidate-who-was-a-republican-for-years)
@@ -321,3 +321,4 @@ Sen. Tom Cotton (R-AR) has reportedly decided against running for president in 2
  - date published: 2022-11-07 07:38:13+00:00
 
 A top advertising executive revealed Sunday that new Twitter CEO Elon Musk blocked him on the social media platform following a phone meeting with others in the industry after the executive raised concerns that businesses have with the platform. Lou Paskalis, who has years of experience as an executive in the banking industry, told Semafor ...
+

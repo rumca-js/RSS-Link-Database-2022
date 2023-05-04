@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Drugi dzień solidnych wzrostów na Wall Street
  - [https://www.bankier.pl/wiadomosc/Drugi-dzien-solidnych-wzrostow-na-Wall-Street-8425119.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Drugi-dzien-solidnych-wzrostow-na-Wall-Street-8425119.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -437,3 +437,4 @@ byli prezesi Narodowego Banku Polskiego i byli członkowie RPP.</p>
  - date published: 2022-10-18 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/a/f2d64c42345c91-948-568-0-119-1772-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Już wkrótce przy cmentarzach w całej Polsce pojawią się barwne stoiska wypełnione rzędami chryzantem w doniczkach, sztucznymi jesiennymi wiązankami oraz zniczami zalewanymi, ceramicznym oraz tymi na wkłady. Okazjonalna sprzedaż na Wszystkich Świętych nie zawsze musi być wpisy
+

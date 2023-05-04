@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## The best anime games on PC
  - [https://www.pcgamer.com/the-best-anime-games-on-pc](https://www.pcgamer.com/the-best-anime-games-on-pc)
@@ -62,3 +62,4 @@ Wordle today: The solution and a hint for the #504 puzzle.
  - date published: 2022-11-05 01:45:28+00:00
 
 Ramattra first appeared over three years ago.
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Qualcomm's new chip will lead to augmented reality glasses you'll actually want to wear
  - [https://www.techradar.com/news/qualcomms-new-chip-will-lead-to-augmented-reality-glasses-youll-actually-want-to-wear/](https://www.techradar.com/news/qualcomms-new-chip-will-lead-to-augmented-reality-glasses-youll-actually-want-to-wear/)
@@ -188,3 +188,4 @@ Emergency SOS via satellite is now active on iPhone 14 devices, and there is a d
  - date published: 2022-11-16 06:00:40+00:00
 
 Called Amazon Clinic, the platform offers direct access to physicians for common conditions and prescription renewals.
+

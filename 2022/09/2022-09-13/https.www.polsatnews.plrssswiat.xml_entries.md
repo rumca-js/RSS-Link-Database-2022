@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Pogrzeb królowej Elżbiety II. Media: Nie zaproszono przywódców Rosji, Białorusi i Birmy
  - [https://www.polsatnews.pl/wiadomosc/2022-09-13/pogrzeb-krolowej-elzbiety-ii-media-nie-zaproszono-przywodcow-rosji-bialorusi-i-birmy/](https://www.polsatnews.pl/wiadomosc/2022-09-13/pogrzeb-krolowej-elzbiety-ii-media-nie-zaproszono-przywodcow-rosji-bialorusi-i-birmy/)
@@ -62,3 +62,4 @@ Podczas 23. startu rakiety New Shepard firmy Blue Origin, należącej do właśc
  - date published: 2022-09-13 04:19:00+00:00
 
 Na wschodzie Ukrainy trwa ukraińska kontrofensywa. Siły Zbrojne Ukrainy odzyskują kolejne miejscowości, które znajdowały się w rękach Rosjan. Prezydent Wołodymyr Zełenski w wystąpieniu w mediach społecznościowych poinformował, że od początku września odzyskano 6 tys. km kwadratowych terytorium kraju.
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Civilization 6's New Leader Pass Features 18 Powerful Historical Figures
  - [https://www.gamespot.com/articles/civilization-6s-new-leader-pass-features-18-powerful-historical-figures/1100-6509188/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/civilization-6s-new-leader-pass-features-18-powerful-historical-figures/1100-6509188/?ftag=CAD-01-10abi2f)
@@ -398,3 +398,4 @@
  - date published: 2022-11-15 04:43:00+00:00
 
 <p> <a href="https://www.gamespot.com/games/microsoft-flight-simulator/">Microsoft Flight Simulator</a> dropped its 40th anniversary update on November 11, and keen fans have already unearthed a cool new easter egg celebrating the series' long history--emulated versions of the first four games in the series, which can be played right in your virtual cockpit.</p><p>As reported by <a href="https://www.eurogamer.net/easter-egg-lets-you-play-flight-simulator-inside-flight-simulator-2020">Eurogamer</a>, the easter egg was first picked up by <a href="https://www.reddit.com/r/flightsim/comments/ysnkyv/found_an_easter_egg_in_the_40th_anniversary/">Redditor HughesMDflyer4</a>, who found the games hidden in the cockpit of the Diamond DA62. The easter egg is enabled by flicking the ELT switch, which then brings up the games on the cockpit's Garmin screen. Players can switch between Flight Simulator 1.0, 2.0, 3.0, and 4.0 using buttons at the top of the screen.</p><p>There are no restrictions on when you load up this little in-game treat, meaning you can fly a plane in one of the retro flight sim programs, while also flying your Flight Simulator 2020 plane. Already fans have used the easter egg to attempt challenges such as <a href="https://www.youtube.com/watch?v=zo9MA5a7ddM">landing planes at the same airport</a> in both games at once.</p><a href="https://www.gamespot.com/articles/flight-simulator-2020-easter-egg-makes-old-flight-sim-titles-playable-in-game/1100-6509141/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

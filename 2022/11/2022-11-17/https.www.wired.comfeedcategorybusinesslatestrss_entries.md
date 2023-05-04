@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Why the Emoji Skin Tone You Choose Matters
  - [https://www.wired.com/story/why-the-emoji-skin-tone-you-choose-matters/](https://www.wired.com/story/why-the-emoji-skin-tone-you-choose-matters/)
@@ -20,3 +20,4 @@ Disinformation researchers have spent years asking Twitter to remove toxic and f
  - date published: 2022-11-17 10:00:00+00:00
 
 The company once claimed that ride-hail services and robotaxis would make personal cars obsolete. Mounting losses have prompted a rethink.
+

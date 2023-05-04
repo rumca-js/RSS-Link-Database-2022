@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Tę kartę graficzną gracze pokochali. NVIDIA przerwała jednak jej produkcję
  - [https://www.chip.pl/2022/11/nvidia-geforce-rtx-2060-produkcja](https://www.chip.pl/2022/11/nvidia-geforce-rtx-2060-produkcja)
@@ -103,3 +103,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="628" src="https://konto.chip.pl/wp-content/uploads/2022/11/proces-1.gif" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/proces-1.gif" style="display: block; margin: 1em auto;" /></p>
 <p>Firma IBM nie zwalnia tempa: po pierwszym procesorze kwantowym zawierającym więcej niż 100 kubitów przyszła pora na kolejny. Tym razem w grę wchodzi znaczne zwiększenie tej liczby. Firma IBM ogłosiła wprowadzenie na rynek procesora kwantowego Osprey, który zawiera 433 kubity. Dla porównania, Eagle z ubiegłego roku posiadał 127 kubitów. To kolejny krok w stronę stworzenia [&#8230;]</p>
+

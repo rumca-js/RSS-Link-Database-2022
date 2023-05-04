@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Top TikTok Moderator Exits “Highly Egregious Part” Of Content Moderation Business Over Investor Outcry
  - [https://www.forbes.com/sites/alexandralevine/2022/11/17/top-tiktok-moderator-exits-highly-egregious-part-of-content-moderation-business-over-investor-outcry/](https://www.forbes.com/sites/alexandralevine/2022/11/17/top-tiktok-moderator-exits-highly-egregious-part-of-content-moderation-business-over-investor-outcry/)
@@ -699,3 +699,4 @@ Often someone decides that new strategies need something more than the one your 
  - date published: 2022-11-17 00:01:30+00:00
 
 #1-Ranked Industry Analyst Patrick Moorhead dives in as early this year, Intuit announced that QuickBooks products would no longer be available in India. The financial software is a market where prominent vendors are moving out of countries, whereas Zoho is doing the opposite.
+

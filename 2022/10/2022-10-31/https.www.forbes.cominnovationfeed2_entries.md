@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Why Cinemas Needs To Up Their Game To Survive
  - [https://www.forbes.com/sites/bennyhareven/2022/10/31/why-cinemas-needs-to-up-their-game-to-survive/](https://www.forbes.com/sites/bennyhareven/2022/10/31/why-cinemas-needs-to-up-their-game-to-survive/)
@@ -685,3 +685,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-10-31 00:24:51+00:00
 
 Here's today's 'Heardle' song, along with some hints.
+

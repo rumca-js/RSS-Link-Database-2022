@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Leaked benchmarks show the real performance of the Nvidia RTX 4090
  - [https://www.digitaltrends.com/computing/rtx-4090-leaked-benchmarks-show-real-performance/](https://www.digitaltrends.com/computing/rtx-4090-leaked-benchmarks-show-real-performance/)
@@ -13,3 +13,4 @@ Leaked Geekbench scores for the new Nvidia GeForce RTX 4090 GPU just dropped, an
  - date published: 2022-10-05 06:33:07.265848+00:00
 
 This new phishing method could make it possible for hackers to steal important data by cloning a trustworthy website or app in Application Mode.
+

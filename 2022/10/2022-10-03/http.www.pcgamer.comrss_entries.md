@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Five new Steam games you probably missed (October 4, 2022)
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-4-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-4-2022)
@@ -202,3 +202,4 @@ Elland: The Crystal Wars was once Dune: Ornithopter Assault.
  - date published: 2022-10-03 02:52:44+00:00
 
 "The name's Mario. Mario Mario."
+

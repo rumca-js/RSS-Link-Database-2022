@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Computer chip made using mushroom skin could be easily recycled
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59486](https://www.codeproject.com/script/News/View.aspx?nwid=59486)
@@ -83,3 +83,4 @@ Now you can find that needle
  - date published: 2022-11-14 05:00:00+00:00
 
 Because nothing fixes things like governments
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## IHG hack: 'Vindictive' couple deleted hotel chain data for fun
  - [https://www.bbc.co.uk/digihub/technology-62920470?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/digihub/technology-62920470?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ The pair, who say they are from Vietnam, wiped out IHG group data after a foiled
  - date published: 2022-09-16 10:10:38+00:00
 
 A hacker was apparently able to gain access to the company's internal systems.
+

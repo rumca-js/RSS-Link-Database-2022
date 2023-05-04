@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Iran's Protesters Mark 'Bloody Friday' Deaths
  - [https://www.wsj.com/articles/irans-protesters-mark-bloody-friday-deaths-11668183010](https://www.wsj.com/articles/irans-protesters-mark-bloody-friday-deaths-11668183010)
@@ -69,3 +69,4 @@ China eased pandemic controls, as the country’s leaders seek to lessen the pai
  - date published: 2022-11-11 11:09:00+00:00
 
 High energy costs, rising interest rates and a labor shortage weighed on British output in the three months through September.
+

@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## 'American Dream Home' gone country: 'Napkin goals' achieved by one couple in Georgia
  - [https://www.foxnews.com/lifestyle/american-dream-home-gone-country-napkin-goals-couple-georgia](https://www.foxnews.com/lifestyle/american-dream-home-gone-country-napkin-goals-couple-georgia)
@@ -1420,3 +1420,4 @@ Democracies only function when there is mutual respect from both sides. The viol
  - date published: 2022-11-01 00:04:42+00:00
 
 Utah independent Senate candidate Evan McMullin appeared on "Special Report" with Bret Baier to discuss his Senate candidacy for the 2022 midterm elections.
+

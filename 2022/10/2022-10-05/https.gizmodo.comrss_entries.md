@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Favorite Vampires in Media | Jacob Anderson & Sam Reid
  - [https://gizmodo.com/favorite-vampires-in-media-jacob-anderson-sam-reid-1849611888](https://gizmodo.com/favorite-vampires-in-media-jacob-anderson-sam-reid-1849611888)
@@ -282,3 +282,4 @@ of an orbital transfer vehicle that reached space one month ago. Time is
  - date published: 2022-10-05 10:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ROhxb4UB--/c_fit,fl_progressive,q_80,w_636/14323d0bb7b62c636b91e6454a02b7c2.jpg" /><p>South Korea’s military accidentally hit its own air force base during a missile test on Tuesday, according to a new report from the <a href="https://www.koreatimes.co.kr/www/nation/2022/10/103_337286.html" rel="noopener noreferrer" target="_blank">Korea Times</a>. The unfortunate accident caused a fire and sent the opposite of its intended message: 
+

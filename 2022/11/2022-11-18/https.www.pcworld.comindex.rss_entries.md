@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Nvidia finally responds to melting RTX 4090 cable controversy
  - [https://www.pcworld.com/article/1386084/nvidia-finally-responds-to-melting-rtx-4090-cable-controversy.html](https://www.pcworld.com/article/1386084/nvidia-finally-responds-to-melting-rtx-4090-cable-controversy.html)
@@ -1562,3 +1562,4 @@ HDTVs</div>
 
 <p>For more workstations, go ahead and take a gander at <a href="https://www.pcworld.com/article/813361/best-4k-monitors.html">PCWorld&rsquo;s best 4K monitors roundup</a>.</p>
 Monitors</div>
+

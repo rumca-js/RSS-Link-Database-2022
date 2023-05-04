@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Henry Cavill rezygnuje z roli w serialu Netflixa. Znamy nowego wiedźmina
  - [https://ithardware.pl/aktualnosci/henry_cavill_rezygnuje_z_roli_geralta_z_rivii_w_serialu_wiedzmin-24101.html](https://ithardware.pl/aktualnosci/henry_cavill_rezygnuje_z_roli_geralta_z_rivii_w_serialu_wiedzmin-24101.html)
@@ -89,3 +89,4 @@ iiyama kilka lat temu słynęła z budżetowych monitor&oacute;w dla graczy, kt&
 
 <img src="https://ithardware.pl/artykuly/min/24092_1.jpg" />            Wygląda na to, że firma Gigabyte planuje rozszerzyć swoją ofertę o dwie niereferencyjne wersje GeForce RTX 4080, kt&oacute;rych zdjęcia wyciekły do sieci. Mowa o modelach Aorus Xtreme WaterForce oraz Gigabyte&nbsp;AERO. Pierwszy z nich został...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4080_poznalismy_wyglad_niereferencyjnych_wersji_od_gigabyte-24092.html">https://ithardware.pl/aktualnosci/geforce_rtx_4080_poznalismy_wyglad_niereferencyjnych_wersji_od_gigabyte-24092.html</a></p>
+

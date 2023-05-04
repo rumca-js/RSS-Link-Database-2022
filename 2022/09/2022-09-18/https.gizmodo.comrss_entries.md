@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## James Cameron Hopes Avatar's Theatrical Return Reenergizes the Moviegoing Experience
  - [https://gizmodo.com/james-cameron-avatar-theatrical-rerelease-1849550970](https://gizmodo.com/james-cameron-avatar-theatrical-rerelease-1849550970)
@@ -34,3 +34,4 @@
  - date published: 2022-09-18 14:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--wnduzBfp--/c_fit,fl_progressive,q_80,w_636/4bef9f4aeedc1f775e24541b0ae2e93d.jpg" /><p>Next week, NBC’s reboot-revival of <a href="https://gizmodo.com/quantum-leap-reboot-nbc-full-series-order-1848894465"><em>Quantum Leap</em></a><em> </em>will air. While it’s been up in the air for some time if the revival <a href="https://gizmodo.com/quantum-leap-reboot-sequel-series-nbc-interview-1849541360">would ever happen</a>, the question has 
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Lotnisko Heathrow odwołuje 100 lotów, by podczas pogrzebu królowej była cisza
  - [https://www.bankier.pl/wiadomosc/Lotnisko-Heathrow-odwoluje-100-lotow-by-podczas-pogrzebu-krolowej-byla-cisza-8406877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Lotnisko-Heathrow-odwoluje-100-lotow-by-podczas-pogrzebu-krolowej-byla-cisza-8406877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -117,7 +117,6 @@ indeks S&amp;P500 odnotował najniższy od lipca kurs zamknięcia.</p>
  - [https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-15 16:19:00+00:00
- - tags: covid
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/0/e0a2f8cd25f663-948-568-51-0-1776-1065.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Podczas czwartkowej licytacji nikt nie był zainteresowany 46 respiratorami, sprowadzonymi niegdyś przez firmę E&amp;K, choć cena wywoławcza była wielokrotnie niższa niż ta, za którą Ministerstwo Zdrowia kupiło te respiratory w 2020 roku - poinformowali posłowie KO Dariusz Jońs
 
@@ -549,3 +548,4 @@ trafiające do banku? Przedstawiamy finansową mapę drogo
  - date published: 2022-09-15 01:10:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/f/8e995072ed7d79-948-568-0-157-3000-1799.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Samochód wiozący Wołodymyra Zełenskiego uczestniczył w wypadku drogowym w Kijowie. Prezydent Ukrainy nie jest poważnie ranny - poinformował w nocy ze środy na czwartek na Facebooku sekretarz prasowy w administracji Zełenskiego Serhij Nikiforow.</p>
+

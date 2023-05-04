@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## SteelSeries przedstawia nową serię klawiatur Apex Pro TKL
  - [https://ithardware.pl/aktualnosci/steelseries_przedstawia_nowa_serie_klawiatur_apex_pro_tkl-23678.html](https://ithardware.pl/aktualnosci/steelseries_przedstawia_nowa_serie_klawiatur_apex_pro_tkl-23678.html)
@@ -179,3 +179,4 @@ Uczniowie i studenci wr&oacute;cili już do nauki, a większość z nas ma za so
 
 Według&nbsp;Insider Gaming, przejście God of War Ragnarok zajmie...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/god_of_war_ragnarok_wiemy_ile_zajmie_przejscie_gry-23661.html">https://ithardware.pl/aktualnosci/god_
+

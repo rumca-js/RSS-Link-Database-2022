@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Toyota finally figured out why wheels were falling off its electric SUV
  - [https://www.cnn.com/2022/10/06/business/toyota-bz4x-wheel-fix/index.html](https://www.cnn.com/2022/10/06/business/toyota-bz4x-wheel-fix/index.html)
@@ -69,3 +69,4 @@ The deaths of dozens of young children in Gambia from acute kidney injuries may 
  - date published: 2022-10-06 02:13:25+00:00
 
 A Palestinian man was killed and two journalists shot and injured by Israeli forces during an Israeli military raid in the occupied West Bank, Palestinian authorities said Wednesday.
+

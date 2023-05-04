@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## A phishing campaign is spreading brand new malware targeting Facebook users
  - [https://www.techradar.com/news/a-phishing-campaign-is-spreading-brand-new-malware-targeting-facebook-users/](https://www.techradar.com/news/a-phishing-campaign-is-spreading-brand-new-malware-targeting-facebook-users/)
@@ -41,6 +41,13 @@ A driver blocklist, which prevented crooks from installing flawed drivers, was o
  - date published: 2022-10-17 16:45:06+00:00
 
 The US Army's move to the cloud is just another domino in the public sector's growing reliance on cloud computing.
+
+## Google Pixel 8: latest news, rumors and everything we know so far
+ - [https://www.techradar.com/news/google-pixel-8](https://www.techradar.com/news/google-pixel-8)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-17 16:20:02+00:00
+
+The Google Pixel 8 could be a late-year triumph. Here's what we want to see from the device, and what we've heard about it so far.
 
 ## Google Pixel 8: what we want to see
  - [https://www.techradar.com/news/google-pixel-8/](https://www.techradar.com/news/google-pixel-8/)
@@ -258,3 +265,4 @@ The OnePlus 11 might have pro-grade specs but not have 'Pro' in the name.
  - date published: 2022-10-17 09:26:25+00:00
 
 YouTube is an app I use every day on my devices, so having widgets finally cuts down the steps to get to its content.
+

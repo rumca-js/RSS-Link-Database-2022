@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Paweł Reszka i Katarzyna Gandor laureatami Nagrody Radia ZET im. Andrzeja Woyciechowskiego
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29149073,pawel-reszka-i-katarzyna-gandor-laureatami-nagrody-radia-zet.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29149073,pawel-reszka-i-katarzyna-gandor-laureatami-nagrody-radia-zet.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -237,3 +237,4 @@
  - date published: 2022-11-16 01:32:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/f5/cb/1b/z29144309M,Przewodow--blokada-policyjna-wjazdu-do-miejscowosc.jpg" vspace="2" />Polski rząd potwierdził, że w Przewodowie spadły rakiety rosyjskiej produkcji. W wyniku eksplozji zmarły dwie osoby. Informacje w tej sprawie skomentował w Polsacie News analityk branży wojskowej Jarosław Wolski. - To mógł być albo pocisk obrony przeciwlotniczej, albo rakieta manewrująca, które przypadkowo trafiły w terytorium Polski - mówił w "Debacie Dnia".
+

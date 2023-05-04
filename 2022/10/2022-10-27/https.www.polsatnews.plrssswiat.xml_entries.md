@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Kanada. Niesamowite odkrycie. Aparat legendarnego podróżnika znaleziony w lodowcu
  - [https://www.polsatnews.pl/wiadomosc/2022-10-27/kanada-niesamowite-odkrycie-aparat-legendarnego-podroznika-znaleziony-w-lodowcu/](https://www.polsatnews.pl/wiadomosc/2022-10-27/kanada-niesamowite-odkrycie-aparat-legendarnego-podroznika-znaleziony-w-lodowcu/)
@@ -132,3 +132,4 @@ Biały Dom obawia się, że Moskwa może doradzać Teheranowi jak radzić sobie 
  - date published: 2022-10-27 04:00:00+00:00
 
 Sąd w USA uznał Darrella Brooksa winnym celowego wjechania autem w paradę bożonarodzeniową w listopadzie ubiegłego roku w Waukeshy i skazał na karę dożywotniego więzienia. W wypadku zginęło sześć osób, a kilkadziesiąt zostało rannych.
+

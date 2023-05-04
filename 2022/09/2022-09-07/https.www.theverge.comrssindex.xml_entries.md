@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Everything Apple didn’t announce at its iPhone 14 event
  - [https://www.theverge.com/2022/9/7/23341609/apple-iphone-14-far-out-event-missing-announcements](https://www.theverge.com/2022/9/7/23341609/apple-iphone-14-far-out-event-missing-announcements)
@@ -733,3 +733,4 @@
   		 <p>Why more platforms need to close the stochastic terrorism loophole</p>
   <p>
     <a href="https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos">Continue reading
+

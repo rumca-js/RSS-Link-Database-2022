@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 77. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_siodmy_pazdziernik_2022-23659.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_siodmy_pazdziernik_2022-23659.html)
@@ -217,3 +217,4 @@ AMD wprowadziło już na rynek swoją najnowszą generację procesor&oacute;w...
 
 <img src="https://ithardware.pl/artykuly/min/23608_1.jpg" />            Jesień rozgościła się już na dobre, a wraz z nią rozsiedliśmy się na kanapach. Kr&oacute;tkie dni, zamglone poranki i chłodne popołudnia nie zachęcają do wychodzenia spod ciepłego koca. Wy też w drodze z pracy marzycie wyłącznie o...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/jesienna_wyprzedaz_w_x_komie_laptopy_akcesoria_w_jeszcze_lepszych_cenach-23608.html">https://ithardware.pl/aktualnos
+

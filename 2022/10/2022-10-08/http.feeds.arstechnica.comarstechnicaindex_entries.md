@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## We’ll take it: Prime Video unveils brief sneak peek at Wheel of Time S2 at NYCC
  - [https://arstechnica.com/?p=1888426](https://arstechnica.com/?p=1888426)
@@ -34,3 +34,4 @@ Replacing gasoline with ethanol has changed landscapes across the globe.
  - date published: 2022-10-08 11:32:22+00:00
 
 New study shows how tickling, playfulness can address key questions about the brain.
+

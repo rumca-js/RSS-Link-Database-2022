@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. Wyszedł do toalety na statku wycieczkowym i nie wrócił. 15 godzin dryfował w morzu
  - [https://www.polsatnews.pl/wiadomosc/2022-11-26/usa-wyszedl-do-toalety-na-statku-wycieczkowym-i-nie-wrocil-15-godzin-dryfowal-w-morzu/](https://www.polsatnews.pl/wiadomosc/2022-11-26/usa-wyszedl-do-toalety-na-statku-wycieczkowym-i-nie-wrocil-15-godzin-dryfowal-w-morzu/)
@@ -125,3 +125,4 @@ Kilka dronów domowej roboty, przeznaczonych do przemytu towaru, zostało zarekw
  - date published: 2022-11-26 05:19:00+00:00
 
 Miliarder Elon Musk zapowiedział, że w wyborach w 2024 roku będzie wspierał gubernatora Florydy Rona DeSantisa, jeśli ten będzie kandydował na prezydenta. DeSantis może zostać poważnym kontrkandydatem dla Donalda Trumpa, który niedawno ogłosił, że wystartuje w wyborach. Gubernator Florydy jeszcze nie ogłosił swojej decyzji.
+

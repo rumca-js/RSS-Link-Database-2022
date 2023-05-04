@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Nikon Small World microscopy contest 2022: Meet this year’s top 10 winners
  - [https://arstechnica.com/?p=1889195](https://arstechnica.com/?p=1889195)
@@ -125,3 +125,4 @@ Our top picks for ANC headphones and true wireless earbuds match record low pric
  - date published: 2022-10-11 07:00:12+00:00
 
 We've sorted through Amazon's pre-holiday sale to find the stuff that's worth your time.
+

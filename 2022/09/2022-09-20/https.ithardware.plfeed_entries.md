@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 75. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_piaty_wrzesien_2022-23407.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_piaty_wrzesien_2022-23407.html)
@@ -241,3 +241,4 @@ Chcecie wejść w nowy...
 
 Premiera nowych Radeon&oacute;w zbliża się...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/radeon_rx_7900_xt_rozpedzac_ma_sie_do_4_0_ghz_na_fabrycznych_predkosciach-23382.html">https://ithardwar
+

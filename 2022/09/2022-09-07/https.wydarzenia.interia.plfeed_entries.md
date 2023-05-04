@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Dodatek energetyczny. Ustawa z senackimi poprawkami wraca do Sejmu
  - [https://wydarzenia.interia.pl/kraj/news-dodatek-energetyczny-ustawa-z-senackimi-poprawkami-wraca-do-,nId,6271135](https://wydarzenia.interia.pl/kraj/news-dodatek-energetyczny-ustawa-z-senackimi-poprawkami-wraca-do-,nId,6271135)
@@ -384,3 +384,4 @@
  - date published: 2022-09-07 03:32:32+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-196-dzien-inwazji-relacja-na-zywo,nzId,2960,akt,070909"><img align="left" alt="Wojna w Ukrainie. 196. dzień inwazji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-196-dzien-inwazji-relacja-na-zywo/000G1B518BWLCUC2-C321.jpg" /></a>Najważniejsze i najnowsze informacje dotyczące wojny w Ukrainie w jednym miejscu. Śledź naszą relację na żywo.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Break the Cycle of Fighting With Your Partner Via Text
  - [https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248](https://lifehacker.com/how-to-break-the-cycle-of-fighting-with-your-partner-vi-1849599248)
@@ -20,3 +20,4 @@
  - date published: 2022-10-02 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--cFRd2Lpo--/c_fit,fl_progressive,q_80,w_636/6ec9ffe90e812cd1ad272a999d21c67e.jpg" /><p>Knowing when to buy or sell a house is tricky. Sure, particular periods of time are labeled either a “buyer’s market” or a “seller’s market,” but aside from making a broad statement about who has the upper hand, what do these terms actually mean? And what should you do if you’re a buyer in a seller’s market, or vice…</p><p><a href="https://lifehacke
+

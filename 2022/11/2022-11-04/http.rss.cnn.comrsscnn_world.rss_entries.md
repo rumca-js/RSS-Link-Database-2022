@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Tourists held by Peruvian indigenous group protesting oil spill are freed, says official
  - [https://www.cnn.com/2022/11/04/americas/peru-tourists-oil-spill-protest-intl/index.html](https://www.cnn.com/2022/11/04/americas/peru-tourists-oil-spill-protest-intl/index.html)
@@ -41,3 +41,4 @@ A little over a decade ago, the dominant narrative about the housing market was 
  - date published: 2022-11-04 00:00:30+00:00
 
 German Chancellor Olaf Scholz will arrive in China on Friday with a team of top executives and a clear message: business with the world's second largest economy must continue.
+

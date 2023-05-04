@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Belkin’s MagSafe Continuity Camera mount is an easy webcam upgrade
  - [https://www.theverge.com/23416613/iphone-belkin-mount-magsafe-mac-notebooks-continuity-camera-review-apple](https://www.theverge.com/23416613/iphone-belkin-mount-magsafe-mac-notebooks-continuity-camera-review-apple)
@@ -342,3 +342,4 @@
     </figure>
 
   <p id="uhmVBd">TikTok is strongly pushing back against a <em>Forbes</em> report alleging that its parent company wanted to use the video app to “monitor the personal location of some specific American citizens.” 
+

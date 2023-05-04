@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Francja. Pomyłka kosztowała eksperta pracę. Chińską wazę wycenił... 4000 razy za nisko
  - [https://www.polsatnews.pl/wiadomosc/2022-10-08/francja/](https://www.polsatnews.pl/wiadomosc/2022-10-08/francja/)
@@ -97,3 +97,4 @@ Na odnodze kolejowej Mostu Krymskiego wybuchł pożar. W sieci pojawiają się z
  - date published: 2022-10-08 04:43:00+00:00
 
 Co najmniej trzy osoby zginęły w wyniku eksplozji na stacji benzynowej w miejscowości Creeslough na północy Irlandii. Ofiar może być jednak więcej. Na miejscu trwa akcja ratunkowa.
+

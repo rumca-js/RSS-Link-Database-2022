@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Google's password-killer tool is now available on Chrome and Android
  - [https://www.techradar.com/news/googles-password-killer-tool-is-now-available-on-chrome-and-android/](https://www.techradar.com/news/googles-password-killer-tool-is-now-available-on-chrome-and-android/)
@@ -195,3 +195,4 @@ The Fujifilm X-T5 is rumored to be launching next month – and that's great new
  - date published: 2022-10-13 04:00:35+00:00
 
 Moving beyond streaming content, Roku's Smart Home line consists of cameras, mood lighting, and more
+

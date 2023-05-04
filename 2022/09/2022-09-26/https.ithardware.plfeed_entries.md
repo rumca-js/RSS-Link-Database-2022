@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 76. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_szosty_wrzesien_2022-23528.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_siedemdziesiaty_szosty_wrzesien_2022-23528.html)
@@ -233,3 +233,4 @@ Przyszłoroczna seria iPhone...
 
 <img src="https://ithardware.pl/artykuly/min/23496_1.jpg" />            Wiemy, że pogoda za oknem czasami nie rozpieszcza, ale mamy spos&oacute;b na poprawienie humoru. Sklep x-kom przygotował dla Was wyjątkowe promocje, obok kt&oacute;rych nie przejdziecie obojętnie. Zgarnijcie najlepsze sprzęty w niższych cenach i...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/trwa_jesienna_wyprzedaz_w_x_komie_kupcie_sprzety_na_nadchodzacy_dzien_chlopaka-23496.html">https://it
+

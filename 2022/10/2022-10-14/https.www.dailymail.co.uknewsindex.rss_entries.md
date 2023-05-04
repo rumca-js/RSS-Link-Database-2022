@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Why does Netflix's hit focus more on serial killer Jeffrey Dahmer's childhood than his victims?
  - [https://www.dailymail.co.uk/news/article-11317781/Why-does-Netflixs-hit-focus-serial-killer-Jeffrey-Dahmers-childhood-victims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11317781/Why-does-Netflixs-hit-focus-serial-killer-Jeffrey-Dahmers-childhood-victims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1729,3 +1729,4 @@ Police in Raleigh are responding to reports of a shooting in the east of the cit
  - date published: 2022-10-14 00:01:16+00:00
 
 Anna Firth, 56, who was elected as the Southend West MP following the veteran politician's killing, says she holds meetings at locations where 'we've got slightly more security'.
+

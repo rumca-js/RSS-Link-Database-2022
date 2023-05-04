@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## The Game That Fights Dementia | MindGames
  - [https://www.gamespot.com/videos/the-game-that-fights-dementia-mindgames/2300-6459651/](https://www.gamespot.com/videos/the-game-that-fights-dementia-mindgames/2300-6459651/)
@@ -13,3 +13,4 @@
  - date published: 2022-10-02 14:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4042745-bigoct_v0.jpg" width="480" /> Spooky season is officially here! And there is nothing spookier than being haunted by the September games you didn’t finish yet. Here are 10 of the biggest games releasing in October 2022.
+

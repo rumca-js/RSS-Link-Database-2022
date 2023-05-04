@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Putin niemal nie wspomniał o wojnie. Mówił za to o... Polsce
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-putin-niemal-nie-wspomnial-o-wojnie-mowil-za-to-o-polsce,nId,6374359](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-putin-niemal-nie-wspomnial-o-wojnie-mowil-za-to-o-polsce,nId,6374359)
@@ -13,3 +13,4 @@
  - date published: 2022-10-27 11:30:08+00:00
 
 <p><a href="https://wydarzenia.interia.pl/ciekawostki/news-wieloszczet-niezwykle-zwierze-z-morskich-glebin,nId,6374038"><img align="left" alt="Wieloszczet. Niezwykłe zwierzę z morskich głębin" src="https://i.iplsc.com/wieloszczet-niezwykle-zwierze-z-morskich-glebin/000G9DTH4BAJUML4-C321.jpg" /></a>Wieloszczety to zwierzęta z grupy pierścienic, które żyją zarówno w płytkich strefach przybrzeżnych, jak i głębinach całego świata. Niektóre z nich atakują ofiary w niezwykły sposób, wykorzystując do tego mięśnie wewnątrz ciała.</p><br clear="all" />
+

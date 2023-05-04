@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Build villainous lairs and wreck others' dreams in this puzzly tile-placing game
  - [https://www.pcgamer.com/build-villainous-lairs-and-wreck-others-dreams-in-this-puzzly-tile-placing-game](https://www.pcgamer.com/build-villainous-lairs-and-wreck-others-dreams-in-this-puzzly-tile-placing-game)
@@ -69,3 +69,4 @@ Daemonettes and wyches, ahoy.
  - date published: 2022-09-18 00:57:18+00:00
 
 We've got Pokémon at home, but Temtem hits different.
+

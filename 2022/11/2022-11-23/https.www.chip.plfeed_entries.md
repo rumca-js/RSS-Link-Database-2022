@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Padł rekord sprawności krzemowych ogniw słonecznych
  - [https://www.chip.pl/2022/11/padl-rekord-sprawnosci-krzemowych-ogniw-slonecznych](https://www.chip.pl/2022/11/padl-rekord-sprawnosci-krzemowych-ogniw-slonecznych)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="731" src="https://konto.chip.pl/wp-content/uploads/2021/10/ziemia-ruch-obrotowy.png" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2021/10/ziemia-ruch-obrotowy.png" style="display: block; margin: 1em auto;" /></p>
 <p>Atmosfera naszej planety, przynajmniej w górnych warstwach, coraz bardziej się kurczy. Jest to spowodowane emisjami, które w dużej mierze przypadają na konto ludzkości. Problem tkwi bowiem w produkcji dwutlenku węgla &#8211; w tym ludzkość jest niestety świetna, a emisje tego gazu mają szereg konsekwencji dla funkcjonowania całej planety. W tym przypadku, jak wyjaśniają autorzy publikacji [&#8230;]</p>
+

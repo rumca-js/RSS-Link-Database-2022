@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Syn rzecznika Kremla o powołaniu do wojska: "Będę to załatwiać na innym poziomie"
  - [https://www.polsatnews.pl/wiadomosc/2022-09-21/syn-rzecznika-kremla-o-powolaniu-do-wojska-bede-to-zalatwiac-na-innym-poziomie/](https://www.polsatnews.pl/wiadomosc/2022-09-21/syn-rzecznika-kremla-o-powolaniu-do-wojska-bede-to-zalatwiac-na-innym-poziomie/)
@@ -111,3 +111,4 @@ Do nietypowego medycznego przypadku doszło w Irlandii, gdzie tamtejsi lekarze m
  - date published: 2022-09-21 06:14:00+00:00
 
 Władimir Putin ogłosił, że podpisał dekret o częściowej mobilizacji w Rosji. Dokument wchodzi w życie jeszcze w środę. Zdaniem przywódcy kremlowskiego reżimu to Zachód nie chce pokoju między jego krajem a Ukrainą.
+

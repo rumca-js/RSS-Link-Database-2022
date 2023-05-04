@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Musk seeks to soothe critics with Twitter content panel
  - [https://www.lemonde.fr/en/economy/article/2022/10/29/musk-seeks-to-soothe-critics-with-twitter-content-panel_6002164_19.html](https://www.lemonde.fr/en/economy/article/2022/10/29/musk-seeks-to-soothe-critics-with-twitter-content-panel_6002164_19.html)
@@ -209,3 +209,4 @@ The Conservative MP is chairman of the influential 1922 Committee, which plays a
  - date published: 2022-10-28 01:16:45+00:00
 
 As Musk completes his take over, he has fired at least four top executives.
+

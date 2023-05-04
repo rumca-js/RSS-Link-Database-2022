@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Prof. Andrzej Myc nie żyje. Jednego z założycieli Solidarności Walczącej pożegnał premier Morawiecki
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29058123,prof-andrzej-myc-nie-zyje-jednego-z-zalozycieli-solidarnosci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29058123,prof-andrzej-myc-nie-zyje-jednego-z-zalozycieli-solidarnosci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-10-22 11:03:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/c7/b5/1b/z29056711M,Obchody-81--rocznicy-wybuchu-II-Wojny-Swiatowej-w-.jpg" vspace="2" />Z przypadkowo odnalezionych w Wielkiej Brytanii dokumentów polskiej armii wynika, że II wojna światowa nie zaczęła się od ataku na Westerplatte ani od bombardowania Wielunia, lecz od starć w okolicach Rybnika na Śląsku. - Zalecam jeszcze zachowanie spokoju - skomentował dr Bogdan Kloch.
+

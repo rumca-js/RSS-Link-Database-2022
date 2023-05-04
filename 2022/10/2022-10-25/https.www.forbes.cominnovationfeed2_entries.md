@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Why Is The Milky Way Wobbling? How Cosmic Ripples Reveal An Ancient Galactic Collision Ripping Apart An Iconic Constellation
  - [https://www.forbes.com/sites/jamiecartereurope/2022/10/25/why-is-the-milky-way-wobbling-how-cosmic-ripples-reveal-an-ancient-galactic-collision-ripping-apart-an-iconic-constellation/](https://www.forbes.com/sites/jamiecartereurope/2022/10/25/why-is-the-milky-way-wobbling-how-cosmic-ripples-reveal-an-ancient-galactic-collision-ripping-apart-an-iconic-constellation/)
@@ -742,3 +742,4 @@ Most companies aren’t as customer-focused as they claim. Why not?
  - date published: 2022-10-25 00:00:00+00:00
 
 There’s a solar eclipse in Eurasia today—but when is it America’s turn?
+

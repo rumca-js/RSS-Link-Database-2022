@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Australia government wants Optus to pay for data breach
  - [https://www.zdnet.com/article/australia-government-wants-optus-to-pay-for-data-breach/#ftag=RSSbaffb68](https://www.zdnet.com/article/australia-government-wants-optus-to-pay-for-data-breach/#ftag=RSSbaffb68)
@@ -286,3 +286,4 @@ This dual-connectivity soundbar will provide improved audio quality when you are
  - date published: 2022-09-28 06:16:04+00:00
 
 Chipmaker is making much more than CPUs thanks to new AI/ML applications, plans for new fabs, a revised GPU strategy and plans to become its own wafer foundry.
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Ukraine: Authorities urge evacuation before 'life-threatening' winter
  - [https://www.lemonde.fr/en/europe/article/2022/11/22/ukraine-authorities-urge-evacuation-before-life-threatening-winter_6005118_143.html](https://www.lemonde.fr/en/europe/article/2022/11/22/ukraine-authorities-urge-evacuation-before-life-threatening-winter_6005118_143.html)
@@ -202,3 +202,4 @@ Pyongyang called UN chief Antonio Guterres 'a puppet of the United States' for j
  - date published: 2022-11-21 02:00:13+00:00
 
 Iran saw its most widespread demonstrations yet on November 16 and 17, while the clergy is openly questioning crackdown measures and challenging the supreme leader's authority.
+

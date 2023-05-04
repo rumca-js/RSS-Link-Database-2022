@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Charles will not cool on climate action, say friends
  - [https://www.bbc.co.uk/news/science-environment-62876790?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-62876790?at_medium=RSS&at_campaign=KARANGA)
@@ -489,3 +489,4 @@ New US Open champion Carlos Alcaraz says he didn't think he would win his first 
  - date published: 2022-09-12 00:36:35+00:00
 
 Anti-immigration Sweden Democrats set to become the second largest party with vote too close to call.
+

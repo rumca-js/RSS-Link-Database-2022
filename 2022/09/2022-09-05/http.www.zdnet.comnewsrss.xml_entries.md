@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How 'Far Out' is Apple's next big thing?
  - [https://www.zdnet.com/article/how-far-out-is-apples-next-big-thing/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-far-out-is-apples-next-big-thing/#ftag=RSSbaffb68)
@@ -160,3 +160,4 @@ Like all major appliances on Labor Day, you can find deep discounts on robot vac
  - date published: 2022-09-05 01:41:00+00:00
 
 Check out our list for the best Labor Day deals on TVs ranging from budget-friendly to high-end smart TVs.
+

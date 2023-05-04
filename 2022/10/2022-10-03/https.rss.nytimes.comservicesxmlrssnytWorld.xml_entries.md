@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia’s Small Nuclear Arms Are a Risk For Putin and Ukraine
  - [https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html](https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html)
@@ -188,3 +188,4 @@ The two political titans will face off again later this month in a race widely s
  - date published: 2022-10-03 04:01:14+00:00
 
 Without access to electricity, radios or the internet, residents of Lyman said they were unaware of President Vladimir V. Putin’s grandiose celebration of an illegal land grab.
+

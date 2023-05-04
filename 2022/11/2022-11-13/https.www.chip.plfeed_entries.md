@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Trochę myszka, trochę performance. Test Roccat Kone XP Air
  - [https://www.chip.pl/2022/11/roccat-kone-xp-air-test-recenzja-opinia](https://www.chip.pl/2022/11/roccat-kone-xp-air-test-recenzja-opinia)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="866" src="https://konto.chip.pl/wp-content/uploads/2022/11/szczur.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/szczur.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Wieść o szczurach słuchających Mozarta i Lady Gagi brzmi niecodziennie, ale okazuje się, że szczegóły związanego z tym eksperymentu są nawet bardziej zaskakujące. Jak wyjaśniają autorzy publikacji zamieszczonej na łamach Science Advances, gryzonie posiadają zdolność poruszania się w rytm muzyki. Przez długi czas sądzono, iż jest to umiejętność zarezerwowana dla naszego gatunku. Czytaj też: Obliczenia [&#8230;]</p>
+

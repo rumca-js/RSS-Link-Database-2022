@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Twitter Rolls Out Blue Checkmarks for Paying Customers
  - [https://www.wsj.com/articles/twitter-rolls-out-blue-check-marks-for-paying-customers-11667681496?mod=rss_Technology](https://www.wsj.com/articles/twitter-rolls-out-blue-check-marks-for-paying-customers-11667681496?mod=rss_Technology)
@@ -55,3 +55,4 @@ The industry is seeking influence in Washington as regulators increase their scr
  - date published: 2022-11-05 04:00:00+00:00
 
 Musk’s strategy at Twitter might work at a startup, but Twitter is a mature company in an extremely competitive market, with little prospects for growth.
+

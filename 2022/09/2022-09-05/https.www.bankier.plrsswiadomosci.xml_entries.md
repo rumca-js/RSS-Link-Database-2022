@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Instagram ukarany grzywną w wysokości 402 mln dol. Chodzi o dane osobowe
  - [https://www.bankier.pl/wiadomosc/Instagram-ukarany-grzywna-w-wysokosci-402-mln-dol-Chodzi-o-dane-osobowe-8401049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Instagram-ukarany-grzywna-w-wysokosci-402-mln-dol-Chodzi-o-dane-osobowe-8401049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -63,7 +63,6 @@ inwestorów obchodzących święto pracy.</p>
  - [https://www.bankier.pl/wiadomosc/Turcja-wydrukuje-250-tys-wegierskich-paszportow-biometrycznych-w-tym-roku-8400905.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Turcja-wydrukuje-250-tys-wegierskich-paszportow-biometrycznych-w-tym-roku-8400905.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-05 15:52:00+00:00
- - tags: digital identity,government control,digital passport
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/a/e622601f91ddc7-948-568-0-62-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Od końca sierpnia Turcja samodzielnie drukuje paszporty biometryczne. Dokumenty będą produkowane nie tylko na krajowe potrzeby, jeszcze w 2022 r. wydrukujemy ok. 250 tys. paszportów dla Węgier, później także dla Francji - zapowiedział minister spraw wewnętrznych Suleyman Soylu
 
@@ -383,3 +382,4 @@ tym bardziej liczą się z koniecznością wydania środ
  - date published: 2022-09-05 04:46:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/9/9f42f2ffa57bdb-948-567-0-7-1000-599.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Clemens Fuest, szef monachijskiego instytut badań ekonomicznych (Ifo), w rozmowie z niemieckim dziennikiem "Frankfurter Allgemeine Zeitung", przewiduje ostre spowolnienie gospodarcze.</p>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## This cartoony cats vs. dogs RTS asserts that humanity's companions cannot live in harmony
  - [https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)
@@ -62,3 +62,4 @@ Phantom Fury brings a new, PS2-throwback aesthetic to follow up Ion Fury.
  - date published: 2022-09-17 07:01:28+00:00
 
 Wordle today: The solution and a hint for Saturday's puzzle.
+

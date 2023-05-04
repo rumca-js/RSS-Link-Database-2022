@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Łotwa: Wypadek autokaru. Rannych 25 ukraińskich żołnierzy
  - [https://wydarzenia.interia.pl/zagranica/news-lotwa-wypadek-autokaru-rannych-25-ukrainskich-zolnierzy,nId,6437717](https://wydarzenia.interia.pl/zagranica/news-lotwa-wypadek-autokaru-rannych-25-ukrainskich-zolnierzy,nId,6437717)
@@ -399,3 +399,4 @@
  - date published: 2022-11-27 04:41:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-czy-27-listopada-to-niedziela-handlowa-oto-gdzie-zrobisz-zak,nId,6433523"><img align="left" alt="Czy 27 listopada to niedziela handlowa? Oto, gdzie zrobisz zakupy" src="https://i.iplsc.com/czy-27-listopada-to-niedziela-handlowa-oto-gdzie-zrobisz-zak/000GE6C9RDKR5DG7-C321.jpg" /></a>Czy 27 listopada to niedziela handlowa? W całej Polsce zakaz handlu obowiązuje w większość niedziel w roku. Jest jednak kilka wyjątków, które mają umożliwić Polakom zrobienie zakupów przed ważnymi świętami albo innymi istotnymi dla nich wydarzeniami. Sprawdź, czy 27 listopada jest niedzielą handlową i gdzie można zrobić zakupy. </p><br clear="all" />
+

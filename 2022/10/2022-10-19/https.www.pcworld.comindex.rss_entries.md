@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Intel’s next-generation Thunderbolt will hit a blistering 80Gbps+
  - [https://www.pcworld.com/article/1356812/next-generation-thunderbolt-will-hit-80gbps-too.html](https://www.pcworld.com/article/1356812/next-generation-thunderbolt-will-hit-80gbps-too.html)
@@ -56,3 +56,4 @@
 
 
 <p>Switching to your browser&rsquo;s beta channel is a great way to enjoy new features before they reach the general public, and it&rsquo;s also a simple way to get slightly out of your tech comfort zone. And despite the &ldquo;bet
+

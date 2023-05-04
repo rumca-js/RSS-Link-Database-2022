@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The Black Panther Rises in This Week's Toy News
  - [https://gizmodo.com/hot-toys-black-panther-2-hasbro-holiday-optimus-prime-1849751106](https://gizmodo.com/hot-toys-black-panther-2-hasbro-holiday-optimus-prime-1849751106)
@@ -272,3 +272,4 @@
  - date published: 2022-11-11 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--CiOk1n6f--/c_fit,fl_progressive,q_80,w_636/834c287d58ab804f4b8800e9f6dc6f5d.jpg" /><p>It makes perfect sense that Shudder is adding <em>The Last Broadcast</em> to its library. Last month’s <a href="https://gizmodo.com/v-h-s-99-found-footage-gory-horror-review-shudder-1849650432"><em>V/H/S/99</em></a> was the streamer’s most-watched debut film, eclipsing a viewership record previously held by <a href="https://gizmodo.com/v-h-s-94-is-a-grimy-gory-found-footage-throwback-1847785903"><em>V/H/S/94</em></a>. Clearly, audiences are still fiending for <a href="https://gizmodo.com/8-found-footage-horror-movies-that-are-genuinely-scary-1738700680">found-footage horror</a>. Why not provide them with one of the original…</p><p><a href="https://gizmodo.com/shudder-last-broadcast-horror-mockumentary-retro-review-1849762596">Read more...</a></p>
+

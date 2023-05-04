@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## JBL Go 3 is 40% off: Get a portable speaker for $29
  - [https://www.zdnet.com/home-and-office/home-entertainment/jbl-go-3-bluetooth-portable-speaker-deal-promo-code-coupon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/jbl-go-3-bluetooth-portable-speaker-deal-promo-code-coupon/#ftag=RSSbaffb68)
@@ -174,3 +174,4 @@ You may have heard that keeping your devices safe during a power surge is essent
  - date published: 2022-10-03 02:29:00+00:00
 
 NatureID can identify your plants, tell you when they're sick, make recommendations about treatment and maintenance, and even remind you to water them.
+

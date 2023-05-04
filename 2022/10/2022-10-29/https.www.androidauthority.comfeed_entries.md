@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Proprietary shenanigans are making it too hard to buy the perfect earbuds
  - [https://www.androidauthority.com/propriety-true-wireless-earbuds-headphones-features-3214007/](https://www.androidauthority.com/propriety-true-wireless-earbuds-headphones-features-3214007/)
@@ -55,3 +55,4 @@ Plus Musk's Twitter takeover, USB-C standards news, Xbox price hikes, cursed Hal
  - date published: 2022-10-29 09:00:49+00:00
 
 From design and features to pricing and more, here's what we know about Xiaomi's flagships.
+

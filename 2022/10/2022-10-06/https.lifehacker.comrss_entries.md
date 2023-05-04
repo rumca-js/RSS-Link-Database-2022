@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Why You Should Never Respond to Spam, Even to Unsubscribe
  - [https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928](https://lifehacker.com/why-you-should-never-respond-to-spam-even-to-unsubscri-1849626928)
@@ -139,3 +139,4 @@
  - date published: 2022-10-06 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--1y36485R--/c_fit,fl_progressive,q_80,w_636/642551ef834a5a39c4f44e6c12a77b05.png" /><p>It’s tempting to call it the slap heard ‘round the world, except that quick-thinking production techs silenced the moment when Will Smith struck Chris Rock at the 94th Academy Awards (somehow just six months ago). There’s no need to relitigate the incident, nor to reignite the discourse that dominated the news and…</p><p><a href="https://lifehacker.
+

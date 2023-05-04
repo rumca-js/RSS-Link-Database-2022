@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Prezes PiS: To nie jest moment na wielką podwyżkę dla nauczycieli
  - [https://www.bankier.pl/wiadomosc/Prezes-PiS-To-nie-jest-moment-na-wielka-podwyzke-dla-nauczycieli-8442767.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prezes-PiS-To-nie-jest-moment-na-wielka-podwyzke-dla-nauczycieli-8442767.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -197,3 +197,4 @@ kosztów kredytów tańsze lokalizacje mogą wciąż być na celowniku kupujący
  - date published: 2022-11-19 02:53:00+00:00
 
 <p>Federalny sędzia okręgowy w kalifornijskim San Jose skazał w piątek założycielkę firmy Theranos, Elizabeth Holmes, na 11 lat i trzy miesiące więzienia za oszukanie inwestorów. Była ona założycielką nieistniejącego już startupu wycenianego na 9 mld dolarów.</p>
+

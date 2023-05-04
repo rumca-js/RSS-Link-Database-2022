@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Remove Mold From Books (and Prevent It From Coming Back)
  - [https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714](https://lifehacker.com/how-to-remove-mold-from-books-and-prevent-it-from-comi-1849508714)
@@ -20,3 +20,4 @@
  - date published: 2022-09-11 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--OG4YMiOf--/c_fit,fl_progressive,q_80,w_636/988b7406da9521747e8dd4cfe6aea87c.jpg" /><p>When a window has been closed for years—or even over a long winter—it’s normal for it to stick a bit when you try to open it again. But sometimes it takes more than some extra muscle to let the fresh air in—especially in situations where a window has been painted shut.</p><p><a href="https://lifehacker.com/how-to-open-windows-that-were-painted-shut-
+

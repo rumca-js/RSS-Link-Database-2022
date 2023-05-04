@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## It's about time – Approaching bitemporality
  - [https://javahippie.net/databases/bitemporality/2022/11/03/its-about-time-1.html](https://javahippie.net/databases/bitemporality/2022/11/03/its-about-time-1.html)
@@ -265,7 +265,6 @@
  - [https://www.alexhyett.com/one-month-on-youtube/](https://www.alexhyett.com/one-month-on-youtube/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-03 14:23:24+00:00
- - tags: youtube
 
 <p>Article URL: <a href="https://www.alexhyett.com/one-month-on-youtube/">https://www.alexhyett.com/one-month-on-youtube/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33451459">https://news.ycombinator.com/item?id=33451459</a></p>
@@ -665,3 +664,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33444780">https://news.ycombinator.com/item?id=33444780</a></p>
 <p>Points: 14</p>
 <p># Comments: 3</p>
+

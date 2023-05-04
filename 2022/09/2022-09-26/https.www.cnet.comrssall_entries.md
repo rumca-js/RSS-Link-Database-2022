@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The DART Mission: Why NASA Crashed a Spacecraft Into an Asteroid Today     - CNET
  - [https://www.cnet.com/science/the-dart-mission-why-nasa-crashed-a-spacecraft-into-an-asteroid-today/#ftag=CADf328eec](https://www.cnet.com/science/the-dart-mission-why-nasa-crashed-a-spacecraft-into-an-asteroid-today/#ftag=CADf328eec)
@@ -888,3 +888,4 @@ McDonald's could be bringing back this Happy Meal nostalgia for its customers.
  - date published: 2022-09-26 00:00:03+00:00
 
 Here are the exact release dates and times for the 12 episodes of the bold Star Wars prequel series' first season.
+

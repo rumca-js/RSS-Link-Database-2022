@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## FTX Investigating Possible $515 Million Hack After Bankruptcy Filing
  - [https://www.nytimes.com/2022/11/12/business/ftx-cryptocurrency-hack.html](https://www.nytimes.com/2022/11/12/business/ftx-cryptocurrency-hack.html)
@@ -13,3 +13,4 @@ Researchers documented $515 million in suspicious transfers from the cryptocurre
  - date published: 2022-11-12 10:00:22+00:00
 
 Christopher Wray, the F.B.I.’s director, told Congress last December that the bureau purchased the phone hacking tool Pegasus for research purposes.
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Open Source Initiative expands its role to AI and machine learning
  - [https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/#ftag=RSSbaffb68](https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/#ftag=RSSbaffb68)
@@ -230,3 +230,4 @@ Innovative hardware, but expensive considering the absence of Google Mobile Serv
  - date published: 2022-09-27 04:01:02+00:00
 
 iRobot's latest Roomba brings its mop and vacuum tech into one device at a cheaper price than purchasing both items separately.
+

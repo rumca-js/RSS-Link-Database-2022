@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Flights and hotel prices rocket for trips to London the night before the Queen's funeral
  - [https://www.dailymail.co.uk/news/article-11209625/Flights-hotel-prices-rocket-trips-London-night-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11209625/Flights-hotel-prices-rocket-trips-London-night-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1840,3 +1840,4 @@ Princess Anne, 72, the late monarch's only daughter, will accompany her coffin a
  - date published: 2022-09-13 00:10:07+00:00
 
 Capacity could be boosted by 50 per cent on some lines. Transport chiefs are expecting demand on railways and roads in the capital to be 'unprecedented'.
+

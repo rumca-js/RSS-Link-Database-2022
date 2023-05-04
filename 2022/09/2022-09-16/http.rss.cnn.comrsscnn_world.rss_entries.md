@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Five banks in Lebanon held up by depositors demanding access to savings
  - [https://www.cnn.com/2022/09/16/middleeast/lebanon-bank-holdup-intl/index.html](https://www.cnn.com/2022/09/16/middleeast/lebanon-bank-holdup-intl/index.html)
@@ -34,3 +34,4 @@ China's military leaders share a potential weakness that has undermined their Ru
  - date published: 2022-09-16 04:02:08+00:00
 
 As the United Kingdom mourns Queen Elizabeth II, only a minority will remember first-hand what life was like the last time the country buried a monarch.
+

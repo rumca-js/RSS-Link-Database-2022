@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## National Drive Electric Week wants to spread the gospel of EVs
  - [https://www.engadget.com/national-drive-electric-week-dates-times-locations-203537754.html?src=rss](https://www.engadget.com/national-drive-electric-week-dates-times-locations-203537754.html?src=rss)
@@ -125,3 +125,4 @@
  - date published: 2022-09-16 05:12:50+00:00
 
 <p>Uber was hacked, and it had to take its internal messaging service and engineering systems offline to investigate the incident, according to <a href="https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html"><em>The New York Times</em></a>. Sources who talked to the publication said employees were instructed not to go on Slack, where the bad actor had posted a message that read &quot;I announce I am a hacker and Uber has suffered a data breach&quot; (along with a bunch of emoji)
+

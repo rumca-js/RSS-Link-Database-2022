@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## NBC's Yamiche Alcindor claims 'abortion comes up 90% of the time' with voters on the campaign trail
  - [https://www.foxnews.com/media/nbcs-yamiche-alcindor-claims-abortion-comes-up-90-time-voters-campaign-trail](https://www.foxnews.com/media/nbcs-yamiche-alcindor-claims-abortion-comes-up-90-time-voters-campaign-trail)
@@ -748,3 +748,4 @@ Brian Kilmeade shared some words of wisdom for President Biden in Saturday's ope
  - date published: 2022-09-11 02:29:41+00:00
 
 Ohio Senate candidate J.D. Vance takes on "Hollywood liberal" Jennifer Lawrence following the "Hunger Games" star's criticism that the Republican candidate is a fraud on "One Nation."
+

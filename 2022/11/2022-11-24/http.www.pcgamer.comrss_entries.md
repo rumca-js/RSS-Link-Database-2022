@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Report says US government will 'likely' challenge Microsoft buying Activision Blizzard
  - [https://www.pcgamer.com/report-says-us-government-will-likely-challenge-microsoft-buying-activision-blizzard](https://www.pcgamer.com/report-says-us-government-will-likely-challenge-microsoft-buying-activision-blizzard)
@@ -132,3 +132,4 @@ In Warhammer 40,000: Darktide even the weapons that aren't Obscurus-class are pr
  - date published: 2022-11-24 00:22:12+00:00
 
 Call of Duty's best new mode has quests, boss battles, and lots of loot.
+

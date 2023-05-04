@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Okta Exposes Passwords in Clear Text for Possible Theft
  - [https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
@@ -505,3 +505,4 @@ I'm currently developing a service alone, but one of the problem I see going for
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32958527">https://news.ycombinator.com/item?id=32958527</a></p>
 <p>Points: 10</p>
 <p># Comments: 3</p>
+

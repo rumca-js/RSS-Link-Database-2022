@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## What the GOP taking control of the House means
  - [https://www.cnn.com/videos/politics/2022/11/16/us-house-republican-take-control-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/16/us-house-republican-take-control-vpx.cnn)
@@ -400,6 +400,13 @@ A commercial oil tanker suffered minor damage after it was hit by a projectile 1
 
 Carlos Alcaraz is set to become the youngest year-end No. 1 in the history of men's tennis after Rafael Nadal was knocked out of the ATP Finals.
 
+## NATO has evolved over time. What exactly is the alliance and where does it stand now?
+ - [https://www.cnn.com/videos/world/2022/06/29/why-nato-founded-explainer-bks-lon-orig.cnn](https://www.cnn.com/videos/world/2022/06/29/why-nato-founded-explainer-bks-lon-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-11-16 10:36:25+00:00
+
+The North Atlantic Treaty Organisation was initially founded to protect Western European countries from the threat posed by the Soviet Union. Over seven decades later, as Russia's war in Ukraine continues, NATO's role in the region has come back into focus.
+
 ## Luka Doncić sinks clutch three-pointer to help Mavericks beat the Clippers 103-101 in dramatic fashion
  - [https://www.cnn.com/2022/11/16/sport/luka-doncic-mavericks-clippers-kings-nets-spt-intl/index.html](https://www.cnn.com/2022/11/16/sport/luka-doncic-mavericks-clippers-kings-nets-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -640,3 +647,4 @@ The cozy cleanliness of Scandinavian interiors and the minimalist beauty of trad
  - date published: 2022-11-16 00:21:40+00:00
 
 Turning down the racket isn't just for disgruntled parents — a new study has shown it could protect more than 1 billion people at risk for hearing loss.
+

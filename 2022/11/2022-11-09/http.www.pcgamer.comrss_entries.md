@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Google asks Stadia owners to please not contact customer support about their refunds
  - [https://www.pcgamer.com/google-asks-stadia-owners-to-please-not-contact-customer-support-about-their-refunds](https://www.pcgamer.com/google-asks-stadia-owners-to-please-not-contact-customer-support-about-their-refunds)
@@ -216,3 +216,4 @@ The Trail of Treachery free DLC is live too.
  - date published: 2022-11-09 00:28:15+00:00
 
 VR Chat might have some competition.
+

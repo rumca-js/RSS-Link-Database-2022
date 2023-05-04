@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## PS Plus. Sony ujawnia gry, które trafią na platformę w październiku
  - [https://ithardware.pl/aktualnosci/ps_plus_sony_ujawnia_gry_ktore_trafia_na_platforme_w_pazdzierniku-23572.html](https://ithardware.pl/aktualnosci/ps_plus_sony_ujawnia_gry_ktore_trafia_na_platforme_w_pazdzierniku-23572.html)
@@ -205,3 +205,4 @@ XeSS jest już dostępne w Shadow of the Tomb Raider i narzędzia deweloperskie 
 
 <img src="https://ithardware.pl/artykuly/min/23550_1.jpg" />            W trakcie wczorajszego wydarzenia Intel Innovation Pat Gelsinger potwierdził w końcu cenę i globalną datę premiery karty graficznej Arc A770. Wygląda na to, że giganta z Santa Clara rzeczywiście chce mocno namieszać na rynku GPU konkurencyjnymi...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/intelarc_a770_karta_graficzna_doczekala_sie_daty_premiery_i_cene_ta_bardzo_pozytywnie_zaskakuje-23550.
+

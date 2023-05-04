@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## SpaceX Books Space Tourism Pioneer Dennis Tito, 82, on Trip to Moon     - CNET
  - [https://www.cnet.com/science/space/spacex-books-space-tourism-pioneer-dennis-tito-82-on-trip-to-moon/#ftag=CADf328eec](https://www.cnet.com/science/space/spacex-books-space-tourism-pioneer-dennis-tito-82-on-trip-to-moon/#ftag=CADf328eec)
@@ -895,3 +895,4 @@ His kid self would love to play Ghost Rider, the actor says.
  - date published: 2022-10-12 00:05:00+00:00
 
 The Department of Education has released a sneak peek at the application form for student loan debt relief.
+

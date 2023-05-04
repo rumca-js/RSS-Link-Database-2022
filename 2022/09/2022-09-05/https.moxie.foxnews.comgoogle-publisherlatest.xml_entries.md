@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Biden called out for 'disastrous start to the Labor Day campaign'
  - [https://www.foxnews.com/media/biden-called-out-disastrous-start-labor-day-campaign](https://www.foxnews.com/media/biden-called-out-disastrous-start-labor-day-campaign)
@@ -741,3 +741,4 @@ A new study from the University of Texas at Austin found that people who share a
  - date published: 2022-09-05 00:16:57+00:00
 
 Harry Styles and Olivia Wilde arrived in Venice, Italy before "Don't Worry Darling" premiere amid pay disparity drama and casting shake-up with Shia LaBeouf.
+

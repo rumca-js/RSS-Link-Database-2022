@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## How the Royal Family secretly owns the world
  - [https://www.youtube.com/watch?v=4pUUSyYON2c](https://www.youtube.com/watch?v=4pUUSyYON2c)
@@ -50,3 +50,4 @@ This video is sponsored by Masterworks.
 See important Masterworks disclosures: https://www.masterworks.io/about/disclaimer
 
 #RoyalFamily #QueenElizabeth #KingCharles
+

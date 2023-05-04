@@ -1,4 +1,4 @@
-# Source URL:https://www.ft.com/world?format=rss, Source language: en-GB
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## Lula wins Brazil presidential election in historic comeback
  - [https://www.ft.com/content/979d9f22-eb96-46a8-a8c8-31e1cb452091](https://www.ft.com/content/979d9f22-eb96-46a8-a8c8-31e1cb452091)
@@ -216,3 +216,4 @@ Crowd surge causes panic in narrow streets of nightlife district
  - date published: 2022-10-30 00:15:54+00:00
 
 Kioxia monitoring risk of retaliation by Beijing over Washington’s export controls
+

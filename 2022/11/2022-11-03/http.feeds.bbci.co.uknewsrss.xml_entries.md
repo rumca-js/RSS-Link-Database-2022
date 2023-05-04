@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Jeremy Bowen on reporting from Ukraine's frontline
  - [https://www.bbc.co.uk/news/world-europe-63507401?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63507401?at_medium=RSS&at_campaign=KARANGA)
@@ -538,3 +538,4 @@ With COP27 about to get under way, which nations have taken a lead and which hav
  - date published: 2022-11-03 00:00:10+00:00
 
 Mr Xi's vision is in stark contrast to what the West had hoped for from decades of trade and engagement.
+

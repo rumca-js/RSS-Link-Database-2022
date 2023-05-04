@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Iran sent military trainers to Crimea to train Russians to use drones
  - [https://www.cnn.com/2022/10/18/politics/iran-trainers-crimea-drones/index.html](https://www.cnn.com/2022/10/18/politics/iran-trainers-crimea-drones/index.html)
@@ -602,3 +602,4 @@ Alex Drueke and Andy Tai Ngoc Huynh, two Americans who were captured while fight
  - date published: 2022-10-18 00:35:25+00:00
 
 Experts say online threats of civil war have spiked since the FBI search of Mar-a-Lago. CNN's Donie O'Sullivan compiled these disturbing posts and showed them to former FBI special agent Greg Ehrie to get his analysis. Here is what he said.
+

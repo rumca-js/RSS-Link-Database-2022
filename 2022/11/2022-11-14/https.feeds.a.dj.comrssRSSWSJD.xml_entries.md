@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Apple, Fortnite Battle Moves Before Appeals Court
  - [https://www.wsj.com/articles/apple-fortnite-battle-moves-before-appeals-court-over-app-store-monopoly-claims-11668464277?mod=rss_Technology](https://www.wsj.com/articles/apple-fortnite-battle-moves-before-appeals-court-over-app-store-monopoly-claims-11668464277?mod=rss_Technology)
@@ -48,3 +48,4 @@ The FTX founder’s approach to risk fueled his rise to the top of the crypto wo
  - date published: 2022-11-14 15:42:00+00:00
 
 The Chinese financial-technology is scaling back its fundraising ambitions after a large state-backed investor backed out of a previous plan.
+

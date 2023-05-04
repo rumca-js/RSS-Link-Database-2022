@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Queen's death made half of Britons have shed a tear, poll suggests
  - [https://www.dailymail.co.uk/news/article-11204969/Queens-death-half-Britons-shed-tear-poll-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11204969/Queens-death-half-Britons-shed-tear-poll-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1617,3 +1617,4 @@ MARK ALMOND: During recent months in Vladimir Putin's grim and bloody war, we ha
  - date published: 2022-09-12 00:01:42+00:00
 
 Carroll, 33, was pictured standing by his wrecked £130,000 Mercedes GLS SUV in a residential street understood to be in the Romford area of east London on Saturday afternoon.
+

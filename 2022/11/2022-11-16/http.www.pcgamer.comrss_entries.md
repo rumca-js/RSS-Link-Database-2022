@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## RimWorld modders are making their own colony sim with real-time tactics combat
  - [https://www.pcgamer.com/rimworld-modders-are-making-their-own-colony-sim-with-real-time-tactics-combat](https://www.pcgamer.com/rimworld-modders-are-making-their-own-colony-sim-with-real-time-tactics-combat)
@@ -209,3 +209,4 @@ And a map inspired by Game of Thrones.
  - date published: 2022-11-16 00:23:39+00:00
 
 With the launch of Warzone 2, Call of Duty is ditching the traditional battle pass.
+

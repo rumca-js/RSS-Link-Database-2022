@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## 12 Minutes of Need For Speed Unbound Gameplay
  - [https://www.gamespot.com/videos/12-minutes-of-need-for-speed-unbound-gameplay/2300-6460113/](https://www.gamespot.com/videos/12-minutes-of-need-for-speed-unbound-gameplay/2300-6460113/)
@@ -230,3 +230,4 @@
  - date published: 2022-11-29 13:31:00+00:00
 
 <p>Microsoft's bid to purchase Activision Blizzard continues to push ahead. <a href="https://www.reuters.com/markets/deals/microsoft-likely-offer-eu-concessions-soon-activision-deal-sources-2022-11-28/">Reuters</a> reports that Serbia has now cleared the deal "unconditionally."</p><p>This follows similar approvals in places like Brazil and Saudi Arabia. The Reuters report had no further information on the terms of the approval by Serbia.</p><p>In the UK, Europe, and US, Microsoft's attempt to buy Activision Blizzard continues to face scrutiny and pressure from regulators and lawmakers. Just recently, it was reported that Microsoft will offer some concessions in the EU to help the deal get done, including agreeing to <a href="https://www.gamespot.com/articles/microsoft-to-reportedly-make-concessions-including-10-year-deal-with-playstation-to-get-activision-blizzard-deal-done/1100-6509532/">10-year licensing deal with Sony</a> that would presumably keep Call of Duty on PlayStation for the next decade.</p><a href="https://www.gamespot.com/articles/microsoft-buyout-of-activision-blizzard-approved-in-another-region/1100-6509538/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

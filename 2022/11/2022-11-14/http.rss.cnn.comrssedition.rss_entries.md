@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## CNN panelists call out Lara Trump's warning for DeSantis
  - [https://www.cnn.com/videos/politics/2022/11/14/lara-trump-desantis-run-presidential-election-candidate-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/lara-trump-desantis-run-presidential-election-candidate-lead-vpx.cnn)
@@ -601,5 +601,6 @@ If you order a box of frozen Kobe beef croquettes from Asahiya, a family-run but
  - [https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html](https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 01:03:46.870032+00:00
+
 
 

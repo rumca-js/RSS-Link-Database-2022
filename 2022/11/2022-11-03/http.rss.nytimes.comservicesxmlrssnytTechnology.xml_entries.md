@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk, Under Financial Pressure, Pushes to Make Money From Twitter
  - [https://www.nytimes.com/2022/11/03/technology/elon-musk-twitter-money-finances.html](https://www.nytimes.com/2022/11/03/technology/elon-musk-twitter-money-finances.html)
@@ -13,3 +13,4 @@ The billionaire and his advisers have discussed adding paid direct messages, fee
  - date published: 2022-11-03 17:37:19+00:00
 
 Amazon said it was pausing corporate hiring, while Lyft and Stripe said they were cutting jobs.
+

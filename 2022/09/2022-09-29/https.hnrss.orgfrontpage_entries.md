@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## The brain is the battlefield of the future
  - [https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/)
@@ -719,7 +719,6 @@ Here are our open roles:<p>ML Research Engineer (SF, Full-time): <a href="https:
  - [https://twitter.com/TheOGapp_/status/1575265782094647296](https://twitter.com/TheOGapp_/status/1575265782094647296)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-29 02:48:45+00:00
- - tags: facebook,meta,censorship
 
 <p>Article URL: <a href="https://twitter.com/TheOGapp_/status/1575265782094647296">https://twitter.com/TheOGapp_/status/1575265782094647296</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33015769">https://news.ycombinator.com/item?id=33015769</a></p>
@@ -775,3 +774,4 @@ Here are our open roles:<p>ML Research Engineer (SF, Full-time): <a href="https:
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33015002">https://news.ycombinator.com/item?id=33015002</a></p>
 <p>Points: 27</p>
 <p># Comments: 8</p>
+

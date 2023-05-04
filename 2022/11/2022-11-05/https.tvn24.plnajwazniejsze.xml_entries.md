@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Jej przeboje znają wszyscy. Ona sama twierdzi, że nie ma talentu, jedynie predyspozycje
  - [https://tvn24.pl/go/programy,7/bez-polityki-odcinki,413879/odcinek-104,S00E104,904961?source=rss](https://tvn24.pl/go/programy,7/bez-polityki-odcinki,413879/odcinek-104,S00E104,904961?source=rss)
@@ -128,6 +128,14 @@
 <img alt="Wiązanie strzeliło, Stoch stracił równowagę" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ycu8ed-kamil-stoch-mial-powazne-problemy-przy-ladowaniu/alternates/LANDSCAPE_1280" />
     Przygoda polskiego skoczka w Wiśle.
 
+## Rekordowe dotacje od Czarnka, teraz będą budować się na nasz koszt. Sieć powiązań na 40 milionów
+ - [https://tvn24.pl/premium/przemyslaw-czarnek-przyznal-rekordowe-dotacje-z-mein-kto-i-na-co-dostal-40-milionow-zlotych-siec-powiazan-6194846?source=rss](https://tvn24.pl/premium/przemyslaw-czarnek-przyznal-rekordowe-dotacje-z-mein-kto-i-na-co-dostal-40-milionow-zlotych-siec-powiazan-6194846?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-11-05 15:31:29+00:00
+
+<img alt="Rekordowe dotacje od Czarnka, teraz będą budować się na nasz koszt. Sieć powiązań na 40 milionów" src="https://tvn24.pl/najnowsze/cdn-zdjecie-x1upzg-czarnek2-6195210/alternates/LANDSCAPE_1280" />
+    Minister edukacji Przemysław Czarnek od kilku tygodni dotuje milionami z budżetu siatkę organizacji powiązanych z politykami Prawa i Sprawiedliwości, katolickie fundacje oraz znajomych z rodzinnego Lublina. Czy buduje w ten sposób swoje przedwyborcze zaplecze? Opozycja zapowiada wniosek do Najwyższej Izby Kontroli.
+
 ## Iran przeprowadził testy, które "mogą rozzłościć Stany Zjednoczone"
  - [https://tvn24.pl/swiat/iran-test-rakiety-ghaem-100-z-satelita-wypadl-pomyslnie-usa-sie-obawiaja-6195236?source=rss](https://tvn24.pl/swiat/iran-test-rakiety-ghaem-100-z-satelita-wypadl-pomyslnie-usa-sie-obawiaja-6195236?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -255,3 +263,4 @@
 
 <img alt="Żyją na terenach przyszłej linii CPK. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-bt35bj-dariusz-brzoska-z-palowic-6194118/alternates/LANDSCAPE_1280" />
     Patrycja Mańka i Dagmara Langiewicz rozmawiają z mieszkańcami terenów, przez które ma przebiegać linia Kolei Dużych Prędkości.
+

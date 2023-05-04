@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Najbardziej poszukiwani przestępcy 2022 r. Wśród nich Polacy. Europol apeluje o pomoc w poszukiwaniach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28965124,najbardziej-poszukiwani-przestepcy-2022-r-wsrod-nich-polacy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28965124,najbardziej-poszukiwani-przestepcy-2022-r-wsrod-nich-polacy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -90,3 +90,4 @@
  - date published: 2022-09-28 05:01:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/fc/9e/1b/z28961532M,Polacy-nie-chca-zmiany-terminu-wyborow-samorzadowy.jpg" vspace="2" />Polakom nie podoba się pomysł przeniesienia wyborów samorządowych. Ponad połowa pytanych w sondażu United Surveys zadeklarowała, że jest przeciwna zmianom w terminie wyborów, które chce wprowadzić PiS.
+

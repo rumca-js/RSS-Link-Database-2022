@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Vodafone and Three in merger talks
  - [https://www.bbc.co.uk/news/technology-63118990?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63118990?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ The third and fourth largest mobile phone networks reportedly hope to strike a d
  - date published: 2022-10-03 05:24:24+00:00
 
 The National Museum of Computing at Bletchley Park is marking the corporation's 100th anniversary.
+

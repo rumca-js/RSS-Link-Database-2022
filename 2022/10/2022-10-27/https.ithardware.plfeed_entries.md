@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## GOG Halloween Sale 2022. Platforma przecenia ponad 3 tysiące produktów i udostępnia grę za darmo
  - [https://ithardware.pl/aktualnosci/gog_halloween_sale_2022_platforma_przecenia_ponad_3_tysiace_produktow_i_udostepnia_gre_za_darmo-24078.html](https://ithardware.pl/aktualnosci/gog_halloween_sale_2022_platforma_przecenia_ponad_3_tysiace_produktow_i_udostepnia_gre_za_darmo-24078.html)
@@ -189,3 +189,4 @@ Jak donosi...
 
 <img src="https://ithardware.pl/artykuly/min/24055_1.jpg" />            AMD najwyraźniej zorientowało się, że nowa hybrydowa architektura Intela zapewnia mu przewagę, jeśli chodzi o liczbę rdzeni/wątk&oacute;w, co od dawno było domeną Ryzen&oacute;w. W związku z tym firma szykuje 10-rdzeniowego i 20-wątkowego AMD...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/ryzena_7_7800x_z_wieksza_liczba_rdzeni_i_watkow_amd_czuje_presje_ze_strony_intela-24055.html">https://ithardware.pl/aktualnosci/ryzena_7_7800x_z_wieksza_liczba_rdzeni_i_watkow_amd_czuje_presje_ze_strony_intela-24055.html</a></p>
+

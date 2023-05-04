@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Shop teacher Kayla Lemieux with those enormous fake knockers debuts their new poolside look
  - [https://www.louderwithcrowder.com/canadian-teacher-poolside](https://www.louderwithcrowder.com/canadian-teacher-poolside)
@@ -56,3 +56,4 @@
  - date published: 2022-09-22 12:02:39+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31801198&amp;width=1245&amp;height=700&amp;coordinates=0%2C70%2C0%2C50" /><br /><br /><p>Democrats still think the Supreme Court overturn of Roe v Wade is going to lead them to victory in November. It sure as dookie isn't the economy, immigration, cost of living, the direction of America, or what an inspiring leader Joe Biden is. Abortion is all they have. They're running it into the ground as if it's a seventy-eight-year-old
+

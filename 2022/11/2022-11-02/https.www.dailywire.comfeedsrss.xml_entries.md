@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Illegal Immigrant Identified By Authorities As Suspected Burglar Of Katie Hobbs’ Campaign Office, Debunking Attempted Blame On Kari Lake
  - [https://www.dailywire.com/news/illegal-immigrant-identified-by-authorities-as-suspected-burglar-of-katie-hobbs-campaign-office-debunking-attempted-blame-on-kari-lake](https://www.dailywire.com/news/illegal-immigrant-identified-by-authorities-as-suspected-burglar-of-katie-hobbs-campaign-office-debunking-attempted-blame-on-kari-lake)
@@ -347,7 +347,6 @@ The Biden administration announced on Wednesday, six days before the upcoming mi
  - [https://www.dailywire.com/news/covid-lockdown-tyrants-want-us-to-forget-grant-pandemic-amnesty-matt-walsh-has-some-thoughts](https://www.dailywire.com/news/covid-lockdown-tyrants-want-us-to-forget-grant-pandemic-amnesty-matt-walsh-has-some-thoughts)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-02 11:56:28+00:00
- - tags: covid,lockdown,pandemic amnesty
 
 Daily Wire host and author Matt Walsh ripped into COVID lockdown tyrants after a columnist on Monday begged for “pandemic amnesty.&#8221; Brown University economist Emily Oster, writing at The Atlantic, admitted that aspects of school closures and other government mandates were ultimately unnecessary, while asserting that &#8220;we need to forgive one another for what we did and ...
 
@@ -448,3 +447,4 @@ U.S. Treasury Department officials are reportedly looking at whether they have t
  - date published: 2022-11-02 07:20:16+00:00
 
 Celebrity psychologist Dr. Phil McGraw told Joe Rogan, host of &#8220;The Joe Rogan Experience,&#8221; during a recent episode that it was clear that there was something wrong with Pennsylvania Democrat U.S. Senate candidate John Fetterman. The remarks by McGraw come after Fetterman debated last week against Republican challenger Dr. Mehmet Oz, and the overwhelming reaction ...
+

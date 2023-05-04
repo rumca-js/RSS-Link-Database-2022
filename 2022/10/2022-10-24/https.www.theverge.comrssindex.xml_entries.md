@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Toyota reportedly considers hitting the reset button on its EV transition
  - [https://www.theverge.com/2022/10/24/23420947/toyota-ev-transition-electrification-strategy-reboot](https://www.theverge.com/2022/10/24/23420947/toyota-ev-transition-electrification-strategy-reboot)
@@ -693,3 +693,4 @@
   <p>
     <a href="https://www.theverge.com/23420136/ikeas-dirigera-smart-home-review-price-specs">Continue reading&hellip;</a>
   </p>
+

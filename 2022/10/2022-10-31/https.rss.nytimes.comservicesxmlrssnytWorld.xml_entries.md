@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Missiles Deliver New Woe to Kyiv, Knocking Out Tap Water
  - [https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html](https://www.nytimes.com/2022/10/31/world/europe/russia-ukraine-kyiv-water.html)
@@ -216,3 +216,4 @@ Brazil’s president has faced investigations that have been staved off or block
  - date published: 2022-10-31 00:03:12+00:00
 
 Moscow dismissed accusations that it was using food as a weapon and said Ukraine was to blame for its decision to suspend an agreement that allowed for grain shipments.
+

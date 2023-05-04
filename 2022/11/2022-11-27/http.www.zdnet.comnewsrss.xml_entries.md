@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Oura Ring Gen3 is $50 off in Cyber Monday deal 2022
  - [https://www.zdnet.com/article/oura-ring-gen3-sees-50-off-discount-during-cyber-monday-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/oura-ring-gen3-sees-50-off-discount-during-cyber-monday-deals/#ftag=RSSbaffb68)
@@ -643,3 +643,4 @@ If you're looking for a cheap robot vacuum, you can pick up this Eufy model for 
  - date published: 2022-11-27 00:56:00+00:00
 
 A range of Apple iPad Pro tablets, each with different specifications, are currently on sale for Black Friday and Cyber Monday 2022. Here are the best iPad Pro Black Friday deals, including one for $399 off a 12.9-inch model.
+

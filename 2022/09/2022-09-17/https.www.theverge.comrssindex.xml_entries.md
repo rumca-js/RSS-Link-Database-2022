@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elden Ring is getting its own board game
  - [https://www.theverge.com/2022/9/17/23358231/elden-ring-board-game-kickstarter-steamforged-games-tabletop](https://www.theverge.com/2022/9/17/23358231/elden-ring-board-game-kickstarter-steamforged-games-tabletop)
@@ -96,3 +96,4 @@
     </figure>
 
   <p id="wMK1Mr">Every couple of weeks, I exhume my gadget graveyard from underneath my b
+

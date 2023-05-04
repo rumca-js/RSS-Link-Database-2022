@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## November's SYSTEM PIGS Abetting Psychopathy
  - [https://www.youtube.com/watch?v=_ahWAeao2g8](https://www.youtube.com/watch?v=_ahWAeao2g8)
@@ -61,3 +61,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your-retirement/
 
 #biden #trump #felixrex #blackpigeonspeaks
+

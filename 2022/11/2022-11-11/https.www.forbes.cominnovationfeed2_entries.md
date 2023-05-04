@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## The FCC Must Do Its Job To Protect Americans From Chinese Government Intrusion
  - [https://www.forbes.com/sites/roslynlayton/2022/11/11/the-fcc-must-do-its-job-to-protect-americans-from-chinese-government-intrusion/](https://www.forbes.com/sites/roslynlayton/2022/11/11/the-fcc-must-do-its-job-to-protect-americans-from-chinese-government-intrusion/)
@@ -496,7 +496,6 @@ Cloud system misconfiguration is happening due to speed at which we are building
  - [https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline/](https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-11 00:15:55+00:00
- - tags: climate change
 
 Emissions are expected to reach an all-time high—with increases of 1.5% this year in the U.S. and a whopping 6% in India.
 
@@ -506,3 +505,4 @@ Emissions are expected to reach an all-time high—with increases of 1.5% this y
  - date published: 2022-11-11 00:00:33+00:00
 
 The number of APAC-headquartered cybersecurity startups will increase by 10%.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Carabao Cup: Brentford 1-1 Gillingham (5-6 on penalties) - Bees stunned by League Two Gills
  - [https://www.bbc.co.uk/sport/football/63466355?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63466355?at_medium=RSS&at_campaign=KARANGA)
@@ -503,3 +503,4 @@ The Fenix Trophy - a continental prize for semi-professional and amateur clubs -
  - date published: 2022-11-08 00:00:01+00:00
 
 The final polls are out - who will win power and what will they do with it?
+

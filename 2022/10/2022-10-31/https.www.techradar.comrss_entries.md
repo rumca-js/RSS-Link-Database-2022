@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## These two dangerous Trojan 'dropper' Android apps have already been installed thousands of times
  - [https://www.techradar.com/news/trojan-dropper-apps-on-the-google-play-store-have-amassed-over-130000-installs/](https://www.techradar.com/news/trojan-dropper-apps-on-the-google-play-store-have-amassed-over-130000-installs/)
@@ -139,3 +139,4 @@ Tool can help businesses keep their secrets to themselves, instead of exposing t
  - date published: 2022-10-31 10:01:17+00:00
 
 New CEO Elon Musk confirmed that the verification process is being redesigned, but to pay to get a blue tick is just wrong.
+

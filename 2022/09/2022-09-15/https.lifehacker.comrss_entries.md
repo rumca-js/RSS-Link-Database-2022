@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Know If You Have a 'Good' Therapist
  - [https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096](https://lifehacker.com/how-to-know-if-you-have-a-good-therapist-1849542096)
@@ -146,3 +146,4 @@
  - date published: 2022-09-15 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ikL1PePQ--/c_fit,fl_progressive,q_80,w_636/da96b9f75737ca0f2d19fd83a49c79e7.jpg" /><p>There are many things I wish I’d known before becoming a parent. The incredible volume of Band-Aids that would be wasted. How many photos on my camera roll would be out-of-focus selfies of my toddler’s head. Most of all, the amount of time I’d spend performing mind-numbing logistical acrobatics  to manage my family’s…</p><p><a href="https://lifehack
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## 10 best two-factor authentication apps on mobile
  - [https://www.androidauthority.com/best-two-factor-authenticator-apps-904743/](https://www.androidauthority.com/best-two-factor-authenticator-apps-904743/)
@@ -41,3 +41,4 @@ The Surface Laptop 4 has become my favorite productivity machine.
  - date published: 2022-11-27 13:00:06+00:00
 
 Notification mirroring just scratches the surface of what Pushbullet can do.
+

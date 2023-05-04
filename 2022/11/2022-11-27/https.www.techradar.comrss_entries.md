@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Cyber Monday gaming deals LIVE: Nintendo Switch, PS5, and Xbox Series X Discounts
  - [https://www.techradar.com/news/live/cyber-monday-gaming-deals-live-nintendo-switch-ps5-and-xbox-series-x-discounts](https://www.techradar.com/news/live/cyber-monday-gaming-deals-live-nintendo-switch-ps5-and-xbox-series-x-discounts)
@@ -55,3 +55,4 @@ The Core i9-13900KS could end up a costly proposition, at least if this leaked p
  - date published: 2022-11-27 03:01:44+00:00
 
 Cyber Monday sales offer the perfect opportunity to get huge amounts of storage in tiny packages for excellent prices.
+

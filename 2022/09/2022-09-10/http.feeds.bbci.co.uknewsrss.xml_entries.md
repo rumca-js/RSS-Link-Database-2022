@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## US Open: Carlos Alcaraz meets Casper Ruud in final as world number one spot to be decided
  - [https://www.bbc.co.uk/sport/tennis/62858080?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62858080?at_medium=RSS&at_campaign=KARANGA)
@@ -286,3 +286,4 @@ How the eyes of the world watched the Queen and former IRA leader Martin McGuinn
  - date published: 2022-09-10 00:00:23+00:00
 
 Discover more about Elizabeth II through films and programmes that offer insights into her life.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Rząd Czech zatwierdził limit cenowy na energię elektryczną i gaz
  - [https://www.bankier.pl/wiadomosc/Rzad-Czech-zatwierdzil-limit-cenowy-na-energie-elektryczna-i-gaz-8404767.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rzad-Czech-zatwierdzil-limit-cenowy-na-energie-elektryczna-i-gaz-8404767.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -434,3 +434,4 @@ przygotowal
  - date published: 2022-09-12 02:09:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/0/830c05a6fbf43b-948-568-0-69-1732-1039.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Dwaj byli wiceprezydenci miasta – Michał Pierończyk i Krzysztof Mejer – zmierzą się w drugiej, zaplanowanej na 25 września turze wyborów prezydenckich w Rudzie Śląskiej – poinformowała PAP w poniedziałek Miejska Komisja Wyborcza.</p>
+

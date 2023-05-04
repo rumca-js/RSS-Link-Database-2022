@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Hiring or firing? Why job cuts at big tech don't always show the true picture
  - [https://www.zdnet.com/article/hiring-or-firing-why-job-cuts-at-big-tech-dont-show-the-true-picture/#ftag=RSSbaffb68](https://www.zdnet.com/article/hiring-or-firing-why-job-cuts-at-big-tech-dont-show-the-true-picture/#ftag=RSSbaffb68)
@@ -20,3 +20,4 @@ You can understand Samsung's frustration, can't you? Or can you?
  - date published: 2022-11-13 11:00:20+00:00
 
 Why would this be a good idea? Why would it even be a thing?
+

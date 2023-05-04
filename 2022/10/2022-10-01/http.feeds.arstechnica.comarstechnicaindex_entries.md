@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The weekend’s best deals: Apple MacBooks, Samsung Galaxy Watch 5, 4K TVs, and more
  - [https://arstechnica.com/?p=1886079](https://arstechnica.com/?p=1886079)
@@ -27,3 +27,4 @@ Illumina just announced a machine that can crack genomes twice as fast.
  - date published: 2022-10-01 02:53:17+00:00
 
 First Optimus prototype walked onto stage, waved. Another one needed support and slumped over.
+

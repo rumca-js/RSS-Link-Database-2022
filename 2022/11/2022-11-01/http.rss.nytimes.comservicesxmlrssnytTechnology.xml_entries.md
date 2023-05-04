@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk’s Twitter Faces Exodus of Advertisers and Executives
  - [https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-advertisers.html](https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-advertisers.html)
@@ -34,3 +34,4 @@ The ride-hailing company had strong revenue growth, but it still lost money in p
  - date published: 2022-11-01 09:00:29+00:00
 
 The right-wing social network faces two federal investigations and an uncertain financial future. But it has still managed to outpace its rivals.
+

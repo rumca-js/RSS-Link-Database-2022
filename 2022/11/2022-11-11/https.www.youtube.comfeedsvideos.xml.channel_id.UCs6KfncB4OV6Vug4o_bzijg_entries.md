@@ -1,4 +1,4 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
+# Source:Techlore, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, language:en-US
 
 ## See If Your Browser Is Private with THIS Tool!
  - [https://www.youtube.com/watch?v=y9UJEn81UVw](https://www.youtube.com/watch?v=y9UJEn81UVw)
@@ -34,3 +34,4 @@ Support our mission to spread privacy to the masses:
 3:36 Running Browser Tests Yourself
 4:46 How To Use Data to Pick Your Browser
 #privacy #security #browser
+

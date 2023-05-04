@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Kingston FURY wprowadza specjalną edycję pamięci RGB DDR4
  - [https://ithardware.pl/aktualnosci/kingston_fury_wprowadza_specjalna_edycje_pamieci_rgb_ddr4-23478.html](https://ithardware.pl/aktualnosci/kingston_fury_wprowadza_specjalna_edycje_pamieci_rgb_ddr4-23478.html)
@@ -185,3 +185,4 @@ Gigabyte opublikowało właśnie specyfikację dla modelu AORUS RTX 4090 Master.
 
 <img src="https://ithardware.pl/artykuly/min/23459_1.jpg" />            Procesory Ryzen 7000 (Raphael) pojawią się na sklepowych p&oacute;łkach już za cztery dni, ale AMD nie traci czasu, chwaląc się możliwości podkręcania Ryzen 9 7950X. Tum_Apisak, czyli jeden z najpopularniejszych w naszej branży łowc&oacute;w...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/amd_ryzen_9_7950x_podkrecony_do_7_2_ghz_na_cieklym_azocie_6_5_ghz_na_wszystkich_rdzeniach-23459.html">htt
+

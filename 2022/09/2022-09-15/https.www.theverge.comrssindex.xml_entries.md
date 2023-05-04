@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Gavin Newsom signs California social media overhaul for minors
  - [https://www.theverge.com/2022/9/15/23329654/california-governor-gavin-newsom-ab-2273-social-media-children-code-law-signed](https://www.theverge.com/2022/9/15/23329654/california-governor-gavin-newsom-ab-2273-social-media-children-code-law-signed)
@@ -463,3 +463,4 @@
     </figure>
 
   <p id="J0rzy5">A lawsuit filed in San Francisco by a Tesla owner claims the automaker and its CEO / Technoking Elon Musk are “dece
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Xbox boss Phil Spencer says the metaverse is like 'a poorly built videogame'
  - [https://www.pcgamer.com/xbox-boss-phil-spencer-says-the-metaverse-is-like-a-poorly-built-videogame](https://www.pcgamer.com/xbox-boss-phil-spencer-says-the-metaverse-is-like-a-poorly-built-videogame)
@@ -195,3 +195,4 @@ Cups made out of your coffee grounds. Eggs made out of Eggshells. Turn the world
  - date published: 2022-10-26 01:17:15+00:00
 
 These will want come in at a great price to be worthwhile.
+

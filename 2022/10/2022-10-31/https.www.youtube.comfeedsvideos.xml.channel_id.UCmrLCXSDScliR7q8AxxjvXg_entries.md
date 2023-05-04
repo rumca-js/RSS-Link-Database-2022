@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## The Winter of Discontent
  - [https://www.youtube.com/watch?v=jjH5hCJ96io](https://www.youtube.com/watch?v=jjH5hCJ96io)
@@ -59,3 +59,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your-retirement/
 
 #inflation #energycrisis #protests
+

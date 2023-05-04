@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## JumpCloud brings Remote Access to cross-platform teams
  - [https://www.computerworld.com/article/3679050/jumpcloud-brings-remote-access-to-cross-platform-teams.html#tk.rss_all](https://www.computerworld.com/article/3679050/jumpcloud-brings-remote-access-to-cross-platform-teams.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Having a Googley gadget on your wrist can be a great way to stay on top of stuff — but with Google's Pixel Watch in particular, the best productivity-boosting possibilities are the ones you can't see.</p><p>A smartwatch, after all, is a tiny screen. And that means it isn't especially optimal for intricate, extended interactions revolving around touch (unless you're a Tinkerbell-sized creature with teensy fingies, in which case the Pixel Watch is probably bigger than your entire being — so, yeah, good luck with that).</p><p>It seems like the understatement of the century, I realize. And yet, device-maker after device-maker continues to emphasize those very sorts of painfully awkward touch-based interactions and app-centric experiences with the smartwatch form.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678728/pixel-watch-voice-commands.html#jump">To read this article in full, please click here</a></p></section></article>
+

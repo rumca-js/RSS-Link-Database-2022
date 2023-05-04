@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Xbox Game Pass. Poznaliśmy gry, które trafią na platformę we wrześniu
  - [https://ithardware.pl/aktualnosci/xbox_game_pass_poznalismy_gry_ktore_trafia_i_opuszcza_platforme_we_wrzesniu-23151.html](https://ithardware.pl/aktualnosci/xbox_game_pass_poznalismy_gry_ktore_trafia_i_opuszcza_platforme_we_wrzesniu-23151.html)
@@ -199,3 +199,4 @@ Wykorzystanie rozpoznawania twarzy...
 
 <img src="https://ithardware.pl/artykuly/min/23127_1.jpg" />            Firma Meta została ukarana grzywną w wysokości 405 milion&oacute;w euro przez Irlandzką Komisję Ochrony Danych (DPC) za ustawienia prywatności dzieci na Instagramie, kt&oacute;re naruszać mają unijne rozporządzenie o ochronie danych (RODO). Jak...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/meta_ukarane_wysoka_grzywna_za_ustawienia_prywatnosci_dzieci_na_instagramie_rodo_wchodzi_do_gry-23127.
+

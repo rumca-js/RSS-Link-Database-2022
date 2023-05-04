@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Zełenski: W Ukrainie powstało 4 tys. "Punktów Niezłomności"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-w-ukrainie-powstalo-4-tys-punktow-niezlomnosci,nId,6427580](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-w-ukrainie-powstalo-4-tys-punktow-niezlomnosci,nId,6427580)
@@ -533,3 +533,4 @@
  - date published: 2022-11-22 05:11:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-who-o-tegorocznej-zimie-w-ukrainie-zycie-milionow-ludzi-zagr,nId,6426694"><img align="left" alt="WHO o tegorocznej zimie w Ukrainie. &quot;Życie milionów ludzi zagrożone&quot;" src="https://i.iplsc.com/who-o-tegorocznej-zimie-w-ukrainie-zycie-milionow-ludzi-zagr/000GDILTGO6P4GYG-C321.jpg" /></a>- Zimno będzie zabijać - mówił w poniedziałek w Kijowie dyrektor regionalny Światowej Organizacji Zdrowia (WHO) na Europę i przypomniał, że 10 milionów ludzi nie ma tam prądu. - Zima będzie potężnym sprawdzianem dla ukraińskiej służby zdrowia i wspierającej Ukrainę światowej społeczności. Będzie chodziło o przeżycie - dodał dr Hans Henri Kluge.</p><br clear="all" />
+

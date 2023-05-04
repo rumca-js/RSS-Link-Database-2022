@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Ronaldo odpowiedział na krytykę
  - [https://eurosport.tvn24.pl/ronaldo-odpowiedzia--na-krytyk---arsenal-pokonany-w-lidze-europy,1122856.html?source=rss](https://eurosport.tvn24.pl/ronaldo-odpowiedzia--na-krytyk---arsenal-pokonany-w-lidze-europy,1122856.html?source=rss)
@@ -191,3 +191,4 @@
 
 <img alt="Sochan rozegrał najwięcej minut w sezonie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-a281z7-jeremy-sochan-w-akcji-6181924/alternates/LANDSCAPE_1280" />
     Druga porażka Spurs.
+

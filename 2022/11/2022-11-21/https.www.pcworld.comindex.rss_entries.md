@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## This $189 Asus Chromebook is the one to buy before Black Friday
  - [https://www.pcworld.com/article/1388232/this-189-asus-chromebook-is-the-one-to-buy-before-black-friday.html](https://www.pcworld.com/article/1388232/this-189-asus-chromebook-is-the-one-to-buy-before-black-friday.html)
@@ -830,3 +830,4 @@ Monitors</div>
 
 <p>If you do manage to upgrade to Windows 10, you can relax, however: Windows 10 remains supported until Oct. 14, 2025.</p>
 Windows, Windows 10</div>
+

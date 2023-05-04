@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Krym. Ktoś podpalił pojazdy należące do rosyjskiego propagandysty Dmitrija Kisielowa
  - [https://www.polsatnews.pl/wiadomosc/2022-09-17/krym-ktos-podpalil-pojazdy-nalezace-do-rosyjskiego-propagandysty-dmitrija-kisielowa/](https://www.polsatnews.pl/wiadomosc/2022-09-17/krym-ktos-podpalil-pojazdy-nalezace-do-rosyjskiego-propagandysty-dmitrija-kisielowa/)
@@ -62,3 +62,4 @@ W rozmowie z reporterką Polsat News Agnieszką Laskowską, córka chrzestna kr�
  - date published: 2022-09-17 06:00:00+00:00
 
 Jedna z osób oczekujących w kolejce do oddania hołdu Elżbiecie II podbiegła do trumny i próbowała zdjąć z niej królewski sztandar. Policjanci natychmiast obezwładnili mężczyznę i umieścili go w areszcie. To pierwszy tego typu incydent, od kiedy trumna z ciałem monarchini została wystawiona w Westminster Hall.
+

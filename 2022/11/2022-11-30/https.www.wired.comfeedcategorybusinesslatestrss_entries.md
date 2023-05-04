@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## San Francisco's Killer Police Robots Threaten the City's Most Vulnerable
  - [https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/](https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/)
@@ -27,3 +27,4 @@ Now that live events are starting up again, here are some tips on how to get bac
  - date published: 2022-11-30 12:00:00+00:00
 
 In "listening sessions," Texas managers said employees fearful of the state’s abortion restrictions couldn't work from home or transfer to another office.
+

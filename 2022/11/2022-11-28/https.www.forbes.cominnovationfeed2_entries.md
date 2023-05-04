@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## UnitedHealth Group Revenue To Hit $360 Billion Next Year
  - [https://www.forbes.com/sites/brucejapsen/2022/11/28/unitedhealth-group-revenue-to-hit-360-billion-next-year/](https://www.forbes.com/sites/brucejapsen/2022/11/28/unitedhealth-group-revenue-to-hit-360-billion-next-year/)
@@ -636,3 +636,4 @@ Fujifilm Instax Square Link Vs Instax Share SP-3: What’s The Difference?
  - date published: 2022-11-28 00:31:59+00:00
 
 Extreme weather is making backup power more important than ever. The EcoFlow DELTA Max is a high capacity, high output battery portable power station with over a dozen power outputs including six AC outlets. It can be safely used indoors, supports fast charging, and can be charged with solar panels.
+

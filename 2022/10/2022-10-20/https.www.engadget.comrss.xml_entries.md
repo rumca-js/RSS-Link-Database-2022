@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Elon Musk reportedly wants to lay off most of Twitter's employees
  - [https://www.engadget.com/elon-musk-reportedly-wants-to-lay-off-most-of-twitters-employees-222504933.html?src=rss](https://www.engadget.com/elon-musk-reportedly-wants-to-lay-off-most-of-twitters-employees-222504933.html?src=rss)
@@ -153,3 +153,4 @@
  - date published: 2022-10-20 07:28:58+00:00
 
 <p>Google has launched <a href="https://www.engadget.com/google-news-showcase-paywall-update-181259205.html">News Showcase</a> in France, and it has <a href="https://blog.google/products/news/google-news-showcase-launching-france/">teamed up</a> with over 65 publishers representing over 130 publications for the program's expansion in the country. Now, users in France will see panels populated by articles from participating publications when they navigate to the News tab on Android, iOS or the we
+

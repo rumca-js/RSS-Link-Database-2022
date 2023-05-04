@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Medwedczuk za obrońców Azowstalu. Największa wymiana jeńców między Ukrainą a Rosją
  - [https://www.bankier.pl/wiadomosc/Medwedczuk-za-obroncow-Azowstalu-Najwieksza-wymiana-jencow-miedzy-Ukraina-a-Rosja-8409890.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Medwedczuk-za-obroncow-Azowstalu-Najwieksza-wymiana-jencow-miedzy-Ukraina-a-Rosja-8409890.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -480,3 +480,4 @@ banki tym, którzy chcieliby zaciągnąć zobowiązanie „solo” b
  - date published: 2022-09-21 01:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/a/0df006d77726f0-948-568-0-0-3500-2099.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Nie wolno nam okazywać zmęczenia wojną na Ukrainie, której globalnym skutkiem jest kryzys żywnościowy oraz widmo głodu - mówił podczas debaty generalnej 77. sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku prezydent Andrzej Duda. Podkreślał konieczność pociągnięcia Rosji do odpowi
+

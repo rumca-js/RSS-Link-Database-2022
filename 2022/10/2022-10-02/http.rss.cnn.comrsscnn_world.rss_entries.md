@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## 5 signs the world is headed for a recession
  - [https://www.cnn.com/2022/10/02/business/global-recession-fears-explained/index.html](https://www.cnn.com/2022/10/02/business/global-recession-fears-explained/index.html)
@@ -13,3 +13,4 @@ Around the world, markets are flashing warning signs that the global economy is 
  - date published: 2022-10-02 08:10:02+00:00
 
 Bosnians go to the polls on Sunday to choose the country's new collective presidency and lawmakers at national, regional and local levels, deciding between long-entrenched nationalist parties and reformists focused on the economy.
+

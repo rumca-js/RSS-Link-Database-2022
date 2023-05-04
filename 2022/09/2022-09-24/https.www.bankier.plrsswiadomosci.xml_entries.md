@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Ławrow w ONZ: doktryna nuklearna będzie miała zastosowanie do przyłączonych terytoriów
  - [https://www.bankier.pl/wiadomosc/Lawrow-w-ONZ-doktryna-nuklearna-bedzie-miala-zastosowanie-do-przylaczonych-terytoriow-8411450.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Lawrow-w-ONZ-doktryna-nuklearna-bedzie-miala-zastosowanie-do-przylaczonych-terytoriow-8411450.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -279,3 +279,4 @@ między innymi wynika, że jawne wynagrodzenia w
  - date published: 2022-09-24 03:23:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/b/0cda04e7621f06-945-560-0-263-3096-1857.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W oświadczeniu chińskiego MSZ opublikowanym po piątkowym spotkaniu szefów dyplomacji USA i Chin w Nowym Jorku podkreślono, że "problemTajwanu jest wewnętrzną sprawą Chin" a USA wysyłają w tej sprawie "bardzo złe, niebezpieczne sygnały".</p>
+

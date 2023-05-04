@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Shows like The Crown: 13 other titles to check out after season 5
  - [https://www.androidauthority.com/shows-like-the-crown-netflix-3224103/](https://www.androidauthority.com/shows-like-the-crown-netflix-3224103/)
@@ -90,3 +90,4 @@ What's wrong?! Let's find out together.
  - date published: 2022-10-25 06:17:38+00:00
 
 The Redmi Note 12 Pro Plus will have a 200MP camera when it's unveiled later this week.
+

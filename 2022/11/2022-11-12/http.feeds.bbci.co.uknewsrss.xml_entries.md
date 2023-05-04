@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Truss budget' cost £30bn and 'Rishi revives Thatcherism'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63612349?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63612349?at_medium=RSS&at_campaign=KARANGA)
@@ -363,3 +363,4 @@ Fans packed into an Atlanta stadium in a "celebration of life" ceremony for the 
  - date published: 2022-11-12 00:05:38+00:00
 
 The bells of the Elizabeth Tower will return to regular service on Remembrance Sunday.
+

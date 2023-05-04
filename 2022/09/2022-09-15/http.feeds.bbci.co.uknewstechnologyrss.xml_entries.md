@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## US school app accounts hacked to send explicit image
  - [https://www.bbc.co.uk/news/technology-62914010?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62914010?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ Staff at the Coventry warehouse are voting on whether to strike amid a row over 
  - date published: 2022-09-15 03:48:48+00:00
 
 Do Kwon is behind the Terra Luna and TerraUSD cryptocurrencies that plunged in value in May.
+

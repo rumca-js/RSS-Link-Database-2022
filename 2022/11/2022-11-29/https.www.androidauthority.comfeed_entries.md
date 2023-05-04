@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Man discovers why walking in NYC with $95,000 in iPhones is a bad idea
  - [https://www.androidauthority.com/iphone-robbery-nyc-3242476/](https://www.androidauthority.com/iphone-robbery-nyc-3242476/)
@@ -97,3 +97,4 @@ Google allegedly paid radio influencers to sing false praises of the Pixel 4 pho
  - date published: 2022-11-29 05:00:49+00:00
 
 Make the most of Garmin's powerful but often confusing companion app.
+

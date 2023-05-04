@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Intel Core i9-13900K oraz topowe płyty główne Z790 obsługują pamięci DDR5-7600 dzięki XMP 3.0
  - [https://ithardware.pl/aktualnosci/intel_core_i9_13900k_oraz_topowe_plyty_glowne_z790_obsluguja_pamieci_ddr5_7600_dzieki_xmp_3_0-23628.html](https://ithardware.pl/aktualnosci/intel_core_i9_13900k_oraz_topowe_plyty_glowne_z790_obsluguja_pamieci_ddr5_7600_dzieki_xmp_3_0-23628.html)
@@ -79,3 +79,4 @@ Użytkownik Reddita opublikował zrzut ekranu z aplikacji mobilnej YouTube w wer
 
 <img src="https://ithardware.pl/artykuly/min/23623_1.jpg" />            Do sieci trafiły wyniki test&oacute;w kart graficznych Intel Arc A770 oraz A750 w benchmarkach OpenCL oraz Vulkan. Flagowiec Niebieskich zdobył w teście Vulkan&nbsp;73536 punkt&oacute;w. Arc A750 był z kolei w stanie wykrzesać z siebie&nbsp;66609...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/karty_graficzne_intel_arc_a770_oraz_a750_zostaly_przetestowane_w_opencl_i_vulkan-23623.html">https:/
+

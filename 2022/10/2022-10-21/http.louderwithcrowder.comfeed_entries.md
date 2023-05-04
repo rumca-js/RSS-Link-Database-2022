@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Rumors claim 'Yellowstone' star Kevin Coster may be getting forced to quit iconic role, and for a dumb reason
  - [https://www.louderwithcrowder.com/kevin-costner-yellowstone-quits](https://www.louderwithcrowder.com/kevin-costner-yellowstone-quits)
@@ -48,3 +48,4 @@
  - date published: 2022-10-21 12:43:27+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31977636&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>If it's something Americans enjoy, it is something liberals hate and/or something they claim is killing the planet. We can now add having pets to the list. That's right. CNN reports if you have a dog or a cat and you feed them meat -- what with them being carnivores and not knowing what virtue signaling about being a vegan means -- you ar
+

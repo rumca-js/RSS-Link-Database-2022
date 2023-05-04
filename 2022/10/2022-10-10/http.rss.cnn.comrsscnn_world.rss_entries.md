@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## UN chief urges nations to consider deploying forces to help Haiti
  - [https://www.cnn.com/2022/10/10/americas/haiti-unrest-unsg-intl/index.html](https://www.cnn.com/2022/10/10/americas/haiti-unrest-unsg-intl/index.html)
@@ -48,3 +48,4 @@ Buddhist funeral rites have begun in the grieving town of Uthai Sawan in norther
  - date published: 2022-10-10 06:38:47+00:00
 
 North Korean state media has broken its silence over the country's recent spate of missile tests, claiming they were part of a series of simulated procedures intended to demonstrate its readiness to fire tactical nuclear warheads at potential targets in South Korea.
+

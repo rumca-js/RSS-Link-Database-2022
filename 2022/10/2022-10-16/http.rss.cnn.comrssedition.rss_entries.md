@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Trump complains American Jews don't appreciate his moves on Israel, drawing criticism
  - [https://www.cnn.com/2022/10/16/politics/trump-american-jews-israel/index.html](https://www.cnn.com/2022/10/16/politics/trump-american-jews-israel/index.html)
@@ -350,5 +350,6 @@ President Joe Biden said on Saturday the video and testimony shared at the Janua
  - [https://www.cnn.com/collections/intl-1610-russia-ukraine/](https://www.cnn.com/collections/intl-1610-russia-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-16 00:49:34+00:00
+
 
 

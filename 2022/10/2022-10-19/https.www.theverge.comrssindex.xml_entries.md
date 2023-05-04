@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## 250 million devices run Android Go — but the new version is more demanding
  - [https://www.theverge.com/2022/10/19/23413420/google-android-go-material-you-customization-250-million-users-2gb-ram](https://www.theverge.com/2022/10/19/23413420/google-android-go-material-you-customization-250-million-users-2gb-ram)
@@ -412,3 +412,4 @@
     </figure>
 
   <p id="31Om12">Logitech has released an <a href="https://www.apple.com/shop/product/HQ6Q2VC/A/logitech-crayon-for-ipad">updated version of its Crayon stylus<
+

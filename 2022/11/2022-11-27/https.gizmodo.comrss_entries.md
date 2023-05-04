@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## For Kevin Bacon, Joining the Guardians' Holiday Special Was the Easy Part
  - [https://gizmodo.com/kevin-bacon-guardians-of-the-galaxy-holiday-special-1849824716](https://gizmodo.com/kevin-bacon-guardians-of-the-galaxy-holiday-special-1849824716)
@@ -27,3 +27,4 @@
  - date published: 2022-11-27 15:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--JmWD0p04--/c_fit,fl_progressive,q_80,w_636/87d28916df4bc251274483b2560da78b.jpg" /><p>You may recall that earlier in the year, news broke of a horror movie based on <a href="https://gizmodo.com/winnie-the-pooh-blood-honey-horror-movie-reveal-1848980849"><em>Winnie the Pooh</em></a>, of all things. With the character having re-entered the public domain after Disney let the rights lapse, <a href="https://gizmodo.com/winnie-the-pooh-horror-movie-trailer-blood-and-honey-1849479054"><em>Pooh: Blood &amp; Honey</em></a><em> </em>took the children’s character and made him a serial killer, at which point the internet freaked…</p><p><a href="https://gizmodo.com/bambi-the-reckoning-horror-movie-1849824011">Read more...</a></p>
+

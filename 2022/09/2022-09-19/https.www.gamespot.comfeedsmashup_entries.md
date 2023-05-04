@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Modern Warfare 2019: 10 Things You Never Knew
  - [https://www.gamespot.com/videos/modern-warfare-2019-10-things-you-never-knew/2300-6459590/](https://www.gamespot.com/videos/modern-warfare-2019-10-things-you-never-knew/2300-6459590/)
@@ -265,3 +265,4 @@
  - date published: 2022-09-19 12:25:00+00:00
 
 <p>Yu-Gi-Oh! Duel Links fans can look forward to a new expansion based on VRAINS, which will add new monsters, spells, and several other types of card to the popular mobile game on September 28.</p><p>The sixth Yu-Gi-Oh! series, VRAINS, follows protagonist Yusaku Fujiki, a master hacker known as the "Playmaker" in the virtual world of Den City. A hacktivist who keeps the digital domain safe, Fujiki embarks on an adventure in the anime series with an advanced AI system in an effort to keep it saf
+

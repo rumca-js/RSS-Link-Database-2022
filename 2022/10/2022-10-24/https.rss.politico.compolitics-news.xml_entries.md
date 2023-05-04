@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Corporate America lobbies up in support of same-sex marriage
  - [https://www.politico.com/news/2022/10/24/corporate-america-same-sex-marriage-00063239](https://www.politico.com/news/2022/10/24/corporate-america-same-sex-marriage-00063239)
@@ -13,3 +13,4 @@ Businesses are pushing for passage of legislation to add same-sex and interracia
  - date published: 2022-10-24 03:30:00+00:00
 
 Fair Fight Action, the nonprofit founded by Abrams, paid her close friend and ally’s law firm $9.4 million in 2019 and 2020, with two more years of billing yet to be disclosed.
+

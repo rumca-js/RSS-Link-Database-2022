@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## More and more companies are now worried about open source security
  - [https://www.techradar.com/news/more-and-more-companies-are-getting-worried-about-open-source-security/](https://www.techradar.com/news/more-and-more-companies-are-getting-worried-about-open-source-security/)
@@ -237,3 +237,4 @@ Rolling out in phases, the upcoming handles are meant to increase audience engag
  - date published: 2022-10-12 04:00:17+00:00
 
 Garmin's second-gen Marq range looks super-powerful and stylish, not to mention expensive.
+

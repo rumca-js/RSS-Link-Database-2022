@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Biuro wizowe niemieckiej ambasady w Ukrainie zniszczone w wyniku ostrzału
  - [https://tvn24.pl/swiat/atak-na-kijow-biuro-wizowe-niemieckiej-ambasady-w-ukrainie-zniszczone-w-wyniku-ostrzalu-6155869?source=rss](https://tvn24.pl/swiat/atak-na-kijow-biuro-wizowe-niemieckiej-ambasady-w-ukrainie-zniszczone-w-wyniku-ostrzalu-6155869?source=rss)
@@ -31,3 +31,4 @@
 
 <img alt="Remontują XIX-wieczną kamienicę. Dawny wygląd odzyska dzięki przedwojennej fotografii " src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-54p8bb-kamienica-przy-srodkowej-przechodzi-remont-6153780/alternates/LANDSCAPE_1280" />
     Biuro Stołecznego Konserwatora Zabytków poinformowało o trwającym remoncie kamienicy przy Środkowej 16. Elewacja oraz klatki schodowe odzyskają historyczne detale. Koszt renowacji budynku wyniesie około ośmiu milionów złotych.
+

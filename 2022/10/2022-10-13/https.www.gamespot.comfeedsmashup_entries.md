@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## There's A Lot To Love About Stray Gods, A Greek Myth-Inspired Adventure Where You Influence Every Song
  - [https://www.gamespot.com/articles/theres-a-lot-to-love-about-stray-gods-a-greek-myth-inspired-adventure-where-you-influence-every-song/1100-6508283/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/theres-a-lot-to-love-about-stray-gods-a-greek-myth-inspired-adventure-where-you-influence-every-song/1100-6508283/?ftag=CAD-01-10abi2f)
@@ -363,3 +363,4 @@
  - date published: 2022-10-13 00:45:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4048021-review_overwatch2_site.jpg" width="480" /> Overwatch 2 improves upon the core gameplay and characters fans love, but loses some of its predecessor's spirit in the process.
+

@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## .ai
  - [http://www.ai?](http://www.ai?)
@@ -619,3 +619,4 @@ SELECT
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32795857">https://news.ycombinator.com/item?id=32795857</a></p>
 <p>Points: 71</p>
 <p># Comments: 56</p>
+

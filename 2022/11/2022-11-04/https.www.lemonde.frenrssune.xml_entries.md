@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## In Athens, a police station at the heart of a scandal
  - [https://www.lemonde.fr/en/international/article/2022/11/04/in-athens-a-police-station-at-the-heart-of-a-scandal_6003029_4.html](https://www.lemonde.fr/en/international/article/2022/11/04/in-athens-a-police-station-at-the-heart-of-a-scandal_6003029_4.html)
@@ -237,3 +237,4 @@ A company-wide email says Twitter employees will receive word at the start of bu
  - date published: 2022-11-04 00:52:23+00:00
 
 'Le Monde' columnist Alexandre Piquard underlines the extent to which the richest man in the world is setting a high bar by wanting to transform Twitter into a profitable, prosperous and free company.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don't Fall for These 8 Modern Thanksgiving Lies
  - [https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505](https://lifehacker.com/dont-fall-for-these-8-modern-thanksgiving-lies-1849818505)
@@ -139,3 +139,4 @@
  - date published: 2022-11-23 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--tY1Uw_cW--/c_fit,fl_progressive,q_80,w_636/c4e3f024c0446498dbcdddda78e9f066.jpg" /><p>Psychology-related words and phrases tend to creep into our everyday vocabularies. Unfortunately, many of them have been twisted in our minds, and we now use them to refer to the wrong thing—or, in some cases, science has moved on and we’re talking about something woefully outdated. Here are some of the worst…</p><p><a href="https://lifehacker.com/11-psychology-terms-youre-misusing-according-to-psycho-1849814611">Read more...</a></p>
+

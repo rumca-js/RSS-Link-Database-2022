@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Kraft Heinz CEO: Inflation and supply shortages are here to stay for a while
  - [https://www.cnn.com/2022/10/24/economy/kraft-heinz-ceo-inflation-supply-shortage/index.html](https://www.cnn.com/2022/10/24/economy/kraft-heinz-ceo-inflation-supply-shortage/index.html)
@@ -34,3 +34,4 @@ Britain's third prime minister in seven weeks will face the huge challenge of pr
  - date published: 2022-10-24 11:40:37+00:00
 
 The housing market is rapidly losing steam. Interest rates continue to rise. The stock market remains volatile. And inflation continues to be a major problem for people trying to pay their bills.
+

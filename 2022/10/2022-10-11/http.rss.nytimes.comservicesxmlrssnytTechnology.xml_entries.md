@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Amazon Labor Union, With Renewed Momentum, Faces Next Test
  - [https://www.nytimes.com/2022/10/11/business/economy/amazon-labor-union.html](https://www.nytimes.com/2022/10/11/business/economy/amazon-labor-union.html)
@@ -20,3 +20,4 @@ When the world’s richest man isn’t tweeting, he’s flying to Burning Man, t
  - date published: 2022-10-11 09:00:17+00:00
 
 A former Uber employee created an app to help drivers. The platforms that hire them are fighting back.
+

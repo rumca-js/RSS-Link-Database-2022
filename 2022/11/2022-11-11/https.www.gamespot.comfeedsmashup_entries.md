@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## How To Build A MiSTer, The Ultimate Retro Gaming Box
  - [https://www.gamespot.com/articles/how-to-build-a-mister-the-ultimate-retro-gaming-box/1100-6509064/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-build-a-mister-the-ultimate-retro-gaming-box/1100-6509064/?ftag=CAD-01-10abi2f)
@@ -69,3 +69,4 @@
  - date published: 2022-11-11 00:38:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4062048-review_tacticsogre_v2_site.jpg" width="480" /> Tactics Ogre Reborn is a superb revamp of an all-time strategy game masterpiece--though this revival is not without some small issues.
+

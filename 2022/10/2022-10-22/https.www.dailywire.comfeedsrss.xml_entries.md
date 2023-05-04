@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Gold’s Gym Owner Among 6 Presumed Dead After Private Plane Vanishes In Caribbean
  - [https://www.dailywire.com/news/golds-gym-owner-among-6-presumed-dead-after-private-plane-vanishes-in-caribbean](https://www.dailywire.com/news/golds-gym-owner-among-6-presumed-dead-after-private-plane-vanishes-in-caribbean)
@@ -125,3 +125,4 @@ A former Chinese president was booted from his seat next to current President Xi
  - date published: 2022-10-22 09:26:52+00:00
 
 Republican governors throughout the nation are rushing to assure parents that young children will not be required to get COVID vaccines despite a looming, likely CDC decision to put the jab on a list of immunizations recommended for schoolchildren. Mixed signals, panic and anger followed Thursday’s unanimous decision by the CDC’s Advisory Committee on Immunization ...
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Już nie taki gigant? Tencent traci miliardy dolarów
  - [https://ithardware.pl/aktualnosci/juz_nie_taki_gigant_tencent_traci_miliardy_dolarow-23978.html](https://ithardware.pl/aktualnosci/juz_nie_taki_gigant_tencent_traci_miliardy_dolarow-23978.html)
@@ -71,3 +71,4 @@ Można powiedzieć, że granie w chmurze dopiero...
 
 CCleaner to popularny program do czyszczenia...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/microsoft_pc_manager_to_alternatywa_dla_ccleanera_program_ma_reklamowac_przegladarke_edge-23971.html">http
+

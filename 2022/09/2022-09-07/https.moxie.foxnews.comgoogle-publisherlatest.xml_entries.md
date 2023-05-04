@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Las Vegas police release images of suspect and vehicle in investigative journalist Jeff German's murder
  - [https://www.foxnews.com/us/las-vegas-police-release-images-suspect-vehicle-investigative-journalist-jeff-german-murder](https://www.foxnews.com/us/las-vegas-police-release-images-suspect-vehicle-investigative-journalist-jeff-german-murder)
@@ -1021,3 +1021,4 @@ Victor Davis Hanson shares how the Left uses psychodramas to divert Americans fr
  - date published: 2022-09-07 04:54:40+00:00
 
 Greg Gutfeld and guests discussed findings from Danish scientists about how insults spark more brain activity than complements on "Gutfeld!"
+

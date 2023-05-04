@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Looming Oil-Supply Shock Launches Debate in OPEC
  - [https://www.wsj.com/articles/looming-oil-supply-shock-launches-debate-in-opec-11669150705](https://www.wsj.com/articles/looming-oil-supply-shock-launches-debate-in-opec-11669150705)
@@ -83,3 +83,4 @@ Search-and-rescue teams continued to find bodies under wrecked buildings, a day 
  - date published: 2022-11-22 09:41:00+00:00
 
 The meeting was the latest sign of thawing ties between the two countries after a rupture in August following a trip to Taiwan by House Speaker Nancy Pelosi.
+

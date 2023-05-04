@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Why You Need To Be Using Fake Data
  - [https://www.forbes.com/sites/waynerash/2022/11/30/why-you-need-to-be-using-fake-data/](https://www.forbes.com/sites/waynerash/2022/11/30/why-you-need-to-be-using-fake-data/)
@@ -748,3 +748,4 @@ Looking for a gift for a vinyl fan other than more records or a new turntable? T
  - date published: 2022-11-30 00:42:33+00:00
 
 This blog discusses data governance in relationship to AI readiness and highlights the World Economic Forum report's concerns about public sector readiness in AI modernization.
+

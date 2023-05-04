@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Recently released guard Joshua Primo allegedly exposed himself to women: Report
  - [https://www.foxnews.com/sports/recently-released-guard-joshua-primo-allegedly-exposed-himself-women](https://www.foxnews.com/sports/recently-released-guard-joshua-primo-allegedly-exposed-himself-women)
@@ -741,3 +741,4 @@ Shay Mooney from the country duo band Dan + Shay revealed on Instagram he lost 5
  - date published: 2022-10-29 00:01:17+00:00
 
 Former President Barack Obama is reportedly involved in a group that is interested in purchasing the Phoenix Suns from owner Robert Sarver.
+

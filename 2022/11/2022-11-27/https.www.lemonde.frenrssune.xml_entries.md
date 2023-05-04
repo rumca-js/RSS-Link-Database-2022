@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## World Cup 2022: No access to BeIN Sports streaming matches for Saudis
  - [https://www.lemonde.fr/en/football/article/2022/11/28/world-cup-2022-no-access-to-bein-sports-streaming-matches-for-saudis_6005833_130.html](https://www.lemonde.fr/en/football/article/2022/11/28/world-cup-2022-no-access-to-bein-sports-streaming-matches-for-saudis_6005833_130.html)
@@ -167,3 +167,4 @@ Bob Iger, who was previously head of the company for 15 years, has taken over as
  - date published: 2022-11-27 00:21:30+00:00
 
 300 protesters gathered on Saturday night, bringing flowers, candles, and signs reading "Urumqi, November 24, those who died rest in peace" to memorialize the 10 deaths caused by a fire in an apartment building in Xinjiang's capital city Urumqi.
+

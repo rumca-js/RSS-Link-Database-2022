@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Silent Hill 2 Remake - What Can We Expect From Bloober Team? | MindGames
  - [https://www.gamespot.com/videos/silent-hill-2-remake-what-can-we-expect-from-bloober-team-mindgames/2300-6459823/](https://www.gamespot.com/videos/silent-hill-2-remake-what-can-we-expect-from-bloober-team-mindgames/2300-6459823/)
@@ -13,3 +13,4 @@
  - date published: 2022-10-23 14:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4052053-sas-reactspt3thumb2site.jpg" width="480" /> Mark "Billy" Billingham served in the British SAS for over 17 years. He was responsible for planning and executing strategic operations across the world, and has led countless hostage rescues.
+

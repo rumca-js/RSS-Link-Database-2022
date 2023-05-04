@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Florida Medical Boards Vote To Ban Medical Transition For Minors
  - [https://www.dailywire.com/news/florida-medical-boards-vote-to-ban-medical-transition-for-minors](https://www.dailywire.com/news/florida-medical-boards-vote-to-ban-medical-transition-for-minors)
@@ -384,3 +384,4 @@ Former CNN+ host Rex Chapman, 55, admitted this week that he has a romantic crus
  - date published: 2022-11-04 07:24:40+00:00
 
 One of the world&#8217;s largest and most influential hedge funds is warning that &#8220;dishonest&#8221; policymakers have set the world on the path to potentially the worst period of hyperinflation in modern history, which could result in &#8220;societal collapse.&#8221; Elliott Management, a Florida-based firm founded by billionaire Paul Singer, said in a letter this week that ...
+

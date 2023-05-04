@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## ‘Modern Warfare II’ does ripped-from-the-headlines in the worst way
  - [https://www.washingtonpost.com/video-games/reviews/modern-warfare-2-campaign-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/modern-warfare-2-campaign-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ An otherwise enjoyable campaign is marred by questionable storytelling decisions
  - date published: 2022-10-25 07:00:41+00:00
 
 Scam listings show up on Zillow, Apartments.com, Craigslist and other listing sites. Here are the signs of a rental scam to watch out for.
+

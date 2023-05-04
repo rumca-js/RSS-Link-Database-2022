@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Play 'The Sims 4' for Free Right Now (and Forever)
  - [https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029](https://lifehacker.com/how-to-play-the-sims-4-for-free-right-now-and-forever-1849683029)
@@ -125,3 +125,4 @@
  - date published: 2022-10-20 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--kjLluRkN--/c_fit,fl_progressive,q_80,w_636/7288ebcfa1973d034db5c0d57d16de45.jpg" /><p>Sautéing vegetables is a seemingly simple act. Cut them up, put them in a hot pan, move ‘em around until they’re “done.” But there is a lot of variation from vegetable to vegetable in terms of density, water content, and starch content, just to name a few factors. Making a truly delicious pan of sautéed vegetables is…</p><p><a href="https://lifehack
+

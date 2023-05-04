@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## CNN: co najmniej 45 ofiar śmiertelnych huraganu Ian na Florydzie
  - [https://www.bankier.pl/wiadomosc/Huragan-Ian-uderzyl-w-Karoline-Poludniowa-na-Florydzie-mogl-zabic-kilkadziesiat-osob-8415442.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Huragan-Ian-uderzyl-w-Karoline-Poludniowa-na-Florydzie-mogl-zabic-kilkadziesiat-osob-8415442.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -416,3 +416,4 @@ o ile można obniżyć koszt finansowania i z jaki
  - date published: 2022-09-30 00:15:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/1/6f1aa6f786f4dc-945-560-28-0-1800-1079.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W regionie Loreto w peruwiańskiej części Amazonii rząd wprowadził na okres  90 dni stan nadzwyczajny  z powodu  wycieku  2,5 tys. baryłek ropy naftowej z Rurociągu Północnoperuwiańskiego do miejscowych rzek.</p>
+

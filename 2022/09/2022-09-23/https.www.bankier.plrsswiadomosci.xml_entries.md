@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Spór Hiszpanii i Portugalii o wodę. Madryt deklaruje, że nie wprowadzi ograniczeń
  - [https://www.bankier.pl/wiadomosc/Spor-Hiszpanii-i-Portugalii-o-wode-Madryt-deklaruje-ze-nie-wprowadzi-ograniczen-8411177.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Spor-Hiszpanii-i-Portugalii-o-wode-Madryt-deklaruje-ze-nie-wprowadzi-ograniczen-8411177.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -383,3 +383,4 @@ odczuwalnie, a niektóre instytucje gotowe są pożyczyć mniej niż w
  - date published: 2022-09-23 04:51:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/1/4063a8b8171103-948-568-0-0-1204-722.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Za sprawą niżu demograficznego w ostatniej dekadzie zwiększył się w Polsce dostęp do bezpłatnych studiów dla młodzieży z obszarów wiejskich. Miejsce zamieszkania jest jednak ciągle czynnikiem różnicującym dostęp do edukacji wyższej - informuje zespół z UMK w Toruniu.</p>
+

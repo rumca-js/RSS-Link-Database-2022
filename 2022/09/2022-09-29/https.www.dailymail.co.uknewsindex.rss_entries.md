@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Natural History Museum teams up with Amazon to answer kids' questions on Alexa
  - [https://www.dailymail.co.uk/news/article-11263315/Natural-History-Museum-teams-Amazon-answer-kids-questions-Alexa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11263315/Natural-History-Museum-teams-Amazon-answer-kids-questions-Alexa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1700,3 +1700,4 @@ The Duke of Gloucester, a first cousin of the late Queen Elizabeth, is selling h
  - date published: 2022-09-29 00:07:18+00:00
 
 The Opposition Leader praised a Labour council's green energy housing scheme in West Yorkshire to cut fuel bills in his conference speech - but failed to mention the eye-watering cost.
+

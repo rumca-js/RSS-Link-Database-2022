@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Do Laundry Without Irritating Your Skin (Besides Switching Detergents)
  - [https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954](https://lifehacker.com/how-to-do-laundry-without-irritating-your-skin-besides-1849546954)
@@ -20,3 +20,4 @@
  - date published: 2022-09-17 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s---CUci-di--/c_fit,fl_progressive,q_80,w_636/c1d44db1a4618c4264af8838aa43dc71.jpg" /><p>So far, 2022 has been tough on homebuyers. The lack of available housing has sent the prices of the homes that do come on the market soaring. Even traditionally affordable cities and neighborhoods are now out of reach for many people. In fact, the <a href="https://www.realtor.com/news/trends/the-very-best-time-of-the-year-to-get-a-new-house/" rel="n
+

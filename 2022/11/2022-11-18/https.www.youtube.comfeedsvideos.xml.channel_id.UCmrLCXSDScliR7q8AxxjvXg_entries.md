@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## RexCast #32 ┃SIX CENTERS OF POWER
  - [https://www.youtube.com/watch?v=nsO_4ui6POE](https://www.youtube.com/watch?v=nsO_4ui6POE)
@@ -126,3 +126,4 @@ http://www.digitaljuice.com/Intl
 -------------------------------
 
 #FelixRex #poland #nato
+

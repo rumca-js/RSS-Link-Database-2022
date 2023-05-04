@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Becoming Brother To The Snake’: Woody Harrelson Outs The Actor Who Drank Cobra Blood With Him
  - [https://www.dailywire.com/news/becoming-brother-to-the-snake-woody-harrelson-outs-the-actor-who-drank-cobra-blood-with-him](https://www.dailywire.com/news/becoming-brother-to-the-snake-woody-harrelson-outs-the-actor-who-drank-cobra-blood-with-him)
@@ -342,3 +342,4 @@ A moment from the 2020 thriller “The Boy Behind the Door” speaks volumes abo
  - date published: 2022-11-21 09:14:45+00:00
 
 Disney fired CEO Bob Chapek in a dramatic development Sunday, bringing back its former boss and ending a disastrous tenure that saw the entertainment giant become a value-hemorrhaging caricature of wokeness. The company installed 71-year-old Bob Iger, who retired as CEO a year ago after a 15-year successful run, to his old post. Iger had ...
+

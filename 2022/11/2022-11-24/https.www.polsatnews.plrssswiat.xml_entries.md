@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. Jechał pod prąd z dużą prędkością. Tragiczny wypadek w Chicago
  - [https://www.polsatnews.pl/wiadomosc/2022-11-24/usa-jechal-pod-prad-z-duza-predkoscia-tragiczny-wypadek-w-chicago/](https://www.polsatnews.pl/wiadomosc/2022-11-24/usa-jechal-pod-prad-z-duza-predkoscia-tragiczny-wypadek-w-chicago/)
@@ -118,3 +118,4 @@ Johnny Depp powróci jako kapitan Jack Sparrow? Słynny hollywoodzki aktor ma wr
  - date published: 2022-11-24 05:21:00+00:00
 
 MAEA po raz drugi w tym tygodniu wypowiedziała się na temat niepewnej sytuacji Zaporoskiej Elektrowni Jądrowej. W środę obiekt przeszedł w tryb pełnego zaciemnienia. Rosja jest skłonna zwiększyć ryzyko incydentu dotyczącego bezpieczeństwa nuklearnego - zaznaczyła z kolei rzeczniczka Rady Bezpieczeństwa Narodowego przy Białym Domu Adrienne Watson.
+

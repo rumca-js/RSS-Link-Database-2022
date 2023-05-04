@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. Ukraińcy zestrzelili rosyjski samolot wielozadaniowy Su-34
  - [https://www.polsatnews.pl/wiadomosc/2022-09-24/wojna-w-ukrainie-ukrainscy-zestrzelili-rosyjski-samolot-wielozadaniowy-su-34/](https://www.polsatnews.pl/wiadomosc/2022-09-24/wojna-w-ukrainie-ukrainscy-zestrzelili-rosyjski-samolot-wielozadaniowy-su-34/)
@@ -69,3 +69,4 @@ Skazany w Rosji za kanibalizm Igor Komarow został zwerbowany przez najemników 
  - date published: 2022-09-24 04:01:00+00:00
 
 Roger Federer zagrał swój ostatni mecz tenisa w piątek przed północą. Spotkanie podczas londyńskiego turnieju Laver Cup w deblu zakończyło się porażką dla odchodzącej legendy, co nie przyćmiło hucznego pożegnania legendy tenisa.
+

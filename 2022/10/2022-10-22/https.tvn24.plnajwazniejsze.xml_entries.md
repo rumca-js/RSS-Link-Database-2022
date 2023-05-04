@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zmarł właściciel teamu Red Bull. Smutna wiadomość przed kwalifikacjami F1
  - [https://eurosport.tvn24.pl/zmar--dietrich-mateschitz--smutna-wiadomo---przed-kwalifikacjami-formu-y-1,1122351.html?source=rss](https://eurosport.tvn24.pl/zmar--dietrich-mateschitz--smutna-wiadomo---przed-kwalifikacjami-formu-y-1,1122351.html?source=rss)
@@ -279,3 +279,4 @@
 
 <img alt="Co nas czeka zimą? " src="https://tvn24.pl/najnowsze/cdn-zdjecie-7ffqm1-piaseczno-drastycznie-wrosnie-cena-oplat-za-miejskie-ogrzewanie-zdj-ilustracyjne-6062448/alternates/LANDSCAPE_1280" />
     O widmie kryzysu energetycznego i nadchodzącej zimie Jan Niedziałek rozmawiał z Rafałem Zasuniem.
+

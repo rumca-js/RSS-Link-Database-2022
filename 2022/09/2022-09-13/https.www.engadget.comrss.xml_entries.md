@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## 'Rise of the Ronin' is a historical action RPG from the team behind 'Nioh'
  - [https://www.engadget.com/team-ninja-rise-of-the-ronin-225837768.html?src=rss](https://www.engadget.com/team-ninja-rise-of-the-ronin-225837768.html?src=rss)
@@ -174,3 +174,4 @@
  - date published: 2022-09-13 00:31:10+00:00
 
 <p>The leaders of the Senate Judiciary Committee are pushing Twitter’s CEO Parag Agrawal to address allegations made by the company’s former head of security in a lengthy whistleblower complaint. In a new letter to Agrawal reported <a href="https://www.cnn.com/2022/09/12/tech/twitter-ceo-senate-judiciary-letter/index.html"><ins>by </ins><em><ins>CNN</ins></em></a>, the leaders of the committee pressed the CEO to address claims that Twitter’s security practices could harm <a href="https://www.eng
+

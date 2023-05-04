@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## ServiceNow gets a lot more specific with its workflows
  - [https://www.zdnet.com/article/servicenow-gets-a-lot-more-specific-with-its-workflows/#ftag=RSSbaffb68](https://www.zdnet.com/article/servicenow-gets-a-lot-more-specific-with-its-workflows/#ftag=RSSbaffb68)
@@ -139,3 +139,4 @@ Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, th
  - date published: 2022-09-21 07:36:16+00:00
 
 Hybrid work practices may offer more flexibility, but 54% of Singapore workers say there are fewer opportunities to build rapport via remote meetings and 56% cite connectivity issues as a top challenge.
+

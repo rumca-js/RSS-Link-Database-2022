@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Islamic State Says Leader Has Been Killed
  - [https://www.wsj.com/articles/islamic-state-leader-is-killed-in-fighting-terrorist-group-says-11669834649](https://www.wsj.com/articles/islamic-state-leader-is-killed-in-fighting-terrorist-group-says-11669834649)
@@ -83,3 +83,4 @@ Jiang Zemin, the former Chinese leader who presided over market-oriented changes
  - date published: 2022-11-30 06:04:00+00:00
 
 Surveys point to a broad pullback in activity as authorities wrestle with rising cases and protests.
+

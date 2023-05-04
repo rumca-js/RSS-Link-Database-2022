@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Apple Arcade’s ‘Cooking Mama: Cuisine!’ is equal parts stressful and cute
  - [https://www.washingtonpost.com/video-games/2022/09/05/apple-arcade-cooking-mama-cuisine/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/05/apple-arcade-cooking-mama-cuisine/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@
  - date published: 2022-09-05 06:00:09+00:00
 
 The people who work in Google's famous cafeterias are contract workers, excluded from the tech giant’s high wages and benefits. Over the past few years, 4,000 of them quietly unionized.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The new Super Mario Bros. trailer is a peach
  - [https://www.theverge.com/2022/11/29/23484511/super-mario-bros-movie-trailer-princess-peach](https://www.theverge.com/2022/11/29/23484511/super-mario-bros-movie-trailer-princess-peach)
@@ -437,3 +437,4 @@
   <p>
     <a href="https://www.theverge.com/23483096/cyber-monday-2022-lego-deals-best-prices">Continue reading&hellip;</a>
   </p>
+

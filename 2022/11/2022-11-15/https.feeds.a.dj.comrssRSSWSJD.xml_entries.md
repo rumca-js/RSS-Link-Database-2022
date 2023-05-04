@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## People Are Leaving Twitter for...the Matt Hancock App?
  - [https://www.wsj.com/articles/twitter-migration-matt-hancock-app-11668526462?mod=rss_Technology](https://www.wsj.com/articles/twitter-migration-matt-hancock-app-11668526462?mod=rss_Technology)
@@ -90,3 +90,4 @@ The market for cyber insurance has begun to stabilize after a surge in ransomwar
  - date published: 2022-11-15 10:30:00+00:00
 
 The big technology companies that long drove U.S. office demand are shedding workspaces in San Francisco and beyond.
+

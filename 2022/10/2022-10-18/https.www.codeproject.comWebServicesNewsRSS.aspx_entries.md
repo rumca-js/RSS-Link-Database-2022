@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A Pure CSS Gallery Focus Effect with :not
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59222](https://www.codeproject.com/script/News/View.aspx?nwid=59222)
@@ -111,3 +111,4 @@ No 'all of the above'?
  - date published: 2022-10-18 04:00:00+00:00
 
 VMware Labs’ mod_wasm is an extension module for the Apache HTTP Server that serves WebAssembly binaries as endpoints.
+

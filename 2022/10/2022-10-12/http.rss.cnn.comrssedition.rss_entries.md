@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## FBI was told Trump directed boxes to be moved at Mar-a-Lago after subpoena served
  - [https://www.cnn.com/2022/10/12/politics/trump-employee-fbi-mar-a-lago-boxes/index.html](https://www.cnn.com/2022/10/12/politics/trump-employee-fbi-mar-a-lago-boxes/index.html)
@@ -487,5 +487,6 @@ Auto shop owner, Cleveland Shinn, spent months transforming a 1978 GMC Sierra by
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-11-22/h_2dd66c568aed4a870869a3474dd91275](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-11-22/h_2dd66c568aed4a870869a3474dd91275)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-12 01:02:32.765891+00:00
+
 
 

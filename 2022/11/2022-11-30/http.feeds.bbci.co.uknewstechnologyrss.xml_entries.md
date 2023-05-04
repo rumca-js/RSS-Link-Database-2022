@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## EU tells Elon Musk 'huge work ahead' for Twitter
  - [https://www.bbc.co.uk/news/business-63816110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63816110?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Twitter risks a ban if it is not in compliance with EU rules on targeted adverts
  - date published: 2022-11-30 20:09:40+00:00
 
 The agreement is expected to improve cooperation on cyber security, AI and new technologies.
+

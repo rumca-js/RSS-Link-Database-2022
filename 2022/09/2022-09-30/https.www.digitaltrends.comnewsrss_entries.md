@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Want a 72% GPU boost for free? AMD just delivered one — here’s how to get it
  - [https://www.digitaltrends.com/computing/amd-delivers-72-percent-gpu-boost/](https://www.digitaltrends.com/computing/amd-delivers-72-percent-gpu-boost/)
@@ -27,3 +27,4 @@ A dangerous hacking tool has just been cracked and is now spreading quickly, pot
  - date published: 2022-09-30 06:30:21.930328+00:00
 
 Intel has unveiled the official pricing and specs for the two top Arc Alchemist GPUs, the Arc A770 and the Arc A750.
+

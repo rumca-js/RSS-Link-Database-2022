@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## World Cup: Benzema leaves training session injured
  - [https://www.lemonde.fr/en/france/article/2022/11/19/world-cup-benzema-leaves-training-session-injured_6004917_7.html](https://www.lemonde.fr/en/france/article/2022/11/19/world-cup-benzema-leaves-training-session-injured_6004917_7.html)
@@ -154,3 +154,4 @@ Among Eastern European filmmakers the crimes of the past – which are most ofte
  - date published: 2022-11-19 02:53:12+00:00
 
 The legalization of abortion up to 14 weeks into pregnancy was voted on in March 2022. But there are still many obstacles to its implementation, including doctors' moral convictions and a lack of care centers.
+

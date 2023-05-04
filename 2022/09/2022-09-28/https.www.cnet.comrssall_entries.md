@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'House of the Dragon': Laena Velaryon's Shocking Decision Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained-hbo/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained-hbo/#ftag=CADf328eec)
@@ -1070,3 +1070,4 @@ The updated Super Duty brings bolder styling and new towing tech.
  - date published: 2022-09-28 00:15:39+00:00
 
 The next-gen Super Duty also has new engines and a nicer interior.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Indian Bridge Collapse Casts Harsh Spotlight on Safety Practices
  - [https://www.wsj.com/articles/indian-bridge-collapse-casts-harsh-spotlight-on-safety-practices-11667750104](https://www.wsj.com/articles/indian-bridge-collapse-casts-harsh-spotlight-on-safety-practices-11667750104)
@@ -41,3 +41,4 @@ Washington and its allies see little prospect of a negotiated end to the war in 
  - date published: 2022-11-06 10:30:00+00:00
 
 Geopolitical and economic upheaval has stalled progress and led to backsliding by some measures over the past year, but countries are spending more to address climate change.
+

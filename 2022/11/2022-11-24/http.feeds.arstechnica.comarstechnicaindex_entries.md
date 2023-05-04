@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Oxford scientists crack case of why ketchup splatters from near-empty bottle
  - [https://arstechnica.com/?p=1899879](https://arstechnica.com/?p=1899879)
@@ -13,3 +13,4 @@ Squeezing more slowly and doubling diameter of the nozzle can help prevent splat
  - date published: 2022-11-24 01:05:09+00:00
 
 Any federal action could easily push deal past crucial July 2023 deadline.
+

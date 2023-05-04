@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Podcast: Eye on Apple Watch
  - [https://www.computerworld.com/article/3675960/podcast-eye-on-apple-watch.html#tk.rss_all](https://www.computerworld.com/article/3675960/podcast-eye-on-apple-watch.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>“You have zero privacy anyway. Get over it,” Scott McNealy said of online privacy back in 1999, a view the former CEO of the now-defunct Sun Microsystems <a href="https://www.computerworld.com/article/2941019/scott-mcnealys-view-on-privacy-you-still-dont-have-any.html">reiterated in 2015</a>. Despite the hue and cry his initial remarks caused, he’s been proven largely correct.</p><p>Cookies, beacons, digital signatures, trackers, and other technologies on web
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## At least 21 dead after fire breaks out in Gaza residential building, says Interior Ministry
  - [https://www.cnn.com/2022/11/17/middleeast/gaza-fire-building-refugee-camp-intl/index.html](https://www.cnn.com/2022/11/17/middleeast/gaza-fire-building-refugee-camp-intl/index.html)
@@ -76,3 +76,4 @@ The UK government has ordered a Chinese-owned company to unwind its takeover of 
  - date published: 2022-11-17 02:49:38+00:00
 
 North Korea fired one short-range ballistic missile into waters off the east coast of the Korean Peninsula on Thursday, according to South Korean military officials.
+

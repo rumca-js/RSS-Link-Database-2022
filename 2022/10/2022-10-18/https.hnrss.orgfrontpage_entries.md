@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## A Vision of Metascience
  - [https://scienceplusplus.org/metascience/](https://scienceplusplus.org/metascience/)
@@ -737,3 +737,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33241888">https://news.ycombinator.com/item?id=33241888</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 6 Ways to blow a job interview without realizing it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59109](https://www.codeproject.com/script/News/View.aspx?nwid=59109)
@@ -139,3 +139,4 @@ Despite the duopoly of the current app marketplace, businesses should not be mai
  - date published: 2022-10-06 04:00:00+00:00
 
 XAML platforms, from WPF and Silverlight to Uno and WinUI, support the MVVM pattern by separating the View described declaratively in a XML dialect with the application logic in code.
+

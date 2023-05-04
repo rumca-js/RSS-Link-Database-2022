@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## New Avatar: The Way Of Water Posters Highlight Returning And New Characters
  - [https://www.gamespot.com/articles/new-avatar-the-way-of-water-posters-highlight-returning-and-new-characters/1100-6509432/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-avatar-the-way-of-water-posters-highlight-returning-and-new-characters/1100-6509432/?ftag=CAD-01-10abi2f)
@@ -489,3 +489,4 @@
  - date published: 2022-11-22 06:29:00+00:00
 
 <p><a href="https://www.gamespot.com/games/nintendo-switch-sports/">Nintendo Switch Sports</a> is getting its first new sport since the game released in April this year--golf. With 21 holes taken from previous Wii Sports title, the free update will let fans play a casual game of golf with friends online or offline, as well as a competitive knock-out mode called Survival Golf.</p><p>The golf update for Nintendo Swift Sports will be free for all players who already own the game, dropping on November 28.</p><div>          </div><p>While the update's 21 holes are taken from previous games in the Wii Sports series--of which Nintendo Switch Sports is the first not to have "Wii" in the title--the eight-player online Survival Golf mode is brand new.</p><a href="https://www.gamespot.com/articles/nintendo-switch-sports-free-golf-update-arrives-on-november-28/1100-6509377/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

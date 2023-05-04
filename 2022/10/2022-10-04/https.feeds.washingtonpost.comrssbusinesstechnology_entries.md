@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Facebook closes down service it hoped would compete with Substack
  - [https://www.washingtonpost.com/technology/2022/10/04/facebook-bulletin-newsletter-close/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/04/facebook-bulletin-newsletter-close/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Sandberg's announcement of her donation to the ACLU to fight abortion bans comes
  - date published: 2022-10-04 07:00:58+00:00
 
 Apple has crammed even more sensors into its new Watch 8 series, all in the hopes of offering a more complete picture of your health. Are they worth it?
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Gdańsk. 76-latka ukradła trzy wibratory. Nie potrafiła wyjaśnić, dlaczego
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28893139,gdansk-76-latka-urkadla-trzy-wibratory-nie-potrafila-wyjasnic.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28893139,gdansk-76-latka-urkadla-trzy-wibratory-nie-potrafila-wyjasnic.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -83,3 +83,4 @@
  - date published: 2022-09-10 07:31:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/92/8d/1b/z28892050M,Pogoda-na-dzis---sobota-10-wrzesnia.jpg" vspace="2" />W weekend w całym kraju zapowiadane są opady. Najwięcej deszczu spadnie we wschodniej i południowo-wschodniej Polsce - tam synoptycy IMGW prognozują sumę opadów wynoszącą do 30-40 litrów wody na metr kwadratowy.
+

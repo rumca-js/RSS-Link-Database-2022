@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Thawing permafrost exposes old pathogens—and new hosts
  - [https://arstechnica.com/?p=1893872](https://arstechnica.com/?p=1893872)
@@ -6,3 +6,4 @@
  - date published: 2022-10-30 10:50:48+00:00
 
 Climate change could unearth frozen viruses and transport them elsewhere.
+

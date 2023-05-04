@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Andor Season 2 Will Head To Yavin, Creator Says
  - [https://www.gamespot.com/articles/andor-season-2-will-head-to-yavin-creator-says/1100-6508936/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/andor-season-2-will-head-to-yavin-creator-says/1100-6508936/?ftag=CAD-01-10abi2f)
@@ -349,3 +349,4 @@
  - date published: 2022-11-04 00:34:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4058600-introducingamdradeon%E2%84%A2rx7900xtx.mp4.00_00_49_30.still001.jpg" width="480" /> Introducing the AMD Radeon RX 7900 XTX; The Most Advanced Graphics for Gamers &amp; Creators.
+

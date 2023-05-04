@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Lab That Created Risky Avian Flu Had “Unacceptable” Biosafety Protocols
  - [https://theintercept.com/2022/11/01/biosafety-avian-flu/](https://theintercept.com/2022/11/01/biosafety-avian-flu/)
@@ -31,3 +31,4 @@
 
 <p>Internal polls show the race for the deep-blue seat tightening. The GOP and AIPAC are going for the jugular.</p>
 <p>The post <a href="https://theintercept.com/2022/10/31/aipac-attack-ad-summer-lee/" rel="nofollow">AIPAC&#8217;s First Attack Ad in Midterms Hits Would-Be Squad Member Summer Lee</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Apple Is A Favorite For NFL Sunday Ticket, But Could YouTube TV Snag The Victory In The Last Minute?
  - [https://www.forbes.com/sites/johanmoreno/2022/11/26/apple-is-a-favorite-for-nfl-sunday-ticket-but-could-youtube-tv-snag-the-victory-in-the-last-minute/](https://www.forbes.com/sites/johanmoreno/2022/11/26/apple-is-a-favorite-for-nfl-sunday-ticket-but-could-youtube-tv-snag-the-victory-in-the-last-minute/)
@@ -153,3 +153,4 @@ How to solve today's Wordle.
  - date published: 2022-11-26 01:00:41+00:00
 
 Some hints and the solution for today's 'Quordle' are just ahead.
+

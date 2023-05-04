@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Kielce. Tragedia na strzelnicy. Nie żyje 22-latek. Mężczyzna miał się postrzelić
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29158062,kielce-tragedia-na-strzelnicy-nie-zyje-22-latek-mezczyzna.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29158062,kielce-tragedia-na-strzelnicy-nie-zyje-22-latek-mezczyzna.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -174,3 +174,4 @@
  - date published: 2022-11-18 05:59:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/62/cd/1b/z29153890M,W-Polsce-spadl-snieg---prognoza-pogody-na-godzine-.jpg" vspace="2" />Tak, to już ten czas w roku - w Polsce spadł śnieg. Na razie m.in. w Krakowie i Gdańsku, ale przymrozki ścisną w wielu regionach kraju - szykujmy się na temperaturę na minusie. Pokazujemy prognozę pogody.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Giant cat spotted in West Australian town Lancelin with CCTV owner labelling it a cougar
  - [https://www.dailymail.co.uk/news/article-11297497/Giant-cat-spotted-West-Australian-town-Lancelin-CCTV-owner-labelling-cougar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11297497/Giant-cat-spotted-West-Australian-town-Lancelin-CCTV-owner-labelling-cougar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1161,3 +1161,4 @@ The RAF C-17 Globemaster carried 35,000lb of highly explosive warheads to an uni
  - date published: 2022-10-09 00:01:01+00:00
 
 Mel B had to call in police when Whatsapp hackers who sent her family and celebrity friends fake cryptocurrency donation requests left her feeling 'violated'.
+

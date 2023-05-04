@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Lufthansa Says Apple AirTags Are Once Again Allowed in Checked Bags
  - [https://www.nytimes.com/2022/10/12/travel/lufthansa-apple-airtags-luggage.html](https://www.nytimes.com/2022/10/12/travel/lufthansa-apple-airtags-luggage.html)
@@ -41,3 +41,4 @@ More multilingual fact-checking groups are pushing back against misleading trans
  - date published: 2022-10-12 09:00:31+00:00
 
 Companies like Ultima Genomics say they have the technology, which could lead to medical breakthroughs. But similar promises in the past have fizzled and barriers remain.
+

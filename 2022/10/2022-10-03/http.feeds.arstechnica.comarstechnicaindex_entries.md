@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Walmart, CVS face trial for putting sham homeopathic products next to real meds
  - [https://arstechnica.com/?p=1886578](https://arstechnica.com/?p=1886578)
@@ -104,3 +104,4 @@ Solving the information paradox could unlock quantum gravity and unification of 
  - date published: 2022-10-03 13:09:22+00:00
 
 "Firefly is at the point where the only thing holding them back is execution."
+

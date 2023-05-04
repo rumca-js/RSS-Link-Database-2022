@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Sony dashes fans hopes and confirms PSVR 2 won’t be backwards compatible
  - [https://www.androidauthority.com/psvr2-no-backward-compatibility-3209914/](https://www.androidauthority.com/psvr2-no-backward-compatibility-3209914/)
@@ -76,3 +76,4 @@ Bad news for folks who like to snoop around on other people's phones.
  - date published: 2022-09-16 07:25:56+00:00
 
 Copying features is a two-way street between Apple and Android OEMs.
+

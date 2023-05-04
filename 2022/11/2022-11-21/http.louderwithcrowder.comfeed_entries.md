@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Former Mumford & Sons guitarist explains what he learned from apologizing to an outrage mob: Don't do it
  - [https://www.louderwithcrowder.com/brandon-marshall-apology-glenn-beck](https://www.louderwithcrowder.com/brandon-marshall-apology-glenn-beck)
@@ -198,3 +198,4 @@
 <a href="https://youtu.be/VnF6h7sxWBg" target="_blank">youtu.be</a>
 </small>
 </p>
+

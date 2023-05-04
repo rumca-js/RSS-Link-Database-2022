@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The case of the murdered mummies: “virtual autopsy” reveals fatal injuries
  - [https://arstechnica.com/?p=1880352](https://arstechnica.com/?p=1880352)
@@ -111,3 +111,4 @@ Six different approaches—with pros and cons—for getting to a 100% carbon-fre
  - date published: 2022-09-22 12:00:11+00:00
 
 New version of support hardware can keep homes solar powered during outages.
+

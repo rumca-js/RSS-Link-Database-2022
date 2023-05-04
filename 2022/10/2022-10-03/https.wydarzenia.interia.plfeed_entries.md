@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Włochy. Zajęto wille rosyjskiego oligarchy. To człowiek z otoczenia Putina
  - [https://wydarzenia.interia.pl/zagranica/news-wlochy-zajeto-wille-rosyjskiego-oligarchy-to-czlowiek-z-otoc,nId,6324712](https://wydarzenia.interia.pl/zagranica/news-wlochy-zajeto-wille-rosyjskiego-oligarchy-to-czlowiek-z-otoc,nId,6324712)
@@ -238,3 +238,4 @@ tyle samo zapłacą za energię w roku
  - date published: 2022-10-03 03:35:40+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-222-dzien-inwazji-rosji-relacja-na-zywo,nzId,3115,akt,030853"><img align="left" alt="Wojna w Ukrainie. 222. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-222-dzien-inwazji-rosji-relacja-na-zywo/000G5DXNJML2KOOE-C321.jpg" /></a>Zapraszamy do śledzenia relacji na żywo. Przekazujemy najnowsze informacje z frontu.</p><br clear="all" />
+

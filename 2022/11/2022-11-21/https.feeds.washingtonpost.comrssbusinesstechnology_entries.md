@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## ‘The Devil in Me’ feels like a dead end for The Dark Pictures Anthology
  - [https://www.washingtonpost.com/video-games/reviews/the-dark-pictures-anthology-the-devil-in-me-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/the-dark-pictures-anthology-the-devil-in-me-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Victims said customer support does next to nothing as users lose time and money.
  - date published: 2022-11-21 06:00:00+00:00
 
 At the 2022 World Cup, everything from stadium temperatures to the soccer balls are run on sensors and algorithms.
+

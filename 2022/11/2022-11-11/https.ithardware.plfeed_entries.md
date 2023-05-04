@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## YouTube Premium i Music zyskały w rok 30 mln abonentów
  - [https://ithardware.pl/aktualnosci/youtube_premium_i_music_zyskaly_w_rok_30_mln_abonentow-24310.html](https://ithardware.pl/aktualnosci/youtube_premium_i_music_zyskaly_w_rok_30_mln_abonentow-24310.html)
@@ -32,7 +32,6 @@ Control 2 trafi na PC, PlayStation 5 i Xbox Series X/S. Gra ominie...
  - [https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html](https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-11-11 17:30:00+00:00
- - tags: ad business,windows 11,microsoft
 
 <img src="https://ithardware.pl/artykuly/min/24307_1.jpg" />            Microsoft wyświetla reklamy w Microsoft Store i planuje umieścić je w kolejnych miejscach systemu operacyjnego Windows 11. Firma prowadzi już nawet testy.
 
@@ -86,3 +85,4 @@ Chociaż ceny kart graficznych bazujących na układzie GeForce RTX 4090 są bar
 
 Netflix zapowiedział, że&nbsp;Dragon Age: Rozgrzeszenie ukaże się 9 grudnia....
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/dragon_age_rozgrzeszenie_pojawi_sie_na_netflixie_jeszcze_w_2022_roku-24303.html">https://ithardware.pl/aktualnosci/dragon_age_rozgrzeszenie_pojawi_sie_na_netflixie_jeszcze_w_2022_roku-24303.html</a></p>
+

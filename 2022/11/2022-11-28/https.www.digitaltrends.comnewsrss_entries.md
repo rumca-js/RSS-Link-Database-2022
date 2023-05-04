@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Gigabyte may have accidentally leaked Nvidia’s plans for the RTX 4080 12GB
  - [https://www.digitaltrends.com/computing/gigabyte-is-preparing-amd-and-nvidia-gpus/](https://www.digitaltrends.com/computing/gigabyte-is-preparing-amd-and-nvidia-gpus/)
@@ -6,3 +6,4 @@
  - date published: 2022-11-28 19:58:53.957213+00:00
 
 Gigabyte has just inadvertently confirmed Nvidia's plans for its next GPU. It also has some AMD cards in the works.
+

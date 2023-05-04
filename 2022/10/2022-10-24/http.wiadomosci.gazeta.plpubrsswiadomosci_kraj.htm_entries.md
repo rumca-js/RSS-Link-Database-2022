@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Jan Duda pozostaje na stanowisku przewodniczącego Sejmiku. "Sejmik już nie jest wojewódzki"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29063835,jan-duda-pozostaje-na-stanowisku-przewodniczacego-sejmiku-sejmik.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29063835,jan-duda-pozostaje-na-stanowisku-przewodniczacego-sejmiku-sejmik.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-10-24 06:24:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/59/b6/1b/z29060953M,Zachodniopomorskie--Znaleziono-martwego-zubra--czw.jpg" vspace="2" />Na terenie Nadleśnictwa Świerczyna w województwie zachodniopomorskim w niedzielę znaleziono zastrzeloną samicę żubra. Zwierzę zabił myśliwy. To już czwarty przypadek w tym województwie w ostatnich dwóch miesiącach.
+

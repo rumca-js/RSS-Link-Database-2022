@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How Rent-to-Own Can Scam You Out of Your Money and Time
  - [https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724](https://lifehacker.com/how-rent-to-own-can-scam-you-out-of-your-money-and-time-1849678724)
@@ -118,3 +118,4 @@
  - date published: 2022-10-19 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--LW2JBcSW--/c_fit,fl_progressive,q_80,w_636/2c46646297dafc0bf37d6886ad173932.jpg" /><p>An insurance policy for your home doesn’t just pay for necessary repairs when disaster strikes, it also can protect you in case of an accident on your property, such as a slip and fall. Peace of mind for major repairs and bad accidents is important—but there are some things you might be doing that can void your…</p><p><a href="https://lifehacker.com
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## The Division Heartland Gets Rating From ESRB, Suggesting Release Is Coming Up Soon
  - [https://www.gamespot.com/articles/the-division-heartland-gets-rating-from-esrb-suggesting-release-is-coming-up-soon/1100-6509262/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-division-heartland-gets-rating-from-esrb-suggesting-release-is-coming-up-soon/1100-6509262/?ftag=CAD-01-10abi2f)
@@ -349,3 +349,4 @@
  - date published: 2022-11-17 05:00:00+00:00
 
 <p>Who doesn't enjoy a little Thursday <a href="https://www.gamespot.com/games/wordle/">Wordle</a> action every now and again? We're back with another edition of our Wordle guides, this time on November 17. The word today is a little tricky, even though it's an extremely common word that gets used thousands of times in everyday life.</p><p>If you haven't started the Wordle just yet, then you can check out our list of recommended <a href="https://www.gamespot.com/articles/wordle-best-starting-words-to-use-and-other-game-tips/1100-6499460/">starting words</a>. However, if you're already past the starting point, then you're likely looking for some hints. Luckily, we provide just that further down in this guide. We will also spell out the full answer for players looking to simply get out of today unscathed.</p><h2>Today's Wordle Answer - November 17, 2022</h2><p>We'll begin with a few hints that directly relate to today's Wordle answer, but don't give it away immediately.</p><a href="https://www.gamespot.com/articles/todays-wordle-answer-516-november-17-2022/1100-6509213/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

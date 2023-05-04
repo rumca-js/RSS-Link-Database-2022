@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Two Sisters Survived Auschwitz Together, Moved To America To Fulfill Father’s Dream. They Died Days Apart In Alabama.
  - [https://www.dailywire.com/news/two-sisters-survived-auschwitz-together-moved-to-america-to-fulfill-fathers-dream-they-died-days-apart-in-alabama](https://www.dailywire.com/news/two-sisters-survived-auschwitz-together-moved-to-america-to-fulfill-fathers-dream-they-died-days-apart-in-alabama)
@@ -468,3 +468,4 @@ Former Trump strategist Steve Bannon is expected to turn himself in this week af
  - date published: 2022-09-07 07:36:02+00:00
 
 The editorial board of one of Pennsylvania&#8217;s largest newspapers this week slammed Democrat U.S. Senate candidate John Fetterman’s attempts to get out of debating his opponent, Republican U.S. Senate candidate Dr. Mehmet Oz, following his stroke earlier this year, saying that his excuses “won&#8217;t cut it” with voters. The Pittsburgh Post-Gazette&#8217;s Editorial Board attempted to ...
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Discover Hundreds of Amazon RDS Instances Leaking Users' Personal Data
  - [https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html](https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html)
@@ -33,3 +33,4 @@ Cybersecurity researchers have unearthed new samples of malware called RapperBot
 Internet behemoth Google on Tuesday said it plans to roll out Privacy Sandbox for Android in beta to mobile devices running Android 13 starting early next year.
 "The Privacy Sandbox Beta will be available for ad tech and app developers who wish to test the ads-related APIs as part of their solutions," the company said.
 To that end, developers will need to complete an enrollment process in order
+

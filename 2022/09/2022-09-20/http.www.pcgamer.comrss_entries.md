@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Twitch promises to ban streams of unlicensed gambling sites
  - [https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites](https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites)
@@ -272,3 +272,4 @@ Apparently a crypto giveaway isn't enough of a red flag on its own.
  - date published: 2022-09-20 00:47:05+00:00
 
 Sorting through every new game on Steam so you don't have to.
+

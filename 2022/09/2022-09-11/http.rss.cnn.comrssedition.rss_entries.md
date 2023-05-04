@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Biden will not travel with a delegation to Queen Elizabeth's funeral
  - [https://www.cnn.com/2022/09/11/politics/joe-biden-queen-elizabeth-funeral/index.html](https://www.cnn.com/2022/09/11/politics/joe-biden-queen-elizabeth-funeral/index.html)
@@ -335,3 +335,4 @@ Retired Air Force Col. Cedric Leighton speaks to CNN's Pamela Brown about how th
  - date published: 2022-09-11 00:40:47+00:00
 
 CNN's Stephanie Elam breaks down the shows to watch for ahead of the 74th Primetime Emmy Awards show.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## ASP.NET Core updates in .NET 7 Release Candidate 1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58930](https://www.codeproject.com/script/News/View.aspx?nwid=58930)
@@ -111,3 +111,4 @@ ROLLBACK to vs_2015
  - date published: 2022-09-20 04:00:00+00:00
 
 "And invisible to me because it was so remote and small, flying swiftly and steadily towards me across that incredible distance, drawing nearer every minute by so many thousands of miles, came the Thing they were sending us"
+

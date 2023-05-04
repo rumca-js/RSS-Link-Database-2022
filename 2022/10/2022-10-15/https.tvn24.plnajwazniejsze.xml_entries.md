@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Kłopoty Świątek w meczu o finał
  - [https://eurosport.tvn24.pl/iga--wi-tek-kontra-jessica-pegula-w-p--finale-turnieju-wta-500-w-san-diego,1121688.html?source=rss](https://eurosport.tvn24.pl/iga--wi-tek-kontra-jessica-pegula-w-p--finale-turnieju-wta-500-w-san-diego,1121688.html?source=rss)
@@ -191,3 +191,4 @@
 
 <img alt="Rekordowe tankowanie dla właściciel diesli. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-m5e0rt-stacja-benzynowa-tankowanie-benzyna-shutterstock1704390262jpg/alternates/LANDSCAPE_1280" />
     O kosztach pełnego baku z Dawidem Czopkiem rozmawia Mateusz Walczak.
+

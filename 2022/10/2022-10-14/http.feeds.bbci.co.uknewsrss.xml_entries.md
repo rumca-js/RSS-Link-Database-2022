@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Time up' as 'Truss clings on by sacking Kwarteng'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63265862?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63265862?at_medium=RSS&at_campaign=KARANGA)
@@ -643,3 +643,4 @@ The faces of some of the men, women and children killed in protests sweeping acr
  - date published: 2022-10-14 00:29:03+00:00
 
 Mass protests have swept Iran for nearly a month - here is a simple guide to what is going on.
+

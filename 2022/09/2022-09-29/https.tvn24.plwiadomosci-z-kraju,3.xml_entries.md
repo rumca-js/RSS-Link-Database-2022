@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Aneksja okupowanych obwodów "prezentem na urodziny Putina"
  - [https://tvn24.pl/swiat/aneksja-okupowanych-ukrainskich-obwodow-prezentem-na-urodziny-putina-ocenia-ukrainski-politolog-6136066?source=rss](https://tvn24.pl/swiat/aneksja-okupowanych-ukrainskich-obwodow-prezentem-na-urodziny-putina-ocenia-ukrainski-politolog-6136066?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Uciekał przed policją. Pijany, po amfetaminie i z dożywotnim zakazem prowadzenia pojazdów" src="https://tvn24.pl/najnowsze/cdn-zdjecie-1zb21e-poscig-za-pijanym-kierowca-w-policyjnej-kamerze-6135145/alternates/LANDSCAPE_1280" />
     Policjanci z Kościerzyny (Pomorze) po pościgu zatrzymali 27-letniego kierowcę, który nie zatrzymał się do kontroli drogowej. Mężczyzna był pijany, pod wpływem narkotyków, a w dodatku miał orzeczony dożywotni zakaz prowadzenia pojazdów. Policja opublikowała n
+

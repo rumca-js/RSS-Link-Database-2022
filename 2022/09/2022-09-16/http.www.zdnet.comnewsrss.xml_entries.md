@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best bike desks of 2022
  - [https://www.zdnet.com/home-and-office/smart-office/best-bike-desk/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/best-bike-desk/#ftag=RSSbaffb68)
@@ -209,3 +209,4 @@ F&amp;B chain notifies members of its Rewards loyalty programme that customer de
  - date published: 2022-09-16 05:59:00+00:00
 
 Hacker is believed to have breached Uber's entire network in a social engineering attack, which one security vendor says is more extensive than the company's 2016 global data breach and access logs potentially altered.
+

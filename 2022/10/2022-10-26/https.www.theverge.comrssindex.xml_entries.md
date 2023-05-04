@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Zuckerberg is all in on the metaverse whether you like it or not
  - [https://www.theverge.com/2022/10/26/23425429/meta-qg-2022-earnings-facebook-metaverse-mark-zuckerberg](https://www.theverge.com/2022/10/26/23425429/meta-qg-2022-earnings-facebook-metaverse-mark-zuckerberg)
@@ -726,3 +726,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/25/23423691/nomad-transparent-30w-charger">Continue reading&hellip;</a>
   </p>
+

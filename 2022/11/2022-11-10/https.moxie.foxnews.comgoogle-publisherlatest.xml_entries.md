@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Princess Märtha Louise of Norway's mother, Queen Sonja, says Americans 'have no idea' of monarchy's importance
  - [https://www.foxnews.com/entertainment/princess-martha-louise-norways-mother-queen-sonja-americans](https://www.foxnews.com/entertainment/princess-martha-louise-norways-mother-queen-sonja-americans)
@@ -1553,3 +1553,4 @@ Border authorities in Texas were led on a high-speed chase that ended with a car
  - date published: 2022-11-10 00:03:53+00:00
 
 Ten people were swept away in a current near Los Angeles, including one who died and four others who are still missing
+

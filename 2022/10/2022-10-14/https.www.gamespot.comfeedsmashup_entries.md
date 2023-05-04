@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Madden 23: What's New For Season 2 Prime Time
  - [https://www.gamespot.com/articles/madden-23-whats-new-for-season-2-prime-time/1100-6508277/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/madden-23-whats-new-for-season-2-prime-time/1100-6508277/?ftag=CAD-01-10abi2f)
@@ -370,3 +370,4 @@
  - date published: 2022-10-14 07:00:00+00:00
 
 <p>It's almost time to see what Xur has to offer from his arsenal in <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>, as the enigmatic arms dealer is on his way to the Sol system once again. As usual, Xur will have a selection of Exotic and Legendary-class gear up for sale, just in time for anyone looking to see if his goods can help out in the Trials of Osiris or in the general sandbox.</p><p>We don't quite know where Xur is just yet, but this post will be updated as soon he l
+

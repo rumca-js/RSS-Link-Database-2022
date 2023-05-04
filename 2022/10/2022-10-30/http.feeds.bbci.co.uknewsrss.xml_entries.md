@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Brazil elections: Cheers and tears as Lula beats Bolsonaro
  - [https://www.bbc.co.uk/news/world-latin-america-63450032?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63450032?at_medium=RSS&at_campaign=KARANGA)
@@ -181,6 +181,13 @@ King Charles is not going to the climate conference, but will host a pre-summit 
  - date published: 2022-10-30 14:24:24+00:00
 
 People gather to pay their respects with prayers and tributes near the scene of the disaster in central Seoul.
+
+## T20 World Cup: Markram reprieved as Kohli drops catch in deep
+ - [https://www.bbc.co.uk/sport/av/cricket/63446976?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63446976?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-30 14:09:01+00:00
+
+Virat Kohli spills a simple chance to remove Aiden Markram as South Africa set about chasing down India's 133 in the T20 World Cup.
 
 ## Reports of petrol bombs thrown at migrant centre
  - [https://www.bbc.co.uk/news/uk-england-kent-63446683?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-kent-63446683?at_medium=RSS&at_campaign=KARANGA)
@@ -426,3 +433,4 @@ Several Zimbabwean skulls were found in archives but none belong to Zimbabwe's a
  - date published: 2022-10-30 00:09:52+00:00
 
 George Russell believes Mercedes have a "reasonable shot" of winning the Mexico City Grand Prix.
+

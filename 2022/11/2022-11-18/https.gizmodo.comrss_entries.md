@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Does Mali Elfman Believe in Ghosts? | Next Exit
  - [https://gizmodo.com/does-mali-elfman-believe-in-ghosts-next-exit-1849789877](https://gizmodo.com/does-mali-elfman-believe-in-ghosts-next-exit-1849789877)
@@ -244,3 +244,4 @@
  - date published: 2022-11-18 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--LciE79Eu--/c_fit,fl_progressive,q_80,w_636/012b331c227e887439071953e5be4008.jpg" /><p>In <a href="https://gizmodo.com/up-to-a-third-of-bangladesh-is-underwater-1844594639">Bangladesh</a>, two sisters hurry home one afternoon. At first, nothing seems unusual as they bicker in typical sibling fashion (“Come quick, or you’re dead!”) and go about their routine. But as writer-director Nuhash Humayun’s <a href="https://gizmodo.com/horror-short-the-home-tells-a-tale-as-terrifying-as-it-1848748485">horror short</a> <em>Moshari </em>continues, it becomes clear that something is wrong in their world. <a href="https://gizmodo.com/people-are-so-damn-blase-about-the-vampire-apocalypse-o-1719236224"><em></em>…</a></p><p><a href="https://gizmodo.com/vampire-short-horror-film-moshari-bangladesh-1849797631">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## See an Exclusive Clip From Good Night Oppy, a New Doc About the Mars Rover That Defied the Odds
  - [https://gizmodo.com/good-night-oppy-documentary-mars-rovers-nasa-1849800988](https://gizmodo.com/good-night-oppy-documentary-mars-rovers-nasa-1849800988)
@@ -48,3 +48,4 @@
  - date published: 2022-11-20 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ouCTAX0B--/c_fit,fl_progressive,q_80,w_636/18fg9rynraomnpng.png" /><p><em>In her new book, <a href="https://www.workman.com/products/how-sex-changed-the-internet-and-the-internet-changed-sex/hardback" rel="noopener noreferrer" target="_blank">How Sex Changed the Internet and the Internet Changed Sex: An Unexpected History</a></em>,<em> Samantha Cole traces the twisting history of the “Lena Centerfold,” an image from Playboy that became an international standard for training computers to recognize images. The image, taken in 1972, persisted for decades</em>…</p><p><a href="https://gizmodo.com/lena-test-image-playboy-how-sex-changed-internet-1849798731">Read more...</a></p>
+

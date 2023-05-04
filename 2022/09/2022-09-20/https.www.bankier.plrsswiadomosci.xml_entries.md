@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Dług publiczny Hiszpanii przekroczył rekordowy poziom 1,48 bln euro
  - [https://www.bankier.pl/wiadomosc/Dlug-publiczny-Hiszpanii-przekroczyl-rekordowy-poziom-1-48-bln-euro-8409134.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Dlug-publiczny-Hiszpanii-przekroczyl-rekordowy-poziom-1-48-bln-euro-8409134.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -389,3 +389,4 @@ zapotrzebowani
  - date published: 2022-09-20 02:22:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/b/13df5825af215a-948-568-0-45-1830-1098.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Dwa tureckie prywatne banki Isbank i Denizbank, uważane za jedne z największych w Turcji, ogłosiły w poniedziałek zakończenie świadczenia usług dla kart rosyjskiego systemu płatniczego "Mir", z którego Moskwa zaczęła korzystać po wycofaniu się z Rosji spółek Visa i Mastercard.
+

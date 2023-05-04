@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Jean-Pierre schooled online after ‘bad answer’ to Doocy’s question about her own ‘stolen election’ rhetoric
  - [https://www.foxnews.com/media/jean-pierre-schooled-online-bad-answer-to-doocys-question-her-own-stolen-election-rhetoric](https://www.foxnews.com/media/jean-pierre-schooled-online-bad-answer-to-doocys-question-her-own-stolen-election-rhetoric)
@@ -725,7 +725,6 @@ Locals in San Francisco shared their thoughts on Gov. Gavin Newsom and gave the 
  - [https://www.foxnews.com/opinion/biden-ignores-chinas-infiltration-us-universities](https://www.foxnews.com/opinion/biden-ignores-chinas-infiltration-us-universities)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-06 06:00:26+00:00
- - tags: china,china war
 
 Washington isn't paying close enough attention to China's infiltration of U.S. colleges and universities, which is troubling given the influence donors often have over schools.
 
@@ -812,3 +811,4 @@ Jack Flaherty allowed just one run in five innings of work in his first start si
  - date published: 2022-09-06 00:21:04+00:00
 
 Matt Eberflus has been coaching football in some capacity for 30 years, but the former Tulane student assistant finally got his first NFL head coaching gig.
+

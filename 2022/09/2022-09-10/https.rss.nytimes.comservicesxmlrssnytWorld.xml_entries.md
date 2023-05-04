@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Prince Harry and Meghan Join William and Kate Outside Windsor Castle
  - [https://www.nytimes.com/2022/09/10/world/europe/william-harry-kate-meghan-windsor-castle.html](https://www.nytimes.com/2022/09/10/world/europe/william-harry-kate-meghan-windsor-castle.html)
@@ -139,3 +139,4 @@ The economy has contracted sharply while the cost of war grows, putting pressure
  - date published: 2022-09-10 04:01:09+00:00
 
 The southern counteroffensive has been a painstaking battle of river crossings, with pontoon bridges as prime targets for both sides. But so far, it is Ukraine that has advanced.
+

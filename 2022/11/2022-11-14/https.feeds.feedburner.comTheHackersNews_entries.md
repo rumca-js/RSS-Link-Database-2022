@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## New "Earth Longzhi" APT Targets Ukraine and Asian Countries with Custom Cobalt Strike Loaders
  - [https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html](https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html)
@@ -42,3 +42,4 @@ Dubbed KmsdBot by the Akamai Security Intelligence Response Team (SIRT), the G
 A recently discovered cyber espionage group dubbed Worok has been found hiding malware in seemingly innocuous image files, corroborating a crucial link in the threat actor's infection chain.
 Czech cybersecurity firm Avast said the purpose of the PNG files is to conceal a payload that's used to facilitate information theft.
 "What is noteworthy is data collection from victims' machines using
+

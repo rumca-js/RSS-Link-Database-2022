@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Synapsy szybsze od biologicznych. Jak udało się je stworzyć?
  - [https://www.chip.pl/2022/10/sztuczne-synapsy-szybsze-od-biologicznych](https://www.chip.pl/2022/10/sztuczne-synapsy-szybsze-od-biologicznych)
@@ -103,3 +103,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="624" src="https://konto.chip.pl/wp-content/uploads/2022/10/druk-1.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/druk-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Programowalna materia dostosowująca swoje właściwości do odbieranych bodźców nie ogranicza się już tylko do filmów i książek. Druk 3D z wykorzystaniem materiałów reagujących na wysokie temperatury czy prąd elektryczny umożliwia tworzenie naprawdę imponujących obiektów. Tak można pokrótce opisać druk 4D, w którym czas jest dodatkowym wymiarem. Niedawno naukowcy pod zarządem Evy Blasco z Uniwersytetu w [&#8230;]</p>
+

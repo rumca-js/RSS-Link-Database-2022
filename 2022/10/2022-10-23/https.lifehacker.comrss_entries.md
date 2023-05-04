@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Learn New Old Recipes From This Free Collection of 12,000 Vintage Cookbooks
  - [https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636](https://lifehacker.com/learn-new-old-recipes-from-this-free-collection-of-12-0-1849684636)
@@ -20,3 +20,4 @@
  - date published: 2022-10-23 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--b2fk44zR--/c_fit,fl_progressive,q_80,w_636/28811150fd1056e2ec095e60d0813b84.jpg" /><p>No matter where you live, you’re likely feeling the pinch of the rising costs of energy, gas, and water. Those who own their home may opt to invest in upgrades like new windows, appliances, or insulation to help save money on utility bills. </p><p><a href="https://lifehacker.com/how-to-save-money-on-energy-bills-as-a-renter-1849684611">Read more...<
+

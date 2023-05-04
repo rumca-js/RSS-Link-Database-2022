@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Never-before-seen malware has infected hundreds of Linux and Windows devices
  - [https://arstechnica.com/?p=1885478](https://arstechnica.com/?p=1885478)
@@ -153,3 +153,4 @@ In the world's first operating system interview, Linux tells all about Windows, 
  - date published: 2022-09-28 07:01:16+00:00
 
 A nice gesture toward Mac users, but a full layout, switch options would be even better.
+

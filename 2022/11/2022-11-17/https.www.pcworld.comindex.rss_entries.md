@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Score the Xbox Series S for $50 off and get a $50 Target gift card, too
  - [https://www.pcworld.com/article/1384352/whoa-you-can-grab-the-all-digital-xbox-series-s-and-a-50-target-gift-card-for-250-right-now.html](https://www.pcworld.com/article/1384352/whoa-you-can-grab-the-all-digital-xbox-series-s-and-a-50-target-gift-card-for-250-right-now.html)
@@ -883,3 +883,4 @@ CPUs and Processors</div>
 
 <p><em>Prices subject to change.</em></p>
 VPN</div>
+

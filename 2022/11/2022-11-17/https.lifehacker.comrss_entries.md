@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Can (Basically) Get an Xbox Series S for $200 Right Now
  - [https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666](https://lifehacker.com/you-can-basically-get-an-xbox-series-s-for-200-right-1849797666)
@@ -118,3 +118,4 @@
  - date published: 2022-11-17 14:37:13+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--_OGzqsQv--/c_fit,fl_progressive,q_80,w_636/a5e865dfb34c2847640df3d470083ea5.jpg" /><p>With Thanksgiving comes much cooking, and with much cooking comes many dirty dishes. The average home chef already knows that some cookware <a href="https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848341293">simply doesn’t belong in the dishwasher</a>, but what about those specialty items that only come out for big holidays?<br /></p><p><a href="https://lifehacker.com/don-t-put-this-thanksgiving-cookware-and-serveware-in-t-1849792978">Read more...</a></p>
+

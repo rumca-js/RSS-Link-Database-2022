@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Two Arizona Infants Exposed To Fentanyl In One Week: Police
  - [https://www.dailywire.com/news/two-arizona-infants-exposed-to-fentanyl-in-one-week-police](https://www.dailywire.com/news/two-arizona-infants-exposed-to-fentanyl-in-one-week-police)
@@ -81,7 +81,6 @@ Former NFL cornerback Antonio Dennard was shot and killed over the weekend outsi
  - [https://www.dailywire.com/news/get-woke-go-broke-blackrock-stock-downgraded-over-risk-from-esg-investing](https://www.dailywire.com/news/get-woke-go-broke-blackrock-stock-downgraded-over-risk-from-esg-investing)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-17 19:04:25+00:00
- - tags: blackrock,esg,woke
 
 BlackRock was downgraded by UBS analyst Brennan Hawken last week over the asset management company’s adherence to the environmental, social, and governance movement, also known as ESG. As several conservative state officials continue to pull hundreds of millions from BlackRock and other asset managers, Hawken slashed the target stock price from $700 to $585, according ...
 
@@ -371,3 +370,4 @@ A new mainstream poll found that Florida Governor Ron DeSantis (R) ranks #1 in t
  - date published: 2022-10-17 08:32:11+00:00
 
 NASCAR driver Bubba Wallace faced intense backlash over the weekend after violently attacking another driver following a crash he was accused of intentionally causing. The incident happened during Stage 2 of the South Point 400 at Las Vegas Motor Speedway when Wallace, who won Stage 1, was next to driver Kyle Larson when Larson attempted ...
+

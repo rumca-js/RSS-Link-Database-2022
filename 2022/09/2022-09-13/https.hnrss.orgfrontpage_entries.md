@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Is Peer Review a Good Idea? (2020)
  - [https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029](https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029)
@@ -621,3 +621,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32819096">https://news.ycombinator.com/item?id=32819096</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+

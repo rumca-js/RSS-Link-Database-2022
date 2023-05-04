@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Houston man ​sends message to 'White DEVILS'
  - [https://www.louderwithcrowder.com/houston-man-sends-message-to-white-devils](https://www.louderwithcrowder.com/houston-man-sends-message-to-white-devils)
@@ -75,3 +75,4 @@
  - date published: 2022-10-20 11:56:49+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31971788&amp;width=1245&amp;height=700&amp;coordinates=0%2C118%2C0%2C0" /><br /><br /><p>Last year, the Biden administration set out to find the, quote, "root causes" of the border crisis of illegal migrants flowing into America from Latin and South America. Not <em>FIX</em> the border crisis. That could have been done by doing the exact opposite of everything Joe Biden was doing. But find the root cause. I'm not sure if Ecua
+

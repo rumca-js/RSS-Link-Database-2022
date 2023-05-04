@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Why Macs and iPhones should avoid installing 'orphan' apps
  - [https://www.computerworld.com/article/3680548/why-macs-and-iphones-should-avoid-installing-orphan-apps.html#tk.rss_all](https://www.computerworld.com/article/3680548/why-macs-and-iphones-should-avoid-installing-orphan-apps.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>Automation in the workplace is nothing new — organizations have used it for centuries, points out Rajendra Prasad, global automation lead at Accenture and co-author of <em><a href="https://newsroom.accenture.com/news/new-book-the-automation-advantage-shows-organizations-how-to-achieve-full-value-from-intelligent-automation.htm" rel="noopener nofollow" target="_blank">The Automation Advantage</a></em>. In recent decades, companies have flocked to <a href="https://www.cio.com/article/227908/what-is-rpa-robotic-process-automation-explained.html" rel="noopener" target="_blank">robotic process automation</a> (RPA) as a way to streamline operations, reduce errors, and save money by automating routine business tasks.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3680230/how-intelligent-automation-will-change-the-way-we-work.html#jump">To read this article in full, please click here</a></p></section></article>
+

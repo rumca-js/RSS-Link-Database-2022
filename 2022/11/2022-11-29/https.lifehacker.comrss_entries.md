@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Buy Gifts That Aren’t Cliché or Insulting This Year
  - [https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858](https://lifehacker.com/buy-gifts-that-aren-t-cliche-or-insulting-this-year-1849832858)
@@ -118,3 +118,4 @@
  - date published: 2022-11-29 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--aq7Q5Xey--/c_fit,fl_progressive,q_80,w_636/71c21aab4bfeabb1ff740b8fb0873f84.jpg" /><p>If you’re feeling déjà vu from seeing a Ford sport-utility vehicle recall, you’re not wrong. Earlier this month, Broncos were recalled for having <a href="https://lifehacker.com/ford-recalls-47-000-suvs-for-faulty-backup-cameras-1849773797">issues with their backup cameras</a>, and earlier this spring, <a href="https://www.nhtsa.gov/vehicle/2021/FORD/BRONCO%2520SPORT/SUV/4WD#recalls431" rel="noopener noreferrer" target="_blank">there was an engine oil leak</a> issue that could cause a fire. This time, about 520,000 Bronco Sport and Ford Escape…</p><p><a href="https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467">Read more...</a></p>
+

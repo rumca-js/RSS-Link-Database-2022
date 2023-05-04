@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Tim Cook: 'No good excuse' for lack of women in tech
  - [https://www.bbc.co.uk/news/technology-63033078?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63033078?at_medium=RSS&at_campaign=KARANGA)
@@ -531,3 +531,4 @@ Sterling plunged by 4% in early Asia trade to the lowest level since decimalisat
  - date published: 2022-09-26 00:22:59+00:00
 
 The new king helped drive a renaissance in British cheesemaking when the industry was in crisis 30 years ago.
+

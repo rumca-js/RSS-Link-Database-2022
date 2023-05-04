@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## 'I don't think Trump is the future': Voters on 2024 run
  - [https://www.bbc.co.uk/news/world-us-canada-63640443?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63640443?at_medium=RSS&at_campaign=KARANGA)
@@ -433,3 +433,4 @@ The cargo salvage industry has a key role in global trade by dealing with unwant
  - date published: 2022-11-15 00:00:16+00:00
 
 The popularity of portable heaters to warm a single room has increased as energy bills have soared.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Oferowali maturzystom dostęp do przecieków, CKE zawiadomiła prokuraturę. Co dalej ze śledztwami?
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29046194,oferowali-maturzystom-dostep-do-przeciekow-cke-zawiadomila.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29046194,oferowali-maturzystom-dostep-do-przeciekow-cke-zawiadomila.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-10-19 07:30:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/0f/b2/1b/z29043983M,Mobilizacja-wojskowa-w-Rosji---zdjecie-archiwalne.jpg" vspace="2" />Niemal 70 proc. Polaków nie chce otwarcia granic dla dezerterów uciekających z Rosji przed mobilizacją wojskową. Jak wynika z sondażu IBRiS dla "Rzeczpospolitej" zdecydowanie przeciwnych przyjęciu uciekinierów było 43,8 proc. ankietowanych.
+

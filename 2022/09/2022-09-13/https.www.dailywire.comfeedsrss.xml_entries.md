@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Tudor Dixon Reveals Massive Plan To Give More Funding To Michigan Police
  - [https://www.dailywire.com/news/tudor-dixon-reveals-massive-plan-to-give-more-funding-to-michigan-police](https://www.dailywire.com/news/tudor-dixon-reveals-massive-plan-to-give-more-funding-to-michigan-police)
@@ -384,3 +384,4 @@ Disgraced former CNN host Chris Cuomo slammed Democrats for demonizing everyone 
  - date published: 2022-09-13 07:18:05+00:00
 
 The U.S. Department of Justice signaled in a court filing this week that it is open to accepting one of former President Donald Trump&#8217;s picks to be the special master who reviews the documents that the FBI seized from Mar-a-Lago last month. Prosecutors said in a court filing that they would approve of Raymond J. ...
+

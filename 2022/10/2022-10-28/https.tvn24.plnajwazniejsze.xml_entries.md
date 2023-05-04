@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## MAGAZYN O ŚMIERCI PRAWA
  - [https://tvn24.pl/tvn24-magazyn/magazyn-o-smierci/?source=rss](https://tvn24.pl/tvn24-magazyn/magazyn-o-smierci/?source=rss)
@@ -223,3 +223,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-awbs7j-wladimir-putin-6183281/alternates/LANDSCAPE_1280" />
     Jacek Stawiski i Marcin Wrona komentują spekulacje dotyczące "brudnej bomby".
+

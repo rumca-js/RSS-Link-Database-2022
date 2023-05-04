@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Uroczyste otwarcie Baltic Pipe. Media odsłaniają kulisy spóźnienia Dudy i Morawieckiego
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29022226,otwarcie-baltic-pipe-opoznione-andrzej-duda-i-mateusz-morawiecki.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29022226,otwarcie-baltic-pipe-opoznione-andrzej-duda-i-mateusz-morawiecki.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -97,3 +97,4 @@
  - date published: 2022-10-13 08:28:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/86/ac/1b/z29018502M,Jaroslaw-Kaczynski-w-Pulawach.jpg" vspace="2" />Prezes PiS Jarosław Kaczyński podczas objazdu po Polsce próbuje czasem rozbawiać publiczność dowcipkowaniem w swoim stylu. W Puławach jednak po żarcie Kaczyńskiego zamiast salwy śmiechu zapadła grobowa cisza.
+

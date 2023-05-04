@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Marketing executive, 40, sues NHS blood service over 'racist' management
  - [https://www.dailymail.co.uk/news/article-11320035/Marketing-executive-40-sues-NHS-blood-service-racist-management.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11320035/Marketing-executive-40-sues-NHS-blood-service-racist-management.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1063,3 +1063,4 @@ As the palace continues its 10-year refurbishment programme, the new King and Qu
  - date published: 2022-10-15 00:03:23+00:00
 
 John Fetterman led with stroke jokes at a Friday night Pennsylvania rally, as his fitness for office was questioned this week after an interview showed him using closed captioning.
+

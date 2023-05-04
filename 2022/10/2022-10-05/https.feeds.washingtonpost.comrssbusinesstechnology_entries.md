@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Former Uber security chief convicted of covering up 2016 data breach
  - [https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Campaign emails will soon get to bypass Gmail’s spam filter. Here's how you ca
  - date published: 2022-10-05 06:28:38+00:00
 
 The Tesla CEO's fresh offer to buy Twitter for $44 billion represents a win for the firm's board. But Musk is almost sure to transform the company.
+

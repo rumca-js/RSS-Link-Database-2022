@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## High-speed video captures how cannibalistic mosquito larvae snag their prey
  - [https://arstechnica.com/?p=1889441](https://arstechnica.com/?p=1889441)
@@ -104,3 +104,4 @@ Today Google realizes it needs to fight iMessage, but it's 8 years too late.
  - date published: 2022-11-01 00:04:54+00:00
 
 Thinking better of your partisan opponents doesn't mean you want them voting.
+

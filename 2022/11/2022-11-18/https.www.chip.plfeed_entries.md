@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Morze Bałtyckie ma potencjał energetyczny. Padły konkretne liczby
  - [https://www.chip.pl/2022/11/morze-baltyckie-odnawialne-zrodla-energii](https://www.chip.pl/2022/11/morze-baltyckie-odnawialne-zrodla-energii)
@@ -119,3 +119,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="720" src="https://konto.chip.pl/wp-content/uploads/2022/11/gaofen-satelita.jpg" style="margin-bottom: 10px;" width="1280" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/gaofen-satelita.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Wszystko wskazuje na to, że Chińczycy umieścili na orbicie okołoziemskiej satelity Jilin-1 Gaofen-03D. Do ich wyniesienia posłużyła rakieta Ceres-1. Start odbył się w środę i miał miejsce w Centrum Startowym Satelitów Jiuquan w północno-zachodnich Chinach. Jak wynika z komunikatu opublikowanego przez agencję Xinhua, ładunki zostaną wykorzystane do świadczenia komercyjnych usług z zakresu teledetekcji. Co ciekawe, [&#8230;]</p>
+

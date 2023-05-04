@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Judgment mod restores actor who was deleted by Sega
  - [https://www.pcgamer.com/judgment-mod-restores-actor-who-was-deleted-by-sega](https://www.pcgamer.com/judgment-mod-restores-actor-who-was-deleted-by-sega)
@@ -48,3 +48,4 @@ Wordle today: The solution and a hint for Sunday's puzzle.
  - date published: 2022-09-25 01:05:14+00:00
 
 We'll have to wait until next year to tune in.
+

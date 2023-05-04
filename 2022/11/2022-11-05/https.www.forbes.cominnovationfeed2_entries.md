@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## New Apple Leak Reveals iPhone 15 Release Shock
  - [https://www.forbes.com/sites/gordonkelly/2022/11/05/apple-iphone-15-pro-max-ultra-qualcomm-apple-modem-fears/](https://www.forbes.com/sites/gordonkelly/2022/11/05/apple-iphone-15-pro-max-ultra-qualcomm-apple-modem-fears/)
@@ -185,3 +185,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-11-05 01:00:00+00:00
 
 A total lunar eclipse—North America's biggest naked-eye sky event of 2022—happens in the early hours of Election Day on Tuesday. Here's what you need to know.
+

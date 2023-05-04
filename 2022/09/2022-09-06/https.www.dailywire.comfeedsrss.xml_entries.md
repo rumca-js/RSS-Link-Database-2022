@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Public Records Request Reveals California Teachers Union Allegedly Spied On Parents During Pandemic
  - [https://www.dailywire.com/news/public-records-request-reveals-california-teachers-union-allegedly-spied-on-parents-during-pandemic](https://www.dailywire.com/news/public-records-request-reveals-california-teachers-union-allegedly-spied-on-parents-during-pandemic)
@@ -440,3 +440,4 @@ Actress and model Denise Richards said last week that her husband Aaron Phypers
  - date published: 2022-09-06 08:44:55+00:00
 
 Podcast host and comedian Joe Rogan took a shot at Vice President Kamala Harris in a newly released poster for an upcoming standup comedy event. The poster shows Rogan smoking a marijuana joint while Harris is wearing a police officer uniform, laughing as she places Rogan under arrest. A pin on Harris&#8217; uniform states: “FREE ...
+

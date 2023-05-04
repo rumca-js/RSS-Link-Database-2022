@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Japanese PC gaming has had incredible growth in the last few years
  - [https://www.pcgamer.com/japanese-pc-gaming-has-had-incredible-growth-in-the-last-few-years](https://www.pcgamer.com/japanese-pc-gaming-has-had-incredible-growth-in-the-last-few-years)
@@ -62,3 +62,4 @@ When you realise you won't ever have to run ICC again.
  - date published: 2022-11-06 00:58:44+00:00
 
 It brings the 3D camera from Metal Gear Solid 3: Subsistence to MGS2.
+

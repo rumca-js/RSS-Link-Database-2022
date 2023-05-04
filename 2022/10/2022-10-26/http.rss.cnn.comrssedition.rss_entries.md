@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## This weird-looking primate's extra-long fingers give it an extra-gross talent
  - [https://www.cnn.com/2022/10/26/world/aye-aye-nose-picking-intl-scli-scn/index.html](https://www.cnn.com/2022/10/26/world/aye-aye-nose-picking-intl-scli-scn/index.html)
@@ -1065,3 +1065,4 @@ The desperate trawl for Ukraine war recruits in Russian prisons began with murde
  - date published: 2022-10-26 00:00:00+00:00
 
 The race between Dr. Mehmet Oz, a Republican, and Lt. Gov. John Fetterman, a Democrat, may be key to determining control of the Senate. Our reporters are providing live analysis. <br /><br /> #johnfetterman #pennsylvania #mehmetoz
+

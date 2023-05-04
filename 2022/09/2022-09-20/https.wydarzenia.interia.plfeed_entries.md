@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Prezydent na szczycie ONZ: Rosja niszczy wszystko, czego nie może przejąć lub zrabować
  - [https://wydarzenia.interia.pl/zagranica/news-prezydent-na-szczycie-onz-rosja-niszczy-wszystko-czego-nie-m,nId,6297831](https://wydarzenia.interia.pl/zagranica/news-prezydent-na-szczycie-onz-rosja-niszczy-wszystko-czego-nie-m,nId,6297831)
@@ -566,3 +566,4 @@
  - date published: 2022-09-20 03:39:26+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-209-dzien-inwazji-rosji-relacja-na-zywo,nzId,3041,akt,200840"><img align="left" alt="Wojna w Ukrainie. 209. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-209-dzien-inwazji-rosji-relacja-na-zywo/000G3B6EO6RCGA08-C321.jpg" /></a>Najważniejsze i najnowsze informacje dotyczące sytuacji w Ukrainie w jednym miejscu. Śledź naszą relację na żywo.</p><br clear="all" />
+

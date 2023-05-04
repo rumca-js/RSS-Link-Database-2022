@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don't Thaw Your Frozen Steak Before Cooking It
  - [https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559](https://lifehacker.com/dont-thaw-your-frozen-steak-before-cooking-it-1849620559)
@@ -132,3 +132,4 @@
  - date published: 2022-10-05 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--mB8AfDrj--/c_fit,fl_progressive,q_80,w_636/9dc72ca97f9c1646d5c1c7834e104702.jpg" /><p>Pesto, made with pine nuts and Italian cheese, is not a cheap sauce, mainly because of those pine nuts. It makes sense then, that one should want their pesto to look as good as it tastes, even if it’s been sitting in the fridge for a few days. The problem, though, is oxygen. </p><p><a href="https://lifehacker.com/how-to-keep-leftover-pesto-looking-f
+

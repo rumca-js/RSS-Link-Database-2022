@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## U.S. Looks to Reorient Ties With Saudi Arabia Over Oil Production Cut
  - [https://www.nytimes.com/2022/10/26/us/politics/us-saudi-arabia-oil.html](https://www.nytimes.com/2022/10/26/us/politics/us-saudi-arabia-oil.html)
@@ -160,3 +160,4 @@ With an annual summit next month, the United Nations assessed progress on countr
  - date published: 2022-10-26 04:41:20+00:00
 
 Tensions are flaring between Germany and its allies.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## School board clears room of minors before reading 'filthy' book available in their school
  - [https://www.louderwithcrowder.com/school-board-filthy-book](https://www.louderwithcrowder.com/school-board-filthy-book)
@@ -34,3 +34,4 @@
  - date published: 2022-09-18 11:45:02+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31765922&amp;width=1245&amp;height=700&amp;coordinates=0%2C115%2C0%2C5" /><br /><br /><p>A legal influencer is exposing an Obama-affiliated dark money group paying TikTokers $400 to spread their propaganda and disinformation about January 6th. </p><p>Preston Moore is a) a legal influencer with close to 100,000 followers on TikTok, and b) someone who is not a Trump supporter. He got an email from something called the "<a href=
+

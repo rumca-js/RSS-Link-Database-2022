@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Author Salman Rushdie has lost sight in one eye and hand is "incapacitated" following August stabbing attack, agent says
  - [https://www.cnn.com/2022/10/23/world/salman-rushdie-attack-lost-sight/index.html](https://www.cnn.com/2022/10/23/world/salman-rushdie-attack-lost-sight/index.html)
@@ -251,3 +251,4 @@ Jolie's nerves were running high as she walked into the campus of Goldsmiths, th
  - date published: 2022-10-23 00:29:32+00:00
 
 CNN's Bianca Nobilo reports on the top three UK prime minister candidates a small fraction of the British conservative party are expected to vote for by October 28th to replace Prime Minister Liz Truss.
+

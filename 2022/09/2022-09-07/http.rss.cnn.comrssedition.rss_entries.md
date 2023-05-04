@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## The next big Democratic star (you haven't heard of yet)
  - [https://www.cnn.com/2022/09/07/politics/maura-healey-democrat-rising-star/index.html](https://www.cnn.com/2022/09/07/politics/maura-healey-democrat-rising-star/index.html)
@@ -620,5 +620,6 @@ Washington Post reporter Devlin Barrett joins CNN's Anderson Cooper to discuss h
  - [https://www.cnn.com/2022/09/06/politics/couy-griffin-new-mexico-january-6/index.html](https://www.cnn.com/2022/09/06/politics/couy-griffin-new-mexico-january-6/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-07 00:01:41+00:00
+
 
 

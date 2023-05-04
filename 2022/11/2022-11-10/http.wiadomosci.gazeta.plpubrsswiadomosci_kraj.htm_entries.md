@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Suwałki. 13-latek raniony nożem w autobusie. Pomógł mu kierowca, który ustalił też sprawcę
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29128667,suwalki-13-latek-raniony-nozem-w-autobusie-pomogl-mu-kierowca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29128667,suwalki-13-latek-raniony-nozem-w-autobusie-pomogl-mu-kierowca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -132,3 +132,4 @@
  - date published: 2022-11-10 05:05:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/7a/b6/1b/z29059450M,Zlota-jesien-we-Wroclawiu.jpg" vspace="2" />Synoptycy Instytutu Meteorologii i Gospodarki Wodnej przekazali najnowszą prognozę pogody na najbliższy weekend. Okazuje się, że temperatura będzie znacznie wyższa od wcześniej prognozowanej. Nocą pojawią się jednak niskie temperatury.
+

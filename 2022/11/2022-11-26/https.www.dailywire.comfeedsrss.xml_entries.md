@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘My God Forgive Me For What I’m Going To Do’: Virginia Walmart Gunman Left Chilling Final Message
  - [https://www.dailywire.com/news/my-god-forgive-me-for-what-im-going-to-do-virginia-walmart-gunman-left-chilling-final-message](https://www.dailywire.com/news/my-god-forgive-me-for-what-im-going-to-do-virginia-walmart-gunman-left-chilling-final-message)
@@ -76,3 +76,4 @@ The U.S. announced on Friday that it is banning the sale and import of certain t
  - date published: 2022-11-26 11:01:39+00:00
 
 Americans currently recovering from the most expensive turkey comas in recent memory must now prepare for complications in Christmas tree markets that will lead to higher prices. Families pining for a real tree to spruce up their living rooms should have no problem finding their desired conifer. Approximately 86% of individuals responding to a survey ...
+

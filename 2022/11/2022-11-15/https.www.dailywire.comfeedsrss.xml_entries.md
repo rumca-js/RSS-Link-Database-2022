@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Third Time’s The Charm? Former Presidents Who Have Tried Again
  - [https://www.dailywire.com/news/third-times-the-charm-former-presidents-who-have-tried-again](https://www.dailywire.com/news/third-times-the-charm-former-presidents-who-have-tried-again)
@@ -412,3 +412,4 @@ Just in time for the holidays, fans can purchase the original house used in “A
  - date published: 2022-11-15 09:43:12+00:00
 
 Candace Cameron Bure just shared an update about what type of storylines will be offered on Great American Family, the new network planning to compete with The Hallmark Channel for the holiday season. Bure left Hallmark to join GAF CEO Bill Abbott, who she had worked with before at Hallmark. Abbott exited the network abruptly ...
+

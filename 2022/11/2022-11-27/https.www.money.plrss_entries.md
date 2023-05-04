@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## W Chinach się kotłuje. Masowe protesty, starcia z policją. Mają dość lockdownów
  - [https://www.money.pl/gospodarka/w-chinach-sie-kotluje-masowe-protesty-starcia-z-policja-maja-dosc-lockdownow-6838563123583680a.html](https://www.money.pl/gospodarka/w-chinach-sie-kotluje-masowe-protesty-starcia-z-policja-maja-dosc-lockdownow-6838563123583680a.html)
@@ -48,3 +48,4 @@
  - date published: 2022-11-27 05:53:24+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/13c7fbd3-779a-4fdf-bea7-72905358bd50" width="308" /> Szansa na porozumienie Stanów Zjednoczonych z Iranem topnieje, a wraz z nią nadzieja, że perska ropa naftowa i gaz pomogą przełamać kryzys energetyczny w Europie. Białych kwiatów dziś nikt się nie spodziewa. Zamiast tego są zapowiedzi kolejnych sankcji na Teheran. Mecz reprezentacji Iranu z drużyną USA na mundialu w Katarze może znów zapisać się w historii.
+

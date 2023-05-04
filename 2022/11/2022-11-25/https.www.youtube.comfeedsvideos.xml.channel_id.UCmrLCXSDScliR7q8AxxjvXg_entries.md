@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## Word Cup 2022: MIND CONTROL for the MASSES
  - [https://www.youtube.com/watch?v=EDSQfy5Jl_I](https://www.youtube.com/watch?v=EDSQfy5Jl_I)
@@ -62,3 +62,4 @@ http://www.digitaljuice.com/Intl
 -------------------------------
 
 #wordcup2022 #onelove #football
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## DC Animation May Find a New Home on Amazon
  - [https://gizmodo.com/dc-universe-amazon-warner-bros-animation-james-gunn-1849837587](https://gizmodo.com/dc-universe-amazon-warner-bros-animation-james-gunn-1849837587)
@@ -279,3 +279,4 @@
  - date published: 2022-11-30 11:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--VWvtrmK8--/c_fit,fl_progressive,q_80,w_636/8be10da6b7280bab25d8856d5e4e3497.jpg" /><p>Sam Bankman-Fried, the founder of FTX, says he donated equally to both Democratic and Republican politicians before his cryptocurrency platform filed for bankruptcy <a href="https://gizmodo.com/ftx-bankruptcy-crypto-sam-bankman-fried-binance-1849772418">earlier this month</a>, wiping out billions of dollars in customer deposits. And that fact is going to come as a real shock to right-wing political operatives…</p><p><a href="https://gizmodo.com/ftx-sam-bankman-fried-sbf-secret-donations-republicans-1849834727">Read more...</a></p>
+

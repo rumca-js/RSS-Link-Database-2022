@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Aaron Carter, the child star who recorded his first album at NINE
  - [https://www.dailymail.co.uk/news/article-11394391/Aaron-Carter-child-star-recorded-album-NINE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11394391/Aaron-Carter-child-star-recorded-album-NINE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1002,3 +1002,4 @@ AMANDA PLATELL: King Charles has warned Prince Harry that there will be 'consequ
  - date published: 2022-11-05 00:00:02+00:00
 
 This summer saw a series of shocking ambulance response times, with cases of elderly people having to wait up to 40 hours. Handover delays are blamed on a shortage of beds and staff.
+

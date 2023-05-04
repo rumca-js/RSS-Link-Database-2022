@@ -1,4 +1,4 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
+# Source:Techlore, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, language:en-US
 
 ## 5 Reasons to DITCH TWITTER For Mastodon!
  - [https://www.youtube.com/watch?v=BkRkTdm9efs](https://www.youtube.com/watch?v=BkRkTdm9efs)
@@ -49,3 +49,4 @@ Timestamps:
 12:54 Quick Self-Promo
 14:06 Final words
 #mastodon #twitter #techlore
+

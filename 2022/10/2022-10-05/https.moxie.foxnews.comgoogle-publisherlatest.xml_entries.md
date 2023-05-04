@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## 'Special Report' All-Star panel on crime and public safety ahead of midterms
  - [https://www.foxnews.com/transcript/special-report-all-star-panel-crime-public-safety-ahead-midterms](https://www.foxnews.com/transcript/special-report-all-star-panel-crime-public-safety-ahead-midterms)
@@ -1091,3 +1091,4 @@ The Merced County Sheriff's Office arrested Jesus Salgado, who is a person of in
  - date published: 2022-10-05 04:57:04+00:00
 
 Aaron Judge admitted that he started to feel pressure to hit his 62nd home run in recent weeks. After doing so on Tuesday, he said it was a "big relief."
+

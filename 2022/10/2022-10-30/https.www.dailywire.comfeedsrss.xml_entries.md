@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Ex-Con Defeats Incumbent In Brazilian Presidential Election
  - [https://www.dailywire.com/news/ex-con-defeats-incumbent-in-brazilian-presidential-election](https://www.dailywire.com/news/ex-con-defeats-incumbent-in-brazilian-presidential-election)
@@ -167,3 +167,4 @@ Who’s going to tell the HR bots at Twitter that the new guy is not a mere midd
  - date published: 2022-10-30 08:58:07+00:00
 
 Pennsylvania Lt. Gov. John Fetterman (D), a U.S. Senate candidate, claimed Saturday that a sign promoting his campaign was set on fire in a Republican part of the state. The tweet from Fetterman, which included a photograph of the alleged incident, came after he struggled in the first and only debate he participated in against ...
+

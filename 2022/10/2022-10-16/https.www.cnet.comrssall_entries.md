@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'The Rings of Power:' That Ending Explained and All Your Questions Answered     - CNET
  - [https://www.cnet.com/culture/entertainment/the-rings-of-power-that-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-rings-of-power-that-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec)
@@ -447,3 +447,4 @@ Recap: The Disney Plus show leans hard in to moral ambiguity as the rebels make 
  - date published: 2022-10-16 00:00:03+00:00
 
 With these tips, you can polish your skills as you watch this fall's Netflix and Chills lineup.
+

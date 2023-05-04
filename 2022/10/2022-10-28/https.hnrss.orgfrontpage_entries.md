@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Old vs new (systemd) style Linux daemons
  - [https://man7.org/linux/man-pages/man7/daemon.7.html](https://man7.org/linux/man-pages/man7/daemon.7.html)
@@ -674,3 +674,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33366113">https://news.ycombinator.com/item?id=33366113</a></p>
 <p>Points: 23</p>
 <p># Comments: 1</p>
+

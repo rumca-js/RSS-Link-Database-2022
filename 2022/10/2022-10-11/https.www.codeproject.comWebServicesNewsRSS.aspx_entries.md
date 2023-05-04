@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Axios
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59151](https://www.codeproject.com/script/News/View.aspx?nwid=59151)
@@ -118,3 +118,4 @@ And Natural Intelligence mandated
  - date published: 2022-10-11 04:00:00+00:00
 
 Beloved and despised, Tailwind CSS brings out strong opinions. Alyssa Nicoll plays around with it so you can see which side you’ll pick.
+

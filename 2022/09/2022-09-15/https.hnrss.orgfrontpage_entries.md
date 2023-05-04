@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Team led by Japanese researchers reveals best way to put crying baby to sleep
  - [https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c](https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c)
@@ -672,3 +672,4 @@ Here are our open roles:<p>ML Research Engineer (SF, Full-time): <a href="https:
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32845229">https://news.ycombinator.com/item?id=32845229</a></p>
 <p>Points: 21</p>
 <p># Comments: 11</p>
+

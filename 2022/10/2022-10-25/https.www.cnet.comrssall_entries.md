@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Don't Want the Pfizer or Moderna Shot? Now You Can Get a Novavax Booster     - CNET
  - [https://www.cnet.com/health/medical/dont-want-the-pfizer-or-moderna-shot-now-you-can-get-a-novavax-booster/#ftag=CADf328eec](https://www.cnet.com/health/medical/dont-want-the-pfizer-or-moderna-shot-now-you-can-get-a-novavax-booster/#ftag=CADf328eec)
@@ -755,3 +755,4 @@ A new study finds kitties know when their human buddies are talking to them.
  - date published: 2022-10-25 00:00:02+00:00
 
 Some people prefer morning workouts; some prefer the evening. Experts weigh in on the pros and cons of each option.
+

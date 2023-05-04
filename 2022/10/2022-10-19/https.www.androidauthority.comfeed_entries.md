@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Microsoft challenges Apple and Google as it builds its own mobile gaming store
  - [https://www.androidauthority.com/microsoft-mobile-gaming-3222427/](https://www.androidauthority.com/microsoft-mobile-gaming-3222427/)
@@ -69,3 +69,4 @@ Almost 80% of polled readers say they wouldn't pay for an ad-supported plan.
  - date published: 2022-10-19 05:59:56+00:00
 
 Drag-and-drop support, tab groups, and more features are coming to Chrome for Android slates.
+

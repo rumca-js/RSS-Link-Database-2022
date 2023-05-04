@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## LEAKED: Audio caught RACIST mayor calling a black boy awful names
  - [https://www.louderwithcrowder.com/leaked-audio-caught-racist-mayor-calling-a-black-boy-awful-names](https://www.louderwithcrowder.com/leaked-audio-caught-racist-mayor-calling-a-black-boy-awful-names)
@@ -73,3 +73,4 @@
  - date published: 2022-10-11 12:05:24+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31890623&amp;width=1200&amp;height=800&amp;coordinates=18%2C0%2C6%2C0" /><br /><br /><p>Voting blocs on voting blocs on voting blocs are fleeing the Democrat party like Afghans fleeing during Biden's botched withdrawal. The party has become so extreme, so divisive, and shown so much animosity towards any American who holds a single opposing viewpoint, they've even driven away a former Democrat presidential candidate. Former c
+

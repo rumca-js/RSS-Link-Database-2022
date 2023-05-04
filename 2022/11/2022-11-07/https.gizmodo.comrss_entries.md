@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Andor Season 2 Was Inspired by a Mystery Summer Blockbuster
  - [https://gizmodo.com/andor-season-2-inspiration-star-wars-disney-plus-gilroy-1849754558](https://gizmodo.com/andor-season-2-inspiration-star-wars-disney-plus-gilroy-1849754558)
@@ -251,3 +251,4 @@
  - date published: 2022-11-07 03:05:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Oid5UE-S--/c_fit,fl_progressive,q_80,w_636/7a503c86191a41d9f9f023f719d0a28b.jpg" /><p>Do you ever feel tense when watching <em>The Walking Dead</em> anymore? Does the TV show ever truly <a href="https://gizmodo.com/tonights-walking-dead-was-shocking-savage-and-utterly-1833478320">surprise you</a> anymore? I’m pretty sure it’s been quite a while since <em>TWD</em> made me feel like a character <a href="https://gizmodo.com/the-walking-dead-semi-finale-threw-out-the-old-to-make-1845235786">was in real danger</a> or did anything that made me <a href="https://gizmodo.com/the-walking-dead-added-some-kind-of-killer-performance-1792541812">wonder what was going to happen</a> next. Tonight’s episode, “Faith,” was a pretty…</p><p><a href="https://gizmodo.com/walking-dead-recap-faith-season-11-episode-22-1849744967">Read more...</a></p>
+

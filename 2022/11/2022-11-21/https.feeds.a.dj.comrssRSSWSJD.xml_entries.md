@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Walt Disney CFO, Others, Brought Concerns to Board Over Bob Chapek
  - [https://www.wsj.com/articles/walt-disney-cfo-others-brought-concerns-to-board-over-bob-chapek-11669072222?mod=rss_Technology](https://www.wsj.com/articles/walt-disney-cfo-others-brought-concerns-to-board-over-bob-chapek-11669072222?mod=rss_Technology)
@@ -69,3 +69,4 @@ The world’s biggest pizza chain signs a deal with General Motors to purchase E
  - date published: 2022-11-21 10:30:00+00:00
 
 Optimistic at first that they would get their money back, they are now increasingly losing hope.
+

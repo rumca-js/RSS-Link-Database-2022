@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Analysis: How TV coverage of Queen Elizabeth's funeral changed my mind about her
  - [https://www.cnn.com/2022/09/19/media/television-queen-elizabeth-funeral/index.html](https://www.cnn.com/2022/09/19/media/television-queen-elizabeth-funeral/index.html)
@@ -55,3 +55,4 @@ Volkswagen is targeting a valuation of up to 75 billion euros ($75.1 billion) fo
  - date published: 2022-09-19 06:17:37+00:00
 
 The future looked promising for Cherry in May last year, when she secured a prestigious internship at a major software firm, while still studying at a university in Wuhan. The company told her that she could start working for them full time, once she graduates.
+

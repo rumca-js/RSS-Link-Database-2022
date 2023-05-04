@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Ukraina. Rosjanie ostrzelali cywilną infrastrukturę krytyczną
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/ukraina-rosjanie-ostrzelali-cywilna-infrastrukture-krytyczna/](https://www.polsatnews.pl/wiadomosc/2022-09-11/ukraina-rosjanie-ostrzelali-cywilna-infrastrukture-krytyczna/)
@@ -111,3 +111,4 @@ Rosyjskie ministerstwo obrony przyznało w niedzielę w komunikacie, że wojska 
  - date published: 2022-09-11 05:21:00+00:00
 
 Nowy monarcha brytyjski Karol III został oficjalnie ogłoszony głową państwa w Australii i w Nowej Zelandii podczas uroczystości, które odbyły się w stolicach obu państw. Rola brytyjskiego monarchy jako głowy państwa ma tam charakter symboliczny.
+

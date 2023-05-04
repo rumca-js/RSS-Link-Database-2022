@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Here’s Proof Hate Speech Is More Viral on Elon Musk’s Twitter
  - [https://www.wired.com/story/heres-proof-hate-speech-is-more-viral-on-elon-musks-twitter/](https://www.wired.com/story/heres-proof-hate-speech-is-more-viral-on-elon-musks-twitter/)
@@ -13,3 +13,4 @@ Researchers monitoring a “firehose” of public tweets found signs of increasi
  - date published: 2022-11-22 16:59:39+00:00
 
 Following the collapse of FTX, a group of volunteers has gathered to try and salvage Serum. But the work is far from straightforward.
+

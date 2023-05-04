@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## McDonald's prezentuje specjalny fotel gamingowy
  - [https://ithardware.pl/aktualnosci/mcdonald_s_prezentuje_specjalny_fotel_gamingowy-24261.html](https://ithardware.pl/aktualnosci/mcdonald_s_prezentuje_specjalny_fotel_gamingowy-24261.html)
@@ -155,3 +155,4 @@ Amerykańskie firmy obawiają się,...
 
 Jak donosi VideoCardz, znany informator...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4080_pierwsze_zdjecia_laminatu_i_niepokojace_doniesienia_o_dostepnosci_na_premiere-24246.html">https://ithardware.pl/aktualnosci/geforce_rtx_4080_pierwsze_zdjecia_laminatu_i_niepokojace_doniesienia_o_dostepnosci_na_premiere-24246.html</a></p>
+

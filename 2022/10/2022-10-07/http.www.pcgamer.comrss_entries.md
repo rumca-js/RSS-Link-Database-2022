@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Major game studios believed this company was providing experienced, well-staffed QA teams—employees say that was a lie
  - [https://www.pcgamer.com/quantic-QA-tester-report](https://www.pcgamer.com/quantic-QA-tester-report)
@@ -223,3 +223,4 @@ An immersive gaming experience with refined audio.
  - date published: 2022-10-07 07:01:28+00:00
 
 Wordle today: The solution and a hint for Friday's puzzle.
+

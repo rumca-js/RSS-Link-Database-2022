@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Ogrzewasz dom inaczej niż węglem? Od dziś też możesz dostać do 3 tys. zł wsparcia
  - [https://wydarzenia.interia.pl/kraj/news-ogrzewasz-dom-inaczej-niz-weglem-od-dzis-tez-mozesz-dostac-d,nId,6297216](https://wydarzenia.interia.pl/kraj/news-ogrzewasz-dom-inaczej-niz-weglem-od-dzis-tez-mozesz-dostac-d,nId,6297216)
@@ -20,3 +20,4 @@
  - date published: 2022-09-20 06:52:19+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-zmiany-w-dodatku-energetycznym-wchodza-w-zycie-co-z-ogrzewan,nId,6297070"><img align="left" alt="Zmiany w dodatku energetycznym wchodzą w życie. Co z ogrzewaniem gazem? " src="https://i.iplsc.com/zmiany-w-dodatku-energetycznym-wchodza-w-zycie-co-z-ogrzewan/000G3BGOSYGFRKIX-C321.jpg" /></a>W wtorek wchodzi w życie ustawa o wsparciu odbiorców ciepła. Nowe przepisy przewidują m.in. ograniczenie cen ciepła sieciowego oraz dodatki dla gospodarstw do
+

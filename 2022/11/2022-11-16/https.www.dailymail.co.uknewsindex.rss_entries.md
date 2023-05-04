@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Kitchen Nightmares: Restaurant shuts down as owner 'disagreed' with some Colin Fassnidge advice
  - [https://www.dailymail.co.uk/news/article-11433263/Kitchen-Nightmares-Restaurant-shuts-owner-disagreed-Colin-Fassnidge-advice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11433263/Kitchen-Nightmares-Restaurant-shuts-owner-disagreed-Colin-Fassnidge-advice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2022,3 +2022,4 @@ Dominic Raab will 'robustly' defend himself against allegations of bullying as h
  - date published: 2022-11-16 00:08:00+00:00
 
 Queen Mary University of London experts found 86 per cent of baby breakfast products marketed as having 'no added sugars' are actually packed full of it.
+

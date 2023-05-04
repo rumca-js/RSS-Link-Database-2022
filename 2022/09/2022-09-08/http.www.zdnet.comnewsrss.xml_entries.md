@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best wireless earbuds in 2022
  - [https://www.zdnet.com/article/best-wireless-earbuds/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-wireless-earbuds/#ftag=RSSbaffb68)
@@ -230,3 +230,4 @@ You're unlikely to find cheaper e-readers than Woot's short sale.
  - date published: 2022-09-08 00:05:11+00:00
 
 Apple announced updated iPhones, Apple Watches, and AirPods Pro. Macs and iPads will probably be announced next month. Today's Far Out event brought new stuff, new features, but nothing to really set hearts and imaginations aflutter. But is that bad?
+

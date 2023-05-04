@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## You Can Apply for Student Loan Debt Relief Now: Here's How It Works     - CNET
  - [https://www.cnet.com/personal-finance/loans/you-can-apply-for-student-loan-debt-relief-now-heres-how-it-works/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/you-can-apply-for-student-loan-debt-relief-now-heres-how-it-works/#ftag=CADf328eec)
@@ -398,3 +398,4 @@ Netflix's Love Is Blind is back for another season. Here's how the pods were des
  - date published: 2022-10-22 00:00:04+00:00
 
 Protect your eyes and look good while doing it.
+

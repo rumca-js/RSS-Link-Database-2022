@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Agencja Moody's wydała komunkat ws. ratingu Polski
  - [https://www.bankier.pl/wiadomosc/Agencja-Moody-s-nie-dokonala-aktualizacji-ratingu-Polski-8431073.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Agencja-Moody-s-nie-dokonala-aktualizacji-ratingu-Polski-8431073.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -450,3 +450,4 @@ kurs euro w Polsce spadł do najniższego poziomu od przeszło miesiąca.</p>
  - date published: 2022-10-28 02:52:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/3/a3140e1db51f2b-948-568-10-140-1990-1193.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Szef Narodowego Banku Bułgarii Dymitar Radew ostrzegł w czwartek w parlamencie, że opóźnienie zatwierdzenia pewnych kluczowych dokumentów może stanąć na przeszkodzie planowanego na 2024 r. wejścia Bułgarii do strefy euro.</p>
+

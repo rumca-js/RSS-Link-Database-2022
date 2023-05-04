@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Podcast: iPhone 14 Pro: Buy or nah?
  - [https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all](https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>If there's one feeling all of us phone-carrying cuttlefish can relate to, it's the sense of anxiety when that dreaded low-battery warning shows up on our screens.</p><p>Both Android itself and Google's Pixel phones, specifically, have gotten much better at managing battery life over the years. But some of the Pixel's most intelligent systems for safeguarding your stamina are <em>options</em> in your phone's software — and that means it's up to <em>you</em> to
+

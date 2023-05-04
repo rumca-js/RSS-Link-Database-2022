@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Malware has a terrible new way to get to your computer
  - [https://www.digitaltrends.com/computing/malware-in-video-games/](https://www.digitaltrends.com/computing/malware-in-video-games/)
@@ -27,3 +27,4 @@ Intel confirmed that the Arc A770 and Arc A750 graphics cards are launching very
  - date published: 2022-09-07 07:25:24.493691+00:00
 
 Google has just released a new Chrome update that fixes a severe vulnerability. Check how to protect yourself and make sure you have the right version.
+

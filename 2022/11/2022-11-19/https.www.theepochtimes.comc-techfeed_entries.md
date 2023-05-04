@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Elon Musk Runs Poll Asking Whether Trump Should Be Reinstated
  - [https://www.theepochtimes.com/elon-musk-runs-poll-asking-whether-trump-should-be-reinstated_4873697.html](https://www.theepochtimes.com/elon-musk-runs-poll-asking-whether-trump-should-be-reinstated_4873697.html)
@@ -27,3 +27,4 @@ A Tesla vehicle is plugged into a Tesla charging station in a parking lot in San
  - date published: 2022-11-19 03:45:50+00:00
 
 A Tesla Model X electric vehicle in a picture illustration taken in Moscow on July 23, 2020. (Evgenia Novozhenina/Reuters)
+

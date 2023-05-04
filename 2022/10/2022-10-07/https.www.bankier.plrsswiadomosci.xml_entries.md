@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Wyprzedaż na Wall Street, Wodospad na Dow Jones-ie
  - [https://www.bankier.pl/wiadomosc/Wyprzedaz-na-Wall-Street-Wodospad-na-Dow-Jones-ie-8419499.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wyprzedaz-na-Wall-Street-Wodospad-na-Dow-Jones-ie-8419499.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -464,3 +464,4 @@ banków centralnych Europy w rankingu przygotowanym przez magazyn "Global
  - date published: 2022-10-07 01:36:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/6/5c8cfe520eb3f5-948-568-60-28-1812-1087.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sąd w stanie Delaware w USA wstrzymał w czwartek proces z pozwu platformy społecznościowej Twitter Inc przeciwko Elonowi Muskowi, który dzień wcześniej oświadczył, że jest gotów kupić Twittera za pierwotnie uzgodnioną z serwisem cenę 44 mld dolarów.</p>
+

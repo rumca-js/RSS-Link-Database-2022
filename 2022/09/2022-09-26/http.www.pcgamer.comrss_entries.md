@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## This lighthouse survival game will test your base-building skills with tsunamis
  - [https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)
@@ -286,3 +286,4 @@ Sorting through every new game on Steam so you don't have to.
  - date published: 2022-09-26 00:02:30+00:00
 
 Then they set a two-hour video of that to chill beats.
+

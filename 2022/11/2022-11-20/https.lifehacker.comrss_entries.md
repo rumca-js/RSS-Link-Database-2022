@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Set These Boundaries Before Your Thanksgiving Guests Arrive
  - [https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471](https://lifehacker.com/set-these-boundaries-before-your-thanksgiving-guests-ar-1849803471)
@@ -20,3 +20,4 @@
  - date published: 2022-11-20 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--oCtQ4tkg--/c_fit,fl_progressive,q_80,w_636/352cf12a2aeeb8d80965ac02a32657a0.jpg" /><p>Clothes and electronics aren’t the only items marked down on Black Friday: A number of restaurants have also announced a range of deals (some of which include free food) on their meals, snacks, and gift cards.</p><p><a href="https://lifehacker.com/the-best-black-friday-food-deals-and-freebies-1849803447">Read more...</a></p>
+

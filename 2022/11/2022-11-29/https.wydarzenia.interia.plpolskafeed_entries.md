@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Jerzy S. w prokuraturze. Jakie usłyszał zarzuty?
  - [https://wydarzenia.interia.pl/kraj/news-jerzy-s-w-prokuraturze-jakie-uslyszal-zarzuty,nId,6441600](https://wydarzenia.interia.pl/kraj/news-jerzy-s-w-prokuraturze-jakie-uslyszal-zarzuty,nId,6441600)
@@ -13,3 +13,4 @@
  - date published: 2022-11-29 11:20:57+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-warszawa-andrzej-duda-pandemia-zaczela-przygasac-i-doszla-ko,nId,6441494"><img align="left" alt="Warszawa. Andrzej Duda: Pandemia zaczęła przygasać i doszła kolejna eksplozja" src="https://i.iplsc.com/warszawa-andrzej-duda-pandemia-zaczela-przygasac-i-doszla-ko/000AK6D8D94V4V4Y-C321.jpg" /></a>- Jak pandemia zaczęła przygasać doszła eksplozja, której się nie spodziewaliśmy - powiedział Andrzej Duda w poniedziałek prezydent podczas posiedzenia plenarnego Rady Dialogu Społecznego, które odbywa się w Pałacu Prezydenckim. Prezydent przekazał, że po rozpoczęciu wojny w Ukrainie koszt surowców wzrósł, co przełożyło się na wyższe koszty dla wszystkich. Cała gospodarka opiera się na energii i bez niej gospodarka nie funkcjonuje - mówił.  </p><br clear="all" />
+

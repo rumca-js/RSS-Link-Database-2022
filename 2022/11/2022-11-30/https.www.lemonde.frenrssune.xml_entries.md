@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Fleetwood Mac singer-songwriter dies at 79
  - [https://www.lemonde.fr/en/culture/article/2022/11/30/fleetwood-mac-singer-songwriter-dies-at-79_6006233_30.html](https://www.lemonde.fr/en/culture/article/2022/11/30/fleetwood-mac-singer-songwriter-dies-at-79_6006233_30.html)
@@ -195,3 +195,4 @@ Twitter said it has stopped enforcing a policy intended to prevent the spread of
  - date published: 2022-11-30 00:14:56+00:00
 
 The Senate passed bipartisan legislation Tuesday to protect same-sex marriages. The bill has gained momentum since the Supreme Court’s decision to overturn the federal right to an abortion, a ruling that included a concurring opinion that suggested same-sex marriage could also come under threat.
+

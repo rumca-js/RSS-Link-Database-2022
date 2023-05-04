@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Critical RCE Flaw Reported in Spotify's Backstage Software Catalog and Developer Platform
  - [https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html](https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html)
@@ -47,3 +47,4 @@ Symantec, by Broadcom Software, linked the attacks to an adversarial group it tr
 
 Internet giant Google has agreed to pay a record $391.5 million to settle with 40 states in the U.S. over charges the company misled users about the collection of personal location data.
 "Google misled its users into thinking they had turned off location tracking in their account settings, when, in fact, Google continued to collect their location information," Oregon Attorney General Ellen
+

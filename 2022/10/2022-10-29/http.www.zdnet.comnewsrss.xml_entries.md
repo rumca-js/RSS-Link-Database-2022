@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Anker's 551 USB-C Hub is almost the perfect iPad Pro accessory
  - [https://www.zdnet.com/article/ankers-551-usb-c-hub-is-almost-the-perfect-ipad-pro-accessory/#ftag=RSSbaffb68](https://www.zdnet.com/article/ankers-551-usb-c-hub-is-almost-the-perfect-ipad-pro-accessory/#ftag=RSSbaffb68)
@@ -55,3 +55,4 @@ Choosing the best tablet can be tricky since the market is packed with options. 
  - date published: 2022-10-29 01:07:00+00:00
 
 The holiday season is here, and that also means it's toy season. And, honestly, in 2022, the best holiday gift ideas for kids include tech -- things like gaming consoles, remote-control cars, interactive toys, electric scooters, and more.
+

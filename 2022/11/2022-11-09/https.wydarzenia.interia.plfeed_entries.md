@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Biden: Odmówiliśmy Ukrainie samolotów, bo nie chcemy III wojny światowej
  - [https://wydarzenia.interia.pl/zagranica/news-biden-odmowilismy-ukrainie-samolotow-bo-nie-chcemy-iii-wojny,nId,6401273](https://wydarzenia.interia.pl/zagranica/news-biden-odmowilismy-ukrainie-samolotow-bo-nie-chcemy-iii-wojny,nId,6401273)
@@ -590,3 +590,4 @@
  - date published: 2022-11-09 04:33:27+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-259-dzien-inwazji-rosji-relacja-na-zywo,nzId,3340,akt,090755"><img align="left" alt="Wojna w Ukrainie. 259. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-259-dzien-inwazji-rosji-relacja-na-zywo/000GBDEJ06W1H9VQ-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

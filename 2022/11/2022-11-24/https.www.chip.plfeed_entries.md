@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Powstała ultrafioletowa dioda autorstwa laureata nagrody Nobla. Jak można ją wykorzystać?
  - [https://www.chip.pl/2022/11/ultrafioletowa-dioda-typu-cw-laureat-nobla](https://www.chip.pl/2022/11/ultrafioletowa-dioda-typu-cw-laureat-nobla)
@@ -175,3 +175,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="743" src="https://konto.chip.pl/wp-content/uploads/2022/11/supergps-alternatywa.jpg" style="margin-bottom: 10px;" width="1280" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/supergps-alternatywa.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Życie bez GPS (Global Positioning System) byłoby zdecydowanie trudniejsze niż obecnie. A co powiecie na coś, co nazywa się SuperGPS? Historia GPS sięga lat 70. ubiegłego wieku. Badania w tej sprawie, prowadzone na zlecenie Departamentu Obrony Stanów Zjednoczonych, doprowadziły do powstania systemu nawigacji satelitarnej obejmującego całą kulę ziemską. Takie rozwiązanie ma jednak swoje wady i [&#8230;]</p>
+

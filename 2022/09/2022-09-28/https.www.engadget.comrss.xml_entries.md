@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Razer and Verizon tease a 5G gaming handheld that can play games locally
  - [https://www.engadget.com/razer-5g-edge-verizon-teaser-221403698.html?src=rss](https://www.engadget.com/razer-5g-edge-verizon-teaser-221403698.html?src=rss)
@@ -307,3 +307,4 @@
  - date published: 2022-09-28 00:09:46+00:00
 
 <p>Elon Musk’s private messages could once again land him in hot water in his legal fight with Twitter. Lawyers for the two sides once again faced off in Delaware’s Court of Chancery ahead of an October trial that will determine the fate of the deal.</p><p>Among the issues raised in the more than three-hour long hearing was Musk’s use of encrypted messaging app Signal. Twitter’s lawyers claim that Musk has been withholding messages sent via the app, citing a screenshot of an exchange between Mus
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Turkey bombs towns across northern Syria after Istanbul bombing, say reports
  - [https://www.theguardian.com/world/2022/nov/19/turkey-bombs-towns-across-northern-syria-after-istanbul-bombing-say-reports](https://www.theguardian.com/world/2022/nov/19/turkey-bombs-towns-across-northern-syria-after-istanbul-bombing-say-reports)
@@ -979,3 +979,4 @@ The singer, 30, on selling pies, losing count of his tattoos and why he’s not 
  - date published: 2022-11-19 01:26:15+00:00
 
 <p>New Zealand government statement says PM also asked president of China to help address North Korea tensions and Ukraine crisis</p><p>Jacinda Ardern has spoken with Xi Jinping about cooperation between New Zealand and China, while also raising areas of tension and warning that international norms that had benefited the two countries were “being tested”.</p><p>The New Zealand prime minister and the Chinese president met for about 50 minutes – running over the scheduled half hour – on the sidelines of the Apec summit in Bangkok. It was their first in-person meeting since 2019.</p> <a href="https://www.theguardian.com/world/2022/nov/19/jacinda-ardern-raises-taiwan-with-xi-jinping-at-apec-meeting">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Kulisy zwycięstwa w Klingenthal. Kubacki nawet nie wiedział, że został mistrzem
  - [https://eurosport.tvn24.pl/kulisy-zwyci-stwa-w-klingenthal--kubacki-nawet-nie-wiedzia----e-zosta--mistrzem,1120299.html?source=rss](https://eurosport.tvn24.pl/kulisy-zwyci-stwa-w-klingenthal--kubacki-nawet-nie-wiedzia----e-zosta--mistrzem,1120299.html?source=rss)
@@ -159,3 +159,4 @@
 
 <img alt="Zanussi o " src="https://tvn24.pl/najnowsze/cdn-zdjecie-wbxsgt-bez-polityki-6141766/alternates/LANDSCAPE_1280" />
     Piotr Jacoń rozmawia z reżyserem o rosyjskich elitach.
+

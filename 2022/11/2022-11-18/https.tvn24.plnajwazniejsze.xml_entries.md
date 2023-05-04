@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Dorwać Rzeźnika z Vukovaru. Kulisy tajnej operacji GROM-u
  - [https://tvn24.pl/go/programy,7/superwizjer-odcinki,10894/odcinek-1032,S00E1032,915604?source=rss](https://tvn24.pl/go/programy,7/superwizjer-odcinki,10894/odcinek-1032,S00E1032,915604?source=rss)
@@ -183,3 +183,4 @@
 
 <img alt="Sędzia Szymon Marciniak: z Ronaldo mam bardzo fajną relację, ale Messi chyba mnie nie lubi" src="https://tvn24.pl/najnowsze/cdn-zdjecie-6u8ffi-monika-olejnik-z-szymonem-marciniakiem-6225406/alternates/LANDSCAPE_1280" />
     Najlepszy polski arbiter będzie sędziował na mundialu w Katarze.
+

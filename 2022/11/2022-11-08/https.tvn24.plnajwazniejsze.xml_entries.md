@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Bayern bezlitosny. Siedem goli w Monachium
  - [https://eurosport.tvn24.pl/bayern-bezlitosny--a--siedem-goli-w-monachium,1124071.html?source=rss](https://eurosport.tvn24.pl/bayern-bezlitosny--a--siedem-goli-w-monachium,1124071.html?source=rss)
@@ -239,3 +239,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-uiuitv-igrzyska-prezesa-reportaz-czarno-na-bialym-6206718/alternates/LANDSCAPE_1280" />
     Mają być spotkania z mieszkańcami, ale nawet ci, którzy głosowali na PiS, nie mogli się z nim spotkać.
+

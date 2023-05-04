@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Stages of Grief After a Breakup (and How to Survive Each One)
  - [https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927](https://lifehacker.com/the-stages-of-grief-after-a-breakup-and-how-to-survive-1849586927)
@@ -139,3 +139,4 @@
  - date published: 2022-09-27 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--5pYniRiD--/c_fit,fl_progressive,q_80,w_636/36f141cb243eb1ee07249d1fa4db5da3.jpg" /><p>In a perfect world, a sibling is a best friend and an ally. In the real world, sibling relationships can be incredibly complicated—and although there will always be the less-than-perfect parts, there can come a point when the flaws rise to the level of being considered toxic. </p><p><a href="https://lifehacker.com/how-to-know-if-you-have-a-toxic-rel
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## New Blood's Fallout homage will have first-person combat
  - [https://www.pcgamer.com/new-bloods-fallout-homage-will-have-first-person-combat](https://www.pcgamer.com/new-bloods-fallout-homage-will-have-first-person-combat)
@@ -202,3 +202,4 @@ Multiple people were injured in the foam pit.
  - date published: 2022-10-10 01:03:23+00:00
 
 Strange horticulture indeed.
+

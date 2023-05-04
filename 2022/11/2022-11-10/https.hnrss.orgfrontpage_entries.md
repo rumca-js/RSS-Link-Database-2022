@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Revolutionary Iran: A Day in the Life of an Elementary School Student
  - [https://javani.substack.com/p/revolutionary-iran-a-day-in-the-life](https://javani.substack.com/p/revolutionary-iran-a-day-in-the-life)
@@ -816,3 +816,4 @@ Any advice?<p>Thanks!</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33540164">https://news.ycombinator.com/item?id=33540164</a></p>
 <p>Points: 7</p>
 <p># Comments: 0</p>
+

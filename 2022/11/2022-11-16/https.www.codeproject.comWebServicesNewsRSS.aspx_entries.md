@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 44% of Financial institutions believe their own IT teams are the main risk to cloud security
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59518](https://www.codeproject.com/script/News/View.aspx?nwid=59518)
@@ -62,3 +62,4 @@ How else are managers going to figure out how many whips to buy next year?
  - date published: 2022-11-16 05:00:00+00:00
 
 Today in news you already knows
+

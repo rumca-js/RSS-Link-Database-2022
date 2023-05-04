@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Warhammer 40,000: Darktide trailer reveals the fate of the squad from the very first teaser
  - [https://www.pcgamer.com/warhammer-40000-darktide-trailer-reveals-the-fate-of-the-recon-squad-from-the-very-first-teaser](https://www.pcgamer.com/warhammer-40000-darktide-trailer-reveals-the-fate-of-the-recon-squad-from-the-very-first-teaser)
@@ -174,3 +174,4 @@ It'll be Cyberpunk Red's first trip to 2077.
  - date published: 2022-11-10 00:12:59+00:00
 
 Probably don't hold your breath, though.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia’s Retreat in Ukraine Pokes Holes in Putin’s Projection of Force
  - [https://www.nytimes.com/2022/09/11/world/europe/ukraine-russias-retreat-putin.html](https://www.nytimes.com/2022/09/11/world/europe/ukraine-russias-retreat-putin.html)
@@ -146,3 +146,4 @@ The flooding has crippled Pakistan’s agricultural sector, battering the countr
  - date published: 2022-09-11 00:05:48+00:00
 
 Drones are increasingly testing Taiwan’s capacity to respond to China's growing military pressure. Soldiers shot one down recently and are ramping up defenses.
+

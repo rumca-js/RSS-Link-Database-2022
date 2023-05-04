@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Children’s hospitals fill up amid up early surge in respiratory infections
  - [https://arstechnica.com/?p=1892525](https://arstechnica.com/?p=1892525)
@@ -97,3 +97,4 @@ A pleasantly surprising new multitasking UI and app redesigns define macOS 13.
  - date published: 2022-10-24 14:21:28+00:00
 
 RealPage worked with some of the nation’s largest landlords to raise rents, says lawsuit.
+

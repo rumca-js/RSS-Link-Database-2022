@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Google Launches GUAC Open Source Project to Secure Software Supply Chain
  - [https://thehackernews.com/2022/10/google-launches-guac-open-source.html](https://thehackernews.com/2022/10/google-launches-guac-open-source.html)
@@ -56,3 +56,4 @@ The Ursnif malware has become the latest malware to shed its roots as a banking 
 The Federal Police of Brazil on Wednesday announced it had arrested an individual for purported links to the notorious LAPSUS$ extortionist gang.
 The arrest was made as part of a new law enforcement effort, dubbed Operation Dark Cloud, that was launched in August 2022, the agency noted. Not much is known about the suspect other than the fact that the person could be a teenager.
 The Polícia
+

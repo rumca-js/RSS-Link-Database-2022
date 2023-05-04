@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Eurovision names Liverpool as host city for its 2023 Song Contest honoring Ukraine
  - [https://www.cnn.com/2022/10/07/entertainment/eurovision-liverpool/index.html](https://www.cnn.com/2022/10/07/entertainment/eurovision-liverpool/index.html)
@@ -48,3 +48,4 @@ The UN rights council on Thursday voted down a Western-led motion to hold a deba
  - date published: 2022-10-07 01:26:37+00:00
 
 Brazil's government has announced plans to accelerate this month's welfare payments to the needy, as President Jair Bolsonaro prepares to face leftwing rival Luiz Inacio Lula da Silva in a second-round election.
+

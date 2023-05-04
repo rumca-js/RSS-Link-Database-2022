@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Wystartował Steam Autumn Sale 2022. Oto ciekawe promocje Jesiennej Wyprzedaży
  - [https://ithardware.pl/aktualnosci/wystartowal_steam_autumn_sale_2022_oto_ciekawe_promocje_jesiennej_wyprzedazy-24487.html](https://ithardware.pl/aktualnosci/wystartowal_steam_autumn_sale_2022_oto_ciekawe_promocje_jesiennej_wyprzedazy-24487.html)
@@ -183,3 +183,4 @@ Studio ogłosiło, iż decyzja o...
 
 W zeszłym miesiącu NVIDIA oficjalnie zaprezentowała karty graficzne...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_3060_ti_z_pamiecia_gddr6x_ma_calkowicie_zastapic_wariant_z_gddr6-24469.html">https://ithardware.pl/aktualnosci/geforce_rtx_3060_ti_z_pamiecia_gddr6x_ma_calkowicie_zastapic_wariant_z_gddr6-24469.html</a></p>
+

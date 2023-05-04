@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Zaginięcie Iwony Wieczorek. Jej kolega po 12 latach zabrał głos. "Nie wiem, czy mnie nie aresztują"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29029140,zaginiecie-iwony-wieczorek-jej-kolega-po-12-latach-zabral-glos.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29029140,zaginiecie-iwony-wieczorek-jej-kolega-po-12-latach-zabral-glos.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -48,3 +48,4 @@
  - date published: 2022-10-15 07:21:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/f3/ac/1b/z29020147M,Pikieta-zwolennikow-Wojciecha-Olszanskiego.jpg" vspace="2" />- Myślenie może być takie: napompujemy Olszańskiego aresztowaniami, ale tak, żeby nic poważnego mu się nie stało, a on będzie w międzyczasie urządzał te swoje dziwne imprezy - podpali Statut Kaliski, będzie nawoływał do obicia czy rozstrzelania tego lub tamtego. Wtedy nawet taki radykał jak Braun go nie przebije - mówi dr Przemysław Witkowski. Z badaczem ekstre
+

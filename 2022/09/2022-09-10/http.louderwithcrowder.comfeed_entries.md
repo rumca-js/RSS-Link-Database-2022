@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Man impersonating a police officer pulls over off-duty police officer
  - [https://www.louderwithcrowder.com/man-impersonating-a-police-officer](https://www.louderwithcrowder.com/man-impersonating-a-police-officer)
@@ -27,3 +27,4 @@
  - date published: 2022-09-10 00:14:45+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31641546&amp;width=1200&amp;height=800&amp;coordinates=300%2C0%2C0%2C0" /><br /><br /><p>There were several off-the-wall reactions to the Supreme Court decision in <em>Dobbs v. Jackson</em>, which overturned decades of ridiculously terrible precedent set by the dreadful decision in <em>Roe v. Wade</em>. When the decision was leaked, radical feminists <a href="https://www.louderwithcrowder.com/abortion-pills-supreme-court" tar
+

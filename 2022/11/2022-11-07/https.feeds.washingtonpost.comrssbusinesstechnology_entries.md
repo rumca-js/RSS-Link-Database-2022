@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Immigrant groups face ‘impossible’ job of fighting election lies on apps
  - [https://www.washingtonpost.com/technology/2022/11/07/whatsapp-wechat-election-lies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/whatsapp-wechat-election-lies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ For the first time since its launch in 2016, Google Assistant will offer parents
  - date published: 2022-11-07 06:00:09+00:00
 
 Trump has told his allies he can’t leave his Twitter clone because he’s propping it up, and he doesn’t want a site so closely associated with his brand to collapse.
+

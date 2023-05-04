@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Butterfly wing patterns emerge from ancient ‘junk’ DNA
  - [https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna](https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna)
@@ -582,3 +582,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33282520">https://news.ycombinator.com/item?id=33282520</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
+

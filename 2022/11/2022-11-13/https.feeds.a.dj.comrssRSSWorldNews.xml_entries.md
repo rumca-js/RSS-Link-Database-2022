@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Mexicans Protest President's Plans to Overhaul Election Agency
  - [https://www.wsj.com/articles/mexicans-protest-presidents-plans-to-overhaul-election-agency-11668368781](https://www.wsj.com/articles/mexicans-protest-presidents-plans-to-overhaul-election-agency-11668368781)
@@ -105,3 +105,4 @@ War in Ukraine, inflation and U.S.-China tensions are all dividing major economi
  - date published: 2022-11-13 10:30:00+00:00
 
 Russia has targeted Ukraine’s electricity grid in an attempt to break civilians’ will, resulting in rolling power cuts in Kyiv. Residents are adapting.
+

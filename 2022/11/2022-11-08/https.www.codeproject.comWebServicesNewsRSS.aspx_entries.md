@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A computer model made from real images of soccer matches that shows the strategies used by each team
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59435](https://www.codeproject.com/script/News/View.aspx?nwid=59435)
@@ -97,3 +97,4 @@ One of the things I really like about Blazor is how often it is easy to implemen
  - date published: 2022-11-08 05:00:00+00:00
 
 Launch?
+

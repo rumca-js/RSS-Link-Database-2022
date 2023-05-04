@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## The Witcher Remake To Be Fully Open World | GameSpot News
  - [https://www.gamespot.com/videos/the-witcher-remake-to-be-fully-open-world-gamespot-news/2300-6460098/](https://www.gamespot.com/videos/the-witcher-remake-to-be-fully-open-world-gamespot-news/2300-6460098/)
@@ -265,3 +265,4 @@
  - date published: 2022-11-28 13:37:00+00:00
 
 <p>Disney's newest movie, the animated film Strange World, was a box office disappointment and could lose $100 million during its theatrical run.</p><p><a href="https://variety.com/2022/film/news/disney-strange-world-lose-100-million-box-office-1235442714/">Variety reports</a> that the movie made $11.9 million over the weekend in the US and $18.6 million for the five-day Thanksgiving holiday period--this missed expectations of up to $40 million.</p><div>          </div><p>With a three-day start of $11.9 million, Strange World had one of the worst starts domestically for any Disney film in recent times. It did pace ahead, however, of West Side Story ($10.5 million), though that film debuted during the earlier days of the pandemic.</p><a href="https://www.gamespot.com/articles/disneys-newest-movie-will-lose-100-million-in-theaters-report-says/1100-6509515/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

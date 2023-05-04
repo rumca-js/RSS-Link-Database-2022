@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## The snowballing cost of ski season
  - [https://www.lemonde.fr/en/economy/article/2022/11/26/the-snowballing-cost-of-ski-season_6005674_19.html](https://www.lemonde.fr/en/economy/article/2022/11/26/the-snowballing-cost-of-ski-season_6005674_19.html)
@@ -181,3 +181,4 @@ One month after taking office, the liberal-conservative government, supported by
  - date published: 2022-11-25 00:16:31+00:00
 
 In Britain, decades-high inflation and a cost-of-living crisis have prompted staff in various sectors to demand pay rises to keep up with spiraling prices.
+

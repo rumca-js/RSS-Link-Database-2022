@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## W BBN zakończyło się spotkanie prezydenta, premiera i ministrów. Rozmawiano o wsparciu dla Ukrainy
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29068986,w-bbn-zakonczylo-sie-spotkanie-prezydenta-premiera-i-ministrow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29068986,w-bbn-zakonczylo-sie-spotkanie-prezydenta-premiera-i-ministrow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-10-25 07:24:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/49/b7/1b/z29065033M,Obserwacja-zacmienia-Slonca--zdjecie-ilustracyjne-.jpg" vspace="2" />Zaćmienie Słońca będzie widoczne w Polsce we wtorek 25 października przez ponad dwie godziny. Zacznie się mniej więcej kwadrans po godz. 11. Teoretycznie powinno ono być dobrze widoczne z Polski. Obserwacjom na drodze może jednak stanąć pogoda. W wielu regionach będzie dziś bowiem pochmurno.
+

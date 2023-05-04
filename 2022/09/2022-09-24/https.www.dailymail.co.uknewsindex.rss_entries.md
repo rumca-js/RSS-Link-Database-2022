@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Nostradamus' book sales surge after French prophet 'forecast Her Majesty would die in 2022 aged 96'
  - [https://www.dailymail.co.uk/news/article-11246867/Nostradamus-book-sales-surge-French-prophet-forecast-Majesty-die-2022-aged-96.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11246867/Nostradamus-book-sales-surge-French-prophet-forecast-Majesty-die-2022-aged-96.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -910,3 +910,4 @@ The difference in pump prices is adding around £4.95 to the cost of filling up 
  - date published: 2022-09-24 00:03:20+00:00
 
 The pound crashed to its lowest level in 37 years yesterday amid investor concern about how Kwasi Kwarteng (pictured) will fund his tax cut bonanza.
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Nations get tough on cryptocurrency to tackle ransomware attacks
  - [https://www.techradar.com/news/nations-get-tough-on-cryptocurrency-to-tackle-ransomware-attacks/](https://www.techradar.com/news/nations-get-tough-on-cryptocurrency-to-tackle-ransomware-attacks/)
@@ -230,3 +230,4 @@ T-Mobile has collaborated with New York-based luggage brand Samsara Luggage to d
  - date published: 2022-11-04 04:00:05+00:00
 
 Coros Apex 2's impressive battery life topples the Garmin Forerunner 955.
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## TikTok roleplayers have made a viral game out of trading with capitalism cats
  - [https://www.pcgamer.com/tiktok-roleplayers-have-made-a-viral-game-out-of-trading-with-capitalism-cats](https://www.pcgamer.com/tiktok-roleplayers-have-made-a-viral-game-out-of-trading-with-capitalism-cats)
@@ -97,3 +97,4 @@ The HyperX Pulsefire Haste won't weigh down your hand (its only 59g) or your bud
  - date published: 2022-11-27 01:14:30+00:00
 
 Get shifty.
+

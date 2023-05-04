@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Arizona GOP chair: DOJ has not attempted to enforce false-elector subpoenas
  - [https://www.politico.com/news/2022/09/30/arizona-gop-chair-doj-has-not-attempted-to-enforce-false-elector-subpoenas-00059883](https://www.politico.com/news/2022/09/30/arizona-gop-chair-doj-has-not-attempted-to-enforce-false-elector-subpoenas-00059883)
@@ -27,3 +27,4 @@ It’s a tale of four Democratic incumbents. And the two from Arizona and New Ha
  - date published: 2022-09-30 03:30:00+00:00
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.
+

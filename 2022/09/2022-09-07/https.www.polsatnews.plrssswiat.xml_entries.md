@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Brazylia: 19-latka urodziła bliźnięta. Twierdzi, że mają różnych ojców
  - [https://www.polsatnews.pl/wiadomosc/2022-09-07/brazylia-19-latka-urodzila-bliznieta-twierdzi-ze-maja-roznych-ojcow/](https://www.polsatnews.pl/wiadomosc/2022-09-07/brazylia-19-latka-urodzila-bliznieta-twierdzi-ze-maja-roznych-ojcow/)
@@ -111,3 +111,4 @@ Policja w Tennessee twierdzi, że ciało znalezione w poniedziałek to zwłoki z
  - date published: 2022-09-07 04:48:00+00:00
 
 58 skradzionych antyków o szacowanej wartości na 19 milionów dolarów zostało we wtorek zwróconych Włochom przez władze Nowego Jorku. Wśród eksponatów, które od lat są wystawiane w Metropolitan Museum of Art, jest między innymi Marmurowa głowa Ateny o wartości około trzech milionów dolarów.
+

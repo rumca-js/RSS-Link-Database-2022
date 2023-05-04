@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Medibank Refuses to Pay Ransom After 9.7 Million Customers Exposed in Ransomware Hack
  - [https://thehackernews.com/2022/11/medibank-refuses-to-pay-ransom-after-97.html](https://thehackernews.com/2022/11/medibank-refuses-to-pay-ransom-after-97.html)
@@ -34,3 +34,4 @@ The
 A phishing-as-a-service (PhaaS) platform known as Robin Banks has relocated its attack infrastructure to DDoS-Guard, a Russian provider of bulletproof hosting services.
 The switch comes after "Cloudflare disassociated Robin Banks phishing infrastructure from its services, causing a multi-day disruption to operations," according to a report from cybersecurity company IronNet.
 Robin Banks was
+

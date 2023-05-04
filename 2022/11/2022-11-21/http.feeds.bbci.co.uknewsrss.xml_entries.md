@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Wales at the World Cup: Gareth Bale had 'no doubts' about historic goal against USA
  - [https://www.bbc.co.uk/sport/football/63711137?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63711137?at_medium=RSS&at_campaign=KARANGA)
@@ -41,6 +41,13 @@ The US comedian spent 10 days receiving treatment after being burned in a fire a
  - date published: 2022-11-21 22:01:18+00:00
 
 A Snoopy toy is seen floating inside the Orion astronaut capsule that Nasa is testing at the Moon.
+
+## The moment Bale scored Wales' first World Cup goal since 1958
+ - [https://www.bbc.co.uk/sport/av/football/63709887?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63709887?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-11-21 21:27:55+00:00
+
+Watch the moment Gareth Bale scores Wales' first World Cup goal in 64 years to earn a draw against the United States.
 
 ## Twitter charity partners condemn Musk's 'dangerous' changes
  - [https://www.bbc.co.uk/news/technology-63710997?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63710997?at_medium=RSS&at_campaign=KARANGA)
@@ -503,3 +510,4 @@ Local libraries are seeing more people come through their doors, but fear servic
  - date published: 2022-11-21 00:01:09+00:00
 
 Mention of a "two-tier" service appears in draft minutes of a meeting of NHS Scotland chief executives.
+

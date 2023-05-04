@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Blinken blasts Putin's 'utter contempt and disdain' for UN
  - [https://edition.cnn.com/world/live-news/un-general-assembly-09-20-22/h_776fcb31bbdfd62b3a8a8cf9d1217ed2](https://edition.cnn.com/world/live-news/un-general-assembly-09-20-22/h_776fcb31bbdfd62b3a8a8cf9d1217ed2)
@@ -588,3 +588,4 @@ Lawyers for former President Donald Trump signaled Monday that they oppose havin
  - date published: 2022-09-20 00:00:17+00:00
 
 If you prefer to go to bed and get up later -- a sleep chronotype known as being a night owl -- you may be at higher risk for type 2 diabetes and heart disease, a new study found.
+

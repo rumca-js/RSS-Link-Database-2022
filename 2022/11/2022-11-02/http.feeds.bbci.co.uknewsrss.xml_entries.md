@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Ben Chilwell: Chelsea left-back an England doubt for World Cup after hamstring injury
  - [https://www.bbc.co.uk/sport/football/63494358?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63494358?at_medium=RSS&at_campaign=KARANGA)
@@ -552,3 +552,4 @@ Just over 30 years ago Europe's premier club competition was relaunched as the C
  - date published: 2022-11-02 00:00:03+00:00
 
 Russia has launched hundreds of missiles and drone attacks on Ukraine in the past few weeks.
+

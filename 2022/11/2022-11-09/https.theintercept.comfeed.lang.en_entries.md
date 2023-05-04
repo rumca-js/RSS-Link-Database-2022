@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Plaintiff in Lawsuit Opposing Biden Student Debt Forgiveness Had PPP Loan Forgiven
  - [https://theintercept.com/2022/11/09/student-debt-relief-lawsuit-ppp-myra-brown/](https://theintercept.com/2022/11/09/student-debt-relief-lawsuit-ppp-myra-brown/)
@@ -55,3 +55,4 @@
 
 <p>Summer Lee, who fought off big spending by Republicans and their allies at AIPAC, won a House seat and will join the Squad in D.C.</p>
 <p>The post <a href="https://theintercept.com/2022/11/08/fetterman-oz-pennsylvania-democrats/" rel="nofollow">With Senate Race Too Early to Call, Pennsylvania Democrats Rack Up Wins in Quicker Decisions</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

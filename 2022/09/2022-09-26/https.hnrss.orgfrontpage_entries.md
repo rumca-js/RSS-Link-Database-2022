@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Experimenting a New Syntax to Write SVG
  - [https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
@@ -674,3 +674,4 @@ I read an article during the weekend that 1/3 of applicants are not willing to w
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32977887">https://news.ycombinator.com/item?id=32977887</a></p>
 <p>Points: 12</p>
 <p># Comments: 1</p>
+

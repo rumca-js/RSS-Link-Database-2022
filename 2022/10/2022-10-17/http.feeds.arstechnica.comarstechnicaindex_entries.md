@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Cheaper hearing aids hit stores today, available over the counter for first time
  - [https://arstechnica.com/?p=1890685](https://arstechnica.com/?p=1890685)
@@ -104,3 +104,4 @@ YieldStar helps landlords set prices across the US, likely harming competition.
  - date published: 2022-10-17 12:48:32+00:00
 
 Fed up with Comcast and AT&#038;T, Silicon Valley residents started their own network.
+

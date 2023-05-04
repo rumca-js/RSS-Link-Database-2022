@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The easiest way to transfer contacts from your Android to an iPhone
  - [https://www.zdnet.com/article/how-to-transfer-contacts-from-android-to-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-transfer-contacts-from-android-to-iphone/#ftag=RSSbaffb68)
@@ -181,3 +181,4 @@ Spending some time with the Shiftcam SnapGrip family of cameraphone accessories.
  - date published: 2022-09-20 10:47:57+00:00
 
 After years of deliberation, the largest Southeast Asian market ratifies personal data protection bill, which will apply to local businesses as well as international corporations that handle data of Indonesian consumers.
+

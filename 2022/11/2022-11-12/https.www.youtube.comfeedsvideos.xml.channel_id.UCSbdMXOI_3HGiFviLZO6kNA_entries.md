@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## Dear Meta, Your Metaverse is CRUMBLING
  - [https://www.youtube.com/watch?v=iV2RQ5yYAmI](https://www.youtube.com/watch?v=iV2RQ5yYAmI)
@@ -34,3 +34,4 @@ TIMESTAMPS:
 12:03 Looking back at the issues
 13:12 SO META- WATCH THIS 
 15:49 "Putting the "Professional Hat" Back on
+

@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## The Pentagon fails its fifth audit in a row
  - [https://responsiblestatecraft.org/2022/11/22/why-cant-the-dod-get-its-financial-house-in-order/](https://responsiblestatecraft.org/2022/11/22/why-cant-the-dod-get-its-financial-house-in-order/)
@@ -766,3 +766,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33748363">https://news.ycombinator.com/item?id=33748363</a></p>
 <p>Points: 9</p>
 <p># Comments: 2</p>
+

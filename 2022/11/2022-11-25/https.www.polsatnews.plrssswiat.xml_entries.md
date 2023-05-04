@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Peru: Student medycyny miał zabić kochankę. Na plaży znaleziono części ciała
  - [https://www.polsatnews.pl/wiadomosc/2022-11-25/peru-student-medycyny-mial-zabic-kochanke-na-plazy-znaleziono-czesci-ciala/](https://www.polsatnews.pl/wiadomosc/2022-11-25/peru-student-medycyny-mial-zabic-kochanke-na-plazy-znaleziono-czesci-ciala/)
@@ -104,3 +104,4 @@ Niższa izba rosyjskiego parlamentu przyjęła w czwartek w trzecim czytaniu pop
  - date published: 2022-11-25 05:52:00+00:00
 
 Były zastępca sekretarza stanu Stolicy Apostolskiej, oskarżony o malwersacje włoski kardynał Angelo Becciu, w lipcu ubiegłego roku nagrał swoją rozmowę z papieżem Franciszkiem bez jego wiedzy i zgody. Jej zapis opublikowały włoskie media.
+

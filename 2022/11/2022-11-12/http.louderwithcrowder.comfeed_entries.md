@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Progressive "Karen" lashes out at Elon Musk calling Elizabeth Warren "Karen," but there's a hilarious twist
  - [https://www.louderwithcrowder.com/elon-musk-karen-tweet](https://www.louderwithcrowder.com/elon-musk-karen-tweet)
@@ -54,3 +54,4 @@
 <p>
 <em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
 </p></p>
+

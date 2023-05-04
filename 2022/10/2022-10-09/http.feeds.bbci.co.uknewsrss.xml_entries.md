@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Why Russia is cheering on the Burkina Faso coup
  - [https://www.bbc.co.uk/news/world-africa-63171771?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63171771?at_medium=RSS&at_campaign=KARANGA)
@@ -468,3 +468,4 @@ Senior MPs call on the party to rally around Liz Truss or risk ending up in oppo
  - date published: 2022-10-09 00:56:35+00:00
 
 Hundreds of kilograms of crystal methamphetamine were recovered from a small boat.
+

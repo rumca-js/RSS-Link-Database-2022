@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Nancy Pelosi Breaks Her Silence Over The Violent Attack On Her Husband
  - [https://www.dailywire.com/news/nancy-pelosi-breaks-her-silence-over-the-violent-attack-on-her-husband](https://www.dailywire.com/news/nancy-pelosi-breaks-her-silence-over-the-violent-attack-on-her-husband)
@@ -153,3 +153,4 @@ Former Republican Pennsylvania Sen. and presidential candidate Rick Santorum sai
  - date published: 2022-10-29 08:43:22+00:00
 
 House Speaker Nancy Pelosi’s elderly husband made a desperate 911 call early Friday from a bathroom in their multimillion-dollar San Francisco mansion, likely saving him from the deranged man who beat him with a hammer, authorities said. Suspect David DePape, 42, had broken into the home in the wee hours of Friday morning, demanding to ...
+

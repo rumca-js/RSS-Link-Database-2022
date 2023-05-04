@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Ethiopia, Tigrayan Rebels Reach Truce in Two-Year Civil War
  - [https://www.wsj.com/articles/ethiopia-tigrayan-rebels-reach-truce-in-two-year-civil-war-11667418320](https://www.wsj.com/articles/ethiopia-tigrayan-rebels-reach-truce-in-two-year-civil-war-11667418320)
@@ -20,3 +20,4 @@ Ali Khamenei steps up claims that U.S., Israel and Europe are inciting the month
  - date published: 2022-11-02 14:54:00+00:00
 
 Li Qiang’s record suggests he could serve as a moderating influence on Xi Jinping, but he has also fallen in line when it mattered.
+

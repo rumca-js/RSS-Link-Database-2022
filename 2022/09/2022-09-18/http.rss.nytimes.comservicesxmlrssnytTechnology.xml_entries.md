@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Clearview AI, Used by Police to Find Criminals, Now in Public Defenders’ Hands
  - [https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html](https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html)
@@ -20,3 +20,4 @@ As American feminists came together in 2017 to protest Donald Trump, Russia’s 
  - date published: 2022-09-18 09:00:10+00:00
 
 The Civil War drama “Emancipation” finished filming early this year. Now, Apple faces a quandary on what to do with the movie.
+

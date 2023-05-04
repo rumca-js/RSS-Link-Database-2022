@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Rodziny ofiar zabierają głos po wyroku w sprawie zestrzelenia samolotu
  - [https://tvn24.pl/swiat/katastrofa-lotu-mh17-sad-w-holandii-wydal-wyrok-po-zestrzeleniu-boeinga-777-komentarze-josepa-borrella-i-krewnych-ofiar-6225491?source=rss](https://tvn24.pl/swiat/katastrofa-lotu-mh17-sad-w-holandii-wydal-wyrok-po-zestrzeleniu-boeinga-777-komentarze-josepa-borrella-i-krewnych-ofiar-6225491?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Ranking 50 najbardziej kreatywnych ludzi w biznesie. Nagrodzona firma związana z platformą Player.pl" src="https://tvn24.pl/najnowsze/cdn-zdjecie-vr9sh0-ranking-50-najbardziej-kreatywnych-ludzi-w-biznesie-nagrodzona-firma-zwiazana-z-platforma-playerpl-6225517/alternates/LANDSCAPE_1280" />
     Za nami kolejna edycja rankingu "50 najbardziej kreatywnych w biznesie". W tym roku wygrali przedsiębiorcy zajmujący się produkowaniem systemów i podzespołów satelitarnych. Laureatem została również firma Cux, zajmująca się analityką behawioralną, która oferuje swoje rozwiązanie platformie Player.pl.
+

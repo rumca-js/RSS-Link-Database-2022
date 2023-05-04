@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## These fake US government job ads are spreading more malware
  - [https://www.techradar.com/news/these-fake-us-government-job-ads-are-spreading-more-malware/](https://www.techradar.com/news/these-fake-us-government-job-ads-are-spreading-more-malware/)
@@ -153,3 +153,4 @@ A sizeable minority of IT professionals misunderstand the risks surounding Micro
  - date published: 2022-10-03 08:27:54+00:00
 
 The leaked Lunar Shift Xbox controller has a mother-of-pearl effect.
+

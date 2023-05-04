@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Polecane zestawy komputerowe do gier październik 2022
  - [https://ithardware.pl/poradniki/polecane_zestawy_komputerowe_do_gier_pazdziernik_2022-23610.html](https://ithardware.pl/poradniki/polecane_zestawy_komputerowe_do_gier_pazdziernik_2022-23610.html)
@@ -167,3 +167,4 @@ Dojechaliśmy do momentu w roku, w kt&oacute;rym p&oacute;łki powinny się ugin
 
 <img src="https://ithardware.pl/artykuly/min/23595_1.png" />            Intel odsłania kolejne karty w związku ze zbliżającą się premierą grafik Arc A7, kt&oacute;re trafią do sprzedaży już 12 października, czyli tego samego dnia, co nowy flagowiec NVIDII, GeForce RTX 4090. W związku z tym gigant z Santa Clara...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/poznalismy_ceny_i_date_premiery_kart_arc_a770_i_a750_intel_moze_mocno_namieszac-23595.html">https://ithardw
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Ćwierć miliona przedwczesnych zgonów. Smog zabija w Europie
  - [https://wydarzenia.interia.pl/zagranica/news-cwierc-miliona-przedwczesnych-zgonow-smog-zabija-w-europie,nId,6431925](https://wydarzenia.interia.pl/zagranica/news-cwierc-miliona-przedwczesnych-zgonow-smog-zabija-w-europie,nId,6431925)
@@ -27,3 +27,4 @@
  - date published: 2022-11-24 12:06:46+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-rzad-wprowadza-wazne-zmiany-nowe-zasady-juz-od-15-grudnia,nId,6429348"><img align="left" alt="Rząd wprowadza ważne zmiany. Nowe zasady już od 15 grudnia" src="https://i.iplsc.com/rzad-wprowadza-wazne-zmiany-nowe-zasady-juz-od-15-grudnia/000GDTFM7PXJ0E1W-C321.jpg" /></a>Mój Prąd 5.0 to już kolejna edycja rządowego programu dotacji do paneli fotowoltaicznych. Obejmuje on nie tylko mikroinstalacje (PV), ale także systemy magazynowania energii i ciepła. Z dofinansowania mogą skorzystać miliony Polaków, jednak wcześniej muszą spełnić określone warunki i złożyć specjalny wniosek. Kto może skorzystać z dofinansowania i jaką kwotę można otrzymać w ramach nowej edycji programu Mój Prąd?</p><br clear="all" />
+

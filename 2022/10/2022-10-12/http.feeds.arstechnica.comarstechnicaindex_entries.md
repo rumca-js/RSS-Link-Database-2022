@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Carmack: “There’s a bunch that I’m grumpy about” in virtual reality
  - [https://arstechnica.com/?p=1889582](https://arstechnica.com/?p=1889582)
@@ -160,3 +160,4 @@ Dell's new Bluetooth mouse is equipped for portability, but not productivity.
  - date published: 2022-10-12 12:00:05+00:00
 
 OpenSignal tests show C-band's impact on 5G download speeds.
+

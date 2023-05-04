@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Florida teen arrested after 5-year-old shot in car, police say
  - [https://www.foxnews.com/us/florida-teen-arrested-5-year-old-shot-car-police-say](https://www.foxnews.com/us/florida-teen-arrested-5-year-old-shot-car-police-say)
@@ -1490,3 +1490,4 @@ Pennsylvania authorities have issued an Amber Alert for a missing 6-year-old gir
  - date published: 2022-10-27 00:14:16+00:00
 
 National Park Service divers on Oct. 18 found human remains at Lake Mead — the sixth set discovered since May in the severely dry lake outside Las Vegas.
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## State Lawmaker Advised Mormon Bishop Against Reporting Church Member Who Sexually Abused Daughters, Lawsuit Filings Say
  - [https://www.dailywire.com/news/state-lawmaker-advised-mormon-bishop-against-reporting-church-member-who-sexually-abused-daughters-lawsuit-filings-say](https://www.dailywire.com/news/state-lawmaker-advised-mormon-bishop-against-reporting-church-member-who-sexually-abused-daughters-lawsuit-filings-say)
@@ -454,3 +454,4 @@ On Wednesday night at the US Open, 19-year-old Carlos Alcaraz, who is seeded thi
  - date published: 2022-09-08 08:28:09+00:00
 
 Queen Elizabeth II is currently under medical supervision as she suffers with health issues, Buckingham Palace confirmed Thursday morning. The Queen, now 96 years old, was officially crowned on June 2, 1953. “Following further evaluation this morning, The Queen’s doctors are concerned for Her Majesty’s health and have recommended she remain under medical supervision,&#8221; a ...
+

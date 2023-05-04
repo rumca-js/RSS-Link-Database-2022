@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## The Shivah had an awesomely rabbinical take on Monkey Island's insult sword-fighting
  - [https://www.pcgamer.com/saturday-crapshoot-the-shivah](https://www.pcgamer.com/saturday-crapshoot-the-shivah)
@@ -48,3 +48,4 @@ Wordle today: The solution and a hint for Saturday's puzzle.
  - date published: 2022-10-01 00:18:02+00:00
 
 Undetected is the most 1998 game of 2022.
+

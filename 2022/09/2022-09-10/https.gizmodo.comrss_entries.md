@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## National Treasure, American Born Chinese, Santa Clauses, and More Just Got Trailers
  - [https://gizmodo.com/national-treasure-santa-clauses-moon-girl-abc-disney-pl-1849522093](https://gizmodo.com/national-treasure-santa-clauses-moon-girl-abc-disney-pl-1849522093)
@@ -139,3 +139,4 @@
  - date published: 2022-09-10 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ofWZ3mqM--/c_fit,fl_progressive,q_80,w_636/88076bc92faa9e0b7462e4752aa62550.jpg" /><p>Just when you thought you’d never get “<a href="https://gizmodo.com/disney-has-found-its-ariel-for-the-live-action-little-m-1836085939">Part of Your World</a>” stuck in your head ever again, <a href="https://gizmodo.com/disneys-live-action-little-mermaid-may-have-found-its-u-1835952566"><em>The Little Mermaid</em></a>’s <a href="https://gizmodo.com/
+

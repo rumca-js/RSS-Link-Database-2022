@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Dig Into Thor: Love and Thunder With These Exclusive Shot Breakdowns
  - [https://gizmodo.com/thor-love-thunder-vfx-marvel-studios-chris-hemsworth-1849530759](https://gizmodo.com/thor-love-thunder-vfx-marvel-studios-chris-hemsworth-1849530759)
@@ -265,3 +265,4 @@
  - date published: 2022-09-13 10:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--SK0M52CN--/c_fit,fl_progressive,q_80,w_636/c28dd9d08d75577f101fc54e2046137d.jpg" /><p>Cruise will launch its autonomous taxi service in Phoenix and Austin before the end of 2022, according to Kyle Vogt, the CEO of driverless car company. And Vogt promises that his company is planning to expand rapidly in 2023 if everything goes to plan.</p><p><a href="https://gizmodo.com/gm-cruise-launch-robotaxis-austin-phoenix-end-2022-1849528762">
+

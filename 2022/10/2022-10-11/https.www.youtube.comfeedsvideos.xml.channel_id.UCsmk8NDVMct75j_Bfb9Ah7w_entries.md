@@ -1,4 +1,4 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
+# Source:Virtual Reality Oasis, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, language:en-US
 
 ## Meta Connect Livestream 2022 - Quest Pro Coming Soon?
  - [https://www.youtube.com/watch?v=sAnuPfyDjJU](https://www.youtube.com/watch?v=sAnuPfyDjJU)
@@ -30,3 +30,4 @@ https://discord.gg/NN9TGrv
 Credit - The Quest Pro render in the thumbnail was created by SadlyItsBradley.
 
 #MetaConnect #QuestPro #VR
+

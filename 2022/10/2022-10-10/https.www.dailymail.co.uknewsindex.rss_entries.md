@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Disgraced Tory MP John Profumo 'honked like a goose' during intimate moments
  - [https://www.dailymail.co.uk/news/article-11301073/Disgraced-Tory-MP-John-Profumo-honked-like-goose-intimate-moments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11301073/Disgraced-Tory-MP-John-Profumo-honked-like-goose-intimate-moments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1686,3 +1686,4 @@ Lisa Gordon, chairman of Cenkos Securities, pledged never to return to the City 
  - date published: 2022-10-10 00:01:36+00:00
 
 Shylah Rodden, 26, was placed into a medically induced coma after she was hit by a rollercoaster at the Royal Melbourne Show on September 25.
+

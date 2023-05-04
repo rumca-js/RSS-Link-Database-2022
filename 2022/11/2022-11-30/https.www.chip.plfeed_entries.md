@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Zwrot akcji w zagadce sprzed 150 lat. Czym jest demon Maxwella?
  - [https://www.chip.pl/2022/11/demon-maxwella-obliczenia-kwantowe](https://www.chip.pl/2022/11/demon-maxwella-obliczenia-kwantowe)
@@ -151,3 +151,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="770" src="https://konto.chip.pl/wp-content/uploads/2022/11/minecraft.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/minecraft.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Przedstawiciele firmy OpenAI zaprojektowali bota zdolnego do gry w Minecraft. Zanim jednak wkroczył do akcji, musiał się szkolić. I to bardzo długo. Tak długo, że zajęło mu to 70 000 godzin oglądania ludzi spędzających czas w wirtualnym świecie od Mojang. Wnioski wyciągnięte z tego eksperymentu mogą okazać się przełomowe dla całej sztucznej inteligencji. W grę [&#8230;]</p>
+

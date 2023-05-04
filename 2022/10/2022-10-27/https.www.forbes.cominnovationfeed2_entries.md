@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Spooky ‘Graveyard’ Of Dead Stars Discovered As ‘Galactic Underworld’ Revealed For First Time
  - [https://www.forbes.com/sites/jamiecartereurope/2022/10/27/spooky-graveyard-of-dead-stars-discovered-as-galactic-underworld-revealed-for-first-time/](https://www.forbes.com/sites/jamiecartereurope/2022/10/27/spooky-graveyard-of-dead-stars-discovered-as-galactic-underworld-revealed-for-first-time/)
@@ -623,3 +623,4 @@ Meta Reality Labs had a 49% drop in revenue due to slowing Quest sales.
  - date published: 2022-10-27 00:00:00+00:00
 
 An asteroid as large as the Burj Kalifa—and the same size as the asteroid NASA smashed-up in September—is headed just past Earth.
+

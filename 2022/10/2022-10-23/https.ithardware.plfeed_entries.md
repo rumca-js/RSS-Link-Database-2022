@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Już od wtorku więcej reklam w Apple App Store. Wyjątkiem jest tylko jeden kraj
  - [https://ithardware.pl/aktualnosci/juz_od_wtorku_wiecej_reklam_w_apple_app_store_wyjatkiem_jest_tylko_jeden_kraj-23985.html](https://ithardware.pl/aktualnosci/juz_od_wtorku_wiecej_reklam_w_apple_app_store_wyjatkiem_jest_tylko_jeden_kraj-23985.html)
@@ -83,3 +83,4 @@ Resident Evil 4&nbsp;jest kolejną grą serii,...
 
 Anno 1800 zadebiutował na PC 16 kwietnia 2019 roku i na...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/anno_1800_console_edition_zapowiedziane_na_playstation_5_i_xbox_series_x_s-23979.html">https://ithardware.pl/aktual
+

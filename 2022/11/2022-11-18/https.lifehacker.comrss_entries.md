@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Check Yourself Before Investing in Limited Edition Sneakers
  - [https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026](https://lifehacker.com/check-yourself-before-investing-in-limited-edition-snea-1849803026)
@@ -132,3 +132,4 @@
  - date published: 2022-11-18 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0YCeCF5v--/c_fit,fl_progressive,q_80,w_636/7f6539e1b3fd438d579c31b8a4905313.jpg" /><p>One of the many lessons we were forced to learn from the pandemic was the importance of social interaction, and the devastation of social isolation. And even outside of our intimate relationships with friends and family, weak social ties are also necessary to our sense of wellbeing. I know how it easy it is to close…</p><p><a href="https://lifehacker.com/why-you-need-more-tiny-relationships-and-how-to-get-th-1849792425">Read more...</a></p>
+

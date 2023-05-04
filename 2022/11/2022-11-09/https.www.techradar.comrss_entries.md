@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## iPhone apps still track you even when you tell them not to
  - [https://www.techradar.com/news/iphone-apps-still-track-you-even-when-you-tell-them-not-to/](https://www.techradar.com/news/iphone-apps-still-track-you-even-when-you-tell-them-not-to/)
@@ -244,3 +244,4 @@ The Fujifilm X-T5 is a seriously impressive camera for keen photographers, but i
  - date published: 2022-11-09 02:02:06+00:00
 
 Despite a delay, the GoPro Hero 11 Black Mini is now available to buy, actually arriving ahead of its November 18 release date.
+

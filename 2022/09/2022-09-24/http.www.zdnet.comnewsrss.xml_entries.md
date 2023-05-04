@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Meta's AI guru LeCun: Most of today's AI approaches will never lead to true intelligence
  - [https://www.zdnet.com/article/metas-ai-guru-lecun-most-of-todays-ai-approaches-will-never-lead-to-true-intelligence/#ftag=RSSbaffb68](https://www.zdnet.com/article/metas-ai-guru-lecun-most-of-todays-ai-approaches-will-never-lead-to-true-intelligence/#ftag=RSSbaffb68)
@@ -34,3 +34,4 @@ Review: NexusLink's G.HN Wave 2 kit offers a slick way to repurpose your untethe
  - date published: 2022-09-24 03:49:00+00:00
 
 Beware of our picks for the best Halloween projector. They'll make your home the one to beat in the neighborhood this fall.
+

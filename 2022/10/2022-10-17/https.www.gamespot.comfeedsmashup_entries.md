@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Resident Evil Showcase Coming October 20
  - [https://www.gamespot.com/articles/resident-evil-showcase-coming-october-20/1100-6508358/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/resident-evil-showcase-coming-october-20/1100-6508358/?ftag=CAD-01-10abi2f)
@@ -279,3 +279,4 @@
  - date published: 2022-10-17 12:42:00+00:00
 
 <p dir="ltr">The <a href="https://www.gamespot.com/articles/new-silent-hill-games-everything-we-know-and-want-to-see/1100-6503663/">future of the Silent Hill franchise</a> has been as foggy as the town itself for some time, but the fog will soon clear as Konami has announced a Silent Hill Transmission livestream for October 19 at 2 PM PT / 5 PM ET.</p><p dir="ltr">According to a Sunday tweet from the official Konami Twitter account, the "latest updates for the Silent Hill series" are set to be d
+

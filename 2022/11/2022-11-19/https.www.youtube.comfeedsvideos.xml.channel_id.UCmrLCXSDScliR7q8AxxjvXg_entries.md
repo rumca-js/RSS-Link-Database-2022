@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## The LIE that (Almost) Started WORLD WAR III
  - [https://www.youtube.com/watch?v=Hs3Aw-0Pjfc](https://www.youtube.com/watch?v=Hs3Aw-0Pjfc)
@@ -60,3 +60,4 @@ http://www.digitaljuice.com/Intl
 -------------------------------
 
 #FelixRex #poland #nato
+

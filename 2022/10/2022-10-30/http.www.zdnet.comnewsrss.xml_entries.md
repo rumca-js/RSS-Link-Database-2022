@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Bosses say they're serious about cybersecurity. It's time for them to prove it
  - [https://www.zdnet.com/article/bosses-say-theyre-serious-about-cybersecurity-its-time-for-them-to-prove-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/bosses-say-theyre-serious-about-cybersecurity-its-time-for-them-to-prove-it/#ftag=RSSbaffb68)
@@ -48,3 +48,4 @@ When companies decide on technology, how much do they think about customers? And
  - date published: 2022-10-30 03:19:00+00:00
 
 Instant cameras may not be new gadgets, but they are becoming more modernized with selfie modes, Bluetooth capabilities, apps, and the use of filters. Polaroid Now+ is our top pick due to its fun app, filters, and vintage film experience. It's time to have actual photos in your hand again to showcase your memories in a classic way.
+

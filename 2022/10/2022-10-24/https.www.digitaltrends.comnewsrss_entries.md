@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This RTX 4090 GPU has a huge problem. It caught fire
  - [https://www.digitaltrends.com/computing/nvidia-geforce-rtx-4090-connector-burns-up/](https://www.digitaltrends.com/computing/nvidia-geforce-rtx-4090-connector-burns-up/)
@@ -20,3 +20,4 @@ Nvidia may be changing lanes and switching its focus away from the RTX 4090 and 
  - date published: 2022-10-24 18:48:21.344150+00:00
 
 Racing game fanatics and flight sim aficionados can finally get that immersed experience thanks to the Monoprice Dark Matter triple-monitor stand.
+

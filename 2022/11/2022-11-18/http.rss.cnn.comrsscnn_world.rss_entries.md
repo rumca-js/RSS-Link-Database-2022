@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Analysis: Princes Andrew and Harry will keep their last royal roles. But there's a catch
  - [https://www.cnn.com/2022/11/18/uk/royal-news-newsletter-11-18-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/11/18/uk/royal-news-newsletter-11-18-22-scli-gbr-cmd-intl/index.html)
@@ -48,3 +48,4 @@ Death is in the air on Twitter.
  - date published: 2022-11-18 01:40:44+00:00
 
 The 23rd Latin Grammy Awards are taking place on Thursday.
+

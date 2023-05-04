@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Science Shows That Jazz Musicians Have Their Own Individual Music Vocabulary
  - [https://www.forbes.com/sites/evaamsen/2022/11/21/science-shows-that-jazz-musicians-have-their-own-individual-music-vocabulary/](https://www.forbes.com/sites/evaamsen/2022/11/21/science-shows-that-jazz-musicians-have-their-own-individual-music-vocabulary/)
@@ -447,3 +447,4 @@ The celestial highlights for the week ahead include a beautiful crescent Moon, r
  - date published: 2022-11-21 00:03:21+00:00
 
 Audio systems that include a record player in the $200 range tend to underwhelm in both quality and sound. The new Electrohome Montrose Record Player + McKinley Powered Bookshelf Speakers bundle costs just $199, looks good, delivers stereo sound, and features an Audio Technica cartridge.
+

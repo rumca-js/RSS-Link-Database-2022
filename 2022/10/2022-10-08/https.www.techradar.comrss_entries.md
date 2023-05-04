@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## How The Rings of Power episode 7's lore reveals set up season 1's finale and beyond
  - [https://www.techradar.com/news/how-the-rings-of-power-episode-7s-lore-reveals-set-up-season-1s-finale-and-beyond/](https://www.techradar.com/news/how-the-rings-of-power-episode-7s-lore-reveals-set-up-season-1s-finale-and-beyond/)
@@ -34,3 +34,4 @@ If you’re thinking of buying this expensive graphics card, here’s several pi
  - date published: 2022-10-08 04:00:07+00:00
 
 YouTuber PBKreviews tears apart Google's new flagship phone to review how tough it would be to find replacement parts.
+

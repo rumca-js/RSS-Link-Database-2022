@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Amsterdam hotel could take legal action over appearance in Call of Duty: Modern Warfare 2
  - [https://www.pcgamer.com/amsterdam-hotel-could-take-legal-action-over-appearance-in-call-of-duty-modern-warfare-2](https://www.pcgamer.com/amsterdam-hotel-could-take-legal-action-over-appearance-in-call-of-duty-modern-warfare-2)
@@ -34,3 +34,4 @@ Or make functional ones, whatever, I'm not your dad.
  - date published: 2022-10-30 08:01:28+00:00
 
 Wordle today: The solution and a hint for the #498 puzzle.
+

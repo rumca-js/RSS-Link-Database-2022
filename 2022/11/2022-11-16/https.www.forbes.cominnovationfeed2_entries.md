@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## ‘Warzone 2’ And ‘Modern Warfare 2’ Social Tab Is Broken: Here’s A Workaround To Invite Friends
  - [https://www.forbes.com/sites/erikkain/2022/11/16/warzone-2-and-modern-warfare-2-social-tab-is-broken-heres-a-workaround-to-invite-friends/](https://www.forbes.com/sites/erikkain/2022/11/16/warzone-2-and-modern-warfare-2-social-tab-is-broken-heres-a-workaround-to-invite-friends/)
@@ -636,3 +636,4 @@ The FDA’s push to reclassify naloxone as an OTC product appears tepid and plod
  - date published: 2022-11-16 00:15:12+00:00
 
 Artificial intelligence is getting more powerful—here’s how to make it more sustainable.
+

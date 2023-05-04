@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Show HN: A decentralized semantic web built atop Activity Pub
  - [https://github.com/chatternet/chatternet-client-http](https://github.com/chatternet/chatternet-client-http)
@@ -737,3 +737,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33726167">https://news.ycombinator.com/item?id=33726167</a></p>
 <p>Points: 12</p>
 <p># Comments: 3</p>
+

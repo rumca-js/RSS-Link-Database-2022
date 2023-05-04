@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Hunter From Bad Batch Gets New Star Wars Vintage Collection Figure, Check It Out Here
  - [https://www.gamespot.com/articles/hunter-from-bad-batch-gets-new-star-wars-vintage-collection-figure-check-it-out-here/1100-6507937/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hunter-from-bad-batch-gets-new-star-wars-vintage-collection-figure-check-it-out-here/1100-6507937/?ftag=CAD-01-10abi2f)
@@ -27,3 +27,4 @@
  - date published: 2022-10-01 00:13:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4042754-fifa23_site.jpg" width="480" /> FIFA 23 makes incremental improvements to last year's game, but the looming presence of Ultimate Team's microtransactions cast a shadow over everything.
+

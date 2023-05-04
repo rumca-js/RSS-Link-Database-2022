@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## On Twitter, Who Needs a Check Mark When You Can Have a Rat?
  - [https://www.nytimes.com/2022/11/04/style/twitter-verification-rat-emoji.html](https://www.nytimes.com/2022/11/04/style/twitter-verification-rat-emoji.html)
@@ -62,3 +62,4 @@ Misleading edits, fake news stories and deepfake images of politicians are start
  - date published: 2022-11-04 00:48:45+00:00
 
 The social media company’s 7,500 employees have been bracing for job cuts since Mr. Musk took it over last week.
+

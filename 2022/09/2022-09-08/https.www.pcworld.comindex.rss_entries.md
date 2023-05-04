@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Windows 11 22H2 review: Subtle upgrades, but in weird places
  - [https://www.pcworld.com/article/827065/windows-11-22h2-review-subtle-improvements-but-not-where-it-should.html](https://www.pcworld.com/article/827065/windows-11-22h2-review-subtle-improvements-but-not-where-it-should.html)
@@ -61,3 +61,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Modern companies leverage vast volumes of data to inform their decisions. However, much of that data might be confidential to the organization or tied to its users, so&nbsp;<a href="https://www.pcworld.com/article/624825/update-your-asus-wi-fi-routers-firmware-right-away.html" rel="noreferrer noopener" target="_blank">vulnerabilities</a>&nbsp;may lead to untimely breaches that 
+

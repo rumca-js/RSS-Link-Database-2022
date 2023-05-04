@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## The Iranian Drones in Ukraine’s Already Crowded Skies
  - [https://www.nytimes.com/2022/10/19/us/politics/ukraine-drones-iran-russia.html](https://www.nytimes.com/2022/10/19/us/politics/ukraine-drones-iran-russia.html)
@@ -167,3 +167,4 @@ Russian attacks on Ukrainian power stations.
  - date published: 2022-10-19 04:01:17+00:00
 
 Across the capital, there are noticeably fewer men at restaurants, stores and social gatherings. Many have been called up to fight in Ukraine. Others have fled to avoid being drafted.
+

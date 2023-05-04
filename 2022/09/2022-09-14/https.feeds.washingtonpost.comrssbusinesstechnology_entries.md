@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## California sues Amazon for anticompetitive behavior
  - [https://www.washingtonpost.com/technology/2022/09/14/california-amazon-antitrust-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/14/california-amazon-antitrust-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Since buying the small virtual reality startup Oculus eight years ago, Meta has 
  - date published: 2022-09-14 06:00:27+00:00
 
 DARPA wants to create a tiny unmanned plane that could take off and land nearly anywhere in the world.
+

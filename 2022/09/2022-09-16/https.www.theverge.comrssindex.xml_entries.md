@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Apple is too strict with copy and paste in iOS 16
  - [https://www.theverge.com/2022/9/16/23357198/apple-ios-16-iphone-copy-paste-permission](https://www.theverge.com/2022/9/16/23357198/apple-ios-16-iphone-copy-paste-permission)
@@ -401,3 +401,4 @@
     </figure>
 
   <p id="jnEhp9">Motion-triggered <a href="https://www.theverge.com/23156554/smart-bulbs-switch-lighting-guide-how-to">smar
+

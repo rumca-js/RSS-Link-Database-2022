@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The National Science Foundation won’t rebuild the Arecibo Observatory telescope
  - [https://www.theverge.com/2022/10/13/23403529/national-science-foundation-nsf-arecibo-observatory-telescope-education-center](https://www.theverge.com/2022/10/13/23403529/national-science-foundation-nsf-arecibo-observatory-telescope-education-center)
@@ -523,3 +523,4 @@
 <figure>
       <img alt="Close-up photo of a silver Apple Watch Series 8, sitting atop a reflective tabletop surface, highlighted by a magenta backlight. The screen of the watch is on the watch OS app grid home screen." src="https://cdn.vox-cdn.com/thumbor/O7qwklVi3SSY2UayEx4lb3Oj0vY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71487774/226266_APPLE_WATCH_8_SE_PHO_akrales_0562.0.jpg" />
         <figcaption><em>The Apple Watch Series 8 inherits design elements from last year
+

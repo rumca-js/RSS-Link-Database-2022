@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Policja szuka świadków wypadku, w którym zginął strażak. Osierocił czwórkę dzieci
  - [https://www.polsatnews.pl/wiadomosc/2022-10-12/malopolskie-policja-szuka-swiadkow-wypadku-w-ktorym-zginal-strazak-osierocil-czworke-dzieci/](https://www.polsatnews.pl/wiadomosc/2022-10-12/malopolskie-policja-szuka-swiadkow-wypadku-w-ktorym-zginal-strazak-osierocil-czworke-dzieci/)
@@ -90,3 +90,4 @@ Mińsk zajmuje się wymianą uszkodzonego podczas działań wojennych rosyjskieg
  - date published: 2022-10-12 04:06:00+00:00
 
 - Putin jest racjonalnym aktorem, który znacznie się przeliczył - powiedział prezydent Stanów Zjednoczonych Joe Biden. Zapytany, czy Putin może użyć borni nuklearnej powiedział: Cóż, nie sądzę, żeby to zrobił. - Jeśli dojdzie do takiego błędu, nikt nie może być pewny, co się stanie i może to się skończyć Armagedonem - podkreślił Biden.
+

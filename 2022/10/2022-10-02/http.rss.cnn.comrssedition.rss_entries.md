@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Ex-oligarch says Putin made a dangerous move and is risking his life
  - [https://www.cnn.com/videos/world/2022/10/02/mikhail-khodorkovsky-vladimir-putin-nuclear-threat-gps-vpx.cnn](https://www.cnn.com/videos/world/2022/10/02/mikhail-khodorkovsky-vladimir-putin-nuclear-threat-gps-vpx.cnn)
@@ -175,3 +175,4 @@ Former President Donald Trump praised the "courage and strength" of Ginni Thomas
 
 • Pictures show the full extent of Ian's destruction
 • How to help victims of Hurricane Ian
+

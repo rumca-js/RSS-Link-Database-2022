@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## San Francisco Considers Allowing Use of Deadly Robots by Police
  - [https://www.nytimes.com/2022/11/30/us/police-robots-san-francisco.html](https://www.nytimes.com/2022/11/30/us/police-robots-san-francisco.html)
@@ -27,3 +27,4 @@ The new Halo Rise studies your body and breathing and rates your restfulness, fr
  - date published: 2022-11-30 10:00:33+00:00
 
 Two lawsuits in California have pre-emptively challenged a new law that would punish doctors for misleading patients about Covid-19.
+

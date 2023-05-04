@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Red Hat OpenStack Platform 17 arrives
  - [https://www.zdnet.com/article/red-hat-openstack-platform-17-arrives/#ftag=RSSbaffb68](https://www.zdnet.com/article/red-hat-openstack-platform-17-arrives/#ftag=RSSbaffb68)
@@ -188,3 +188,4 @@ Cybercriminals are using Google's Go programming language to target connected de
  - date published: 2022-09-29 09:05:28+00:00
 
 In the face of the 'most sustained and intensive cyber campaign on record', Ukraine shows that a sound cybersecurity strategy can protect assets in even the most trying circumstances, says NCSC boss.
+

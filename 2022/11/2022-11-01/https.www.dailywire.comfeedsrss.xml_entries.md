@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘First Time I’m Campaigning For A Democrat’: Liz Cheney Hits The Trail In Michigan
  - [https://www.dailywire.com/news/first-time-im-campaigning-for-a-democrat-liz-cheney-hits-the-trail-in-michigan](https://www.dailywire.com/news/first-time-im-campaigning-for-a-democrat-liz-cheney-hits-the-trail-in-michigan)
@@ -319,7 +319,6 @@ California’s move to cut out all sales of gas-powered vehicles by 2035 will li
  - [https://www.dailywire.com/news/lockdown-tyrants-want-pandemic-amnesty-conservatives-flood-social-media-with-reminders-of-what-they-did](https://www.dailywire.com/news/lockdown-tyrants-want-pandemic-amnesty-conservatives-flood-social-media-with-reminders-of-what-they-did)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-01 13:26:49+00:00
- - tags: covid,lockdown,pandemic amnesty
 
 After a columnist writing for The Atlantic on Monday asked for “pandemic amnesty,” receipts from mandate enthusiasts and videos of strict lockdown policies circulated on social media as users balked at the suggestion. Brown University economist Emily Oster penned an article admitting that school closures and other government mandates were ultimately unnecessary, then suggested that ...
 
@@ -476,3 +475,4 @@ Joe Rogan, host of &#8220;The Joe Rogan Experience,&#8221; said during a recent 
  - date published: 2022-11-01 00:36:44+00:00
 
 Hundreds of internal documents expose top U.S. government agencies working closely with social media companies like Facebook and Twitter to censor American freedom of speech — under the guise of fighting disinformation — over several years, as obtained and reported by The Intercept. The Intercept’s investigative journalist Lee Fang broke the story Monday, confirming what ...
+

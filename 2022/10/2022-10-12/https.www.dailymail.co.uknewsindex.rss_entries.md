@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## The split of Italy's Posh & Becks gets nastier: Francesco Totti takes handbags as hostages from wife
  - [https://www.dailymail.co.uk/news/article-11309581/Italys-Posh-Becks-split-Francesco-Totti-takes-handbags-hostages-wife-17-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11309581/Italys-Posh-Becks-split-Francesco-Totti-takes-handbags-hostages-wife-17-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1996,3 +1996,4 @@ Angela Lansbury has died aged 96.
  - date published: 2022-10-12 00:00:02+00:00
 
 More than 50 of the 400 displaced residents from 33 Tehama, a luxury apartment complex in San Francisco, are suing the owner for mismanagement after two massive leaks over the summer.
+

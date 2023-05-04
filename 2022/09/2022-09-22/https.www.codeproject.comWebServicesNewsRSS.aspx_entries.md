@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET MAUI in .NET 7 Release Candidate 1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58957](https://www.codeproject.com/script/News/View.aspx?nwid=58957)
@@ -125,3 +125,4 @@ In most code-bases, we still use primitives for everything.
  - date published: 2022-09-22 04:00:00+00:00
 
 You thought you were safe, did you?
+

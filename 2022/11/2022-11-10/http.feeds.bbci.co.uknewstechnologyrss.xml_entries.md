@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Elon Musk: Twitter asks NI secretary what 'tosh' looks like
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63582327?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63582327?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Twitter's owner responds to Chris Heaton-Harris after fake resignation rumours a
  - date published: 2022-11-10 05:01:09+00:00
 
 The US president was asked whether Saudi Arabia helping the Tesla boss to buy Twitter should be probed.
+

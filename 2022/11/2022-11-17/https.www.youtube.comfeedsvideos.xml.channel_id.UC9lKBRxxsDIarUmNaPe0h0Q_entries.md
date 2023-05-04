@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## Jeff Bezos' ugly prediction for the 2023 recession
  - [https://www.youtube.com/watch?v=-b2nmBaT1Z0](https://www.youtube.com/watch?v=-b2nmBaT1Z0)
@@ -48,3 +48,4 @@ This video is sponsored by Masterworks.
 See important Masterworks disclosures: http://masterworks.io/cd 
 
 #Economy #2023Recession #JeffBezos
+

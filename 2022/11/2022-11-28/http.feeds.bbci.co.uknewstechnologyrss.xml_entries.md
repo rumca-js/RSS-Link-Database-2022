@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Government denies weakening Online Safety Bill
  - [https://www.bbc.co.uk/news/technology-63782082?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63782082?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ The Irish Data Protection Commission says its inquiry has found Meta breached GD
  - date published: 2022-11-28 06:21:10+00:00
 
 On its 25th anniversary, an early GTA producer reveals the trials faced by its original developers.
+

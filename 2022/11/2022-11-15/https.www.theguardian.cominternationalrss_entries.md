@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## ‘Now I feel comfortable’: Melbourne United’s Isaac Humphries comes out as gay in basketball first
  - [https://www.theguardian.com/sport/2022/nov/16/now-i-feel-comfortable-melbourne-uniteds-isaac-humphries-comes-out-as-gay-in-first-for-nbl](https://www.theguardian.com/sport/2022/nov/16/now-i-feel-comfortable-melbourne-uniteds-isaac-humphries-comes-out-as-gay-in-first-for-nbl)
@@ -1112,3 +1112,4 @@ A sweet treat that’s easy to make<p>Roll 325g of <strong>puff pastry</strong> 
  - date published: 2022-11-15 00:01:07+00:00
 
 <p>The former first lady’s new book is a manifesto for thriving in a world that too often says you aren’t good enough</p><p>One afternoon not long after the Obamas had moved into the White House, Michelle organised a playdate for her youngest daughter, Sasha. The children were at their new school and she was worried about how they were settling in. So, in a move recognisable to parents everywhere, she hovered unseen nearby, listening intently, “quietly overcome with emotion any time a new peal of laughter erupted from Sasha’s room”.</p><p>When it was over she did, again, what any parent of a small child might do, and went out to meet the new friend’s mother. She wanted to chat about how the playdate had gone and maybe make a new friend for herself – at which point all relatability abruptly ended: a rustling surrounded her as her Secret Service detail, who hadn’t planned for this, talked urgently into their wrist microphones. The mother’s car was swiftly encircled by a Counter Assault Team. Hey there, Obama said. The woman, “eyeballing the guards clad in helmets and black battle dress … very, very slowly opened the car door and got out”.</p> <a href="https://www.theguardian.com/books/2022/nov/15/the-light-we-carry-by-michelle-obama-review-lessons-in-life">Continue reading...</a>
+

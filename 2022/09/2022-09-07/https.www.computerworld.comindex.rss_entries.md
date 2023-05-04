@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## After Apple's iPhone 14 launch event, a few things to consider
  - [https://www.computerworld.com/article/3672932/after-apples-iphone-14-launch-event-a-few-things-to-consider.html#tk.rss_all](https://www.computerworld.com/article/3672932/after-apples-iphone-14-launch-event-a-few-things-to-consider.html#tk.rss_all)
@@ -44,3 +44,4 @@
 <article>
 	<section class="page">
 <p>Although many organizations were already in the process of planning or implementing digital transformation strategies when COVID-19 struck, the pandemic pushed those companies to fast-track their efforts. As work from home become the rule, not the exception, enterprises rushed to deploy collaboration tools so employees could work together and remain productive from disparate locations.</p><p>Now, with return-to-office and hybrid work ramping up, companies nee
+

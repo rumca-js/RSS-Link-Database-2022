@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Rzeka ukryta pod lodowcem. Naukowcy nie mają dobrych wiadomości
  - [https://www.chip.pl/2022/10/rzeka-pod-lodowcem-antarktyda](https://www.chip.pl/2022/10/rzeka-pod-lodowcem-antarktyda)
@@ -175,3 +175,4 @@
 
 <img alt="nowa turecka broń przyszłości, Alpagut" class="attachment-full size-full wp-post-image" height="1282" src="https://konto.chip.pl/wp-content/uploads/2022/10/Oto-nowa-turecka-bron-przyszlosci.-Alpagut-jest-tani-a-przy-tym-szalenie-celny.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/Oto-nowa-turecka-bron-przyszlosci.-Alpagut-jest-tani-a-przy-tym-szalenie-celny.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Co kiedyś w niezaznajomionej z realiami wojska opinii publicznej było uznawane za sprzęt do robienia fotek i transportowania paczek? Oczywiście drony. Drony, które przez ostatnie miesiące udowodniły swoją wartość w całej masie różnych wariantów. Wiele wydarzeń sprawiło z kolei, że to Turcja została uznana za &#8220;kraj dronami płynący&#8221;, więc nic dziwnego, że Alpagut, jako nowa [&#8230;]</p>
+

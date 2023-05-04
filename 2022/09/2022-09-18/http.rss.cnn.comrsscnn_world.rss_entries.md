@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Why deleting something from the internet is 'almost impossible'
  - [https://www.cnn.com/2022/09/18/tech/deleting-data/index.html](https://www.cnn.com/2022/09/18/tech/deleting-data/index.html)
@@ -13,3 +13,4 @@ Most people may live out their digital lives with the assumption they can delete
  - date published: 2022-09-18 09:02:44+00:00
 
 At 11:44 a.m. on September 19, 1982, Scott Fahlman made internet history by stitching together a colon, a hyphen and a close parenthesis.
+

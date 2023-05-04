@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Criminals hijack antivirus software to deliver malware
  - [https://www.techradar.com/news/criminals-hijack-antivirus-software-to-deliver-malware/](https://www.techradar.com/news/criminals-hijack-antivirus-software-to-deliver-malware/)
@@ -188,3 +188,4 @@ Decentralised microblogging platform Mastodon wants to be the ‘open’ Twitter
  - date published: 2022-11-01 07:16:42+00:00
 
 We have the best prices and sales for the top-rated Dyson Supersonic hair dryer.
+

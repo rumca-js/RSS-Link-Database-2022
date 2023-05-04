@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Media company hacked, racist push notifications sent to Apple iPhones
  - [https://www.washingtonpost.com/technology/2022/09/27/fast-company-hack-apple-news/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/27/fast-company-hack-apple-news/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Ways to protect your digital life when dealing with domestic violence or stalkin
  - date published: 2022-09-27 08:15:22+00:00
 
 The network was unusual because it attempted to influence U.S. users about American topics, a Meta official said.
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## The Talent Transformation: How To Create A Learning Culture
  - [https://www.forbes.com/sites/servicenow/2022/10/28/the-talent-transformation-how-to-create-a-learning-culture/](https://www.forbes.com/sites/servicenow/2022/10/28/the-talent-transformation-how-to-create-a-learning-culture/)
@@ -580,3 +580,4 @@ The press already had their knives out before the stock dropped 20%.
  - date published: 2022-10-28 00:00:00+00:00
 
 Astronomers have found a graveyard that stretches three times the height of the Milky Way.
+

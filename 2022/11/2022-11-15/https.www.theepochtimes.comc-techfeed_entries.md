@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## More Than a Million Creditors Could Be Affected by FTX Fallout
  - [https://www.theepochtimes.com/more-than-a-million-creditors-could-be-affected-by-ftx-fallout_4864728.html](https://www.theepochtimes.com/more-than-a-million-creditors-could-be-affected-by-ftx-fallout_4864728.html)
@@ -34,3 +34,4 @@ A sonnet, a limerick, or a haiku is, at heart, a social media post or a meme. (1
  - date published: 2022-11-15 03:25:20+00:00
 
 An Apple logo adorns the facade of the downtown Brooklyn Apple store in New York on March 14, 2020. (Kathy Willens/AP Photo)
+

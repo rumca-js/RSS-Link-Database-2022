@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Florida Became Home To A Record-Breaking Number Of New Yorkers In August
  - [https://www.dailywire.com/news/florida-became-home-to-a-record-breaking-number-of-new-yorkers-in-august](https://www.dailywire.com/news/florida-became-home-to-a-record-breaking-number-of-new-yorkers-in-august)
@@ -517,3 +517,4 @@ California Democrat Governor Gavin Newsom will reportedly run for president in 2
  - date published: 2022-09-20 07:15:43+00:00
 
 Senior Florida officials said Monday that the 50 illegal immigrants that were flown to Martha&#8217;s Vineyard last week were effectively &#8220;wandering homeless along the border&#8221; before they were flown to the sanctuary city. The news comes after Governor Ron DeSantis (R-FL) had two planes land in Martha&#8217;s Vineyard as part of &#8220;the state’s relocation program ...
+

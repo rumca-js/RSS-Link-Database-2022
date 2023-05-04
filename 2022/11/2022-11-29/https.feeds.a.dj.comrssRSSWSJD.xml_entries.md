@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Amazon Launches Supply-Chain Software Service
  - [https://www.wsj.com/articles/amazon-launches-supply-chain-software-service-11669756856?mod=rss_Technology](https://www.wsj.com/articles/amazon-launches-supply-chain-software-service-11669756856?mod=rss_Technology)
@@ -69,3 +69,4 @@ The dispute could draw new attention to how speech is monitored on the internet.
  - date published: 2022-11-29 04:02:00+00:00
 
 Unrest in China has affected production of Apple’s devices, threatening the near-term sales mix that investors were counting on to help prop up iPhone revenue and highlighting long-term risks.
+

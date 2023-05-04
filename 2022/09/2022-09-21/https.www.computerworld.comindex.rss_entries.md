@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Six in 10 workers want to ditch the 40-hour work week, survey finds
  - [https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all](https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all)
@@ -27,3 +27,4 @@
 	<section class="page">
 <p>Apple's latest addition to the litany of tools for project and research collaboration, while inherently limited to Mac, iPhone, and iPad users, might even be of use to pros from time to time.</p><h2><strong>Apple’s keeping tabs for you</strong></h2>
 <p>Despite wailing from bookmark reactionaries like myself, Apple seems truly committed to the notion of organizing the web using tabs, rather than traditional bookmarks. It introduced Tab Groups with iOS 15.</p><
+

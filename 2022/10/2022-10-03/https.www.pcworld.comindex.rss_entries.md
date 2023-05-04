@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Cheaper OLED monitors might be coming soon
  - [https://www.pcworld.com/article/1340351/cheaper-oled-monitors-might-be-coming-soon.html](https://www.pcworld.com/article/1340351/cheaper-oled-monitors-might-be-coming-soon.html)
@@ -59,3 +59,4 @@
 
 
 <p>Without a $36 per year subscription, <a href=
+

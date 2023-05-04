@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## AI, it turns out, is not currently a very good physicist
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59392](https://www.codeproject.com/script/News/View.aspx?nwid=59392)
@@ -132,3 +132,4 @@ If it ain't broke, don't upgrade
  - date published: 2022-11-03 04:00:00+00:00
 
 And keep your answer to 140 characters or less
+

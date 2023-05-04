@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Star Citizen has officially reached half a billion in funding
  - [https://www.xfire.com/star-citizen-half-billion-funding/](https://www.xfire.com/star-citizen-half-billion-funding/)
@@ -821,3 +821,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32919425">https://news.ycombinator.com/item?id=32919425</a></p>
 <p>Points: 17</p>
 <p># Comments: 7</p>
+

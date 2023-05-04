@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## The 19-year evolution of Steam
  - [https://www.pcgamer.com/steam-versions](https://www.pcgamer.com/steam-versions)
@@ -244,3 +244,4 @@ Despite employee protests, Microsoft has gone ahead with the deal.
  - date published: 2022-09-12 01:25:22+00:00
 
 "Really, Commander?"
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Johnson rezygnuje z walki o powrót na stanowisko premiera Wielkiej Brytanii
  - [https://www.bankier.pl/wiadomosc/Johnson-rezygnuje-z-walki-o-powrot-na-stanowisko-premiera-Wielkiej-Brytanii-8427594.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Johnson-rezygnuje-z-walki-o-powrot-na-stanowisko-premiera-Wielkiej-Brytanii-8427594.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -148,3 +148,4 @@ zapłaty za cztery dekady gospodarczego cudu.</p>
  - date published: 2022-10-23 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/6/89bfbe6f09ec36-948-568-0-131-1755-1053.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Język programowania Java pozostaje jedną z najchętniej wykorzystywanych technologii w różnorodnych projektach IT. Przekłada się to również na trafiające na rynek oferty pracy. Programista Java może liczyć na szybkie znalezienia zatrudnienia i wyjątkowo atrakcyjne warunki.</p>
+

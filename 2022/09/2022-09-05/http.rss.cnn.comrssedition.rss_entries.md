@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Alabama superintendent fights to remove Confederate school names
  - [https://www.cnn.com/videos/us/2022/09/05/alabama-schools-confederate-names-romero-dnt-lead-vpx.cnn](https://www.cnn.com/videos/us/2022/09/05/alabama-schools-confederate-names-romero-dnt-lead-vpx.cnn)
@@ -406,3 +406,4 @@ A star-studded line-up, including Paul McCartney and Liam Gallagher, joined the 
  - date published: 2022-09-05 02:43:31+00:00
 
 University of California - San Diego professor Barbara Walter, author of "How Civil Wars Start", says that there is a faction of the Republican party who wants to unravel the US democracy due to former President Donald Trump engaging in "fear-mongering."
+

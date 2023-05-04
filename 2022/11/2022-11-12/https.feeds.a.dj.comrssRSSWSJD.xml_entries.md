@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## The EV Rivals Aiming for Tesla's Crown in China
  - [https://www.wsj.com/articles/the-ev-rivals-aiming-for-teslas-crown-in-china-11668264235?mod=rss_Technology](https://www.wsj.com/articles/the-ev-rivals-aiming-for-teslas-crown-in-china-11668264235?mod=rss_Technology)
@@ -34,3 +34,4 @@ More than $400 million worth of crypto funds appears to be missing, according to
  - date published: 2022-11-12 05:00:00+00:00
 
 Not this time, but unbeknownst to most people, AI is churning out articles, illustrations, fake product reviews and even short videos.
+

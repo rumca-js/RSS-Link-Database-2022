@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## The LA kids who started behind and then flew ahead
  - [https://www.bbc.co.uk/news/business-62618175?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62618175?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ A new scheme in Los Angeles is proving effective in helping teenagers with poor 
  - date published: 2022-10-06 14:03:46+00:00
 
 Joe Sullivan had covered up a "massive theft" of Uber user data, in 2016, prosecutors said.
+

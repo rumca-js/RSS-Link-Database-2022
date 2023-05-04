@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Huntsman spider influx, Queensland: Residents warned they'll be 'bigger' than before
  - [https://www.dailymail.co.uk/news/article-11475253/Huntsman-spider-influx-Queensland-Residents-warned-theyll-bigger-before.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475253/Huntsman-spider-influx-Queensland-Residents-warned-theyll-bigger-before.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1119,3 +1119,4 @@ The US child sex crime investigator has a list of five rules her children must f
  - date published: 2022-11-27 00:10:24+00:00
 
 The Nationals' federal leader David Littleproud has praised his Victorian branch for its strong state election performance, but warned some 'soul searching' is needed in the Liberal party.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Poznaliśmy dane sprzedaży konsol Xbox. Microsoft nie ma powodu do zadowolenia
  - [https://ithardware.pl/aktualnosci/microsoft_ujawnia_dane_sprzedazy_konsol_xbox-23954.html](https://ithardware.pl/aktualnosci/microsoft_ujawnia_dane_sprzedazy_konsol_xbox-23954.html)
@@ -199,3 +199,4 @@ Portal VideoCardz pochwalił się nowymi...
 
 <img src="https://ithardware.pl/artykuly/min/23934_1.jpg" />            Plotki okazały się prawdziwe i polskie studio Bloober Team faktycznie pracuje nad remakiem Silent Hill 2. Krakowiacy mają na koncie takie tytuły jak Layers of Fear, Blair Witch i The Medium, więc znają się na horrorach. To jednak nie wszystko, bo...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/fani_beda_wniebowzieci_konami_zapowiada_remake_silent_hill_2_i_trzy_inne_gry_w_uniwersum_horroru-239
+

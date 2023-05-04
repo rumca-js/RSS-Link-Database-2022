@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Android’s creator has returned with a surveillance startup
  - [https://www.androidauthority.com/andy-rubin-surveillance-startup-3225144/](https://www.androidauthority.com/andy-rubin-surveillance-startup-3225144/)
@@ -111,3 +111,4 @@ The much-awaited Google Home web view is here.
  - date published: 2022-10-26 05:31:23+00:00
 
 Apple will "have to comply" with the new rule, the company's Marketing Chief said at a conference.
+

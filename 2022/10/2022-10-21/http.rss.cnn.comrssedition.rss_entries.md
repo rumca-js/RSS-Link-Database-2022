@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Singapore's pre-execution photos seek to soften a policy activists say doesn't work
  - [https://www.cnn.com/2022/10/21/asia/singapore-executions-death-penalty-drug-trafficking-intl-hnk/index.html](https://www.cnn.com/2022/10/21/asia/singapore-executions-death-penalty-drug-trafficking-intl-hnk/index.html)
@@ -590,3 +590,4 @@ An Arizona voter and his wife were allegedly filmed and photographed as they tri
  - date published: 2022-10-21 00:39:25+00:00
 
 A new report from the Pentagon found that 519 US service members died by suicide in 2021, a decrease from the 582 cases in 2020.
+

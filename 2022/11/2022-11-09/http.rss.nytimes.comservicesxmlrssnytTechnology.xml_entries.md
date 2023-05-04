@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## After Election, Cautious Optimism That Few False Narratives Took Hold
  - [https://www.nytimes.com/2022/11/09/technology/midterms-election-misinformation.html](https://www.nytimes.com/2022/11/09/technology/midterms-election-misinformation.html)
@@ -62,3 +62,4 @@ Regularly replacing our phones takes a toll on our wallets and the environment. 
  - date published: 2022-11-09 04:01:28+00:00
 
 “Wait for more votes,” warned CNN’s John King, as wary anchors tried to avoid any predictions that might go awry.
+

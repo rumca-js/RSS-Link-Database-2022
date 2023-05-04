@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## PC sales fall off a cliff
  - [https://www.computerworld.com/article/3675895/pc-sales-fall-off-a-cliff.html#tk.rss_all](https://www.computerworld.com/article/3675895/pc-sales-fall-off-a-cliff.html#tk.rss_all)
@@ -41,3 +41,4 @@
 <li>Pixel phones in general have been total commercial flops.</li>
 </ol>
 <p>As someone who's studied, written about, and perso
+

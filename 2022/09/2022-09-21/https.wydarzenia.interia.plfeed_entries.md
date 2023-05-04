@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Zełenski w ONZ: Żądamy kary za rosyjskie zbrodnie
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-w-onz-zadamy-kary-za-rosyjskie-zbrodnie,nId,6299974](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-w-onz-zadamy-kary-za-rosyjskie-zbrodnie,nId,6299974)
@@ -503,3 +503,4 @@
  - date published: 2022-09-21 03:31:21+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-210-dzien-inwazji-rosji-relacja-na-zywo,nzId,3043,akt,210821"><img align="left" alt="Wojna w Ukrainie. 210. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-210-dzien-inwazji-rosji-relacja-na-zywo/000FO6PP95X9K0AG-C321.jpg" /></a>Najważniejsze i najnowsze informacje dotyczące sytuacji w Ukrainie w jednym miejscu. Śledź naszą relację na żywo.</p><br clear="all" />
+

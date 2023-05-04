@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Google’s getting rid of its standalone Driving Mode dashboard
  - [https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto](https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto)
@@ -59,3 +59,4 @@
     </figure>
 
   <p id="A12cZ8">It’s easy to forget now, but <a href="https://www.theverge.com/2012/10/23/3540
+

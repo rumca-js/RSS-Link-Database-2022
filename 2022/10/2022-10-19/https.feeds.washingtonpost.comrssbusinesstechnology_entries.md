@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Microsoft calls cloud gaming ‘immature’ in Activision deal filing
  - [https://www.washingtonpost.com/video-games/2022/10/19/xbox-playstation-call-duty-mobile-game-store/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/19/xbox-playstation-call-duty-mobile-game-store/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ It's wonderful to see female players getting some shine.
  - date published: 2022-10-19 07:00:10+00:00
 
 People keep turning on their iPhone flashlights, leaving embarrassing lights blazing out of their back pockets. What can we do to fix it?
+

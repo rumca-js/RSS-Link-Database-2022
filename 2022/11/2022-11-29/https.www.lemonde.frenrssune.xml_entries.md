@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Oath Keepers leader guilty of seditious conspiracy in Capitol assault
  - [https://www.lemonde.fr/en/united-states/article/2022/11/30/oath-keepers-leader-guilty-of-seditious-conspiracy-in-capitol-assault_6006097_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/30/oath-keepers-leader-guilty-of-seditious-conspiracy-in-capitol-assault_6006097_133.html)
@@ -230,3 +230,4 @@ The board of the Italian Serie A club has sought independent legal advice over a
  - date published: 2022-11-29 00:27:41+00:00
 
 A man carrying a rainbow flag and wearing a T-shirt with the words "Respect for Iranian Woman" on the back invaded the pitch during the game between Portugal and Uruguay  in Qatar on Monday. He was on the field for about 30 seconds before being escorted off by security.
+

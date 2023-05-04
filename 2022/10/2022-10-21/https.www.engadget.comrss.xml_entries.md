@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Pixel 7 owners can try Google's new Clear Calling feature in beta
  - [https://www.engadget.com/pixel-7-clear-calling-beta-test-193113009.html?src=rss](https://www.engadget.com/pixel-7-clear-calling-beta-test-193113009.html?src=rss)
@@ -118,3 +118,4 @@
  - date published: 2022-10-21 06:10:04+00:00
 
 <p><a href="https://www.engadget.com/2020-03-11-tiktok-us-transparency-center-spying-security-threat.html">TikTok</a> said it does not collect precise GPS location information from users in the US, which means it cannot be used to monitor people "in the way [<em>Forbes</em>] suggested." The app's communications team has tweeted that in response to a <a href="https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/?sh=57cf1a536c2d"><em>Forbes arti
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## This $59 Anker MagSafe charger offers something Apple's doesn't
  - [https://www.zdnet.com/article/this-59-anker-magsafe-charger-offers-something-apples-doesnt/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-59-anker-magsafe-charger-offers-something-apples-doesnt/#ftag=RSSbaffb68)
@@ -55,3 +55,4 @@ This refurbished 2017 Microsoft Surface Pro 5 is only 1.73 pounds and has an Int
  - date published: 2022-09-17 00:35:04+00:00
 
 RF Code's latest product simplifies the management of lights-out locations.
+

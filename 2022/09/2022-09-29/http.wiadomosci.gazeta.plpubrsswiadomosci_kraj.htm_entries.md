@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Przasnysz. Mężczyzna postanowił kręcić samochodem 'bączki' przed komendą. "Na złość policjantom"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28969457,przasnysz-mezczyzna-postanowil-krecic-samochodem-baczki-przed.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28969457,przasnysz-mezczyzna-postanowil-krecic-samochodem-baczki-przed.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-09-29 04:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/96/6c/1b/z28757910M,Lekcja-religii-w-szkole--zdjecie-ilustracyjne-.jpg" vspace="2" />W Łodzi ponad połowa uczniów nie pójdzie na religię w bieżącym roku szkolnym. Jak mówiła wiceprezydentka miasta, nieznane są powody masowej rezygnacji przez uczniów z udziału w lekcji religii.
+

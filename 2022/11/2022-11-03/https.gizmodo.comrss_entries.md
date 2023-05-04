@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Neanderthal and Denisovan DNA Discovered in Ancient South Americans
  - [https://gizmodo.com/neanderthal-and-denisovan-dna-discovered-in-ancient-sou-1849728899](https://gizmodo.com/neanderthal-and-denisovan-dna-discovered-in-ancient-sou-1849728899)
@@ -307,3 +307,4 @@
  - date published: 2022-11-03 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--AG-wGRyw--/c_fit,fl_progressive,q_80,w_636/d0b77278dab4d1cf372b42ce3431dfdd.jpg" /><p><a href="https://gizmodo.com/marvel-release-dates-when-to-see-upcoming-mcu-movies-a-1848196856">Marvel Studios</a>’ upcoming<em> <a href="https://gizmodo.com/vision-marvel-studios-disney-plus-vision-quest-bettany-1849717723">WandaVision s</a></em><a href="https://gizmodo.com/vision-marvel-studios-disney-plus-vision-quest-bettany-1849717723">pinoff</a> <em>Agatha: Coven of Chaos </em>is assembling quite the badass band of witches. <a href="https://variety.com/2022/tv/news/wandavision-spinoff-agatha-coven-of-chaos-aubrey-plaza-1235416041/" rel="noopener noreferrer" target="_blank">Variety reports</a> that the internet’s dear <em>Evil Hag</em> and <em>Christmas Witch </em>herself, Aubrey Plaza, is joining the anticipated Disney+ series in an unnamed role—but if it’s not as a witch they are doing it…</p><p><a href="https://gizmodo.com/aubrey-plaza-joins-mcu-show-agatha-coven-of-chaos-1849735603">Read more...</a></p>
+

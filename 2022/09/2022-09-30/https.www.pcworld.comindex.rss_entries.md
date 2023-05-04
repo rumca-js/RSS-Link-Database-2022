@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Redesigned USB logos finally make sense
  - [https://www.pcworld.com/article/1339611/redesigned-usb-logos-finally-make-sense.html](https://www.pcworld.com/article/1339611/redesigned-usb-logos-finally-make-sense.html)
@@ -119,3 +119,4 @@
 
 
 <p>Apple&rsquo;s AirPods are probably the best known set of wireless earbuds, but plenty of ot
+

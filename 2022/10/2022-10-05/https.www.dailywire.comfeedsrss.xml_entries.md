@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Arizona Professor Shot To Death On Campus; Former Student Arrested After Hours-Long Search
  - [https://www.dailywire.com/news/arizona-professor-shot-to-death-on-campus-former-student-arrested-after-hours-long-search](https://www.dailywire.com/news/arizona-professor-shot-to-death-on-campus-former-student-arrested-after-hours-long-search)
@@ -377,3 +377,4 @@ A former teammate of Tampa Bay Buccaneers quarterback Tom Brady posted a photogr
  - date published: 2022-10-05 07:31:06+00:00
 
 With Election Day fast approaching, Republicans are busy telling voters what they plan to do if they win in November. Democrats — and President Joe Biden — meanwhile, are breathlessly warning voters what will happen if Republicans are victorious. Rep. Pat Ryan (D-NY) recently said America faces “a coordinated domestic attempt to undermine our Constitution.” ...
+

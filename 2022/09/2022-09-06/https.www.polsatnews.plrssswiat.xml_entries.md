@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja. Lekcje patriotyzmu w szkołach. "Rośnie nowe putlerjugend"
  - [https://www.polsatnews.pl/wiadomosc/2022-09-06/rosja-lekcje-patriotyzmu-w-szkolach-rosnie-nowe-putlerjugend/](https://www.polsatnews.pl/wiadomosc/2022-09-06/rosja-lekcje-patriotyzmu-w-szkolach-rosnie-nowe-putlerjugend/)
@@ -83,3 +83,4 @@ Rosyjski Gazprom opublikował w internecie film zatytułowany To będzie długa 
  - date published: 2022-09-06 05:30:00+00:00
 
 Nie żyje jeden z napastników, który był poszukiwany przez policję w związku z serią napaści z użyciem noża - przekazała policja. Trwają poszukiwania drugiego mężczyznę, który brał udział w atakach. Napastnicy byli braćmi. W niedzielę zabili 11 osób w kanadyjskiej prowincji Saskatchewan.
+

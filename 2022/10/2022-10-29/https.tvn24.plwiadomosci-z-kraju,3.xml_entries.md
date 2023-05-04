@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Po ulewach rzeka wystąpiła z brzegów, woda zalała osiedle
  - [https://tvn24.pl/tvnmeteo/swiat/wenezuela-zalane-osiedle-w-miescie-el-macuto-ulewy-i-powodzie-6186023?source=rss](https://tvn24.pl/tvnmeteo/swiat/wenezuela-zalane-osiedle-w-miescie-el-macuto-ulewy-i-powodzie-6186023?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Po ulewach rzeka wystąpiła z brzegów, woda zalała osiedle" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-u2zwzy-wenezuela-6186029/alternates/LANDSCAPE_1280" />
     Obfite opady deszczu powodujące powodzie i osunięcia ziemi nękają Wenezuelę. Do gwałtownych powodzi doszło w piątek w rejonie miasta El Macuto w górzystym stanie Vargas na północy kraju. Pod wodą znalazło się wiele ulic.
+

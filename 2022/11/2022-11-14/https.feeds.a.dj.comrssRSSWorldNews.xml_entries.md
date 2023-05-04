@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Justice Department Opens Probe Into Killing of Palestinian-American Journalist
  - [https://www.wsj.com/articles/justice-department-opens-probe-into-killing-of-palestinian-american-al-jazeera-journalist-11668469486](https://www.wsj.com/articles/justice-department-opens-probe-into-killing-of-palestinian-american-al-jazeera-journalist-11668469486)
@@ -90,3 +90,4 @@ The yen’s slide against the dollar has increased the cost of imported raw mate
  - date published: 2022-11-14 06:02:00+00:00
 
 The comments came ahead of a meeting between President Biden and Chinese leader Xi Jinping at the G-20 summit.
+

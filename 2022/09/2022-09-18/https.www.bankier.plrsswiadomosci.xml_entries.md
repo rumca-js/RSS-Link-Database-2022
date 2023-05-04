@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Marszałek Witek: Obecne ceny energii i wysoka inflacja to nie wina rządu
  - [https://www.bankier.pl/wiadomosc/Marszalek-Witek-Obecne-ceny-energii-i-wysoka-inflacja-to-nie-wina-rzadu-8407911.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Marszalek-Witek-Obecne-ceny-energii-i-wysoka-inflacja-to-nie-wina-rzadu-8407911.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -139,3 +139,4 @@ rosnących rat kredytowyc
  - date published: 2022-09-18 01:24:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/2/059a526750f04d-945-560-0-74-1500-899.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W efekcie tegorocznych pożarów, które strawiły w Portugalii ponad 57 tys. hektarów lasów i nieużytków rolnych, powstały szkody o wartości przekraczającej kwotę 85 mln euro - podał w sobotę rząd Antonia Costy.</p>
+

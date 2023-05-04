@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Ukraina. Wołodymyr Zełenski: Zwycięstwa naszych wojsk nie ograniczają się do Łymanu
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-wolodymyr-zelenski-zwyciestwa-naszych-wojsk-nie-ogra,nId,6322503](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-wolodymyr-zelenski-zwyciestwa-naszych-wojsk-nie-ogra,nId,6322503)
@@ -286,3 +286,4 @@
  - date published: 2022-10-02 05:23:55+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-w-rosji-panuje-dzisiaj-strach-tak-putin-zaklina-rzeczywistos,nId,6320739"><img align="left" alt="&quot;W Rosji panuje dzisiaj strach&quot;. Tak Putin zaklina rzeczywistość" src="https://i.iplsc.com/w-rosji-panuje-dzisiaj-strach-tak-putin-zaklina-rzeczywistos/000G56FALC0XQU3U-C321.jpg" /></a>Władimir Putin ogłosił aneksję czterech ukraińskich obwodów. W swoim wystąpieniu straszył też bronią jądrową, a o całe z
+

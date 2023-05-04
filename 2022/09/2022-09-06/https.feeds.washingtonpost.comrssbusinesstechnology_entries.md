@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Tencent invests $297 million into Ubisoft
  - [https://www.washingtonpost.com/video-games/2022/09/06/tencent-ubisoft/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/06/tencent-ubisoft/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ The ultimate guide to not falling for scams from red flags to conversations you 
  - date published: 2022-09-06 05:00:00+00:00
 
 Meredith Whittaker, the former Google manager, is Signal’s first president. She is out to convince users to pay for the free app.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Pełne wyniki Złotej Piłki 2022. Lewandowski poza podium
  - [https://eurosport.tvn24.pl/pe-ne-wyniki-z-otej-pi-ki-2022--lewandowski-poza-podium,1121863.html?source=rss](https://eurosport.tvn24.pl/pe-ne-wyniki-z-otej-pi-ki-2022--lewandowski-poza-podium,1121863.html?source=rss)
@@ -223,3 +223,4 @@
 
 <img alt="Świątek wróciła do finałowej rutyny. Ma tytuł w San Diego" src="https://tvn24.pl/najnowsze/cdn-zdjecie-w55iwo-iga-swiatek-jest-liderka-swiatowego-rankingu-6166317/alternates/LANDSCAPE_1280" />
     Iga Świątek z ósmym turniejowym triumfem w tym roku. Polska tenisistka wygrała imprezę rangi WTA 500 w San Diego, pokonując w finale Chorwatkę Donnę Vekić.
+

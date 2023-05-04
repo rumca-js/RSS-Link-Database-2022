@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## VR fitness gets less sweaty with Meta Quest 2 Active Pack and Fitness API
  - [https://www.digitaltrends.com/computing/vr-fitness-gets-better-with-meta-quest-2-active-pack-and-fitness-api/](https://www.digitaltrends.com/computing/vr-fitness-gets-better-with-meta-quest-2-active-pack-and-fitness-api/)
@@ -13,3 +13,4 @@ Meta has new tools coming to help you work out. Meta announced the Meta Quest 2 
  - date published: 2022-10-12 07:06:47.352910+00:00
 
 Mark Zuckerberg announced avatars will soon include legs in Horizon Worlds, using the built-in Meta Quest 2 and Meta Quest Pro tracking technology.
+

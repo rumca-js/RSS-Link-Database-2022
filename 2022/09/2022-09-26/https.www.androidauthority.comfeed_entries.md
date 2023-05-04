@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## What is TikTok Now and how to use it?
  - [https://www.androidauthority.com/tiktok-now-explained-3213123/](https://www.androidauthority.com/tiktok-now-explained-3213123/)
@@ -160,3 +160,4 @@ Is this real 30W charging support, though?
  - date published: 2022-09-26 06:12:22+00:00
 
 A tough nut to crack.
+

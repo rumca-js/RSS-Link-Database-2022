@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## The Real Story of the Making of Nancy Pelosi
  - [https://theintercept.com/2022/11/17/nancy-pelosi-house-speaker-career/](https://theintercept.com/2022/11/17/nancy-pelosi-house-speaker-career/)
@@ -31,3 +31,4 @@
 
 <p>Schumer’s attempt at a rapid passage through unanimous consent would bypass debate on a payout using PPP money, angering families of Marines killed in Beirut bombing.</p>
 <p>The post <a href="https://theintercept.com/2022/11/16/september-11-victims-compensation-bill/" rel="nofollow">Chuck Schumer Quietly Moving Lame-Duck $3 Billion Payout to Families of 9/11 Victims</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

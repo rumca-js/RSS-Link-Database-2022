@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Spring EQ: 2022 Home Equity Review     - CNET
  - [https://www.cnet.com/personal-finance/mortgages/spring-eq-home-equity-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/spring-eq-home-equity-review/#ftag=CADf328eec)
@@ -769,3 +769,4 @@ Verizon's in-house prepaid plans are $5 cheaper per month across the board -- or
  - date published: 2022-10-21 00:19:00+00:00
 
 The company says it prohibited costumes inspired by the convicted murderer way before the release of the show Monster.
+

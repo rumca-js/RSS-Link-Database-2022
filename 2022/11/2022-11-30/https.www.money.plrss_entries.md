@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Biedronka i Lidl nagrodzone przez resort finansów. Płacą rekordowe podatki
  - [https://www.money.pl/podatki/biedronka-i-lidl-nagrodzone-przez-resort-finansow-placa-rekordowe-podatki-6839636528130592a.html](https://www.money.pl/podatki/biedronka-i-lidl-nagrodzone-przez-resort-finansow-placa-rekordowe-podatki-6839636528130592a.html)
@@ -132,3 +132,4 @@
  - date published: 2022-11-30 05:48:54+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/af37a534-f14c-4aeb-9a02-8d27a46815a2" width="308" /> Komisja Europejska przyjęła tzw. ustalenia operacyjne związane z polskim KPO. Jest to dwustronna umowa techniczna, która musi być jeszcze podpisana przez Polskę i KE. To dokument niezbędny, by uruchomić wypłaty z polskiego KPO.
+

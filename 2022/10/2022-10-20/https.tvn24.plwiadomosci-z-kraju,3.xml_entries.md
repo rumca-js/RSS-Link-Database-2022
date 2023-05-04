@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## "Niełatwa sytuacja" Rosjan wokół Chersonia. ISW: chcą przerwać tamę, by zamaskować swoje porażki
  - [https://tvn24.pl/swiat/ukraina-problemy-rosjan-wokol-chersonia-isw-moga-przerwac-tame-w-nowej-kachowce-by-zamaskowac-porazki-6171921?source=rss](https://tvn24.pl/swiat/ukraina-problemy-rosjan-wokol-chersonia-isw-moga-przerwac-tame-w-nowej-kachowce-by-zamaskowac-porazki-6171921?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Są najnowsze dane z produkcji przemysłowej. Lepiej niż prognozowano" src="https://tvn24.pl/najnowsze/cdn-zdjecie-dufv0r-pilne-16-5506665/alternates/LANDSCAPE_1280" />
     Produkcja przemysłowa we wrześniu 2022 roku wzrosła o 9,8 procent rok do roku. Również w porównaniu z poprzednim miesiącem odnotowano wzrost o 9,8 procent - podał Główny Urząd Statystyczny. Analitycy ankietowani przez PAP Biznes spodziewali się wzrostu produkcji o 8,8 proc. rdr i wzrostu o 8,8 proc. mdm.
+

@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Zmarł skazaniec, który wcześniej wytoczył proces więzieniu za torturowanie go popularną piosenką
  - [https://tvn24.pl/swiat/usa-zmarl-skazaniec-ktory-w-wiezieniu-mial-byc-torturowany-popularna-piosenka-6112074?source=rss](https://tvn24.pl/swiat/usa-zmarl-skazaniec-ktory-w-wiezieniu-mial-byc-torturowany-popularna-piosenka-6112074?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Zmarł skazaniec, który wcześniej wytoczył proces więzieniu za torturowanie go popularną piosenką" src="https://tvn24.pl/najnowsze/cdn-zdjecie-bfhfun-shutterstock1592890012-5529908/alternates/LANDSCAPE_1280" />
     Nie żyje więzień, który w przeszłości twierdził, że był torturowany przez funkcjonariuszy zakładu karnego, m.in. poprzez zmuszanie do słuchania przez wiele godzin piosenki "Baby Shark". Zdaniem adwokata zmarłego, okoliczności śmierci tuż przed kolejnym procesem w sprawie są "
+

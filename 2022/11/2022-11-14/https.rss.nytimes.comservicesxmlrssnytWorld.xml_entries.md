@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## U.S. Justice Dept. Investigates Killing of Shireen Abu Akleh in West Bank
  - [https://www.nytimes.com/2022/11/14/world/middleeast/shireen-abu-akleh-justice-department.html](https://www.nytimes.com/2022/11/14/world/middleeast/shireen-abu-akleh-justice-department.html)
@@ -167,3 +167,4 @@ Six killed in a deadly bombing in Istanbul.
  - date published: 2022-11-14 02:58:59+00:00
 
 Mr. Nasseri lived in Charles de Gaulle Airport for 18 years, sleeping on a bench, after he was stuck in limbo as a refugee. His life was the inspiration for the Steven Spielberg film, which starred Tom Hanks.
+

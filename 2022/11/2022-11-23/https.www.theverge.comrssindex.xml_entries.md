@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## San Francisco police consider letting robots use ‘deadly force’
  - [https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
@@ -612,3 +612,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down">Continue reading&hellip;</a>
   </p>
+

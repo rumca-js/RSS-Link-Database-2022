@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## Why Did This Woman's Blood Produce A Toxic Nerve Gas?
  - [https://www.youtube.com/watch?v=KQRqZokrQrI](https://www.youtube.com/watch?v=KQRqZokrQrI)
@@ -51,3 +51,4 @@ https://en.wikipedia.org/wiki/Vacutainer
 https://www.discovermagazine.com/health/analysis-of-a-toxic-death?utm_source=pocket_mylist
 https://www.grunge.com/227049/the-truth-about-the-mysterious-toxic-lady/
 https://medium.com/the-mystery-box/the-toxic-lady-gloria-ramirez-8e7ee7fd66f9
+

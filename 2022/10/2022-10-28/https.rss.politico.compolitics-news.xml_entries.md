@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## 1984: Rosalind Wyman briefs reporters on convention space
  - [https://www.politico.com/video/2022/10/28/1984-rosalind-wyman-briefs-reporters-on-convention-space-755823](https://www.politico.com/video/2022/10/28/1984-rosalind-wyman-briefs-reporters-on-convention-space-755823)
@@ -20,3 +20,4 @@ A spokesperson for Nancy Pelosi said the assailant is in custody.
  - date published: 2022-10-28 03:30:00+00:00
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## In RPGs, I prefer reading books to slaying dragons
  - [https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons](https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons)
@@ -195,3 +195,4 @@ How many nukes could a Duke Nuke duke if a Duke Nuke could nuke dukes?
  - date published: 2022-09-05 00:00:25+00:00
 
 "I'd at least hoped for someone with enough sense to wear pants."
+

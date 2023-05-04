@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Elżbieta II odwiedziła Polskę w 1996 roku. Przemawiała po polsku, jej mąż próbował śliwowicy [ZDJĘCIA]
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28887311,czy-krolowa-elzbieta-ii-odwiedzila-polske-archiwalne-zdjecia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28887311,czy-krolowa-elzbieta-ii-odwiedzila-polske-archiwalne-zdjecia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-09-08 05:45:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ab/01/1b/z28318891M,Syrena-alarmowa.jpg" vspace="2" />W czwartek w Warszawie odbędzie się test nowej syreny alarmowej. W ramach ćwiczeń nadany zostanie sygnał ogłoszenia i odwołania alarmu.
+

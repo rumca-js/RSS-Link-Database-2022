@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Lewandowski hat-trickiem zaczarował Camp Nou. Efektowne zwycięstwo Barcelony w Lidze Mistrzów
  - [https://eurosport.tvn24.pl/lewandowski-hat-trickiem-zaczarowa--camp-nou--efektowne-zwyci-stwo-barcelony-w-lidze-mistrz-w,1117790.html?source=rss](https://eurosport.tvn24.pl/lewandowski-hat-trickiem-zaczarowa--camp-nou--efektowne-zwyci-stwo-barcelony-w-lidze-mistrz-w,1117790.html?source=rss)
@@ -263,3 +263,4 @@
 
 <img alt="Będą wygaszane ulice i zamykane baseny. Samorządy dostają rachunki" src="https://tvn24.pl/najnowsze/cdn-zdjecie-d64dbtau2u-0609n310xr-pis-dnz-rosiewicz-6100671/alternates/LANDSCAPE_1280" />
     Gigantyczne podwyżki cen prądu już odczuwalne.
+

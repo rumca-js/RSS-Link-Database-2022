@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Joe and Jill Biden arrive in the UK for Queen's funeral
  - [https://www.dailymail.co.uk/news/article-11223041/Joe-Jill-Biden-arrive-UK-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223041/Joe-Jill-Biden-arrive-UK-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -825,3 +825,4 @@ SUE REID: Late last month, with electioneering under way, there was a shootout b
  - date published: 2022-09-17 00:30:51+00:00
 
 Telemundo's Cristina Londoño Rooney said while activists claim the migrants have been 'used as pawns' by DeSantis, the group of Venesuelans were actually happy to be brought up north.
+

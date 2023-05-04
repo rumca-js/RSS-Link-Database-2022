@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Most of the casualties in Seoul are teens or people in their 20s, fire chief says
  - [https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_25b0dbcb1c8085fc35369a014c084db5](https://edition.cnn.com/asia/live-news/seoul-south-korea-halloween-deaths#h_25b0dbcb1c8085fc35369a014c084db5)
@@ -342,3 +342,4 @@ As winter edges ever closer in Ukraine, Alla Melnychuk and her neighbors are rac
  - date published: 2022-10-29 00:22:29+00:00
 
 As a statement of intent, it was about as blunt as they get.
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## New Flaw in Acer Laptops Could Let Attackers Disable Secure Boot Protection
  - [https://thehackernews.com/2022/11/new-flaw-in-acer-laptops-could-let.html](https://thehackernews.com/2022/11/new-flaw-in-acer-laptops-could-let.html)
@@ -89,3 +89,4 @@ The vulnerability, tracked as CVE-2021-35587, carries a CVSS score of 9.8 and i
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Oracle Fusion Middleware to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation.
 The vulnerability, tracked as CVE-2021-35587, carries a CVSS score of 9.8 and impacts Oracle Access Manager (OAM) versions 11.1.2.3.0, 12.2.1.3.0, and 12.2.1.4.0.
 <!-
+

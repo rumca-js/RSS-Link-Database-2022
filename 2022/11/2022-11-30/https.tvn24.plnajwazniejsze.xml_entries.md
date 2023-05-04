@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Tylko trzech takich bramkarzy w historii
  - [https://eurosport.tvn24.pl/wyczyn-szcz-snego-jeszcze-wi-kszy--tylko-trzech-takich-bramkarzy,1127139.html?source=rss](https://eurosport.tvn24.pl/wyczyn-szcz-snego-jeszcze-wi-kszy--tylko-trzech-takich-bramkarzy,1127139.html?source=rss)
@@ -847,3 +847,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-tq18ud2akg-2911n399xr-pis-dnz-sleziak/alternates/LANDSCAPE_1280" />
     Składka ZUS może się okazać zabójcza dla wielu polskich przedsiębiorców.
+

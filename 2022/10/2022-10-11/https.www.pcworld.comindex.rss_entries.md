@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## This jaw-dropping Prime Day gaming PC deal is cheaper than building it yourself
  - [https://www.pcworld.com/article/1350453/get-your-game-on-with-this-excellent-prime-day-desktop-pc-deal.html](https://www.pcworld.com/article/1350453/get-your-game-on-with-this-excellent-prime-day-desktop-pc-deal.html)
@@ -248,3 +248,4 @@
 
 
 <p>You&rsquo;ll need to <a href="https://www.pcworld.com/article/402239/how-to-get-amazon-prime-for-free.html">sign up for Amazon Prime (for free</a>) to take advantage of A
+

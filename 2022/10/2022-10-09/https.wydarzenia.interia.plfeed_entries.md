@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wenezuela: Nie żyją co najmniej 22 osoby, a ponad 50 zaginęło po osunięciu się ziemi w Las Tejerias
  - [https://wydarzenia.interia.pl/zagranica/news-wenezuela-nie-zyja-co-najmniej-22-osoby-a-ponad-50-zaginelo-,nId,6336929](https://wydarzenia.interia.pl/zagranica/news-wenezuela-nie-zyja-co-najmniej-22-osoby-a-ponad-50-zaginelo-,nId,6336929)
@@ -331,3 +331,4 @@
  - date published: 2022-10-09 04:24:56+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-228-dzien-inwazji-rosji-relacja-na-zywo,nzId,3156,akt,090746"><img align="left" alt="Wojna w Ukrainie. 228. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-228-dzien-inwazji-rosji-relacja-na-zywo/000G6E8HKVPXL8D5-C321.jpg" /></a>Najnowsze informacje z Ukrainy.</p><br clear="all" />
+

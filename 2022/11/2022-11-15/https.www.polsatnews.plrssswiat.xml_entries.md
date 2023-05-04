@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rurociąg "Przyjaźń". Czasowo wstrzymano dostawy ropy. Viktor Obran zwołał posiedzenie Rady Obrony
  - [https://www.polsatnews.pl/wiadomosc/2022-11-15/rurociag-przyjazn-czasowo-wstrzymano-dostawy-ropy-viktor-obran-zwolal-posiedzenie-rady-obrony/](https://www.polsatnews.pl/wiadomosc/2022-11-15/rurociag-przyjazn-czasowo-wstrzymano-dostawy-ropy-viktor-obran-zwolal-posiedzenie-rady-obrony/)
@@ -90,3 +90,4 @@ Mimo groźnych skutków ubocznych młodzi Holendrzy chętnie sięgają po... gaz
  - date published: 2022-11-15 05:25:00+00:00
 
 Prezydent Ukrainy Wołodymyr Zełenski powiedział we wtorek przywódcom najbogatszych krajów świata, że ​​nadszedł czas, aby zatrzymać wojnę w jego kraju w ramach zaproponowanego przez niego planu pokojowego.
+

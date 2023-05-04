@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Don't expect console or Game Pass crossplay from Warhammer 40K: Darktide any time soon
  - [https://www.pcgamer.com/warhammer-40k-darktide-crossplay-pc-game-pass-xbox](https://www.pcgamer.com/warhammer-40k-darktide-crossplay-pc-game-pass-xbox)
@@ -244,3 +244,4 @@ Some of them are, er, more than meets the eye.
  - date published: 2022-11-18 00:13:22+00:00
 
 The XP requirements have been reduced by over 50%.
+

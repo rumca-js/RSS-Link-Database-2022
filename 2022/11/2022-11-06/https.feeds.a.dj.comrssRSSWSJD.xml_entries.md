@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Meta Plans to Begin Large-Scale Layoffs This Week
  - [https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794?mod=rss_Technology](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794?mod=rss_Technology)
@@ -34,3 +34,4 @@ Amazon has long had one of the most successful subscription programs but is seek
  - date published: 2022-11-06 10:31:00+00:00
 
 In his first week at Twitter, the billionaire fired top leaders, conducted sweeping layoffs and hinted that other changes could be on the way.
+

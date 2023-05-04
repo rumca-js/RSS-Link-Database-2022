@@ -1,4 +1,4 @@
-# Source Washington Examiner - Tech, Source URL:https://feeds.feedburner.com/dcexaminer/tech, Source language: en-US
+# Source:Washington Examiner - Tech, URL:https://feeds.feedburner.com/dcexaminer/tech, language:en-US
 
 ## Potential hurricane causes NASA to delay Artemis 1 mission for the third time
  - [https://www.washingtonexaminer.com/policy/space/hurricane-causes-delay-artemis-1](https://www.washingtonexaminer.com/policy/space/hurricane-causes-delay-artemis-1)
@@ -6,3 +6,4 @@
  - date published: 2022-09-24 18:14:22+00:00
 
 NASA's latest mission to the moon, Artemis 1, has been delayed for the third time.
+

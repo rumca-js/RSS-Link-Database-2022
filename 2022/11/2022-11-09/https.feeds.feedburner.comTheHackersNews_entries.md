@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## APT29 Exploited a Windows Feature to Compromise European Diplomatic Entity Network
  - [https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html](https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html)
@@ -61,3 +61,4 @@ CVE-2022-31685 is an
 Microsoft's latest round of monthly security updates has been released with fixes for 68 vulnerabilities spanning its software portfolio, including patches for six actively exploited zero-days.
 12 of the issues are rated Critical, two are rated High, and 55 are rated Important in severity. This also includes the weaknesses that were closed out by OpenSSL the previous week.
 Also separately
+

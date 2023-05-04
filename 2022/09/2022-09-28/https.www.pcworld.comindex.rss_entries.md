@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best Amazon TV deals: Top picks before the Prime Early Access Sale
  - [https://www.pcworld.com/article/797028/prime-day-tv-deals.html](https://www.pcworld.com/article/797028/prime-day-tv-deals.html)
@@ -119,3 +119,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Amazon&rsquo;s&nbsp;<a href="https://www.pcworld.com/article/3203969/internet/amazon-prime-day-everything-you-need-to-know.html">Prime Early Access Sale 2022</a> is happening in the fall this year and as always, you&rsquo;ll need to be a Prime member to partake of the deals. Prime is Amazon&rsquo;s $139-per-year service that provides two-day shipping on all orders, as well as a
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Warhammer: Vermintide 2 dostępny za darmo na Steam
  - [https://ithardware.pl/aktualnosci/warhammer_vermintide_2_dostepny_za_darmo_na_steam-24190.html](https://ithardware.pl/aktualnosci/warhammer_vermintide_2_dostepny_za_darmo_na_steam-24190.html)
@@ -231,3 +231,4 @@ Poznaliśmy oficjalną datę debiutu serialu The Last of Us, kt&oacute;ry trafi 
 
 Poznaliśmy oficjalną datę debiutu serialu The Last of Us, kt&oacute;ry trafi na HBO 15 stycznia 2023...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/poznalismy_oficjalna_date_premiery_serialu_the_last_of_us-24166.html">https://ithardware.pl/aktualnosci/poznalismy_oficjalna_date_premiery_serialu_the_last_of_us-24166.html</a></p>
+

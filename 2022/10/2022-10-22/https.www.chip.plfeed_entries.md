@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Na ten timelapse trzeba było czekać 12 lat. Jest nie tylko efektowny, ale i przydatny
  - [https://www.chip.pl/2022/10/timelapse-nieba-misja-neowise](https://www.chip.pl/2022/10/timelapse-nieba-misja-neowise)
@@ -95,3 +95,4 @@
 
 <img alt="Bombowiec B-52 z nowymi silnikami," class="attachment-full size-full wp-post-image" height="1065" src="https://konto.chip.pl/wp-content/uploads/2022/09/Bombowiec-B-52-z-nowymi-silnikami.-Boeing-udostepnil-ciekawe-nagranie.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/09/Bombowiec-B-52-z-nowymi-silnikami.-Boeing-udostepnil-ciekawe-nagranie.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Siły Powietrzne USA dążą do utrzymania na służbie swojego kultowego wręcz bombowca, który zostanie ulepszony na szereg sposobów, aby realizować misje jeszcze przez kilka dekad. Dziś za sprawą magazynu Air & Space Forces Magazine, możemy obejrzeć to, jak wygląda ulepszony bombowiec B-52, dzięki renderowi, którego wspomniany magazyn właśnie udostępnił. Ulepszony bombowiec B-52 na nowym renderze [&#8230;]</p>
+

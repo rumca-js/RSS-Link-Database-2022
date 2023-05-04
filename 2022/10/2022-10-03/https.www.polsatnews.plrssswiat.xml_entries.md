@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja. Elon Musk zaproponował warunki pokoju między Rosją a Ukrainą. Andrij Melnyk ostro zareagował
  - [https://www.polsatnews.pl/wiadomosc/2022-10-03/rosja-elon-musk-zaproponowal-warunki-pokoju-miedzy-rosja-a-ukraina-andrij-melnyk-ostro-zareagowal/](https://www.polsatnews.pl/wiadomosc/2022-10-03/rosja-elon-musk-zaproponowal-warunki-pokoju-miedzy-rosja-a-ukraina-andrij-melnyk-ostro-zareagowal/)
@@ -160,3 +160,4 @@ Komisarz wojskowy rosyjskiego obwodu chabarowskiego musiał pożegnać się ze s
  - date published: 2022-10-03 04:04:00+00:00
 
 Pierwsza tura wyborów prezydenckich nie przyniosła rozstrzygnięcia, żaden z kandydatów nie dostał 50 proc. poparcia. Po przeliczeniu prawie wszystkich głosów faworyt, Lula da Silva, otrzymał 48,4 proc. głosów. Jego konkurent, urzędujący prezydent Jair Bolsonaro, dostał 43,3 proc. poparcia. Druga tura wyborów odbędzie się 30 października.
+

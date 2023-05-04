@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Szczątki trzech prezydentów RP na uchodźstwie będą sprowadzone do kraju. W ramach misji "wolna Polska"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28956480,szczatki-trzech-prezydentow-beda-sprowadzone-do-warszawy-zostana.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28956480,szczatki-trzech-prezydentow-beda-sprowadzone-do-warszawy-zostana.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-09-26 07:11:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/55/61/1b/z28712277M,Straz-Graniczna--Zdjecie-ilustracyjne.jpg" vspace="2" />Ograniczenie wjazdu do Polski dla Rosjan weszło w życie 19 września. Od tygodnia obywatele Rosji nie mogą wjechać na terytorium Polski w celach turystycznych, biznesowych, kulturalnych i sportowych. Z kolei od 26 września ograniczenie zostało rozszerzone o możliwość przekroczenia granicy lotniczej i morskiej.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Brazil prepares for another month of political battle as run-off looms
  - [https://www.cnn.com/2022/10/03/americas/brazil-prepares-presidential-election-runoff-intl-latam/index.html](https://www.cnn.com/2022/10/03/americas/brazil-prepares-presidential-election-runoff-intl-latam/index.html)
@@ -27,3 +27,4 @@ A US airstrike in Somalia killed an al-Shabaab militant leader on Saturday in co
  - date published: 2022-10-03 00:03:02+00:00
 
 OPEC+ will consider an oil output cut of more than a million barrels per day (bpd) next week, OPEC sources said on Sunday, in what would be the biggest move yet since the COVID-19 pandemic to address oil market weakness.
+

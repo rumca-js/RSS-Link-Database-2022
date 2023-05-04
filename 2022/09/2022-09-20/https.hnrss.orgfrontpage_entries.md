@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Google is deprecating Google Surveys
  - [https://support.google.com/surveys/answer/12626240?hl=en](https://support.google.com/surveys/answer/12626240?hl=en)
@@ -24,7 +24,6 @@
  - [https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 20:33:35+00:00
- - tags: youtube
 
 <p>Article URL: <a href="https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html">https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32917407">https://news.ycombinator.com/item?id=32917407</a></p>
@@ -596,3 +595,4 @@ I really believe that companies should use better strategies then putting mor
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32905885">https://news.ycombinator.com/item?id=32905885</a></p>
 <p>Points: 28</p>
 <p># Comments: 8</p>
+

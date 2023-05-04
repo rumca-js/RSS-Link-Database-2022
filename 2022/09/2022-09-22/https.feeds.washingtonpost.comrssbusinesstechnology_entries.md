@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Study of large incel internet forum raises alarms about its growth
  - [https://www.washingtonpost.com/technology/2022/09/22/incels-rape-murder-study/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/incels-rape-murder-study/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -69,3 +69,4 @@ The wild beginnings, crazy turns, colorful characters and multiple comebacks of 
  - date published: 2022-09-22 06:00:24+00:00
 
 President Biden said he wants to foster research on early-cancer-detection blood tests through his cancer “moonshot” initiative.
+

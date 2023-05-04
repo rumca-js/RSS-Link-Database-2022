@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Marvel's Midnight Suns is getting Deadpool, Venom, and more as DLC
  - [https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc](https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc)
@@ -223,3 +223,4 @@ Massive thanks to the individuals who fought for this, from us and likely also M
  - date published: 2022-10-27 00:29:01+00:00
 
 2022 is almost over, but city builder fans have a lot to look forward to over the next two months.
+

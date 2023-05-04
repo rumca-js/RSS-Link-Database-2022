@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Apple Store in Oklahoma City Becomes Second to Unionize
  - [https://www.nytimes.com/2022/10/14/business/economy/apple-store-union-oklahoma-city.html](https://www.nytimes.com/2022/10/14/business/economy/apple-store-union-oklahoma-city.html)
@@ -6,3 +6,4 @@
  - date published: 2022-10-15 01:52:23+00:00
 
 Workers said pay was adequate and benefits were good, but complained that managers’ practices often seemed arbitrary.
+

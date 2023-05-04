@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Bill Barr Reveals What He Thinks Will Happen Next In Letitia James’ Civil Lawsuit Against The Trump Family
  - [https://www.dailywire.com/news/bill-barr-reveals-what-he-thinks-will-happen-next-in-letitia-james-civil-lawsuit-against-the-trump-family](https://www.dailywire.com/news/bill-barr-reveals-what-he-thinks-will-happen-next-in-letitia-james-civil-lawsuit-against-the-trump-family)
@@ -762,3 +762,4 @@ The Biden administration, the Delaware governor’s office, and the mainstream m
  - date published: 2022-09-21 07:34:59+00:00
 
 A normally anti-woke professor faced backlash online Tuesday after urging people on social media to make a &#8220;good argument&#8221; as to why a male teacher in Canada who wears giant prosthetic breasts in the classroom should not be allowed to teach in a public school. The teacher, who Fox News host Tucker Carlson has covered ...
+

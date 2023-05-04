@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Dominikanin Paweł M. skazany na cztery lata więzienia za gwałt. "Przywracanie elementarnej sprawiedliwości"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28946651,dominikanin-pawel-m-skazany-na-cztery-lata-wiezienia-za-gwalt.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28946651,dominikanin-pawel-m-skazany-na-cztery-lata-wiezienia-za-gwalt.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-09-23 04:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/da/85/1b/z28859354M,Zlota-polska-jesien--zdjecie-ilustracyjne-.jpg" vspace="2" />Pierwszy dzień jesieni nadszedł. Dziś, w piątek 23 września, rozpoczęła się kolejna kalendarzowa pora roku. W tym roku zarówno kalendarzowa, jak i astronomiczna jesień zaczyna się tego samego dnia - to wyjątkowa sytuacja. Od teraz dni będą krótsze od nocy.
+

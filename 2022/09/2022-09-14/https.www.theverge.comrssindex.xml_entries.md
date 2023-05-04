@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Android and iOS take big steps toward launching Matter smart home compatibility
  - [https://www.theverge.com/2022/9/14/23353776/android-and-ios-matter-smart-home-compatibility](https://www.theverge.com/2022/9/14/23353776/android-and-ios-matter-smart-home-compatibility)
@@ -433,3 +433,4 @@
     </figure>
 
   <p id="2C7Svl">Logitech’s Brio 500 is a new webcam with a compact design that features a neatly integrated physical privacy shutter and a “Show Mode” designed to broad
+

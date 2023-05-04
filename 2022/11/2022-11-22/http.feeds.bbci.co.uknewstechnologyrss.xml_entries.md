@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## FTX: Court says Sam Bankman-Fried ran FTX as a 'personal fiefdom'
  - [https://www.bbc.co.uk/news/business-63720310?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63720310?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ The UK competition watchdog launches a market investigation into cloud gaming an
  - date published: 2022-11-22 00:09:44+00:00
 
 Indians are among thousands of educated and skilled immigrant workers laid off by US tech giants.
+

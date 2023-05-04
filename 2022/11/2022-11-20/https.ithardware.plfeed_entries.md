@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Google miało przekupić Activision, by zatrzymać prace na sklepem z aplikacjami
  - [https://ithardware.pl/aktualnosci/google_mialo_przekupic_activision_by_zatrzymac_prace_na_sklepem_z_aplikacjami-24450.html](https://ithardware.pl/aktualnosci/google_mialo_przekupic_activision_by_zatrzymac_prace_na_sklepem_z_aplikacjami-24450.html)
@@ -71,3 +71,4 @@ Honor Magic Vs dostanie 6,45-calowy zewnętrzny wyświetlacz OLED o rozdzielczo�
 
 <img src="https://ithardware.pl/artykuly/min/24441_1.jpg" />            Donald Trump został permanentnie zablokowany na Twitterze&nbsp;po ataku na Kapitol na początku 2021 roku, kt&oacute;rego&nbsp;dokonali zwolennicy Trumpa&nbsp;po przegranych przez niego wyborach prezydenckich w Stanach Zjednoczonych. Po przejęciu...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/twitter_odblokowal_konto_donalda_trumpa_elon_musk_przeprowadzil_glosowanie-24441.html">https://ithardware.pl/aktualnosci/twitter_odblokowal_konto_donalda_trumpa_elon_musk_przeprowadzil_glosowanie-24441.html</a></p>
+

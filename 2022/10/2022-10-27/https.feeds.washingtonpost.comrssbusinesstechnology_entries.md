@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## How to lock down your Twitter data, or leave, as Musk takes over
  - [https://www.washingtonpost.com/technology/2022/04/26/twitter-musk-data-protect/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/04/26/twitter-musk-data-protect/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -90,3 +90,4 @@ The laser-powered chip could mean faster broadband speeds for consumers and an i
  - date published: 2022-10-27 06:00:31+00:00
 
 The creators with a combined following of 58 million on the app met with President Biden and former president Barack Obama.
+

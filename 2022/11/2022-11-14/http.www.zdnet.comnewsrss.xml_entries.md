@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Best HP Black Friday 2022 deals: Save today up to $500 on select PCs, monitors, and accessories
  - [https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-november-14-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-november-14-2022/#ftag=RSSbaffb68)
@@ -307,3 +307,4 @@ These days, you can get access to thousands of deals online nearly a month befor
  - date published: 2022-11-14 02:27:00+00:00
 
 Are you the proud owner or future purchaser of a battery electric vehicle (BEV) or a plug-in hybrid electric vehicle (PHEV)? Don't forget the charger. ZDNET's top choice for an EV charger is the ChargePoint Home Flex EV because it lets you schedule your charges when energy rates are the lowest. We compared amps, pricing, and reviews to come up with the top options, plus we tell you why.
+

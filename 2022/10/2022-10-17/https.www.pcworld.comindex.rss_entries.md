@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## New DirectStorage 1.1 will tap GPU to speed up games even more
  - [https://www.pcworld.com/article/1355547/1355547.html](https://www.pcworld.com/article/1355547/1355547.html)
@@ -68,3 +68,4 @@
 
 
 <p>There&rsquo;s no free lunch here, however&mdash;these chips are also designed to run hotter and use more power. Worry not, AMD has also given us t
+

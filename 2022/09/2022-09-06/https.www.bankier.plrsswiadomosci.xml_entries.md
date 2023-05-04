@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Fed nie daje rynkom wytchnienia. Spadkowa seria Nasdaqa
  - [https://www.bankier.pl/wiadomosc/Fed-nie-daje-rynkom-wytchnienia-Spadkowa-seria-Nasdaqa-8401680.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Fed-nie-daje-rynkom-wytchnienia-Spadkowa-seria-Nasdaqa-8401680.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -455,3 +455,4 @@ dokonanie napraw i twi
  - date published: 2022-09-06 02:31:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/a/97afb288ace7a4-948-568-0-0-1375-824.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Tajfun Hinnamnor, który we wtorek dotarł do południowych wybrzeży Korei Płd., zaatakował silnym wiatrem i ulewami pozbawiając prądu ponad 20 tys. domów. Tajfun oceniany jest jako najsilniejszy, z tych ktore nawiedziły kraj od wielu lat.</p>
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Fitbit integration will make or break the Pixel Watch
  - [https://www.androidauthority.com/pixel-watch-fitbit-3215092/](https://www.androidauthority.com/pixel-watch-fitbit-3215092/)
@@ -27,3 +27,4 @@ Google could learn a thing or two from Samsung's ecosystem success.
  - date published: 2022-10-02 12:00:07+00:00
 
 If you're not sleeping soundly, your phone may be the reason why.
+

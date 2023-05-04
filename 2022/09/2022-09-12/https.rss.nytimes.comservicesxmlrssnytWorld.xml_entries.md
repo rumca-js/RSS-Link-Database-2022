@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Critics Speak Out, Prompted by Ukraine Losses
  - [https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html](https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html)
@@ -209,3 +209,4 @@ An embarrassing Russian retreat.
  - date published: 2022-09-12 00:25:59+00:00
 
 The tight race capped a campaign that analysts called unusually aggressive, with the nationalist, right-wing Sweden Democrats increasingly popular.
+

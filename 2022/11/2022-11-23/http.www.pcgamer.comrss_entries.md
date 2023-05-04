@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Microtransaction hell intensifies as Mercedes turns improved car acceleration into a subscription
  - [https://www.pcgamer.com/microtransaction-hell-intensifies-as-mercedes-turns-improved-car-acceleration-into-a-subscription](https://www.pcgamer.com/microtransaction-hell-intensifies-as-mercedes-turns-improved-car-acceleration-into-a-subscription)
@@ -244,3 +244,4 @@ More landmarks, new selection videos for Legendary Lords, and multiplayer endgam
  - date published: 2022-11-23 00:36:49+00:00
 
 I don't get it, but you do you, boo.
+

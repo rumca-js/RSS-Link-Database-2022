@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Trump ‘Furious’ Over Dr. Oz Losing To Fetterman, Blames His Wife Melania: Report
  - [https://www.dailywire.com/news/trump-furious-over-dr-oz-losing-to-fetterman-blames-his-wife-melania-report](https://www.dailywire.com/news/trump-furious-over-dr-oz-losing-to-fetterman-blames-his-wife-melania-report)
@@ -461,3 +461,4 @@ Former President Donald Trump (R) cheered as Republicans lost a potential pickup
  - date published: 2022-11-09 00:07:47+00:00
 
 Republicans took a Virginia Beach seat from a Democrat, but failed to take two longer-shot districts near D.C.
+

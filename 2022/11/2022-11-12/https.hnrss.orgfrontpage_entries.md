@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Hard Reset Or, How Not to Drive Your Company Off a Cliff
  - [https://sarahguo.com/blog/hardreset](https://sarahguo.com/blog/hardreset)
@@ -759,3 +759,4 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33568521">https://news.ycombinator.com/item?id=33568521</a></p>
 <p>Points: 3</p>
 <p># Comments: 1</p>
+

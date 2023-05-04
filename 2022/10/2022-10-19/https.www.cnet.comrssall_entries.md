@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 23 Gifts to Make Any Harry Potter Fan Happy     - CNET
  - [https://www.cnet.com/culture/entertainment/23-gifts-to-make-any-harry-potter-fan-happy/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/23-gifts-to-make-any-harry-potter-fan-happy/#ftag=CADf328eec)
@@ -769,3 +769,4 @@ Recap: The Disney Plus show gets deep into moral ambiguity as the rebels make th
  - date published: 2022-10-19 00:00:00+00:00
 
 Episode 9 of HBO's Game of Thrones prequel puts a shine on two of the show's leading ladies: Queen Alicent and Princess Rhaenys.
+

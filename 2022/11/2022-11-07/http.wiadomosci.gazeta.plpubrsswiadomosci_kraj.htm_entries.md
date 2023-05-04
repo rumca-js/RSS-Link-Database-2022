@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Europejski Nakaz Aresztowania Ingebrigta G. Dania pyta, czy wniosek podpisywał "legalny sędzia"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29115084,europejski-nakaz-aresztowania-ingebrigta-g-dania-pyta-czy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29115084,europejski-nakaz-aresztowania-ingebrigta-g-dania-pyta-czy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-11-07 08:53:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/a1/c3/1b/z29112481M,Woda-uszkodzila-droge-wojewodzka.jpg" vspace="2" />W niedzielę wieczorem w Łobzie tama na rzece została przerwana. Droga wojewódzka 151 od Łobza do Węgorzyna jest zniszczona, a okoliczne budynki były zagrożone podtopieniami. - Doszło do przerwania przez bobry zapory na kanałach wodnych - informuje oficer prasowy Komendy Powiatowej PSP w Łobzie.
+

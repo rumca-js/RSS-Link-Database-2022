@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Komendant Straży Tatrzańskiego Parku Narodowego odchodzi ze stanowiska po 15 latach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28961104,komendant-strazy-tatrzanskiego-parku-narodowego-odchodzi-ze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28961104,komendant-strazy-tatrzanskiego-parku-narodowego-odchodzi-ze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -146,3 +146,4 @@
  - date published: 2022-09-27 06:38:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/4f/9d/1b/z28957775M,Malopolskie--Tragiczny-wypadek-na-A4--Nie-zyje-str.jpg" vspace="2" />Tragiczny wypadek na autostradzie A4 w Balicach (woj. małopolskie). Podczas interwencji strażaków doszło do potrącenia trzech druhów, którzy udzielali pomocy poszkodowanym w wypadku. Jeden ze strażaków mimo reanimacji nie przeżył.
+

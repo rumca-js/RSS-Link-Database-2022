@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Alien messages
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59163](https://www.codeproject.com/script/News/View.aspx?nwid=59163)
@@ -90,3 +90,4 @@ FTFY: Some EU websites don't want any visitors
  - date published: 2022-10-12 04:00:00+00:00
 
 Because systems don't need software?
+

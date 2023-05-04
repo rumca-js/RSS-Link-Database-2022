@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Uber Shares Surge on Gains in Quarterly Revenue, Adjusted Profit
  - [https://www.wsj.com/articles/uber-q3-earnings-report-2022-11667276196?mod=rss_Technology](https://www.wsj.com/articles/uber-q3-earnings-report-2022-11667276196?mod=rss_Technology)
@@ -27,3 +27,4 @@ Google’s video platform is selling subscriptions to Paramount+, Showtime and o
  - date published: 2022-11-01 09:30:00+00:00
 
 Facing antitrust scrutiny, the tech giant has resisted breaking up its ad-tech operations, which feed into Google’s larger ad business.
+

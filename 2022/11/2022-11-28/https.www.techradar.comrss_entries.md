@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This Sony OLED TV and soundbar deal is a Cyber Monday bundle of joy
  - [https://www.techradar.com/news/this-sony-oled-tv-and-soundbar-deal-is-a-cyber-monday-bundle-of-joy](https://www.techradar.com/news/this-sony-oled-tv-and-soundbar-deal-is-a-cyber-monday-bundle-of-joy)
@@ -202,3 +202,4 @@ Pricing will be key with this graphics card, bearing in mind that it's supposedl
  - date published: 2022-11-28 04:30:21+00:00
 
 Cyber Monday TV deals are live, and we have the 13 hottest offers on OLED, QLED and smart TVs starting at just $79.99.
+

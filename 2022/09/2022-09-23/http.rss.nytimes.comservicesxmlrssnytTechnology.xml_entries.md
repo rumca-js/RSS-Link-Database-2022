@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## The Midterm Election’s Most Dominant Toxic Narratives
  - [https://www.nytimes.com/2022/09/23/technology/midterm-elections-misinformation.html](https://www.nytimes.com/2022/09/23/technology/midterm-elections-misinformation.html)
@@ -20,3 +20,4 @@ Battling far-right extremism, Germany has gone further than any other Western de
  - date published: 2022-09-23 04:40:45+00:00
 
 Apple’s pursuit of an N.F.L. media package has broadened to include a sponsorship of one of TV’s most-watched events.
+

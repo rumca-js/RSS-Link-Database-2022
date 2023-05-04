@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Will Biden Sell Advanced Drones to Ukraine?
  - [https://theintercept.com/2022/11/18/ukraine-drones-biden/](https://theintercept.com/2022/11/18/ukraine-drones-biden/)
@@ -15,3 +15,4 @@
 
 <p>Will the social media giant survive Elon Musk’s leadership intact?</p>
 <p>The post <a href="https://theintercept.com/2022/11/18/deconstructed-elon-musk-twitter/" rel="nofollow">Bonfire of the Twitterverse</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

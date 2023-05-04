@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Your Gmail Account Has Unlimited Addresses
  - [https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691](https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691)
@@ -111,3 +111,4 @@
  - date published: 2022-11-21 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ymaQtuuT--/c_fit,fl_progressive,q_80,w_636/93a4d9efecf9ae58e50d9b6ed315df4d.png" /><p>Zip files are a useful but cumbersome solution to compressing multiple files together. They come in different ways—an archive of photographs for a project, or the need to compress a file that just won’t fit in Gmail’s archaic 25MB file limit. It’s one thing to deal with zip files on a computer, but when you see them…</p><p><a href="https://lifehacker.com/the-easiest-way-to-zip-and-unzip-files-on-your-iphone-1849800176">Read more...</a></p>
+

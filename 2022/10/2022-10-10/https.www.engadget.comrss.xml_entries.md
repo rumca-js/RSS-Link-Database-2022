@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Hackers forced more than a dozen US public airport websites offline
  - [https://www.engadget.com/hackers-us-airport-websites-laguardia-ohare-lax-202315381.html?src=rss](https://www.engadget.com/hackers-us-airport-websites-laguardia-ohare-lax-202315381.html?src=rss)
@@ -76,3 +76,4 @@
  - date published: 2022-10-10 08:18:03+00:00
 
 <p>After <a href="https://www.engadget.com/2019-05-07-google-assistant-driving-mode-android-google-io.html">announcing it</a> at I/O 2019, <a href="https://www.engadget.com/google-assistant-driving-mode-215249421.html">teasing it in 2020</a> and finally <a href="https://9to5google.com/2021/09/12/google-assistant-driving-mode-homescreen/">launching it</a> officially last year, Google is shutting down the Assistant Driving Mode dashboard, <a href="https://9to5google.com/2022/10/07/google-assistant
+

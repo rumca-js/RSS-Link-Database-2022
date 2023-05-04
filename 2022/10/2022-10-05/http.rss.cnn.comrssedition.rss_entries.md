@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Watch: Man caught on camera jumping across NYC rooftop in suit and dress shoes
  - [https://www.cnn.com/videos/us/2022/10/05/new-york-city-man-jumps-across-building-awnings-orig-aw.cnn](https://www.cnn.com/videos/us/2022/10/05/new-york-city-man-jumps-across-building-awnings-orig-aw.cnn)
@@ -468,3 +468,4 @@ New York Times reporter Maggie Haberman discusses what former President Donald T
  - date published: 2022-10-05 00:19:45+00:00
 
 Move over London. Step aside New York. There's a new cosmopolitan cocktail capital: Barcelona is home to Paradiso, the newly crowned world's best bar.
+

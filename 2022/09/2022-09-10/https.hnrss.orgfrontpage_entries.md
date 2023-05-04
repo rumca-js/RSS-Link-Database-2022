@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Jackson MS water crisis resolved within 24 hours of Corps of Engr on site
  - [https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
@@ -618,3 +618,4 @@ Finding a well documented one is harder. Would love to see what you consider as 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32786336">https://news.ycombinator.com/item?id=32786336</a></p>
 <p>Points: 31</p>
 <p># Comments: 2</p>
+

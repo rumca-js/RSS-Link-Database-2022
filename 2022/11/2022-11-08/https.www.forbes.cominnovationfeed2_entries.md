@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## RØDE Updates The Classic NT-USB Condenser Mice With New Features
  - [https://www.forbes.com/sites/marksparrow/2022/11/08/rde-updates-the-classic-nt-usb-condenser-mice-with-new-features/](https://www.forbes.com/sites/marksparrow/2022/11/08/rde-updates-the-classic-nt-usb-condenser-mice-with-new-features/)
@@ -559,3 +559,4 @@ A new Ghost type Pokémon called Gimmighoul is coming to 'Pokémon Scarlet and V
  - date published: 2022-11-08 01:36:06+00:00
 
 External streaming sticks and boxes not required
+

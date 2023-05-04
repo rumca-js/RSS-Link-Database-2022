@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Ron DeSantis surprises fans at a Lynyrd Skynyrd concert to the sound of thunderous applause
  - [https://www.louderwithcrowder.com/ron-desantis-skynyrd](https://www.louderwithcrowder.com/ron-desantis-skynyrd)
@@ -71,3 +71,4 @@
  - date published: 2022-10-17 11:57:54+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31953746&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Prior to November 3rd, 2020, no one in the history of the republic had EVER questioned the results of an election. That is the narrative the media is running with. Prior to that date, no one -- no democrat -- ever called an elected official illegitimate. Not until MAGA. MAGA invented doing so. This is what reporters sound like when they q
+

@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## AMD cuts GPU prices at just the right time to pull ahead of Nvidia
  - [https://www.digitaltrends.com/computing/amd-lowers-radeon-rx-6000-msrp/](https://www.digitaltrends.com/computing/amd-lowers-radeon-rx-6000-msrp/)
@@ -6,3 +6,4 @@
  - date published: 2022-09-23 06:49:39.355864+00:00
 
 AMD is going to lower the list price of its Radeon RX 6000-Series GPUs, and the announcement couldn't have come at a better time.
+

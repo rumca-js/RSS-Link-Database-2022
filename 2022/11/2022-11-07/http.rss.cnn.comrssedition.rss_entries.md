@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Mystery of sonar blip near Titanic solved after 26 years
  - [https://www.cnn.com/2022/11/07/world/titanic-mystery-deep-sea-coral-reef-scn/index.html](https://www.cnn.com/2022/11/07/world/titanic-mystery-deep-sea-coral-reef-scn/index.html)
@@ -567,3 +567,4 @@ CNN's Chris Wallace and Erin Burnett discuss a campaign ad from Republican Flori
  - date published: 2022-11-07 01:34:13+00:00
 
 CNN's Nic Robertson joins the Ukraine military as they search for six missing soldiers in an area of Ukraine recently reclaimed from Russia.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## More than 1 in 4 French gas stations out of at least one fuel
  - [https://www.cnn.com/2022/10/14/business/france-gas-stations-fuel-shortage/index.html](https://www.cnn.com/2022/10/14/business/france-gas-stations-fuel-shortage/index.html)
@@ -41,3 +41,4 @@ Indian health authorities have halted production at a pharmaceutical company in 
  - date published: 2022-10-14 00:20:04+00:00
 
 A young woman stands on her balcony, crying out in desperation after her building was ordered into lockdown.
+

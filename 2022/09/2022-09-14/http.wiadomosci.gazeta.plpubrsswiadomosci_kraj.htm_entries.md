@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Grudziądz. W drzewie znaleziono ciało noworodka. Zatrzymany 18-latek wyszedł na wolność
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28912602,grudziadz-w-drzewie-znaleziono-cialo-noworodka-zatrzymany.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28912602,grudziadz-w-drzewie-znaleziono-cialo-noworodka-zatrzymany.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-09-14 06:09:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/f7/85/1b/z28859639M,Przymrozek--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda w ostatnich dniach nie przynosi pięknej, złotej jesieni. W najbliższym czasie też nie można na nią liczyć, co pokazują najnowsze modele synoptyczne. Czeka nas zmiana aury i spore ochłodzenie.
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Apple releases iOS update to fix iPhone 14 Pro camera shaking problem
  - [https://www.zdnet.com/article/apple-releases-ios-update-to-fix-iphone-14-pro-camera-shaking-problem/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-releases-ios-update-to-fix-iphone-14-pro-camera-shaking-problem/#ftag=RSSbaffb68)
@@ -167,3 +167,4 @@ Micmonster is the text-to-speech tool that lets you take your pick of voices in 
  - date published: 2022-09-22 05:52:00+00:00
 
 This 2015 MacBook Air has a stunning Retina display and powerful internals yet weighs only three pounds.
+

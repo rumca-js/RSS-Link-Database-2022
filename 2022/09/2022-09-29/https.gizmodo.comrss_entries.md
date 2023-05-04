@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## NYPD Considers Using Encryption to Block Public From Radio Scanner Broadcasts
  - [https://gizmodo.com/nypd-considers-blocking-public-from-radio-scanner-broad-1849599071](https://gizmodo.com/nypd-considers-blocking-public-from-radio-scanner-broad-1849599071)
@@ -272,3 +272,4 @@
  - date published: 2022-09-29 01:47:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--4IVX19ZY--/c_fit,fl_progressive,q_80,w_636/d5f2fe333fdea1476920b0e1619dbd0c.jpg" /><p>A <a href="https://www.amnestyusa.org/reports/facebook-systems-promoted-violence-against-rohingya/" rel="noopener noreferrer" target="_blank">new report</a> from Amnesty International this week dives deeply into the Facebook-fueled atrocities perpetrated against the Rohingya by Myanmar security forces in 2017 during the onset of a genocide estimated
+

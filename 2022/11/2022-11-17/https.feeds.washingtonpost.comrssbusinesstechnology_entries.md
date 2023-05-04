@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter’s Musk says most-valuable employees can stay remote amid signs of revolt
  - [https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ A new study of 22,000 American broadband bills by Consumer Reports shows how ISP
  - date published: 2022-11-17 04:00:00+00:00
 
 The two new Pokémon games have persistent technical problems and pacing issues. Still, both games mark a big step forward from "Sword" and "Shield."
+

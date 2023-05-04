@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Elizabeth Holmes of Theranos Gets 11 Years in Prison
  - [https://www.wired.com/story/elizabeth-holmes-theranos-is-going-to-prison/](https://www.wired.com/story/elizabeth-holmes-theranos-is-going-to-prison/)
@@ -27,3 +27,4 @@ Crypto exchanges want to prove that the market can thrive after the FTX collapse
  - date published: 2022-11-18 01:41:44+00:00
 
 Elon Musk laid off half the staff, and mass resignations seem likely. If nobody’s there to protect the fort, what’s the worst that could happen?
+

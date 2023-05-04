@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Przypadek na wagę złota. W takich okolicznościach powstała nowa metoda wytwarzania wodoru
  - [https://www.chip.pl/2022/10/metoda-wytwarzania-wodoru-badania](https://www.chip.pl/2022/10/metoda-wytwarzania-wodoru-badania)
@@ -135,3 +135,4 @@
 
 <img alt="Rekin od UkrSpecSystem, Nowy ukraiński dron" class="attachment-full size-full wp-post-image" height="962" src="https://konto.chip.pl/wp-content/uploads/2022/10/Nowy-ukrainski-dron-zaprezentowany.-Rekin-od-UkrSpecSystem-ma-powstawac-w-Polsce.jpg" style="margin-bottom: 10px;" width="2263" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/Nowy-ukrainski-dron-zaprezentowany.-Rekin-od-UkrSpecSystem-ma-powstawac-w-Polsce.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Ukraińska spółka UkrSpecSystem opracowała w ciągu ostatnich miesiącach swój własny, autorski bezzałogowy system powietrzny (UAV). Co być może najciekawsze, ten nowy ukraiński dron Rekin ma powstawać nie na terenie kraju, a u nas &#8211; w Polsce. Ukraiński dron Rekin będzie powstawał w Polsce Odpowiadająca za dzieła takie jak Leleka-100 czy PD-2 firma UkrSpecSystem ma ogromne [&#8230;]</p>
+

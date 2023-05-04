@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This creepy Mac app can record every moment of your online life
  - [https://www.digitaltrends.com/computing/this-creepy-mac-app-can-record-every-moment-of-your-life/](https://www.digitaltrends.com/computing/this-creepy-mac-app-can-record-every-moment-of-your-life/)
@@ -13,3 +13,4 @@ A new app for your Mac claims it can record every moment of your online life and
  - date published: 2022-11-03 09:53:24.323213+00:00
 
 ASRock came up with a fun gadget for PC owners, but unfortunately, only a limited number of people will be able to use it.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The best Black Friday deals you can already get at Target
  - [https://www.theverge.com/23433073/target-black-friday-2022-deals-cyber-monday-tech-games](https://www.theverge.com/23433073/target-black-friday-2022-deals-cyber-monday-tech-games)
@@ -559,3 +559,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription">Continue reading&hellip;</a>
   </p>
+

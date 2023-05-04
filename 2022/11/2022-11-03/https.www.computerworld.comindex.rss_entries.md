@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Podcast: Apple’s holiday push
  - [https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all](https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all)
@@ -37,3 +37,4 @@
 <article>
 	<section class="page">
 <p>Spurred by the global pandemic, <a href="https://www.computerworld.com/article/3645496/the-great-resignation-why-workers-quit-and-how-companies-can-respond.html">the Great Resignation</a> saw an exodus of people from the workforce; over the past year, more than 4 million US employees each month have left jobs for a myriad of reasons.</p><p>Some employees said they were highly dissatisfied with work, but others cited more practical reasons. For example, women left the workforce more than men because of care-giving responsibilities, whether it was for children or elderly relatives, according to Amy Loomis, research director for IDC’s worldwide Future of Work market research service.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678302/qa-expedia-cto-details-return-to-work-program-for-workers-who-come-back.html#jump">To read this article in full, please click here</a></p></section></article>
+

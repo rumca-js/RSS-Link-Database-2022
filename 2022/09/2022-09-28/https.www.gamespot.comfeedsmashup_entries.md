@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Free PlayStation Plus Games For October Revealed | GameSpot News
  - [https://www.gamespot.com/videos/free-playstation-plus-games-for-october-revealed-gamespot-news/2300-6459655/](https://www.gamespot.com/videos/free-playstation-plus-games-for-october-revealed-gamespot-news/2300-6459655/)
@@ -265,3 +265,4 @@
  - date published: 2022-09-28 06:50:00+00:00
 
 <p> Infinity Ward is celebrating its most successful beta ever, after the final <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-ii/">Call of Duty: Modern Warfare 2</a> open beta wrapped up over the weekend. Players who progressed in the beta will also be able to unlock exclusive rewards when the full game is released on October 28.</p><p><a href="https://www.gamespot.com/articles/cod-mw2-beta-offers-a-lukewarm-glimpse-of-its-multiplayer-ai-in-ground-war-invasion/1100-6507767/
+

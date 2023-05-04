@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to use Face or Photo Unblur with Pixel phones
  - [https://www.androidauthority.com/face-photo-unblur-pixel-3217580/](https://www.androidauthority.com/face-photo-unblur-pixel-3217580/)
@@ -69,3 +69,4 @@ Catch up on what you missed at Google's Pixel event, S23 battery leaks, streamin
  - date published: 2022-10-08 10:00:46+00:00
 
 It's got all the hardware you need, but a lack of refinement keeps the OnePlus 10 Pro from being a true-blue flagship.
+

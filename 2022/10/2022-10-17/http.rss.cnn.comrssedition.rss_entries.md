@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Elon Musk says SpaceX has withdrawn request for Pentagon to fund Starlink in Ukraine
  - [https://www.cnn.com/2022/10/17/politics/elon-musk-spacex-starlink-ukraine-pentagon-funding/index.html](https://www.cnn.com/2022/10/17/politics/elon-musk-spacex-starlink-ukraine-pentagon-funding/index.html)
@@ -443,3 +443,4 @@ The United Nations' refugee agency (UNHCR) has said it is "deeply distressed" by
  - date published: 2022-10-17 00:30:39+00:00
 
 Actor George Clooney talks to CNN's Chris Wallace about what concerns him about the US political discourse and the prospects of a possible Joe Biden v. Donald Trump rematch in 2024.
+

@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Intel Raptor Lake sets a sizzling new record for clock speeds
  - [https://www.digitaltrends.com/computing/intel-raptor-lake-hits-8-ghz/](https://www.digitaltrends.com/computing/intel-raptor-lake-hits-8-ghz/)
@@ -13,3 +13,4 @@ Intel has revealed new information about the upcoming Raptor Lake CPUs. Expect t
  - date published: 2022-09-13 06:59:42.336909+00:00
 
 A prototype of the secret Meta headset was left behind in a hotel room and discovered by Facebook Gaming personality Ramiro Cardenas, aka Zectariuz Gaming.
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Want to disinfect your iPhone? Go to a McDonald's restroom
  - [https://www.zdnet.com/article/want-to-disinfect-your-iphone-go-to-a-mcdonalds-restroom/#ftag=RSSbaffb68](https://www.zdnet.com/article/want-to-disinfect-your-iphone-go-to-a-mcdonalds-restroom/#ftag=RSSbaffb68)
@@ -76,3 +76,4 @@ Calling all Samsung fans! Let this early Black Friday deals hub serve as your ho
  - date published: 2022-11-05 00:17:00+00:00
 
 Calling all Samsung fans! Let this early Black Friday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more.
+

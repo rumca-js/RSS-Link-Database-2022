@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## AI system makes models like DALL-E 2 more creative
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58820](https://www.codeproject.com/script/News/View.aspx?nwid=58820)
@@ -132,3 +132,4 @@ Blech is a synchronous programming language for embedded, reactive, realtime-cri
  - date published: 2022-09-09 04:00:00+00:00
 
 I'm sure this one won't be abused
+

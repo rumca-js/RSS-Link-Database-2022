@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Amerykańscy naukowcy: pozostanie przy czasie letnim może zmniejszyć liczbę kolizji z jeleniami
  - [https://tvn24.pl/tvnmeteo/ciekawostki/wprowadzenie-na-stale-czasu-letniego-moze-zmniejszyc-liczbe-kolizji-z-jeleniami-badania-naukowcow-z-uniwersytetu-waszyngtonskiego-6214849?source=rss](https://tvn24.pl/tvnmeteo/ciekawostki/wprowadzenie-na-stale-czasu-letniego-moze-zmniejszyc-liczbe-kolizji-z-jeleniami-badania-naukowcow-z-uniwersytetu-waszyngtonskiego-6214849?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Wszystkie większe francuskie parkingi mają zostać pokryte panelami słonecznymi" src="https://tvn24.pl/najnowsze/cdn-zdjecie-55vfem-panele-fotowoltaiczne-na-parkingach-6214145/alternates/LANDSCAPE_1280" />
     Na każdym parkingu we Francji, który mieści co najmniej 80 pojazdów, zainstalowane zostaną panele słoneczne. Francuski Senat w tym tygodniu przyjął ustawę w tej sprawie. Prezydent Emmanuel Macron chce przyspieszenia budowy projektów związanych z odnawialnymi źródłami energii.
+

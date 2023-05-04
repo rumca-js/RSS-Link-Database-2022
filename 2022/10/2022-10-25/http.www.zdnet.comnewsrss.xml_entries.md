@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to enable Google Assistant quick phrases on your Pixel phone to save time
  - [https://www.zdnet.com/article/how-to-enable-google-assistant-quick-phrases-on-your-pixel-phone-to-save-time/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-enable-google-assistant-quick-phrases-on-your-pixel-phone-to-save-time/#ftag=RSSbaffb68)
@@ -209,3 +209,4 @@ Messaging app used by two billion people is apparently suffering an outage.
  - date published: 2022-10-25 07:25:38+00:00
 
 Now under $1000, this TV is a great alternative to a typical model if you like to display artwork and photos.
+

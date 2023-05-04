@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Zakład pogrzebowy pomylił ciała, skremowano nie tego zmarłego. Rodzina zorientowała się podczas pogrzebu
  - [https://tvn24.pl/bialystok/elblag-zaklad-pogrzebowy-pomylil-ciala-skremowano-nie-tego-zmarlego-sprawe-wyjasnia-policja-6187167?source=rss](https://tvn24.pl/bialystok/elblag-zaklad-pogrzebowy-pomylil-ciala-skremowano-nie-tego-zmarlego-sprawe-wyjasnia-policja-6187167?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="13-letni Michał ma chłoniaka Burkitta. Udało się zebrać pieniądze na leczenie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-tlkt36-michal-podyma-zbiorka-6187207/alternates/LANDSCAPE_1280" />
     Zbiórka na leczenie 13-letniego Michała Podymy osiągnęła swój cel, zebrano ponad 1 800 000 złotych. Chłopiec cierpi na rzadką chorobę - chłoniaka Burkitta. 13-latek nie kwalifikuje się do refundacji leczenia, dlatego jego rodzina musiała uruchomić zbiórkę. "Walczymy, każdego dnia, przechodząc przez piekło nie do opisania. Prosimy o wsparcie, by z niego wyjść, by uratować Michałka" - pisali rodzice. Wpłaty wciąż wpływają.
+

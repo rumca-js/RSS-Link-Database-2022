@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Spotify Instafest: How to Create and Share Your Dream Festival Lineup     - CNET
  - [https://www.cnet.com/culture/internet/spotify-instafest-how-to-create-and-share-your-dream-festival-line-up/#ftag=CADf328eec](https://www.cnet.com/culture/internet/spotify-instafest-how-to-create-and-share-your-dream-festival-line-up/#ftag=CADf328eec)
@@ -608,3 +608,4 @@ Live on Peacock and the WWE Network right now.
  - date published: 2022-11-27 00:20:00+00:00
 
 Steam's Autumn Sale runs Nov. 22-29.
+

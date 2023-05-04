@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Kanye West kicked out of Skechers HQ after showing up unannounced to pitch Yeezy brand
  - [https://www.dailymail.co.uk/news/article-11358663/Kanye-West-kicked-Skechers-HQ-showing-unannounced-pitch-Yeezy-brand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11358663/Kanye-West-kicked-Skechers-HQ-showing-unannounced-pitch-Yeezy-brand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1855,3 +1855,4 @@ The brother of a 20-year-old Princeton student who was found dead by the school'
  - date published: 2022-10-26 00:05:23+00:00
 
 Rishi Sunak stepped up to the international stage last night taking calls from US President Joe Biden and Ukraine's Volodymyr Zelensky as he laid down the foundations for his premiership.
+

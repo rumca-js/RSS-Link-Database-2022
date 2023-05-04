@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## More than 4 feet has fallen in New York snowstorm and 2 people have died while clearing paths in Erie County
  - [https://www.cnn.com/2022/11/18/weather/new-york-great-lakes-snowstorm-friday/index.html](https://www.cnn.com/2022/11/18/weather/new-york-great-lakes-snowstorm-friday/index.html)
@@ -673,3 +673,4 @@ Ukraine claims they have found evidence of torture by the Russians throughout Kh
  - date published: 2022-11-18 00:39:56+00:00
 
 The Iranian government is stepping up its deadly crackdowns on demonstrators amid ongoing protests. CNN's Jomana Karadsheh reports.
+

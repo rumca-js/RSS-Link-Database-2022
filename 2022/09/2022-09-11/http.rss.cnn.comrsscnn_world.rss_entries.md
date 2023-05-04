@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Sweden's ruling center-left in slim election lead, exit poll shows
  - [https://www.cnn.com/2022/09/11/europe/sweden-election-exit-poll-intl/index.html](https://www.cnn.com/2022/09/11/europe/sweden-election-exit-poll-intl/index.html)
@@ -27,3 +27,4 @@ The prime minister of Antigua and Barbuda said the Caribbean country will hold a
  - date published: 2022-09-11 00:12:45+00:00
 
 Albania blamed the Iranian government Saturday for a cyberattack against computer systems used by Albanian state police — just days after the White House condemned Tehran for a hack that disrupted Albanian government services in July.
+

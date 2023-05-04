@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Blink-182 Reuniting Has Fans Excited, and Feeling a Little Old     - CNET
  - [https://www.cnet.com/culture/entertainment/blink-182-reuniting-has-fans-excited-and-feeling-a-little-old/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/blink-182-reuniting-has-fans-excited-and-feeling-a-little-old/#ftag=CADf328eec)
@@ -923,3 +923,4 @@ Its orbit is similar in size to Mercury's around the sun, but it's traveling at 
  - date published: 2022-10-11 00:15:02+00:00
 
 The bonfire-inspired Pepsi flavors are Toasted Marshmallow, Graham Cracker and Chocolate. The drinks are designed to be mixed together.
+

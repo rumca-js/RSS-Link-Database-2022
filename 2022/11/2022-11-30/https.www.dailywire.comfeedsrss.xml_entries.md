@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Gender-Fluid’ Biden Admin Official Placed On Leave After Being Charged With Felony
  - [https://www.dailywire.com/news/gender-fluid-biden-admin-official-placed-on-leave-after-being-charged-with-felony](https://www.dailywire.com/news/gender-fluid-biden-admin-official-placed-on-leave-after-being-charged-with-felony)
@@ -496,3 +496,4 @@ Republican Florida Governor Ron DeSantis slammed Disney during an interview Tues
  - date published: 2022-11-30 07:32:12+00:00
 
 Disney CEO Bob Iger remarked during a town hall event with employees that he desires to advance social causes in a more subdued fashion after the entertainment conglomerate publicly battled Republican Florida Gov. Ron DeSantis earlier this year. The company’s board of directors recently restored Iger, who previously served as chief executive for 15 years, to ...
+

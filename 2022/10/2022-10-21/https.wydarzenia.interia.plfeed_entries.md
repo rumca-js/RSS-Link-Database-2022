@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Antony Blinken: Putin jest daleki od chęci zaangażowania się w dyplomację
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-antony-blinken-putin-jest-daleki-od-checi-zaangazowania-sie-,nId,6362657](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-antony-blinken-putin-jest-daleki-od-checi-zaangazowania-sie-,nId,6362657)
@@ -538,3 +538,4 @@
  - date published: 2022-10-21 03:30:47+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-240-dzien-inwazji-rosji-relacja-na-zywo,nzId,3214,akt,210648"><img align="left" alt="Wojna w Ukrainie. 240. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-240-dzien-inwazji-rosji-relacja-na-zywo/000G3LMWGFPCM3LS-C321.jpg" /></a>Najnowsze informacje z frontu. Zapraszamy do śledzenia relacji na żywo.</p><br clear="all" />
+

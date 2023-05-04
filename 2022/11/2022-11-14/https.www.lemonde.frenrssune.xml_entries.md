@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Eritrea's shadow looms over Ethiopian peace process
  - [https://www.lemonde.fr/en/international/article/2022/11/15/eritrea-s-shadow-looms-over-ethiopian-peace-process_6004305_4.html](https://www.lemonde.fr/en/international/article/2022/11/15/eritrea-s-shadow-looms-over-ethiopian-peace-process_6004305_4.html)
@@ -279,3 +279,4 @@ After eight and a half months of Russian occupation, Ukrainian forces have recei
  - date published: 2022-11-14 02:42:30+00:00
 
 Since the liberation of Kherson, investigators have already documented more than 400 war crimes.
+

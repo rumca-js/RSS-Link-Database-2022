@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Brazylia. Kobieta urodziła w windzie. Rodzice udostępnili nagranie z monitoringu
  - [https://www.polsatnews.pl/wiadomosc/2022-10-20/brazylia-kobieta-urodzila-w-windzie-rodzice-podzielili-sie-nagraniem-z-monitoringu/](https://www.polsatnews.pl/wiadomosc/2022-10-20/brazylia-kobieta-urodzila-w-windzie-rodzice-podzielili-sie-nagraniem-z-monitoringu/)
@@ -139,3 +139,4 @@ Pomyłka uczennicy z indyjskiego dystryktu Bhojpur prawdopodobnie doprowadziła 
  - date published: 2022-10-20 04:42:00+00:00
 
 Ukraina ograniczyła w czwartek zużycie energii elektrycznej w całym kraju po atakach rakietowych i dronowych, które zniszczyły niektóre elektrownie. To pierwsza taka decyzja od początku rosyjskiej inwazji.
+

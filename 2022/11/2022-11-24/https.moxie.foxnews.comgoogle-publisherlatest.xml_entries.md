@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## ‘Exorcist’ star Linda Blair reflects on ‘The Masked Singer,’ if she ever experienced paranormal activity
  - [https://www.foxnews.com/entertainment/exorcist-star-linda-blair-reflects-masked-singer-ever-experienced-paranormal-activity](https://www.foxnews.com/entertainment/exorcist-star-linda-blair-reflects-masked-singer-ever-experienced-paranormal-activity)
@@ -671,3 +671,4 @@ Robert Irwin says his book, "Robert Irwin's Australia," is a way for him to hono
  - date published: 2022-11-24 00:02:41+00:00
 
 Japan's upset over Germany headlined a crazy day at the 2022 World Cup in Qatar. Here is everything that happened in Wednesday's action.
+

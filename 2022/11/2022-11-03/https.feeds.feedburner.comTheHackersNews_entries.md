@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Find Links b/w Black Basta Ransomware and FIN7 Hackers
  - [https://thehackernews.com/2022/11/researchers-find-links-bw-black-basta.html](https://thehackernews.com/2022/11/researchers-find-links-bw-black-basta.html)
@@ -41,3 +41,4 @@ Targets of the operation consist of victims in Ukraine and select English-speaki
 
 Popular short-form video-sharing service TikTok is revising its privacy policy for European users to make it explicitly clear that user data can be accessed by some employees from across the world, including China.
 The ByteDance-owned platform, which currently stores European user data in the U.S. and Singapore, said the revision is part of its ongoing data governance efforts to limit employee
+

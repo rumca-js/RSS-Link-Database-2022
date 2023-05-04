@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## How a joyous new book on post-war Britain reveals the past really is another country
  - [https://www.dailymail.co.uk/news/article-11293461/How-joyous-new-book-post-war-Britain-reveals-past-really-country.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11293461/How-joyous-new-book-post-war-Britain-reveals-past-really-country.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1749,3 +1749,4 @@ In a video shared on TikTok, the driver can be seen climbing a wheelie bin durin
  - date published: 2022-10-07 00:02:38+00:00
 
 The warning from NHS England's chief financial officer raised fears that a 'financial hit of this magnitude' could scupper efforts to tackle record waiting lists of 6.8 million.
+

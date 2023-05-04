@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Zero-day flaws mean it's time to patch Exchange and Windows
  - [https://www.computerworld.com/article/3676636/zero-day-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all](https://www.computerworld.com/article/3676636/zero-day-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
@@ -90,3 +90,4 @@
 <article>
 	<section class="page">
 <p>Think fast: How many times a day do you pick up your phone to look at something? Unless you live in the tundra or have far more self-control than most, the answer probably falls somewhere between "quite a few" and "more than any sane person could count." Assuming you keep your device properly secured, that means you're doing an awful lot of unlocking — be it with your face, your fingerprint, or the code you tap or swipe onto your screen.</p><p>And that's to s
+

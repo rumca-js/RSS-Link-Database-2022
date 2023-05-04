@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Expels Some Russian Troops in South
  - [https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html](https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html)
@@ -223,3 +223,4 @@ The agency said it would no longer maintain a list of coronavirus travel warning
  - date published: 2022-10-04 00:08:12+00:00
 
 Confusion and recriminations marked the Russian efforts to call up draftees and claim sovereignty over Ukrainian territory, as well as the Russian response to battlefield setbacks.
+

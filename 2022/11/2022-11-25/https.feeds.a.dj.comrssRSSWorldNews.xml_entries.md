@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Canada's Trudeau Defends Use of Emergency Powers Against Protesters
  - [https://www.wsj.com/articles/canadas-justin-trudeau-defends-use-of-emergency-powers-against-freedom-convoy-protesters-11669410136](https://www.wsj.com/articles/canadas-justin-trudeau-defends-use-of-emergency-powers-against-freedom-convoy-protesters-11669410136)
@@ -90,3 +90,4 @@ Local governments in the region have described the lockdowns as temporary and ta
  - date published: 2022-11-25 05:43:00+00:00
 
 The 90-year-old veteran democracy activist and five others were found guilty of failing to register a fund providing aid to antigovernment protesters.
+

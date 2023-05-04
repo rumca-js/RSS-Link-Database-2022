@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Can A “Helper’s High” Boost Your Bottom Line?
  - [https://www.forbes.com/sites/servicenow/2022/11/03/can-a-helpers-high-boost-your-bottom-line/](https://www.forbes.com/sites/servicenow/2022/11/03/can-a-helpers-high-boost-your-bottom-line/)
@@ -575,3 +575,4 @@ Okta is one of the few companies that understands the importance of doing what's
  - date published: 2022-11-03 01:00:00+00:00
 
 The third total lunar eclipse in 18 months, the second in 2022 and the last until 2025 will take place on Tuesday, November 8, 2022.
+

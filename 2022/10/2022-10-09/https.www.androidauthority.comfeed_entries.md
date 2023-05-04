@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra: Which should you buy?
  - [https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/)
@@ -34,3 +34,4 @@ Which of Google's two new smartwatches should you consider?
  - date published: 2022-10-09 12:00:51+00:00
 
 The LG UltraGear 27GN950 is large, sharp, and powerful, but is it too much of a good thing?
+

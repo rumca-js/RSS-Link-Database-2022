@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## 10 great games to play on iPhone
  - [https://www.washingtonpost.com/video-games/2022/09/30/best-iphone-games/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/30/best-iphone-games/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Elon Musk’s phone was flooded with the thoughts of key advisers, peers and clo
  - date published: 2022-09-30 06:00:52+00:00
 
 Elon Musk will take the stage at Tesla’s AI Day to reveal details about the cyborg dubbed Optimus, which he claims will revolutionize physical work.
+

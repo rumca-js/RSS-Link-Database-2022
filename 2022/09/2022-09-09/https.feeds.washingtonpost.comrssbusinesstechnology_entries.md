@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Musk cites $7 million Twitter payout to whistleblower as violation of deal
  - [https://www.washingtonpost.com/technology/2022/09/09/twitter-musk-sell-mudge-termination-payment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/09/twitter-musk-sell-mudge-termination-payment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ The metaverse-hungry platform is looking for more ways to monetize Roblox experi
  - date published: 2022-09-09 07:00:45+00:00
 
 Companies that have operated remotely since inception offer their best advice for creating and maintaining company culture with a distributed workforce.
+

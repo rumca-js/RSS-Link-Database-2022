@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'In this news cycle?': Dave Chappelle addresses the controversy over boycotting writers in new SNL promo
  - [https://www.louderwithcrowder.com/dave-chappelle-snl-boycott-response](https://www.louderwithcrowder.com/dave-chappelle-snl-boycott-response)
@@ -148,3 +148,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## It's all a bit Event Horizon meets Aliens in the demo for this sci-fi horror roguelike
  - [https://www.pcgamer.com/its-all-a-bit-event-horizon-meets-aliens-in-the-demo-for-this-sci-fi-horror-roguelike](https://www.pcgamer.com/its-all-a-bit-event-horizon-meets-aliens-in-the-demo-for-this-sci-fi-horror-roguelike)
@@ -76,3 +76,4 @@ Probably enough time to finish one bloated open world collectathon.
  - date published: 2022-09-11 00:28:10+00:00
 
 "Congratulations on being prepared for the future!"
+

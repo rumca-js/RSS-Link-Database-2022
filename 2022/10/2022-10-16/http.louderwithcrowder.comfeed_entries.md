@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Leftists pour milk on the floor because leftists are serious people who demand you take them seriously
  - [https://www.louderwithcrowder.com/milk-pours-protest](https://www.louderwithcrowder.com/milk-pours-protest)
@@ -20,3 +20,4 @@
  - date published: 2022-10-16 12:23:02+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31950635&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Joe Biden flew to Oregon because Democrats are at risk of losing the <a href="https://www.louderwithcrowder.com/seattle-seahawks-smiley-cease-desist" target="_blank">Pacific Northwest</a>. Let me repeat that. After less than two years of Democrat control led by the people who control Joe Biden, Democrats are at risk of losing one of the b
+

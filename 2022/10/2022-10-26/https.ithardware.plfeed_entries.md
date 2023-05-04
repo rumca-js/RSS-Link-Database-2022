@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Europol chce nadzorować „dezinformację” w metawersie i obawia się decentralizacji Web3
  - [https://ithardware.pl/aktualnosci/europol_chce_nadzorowac_dezinformacje_w_metawersie_i_obawia_sie_decentralizacji_web3-24054.html](https://ithardware.pl/aktualnosci/europol_chce_nadzorowac_dezinformacje_w_metawersie_i_obawia_sie_decentralizacji_web3-24054.html)
@@ -187,3 +187,4 @@ Już w marcu pisaliśmy, że&nbsp;SAP nadal wspiera rosyjskie przedsiębiorstwa 
 
 <img src="https://ithardware.pl/artykuly/min/24035_1.jpg" />            Nowy flagowiec NVIDII, GeForce RTX&nbsp;4090, to prawdziwy potw&oacute;r, zar&oacute;wno jeśli chodzi o rozmiary, jak i wydajność. Okazuje się, że karta jest tak mocna, że pali kable i złącza zasilania, o czym pisaliśmy już w tym tygodniu. AMD...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/amd_nie_zamierza_ryzykowac_nowe_radeony_nie_beda_korzystac_ze_zlacza_zasilania_12vhpwr-24035.html">https://ithardware.pl/aktualnosci/amd_nie_zamierza_ryzykowac_nowe_radeony_nie_beda_korzystac_ze_zlacza_zasilania_12vhpwr-24035.html</a></p>
+

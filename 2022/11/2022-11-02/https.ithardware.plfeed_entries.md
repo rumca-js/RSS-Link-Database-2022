@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Rząd USA naciska na sojuszników, żeby wprowadzili sankcje wobec Chin
  - [https://ithardware.pl/aktualnosci/rzad_usa_naciska_na_sojusznikow_zeby_wprowadzili_sankcje_wobec_chin-24164.html](https://ithardware.pl/aktualnosci/rzad_usa_naciska_na_sojusznikow_zeby_wprowadzili_sankcje_wobec_chin-24164.html)
@@ -193,3 +193,4 @@ Co...
 
 <img src="https://ithardware.pl/artykuly/min/24127_1.jpg" />            Czas oczekiwania na mundial strasznie Ci się dłuży? Zapewnij sobie trochę rozrywki i skorzystaj z promocji przygotowanych przez x-kom. Co powiesz na sprzęty gamingowe w cenach obniżonych nawet o 50%? A może marzysz o jakimś inteligentnym...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/sprzety_gamingowe_nawet_o_50_taniej_w_mundialowej_promocji_x_komu-24127.html">https://ithardware.pl/aktualnosci/sprzety_gamingowe_nawet_o_50_taniej_w_mundialowej_promocji_x_komu-24127.html</a></p>
+

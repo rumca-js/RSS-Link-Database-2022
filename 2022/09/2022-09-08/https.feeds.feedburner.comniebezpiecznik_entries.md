@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Rząd chce, aby sprzedawcy domyślnie instalowali 2 apki od MSWiA na smartfonach Polaków
  - [https://niebezpiecznik.pl/post/rzad-chce-aby-sprzedawcy-domyslnie-instalowali-2-apki-od-mswia-na-smartfonach-polakow/](https://niebezpiecznik.pl/post/rzad-chce-aby-sprzedawcy-domyslnie-instalowali-2-apki-od-mswia-na-smartfonach-polakow/)
@@ -20,3 +20,4 @@
  - date published: 2022-09-08 08:56:28+00:00
 
 <a href="https://niebezpiecznik.pl/post/iphony-beda-korzystaly-z-lacznosci-satelitarnej-nie-tylko-do-wzywania-pomocy/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/09/inreach-garmin-min-150x150.jpg" width="100" /></a>Wczoraj Apple zaprezentowało iPhone 14. Jeśli nie irytuje Was powtarzanie słowa &#8220;amazing&#8221; częściej niż raz na minutę, to całość eventu możecie zobaczyć tu. Ale żarty na bok. Je
+

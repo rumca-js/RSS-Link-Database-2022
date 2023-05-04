@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Leak suggests the Pixel 7a may have high-end features never seen on the A-series
  - [https://www.androidauthority.com/pixel-7a-leak-3234233/](https://www.androidauthority.com/pixel-7a-leak-3234233/)
@@ -90,3 +90,4 @@ You don't need multiple tablets!
  - date published: 2022-11-11 03:00:19+00:00
 
 Why do just one activity when you can combine three?
+

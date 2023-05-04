@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Can Elon Musk Make the Math Work on Owning Twitter? It’s Dicey.
  - [https://www.nytimes.com/2022/10/30/technology/elon-musk-twitter-debt.html](https://www.nytimes.com/2022/10/30/technology/elon-musk-twitter-debt.html)
@@ -13,3 +13,4 @@ Mr. Musk faces financial challenges in owning Twitter. The site frequently loses
  - date published: 2022-10-30 19:52:32+00:00
 
 The tweet on Sunday posted an article that made baseless allegations about the attack on House Speaker Nancy Pelosi’s husband.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## The evolution of the MacBook
  - [https://www.computerworld.com/article/3157371/the-evolution-of-the-macbook.html#tk.rss_all](https://www.computerworld.com/article/3157371/the-evolution-of-the-macbook.html#tk.rss_all)
@@ -33,3 +33,4 @@
 <article>
 	<section class="page">
 <p>Have you heard the news? Regular smartphones are getting satellite connectivity!</p><p>Apple recently announced long-rumored satellite support for the new iPhone 14, enabling users to <a href="https://support.apple.com/en-us/HT213426" rel="nofollow noopener" target="_blank">send emergency messages outside cellular coverage areas</a>.</p><p>The service, called Emergency SOS, was made possible through a partnership with Globalstar, the American low Earth orbit 
+

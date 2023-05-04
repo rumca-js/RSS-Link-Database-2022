@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Destiny 2 - Touch Of Malice Catalyst Guide
  - [https://www.gamespot.com/videos/destiny-2-touch-of-malice-catalyst-guide/2300-6459459/](https://www.gamespot.com/videos/destiny-2-touch-of-malice-catalyst-guide/2300-6459459/)
@@ -510,3 +510,4 @@
  - date published: 2022-09-09 00:08:00+00:00
 
 <p><a href="https://www.gamespot.com/games/nba-2k23/">NBA 2K23</a> is here, and that means hoop heads and casual NBA fans will have about a season's worth of debates to start and more than a few LeBron James dunks to choreograph. We're breaking down the new NBA 2K23 rosters for all 32 NBA teams, and in this guide we're taking a closer look at the Cleveland Cavaliers. The Cavs made a huge splash at the end of this offseason, acquiring Donovan Mitchell from Utah. With Mitchell now in the mix with 
+

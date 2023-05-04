@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## AMD’s best GPU is up to $1,000 cheaper than it was a few months ago
  - [https://www.digitaltrends.com/computing/amd-radeon-rx-6900-xt-price-cut/](https://www.digitaltrends.com/computing/amd-radeon-rx-6900-xt-price-cut/)
@@ -27,3 +27,4 @@ Over 1.2 million credit cards have been distributed via the dark web through a r
  - date published: 2022-10-11 06:06:06.398510+00:00
 
 Intel has confirmed that the source code for the Alder Lake BIOS was leaked. What will the consequences be?
+

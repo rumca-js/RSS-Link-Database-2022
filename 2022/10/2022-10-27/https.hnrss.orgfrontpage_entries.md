@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## You might not need JavaScript
  - [http://youmightnotneedjs.com/](http://youmightnotneedjs.com/)
@@ -782,3 +782,4 @@ Links posted in a comment.</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33351585">https://news.ycombinator.com/item?id=33351585</a></p>
 <p>Points: 10</p>
 <p># Comments: 7</p>
+

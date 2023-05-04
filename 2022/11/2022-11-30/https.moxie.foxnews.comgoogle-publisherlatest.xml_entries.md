@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## FTX CEO Sam Bankman-Fried denies he was trying to buy influence with donations to news outlets
  - [https://www.foxnews.com/media/ftx-ceo-sam-bankman-fried-denies-trying-buy-influence-donations-news-outlets](https://www.foxnews.com/media/ftx-ceo-sam-bankman-fried-denies-trying-buy-influence-donations-news-outlets)
@@ -994,6 +994,13 @@ Dallas Mavericks guard Spencer Dinwiddie's incident with NBA referee Tony Brothe
 
 Twitter CEO Elon Musk accused Democratic politicians of working coordinated attacks against him for political gain in a response tweet on Tuesday night.
 
+## Kids thrive as Texas grandmother, Instagram influencer reveals her bedtime 'game' — and how God's involved
+ - [https://www.foxnews.com/lifestyle/kids-thrive-texas-grandmother-instagram-influencer-reveals-bedtime-game-god-involved](https://www.foxnews.com/lifestyle/kids-thrive-texas-grandmother-instagram-influencer-reveals-bedtime-game-god-involved)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-30 11:59:07+00:00
+
+Instagram influencer Lisa Fletcher of Dallas, Texas, discusses her new book, &apos;What I Love About You,&quot; with Fox News Digital — and shares her secrets for raising children and now grandchildren.
+
 ## Millions at risk as storms spawn dangerous tornadoes, Biden judicial nominees grilled and more top headlines
  - [https://www.foxnews.com/us/severe-storms-rip-through-south-dangerous-tornadoes](https://www.foxnews.com/us/severe-storms-rip-through-south-dangerous-tornadoes)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -1392,3 +1399,4 @@ Authorities have not identified a suspect in the murders of four college student
  - date published: 2022-11-30 00:07:46+00:00
 
 The New England Patriots aren't especially known for celebrating personal milestones, but on Monday owner Robert Kraft made an exception for three-time Super Bowl champ Devin McCourty.
+

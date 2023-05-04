@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Love birds? Help protect them with this free birding app
  - [https://www.zdnet.com/home-and-office/yard-outdoors/go-from-zero-to-birding-hero-with-this-free-app-that-helps-protect-our-feathered-friends/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/go-from-zero-to-birding-hero-with-this-free-app-that-helps-protect-our-feathered-friends/#ftag=RSSbaffb68)
@@ -230,3 +230,4 @@ The best gaming laptops offer excellent graphics, fast processors, and portabili
  - date published: 2022-11-09 00:32:00+00:00
 
 Looking for a device that's more durable? The best rugged tablets are made of reliable materials, have long battery lives, and have been tested and rated against drops, shocks, dirt, and moisture.
+

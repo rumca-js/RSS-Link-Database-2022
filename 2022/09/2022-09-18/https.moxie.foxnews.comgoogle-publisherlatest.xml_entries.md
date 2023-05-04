@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Cardinals' Kyler Murray pulls off incredible scramble for 2-point conversion
  - [https://www.foxnews.com/sports/cardinals-kyler-murray-pulls-off-incredible-scramble-2-point-conversion](https://www.foxnews.com/sports/cardinals-kyler-murray-pulls-off-incredible-scramble-2-point-conversion)
@@ -839,3 +839,4 @@ You could win $100,000 in FOX Bet Super 6's NFL Sunday Challenge that is free-to
  - date published: 2022-09-18 03:26:36+00:00
 
 James, Viscount Severn, joined his cousins as they stood vigil by their grandmother Queen Elizabeth II's coffin on Saturday. The 14-year-old is the late monarch's youngest grandchild.
+

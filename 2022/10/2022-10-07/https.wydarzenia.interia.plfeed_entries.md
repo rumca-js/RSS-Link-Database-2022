@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wojna w Ukrainie. Zełenski: Putin boi się swojego narodu
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-zelenski-putin-boi-sie-swojego-narodu,nId,6333715](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-zelenski-putin-boi-sie-swojego-narodu,nId,6333715)
@@ -482,3 +482,4 @@
  - date published: 2022-10-07 03:32:18+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-226-dzien-inwazji-rosji-relacja-na-zywo,nzId,3145,akt,070724"><img align="left" alt="Wojna w Ukrainie. 226. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-226-dzien-inwazji-rosji-relacja-na-zywo/000G64F4JSDHDEU3-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

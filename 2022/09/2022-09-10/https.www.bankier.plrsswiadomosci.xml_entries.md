@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Zełenski: Przed nami 90 dni zimy, która zdecyduje o przyszłości Ukrainy i UE
  - [https://www.bankier.pl/wiadomosc/Zelenski-Przed-nami-90-dni-zimy-ktora-zdecyduje-o-przyszlosci-Ukrainy-i-UE-8403954.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zelenski-Przed-nami-90-dni-zimy-ktora-zdecyduje-o-przyszlosci-Ukrainy-i-UE-8403954.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -176,3 +176,4 @@ mogą wynosić za 2 lata według tych prognoz.</p>
  - date published: 2022-09-10 02:12:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/d/7145197b2cb195-948-568-10-450-3990-2393.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Były dowódca armii amerykańskiej w Europie generał Ben Hodges uważa, że Ukraina może odzyskać wszystkie swoje terytoria, w tym Krym, w 2023 roku - pisze w piątek "Newsweek".</p>
+

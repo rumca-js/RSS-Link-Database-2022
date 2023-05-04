@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Strzelecki festiwal w Hali Legionów
  - [https://eurosport.tvn24.pl/strzelecki-festiwal-w-hali-legion-w--wolff-wybroni--zwyci-stwo-mistrzom-polski,1120747.html?source=rss](https://eurosport.tvn24.pl/strzelecki-festiwal-w-hali-legion-w--wolff-wybroni--zwyci-stwo-mistrzom-polski,1120747.html?source=rss)
@@ -215,3 +215,4 @@
 
 <img alt="Szwedzi mają problem, my - syndrom Bullerbyn" src="https://tvn24.pl/najnowsze/cdn-zdjecie-zm3j48-jimmie-akesson-lider-szwedzkich-demokratow-w-szwedzkich-barwach-podczas-jednego-z-powyborczych-spotkan-6149462/alternates/LANDSCAPE_1280" />
     Szwedzi są nudni, wszystko tam działa, ludzie są syci i zadowoleni.  Na pewno?
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Cannabis oil failed to improve pain or quality of life in palliative care cancer patients, study shows
  - [https://www.theguardian.com/australia-news/2022/nov/29/cannabis-oil-failed-to-improve-pain-or-quality-of-life-in-palliative-care-cancer-patients-study-shows](https://www.theguardian.com/australia-news/2022/nov/29/cannabis-oil-failed-to-improve-pain-or-quality-of-life-in-palliative-care-cancer-patients-study-shows)
@@ -1021,3 +1021,4 @@
  - date published: 2022-11-28 00:01:09+00:00
 
 <p>Hikes set to hit warehouses and online retailers hardest in 2023 as UK government addresses ‘brick v clicks’ tax gap</p><p>Amazon’s UK tax bill jump could jump by £29m next year as a result of changes to business rates that are scheduled to hit warehouses and online retailers the hardest.</p><p>The online retailer is likely to be among firms facing big tax rises following the chancellor’s <a href="https://www.theguardian.com/uk-news/autumn-statement-2022">autumn statement</a>, according to analysis from the real estate adviser Altus Group.</p> <a href="https://www.theguardian.com/business/2022/nov/28/amazon-uk-tax-bill-could-rise-29m-next-year-business-rates-change">Continue reading...</a>
+

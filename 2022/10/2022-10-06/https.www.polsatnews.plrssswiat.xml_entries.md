@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. Rosjanie uciekają przed mobilizacją. Dotarli do... USA
  - [https://www.polsatnews.pl/wiadomosc/2022-10-06/rosjanie-uciekaja-przed-mobilizacja-dotarli-do-usa/](https://www.polsatnews.pl/wiadomosc/2022-10-06/rosjanie-uciekaja-przed-mobilizacja-dotarli-do-usa/)
@@ -174,3 +174,4 @@ Brutalny atak w mieście San Miguel Totolapan (stan Guerrero) na południu Meksy
  - date published: 2022-10-06 04:15:00+00:00
 
 Na Morzu Egejskim, na wschód od greckiej wyspy Lesbos zatonęła łódź z migrantami. Na pokładzie znajdowało się około 40 osób. Grecka straż przybrzeżna poinformowała o śmierci co najmniej 15 osób. Trwają poszukiwania pozostałych pasażerów.
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Frederick P. Brooks Jr., Computer Design Innovator, Dies at 91
  - [https://www.nytimes.com/2022/11/23/technology/frederick-p-brooks-jr-dead.html](https://www.nytimes.com/2022/11/23/technology/frederick-p-brooks-jr-dead.html)
@@ -48,3 +48,4 @@ The company OpenSensors uses small, inexpensive sensors to monitor air quality a
  - date published: 2022-11-23 10:00:40+00:00
 
 It promises to be unpredictable, with retailers and consumers still figuring out how much will be spent and on what kinds of goods.
+

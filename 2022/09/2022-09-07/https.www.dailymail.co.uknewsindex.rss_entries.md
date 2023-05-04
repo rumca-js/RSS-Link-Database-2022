@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Marjorie Taylor Greene rips comedian Kathy Griffin for warning of 'civil war' if GOP wins midterms
  - [https://www.dailymail.co.uk/news/article-11191383/Marjorie-Taylor-Greene-rips-comedian-Kathy-Griffin-warning-civil-war-GOP-wins-midterms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11191383/Marjorie-Taylor-Greene-rips-comedian-Kathy-Griffin-warning-civil-war-GOP-wins-midterms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1869,3 +1869,4 @@ Matthew Sinclair was until now a director and economics adviser at Deloitte bank
  - date published: 2022-09-07 00:01:34+00:00
 
 New Chancellor Kwasi Kwarteng is a renowned brainbox with a PhD in economic history from Cambridge University. He speaks German, Greek and French, and writes poetry in Latin.
+

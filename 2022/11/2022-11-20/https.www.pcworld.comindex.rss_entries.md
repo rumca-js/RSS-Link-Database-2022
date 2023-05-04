@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Give thanks for early Black Friday savings on this projector and screen bundle
  - [https://www.pcworld.com/article/1383034/give-thanks-for-early-black-friday-savings-on-this-projector-and-screen-bundle.html](https://www.pcworld.com/article/1383034/give-thanks-for-early-black-friday-savings-on-this-projector-and-screen-bundle.html)
@@ -39,3 +39,4 @@
 
 <p><em>Prices subject to change.</em></p>
 Projectors</div>
+

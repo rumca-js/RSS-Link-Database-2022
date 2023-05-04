@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## A great financial reset is happening NOW (new gold standard)
  - [https://www.youtube.com/watch?v=gVr9RRsRaK8](https://www.youtube.com/watch?v=gVr9RRsRaK8)
@@ -47,3 +47,4 @@ This video is sponsored by Masterworks.
 See important Masterworks disclosures: http://masterworks.io/cd 
 
 #GoldStandard #Gold #GoldReserves
+

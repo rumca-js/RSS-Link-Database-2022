@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Supernowa rozjaśniła niebo. Astronomowie zaobserwowali wybuch niewyobrażalnie szybko
  - [https://www.chip.pl/2022/11/supernowa-odlegla-ale-zaobserwowana-szybko](https://www.chip.pl/2022/11/supernowa-odlegla-ale-zaobserwowana-szybko)
@@ -151,3 +151,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="731" src="https://konto.chip.pl/wp-content/uploads/2021/12/trace-gas-orbiter-mars.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2021/12/trace-gas-orbiter-mars.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Odporne na promieniowanie ogniwa słoneczne, których warstwa ochronna ma grubość znacznie mniejszą niż ludzki włos? Naukowcy twierdzą, że udało im się takowe zaprojektować. O swoim projekcie piszą w Journal of Applied Physics, wyjaśniając, w jakich okolicznościach takie urządzenia mogłyby znaleźć zastosowanie. W grę wchodzi przede wszystkim orbita okołoziemska &#8211; niska staje się coraz bardziej zatłoczona, [&#8230;]</p>
+

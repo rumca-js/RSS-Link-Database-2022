@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Ukraina chce zwołania pilnego posiedzenia Rady Bezpieczeństwa ONZ
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-chce-zwolania-pilnego-posiedzenia-rady-bezpieczenstw,nId,6306201](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-chce-zwolania-pilnego-posiedzenia-rady-bezpieczenstw,nId,6306201)
@@ -321,3 +321,4 @@
  - date published: 2022-09-24 04:09:44+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-213-dzien-inwazji-rosji-relacja-na-zywo,nzId,3068,akt,240832"><img align="left" alt="Wojna w Ukrainie. 213. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-213-dzien-inwazji-rosji-relacja-na-zywo/000G40TQSEPAD25J-C321.jpg" /></a>Śledź naszą relację na żywo. Najnowsze informacje z frontu.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## CNN analysts break down what could be revealed in Trump's tax returns
  - [https://www.cnn.com/videos/politics/2022/11/22/scotus-trump-tax-returns-ruling-eisen-mccabe-sot-sr-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/22/scotus-trump-tax-returns-ruling-eisen-mccabe-sot-sr-vpx.cnn)
@@ -519,3 +519,4 @@ New video obtained by CNN appears to show the Colorado Springs shooting suspect 
  - date published: 2022-11-22 00:12:47+00:00
 
 Part of the Northern Taurids, the bolide burned up in the atmosphere 65 km (40 miles) above sea level, according to the Norwegian meteor network.
+

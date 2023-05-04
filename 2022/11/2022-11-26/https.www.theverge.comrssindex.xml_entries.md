@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## A Twitter executive got a court injunction to prevent Elon Musk from firing her
  - [https://www.theverge.com/2022/11/26/23479275/twitter-executive-court-injunction-elon-musk-fired-sinead-mcsweeney](https://www.theverge.com/2022/11/26/23479275/twitter-executive-court-injunction-elon-musk-fired-sinead-mcsweeney)
@@ -126,3 +126,4 @@
   <p>
     <a href="https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming">Continue reading&hellip;</a>
   </p>
+

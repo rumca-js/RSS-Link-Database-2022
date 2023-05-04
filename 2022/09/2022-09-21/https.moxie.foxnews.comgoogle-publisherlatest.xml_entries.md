@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Federal judge strikes down federal school mask and vaccine mandate for Head Start program
  - [https://www.foxnews.com/media/federal-judge-strikes-down-federal-school-mask-and-vaccine-mandate-head-state-program](https://www.foxnews.com/media/federal-judge-strikes-down-federal-school-mask-and-vaccine-mandate-head-state-program)
@@ -1357,3 +1357,4 @@ The New York Yankees have named Gerrit Cole as their Game 1 starter for whatever
  - date published: 2022-09-21 00:10:56+00:00
 
 Tim Allen sparked an uproar online after making a joke about President Joe Biden. The actor went viral for a wisecrack he made on Twitter after the president appeared on "60 Minutes."
+

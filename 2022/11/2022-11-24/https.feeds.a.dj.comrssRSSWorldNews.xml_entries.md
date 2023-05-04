@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## U.N. to Probe Iran's Alleged Human-Rights Violations During Protests
  - [https://www.wsj.com/articles/u-n-to-investigate-irans-alleged-human-rights-violations-during-protests-11669308624](https://www.wsj.com/articles/u-n-to-investigate-irans-alleged-human-rights-violations-during-protests-11669308624)
@@ -62,3 +62,4 @@ The gas-price debate marks the latest attempt to hash out Europe’s next steps 
  - date published: 2022-11-24 07:51:00+00:00
 
 China’s worst Covid-19 outbreak is squashing hopes for an economic rebound and fanning concern about disruption to the world’s supply chains.
+

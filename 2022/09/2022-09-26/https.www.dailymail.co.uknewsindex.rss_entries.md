@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Perth miner Luke Jeffers in ICU in Kuala Lumpur, Malaysia after sickening attack
  - [https://www.dailymail.co.uk/news/article-11252395/Perth-miner-Luke-Jeffers-ICU-Kuala-Lumpur-Malaysia-sickening-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11252395/Perth-miner-Luke-Jeffers-ICU-Kuala-Lumpur-Malaysia-sickening-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1588,3 +1588,4 @@ Labour will attempt to strengthen an anti-Tory pact by targeting only two seats
  - date published: 2022-09-26 00:01:52+00:00
 
 Labour's tax policy descended into chaos yesterday as two senior figures contradicted Sir Keir Starmer over the 1p cut to income tax.
+

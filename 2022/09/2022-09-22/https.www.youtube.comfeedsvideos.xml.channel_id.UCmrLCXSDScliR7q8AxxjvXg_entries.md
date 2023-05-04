@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## America's Humiliated and Demoralized Military
  - [https://www.youtube.com/watch?v=mINZmZYsDEU](https://www.youtube.com/watch?v=mINZmZYsDEU)
@@ -60,3 +60,4 @@ https://felixrex.net/2022/09/notes-for-video-america-world-police-busted-and-bro
 -------------------------------
 
 #FelixRex #BlackPigeonSpeaks
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Warhammer 40,000: Darktide—gameplay, trailers and everything we know
  - [https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
@@ -69,3 +69,4 @@ It's called Retro Gadgets, because that's what it's about.
  - date published: 2022-10-02 03:03:05+00:00
 
 They'll be double-sided. Also, Megatron's a tank.
+

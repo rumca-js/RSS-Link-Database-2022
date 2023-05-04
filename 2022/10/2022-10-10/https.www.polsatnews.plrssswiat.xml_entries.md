@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Dębski o rosyjskich generałach: Mówi się, że to rzeźnicy, a wymienia się ich po trzech miesiącach
  - [https://www.polsatnews.pl/wiadomosc/2022-10-10/debski-o-rosyjskich-generalach-mowi-sie-ze-to-rzeznicy-a-wymienia-sie-ich-po-trzech-miesiacach/](https://www.polsatnews.pl/wiadomosc/2022-10-10/debski-o-rosyjskich-generalach-mowi-sie-ze-to-rzeznicy-a-wymienia-sie-ich-po-trzech-miesiacach/)
@@ -174,3 +174,4 @@ We Lwowie doszło do co najmniej kilku eksplozji - informuje agencja Reutera. Wy
  - date published: 2022-10-10 05:25:00+00:00
 
 W centrum Kijowa doszło najprawdopodobniej do kilku eksplozji - informują media. Informację potwierdził mer ukraińskiej stolicy Witalij Kliczko. Nad miastem unosi się dym, nie kursuje komunikacja miejska, w tym metro.
+

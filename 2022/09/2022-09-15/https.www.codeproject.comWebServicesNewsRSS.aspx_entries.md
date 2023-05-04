@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A terrifying AI-generated woman is lurking in the abyss of latent space
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58883](https://www.codeproject.com/script/News/View.aspx?nwid=58883)
@@ -132,3 +132,4 @@ Swift 5.7 features a smaller and faster standard library, usability improvements
  - date published: 2022-09-15 04:00:00+00:00
 
 Possible useful feature (1)
+

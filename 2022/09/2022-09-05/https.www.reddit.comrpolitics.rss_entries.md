@@ -1,5 +1,3 @@
-# Source URL:https://www.reddit.com/r/politics/.rss, Source language: en-US
-
 ## Republicans Could Make Drastic Changes to Constitution With 'Runaway' Convention, Former Democratic Senator Says
  - [https://www.reddit.com/r/politics/comments/x6g1om/republicans_could_make_drastic_changes_to/](https://www.reddit.com/r/politics/comments/x6g1om/republicans_could_make_drastic_changes_to/)
  - RSS feed: https://www.reddit.com/r/politics/.rss
@@ -132,3 +130,4 @@
  - date published: 2022-09-05 00:35:45+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/x62bqe/florida_arrested_felons_for_election_fraud_it/"> <img alt="Florida arrested felons for election fraud. It also gave them voter IDs." src="https://external-preview.redd.it/q9u2iDBmiWwlBUGYCqSHH58WB-5TSFm4hN5yNXk5vOE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bdeb646a6959f3c904f2a1dd64ba1a46cc72c12" title="Florida arrested felons for election fraud. It also gave them voter IDs." /> </a> </td><td> &#32; submitted by 
+

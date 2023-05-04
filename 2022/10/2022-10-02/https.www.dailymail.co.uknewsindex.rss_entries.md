@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Major changes to bin rules in Melbourne
  - [https://www.dailymail.co.uk/news/article-11273195/Major-changes-bin-rules-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11273195/Major-changes-bin-rules-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1182,3 +1182,4 @@ Nick Clegg, now president of global affairs and communications for Meta, as Face
  - date published: 2022-10-02 00:01:59+00:00
 
 Jeremy Corbyn is likely to lose his Islington North seat to a Labour MP who blamed his leadership for her defeat at the last election. Corbyn is said to be planning to stand as an independent.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## India’s richest man surpasses Bezos on billionaires list
  - [https://www.washingtonpost.com/business/2022/09/16/gautam-adani-forbes-billionaires/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/09/16/gautam-adani-forbes-billionaires/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ The mind behind "Her Story" and "Telling Lies" merges filmed live performances w
  - date published: 2022-09-16 07:00:00+00:00
 
 Searcher, beware: That Google, Bing or DuckDuckGo ad might be ‘malvertising’ — phishing campaigns and malware hiding behind legit-looking links
+

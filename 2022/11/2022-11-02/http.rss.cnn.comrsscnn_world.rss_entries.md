@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## These glaciers are on track to disappear within the next 30 years, new report shows
  - [https://www.cnn.com/2022/11/02/us/glaciers-world-heritage-sites-disappearing-climate/index.html](https://www.cnn.com/2022/11/02/us/glaciers-world-heritage-sites-disappearing-climate/index.html)
@@ -41,3 +41,4 @@ They came from very different backgrounds and different parts of the country, ea
  - date published: 2022-11-02 06:55:53+00:00
 
 It's been little more than a week since Chinese leader Xi Jinping began his norm-breaking third term in power with a ringing endorsement of his relentless zero-Covid policy.
+

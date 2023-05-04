@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Ask HN: Anyone else unable to access photos and street view on Google Maps?
  - [https://news.ycombinator.com/item?id=33228336](https://news.ycombinator.com/item?id=33228336)
@@ -273,10 +273,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-16 15:50:51+00:00
 
-<p>Article URL: <a href="https://godbolt.org/">https://godbolt.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=33224542">https://news.ycombinator.com/item?id=33224542</a></p>
-<p>Points: 31</p>
-<p># Comments: 10</p>
+test
 
 ## Rent Going Up? One Company’s Algorithm Could Be Why
  - [https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
@@ -653,3 +650,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33219889">https://news.ycombinator.com/item?id=33219889</a></p>
 <p>Points: 11</p>
 <p># Comments: 3</p>
+

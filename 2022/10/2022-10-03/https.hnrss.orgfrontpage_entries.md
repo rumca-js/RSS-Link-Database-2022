@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## We Burned Down Players’ Houses in Ultima Online
  - [https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
@@ -367,3 +367,4 @@ We don't want to hire any employees to keep the cost at minimum (only spend 9.99
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33061826">https://news.ycombinator.com/item?id=33061826</a></p>
 <p>Points: 6</p>
 <p># Comments: 1</p>
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## How Cloudflare got Kiwi Farms wrong
  - [https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos](https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos)
@@ -370,3 +370,4 @@
     </figure>
 
   <p id="Az4IF1">The Apple Watch Pro leaks continue w
+

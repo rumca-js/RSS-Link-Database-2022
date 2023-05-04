@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wielkopolskie. Zderzenie busa z ciężarówką. Są zabici i ranni
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29056016,wielkopolskie-zderzenie-busa-z-ciezarowka-sa-zabici-i-ranni.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29056016,wielkopolskie-zderzenie-busa-z-ciezarowka-sa-zabici-i-ranni.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-10-21 05:42:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/34/b4/1b/z29052724M,Projekt-pomnika-Lecha-Kaczynskiego-w-Lublinie.jpg" vspace="2" />Radni Lublina zatwierdzili projekt pomnika Lecha Kaczyńskiego, który wzbudził duże zainteresowanie mediów. Jego budowa ma być sfinansowana z funduszy zebranych przez społeczny komitet, a sam monument ma pojawić się na skwerze przy Placu Teatralnym i mieć aż 11 metrów szerokości. Niektórzy radni krytycznie odnoszą się jednak do sposobu przedstawienia byłego p
+

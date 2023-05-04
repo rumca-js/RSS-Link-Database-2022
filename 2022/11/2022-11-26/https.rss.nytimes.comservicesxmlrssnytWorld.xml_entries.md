@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Protests Erupt in Shanghai and Other Chinese Cities Over Covid Controls
  - [https://www.nytimes.com/2022/11/26/world/asia/china-protests-covid.html](https://www.nytimes.com/2022/11/26/world/asia/china-protests-covid.html)
@@ -90,3 +90,4 @@ Before his arrest over #MeToo allegations, Kris Wu was one of China’s most pop
  - date published: 2022-11-26 05:01:09+00:00
 
 The West thought an artillery and tank war in Europe would never happen again and shrunk weapons stockpiles. It was wrong.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## T-Mobile znacząco poprawi zasięg 5G w USA. Inwestycja kosztowała 304 miliony dolarów
  - [https://ithardware.pl/aktualnosci/t_mobile_znaczaco_poprawi_zasieg_5g_w_usa_inwestycja_kosztowala_304_miliony_dolarow-23349.html](https://ithardware.pl/aktualnosci/t_mobile_znaczaco_poprawi_zasieg_5g_w_usa_inwestycja_kosztowala_304_miliony_dolarow-23349.html)
@@ -77,3 +77,4 @@ Vince Zampella z Electronic Arts, kt&oacute;ry...
 
 Apple opublikowało informację na stronie pomocy technicznej...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/iphone_14_ledwo_sie_pojawil_a_juz_sprawia_problemy-23342.html">https://ithardware.pl/aktualnosci/iphone_14_ledwo_si
+

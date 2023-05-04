@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Barcelona na kolanach. Lewandowski ponownie przegrał z Bayernem
  - [https://eurosport.tvn24.pl/barcelona-na-kolanach--lewandowski-ponownie-przegra--z-bayernem,1122734.html?source=rss](https://eurosport.tvn24.pl/barcelona-na-kolanach--lewandowski-ponownie-przegra--z-bayernem,1122734.html?source=rss)
@@ -207,3 +207,4 @@
 
 <img alt="Djoković chce do Australii" src="https://tvn24.pl/najnowsze/cdn-zdjecie-54krgp-novak-djokovic-nie-zagra-w-us-open/alternates/LANDSCAPE_1280" />
     Wypoczęty i zmotywowany.
+

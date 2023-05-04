@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia Targets Power, Water and Heat for Ukraine’s Civilians
  - [https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html](https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html)
@@ -132,3 +132,4 @@ The uprising will be of keen interest in the U.S., where a second Apple store vo
  - date published: 2022-10-18 04:01:14+00:00
 
 The European Union has been severing economic ties with Moscow to support Ukraine, but some countries have lobbied to protect key sectors.
+

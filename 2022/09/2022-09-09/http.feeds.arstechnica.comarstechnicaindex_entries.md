@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Polio declared a disaster emergency in New York after more poliovirus found
  - [https://arstechnica.com/?p=1880198](https://arstechnica.com/?p=1880198)
@@ -111,3 +111,4 @@ Cupertino accused of "playing with fire" if it buys data storage components from
  - date published: 2022-09-09 11:00:57+00:00
 
 "I cannot see a rebuild of the cooperation we had in the past."
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Supreme Court Declines To Hear Case Over Whether Unborn Babies Have Constitutional Rights
  - [https://www.dailywire.com/news/supreme-court-declines-to-hear-case-over-whether-unborn-babies-have-constitutional-rights](https://www.dailywire.com/news/supreme-court-declines-to-hear-case-over-whether-unborn-babies-have-constitutional-rights)
@@ -426,3 +426,4 @@ Former congresswoman and Democratic presidential candidate Tulsi Gabbard said T
  - date published: 2022-10-11 07:24:51+00:00
 
 New Zealand farmers fumed about a new tax proposed by government officials Tuesday that would charge agriculturalists for greenhouse gases, biogenic methane, and nitrous oxide belched or urinated out from cows and sheep. New Zealand Prime Minister Jacinda Ardern said such taxes would fuel the industry by funding new technology, research, and incentives for the ...
+

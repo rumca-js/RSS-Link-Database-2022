@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Try the demo for delightful sandbox mystery The Case of the Golden Idol
  - [https://www.pcgamer.com/try-the-demo-for-delightful-sandbox-mystery-the-case-of-the-golden-idol](https://www.pcgamer.com/try-the-demo-for-delightful-sandbox-mystery-the-case-of-the-golden-idol)
@@ -83,3 +83,4 @@ Hellena Taylor claims series creator Hideki Kamiya personally offered her a flat
  - date published: 2022-10-16 01:02:04+00:00
 
 Look how they massacred my boy.
+

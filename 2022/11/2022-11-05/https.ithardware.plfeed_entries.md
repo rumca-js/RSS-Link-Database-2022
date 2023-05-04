@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Microsoft blokuje aktualizację Windows 11 22H2 przez problem związany z Xbox Game Bar
  - [https://ithardware.pl/aktualnosci/microsoft_blokuje_aktualizacje_windows_11_22h2_przez_problem_zwiazany_z_xbox_game_bar-24215.html](https://ithardware.pl/aktualnosci/microsoft_blokuje_aktualizacje_windows_11_22h2_przez_problem_zwiazany_z_xbox_game_bar-24215.html)
@@ -89,3 +89,4 @@ Mamy to, to już ten moment kiedy dni się skr&oacute;ciły i jesteśmy cali got
 
 Apple TV+ możemy otrzymać za darmo na 2 miesiące. W celu aktywowania subskrypcji należy udać...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/apple_tv_za_darmo_na_2_miesiace_platforma_zacheca_do_skorzystania_z_okazji-24207.html">https://ithardware.pl/aktualnosci/apple_tv_za_darmo_na_2_miesiace_platforma_zacheca_do_skorzystania_z_okazji-24207.html</a></p>
+

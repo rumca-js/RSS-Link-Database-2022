@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Becoming a father shrinks your cerebrum
  - [https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
@@ -810,3 +810,4 @@ E.g: You write and maintain an open-source package used by quite a few people. O
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33029101">https://news.ycombinator.com/item?id=33029101</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+

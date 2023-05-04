@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Justice Dept. Charges 2 Chinese Citizens With Spying for Huawei
  - [https://www.nytimes.com/2022/10/24/us/politics/justice-dept-huawei.html](https://www.nytimes.com/2022/10/24/us/politics/justice-dept-huawei.html)
@@ -13,3 +13,4 @@ Huawei has been a persistent target of the United States government since the ad
  - date published: 2022-10-24 16:37:40+00:00
 
 Shares of the company slumped as investors worried about increasing competition.
+

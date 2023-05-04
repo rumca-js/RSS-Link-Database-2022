@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## How the Fukushima disaster forced Japan to adopt energy sufficiency ahead of its time
  - [https://www.lemonde.fr/en/opinion/article/2022/10/27/how-the-fukushima-disaster-forced-japan-to-adopt-energy-sufficiency-ahead-of-its-time_6001912_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/27/how-the-fukushima-disaster-forced-japan-to-adopt-energy-sufficiency-ahead-of-its-time_6001912_23.html)
@@ -251,3 +251,4 @@ The new Italian cabinet led by prime minister Giorgia Meloni easily won the conf
  - date published: 2022-10-26 01:10:22+00:00
 
 The European Commission had no new proposals to offer at the EU Energy Council meeting in Luxembourg on Tuesday, October 25.
+

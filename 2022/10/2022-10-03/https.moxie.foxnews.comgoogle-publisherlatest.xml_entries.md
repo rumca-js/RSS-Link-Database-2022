@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## 'The Five' on global reaction to Russia's nuclear threat
  - [https://www.foxnews.com/transcript/five-global-reaction-russias-nuclear-threat](https://www.foxnews.com/transcript/five-global-reaction-russias-nuclear-threat)
@@ -32,9 +32,8 @@ DHS watchdog found the U.S. government “struggled to track” Afghan evacuees 
  - [https://www.foxnews.com/media/californias-new-bill-punishes-doctors-covid-misinformation-chilling-dangerous-turley](https://www.foxnews.com/media/californias-new-bill-punishes-doctors-covid-misinformation-chilling-dangerous-turley)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-03 20:50:12+00:00
- - tags: covid,misinformation,censorhip
 
-Legal scholar Jonathan Turley ripped into California's new law that would punish doctors for COVID "misinformation" and possibly suspend their medical licenses.
+test
 
 ## Justin Bieber caught with his pants down at swanky Los Angeles golf club
  - [https://www.foxnews.com/sports/justin-bieber-caught-pants-down-swanky-los-angeles-golf-club](https://www.foxnews.com/sports/justin-bieber-caught-pants-down-swanky-los-angeles-golf-club)
@@ -420,3 +419,4 @@ Vox correspondent Emily St. James wrote a lengthy piece on Thursday encouraging 
  - date published: 2022-10-03 00:02:29+00:00
 
 A Chicago teen who was one of four suspects arrested in connection with a carjacking that led to the death of a 55-year-old woman was reportedly awaiting trial for a felony gun case.
+

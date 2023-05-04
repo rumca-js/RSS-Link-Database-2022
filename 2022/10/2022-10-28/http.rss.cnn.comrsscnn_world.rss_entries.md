@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## GM pauses advertising on Twitter after Elon Musk takeover
  - [https://www.cnn.com/2022/10/28/tech/gm-pauses-advertising-twitter/index.html](https://www.cnn.com/2022/10/28/tech/gm-pauses-advertising-twitter/index.html)
@@ -62,3 +62,4 @@ New inflation data shows that US prices are still uncomfortably high, despite ag
  - date published: 2022-10-28 10:30:49+00:00
 
 The relationship between the United States and Saudi Arabia is one of the most important on the planet. And lately, it's also been one of the most awkward.
+

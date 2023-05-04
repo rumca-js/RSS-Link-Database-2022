@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Maliszewska nie zawiodła na koronnym dystansie
  - [https://eurosport.tvn24.pl/maliszewska-nie-zawiod-a-na-koronnym-dystansie,1123129.html?source=rss](https://eurosport.tvn24.pl/maliszewska-nie-zawiod-a-na-koronnym-dystansie,1123129.html?source=rss)
@@ -199,3 +199,4 @@
 
 <img alt="Agata Passent o ojcu: bardzo długo nie chciał mówić o traumatycznych przeżyciach z dzieciństwa" src="https://tvn24.pl/najnowsze/cdn-zdjecie-nlifaq-agata-passent-6185782/alternates/LANDSCAPE_1280" />
     Z felietonistką, między innymi o Danielu Passencie, rozmawiał Piotr Jacoń.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Jason and Brittany Aldean crush Halloween with this 'Anchorman' video mocking fake news, recent Instagram drama
  - [https://www.louderwithcrowder.com/brittany-aldean-jason-anchorman-halloween](https://www.louderwithcrowder.com/brittany-aldean-jason-anchorman-halloween)
@@ -167,3 +167,4 @@ She even almost won musical chairs one day, getting down to the last two!</p><bl
 <a href="https://youtu.be/VnF6h7sxWBg" target="_blank">youtu.be</a>
 </small>
 </p>
+

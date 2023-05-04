@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## I am NEVER Using my Quest 2 Again
  - [https://www.youtube.com/watch?v=pgqLvSSpKEc](https://www.youtube.com/watch?v=pgqLvSSpKEc)
@@ -18,3 +18,4 @@ https://discord.gg/2hCGM9BYez
 Patreon link:
 https://www.patreon.com/Thrillseeker
 Outro Music: https://www.youtube.com/watch?v=u6JwgNQDVfI
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## After Elon Musk made this request to managers, it looks like massive Twitter layoffs WILL be happening
  - [https://www.louderwithcrowder.com/elon-musk-twitter-managers](https://www.louderwithcrowder.com/elon-musk-twitter-managers)
@@ -71,3 +71,4 @@
 <a href="https://youtu.be/VnF6h7sxWBg" target="_blank">youtu.be</a>
 </small>
 </p>
+

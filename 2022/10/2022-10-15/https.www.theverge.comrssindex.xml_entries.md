@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk says Starlink will keep funding Ukraine’s government ‘for free’ despite losing money
  - [https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money](https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money)
@@ -129,3 +129,4 @@
     </figure>
 
   <p id="4LCLZV">Workers at Apple’s Penn Square store in Oklahoma City have voted to unionize with the Communications Workers of America, with 56 yes
+

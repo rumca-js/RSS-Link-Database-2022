@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Elon Musk summons Twitter engineers to headquarters amid mass resignations
  - [https://www.theguardian.com/technology/2022/nov/18/elon-musk-twitter-engineers-workers-mass-resignation](https://www.theguardian.com/technology/2022/nov/18/elon-musk-twitter-engineers-workers-mass-resignation)
@@ -424,7 +424,6 @@ Mesmerising voice of Low, one of America’s most influential bands<p>Mimi Parke
  - [https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law](https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-18 15:12:55+00:00
- - tags: woke
 
 <p>Legislation that limits what universities can teach about racism and sexism violates first and 14th amendment, judge rules</p><p>A federal judge in Florida halted part of a state law that limits what colleges and universities can teach students about racism and sexism, calling it “positively dystopian”.</p><p>Issuing a temporary injunction on the law on Thursday, US district court judge Mark Walker said it violates first amendment rights to free speech, and 14th amendment rights to due process on campuses.</p> <a href="https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law">Continue reading...</a>
 
@@ -1218,3 +1217,4 @@ Mesmerising voice of Low, one of America’s most influential bands<p>Mimi Parke
  - date published: 2022-11-18 00:01:48+00:00
 
 <p>With form and fitness concerns surrounding Son Heung-min and others, the role of Napoli’s defensive rock Kim Min-jae is vital</p><p><em>This article is part of the Guardian’s <a href="https://www.theguardian.com/football/series/world-cup-2022--guardian-experts--network">World Cup 2022 Experts’ Network</a>, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running previews from two countries each day in the run-up to the tournament kicking off on 20 November.</em></p> <a href="https://www.theguardian.com/football/2022/nov/18/world-cup-2022-team-guide-south-korea">Continue reading...</a>
+

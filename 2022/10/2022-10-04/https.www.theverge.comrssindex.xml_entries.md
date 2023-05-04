@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Everything we know about Elon Musk’s messy new Twitter offer
  - [https://www.theverge.com/2022/10/4/23387592/elon-musk-twitter-deal-lawsuit-faq](https://www.theverge.com/2022/10/4/23387592/elon-musk-twitter-deal-lawsuit-faq)
@@ -484,3 +484,4 @@
 <figure>
       <img alt="A YouTube video settings box displaying 4K resolution as a premium feature" src="https://cdn.vox-cdn.com/thumbor/Yul4OAxW85BKY5Ey1ycO8q-Mqd4=/0x7:1962x1315/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71451085/image.0.png" />
         <figcaption><em>YouTube is placing its 4K videos behind a YouTube Premium subscription as part of an experiment.</em> | Image: <a class="ql-link" href="https://www.reddit.com/r/mildyinfuriating/comments/xj6mny/2160p_resolution_is_now_
+

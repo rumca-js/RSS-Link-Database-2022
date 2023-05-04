@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Nie żyje Robbie Coltrane. Hagrid z serii o Harrym Potterze miał 72 lata
  - [https://www.polsatnews.pl/wiadomosc/2022-10-14/nie-zyje-robbie-coltrane-hagrid-z-serii-o-harrym-potterze-mial-72-lata/](https://www.polsatnews.pl/wiadomosc/2022-10-14/nie-zyje-robbie-coltrane-hagrid-z-serii-o-harrym-potterze-mial-72-lata/)
@@ -90,3 +90,4 @@ Ewakuowani mieszkańcy z obwodu chersońskiego zaczną przybywać do Rosji w pi�
  - date published: 2022-10-14 04:06:00+00:00
 
 W strzelaninie w Raleigh zginęło pięć osób, w tym policjant - przekazały media. Sprawca został ujęty kilka godzin po zdarzeniu. Był to nastolatek uzbrojony w broń długą. Według szacunków policyjnych w 2021 r. zastrzelono w USA ok. 49 tys.
+

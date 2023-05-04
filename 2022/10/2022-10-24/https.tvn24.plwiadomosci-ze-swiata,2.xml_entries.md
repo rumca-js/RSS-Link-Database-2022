@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## W czasie cesarskiego cięcia "doszło do nieumyślnego nacięcia skóry u noworodka" przez lekarza
  - [https://tvn24.pl/wroclaw/glogow-w-czasie-cesarskiego-ciecia-doszlo-do-nieumyslnego-naciecia-skory-u-noworodka-przez-lekarza-6177333?source=rss](https://tvn24.pl/wroclaw/glogow-w-czasie-cesarskiego-ciecia-doszlo-do-nieumyslnego-naciecia-skory-u-noworodka-przez-lekarza-6177333?source=rss)
@@ -111,3 +111,4 @@
 
 <img alt="Poważny wypadek na Służewie, kierowca był zakleszczony w aucie" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-cui63c-wypadek-przy-metrze-sluzew-6176687/alternates/LANDSCAPE_1280" />
     W niedziele po południu przy stacji metra Służew doszło do poważnego wypadku z udziałem dwóch aut. Jak informuje policja, trzy osoby zostały ranne. Stan jednej z nich jest ciężki.
+

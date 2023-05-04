@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Notmuch
  - [https://notmuchmail.org/](https://notmuchmail.org/)
@@ -559,7 +559,6 @@
  - [https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/](https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-11 08:54:26+00:00
- - tags: youtube,feature drain
 
 <p>Article URL: <a href="https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/">https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33558531">https://news.ycombinator.com/item?id=33558531</a></p>
@@ -707,3 +706,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33555783">https://news.ycombinator.com/item?id=33555783</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
+

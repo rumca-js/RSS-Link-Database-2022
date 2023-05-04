@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Netflix plans to launch its own video game studio
  - [https://www.bbc.co.uk/news/technology-63048019?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63048019?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Studio in Finland is the latest and clearest example of the streaming giant movi
  - date published: 2022-09-27 04:11:45+00:00
 
 The announcement marks the technology giant's latest move to diversify its supply chains outside China.
+

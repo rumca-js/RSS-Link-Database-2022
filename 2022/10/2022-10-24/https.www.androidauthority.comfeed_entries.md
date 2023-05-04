@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Soon Chrome will force you to upgrade from Windows 7
  - [https://www.androidauthority.com/chome-support-ending-windows-7-3224063/](https://www.androidauthority.com/chome-support-ending-windows-7-3224063/)
@@ -97,3 +97,4 @@ Samsung's new app offers options for faster shutter functionality, camera switch
  - date published: 2022-10-24 06:53:58+00:00
 
 It turns out that most of you still prefer a physical SIM card to eSIM tech.
+

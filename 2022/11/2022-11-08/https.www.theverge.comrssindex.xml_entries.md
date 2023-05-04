@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Apple is apparently working on a new ‘streamlined’ accessibility mode for iOS
  - [https://www.theverge.com/2022/11/8/23448021/apple-ios-16-2-beta-custom-accessibility-mode](https://www.theverge.com/2022/11/8/23448021/apple-ios-16-2-beta-custom-accessibility-mode)
@@ -690,3 +690,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/7/23446171/screen-name-twitter-musk-parody-whoops">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Kanye’s antisemitic tweet could be a preview of social media’s future
  - [https://www.washingtonpost.com/technology/2022/10/10/kanye-west-antisemitic-tweet-musk-texas/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/10/kanye-west-antisemitic-tweet-musk-texas/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ No Augusta. No Pebble Beach. No St. Andrews. "PGA Tour 2K23" is a good game, but
  - date published: 2022-10-10 07:00:54+00:00
 
 Clean up and optimize your parent’s smartphone with 20 minutes and this checklist.
+

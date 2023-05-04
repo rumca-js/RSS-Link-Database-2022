@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk reportedly ordered company-wide layoffs at Twitter
  - [https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs](https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs)
@@ -181,3 +181,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots">Continue reading&hellip;</a>
   </p>
+

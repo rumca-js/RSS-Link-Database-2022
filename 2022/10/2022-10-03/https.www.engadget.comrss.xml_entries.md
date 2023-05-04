@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Google delivers the Pixel 4 and 4 XL's last guaranteed update
  - [https://www.engadget.com/google-pixel-4-xl-last-guaranteed-update-end-of-support-204331197.html?src=rss](https://www.engadget.com/google-pixel-4-xl-last-guaranteed-update-end-of-support-204331197.html?src=rss)
@@ -146,3 +146,4 @@
  - date published: 2022-10-03 06:32:20+00:00
 
 <p>Disney stations including ABC, ESPN, FX and Disney Channel are back on Dish and Sling TV after the two parties reached a tentative agreement, <a href="https://deadline.com/2022/10/disney-networks-bla-dish-sling-tv-espn-fx-abc-nat-geo-1235132651/"><em>Deadline</em></a> has reported. A total of 17 Disney channels <a href="https://www.engadget.com/abc-espn-disney-dish-sling-tv-contract-183118258.html">disappeared</a> from the services on Friday, October 1st over a carriage disagreement.</p><p>&q
+

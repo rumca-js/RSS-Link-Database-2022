@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## New FTX boss condemns crypto exchange's failure
  - [https://www.bbc.co.uk/news/technology-63662396?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63662396?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ It is the first time a meat product grown in a lab has been cleared for human co
  - date published: 2022-11-17 12:22:45+00:00
 
 A number of Activision Blizzard titles will disappear, following the end of an arrangement with publisher NetEase.
+

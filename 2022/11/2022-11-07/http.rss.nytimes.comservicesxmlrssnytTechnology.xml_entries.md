@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Apple Built Its Empire With China. Now Its Foundation Is Showing Cracks.
  - [https://www.nytimes.com/2022/11/07/business/apple-china-ymtc.html](https://www.nytimes.com/2022/11/07/business/apple-china-ymtc.html)
@@ -48,3 +48,4 @@ Students at the City University of New York are increasingly graduating with deg
  - date published: 2022-11-07 00:50:58+00:00
 
 The company said Covid-19 restrictions were slowing production of the company’s new phones ahead of the holiday season.
+

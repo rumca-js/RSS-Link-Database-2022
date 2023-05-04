@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Microsoft is redesigning Windows 11’s photos app again
  - [https://www.theverge.com/2022/9/21/23365892/microsoft-windows-11-photos-redesigning-photos-app-video-editor-clipchamp](https://www.theverge.com/2022/9/21/23365892/microsoft-windows-11-photos-redesigning-photos-app-video-editor-clipchamp)
@@ -509,3 +509,4 @@
     </figure>
 
   <p id="vwBO3B">Microsoft is widely expected to launch its next generation of Surface devices at an event next month, and over the past week an increasing nu
+

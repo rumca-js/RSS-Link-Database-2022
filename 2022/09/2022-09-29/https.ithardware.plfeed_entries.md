@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Need for Speed Unbound zostanie zaprezentowany niebawem i zadebiutuje w 2022 roku
  - [https://ithardware.pl/aktualnosci/need_for_speed_unbound_zostanie_zaprezentowany_niebawem_i_zadebiutuje_w_2022_roku-23593.html](https://ithardware.pl/aktualnosci/need_for_speed_unbound_zostanie_zaprezentowany_niebawem_i_zadebiutuje_w_2022_roku-23593.html)
@@ -167,3 +167,4 @@ Trzecioosobowa strzelanka Returnal, opracowana przez studio...
 
 <img src="https://ithardware.pl/artykuly/min/23574_1.jpg" />            Pierwsze procesory Intela 13. generacji Core (Raptor Lake) są już dostępne w sklepach, ale entuzjaści mogą chcieć poczekać nieco dłużej na model Core i9-13900KS w ramach limitowanej edycji, kt&oacute;ry powinien zadebiutować za kilka miesięcy....
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/intel_core_i9_13900ks_nie_zostawia_zadnych_szans_ryzenowi_9_7950x_w_popularnym_benchmarku-23574.html">h
+

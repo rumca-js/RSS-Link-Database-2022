@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 12 best travel gift ideas this holiday season
  - [https://www.zdnet.com/home-and-office/best-travel-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-travel-gift/#ftag=RSSbaffb68)
@@ -251,3 +251,4 @@ ZDNET has rounded up its top picks for early storage and SSD deals ahead of Blac
  - date published: 2022-11-08 00:19:00+00:00
 
 The full-color 12-inch display can be extended to 14 inches in size and is aimed for use on uneven surfaces.
+

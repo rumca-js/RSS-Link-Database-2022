@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## New British Prime Minister’s Agenda Draws Comparisons To ‘Reaganomics’
  - [https://www.dailywire.com/news/new-british-prime-ministers-agenda-draws-comparisons-to-reaganomics](https://www.dailywire.com/news/new-british-prime-ministers-agenda-draws-comparisons-to-reaganomics)
@@ -146,3 +146,4 @@ An FBI whistleblower warned that the bureau has been transformed from a law enfo
  - date published: 2022-09-24 09:58:46+00:00
 
 My foray into government seemed in hyperdrive. It was my patriotic attempt to do all I could to restore our nation to its first principles and a greater respect for life. I had left my 30-year career as a chemist to become a speechwriter and advisor to then Kentucky Governor Matt Bevin. I was an ...
+

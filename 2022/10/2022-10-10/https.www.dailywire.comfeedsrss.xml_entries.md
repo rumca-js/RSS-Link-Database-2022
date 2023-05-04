@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Journalist Calls Child Protective Services On Senate Candidate And Single Mom Over Columbus Day Tweet
  - [https://www.dailywire.com/news/journalist-calls-child-protective-services-on-senate-candidate-and-single-mom-over-columbus-day-tweet](https://www.dailywire.com/news/journalist-calls-child-protective-services-on-senate-candidate-and-single-mom-over-columbus-day-tweet)
@@ -314,3 +314,4 @@ The Tampa Bay Lightning suspended defenseman Ian Cole Sunday for allegedly groom
  - date published: 2022-10-10 07:48:20+00:00
 
 Russia unleashed a barrage of missile strikes Monday morning throughout Ukraine, striking all major cities including Kyiv in apparent revenge for the attack on a key bridge connecting Crimea to the Russian mainland. Some 75 missiles rained down on Ukrainian cities, including several that struck the capital, where at least eight people were killed and ...
+

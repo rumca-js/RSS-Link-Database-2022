@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## New York City man pleads guilty to killing World War I veteran who went missing 46 years ago
  - [https://www.foxnews.com/us/new-york-city-man-pleads-guilty-killing-world-war-veteran-who-went-missing-years-ago](https://www.foxnews.com/us/new-york-city-man-pleads-guilty-killing-world-war-veteran-who-went-missing-years-ago)
@@ -1189,3 +1189,4 @@ A former employee of the FBI who was booted from the institution claimed on MSNB
  - date published: 2022-10-18 00:04:37+00:00
 
 Here's a tech tip from Kim Komando on how to save all those personal photos from your Facebook account before you click that 'delete' button.
+

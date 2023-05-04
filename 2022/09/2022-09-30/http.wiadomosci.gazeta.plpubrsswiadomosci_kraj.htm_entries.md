@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Szpital dziecięcy WUM odwołuje zabiegi. Brakuje pielęgniarek. "Nierzadko nawet noworodek musi czekać"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28971186,szpital-dzieciecy-wum-odwoluje-zabiegi-brakuje-pielegniarek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28971186,szpital-dzieciecy-wum-odwoluje-zabiegi-brakuje-pielegniarek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -27,3 +27,4 @@
  - date published: 2022-09-30 04:02:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/a8/a0/1b/z28969640M,Gniewoszow--14-letni-Patryk-zle-sie-poczul--chwile.jpg" vspace="2" />We wtorek w Gniewoszowie doszło do tragicznego zdarzenia. Po zakończeniu lekcji 14-letni Patryk źle się poczuł, a chwilę później stracił przytomność. Mimo reanimacji nie udało się go uratować. Teraz sprawę śmierci nastolatka bada prokuratura.
+

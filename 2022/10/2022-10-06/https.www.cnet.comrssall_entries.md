@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Samsung Expects Q3 Profit to Tumble Amid Chip Market Downturn     - CNET
  - [https://www.cnet.com/tech/samsung-expects-q3-profit-to-tumble-amid-chip-market-downturn/#ftag=CADf328eec](https://www.cnet.com/tech/samsung-expects-q3-profit-to-tumble-amid-chip-market-downturn/#ftag=CADf328eec)
@@ -993,3 +993,4 @@ If you are loving Rings of Power on Amazon like we are then you might want to ge
  - date published: 2022-10-06 01:53:00+00:00
 
 If you have an old Plus or Max iPhone model and just want a big screen, here is your upgrade.
+

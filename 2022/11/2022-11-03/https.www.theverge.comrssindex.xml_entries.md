@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## PayPal and Venmo will soon support Apple’s Tap to Pay contactless payments tech
  - [https://www.theverge.com/2022/11/3/23439637/paypal-venmo-apple-tap-to-pay-contactless-payments-ios-apps](https://www.theverge.com/2022/11/3/23439637/paypal-venmo-apple-tap-to-pay-contactless-payments-ios-apps)
@@ -915,3 +915,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/2/23437836/elon-musk-twitter-edit-feature-button-everyone-all-users-blue">Continue reading&hellip;</a>
   </p>
+

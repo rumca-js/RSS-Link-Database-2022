@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Planeta jak pianka marshmallow. "Pływałaby na powierzchni wody"
  - [https://www.polsatnews.pl/wiadomosc/2022-10-21/planeta-jak-pianka-marsmallow-plywalaby-na-powierzchni-wody/](https://www.polsatnews.pl/wiadomosc/2022-10-21/planeta-jak-pianka-marsmallow-plywalaby-na-powierzchni-wody/)
@@ -97,3 +97,4 @@ Kevin Spacey został uniewinniony w sprawie wykorzystywania seksualnego aktora A
  - date published: 2022-10-21 04:48:00+00:00
 
 Biały Dom potwierdził, że Iran znacznie pogłębił swoje zaangażowanie w rosyjską inwazję na Ukrainę, zapewniając wsparcie techniczne rosyjskim pilotom latającym dronami irańskiej produkcji w celu zbombardowania celów cywilnych - podaje na swojej stronie The Guardian. Irańczycy pomagają Rosjanom używać dronów z większą śmiertelnością - stwierdził John Kirby.
+

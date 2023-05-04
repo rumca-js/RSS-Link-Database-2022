@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Why lasers are being used to write inside diamonds
  - [https://www.bbc.co.uk/news/business-62318016?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62318016?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ Lee Jae-yong was found guilty of bribery and embezzlement before being granted a
  - date published: 2022-10-27 01:21:31+00:00
 
 A report says an additional 20,000 black women need to be recruited to match numbers in the wider workforce.
+

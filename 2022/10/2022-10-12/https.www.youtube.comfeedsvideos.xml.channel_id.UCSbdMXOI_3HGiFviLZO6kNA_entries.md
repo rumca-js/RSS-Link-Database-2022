@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## Meta has FINALLY learned their lesson.
  - [https://www.youtube.com/watch?v=sRdyZKK3CTU](https://www.youtube.com/watch?v=sRdyZKK3CTU)
@@ -33,3 +33,4 @@ TIMESTAMPS:
 11:01 Valve job listing
 11:17 MC Summit
 11:57 Outro
+

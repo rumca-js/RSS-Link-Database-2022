@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Hurricane Fiona escalates to Category 4
  - [https://www.cnn.com/2022/09/21/weather/hurricane-fiona-puerto-rico-dominican-republic-wednesday/index.html](https://www.cnn.com/2022/09/21/weather/hurricane-fiona-puerto-rico-dominican-republic-wednesday/index.html)
@@ -83,3 +83,4 @@ Brazilian President Jair Bolsonaro's address to the United Nations General Assem
  - date published: 2022-09-21 01:07:28+00:00
 
 In his first address to the United Nations General Assembly on Tuesday, recently elected Colombian president Gustavo Petro delivered a fiery speech that recalled some of his campaign themes, slamming the war on drugs as a failure and accusing the global north of turning a blind eye to the destruction of the Amazon.
+

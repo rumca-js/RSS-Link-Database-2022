@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## How Oni Developed It’s Animation
  - [https://gizmodo.com/how-oni-developed-it-s-animation-1849704382](https://gizmodo.com/how-oni-developed-it-s-animation-1849704382)
@@ -265,3 +265,4 @@
  - date published: 2022-10-28 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--vSZZIgUT--/c_fit,fl_progressive,q_80,w_636/81815323d33c5ce4450e722377225c3c.jpg" /><p>Losing <a href="https://gizmodo.com/marvel-what-if-chadwick-boseman-emmy-award-1849494831">Chadwick Boseman</a> during the build-up to <em>Black Panther: Wakanda Forever</em> was more than just losing the star of the film. <a href="https://gizmodo.com/chadwick-boseman-star-of-black-panther-has-passed-awa-1844887429">It lost its heart</a>. The actor was everything to the franchise and his tragic passing could have very easily seen the film wiped away for good. But the team behind the movie didn’t let that…</p><p><a href="https://gizmodo.com/black-panther-wakanda-forever-chadwick-boseman-family-1849713084">Read more...</a></p>
+

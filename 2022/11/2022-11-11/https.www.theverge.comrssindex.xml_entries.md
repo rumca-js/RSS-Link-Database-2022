@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Meta is killing Portal and both its unreleased smartwatches
  - [https://www.theverge.com/2022/11/11/23454019/meta-portal-smartwatch-efforts-shutting-down-hardware](https://www.theverge.com/2022/11/11/23454019/meta-portal-smartwatch-efforts-shutting-down-hardware)
@@ -599,3 +599,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/10/23452321/youtube-live-qa-ama-livestreams-question-answer">Continue reading&hellip;</a>
   </p>
+

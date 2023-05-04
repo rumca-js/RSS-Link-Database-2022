@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosja. Niebezpieczna jazda windą. Mężczyzna cudem uniknął zgilotynowania
  - [https://www.polsatnews.pl/wiadomosc/2022-10-11/rosja-niebezpieczna-jazda-winda-mezczyzna-cudem-uniknal-zgilotynowania/](https://www.polsatnews.pl/wiadomosc/2022-10-11/rosja-niebezpieczna-jazda-winda-mezczyzna-cudem-uniknal-zgilotynowania/)
@@ -132,3 +132,4 @@ We wtorek rano Rosjanie przeprowadzili ataki rakietowe na Zaporoże. W wyniku os
  - date published: 2022-10-11 04:37:00+00:00
 
 Zmasowane ataki rakietowe, które w poniedziałek przeprowadzili Rosjanie w ukraińskich miastach, w tym Kijowie i Lwowie, kosztowały kilkaset milionów dolarów - wyliczyła ukraińska edycja magazynu Forbes.
+

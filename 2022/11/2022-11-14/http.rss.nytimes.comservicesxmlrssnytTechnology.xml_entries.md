@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Claims of Voter Fraud Build, but Not to Same Degree as in 2020
  - [https://www.nytimes.com/2022/11/14/technology/voter-fraud-claims-misinformation.html](https://www.nytimes.com/2022/11/14/technology/voter-fraud-claims-misinformation.html)
@@ -48,3 +48,4 @@ To the world’s timekeepers, the leap second is a kludge, a bane, a pain in the
  - date published: 2022-11-14 08:00:10+00:00
 
 The Chinese-owned video app’s ad business is thriving, even as a digital advertising slump hurts Meta, Snap and other rivals.
+

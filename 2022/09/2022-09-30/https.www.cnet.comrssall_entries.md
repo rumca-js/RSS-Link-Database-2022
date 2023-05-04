@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Intel's Mobileye Files for IPO     - CNET
  - [https://www.cnet.com/roadshow/news/intels-mobileye-files-for-ipo/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/intels-mobileye-files-for-ipo/#ftag=CADf328eec)
@@ -797,3 +797,4 @@ Prime Video has a heap to offer from the sci-fi realm -- hopefully this guide wi
  - date published: 2022-09-30 00:15:03+00:00
 
 A new big screen could make somebody's holiday very special. Here are our favorite TV gifts, from budget to high-end.
+

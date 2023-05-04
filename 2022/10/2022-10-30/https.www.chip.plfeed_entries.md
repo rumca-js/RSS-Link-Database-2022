@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Te gromady otwarte zachowują się dziwnie. Obserwacje podważają prawa Newtona
  - [https://www.chip.pl/2022/10/gromady-otwarte-dziwne-obserwacje](https://www.chip.pl/2022/10/gromady-otwarte-dziwne-obserwacje)
@@ -95,3 +95,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1000" src="https://konto.chip.pl/wp-content/uploads/2022/10/zatoka.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/10/zatoka.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Telefony z systemem Android poinformowały swoich użytkowników przebywających w obrębie Zatoki San Francisco, że grozi im zagrożenie. Trzęsienie ziemi faktycznie nadeszło niedługo później. Ponad milion użytkowników Androida zobaczyło ostrzeżenie, choć do niektórych dotarło na sekundy przed tym, jak ziemia faktycznie zaczęła drżeć. Ostatecznie trzęsienie miało siłę 4,8 w skali Richtera. I choć przy takiej skali [&#8230;]</p>
+

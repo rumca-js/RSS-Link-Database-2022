@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Comcast is shutting down its gamer-centric G4 channel, again
  - [https://www.theverge.com/2022/10/16/23407909/g4-tv-shutdown-again-comcast](https://www.theverge.com/2022/10/16/23407909/g4-tv-shutdown-again-comcast)
@@ -59,3 +59,4 @@
     </figure>
 
   <p id="VYhLxd">Microsoft failed to properly protect Windows PCs from malicious drivers for nearly three years, according to <a href="https://arstechnica.com/information-technology/2022/10/how-a-microsoft
+

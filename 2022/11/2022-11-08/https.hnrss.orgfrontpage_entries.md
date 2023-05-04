@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Blind: Meta's office to be closed on Wed – 15% layoff (5% Eng 50% recruiting)
  - [https://www.teamblind.com/post/Latest-Meta-layoff-rumors-CEQ018Df](https://www.teamblind.com/post/Latest-Meta-layoff-rumors-CEQ018Df)
@@ -766,3 +766,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33514399">https://news.ycombinator.com/item?id=33514399</a></p>
 <p>Points: 10</p>
 <p># Comments: 1</p>
+

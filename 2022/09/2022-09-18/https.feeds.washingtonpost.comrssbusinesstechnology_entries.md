@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## How to prevent customs agents from copying your phone’s content
  - [https://www.washingtonpost.com/technology/2022/09/18/phone-data-privacy-customs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/18/phone-data-privacy-customs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ The first place finish is LOUD's first such victory on the international stage.
  - date published: 2022-09-18 10:00:31+00:00
 
 If a woman creator goes viral,YouTubeers told The Post, she will undoubtedly be subject to a waterfall of hateful comments.
+

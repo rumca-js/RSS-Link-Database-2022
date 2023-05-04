@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Bitcoin is not a Store of Value
  - [https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
@@ -507,3 +507,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32883471">https://news.ycombinator.com/item?id=32883471</a></p>
 <p>Points: 191</p>
 <p># Comments: 74</p>
+

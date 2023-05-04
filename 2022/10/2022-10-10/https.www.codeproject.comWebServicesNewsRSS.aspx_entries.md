@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## AudioLM: a language modeling approach to audio generation
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59138](https://www.codeproject.com/script/News/View.aspx?nwid=59138)
@@ -76,3 +76,4 @@ It's just like the regular Ubuntu, but with added nagging to send them money
  - date published: 2022-10-10 04:00:00+00:00
 
 "Another dimension, new galaxy. Intergalactic, planetary"
+

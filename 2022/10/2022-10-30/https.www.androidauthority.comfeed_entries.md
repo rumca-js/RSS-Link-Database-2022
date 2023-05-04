@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Staring at a small screen all day? You’ll probably enjoy this laptop
  - [https://www.androidauthority.com/asus-zenbook-17-fold-review-3224771/](https://www.androidauthority.com/asus-zenbook-17-fold-review-3224771/)
@@ -27,3 +27,4 @@ Open ears, full hearts, can't lose — or something like that.
  - date published: 2022-10-30 12:00:12+00:00
 
 The Galaxy S22 series is pretty great, but should you invest in it this late in the game?
+

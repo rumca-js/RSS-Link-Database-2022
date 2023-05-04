@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## US hospitals are so overloaded that one ER called 911 on itself
  - [https://arstechnica.com/?p=1895862](https://arstechnica.com/?p=1895862)
@@ -76,3 +76,4 @@ Dozens of canned workers asked back after Twitter realizes they're still needed.
  - date published: 2022-11-07 12:00:27+00:00
 
 The largest sharks ever seem to have left their young in an unsupervised daycare.
+

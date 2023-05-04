@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitter reached $7 million settlement with whistle-blower.
  - [https://www.nytimes.com/2022/09/08/technology/twitter-whistleblower-settlement.html](https://www.nytimes.com/2022/09/08/technology/twitter-whistleblower-settlement.html)
@@ -48,3 +48,4 @@ Media literacy efforts are intensifying, targeting students as they approach vot
  - date published: 2022-09-08 09:00:09+00:00
 
 A smartphone that is made for longevity can be a real thing. Too bad that’s not how most of them are designed.
+

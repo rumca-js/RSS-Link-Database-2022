@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Touching photo of coal miner taking son to basketball game goes viral, and now the coach is getting involved
  - [https://www.louderwithcrowder.com/coal-miner-basketball-game-son](https://www.louderwithcrowder.com/coal-miner-basketball-game-son)
@@ -188,3 +188,4 @@
 <a href="https://youtu.be/oeYgAyCKwi8" target="_blank">youtu.be</a>
 </small>
 </p>
+

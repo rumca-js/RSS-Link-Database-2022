@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Biden warns that democracy is on the ballot in upcoming midterm elections
  - [https://www.lemonde.fr/en/united-states/article/2022/11/03/biden-warns-that-democracy-is-on-the-line-in-upcoming-midterm-elections_6002739_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/03/biden-warns-that-democracy-is-on-the-line-in-upcoming-midterm-elections_6002739_133.html)
@@ -223,3 +223,4 @@ For the 'first time' a ballistic missile fired by North Korea had landed south o
  - date published: 2022-11-02 01:14:23+00:00
 
 Amid the fallout from Prime Minister Mette Frederiksen government’s contentious decision to cull millions of minks as a pandemic response measure, the country's left-wing coalition will remain in power after winning a one-seat majority in parliament.
+

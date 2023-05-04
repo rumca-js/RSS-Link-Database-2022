@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Nab this Dell XPS productivity desktop for $550 off on Cyber Monday
  - [https://www.pcworld.com/article/1397437/nab-this-dell-xps-productivity-desktop-for-550-off-on-cyber-monday.html](https://www.pcworld.com/article/1397437/nab-this-dell-xps-productivity-desktop-for-550-off-on-cyber-monday.html)
@@ -2551,3 +2551,4 @@ Chromebooks</div>
 </div></div>
 </div>
 HDTVs</div>
+

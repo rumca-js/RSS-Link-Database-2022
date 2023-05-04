@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Październik należał do niego. Lewandowski piłkarzem miesiąca
  - [https://eurosport.tvn24.pl/pa-dziernik-nale-a--do-niego--lewandowski-pi-karzem-miesi-ca,1123635.html?source=rss](https://eurosport.tvn24.pl/pa-dziernik-nale-a--do-niego--lewandowski-pi-karzem-miesi-ca,1123635.html?source=rss)
@@ -253,3 +253,4 @@
 
 <img alt="Pierwszy taki weekend skoków Adama Małysza. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-ns58lk-adam-malysz/alternates/LANDSCAPE_1280" />
     Inauguracja cyklu odbędzie się na skoczni w Wiśle.
+

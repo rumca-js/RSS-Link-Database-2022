@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Ten czujnik jest cieńszy niż myślisz. Wiemy, jak powstał
  - [https://www.chip.pl/2022/11/czujnik-cienszy-niz-myslisz-swiatlo](https://www.chip.pl/2022/11/czujnik-cienszy-niz-myslisz-swiatlo)
@@ -103,3 +103,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="746" src="https://konto.chip.pl/wp-content/uploads/2021/12/bozon-higgsa-cern.png" style="margin-bottom: 10px;" width="1440" /><p><img src="https://konto.chip.pl/wp-content/uploads/2021/12/bozon-higgsa-cern.png" style="display: block; margin: 1em auto;" /></p>
 <p>W 2013 roku Peter Higgs otrzymał nagrodę Nobla w związku z jego dokonaniami, które doprowadziły ostatecznie do odkrycia tzw. bozonu Higgsa. Nazywany boską cząstką, ma on wciąż wiele niezbadanych właściwości. Naukowcy zrzeszeni w ramach CMS Collaboration przeprowadzili więc nowe pomiary szerokości bozonu Higgsa oraz zebrali pierwsze dowody na jego wkład w produkcję par bozonów Z [&#8230;]</p>
+

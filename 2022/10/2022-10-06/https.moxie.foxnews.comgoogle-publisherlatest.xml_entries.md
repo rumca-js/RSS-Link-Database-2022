@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Sara Lee, WWE 'Tough Enough' winner and former NXT wrestler, dead at 30
  - [https://www.foxnews.com/sports/sara-lee-wwe-tough-enough-winner-former-nxt-wrestler-dead](https://www.foxnews.com/sports/sara-lee-wwe-tough-enough-winner-former-nxt-wrestler-dead)
@@ -1308,3 +1308,4 @@ Guests: Charles Payne, Geraldo Rivera, Pete Hegseth, Ron Johnson, J.D. Vance, Me
  - date published: 2022-10-06 00:00:56+00:00
 
 Guests: Aaron Mate, Zach Loesch, Chris Bushart, Jeff Landry
+

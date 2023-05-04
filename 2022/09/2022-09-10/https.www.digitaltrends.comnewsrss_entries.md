@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Intel reveals official Arc Alchemist specs, and there’s one major surprise
  - [https://www.digitaltrends.com/computing/intel-arc-alchemist-official-specs-revealed/](https://www.digitaltrends.com/computing/intel-arc-alchemist-official-specs-revealed/)
@@ -13,3 +13,4 @@ Intel has finally revealed the official specifications of its Arc Alchemist GPU 
  - date published: 2022-09-10 08:40:16.781536+00:00
 
 This new attack uses Microsoft Teams and GIFs to mount phishing attacks on your computer.
+

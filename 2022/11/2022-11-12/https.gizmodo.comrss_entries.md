@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## FTX Says It May Have Been 'Hacked,' as $600 Million in Crypto is Mysteriously Drained Overnight
  - [https://gizmodo.com/ftx-says-it-may-have-been-hacked-as-600-million-in-cr-1849776288](https://gizmodo.com/ftx-says-it-may-have-been-hacked-as-600-million-in-cr-1849776288)
@@ -90,3 +90,4 @@
  - date published: 2022-11-12 00:35:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--owA9VhTV--/c_fit,fl_progressive,q_80,w_636/d52458ec5d3cd05dcec5d71403e2065d.jpg" /><p><em>Black Panther: Wakanda Forever</em> <a href="https://gizmodo.com/black-panther-wakanda-forever-movie-review-marvel-studi-1849725648">has finally arrived</a>, and to say that Marvel’s latest—the sequel to 2018’s smash hit <em>Black Panther</em>, which won three Oscars—at was highly, highly anticipated is putting it rather mildly. io9’s Germain Lussier and Cheryl Eddy and Gizmodo’s David Ewalt sat down to discuss the MCU’s return to…</p><p><a href="https://gizmodo.com/black-panther-2-spoilers-discussion-wakanda-forever-mcu-1849774928">Read more...</a></p>
+

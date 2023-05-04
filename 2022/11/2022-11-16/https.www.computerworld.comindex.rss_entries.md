@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Offboarding processes pose security risks as job turnover increases: Report
  - [https://www.computerworld.com/article/3680368/offboarding-processes-pose-security-risks-as-job-turnover-increases-report.html#tk.rss_all](https://www.computerworld.com/article/3680368/offboarding-processes-pose-security-risks-as-job-turnover-increases-report.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>The crash last week of FTX, one of the world’s leading cryptocurrency exchanges, is likely to push lawmakers to create central oversight of an otherwise unregulated marketplace.</p><p>And while cryptocurrencies like those traded on FTX are different from others backed by fiat money or other assets, the meltdown of the exchange looks likely to cool a burgeoning number of efforts to adopt digital currencies by industries and governments.</p><p>Bahamas-based FTX Trading <a href="https://edition.cnn.com/2022/11/11/business/ftx-ceo-resigns/index.html" rel="nofollow noopener" target="_blank">filed for bankruptcy last week</a> after cryptocurrency prices dropped sharply and the company, once valued at $32 billion, found itself billions of dollars in debt. The exchange was founded in 2019 by MIT graduates Sam Bankman-Fried and Gary Wang. It quickly grew into the third-largest cryptocurrency trading platform, raising almost $2 billion in venture capital from <a href="https://www.cbsnews.com/news/ftx-bankruptcy-sam-bankman-fried-cryptocurrency/" rel="nofollow noopener" target="_blank">high-profile investors</a>.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3680131/ftx-meltdown-likely-to-spur-crypto-regulations-cool-digital-currency-push.html#jump">To read this article in full, please click here</a></p></section></article>
+

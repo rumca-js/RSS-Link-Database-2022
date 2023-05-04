@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Closing The Cultural Divide in Hybrid And Remote Work
  - [https://www.forbes.com/sites/joemckendrick/2022/11/23/closing-the-cultural-divide-in-hybrid-and-remote-work/](https://www.forbes.com/sites/joemckendrick/2022/11/23/closing-the-cultural-divide-in-hybrid-and-remote-work/)
@@ -517,3 +517,4 @@ Google and Apple are being investigated by UK authorities over an "effective duo
  - date published: 2022-11-23 01:00:00+00:00
 
 Earth and the other planets in the solar system may have been around for longer than previously thought according to new research into shredded asteroids in distant "celestial graveyards."
+

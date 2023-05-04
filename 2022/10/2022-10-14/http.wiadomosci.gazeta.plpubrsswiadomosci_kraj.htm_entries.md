@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Tatry. Znów śmiertelny wypadek, czwarty w ciągu tygodnia
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29026224,tatry-znow-smiertelny-wypadek-czwarty-w-ciagu-tygodnia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29026224,tatry-znow-smiertelny-wypadek-czwarty-w-ciagu-tygodnia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-10-14 08:10:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/11/ad/1b/z29022993M,Ukradziona-damska-bielizna.jpg" vspace="2" />Policja z Byczyny zatrzymała 53-latka, który przez kilka miesięcy kradł lokalnym mieszkankom bieliznę. Znaleziono u niego 1630 sztuk bielizny o łącznej wartości ponad 30 tys. zł. Mężczyźnie grozi do 8 lat więzienia.
+

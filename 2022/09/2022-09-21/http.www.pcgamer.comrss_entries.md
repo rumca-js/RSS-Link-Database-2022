@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Streamer apologizes for leaking game reveals, says he did it for clout and 'the buzz'
  - [https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz](https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz)
@@ -223,3 +223,4 @@ At last, a modder with the skills requires has appeared.
  - date published: 2022-09-21 01:52:05+00:00
 
 Based on novel series The Bird That Drinks Tears.
+

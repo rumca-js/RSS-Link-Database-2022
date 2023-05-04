@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Good Decision For Them To Run’: Russian Forces Retreating As Ukraine’s Counteroffensive Sees Success
  - [https://www.dailywire.com/news/good-decision-for-them-to-run-russian-forces-retreating-as-ukraines-counteroffensive-sees-success](https://www.dailywire.com/news/good-decision-for-them-to-run-russian-forces-retreating-as-ukraines-counteroffensive-sees-success)
@@ -111,3 +111,4 @@ Several Republican state senators in South Carolina blocked a proposed near tot
  - date published: 2022-09-10 09:48:01+00:00
 
 A well-followed internet sleuth believes he has uncovered evidence that the FBI could be sitting on potentially explosive secret records involving dead sex trafficker Jeffrey Epstein. The anonymous Techno Fog, an self-described lawyer and writer who has nearly 400,000 followers on Twitter and also writes a popular Substack column, says a recent response to a ...
+

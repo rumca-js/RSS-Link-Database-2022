@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Oracle Hires Chief Legal Officer From Facebook's Blockchain Project
  - [https://www.wsj.com/articles/oracle-hires-chief-legal-officer-from-facebooks-blockchain-project-11668120811?mod=rss_Technology](https://www.wsj.com/articles/oracle-hires-chief-legal-officer-from-facebooks-blockchain-project-11668120811?mod=rss_Technology)
@@ -104,3 +104,4 @@ The auction at Christie’s offered a trove of trophies from artists like Cézan
  - date published: 2022-11-10 00:45:00+00:00
 
 The electric-vehicle startup said it lost $1.74 billion in the third quarter as it continued to struggle with higher material costs and underused assembly lines.
+

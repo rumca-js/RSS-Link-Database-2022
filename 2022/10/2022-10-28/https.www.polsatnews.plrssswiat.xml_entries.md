@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania: Mężczyzna w lateksowym stroju straszył mieszkańców. Został aresztowany
  - [https://www.polsatnews.pl/wiadomosc/2022-10-28/wielka-brytania-mezczyzna-w-lateksowym-stroju-straszyl-mieszkancow-zostal-aresztowany/](https://www.polsatnews.pl/wiadomosc/2022-10-28/wielka-brytania-mezczyzna-w-lateksowym-stroju-straszyl-mieszkancow-zostal-aresztowany/)
@@ -146,3 +146,4 @@ Jedyną prawdziwą gwarancją ukraińskiej suwerenności może być wyłącznie 
  - date published: 2022-10-28 04:10:00+00:00
 
 Elon Musk sfinalizował przejęcie Twittera. Miliarder zapłacił 44 mld dolarów. Jedną z pierwszych decyzji nowego właściciela było zwolnienie czołowych menedżerów, którzy mieli go wprowadzać w błąd co do liczby fałszywych kont spamowych na platformie.
+

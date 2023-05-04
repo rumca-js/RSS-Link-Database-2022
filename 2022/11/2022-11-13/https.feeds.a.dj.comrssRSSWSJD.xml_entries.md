@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Like Sleeping on the Job? Make $400,000 a Year Snoozing on TikTok
  - [https://www.wsj.com/articles/tiktok-live-sleep-streaming-11668351822?mod=rss_Technology](https://www.wsj.com/articles/tiktok-live-sleep-streaming-11668351822?mod=rss_Technology)
@@ -27,3 +27,4 @@ Elon Musk is headed to court this week in Delaware to defend his multibillion-do
  - date published: 2022-11-13 10:30:00+00:00
 
 President Vladimir Putin’s troop mobilization for the Ukraine war has caused sales to drop and well-paid employees to flee abroad.
+

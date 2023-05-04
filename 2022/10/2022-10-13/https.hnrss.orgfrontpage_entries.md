@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Tcl Ported to Go
  - [https://gitlab.com/cznic/tcl](https://gitlab.com/cznic/tcl)
@@ -663,3 +663,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33185482">https://news.ycombinator.com/item?id=33185482</a></p>
 <p>Points: 16</p>
 <p># Comments: 0</p>
+

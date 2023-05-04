@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Słońce zaczyna szaleć. Skutki tamtejszej burzy odczujemy jeszcze w tym tygodniu
  - [https://www.chip.pl/2022/11/slonce-burza-magnetyczna-na-ziemi](https://www.chip.pl/2022/11/slonce-burza-magnetyczna-na-ziemi)
@@ -111,3 +111,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="800" src="https://konto.chip.pl/wp-content/uploads/2022/11/wulkan-mauna-loa.jpg" style="margin-bottom: 10px;" width="1280" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/wulkan-mauna-loa.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Mauna Loa to największy aktywny wulkan świata. Po niemal czterdziestu latach przerwy doszło do jego ponownej erupcji. Jak informują przedstawiciele USGS (US Geological Service), sytuacja zmienia się bardzo dynamicznie: okoliczni mieszkańcy zostali ostrzeżeni przed opadami popiołu, który mógłby utrudnić oddychanie, zanieczyścić wodę czy doprowadzić do zniszczeń roślinności. Czytaj też: Erupcja wulkanu Hunga Tonga była naprawdę [&#8230;]</p>
+

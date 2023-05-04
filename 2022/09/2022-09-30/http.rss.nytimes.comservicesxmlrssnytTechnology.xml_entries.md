@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Nick Holonyak Jr., Pioneer of LED Lighting, Is Dead at 93
  - [https://www.nytimes.com/2022/09/30/science/nick-holonyak-jr-dead.html](https://www.nytimes.com/2022/09/30/science/nick-holonyak-jr-dead.html)
@@ -13,3 +13,4 @@ He invented a visible red-light diode. His 41 patents also included lasers that 
  - date published: 2022-09-30 15:30:09+00:00
 
 A unique research project is tracking hundreds of people at risk for suicide, using data from smartphones and wearable biosensors to identify periods of high danger — and intervene.
+

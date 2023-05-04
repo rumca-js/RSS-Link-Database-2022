@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Film crew stumbles upon piece of Challenger 36 years after tragedy, NASA says
  - [https://www.washingtonpost.com/technology/2022/11/10/filmmakers-discover-challenger-piece/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/10/filmmakers-discover-challenger-piece/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ President Biden said the new Twitter owner's "cooperation" with other countries 
  - date published: 2022-11-10 06:00:33+00:00
 
 Meta CEO Mark Zuckerberg said 11,000 workers lost their jobs in part because he overestimated the staying power of the e-commerce boom.
+

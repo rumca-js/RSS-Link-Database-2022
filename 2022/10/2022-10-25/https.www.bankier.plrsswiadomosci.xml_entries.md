@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Wspólne relacje, Ukraina i Chiny. To tematy pierwszej rozmowy Sunaka z Bidenem
  - [https://www.bankier.pl/wiadomosc/Wspolne-relacje-Ukraina-i-Chiny-To-tematy-pierwszej-rozmowy-Sunaka-z-Bidenem-8428875.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wspolne-relacje-Ukraina-i-Chiny-To-tematy-pierwszej-rozmowy-Sunaka-z-Bidenem-8428875.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -402,3 +402,4 @@ Zwłaszcza wobec tak niestabilnego w ostatnim czasie otoczenia prawnego energety
  - date published: 2022-10-25 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/c/73d4f3e42c50c4-948-568-0-69-1989-1193.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Festiwal podwyżek, który od tygodni odbywa się w Polsce, nie ominie także wywozu śmieci. Kolejne miasta podnoszą opłaty. W największych wciąż trwają przetargi, jednak wpływające oferty wskazują, że wzrostu kosztów, a tym samym podwyżek, nie da się uniknąć.</p>
+

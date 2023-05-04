@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Video shows footage of man being brutally beaten outside of Elton John concert
  - [https://www.dailymail.co.uk/news/article-11463251/Video-shows-footage-man-brutally-beaten-outside-Elton-John-concert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11463251/Video-shows-footage-man-brutally-beaten-outside-Elton-John-concert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1784,3 +1784,4 @@ Will Dry (pictured), co-founder of Our Future Our Choice, a pro-EU group formed 
  - date published: 2022-11-23 00:05:00+00:00
 
 Curtis 'Cocky' Warren, 59, was today escorted from Whitemoor Jail in Cambridgeshire and is said to be returning to the Merseyside region where he once ran his empire.
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Amazon, Snap partner to let customers shop for eyewear in AR
  - [https://www.zdnet.com/article/amazon-snap-partner-to-let-customers-shop-for-eyewear-in-ar/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-snap-partner-to-let-customers-shop-for-eyewear-in-ar/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ Solar AI Technologies hopes its "rent-to-own" service will help drive the instal
  - date published: 2022-11-02 08:54:28+00:00
 
 Newegg's offer for the ASUS VivoBook Pro will likely appeal to both hybrid/remote workers and gamers looking for an upgrade.
+

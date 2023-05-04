@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Putin Supporters Enraged By Russian Retreat From Lyman
  - [https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html](https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html)
@@ -118,3 +118,4 @@ A mountain pass into Georgia has become a choke point for Russians fleeing the c
  - date published: 2022-10-01 01:14:47+00:00
 
 The test came a day after the United States, Japan and South Korea conducted their first joint anti-submarine exercise in five years.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Media: Wielka Brytania wprowadzi zakaz azylu dla migrantów nielegalnie przekraczających kanał La Manche
  - [https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -422,3 +422,4 @@ spółki straciły blisko 25 proc.</p>
  - date published: 2022-10-03 03:27:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/7/03ef649c3c91cf-945-567-172-221-1168-701.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W pierwszej turze wyborów prezydenckich w Brazylii zwyciężył były lewicowy prezydent tego kraju w latach 2003-2011, 76-letni Luiz Inacio Lula da Silva, zdobywając po przeliczeniu 98,8 proc. głosów poparcie 48,1 proc. uczestników wyborów. Jego rywal, urzędujący prezydent Jair
+

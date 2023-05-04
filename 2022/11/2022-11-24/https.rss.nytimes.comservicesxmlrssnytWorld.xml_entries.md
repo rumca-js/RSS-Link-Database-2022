@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Friday Briefing: Covid Protests Grow in China
  - [https://www.nytimes.com/2022/11/24/briefing/covid-foxconn-protests-malaysia-asia.html](https://www.nytimes.com/2022/11/24/briefing/covid-foxconn-protests-malaysia-asia.html)
@@ -125,3 +125,4 @@ An air-launched AGM-88B missile, built to destroy enemy radars, apparently misse
  - date published: 2022-11-24 00:12:41+00:00
 
 Outages struck Kyiv and the surrounding region, as well as Lviv, Dnipro, Odesa and Kharkiv. Half of Moldova, whose grid is tied to Ukraine’s, also lost power.
+

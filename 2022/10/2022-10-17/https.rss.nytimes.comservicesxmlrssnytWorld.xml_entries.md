@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Drones Embody an Iran-Russia Alliance Built on Hostility to the U.S.
  - [https://www.nytimes.com/2022/10/17/world/europe/russia-iran-alliance-drones.html](https://www.nytimes.com/2022/10/17/world/europe/russia-iran-alliance-drones.html)
@@ -174,3 +174,4 @@ Troubles with Russia’s draft.
  - date published: 2022-10-17 04:02:32+00:00
 
 The Revolutionary Guards — the country’s most powerful military force — have become so deeply woven into Iran’s economy and power structure that they have everything to lose if the system falls.
+

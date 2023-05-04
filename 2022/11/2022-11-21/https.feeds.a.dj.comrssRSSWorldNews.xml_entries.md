@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## China Turns to Back-Channel Diplomacy to Shore Up U.S. Ties
  - [https://www.wsj.com/articles/china-turns-to-back-channel-diplomacy-to-shore-up-u-s-ties-11669042014](https://www.wsj.com/articles/china-turns-to-back-channel-diplomacy-to-shore-up-u-s-ties-11669042014)
@@ -62,3 +62,4 @@ Sanctions “leakage” could undermine the pressure campaign and potentially pr
  - date published: 2022-11-21 10:15:00+00:00
 
 The strikes come as the Islamic Republic is intensifying efforts in western Iran to suppress a two-month-old protest movement.
+

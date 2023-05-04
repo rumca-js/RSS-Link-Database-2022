@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Google, iHeartMedia Pay $9 Million to Settle Deceptive Endorsement Claims
  - [https://www.wsj.com/articles/google-iheartmedia-pay-9-million-to-settle-deceptive-endorsement-claims-11669670273?mod=rss_Technology](https://www.wsj.com/articles/google-iheartmedia-pay-9-million-to-settle-deceptive-endorsement-claims-11669670273?mod=rss_Technology)
@@ -62,3 +62,4 @@ U.S. banks including JPMorgan Chase and Wells Fargo are devising a plan to compe
  - date published: 2022-11-28 01:15:00+00:00
 
 Island nation’s leaders are under pressure after encouraging cryptocurrency companies to do business there in recent years.
+

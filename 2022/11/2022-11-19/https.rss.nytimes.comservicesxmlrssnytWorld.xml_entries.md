@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Fireball Flashes Above Ontario and Parts of the U.S.
  - [https://www.nytimes.com/2022/11/19/science/fireball-asteroid-toronto-new-york.html](https://www.nytimes.com/2022/11/19/science/fireball-asteroid-toronto-new-york.html)
@@ -132,3 +132,4 @@ The house where the Islamic revolution’s founder grew up was set on fire durin
  - date published: 2022-11-19 00:27:18+00:00
 
 The State Department says Russia refuses to negotiate seriously to free the basketball star Brittney Griner, who was sent to a penal colony with a nine-year sentence on a cannabis charge.
+

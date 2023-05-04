@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Sunny Hostin launches racially charged attack against Nikki Haley, gets wrecked by Nikki's response
  - [https://www.louderwithcrowder.com/sunny-hostin-nikki-haley](https://www.louderwithcrowder.com/sunny-hostin-nikki-haley)
@@ -77,3 +77,4 @@
  - date published: 2022-09-20 12:12:10+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31786080&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C102" /><br /><br /><p>Since the beginning of the pandemic, critics have claimed "without evidence" (lol) that leftists will exploit the pandemic for their political agenda. So, to editor emeritus Courtney Kirchoff and the other conspiracy theorists out there, you can add this <em>Washington Post</em> clipping to your "I Was Right" scrapbook.</p><p>Joe Biden an
+

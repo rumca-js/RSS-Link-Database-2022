@@ -1,4 +1,4 @@
-# Source Reuters - All, Source URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, Source language: en-US
+# Source:Reuters - All, URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, language:en-US
 
 ## Reuters reveals UN treaty must tackle production of problematic plastics, Japan says
  - [https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-un-treaty-must-tackle-production-of-problematic-plastics-japan-says/](https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-un-treaty-must-tackle-production-of-problematic-plastics-japan-says/)
@@ -15,3 +15,4 @@
 
 <p>Reuters was first to report that South Korea&#8217;s central bank is ready to adjust its pace of policy tightening to [&#8230;]</p>
 <p>The post <a href="https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-bank-of-korea-ready-to-adjust-tightening-pace-hopes-for-peak-rate-near-3-5/" rel="nofollow">Reuters reveals Bank of Korea ready to adjust tightening pace, hopes for peak rate near 3.5%</a> appeared first on <a href="https://www.reutersagency.com/en/" rel="nofollow">Reuters News Agency</a>.</p>
+

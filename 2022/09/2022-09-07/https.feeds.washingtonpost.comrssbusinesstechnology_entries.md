@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Should you buy a new iPhone?
  - [https://www.washingtonpost.com/technology/interactive/2022/phone-upgrade-quiz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/phone-upgrade-quiz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Tariq's ode to corn took social media by storm and inspired a viral song. Now, "
  - date published: 2022-09-07 06:30:14+00:00
 
 According to some industry observers, the company’s line-up of new smartphones could look notably different this year.
+

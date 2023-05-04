@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Meta's avatars are getting legs
  - [https://www.engadget.com/meta-avatars-metaverse-legs-vr-virtual-reality-facebook-instagram-whatsapp-190937062.html?src=rss](https://www.engadget.com/meta-avatars-metaverse-legs-vr-virtual-reality-facebook-instagram-whatsapp-190937062.html?src=rss)
@@ -279,3 +279,4 @@
  - date published: 2022-10-11 05:31:54+00:00
 
 <p>The cafeteria workers at Waymo's offices are forming a union, according to NBC News. As the news organization notes, that makes them the latest group of people to organize at one of Silicon Valley's most prominent companies. Waymo's food service personnel are also following in the footsteps of the 4,000 Google cafeteria workers who <a href="https://www.engadget.com/thousands-of-google-cafeteria-workers-unionized-during-the-pandemic-200040902.html">quietly unionized</a> during the COVID-19 pan
+

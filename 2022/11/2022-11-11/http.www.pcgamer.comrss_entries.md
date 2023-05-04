@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## The worst map in all of videogames is coming back
  - [https://www.pcgamer.com/the-worst-map-in-all-of-videogames-is-coming-back](https://www.pcgamer.com/the-worst-map-in-all-of-videogames-is-coming-back)
@@ -244,3 +244,4 @@ There is no time for peace. No respite, no forgiveness. There is only READING TH
  - date published: 2022-11-11 01:09:29+00:00
 
 Season 3 will see some big changes to Battlefield 2042, as well as a week of free access.
+

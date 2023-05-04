@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Everything you need to know about Meta’s moderation controversy in India
  - [https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)
@@ -284,3 +284,4 @@
     </figure>
 
   <p id="4xuQax">Android 12 is rolling out for the 4K model of the Chromecast with Google TV, <a href="https://9to5google.com/202
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## How to Watch a Helicopter Try to Catch a Rocket Booster on Friday     - CNET
  - [https://www.cnet.com/science/space/how-to-watch-a-helicopter-try-to-catch-a-rocket-booster-on-friday/#ftag=CADf328eec](https://www.cnet.com/science/space/how-to-watch-a-helicopter-try-to-catch-a-rocket-booster-on-friday/#ftag=CADf328eec)
@@ -839,3 +839,4 @@ Feeling fancy? The watch embedded in this iPhone is a gold Rolex Cosmograph Dayt
  - date published: 2022-11-03 00:15:00+00:00
 
 If you have a cat in your family, it's likely this variety.
+

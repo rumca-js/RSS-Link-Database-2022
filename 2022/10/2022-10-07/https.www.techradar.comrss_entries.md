@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Papa John's is being sued for allegedly 'wiretapping' its own website
  - [https://www.techradar.com/news/papa-johns-is-being-sued-for-allegedly-wiretapping-its-own-website/](https://www.techradar.com/news/papa-johns-is-being-sued-for-allegedly-wiretapping-its-own-website/)
@@ -251,3 +251,4 @@ Cooler Master and other manufacturers have been releasing GPU support brackets r
  - date published: 2022-10-07 05:00:00+00:00
 
 The Google Pixel 7 and Pixel 7 Pro have just landed, which means some fancy new camera tricks. Here are our favorites.
+

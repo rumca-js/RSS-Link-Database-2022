@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Nastolatkowie zginęli w wypadku. Policja podejrzewa, że to przez challenge na TikToku
  - [https://www.polsatnews.pl/wiadomosc/2022-10-26/nastolatkowie-zgineli-w-wypadku-policja-podejrzewa-ze-to-przez-challenge-na-tiktoku/](https://www.polsatnews.pl/wiadomosc/2022-10-26/nastolatkowie-zgineli-w-wypadku-policja-podejrzewa-ze-to-przez-challenge-na-tiktoku/)
@@ -104,3 +104,4 @@ Gościem Marcina Fijołka w programie Graffiti będzie minister sprawiedliwości
  - date published: 2022-10-26 04:37:00+00:00
 
 Nowy brytyjski premier Rishi Sunak zapewnił w rozmowie telefonicznej prezydenta Wołodymyra Zełenskiego, że poparcie Wielkiej Brytanii dla Ukrainy nadal będzie niezłomne - przekazał rzecznik Downing Street.
+

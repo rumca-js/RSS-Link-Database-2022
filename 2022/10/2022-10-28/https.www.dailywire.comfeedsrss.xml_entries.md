@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Biden Blames Republicans For Violent Attack On Nancy Pelosi’s Husband
  - [https://www.dailywire.com/news/biden-blames-republicans-for-violent-attack-on-nancy-pelosis-husband](https://www.dailywire.com/news/biden-blames-republicans-for-violent-attack-on-nancy-pelosis-husband)
@@ -321,3 +321,4 @@ Florida Democrats are waving the white flag just two weeks before the November 8
  - date published: 2022-10-28 07:22:03+00:00
 
 President Joe Biden faced backlash Thursday for false claims that he made about the price of gasoline when he took office. Speaking at Onondaga Community College in Syracuse, New York, about Micron’s plan to invest in chips manufacturing, Biden falsely claimed that the price of gasoline was $5 per gallon when he took office. &#8220;And ...
+

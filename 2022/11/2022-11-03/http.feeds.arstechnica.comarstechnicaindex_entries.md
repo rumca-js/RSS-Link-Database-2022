@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Teens with obesity lose 15% of body weight in trial of repurposed diabetes drug
  - [https://arstechnica.com/?p=1895135](https://arstechnica.com/?p=1895135)
@@ -90,3 +90,4 @@ When underwater cables congregate in one place, things get tricky.
  - date published: 2022-11-03 12:51:21+00:00
 
 "We hope they will take the reaction to this one into account."
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Śmierć Izabeli z Pszczyny. Mąż kobiety: Marzę, aby historia Izy spowodowała zmiany w prawie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29060501,smierc-izabeli-z-pszczyny-maz-kobiety-marze-aby-historia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29060501,smierc-izabeli-z-pszczyny-maz-kobiety-marze-aby-historia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -48,3 +48,4 @@
  - date published: 2022-10-23 09:36:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/17/b6/1b/z29058839M,Demonstracje-na-druga-rocznice-wyroku-TK-zaostrzaj.jpg" vspace="2" />22 października 2020 roku Trybunał Konstytucyjny Julii Przyłębskiej zaostrzył zakaz aborcji obowiązujący wcześniej w Polsce. Wyrok zlikwidował jedną z trzech przesłanek, w ramach których możliwe było przerwanie ciąży. Dwa lata po tym wydarzeniu aktywistki we Wrocławiu i w Gdańsku wyszły na ulicę. - Nie świętujemy przegranych powstań - mówiła jedna z nic
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Niemiecki prezydent krytykowany po odwołaniu podróży do Ukrainy
  - [https://wydarzenia.interia.pl/zagranica/news-niemiecki-prezydent-krytykowany-po-odwolaniu-podrozy-do-ukra,nId,6359903](https://wydarzenia.interia.pl/zagranica/news-niemiecki-prezydent-krytykowany-po-odwolaniu-podrozy-do-ukra,nId,6359903)
@@ -13,3 +13,4 @@
  - date published: 2022-10-20 08:25:03+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-stoltenberg-z-nowym-premierem-szwecji-padla-wazna-deklaracja,nId,6359556"><img align="left" alt="Stoltenberg z nowym premierem Szwecji. Padła ważna deklaracja" src="https://i.iplsc.com/stoltenberg-z-nowym-premierem-szwecji-padla-wazna-deklaracja/000G86XTJ5434B9C-C321.jpg" /></a>Nowy premier Szwecji Ulf Kristersson spotkał się w Brukseli z sekretarzem generalnym NATO Jensem Stoltenbergiem. Na konferencji prasowej po spotkaniu zapewnił, że z
+

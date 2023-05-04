@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Killing Stadia makes me trust Google less
  - [https://www.androidauthority.com/google-stadia-shutdown-opinion-3215302/](https://www.androidauthority.com/google-stadia-shutdown-opinion-3215302/)
@@ -111,3 +111,4 @@ Here's to Samsung's 200MP phone delivering much better images than Motorola's de
  - date published: 2022-09-30 05:41:36+00:00
 
 An edited tweet comes with a version history and a 'Last Edited' stamp.
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Call of Duty is betting big on AI. Will it pay off?
  - [https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)
@@ -216,3 +216,4 @@ Ebb Software's Giger 'em up releases on October 21.
  - date published: 2022-09-23 00:26:39+00:00
 
 You get a cozy autumnal outfit for streaming to your friends.
+

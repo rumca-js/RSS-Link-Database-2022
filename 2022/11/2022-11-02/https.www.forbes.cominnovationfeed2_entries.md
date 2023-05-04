@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Apple Faces Critical iPhone SE Decision
  - [https://www.forbes.com/sites/ewanspence/2022/11/02/apple-iphone-se-fourth-edition-oled-lcd-screen-specs-release-date/](https://www.forbes.com/sites/ewanspence/2022/11/02/apple-iphone-se-fourth-edition-oled-lcd-screen-specs-release-date/)
@@ -531,3 +531,4 @@ Studying sharks in the Bahamas has led to one of the biggest marine discoveries 
  - date published: 2022-11-02 01:00:00+00:00
 
 Everything you need to know about North America's 85 minute total lunar eclipse, the last until 2025 and the best until 2029.
+

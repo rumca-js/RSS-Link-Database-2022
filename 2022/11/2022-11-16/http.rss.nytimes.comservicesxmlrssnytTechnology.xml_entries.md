@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk Gives Twitter Employees a Deadline to Stay or Leave
  - [https://www.nytimes.com/2022/11/16/technology/elon-musk-twitter-employee-deadline.html](https://www.nytimes.com/2022/11/16/technology/elon-musk-twitter-employee-deadline.html)
@@ -27,3 +27,4 @@ A shareholder is asking the court to void a 2018 compensation package that has p
  - date published: 2022-11-16 10:00:09+00:00
 
 Don’t delete your account just yet. Elon Musk’s takeover can teach us valuable lessons about our relationship with social networks.
+

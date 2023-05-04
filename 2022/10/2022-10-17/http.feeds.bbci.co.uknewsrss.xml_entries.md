@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Menopause: Busting the most common myths
  - [https://www.bbc.co.uk/news/uk-63234486?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63234486?at_medium=RSS&at_campaign=KARANGA)
@@ -545,3 +545,4 @@ A review finds hundreds of Met Police officers are getting away with breaking th
  - date published: 2022-10-17 00:16:41+00:00
 
 A BBC investigation has found multiple allegations of sexual harassment and bullying at the international broadcaster.
+

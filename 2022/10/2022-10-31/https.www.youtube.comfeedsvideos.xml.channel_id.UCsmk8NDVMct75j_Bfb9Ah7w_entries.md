@@ -1,4 +1,4 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
+# Source:Virtual Reality Oasis, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, language:en-US
 
 ## Meta Quest Pro Review - Not What I Expected!?
  - [https://www.youtube.com/watch?v=LNKvgtw6lNs](https://www.youtube.com/watch?v=LNKvgtw6lNs)
@@ -57,3 +57,4 @@ Website: http://virtualrealityoasis.com/
 Email: contact@virtualrealityoasis.com
 
 #MetaQuestPro #VR #VirtualReality
+

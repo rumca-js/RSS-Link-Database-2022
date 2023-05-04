@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Na Wall Street lekkie wzrosty indeksów
  - [https://www.bankier.pl/wiadomosc/Na-Wall-Street-lekkie-wzrosty-indeksow-8442517.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Na-Wall-Street-lekkie-wzrosty-indeksow-8442517.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -345,3 +345,4 @@ koszty organizacji tej imprezy, to coś nie zgadza się jeszcze bardziej.</p>
  - date published: 2022-11-18 04:38:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/7/25887bc54c6ca2-945-560-0-0-3500-2099.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Korea Północna przeprowadziła w piątek test międzykontynentalnego pocisku balistycznego (ICBM), który spadł u wybrzeży Japonii - poinformowała armia Korei Południowej i japoński minister obrony Yasukazu Hamada.</p>
+

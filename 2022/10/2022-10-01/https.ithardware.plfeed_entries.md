@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Do GPU-Z dodano obsługę kart GeForce RTX 4090 oraz Intel Arc A770 i A750
  - [https://ithardware.pl/aktualnosci/do_gpu_z_dodano_obsluge_kart_geforce_rtx_4090_oraz_intel_arc_a770_i_a750-23622.html](https://ithardware.pl/aktualnosci/do_gpu_z_dodano_obsluge_kart_geforce_rtx_4090_oraz_intel_arc_a770_i_a750-23622.html)
@@ -79,3 +79,4 @@ Youtuber o...
 
 Microsoft kupując Activision Blizzard stanie się właścicielem ważnych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/przejecie_activision_blizzard_przez_microsoft_pod_lupa_komisji_europejskiej_kiedy_decyzja-23615.html">https
+

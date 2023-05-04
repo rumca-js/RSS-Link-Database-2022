@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Cristiano Ronaldo refuses to let light dim on his career as he makes history at Qatar 2022
  - [https://www.cnn.com/2022/11/24/football/portugal-ghana-cristiano-ronaldo-spt-intl/index.html](https://www.cnn.com/2022/11/24/football/portugal-ghana-cristiano-ronaldo-spt-intl/index.html)
@@ -386,3 +386,4 @@ In a CNN exclusive, Sam Kiley speaks to Kherson resistance fighters that helped 
  - date published: 2022-11-24 00:31:31+00:00
 
 A paramedic who responded to a horrific crash and attempted to rescue two teenage girls was unknowingly treating her own daughter. CNN affiliate CTV reports.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Discord ujawnia, ile kont i serwerów zostało zbanowanych. Liczby robią wrażenie
  - [https://ithardware.pl/aktualnosci/discord_ujawnia_ile_kont_i_serwerow_zostalo_zbanowanych_liczby_robia_wrazenie-24114.html](https://ithardware.pl/aktualnosci/discord_ujawnia_ile_kont_i_serwerow_zostalo_zbanowanych_liczby_robia_wrazenie-24114.html)
@@ -119,3 +119,4 @@ Odpowiadając na tweeta z pytaniem, czy...
 
 <img src="https://ithardware.pl/artykuly/min/24103_1.jpg" />            Kryptowaluty są z nami od 2009 roku, kiedy to na rynku pojawił się Bitcoin i otrzymał miano wirtualnego pieniądza. Przez lata jego popularność przyciągała kolejnych entuzjast&oacute;w projekt&oacute;w blockchainowych, co przekładało się na...
             <p>Pełna wersja strony <a href="https://ithardware.pl/artykuly/najwieksze_wpadki_kryptowalutowe_czyli_sztuczka_ze_znikajacymi_pieniedzmi-24103.html">https://ithardware.pl/artykuly/najwieksze_wpadki_kryptowalutowe_czyli_sztuczka_ze_znikajacymi_pieniedzmi-24103.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Every big change coming to Warzone 2 this week
  - [https://www.pcgamer.com/call-of-duty-warzone-2-biggest-changes](https://www.pcgamer.com/call-of-duty-warzone-2-biggest-changes)
@@ -244,3 +244,4 @@ Due to user review averages, Sonic is GOTY now, sorry.
  - date published: 2022-11-15 00:01:27+00:00
 
 A narrative adventure that turns the apocalypse into a slog.
+

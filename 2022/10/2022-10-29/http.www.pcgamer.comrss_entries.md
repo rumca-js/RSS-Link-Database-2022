@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Go spearfishing and run a sushi restaurant in this weird little game
  - [https://www.pcgamer.com/go-spearfishing-and-run-a-sushi-restaurant-in-this-weird-little-game](https://www.pcgamer.com/go-spearfishing-and-run-a-sushi-restaurant-in-this-weird-little-game)
@@ -55,3 +55,4 @@ A map that is 90% car is dividing Call of Duty players.
  - date published: 2022-10-29 07:01:28+00:00
 
 Wordle today: The solution and a hint for the #497 puzzle.
+

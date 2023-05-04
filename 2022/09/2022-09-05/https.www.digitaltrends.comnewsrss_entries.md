@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## AMD steals Intel’s spotlight with new Ryzen 7000 release date
  - [https://www.digitaltrends.com/computing/amd-ryzen-7000-release-date-may-be-delayed/](https://www.digitaltrends.com/computing/amd-ryzen-7000-release-date-may-be-delayed/)
@@ -209,3 +209,4 @@ Halo Infinite's season 3 got delayed until next year. Thankfully Forge is still 
  - date published: 2022-09-05 14:52:18.593534+00:00
 
 According to Howard Oakley at Eclectic Light Company, Apple has updated macOS malware more in the past six months than in the past seven years.
+

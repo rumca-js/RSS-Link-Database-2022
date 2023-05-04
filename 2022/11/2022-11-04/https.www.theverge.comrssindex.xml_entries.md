@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Starlink is getting daytime data caps
  - [https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access](https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access)
@@ -387,3 +387,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4">Continue reading&hellip;</a>
   </p>
+

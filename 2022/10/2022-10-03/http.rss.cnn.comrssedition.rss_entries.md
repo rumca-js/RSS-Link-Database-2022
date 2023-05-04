@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Software engineer built fake cloud as pet
  - [https://www.cnn.com/videos/business/2022/10/03/chinese-cloud-pet-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/10/03/chinese-cloud-pet-orig-fj.cnn-business)
@@ -215,5 +215,6 @@ Lewis Hamilton's team Mercedes has been fined $24,500 (€25,000) after the seve
  - [https://www.cnn.com/collections/int-1003-indonesia/](https://www.cnn.com/collections/int-1003-indonesia/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-03 08:47:40+00:00
+
 
 

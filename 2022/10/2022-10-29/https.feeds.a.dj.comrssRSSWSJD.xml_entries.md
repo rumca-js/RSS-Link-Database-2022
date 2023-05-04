@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## The Indonesian Village Making Viral YouTube Videos
  - [https://www.wsj.com/articles/the-indonesian-village-making-viral-youtube-videos-11667060647?mod=rss_Technology](https://www.wsj.com/articles/the-indonesian-village-making-viral-youtube-videos-11667060647?mod=rss_Technology)
@@ -13,3 +13,4 @@ In a country with some of the highest user rates in the world, residents of one 
  - date published: 2022-10-29 04:00:00+00:00
 
 History shows that downturns are when the industry shifts focus from flashy novelties to things that are truly useful.
+

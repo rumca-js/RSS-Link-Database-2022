@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Twitch to ban Stake.com streams and other unlicensed gambling content
  - [https://www.theverge.com/2022/9/20/23364080/twitch-gambling-ban-stake-slots-roulette-dice-games](https://www.theverge.com/2022/9/20/23364080/twitch-gambling-ban-stake-slots-roulette-dice-games)
@@ -573,3 +573,4 @@
     </figure>
 
   <p id="t27qCM">Microsoft is making it easier to play games on your Xbox Series X, even if it’s offline — as of th
+

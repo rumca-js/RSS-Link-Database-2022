@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Fifth Circuit Deals Huge Legal Blow To Social Media Censorship, Upholds Texas Law Banning It
  - [https://www.dailywire.com/news/fifth-circuit-deals-huge-legal-blow-to-social-media-censorship-upholds-texas-law-banning-it](https://www.dailywire.com/news/fifth-circuit-deals-huge-legal-blow-to-social-media-censorship-upholds-texas-law-banning-it)
@@ -356,3 +356,4 @@ Rep. Alexandria Ocasio-Cortez (D-NY) exploded at a Republican member during a Ho
  - date published: 2022-09-16 07:15:35+00:00
 
 White House Press Secretary Karine Jean-Pierre struggled to answer questions Thursday about whether the U.S. southern border is secure after Florida Republican Governor Ron DeSantis sent 50 illegal immigrants to Martha&#8217;s Vineyard. The question from a reporter came after Vice President Kamala Harris said during a news show over the weekend that the &#8220;border is ...
+

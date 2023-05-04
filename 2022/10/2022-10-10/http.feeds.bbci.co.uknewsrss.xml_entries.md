@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Officer fired after shooting teen in McDonald's car park
  - [https://www.bbc.co.uk/news/world-us-canada-63209829?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63209829?at_medium=RSS&at_campaign=KARANGA)
@@ -531,3 +531,4 @@ The commemorative 50p coins carry the late monarch's image as they were made bef
  - date published: 2022-10-10 00:01:02+00:00
 
 Sophie Price, from Kidderminster, has to wear protective hats after being seriously hurt in a crash.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Microsoft zapowiada odświeżony interfejs użytkownika Xbox Series X/S i Xbox One
  - [https://ithardware.pl/aktualnosci/microsoft_zapowiada_odswiezony_interfejs_uzytkownika_xbox_series_x_s_i_xbox_one-23216.html](https://ithardware.pl/aktualnosci/microsoft_zapowiada_odswiezony_interfejs_uzytkownika_xbox_series_x_s_i_xbox_one-23216.html)
@@ -195,3 +195,4 @@ Wersja ta zawiera aktualizacje dla algorytm&oacute;w odpowiedzialnych za popraw�
 
 <img src="https://ithardware.pl/artykuly/min/23195_1.jpg" />            Motorola długo kazała nam czekać na swojego nowego flagowca, ale wygląda na to, że cierpliwość została nagrodzona, gdyż Edge 30 Ultra zapowiada się naprawdę ekscytująco. Przy okazji producent zapowiedział jeszcze dwa inne modele z tej serii,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/motoroal_zapowiada_flagowca_edge_30_ultra_z_200_mp_aparatem_edge_30_fusion_i_neo_rowniez_debiutuja-23195.
+

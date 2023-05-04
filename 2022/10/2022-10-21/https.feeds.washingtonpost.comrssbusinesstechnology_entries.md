@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## A teen’s mural included video game fan art. Parents called it satanic.
  - [https://www.washingtonpost.com/video-games/2022/10/21/michigan-satanic-mural-genshin-owl-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/21/michigan-satanic-mural-genshin-owl-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ Researchers from MIT and Stanford have created a tool that could improve the aim
  - date published: 2022-10-21 05:00:55+00:00
 
 TikTok’s explosive stardom has created a new kind of celebrity. But nothing goes viral like rage.
+

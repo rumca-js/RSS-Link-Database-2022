@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## A new, cheaper Chromecast upgrade is on the way - but with surprising specs
  - [https://www.techradar.com/news/a-new-cheaper-chromecast-upgrade-is-on-the-way-but-with-surprising-specs/](https://www.techradar.com/news/a-new-cheaper-chromecast-upgrade-is-on-the-way-but-with-surprising-specs/)
@@ -13,3 +13,4 @@ Another Chromecast with Google TV is heading our way, and will probably be unvei
  - date published: 2022-09-11 09:43:45+00:00
 
 Some folks aren’t too impressed with the performance levels shown, but we’re not surprised at this leak.
+

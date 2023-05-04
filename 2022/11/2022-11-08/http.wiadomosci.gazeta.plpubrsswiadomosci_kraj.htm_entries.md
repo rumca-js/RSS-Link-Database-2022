@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Stanowo. 16-latka ukryła ciało noworodka w zamrażarce. Rodzina nie wiedziała, że jest w ciąży
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29120091,stanowo-16-latka-ukryla-cialo-noworodka-w-zamrazarce-rodzina.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29120091,stanowo-16-latka-ukryla-cialo-noworodka-w-zamrazarce-rodzina.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -146,3 +146,4 @@
  - date published: 2022-11-08 06:45:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/85/c4/1b/z29116549M,Mrozy-w-Rosji.jpg" vspace="2" />Temperatura w Polsce nadal jest dość wysoka jak na tę porę roku. Wiele wskazuje jednak na to, że już wkrótce się to zmieni. Czy dotrze do nas "bomba chłodu"? Kiedy możemy spodziewać się pierwszych minusowych wartości na termometrach?
+

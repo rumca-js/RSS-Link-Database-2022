@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Universal Credit rules to be tightened under chancellor's plans
  - [https://www.bbc.co.uk/news/business-62989572?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62989572?at_medium=RSS&at_campaign=KARANGA)
@@ -524,3 +524,4 @@ The award show was also dropped by its US broadcaster last year over conflict-of
  - date published: 2022-09-21 00:16:18+00:00
 
 Tamara Harvey and Daniel Evans will be joint artistic directors of the Royal Shakespeare Company.
+

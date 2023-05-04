@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Runners and Cyclists Use GPS Mapping to Make Art
  - [https://www.nytimes.com/2022/09/24/technology/gps-art-strava-running.html](https://www.nytimes.com/2022/09/24/technology/gps-art-strava-running.html)
@@ -27,3 +27,4 @@ A tech-savvy artist unearthed video footage of people working hard to capture th
  - date published: 2022-09-24 09:00:12+00:00
 
 A study that looked back at those tests found that relatively weak social connections were more helpful in finding jobs than stronger social ties.
+

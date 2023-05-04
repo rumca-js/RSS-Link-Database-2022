@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Europeans stick by Ukraine, despite mounting challenges.
  - [https://www.nytimes.com/2022/11/08/world/europe/europeans-stick-by-ukraine-despite-mounting-challenges.html](https://www.nytimes.com/2022/11/08/world/europe/europeans-stick-by-ukraine-despite-mounting-challenges.html)
@@ -139,3 +139,4 @@ European countries are backing Ukraine.
  - date published: 2022-11-08 05:01:14+00:00
 
 Those fleeing speak of the growing dangers of bombardment and of Russian forces commandeering homes and sheltering among civilians.
+

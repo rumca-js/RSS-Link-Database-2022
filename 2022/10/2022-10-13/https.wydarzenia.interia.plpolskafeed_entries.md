@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Odmiana przez przypadki w języku polskim. Zasady i przykłady użycia deklinacji
  - [https://wydarzenia.interia.pl/kraj/news-odmiana-przez-przypadki-w-jezyku-polskim-zasady-i-przyklady-,nId,6340720](https://wydarzenia.interia.pl/kraj/news-odmiana-przez-przypadki-w-jezyku-polskim-zasady-i-przyklady-,nId,6340720)
@@ -13,3 +13,4 @@
  - date published: 2022-10-13 06:58:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-kontrole-domow-juz-niedlugo-do-kogo-przyjda-urzednicy-i-co-b,nId,6338458"><img align="left" alt="Kontrole domów już niedługo. Do kogo przyjdą urzędnicy i co będą sprawdzać?" src="https://i.iplsc.com/kontrole-domow-juz-niedlugo-do-kogo-przyjda-urzednicy-i-co-b/000G6JXVIJ55CAE3-C321.jpg" /></a>Jak zapowiada Główny Urząd Nadzoru Budowlanego kontrole gospodarstw domowych na terenie całej Polski rozpoczną się w pierwszym kwartale 2023 r. Ich celem j
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## CD Projekt is losing a CEO but gaining a new studio
  - [https://www.pcgamer.com/cd-projekt-is-losing-a-ceo-but-gaining-a-new-studio](https://www.pcgamer.com/cd-projekt-is-losing-a-ceo-but-gaining-a-new-studio)
@@ -223,3 +223,4 @@ You can get all the DIY info you need to make one for yourself.
  - date published: 2022-10-04 04:36:51+00:00
 
 Valve's beta update means it's even easier add some action to your start up screen.
+

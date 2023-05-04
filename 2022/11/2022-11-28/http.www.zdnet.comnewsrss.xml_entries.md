@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Cyber Monday deal 2022: $300 off the Samsung Galaxy S21 FE 5G
  - [https://www.zdnet.com/article/cyber-monday-deal-2022-300-off-the-samsung-galaxy-s21-fe-5g/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-2022-300-off-the-samsung-galaxy-s21-fe-5g/#ftag=RSSbaffb68)
@@ -657,3 +657,4 @@ During this year's Black Friday and Cyber Monday 2022 sale, save $429 on this Ga
  - date published: 2022-11-28 00:18:03+00:00
 
 Everyone talks about how long their battery lasts but do any of them get their power from the sun? The Garmin Instinct Solar uses advanced features to prove itself in the smartwatch industry. Don't miss this Cyber Monday deal 2022.
+

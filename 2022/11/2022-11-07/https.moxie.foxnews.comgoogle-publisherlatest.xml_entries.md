@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Bruins' Cam Neely acknowledges failure in decision to sign Mitchell Miller: 'We could’ve done a better job'
  - [https://www.foxnews.com/sports/bruins-cam-neely-acknowledges-failure-decision-sign-mitchell-miller-couldve-done-better-job](https://www.foxnews.com/sports/bruins-cam-neely-acknowledges-failure-decision-sign-mitchell-miller-couldve-done-better-job)
@@ -1357,3 +1357,4 @@ The NYPD arrested a 24-year-old suspect for allegedly stabbing a man in the face
  - date published: 2022-11-07 00:05:45+00:00
 
 MSNBC hosted Biden adviser and former Atlanta Mayor Keisha Lance Bottoms as she suggested that Black male voters are being targeted for misinformation.
+

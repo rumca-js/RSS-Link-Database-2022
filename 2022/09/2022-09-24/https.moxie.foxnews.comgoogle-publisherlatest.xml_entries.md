@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Missouri loses overtime game to Auburn in agonizing fashion
  - [https://www.foxnews.com/sports/missouri-loses-overtime-game-auburn-agonizing-fashion](https://www.foxnews.com/sports/missouri-loses-overtime-game-auburn-agonizing-fashion)
@@ -748,3 +748,4 @@ Fox News host Jesse Watters calls out Democrats for their treatment of illegal m
  - date published: 2022-09-24 00:03:59+00:00
 
 Hillary Clinton called Donald Trump's handling of documents "deeply disturbing" on Friday while denying that she ever had classified info on a private server.
+

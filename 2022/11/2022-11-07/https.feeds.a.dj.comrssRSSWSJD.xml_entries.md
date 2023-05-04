@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Lyft Shares Slide After Disappointing Revenue and Ridership Numbers
  - [https://www.wsj.com/articles/lyft-q3-earnings-report-2022-11667852844?mod=rss_Technology](https://www.wsj.com/articles/lyft-q3-earnings-report-2022-11667852844?mod=rss_Technology)
@@ -69,3 +69,4 @@ The company’s high-end iPhone 14 Pro and Pro Max models are being affected by 
  - date published: 2022-11-07 00:25:00+00:00
 
 Elon Musk’s first big change for users of the social media platform criticized for implementation woes
+

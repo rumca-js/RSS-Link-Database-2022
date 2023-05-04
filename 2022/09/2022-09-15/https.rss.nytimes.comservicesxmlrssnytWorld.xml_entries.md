@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Putin Nods to Xi’s ‘Concerns,’ and the Limits of Their Cooperation
  - [https://www.nytimes.com/2022/09/15/world/europe/putin-china-ukraine.html](https://www.nytimes.com/2022/09/15/world/europe/putin-china-ukraine.html)
@@ -237,3 +237,4 @@ The two authoritarian leaders are facing increasing animosity with the West and 
  - date published: 2022-09-15 04:58:05+00:00
 
 Zelensky at the front.
+

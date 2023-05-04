@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Minecraft Running on Asahi Linux with Open Source GPU Drivers
  - [https://social.treehouse.systems/@alyssa/109378606742926582](https://social.treehouse.systems/@alyssa/109378606742926582)
@@ -727,3 +727,4 @@ https://news.ycombinator.com/item?id=9049208<p>I have bookmarked it and read it 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33676648">https://news.ycombinator.com/item?id=33676648</a></p>
 <p>Points: 11</p>
 <p># Comments: 2</p>
+

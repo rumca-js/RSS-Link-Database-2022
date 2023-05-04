@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Brazilian Wins Race to Head Latin America's Top Development Bank
  - [https://www.wsj.com/articles/brazilian-wins-race-to-head-latin-americas-top-development-bank-11668975444](https://www.wsj.com/articles/brazilian-wins-race-to-head-latin-americas-top-development-bank-11668975444)
@@ -62,3 +62,4 @@ Officials encouraged people from recently recaptured territories to evacuate, as
  - date published: 2022-11-20 10:30:00+00:00
 
 Russia’s attack on Ukraine and China’s economic travails are encouraging a trans-Atlantic trade and investment renaissance.
+

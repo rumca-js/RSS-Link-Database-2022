@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## How I plucked up the courage to haggle on the high street and saved myself £1,000
  - [https://www.dailymail.co.uk/news/article-11295561/How-plucked-courage-haggle-high-street-saved-1-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11295561/How-plucked-courage-haggle-high-street-saved-1-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1022,3 +1022,4 @@ KATE BINGHAM: The phone call that was to completely change my life came in May 2
  - date published: 2022-10-08 00:19:55+00:00
 
 A huge trough headed straight for the east coast of Australia with experts warning that already-troubled dams and catchments could give way to flooding and landslides across the country.
+

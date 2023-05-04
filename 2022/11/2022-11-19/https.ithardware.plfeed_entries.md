@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## iPhone 15 Pro dostanie szybszy port USB-C. Co z podstawową wersją?
  - [https://ithardware.pl/aktualnosci/iphone_15_pro_dostanie_szybszy_port_usb_c_co_z_podstawowa_wersja-24440.html](https://ithardware.pl/aktualnosci/iphone_15_pro_dostanie_szybszy_port_usb_c_co_z_podstawowa_wersja-24440.html)
@@ -103,3 +103,4 @@ Jak dobrze...
 
 <img src="https://ithardware.pl/artykuly/min/24429_1.jpg" />            Vancity stało się pierwszą kanadyjską instytucją finansową oferującą kartę kredytową, kt&oacute;ra oblicza ślad węglowy użytkownika.&nbsp;Posunięcie to jest pr&oacute;bą pokazania, że kanadyjska&nbsp;sp&oacute;łdzielcza kasa...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/kanadyjska_spoldzielcza_kasa_kredytowa_bedzie_analizowac_slad_weglowy_poprzez_transakcje-24429.html">https://ithardware.pl/aktualnosci/kanadyjska_spoldzielcza_kasa_kredytowa_bedzie_analizowac_slad_weglowy_poprzez_transakcje-24429.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Two explosions rock Somalia's capital, killing at least 30
  - [https://www.lemonde.fr/en/international/article/2022/10/29/two-explosions-rock-somalia-s-capital-killing-at-least-30_6002244_4.html](https://www.lemonde.fr/en/international/article/2022/10/29/two-explosions-rock-somalia-s-capital-killing-at-least-30_6002244_4.html)
@@ -146,3 +146,4 @@ The fate of this thousand-year-old clay tablet – stolen in 1991, seized by Ame
  - date published: 2022-10-29 00:42:31+00:00
 
 Viacheslav Bogouslaev is the president and main shareholder of Motor Sitch factory, the number one manufacturer in the Ukrainian defense industry. He is accused of having continued to supply Moscow.
+

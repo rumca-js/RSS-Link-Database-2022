@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple will dominate the enterprise, says Kandji CEO
  - [https://www.computerworld.com/article/3675540/apple-will-dominate-the-enterprise-says-kandji-ceo.html#tk.rss_all](https://www.computerworld.com/article/3675540/apple-will-dominate-the-enterprise-says-kandji-ceo.html#tk.rss_all)
@@ -26,3 +26,4 @@
 <article>
 	<section class="page">
 <p>If your organization uses Office, chances are you’ve encountered Microsoft Teams, at least for video meetings. But it’s capable of a lot more, providing an effective way for groups of people to collaborate on work and advance business objectives.</p><p>Teams is, at its core, group chat software with videoconferencing capabilities and some interesting features around working with documents and spreadsheets, especially those stored in SharePoint and OneDrive fo
+

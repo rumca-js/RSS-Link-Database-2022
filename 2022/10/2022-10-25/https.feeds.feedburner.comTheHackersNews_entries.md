@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## 22-Year-Old Vulnerability Reported in Widely Used SQLite Database Library
  - [https://thehackernews.com/2022/10/22-year-old-vulnerability-reported-in.html](https://thehackernews.com/2022/10/22-year-old-vulnerability-reported-in.html)
@@ -53,3 +53,4 @@ While a significant proportion of attacks aimed at
 Tech giant Apple on Monday rolled out updates to remediate a zero-day flaw in iOS and iPadOS that it said has been actively exploited in the wild.
 The weakness, given the identifier CVE-2022-42827, has been described as an out-of-bounds write issue in the Kernel, which could be abused by a rogue application to execute arbitrary code with the highest privileges.
 Successful exploitation of
+

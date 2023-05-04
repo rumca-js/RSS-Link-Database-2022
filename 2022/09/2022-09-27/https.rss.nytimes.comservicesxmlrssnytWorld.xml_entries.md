@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## CIA Warned Europe of Potential Attacks on Nord Stream Pipelines
  - [https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html](https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html)
@@ -174,3 +174,4 @@ Europe balks at Italy’s rightward turn.
  - date published: 2022-09-27 00:40:59+00:00
 
 The sweeping 100-page law will also allow same-sex couples to adopt and includes measures that expand protections for women, children and the elderly.
+

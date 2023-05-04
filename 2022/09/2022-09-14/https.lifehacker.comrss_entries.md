@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Throw Away This HelloFresh Ground Beef, CDC Says
  - [https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302](https://lifehacker.com/throw-away-this-hellofresh-ground-beef-cdc-says-1849536302)
@@ -139,3 +139,4 @@
  - date published: 2022-09-14 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--TcUW_2hE--/c_fit,fl_progressive,q_80,w_636/d6391435f13655d47ad70ef28e6e672c.jpg" /><p>With cooler weather on its way, harvesting and cleaning up your garden beds should be on your fall agenda. While your garden might not be actively producing over the winter, there’s still plenty to do now to make next season more successful. Taking some time to properly prepare for the garden’s dormant season will…</p><p><a href="https://lifehacker.
+

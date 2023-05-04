@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Lawmakers Grill TikTok Executive About Ties to China
  - [https://www.nytimes.com/2022/09/14/technology/tiktok-china-senate.html](https://www.nytimes.com/2022/09/14/technology/tiktok-china-senate.html)
@@ -34,3 +34,4 @@ For more than a decade, Catherine Engelbrecht, a Texas mom turned election-fraud
  - date published: 2022-09-14 09:00:24+00:00
 
 Apple and Google have added useful features to texting apps, yet the apps still lack a major component: an effective way to set limits.
+

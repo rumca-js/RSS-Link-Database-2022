@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Procesory AMD Ryzen 9 7900 i Ryzen 7 7700 potwierdzone?
  - [https://ithardware.pl/aktualnosci/procesory_amd_ryzen_9_7900_i_ryzen_7_7700_potwierdzone-24546.html](https://ithardware.pl/aktualnosci/procesory_amd_ryzen_9_7900_i_ryzen_7_7700_potwierdzone-24546.html)
@@ -81,3 +81,4 @@ Wraz z procesorami Raptor Lake zadebiutowały nowe płyty gł&oacute;wne na chip
 
 W Internecie pojawiła się lista gier...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/poznalismy_gry_ktore_moga_trafic_do_amazon_prime_gaming_w_grudniu-24540.html">https://ithardware.pl/aktualnosci/poznalismy_gry_ktore_moga_trafic_do_amazon_prime_gaming_w_grudniu-24540.html</a></p>
+

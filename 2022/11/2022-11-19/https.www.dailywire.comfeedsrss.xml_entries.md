@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Former AG Bill Barr: Criminal Probe Into Trump ‘Serious,’ DOJ Has ‘Basis For Legitimately Indicting’ Him
  - [https://www.dailywire.com/news/former-ag-bill-barr-criminal-probe-into-trump-serious-doj-has-basis-for-legitimately-indicting-him](https://www.dailywire.com/news/former-ag-bill-barr-criminal-probe-into-trump-serious-doj-has-basis-for-legitimately-indicting-him)
@@ -90,3 +90,4 @@ The Washington Post slammed President Joe Biden in a statement Friday for shield
  - date published: 2022-11-19 11:01:20+00:00
 
 CBS News was mocked online Friday evening after announcing that the network would pause their use of Twitter &#8220;out of an abundance of caution&#8221; as the social media platform goes through an intense period of change following Elon Musk&#8217;s acquisition of the company. The announcement comes as thousands of employees have either been forced out ...
+

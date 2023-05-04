@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## We finally know when Bastion will return to Overwatch 2
  - [https://www.pcgamer.com/we-finally-know-when-bastion-will-return-to-overwatch-2](https://www.pcgamer.com/we-finally-know-when-bastion-will-return-to-overwatch-2)
@@ -237,3 +237,4 @@ Solve a string of grisly murders in this inventive detective adventure.
  - date published: 2022-10-19 00:26:23+00:00
 
 Sources told Bloomberg the actor who said she was lowballed was offered at least $15K. She says that's a lie.
+

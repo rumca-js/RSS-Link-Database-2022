@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## What we learned driving VW’s new electric ID Buzz
  - [https://arstechnica.com/?p=1878310](https://arstechnica.com/?p=1878310)
@@ -125,3 +125,4 @@ Facebook is reviewing the decision.
  - date published: 2022-09-06 13:43:34+00:00
 
 "We cannot work with a partner who is completely trampling on those values."
+

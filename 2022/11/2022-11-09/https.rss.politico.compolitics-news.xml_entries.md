@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Move on from Trump? Even GOP critics of the former president donâ€™t see it.
  - [https://www.politico.com/news/2022/11/09/trump-gop-critics-president-00066100](https://www.politico.com/news/2022/11/09/trump-gop-critics-president-00066100)
@@ -13,3 +13,4 @@ No one thinks Tuesday was a great night for the former president. They just canâ
  - date published: 2022-11-09 18:20:42+00:00
 
 In an excerpt adapted from Pence's book, the former vice president wrote about Trump repeatedly admonishing him in the last weeks of their administration.
+

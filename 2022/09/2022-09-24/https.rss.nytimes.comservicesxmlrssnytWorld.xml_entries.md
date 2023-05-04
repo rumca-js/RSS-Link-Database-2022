@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## The U.S. says Russia isn’t preparing to use nuclear weapons, yet.
  - [https://www.nytimes.com/2022/09/25/world/europe/the-us-says-russia-isnt-preparing-to-use-nuclear-weapons-yet.html](https://www.nytimes.com/2022/09/25/world/europe/the-us-says-russia-isnt-preparing-to-use-nuclear-weapons-yet.html)
@@ -146,3 +146,4 @@ It is driven by a decline in child immunization during the pandemic and the infl
  - date published: 2022-09-24 00:20:42+00:00
 
 The Russian president has rejected requests from commanders in the field that they be allowed to retreat from Kherson, a vital city in Ukraine’s south.
+

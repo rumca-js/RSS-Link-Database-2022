@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 5 steps to designing an embedded software architecture, Step 1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58982](https://www.codeproject.com/script/News/View.aspx?nwid=58982)
@@ -111,3 +111,4 @@ Amazon SageMaker Studio Lab is a free machine learning (ML) development environm
  - date published: 2022-09-23 04:00:00+00:00
 
 Not to be confused with the airport in Los Angeles
+

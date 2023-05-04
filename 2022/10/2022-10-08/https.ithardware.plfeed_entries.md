@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## A Plague Tale: Requiem. Poznaliśmy wysokie wymagania sprzętowe
  - [https://ithardware.pl/aktualnosci/a_plague_tale_requiem_poznalismy_wysokie_wymagania_sprzetowe-23746.html](https://ithardware.pl/aktualnosci/a_plague_tale_requiem_poznalismy_wysokie_wymagania_sprzetowe-23746.html)
@@ -107,3 +107,4 @@ Jeżeli macie problem ze znalezieniem gry dla siebie, lub zaczynacie odczuwać, 
 
 <img src="https://ithardware.pl/artykuly/min/23733_1.jpg" />            Stowarzyszenie na rzecz Światowej Międzybankowej Telekomunikacji Finansowej (SWIFT) ogłosiło, że z&nbsp;powodzeniem&nbsp;przeniosło cyfrowe waluty banku centralnego (CBDC) i tokenizowało aktywa przy użyciu istniejących system&oacute;w...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/swift_oglasza_przelom_w_eksperymentach_z_cbdc-23733.html">https://ithardware.pl/aktualnosci/swift_oglasza_przelo
+

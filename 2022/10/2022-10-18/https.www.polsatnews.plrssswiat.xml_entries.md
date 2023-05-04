@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Białoruś: Mężczyzna skazany na więzienie za złożenie zniczy w barwach Ukrainy
  - [https://www.polsatnews.pl/wiadomosc/2022-10-18/bialorus-mezczyzna-skazany-na-wiezienie-za-zlozenie-zniczy-w-barwach-ukrainy/](https://www.polsatnews.pl/wiadomosc/2022-10-18/bialorus-mezczyzna-skazany-na-wiezienie-za-zlozenie-zniczy-w-barwach-ukrainy/)
@@ -104,3 +104,4 @@ Amerykański gwiazdor Kevin Spacey stwierdził przed nowojorskim sądem, że ża
  - date published: 2022-10-18 05:41:00+00:00
 
 Prawdopodobnie już za kilka dni Rosja przeprowadzi ćwiczenia strategicznych sił jądrowych - podaje agencja Reutera powołując się na wysokiego urzędnika wojskowego USA. Władze w Moskwie do tej pory nie poinformowały o tym Waszyngtonu, ale spodziewany jest scenariusz odpalenia rakiet w ramach manewrów Grom.
+

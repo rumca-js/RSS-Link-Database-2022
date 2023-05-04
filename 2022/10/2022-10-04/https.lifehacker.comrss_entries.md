@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Launder Money Like a Criminal
  - [https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157](https://lifehacker.com/how-to-launder-money-like-a-criminal-1849616157)
@@ -104,3 +104,4 @@
  - date published: 2022-10-04 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--uKm90Byf--/c_fit,fl_progressive,q_80,w_636/fc60d9d05f0d1da84d7d282a3011bf0a.jpg" /><p>It is fall or, as most of Twitter likes to call it, “soup season,” the season for eating soup. Soothing noodle soups, hearty beef and vegetables, and luscious, creamy vegetables soups—all are valid, but that last one seems to dominate once the foliage starts to change. There’s something about a velvety bowl of the…</p><p><a href="https://lifehacker.
+

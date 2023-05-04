@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Nie żyje Olga Simonowa. Historia Rosjanki, która walczyła dla Ukrainy
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nie-zyje-olga-simonowa-historia-rosjanki-ktora-walczyla-dla-,nId,6285338](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nie-zyje-olga-simonowa-historia-rosjanki-ktora-walczyla-dla-,nId,6285338)
@@ -20,3 +20,4 @@
  - date published: 2022-09-14 10:13:43+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nie-zyje-naczelny-ulubionej-gazety-putina-byl-w-podrozy,nId,6285303"><img align="left" alt="Nie żyje naczelny ulubionej gazety Putina. &quot;Był w podróży&quot;" src="https://i.iplsc.com/nie-zyje-naczelny-ulubionej-gazety-putina-byl-w-podrozy/000G2FD5VFG45GV4-C321.jpg" /></a>Jak donoszą zagraniczne media, nie żyje Władimir Sungorkin - redaktor naczelny ulubionej gazety Władimira Putina &quot;Komsomolskiej Pra
+

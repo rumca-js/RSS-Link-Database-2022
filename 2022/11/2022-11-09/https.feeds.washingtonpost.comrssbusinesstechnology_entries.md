@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Musk to meet with Twitter advertisers after ‘name & shame’ warning
  - [https://www.washingtonpost.com/technology/2022/11/09/elon-musk-twitter-advertisers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/09/elon-musk-twitter-advertisers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ The app quickly took off with teens, until an unfounded rumor, repeated by polic
  - date published: 2022-11-09 04:00:44+00:00
 
 In private chats, a cadre of volunteers is shaping a new approach to policing misinformation — one Elon Musk has endorsed as he scales back on professional debunkings.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Carriers should stop charging extra for using smartwatch data
  - [https://www.androidauthority.com/carrier-charging-extra-smartwatch-data-3207849/](https://www.androidauthority.com/carrier-charging-extra-smartwatch-data-3207849/)
@@ -41,3 +41,4 @@ Oppo and OnePlus have implemented a neat privacy feature for screenshots, and we
  - date published: 2022-09-17 11:11:38+00:00
 
 Google parts with Pixelbook, OnePlus 11 Pro renders leak, Sony's State of Play highlights, and speedier cup noodles.
+

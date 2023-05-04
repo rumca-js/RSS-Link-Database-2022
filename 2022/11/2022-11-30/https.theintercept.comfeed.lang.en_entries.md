@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Montana Judge Won’t Halt Gov. Greg Gianforte’s Aggressive Wolf Hunt
  - [https://theintercept.com/2022/11/30/wolf-hunt-montana-judge/](https://theintercept.com/2022/11/30/wolf-hunt-montana-judge/)
@@ -31,3 +31,4 @@
 
 <p>People have taken to the streets in Iran for over two months. Will the movement lead to the regime’s collapse?</p>
 <p>The post <a href="https://theintercept.com/2022/11/30/intercepted-iran-protests/" rel="nofollow">Iran’s Protest Movement and Its Future</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Supreme Court Takes Up Challenge to Social Media Platforms’ Shield
  - [https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html](https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html)
@@ -34,3 +34,4 @@ Uber does not inform the police of such incidents, citing advocacy group guideli
  - date published: 2022-10-03 09:00:20+00:00
 
 Election deniers catapulted a Michigan firm with just 21 U.S. employees to the center of unfounded voter fraud claims, exposing it to vicious threats.
+

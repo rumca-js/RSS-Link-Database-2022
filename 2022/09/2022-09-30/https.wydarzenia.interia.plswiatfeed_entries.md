@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Cyryl I chory na koronawirusa. Patriarcha odwołał wszystkie spotkania
  - [https://wydarzenia.interia.pl/zagranica/news-cyryl-i-chory-na-koronawirusa-patriarcha-odwolal-wszystkie-s,nId,6318595](https://wydarzenia.interia.pl/zagranica/news-cyryl-i-chory-na-koronawirusa-patriarcha-odwolal-wszystkie-s,nId,6318595)
@@ -13,3 +13,4 @@
  - date published: 2022-09-30 07:54:32+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-piotr-witwicki-podcast/aktualnosci/news-grzegorz-kozak-putin-bedzie-walczyl-do-ostatniej-kropli-krwi,nId,6316382"><img align="left" alt="Grzegorz Kozak: Putin będzie walczył do ostatniej kropli krwi" src="https://i.iplsc.com/grzegorz-kozak-putin-bedzie-walczyl-do-ostatniej-kropli-krwi/000G4ZWQV52VBWLA-C321.jpg" /></a>- Boję się, że niestety jest to możliwe. Oczywiście mówimy o broni taktycznej, czyli o ograniczonym zasięgu, sile, bo to nie
+

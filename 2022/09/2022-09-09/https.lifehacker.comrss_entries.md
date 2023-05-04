@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Easiest Ways to Make Parchment Circles
  - [https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101](https://lifehacker.com/the-easiest-ways-to-make-parchment-circles-1849519101)
@@ -104,3 +104,4 @@
  - date published: 2022-09-09 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--TZX6T_7_--/c_fit,fl_progressive,q_80,w_636/48caf0747d2bbe91b81d22d7f22d2a52.png" /><p>This week, some young people are learning about how they have no privacy at work. Others are asking why they can’t make friends. But everyone is asking whether Harry Styles spit on Chris Pine.<br /></p><p><a href="https://lifehacker.com/did-harry-styles-spit-on-chris-pine-the-out-of-touch-a-1849508200">Read more...</a></p>
+

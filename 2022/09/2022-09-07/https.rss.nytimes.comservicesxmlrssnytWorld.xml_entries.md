@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Putin Dismisses Losses in Ukraine, Says Russia Is Gaining From War
  - [https://www.nytimes.com/2022/09/07/world/europe/russia-ukraine-putin.html](https://www.nytimes.com/2022/09/07/world/europe/russia-ukraine-putin.html)
@@ -209,3 +209,4 @@ Officers converged on a house on the Indigenous reserve where two brothers were 
  - date published: 2022-09-07 00:47:43+00:00
 
 The police received reports that Myles Sanderson was spotted at the Indigenous reserve where the stabbings took place, but by day’s end he was not in custody, and an emergency alert was still in place for Saskatchewan.
+

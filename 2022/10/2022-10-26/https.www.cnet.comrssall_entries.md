@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Rihanna Shares 'Black Panther: Wakanda Forever' Song Clip     - CNET
  - [https://www.cnet.com/culture/entertainment/rihanna-shares-black-panther-wakanda-forever-song-clip/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/rihanna-shares-black-panther-wakanda-forever-song-clip/#ftag=CADf328eec)
@@ -811,3 +811,4 @@ The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to
  - date published: 2022-10-26 00:15:00+00:00
 
 Surprisingly, Star Wars has upped its game in 2022.
+

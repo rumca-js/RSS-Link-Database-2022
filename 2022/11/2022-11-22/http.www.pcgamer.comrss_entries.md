@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Darktide's 1.0.7 patch makes progress on crashes, lets you fix your ugly face
  - [https://www.pcgamer.com/darktides-107-patch-makes-progress-on-crashes-lets-you-fix-your-ugly-face](https://www.pcgamer.com/darktides-107-patch-makes-progress-on-crashes-lets-you-fix-your-ugly-face)
@@ -258,3 +258,4 @@ Wordle today: The solution and a hint for the #521 puzzle.
  - date published: 2022-11-22 00:15:01+00:00
 
 Sometimes the scary, overpowered weapon is the one from real life.
+

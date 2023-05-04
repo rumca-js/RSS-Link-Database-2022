@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Ecuador dampens Qatar's party as controversial World Cup gets underway
  - [https://www.cnn.com/2022/11/20/football/qatar-ecuador-opening-game-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/11/20/football/qatar-ecuador-opening-game-world-cup-2022-spt-intl/index.html)
@@ -20,3 +20,4 @@ Powerful explosions rocked the Zaporizhzhia nuclear power plant in Ukraine this 
  - date published: 2022-11-20 14:13:48+00:00
 
 Eleven people have been killed in Syria, including one journalist, after Turkish warplanes carried out an "air operation" in the country and neighboring Iraq late Saturday, according to an official from the US-backed Syrian Democratic Forces (SDF). There have not been any casualties reported from the Iraqi side.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Smutny wieczór w Gdańsku. Polki przegrały z faworytkami mistrzostw
  - [https://eurosport.tvn24.pl/smutny-wiecz-r-w-gda-sku--polki-przegra-y-z-faworytkami-mistrzostw,1120214.html?source=rss](https://eurosport.tvn24.pl/smutny-wiecz-r-w-gda-sku--polki-przegra-y-z-faworytkami-mistrzostw,1120214.html?source=rss)
@@ -263,3 +263,4 @@
 
 <img alt="Największy kryzys energetyczny od lat. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-45n6hk-rozmowy-o-koncu-swiata-o-kryzysie-energetycznym-6141077/alternates/LANDSCAPE_1280" />
     Węgla brakuje, a jak już jest, jego ceny przekraczają możliwości większości, a ceny energii rosną kilkukrotnie.
+

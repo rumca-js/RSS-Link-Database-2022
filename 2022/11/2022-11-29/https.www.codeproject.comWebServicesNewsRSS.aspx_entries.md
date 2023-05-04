@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 5.4 million Twitter users' stolen data leaked online — more shared privately
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
@@ -118,3 +118,4 @@ I think it would benefit front-end developers to check out some of its awesome f
  - date published: 2022-11-29 05:00:00+00:00
 
 Prompting for a username and password is so 2005. Today, you can just prompt for a fingerprint.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Tile's Anti-AirTags Are a Safer Way to Track Your Items
  - [https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297](https://lifehacker.com/tiles-anti-airtags-are-a-safer-way-to-track-your-items-1849564297)
@@ -139,3 +139,4 @@
  - date published: 2022-09-21 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--FIFNRvxx--/c_fit,fl_progressive,q_80,w_636/8a4edf5139fa3a503b51af96049d8b70.png" /><p><a href="https://lifehacker.com/jameela-jamil-breaks-down-how-she-hulk-tackles-misogyny-1849559383">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## He made a silly trombone video game. Then the internet caught wind.
  - [https://www.washingtonpost.com/video-games/2022/09/23/trombone-champ-viral-video-game/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/23/trombone-champ-viral-video-game/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Here are the best headphone and earbud options for people with hearing loss.
  - date published: 2022-09-23 06:00:46+00:00
 
 DARPA, the Pentagon's tech hub, is kicking off a sweeping review of the national security and law enforcement threats posed by the rise of cryptocurrency.
+

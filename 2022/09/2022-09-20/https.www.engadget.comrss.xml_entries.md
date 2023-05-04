@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## TikTok reportedly gives 'a bit more leniency' to popular accounts
  - [https://www.engadget.com/tiktok-two-tier-moderation-policy-225420571.html?src=rss](https://www.engadget.com/tiktok-two-tier-moderation-policy-225420571.html?src=rss)
@@ -230,3 +230,4 @@
  - date published: 2022-09-20 06:07:19+00:00
 
 <p>Over the weekend, Terraform Labs' CEO and co-founder Do Kwon took to Twitter to say that he was not &quot;on the run&quot; or &quot;anything similar.&quot; He made the statement after South Korean authorities issued an arrest warrant for him and five other people connected to Terraform Labs for violating the country's capital markets laws last week. But Korean prosecutors aren't convinced, especially since authorities in Singapore, where Kwon flew to back in April, said he was no longer in th
+

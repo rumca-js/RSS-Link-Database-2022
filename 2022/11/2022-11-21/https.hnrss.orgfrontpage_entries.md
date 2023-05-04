@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Justice Dept. urges Supreme Court to deny certiorari in WhatsApp vs. NSO Group [pdf]
  - [https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf](https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf)
@@ -626,3 +626,4 @@ This could be a vulnerability of Stripe, if your competitor uses Stripe and you 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33687031">https://news.ycombinator.com/item?id=33687031</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+

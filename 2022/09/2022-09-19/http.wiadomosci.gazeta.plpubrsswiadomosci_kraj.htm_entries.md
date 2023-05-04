@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Szef MSWiA podpisał rozporządzenie ws. ograniczenia wjazdu Rosjan do Polski. Są wyjątki
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28930887,szef-mswia-podpisal-rozporzadzenie-ws-ograniczenia-wjazdu-rosjan.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28930887,szef-mswia-podpisal-rozporzadzenie-ws-ograniczenia-wjazdu-rosjan.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -90,3 +90,4 @@
  - date published: 2022-09-19 05:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/68/96/1b/z28926312M,Trumna-krolowej-Elzbiety-II--udrapowanej-w-Royal-S.jpg" vspace="2" />Pogrzeb królowej Elżbiety II odbędzie się w poniedziałek 19 września. Jego przebieg transmitować będzie kilka polskich stacji. Gdzie i od której oglądać ceremonię?
+

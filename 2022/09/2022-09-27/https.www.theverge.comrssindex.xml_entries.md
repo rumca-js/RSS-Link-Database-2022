@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Tumblr probably won’t drop its porn ban, but it might be about to loosen it
  - [https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging](https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging)
@@ -449,3 +449,4 @@
     </figure>
 
   <p id="argnzT">New York Attorney General Letitia James is suing crypto company Nexo, alleging that the company misled customers by saying it was registered to sell se
+

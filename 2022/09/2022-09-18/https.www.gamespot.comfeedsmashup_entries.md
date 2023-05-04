@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Massive GTA 6 Leak Unveils Screenshots And Early Footage
  - [https://www.gamespot.com/articles/massive-gta-6-leak-unveils-screenshots-and-early-footage/1100-6507625/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/massive-gta-6-leak-unveils-screenshots-and-early-footage/1100-6507625/?ftag=CAD-01-10abi2f)
@@ -83,3 +83,4 @@
  - date published: 2022-09-18 06:04:00+00:00
 
 <p>Season 4 of <a href="https://www.gamespot.com/games/fortnite/">Fortnite</a> Chapter 3 is finally underway, and it's sporting some pretty significant map changes to the ever-expanding battle royale. Most notably, a mysterious substance known as Chrome is taking over the map--and while that certainly sounds bad lore-wise, it's also bringing with it some fresh gameplay elements. We'll go into that and more in this breakdown of the biggest new additions to the map in Fortnite Chapter 3, Season 4.
+

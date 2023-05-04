@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Workday expands service that surfaces employee skills
  - [https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all](https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all)
@@ -59,3 +59,4 @@
 <article>
 	<section class="page">
 <p>The scope of workplace collaboration tools available to teams today stretches far beyond anything employees might have imagined two and a half years ago. When work-from-home orders swept the globe in early 2020, most organizations were focused on ensuring they had viable video and chat platforms in place. Now, as a significant proportion of employees have decided to work outside of the office for at least part of the work week, tools that do more than just su
+

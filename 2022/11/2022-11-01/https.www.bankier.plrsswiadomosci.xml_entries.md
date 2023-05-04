@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## "Inicjatywa zbożowa" zostanie przedłużona 3 listopada
  - [https://www.bankier.pl/wiadomosc/Inicjatywa-zbozowa-zostanie-przedluzona-3-listopada-8432257.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inicjatywa-zbozowa-zostanie-przedluzona-3-listopada-8432257.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -199,3 +199,4 @@ wątpliwości branży.</p>
  - date published: 2022-11-01 03:11:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/b/709cd14a60e3d9-945-567-0-8-1730-1038.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Brazylia wciąż oczekuje na deklarację Jaira Bolsonaro, szefa państwa, który po przegranej w niedzielę drugiej turze wyborów ma zgodnie z konstytucją przekazać na zakończenie roku swój urząd zwycięskiemu kandydatowi, byłemu prezydentowi (2003-2010) Luizowi Inacio da Silvie.</p>
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Twitter employees warn Musk mass layoffs would be 'reckless'
  - [https://www.engadget.com/twitter-employees-to-elon-musk-layoffs-would-be-reckless-223913480.html?src=rss](https://www.engadget.com/twitter-employees-to-elon-musk-layoffs-would-be-reckless-223913480.html?src=rss)
@@ -139,3 +139,4 @@
  - date published: 2022-10-24 05:33:06+00:00
 
 <p>Remember back in 2014 when U2 <a href="https://www.engadget.com/2014-09-15-how-to-get-the-new-u2-album-songs-of-innocence-out-of-your-itu.html">gave away</a> an album's worth of songs to every iTunes user in the world? And it turned out that a large number of them didn't want said album anywhere near their music library — to the point that Apple had to release a <a href="https://www.engadget.com/2014-09-15-how-to-get-the-new-u2-album-songs-of-innocence-out-of-your-itu.html">special tool</a> t
+

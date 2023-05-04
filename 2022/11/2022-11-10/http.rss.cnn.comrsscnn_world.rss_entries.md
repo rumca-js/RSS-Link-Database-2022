@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Human rights organization expresses concerns about American they say is trapped in Saudi Arabia
  - [https://www.cnn.com/2022/11/10/politics/carly-morris-american-saudi-arabia/index.html](https://www.cnn.com/2022/11/10/politics/carly-morris-american-saudi-arabia/index.html)
@@ -90,3 +90,4 @@ King Charles III has unveiled the first statue of his late mother Queen Elizabet
  - date published: 2022-11-10 06:36:44+00:00
 
 An Australian man already sentenced to life in prison in the Philippines for human trafficking and rape has been given an extra 129-year sentence for sexually abusing children as young as 18 months, according to prosecutors.
+

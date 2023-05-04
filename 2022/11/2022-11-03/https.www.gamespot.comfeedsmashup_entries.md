@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## God Of War Ragnarok PS5 vs PS4 Comparison
  - [https://www.gamespot.com/videos/god-of-war-ragnarok-ps5-vs-ps4-comparison/2300-6459921/](https://www.gamespot.com/videos/god-of-war-ragnarok-ps5-vs-ps4-comparison/2300-6459921/)
@@ -356,3 +356,4 @@
  - date published: 2022-11-03 05:23:00+00:00
 
 <p>343 Industries has revealed more about the <a href="https://www.gamespot.com/games/halo-infinite/">Halo Infinite</a> Winter Update that's scheduled to drop on November 8, this time introducing a whole lot of weapon balance fixes that'll be coming to the sandbox mode. A few weapons will be getting buffs to encourage players to use them more, while overperforming weapons will see small nerfs--here's what's changing.</p><p>Community manager Unyshek explains in the <a href="https://www.halowaypoint.com/news/sandbox-balance-updates-winter-update">blog post</a> that 343 has started looking at weapon balance in Halo Infinite's sandbox now that players are a little more familiar with the gameplay. Looking at both player feedback and hard data on how weapons are getting used in game, six of Halo Infinite's weapons are getting tweaked for better or for worse.</p><p>The Plasma Pistol and Disruptor are both getting upgrades that 343 hopes will increase their use and effectiveness in game, while the Pulse Carbine and VK78 Commando have both been tweaked to increase effectiveness at shorter ranges. In line for a nerf this update are both the BR75 and Frag Grenade, which will be getting minor downgrades in the interest of competitiveness. The full dev notes on balance changes and the rationale behind them can be read on <a href="https://www.halowaypoint.com/news/sandbox-balance-updates-winter-update">343's blog</a>.</p><a href="https://www.gamespot.com/articles/halo-infinites-winter-update-is-bringing-heaps-of-weapon-balance-changes/1100-6508857/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

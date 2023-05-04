@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## World Cup 2022: What has and hasn’t been banned in Qatar?
  - [https://www.bbc.co.uk/news/world-63735559?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63735559?at_medium=RSS&at_campaign=KARANGA)
@@ -643,3 +643,4 @@ The founders of Seatfrog share their business advice for the CEO Secrets series.
  - date published: 2022-11-23 00:02:17+00:00
 
 Millions of people will receive help with energy bills over the coming weeks and months.
+

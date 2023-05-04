@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Mufasa: The Lion King' Unveiled at Disney's D23     - CNET
  - [https://www.cnet.com/culture/entertainment/mufasa-the-lion-king-unveiled-at-disneys-d23/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/mufasa-the-lion-king-unveiled-at-disneys-d23/#ftag=CADf328eec)
@@ -937,3 +937,4 @@ Perhaps the most well-known full moon of the year signals the end of summer in t
  - date published: 2022-09-09 00:01:00+00:00
 
 The space agency hopes to fix a leak on the launch pad and get the green light for a long-awaited blastoff.
+

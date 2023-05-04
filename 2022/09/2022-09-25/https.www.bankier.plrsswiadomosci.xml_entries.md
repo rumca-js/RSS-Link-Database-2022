@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Michał Pierończyk został wybrany prezydentem Rudy Śląskiej
  - [https://www.bankier.pl/wiadomosc/Michal-Pieronczyk-zostal-wybrany-prezydentem-Rudy-Slaskiej-8411655.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Michal-Pieronczyk-zostal-wybrany-prezydentem-Rudy-Slaskiej-8411655.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -212,3 +212,4 @@ agencja Belga. Z badania wynika, że Belgowie częściej robią też zakupy w
  - date published: 2022-09-25 02:12:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/c/9b60f3740b5d2d-948-568-0-202-3000-1799.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Chiny i Indie wezwały w sobotę podczas obrad Zgromadzenia Ogólnego ONZ do zakończenie wojny na Ukrainie i pokojowego rozwiązania kryzysu.</p>
+

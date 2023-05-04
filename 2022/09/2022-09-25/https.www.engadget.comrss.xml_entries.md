@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## iPhone 15 'Ultra' could replace next year's Pro Max model
  - [https://www.engadget.com/iphone-15-ultra-report-211709352.html?src=rss](https://www.engadget.com/iphone-15-ultra-report-211709352.html?src=rss)
@@ -34,3 +34,4 @@
  - date published: 2022-09-25 15:00:16+00:00
 
 <p>Yes, robots are coming to take our jobs. That's a good thing, we should be happy they are because those jobs they're taking kinda suck. Do you really want to go back to the days of <em>manually</em> monitoring, flagging and investigating the world's daily bank transfers in search of financial fraud and money laundering schemes? DBS Bank, Singapore's largest financial institution, certainly doesn't. The company has spent years developing a cutting-edge machine learning system that heavily auto
+

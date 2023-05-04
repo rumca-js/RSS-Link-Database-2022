@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## When Will Call of Duty Be On Game Pass? | GameSpot News
  - [https://www.gamespot.com/videos/when-will-call-of-duty-be-on-game-pass-gamespot-news/2300-6459800/](https://www.gamespot.com/videos/when-will-call-of-duty-be-on-game-pass-gamespot-news/2300-6459800/)
@@ -412,3 +412,4 @@
  - date published: 2022-10-19 00:29:00+00:00
 
 <p>A Plague Tale: Requiem has finally released on consoles and PC. If you're interested in picking up the stealth-adventure sequel on PC, you can get a good deal right now on a Steam key--as long as you don't buy directly from Steam. <span class="norewrite">           <a href="https://greenmangaming.sjv.io/c/159047/1219987/15105?&amp;sharedId=gamespot&amp;u=https://www.greenmangaming.com/games/a-plague-tale-requiem-pc/&amp;subId1=[subid_value]">Green Man Gaming</a> </span> and <span class="norew
+

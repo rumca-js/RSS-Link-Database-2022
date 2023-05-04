@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## IMGW ostrzega przed mgłami. Widoczność ograniczona nawet do 100 metrów
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29092669,imgw-po-raz-kolejny-ostrzega-przed-mglami-widocznosc-ograniczona.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29092669,imgw-po-raz-kolejny-ostrzega-przed-mglami-widocznosc-ograniczona.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-10-31 05:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/86/74/1a/z27740294M,Wszystkich-Swietych-w-Warszawie--Dodatkowe-linie-c.jpg" vspace="2" />Warszawski Transport Publiczny wprowadził wiele zmian w kursowaniu autobusów i tramwajów od 26 października do 2 listopada. Dzięki temu mieszkańcy będą mieli lepszy dojazd w pobliże cmentarzy. Jakie zmiany wprowadzono?
+

@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. Po starcie z samolotu posypały się iskry. Musiał awaryjnie lądować
  - [https://www.polsatnews.pl/wiadomosc/2022-09-23/usa-zaraz-po-starcie-z-samolotu-posypaly-sie-iskry-musial-awaryjnie-ladowac/](https://www.polsatnews.pl/wiadomosc/2022-09-23/usa-zaraz-po-starcie-z-samolotu-posypaly-sie-iskry-musial-awaryjnie-ladowac/)
@@ -97,3 +97,4 @@ Rosjanie masowo uciekają z kraju po ogłoszonej w środę przez Władimira Puti
  - date published: 2022-09-23 04:11:00+00:00
 
 Jeżeli rosyjscy przywódcy, Putin i jego otoczenie, zdecydowaliby się na taki desperacki, szalony bym powiedział krok, znajdą się poza wszelkim nawiasem, dla społeczności cywilizowanego, demokratycznego, uczciwego świata, jak gdyby przestali istnieć - powiedział prezydent Andrzej Duda, odnosząc się do gróźb prezydenta Rosji o użyciu broni jądrowej.
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## How Covid Myths Spread on Far-Right Social Media Platforms
  - [https://www.nytimes.com/2022/11/22/us/politics/covid-misinformation-gab.html](https://www.nytimes.com/2022/11/22/us/politics/covid-misinformation-gab.html)
@@ -27,3 +27,4 @@ A substantial amount of the company’s assets are missing, an FTX lawyer told a
  - date published: 2022-11-22 17:01:00+00:00
 
 Corporate governance experts say the electric-car maker’s directors may need to rein in the chief executive, with whom many have personal ties.
+

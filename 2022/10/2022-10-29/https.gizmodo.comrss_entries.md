@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Liam Hemsworth Will Replace Henry Cavill on The Witcher
  - [https://gizmodo.com/liam-hemsworth-will-replace-henry-cavill-on-the-witcher-1849719658](https://gizmodo.com/liam-hemsworth-will-replace-henry-cavill-on-the-witcher-1849719658)
@@ -41,3 +41,4 @@
  - date published: 2022-10-29 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--FTtkOdnH--/c_fit,fl_progressive,q_80,w_636/f0867a2881104bd2777680127e2e3404.jpg" /><p><a href="https://gizmodo.com/how-oni-developed-it-s-animation-1849704382">Read more...</a></p>
+

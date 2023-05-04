@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best desktop PC deals right now: October 2022
  - [https://www.zdnet.com/article/best-desktop-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-desktop-deals/#ftag=RSSbaffb68)
@@ -167,3 +167,4 @@ The Nitro gaming laptop range is currently on sale.
  - date published: 2022-10-14 07:52:38+00:00
 
 Singapore telco introduces a mobile service that lets users share access to their Fitbit data and enable a network of caregivers, including family doctors and healthcare institutions, to support their healthcare management.
+

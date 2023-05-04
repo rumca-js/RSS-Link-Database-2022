@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Indonesia Earthquake Photos Show Wide Damage
  - [https://www.nytimes.com/2022/11/21/world/asia/indonesia-earthquake-java-photos.html](https://www.nytimes.com/2022/11/21/world/asia/indonesia-earthquake-java-photos.html)
@@ -125,3 +125,4 @@ The kingdom is working to keep fossil fuels at the center of the world economy f
  - date published: 2022-11-21 05:54:59+00:00
 
 A nightclub shooting in Colorado kills five.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Elbląg. W zakładzie pogrzebowym pomylono ciała. Skremowano nie tego zmarłego
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29089324,elblag-w-zakladzie-pogrzebowym-pomylono-ciala-skremowano-nie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29089324,elblag-w-zakladzie-pogrzebowym-pomylono-ciala-skremowano-nie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -97,3 +97,4 @@
  - date published: 2022-10-30 08:26:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/32/9c/1a/z27905586M.jpg" vspace="2" />Nie wrogie ani przyjazne, ale neutralne - według największej liczby ankietowanych właśnie takie nastawienie mają Niemcy do Polski. Większość osób, które tak uważają to młodzi ludzie, którzy nie ukończyli jeszcze 25. roku życia.
+

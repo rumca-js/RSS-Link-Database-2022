@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Indonezja. Żołnierz przeżył upadek z prawie 500 metrów. Nie zadziałał spadochron
  - [https://www.polsatnews.pl/wiadomosc/2022-11-14/indonezja-zolnierz-przezyl-upadek-z-prawie-500-metrow-nie-zadzialal-spadochron/](https://www.polsatnews.pl/wiadomosc/2022-11-14/indonezja-zolnierz-przezyl-upadek-z-prawie-500-metrow-nie-zadzialal-spadochron/)
@@ -104,3 +104,4 @@ Piosenkarka Dua Lipa zaprzecza, jakoby miała wystąpić na ceremonii otwarcia m
  - date published: 2022-11-14 05:34:00+00:00
 
 Osoba, która zostawiła bombę, została zatrzymana przez policję - poinformował w poniedziałek po północy Suleyman Soylu, minister spraw wewnętrznych Turcji, podała rządowa agencja Anadolu na Twitterze. Dodał, że za atak odpowiada Partia Pracujących Kurdystanu. Wybuch w pobliżu ruchliwego placu Taksim w centrum Stambułu zabił co najmniej sześć osób, a 81 zranił.
+

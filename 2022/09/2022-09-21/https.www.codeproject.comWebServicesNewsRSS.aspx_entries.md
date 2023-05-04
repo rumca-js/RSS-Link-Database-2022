@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A VM that can get around Windows 11's hypervisor and VT security nonsense?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58948](https://www.codeproject.com/script/News/View.aspx?nwid=58948)
@@ -76,3 +76,4 @@ It's the pause (and reboots) that refreshes
  - date published: 2022-09-21 04:00:00+00:00
 
 "Everybody's taking the chance"
+

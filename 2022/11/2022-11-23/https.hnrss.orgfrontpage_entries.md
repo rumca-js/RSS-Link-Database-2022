@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## HTTPS Reverse Proxy: Caddy Outperforms Nginx 4x
  - [https://manishrjain.com/reverse-proxy-caddy-nginx](https://manishrjain.com/reverse-proxy-caddy-nginx)
@@ -619,7 +619,6 @@ Do you think I should keep working on the project?</p>
  - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-23 07:23:30+00:00
- - tags: internet,internet rot,wikileaks
 
 <p>Article URL: <a href="https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/">https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33716201">https://news.ycombinator.com/item?id=33716201</a></p>
@@ -786,3 +785,4 @@ Do you think I should keep working on the project?</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33713612">https://news.ycombinator.com/item?id=33713612</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+

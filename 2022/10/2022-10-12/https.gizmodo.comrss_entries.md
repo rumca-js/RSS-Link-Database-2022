@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Zack Snyder's Justice League Will Hit One Theater, Thanks to Kevin Smith
  - [https://gizmodo.com/zack-snyder-justice-league-movie-screening-kevin-smith-1849650264](https://gizmodo.com/zack-snyder-justice-league-movie-screening-kevin-smith-1849650264)
@@ -251,3 +251,4 @@
  - date published: 2022-10-12 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--6ZTf2ZFV--/c_fit,fl_progressive,q_80,w_636/0e5f6598d16779d772fcca74e2713d6c.png" /><p>During his spotlight at <a href="https://gizmodo.com/kim-jung-gi-memorial-new-york-comic-con-1849636185">New York Comic Con</a>, <a href="https://gizmodo.com/moon-knight-oscar-isaac-season-2-rumors-nycc-1849638165">Oscar Isaac</a> brought on stage a couple of his <a href="https://gizmodo.com/chilling-adventures-of-salem-sabrina-archie-comics-1849642
+

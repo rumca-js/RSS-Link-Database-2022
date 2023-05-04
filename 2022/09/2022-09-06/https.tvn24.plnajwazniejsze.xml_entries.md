@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Niesamowity mecz Szachtara w Lidze Mistrzów. Wysoko wygrał też Real Madryt
  - [https://eurosport.tvn24.pl/niesamowity-mecz-szachtara-w-lidze-mistrz-w--wysoko-wygra--te--real-madryt,1117681.html?source=rss](https://eurosport.tvn24.pl/niesamowity-mecz-szachtara-w-lidze-mistrz-w--wysoko-wygra--te--real-madryt,1117681.html?source=rss)
@@ -231,3 +231,4 @@
 
 <img alt="Świątek z życiowym sukcesem, ale wciąż " src="https://tvn24.pl/najnowsze/cdn-zdjecie-yz3lni-iga-swiatek-awansowala-do-cwiercfinalu-us-open-2022-6099232/alternates/LANDSCAPE_1280" />
     Liderka rankingu WTA po niezwykle trudnym meczu pokonała w poniedziałek Niemkę Jule Niemeier i po raz pierwszy zameldowała się w najlepszej ósemce nowojorskiej imprezy.
+

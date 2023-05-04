@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Tesla Cuts Delivery Waiting Time for All Model 3, Model Y Cars
  - [https://www.theepochtimes.com/tesla-cuts-delivery-waiting-time-for-all-model-3-model-y-cars_4866525.html](https://www.theepochtimes.com/tesla-cuts-delivery-waiting-time-for-all-model-3-model-y-cars_4866525.html)
@@ -27,3 +27,4 @@ People walk past a shop front for Medibank in Sydney, Australia, on Nov. 11, 202
  - date published: 2022-11-16 09:38:35+00:00
 
 Elon Musk's account and the Twitter logo on Oct. 28, 2022. (Dado Ruvic/Illustration/Reuters)
+

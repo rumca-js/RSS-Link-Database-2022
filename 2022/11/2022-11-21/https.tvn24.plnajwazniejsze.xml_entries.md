@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Kapitan nie nałożył tęczowej opaski. Zrobiła to za niego ekspertka
  - [https://eurosport.tvn24.pl/kapitan-nie-na-o-y--t-czowej-opaski--zrobi-a-to-za-niego-reporterka,1125612.html?source=rss](https://eurosport.tvn24.pl/kapitan-nie-na-o-y--t-czowej-opaski--zrobi-a-to-za-niego-reporterka,1125612.html?source=rss)
@@ -239,3 +239,4 @@
 
 <img alt="Europa wchodzi do gry. Drugi dzień mundialu w Katarze" src="https://tvn24.pl/najnowsze/cdn-zdjecie-1f9s9c-w-poniedzialek-trzy-mecze-na-mundialu/alternates/LANDSCAPE_1280" />
     Kto zagra?
+

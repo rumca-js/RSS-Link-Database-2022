@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## New malware can steal your credit card details — and it’s spreading fast
  - [https://www.digitaltrends.com/computing/erbium-password-stealing-malware-subscription/](https://www.digitaltrends.com/computing/erbium-password-stealing-malware-subscription/)
@@ -34,3 +34,4 @@ We'll bring you live updates from Intel's Innovation event today, where the comp
  - date published: 2022-09-27 00:29:04.309137+00:00
 
 We could see everything from a 15-inch MacBook Air to an M3 iMac to a VR headset, but we'll need to wait until next year.
+

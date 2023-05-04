@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Moskwa: Każde gospodarstwo skorzysta z zamrożonej ceny prądu do 2000 kWh
  - [https://www.bankier.pl/wiadomosc/Moskwa-Kazde-gospodarstwo-skorzysta-z-zamrozonej-ceny-pradu-do-2000-kWh-8410512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Moskwa-Kazde-gospodarstwo-skorzysta-z-zamrozonej-ceny-pradu-do-2000-kWh-8410512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -446,3 +446,4 @@ węgiel kamienny. </p>
  - date published: 2022-09-22 00:06:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/2/9e0ac9bffefc57-948-568-7-15-2992-1795.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Przeciwko Ukrainie została popełniona zbrodnia i żądamy za nią sprawiedliwej kary - powiedział w środę prezydent Ukrainy Wołodymyr Zełenski w wirtualnym wystąpieniu przed Zgromadzeniem Ogólnym ONZ. Jak dodał, Ukraina wkrótce przedstawi w ONZ propozycję stworzenia specjalnego t
+

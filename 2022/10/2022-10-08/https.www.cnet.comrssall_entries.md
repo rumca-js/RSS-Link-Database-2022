@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## How to See the Draconid Meteor Shower Breathe Fire This Weekend     - CNET
  - [https://www.cnet.com/science/space/how-to-see-the-draconid-meteor-shower-breathe-fire-this-weekend/#ftag=CADf328eec](https://www.cnet.com/science/space/how-to-see-the-draconid-meteor-shower-breathe-fire-this-weekend/#ftag=CADf328eec)
@@ -475,3 +475,4 @@ The Disney Plus Star Wars show brings Cassian deeper into the rebel fold, but th
  - date published: 2022-10-08 00:00:02+00:00
 
 WWE goes extreme this Saturday.
+

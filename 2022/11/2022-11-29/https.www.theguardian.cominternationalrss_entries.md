@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Christian Pulisic taken to hospital after scoring USA winner against Iran
  - [https://www.theguardian.com/football/2022/nov/29/christian-pulisic-injury-usa-iran-netherlands-world-cup-qatar-soccer](https://www.theguardian.com/football/2022/nov/29/christian-pulisic-injury-usa-iran-netherlands-world-cup-qatar-soccer)
@@ -1070,3 +1070,4 @@
  - date published: 2022-11-29 00:04:02+00:00
 
 <p>Some officials who embrace voter fraud theories held out despite no evidence of anything wrong with the count earlier this month</p><p>Republican officials in a rural Arizona county refused on Monday to certify the results of the <a href="https://www.theguardian.com/us-news/us-midterm-elections-2022">2022 midterm election</a>, despite no evidence of anything wrong with the count from earlier this month.</p><p>Some officials who have embraced voter fraud theories held out, defying a state deadline and setting the stage for a legal battle.</p> <a href="https://www.theguardian.com/us-news/2022/nov/28/republicans-arizona-county-refuse-to-certify-midterm-election-results">Continue reading...</a>
+

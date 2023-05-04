@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Artosis, StarCraft’s esports casting godfather, moves on
  - [https://www.washingtonpost.com/video-games/2022/10/17/artosis-retires-starcraft-2-gsl/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/17/artosis-retires-starcraft-2-gsl/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ What makes an Android smartphone or tablet truly yours is the apps you use on it
  - date published: 2022-10-17 04:11:00+00:00
 
 A fire caused a days-long outage of Kakao's messaging, payment and ride-hailing apps. President Yoon Suk-yeol said antitrust concerns would be addressed.
+

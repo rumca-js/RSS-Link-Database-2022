@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Putin to Announce Ukraine Annexation Plans on Friday
  - [https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html](https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html)
@@ -223,3 +223,4 @@ Sean Turnell, arrested five days after the military seized power in a coup, has 
  - date published: 2022-09-29 04:56:51+00:00
 
 A veneer of respectability over Moscow’s land grab.
+

@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. 26-latek zastrzelony podczas jazdy na rowerze. "Jechał zastrzelić kogoś innego"
  - [https://www.polsatnews.pl/wiadomosc/2022-11-01/usa-26-latek-zastrzelony-podczas-jazdy-na-rowerze-jechal-zastrzelic-kogos-innego/](https://www.polsatnews.pl/wiadomosc/2022-11-01/usa-26-latek-zastrzelony-podczas-jazdy-na-rowerze-jechal-zastrzelic-kogos-innego/)
@@ -74,7 +74,6 @@ Popularny amerykański raper Kirshnik Khari Ball, znany bardziej jako TakeOff, z
  - [https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/](https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-01 10:45:00+00:00
- - tags: poland,energy crisis
 
 Minister aktywów państwowych, wicepremier Jacek Sasin oraz szefowie polskich spółek ZE PAK i PGE odwiedzili plac budowy nowych reaktorów w działającej już elektrowni atomowej w Korei Południowej. Takie same reaktory mogą stanąć w wielkopolskim Pątnowie.
 
@@ -91,3 +90,4 @@ Rosyjski miliarder, założyciel Tinkoff Bank Oleg Tińkow poinformował, że zr
  - date published: 2022-11-01 08:12:00+00:00
 
 Niemiecka topmodelka Heidi Klum co roku stara się zrobić wrażenie swoim strojem na Halloween. Nie inaczej było tym razem. 49-letnia gwiazda podczas tegorocznego święta przebrała się za wielkiego robaka.
+

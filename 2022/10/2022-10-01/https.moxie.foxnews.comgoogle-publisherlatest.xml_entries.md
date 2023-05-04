@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Obama judge slaps down Stacey Abrams election lawsuit in state Biden labeled ‘Jim Crow 2.0’
  - [https://www.foxnews.com/politics/obama-judge-slaps-down-stacey-abrams-election-lawsuit-state-biden-labeled-jim-crow-2-0](https://www.foxnews.com/politics/obama-judge-slaps-down-stacey-abrams-election-lawsuit-state-biden-labeled-jim-crow-2-0)
@@ -685,3 +685,4 @@ Two Democratic New York City leaders this week urged small business owners to tr
  - date published: 2022-10-01 00:08:16+00:00
 
 Nick Cannon has welcomed his 10th child. The actor took to Instagram to share the news of his son, Rise, just two weeks after he welcomed his ninth child, daughter Onyx.
+

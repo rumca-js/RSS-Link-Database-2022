@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Call of Duty based some maps on real places. Not everyone was happy.
  - [https://www.washingtonpost.com/video-games/2022/11/02/modern-warfare-2-valderas-getty-breenbergh/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/02/modern-warfare-2-valderas-getty-breenbergh/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Foxconn is struggling to contain an exodus of workers at the plant making half t
  - date published: 2022-11-02 01:48:02+00:00
 
 Elon Musk pledged not to restore banned accounts — such as former president Donald Trump’s — to the platform until after the midterm elections.
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Google will pay Arizona $85 million over illegally tracking Android users
  - [https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss](https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss)
@@ -139,3 +139,4 @@
  - date published: 2022-10-05 05:03:28+00:00
 
 <p><a href="https://www.engadget.com/overwatch-2-free-to-play-early-access-date-174155851.html"><em>Overwatch 2's</em> early access launch</a> has been marred by a few bugs and a massive DDoS attack preventing players from getting into the game. Fans have been reporting getting stuck on the loading screen and getting one error after another. They're also put in queue behind hundreds — and in some cases, even <a href="https://twitter.com/TehTiitan/status/1577508061262270465">tens of thousands</a>
+

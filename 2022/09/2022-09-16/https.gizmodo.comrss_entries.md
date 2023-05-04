@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Coinbase Launches Pro-Crypto Politician Identifier After Banning Talk of Politics
  - [https://gizmodo.com/coinbase-launches-pro-crypto-politician-identifier-1849547458](https://gizmodo.com/coinbase-launches-pro-crypto-politician-identifier-1849547458)
@@ -307,3 +307,4 @@
  - date published: 2022-09-16 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--_elPEGmt--/c_fit,fl_progressive,q_80,w_636/957075f62ecb3c5630ac80d8312bbcde.jpg" /><p>Save your tears and face your fears during <a href="https://gizmodo.com/universal-hollywood-halloween-horror-nights-preview-1849462835">Halloween Horror Nights at Universal Studios Hollywood</a> by knowing exactly what you’re going to want to hit <em>before</em> attending the hot haunt ticket. </p><p><a href="https://gizmodo.com/halloween-nope-the-w
+

@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA: Poćwiartowana i wypatroszona leżała w sypialni. Mąż z demencją oskarżony o morderstwo
  - [https://www.polsatnews.pl/wiadomosc/2022-11-27/usa-pocwiartowana-i-wypatroszona-lezala-w-sypialni-maz-z-demencja-oskarzony-o-morderstwo/](https://www.polsatnews.pl/wiadomosc/2022-11-27/usa-pocwiartowana-i-wypatroszona-lezala-w-sypialni-maz-z-demencja-oskarzony-o-morderstwo/)
@@ -76,3 +76,4 @@ Sztab generalny Sił Zbrojnych Ukrainy ostrzega przed kolejną tajną mobilizacj
  - date published: 2022-11-27 05:09:00+00:00
 
 Khorry Ramey walczyła o prawo do oglądania egzekucji swojego ojca - przekazały media. Jak zdecydował sąd, 19-latka jest zbyt młoda, aby być świadkiem wykonania kary śmierci. Kobieta argumentowała, że ma bardzo silną więź ze swoim ojcem.
+

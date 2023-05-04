@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Ohio man charged with federal hate crime for anti-Asian assault: 'Go back to your country'
  - [https://www.foxnews.com/us/ohio-man-charged-with-federal-hate-crime-for-anti-asian-assault-go-back-to-your-country](https://www.foxnews.com/us/ohio-man-charged-with-federal-hate-crime-for-anti-asian-assault-go-back-to-your-country)
@@ -797,3 +797,4 @@ Pennsylvania Republicans wrote to the secretary of state with concerns about the
  - date published: 2022-11-05 00:17:27+00:00
 
 The Senate plan written by Marco Rubio of Florida is the closest Congress has come to implementing permanent Daylight Saving Time in the U.S. in decades.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Miscarriage: 'Being told there's no baby, the world just stops'
  - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63254284?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63254284?at_medium=RSS&at_campaign=KARANGA)
@@ -363,3 +363,4 @@ The new chancellor's plan to delay Liz Truss's income tax cut dominates Sunday's
  - date published: 2022-10-16 01:12:46+00:00
 
 More than a thousand teddies left at royal residences by members of the public will go to a children's charity.
+

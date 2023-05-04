@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Amy Schumer airs an abortion tourism ad to promote an alleged comedy show
  - [https://www.louderwithcrowder.com/amy-schumer-inside-colorado](https://www.louderwithcrowder.com/amy-schumer-inside-colorado)
@@ -41,3 +41,4 @@
  - date published: 2022-09-30 12:19:35+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31847435&amp;width=1245&amp;height=700&amp;coordinates=0%2C59%2C0%2C59" /><br /><br /><p>In the liberal city of Austin, where people from the liberal state of California move to and vote for the same policies that caused them to leave California, a roving gang of porch pirates are on the loose. It's the same group of guys hitting houses. We have the ring camera evidence, yet we don't have any arrests. One woman decided to tea
+

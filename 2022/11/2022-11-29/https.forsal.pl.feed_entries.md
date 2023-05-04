@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Ciemno wszędzie, zimno wszędzie, czyli studia w 2023 r.
  - [https://forsal.pl/lifestyle/edukacja/artykuly/8599164,uczelnie-oszczedzanie-energii-wody-studenci.html](https://forsal.pl/lifestyle/edukacja/artykuly/8599164,uczelnie-oszczedzanie-energii-wody-studenci.html)
@@ -643,3 +643,4 @@
  - date published: 2022-11-29 05:30:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/8fEktkuTURBXy8zZTFiZDhiZC1kOGRhLTQwMDQtOWQyYS0zNDAyODEzYWJhNGUuanBlZ5GTBc0BHcyg" />W październiku przyspieszył spadek cen mieszkań w Szwecji. Tamtejszy rynek nieruchomości jest dotknięty najpoważniejszym kryzysem na od trzech dekad. Skandynawski przypadek pokazuje, co może czekać wiele innych rozwiniętych gospodarek.
+

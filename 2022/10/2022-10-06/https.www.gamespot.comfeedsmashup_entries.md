@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Blizzard Provides Update After Messy Overwatch 2 Launch | GameSpot News
  - [https://www.gamespot.com/videos/blizzard-provides-update-after-messy-overwatch-2-launch-gamespot-news/2300-6459708/](https://www.gamespot.com/videos/blizzard-provides-update-after-messy-overwatch-2-launch-gamespot-news/2300-6459708/)
@@ -286,3 +286,4 @@
  - date published: 2022-10-06 06:30:00+00:00
 
 <p dir="ltr">Those waiting for Niantic to shed some light on the next big <a href="https://www.gamespot.com/games/pokemon-go/">Pokemon Go</a> event are in luck, as the company has released details on the Festival of Light, which begins October 14 at 10 AM local time and runs until October 17 at 8 PM local time.</p><p dir="ltr">Morelull and Shiinotic, the mushroom-like Pokemon from the Alola region, will make their Pokemon Go debut during the Festival of Light event. Morelull will appear in the w
+

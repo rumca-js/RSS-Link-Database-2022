@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## Wykradziono kod GTA. Rockstar zhackowany
  - [https://niebezpiecznik.pl/post/wykradziono-kod-gta-rockstar-zhackowany/](https://niebezpiecznik.pl/post/wykradziono-kod-gta-rockstar-zhackowany/)
@@ -20,3 +20,4 @@
  - date published: 2022-09-18 15:21:56+00:00
 
 <a href="https://niebezpiecznik.pl/post/uwaga-na-sms-od-pge/"><img align="left" alt="" class="alignleft tfe wp-post-image" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/09/scam-pge-150x150.png" width="100" /></a>Typ ataku: phishing (SMS) Zagrożenie: utrata pieniędzy Użyte marki: PGE Ruszyła kolejna fala ataków wyłudzających pieniądze pod pretekstem niedopłaty do rachunku za prąd &#8212; przestępcy w SMS-ach podszywają się pod PGE. Po liczbie zgłoszeń od Was wnios
+

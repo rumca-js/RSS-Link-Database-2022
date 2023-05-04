@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Asus prezentuje laptopa ROG Strix SCAR 17 SE z procesorem Intel Core 12. generacji i ekranem 240 Hz
  - [https://ithardware.pl/aktualnosci/asus_prezentuje_laptopa_rog_strix_scar_17_se_z_procesorem_intel_core_12_generacji_i_ekranem_240_hz-23126.html](https://ithardware.pl/aktualnosci/asus_prezentuje_laptopa_rog_strix_scar_17_se_z_procesorem_intel_core_12_generacji_i_ekranem_240_hz-23126.html)
@@ -167,3 +167,4 @@ Na...
 
 <img src="https://ithardware.pl/artykuly/min/23108_1.jpg" />            Czujecie, że Wasz sprzęt spowalnia? Potrzebujecie dla niego dodatkowego powera? Doskonale się składa, bo w tym tygodniu w sklepie x-kom rusza znana i lubiana promocja &ndash; Tydzień komponent&oacute;w. Kupicie w niej najlepsze podzespoły,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/promocja_w_x_komie_akcesoria_i_komponenty_w_jeszcze_nizszych_cenach-23108.html">https://ithardware.pl/aktua
+

@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## The Pandemic Bike Boom Survives—in Cities That Stepped Up
  - [https://www.wired.com/story/the-pandemic-bike-boom-survives-in-cities-that-stepped-up/](https://www.wired.com/story/the-pandemic-bike-boom-survives-in-cities-that-stepped-up/)
@@ -13,3 +13,4 @@ Covid lockdowns prompted a surge of new cyclists. But the trend has faltered in 
  - date published: 2022-11-14 12:00:00+00:00
 
 People fleeing Twitter have turned to Eugen Rochko’s alternative. He says social networks can support healthy debate—without any one person in control.
+

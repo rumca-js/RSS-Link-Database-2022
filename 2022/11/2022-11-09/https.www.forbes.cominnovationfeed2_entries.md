@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Biden Says The U.S. Should Review Elon Musk’s Relationships With Foreign Governments
  - [https://www.forbes.com/sites/alanohnsman/2022/11/09/biden-says-the-us-should-review-elon-musks-relationships-with-foreign-governments/](https://www.forbes.com/sites/alanohnsman/2022/11/09/biden-says-the-us-should-review-elon-musks-relationships-with-foreign-governments/)
@@ -566,3 +566,4 @@ How to solve today's Wordle. A handy guide for Wednesday, November 9th 2022.
  - date published: 2022-11-09 01:00:00+00:00
 
 A rare meteor outburst could be coming to the night skies across the world if predictions about the Leonids meteor shower come true.
+

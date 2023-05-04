@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Oscar Isaac's Head Wounds: Sparrow Shows a Bad Cop in Spiritual Crisis
  - [https://gizmodo.com/oscar-isaac-comic-book-head-wounds-sparrow-nycc-1849645298](https://gizmodo.com/oscar-isaac-comic-book-head-wounds-sparrow-nycc-1849645298)
@@ -328,3 +328,4 @@
  - date published: 2022-10-11 00:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--imSvsifp--/c_fit,fl_progressive,q_80,w_636/7041bdd28ae83311b1727be5a393ac2a.jpg" /><p><a href="https://gizmodo.com/horror-halloween-decor-fashion-code-orange-1849431969">Halloween</a> is a few short weeks away, and it’s time to make your final costume selections. Trust me, at this point most aisles have been cleared of <a href="https://gizmodo.com/horror-halloween-decor-shopping-guide-code-orange-1849368927">decor</a> and that’s beca
+

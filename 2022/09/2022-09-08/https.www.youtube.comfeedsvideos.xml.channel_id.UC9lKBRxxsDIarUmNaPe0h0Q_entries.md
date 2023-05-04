@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## The financial superbubble that could kill America (is happening NOW)
  - [https://www.youtube.com/watch?v=1jYdVZAur6o](https://www.youtube.com/watch?v=1jYdVZAur6o)
@@ -45,3 +45,4 @@ Presented by Sorelle Amore.
 Written by Leon Hill.
 
 #Superbubble #stockmarket #financialcollapse
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## A Demon Comes Creeping in Horror Short Midnight Talk
  - [https://gizmodo.com/horror-short-film-midnight-talk-demons-rituals-scary-1849828858](https://gizmodo.com/horror-short-film-midnight-talk-demons-rituals-scary-1849828858)
@@ -307,3 +307,4 @@
  - date published: 2022-11-28 07:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--1qEJmbYN--/c_fit,fl_progressive,q_80,w_636/211c6026fbab07653ffc9ffd97e18359.jpg" /><p>Houston, Texas issued a boil water notice on Sunday night for over 2.2 million people after a power outage occurred at three water treatment facilities on Sunday morning. Residents of Houston should boil all water used for drinking, bathing, or even just brushing teeth, for at least three minutes, according to a <a href="https://twitter.com/HoustonTX/status/1597039399174565888" rel="noopener noreferrer" target="_blank">tweet</a>…</p><p><a href="https://gizmodo.com/houston-school-isd-boil-water-notice-cancel-tceq-tdem-1849825274">Read more...</a></p>
+

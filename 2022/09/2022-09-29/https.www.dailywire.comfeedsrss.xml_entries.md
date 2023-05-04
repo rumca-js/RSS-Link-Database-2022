@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Convenience Store Chain Wawa Accuses New Jersey Dem Politician Of Stealing Infamous Goose Logo
  - [https://www.dailywire.com/news/convenience-store-chain-wawa-accuses-new-jersey-dem-politician-of-stealing-infamous-goose-logo](https://www.dailywire.com/news/convenience-store-chain-wawa-accuses-new-jersey-dem-politician-of-stealing-infamous-goose-logo)
@@ -517,3 +517,4 @@ New Zealand Prime Minister Jacinda Ardern called for censoring the internet duri
  - date published: 2022-09-29 07:21:30+00:00
 
 Law enforcement officials have reportedly indicated that no drugs were found at the scene where rapper Coolio was found dead Wednesday afternoon. TMZ reported that the rapper, whose real name is Artis Leon Ivey Jr., died while visiting a friend. He reportedly went to use the bathroom at his friend’s house and did not come back ...
+

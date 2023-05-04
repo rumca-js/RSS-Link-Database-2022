@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## A Mysterious Suicide Lures Ex-Spy And English Professor Cameron Winter Back Into Action
  - [https://www.dailywire.com/news/a-mysterious-suicide-lures-ex-spy-and-english-professor-cameron-winter-back-into-action](https://www.dailywire.com/news/a-mysterious-suicide-lures-ex-spy-and-english-professor-cameron-winter-back-into-action)
@@ -447,3 +447,4 @@ The Peach State is reverting to red, according to a new Trafalgar/Daily Wire pol
  - date published: 2022-10-25 00:02:01+00:00
 
 Daily Wire Host Matt Walsh made waves at the University of Wisconsin-Madison on Monday night while student activists protested outside after vandalizing a veteran’s memorial on campus. Walsh’s 30 minute lecture was part of the ‘What is a Woman?’ tour sponsored by Young Americans for Freedom, a series expanding upon his widely acclaimed film of ...
+

@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## The Full Plan For Artemis Part 3: The Moon Base And Beyond
  - [https://www.youtube.com/watch?v=rU_LiVJp3xg](https://www.youtube.com/watch?v=rU_LiVJp3xg)
@@ -64,3 +64,4 @@ TIMESTAMPS -
 11:31 - LunaNet
 12:49 - The Ultimate Goal - Mars
 15:41 - Sponsor - Henson Shaving
+

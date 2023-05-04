@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Problemy z wypłatą dodatku węglowego. Kiedy dostaniesz 3 tys. zł? "Pieniędzy nie ma"
  - [https://wydarzenia.interia.pl/kraj/news-problemy-z-wyplata-dodatku-weglowego-kiedy-dostaniesz-3-tys-,nId,6295317](https://wydarzenia.interia.pl/kraj/news-problemy-z-wyplata-dodatku-weglowego-kiedy-dostaniesz-3-tys-,nId,6295317)
@@ -27,3 +27,4 @@
  - date published: 2022-09-19 05:48:55+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-resort-ziobry-szykuje-zmiany-dla-osadzonych-wiezienie-to-nie,nId,6294889"><img align="left" alt="Resort Ziobry szykuje zmiany dla osadzonych. &quot;Więzienie to nie sanatorium&quot; " src="https://i.iplsc.com/resort-ziobry-szykuje-zmiany-dla-osadzonych-wiezienie-to-nie/000G34FYWL79PSUV-C321.jpg" /></a>- Więzienie to nie będzie hotel czy sanatorium. Każda kara pozbawienia wolności musi się odbywać w takich warunkach, by recydywistom nie było obo
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The Zendure SuperBase V is a power bank for your whole home or electric car
  - [https://www.zdnet.com/home-and-office/the-zendure-superbase-v-is-a-power-bank-for-your-whole-home-or-electric-car/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-zendure-superbase-v-is-a-power-bank-for-your-whole-home-or-electric-car/#ftag=RSSbaffb68)
@@ -153,3 +153,4 @@ Phone cameras are notoriously limited, but adding a phone ring light can help il
  - date published: 2022-11-07 03:51:00+00:00
 
 Sonos speakers can fill your home with your favorite music, offering multi-room listening that is affordable and easy to control. But which are the best Sonos speakers? That's where ZDNET comes in.
+

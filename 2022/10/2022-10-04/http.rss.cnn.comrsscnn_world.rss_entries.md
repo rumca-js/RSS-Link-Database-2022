@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Former Lebanese ambassador holds sit-in at Beirut bank amid new wave of heists
  - [https://www.cnn.com/2022/10/04/middleeast/lebanon-ambassador-beirut-bank-heists-intl/index.html](https://www.cnn.com/2022/10/04/middleeast/lebanon-ambassador-beirut-bank-heists-intl/index.html)
@@ -34,3 +34,4 @@ As protesters took to the streets of Iran following the death in detention of Ma
  - date published: 2022-10-04 03:14:39+00:00
 
 A highly anticipated sexual assault trial began in Australia Tuesday in a case that has raised questions about the culture in the nation's Parliament and the actions of ministers when the claims emerged.
+

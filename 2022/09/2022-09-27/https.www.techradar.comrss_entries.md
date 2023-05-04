@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Microsoft is doing away with passwords for Azure Virtual Desktop
  - [https://www.techradar.com/news/microsoft-is-doing-away-with-passwords-for-azure-virtual-desktop/](https://www.techradar.com/news/microsoft-is-doing-away-with-passwords-for-azure-virtual-desktop/)
@@ -230,3 +230,4 @@ Celebrating 20 years of robot vacuums and over 40m robots, iRobot gives insight 
  - date published: 2022-09-27 04:00:16+00:00
 
 FIFA 23 is almost here. Find out when you can play EA's final FIFA title.
+

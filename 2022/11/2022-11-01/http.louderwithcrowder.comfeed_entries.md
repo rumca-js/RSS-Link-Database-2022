@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Joe Biden confuses Iraq and Ukraine, also confuses brain cancer with his son dying in Iraq
  - [https://www.louderwithcrowder.com/joe-biden-iraq-ukraine](https://www.louderwithcrowder.com/joe-biden-iraq-ukraine)
@@ -173,3 +173,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

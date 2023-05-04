@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## 'I never knew my mother escaped the Holocaust'
  - [https://www.bbc.co.uk/news/uk-england-nottinghamshire-63318112?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-nottinghamshire-63318112?at_medium=RSS&at_campaign=KARANGA)
@@ -559,3 +559,4 @@ US President Joe Biden says it "matters" that the UK will have its first British
  - date published: 2022-10-25 00:25:54+00:00
 
 The WHO says a poll commissioned by the BBC shows the pandemic had "diverse" effects on mental health.
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Android Adaptive Battery: Everything you need to know
  - [https://www.androidauthority.com/android-adaptive-battery-explained-3223097/](https://www.androidauthority.com/android-adaptive-battery-explained-3223097/)
@@ -69,3 +69,4 @@ Plus, lettuce out-lasting former UK PM Liz Truss.
  - date published: 2022-10-21 06:29:19+00:00
 
 India's watchdog took issue with Google's stance on Android forks and forcing OEMs to pre-install apps.
+

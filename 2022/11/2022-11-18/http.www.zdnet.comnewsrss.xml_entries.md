@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Is your iPhone's Always-On display keeping you up? Do this
  - [https://www.zdnet.com/article/is-your-iphones-always-on-display-keeping-you-up-do-this/#ftag=RSSbaffb68](https://www.zdnet.com/article/is-your-iphones-always-on-display-keeping-you-up-do-this/#ftag=RSSbaffb68)
@@ -335,3 +335,4 @@ If you have many devices, a USB hub can help you stay organized. And the best on
  - date published: 2022-11-18 00:02:00+00:00
 
 Black Friday may still be a week away, but we're already seeing incredible Amazon deals. One of the best OLED televisions on the market, the LG C1 Series 65-inch TV is still 34% off. Add it to your cart today to save $853.
+

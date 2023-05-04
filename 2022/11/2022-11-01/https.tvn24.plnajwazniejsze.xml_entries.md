@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Świetny początek Finałów WTA w wykonaniu Świątek. Nie pozostawiła rywalce złudzeń
  - [https://eurosport.tvn24.pl/-wietny-pocz-tek-fina--w-wta-w-wykonaniu--wi-tek--nie-pozostawi-a-rywale-z-udze-,1123311.html?source=rss](https://eurosport.tvn24.pl/-wietny-pocz-tek-fina--w-wta-w-wykonaniu--wi-tek--nie-pozostawi-a-rywale-z-udze-,1123311.html?source=rss)
@@ -247,3 +247,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-5h97dr-jasinska-go3-6188576/alternates/LANDSCAPE_1280" />
     Choroba naszych pacjentów jest obojętna na kryzys, wojnę - mówi Dorota Jasińska, prezeska Fundacji Hospicjum Onkologiczne św. Krzysztofa w Warszawie.
+

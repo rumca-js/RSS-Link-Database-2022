@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Deep Rock Galactic Adds A Spooky Infection To Clean Up In Season 3, Coming This November
  - [https://www.gamespot.com/articles/deep-rock-galactic-adds-a-spooky-infection-to-clean-up-in-season-3-coming-this-november/1100-6508703/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/deep-rock-galactic-adds-a-spooky-infection-to-clean-up-in-season-3-coming-this-november/1100-6508703/?ftag=CAD-01-10abi2f)
@@ -342,3 +342,4 @@
  - date published: 2022-10-27 05:35:00+00:00
 
 <p>Zorua and its evolution Zoroark were meant to have made their debuts in <a href="https://www.gamespot.com/games/pokemon-go/">Pokemon Go</a> this past week, as part of the game's ongoing Halloween events, however the trickster Pokemon has been pulled--or at least delayed, due to a bug.</p><p>In keeping with its nature as a trickster Pokemon, Niantic had planned a <a href="https://www.gamespot.com/articles/zorua-is-coming-to-pokemon-go-today-heres-how-to-catch-it/1100-6508590/">unique event for Zorua's debut</a>, where the Pokemon would appear on the map in the form of the player's buddy Pokemon, only revealing itself as Zorua when caught. The event seemed to run as intended for players in New Zealand, the first time zone to receive Pokemon Go events, however a second spawn didn't occur as planned, and players in Australia saw no sign of Zorua.</p><p><a href="https://twitter.com/NianticHelp/status/1584821087157862401">According to a series of tweets</a> by Niantic Support, the event was bugged, causing caught Zorua to take on the stats--including height, CP, and attacks--of the buddy Pokemon that was originally caught. While some players in early time zones were able to catch Zorua and add it to their Pokedex, the Pokemon that were caught will not be able to be traded, sent to Pokemon Home, or allowed in PVP battles.</p><a href="https://www.gamespot.com/articles/niantic-pulls-zorua-from-pokemon-go-because-of-a-bug/1100-6508668/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

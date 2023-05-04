@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 5 Key enterprise IT trends to watch for 2023
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59554](https://www.codeproject.com/script/News/View.aspx?nwid=59554)
@@ -118,3 +118,4 @@ Not to be confused with the .NET Framework SDK, the WinUI SDK, the Community SDK
  - date published: 2022-11-18 05:00:00+00:00
 
 The fingers don't know how the brain want it to go
+

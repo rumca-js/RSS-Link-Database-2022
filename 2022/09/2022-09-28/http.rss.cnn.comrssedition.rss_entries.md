@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'We can't trust our government': Man joins tens of thousands fleeing Russia's draft
  - [https://www.cnn.com/videos/world/2022/09/28/men-fleeing-russia-georgia-border-bell-pkg-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/09/28/men-fleeing-russia-georgia-border-bell-pkg-intl-vpx.cnn)
@@ -589,3 +589,4 @@ Several times a week you can hear gunfire echoing from Brandi Joseph's scenic So
  - date published: 2022-09-28 00:46:29+00:00
 
 CNN's David Culver reports that more and more women, many of them liberal-leaning, are learning how to shoot guns for the first time in their lives.
+

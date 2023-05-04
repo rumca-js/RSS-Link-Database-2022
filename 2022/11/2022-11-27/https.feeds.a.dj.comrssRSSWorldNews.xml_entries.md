@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Canada Calls China Disruptive Global Actor
  - [https://www.wsj.com/articles/canada-calls-china-disruptive-global-actor-11669579816](https://www.wsj.com/articles/canada-calls-china-disruptive-global-actor-11669579816)
@@ -56,3 +56,4 @@ Ukraine’s President Volodymyr Zelensky said that the number of homes without p
  - date published: 2022-11-27 02:33:00+00:00
 
 After angry residents took to the streets Friday in Xinjiang, demonstrations have since erupted in Shanghai and other cities.
+

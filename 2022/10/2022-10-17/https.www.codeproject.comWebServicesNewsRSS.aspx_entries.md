@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Apple’s mixed reality headset reportedly lets you make payments with your eyes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59209](https://www.codeproject.com/script/News/View.aspx?nwid=59209)
@@ -62,3 +62,4 @@ Icons incoming!
  - date published: 2022-10-17 04:00:00+00:00
 
 For those that like big codebases and cannot lie
+

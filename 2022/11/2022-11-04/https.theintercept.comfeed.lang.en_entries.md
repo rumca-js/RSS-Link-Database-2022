@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Stephen Miller Mails "Race-Baiting Misinformation" to Asian American Voters
  - [https://theintercept.com/2022/11/04/stephen-miller-ads-asian-american-voters/](https://theintercept.com/2022/11/04/stephen-miller-ads-asian-american-voters/)
@@ -39,3 +39,4 @@
 
 <p>A ballot measure in the state could pave the way for a total abortion ban.</p>
 <p>The post <a href="https://theintercept.com/2022/11/04/deconstructed-kentucky-abortion-amendment/" rel="nofollow">For Abortion Rights, Could Kentucky Be the Next Kansas?</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

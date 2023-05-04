@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Show HN: Figr.app – a multi-user, notepad style calculator (desktop app)
  - [https://www.figr.app/](https://www.figr.app/)
@@ -617,7 +617,6 @@
  - [https://www.kapwing.com/blog/google-erased-our-website/](https://www.kapwing.com/blog/google-erased-our-website/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-19 07:12:21+00:00
- - tags: monotpoly,youtube-dl,google,censorship,dmca
 
 <p>Article URL: <a href="https://www.kapwing.com/blog/google-erased-our-website/">https://www.kapwing.com/blog/google-erased-our-website/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32895251">https://news.ycombinator.com/item?id=32895251</a></p>
@@ -755,3 +754,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32893148">https://news.ycombinator.com/item?id=32893148</a></p>
 <p>Points: 18</p>
 <p># Comments: 1</p>
+

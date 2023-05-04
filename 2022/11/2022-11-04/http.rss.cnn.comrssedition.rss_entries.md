@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Voters in two very different Congressional districts tell us a lot about politics in 2022
  - [https://www.cnn.com/videos/politics/2022/11/04/alexandria-ocasio-cortez-majorie-taylor-greene-election-contd-mh-orig.cnn](https://www.cnn.com/videos/politics/2022/11/04/alexandria-ocasio-cortez-majorie-taylor-greene-election-contd-mh-orig.cnn)
@@ -118,6 +118,13 @@ The House January 6 select committee is getting a window into former President D
  - date published: 2022-11-04 17:31:37+00:00
 
 President Joe Biden was "expressing solidarity" with protesters when he said at a campaign event late Thursday that "we're going to free Iran," a White House spokesman clarified on Friday.
+
+## Iranian activist: The time for apologies is over
+ - [https://www.cnn.com/videos/world/2022/11/04/iran-protests-mahsa-amini-un-commission-masih-alinejad-intv-sciutto-nram.cnn](https://www.cnn.com/videos/world/2022/11/04/iran-protests-mahsa-amini-un-commission-masih-alinejad-intv-sciutto-nram.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-11-04 16:42:11+00:00
+
+As many as 14,000 people have been arrested in Iran during protests there since September, according to a top United Nations official. CNN's Jim Sciutto spoke with Iranian activist and journalist Masih Alinejad about the revolution's objectives and the symbolic power behind the hijab.
 
 ## Former Pakistan Prime Minister Imran Khan blames establishment figures for plot to kill him
  - [https://www.cnn.com/2022/11/04/asia/imran-khan-attack-pakistan-intl/index.html](https://www.cnn.com/2022/11/04/asia/imran-khan-attack-pakistan-intl/index.html)
@@ -497,3 +504,4 @@ Pakistan's ex-Prime Minister Imran Khan was shot in the leg at a rally, accordin
  - date published: 2022-11-04 01:15:58+00:00
 
 C-Suite firings and job security fears are rippling across Musk-owned Twitter.  The New York Times' Mike Isaac joins "Nightcap's" Jon Sarlin to talk about employee uncertainty at the social media company.  For more, watch the full Nightcap episode here.
+

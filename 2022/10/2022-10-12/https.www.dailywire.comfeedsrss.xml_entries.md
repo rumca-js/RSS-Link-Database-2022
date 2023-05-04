@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Southern California Superintendent Defends 7th-Grade Boy Masturbating In Front Of Classmates, Claims It’s Normal
  - [https://www.dailywire.com/news/southern-california-superintendent-defends-7th-grade-boy-masturbating-in-front-of-classmates-claims-its-normal](https://www.dailywire.com/news/southern-california-superintendent-defends-7th-grade-boy-masturbating-in-front-of-classmates-claims-its-normal)
@@ -433,3 +433,4 @@ Last week, Saudi Arabia announced, in conjunction with OPEC+, that it would be c
  - date published: 2022-10-12 07:31:12+00:00
 
 The late incomparable actress Angela Lansbury, who was nominated for an Oscar twice before she turned 21 and later dominated the stage in New York, winning an astonishing five Tonys, admitted in 2014 that she moved her family to Ireland from California in the 1960s because she feared her daughter’s association with the infamous murderer ...
+

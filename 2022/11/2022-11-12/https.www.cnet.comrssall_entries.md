@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Black Panther: Wakanda Forever' Stands as a Touching Tribute, With a Sexy New Antihero     - CNET
  - [https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-stands-as-a-touching-tribute-with-a-sexy-new-antihero/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-stands-as-a-touching-tribute-with-a-sexy-new-antihero/#ftag=CADf328eec)
@@ -447,3 +447,4 @@ Sega's iconic blue hedgehog zips into a new era in this adventure game, but hits
  - date published: 2022-11-12 00:00:08+00:00
 
 Don't lose sleep over your loud, snoring partner. Follow these six tricks to help you get better rest beside them.
+

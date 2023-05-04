@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Ta rzeka kosztowała dwa miliony dolarów. Można ją włączyć i wyłączyć
  - [https://www.chip.pl/2022/11/sztuczna-rzeka-kanada-sposoby-wykorzystania](https://www.chip.pl/2022/11/sztuczna-rzeka-kanada-sposoby-wykorzystania)
@@ -95,3 +95,4 @@
 
 <img alt="Rosyjski okręt podwodny Ufa" class="attachment-full size-full wp-post-image" height="1274" src="https://konto.chip.pl/wp-content/uploads/2022/11/Trudny-do-wykrycia-i-uzbrojony-w-potezne-pociski-manewrujace.-Rosyjski-okret-podwodny-Ufa-juz-na-sluzbie-1.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/11/Trudny-do-wykrycia-i-uzbrojony-w-potezne-pociski-manewrujace.-Rosyjski-okret-podwodny-Ufa-juz-na-sluzbie-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>16 listopada miała miejsce ceremonia podniesienia bandery na okręcie podwodnym P-588 &#8220;UFA&#8221; projektu 636.3 w stoczni Admiralicji w Sankt Petersburgu, który trafi do floty operującej na wodach Pacyfiku. To czwarty już z kolei okręt podwodny tego typu dla rosyjskiej Floty Pacyfiku od 2019 roku, którego Amerykanie zwykli określać mianem &#8220;czarnej dziury&#8221; przez trudność jego wykrycia [&#8230;]</p>
+

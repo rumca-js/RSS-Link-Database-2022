@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'House of the Dragon' Episode 5 Recap: Rhaenyra's Dreaded Day     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-rhaenyras-dreaded-day/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-rhaenyras-dreaded-day/#ftag=CADf328eec)
@@ -804,3 +804,4 @@ Sites like Stake.com, Rollbit.com, Duelbits.com and Roobet.com will now be banne
  - date published: 2022-09-21 00:01:00+00:00
 
 Internet retailer scores a record number of Prime subscriptions for a three-hour period, according to an internal email.
+

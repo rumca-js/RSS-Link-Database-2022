@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Konrad Szymański odchodzi z rządu. Dwóch możliwych następców
  - [https://wydarzenia.interia.pl/kraj/news-konrad-szymanski-odchodzi-z-rzadu-dwoch-mozliwych-nastepcow,nId,6342695](https://wydarzenia.interia.pl/kraj/news-konrad-szymanski-odchodzi-z-rzadu-dwoch-mozliwych-nastepcow,nId,6342695)
@@ -13,3 +13,4 @@
  - date published: 2022-10-12 07:53:46+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-konrad-szymanski-przestanie-byc-ministrem-ds-ue,nId,6342695"><img align="left" alt="Konrad Szymański przestanie być ministrem ds. UE" src="https://i.iplsc.com/konrad-szymanski-przestanie-byc-ministrem-ds-ue/000G6W82XVPT1QKM-C321.jpg" /></a>Konrad Szymański, minister do spraw Unii Europejskiej, odejdzie w środę ze stanowiska - dowiedziała się Interia. Dymisja nastąpi razem z odejściem Michała Dworczyka, szefa kancelarii premiera. Znamy nazwiska 
+

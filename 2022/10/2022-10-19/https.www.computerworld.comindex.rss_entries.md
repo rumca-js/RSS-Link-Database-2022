@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple’s next big thing might be healthcare
  - [https://www.computerworld.com/article/3676840/apples-next-big-thing-might-be-healthcare.html#tk.rss_all](https://www.computerworld.com/article/3676840/apples-next-big-thing-might-be-healthcare.html#tk.rss_all)
@@ -26,3 +26,4 @@
 <article>
 	<section class="page">
 <p>Microsoft <a href="https://blogs.windows.com/windowsexperience/2022/10/18/making-the-everyday-easier-with-new-experiences-available-in-windows-11/" rel="nofollow noopener" target="_blank">on Tuesday announced</a> its first “moment” update for Windows 11, one of the periodic updates <a href="https://www.computerworld.com/article/3673297/coming-in-windows-11-22h2-a-change-of-update-cadence.html" rel="noopener" target="_blank">the company signaled</a> last month
+

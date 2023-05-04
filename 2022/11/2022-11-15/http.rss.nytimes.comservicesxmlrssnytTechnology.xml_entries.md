@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk Fires Twitter Employees Who Criticized Him
  - [https://www.nytimes.com/2022/11/15/technology/elon-musk-twitter-fired-criticism.html](https://www.nytimes.com/2022/11/15/technology/elon-musk-twitter-fired-criticism.html)
@@ -20,3 +20,4 @@ George K. Lerner, a psychiatrist who has worked at the collapsed crypto exchange
  - date published: 2022-11-15 15:13:13+00:00
 
 In a court filing on Monday, the cryptocurrency exchange said it was in touch with “dozens” of regulators across the world.
+

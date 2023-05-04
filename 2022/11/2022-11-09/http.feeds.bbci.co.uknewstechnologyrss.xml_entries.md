@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Binance walks away from FTX crypto exchange bailout
  - [https://www.bbc.co.uk/news/business-63577783?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63577783?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ It comes less than two weeks after the world's richest man completed his $44bn t
  - date published: 2022-11-09 01:07:50+00:00
 
 Police say they are seizing 3D printed weapons in greater numbers in the UK.
+

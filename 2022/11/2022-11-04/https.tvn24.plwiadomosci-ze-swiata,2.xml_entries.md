@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Pentagon ogłosił nowy pakiet pomocy wojskowej dla Ukrainy. Kijów otrzyma czołgi
  - [https://tvn24.pl/swiat/wojna-w-ukrainie-usa-oglosily-nowy-pakiet-pomocy-wojskowej-amerykanie-po-raz-pierwszy-wysla-czolgi-6194280?source=rss](https://tvn24.pl/swiat/wojna-w-ukrainie-usa-oglosily-nowy-pakiet-pomocy-wojskowej-amerykanie-po-raz-pierwszy-wysla-czolgi-6194280?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Sąsiad Polski bierze się za ekstra zyski firm energetycznych i dużych banków. Jest decyzja" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jfddj0-praga-shutterstock126242489-6194278/alternates/LANDSCAPE_1280" />
     Firmy energetyczne, naftowe lub górnicze oraz banki mają zostać od przyszłego roku objęte podatkiem od nadzwyczajnych zysków - wynika ze zmian przepisów podatkowych, przyjętych w piątek przez czeskich deputowanych. Dochody mają być przeznaczone na pokrycie kosztów kryzysu energetycznego. Opozycja krytykuje rządową propozycję. Uważają, że podatek zostanie przerzucony przez banki i firmy energetyczne na klientów.
+

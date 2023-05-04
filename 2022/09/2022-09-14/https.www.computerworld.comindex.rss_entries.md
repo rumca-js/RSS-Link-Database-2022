@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Want to change a dysfunctional culture? Intel’s Israel Development Center shows how
  - [https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all](https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all)
@@ -70,3 +70,4 @@
 <article>
 	<section class="page">
 <p>As people use Windows 10 or 11 in their daily work, problems, issues, and outright errors will sometimes occur. Then, it may be necessary to engage in troubleshooting exercises to attempt to diagnose underlying causes.</p><p>Sometimes such identification can lead to attempted fixes. Sometimes such attempts even succeed. Other times, fixes may not be available, which may necessitate working around problems and/or reporting those problems to Microsoft.</p><p>Al
+

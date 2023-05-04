@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Exploring the 'almost creepy' AI engine in Visual Studio 2022
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59366](https://www.codeproject.com/script/News/View.aspx?nwid=59366)
@@ -69,3 +69,4 @@ It's a system of tubes. Of switch statements.
  - date published: 2022-11-02 04:00:00+00:00
 
 And only, in some cases
+

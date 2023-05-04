@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nowy Battlefield dostanie kampanię fabularną. Wiemy kto za nią odpowiada
  - [https://ithardware.pl/aktualnosci/nowy_battlefield_dostanie_kampanie_fabularna_wiemy_kto_za_nia_odpowiada-23194.html](https://ithardware.pl/aktualnosci/nowy_battlefield_dostanie_kampanie_fabularna_wiemy_kto_za_nia_odpowiada-23194.html)
@@ -187,3 +187,4 @@ Wśr&oacute;d wielu aktualizacji dla...
 
 <img src="https://ithardware.pl/artykuly/min/23174_1.jpg" />            Microsoft zapowiedział bezprzewodowy kontroler Xbox Elite Series 2 w wersji podstawowej i białym kolorze. Jest to nieco odchudzona pod względem funkcjonalności wersja pada klasy premium od giganta z Redmond, co przełożyło się też na niższą...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/microsoft_prezentuja_nowa_tansza_wersje_kontrolera_elite_series_2_polska_cena_to_absurd-23174.html">https:/
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Nike is still trying to make NFTs happen with .Swoosh
  - [https://www.theverge.com/2022/11/14/23458863/nike-nfts-happen-dot-swoosh-sneakers-crypto](https://www.theverge.com/2022/11/14/23458863/nike-nfts-happen-dot-swoosh-sneakers-crypto)
@@ -479,3 +479,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/14/23457599/google-chrome-desktop-material-you-color-theming-feature">Continue reading&hellip;</a>
   </p>
+

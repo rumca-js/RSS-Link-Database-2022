@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Halloween Is Cool and All, But John Carpenter Is Really Into Godzilla These Days
  - [https://gizmodo.com/john-carpenter-godzilla-marathon-host-shout-factory-tv-1849586602](https://gizmodo.com/john-carpenter-godzilla-marathon-host-shout-factory-tv-1849586602)
@@ -275,3 +275,4 @@ taking the next big step by preparing its HERA probe fo
  - date published: 2022-09-27 00:21:00+00:00
 
 <video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--KFW1yxbp--/c_fit,fl_progressive,q_80,w_636/8a91a9ed7638cc8ba7d988fc1c5b428d.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--OlRTzrs---/c_fit,fl_progressive,q_80,w_636/8a91a9ed7638cc8ba7d988fc1c5b428d.mp4" type="video/mp4" /></video><p>NASA’s DART spacecraft has crashed into Dimorphos, with the loss of signal occurring today at exactly 7:14 p.m. ET as expected. Scientists will now pore over the data
+

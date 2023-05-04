@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Raising cybersecurity awareness is good for everyone - but it needs to be done better
  - [https://www.zdnet.com/article/raising-cybersecurity-awareness-is-good-for-everyone-but-it-needs-to-be-done-better/#ftag=RSSbaffb68](https://www.zdnet.com/article/raising-cybersecurity-awareness-is-good-for-everyone-but-it-needs-to-be-done-better/#ftag=RSSbaffb68)
@@ -34,3 +34,4 @@ Here are the top noise-canceling headphones you can buy. They use advanced techn
  - date published: 2022-10-16 02:18:00+00:00
 
 Chromebooks make the perfect gift. Treat yourself or a loved one, as many of the best Chromebooks are more affordable than flagship models and feature healthy battery lives.
+

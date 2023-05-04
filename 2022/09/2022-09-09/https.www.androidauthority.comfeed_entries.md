@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google introduces 24 hour review delay for the Google Play Store
  - [https://www.androidauthority.com/google-play-store-review-delay-3207351/](https://www.androidauthority.com/google-play-store-review-delay-3207351/)
@@ -125,3 +125,4 @@ Will this foldable actually see the light of day?
  - date published: 2022-09-09 05:23:14+00:00
 
 The phone also boasts 125W charging, a 144Hz display, and the Snapdragon 8 Plus Gen 1 chip.
+

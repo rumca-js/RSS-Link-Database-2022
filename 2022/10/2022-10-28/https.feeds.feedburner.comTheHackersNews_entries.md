@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## High-Severity Flaws in Juniper Junos OS Affect Enterprise Networking Devices
  - [https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html](https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html)
@@ -59,3 +59,4 @@ Security researchers Jan Vojtěšek, Milánek, and Przemek Gmerek of Avast have 
 
 The Raspberry Robin worm is becoming an access-as-a-service malware for deploying other payloads, including IcedID, Bumblebee, TrueBot (aka Silence), and Clop ransomware.
 It is "part of a complex and interconnected malware ecosystem, with links to other malware families and alternate infection methods beyond its original USB drive spread," the Microsoft Security Threat Intelligence Center (MSTIC
+

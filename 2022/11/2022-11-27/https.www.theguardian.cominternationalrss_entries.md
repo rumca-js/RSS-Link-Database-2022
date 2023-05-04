@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Germany grit, Morocco magic and Croatia crush Canada – Football Daily
  - [https://www.theguardian.com/football/audio/2022/nov/27/spain-germany-belgium-morocco-croatia-canada-football-daily](https://www.theguardian.com/football/audio/2022/nov/27/spain-germany-belgium-morocco-croatia-canada-football-daily)
@@ -930,3 +930,4 @@ New analysis reveals the least affluent need urgent government support this wint
  - date published: 2022-11-27 00:23:07+00:00
 
 <ul><li>German said fouls and confronting officials was ‘in their culture’</li><li>Queiroz demands that former striker resigns from Fifa role</li></ul><p>Carlos Queiroz has demanded Jürgen Klinsmann resign from his role on Fifa’s technical study group after calling his comments about the Iran team “a disgrace to football”.</p><p>After <a href="https://www.theguardian.com/football/2022/nov/25/wales-iran-world-cup-group-b-match-report">Friday’s 2-0 win over Wales</a>, the BBC presenter Gabby Logan talked about Iran’s “gamesmanship” and said they just stayed on the right side of the law before handing over to Klinsmann. “Yes, that’s their culture,” he said. “Their way of doing it, and that is why Carlos Queiroz fits really well [with] the Iranian national team.”</p> <a href="https://www.theguardian.com/football/2022/nov/27/carlos-queiroz-jurgen-klinsmann-iran-bbc-comments-world-cup">Continue reading...</a>
+

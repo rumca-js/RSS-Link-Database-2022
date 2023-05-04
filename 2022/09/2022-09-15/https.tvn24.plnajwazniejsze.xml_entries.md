@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Efektowna wygrana w Lidze Konferencji
  - [https://eurosport.tvn24.pl/lech-przetrwa--tarapaty-i-si--rozstrzela---efektowna-wygrana-w-lidze-konferencji,1118661.html?source=rss](https://eurosport.tvn24.pl/lech-przetrwa--tarapaty-i-si--rozstrzela---efektowna-wygrana-w-lidze-konferencji,1118661.html?source=rss)
@@ -279,3 +279,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-8fu9lc-1409n000x-cnb-czarnecki-mierzeja-0007-6113087/alternates/LANDSCAPE_1280" />
     17 września ma zostać otwarty kanał na Mierzei Wiślanej.  Reportaż Radomira Czarneckiego.
+

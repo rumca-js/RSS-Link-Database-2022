@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Sasha Grey will portray a radio DJ in the Cyberpunk 2077 expansion
  - [https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion](https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion)
@@ -216,3 +216,4 @@ Sorting through every new game on Steam so you don't have to.
  - date published: 2022-10-17 00:19:30+00:00
 
 Four limited time weapon reskins were added to the game to promote its DLCs, and have been unobtainable ever since.
+

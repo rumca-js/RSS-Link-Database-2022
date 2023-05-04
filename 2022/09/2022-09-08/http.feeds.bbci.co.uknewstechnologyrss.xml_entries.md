@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Emergency text averted possible California power cuts
  - [https://www.bbc.co.uk/news/technology-62832775?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62832775?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ Apple says it will appeal against Brazil's ban on the sale of iPhones that do no
  - date published: 2022-09-08 12:41:11+00:00
 
 The action has been taken for failure to respond to Freedom of Information requests on time.
+

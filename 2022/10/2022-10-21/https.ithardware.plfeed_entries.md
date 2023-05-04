@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Will Wright, twórca The Sims ujawnia grę NFT
  - [https://ithardware.pl/aktualnosci/will_wright_tworca_the_sims_pracuje_nad_gra_nft-23970.html](https://ithardware.pl/aktualnosci/will_wright_tworca_the_sims_pracuje_nad_gra_nft-23970.html)
@@ -155,3 +155,4 @@ Jest to dziełem overclockera znanego jako...
 
 <img src="https://ithardware.pl/artykuly/min/23955_1.jpg" />            Zakup Twittera przez Elona Muska od samego początku idzie jak po grudzie i wygląda to tak, jakby obie strony pr&oacute;bowały sabotować tę transakcję. Nie pewno nie pomagają też tu najnowsze doniesienia The Washington Post, w kt&oacute;rych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/elon_musk_poodbno_szykuje_niespodzianke_dla_twiitera_chce_zwolnic_wiekszosc_pracownikow-23955.html">https:
+

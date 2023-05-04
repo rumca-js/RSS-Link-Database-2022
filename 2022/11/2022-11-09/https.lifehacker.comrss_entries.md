@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Download These Two First-Person Shooter Games for Free on PC Right Now
  - [https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201](https://lifehacker.com/download-these-two-first-person-shooter-games-for-free-1849764201)
@@ -132,3 +132,4 @@
  - date published: 2022-11-09 13:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Qfs5seCL--/c_fit,fl_progressive,q_80,w_636/21570422a389192c872830ca65fd9af2.jpg" /><p>Thanksgiving is a big deal to me. Every year, towards the end of October—for almost six years now—my thoughts turn to turkey and all its accompanying sides. You’d think I’d be tired of it, but I’m not. </p><p><a href="https://lifehacker.com/17-thanksgiving-hacks-that-will-make-your-holiday-bette-1849758983">Read more...</a></p>
+

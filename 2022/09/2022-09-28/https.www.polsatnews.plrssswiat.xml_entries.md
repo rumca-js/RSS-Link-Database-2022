@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Zakaz importu mydła z Rosji. Maria Zacharowa zasugerowała, że Europejczycy się nie myją
  - [https://www.polsatnews.pl/wiadomosc/2022-09-28/zakaz-importu-mydla-z-rosji-maria-zacharowa-zasugerowala-ze-europejczycy-sie-nie-myja/](https://www.polsatnews.pl/wiadomosc/2022-09-28/zakaz-importu-mydla-z-rosji-maria-zacharowa-zasugerowala-ze-europejczycy-sie-nie-myja/)
@@ -97,3 +97,4 @@ W nocy z wtorku na środę w mieście Alencon w Normandii wybuchły zamieszki. J
  - date published: 2022-09-28 04:14:00+00:00
 
 14-letni chłopiec zginął po tym, jak został postrzelony przez nieznanych sprawców gdy wychodził ze szkoły po meczu piłki nożnej. Czterech jego kolegów zostało rannych i trafili do szpitala - ich życiu nie zagraża niebezpieczeństwo.
+

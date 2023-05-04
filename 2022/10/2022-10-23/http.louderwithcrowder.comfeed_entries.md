@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Emotional college student tells Crowder to 'shut the f*** up'
  - [https://www.louderwithcrowder.com/emotional-college-student-tells-crowder-to-shut-the-f-up](https://www.louderwithcrowder.com/emotional-college-student-tells-crowder-to-shut-the-f-up)
@@ -27,3 +27,4 @@
  - date published: 2022-10-23 11:52:12+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31992184&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C24%2C0" /><br /><br /><p>Actor Ralph Macchio is in the middle of a book tour for his new autobiography, <em>Waxing On: The Karate Kid and Me</em>. As you can imagine, the native of Long Island (the most magical place on Earth, shout out to MJF) gets a lot of questions about <em>The Karate Kid </em>since it's the movie Macchio is most known for. What you may be sur
+

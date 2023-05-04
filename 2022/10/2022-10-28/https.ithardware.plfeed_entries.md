@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Pogba i Neymar trafią do Call of Duty: Modern Warfare 2 jako operatorzy
  - [https://ithardware.pl/aktualnosci/pogba_i_neymar_trafia_do_call_of_duty_modern_warfare_2_jako_operatorzy-24091.html](https://ithardware.pl/aktualnosci/pogba_i_neymar_trafia_do_call_of_duty_modern_warfare_2_jako_operatorzy-24091.html)
@@ -109,3 +109,4 @@ Book Air 13 jest dostępny w dw&oacute;ch...
 
 <img src="https://ithardware.pl/artykuly/min/24079_1.jpg" />            Xiaomi zapowiedziało cztery nowe smartfony z linii Redmi Note 12: podstawowy model 12, 12 Pro, 12 Pro + i topowy 12 Explorer Edition z rekordowym ładowaniem. Wszystkie trzy modele Pro są wyposażone w chipset MediaTek Dimensity 1080, podczas gdy Redmi...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/xiaomi_zapowiada_smartfony_z_serii_redmi_note_12_model_explorer_z_rekordowo_szybkim_ladowaniem-24079.html">https://ithardware.pl/aktualnosci/xiaomi_zapowiada_smartfony_z_serii_redmi_note_12_model_explorer_z_rekordowo_szybkim_ladowaniem-24079.html</a></p>
+

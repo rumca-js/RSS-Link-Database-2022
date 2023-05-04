@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Black Friday and Cyber Monday 2022: deals, news, and more
  - [https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
@@ -638,3 +638,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/31/23433886/apple-online-retail-chief-information-officer-leaving-matthiasson-demby">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Electrical Cords, Metal Pipes: In Kherson, Signs of Torture Emerge
  - [https://www.nytimes.com/2022/11/16/world/europe/kherson-ukraine-detain-torture.html](https://www.nytimes.com/2022/11/16/world/europe/kherson-ukraine-detain-torture.html)
@@ -230,3 +230,4 @@ The explosion in a Polish village across the border from Ukraine occurred as Rus
  - date published: 2022-11-16 01:07:46+00:00
 
 Security forces fired on a crowd at a metro station on Tuesday, setting off a panicked rush of commuters, video showed.
+

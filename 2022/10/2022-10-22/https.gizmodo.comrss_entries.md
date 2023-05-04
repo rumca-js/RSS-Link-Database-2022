@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## DC Comics Rings in Black History Month with DC Power
  - [https://gizmodo.com/dc-power-black-history-month-anthology-1849690594](https://gizmodo.com/dc-power-black-history-month-anthology-1849690594)
@@ -34,3 +34,4 @@
  - date published: 2022-10-22 00:45:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--CFtynhE4--/c_fit,fl_progressive,q_80,w_636/2fdaebb56ad6e6e5d1d57af3f2d244b3.jpg" /><p>This <a href="https://gizmodo.com/disney-parks-halloween-disneyland-walt-disney-world-1849531310">Halloween</a> we want to celebrate Disneyland’s original macabre monument <a href="https://gizmodo.com/disney-poster-exclusives-d23-expo-2022-haunted-mansion-1849502854">the Haunted Mansion</a>, which for many has served as a rite of passage as a first 
+

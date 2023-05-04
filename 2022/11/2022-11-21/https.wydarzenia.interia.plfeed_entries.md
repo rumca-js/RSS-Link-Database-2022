@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## NATO wzywa do uznania Rosję za państwo terrorystyczne. "Nie słuchaliśmy partnerów ze Wschodu"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nato-wzywa-do-uznania-rosje-za-panstwo-terrorystyczne-nie-sl,nId,6425354](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nato-wzywa-do-uznania-rosje-za-panstwo-terrorystyczne-nie-sl,nId,6425354)
@@ -495,3 +495,4 @@
  - date published: 2022-11-21 04:31:42+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-271-dzien-inwazji-rosji-relacja-na-zywo,nzId,3420,akt,210751"><img align="left" alt="Wojna w Ukrainie. 271. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-271-dzien-inwazji-rosji-relacja-na-zywo/000GDB058LCWK4W5-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

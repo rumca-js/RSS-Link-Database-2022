@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best Back to School deals: laptops, Chromebooks, tablets and more
  - [https://www.pcworld.com/article/818199/back-to-school-deals.html](https://www.pcworld.com/article/818199/back-to-school-deals.html)
@@ -107,3 +107,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Whether you&rsquo;re searching for an upgrade in&nbsp;<a href="https://www.pcworld.com/article/538941/microsoft-surface-pro-8-review.html" rel="noreferrer noopener" target="_blank">personal technology</a>&nbsp;for educational, entertainment, or professional needs, there are a variety of potential paths to explore. For those attempting to balance their bank budget without sacrif
+

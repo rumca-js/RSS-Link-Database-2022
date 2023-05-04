@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## HBO drops official trailer for Avenue 5’s second and final season
  - [https://arstechnica.com/?p=1881746](https://arstechnica.com/?p=1881746)
@@ -118,3 +118,4 @@ Seesaw has declined to say how many accounts were spammed with Goatse.
  - date published: 2022-09-15 15:34:05+00:00
 
 Now that there's an industry standard, automakers are starting to deploy the tech.
+

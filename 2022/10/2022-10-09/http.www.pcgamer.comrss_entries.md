@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Five new Steam games you probably missed (October 10, 2022)
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022)
@@ -62,3 +62,4 @@ Ferret may be one of the biggest text adventures ever.
  - date published: 2022-10-09 00:21:29+00:00
 
 Christophe Gans, who directed the first Silent Hill movie, says Konami will "revive the franchise".
+

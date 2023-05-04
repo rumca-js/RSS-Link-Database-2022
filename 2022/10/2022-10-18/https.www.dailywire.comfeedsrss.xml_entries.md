@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Oakland Ramen Workers Dressed As Power Rangers Rescue Woman From Man Choking Her
  - [https://www.dailywire.com/news/oakland-ramen-workers-dressed-as-power-rangers-rescue-woman-from-man-choking-her](https://www.dailywire.com/news/oakland-ramen-workers-dressed-as-power-rangers-rescue-woman-from-man-choking-her)
@@ -398,3 +398,4 @@ Communist China has been using headhunters in South Africa to recruit ex-British
  - date published: 2022-10-18 07:18:47+00:00
 
 Australia&#8217;s new leftist government announced Tuesday that it was reversing the decision by the previous conservative administration to recognize Jerusalem as Israel&#8217;s capital city. Australia&#8217;s Labor Party government said that it would recognize Tel Aviv as Israel&#8217;s capital and demanded that Israel determine the city&#8217;s status in peace talks with the Palestinians. The capital of ...
+

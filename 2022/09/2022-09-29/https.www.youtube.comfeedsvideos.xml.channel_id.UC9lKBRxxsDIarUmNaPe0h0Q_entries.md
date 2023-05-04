@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## Why China's economy is worse than you think (the three "Ds")
  - [https://www.youtube.com/watch?v=cf53Qd2wzQI](https://www.youtube.com/watch?v=cf53Qd2wzQI)
@@ -46,3 +46,4 @@ Presented by Sorelle Amore.
 Written by Leon Hill.
 
 #ChineseEconomy #China #XiJinping
+

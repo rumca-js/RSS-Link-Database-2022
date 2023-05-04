@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Comic John Bishop sues entrepreneur he accuses of stealing £865,000 from his company
  - [https://www.dailymail.co.uk/news/article-11195165/Comic-John-Bishop-sues-entrepreneur-accuses-stealing-865-000-company.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11195165/Comic-John-Bishop-sues-entrepreneur-accuses-stealing-865-000-company.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1961,3 +1961,4 @@ A group of Memphis women are arranging a run on Friday morning past the spot whe
  - date published: 2022-09-08 00:03:05+00:00
 
 DAILY MAIL COMMENT: If Liz Truss suffered from nerves during her first Commons Question Time as Prime Minister, she certainly didn't show it.
+

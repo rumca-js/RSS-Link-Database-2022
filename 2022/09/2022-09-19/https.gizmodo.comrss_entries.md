@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Maybe Star Wars Should Stop Being Movies
  - [https://gizmodo.com/star-wars-embrace-tv-disney-plus-stop-being-films-1849550177](https://gizmodo.com/star-wars-embrace-tv-disney-plus-stop-being-films-1849550177)
@@ -216,3 +216,4 @@
  - date published: 2022-09-19 02:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--LcF0JrOf--/c_fit,fl_progressive,q_80,w_636/d3409604dc6d3579dce895c96fdb155a.jpg" /><p>It is not a spoiler to say that weddings in the <a href="https://gizmodo.com/io9/television/game-of-thrones"><em>Game of Thrones</em> franchise</a> don’t often end well. There was, of course, the infamous <a href="https://gizmodo.com/relive-the-trauma-of-the-game-of-thrones-red-weeding-1524625123">Red Wedding</a>, where Robb and Catelyn Stark were m
+

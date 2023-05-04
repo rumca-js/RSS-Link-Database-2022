@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Gunmen Storm Mogadishu Hotel, Trapping Government Officials
  - [https://www.nytimes.com/2022/11/27/world/africa/mogadishu-shabab-hotel.html](https://www.nytimes.com/2022/11/27/world/africa/mogadishu-shabab-hotel.html)
@@ -90,3 +90,4 @@ New reservoirs designed to supply French farms with water in increasingly arid g
  - date published: 2022-11-27 08:00:17+00:00
 
 An Israeli blockade that restricts the movement of Gazans out of the strip and limits imports — or bans them completely — has been devastating for the enclave’s fishing industry.
+

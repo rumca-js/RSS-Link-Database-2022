@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Star Trek 4 Would've Been a Cosmic Kirk Family Adventure
  - [https://gizmodo.com/star-trek-4-writers-original-plans-1849662800](https://gizmodo.com/star-trek-4-writers-original-plans-1849662800)
@@ -62,3 +62,4 @@
  - date published: 2022-10-15 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--AZXVxiPH--/c_fit,fl_progressive,q_80,w_636/fdf2a0a2e7ac4c59fb397a2cb7202365.jpg" /><p>In 1987, Ronald Reagan nominated  Robert Bork to the Supreme Court. Bork was an extreme, hard-line conservative whose views included the idea that Roe v. Wade should be overturned because he believed there was no constitutional right to privacy whatsoever. In response, a Washington, DC video store leaked a list of his…</p><p><a href="https://gizmodo
+

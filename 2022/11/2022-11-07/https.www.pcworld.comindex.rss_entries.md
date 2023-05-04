@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The best free antivirus: Keep your PC safe without spending a dime
  - [https://www.pcworld.com/article/398720/best-free-antivirus.html](https://www.pcworld.com/article/398720/best-free-antivirus.html)
@@ -758,3 +758,4 @@ Certifications</div>
 
 <p>We&rsquo;ll have several curated lists for Black Friday tech deals, which we&rsquo;ll release as the deals reach critical mass. (We&rsquo;ll add the links below as they go live.) You can expect to see our picks for the best early deals first. Here&rsquo;s to hoping for a year of great bargains!</p>
 Chromebooks, Desktop PCs, Laptops, Solid-State Drives, Wi-Fi</div>
+

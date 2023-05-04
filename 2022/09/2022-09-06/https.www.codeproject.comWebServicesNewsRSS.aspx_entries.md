@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A utility company locked thousands of customers out of their smart thermostats in Colorado
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58789](https://www.codeproject.com/script/News/View.aspx?nwid=58789)
@@ -125,3 +125,4 @@ A++ would download again when I need it for 5 minutes
  - date published: 2022-09-06 04:00:00+00:00
 
 W2UI is a modern JavaScript UI library for building rich web applications. It aims to let you define your UI in a declarative way via JSON data structures.
+

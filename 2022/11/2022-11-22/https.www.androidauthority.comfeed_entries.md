@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Don’t miss these excellent Fitbit Black Friday offers
  - [https://www.androidauthority.com/fitbit-black-friday-3239422/](https://www.androidauthority.com/fitbit-black-friday-3239422/)
@@ -90,3 +90,4 @@ Almost 90% of surveyed readers have dual SIM support of some kind.
  - date published: 2022-11-22 05:42:58+00:00
 
 Samsung has an aggressive rollout target for One UI 5.
+

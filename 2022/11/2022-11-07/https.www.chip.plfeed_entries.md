@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Procesor kwantowy z imponującym rekordem. Różnica jest aż 100-krotna
  - [https://www.chip.pl/2022/11/procesor-kwantowy-kubity-imponujacy-rekord](https://www.chip.pl/2022/11/procesor-kwantowy-kubity-imponujacy-rekord)
@@ -127,3 +127,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="539" src="https://konto.chip.pl/wp-content/uploads/2022/01/grafen-material.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/01/grafen-material.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Nadprzewodnictwo w grafenie to nieco tajemnicze zjawisko, którego zrozumienie mogłoby się stać łatwiejsze dzięki kwantowemu komponentowi wykonanemu z grafenu. O dokładnym przebiegu badań piszą autorzy na łamach Nature Nanotechnology. Grafen jest powszechnie wykorzystywany między innymi w produkcji rakiet tenisowych, opon samochodowych i skrzydeł samolotów. I choć stworzono go mniej więcej dwadzieścia lat temu, to nadal [&#8230;]</p>
+

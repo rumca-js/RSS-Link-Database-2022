@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## CNN Cracks Down On Drinking During ‘New Year’s Eve Live,’ Viewers Mourn Loss Of Hosts’ On-Air Antics
  - [https://www.dailywire.com/news/cnn-cracks-down-on-drinking-during-new-years-eve-live-viewers-mourn-loss-of-hosts-on-air-antics](https://www.dailywire.com/news/cnn-cracks-down-on-drinking-during-new-years-eve-live-viewers-mourn-loss-of-hosts-on-air-antics)
@@ -433,3 +433,4 @@ Outgoing Arkansas Republican Governor Asa Hutchinson was slammed Tuesday night f
  - date published: 2022-11-16 07:28:26+00:00
 
 Former President Donald Trump received mixed reactions from the political Right to his announcement Tuesday night that he was launching a third presidential campaign. Trump made the announcement in Florida at his Mar-a-Lago estate in front of a crowd of supporters after he filed the federal paperwork required to run for president. His announcement came ...
+

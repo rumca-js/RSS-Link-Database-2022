@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Create surreal Pokémon lookalikes of Jeff Bezos, The Rock and more with AI
  - [https://www.washingtonpost.com/video-games/2022/09/29/pokemon-ai-generator-github/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/29/pokemon-ai-generator-github/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ The company will refund users who bought Stadia hardware or purchased games for 
  - date published: 2022-09-29 07:00:07+00:00
 
 Here's how to remove your phone number, physical address and email address from Google search results.
+

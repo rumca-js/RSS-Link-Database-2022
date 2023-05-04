@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Joint Ontario Police Task Force Arrests 107 People, Lays 428 Child Exploitation Charges in One Month
  - [https://www.theepochtimes.com/joint-ontario-police-task-force-arrests-107-people-lays-428-child-exploitation-charges-in-one-month_4896585.html](https://www.theepochtimes.com/joint-ontario-police-task-force-arrests-107-people-lays-428-child-exploitation-charges-in-one-month_4896585.html)
@@ -469,3 +469,4 @@ Benedict Rogers speaks at a book launch event for his new book “China Nexus”
  - date published: 2022-11-30 00:24:53+00:00
 
 A Vancouver Police Department patch is seen on an officer's uniform in Vancouver, on Jan.9 2021. (The Canadian Press/Darryl Dyck)
+

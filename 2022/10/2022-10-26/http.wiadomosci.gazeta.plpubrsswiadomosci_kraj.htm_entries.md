@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Sąd Najwyższy sprawdzi, czy można usunąć z urzędu tych, którzy nie chcą orzekać z "nowymi" sędziami
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29073574,sad-najwyzszy-sprawdzi-czy-mozna-usunac-z-urzedu-tych-ktorzy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29073574,sad-najwyzszy-sprawdzi-czy-mozna-usunac-z-urzedu-tych-ktorzy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -174,3 +174,4 @@
  - date published: 2022-10-26 04:10:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ec/3a/1b/z28551916M,Szkola--zdjecie-ilustracyjne-.jpg" vspace="2" />Prokuratura wyjaśnia, jakie były przyczyny śmierci 16-letniego Filipa z Obornik. Nastolatek zaginął w środę, a dwa dni później policja znalazła jego zwłoki. Jak się okazuje, nastolatek miał być nękany przez rówieśników.
+

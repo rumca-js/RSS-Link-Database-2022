@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wielkie podpisywanie umów na polskie uzbrojenie. 7,9 miliarda w dwa dni i gorzka radość
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28875218,wielkie-podpisywanie-umow-na-polskie-uzbrojenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28875218,wielkie-podpisywanie-umow-na-polskie-uzbrojenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -153,3 +153,4 @@
  - date published: 2022-09-06 05:51:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/c4/88/1b/z28871620M,Jacek-Kurski.jpg" vspace="2" />Rada Mediów Narodowych jednogłośnie odwołała Jacka Kurskiego ze stanowiska prezesa TVP. Zastąpił go Mateusz Matyszkowicz. - Odwołanie Kurskiego bez jego ludzi niewiele zmieni - ocenił były dyrektor TVP1 Jan Pawlicki, który kierował stacją na początku rządów Kurskiego.
+

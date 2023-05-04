@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Justin Trudeau Will Be First World Leader to Appear in 'Drag Race' Franchise     - CNET
  - [https://www.cnet.com/culture/entertainment/prime-minister-justin-trudeau-first-world-leader-to-appear-in-drag-race-franchise/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-minister-justin-trudeau-first-world-leader-to-appear-in-drag-race-franchise/#ftag=CADf328eec)
@@ -755,3 +755,4 @@ But don't worry. It's dormant and it won't eat us.
  - date published: 2022-11-08 00:00:02+00:00
 
 Make clearing out your iPhone's "Other" storage a habit, and your future self will be grateful you did.
+

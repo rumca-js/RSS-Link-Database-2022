@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Opinion: I reversed my diabetes. Now I want to help America get healthy
  - [https://www.cnn.com/2022/09/27/opinions/america-diabetes-obesity-crises-eric-adams/index.html](https://www.cnn.com/2022/09/27/opinions/america-diabetes-obesity-crises-eric-adams/index.html)
@@ -551,5 +551,6 @@ Singapore's Changi Airport has long been considered a destination in itself, so 
  - [https://cnn.it/3dIEkIO](https://cnn.it/3dIEkIO)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-27 00:26:13.227088+00:00
+
 
 

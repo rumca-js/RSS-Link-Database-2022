@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Meta CEO sounds positive note on Metaverse bet amid revenue decline
  - [https://www.washingtonpost.com/technology/2022/10/26/facebook-meta-earnings-report/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/26/facebook-meta-earnings-report/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Uber is launching a dedicated advertising division to start making money from it
  - date published: 2022-10-26 06:00:53+00:00
 
 The shaky economic outlook is spurring belt-tightening in Silicon Valley, and the number of billion-dollar start-ups has dived. The age of the tech unicorn may be over.
+

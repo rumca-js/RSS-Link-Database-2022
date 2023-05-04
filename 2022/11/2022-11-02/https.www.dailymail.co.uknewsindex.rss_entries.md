@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## The hotel of mum and dad! Number of young people living with parents has soared over last decade
  - [https://www.dailymail.co.uk/news/article-11383937/The-hotel-mum-dad-Number-young-people-living-parents-soared-decade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11383937/The-hotel-mum-dad-Number-young-people-living-parents-soared-decade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -209,7 +209,6 @@ Volunteers from the Under One Sky homelessness charity, who provided them with f
  - [https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-02 21:28:01+00:00
- - tags: facebook,twitter,hunter biden,censorship
 
 The FBI official who contributed to the decision for Twitter and Facebook to suppress the Hunter Biden laptop story is still briefing the sites about foreign influence threats, a recent report reveals.
 
@@ -1899,3 +1898,4 @@ His Majesty's Inspectorate for Constabulary and Fire and Rescue Services made a 
  - date published: 2022-11-02 00:09:38+00:00
 
 William, 40, looked focused as he attended the Conservation Awards for Tusk, of which he is patron, after it emerged The Crown will show four minutes of the interview he branded 'unethical'.
+

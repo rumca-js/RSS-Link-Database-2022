@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Tom Brady just chucked another Microsoft Surface tablet
  - [https://www.theverge.com/2022/9/18/23359755/tom-brady-microsoft-surface-tablet-tampa-bay-buccaneers-saints-football-nfl](https://www.theverge.com/2022/9/18/23359755/tom-brady-microsoft-surface-tablet-tampa-bay-buccaneers-saints-football-nfl)
@@ -71,3 +71,4 @@
     </figure>
 
   <p id="75z1Th">A new season of <em>Fortnite</em> is upon us, and it’s dripping with chrome. Today sees the launch of Chapter 3: Season 4 for the battle royale game, dubbed “<a href="h
+

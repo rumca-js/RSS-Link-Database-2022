@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Princess Diana's outfits in The Crown branded 'just wrong' by fashion icons who dressed her
  - [https://www.dailymail.co.uk/news/article-11470873/Princess-Dianas-outfits-Crown-branded-just-wrong-fashion-icons-dressed-her.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11470873/Princess-Dianas-outfits-Crown-branded-just-wrong-fashion-icons-dressed-her.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1483,3 +1483,4 @@ The long-awaited Online Safety Bill will be reintroduced to Parliament in ten da
  - date published: 2022-11-25 00:03:06+00:00
 
 CCTV footage from inside the home showed a knife-wielding man threatening the elderly resident while he sat inside his Marrara, Darwin home just before 9am on Thursday.
+

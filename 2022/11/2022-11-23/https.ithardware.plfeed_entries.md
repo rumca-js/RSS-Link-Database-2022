@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## CD Projekt RED prezentuje next-genową aktualizację do Wiedźmina 3: Dziki Gon
  - [https://ithardware.pl/aktualnosci/cd_projekt_red_prezentuje_next_genowa_aktualizacje_do_wiedzmina_3_dziki_gon-24502.html](https://ithardware.pl/aktualnosci/cd_projekt_red_prezentuje_next_genowa_aktualizacje_do_wiedzmina_3_dziki_gon-24502.html)
@@ -141,3 +141,4 @@ MyDrivers podaje, że chociaż AMD...
 
 <img src="https://ithardware.pl/artykuly/min/24488_1.jpg" />            Chociaż wysypu pierwszych high-endowych smartfon&oacute;w wyposażonych w procesor Snapdragon 8 Gen 2 spodziewamy się dopiero na początku przyszłego roku, to vivo nie zamierza czekać z założonymi rękami na konkurent&oacute;w i już...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/vivo_z_nowa_flagowa_seria_x90_w_tym_niezwykle_imponujacym_x90_pro_plus_ze_snapdragonem_8_gen_2-24488.html">https://ithardware.pl/aktualnosci/vivo_z_nowa_flagowa_seria_x90_w_tym_niezwykle_imponujacym_x90_pro_plus_ze_snapdragonem_8_gen_2-24488.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Witchbrook: Everything we know so far about the witchy life sim
  - [https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know](https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know)
@@ -167,3 +167,4 @@ Wordle today: The solution and a hint for Wednesday's puzzle.
  - date published: 2022-10-05 04:17:40+00:00
 
 The slim profile and brushed metal are gorgeous, but has a price to match.
+

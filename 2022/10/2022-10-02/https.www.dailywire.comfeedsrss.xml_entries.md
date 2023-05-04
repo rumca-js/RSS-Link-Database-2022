@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Ron DeSantis Gives Update On Hurricane Damage As Death Toll Surges
  - [https://www.dailywire.com/news/ron-desantis-gives-update-on-hurricane-damage-as-death-toll-surges](https://www.dailywire.com/news/ron-desantis-gives-update-on-hurricane-damage-as-death-toll-surges)
@@ -139,3 +139,4 @@ Dr. Anthony Fauci has steered another lucrative grant to study bat viruses to th
  - date published: 2022-10-02 09:37:39+00:00
 
 President Joe Biden personally thanked a Coast Guardsman for saving a 94-year-old woman in the aftermath of Hurricane Ian, but the hero expects to be fired within days for rejecting the COVID vaccine. Aviation Survival Technician Second Class Zach Loesch earned praise in a Friday phone call from the commander in chief for kicking in ...
+

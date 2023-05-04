@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Nord Stream Pipelines Have Stopped Leaking After Earlier Damage
  - [https://www.nytimes.com/2022/10/02/world/europe/nord-stream-pipeline-damage-russia.html](https://www.nytimes.com/2022/10/02/world/europe/nord-stream-pipeline-damage-russia.html)
@@ -207,5 +207,6 @@ Russia’s withdrawal from the city comes one day after Moscow illegally annexed
  - [https://www.nytimes.com/2022/10/01/world/europe/heres-why-russias-retreat-from-lyman-matters.html](https://www.nytimes.com/2022/10/01/world/europe/heres-why-russias-retreat-from-lyman-matters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-02 01:02:56+00:00
+
 
 

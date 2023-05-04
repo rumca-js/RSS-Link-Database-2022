@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## U.S. and Russia Duel Over Leadership of U.N. Tech Group
  - [https://www.nytimes.com/2022/09/28/technology/us-russia-technology-united-nations.html](https://www.nytimes.com/2022/09/28/technology/us-russia-technology-united-nations.html)
@@ -41,3 +41,4 @@ Self-driving eighteen-wheelers are now on highways in states like California and
  - date published: 2022-09-28 07:00:13+00:00
 
 In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.
+

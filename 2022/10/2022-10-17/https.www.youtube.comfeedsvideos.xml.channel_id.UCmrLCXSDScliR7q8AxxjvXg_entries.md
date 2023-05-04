@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## The Ballad of Jones & JK Rowling: Accelerationism Personified
  - [https://www.youtube.com/watch?v=GT3KbzbS_oM](https://www.youtube.com/watch?v=GT3KbzbS_oM)
@@ -61,3 +61,4 @@ http://www.digitaljuice.com/Intl
 https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your-retirement/
 
 #kanyewest #blm #sineadoconnor
+

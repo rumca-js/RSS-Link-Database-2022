@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don't Eat This Chicken From Costco That Might Contain Hard Pieces of Plastic
  - [https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201](https://lifehacker.com/dont-eat-this-chicken-from-costco-that-might-contain-ha-1849724201)
@@ -125,3 +125,4 @@
  - date published: 2022-10-31 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--moZkbdUF--/c_fit,fl_progressive,q_80,w_636/0ae6dba4952739673cb1f4bf10667d1b.jpg" /><p>It is autumn, which means you can find fancy little packets of fancy little mulling spices at fancy little grocery stores. They’re convenient, especially if you’re the type of person who goes through gallons of mulled wine and cider, but they’re kind of redundant, especially if you have a well-stocked spice cabinet.</p><p><a href="https://lifehacker.com/you-can-make-your-own-mulling-spices-1849717219">Read more...</a></p>
+

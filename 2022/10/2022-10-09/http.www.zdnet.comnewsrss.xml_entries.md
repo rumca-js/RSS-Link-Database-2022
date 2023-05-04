@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The four-day workweek: Why now is the best time to try something radically and new
  - [https://www.zdnet.com/article/the-four-day-workweek-why-now-is-the-best-time-to-try-something-radically-and-new/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-four-day-workweek-why-now-is-the-best-time-to-try-something-radically-and-new/#ftag=RSSbaffb68)
@@ -27,3 +27,4 @@ Here's a very difficult employee issue that companies -- and their employees -- 
  - date published: 2022-10-09 11:00:16+00:00
 
 Does it take science to get an annoying loudmouth to shut up? Microsoft thinks it may.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Narcan vending machines springing up across the country as related deaths surpass 75,000 in 2022
  - [https://www.dailymail.co.uk/news/article-11458633/Narcan-vending-machines-springing-country-related-deaths-surpass-75-000-2022.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11458633/Narcan-vending-machines-springing-country-related-deaths-surpass-75-000-2022.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1938,3 +1938,4 @@ The 281kg stash of liquid methamphetamine was found in July 2021 inside a truck
  - date published: 2022-11-22 00:00:17+00:00
 
 Among those downgraded were the Pimlico Academy in south London and Holland Park (pictured) in Kensington, west London. The state school known as 'the socialist Eton' is now classed 'inadequate'.
+

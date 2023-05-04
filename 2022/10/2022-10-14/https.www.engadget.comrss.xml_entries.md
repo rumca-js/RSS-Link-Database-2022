@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Nikola founder Trevor Milton convicted on three charges of fraud
  - [https://www.engadget.com/nikola-founder-trevor-milton-guilty-fraud-223109177.html?src=rss](https://www.engadget.com/nikola-founder-trevor-milton-guilty-fraud-223109177.html?src=rss)
@@ -125,3 +125,4 @@
  - date published: 2022-10-14 05:10:25+00:00
 
 <p>Apple keeps on losing court battles in Brazil over its decision to stop shipping iPhones with a charger. The São Paulo state court has <a href="https://www.reuters.com/legal/brazil-court-fines-apple-orders-sell-iphone-with-charger-2022-10-13/?taid=63487b293457710001b462bd">ruled against the tech giant</a> and slapped it with a 100 million real ($19 million) fine in a lawsuit filed by the Brazilian Consumers' Association, a group of borrowers, consumers and taxpayers. In addition, the court ha
+

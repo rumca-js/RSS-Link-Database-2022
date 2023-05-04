@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Travis Kelce on Chiefs' rumors about signing Odell Beckham Jr.: 'I want them to come true'
  - [https://www.foxnews.com/sports/travis-kelce-chiefs-rumors-signing-odell-beckham-jr](https://www.foxnews.com/sports/travis-kelce-chiefs-rumors-signing-odell-beckham-jr)
@@ -1287,3 +1287,4 @@ After Paul Flores was convicted of murder and Ruben Flores was acquitted of acce
  - date published: 2022-10-19 00:03:17+00:00
 
 Former Pittsburgh Steelers quarterback Ben Roethlisberger said Tom Brady "didn’t look like he wanted to be out there" in the Tampa Bay Buccaneers 20-18 loss to the Steelers on Sunday.
+

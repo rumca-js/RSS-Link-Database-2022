@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Iga Świątek triumfatorką US Open 2022
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/iga-swiatek/](https://www.polsatnews.pl/wiadomosc/2022-09-11/iga-swiatek/)
@@ -118,3 +118,4 @@ Ukraińcy weszli do Kupiańska, odcinając Rosjanom drogę transportu sprzętu i
  - date published: 2022-09-10 06:35:00+00:00
 
 Rozmowa z rannym rosyjskim żołnierzem wziętym do niewoli zyskuje popularność w sieci. Młody mężczyzna opowiada o tym, że niektóre rosyjskie czołgi strzelają, ale nie jeżdżą, z kolei inne jeżdżą, ale nie mogą strzelać.
+

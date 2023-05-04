@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Meta claims US military link to online propaganda campaign
  - [https://www.bbc.co.uk/news/technology-63731751?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63731751?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ The Royal Life Saving Society is trialling the use of buoyancy-aid-deploying dro
  - date published: 2022-11-23 00:12:14+00:00
 
 South African software developers discuss what it means to them to do business in the country.
+

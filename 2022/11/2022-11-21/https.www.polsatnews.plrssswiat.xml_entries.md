@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Włoskie miasteczko Presicce poszukuje mieszkańców. Za przeprowadzkę oferują ponad 140 tys.
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/wloskie-miasteczko-presicce-poszukuje-mieszkancow-za-przeprowadzke-oferuja-ponad-140-tys/](https://www.polsatnews.pl/wiadomosc/2022-11-21/wloskie-miasteczko-presicce-poszukuje-mieszkancow-za-przeprowadzke-oferuja-ponad-140-tys/)
@@ -118,3 +118,4 @@ Sekretarz generalny NATO Jens Stoltenberg określił wydarzenie, do którego dos
  - date published: 2022-11-21 05:22:00+00:00
 
 Nie żyje co najmniej sześć osób po tym, jak wybuchł pożar w dwupiętrowym budynku w centrum Moskwy.
+

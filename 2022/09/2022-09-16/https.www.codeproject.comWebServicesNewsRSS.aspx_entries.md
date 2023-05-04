@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Accelerate your models to production with Google Cloud and PyTorch
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58909](https://www.codeproject.com/script/News/View.aspx?nwid=58909)
@@ -139,3 +139,4 @@ Or: why your internet bandwidth is already used up this month
  - date published: 2022-09-16 04:00:00+00:00
 
 Would a 'pinky swear' count?
+

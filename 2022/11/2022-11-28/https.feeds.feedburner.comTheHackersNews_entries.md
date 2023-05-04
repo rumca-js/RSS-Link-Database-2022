@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Detail AppSync Cross-Tenant Vulnerability in Amazon Web Services
  - [https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html](https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html)
@@ -69,3 +69,4 @@ Twitter chief executive Elon Musk confirmed plans for end-to-end encryption (E2E
 The feature is part of Musk's vision for Twitter 2.0, which is expected to be what's called an "everything app." Other functionalities include longform tweets and payments, according to a slide deck shared by Musk over the weekend.
 <!--adsense-->
 The company's plans for
+

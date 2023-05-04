@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Pierwszy taki tenisowy turniej od 2019 roku. I ostatni
  - [https://eurosport.tvn24.pl/pierwszy-taki-tenisowy-turniej-od-2019-roku--i-ostatni,1119043.html?source=rss](https://eurosport.tvn24.pl/pierwszy-taki-tenisowy-turniej-od-2019-roku--i-ostatni,1119043.html?source=rss)
@@ -151,3 +151,4 @@
 
 <img alt="Rasistowski skandal przed derbami Madrytu. Atletico wystosowało apel" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ombzsm-vinicius/alternates/LANDSCAPE_1280" />
     Kibice Atletico obrażali piłkarza Realu Viniciusa Juniora.
+

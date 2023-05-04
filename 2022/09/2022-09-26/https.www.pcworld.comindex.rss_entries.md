@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The best free VPNs for Windows
  - [https://www.pcworld.com/article/634025/best-free-vpns-for-windows.html](https://www.pcworld.com/article/634025/best-free-vpns-for-windows.html)
@@ -43,3 +43,4 @@
 
 
 <p>The flagship Ryzen 9 7950X and its fellow launch chips (Ryzen 9 7900X, Ryzen 7 770
+

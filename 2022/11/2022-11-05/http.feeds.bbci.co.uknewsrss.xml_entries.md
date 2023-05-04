@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Why mourners are opting to scatter ashes by drone
  - [https://www.bbc.co.uk/news/uk-england-derbyshire-63414672?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-63414672?at_medium=RSS&at_campaign=KARANGA)
@@ -174,6 +174,13 @@ Hundreds affected by Twitter's worldwide job cuts have three days to elect a rep
  - date published: 2022-11-05 14:09:07+00:00
 
 Connor Wickham scores an amazing lob from inside the centre circle to seal Forest Green's 2-0 victory over non-league South Shields in the FA Cup.
+
+## T20 World Cup: Hales and Buttler lay foundation for England win
+ - [https://www.bbc.co.uk/sport/av/cricket/63527045?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63527045?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-11-05 13:23:38+00:00
+
+Opening batters Alex Hales and Jos Buttler get England off to a fast start to chase down Sri Lanka's 141 and qualify for the semi-finals of the T20 World Cup.
 
 ## Jordan Bardella: French National Rally has new leader to replace Le Pen
  - [https://www.bbc.co.uk/news/world-europe-63525377?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63525377?at_medium=RSS&at_campaign=KARANGA)
@@ -398,3 +405,4 @@ A Ukrainian woman suffered months of poor treatment and conditions while pregnan
  - date published: 2022-11-05 00:07:04+00:00
 
 The front pages report the upheaval of Twitter under Elon Musk and consider Rishi Sunak's pledges as prime minister.
+

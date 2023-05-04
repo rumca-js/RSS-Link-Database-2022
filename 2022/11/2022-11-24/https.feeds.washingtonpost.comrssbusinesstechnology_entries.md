@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## 'Opening the gates of hell’: Activists fear Musk will revive banned accounts
  - [https://www.washingtonpost.com/technology/2022/11/24/twitter-musk-reverses-suspensions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/24/twitter-musk-reverses-suspensions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Bronze-winning British paralympian John McFall will join the European Space Agen
  - date published: 2022-11-24 06:00:01+00:00
 
 The artificial intelligence uses a wide variety of data, like local temperatures and whether the Sunday football game is home or away.
+

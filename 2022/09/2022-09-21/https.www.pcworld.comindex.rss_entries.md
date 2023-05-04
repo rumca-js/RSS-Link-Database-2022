@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Microsoft tips likely Surface event on October 12
  - [https://www.pcworld.com/article/1072420/microsoft-tips-likely-surface-event-on-oct-12.html](https://www.pcworld.com/article/1072420/microsoft-tips-likely-surface-event-on-oct-12.html)
@@ -112,3 +112,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Protecting your personal data isn&rsquo;t just smart these days&mdash;it&rsquo;s a necessity. As the world grows more and more connected, your private info becomes more and more valuable. Whether it&rsquo;s using leaked info from website breaches to hack into your other accounts or holding your personal computer ransom for money, malicious evildoers won&rsquo;t hesitate to ruin
+

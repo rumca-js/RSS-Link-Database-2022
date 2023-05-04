@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Stop Using These Recalled Unilever Brands of Dry Shampoo, FDA Says
  - [https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946](https://lifehacker.com/stop-using-these-recalled-unilever-brands-of-dry-shampo-1849695946)
@@ -132,3 +132,4 @@
  - date published: 2022-10-24 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--8Bu54gGX--/c_fit,fl_progressive,q_80,w_636/0cc6c8583e444596790c1ea7867ba3c0.jpg" /><p>You are grocery shopping all wrong. Sadly, I can’t personally accompany you to the Piggly Wiggly and <em>force</em> you to navigate the supermarket correctly. I mean, I’m working on an army of atomic super-robots will be able to handle that, but until a naive venture capitalist shows up with first round of funding, you’ll have…</p><p><a href="https://lifehacker.com/the-7-deadly-sins-of-grocery-shopping-1849688725">Read more...</a></p>
+

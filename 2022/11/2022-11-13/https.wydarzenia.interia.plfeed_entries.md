@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Rosja: Rosyjscy żołnierze starli się z dowódcami. Wyciekło nagranie
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-rosyjscy-zolnierze-starli-sie-z-dowodcami-wycieklo-nag,nId,6408509](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-rosyjscy-zolnierze-starli-sie-z-dowodcami-wycieklo-nag,nId,6408509)
@@ -279,3 +279,4 @@
  - date published: 2022-11-13 04:42:56+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-czy-13-listopada-to-niedziela-handlowa-w-tych-sklepach-na-pe,nId,6395395"><img align="left" alt="Czy 13 listopada to niedziela handlowa? W tych sklepach na pewno zrobisz zakupy" src="https://i.iplsc.com/czy-13-listopada-to-niedziela-handlowa-w-tych-sklepach-na-pe/000FSTCSKMD28XY5-C321.jpg" /></a>11 listopada obchodzimy Narodowe Święto Niepodległości, a to oznacza, że większość sklepów na dzień przed weekendem pozostanie zamknięta dla klientów. Wiadomo, że zakupy standardowo będziemy mogli zrobić w czwartek i w sobotę. Jednak, które sklepy pozostaną otwarte również w niedzielę? Czy 13 listopada to niedziela handlowa i w związku z tym Biedronka, Lidl i Żabka będą czynne? Rozwiewamy wątpliwości.</p><br clear="all" />
+

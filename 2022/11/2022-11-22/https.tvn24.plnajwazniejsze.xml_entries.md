@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Pracowaliśmy nad tym przez miesiąc"
  - [https://eurosport.tvn24.pl/ochoa-rozszyfrowa--lewandowskiego---pracowali-my-nad-tym-przez-miesi-c-,1125807.html?source=rss](https://eurosport.tvn24.pl/ochoa-rozszyfrowa--lewandowskiego---pracowali-my-nad-tym-przez-miesi-c-,1125807.html?source=rss)
@@ -335,3 +335,4 @@
 
 <img alt="Polacy zaczynają mundial" src="https://tvn24.pl/najnowsze/cdn-zdjecie-0ieu5y-polacy-zaczynaja-mundial-meczem-z-meksykiem/alternates/LANDSCAPE_1280" />
     W końcu wygrać na inaugurację.
+

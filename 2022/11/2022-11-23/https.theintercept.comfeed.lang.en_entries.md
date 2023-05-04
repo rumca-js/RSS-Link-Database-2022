@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## I Experienced Jack Smith's Zeal Firsthand. Will Trump Get the Same Treatment?
  - [https://theintercept.com/2022/11/23/trump-jack-smith-justice-department/](https://theintercept.com/2022/11/23/trump-jack-smith-justice-department/)
@@ -23,3 +23,4 @@
 
 <p>Elon Musk's Twitter permitted a Russian embassy account to post a cartoon that echoed Nazi propaganda in its depiction of Ukraine's Jewish president, Volodymyr Zelenskyy.</p>
 <p>The post <a href="https://theintercept.com/2022/11/22/twitter-allows-russian-officials-share-antisemitic-cartoon-zelenskyy/" rel="nofollow">Twitter Allows Russian Officials to Share Antisemitic Cartoon of Zelenskyy</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

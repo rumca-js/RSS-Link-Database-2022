@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## It turns out that Liam Hemsworth was almost cast as The Witcher back in 2018
  - [https://www.pcgamer.com/it-turns-out-that-liam-hemsworth-was-almost-cast-as-the-witcher-back-in-2018](https://www.pcgamer.com/it-turns-out-that-liam-hemsworth-was-almost-cast-as-the-witcher-back-in-2018)
@@ -223,3 +223,4 @@ A dataminer found clues suggesting a Steam and Oculus release has been considere
  - date published: 2022-11-07 00:05:40+00:00
 
 Sorting through every new game on Steam so you don't have to.
+

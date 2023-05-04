@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## The first US video game studio to unionize is shutting down
  - [https://www.engadget.com/vodeo-games-shutting-down-213519398.html?src=rss](https://www.engadget.com/vodeo-games-shutting-down-213519398.html?src=rss)
@@ -258,3 +258,4 @@
  - date published: 2022-09-07 04:00:32+00:00
 
 <p>Last October, Google <a href="https://blog.google/products/maps/3-new-ways-navigate-more-sustainably-maps/">added new, eco-friendly driving directions</a> to Maps. In the US, you could pull up a driving route that would take into account things like congestion and incline to find you the directions that are best for your fuel economy. As part of a handful of Maps announcements today, Google says the feature will be available in "nearly 40" European countries, though we didn't get a list of ev
+

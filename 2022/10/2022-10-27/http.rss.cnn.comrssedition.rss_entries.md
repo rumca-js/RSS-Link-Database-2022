@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## With 12 days left before midterms, tensions rise between some candidates
  - [https://www.cnn.com/videos/politics/2022/10/27/midterms-tension-omar-jimenez-dnt-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/10/27/midterms-tension-omar-jimenez-dnt-lead-vpx.cnn)
@@ -532,3 +532,4 @@ An Australian judge has dismissed a 12-member jury considering their verdict in 
  - date published: 2022-10-27 00:18:06+00:00
 
 The world's tallest building casts a long shadow. For more than a decade now, the 828-meter (2,717 ft) high Burj Khalifa has reigned over Dubai's skyline and architecture's collective conscious. It didn't just break the record; 62% taller than its predecessor, Taipei 101, it obliterated it. Its legacy has been remarkable -- and remarkably useful to the man who designed it.
+

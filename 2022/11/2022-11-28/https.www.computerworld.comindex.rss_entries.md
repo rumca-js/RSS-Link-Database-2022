@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Alation’s Connected Sheets brings data governance to spreadsheets
  - [https://www.infoworld.com/article/3681336/alation-s-connected-sheets-brings-data-governance-to-spreadsheets.html#tk.rss_all](https://www.infoworld.com/article/3681336/alation-s-connected-sheets-brings-data-governance-to-spreadsheets.html#tk.rss_all)
@@ -34,3 +34,4 @@ Connected Sheets, which can be accessed via the company’s Data Catalog, can be
 <article>
 	<section class="page">
 <p>Like it or not, those who use Windows Update to obtain and install updates, patches, and fixes will occasionally encounter issues with the Windows Update service. Sometimes, a specific update may not download. At other times, an update may fail to install. Every now and then, Windows Update (a.k.a. WU) may refuse to interact with the Windows servers from which updates come.</p><p>That’s where these steps come in. Try these troubleshooting techniques in the order outlined below to get WU operational again.</p><p>Note: Although I’ve illustrated the WU troubleshooting steps in Windows 11 here, the same techniques also work with Windows 10, with only minor variations. This story covers both current Windows OS versions quite nicely.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3673711/how-to-troubleshoot-and-reset-windows-update.html#jump">To read this article in full, please click here</a></p></section></article>
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Apple iPad (10th generation) review: Mixed emotions
  - [https://www.androidauthority.com/apple-ipad-10th-generation-review-3229679/](https://www.androidauthority.com/apple-ipad-10th-generation-review-3229679/)
@@ -83,3 +83,4 @@ Your running club can get a whole lot bigger.
  - date published: 2022-11-05 02:00:08+00:00
 
 Find out if you should hit the gym or hit the hay.
+

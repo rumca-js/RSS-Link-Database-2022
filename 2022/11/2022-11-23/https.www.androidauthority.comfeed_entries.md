@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Level-up your gaming in the Corsair Black Friday sale
  - [https://www.androidauthority.com/corsair-black-friday-sale-3240838/](https://www.androidauthority.com/corsair-black-friday-sale-3240838/)
@@ -118,3 +118,4 @@ Honor is bringing Android 13 to a healthy variety of phones.
  - date published: 2022-11-23 01:00:31+00:00
 
 Track much more than calories.
+

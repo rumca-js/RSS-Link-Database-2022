@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Nonprofit trend report: Technology is fueling relevance and growth
  - [https://www.zdnet.com/article/nonprofit-trend-report-technology-is-fueling-relevance-and-growth/#ftag=RSSbaffb68](https://www.zdnet.com/article/nonprofit-trend-report-technology-is-fueling-relevance-and-growth/#ftag=RSSbaffb68)
@@ -314,3 +314,4 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - date published: 2022-11-10 00:44:00+00:00
 
 We've rounded up a list of the 12 best phones to give as gifts. There's something for everyone, even if you're on a budget or have a loved one that hates smartphones.
+

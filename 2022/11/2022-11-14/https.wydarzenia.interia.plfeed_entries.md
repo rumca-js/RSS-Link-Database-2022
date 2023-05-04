@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Dworczyk: Polski zespół dotarł z kolejną misją do obwodu charkowskiego
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-dworczyk-polski-zespol-dotarl-z-kolejna-misja-do-obwodu-char,nId,6410953](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-dworczyk-polski-zespol-dotarl-z-kolejna-misja-do-obwodu-char,nId,6410953)
@@ -537,3 +537,4 @@
  - date published: 2022-11-14 04:34:17+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-264-dzien-inwazji-rosji-relacja-na-zywo,nzId,3370,akt,140741"><img align="left" alt="Wojna w Ukrainie. 264. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-264-dzien-inwazji-rosji-relacja-na-zywo/000GC40CRYIP26MN-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

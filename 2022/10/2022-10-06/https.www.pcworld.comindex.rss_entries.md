@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best SSD & storage deals ahead of Prime Early Access Sale
  - [https://www.pcworld.com/article/393625/ssds-are-on-sale-for-ludicrously-cheap-during-prime-day.html](https://www.pcworld.com/article/393625/ssds-are-on-sale-for-ludicrously-cheap-during-prime-day.html)
@@ -81,3 +81,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>After getting fed up with the inefficient &ldquo;Add or remove programs&rdquo; menu in Windows 10, I decided to investigate ways to uninstall Windows software in bulk. That led me to a useful and delightfully-named program called&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.bcuninstaller.com/&amp;xcust=2-3-1339266-1-0-0&amp;sref=https://www.
+

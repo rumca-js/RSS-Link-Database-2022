@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Amid Joy in Kherson, a Humanitarian Disaster Looms
  - [https://www.nytimes.com/2022/11/12/world/europe/kherson-ukraine-russia.html](https://www.nytimes.com/2022/11/12/world/europe/kherson-ukraine-russia.html)
@@ -90,3 +90,4 @@ Many analysts and diplomats have suggested there could be a pause in major comba
  - date published: 2022-11-12 00:02:29+00:00
 
 After months of Russian occupation, residents said the moment recalled being liberated from the Nazis in World War II. But there was also fear about further Russian attacks.
+

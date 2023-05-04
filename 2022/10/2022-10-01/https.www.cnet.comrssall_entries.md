@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'Andor' Episode 4 Recap: Deep Cut Star Wars Easter Eggs, Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CADf328eec)
@@ -531,3 +531,4 @@ A houseful of Amazon Echo products has some advantages.
  - date published: 2022-10-01 00:00:03+00:00
 
 The Disney Plus series reveals how the hidden rebellion grows as the totalitarian regime tightens its grip on the galaxy.
+

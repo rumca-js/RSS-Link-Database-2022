@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Exclusive Clip “Graveyard Goofs” from Bugs Bunny's Howl-O-Skreem Spooktacula
  - [https://gizmodo.com/graveyard-goofs-bugs-bunnys-howl-o-skreem-spooktacula-1849575692](https://gizmodo.com/graveyard-goofs-bugs-bunnys-howl-o-skreem-spooktacula-1849575692)
@@ -279,3 +279,4 @@
  - date published: 2022-09-26 02:07:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--4KuWTdH4--/c_fit,fl_progressive,q_80,w_636/ebe2152c89da615cabbf393ec26e8b0a.jpg" /><p>It’s only been <a href="https://gizmodo.com/house-of-the-dragon-recap-we-light-the-way-episode-5-1849540836">one week</a> since we watched Princess Rhaenyra, heir to the Iron Throne, wed Laenor Velaryon to strengthen both houses and her future rule. But for Rhaenyra, King Viserys, Queen Alicent, and everyone else in <a href="https://gizmodo.com/ever
+

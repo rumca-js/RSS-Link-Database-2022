@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## VMware bug with 9.8 severity rating exploited to install witch’s brew of malware
  - [https://arstechnica.com/?p=1892156](https://arstechnica.com/?p=1892156)
@@ -111,3 +111,4 @@ Heated seat subscriptions will be illegal in New Jersey if this bill becomes law
  - date published: 2022-10-21 13:24:45+00:00
 
 Vice Society has a superpower that’s allowed it to quietly thrive: Mediocrity.
+

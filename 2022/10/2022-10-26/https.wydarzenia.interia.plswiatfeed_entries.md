@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Holandia: Nielegalne "posterunki policji" Chin. Chińskie MSZ zaprzecza
  - [https://wydarzenia.interia.pl/zagranica/news-holandia-nielegalne-posterunki-policji-chin-chinskie-msz-zap,nId,6371850](https://wydarzenia.interia.pl/zagranica/news-holandia-nielegalne-posterunki-policji-chin-chinskie-msz-zap,nId,6371850)
@@ -20,3 +20,4 @@
  - date published: 2022-10-26 07:53:57+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667"><img align="left" alt="USA: Demokraci chcieli negocjacji z Rosją. Kontrowersyjny list do Bidena" src="https://i.iplsc.com/usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list/000G95NMITKD5LK3-C321.jpg" /></a>Grupa trzydziestu polityków Partii Demokratycznej skierowała list do administracji Joe Bidena z sugestią zmiany strategii w sprawie wojny Rosji z Ukrainą. Niedługo później kongresmeni wycofali list. Stwierdzili, że został wysłany... bez koniecznej weryfikacji.</p><br clear="all" />
+

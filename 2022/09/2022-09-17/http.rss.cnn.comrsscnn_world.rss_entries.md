@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Iran's Supreme Leader shown at event amid reports of deteriorating health
  - [https://www.cnn.com/2022/09/17/middleeast/iran-khamenei-pictured-event-health-intl/index.html](https://www.cnn.com/2022/09/17/middleeast/iran-khamenei-pictured-event-health-intl/index.html)
@@ -20,3 +20,4 @@ Iran's Supreme Leader Ayatollah Seyyed Ali Khamenei was seen attending an event 
  - date published: 2022-09-17 03:19:32+00:00
 
 It has been close to six decades since the British monarchy symbolically ruled Singapore, but Queen Elizabeth II's death still elicited grief and reflection in the Southeast Asian nation.
+

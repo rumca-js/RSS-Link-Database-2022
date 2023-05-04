@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Workers with two jobs — is this really a problem?
  - [https://www.computerworld.com/article/3677271/workers-with-two-jobs-is-this-really-a-problem.html#tk.rss_all](https://www.computerworld.com/article/3677271/workers-with-two-jobs-is-this-really-a-problem.html#tk.rss_all)
@@ -17,3 +17,4 @@
 <article>
 	<section class="page">
 <p>This week, we're pawing our way through the giddily good <a href="https://www.computerworld.com/article/3675965/google-pixel-7.html">Google Pixel 7</a> and exploring some of the phone's more easily overlooked options.</p><p>The Pixel 7 and its plus-sized Pixel 7 Pro sibling are practically overflowing with awesome stuff, y'see, but some of their best experience-enhancing possibilities require a wee bit of spelunking to surface and set up.</p><p>So following u
+

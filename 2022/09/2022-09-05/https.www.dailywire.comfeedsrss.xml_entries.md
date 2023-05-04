@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: Memphis Police Find Body In Search For Kidnapped Heiress To Hardware Fortune
  - [https://www.dailywire.com/news/memphis-police-find-body-in-search-for-kidnapped-heiress-to-hardware-fortune](https://www.dailywire.com/news/memphis-police-find-body-in-search-for-kidnapped-heiress-to-hardware-fortune)
@@ -167,3 +167,4 @@ This General Tsao is no chicken. A Taiwanese microchip billionaire is raising a 
  - date published: 2022-09-05 00:00:46+00:00
 
 A San Francisco Bay area school district has asked its students’ parents to house its teachers in response to California&#8217;s affordable housing crisis across the state, according to a report from local media. The report comes after seven teachers quit their jobs at the end of the academic year last June, compelling Milpitas Unified School District ...
+

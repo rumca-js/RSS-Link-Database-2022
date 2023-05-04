@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Olaf Scholz za rozszerzeniem Unii nawet do 36 krajów
  - [https://www.bankier.pl/wiadomosc/Olaf-Scholz-za-rozszerzeniem-Unii-nawet-do-36-krajow-8423629.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Olaf-Scholz-za-rozszerzeniem-Unii-nawet-do-36-krajow-8423629.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -206,3 +206,4 @@ bagażowych Airtag od Apple. Powód? Przepisy.</p>
  - date published: 2022-10-15 01:35:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/a/3ac38bd1e25cea-948-568-2-17-997-598.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Pentagon poinformował w piątek o kolejnej transzy pomocy wojskowej dla Ukrainy wartej 725 mln dolarów. W zestawie znalazło się m.in. ponad 200 pojazdów Humvee (HMMWV), rakiety przeciwradarowe HARM i amunicja do systemów HIMARS.</p>
+

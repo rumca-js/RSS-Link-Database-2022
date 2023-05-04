@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## ‘PUBG’ creator’s next project is an open source metaverse for everyone
  - [https://www.washingtonpost.com/video-games/2022/09/28/pubg-metaverse-artemis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/28/pubg-metaverse-artemis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ British human flight company Gravity makes an Iron Man like Jet Suit humans can 
  - date published: 2022-09-28 04:34:18+00:00
 
 Fulmer, a founding member of the comedy group that skyrocketed to YouTube fame, had cultivated an image as a doting husband and father.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Polski Bruce Lee - spał na ławce, nagle wstał i zaczął ćwiczyć. Nagranie podbija sieć [WIDEO]
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29153563,inowroclaw-najpierw-spal-na-lawce-zaraz-wstal-i-zaczal-cwiczyc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29153563,inowroclaw-najpierw-spal-na-lawce-zaraz-wstal-i-zaczal-cwiczyc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -160,3 +160,4 @@
  - date published: 2022-11-17 07:03:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/54/cb/1b/z29145172M,Przewodow.jpg" vspace="2" />Ofiary wybuchu w Przewodowie mogą mieć pogrzeb państwowy, jeśli ich rodziny wyrażą na to zgodę. Premier Mateusz Morawiecki zdecydował również o przyznaniu im renty socjalnej - przekazał Paweł Szefernaker, wiceszef MSWiA.
+

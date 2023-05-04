@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Minerał z płaszcza Ziemi. Jak udało się go odnaleźć?
  - [https://www.chip.pl/2022/11/mineral-z-plaszcza-ziemi-dawemaoit](https://www.chip.pl/2022/11/mineral-z-plaszcza-ziemi-dawemaoit)
@@ -151,3 +151,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1070" src="https://konto.chip.pl/wp-content/uploads/2022/08/Piloci-F-35-ryzykowali-wlasnym-zyciem-choc-problem-z-systemem-ostatniej-szansy-byl-znany-3.jpg" style="margin-bottom: 10px;" width="1600" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/08/Piloci-F-35-ryzykowali-wlasnym-zyciem-choc-problem-z-systemem-ostatniej-szansy-byl-znany-3.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Najbardziej zaawansowane obecnie myśliwce na świecie, to zdecydowanie F-35 Lightning II, czyli bardzo kosztowo-kontrowersyjne dzieło firmy Lockheed Martin, z którego korzysta wiele państw. Polska będzie w przyszłości jednym z nich i zważywszy na ich ogromny potencjał, możemy się tylko z tego cieszyć. Zwłaszcza że te bojowe samoloty odrzutowe mogą doczekać się wyjątkowej funkcji, która stawi [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## To z nią Iga Świątek zagra o finał w Ostrawie
  - [https://eurosport.tvn24.pl/to-z-ni--iga--wi-tek-zagra-o-fina--w-ostrawie,1120871.html?source=rss](https://eurosport.tvn24.pl/to-z-ni--iga--wi-tek-zagra-o-fina--w-ostrawie,1120871.html?source=rss)
@@ -223,3 +223,4 @@
 
 <img alt="Oskarżają Rosję o eksploatację Afryki: pieniądze za zasoby naturalne finansują wojnę w Ukrainie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-868s03-rosjanie-w-afryce-5777257/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Tarnów. Groźny wypadek w centrum miasta. Auto uderzyło w grupę pieszych
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29132864,tarnow-grozny-wypadek-w-centrum-miasta-auto-uderzylo-w-grupe.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29132864,tarnow-grozny-wypadek-w-centrum-miasta-auto-uderzylo-w-grupe.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -139,3 +139,4 @@
  - date published: 2022-11-11 06:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ab/c2/1b/z29107115M,Marsz-Niepodleglosci-w-Warszawie-.jpg" vspace="2" />W trakcie Święta Niepodległości w całej Polsce odbywa się wiele wydarzeń towarzyszących. W tym roku również nie zabraknie koncertów oraz przemarszów. Największy z nich odbędzie się w Warszawie. Organizatorzy Marszu Niepodległości podali już harmonogram manifestacji.
+

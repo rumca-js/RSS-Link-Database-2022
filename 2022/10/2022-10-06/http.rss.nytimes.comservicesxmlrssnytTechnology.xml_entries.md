@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## News on Fringe Social Sites Draws Limited but Loyal Fans, Report Finds
  - [https://www.nytimes.com/2022/10/06/technology/parler-truth-social-telegram-pew.html](https://www.nytimes.com/2022/10/06/technology/parler-truth-social-telegram-pew.html)
@@ -34,3 +34,4 @@ The appeal of platforms like Parler, Truth Social and Telegram is another sympto
  - date published: 2022-10-06 01:24:32+00:00
 
 Before Mr. Musk renewed his $44 billion proposal, he and the company haggled in discussions that ultimately did not advance.
+

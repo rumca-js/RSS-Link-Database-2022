@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## One of Europe's busiest airports to cap passengers through early 2023
  - [https://www.cnn.com/travel/article/amsterdam-schiphol-airport-passenger-cap/index.html](https://www.cnn.com/travel/article/amsterdam-schiphol-airport-passenger-cap/index.html)
@@ -512,3 +512,4 @@ Ryan Reynolds made a big announcement about the highly anticipated 'Deadpool 3',
  - date published: 2022-09-29 00:38:09+00:00
 
 According to recent reporting, Florida Gov. Ron DeSantis and former President Donald Trump might not have the cozy relationship their public appearances indicate. In this week's episode of "Unfiltered," SE Cupp looks at why Republicans only have the courage to criticize Trump privately.
+

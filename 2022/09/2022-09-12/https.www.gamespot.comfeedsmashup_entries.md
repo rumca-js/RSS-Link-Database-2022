@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Surprise, PlayStation State Of Play Is Happening Tomorrow
  - [https://www.gamespot.com/articles/surprise-playstation-state-of-play-is-happening-tomorrow/1100-6507406/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/surprise-playstation-state-of-play-is-happening-tomorrow/1100-6507406/?ftag=CAD-01-10abi2f)
@@ -307,3 +307,4 @@
  - date published: 2022-09-12 10:20:00+00:00
 
 <p>CD Projekt Red seems to have added keyboard and mouse support to Cyberpunk 2077 with its most recent patch, but only for certain consoles.</p><p dir="ltr">Spotted and shared over on the game's <a href="https://www.reddit.com/r/cyberpunkgame/comments/x8nggi/it_wasnt_included_in_the_patch_notes_but_the_16/">subreddit</a>, user PurpleMessi posted an image of their gaming setup featuring their keyboard mouse paired with their Xbox Series X, allowing them to play Cyberpunk 2077 with the gamepad.</
+

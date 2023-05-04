@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The weekend’s best deals: Disney+ for $2, Anker chargers, and more
  - [https://arstechnica.com/?p=1882266](https://arstechnica.com/?p=1882266)
@@ -34,3 +34,4 @@ Dog trainers have long relied on punishment as a training tool.
  - date published: 2022-09-17 00:06:21+00:00
 
 Critics warn the law could lead to more hate speech and disinformation online.
+

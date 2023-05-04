@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## World Cup: FIFA app made U.S. soccer fans’ tickets disappear
  - [https://www.digitaltrends.com/news/world-cup-fifa-app-made-us-soccer-fans-tickets-disappear/](https://www.digitaltrends.com/news/world-cup-fifa-app-made-us-soccer-fans-tickets-disappear/)
@@ -13,3 +13,4 @@ The Middle East's first World Cup got off to a rocky start on Monday after some 
  - date published: 2022-11-22 06:03:48.206089+00:00
 
 A drone-based light show turned chaotic after some of the flying machines began falling out of the sky and crashing into the water during the performance.
+

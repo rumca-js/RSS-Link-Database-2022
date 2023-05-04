@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Officials Flee Kherson as Russian Troops Dig In for a Battle
  - [https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html](https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html)
@@ -202,3 +202,4 @@ Britain’s leadership race.
  - date published: 2022-10-24 02:50:01+00:00
 
 The stunt in a German museum was the latest attack on widely admired art, carried out by protesters demanding action on climate change.
+

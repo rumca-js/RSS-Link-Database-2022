@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## James McDivitt, commander of pivotal NASA missions, dies at 93
  - [https://www.washingtonpost.com/obituaries/2022/10/18/james-mcdivitt-dies-key-astronaut-in-early-nasa-missions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/obituaries/2022/10/18/james-mcdivitt-dies-key-astronaut-in-early-nasa-missions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Letitia James’s (D) investigation marks one of the most significant efforts by
  - date published: 2022-10-18 10:30:57+00:00
 
 Tech companies are tightening their belts in response to economic headwinds.
+

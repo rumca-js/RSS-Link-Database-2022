@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Robot Truck Developer TuSimple At Risk Of Nasdaq Delisting After Founders Fire Its Board
  - [https://www.forbes.com/sites/alanohnsman/2022/11/10/robot-truck-developer-tusimple-at-risk-of-nasdaq-delisting-after-founders-fire-its-board/](https://www.forbes.com/sites/alanohnsman/2022/11/10/robot-truck-developer-tusimple-at-risk-of-nasdaq-delisting-after-founders-fire-its-board/)
@@ -496,3 +496,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-11-10 02:00:09+00:00
 
 Here's today's 'Heardle' song, along with some hints.
+

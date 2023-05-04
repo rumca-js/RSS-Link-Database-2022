@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: Elon Musk Sends Email To Twitter Staff Notifying Them Of Mass Layoffs
  - [https://www.dailywire.com/news/breaking-elon-musk-sends-email-to-twitter-staff-notifying-them-of-mass-layoffs](https://www.dailywire.com/news/breaking-elon-musk-sends-email-to-twitter-staff-notifying-them-of-mass-layoffs)
@@ -468,3 +468,4 @@ Rep. Alexandria Ocasio-Cortez (D-NY) appeared to float a conspiracy theory Wedne
  - date published: 2022-11-03 03:30:27+00:00
 
 New Hampshire could be having a “General” election on Tuesday. Retired U.S. Army Brigadier General Don Bolduc has taken the lead in what began as a longshot bid to unseat New Hampshire Democratic Sen. Maggie Hassan, according to a new Trafalgar/Daily Wire poll. The new data came just hours before the pair squared off in ...
+

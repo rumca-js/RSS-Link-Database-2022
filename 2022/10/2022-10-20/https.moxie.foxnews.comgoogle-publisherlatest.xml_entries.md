@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Arizona Gov says the 'Border Barrier Mission is working' amid fight with federal government over border wall
  - [https://www.foxnews.com/us/arizona-gov-says-border-barrier-mission-working-fight-federal-government-border-wall](https://www.foxnews.com/us/arizona-gov-says-border-barrier-mission-working-fight-federal-government-border-wall)
@@ -1196,3 +1196,4 @@ Death Row Records co-founder Michael "Harry-O" Harris is endorsing Republican ca
  - date published: 2022-10-20 00:12:30+00:00
 
 The commander of the Defense Department's Central Command (CENTCOM) visited a Navy nuclear submarine in the Arabian Sea on Wednesday.
+

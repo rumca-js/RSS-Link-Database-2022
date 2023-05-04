@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Fitbit Versa 4 review: Back to basics
  - [https://www.androidauthority.com/fitbit-versa-4-review-3223693/](https://www.androidauthority.com/fitbit-versa-4-review-3223693/)
@@ -146,3 +146,4 @@ There are a lot of excellent options if you're looking for a phone for gaming. C
  - date published: 2022-11-02 00:00:39+00:00
 
 Sync up all your data and join the community.
+

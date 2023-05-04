@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania: Boris Johnson nie będzie kandydował na premiera
  - [https://www.polsatnews.pl/wiadomosc/2022-10-23/wielka-brytania-boris-johnson-nie-bedzie-kandydowal-na-premiera/](https://www.polsatnews.pl/wiadomosc/2022-10-23/wielka-brytania-boris-johnson-nie-bedzie-kandydowal-na-premiera/)
@@ -83,3 +83,4 @@ Wjaczesław Bogusłajew, właściciel ukraińskiego koncernu Motor Sicz produkuj
  - date published: 2022-10-23 04:33:00+00:00
 
 Xi Jinping został ponownie wybrany sekretarzem generalnym Komunistycznej Partii Chin - poinformowały państwowe media. Przywódca Chińskiej Republiki Ludowej zerwał tym samym z tradycją i po raz kolejny został pozostał na stanowisku.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Why Black Panther: Wakanda Forever Has the Best End Credit Scene in Marvel History
  - [https://gizmodo.com/black-panther-2-end-credits-scene-marvel-spoilers-1849758729](https://gizmodo.com/black-panther-2-end-credits-scene-marvel-spoilers-1849758729)
@@ -321,3 +321,4 @@
  - date published: 2022-11-10 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--BEw1WzOJ--/c_fit,fl_progressive,q_80,w_636/90d41bd952b9d2122359836b4d1caf31.png" /><p>The creatively cruel ways the Empire <a href="https://gizmodo.com/star-wars-andor-episode-10-luthen-speech-skarsgard-1849764660">tortures Rebels</a>  have been vividly showcased on <a href="https://gizmodo.com/andor-episode-10-recap-diego-luna-star-wars-disney-plus-1849761233"><em>Andor</em></a>, like<em> </em>floors with the power to fry people. But there’s none more disturbing than Imperial Security Bureau officer Dedra Meero’s weapon of choice: headphones that play the sounds of a species that can transmit their painful death…</p><p><a href="https://gizmodo.com/star-wars-andor-disney-plus-sonic-torture-device-sound-1849764985">Read more...</a></p>
+

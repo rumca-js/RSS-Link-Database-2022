@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## OnePlus Nord N300 review: Simple to a fault
  - [https://www.androidauthority.com/oneplus-nord-n300-review-3231939/](https://www.androidauthority.com/oneplus-nord-n300-review-3231939/)
@@ -69,3 +69,4 @@ Sharing stats is fun, but should be done safely.
  - date published: 2022-11-12 00:30:43+00:00
 
 Link the world's largest social fitness app right to your wrist.
+

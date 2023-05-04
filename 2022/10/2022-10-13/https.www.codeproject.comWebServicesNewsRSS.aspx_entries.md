@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A wild new way to use Android widgets
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59175](https://www.codeproject.com/script/News/View.aspx?nwid=59175)
@@ -132,3 +132,4 @@ Hire a 12 year-old to hack it?
  - date published: 2022-10-13 04:00:00+00:00
 
 Kotlin Multiplatform Mobile from JetBrains is now in beta, and we have been experimenting with this technology to see how it can enable code sharing across platforms.
+

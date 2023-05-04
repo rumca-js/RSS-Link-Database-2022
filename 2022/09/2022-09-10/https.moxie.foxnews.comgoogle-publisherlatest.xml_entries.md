@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Congressman introduces resolution urging all 50 states to include 9/11 in K-12 curriculum
  - [https://www.foxnews.com/media/congressman-introduces-resolution-urging-50-states-include-9-11-k-12-curriculum](https://www.foxnews.com/media/congressman-introduces-resolution-urging-50-states-include-9-11-k-12-curriculum)
@@ -727,3 +727,4 @@ A Supreme Court ruling has blocked a prior New York County Supreme Court which f
  - date published: 2022-09-10 00:00:09+00:00
 
 A small plane crashed near the shore of North Island in the San Diego Bay in California on Friday afternoon, according to authorities.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Ukraine Looks to Cement Full Control of Kherson After Russian Retreat
  - [https://www.wsj.com/articles/ukraine-looks-to-cement-full-control-of-kherson-after-russian-retreat-11668255422](https://www.wsj.com/articles/ukraine-looks-to-cement-full-control-of-kherson-after-russian-retreat-11668255422)
@@ -20,3 +20,4 @@ Yevgeny Prigozhin, founder of the Wagner Group, is using his force’s battlefie
  - date published: 2022-11-12 10:30:00+00:00
 
 Kyiv is hoping a new government in Jerusalem and Russia’s use of Iranian-made drones will help make the case for assistance.
+

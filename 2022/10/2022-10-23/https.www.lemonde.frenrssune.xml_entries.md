@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Bashar Al-Assad still banished from the Arab League
  - [https://www.lemonde.fr/en/international/article/2022/10/24/bashar-al-assad-still-banished-from-the-arab-league_6001500_4.html](https://www.lemonde.fr/en/international/article/2022/10/24/bashar-al-assad-still-banished-from-the-arab-league_6001500_4.html)
@@ -41,3 +41,4 @@ The French president spoke on Sunday at a meeting of the Community of Sant'Egidi
  - date published: 2022-10-23 07:00:14+00:00
 
 With black toenails, sprains and tendonitis, do casual runners – whose numbers have shot up since the pandemic – overestimate their abilities?
+

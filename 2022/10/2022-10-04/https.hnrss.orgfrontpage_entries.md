@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## The Full Chess Cheating Report of Hans Neiman
  - [https://www.chess.com/blog/CHESScom/hans-niemann-report](https://www.chess.com/blog/CHESScom/hans-niemann-report)
@@ -634,3 +634,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33075401">https://news.ycombinator.com/item?id=33075401</a></p>
 <p>Points: 34</p>
 <p># Comments: 30</p>
+

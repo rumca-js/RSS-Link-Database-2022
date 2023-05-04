@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## 'Africa's Titanic': Remembering Senegal's Joola tragedy
  - [https://www.bbc.co.uk/news/world-africa-63015518?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63015518?at_medium=RSS&at_campaign=KARANGA)
@@ -454,3 +454,4 @@ Aiden Aslin says he was kept in solitary confinement for five months, beaten up 
  - date published: 2022-09-25 00:01:46+00:00
 
 Briton Joe Joyce walks through fire to knock out Joseph Parker in their heavyweight showdown in Manchester.
+

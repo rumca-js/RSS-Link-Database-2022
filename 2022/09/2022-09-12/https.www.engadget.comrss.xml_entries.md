@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Sony's next State of Play will highlight 10 PS4, PS5 and PS VR2 titles
  - [https://www.engadget.com/sony-next-state-of-play-will-highlight-10-ps4-ps5-and-ps-vr2-titles-230409249.html?src=rss](https://www.engadget.com/sony-next-state-of-play-will-highlight-10-ps4-ps5-and-ps-vr2-titles-230409249.html?src=rss)
@@ -104,3 +104,4 @@
  - date published: 2022-09-12 08:47:47+00:00
 
 <p>Meta's Quest Pro headset is <a href="https://www.engadget.com/metas-next-vr-headset-is-coming-in-october-121737412.html">due to arrive</a> next month, but a leaked video appears to show it in full. It was originally posted on Facebook by <a href="https://www.facebook.com/reel/5588638671195147/?s=single_unit">Ramiro Cardenas</a>, who said that multiple devices (labeled "engineering samples") were left in a hotel room.&nbsp;</p><p>In the video (<a href="https://twitter.com/GossiTheDog/status/15
+

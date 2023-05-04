@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Chartist
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59354](https://www.codeproject.com/script/News/View.aspx?nwid=59354)
@@ -27,13 +27,6 @@ When the user feels confused, frustrated or intimidated, your website analytics 
  - date published: 2022-11-01 04:00:00+00:00
 
 Turbopack is built on a new incremental architecture for the fastest possible development experience. On large applications, it shows updates 10x faster than Vite and 700x faster than Webpack.
-
-## Is There Too Much CSS Now?
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59351](https://www.codeproject.com/script/News/View.aspx?nwid=59351)
- - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
- - date published: 2022-11-01 04:00:00+00:00
-
-Now that we got all we wished for and more, some of us are asking — do we now have too much CSS?
 
 ## Kent Beck: Software design is an exercise in human relationships
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59362](https://www.codeproject.com/script/News/View.aspx?nwid=59362)
@@ -111,3 +104,4 @@ Because sometimes you need more than braaaaiiinnnnsssss
  - date published: 2022-11-01 04:00:00+00:00
 
 What's next for me: maybe, no, and elephant no
+

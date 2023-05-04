@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Monocraft: A programming font based on the typeface used in Minecraft
  - [https://github.com/IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
@@ -651,3 +651,4 @@ Getting a lot of status code 500 errors and decided to open this thread for stat
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32731474">https://news.ycombinator.com/item?id=32731474</a></p>
 <p>Points: 7</p>
 <p># Comments: 6</p>
+

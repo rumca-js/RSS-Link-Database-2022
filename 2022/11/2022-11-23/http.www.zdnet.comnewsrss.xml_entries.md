@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 30+ best Black Friday deals 2022 from Amazon, Walmart, Best Buy, and more
  - [https://www.zdnet.com/article/best-black-friday-deals-november-23-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-black-friday-deals-november-23-2022/#ftag=RSSbaffb68)
@@ -510,3 +510,4 @@ The best email hosting services provide a professional email address with genero
  - date published: 2022-11-23 08:13:00+00:00
 
 With a special code, new customers can build their own website and save up to 50%.
+

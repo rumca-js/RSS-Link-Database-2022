@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wybuch w Przewodowie. Niemcy wyciągają pomocną dłoń. "Może to nastąpić nawet jutro"
  - [https://www.polsatnews.pl/wiadomosc/2022-11-16/wybuch-w-przewodowie-niemcy-wyciagaja-pomocna-dlon-moze-to-nastapic-nawet-jutro/](https://www.polsatnews.pl/wiadomosc/2022-11-16/wybuch-w-przewodowie-niemcy-wyciagaja-pomocna-dlon-moze-to-nastapic-nawet-jutro/)
@@ -132,3 +132,4 @@ Szef polskiego MON Mariusz Błaszczak rozmawiał w nocy z wtorku na środę ze s
  - date published: 2022-11-16 02:28:00+00:00
 
 Donald Trump, były prezydent USA ogłosił, że będzie ubiegał się o kolejną kadencję w wyborach w 2024 roku. Zamierza po raz kolejny zawalczyć o nominację Partii Republikańskiej
+

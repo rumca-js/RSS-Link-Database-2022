@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Top NHS hospital pocketed £38m doing private surgery for Kuwait patients
  - [https://www.dailymail.co.uk/news/article-11233105/Top-NHS-hospital-pocketed-38m-doing-private-surgery-Kuwait-patients.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11233105/Top-NHS-hospital-pocketed-38m-doing-private-surgery-Kuwait-patients.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1883,3 +1883,4 @@ Woburn, Massachusetts residents say a rafter of turkeys have attacked everyone f
  - date published: 2022-09-20 00:09:17+00:00
 
 DAILY MAIL COMMENT: The piper has played his last ethereal lament. The Captains and the Kings have departed. And Queen Elizabeth II has taken her place in the pantheon of British monarchy.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Fat Bear Week Is On, So It's Time to Choose Your Chubby Champ     - CNET
  - [https://www.cnet.com/culture/fat-bear-week-is-on-so-its-time-to-choose-your-chubby-champ/#ftag=CADf328eec](https://www.cnet.com/culture/fat-bear-week-is-on-so-its-time-to-choose-your-chubby-champ/#ftag=CADf328eec)
@@ -699,3 +699,4 @@ Cases in the US keep declining overall, but the future of monkeypox remains unkn
  - date published: 2022-10-05 00:20:00+00:00
 
 The sun is so hot right now.
+

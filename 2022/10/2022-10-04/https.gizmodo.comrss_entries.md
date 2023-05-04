@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Controversial Chess Player 'Likely Cheated' in Over 100 Online Chess Games, According to Investigation
  - [https://gizmodo.com/chess-niemann-cheated-100-online-games-magnus-carlsen-1849616800](https://gizmodo.com/chess-niemann-cheated-100-online-games-magnus-carlsen-1849616800)
@@ -251,3 +251,4 @@
  - date published: 2022-10-04 00:15:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--WLzR5ZCt--/c_fit,fl_progressive,q_80,w_636/2f3c3a8267d3661b58252f354f4270c2.png" /><p>On Sunday, the world was reintroduced to Anne Rice’s vampires. The <a href="https://gizmodo.com/interview-with-the-vampire-remake-comic-con-trailer-1849323608">AMC pilot</a> of the reconstructed <a href="https://gizmodo.com/interview-with-the-vampire-review-amc-anne-rice-sexy-1849591433"><em>Interview With the Vampire</em></a> stars <a href="https:/
+

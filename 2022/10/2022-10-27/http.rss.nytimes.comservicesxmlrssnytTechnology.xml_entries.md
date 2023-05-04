@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Apple Earnings: iPhone Powers Growth, but Signs Point to a Slowdown
  - [https://www.nytimes.com/2022/10/27/technology/apple-aapl-iphone-q4-earnings.html](https://www.nytimes.com/2022/10/27/technology/apple-aapl-iphone-q4-earnings.html)
@@ -27,3 +27,4 @@ The billionaire posted a note to advertisers saying he wanted the service to be 
  - date published: 2022-10-27 14:23:31+00:00
 
 Demand for semiconductors was off the charts last year. But a sharp slowdown coupled with new U.S. restrictions against China have created obstacles.
+

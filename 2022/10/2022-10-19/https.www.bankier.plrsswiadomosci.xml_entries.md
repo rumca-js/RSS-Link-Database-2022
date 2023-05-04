@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Zastraszanie posłów. Chaotyczne sceny w Izbie Gmin podczas głosowania ws. gazu łupkowego
  - [https://www.bankier.pl/wiadomosc/Zastraszanie-poslow-Chaotyczne-sceny-w-Izbie-Gmin-podczas-glosowania-ws-gazu-lupkowego-8425778.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zastraszanie-poslow-Chaotyczne-sceny-w-Izbie-Gmin-podczas-glosowania-ws-gazu-lupkowego-8425778.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -472,3 +472,4 @@ wykonać określoną liczbę transakcji i aktywnie korzystać z bankowo
  - date published: 2022-10-19 01:01:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/4/5/238fd0e1b2b745-948-568-0-37-1491-894.png" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent Joe Biden oglosi w środę skierowanie na rynek dodatkowych 15 mln baryłek ropy z rezerwy strategicznej  USA w ramach odpowiedzi na zapowiedziane przez kraje OPEC+ ograniczenie wydobycia tego surowca - ujawniły we wtorek źródła w Białym Domu. Biden ma również zapowiedzi
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Szczegóły bariery na granicy z Kaliningradem. "Powstanie zapora perymetryczna"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29160146,szczegoly-bariery-na-granicy-z-kaliningradem-powstanie-zapora.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29160146,szczegoly-bariery-na-granicy-z-kaliningradem-powstanie-zapora.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-11-19 08:37:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/cd/ce/1b/z29158605M,Pogoda--Pierwszy-snieg-w-Rzeszowie.jpg" vspace="2" />Pogoda w weekend zapowiada się naprawdę zimowo. W całym kraju możemy spodziewać się całodobowego mrozu, gdzieniegdzie temperatura spadnie do -10 stopni Celsjusza. Ponadto popada śnieg - szczególnie intensywny będzie na północy i zachodzie. IMGW wydał ostrzeżenia pierwszego stopnia.
+

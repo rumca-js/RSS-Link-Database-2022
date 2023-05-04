@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## NASA Mars Rover May Have a Dust Problem in Its Rock Sample System     - CNET
  - [https://www.cnet.com/science/space/nasa-mars-rover-may-have-a-dust-problem-in-its-rock-sample-system/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-mars-rover-may-have-a-dust-problem-in-its-rock-sample-system/#ftag=CADf328eec)
@@ -692,3 +692,4 @@ The Star Wars show comes to Disney's streaming service each week until late this
  - date published: 2022-11-04 00:00:03+00:00
 
 Recap: The Disney Plus show introduces the Empire's fun new form of interrogation. Just kidding, it's horrible.
+

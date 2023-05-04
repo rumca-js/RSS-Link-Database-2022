@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Premier: W planach rządu jest budowa sześciu reaktorów atomowych
  - [https://www.bankier.pl/wiadomosc/Premier-W-planach-rzadu-jest-budowa-szesciu-reaktorow-atomowych-8431509.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Premier-W-planach-rzadu-jest-budowa-szesciu-reaktorow-atomowych-8431509.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -160,3 +160,4 @@
  - date published: 2022-10-30 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/e/0d1ff1d1ca8b96-948-568-2-7-997-598.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Od kilku lat początek sezonu grzewczego oznacza oczekiwanie na kolejne podwyżki cen energii, gazu i ciepła. Natłok informacji w mediach sprawia jednak, że nie wiemy, ile dokładnie zapłacimy, dopóki nie dojdą do nas pierwsze faktury. Jak będą wyglądać nasze rachunki za prąd w 2023 r.? Dlaczego mimo zamrożenia cen każdy z nas zapłaci więcej?</p>
+

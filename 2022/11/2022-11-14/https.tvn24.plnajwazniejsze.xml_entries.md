@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Udany początek Djokovicia w ATP Finals. Wyżej notowany rywal pokonany
  - [https://eurosport.tvn24.pl/udany-pocz-tek-djokovicia-w-atp-finals--wy-ej-notowany-rywal-pokonany,1124682.html?source=rss](https://eurosport.tvn24.pl/udany-pocz-tek-djokovicia-w-atp-finals--wy-ej-notowany-rywal-pokonany,1124682.html?source=rss)
@@ -159,3 +159,4 @@
 
 <img alt="Mundial pod znakiem przebierańców. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-tj448v-w-katarze-juz-sa-kibice-z-wielu-krajow-swiata/alternates/LANDSCAPE_1280" />
     Do rozpoczęcia mistrzostw świata w piłce nożnej został tydzień, ale na ulicach Kataru już można spotkać kibiców.
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Ubisoft may finally be planning a return to Steam
  - [https://www.pcgamer.com/ubisoft-may-finally-be-planning-a-return-to-steam](https://www.pcgamer.com/ubisoft-may-finally-be-planning-a-return-to-steam)
@@ -209,3 +209,4 @@ Console exclusivity has been a live question since the game's announcement.
  - date published: 2022-11-08 00:19:25+00:00
 
 Dimensionality is a function of consciousness.
+

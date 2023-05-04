@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Black Adam: Post-Credits Scene, Awesome DC Superhero Cameo Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-awesome-dc-superhero-cameo-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-awesome-dc-superhero-cameo-explained/#ftag=CADf328eec)
@@ -790,3 +790,4 @@ Google didn't publicize the move.
  - date published: 2022-10-28 00:02:00+00:00
 
 Just as spooky season is coming to a close, Disney has given us a look at its holiday revival.
+

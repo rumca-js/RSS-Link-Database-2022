@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Election Firm Knew Data Had Been Sent to China, Prosecutors Say
  - [https://www.nytimes.com/2022/10/13/technology/konnech-eugene-yu-election-data.html](https://www.nytimes.com/2022/10/13/technology/konnech-eugene-yu-election-data.html)
@@ -27,3 +27,4 @@ U.S. officials pushed to choke off China’s access to critical semiconductor te
  - date published: 2022-10-13 13:48:00+00:00
 
 Cybersecurity experts warn that threats lurk in cheat codes, microtransactions and messages from fellow players.
+

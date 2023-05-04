@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Kyiv Planning for Total Evacuation if It Loses Electricity
  - [https://www.nytimes.com/2022/11/05/world/europe/kyiv-ukraine-electricity-russia-infrastructure.html](https://www.nytimes.com/2022/11/05/world/europe/kyiv-ukraine-electricity-russia-infrastructure.html)
@@ -90,3 +90,4 @@ Both nations had presidents who attacked their elections. But their responses â€
  - date published: 2022-11-05 09:00:34+00:00
 
 Officials in the Biden administration expect plenty of complications, including summons to hearings over the U.S. withdrawal from Afghanistan.
+

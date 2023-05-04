@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Guido was right, there should be no lambda in Python (2018)
  - [https://pbrown.me/blog/vslambda/](https://pbrown.me/blog/vslambda/)
@@ -622,3 +622,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32990461">https://news.ycombinator.com/item?id=32990461</a></p>
 <p>Points: 16</p>
 <p># Comments: 2</p>
+

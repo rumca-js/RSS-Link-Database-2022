@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Rynek komputerów mierzy się ze spadkiem. Jest jednak jeden zwycięzca
  - [https://ithardware.pl/aktualnosci/rynek_komputerow_mierzy_sie_ze_spadkiem_jest_jednak_jeden_zwyciezca-23798.html](https://ithardware.pl/aktualnosci/rynek_komputerow_mierzy_sie_ze_spadkiem_jest_jednak_jeden_zwyciezca-23798.html)
@@ -163,3 +163,4 @@ W ubiegłym...
 
 <img src="https://ithardware.pl/artykuly/min/23780_1.jpg" />            Topowy GeForce RTX 4090 Ti lub TITAN z rodziny Ada Lovelace (nie ma pewności co do nazwy karty), kt&oacute;rego wielu spodziewało się w pierwszym rzucie nowej generacji NVIDII, podobno został odłożony na p&oacute;łkę przez Zielonych, ponieważ...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/nvidia_podobno_skasowala_titana_z_rodziny_ada_lovelace_karta_miala_palic_zasilacze_i_sie_topic-23780.htm
+

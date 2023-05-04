@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'House of the Dragon' Episode 6 Recap: A Tense Time Jump     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-a-tense-time-jump/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-a-tense-time-jump/#ftag=CADf328eec)
@@ -307,3 +307,4 @@ Slow upload speeds make for a bad internet experience. Here's what might be happ
  - date published: 2022-10-02 00:00:00+00:00
 
 The Disney Plus series hides some cool details and references in the scenery and dialogue as the hidden rebellion grows.
+

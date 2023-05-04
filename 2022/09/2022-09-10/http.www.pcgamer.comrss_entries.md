@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Tender Loving Care, the FMV erotic thriller that wanted you to think it was intellectual smut
  - [https://www.pcgamer.com/saturday-crapshoot-tender-loving-care](https://www.pcgamer.com/saturday-crapshoot-tender-loving-care)
@@ -76,3 +76,4 @@ We're in for a helping of Assassin's Creed on Saturday.
  - date published: 2022-09-10 07:01:28+00:00
 
 Wordle today: The solution and a hint for Saturday's puzzle.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Świderski bohaterem Polaków. "Przyjechaliśmy, żeby zrealizować nasz plan"
  - [https://eurosport.tvn24.pl/-widerski-bohaterem-polak-w---przyjechali-my---eby-zrealizowa--nasz-plan-,1119636.html?source=rss](https://eurosport.tvn24.pl/-widerski-bohaterem-polak-w---przyjechali-my---eby-zrealizowa--nasz-plan-,1119636.html?source=rss)
@@ -303,3 +303,4 @@
 
 <img alt="Korzystajcie ze słońca. To ostatni dzień przed zmianą pogody" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ea3r6x-deszcz-opady-deszczu-5779917/alternates/LANDSCAPE_1280" />
     W niedzielę w większości kraju aura będzie dopisywać.
+

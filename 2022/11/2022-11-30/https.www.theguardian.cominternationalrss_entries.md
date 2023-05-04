@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Florida QB Jalen Kitna charged with possession of child abuse images
  - [https://www.theguardian.com/sport/2022/nov/30/florida-qb-jalen-kitna-charged-with-possession-of-child-abuse-images](https://www.theguardian.com/sport/2022/nov/30/florida-qb-jalen-kitna-charged-with-possession-of-child-abuse-images)
@@ -1014,3 +1014,4 @@ Chinese leader who oversaw economic growth and a stable relationship with the US
  - date published: 2022-11-30 00:01:27+00:00
 
 <p>A tactical tweak against Wales turned England into fun entertainers and for that Southgate deserves huge credit</p><p>In praise of Gareth. Can we take a moment to do this now? Can we just suck that sweetness down? Because this was a very good game for England and their manager, a manager who has, for all his success, his status as pretty much the most sensible person currently active in English public life, had <a href="https://www.theguardian.com/football/2022/nov/19/gareth-southgate-feels-heat-from-england-fans-after-hungary-debacle" title="">a weirdly vitriolic year and a half</a>.</p><p>It was a good game for Gareth Southgate because England were bad at first, and then they were good, and good thanks to a stroke of tactical switchery that broke the game open. It was good because players Southgate brought in ended the night playing with freedom; Marcus Rashford romping like a cosseted puppy, spanking England’s opening goal into the top corner then celebrating with something that felt, and indeed was, a kind of catharsis, the feeling of a breaking wave.</p> <a href="https://www.theguardian.com/football/blog/2022/nov/30/gareth-southgate-picks-his-moment-to-show-he-is-a-good-england-manager">Continue reading...</a>
+

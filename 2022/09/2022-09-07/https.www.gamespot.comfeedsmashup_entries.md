@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## 16 '80s TV Shows You Definitely Forgot Existed
  - [https://www.gamespot.com/gallery/16-80s-tv-shows-you-definitely-forgot-existed/2900-4308/](https://www.gamespot.com/gallery/16-80s-tv-shows-you-definitely-forgot-existed/2900-4308/)
@@ -356,3 +356,4 @@
  - date published: 2022-09-07 08:23:00+00:00
 
 <p>Additional new changes are coming to Twitch and this time, the streaming platform is removing its popular hosting feature. As the updated <a href="https://help.twitch.tv/s/article/how-to-use-host-mode?language=en_US">Help page</a> details, Twitch will be "deprecating" host mode as the "experience it delivers to viewers doesn’t match their expectations when they come to Twitch."</p><p dir="ltr">"Viewers want to interact with a streamer when they’re live and host mode blocks this from happening
+

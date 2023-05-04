@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Włosi wygrali grupę Ligi Narodów. Starcie gigantów na remis
  - [https://eurosport.tvn24.pl/w-osi-wygrali-grup--ligi-narod-w--starcie-gigant-w-na-remis,1119734.html?source=rss](https://eurosport.tvn24.pl/w-osi-wygrali-grup--ligi-narod-w--starcie-gigant-w-na-remis,1119734.html?source=rss)
@@ -184,3 +184,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-buciut-czeslaw-michniewicz/alternates/LANDSCAPE_1280" />
     Czesław Michniewicz, selekcjoner piłkarskiej reprezentacji Polski, skomentował wyjazdowe zwycięstwo 1:0 nad Walią w Lidze Narodów.
+

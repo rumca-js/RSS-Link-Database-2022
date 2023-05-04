@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Charles: Who is the new King?
  - [https://www.bbc.co.uk/news/uk-62482467?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62482467?at_medium=RSS&at_campaign=KARANGA)
@@ -398,3 +398,4 @@ Tunisia's Ons Jabeur reaches her second successive major final after a straight-
  - date published: 2022-09-09 00:12:41+00:00
 
 The researchers think their plastic could help stop viruses spreading in hospitals.
+

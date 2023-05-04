@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'This is a state of emergency': Houses in Canada dragged out to sea by Fiona
  - [https://www.cnn.com/videos/weather/2022/09/24/nova-scotia-canada-fiona-hurricane-damage-orig-kj.cnn](https://www.cnn.com/videos/weather/2022/09/24/nova-scotia-canada-fiona-hurricane-damage-orig-kj.cnn)
@@ -260,3 +260,4 @@ Russian men are being conscripted as a part of Putin's "partial mobilization" to
  - date published: 2022-09-24 00:37:20+00:00
 
 There are few buildings that have more drastically shaped a city's image than Marina Bay Sands. Just as the Eiffel Tower and Burj Khalifa define the skylines of Paris and Dubai, the soaring three-tower resort, joined across the top by a horizontal "skypark" and the world's most famous infinity pool, is an icon both in and of Singapore.
+

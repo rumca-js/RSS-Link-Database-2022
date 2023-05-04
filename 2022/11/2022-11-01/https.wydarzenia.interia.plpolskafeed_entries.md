@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## 14-latek zaatakowany w Halloween. Nawet siedem ciosów nożem
  - [https://wydarzenia.interia.pl/wielkopolskie/news-14-latek-zaatakowany-w-halloween-nawet-siedem-ciosow-nozem,nId,6383875](https://wydarzenia.interia.pl/wielkopolskie/news-14-latek-zaatakowany-w-halloween-nawet-siedem-ciosow-nozem,nId,6383875)
@@ -27,3 +27,4 @@
  - date published: 2022-11-01 04:58:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-wszystkich-swietych-i-zaduszki-2022-czy-trzeba-isc-do-koscio,nId,6355418"><img align="left" alt="Wszystkich Świętych i Zaduszki 2022. Czy trzeba iść do kościoła?" src="https://i.iplsc.com/wszystkich-swietych-i-zaduszki-2022-czy-trzeba-isc-do-koscio/000G7UKKOAFA5UX3-C321.jpg" /></a>1 listopada już niedługo, a to oznacza, że trzeba zacząć przygotowania na Dzień Wszystkich Świętych. To czas zadumy, który powinniśmy spędzić, odwiedzając groby krewnych na cmentarzach. Poza zapaleniem symbolicznego znicza mamy jednak również możliwość uczestnictwa w mszy świętej, dlatego wyjaśniamy, czy we Wszystkich Świętych trzeba iść do kościoła. Przypominamy, czy 1 listopada jest dniem wolnym od pracy i podajemy różnicę pomiędzy Dniem Wszystkich Świętych a Zaduszkami.</p><br clear="all" />
+

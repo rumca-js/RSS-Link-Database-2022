@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Trump considers allowing investigators to search Mar-a-Lago again
  - [https://www.cnn.com/2022/10/19/politics/trump-mar-a-lago-second-search/index.html](https://www.cnn.com/2022/10/19/politics/trump-mar-a-lago-second-search/index.html)
@@ -500,3 +500,4 @@ During Florida's first and only Senate debate, Republican Sen. Marco Rubio says 
  - date published: 2022-10-19 00:39:32+00:00
 
 Arash says he has grown adept at spotting undercover Iranian law enforcement officers.
+

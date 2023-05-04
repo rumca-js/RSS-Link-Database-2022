@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## How Snow, Ice and Bad Weather Could Knock Out Your Home Internet     - CNET
  - [https://www.cnet.com/news/how-likely-is-bad-weather-to-knock-out-your-home-internet/#ftag=CADf328eec](https://www.cnet.com/news/how-likely-is-bad-weather-to-knock-out-your-home-internet/#ftag=CADf328eec)
@@ -839,3 +839,4 @@ Prime Video is hosting a ton of excellent sci-fi series worth committing a binge
  - date published: 2022-10-07 00:40:16+00:00
 
 A TikTok video revealed that Google's smart speaker was no longer censoring the N-word.
+

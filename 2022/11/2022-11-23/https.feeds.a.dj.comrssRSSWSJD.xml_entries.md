@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## FTX Hires Ex-Regulators to Investigate Firm's Collapse
  - [https://www.wsj.com/articles/ftx-hires-ex-regulators-to-investigate-firms-collapse-11669233784?mod=rss_Technology](https://www.wsj.com/articles/ftx-hires-ex-regulators-to-investigate-firms-collapse-11669233784?mod=rss_Technology)
@@ -55,3 +55,4 @@ Democrats say company staff cutbacks are threatening user security, while Republ
  - date published: 2022-11-23 08:43:00+00:00
 
 Workers at the plant said protests started around an accommodation area for employees after they learned bonus payments they expected to get would be delayed.
+

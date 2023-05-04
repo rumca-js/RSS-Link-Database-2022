@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Microsoft Faces Fresh Antitrust Complaint in Europe
  - [https://www.wsj.com/articles/microsoft-faces-fresh-antitrust-complaint-in-europe-11667947828?mod=rss_Technology](https://www.wsj.com/articles/microsoft-faces-fresh-antitrust-complaint-in-europe-11667947828?mod=rss_Technology)
@@ -62,3 +62,4 @@ The new graphics-processing chip, branded the A800, replaces the A100, a chip wi
  - date published: 2022-11-08 06:27:00+00:00
 
 A federal judge denied Elizabeth Holmes’s bid for a new trial, the latest setback for the Theranos founder who was convicted of fraud in January.
+

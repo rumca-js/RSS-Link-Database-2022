@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Microsoft Outlook's Exchange Online mailbox issues will be fixed… eventually
  - [https://www.techradar.com/news/microsoft-outlooks-exchange-online-mailbox-issues-will-be-fixed-eventually/](https://www.techradar.com/news/microsoft-outlooks-exchange-online-mailbox-issues-will-be-fixed-eventually/)
@@ -258,3 +258,4 @@ Adobe's MAX event revealed Photoshop on iPad finally lets you remove the backgro
  - date published: 2022-10-19 04:00:09+00:00
 
 DuckDuckGo for Mac keeps web privacy as its core value while also having a renewed focus on blocking YouTube ads
+

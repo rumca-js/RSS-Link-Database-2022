@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## EU produces record wind and solar energy as it shirks Russian gas
  - [https://www.cnn.com/2022/10/17/energy/renewable-energy-eu-climate-intl/index.html](https://www.cnn.com/2022/10/17/energy/renewable-energy-eu-climate-intl/index.html)
@@ -48,3 +48,4 @@ Ugandan President Yoweri Museveni has declared an immediate three-week lockdown 
  - date published: 2022-10-17 04:01:57+00:00
 
 Walmart announced Monday that its customers can for the first time buy over-the-counter hearing aids without a prescription and medical exam by a doctor.
+

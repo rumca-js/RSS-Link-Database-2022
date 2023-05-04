@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## The Space Force’s X-37B spaceplane returns to Earth after over two years in space
  - [https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8](https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8)
@@ -79,3 +79,4 @@
   <p>
     <a href="https://www.theverge.com/23453621/lg-c2-oled-tv-review">Continue reading&hellip;</a>
   </p>
+

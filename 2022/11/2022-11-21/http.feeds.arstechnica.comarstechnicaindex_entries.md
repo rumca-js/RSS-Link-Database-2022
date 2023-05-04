@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Nintendo goes after fan-made custom Steam “icons” with DMCA takedowns
  - [https://arstechnica.com/?p=1899399](https://arstechnica.com/?p=1899399)
@@ -90,3 +90,4 @@ We waded through the early Black Friday flood so you don't have to.
  - date published: 2022-11-21 12:00:12+00:00
 
 What had started as twelve people and a dream was now a billion-dollar company.
+

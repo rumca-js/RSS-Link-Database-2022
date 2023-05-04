@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## An Asteroid As Big As The World’s Tallest Building Will Pass Close To Earth On Halloween
  - [https://www.forbes.com/sites/jamiecartereurope/2022/10/26/an-asteroid-as-big-as-the-worlds-tallest-building-will-pass-close-to-earth-on-halloween/](https://www.forbes.com/sites/jamiecartereurope/2022/10/26/an-asteroid-as-big-as-the-worlds-tallest-building-will-pass-close-to-earth-on-halloween/)
@@ -601,3 +601,4 @@ Hyundai has big plans for its Georgia electric vehicle factory, starting now.
  - date published: 2022-10-26 00:00:00+00:00
 
 Using data from the Gaia space telescope researchers in Sweden haves shown that large parts of the Milky Way's outer disk vibrate.
+

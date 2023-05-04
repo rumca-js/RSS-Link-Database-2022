@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## New York City police stop 'threat to Jewish community', arrest 2 armed men following 'terroristic threats'
  - [https://www.foxnews.com/us/new-york-city-police-threat-jewish-community-arrest-2-armed-men-following-terroristic-threats](https://www.foxnews.com/us/new-york-city-police-threat-jewish-community-arrest-2-armed-men-following-terroristic-threats)
@@ -762,3 +762,4 @@ Cody Bellinger, the 2019 National League Most Valuable Player, was reportedly no
  - date published: 2022-11-19 00:08:53+00:00
 
 The Chrysler Pacifica Road Tripper is a new trim that includes features designed to make it easier to bring along gear for a family road trip.
+

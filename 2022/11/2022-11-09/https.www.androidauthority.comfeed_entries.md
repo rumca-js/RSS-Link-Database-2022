@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## New leak reveals the complete specs of the OnePlus Nord CE 3
  - [https://www.androidauthority.com/oneplus-nord-ce-3-leak-3233173/](https://www.androidauthority.com/oneplus-nord-ce-3-leak-3233173/)
@@ -118,3 +118,4 @@ The Galaxy Z Flip 4 Maison Margiela Edition will be available starting next mont
  - date published: 2022-11-09 03:00:19+00:00
 
 Upgrade your account for even more stats.
+

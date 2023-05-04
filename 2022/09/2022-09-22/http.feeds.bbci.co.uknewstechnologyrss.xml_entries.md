@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Rape posts every half-hour found on online incel forum
  - [https://www.bbc.co.uk/news/technology-62908601?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62908601?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ Optus is looking into the unauthorised access of data including names, addresses
  - date published: 2022-09-22 09:23:01+00:00
 
 The fictional AFC Richmond will be available in the the latest version of the popular football game.
+

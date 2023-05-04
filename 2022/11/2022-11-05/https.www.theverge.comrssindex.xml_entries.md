@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Jack Dorsey takes responsibility for Elon Musk’s mass layoffs at Twitter
  - [https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo](https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo)
@@ -166,3 +166,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/4/23441404/twitter-trust-safety-staff-layoffs-content-moderation">Continue reading&hellip;</a>
   </p>
+

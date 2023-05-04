@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## A guide to Google’s Digital Wellbeing
  - [https://www.androidauthority.com/a-guide-to-googles-digital-wellbeing-3225195/](https://www.androidauthority.com/a-guide-to-googles-digital-wellbeing-3225195/)
@@ -90,3 +90,4 @@ Samsung's latest foldable phones also delivered more sales growth compared to pr
  - date published: 2022-10-27 04:42:14+00:00
 
 Your phone can be the spark to light up the big screen.
+

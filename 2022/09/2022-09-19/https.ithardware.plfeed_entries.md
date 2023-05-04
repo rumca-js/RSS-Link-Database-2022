@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## YouTube cieszy się ogromną popularnością wśród polskich internautów. Jak wypadają inne serwisy?
  - [https://ithardware.pl/aktualnosci/youtube_cieszy_sie_ogromna_popularnoscia_wsrod_polskich_internautow_jak_wypadaja_inne_serwisy-23381.html](https://ithardware.pl/aktualnosci/youtube_cieszy_sie_ogromna_popularnoscia_wsrod_polskich_internautow_jak_wypadaja_inne_serwisy-23381.html)
@@ -147,3 +147,4 @@ Xiaomi 13 Pro zapozował na nieoficjalnym zdjęciu, kt&oacute;re...
 
 <img src="https://ithardware.pl/artykuly/min/23358_1.jpg" />            W&nbsp;x-komie jesień zagościła na dobre i właśnie z tej okazji sklep postanowił stworzyć niebanalne promocje. Pierwsza z nich to promocja Back to School, w kt&oacute;rej możecie zakupić wiele akcesori&oacute;w w atrakcyjnych cenach....
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/jesienne_promocje_w_x_kom_solidne_rabaty_na_sprzet_i_akcesoria-23358.html">https://ithardware.pl/aktualnosci/jesi
+

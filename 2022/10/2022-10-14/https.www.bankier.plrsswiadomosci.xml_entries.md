@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Nie będzie aresztu dla Misiaka i Wituckiego. Prokuratura zapowiada, że zaskarży decyzję sądu
  - [https://www.bankier.pl/wiadomosc/Nie-bedzie-aresztu-dla-Misiaka-i-Wituckiego-Prokuratura-zapowiada-ze-zaskarzy-decyzje-sadu-8423403.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nie-bedzie-aresztu-dla-Misiaka-i-Wituckiego-Prokuratura-zapowiada-ze-zaskarzy-decyzje-sadu-8423403.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -442,3 +442,4 @@ co widać w liczbie ogłoszeń o upadłościach.</p>
  - date published: 2022-10-14 01:55:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/c/589a21ca98e670-948-568-0-51-1732-1039.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sąd Najwyższy USA odrzucił w czwartek prośbę b. prezydenta Donalda Trumpa o rozpatrzenie sprawy batalii prawnej dotyczącej przeszukania przez FBI jego posiadłości Mar-a-Lago na Florydzie. Agenci FBI  skonfiskowali tam na mocy decyzji sędziego federalnego tajne dokumenty.</p>
+

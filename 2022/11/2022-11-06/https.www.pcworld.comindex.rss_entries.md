@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## This top-rated PDF editing program is 33% off for a limited time
  - [https://www.pcworld.com/article/1074143/this-top-rated-pdf-editing-program-is-33-off-for-a-limited-time.html](https://www.pcworld.com/article/1074143/this-top-rated-pdf-editing-program-is-33-off-for-a-limited-time.html)
@@ -43,3 +43,4 @@
 
 <p><em>Prices subject to change.</em></p>
 PDF Editors</div>
+

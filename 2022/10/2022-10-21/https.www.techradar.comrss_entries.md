@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Public cloud investment has plummeted in 2022
  - [https://www.techradar.com/news/public-cloud-investment-has-plummeted-in-2022/](https://www.techradar.com/news/public-cloud-investment-has-plummeted-in-2022/)
@@ -174,3 +174,4 @@ Make your business a cloud icon with Oracle Alloy's customization and control.
  - date published: 2022-10-21 03:00:30+00:00
 
 Password generators are being neglected, report finds.
+

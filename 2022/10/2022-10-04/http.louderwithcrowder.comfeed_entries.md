@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Doocy forces Karine Jean-Pierre to OWN rising gas prices after WH demanded credit for lowering them
  - [https://www.louderwithcrowder.com/doocy-jean-pierre-gas-prices](https://www.louderwithcrowder.com/doocy-jean-pierre-gas-prices)
@@ -56,3 +56,4 @@
  - date published: 2022-10-04 12:04:04+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31858910&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C162%2C0" /><br /><br /><p>One of two things is happening in this video. The first is that we're falling for a hoax. And that a group of NYU film students has a senior project to see if they can make fake news go viral. The other is that crime in New York City has gotten so bad, it's legit turning into 1979's <em>The Warriors</em>. Because... The Green Goblin gang
+

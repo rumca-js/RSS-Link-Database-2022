@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wypadek w słowackich Tatrach. Zginął ratownik GOPR i jego żona. "Łączyło ich uczucie i góry"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28939216,wypadek-w-slowackich-tatrach-zginal-ratownik-gopr-i-jego-zona.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28939216,wypadek-w-slowackich-tatrach-zginal-ratownik-gopr-i-jego-zona.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -62,3 +62,4 @@
  - date published: 2022-09-21 06:27:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ea/98/1b/z28935146M,Bronislaw-Komorowski-gosciem-Porannej-Rozmowy-Gaze.jpg" vspace="2" />W środę gościem Porannej Rozmowy Gazeta.pl będzie Bronisław Komorowski. Z byłym prezydentem Polski porozmawiamy m.in. o spotkaniu liderów opozycji, raporcie podkomisji smoleńskiej oraz o reparacjach wojennych. Program poprowadzi Jacek Gądek.
+

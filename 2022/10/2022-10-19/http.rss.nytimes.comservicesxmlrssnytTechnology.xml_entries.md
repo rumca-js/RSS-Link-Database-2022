@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Tesla Reports Record Profit in Third Quarter on Soaring Sales
  - [https://www.nytimes.com/2022/10/19/business/telsa-profits-third-quarter-sales.html](https://www.nytimes.com/2022/10/19/business/telsa-profits-third-quarter-sales.html)
@@ -27,3 +27,4 @@ No Republican in Congress voted for the Inflation Reduction Act. But their distr
  - date published: 2022-10-19 13:00:08+00:00
 
 It’s not what Mark Zuckerberg promises.
+

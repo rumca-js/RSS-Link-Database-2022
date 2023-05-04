@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russia Sends Ill-Trained Draftees Into Combat Amid Losses, Analysts Say
  - [https://www.nytimes.com/2022/11/04/world/europe/russia-ukraine-conscripts-combat.html](https://www.nytimes.com/2022/11/04/world/europe/russia-ukraine-conscripts-combat.html)
@@ -181,3 +181,4 @@ The laws, all but assured of enactment, would intensify a crackdown on L.G.B.T.Q
  - date published: 2022-11-04 04:01:01+00:00
 
 Corrections that appeared in print on Friday, Nov. 4, 2022.
+

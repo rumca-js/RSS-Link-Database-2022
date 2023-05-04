@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter-Musk trial delayed as sides argue over money and trust
  - [https://www.washingtonpost.com/technology/2022/10/06/twitter-musk-court-postpone/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/06/twitter-musk-court-postpone/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Google unveiled a pair of new Pixel 7 smartphones on Thursday and they're design
  - date published: 2022-10-06 09:13:59+00:00
 
 Online influencer and reality TV star Bethenny Frankel alleges that TikTok moved too slowly to remove fake ads that showed her promoting a product she had nothing to do with.
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## History Of AI In 33 Breakthroughs: The First Expert System
  - [https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/](https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/)
@@ -293,3 +293,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-10-29 00:12:15+00:00
 
 For carmakers, the choice to advertise on a platform owned by the man who leads an automotive rival further complicates the situation.
+

@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The best Chromebooks: Best overall, best battery life, and more
  - [https://www.pcworld.com/article/608636/best-chromebooks.html](https://www.pcworld.com/article/608636/best-chromebooks.html)
@@ -15,3 +15,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Technology advances quickly. Sometimes too quickly for the average IT pro to keep up, which is why web-based educational opportunities &mdash; such as&nbsp;<a href="https://shop.pcworld.com/sales/the-aws-certified-dev-and-ops-engineer-professional-training-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-aws-certified-dev-and-ops-engineer-professional-
+

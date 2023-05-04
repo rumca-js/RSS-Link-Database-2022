@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Despite Its Barrage of Missiles, Russia Still Loses Ground in Ukraine
  - [https://www.nytimes.com/2022/10/14/world/europe/ukraine-russia-missiles.html](https://www.nytimes.com/2022/10/14/world/europe/ukraine-russia-missiles.html)
@@ -251,3 +251,4 @@ A fourth day of Russian bombardment.
  - date published: 2022-10-14 04:01:12+00:00
 
 Xi Jinping was first cast as a firm but genial leader with a common touch. Approaching a second decade in power, he looms over China like a stern Communist monarch.
+

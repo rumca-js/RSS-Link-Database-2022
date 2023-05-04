@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Ask HN: What software do you miss that no longer runs on modern hardware?
  - [https://news.ycombinator.com/item?id=33337603](https://news.ycombinator.com/item?id=33337603)
@@ -798,3 +798,4 @@ Also despite my speed being faster and faster, with more and more Jira tickets c
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33324651">https://news.ycombinator.com/item?id=33324651</a></p>
 <p>Points: 23</p>
 <p># Comments: 16</p>
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Body of Israeli Druze young man seized by Palestinians in Jenin returned to his family - Israeli military
  - [https://www.cnn.com/2022/11/24/middleeast/palestinian-body-exchange-return-jenin-intl/index.html](https://www.cnn.com/2022/11/24/middleeast/palestinian-body-exchange-return-jenin-intl/index.html)
@@ -34,3 +34,4 @@ Malaysian opposition leader Anwar Ibrahim was appointed prime minister on Thursd
  - date published: 2022-11-24 03:25:36+00:00
 
 The head of Brazil's electoral court on Wednesday rejected Jair Bolsonaro's petition to annul ballots from this year's presidential vote, calling the outgoing President's allegation that some voting machines had malfunctioned "ludicrous and illicit" and "ostensibly conspiratorial toward the democratic rule of law."
+

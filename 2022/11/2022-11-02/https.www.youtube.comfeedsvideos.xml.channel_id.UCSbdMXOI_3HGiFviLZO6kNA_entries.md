@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## Meta BANS ALL Children from VR Apps
  - [https://www.youtube.com/watch?v=ZBVQ9SK8Brg](https://www.youtube.com/watch?v=ZBVQ9SK8Brg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-11-02 20:15:25+00:00
- - tags: vr,meta
 
 Hello and welcome to TUESDAY- i mean WEDNESDAY NEWSDAY! Your number one resource for the entire week's worth of VR news. this week was actually pretty crazy with the amount of news, it was unexpected. From Meta facing some very deep financial issues from the Quest 2's lack of sales, to Mark having to testify before congress again- to Meta banning children under 13 from using applications on the Quest store- plus a ton of other news from Pico, Haptx, PSVR 2 and more! This is a crazy one!
 
@@ -34,3 +33,4 @@ TIMESTAMPS:
 10:47 HaptX
 11:16 QOTW
 11:50 Outro
+

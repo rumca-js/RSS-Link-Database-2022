@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Development Of Cyberpunk 2077 Sequel To Begin In 2023 | GameSpot News
  - [https://www.gamespot.com/videos/development-of-cyberpunk-2077-sequel-to-begin-in-2023-gamespot-news/2300-6460120/](https://www.gamespot.com/videos/development-of-cyberpunk-2077-sequel-to-begin-in-2023-gamespot-news/2300-6460120/)
@@ -286,3 +286,4 @@
  - date published: 2022-11-30 01:34:00+00:00
 
 <p dir="ltr">Niantic has revealed details for what's coming in the Pokemon Go December update, and the final month of 2022 will be a busy one for mobile trainers.</p><p dir="ltr">The Season of Mythical Wishes--the ninth quarterly season since the game adopted the format--will begin December 1, which will introduce new bonuses, including extra candies whenever two players trade with one another. The number of gifts that can be used will also increase during the season, with players allowed to open 40 gifts a day (up from 20) and send 125 gifts to other players per day (up from 100).</p><figure style="width: 1080px;"><a href="https://www.gamespot.com/a/uploads/original/3/37852/4069581-info.jfif.jpg"><img alt="The full December slate." src="https://www.gamespot.com/a/uploads/scale_super/3/37852/4069581-info.jfif.jpg" /></a><figcaption>The full December slate.</figcaption></figure><p dir="ltr">Five-star raids in December will feature legendary Pokemon from the Unova region, with three of the four Swords of Justice--Virizion, Terrakion, and Cobalion--each appearing for a week, followed by Kyurem at the end of the month. The four Sword of Justice, Keldeo, will make its Pokemon Go debut during a special event December 10-11.</p><a href="https://www.gamespot.com/articles/pokemon-go-december-update-brings-winter-holiday-celebration-season-of-mythical-wishes-kickoff-and-more/1100-6509529/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

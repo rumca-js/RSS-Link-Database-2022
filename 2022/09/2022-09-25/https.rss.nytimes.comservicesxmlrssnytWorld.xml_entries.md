@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Iran Protests Are Fueled in Part by Kurdish Anger
  - [https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html](https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html)
@@ -153,3 +153,4 @@ The exercise was Pyongyang’s first ballistic missile test in nearly four month
  - date published: 2022-09-25 01:50:16+00:00
 
 As India rises, Prime Minister Narendra Modi has faced little pushback as he weaponizes institutions to consolidate power and entrench his Hindu nationalist vision.
+

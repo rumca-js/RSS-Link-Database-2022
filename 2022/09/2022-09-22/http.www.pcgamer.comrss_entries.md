@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Hearthstone's next mini-set will pit Sylvanas against Zovaal next week
  - [https://www.pcgamer.com/hearthstones-next-mini-set-will-pit-sylvanas-against-zovaal-next-week](https://www.pcgamer.com/hearthstones-next-mini-set-will-pit-sylvanas-against-zovaal-next-week)
@@ -258,3 +258,4 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - date published: 2022-09-22 00:19:25+00:00
 
 Gord is a mix of town building, citizen management, and RPG adventuring in a gruesome-looking world.
+

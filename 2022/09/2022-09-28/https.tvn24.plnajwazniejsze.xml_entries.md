@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Koreanki pokonane 24. raz z rzędu. Kibice chcą powrotu bliźniaczek
  - [https://eurosport.tvn24.pl/koreanki-pokonane-24--raz-z-rz-du--ich-kibice-chc--powrotu-bli-niaczek,1119947.html?source=rss](https://eurosport.tvn24.pl/koreanki-pokonane-24--raz-z-rz-du--ich-kibice-chc--powrotu-bli-niaczek,1119947.html?source=rss)
@@ -199,3 +199,4 @@
 
 <img alt="Polski medyk na ukraińskim froncie. Obala mit rosyjskich " src="https://tvn24.pl/najnowsze/cdn-zdjecie-wwlv5x-damian-duda-6133016/alternates/LANDSCAPE_1280" />
     Rozmowa Huberta Kijka z Damianem Dudą.
+

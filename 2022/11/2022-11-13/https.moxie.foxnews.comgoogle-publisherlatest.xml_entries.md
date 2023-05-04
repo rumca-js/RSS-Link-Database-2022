@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Texas suspect in 1994 murders extradited from Mexico City
  - [https://www.foxnews.com/us/texas-suspect-murders-extradited-mexico-city](https://www.foxnews.com/us/texas-suspect-murders-extradited-mexico-city)
@@ -769,3 +769,4 @@ Political pundits on Twitter are fighting over whether Democrats, if they hold t
  - date published: 2022-11-13 00:09:15+00:00
 
 Christina Applegate shared that her lead role on "Dead to Me" might be her last acting job due to her ongoing battle with multiple sclerosis.
+

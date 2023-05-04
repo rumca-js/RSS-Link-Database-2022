@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## More Cubans are coming to the US by sea than any time since the 1990s
  - [https://www.cnn.com/2022/09/23/politics/immigration-cuba-haiti-ocean-coast-guard/index.html](https://www.cnn.com/2022/09/23/politics/immigration-cuba-haiti-ocean-coast-guard/index.html)
@@ -62,3 +62,4 @@ A Myanmar model who took refuge in Thailand after speaking out against a militar
  - date published: 2022-09-23 02:46:28+00:00
 
 When Russian President Vladimir Putin met with Chinese leader Xi Jinping in Uzbekistan last week, the mood was noticeably different from their triumphant meeting in Beijing, weeks before Russia's invasion of Ukraine.
+

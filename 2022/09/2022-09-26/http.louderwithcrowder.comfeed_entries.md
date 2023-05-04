@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Copy of Psycho uses THIS EXCUSE to skip the Walmart self-checkout line
  - [https://www.louderwithcrowder.com/lwc-walmart-meltdown-cut-line](https://www.louderwithcrowder.com/lwc-walmart-meltdown-cut-line)
@@ -71,3 +71,4 @@
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31821427&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Former White House spokessoulessginger Jen Psaki made her debut on Meet the Press, where one of her first orders of business was to throw her former boss under the bus. Turns out, running on Joe Biden's record is a bad idea for members of Biden's political party.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
 <img alt="" 
+

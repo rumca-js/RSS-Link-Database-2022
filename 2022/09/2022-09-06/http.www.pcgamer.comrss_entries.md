@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Elden Ring multiplayer mod guide: How to play in seamless co-op
  - [https://www.pcgamer.com/is-elden-ring-co-op-multiplayer](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
@@ -230,3 +230,4 @@ All you need is a PC and the solar system is yours to explore.
  - date published: 2022-09-06 03:43:04+00:00
 
 It'll be on the slowish side if you use four RAM sticks.
+

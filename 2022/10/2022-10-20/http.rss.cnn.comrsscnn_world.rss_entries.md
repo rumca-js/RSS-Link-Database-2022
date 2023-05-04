@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Why BMW decided to manufacture batteries in the US
  - [https://www.cnn.com/2022/10/20/business/bmw-chairman-ev-regulations/index.html](https://www.cnn.com/2022/10/20/business/bmw-chairman-ev-regulations/index.html)
@@ -69,3 +69,4 @@ Bombs inside parcels exploded at Myanmar's biggest jail on Wednesday prompting s
  - date published: 2022-10-20 00:28:44+00:00
 
 Billionaires are no match for the Twitterverse.
+

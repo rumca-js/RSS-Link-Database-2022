@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Google will soon test Project Starline video chat booths in the real world
  - [https://www.engadget.com/google-project-starline-video-chat-booth-testing-205302875.html?src=rss](https://www.engadget.com/google-project-starline-video-chat-booth-testing-205302875.html?src=rss)
@@ -153,3 +153,4 @@
  - date published: 2022-10-13 05:20:10+00:00
 
 <p>You can finally say goodbye to your dated and clunky Steam mobile app. Valve has <a href="https://store.steampowered.com/news/app/593110/view/3329873512156647585">rolled out</a> the redesigned version of its Steam mobile app for Android and iOS, which it's been testing since at least August this year. When it was <a href="https://www.engadget.com/valve-tests-redesigned-steam-ios-android-app-173002815.html">looking for beta testers</a> for the application, the game developer said it rebuilt th
+

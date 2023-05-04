@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## This year, GOP election deniers got a free pass from Twitter and Facebook
  - [https://www.washingtonpost.com/technology/2022/11/06/election-misinformation-labels-missing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/06/election-misinformation-labels-missing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Alex Spiro went from representing Jay-Z to participating in one of the biggest t
  - date published: 2022-11-06 01:45:05+00:00
 
 South Korean team DRX pulled a surprise victory over T1, the three-time Worlds winners. In the venue, the announcers described it as “a miracle run.”
+

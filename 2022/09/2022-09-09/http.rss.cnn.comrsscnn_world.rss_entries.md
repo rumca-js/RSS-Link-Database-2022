@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Zelensky claims significant gains in northeastern Ukraine as key city retaken
  - [https://www.cnn.com/2022/09/09/europe/zelensky-north-east-ukraine-kharkiv-region-intl/index.html](https://www.cnn.com/2022/09/09/europe/zelensky-north-east-ukraine-kharkiv-region-intl/index.html)
@@ -20,3 +20,4 @@ Digital World Acquisition Corp., the blank-check firm seeking to merge with form
  - date published: 2022-09-09 04:27:06+00:00
 
 Indian and Chinese troops have begun disengaging from the Gogra-Hotsprings border area in the western Himalayas, the Indian government said Thursday, two years after clashes at the frontier strained diplomatic ties.
+

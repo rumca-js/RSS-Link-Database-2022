@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Szukają w lesie starszej kobiety, wyszła na grzyby i nie wróciła na noc do domu
  - [https://tvn24.pl/pomorze/szukaja-w-lesie-starszej-kobiety-wyszla-na-grzyby-i-nie-wrocila-na-noc-do-domu-6183920?source=rss](https://tvn24.pl/pomorze/szukaja-w-lesie-starszej-kobiety-wyszla-na-grzyby-i-nie-wrocila-na-noc-do-domu-6183920?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Jak dojechać na cmentarze w Bydgoszczy? Inaczej pojedzie komunikacja, zmieni się organizacja ruchu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-o57tbk-znicze-6177365/alternates/LANDSCAPE_1280" />
     Wszystkich Świętych 2022 wypadło we wtorek, ale na cmentarze wiele osób wybrało się już w weekend. Na części ulic, przy większości nekropolii w Bydgoszczy, wprowadzony został jeden kierunek ruchu, uruchomione zostały też dodatkowe linie tramwajowe i autobusowe.
+

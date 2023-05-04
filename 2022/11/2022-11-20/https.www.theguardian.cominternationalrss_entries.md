@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Mark Allen fights back to stun Ding Junhui and win UK Championship
  - [https://www.theguardian.com/sport/2022/nov/20/mark-allen-fights-back-to-stun-ding-junhui-and-win-uk-championship](https://www.theguardian.com/sport/2022/nov/20/mark-allen-fights-back-to-stun-ding-junhui-and-win-uk-championship)
@@ -888,3 +888,4 @@ You’ve been chucked, insulted and then infected. It’s no wonder you’ve los
  - date published: 2022-11-20 01:29:04+00:00
 
 <p>‘The people have spoken’ says Twitter owner, having acknowledged during online poll that automated ‘bots’ were voting too</p><p>Donald Trump’s Twitter account appeared to be back online after a slim majority of votes were cast, in a Twitter poll organised by Elon Musk, in favour of reinstating the former US president, who was banned from the social media service for inciting violence.</p><p>Slightly more than 15 million votes were counted in the poll with 51.8% votes in favour of reinstatement.</p> <a href="https://www.theguardian.com/us-news/2022/nov/20/twitter-lifts-donald-trump-ban-after-elon-musks-poll">Continue reading...</a>
+

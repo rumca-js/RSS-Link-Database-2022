@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Samsung says it will develop chips with 'human-like performance'
  - [https://www.zdnet.com/article/samsung-says-it-will-develop-chips-with-human-like-performance/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-says-it-will-develop-chips-with-human-like-performance/#ftag=RSSbaffb68)
@@ -160,3 +160,4 @@ Logitech Sight works in tandem with the company's front-of-room video bars to gi
  - date published: 2022-10-05 10:15:02+00:00
 
 HyperX's first crack at making a pro-level XLR microphone for gamers ticks all the right boxes, but upgrading your audio doesn't come cheap.
+

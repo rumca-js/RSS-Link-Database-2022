@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Malibu motorcyclist struck by flying truck in three-vehicle crash suffered 'severe' injuries
  - [https://www.dailymail.co.uk/news/article-11483501/Malibu-motorcyclist-struck-flying-truck-three-vehicle-crash-suffered-severe-injuries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11483501/Malibu-motorcyclist-struck-flying-truck-three-vehicle-crash-suffered-severe-injuries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1823,3 +1823,4 @@ Michelle Donelan said provisions in the Online Safety Bill will require firms to
  - date published: 2022-11-29 00:13:25+00:00
 
 Sam Brinton, 34, whose full title was as the DOE's deputy assistant secretary for spent fuel and waste disposition is accused of taking a suitcase from Minneapolis-St. Paul airport.
+

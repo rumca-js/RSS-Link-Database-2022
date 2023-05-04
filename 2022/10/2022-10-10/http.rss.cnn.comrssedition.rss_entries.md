@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## A colonoscopy study has some wondering if they should have the procedure. What you should know
  - [https://www.cnn.com/2022/10/10/health/colonoscopy-study-q-and-a-wellness/index.html](https://www.cnn.com/2022/10/10/health/colonoscopy-study-q-and-a-wellness/index.html)
@@ -571,5 +571,6 @@ Twitter locked rapper Kanye West's Twitter account over an anti-Semitic tweet po
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/h_2a220453a14612d40fdf0416ff22a77d](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/h_2a220453a14612d40fdf0416ff22a77d)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-10 00:01:49.947633+00:00
+
 
 

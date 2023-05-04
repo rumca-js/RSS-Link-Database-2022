@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Brad Keselowski quickly escapes vehicle as car catches fire, gets engulfed in smoke
  - [https://www.foxnews.com/sports/brad-keselowski-quickly-escapes-vehicle-car-catches-fire-gets-engulfed-smoke](https://www.foxnews.com/sports/brad-keselowski-quickly-escapes-vehicle-car-catches-fire-gets-engulfed-smoke)
@@ -797,3 +797,4 @@ The No. 3 Georgia Bulldogs outscored the No. 1 Tennessee Volunteers 27-6 in the 
  - date published: 2022-11-06 00:11:46+00:00
 
 A poll in Iowa's U.S. Senate race shows Sen. Chuck Grassley ahead of Democrat Mike Franken by a margin of 53% to 41%, with independents breaking for him.
+

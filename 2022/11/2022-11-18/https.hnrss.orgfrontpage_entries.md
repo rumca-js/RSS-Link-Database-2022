@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How Windows decide whether your computer has limited or full Internet access
  - [https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399](https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399)
@@ -787,3 +787,4 @@ Thanks!</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33647882">https://news.ycombinator.com/item?id=33647882</a></p>
 <p>Points: 292</p>
 <p># Comments: 164</p>
+

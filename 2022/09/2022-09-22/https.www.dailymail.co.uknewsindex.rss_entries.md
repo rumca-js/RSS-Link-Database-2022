@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## A quarter of Britons say they will cook Sunday roasts less often because soaring energy bills
  - [https://www.dailymail.co.uk/news/article-11241317/A-quarter-Britons-say-cook-Sunday-roasts-soaring-energy-bills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11241317/A-quarter-Britons-say-cook-Sunday-roasts-soaring-energy-bills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1798,3 +1798,4 @@ A federal appeals court is allowing Justice Department lawyers to continue looki
  - date published: 2022-09-22 00:03:15+00:00
 
 The woke makeover at Simply Sewing - which has a readership of almost 25,000 - was labelled 'nonsense', 'mindless' and 'stupid'.
+

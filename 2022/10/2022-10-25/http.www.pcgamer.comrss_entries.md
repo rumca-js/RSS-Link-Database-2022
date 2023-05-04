@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Turn on this helpful Overwatch 2 setting right now
  - [https://www.pcgamer.com/turn-on-this-helpful-overwatch-2-setting-right-now](https://www.pcgamer.com/turn-on-this-helpful-overwatch-2-setting-right-now)
@@ -188,3 +188,4 @@ Slow Roads pushes browser based gaming to the next level.
  - date published: 2022-10-25 00:30:34+00:00
 
 Call of Duty's latest campaign hits as often as it misses.
+

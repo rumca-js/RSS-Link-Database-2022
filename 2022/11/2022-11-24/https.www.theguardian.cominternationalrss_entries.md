@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Brazil’s Tite calms fears after emotional Neymar limps off with ankle injury
  - [https://www.theguardian.com/football/2022/nov/24/brazils-tite-calms-fears-after-emotional-neymar-limps-off-with-ankle-injury](https://www.theguardian.com/football/2022/nov/24/brazils-tite-calms-fears-after-emotional-neymar-limps-off-with-ankle-injury)
@@ -1056,3 +1056,4 @@ Palestinian pop artist whose work reflected the harsh political realities of her
  - date published: 2022-11-24 00:00:32+00:00
 
 <p>The Cameroon head coach is a cult figure in his homeland and is in confident mood as his side face Switzerland</p><p>The cult of the manager has hit new heights in Cameroon where Rigobert Song’s face stares down from countless roadside billboards and no current national player comes remotely close to rivalling the coach’s fame.</p><p>Song certainly exuded a distinctive aura as, fashionably late, he swept into a media theatre in Doha on Wednesday evening. Dressed in a brilliant white tracksuit and with a similarly bright white baseball cap – complete with an outsize peak – crowning his trademark long black dreadlocks, he looked more like a rock star striding on to a stage than a typical football manager.</p> <a href="https://www.theguardian.com/football/2022/nov/24/rigobert-song-enjoys-his-rock-star-quality-as-cameroon-take-the-stage">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Meta threatens to block news content in Canada over media revenue-sharing legislation
  - [https://www.engadget.com/meta-threatens-to-block-facebook-news-content-canada-bill-c-18-211424655.html?src=rss](https://www.engadget.com/meta-threatens-to-block-facebook-news-content-canada-bill-c-18-211424655.html?src=rss)
@@ -34,3 +34,4 @@
  - date published: 2022-10-22 13:58:30+00:00
 
 <p>Adrian Kwiatkowski, a hacker from Ipswich in England who stole two unreleased songs by Ed Sheeran, has been sentenced to 18 months in prison, according to the <a href="https://www.bbc.com/news/technology-63348753"><em>BBC</em></a>. Kwiatkowski sold Sheeran's tracks, along with 12 other songs by American rapper Lil Uzi Vert, for cryptocurrency worth £131,000 (US$148,000) on the dark web. UK prosecutors said Kwiatkowski got his hands on the unreleased tracks by hacking into their cloud-based ac
+

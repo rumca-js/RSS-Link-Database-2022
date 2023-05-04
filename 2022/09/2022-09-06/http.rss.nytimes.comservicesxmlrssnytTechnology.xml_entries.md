@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## How China Has Added to Its Influence Over the iPhone
  - [https://www.nytimes.com/2022/09/06/technology/china-apple-iphone.html](https://www.nytimes.com/2022/09/06/technology/china-apple-iphone.html)
@@ -34,3 +34,4 @@ Apple has long supported privacy and shunned those intrusive ads. What happens w
  - date published: 2022-09-06 07:00:11+00:00
 
 Joe Sullivan, Uber’s former chief of security, faces criminal charges for his handling of a 2016 security breach. His trial this week has divided the security industry.
+

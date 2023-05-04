@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Well, this is not what I expected a game called 'Priest Simulator' to look like
  - [https://www.pcgamer.com/well-this-is-not-what-i-expected-a-game-called-priest-simulator-to-look-like](https://www.pcgamer.com/well-this-is-not-what-i-expected-a-game-called-priest-simulator-to-look-like)
@@ -216,3 +216,4 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - date published: 2022-10-06 06:52:27+00:00
 
 Now you can test XeSS on not just Intel's Arc GPUs, but those from AMD and Nvidia too.
+

@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Crypto Contagion Is Spreading, Fast
  - [https://www.wired.com/story/ftx-collapse-genesis-crypto/](https://www.wired.com/story/ftx-collapse-genesis-crypto/)
@@ -13,3 +13,4 @@ The collapse of FTX has set off a chain reaction that threatens to topple one of
  - date published: 2022-11-25 12:00:00+00:00
 
 From IVF treatments to parental leave, Twitter staff laid off without notice have had their lives upended.
+

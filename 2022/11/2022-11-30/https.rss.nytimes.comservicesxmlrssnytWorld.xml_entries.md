@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Impeachment Edges Closer for South Africa’s President, Cyril Ramaphosa
  - [https://www.nytimes.com/2022/11/30/world/africa/cyril-ramaphosa-impeachment.html](https://www.nytimes.com/2022/11/30/world/africa/cyril-ramaphosa-impeachment.html)
@@ -223,3 +223,4 @@ Days later, videos of chants and confrontations are still visible on the Chinese
  - date published: 2022-11-30 05:37:49+00:00
 
 China has moved to stamp out anti-lockdown protests.
+

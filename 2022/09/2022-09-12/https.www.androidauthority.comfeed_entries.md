@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Movies and shows about Queen Elizabeth II
  - [https://www.androidauthority.com/movies-shows-about-queen-elizabeth-3207830/](https://www.androidauthority.com/movies-shows-about-queen-elizabeth-3207830/)
@@ -153,3 +153,4 @@ Expect a cooling fan and four useful ports here.
  - date published: 2022-09-12 05:41:08+00:00
 
 It looks like Google finally addressed one of the biggest pain points of the 4K Chromecast.
+

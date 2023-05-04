@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Francja: Mieszkańcy Paryża wyszli na ulice. Masowe protesty przeciwko drożyźnie
  - [https://www.polsatnews.pl/wiadomosc/2022-10-16/francja-mieszkancy-paryza-wyszli-na-ulice-masowe-protesty-przeciwko-drozyznie/](https://www.polsatnews.pl/wiadomosc/2022-10-16/francja-mieszkancy-paryza-wyszli-na-ulice-masowe-protesty-przeciwko-drozyznie/)
@@ -90,3 +90,4 @@ W nocy z soboty na niedzielę Rosjanie po raz kolejny ostrzelali Nikopol. Udało
  - date published: 2022-10-16 04:13:00+00:00
 
 Chińska ambasada i MSZ wzywają swoich obywateli do opuszczenia Ukrainy. W komunikacie poproszono o kontakt z placówką dyplomatyczną tak szybko jak to możliwe.
+

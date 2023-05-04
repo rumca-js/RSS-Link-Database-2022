@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Should You Buy the iPhone 14 or 14 Pro?
  - [https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382)
@@ -118,3 +118,4 @@
  - date published: 2022-09-07 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--IJ4v6rSG--/c_fit,fl_progressive,q_80,w_636/e8fbcbd74f1535a425e6008f42016c4a.jpg" /><p>Oktoberfest may be a German tradition, but that doesn’t mean you have to go to Germany to celebrate. In fact, there are plenty of great locations across the U.S. where you can enjoy all the fun of Oktoberfest. Here are eight worth traveling for.</p><p><a href="https://lifehacker.com/eight-of-the-best-places-to-celebrate-oktoberfest-in-th-1849484369"
+

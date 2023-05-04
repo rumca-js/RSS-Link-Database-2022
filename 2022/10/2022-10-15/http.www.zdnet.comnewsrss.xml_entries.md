@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best tablets for kids in 2022
  - [https://www.zdnet.com/article/best-kids-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-kids-tablet/#ftag=RSSbaffb68)
@@ -41,3 +41,4 @@ Some major supermarket chains are shutting down their self-checkout systems beca
  - date published: 2022-10-15 02:14:00+00:00
 
 If you're looking for an alternative to Samsung or Apple, the best Google Pixel phones are wise options to consider. The newest models feature sleek designs, exceptional camera features, and all-day battery life. Best of all, they cost less than flagship phones from other manufacturers.
+

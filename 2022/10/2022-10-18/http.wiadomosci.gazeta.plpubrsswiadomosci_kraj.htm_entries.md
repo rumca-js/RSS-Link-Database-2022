@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## "Pan z Chobielina". TVP zapowiada "dokument" o Radosławie Sikorskim. W zwiastunie Ławrow z papierosem
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29043023,radoslaw-sikorski-nowym-bohaterem-dokumnetu-tvp-pan-z-chobielina.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29043023,radoslaw-sikorski-nowym-bohaterem-dokumnetu-tvp-pan-z-chobielina.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -111,3 +111,4 @@
  - date published: 2022-10-18 05:04:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/a1/3b/1b/z28555425M,Jeden-z-zatrzymanych-19-wrzesnia-w-powiecie-swieck.jpg" vspace="2" />Jerzy S. potrącił w Krakowie motocyklistę. Nikt nie doznał poważnych obrażeń, a aktor przyznał, że to on spowodował zdarzenie.
+

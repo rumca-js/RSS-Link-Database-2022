@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Forget combat, we asked the devs behind this upcoming RPG how they're including jobs like 'doctor' and 'orator'
  - [https://www.pcgamer.com/where-winds-meet-jobs-interview](https://www.pcgamer.com/where-winds-meet-jobs-interview)
@@ -160,3 +160,4 @@ Warhammer, Warcraft, and Warzone will go to war this Novembwar. I mean Warvember
  - date published: 2022-11-02 00:09:45+00:00
 
 The game is heavily rumored to be Star Wars Jedi: Survivor.
+

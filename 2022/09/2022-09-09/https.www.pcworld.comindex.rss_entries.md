@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Gordon thinks small form factor PCs suck. Does Gamers Nexus agree?
  - [https://www.pcworld.com/article/1064364/small-form-factor-pcs-suck-and-gordons-tired-of-pretending-they-dont.html](https://www.pcworld.com/article/1064364/small-form-factor-pcs-suck-and-gordons-tired-of-pretending-they-dont.html)
@@ -75,3 +75,4 @@
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Microsoft Surface Pro is a&nbsp;<a href="https://shop.pcworld.com/sales/microsoft-surface-pro-5-model-1796-intel-core-i5-8gb-256gb-windows-pro?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-surface-pro-5-model-1796-intel-core-i5-8gb-256gb-windows-pro&amp;utm_term=scsf-555021&amp;utm_content=a0x1P000004lpgFQAQ&amp;scsonar=1" rel="noreferrer noopene
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## 2K Games. Hakerzy wystawili skradzione dane graczy na sprzedaż
  - [https://ithardware.pl/aktualnosci/2k_games_hakerzy_wystawili_skradzione_dane_graczy_na_sprzedaz-23779.html](https://ithardware.pl/aktualnosci/2k_games_hakerzy_wystawili_skradzione_dane_graczy_na_sprzedaz-23779.html)
@@ -195,3 +195,4 @@ Między Zenfonem 9 od Asusa a Galaxy Z Fold 4 od Samsunga&hellip; realme C33 nie
 
 <img src="https://ithardware.pl/artykuly/min/23752_1.jpg" />            Nie daj się jesiennemu lagowi, skorzystaj z promocji na komponenty w x-komie i zaoszczędź nawet do 44%. Opr&oacute;cz tego wciąż możesz skorzystać z promocji na akcesoria, a także zakupić MacBooka w ratach 0%. Nie zapomnij także o wzięciu...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/halloweenowa_promocja_na_komponenty_rabaty_do_44-23752.html">https://ithardware.pl/aktualnosci/halloweenowa_
+

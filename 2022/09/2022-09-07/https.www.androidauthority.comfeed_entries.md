@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Bose steals Apple’s spotlight by announcing its new QuietComfort Earbuds II
  - [https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-3206438/](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-3206438/)
@@ -167,3 +167,4 @@ Find out what Android features Apple has "innovated" this year.
  - date published: 2022-09-07 00:25:33+00:00
 
 The Google Pixel 3a and 3a XL are getting updated from SP2A.220505.006 to SP2A.220505.008.
+

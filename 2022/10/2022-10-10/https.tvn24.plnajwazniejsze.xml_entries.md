@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Na Wyspach Owczych cieszą się z wylosowania Polski
  - [https://eurosport.tvn24.pl/na-wyspach-owczych-ciesz--si--z-wylosowania-polski--pow-d-jest-jeden,1121080.html?source=rss](https://eurosport.tvn24.pl/na-wyspach-owczych-ciesz--si--z-wylosowania-polski--pow-d-jest-jeden,1121080.html?source=rss)
@@ -136,6 +136,14 @@
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-6d9ycz-10-pazdziernika-2020-roku-iga-swiatek-wygrala-wielkoszlemowy-roland-garros/alternates/LANDSCAPE_1280" />
     10 października 2020 roku – to data, która na zawsze pozostanie w pamięci polskich kibiców tenisa.
 
+## Na depresję cierpi około 280 milionów ludzi na świecie, w Polsce około miliona. Jakie są jej objawy?
+ - [https://tvn24.pl/polska/depresja-objawy-gdzie-szukac-pomocy-6152158?source=rss](https://tvn24.pl/polska/depresja-objawy-gdzie-szukac-pomocy-6152158?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-10-10 11:23:35+00:00
+
+<img alt="Na depresję cierpi około 280 milionów ludzi na świecie, w Polsce około miliona. Jakie są jej objawy? " src="https://tvn24.pl/najnowsze/cdn-zdjecie-u9sl2o-depresja-shutterstock534102949-5945661/alternates/LANDSCAPE_1280" />
+    Do 2030 roku depresja stanie się najczęściej występującą chorobą psychiczną.
+
 ## Rodzina, znajomi, telefony zaufania. Gdzie szukać pomocy w trudnych emocjonalnie sytuacjach?
  - [https://tvn24.pl/polska/swiatowy-dzien-zdrowia-psychicznego-gdzie-szukac-pomocy-w-trudnych-emocjonalnie-sytuacjach-6155492?source=rss](https://tvn24.pl/polska/swiatowy-dzien-zdrowia-psychicznego-gdzie-szukac-pomocy-w-trudnych-emocjonalnie-sytuacjach-6155492?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -199,3 +207,4 @@
 
 <img alt="Polacy poznali terminarz eliminacji" src="https://tvn24.pl/najnowsze/cdn-zdjecie-uzw8ag-reprezentacja-polski/alternates/LANDSCAPE_1280" />
     W grupie E na piłkarskie mistrzostwa.
+

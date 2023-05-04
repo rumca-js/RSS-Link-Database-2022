@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This Bykski external cooler is bigger than your PC
  - [https://www.digitaltrends.com/computing/this-bykski-external-cooler-is-bigger-than-your-pc/](https://www.digitaltrends.com/computing/this-bykski-external-cooler-is-bigger-than-your-pc/)
@@ -13,3 +13,4 @@ The Bykski B-1080-CEC-X is an external cooler with cold exhaust heat dissipation
  - date published: 2022-11-26 08:44:49.425700+00:00
 
 MSI has just unveiled an impressive new monitor that combines some of the most in-demand features in one massive package.
+

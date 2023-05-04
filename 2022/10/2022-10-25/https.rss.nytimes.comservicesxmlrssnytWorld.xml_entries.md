@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Brittney Griner’s Prison Term Is Upheld by Russian Court
  - [https://www.nytimes.com/2022/10/25/world/europe/brittney-griner-appeal-russia.html](https://www.nytimes.com/2022/10/25/world/europe/brittney-griner-appeal-russia.html)
@@ -195,3 +195,4 @@ Three Palestinians were killed during a firefight with Israeli security forces w
  - date published: 2022-10-25 00:44:29+00:00
 
 The Austrian salesman turned a Thai energy drink into a marketing juggernaut that owned sports teams, media outlets and a winning Formula 1 crew.
+

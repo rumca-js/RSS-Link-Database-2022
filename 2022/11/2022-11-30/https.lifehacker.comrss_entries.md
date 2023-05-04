@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Why You Should Start Your New Fitness Routine Before the New Year
  - [https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923](https://lifehacker.com/why-you-should-start-your-new-fitness-routine-before-th-1849837923)
@@ -125,3 +125,4 @@
  - date published: 2022-11-30 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--QGL_VHUF--/c_fit,fl_progressive,q_80,w_636/ae467ed412f34393f6cc104457a3c5d8.jpg" /><p>A to-do list is probably one of the most common strategies for keeping track of tasks and goals. But the problem with long and overly ambitious to-do lists is that they can overwhelm us with how much there is to accomplish, leaving us struggling to prioritize or even knowing where to start. A long list can also…</p><p><a href="https://lifehacker.com/how-to-write-a-to-do-list-you-ll-actually-do-1849831092">Read more...</a></p>
+

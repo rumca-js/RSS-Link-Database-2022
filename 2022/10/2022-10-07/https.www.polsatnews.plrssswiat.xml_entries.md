@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania. Liverpool gospodarzem konkursu Eurowizja 2023
  - [https://www.polsatnews.pl/wiadomosc/2022-10-07/wielka-brytania-liverpool-gospodarzem-konkursu-eurowizja-2023/](https://www.polsatnews.pl/wiadomosc/2022-10-07/wielka-brytania-liverpool-gospodarzem-konkursu-eurowizja-2023/)
@@ -97,3 +97,4 @@ Prezydent Stanów Zjednoczonych ułaskawił tysiące osób z przestępstwami fed
  - date published: 2022-10-07 04:08:00+00:00
 
 Na reprezentatywnej ulicy Las Vegas doszło do napaści nożownika na przechodniów. W wyniku ataku mężczyzny dwie osoby zmarły, a sześć kolejnych trafiło do szpitala - przekazała policja. Mężczyzna został złapany.
+

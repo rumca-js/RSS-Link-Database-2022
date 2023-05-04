@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## CMAs 2022 red carpet: Carrie Underwood, Reba McEntire, Miranda Lambert and more stars stun at award show
  - [https://www.foxnews.com/entertainment/cmas-2022-red-carpet-carrie-underwood-reba-mcentire-miranda-lambert-stars-stun-award-show](https://www.foxnews.com/entertainment/cmas-2022-red-carpet-carrie-underwood-reba-mcentire-miranda-lambert-stars-stun-award-show)
@@ -2274,3 +2274,4 @@ Tom Brady said Monday the "most embarrassing" part of the Tamp Bay Buccaneers is
  - date published: 2022-11-09 00:12:11+00:00
 
 Singer-songwriter Lainey Wilson discussed her guest appearance on season 5 of "Yellowstone" and how excited she is to be nominated for six CMA Awards.
+

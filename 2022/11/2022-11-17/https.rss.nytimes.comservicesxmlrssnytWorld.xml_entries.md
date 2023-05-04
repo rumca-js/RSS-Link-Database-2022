@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## 21 Killed in Fast-Moving Gaza Fire in Jabaliya Neighborhood
  - [https://www.nytimes.com/2022/11/17/world/middleeast/gaza-fire-jabaliya.html](https://www.nytimes.com/2022/11/17/world/middleeast/gaza-fire-jabaliya.html)
@@ -202,3 +202,4 @@ Corrections that appeared in print on Thursday, Nov. 17, 2022.
  - date published: 2022-11-17 00:00:11+00:00
 
 NATO and Polish officials said that it was a Ukrainian missile that crossed the border and killed two people, but that Russia bore the blame.
+

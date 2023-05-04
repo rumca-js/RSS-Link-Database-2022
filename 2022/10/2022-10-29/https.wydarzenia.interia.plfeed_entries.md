@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Joe Biden komentuje decyzję Rosji. "Jest oburzająca"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-joe-biden-komentuje-decyzje-rosji-jest-oburzajaca,nId,6378713](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-joe-biden-komentuje-decyzje-rosji-jest-oburzajaca,nId,6378713)
@@ -335,3 +335,4 @@
  - date published: 2022-10-29 04:00:08+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-248-dzien-inwazji-rosji-relacja-na-zywo,nzId,3261,akt,290753"><img align="left" alt="Wojna w Ukrainie. 248. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-248-dzien-inwazji-rosji-relacja-na-zywo/000G9OFCK51QO5OY-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

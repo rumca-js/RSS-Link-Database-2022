@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## China's economy is 'in deep trouble' as Xi heads for next decade in power
  - [https://www.cnn.com/2022/10/14/economy/china-party-congress-economy-trouble-xi-intl-hnk/index.html](https://www.cnn.com/2022/10/14/economy/china-party-congress-economy-trouble-xi-intl-hnk/index.html)
@@ -489,3 +489,4 @@ As Vladimir Putin steps up his renewed assault on Ukrainian civilians for a four
  - date published: 2022-10-14 00:00:30+00:00
 
 Never-before-seen footage, obtained exclusively by CNN, shows in vivid new detail how congressional leaders fled the US Capitol on January 6 and transformed a nearby military base into a command center, where they frantically coordinated with Vice President Mike Pence and Trump Cabinet members to quell the insurrection and finish certifying the 2020 election.
+

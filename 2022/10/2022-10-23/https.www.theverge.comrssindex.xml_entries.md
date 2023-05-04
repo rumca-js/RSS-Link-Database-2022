@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Indian news outlet The Wire retracts its story on Meta
  - [https://www.theverge.com/2022/10/23/23419366/the-wire-meta-indian-news-outlet-retracts-story](https://www.theverge.com/2022/10/23/23419366/the-wire-meta-indian-news-outlet-retracts-story)
@@ -59,3 +59,4 @@
     </figure>
 
   <p class="p--has-dropcap" id="zTkF7Z">From the very beginning, people on the inte
+

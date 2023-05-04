@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Elon Musk Says He Will Reinstate Suspended Twitter Accounts
  - [https://www.wsj.com/articles/elon-musk-says-he-will-reinstate-suspended-twitter-accounts-11669326338?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-says-he-will-reinstate-suspended-twitter-accounts-11669326338?mod=rss_Technology)
@@ -27,3 +27,4 @@ The FTX founder pledged to donate billions. His firm’s swift collapse wiped ou
  - date published: 2022-11-24 10:30:00+00:00
 
 Elon Musk’s effort to purge Twitter employees who don’t embrace his vision has led to a wave of departures among policy and safety-issue staffers around the globe.
+

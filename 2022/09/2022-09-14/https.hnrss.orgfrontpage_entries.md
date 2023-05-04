@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Google employees alarmed that the company suddenly expects them to do work
  - [https://futurism.com/the-byte/google-employees-work-mandate](https://futurism.com/the-byte/google-employees-work-mandate)
@@ -799,3 +799,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32831673">https://news.ycombinator.com/item?id=32831673</a></p>
 <p>Points: 10</p>
 <p># Comments: 4</p>
+

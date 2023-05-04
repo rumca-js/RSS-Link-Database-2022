@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## ‘Modern Warfare II’ multiplayer is mostly more of the same. That’s okay.
  - [https://www.washingtonpost.com/video-games/2022/10/28/modern-warfare-multiplayer-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/10/28/modern-warfare-multiplayer-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -76,3 +76,4 @@ Our reporters tried to get TikTok to punish The Washington Post's TikTok account
  - date published: 2022-10-28 05:00:06+00:00
 
 TikTok’s link to China has sparked fears over propaganda and privacy. It’s also exposed America’s failure to safeguard the web.
+

@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Senate GOP won’t move leadership elections despite calls for delay
  - [https://www.foxnews.com/politics/senate-gop-wont-move-leadership-elections-calls-delay](https://www.foxnews.com/politics/senate-gop-wont-move-leadership-elections-calls-delay)
@@ -1560,3 +1560,4 @@ One way to cut down on the endless attempts to steal your money and info for sal
  - date published: 2022-11-11 00:07:56+00:00
 
 The San Diego Padres are reportedly inking a five-year pact with a surprise star, reliever Robert Suarez, who became a key piece of their bullpen during an NLCS run.
+

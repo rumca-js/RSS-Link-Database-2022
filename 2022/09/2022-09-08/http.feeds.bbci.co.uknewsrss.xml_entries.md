@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Newspaper headlines: 'A life in service' and 'we loved you ma'am'
  - [https://www.bbc.co.uk/news/blogs-the-papers-62845155?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-62845155?at_medium=RSS&at_campaign=KARANGA)
@@ -461,3 +461,4 @@ The shortlist for the prestigious music award includes Little Simz, Self Esteem 
  - date published: 2022-09-08 00:25:44+00:00
 
 The jab could be used on a mass scale next year with the aim of ending deaths from the disease.
+

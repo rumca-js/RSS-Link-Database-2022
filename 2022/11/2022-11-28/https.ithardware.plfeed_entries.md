@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## CD Projekt notuje historyczny trzeci kwartał. Pomogła sprzedaż Cyberpunka 2077
  - [https://ithardware.pl/aktualnosci/cd_projekt_notuje_historyczny_trzeci_kwartal_pomogla_sprzedaz_cyberpunka_2077-24575.html](https://ithardware.pl/aktualnosci/cd_projekt_notuje_historyczny_trzeci_kwartal_pomogla_sprzedaz_cyberpunka_2077-24575.html)
@@ -139,3 +139,4 @@ OpenAI zawsze...
 
 <img src="https://ithardware.pl/artykuly/min/24556_1.jpg" />            Nie jest żadną tajemnicą, że karta graficzna GeForce RTX 4080 nie sprzedaje się najlepiej, szczeg&oacute;lnie w zestawieniu z flagowym GeForcem RTX 4090. Nie spodziewaliśmy się jednak, że tak szybko jej cena spadnie poniżej sugerowanej przez...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/geforce_rtx_4080_juz_sprzedawany_ponizej_sugerowanej_ceny_producenta-24556.html">https://ithardware.pl/aktualnosci/geforce_rtx_4080_juz_sprzedawany_ponizej_sugerowanej_ceny_producenta-24556.html</a></p>
+

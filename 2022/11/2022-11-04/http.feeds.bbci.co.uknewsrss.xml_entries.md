@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## US midterms: Pro- and anti-Trump Republicans' fates diverge in Colorado
  - [https://www.bbc.co.uk/news/world-us-canada-63493606?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63493606?at_medium=RSS&at_campaign=KARANGA)
@@ -517,3 +517,4 @@ The £25bn nuclear project could be delayed or even axed as the government tries
  - date published: 2022-11-04 00:02:23+00:00
 
 Homeowners are worried about rising mortgage costs - but lenders must help those struggling.
+

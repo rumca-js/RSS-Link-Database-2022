@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Four teenagers were shot at a protest in Papua. Eight years on, only one suspect is facing trial
  - [https://www.cnn.com/2022/09/30/asia/papua-children-massacre-indonesia-justice-trial-intl-hnk/index.html](https://www.cnn.com/2022/09/30/asia/papua-children-massacre-indonesia-justice-trial-intl-hnk/index.html)
@@ -62,3 +62,4 @@ The Vatican on Thursday acknowledged that it had secretly disciplined East Timor
  - date published: 2022-09-30 00:00:11+00:00
 
 All week, there have events in the news that have come in under of the banner of "this hasn't happened since 2007/2008."
+

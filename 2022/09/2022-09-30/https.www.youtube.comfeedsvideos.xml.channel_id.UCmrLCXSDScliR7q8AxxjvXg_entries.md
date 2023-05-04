@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## 2022: Why #4chan Can't be DEFEATED
  - [https://www.youtube.com/watch?v=yXD6FUFyXLA](https://www.youtube.com/watch?v=yXD6FUFyXLA)
@@ -60,3 +60,4 @@ https://felixrex.net/2022/09/notes-for-video-america-world-police-busted-and-bro
 -------------------------------
 
 #FelixRex #4chan #kingscollegelondon
+

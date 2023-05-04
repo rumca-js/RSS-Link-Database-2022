@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Is Code Veronica Getting a Remake? | GameSpot News
  - [https://www.gamespot.com/videos/is-code-veronica-getting-a-remake-gamespot-news/2300-6459827/](https://www.gamespot.com/videos/is-code-veronica-getting-a-remake-gamespot-news/2300-6459827/)
@@ -356,3 +356,4 @@
  - date published: 2022-10-21 07:00:00+00:00
 
 <p>It's Friday, a daily reset is hitting Destiny 2 in just a few hours, and a certain arms dealer will appear to offer a varied selection of Exotic weapons and armor for a few days. As usual, you can expect Xur to hang around for a while in one his usual haunts, offering players some of the best gear in Destiny 2 in exchange for legendary shards. While we don't quite know where Xur is just yet, we'll update this post as soon as we have his location.</p><p>While you wait for Xur to arrive, there'
+

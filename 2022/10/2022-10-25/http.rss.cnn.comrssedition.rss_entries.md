@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Fetterman and Oz to Debate in Pennsylvania: Live Updates
  - [https://biztoc.com/p/4vvnrcum?ref=rss&rd=1](https://biztoc.com/p/4vvnrcum?ref=rss&rd=1)
@@ -1433,3 +1433,4 @@ Former Putin speechwriter Abbas Gallyamov tells CNN's Erin Burnett what stands o
  - date published: 2022-10-25 00:08:38+00:00
 
 It's a bird! It's a plane! It's Superman... again!
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Kolejna fala migracji? Powodem ataki Rosjan na infrastrukturę krytyczną i zima
  - [https://wydarzenia.interia.pl/zagranica/news-kolejna-fala-migracji-powodem-ataki-rosjan-na-infrastrukture,nId,6368023](https://wydarzenia.interia.pl/zagranica/news-kolejna-fala-migracji-powodem-ataki-rosjan-na-infrastrukture,nId,6368023)
@@ -601,3 +601,4 @@
  - date published: 2022-10-24 03:37:33+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-243-dzien-inwazji-rosji-relacja-na-zywo,nzId,3229,akt,240749"><img align="left" alt="Wojna w Ukrainie. 243. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-243-dzien-inwazji-rosji-relacja-na-zywo/000G8R65TFN3FU1K-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

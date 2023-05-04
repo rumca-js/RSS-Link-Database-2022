@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Warning: New Massive Malicious Campaigns Targeting Top Indian Banks' Customers
  - [https://thehackernews.com/2022/11/warning-this-widespread-malicious.html](https://thehackernews.com/2022/11/warning-this-widespread-malicious.html)
@@ -72,3 +72,4 @@ Some Akin Gump Strauss Hauer & Feld LLP's law firm clients, for example, repor
 PC maker Lenovo has addressed yet another set of three shortcomings in the Unified Extensible Firmware Interface (UEFI) firmware affecting several Yoga, IdeaPad, and ThinkBook devices.
 "The vulnerabilities allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS," Slovak cybersecurity firm ESET explained in a series of tweets.
 UEFI
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Eufy Cameras Have Been Uploading Unencrypted Footage to Cloud Without Owners Knowing
  - [https://gizmodo.com/eufy-security-cameras-unencrypted-footage-cloud-scandal-1849833489](https://gizmodo.com/eufy-security-cameras-unencrypted-footage-cloud-scandal-1849833489)
@@ -262,3 +262,4 @@ Night Shyamalan</a>,…</p><p><a href="https://gizmodo.com/star-trek-picard-tng-
  - date published: 2022-11-29 01:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--cEt6lpSV--/c_fit,fl_progressive,q_80,w_636/eee32395fcb11eacbe3f951ab3f0cf3d.jpg" /><p>This trend is so edgy, right? I guess if you want to satisfy your inner child who is into this sort of thing, <em>The Mean One</em> might be for you; it definitely looks to prove that the lowest forms of entertainment keep it “real” by bastardizing children’s IP without any real intention outside of making <a href="https://gizmodo.com/bambi-the-reckoning-horror-movie-1849824011">Bambi</a>, <a href="https://gizmodo.com/winnie-the-pooh-horror-movie-trailer-blood-and-honey-1849479054">Pooh</a>, and now <a href="https://gizmodo.com/youre-an-orphan-with-a-giant-onion-head-mr-grinch-1826829163">…</a></p><p><a href="https://gizmodo.com/the-mean-one-parody-the-grinch-horror-film-terrifier-2-1849829062">Read more...</a></p>
+

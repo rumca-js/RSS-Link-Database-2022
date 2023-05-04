@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Bipedal Robot Sets New Guinness World Record For 100-Meter Dash
  - [https://www.dailywire.com/news/bipedal-robot-sets-new-guinness-world-record-for-100-meter-dash](https://www.dailywire.com/news/bipedal-robot-sets-new-guinness-world-record-for-100-meter-dash)
@@ -419,3 +419,4 @@ The family of one of serial killer Jeffrey Dahmer’s victims isn’t happy abou
  - date published: 2022-09-27 09:14:05+00:00
 
 Aaron Rodgers bested fellow future Hall of Fame quarterback Tom Brady Sunday with a little help from technology. Brady had his Tampa Bay Buccaneers on the brink of a tie with the Green Bay Packers as the final seconds ticked away at Raymond James Stadium. After scoring a touchdown to make it a 14-12 game, ...
+

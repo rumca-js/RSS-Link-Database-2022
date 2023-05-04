@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## "Linia ognia, krwi, potu i śmierci" mierzy prawie cztery tysiące km
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-linia-ognia-krwi-potu-i-smierci-mierzy-prawie-cztery-tysiace,nId,6421583](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-linia-ognia-krwi-potu-i-smierci-mierzy-prawie-cztery-tysiace,nId,6421583)
@@ -268,3 +268,4 @@
  - date published: 2022-11-19 05:11:51+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-269-dzien-inwazji-rosji-relacja-na-zywo,nzId,3394,akt,190830"><img align="left" alt="Wojna w Ukrainie. 269. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-269-dzien-inwazji-rosji-relacja-na-zywo/000GD1Q2KOT1PG5C-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

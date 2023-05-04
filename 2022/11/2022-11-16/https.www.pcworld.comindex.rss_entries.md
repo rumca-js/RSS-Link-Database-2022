@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Gamers Nexus investigation finds loose cables, debris behind 12VHPWR melting
  - [https://www.pcworld.com/article/1382376/gamers-nexus-investigation-finds-loose-cables-manufacturing-debris-behind-12vhpwr-melting.html](https://www.pcworld.com/article/1382376/gamers-nexus-investigation-finds-loose-cables-manufacturing-debris-behind-12vhpwr-melting.html)
@@ -608,3 +608,4 @@ Desktop PCs, Gaming PCs</div>
 
 <p>The lesson here is that your <em>battery</em> is actively degrading, and doing so perhaps faster than you think. We&rsquo;re already on the lookout for both <a href="https://www.pcworld.com/article/1374098/black-friday-laptop-deals-what-to-expect.html">early Black Friday laptop deals</a> as well as the <a href="https://www.pcworld.com/article/550968/best-laptop-deals-2022.html">best daily sales on laptops</a>. If you agree with us that it&rsquo;s time to start looking for a new PC, we&rsquo;ve got you covered.</p>
 Batteries, Laptops</div>
+

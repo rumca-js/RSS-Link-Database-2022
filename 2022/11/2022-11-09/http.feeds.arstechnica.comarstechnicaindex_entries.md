@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Nurse who called 911 on her ER talks chaos, fear amid understaffing crisis
  - [https://arstechnica.com/?p=1896418](https://arstechnica.com/?p=1896418)
@@ -111,3 +111,4 @@ Zuck: Meta hired too many people, expansion "did not play out the way I expected
  - date published: 2022-11-09 00:14:46+00:00
 
 Exchange, Windows, and a bunch of other Microsoft software all affected.
+

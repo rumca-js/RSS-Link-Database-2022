@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## EA starts rolling out a new PC app to replace Origin
  - [https://www.engadget.com/ea-pc-app-origin-replacement-client-macos-184456809.html?src=rss](https://www.engadget.com/ea-pc-app-origin-replacement-client-macos-184456809.html?src=rss)
@@ -167,3 +167,4 @@
  - date published: 2022-10-07 04:13:05+00:00
 
 <p>Tesla's long-delayed semi-truck has started production, and the company will begin making deliveries as soon as December 1st, Elon Musk has <a href="https://twitter.com/elonmusk/status/1578170980283076608">announced</a> on Twitter. When the automaker <a href="https://www.engadget.com/2017-11-16-tesla-unveils-its-vision-of-the-future-of-trucking.html">unveiled the Tesla Semi</a> way back in 2017, it expected to start manufacturing the electric big rigs by 2019. While that obviously didn't happ
+

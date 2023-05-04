@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Meet the 5 finalists in Samuel Adams’ Brewing the American Dream craft brewers competition
  - [https://www.foxnews.com/lifestyle/meet-5-finalists-samuel-adams-brewing-american-dream-craft-brewers-competition](https://www.foxnews.com/lifestyle/meet-5-finalists-samuel-adams-brewing-american-dream-craft-brewers-competition)
@@ -1168,3 +1168,4 @@ The New York Giants won a game in Week 1 for the first time since 2016 with a th
  - date published: 2022-09-12 00:04:28+00:00
 
 During an interview with Fox News Digital, Senate hopeful Blake Masters spoke about how Congress should combat Big Tech but seemed doubtful President Biden will sign any "good bill."
+

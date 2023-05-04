@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Polecane zestawy komputerowe do gier listopad 2022
  - [https://ithardware.pl/poradniki/polecane_zestawy_komputerowe_do_gier_listopad_2022-24121.html](https://ithardware.pl/poradniki/polecane_zestawy_komputerowe_do_gier_listopad_2022-24121.html)
@@ -155,3 +155,4 @@ Paranormal Tales, w...
 
 <img src="https://ithardware.pl/artykuly/min/24115_1.jpg" />            Wygląda na to, że już od połowy przyszłej dekady nie kupimy nowego auta wyposażonego w silnik spalinowy. A przynajmniej w Unii Europejskiej, kt&oacute;ra przyjęła właśnie stosowne plany, mające przeciwdziałać postępującym zmianom...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/unia_europejska_ustalila_termin_zakazu_sprzedazy_nowych_aut_spalinowych_to_nieodlegla_przyszlosc-24115.html">https://ithardware.pl/aktualnosci/unia_europejska_ustalila_termin_zakazu_sprzedazy_nowych_aut_spalinowych_to_nieodlegla_przyszlosc-24115.html</a></p>
+

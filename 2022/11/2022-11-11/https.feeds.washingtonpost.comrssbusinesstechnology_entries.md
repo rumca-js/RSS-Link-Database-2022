@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Despite storm, NASA is pressing ahead with its Artemis launch plan
  - [https://www.washingtonpost.com/technology/2022/11/11/artemis-launch-scheduled-again/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/11/artemis-launch-scheduled-again/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -62,3 +62,4 @@ As leaders gather in Egypt for the United Nations climate summit, several climat
  - date published: 2022-11-11 02:38:57+00:00
 
 Cybercriminals in Russia are believed responsible for releasing the patient information, including details on treatment for mental health and alcohol issues.
+

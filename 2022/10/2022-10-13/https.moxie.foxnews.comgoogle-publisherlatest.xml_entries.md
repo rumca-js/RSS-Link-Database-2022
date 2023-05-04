@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Judge Jeanine Pirro: Criminals are 'emboldened' to kill police
  - [https://www.foxnews.com/media/judge-jeanine-pirro-criminals-emboldened-kill-police](https://www.foxnews.com/media/judge-jeanine-pirro-criminals-emboldened-kill-police)
@@ -1371,3 +1371,4 @@ Wisconsin Republican Senator Ron Johnson called out Democratic challenger Lt. Go
  - date published: 2022-10-13 00:00:39+00:00
 
 Guests: Chris Bedford, Candace Owens, John Mappin, Harmeet Dhillon, Scott Street, Heather Mac Donald
+

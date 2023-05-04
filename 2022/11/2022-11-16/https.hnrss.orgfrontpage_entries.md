@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## How did Cole factor 26^7−1 in 1903?
  - [https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
@@ -817,3 +817,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33617176">https://news.ycombinator.com/item?id=33617176</a></p>
 <p>Points: 14</p>
 <p># Comments: 6</p>
+

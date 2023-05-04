@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Former Uber Security Chief Joe Sullivan Found Guilty of Hiding Hack From Authorities
  - [https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html](https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html)
@@ -34,3 +34,4 @@ His deal to buy the company is back on. Here are six predictions about Twitter u
  - date published: 2022-10-05 03:15:42+00:00
 
 The executive, Eugene Yu, and his firm, Konnech, have been a focus of attention among election deniers.
+

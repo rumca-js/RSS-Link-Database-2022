@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Ghost Particles Crashing Into Antarctica Could Change Astronomy Forever     - CNET
  - [https://www.cnet.com/science/space/ghost-particles-crashing-into-antarctica-could-change-astronomy-forever/#ftag=CADf328eec](https://www.cnet.com/science/space/ghost-particles-crashing-into-antarctica-could-change-astronomy-forever/#ftag=CADf328eec)
@@ -433,3 +433,4 @@ Recap: The Disney Plus series introduces the Empire's fun new form of interrogat
  - date published: 2022-11-06 00:00:02+00:00
 
 Windows 10 and 11 actually have a lot of differences. We'll walk you through them.
+

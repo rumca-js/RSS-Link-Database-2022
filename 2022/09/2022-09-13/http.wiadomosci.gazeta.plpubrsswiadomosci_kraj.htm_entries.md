@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Pomorskie. 62-latek ciągnął kucyki za samochodem. Potem kopał zwierzęta [WIDEO]
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28907551,pomorskie-62-latek-ciagnal-kucyki-za-samochodem.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28907551,pomorskie-62-latek-ciagnal-kucyki-za-samochodem.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -83,3 +83,4 @@
  - date published: 2022-09-13 06:05:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/b3/90/1b/z28903859M,Pogoda--Pierwszy-snieg--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda długoterminowa na październik 2022 według IMGW przewiduje średnią temperaturę w normie, jednak inne modele wskazują na anomalię powyżej normy. Co z opadami? Czy czeka nas kolejny suchy miesiąc?
+

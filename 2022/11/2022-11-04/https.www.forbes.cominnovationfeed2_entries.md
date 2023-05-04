@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## China’s Secretive Spaceplane Has A Mysterious New Traveling Companion
  - [https://www.forbes.com/sites/ericmack/2022/11/04/chinas-secretive-spaceplane-has-a-mysterious-new-traveling-companion/](https://www.forbes.com/sites/ericmack/2022/11/04/chinas-secretive-spaceplane-has-a-mysterious-new-traveling-companion/)
@@ -454,3 +454,4 @@ Workers will be informed of their employment fate via email.
  - date published: 2022-11-04 01:00:00+00:00
 
 The most reliable places to livestream the total lunar eclipse on November 8, 2022.
+

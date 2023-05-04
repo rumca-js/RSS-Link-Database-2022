@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Minnesota football 'campaigns' for standout player in funny Election Day video
  - [https://www.foxnews.com/sports/minnesota-football-campaigns-standout-player-funny-election-day-video](https://www.foxnews.com/sports/minnesota-football-campaigns-standout-player-funny-election-day-video)
@@ -1602,3 +1602,4 @@ Mainstream media outlets have floated concerns over election security days befor
  - date published: 2022-11-08 00:10:49+00:00
 
 The Buffalo Bills fear quarterback Josh Allen suffered an elbow injury to his throwing arm in Sunday's loss to the New York Jets, which came on the last drive.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Speak No Evil's Director Explains Why He Made Such a Shocking Movie
  - [https://gizmodo.com/speak-no-evil-shocking-danish-horror-film-interview-1849485966](https://gizmodo.com/speak-no-evil-shocking-danish-horror-film-interview-1849485966)
@@ -258,3 +258,4 @@
  - date published: 2022-09-12 02:03:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--svjGESrm--/c_fit,fl_progressive,q_80,w_636/c10e881e331f6a37465ab50de78bdfac.png" /><p>When <a href="https://gizmodo.com/house-of-the-dragon-recap-second-of-his-name-episode-3-1849486360"><em>House of the Dragon</em></a> <a href="https://gizmodo.com/house-of-the-dragon-premiere-recap-game-of-thrones-1849435926">premiered</a>, I said that it was a show that was unsure whether it wanted to live in or out of <a href="https://gizmodo.com/
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Reliance Industries: Daughter rises in Mukesh Ambani’s succession plan
  - [https://www.bbc.co.uk/news/world-asia-india-62949003?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-62949003?at_medium=RSS&at_campaign=KARANGA)
@@ -419,3 +419,4 @@ The US president says troops would defend the island, but the White House downpl
  - date published: 2022-09-19 00:14:44+00:00
 
 Taken before the Platinum Jubilee, it shows the late monarch smiling brightly in Windsor Castle.
+

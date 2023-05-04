@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Now your business can deploy virtual Mac desktops in the cloud
  - [https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all](https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all)
@@ -26,3 +26,4 @@
 <article>
 	<section class="page">
 <p>Now that you’re used to working outside the corporate office, it’s time to stretch the boundaries beyond the kitchen table or guest bedroom to the ultimate mobile office. It might lack four walls and a water cooler, but your car offers a killer corner-office view of the world and can let you work just about anywhere.</p><p>Salespeople, insurance adjusters, utility workers, and many others have long understood the benefits of working out of a car. In a very re
+

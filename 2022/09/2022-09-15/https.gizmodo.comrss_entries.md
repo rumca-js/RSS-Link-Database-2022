@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Quantum Leap's Showrunner Explains How the New Series Updates the Sci-Fi Classic
  - [https://gizmodo.com/quantum-leap-reboot-sequel-series-nbc-interview-1849541360](https://gizmodo.com/quantum-leap-reboot-sequel-series-nbc-interview-1849541360)
@@ -272,3 +272,4 @@
  - date published: 2022-09-15 10:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--o18FLlLa--/c_fit,fl_progressive,q_80,w_636/b81fa11de88d83384a7835becf6a0e6a.jpg" /><p>The Ethereum network, which powers the second largest cryptocurrency in the world, completed a long-planned upgrade known as “The Merge” early Thursday, moving from a proof-of-work system to a proof of stake system. And nothing catastrophic has happened yet, despite plenty of dark predictions by an army of…</p><p><a href="https://gizmodo.com/ethereu
+

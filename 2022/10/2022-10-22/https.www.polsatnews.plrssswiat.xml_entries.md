@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Chile. Policyjny pościg i deszcz pieniędzy na autostradzie
  - [https://www.polsatnews.pl/wiadomosc/2022-10-22/chile-policyjny-poscig-i-deszcz-pieniedzy-na-autostradzie/](https://www.polsatnews.pl/wiadomosc/2022-10-22/chile-policyjny-poscig-i-deszcz-pieniedzy-na-autostradzie/)
@@ -62,3 +62,4 @@ W sobotę w Rzymie odbyło się zaprzysiężenie rządu Giorgii Meloni. To pierw
  - date published: 2022-10-22 07:55:00+00:00
 
 W sobotę rano słychać było odgłosy eksplozji w obwodach: kijowskim i odeskim, chmielnickim, wołyńskim i rówieńskim - poinformowały ukraińskie media. Na niemal całym terytorium kraju ogłoszono alarmy przeciwlotnicze. Potwierdzono także działanie obrony powietrznej w obwodzie kijowskim.
+

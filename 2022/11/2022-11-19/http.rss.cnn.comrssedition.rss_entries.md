@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Trump-era border restrictions could end in a week. See how it's impacting southern US border
  - [https://www.cnn.com/videos/us/2022/11/19/migrants-title-42-culver-mexico-contd-pkg-ebof-vpx.cnn](https://www.cnn.com/videos/us/2022/11/19/migrants-title-42-culver-mexico-contd-pkg-ebof-vpx.cnn)
@@ -252,3 +252,4 @@ CNN's Patrick Oppmann explores Cuba's efforts to protect sharks and attract visi
  - date published: 2022-11-19 00:19:37+00:00
 
 An endangered chimpanzee was reunited with her newborn at the Sedgwick County Zoo in Kansas nearly two days after the C-section birth.
+

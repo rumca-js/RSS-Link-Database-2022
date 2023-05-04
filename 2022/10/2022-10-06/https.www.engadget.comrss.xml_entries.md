@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Judge in Twitter v. Elon Musk postpones trial to October 28th
  - [https://www.engadget.com/the-twitter-v-elon-musk-trial-is-on-hold-until-october-28th-222615330.html?src=rss](https://www.engadget.com/the-twitter-v-elon-musk-trial-is-on-hold-until-october-28th-222615330.html?src=rss)
@@ -272,3 +272,4 @@
  - date published: 2022-10-06 03:38:31+00:00
 
 <p><a href="https://www.engadget.com/former-uber-security-chief-joe-sullivan-obstruction-of-jusice-220155398.html">Joseph Sullivan</a>, who used to serve as Uber's security chief, was convicted of federal charges for <a href="https://www.engadget.com/2017-11-21-uber-hid-data-breach-exposing-info-for-57-million-users.html">hiding a 2016 data breach</a> from authorities. According to <a href="https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html"><em>The New Y
+

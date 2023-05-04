@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## * BNP Paribas zachęca firmy do wspólnej walki z cyberprzestępcami
  - [https://niebezpiecznik.pl/post/bnp-paribas-zacheca-firmy-do-wspolnej-walki-z-cyberprzestepcami/](https://niebezpiecznik.pl/post/bnp-paribas-zacheca-firmy-do-wspolnej-walki-z-cyberprzestepcami/)
@@ -20,3 +20,4 @@ W BNP Paribas ruszył Digital Fraud Innovation Lab, czyli program do którego ba
  - date published: 2022-11-27 19:15:38+00:00
 
 <a href="https://niebezpiecznik.pl/post/oh-my-hck-2022/"><img align="left" alt="" class="alignleft wp-post-image tfe" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/11/OMH_123456-150x150.jpg" title="" width="100" /></a>Jak przechytrzyć cyberprzestępców i chronić swoje dane? Przyjdź na Oh My H@ck 2022 i zobacz, co nowego w cybersecurity. Cybercrime, reverse engineering, forensics, pwning oraz całe mnóstwo innych głośnych i ciekawych tematów, których nie da się tak łatwo zaszufladkować. 6 ścieżek i niemal 50 doświadczonych ekspertów cyberbezpieczeństwa. NA ŻYWO na najbezpieczniejszej konferencji w całym internecie. Jakiej, [&#8230;]
+

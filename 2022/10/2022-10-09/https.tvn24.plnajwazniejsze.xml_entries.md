@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Barcelona wygrała, ale miała mnóstwo szczęścia. Sfrustrowany Lewandowski
  - [https://eurosport.tvn24.pl/barcelona-wygra-a--ale-mia-a-mn-stwo-szcz--cia--sfrustrowany-lewandowski,1121050.html?source=rss](https://eurosport.tvn24.pl/barcelona-wygra-a--ale-mia-a-mn-stwo-szcz--cia--sfrustrowany-lewandowski,1121050.html?source=rss)
@@ -184,3 +184,4 @@
 
 <img alt="Iga Świątek - Barbora Krejcikova. O której finał turnieju w Ostrawie?" src="https://tvn24.pl/najnowsze/cdn-zdjecie-gizacj-iga-swiatek/alternates/LANDSCAPE_1280" />
     Polska tenisistka zagra o swój 11. tytuł w profesjonalnej karierze.
+

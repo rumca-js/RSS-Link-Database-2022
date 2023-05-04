@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Dynamic Island on the iPhone 14 Pro: How to use the iPhone's latest software trick
  - [https://www.zdnet.com/article/dynamic-island-on-the-iphone-14-pro-tk-tips-and-tricks/#ftag=RSSbaffb68](https://www.zdnet.com/article/dynamic-island-on-the-iphone-14-pro-tk-tips-and-tricks/#ftag=RSSbaffb68)
@@ -97,3 +97,4 @@ Its operating profit increased 25% from a year ago but last year's earnings incl
  - date published: 2022-10-28 06:46:58+00:00
 
 Southeast Asia's digital economy is projected to reach $200 billion in gross merchandise value this year, but market players will need to understand consumer behaviour to sustain growth as adoption of online services matures across the region.
+

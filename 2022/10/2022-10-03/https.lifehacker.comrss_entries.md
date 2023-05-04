@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Get a Wordle Hint Without Spoiling the Whole Thing
  - [https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779](https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779)
@@ -111,3 +111,4 @@
  - date published: 2022-10-03 12:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--NdFBu8Dr--/c_fit,fl_progressive,q_80,w_636/1be3a4f167639504d7ae7934074862f4.jpg" /><p>A child’s short attention span can be something to behold. One moment, they are playing with their train, the next moment they’re spinning in circles, and now they are asking to watch a TV show, when all you want them to do is put their shoes away like you asked. However, as a <a href="https://www.sciencedirect.com/science/article/abs/pii/S002209652
+

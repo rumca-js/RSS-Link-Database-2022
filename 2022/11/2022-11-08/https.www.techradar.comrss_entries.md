@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Medibank says it won't pay a ransom despite threats to leak data
  - [https://www.techradar.com/news/medibank-says-it-wont-pay-a-ransom-despite-threats-to-leak-data/](https://www.techradar.com/news/medibank-says-it-wont-pay-a-ransom-despite-threats-to-leak-data/)
@@ -216,3 +216,4 @@ Airbnb will display a location's total listing price and add new educational res
  - date published: 2022-11-08 02:55:37+00:00
 
 PC dynamo Dell has run afoul of the ACCC, following allegations of the tech company “inflating” some offers.
+

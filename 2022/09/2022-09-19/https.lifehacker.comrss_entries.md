@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Difference Between a Monopsony and a Monopoly (and Why It Matters for Your Favorite TV Show)
  - [https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851](https://lifehacker.com/the-difference-between-a-monopsony-and-a-monopoly-and-1849553851)
@@ -139,3 +139,4 @@
  - date published: 2022-09-19 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Lau7XYT4--/c_fit,fl_progressive,q_80,w_636/9927143c2d94e0de2efa3a5f2d08a698.jpg" /><p>With the exception of <a href="https://lifehacker.com/were-drinking-corn-milk-punch-now-1844804596">corn milk punch</a>, creamy cocktails aren’t really my bag. Adding full-fat dairy to a cup of ethanol can cause some curdling issues, but it’s the heaviness of half &amp; half and cream that make it hard for me to enjoy them. Still, there’s no denying
+

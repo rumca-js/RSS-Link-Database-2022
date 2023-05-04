@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## God of War Ragnarok: All Jewel Of Yggdrasil Locations
  - [https://www.gamespot.com/articles/god-of-war-ragnarok-all-jewel-of-yggdrasil-locations/1100-6509474/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/god-of-war-ragnarok-all-jewel-of-yggdrasil-locations/1100-6509474/?ftag=CAD-01-10abi2f)
@@ -405,3 +405,4 @@
  - date published: 2022-11-23 00:39:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4067149-20221121_pokemonscarletvioletdifferences_featurev2.jpg" width="480" /> From the available Pokemon, to the school and paradox forms, here are all the differences between Pokemon Scarlet and Violet.
+

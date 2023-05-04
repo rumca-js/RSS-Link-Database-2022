@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Finally! A pair of affordable Thunderbolt docks on Black Friday
  - [https://www.pcworld.com/article/1394947/finally-a-pair-of-affordable-thunderbolt-docks-on-black-friday.html](https://www.pcworld.com/article/1394947/finally-a-pair-of-affordable-thunderbolt-docks-on-black-friday.html)
@@ -3091,3 +3091,4 @@ Black Friday, Black Friday and Cyber Monday</div>
 
 <p><em>Editor&rsquo;s note: This article originally published in August 2019 but has been since updated to keep it current. Recent updates includes new info on discounted Gold codes, plus news about possible product and price changes related to Xbox Live Gold and Game Pass Ultimate. Our tutorial video was also added.</em></p>
 Computers, Computers and Peripherals, Gaming, Microsoft, Xbox</div>
+

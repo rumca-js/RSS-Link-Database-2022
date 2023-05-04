@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## S&P500 (jeszcze?) nie przełamał czerwcowego dna bessy
  - [https://www.bankier.pl/wiadomosc/S-P500-jeszcze-nie-przelamal-czerwcowego-dna-bessy-8412244.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/S-P500-jeszcze-nie-przelamal-czerwcowego-dna-bessy-8412244.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -355,3 +355,4 @@ notowanych poprzednio w covidowym dołku w marcu 2020 r.</p>
 proponowane „na start” oprocentowanie zmienne dla takiego samego kredytu
 hipotecznego. Sytuacja w ciągu roku zmieniła się diametralnie, chociaż marże znacząco
 spadły w tym czasie.</p>
+

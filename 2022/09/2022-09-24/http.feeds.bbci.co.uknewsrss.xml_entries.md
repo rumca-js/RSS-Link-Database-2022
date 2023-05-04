@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Qatar World Cup: Accommodation worries for football fans
  - [https://www.bbc.co.uk/news/world-middle-east-62995496?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-62995496?at_medium=RSS&at_campaign=KARANGA)
@@ -426,3 +426,4 @@ On Saturday, one of India's best female cricketers is set to play her last inter
  - date published: 2022-09-24 00:02:35+00:00
 
 Three-time Olympic gold medallist Max Whitlock "felt like a complete failure" when he contemplated stepping away from the sport after the Tokyo Games.
+

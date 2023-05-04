@@ -1,4 +1,4 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
 
 ## Forced Home Demolition: money printing machine for local governments/The war on the people continues
  - [https://www.youtube.com/watch?v=Lj2mDd8tvN0](https://www.youtube.com/watch?v=Lj2mDd8tvN0)
@@ -15,3 +15,4 @@ Your support allows us to produce more high-quality videos.
 Consider donating at https://www.paypal.com/paypalme/ChinaInsights
 
 Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk Takes On Apple’s Power, Setting Up a Clash
  - [https://www.nytimes.com/2022/11/28/technology/elon-musk-apple-twitter.html](https://www.nytimes.com/2022/11/28/technology/elon-musk-apple-twitter.html)
@@ -41,3 +41,4 @@ BlockFi was financially entangled with FTX, and its stability was thrust into un
  - date published: 2022-11-28 14:29:51+00:00
 
 The penalty, imposed by Irish data regulators, brings European fines against Facebook’s parent company to more than $900 million since last year.
+

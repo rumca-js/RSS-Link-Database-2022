@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Karine Jean-Pierre rambles (again) before completely ignoring DIRECT questions about the border
  - [https://www.louderwithcrowder.com/karine-jean-pierre-ignores-questions](https://www.louderwithcrowder.com/karine-jean-pierre-ignores-questions)
@@ -83,3 +83,4 @@
  - date published: 2022-09-16 12:30:52+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=31727780&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>It was a fun twenty-four hours of making Democrats live up to their own amnesty rules and watching them turn into anti-immigration nativists. Here's Ron DeSantis wrapping it up for us in a neat little bow.</p><p>To recap, DeSantis helped a plane full of undocumented immigrants make their way to Martha's Vineyard on Wednesday evening. The 
+

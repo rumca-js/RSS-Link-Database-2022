@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Being a victim of rape costs an average of $3,500 in medical bills, study finds
  - [https://arstechnica.com/?p=1882387](https://arstechnica.com/?p=1882387)
@@ -132,3 +132,4 @@ Summer saw heat waves, droughts, and floods—sometimes one on top of the other.
  - date published: 2022-09-16 00:37:16+00:00
 
 Threat actor has connections to hackers backed by North Korean government.
+

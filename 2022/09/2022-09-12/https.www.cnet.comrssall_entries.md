@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## PlayStation State of Play Set for Sept. 13: Start Time, How to Watch and More     - CNET
  - [https://www.cnet.com/tech/gaming/playstation-state-of-play-set-for-sept-13-start-time-how-to-watch-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/playstation-state-of-play-set-for-sept-13-start-time-how-to-watch-and-more/#ftag=CADf328eec)
@@ -958,3 +958,4 @@ Stranger Things, Euphoria and Squid Game are all up for awards. Let's hope Yello
  - date published: 2022-09-12 00:37:00+00:00
 
 Netflix has a great mix of classics and brand new sci-fi movies to check out.
+

@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Physics Nobel Prize awards Alain Aspect, pioneer of the 'second quantum revolution'
  - [https://www.lemonde.fr/en/science/article/2022/10/04/physics-nobel-prize-awards-alain-aspect-pioneer-of-the-second-quantum-revolution_5999110_10.html](https://www.lemonde.fr/en/science/article/2022/10/04/physics-nobel-prize-awards-alain-aspect-pioneer-of-the-second-quantum-revolution_5999110_10.html)
@@ -13,3 +13,4 @@ The Frenchman was honored jointly with the American John Clauser and the Austria
  - date published: 2022-10-04 10:24:52+00:00
 
 The scientific trio were awarded the world-famous prize for "pioneering quantum information science."
+

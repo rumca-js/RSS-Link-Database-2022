@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## In Photos: NASA’s Orion SpaceCraft Sends Back New Images Of The Moon As It Heads For The Unknown
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/25/in-photos-nasas-orion-spacecraft-sends-back-new-images-of-the-moon-as-it-heads-for-the-unknown/](https://www.forbes.com/sites/jamiecartereurope/2022/11/25/in-photos-nasas-orion-spacecraft-sends-back-new-images-of-the-moon-as-it-heads-for-the-unknown/)
@@ -265,3 +265,4 @@ Here's today's 'Heardle' song, along with some hints.
  - date published: 2022-11-25 01:00:00+00:00
 
 Space Perspectives has announced that its high-altitude balloons will launch from a huge boat that can send passengers sky-wards from anywhere in the world.
+

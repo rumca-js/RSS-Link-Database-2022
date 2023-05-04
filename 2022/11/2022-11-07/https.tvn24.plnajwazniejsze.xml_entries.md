@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Real Madryt przegrał po szalonym meczu. Wielka szansa dla Barcelony
  - [https://eurosport.tvn24.pl/real-madryt-przegra--po-szalonym-meczu--wielka-szansa-dla-barcelony,1123960.html?source=rss](https://eurosport.tvn24.pl/real-madryt-przegra--po-szalonym-meczu--wielka-szansa-dla-barcelony,1123960.html?source=rss)
@@ -167,3 +167,4 @@
 
 <img alt="Finał nie dla Świątek. Sabalenka za mocna" src="https://tvn24.pl/najnowsze/cdn-zdjecie-4rxnle-swiatek-nie-zagra-w-finale-6205019/alternates/LANDSCAPE_1280" />
     Liderka światowego rankingu przegrała w półfinale turnieju w Fort Worth.
+

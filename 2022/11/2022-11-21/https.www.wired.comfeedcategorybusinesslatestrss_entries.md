@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Your Google Searches Are Quietly Evolving. Here’s What’s Next
  - [https://www.wired.com/story/google-search-shopping-ads-malware-trends/](https://www.wired.com/story/google-search-shopping-ads-malware-trends/)
@@ -13,3 +13,4 @@ We went behind the scenes to make sense of Shopping, Ads, and the changes that w
  - date published: 2022-11-21 12:00:00+00:00
 
 Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works.
+

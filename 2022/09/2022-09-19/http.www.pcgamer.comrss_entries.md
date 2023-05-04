@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## A follow up to 2016's trippiest FPS just released on Steam, and it's a thousand times trippier
  - [https://www.pcgamer.com/hyper-demon-release-steam](https://www.pcgamer.com/hyper-demon-release-steam)
@@ -153,3 +153,4 @@ To be fully revealed on September 27
  - date published: 2022-09-19 00:58:34+00:00
 
 Gib mood.
+

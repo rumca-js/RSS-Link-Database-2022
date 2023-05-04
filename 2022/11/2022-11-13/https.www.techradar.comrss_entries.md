@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## How to buy a Chromebook this Black Friday
  - [https://www.techradar.com/news/how-to-buy-a-chromebook-this-black-friday/](https://www.techradar.com/news/how-to-buy-a-chromebook-this-black-friday/)
@@ -34,3 +34,4 @@ Open source software figures are looking good, but there are still vulnerabiliti
  - date published: 2022-11-13 13:00:16+00:00
 
 We have side-by-side shots supposedly captured by the Galaxy S23 Ultra, the Galaxy S22 Ultra, and the Pixel 7 Pro.
+

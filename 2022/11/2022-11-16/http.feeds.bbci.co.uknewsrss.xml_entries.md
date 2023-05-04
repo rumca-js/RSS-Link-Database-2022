@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## UK Snooker Championship 2022: Ronnie O'Sullivan dismisses Shaun Murphy's criticism of his attitude
  - [https://www.bbc.co.uk/sport/snooker/63656764?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/snooker/63656764?at_medium=RSS&at_campaign=KARANGA)
@@ -378,6 +378,13 @@ Australian Isaac Humphries becomes the first active male basketball player curre
 
 The Brazilian president-in-waiting is expected to say his country is a global player on climate again.
 
+## BBC Food's £1 recipe meal plan for six
+ - [https://www.bbc.co.uk/food/articles/budget_family_meal_plan_for_six?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/food/articles/budget_family_meal_plan_for_six?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-11-16 09:27:08+00:00
+
+Cheap family dinners that will cost you £1 a portion, or less.
+
 ## Spaceport Cornwall granted operating licence
  - [https://www.bbc.co.uk/news/uk-england-cornwall-63646480?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cornwall-63646480?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -587,3 +594,4 @@ After migrants working on Qatar's infrastructure have died in final months befor
  - date published: 2022-11-16 00:01:52+00:00
 
 Customers who do not receive furniture orders by 25 November should submit a claim for a refund.
+

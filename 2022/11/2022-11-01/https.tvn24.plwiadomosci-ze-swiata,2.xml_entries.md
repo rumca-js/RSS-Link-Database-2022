@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Miliarder Oleg Tińkow zrzekł się rosyjskiego obywatelstwa
  - [https://tvn24.pl/swiat/rosja-miliarder-oleg-tinkow-zrzekl-sie-rosyjskiego-obywatelstwa-6188851?source=rss](https://tvn24.pl/swiat/rosja-miliarder-oleg-tinkow-zrzekl-sie-rosyjskiego-obywatelstwa-6188851?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Miliarder Oleg Tińkow zrzekł się rosyjskiego obywatelstwa" src="https://tvn24.pl/najnowsze/cdn-zdjecie-mpc8op-oleg-tinkow-6188854/alternates/LANDSCAPE_1280" />
     Oleg Tińkow, rosyjski miliarder i bankier, zrzekł się obywatelstwa ze względu na agresję Rosji wobec Ukrainy. Założyciel Tinkoff Bank, który sam podlega zachodnim sankcjom, potępił "faszyzm Putina". "Nienawidzę Rosji Putina, ale kocham wszystkich Rosjan, którzy jasno opowiadają się przeciwko tej szalonej wojnie" - napisał.
+

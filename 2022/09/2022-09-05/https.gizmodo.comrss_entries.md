@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Tatiana Maslany Twerking Behind the Scenes of She-Hulk Is a Delight
  - [https://gizmodo.com/she-hulk-twerk-scene-tatiana-maslany-mega-thee-stallion-1849497962](https://gizmodo.com/she-hulk-twerk-scene-tatiana-maslany-mega-thee-stallion-1849497962)
@@ -62,3 +62,4 @@
  - date published: 2022-09-05 02:03:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--pSb7rqhv--/c_fit,fl_progressive,q_80,w_636/da824fbe01dbd7118cda2fa40f43fb47.jpg" /><p>Let me put it bluntly: A lot of <a href="https://gizmodo.com/house-of-the-dragon-premiere-recap-game-of-thrones-1849435926">Targaryens</a> feel sorry for themselves in tonight’s episode of <a href="https://gizmodo.com/everything-we-know-about-house-of-the-dragon-1847808778"><em>House of the Dragon</em></a>. But what starts out as a pity party become
+

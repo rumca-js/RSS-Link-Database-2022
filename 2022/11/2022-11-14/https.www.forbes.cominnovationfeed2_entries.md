@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Twitter Engineer Fired On Twitter Calls Musk’s Team “A Bunch Of Cowards”
  - [https://www.forbes.com/sites/cyrusfarivar/2022/11/14/musk-fires-twitter-engineer-on-twitter-cowards/](https://www.forbes.com/sites/cyrusfarivar/2022/11/14/musk-fires-twitter-engineer-on-twitter-cowards/)
@@ -468,3 +468,4 @@ The celestial highlights for the week ahead include what could be a very special
  - date published: 2022-11-14 00:21:00+00:00
 
 The Walking Dead continues to stumble awkwardly toward its series finale.
+

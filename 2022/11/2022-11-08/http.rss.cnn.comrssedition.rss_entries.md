@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## | CNN PROJECTIONS
  - [https://edition.cnn.com/election/2022](https://edition.cnn.com/election/2022)
@@ -566,3 +566,4 @@ Paramount Global CEO Bob Bakish breaks down how heightened emotions, careful cal
  - date published: 2022-11-08 00:26:18+00:00
 
 A student at the University of Kentucky is facing several assault charges after hurling a racial slur repeatedly at Black students Sunday on campus, a university police report says.
+

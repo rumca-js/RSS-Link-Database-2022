@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Watch Tesla's AI Day 2022 event at 9:15PM ET
  - [https://www.engadget.com/how-to-watch-tesla-ai-day-2022-event-202015345.html?src=rss](https://www.engadget.com/how-to-watch-tesla-ai-day-2022-event-202015345.html?src=rss)
@@ -139,3 +139,4 @@
  - date published: 2022-09-30 00:02:54+00:00
 
 <p>A tranche of Elon Musk’s private messages have been made public as part of his ongoing lawsuit with Twitter. The messages, revealed in a <a href="https://www.documentcloud.org/documents/23112929-elon-musk-text-exhibits-twitter-v-musk"><ins>court filing</ins></a> Thursday, shed new light on Musk’s behind-the-scenes negotiations with Twitter’s leadership, as well discussions with former CEO Jack Dorsey, and how Musk’s talks with CEO Parag Agrawal quickly soured.</p><p>The messages include the m
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## How the Pixel, Apple, and Galaxy watches compare on paper
  - [https://www.theverge.com/2022/10/6/23391189/pixel-apple-samsung-galaxy-watch-comparison-specs-fitness](https://www.theverge.com/2022/10/6/23391189/pixel-apple-samsung-galaxy-watch-comparison-specs-fitness)
@@ -647,3 +647,4 @@
     </figure>
 
   <p id="GHqsOI">Former Uber chief security officer Joe Sullivan has been found guilty of <a href="https://www.theverge.com/2020/8/20/21377849/uber-hack-2016-da
+

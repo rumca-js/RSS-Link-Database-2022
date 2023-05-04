@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## CDC director tests positive for Covid-19
  - [https://www.cnn.com/2022/10/22/health/cdc-director-positive-covid/index.html](https://www.cnn.com/2022/10/22/health/cdc-director-positive-covid/index.html)
@@ -338,3 +338,4 @@ CNN's Jake Tapper breaks down how ex-Trump adviser Steve Bannon being sentenced 
  - date published: 2022-10-22 01:05:38+00:00
 
 According to human rights groups, hundreds of Ukrainian civilians have been imprisoned unlawfully in Russia, with the lucky ones being used as bargaining chips in prisoner swaps. CNN's Clarissa Ward speaks with families of those who have been taken.
+

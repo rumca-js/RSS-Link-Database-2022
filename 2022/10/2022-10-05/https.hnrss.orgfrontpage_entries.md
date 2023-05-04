@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027
  - [https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/](https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/)
@@ -659,3 +659,4 @@ I believe this happened to a lot of founders, but we decided to put it out on th
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33089131">https://news.ycombinator.com/item?id=33089131</a></p>
 <p>Points: 54</p>
 <p># Comments: 17</p>
+

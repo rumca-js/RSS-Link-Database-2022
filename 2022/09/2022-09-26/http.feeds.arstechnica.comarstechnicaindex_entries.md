@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## DART goes silent after hitting an asteroid
  - [https://arstechnica.com/?p=1884719](https://arstechnica.com/?p=1884719)
@@ -111,3 +111,4 @@ Thermal behavior is a bit odd, but there's lots to like about these new CPUs.
  - date published: 2022-09-26 13:00:13+00:00
 
 Ryzen 7000 CPUs use a new platform—with plenty of changes.
+

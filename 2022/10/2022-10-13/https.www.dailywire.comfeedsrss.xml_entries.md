@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Congressional Republicans Outraged By Biden Admin Using FBI To Wage ‘Open War On Pro-Life Activists’
  - [https://www.dailywire.com/news/congressional-republicans-outraged-by-biden-admin-using-fbi-to-wage-open-war-on-pro-life-activists](https://www.dailywire.com/news/congressional-republicans-outraged-by-biden-admin-using-fbi-to-wage-open-war-on-pro-life-activists)
@@ -398,3 +398,4 @@ Saudi Arabia slammed President Joe Biden&#8217;s administration in a statement W
  - date published: 2022-10-13 00:00:18+00:00
 
 Daily Wire host Candace Owens launched her new documentary — &#8220;The Greatest Lie Ever Sold&#8221; — at a star-studded event in downtown Nashville Wednesday. The BLM exposé takes a deep-dive into the multi-million dollar “grift” of the Black Lives Matter Global Network Foundation and its former Executive Director Patrisse Cullors, and offers “the true story” behind the life and death of George ...
+

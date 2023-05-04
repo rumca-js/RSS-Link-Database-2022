@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## UFC 279 Nate Diaz vs. Tony Ferguson: Start Time, How to Watch or Stream Online     - CNET
  - [https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-time-how-to-watch-or-stream-online/#ftag=CADf328eec](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-time-how-to-watch-or-stream-online/#ftag=CADf328eec)
@@ -503,3 +503,4 @@ Halle Bailey's Ariel has whoozits and whatzits galore.
  - date published: 2022-09-10 00:00:03+00:00
 
 Just a few more days until this simple but essential setting returns to iPhones everywhere.
+

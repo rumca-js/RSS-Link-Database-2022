@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## The suspect in a series of central California killings was 'out hunting' when he was arrested, police say
  - [https://www.cnn.com/2022/10/15/us/stockton-serial-killings-suspect-arrested/index.html](https://www.cnn.com/2022/10/15/us/stockton-serial-killings-suspect-arrested/index.html)
@@ -328,3 +328,4 @@ A fact-finding team tasked with investigating a deadly soccer stampede in Indone
  - date published: 2022-10-15 00:32:41+00:00
 
 As the weather changes in Ukraine and the battle for Kherson continues, soldiers show CNN's Nick Paton Walsh how they plan to use bunkers and Elon Musk's satellite internet to help map out Russian forces.
+

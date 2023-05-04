@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## KJP lashes out at Doocy question: Does POTUS believe it's a 'threat to democracy' if somebody votes GOP?
  - [https://www.louderwithcrowder.com/doocy-potus-gop-democracy](https://www.louderwithcrowder.com/doocy-potus-gop-democracy)
@@ -183,3 +183,4 @@
  - date published: 2022-11-02 03:19:58+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=32030524&amp;width=1245&amp;height=700&amp;coordinates=38%2C0%2C0%2C0" /><br /><br /><p class="">After scouring TikTok for the "most insane" Halloween costumes, Dave Landau and the "<a href="https://get.blazetv.com/lwc/" rel="noopener noreferrer" target="_blank">Louder with Crowder</a>" crew reacted to the top videos and rated them from zero to ten. </p><p>Download the podcast <a href="https://podcasts.apple.com/us/podcast/louder-with-crowder/id929121341" target="_blank">here</a>.</p><h3></h3><br /><h3><strong>Want more from Steven Crowder?</strong></h3><p>To enjoy more of Steven’s uncensored late-night comedy that’s actually funny, <a href="https://get.blazetv.com/lwc/?utm_source=theblaze&amp;utm_medium=referral&amp;utm_campaign=article_shortcode&amp;utm_term=crowder&amp;utm_content=crowder-subscribe-to-BlazeTV-link-090419-theblaze" target="_blank">join Mug Club</a> — the only place for all of Crowder uncensored and on demand.</p>
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The sand doodler who conquered her Somali Islamic critics
  - [https://www.bbc.co.uk/news/world-africa-63217445?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63217445?at_medium=RSS&at_campaign=KARANGA)
@@ -552,3 +552,4 @@ September's loser appears on the verge of becoming October's prime minister, pol
  - date published: 2022-10-24 00:03:57+00:00
 
 Boris Johnson bows out of the Tory leadership race as Rishi Sunak takes the lead, Monday's papers say.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Jet2 flight diverted to London Stansted after security scare
  - [https://www.bbc.co.uk/news/uk-63237872?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63237872?at_medium=RSS&at_campaign=KARANGA)
@@ -587,3 +587,4 @@ Deaths of children in The Gambia, linked to Indian-made cough syrups, raises con
  - date published: 2022-10-12 00:21:10+00:00
 
 The Bank of England says bond-buying help will end on Friday, despite pleas from investors to extend it.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## After demons and death gods, ‘Warcraft’ gets sunny with ‘Dragonflight’
  - [https://www.washingtonpost.com/video-games/2022/11/28/world-warcraft-dragonflight-wow-cross-faction/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/28/world-warcraft-dragonflight-wow-cross-faction/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ It’s hard to tell what’s quality or a scam online. Use these research skills
  - date published: 2022-11-28 06:00:59+00:00
 
 Sens. Elizabeth Warren and Bernie Sanders have lost tens of thousands of followers, while Republicans such as Sen. Ted Cruz and Rep. Marjorie Taylor Greene have seen big increases.
+

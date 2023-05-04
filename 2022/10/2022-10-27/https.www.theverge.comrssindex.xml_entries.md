@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Walmart stores are adding a Netflix section with gift cards and gear
  - [https://www.theverge.com/2022/10/27/23427486/netflix-walmart-stores-hub-section-gift-cards-gear](https://www.theverge.com/2022/10/27/23427486/netflix-walmart-stores-hub-section-gift-cards-gear)
@@ -559,3 +559,4 @@
   <p>
     <a href="https://www.theverge.com/2022/10/26/23425637/apple-pauses-gambling-ads-developer-outcry">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The Try Guys: What Happened With Ned Fulmer, Explained     - CNET
  - [https://www.cnet.com/culture/internet/the-try-guys-what-happened-with-ned-fulmer-explained/#ftag=CADf328eec](https://www.cnet.com/culture/internet/the-try-guys-what-happened-with-ned-fulmer-explained/#ftag=CADf328eec)
@@ -720,3 +720,4 @@ The debris of a cosmic crash is literally stretching across the sky.
  - date published: 2022-10-04 00:10:00+00:00
 
 Do you want to hold the dark power in your hand, ready to help or hinder the Uruk? Now is your chance.
+

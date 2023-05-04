@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Kerala dog attacks: Why the state has a fraught relationship with strays
  - [https://www.bbc.co.uk/news/world-asia-india-62949005?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-62949005?at_medium=RSS&at_campaign=KARANGA)
@@ -573,3 +573,4 @@ As Hurricane Ian makes its way through the Caribbean towards the US - we ask if 
  - date published: 2022-09-27 00:15:24+00:00
 
 Delivery rider Luciano is just one of those going to extreme measures to survive Brazil's cost of living crisis.
+

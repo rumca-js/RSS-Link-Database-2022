@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google reveals Black Friday deals, including Pixel 6a for $300
  - [https://www.androidauthority.com/google-pixel-black-friday-3232195/](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
@@ -132,3 +132,4 @@ Get ready to pay more for your Disney Plus subscription.
  - date published: 2022-11-07 03:00:30+00:00
 
 For the record, 86 decibels is pretty loud.
+

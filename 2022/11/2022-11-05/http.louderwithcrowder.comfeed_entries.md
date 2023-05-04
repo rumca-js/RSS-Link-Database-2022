@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'Yellowstone' star gives MAJOR update on the future of the show, why co-creator skipped Season 5 premiere
  - [https://www.louderwithcrowder.com/yellowstone-season-six](https://www.louderwithcrowder.com/yellowstone-season-six)
@@ -50,3 +50,4 @@
 </p></p><p class="shortcode-media shortcode-media-rumble">
 
 </p>
+

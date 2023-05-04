@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Russia invasion has become 'long nightmare' for Putin, Latvian President says at UN
  - [https://edition.cnn.com/webview/world/live-news/un-general-assembly-09-21-22/index.html](https://edition.cnn.com/webview/world/live-news/un-general-assembly-09-21-22/index.html)
@@ -629,3 +629,4 @@ United States Park Police say the Washington Monument is temporarily closed and 
  - date published: 2022-09-21 00:27:55+00:00
 
 Former Trump White House Press Secretary Stephanie Grisham discusses how Donald Trump may be handling Judge Raymond Dearie's first hearing as the special master selected to review documents recovered at the former president's Mar-a-Lago residence.
+

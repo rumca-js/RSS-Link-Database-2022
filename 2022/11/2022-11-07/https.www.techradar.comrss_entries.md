@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## YouTube Shorts invade the biggest screen in your home
  - [https://www.techradar.com/news/youtube-shorts-invade-the-biggest-screen-in-your-home/](https://www.techradar.com/news/youtube-shorts-invade-the-biggest-screen-in-your-home/)
@@ -188,3 +188,4 @@ The title for the first episode of Stranger Things season 5 has been revealed â€
  - date published: 2022-11-07 06:18:19+00:00
 
 Anyone waiting to get their hands on an iPhone 14 model will need to be patient as Covid restrictions impact one of Appleâ€™s China-based factories.
+

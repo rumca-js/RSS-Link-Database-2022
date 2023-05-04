@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Petabyte tapes are on the horizon - but don’t hold your breath
  - [https://www.techradar.com/news/petabyte-tapes-are-on-the-horizon-but-dont-hold-your-breath/](https://www.techradar.com/news/petabyte-tapes-are-on-the-horizon-but-dont-hold-your-breath/)
@@ -202,3 +202,4 @@ Brazil says Apple can't sell iPhones without a charger anymore, while also finin
  - date published: 2022-09-07 00:32:36+00:00
 
 Ready for the expected iPhone 14 launch? Join us now for all the build up.
+

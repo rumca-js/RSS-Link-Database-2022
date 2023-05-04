@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Best Cyber Monday PS5 Deals - Save Big On A Bunch Of Exclusive Games
  - [https://www.gamespot.com/gallery/best-cyber-monday-ps5-deals-save-big-on-a-bunch-of-exclusive-games/2900-4448/](https://www.gamespot.com/gallery/best-cyber-monday-ps5-deals-save-big-on-a-bunch-of-exclusive-games/2900-4448/)
@@ -34,3 +34,4 @@
  - date published: 2022-11-27 15:00:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1594/15941173/4067869-loadout_scar_v3_site.jpg" width="480" /> Since the early 2000s, the SCAR-L and SCAR-H Assault Rifles have become mainstays in our video games. But what are the differences between the two, how did they become such essential additions to our gaming arsenals, and do they deserve their place among other iconic assault rifles like the M16 and AK-47?
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Saskatchewan Stabbings Suspect Found Dead, Canada’s Police Say
  - [https://www.nytimes.com/2022/09/05/world/asia/canada-stabbings-saskatchewan.html](https://www.nytimes.com/2022/09/05/world/asia/canada-stabbings-saskatchewan.html)
@@ -286,3 +286,4 @@ With 50,000 Ukrainians now finding sanctuary in Ireland, the largest number of r
  - date published: 2022-09-05 02:46:07+00:00
 
 The police identified two suspects in attacks that took place along a wide area of a Cree Nation Indigenous reservation and a nearby village in Saskatchewan Province.
+

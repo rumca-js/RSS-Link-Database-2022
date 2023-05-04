@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Can floating turbines harvest the world's wind?
  - [https://www.bbc.co.uk/news/science-environment-63300959?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63300959?at_medium=RSS&at_campaign=KARANGA)
@@ -636,3 +636,4 @@ Athlete Elnaz Rekabi arrives in Tehran to chants of "heroine" after competing wi
  - date published: 2022-10-19 03:57:08+00:00
 
 The regulator said the bank "omitted significant information" about its contribution to harmful emissions.
+

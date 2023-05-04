@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Digital Books wear out faster than Physical Books
  - [http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
@@ -836,3 +836,4 @@ From which news sources?</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33603410">https://news.ycombinator.com/item?id=33603410</a></p>
 <p>Points: 6</p>
 <p># Comments: 1</p>
+

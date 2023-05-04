@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Apple now valued at more than Amazon, Alphabet and Meta combined
  - [https://www.marketwatch.com/story/apple-now-valued-at-more-than-amazon-alphabet-and-meta-combined-11667430617](https://www.marketwatch.com/story/apple-now-valued-at-more-than-amazon-alphabet-and-meta-combined-11667430617)
@@ -743,3 +743,4 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33429972">https://news.ycombinator.com/item?id=33429972</a></p>
 <p>Points: 11</p>
 <p># Comments: 0</p>
+

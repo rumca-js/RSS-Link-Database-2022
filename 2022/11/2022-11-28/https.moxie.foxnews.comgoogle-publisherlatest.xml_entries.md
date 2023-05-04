@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Non-binary Biden nuclear official charged with stealing woman's luggage at airport
  - [https://www.foxnews.com/politics/biden-non-binary-nuclear-official-charged-stealing-womans-luggage-airport](https://www.foxnews.com/politics/biden-non-binary-nuclear-official-charged-stealing-womans-luggage-airport)
@@ -1063,3 +1063,4 @@ Bensalem Police arrested Joshua Cooper and charged him with criminal homicide af
  - date published: 2022-11-28 00:03:52+00:00
 
 Lamar Jackson had time to fire back at a critic following the Baltimore Ravens' loss to the Jacksonville Jaguars on Sunday afternoon.
+

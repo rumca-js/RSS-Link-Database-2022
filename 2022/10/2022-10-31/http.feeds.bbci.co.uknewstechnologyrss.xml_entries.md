@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## UK watchdog warns of emotion-analysis tech risks
  - [https://www.bbc.co.uk/news/technology-63402344?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63402344?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Immature biometric technologies are as unscientific as the magic sorting hat in 
  - date published: 2022-10-31 00:04:24+00:00
 
 Job interviews can now take place in VR worlds with a computer asking the questions.
+

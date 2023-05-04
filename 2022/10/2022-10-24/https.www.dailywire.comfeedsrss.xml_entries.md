@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘I Was Broken’: Matthew Perry Reveals The Reason He Dumped Julia Roberts
  - [https://www.dailywire.com/news/i-was-broken-matthew-perry-reveals-the-reason-he-dumped-julia-roberts](https://www.dailywire.com/news/i-was-broken-matthew-perry-reveals-the-reason-he-dumped-julia-roberts)
@@ -384,3 +384,4 @@ President Joe Biden (D) faced intense backlash online Sunday afternoon over an i
  - date published: 2022-10-24 08:29:35+00:00
 
 Two NBA players were ejected from a game over the weekend after they engaged in a fight that ended up in the stands. The Toronto Raptors&#8217; Christian Koloko and Miami Heat&#8217;s Caleb Martin were ejected in the third quarter on Saturday night after a scuffle broke out between the two. Koloko and Martin both went ...
+

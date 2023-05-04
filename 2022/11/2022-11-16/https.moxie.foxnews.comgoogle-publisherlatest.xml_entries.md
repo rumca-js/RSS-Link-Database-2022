@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Border agents find $2M in cocaine, dead man near capsized boat in Puerto Rico
  - [https://www.foxnews.com/us/border-agents-find-cocaine-dead-man-near-capsized-boat-puerto-rico](https://www.foxnews.com/us/border-agents-find-cocaine-dead-man-near-capsized-boat-puerto-rico)
@@ -1266,3 +1266,4 @@ Former vice president Mike Pence said on Fox News' Special Report on Tuesday tha
  - date published: 2022-11-16 00:17:40+00:00
 
 A few Washington Commanders players let quarterback Taylor Heinicke borrow some diamond studded chains in celebration of the team's upset win over the Eagles Monday night.
+

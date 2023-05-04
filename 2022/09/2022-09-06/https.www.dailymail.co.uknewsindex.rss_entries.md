@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## That's breathtaking! Meet the woman who sniffed out her husband's Parkinson's
  - [https://www.dailymail.co.uk/sciencetech/article-11187123/Thats-breathtaking-Meet-woman-sniffed-husbands-Parkinsons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11187123/Thats-breathtaking-Meet-woman-sniffed-husbands-Parkinsons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1722,3 +1722,4 @@ The Australian country music singer  shared a photo of a lone suitcase lying on
  - date published: 2022-09-06 00:00:47+00:00
 
 The party's health spokesman Wes Streeting said pledges made by Liz Truss to win over the Conservative grassroots differed markedly from the manifesto the Tories were elected on in 2019.
+

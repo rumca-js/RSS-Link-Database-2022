@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: Biden Breaks Promise To Hold MBS Accountable For Killing Journalist, Shields Him From Lawsuit
  - [https://www.dailywire.com/news/breaking-biden-breaks-promise-to-hold-mbs-accountable-for-killing-journalist-shields-him-from-lawsuit](https://www.dailywire.com/news/breaking-biden-breaks-promise-to-hold-mbs-accountable-for-killing-journalist-shields-him-from-lawsuit)
@@ -342,3 +342,4 @@ A new bill introduced in the Texas state legislature would legally include a chi
  - date published: 2022-11-17 08:14:11+00:00
 
 Georgia Democratic gubernatorial candidate Stacey Abrams welcomed support from multiple progressive preachers ahead of her second unsuccessful bid against incumbent Republican Brian Kemp. After narrowly defeating Abrams four years ago, Kemp was re-elected by a nearly 8-point margin, significantly outperforming his rival even as other swing-state Republicans across the country experienced lackluster results. As chronicled ...
+

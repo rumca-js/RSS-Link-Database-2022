@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Opinion: Biden should have handled the relationship with the Saudis better from the start
  - [https://www.cnn.com/2022/10/09/opinions/opec-us-ties-saudi-arabia-uae-greenblatt/index.html](https://www.cnn.com/2022/10/09/opinions/opec-us-ties-saudi-arabia-uae-greenblatt/index.html)
@@ -222,5 +222,6 @@ Three Israelis were wounded, one critically, during a shooting at a checkpoint i
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-09-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-09 00:15:40+00:00
+
 
 

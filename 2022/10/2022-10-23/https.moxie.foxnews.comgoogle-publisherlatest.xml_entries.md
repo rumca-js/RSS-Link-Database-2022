@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## California’s Newsom denies presidential ambitions, promises to finish four-year term if reelected
  - [https://www.foxnews.com/politics/californias-newsom-denies-presidential-ambitions-promises-finish-four-year-term-reelected](https://www.foxnews.com/politics/californias-newsom-denies-presidential-ambitions-promises-finish-four-year-term-reelected)
@@ -783,3 +783,4 @@ It was a rough day for Weber State long snapper Grant Sands, as he airmailed fou
  - date published: 2022-10-23 00:15:51+00:00
 
 A majority of American adults polled in a recent survey support banning colleges and universities from considering race during the admissions process.
+

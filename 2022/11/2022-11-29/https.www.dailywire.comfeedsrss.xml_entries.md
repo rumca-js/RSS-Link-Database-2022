@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Georgia’s Brian Kemp Breaks Down Why Raphael Warnock Shouldn’t Be Re-Elected
  - [https://www.dailywire.com/news/georgias-brian-kemp-breaks-down-why-raphael-warnock-shouldnt-be-re-elected](https://www.dailywire.com/news/georgias-brian-kemp-breaks-down-why-raphael-warnock-shouldnt-be-re-elected)
@@ -398,3 +398,4 @@ Twitter CEO Elon Musk has reportedly started to reinstate tens of thousands of T
  - date published: 2022-11-29 07:16:42+00:00
 
 Rep. Donald McEachin (D-VA) died Monday night after battling cancer for many years, according to a statement from his office. He was 61. &#8220;We are all devastated at the passing of our boss and friend, Congressman Donald McEachin,&#8221; Tara Rountree, his chief of staff, said in the statement. &#8220;Valiantly, for years now, we have watched him ...
+

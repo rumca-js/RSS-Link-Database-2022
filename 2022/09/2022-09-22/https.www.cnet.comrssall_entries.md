@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## The Confusing 'House of the Dragon' Episode 6 Trailer Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/the-confusing-house-of-the-dragon-episode-6-trailer-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-confusing-house-of-the-dragon-episode-6-trailer-explained/#ftag=CADf328eec)
@@ -790,3 +790,4 @@ Here's the exact release time for the latest episode of the Marvel series.
  - date published: 2022-09-22 00:17:56+00:00
 
 Check out limited series Monster: The Jeffrey Dahmer Story, starring Evan Peters.
+

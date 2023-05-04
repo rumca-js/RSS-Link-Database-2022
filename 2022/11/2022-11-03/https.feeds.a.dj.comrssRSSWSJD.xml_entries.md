@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## General Mills, Audi, Pfizer Join Companies Pausing Twitter Ads
  - [https://www.wsj.com/articles/general-mills-audi-and-pfizer-join-growing-list-of-companies-pausing-twitter-ads-11667507765?mod=rss_Technology](https://www.wsj.com/articles/general-mills-audi-and-pfizer-join-growing-list-of-companies-pausing-twitter-ads-11667507765?mod=rss_Technology)
@@ -111,3 +111,4 @@ Intelligent failures in business are based on small bets. Meta bet the farm.
  - date published: 2022-11-03 02:10:00+00:00
 
 Subscribers would get perks, but doubts arise over whether malicious accounts could be prevented.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Rumunia. Smutna historia bociana z Polski. "Zostały tylko pióra i nieliczne kości"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29200928,rumunia-znaleziono-nadajnik-gps-czarnego-bociana-z-polski.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29200928,rumunia-znaleziono-nadajnik-gps-czarnego-bociana-z-polski.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -153,3 +153,4 @@
  - date published: 2022-11-29 07:12:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/1b/23/1b/z28455707M,Sad--zdjecie-ilustracyjne-.jpg" vspace="2" />Wyroki 15 i 8 lat więzienia usłyszało w poniedziałek trzech mężczyzn z gminy Nowe Skalmierzyce w związku ze śmiercią 35-latka. Mężczyzna w grudniu ubiegłego roku został nie tylko dotkliwie pobity, ale również był ciągnięty po ziemi przez kilkaset metrów za samochodem. Wyrok wydał Sąd Okręgowy w Kaliszu, orzeczenie jest nieprawomocne.
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Pentagon: Ukraina potrzebuje czołgów. Najbardziej sowieckich
  - [https://www.bankier.pl/wiadomosc/Pentagon-Ukraina-potrzebuje-czolgow-Najbardziej-sowieckich-8417429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pentagon-Ukraina-potrzebuje-czolgow-Najbardziej-sowieckich-8417429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -501,3 +501,4 @@ Pekao?</p>
  - date published: 2022-10-04 02:14:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/a/ec06c7248c463d-948-568-10-10-3990-2393.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Moskwa nie ma planu dla społeczeństwa i gospodarki  na wypadek wojny i nie ma nikogo do obsadzenia stanowisk tych, którzy uciekli lub zostali wcieleni do wojska, pisze we wtorek Politico.</p>
+

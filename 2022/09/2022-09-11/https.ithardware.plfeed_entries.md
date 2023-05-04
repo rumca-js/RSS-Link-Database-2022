@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Call of Duty 2024. Wiemy, o jakiej wojnie opowie gra
  - [https://ithardware.pl/aktualnosci/call_of_duty_2024_wiemy_o_jakiej_wojnie_opowie_gra-23232.html](https://ithardware.pl/aktualnosci/call_of_duty_2024_wiemy_o_jakiej_wojnie_opowie_gra-23232.html)
@@ -83,3 +83,4 @@ Jak sama nazwa...
 
 Na Ubisoft Forward czekała większość...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/assassin_s_creed_mirage_zaprezentowany_na_ubisoft_forward_2022-23225.html">https://ithardware.pl/aktualnosci/assas
+

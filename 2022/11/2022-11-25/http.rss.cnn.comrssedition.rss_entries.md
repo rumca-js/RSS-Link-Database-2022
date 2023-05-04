@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Retired general predicts how Russia's war will change in the winter months
  - [https://www.cnn.com/videos/world/2022/11/25/russia-war-winter-spider-marks-analysis-putin-meeting-mothers-dead-soldiers-sot-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/11/25/russia-war-winter-spider-marks-analysis-putin-meeting-mothers-dead-soldiers-sot-tsr-vpx.cnn)
@@ -462,5 +462,6 @@ The US and China are locked in a battle over microchips, which is stretching the
  - [https://www.cnn.com/collections/intl-world-cup-241122/](https://www.cnn.com/collections/intl-world-cup-241122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 00:26:39+00:00
+
 
 

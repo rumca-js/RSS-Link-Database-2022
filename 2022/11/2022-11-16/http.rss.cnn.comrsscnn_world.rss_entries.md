@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## China's Xi Jinping lectures Justin Trudeau over alleged leaks
  - [https://www.cnn.com/2022/11/16/asia/china-xi-jinping-canada-justin-trudeau-g20-intl/index.html](https://www.cnn.com/2022/11/16/asia/china-xi-jinping-canada-justin-trudeau-g20-intl/index.html)
@@ -76,3 +76,4 @@ The past week has given the world a glimpse of what climate-vulnerable countries
  - date published: 2022-11-16 00:36:43+00:00
 
 Pakistan's government has blocked the nationwide release of "Joyland," the first Pakistani movie shown at the Cannes Film Festival, just one week before it was due to hit theaters in the South Asian country.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'It's terrifying': Crowder skewers Kamala Harris for her party's actual fascism
  - [https://www.louderwithcrowder.com/kamala-harris-fascist-democratic-party](https://www.louderwithcrowder.com/kamala-harris-fascist-democratic-party)
@@ -41,3 +41,4 @@
  - date published: 2022-09-12 14:30:15+00:00
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=31691793&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>Democrats have forced credit card companies to track your private second amendment-related purchases. It's basically a gun registry and fascism-by-proxy. There's a booming underground market for donkey penises in Africa. And Kamala Harris said Jan 6 is comparable to September 11, in some of her dumbest comments to date.</p><p class="short
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Some retail store credit cards now carry APRs of more than 30%
  - [https://www.cnn.com/2022/11/15/economy/credit-card-30-percent-apr-debt/index.html](https://www.cnn.com/2022/11/15/economy/credit-card-30-percent-apr-debt/index.html)
@@ -83,3 +83,4 @@ When Hurricane Fiona slammed into Puerto Rico in September, it triggered a nearl
  - date published: 2022-11-15 03:46:36+00:00
 
 The world's three largest rainforest nations Brazil, Democratic Republic of Congo and Indonesia on Monday formally launched a partnership to cooperate on forest preservation after a decade of on-off talks on a trilateral alliance.
+

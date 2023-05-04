@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Newsom Calls On Remaining L.A. Officials Involved With Leak Audio To Resign
  - [https://www.dailywire.com/news/newsom-calls-on-remaining-l-a-officials-involved-with-leak-audio-to-resign](https://www.dailywire.com/news/newsom-calls-on-remaining-l-a-officials-involved-with-leak-audio-to-resign)
@@ -125,3 +125,4 @@ Sen. Bernie Sanders (I-VT) attempted to deflect blame away from Democrats for sk
  - date published: 2022-10-23 09:45:47+00:00
 
 An experienced skydiver died as spectators watched in horror Friday when his stunt before the kickoff of a Tennessee high school football game went tragically awry. Richard Sheffield, 55, was part of a team of professional skydiving performers who jumped out of a plane before the “Musket Bowl,” an annual rivalry between David Crockett and ...
+

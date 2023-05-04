@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## New York Rep. Hakeem Jeffries, 52, has already received several endorsements to replace Pelosi
  - [https://www.cnn.com/2022/11/17/politics/hakeem-jeffries-next-democratic-leader/index.html](https://www.cnn.com/2022/11/17/politics/hakeem-jeffries-next-democratic-leader/index.html)
@@ -627,3 +627,4 @@ Former White House aide Cassidy Hutchinson on Wednesday testified before a Georg
 • Inside the White House's months of prep-work for a GOP investigative onslaught
 • What Republicans plan to do with their new House majority
 • McConnell wins secret-ballot election to lead Senate GOP
+

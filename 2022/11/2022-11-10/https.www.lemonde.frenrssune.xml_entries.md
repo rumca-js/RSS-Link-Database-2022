@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Jailed hunger striker Alaa Abd el-Fattah's family challenges Egyptian government claim on activist's health
  - [https://www.lemonde.fr/en/international/article/2022/11/10/jailed-hunger-striker-alaa-abd-el-fattah-s-family-challenges-egyptian-government-claim-on-activist-s-health_6003793_4.html](https://www.lemonde.fr/en/international/article/2022/11/10/jailed-hunger-striker-alaa-abd-el-fattah-s-family-challenges-egyptian-government-claim-on-activist-s-health_6003793_4.html)
@@ -265,3 +265,4 @@ The celebrated Brazilian singer died Wednesday. She sang with some of the bigges
  - date published: 2022-11-10 01:50:39+00:00
 
 Brussels wants to suggest to each member state a four-year baseline budgetary trajectory that is adapted to their situation in order to put them on the path to a credible reduction of their debt.
+

@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Something is haunting American Airlines’ announcements and nobody knows how
  - [https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
@@ -686,3 +686,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32946268">https://news.ycombinator.com/item?id=32946268</a></p>
 <p>Points: 3</p>
 <p># Comments: 1</p>
+
