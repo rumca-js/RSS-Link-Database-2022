@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## US government funds research on correcting “false beliefs”
  - [https://reclaimthenet.org/us-government-funds-research-on-correcting-false-beliefs/](https://reclaimthenet.org/us-government-funds-research-on-correcting-false-beliefs/)
@@ -23,3 +23,4 @@
 
 <a href="https://reclaimthenet.org/new-russian-decree-enables-new-online-censorship-powers/" rel="nofollow" title="New Russian decree enables new online censorship powers"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/russia-232.png" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Russia has given itself new powers to block websites.</p>
 <p>The post <a href="https://reclaimthenet.org/new-russian-decree-enables-new-online-censorship-powers/" rel="nofollow">New Russian decree enables new online censorship powers</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

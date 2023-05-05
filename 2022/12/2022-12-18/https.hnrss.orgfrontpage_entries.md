@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Marion Smith, the world’s most prolific cave explorer, dies at 80
  - [https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html](https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html)
@@ -85,7 +85,6 @@
  - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-18 20:45:57+00:00
- - tags: leak,privacy
 
 <p>Article URL: <a href="https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again">https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34043099">https://news.ycombinator.com/item?id=34043099</a></p>
@@ -696,3 +695,4 @@ Check out the repo's readme for example screenshots.</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34034121">https://news.ycombinator.com/item?id=34034121</a></p>
 <p>Points: 13</p>
 <p># Comments: 5</p>
+

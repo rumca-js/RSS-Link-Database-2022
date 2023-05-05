@@ -1,4 +1,4 @@
-# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
 ## Giuliani, Trump Spoke Up To 10 Times a Day, Jan. 6 Panel Told
  - [https://www.bloomberg.com/news/articles/2022-12-27/giuliani-trump-spoke-up-to-10-times-a-day-kerik-tells-jan-6-committee](https://www.bloomberg.com/news/articles/2022-12-27/giuliani-trump-spoke-up-to-10-times-a-day-kerik-tells-jan-6-committee)
@@ -209,3 +209,4 @@ Washington criticized Beijing’s military drills near Taiwan this week as “pr
  - date published: 2022-12-27 01:18:45+00:00
 
 South Korea sent drones across the border into North Korea for the first time on Monday, an unprecedented tit-for-tat military move after Kim Jong Un’s regime dispatched five unmanned aerial vehicles into its air space.
+

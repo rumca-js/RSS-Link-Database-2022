@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Będą zmiany w przepisach OC. Sprawdzamy, jak wpłyną na portfele kierowców
  - [https://www.money.pl/ubezpieczenia/beda-zmiany-w-przepisach-oc-sprawdzamy-jak-wplyna-na-portfele-kierowcow-6847763688016704a.html](https://www.money.pl/ubezpieczenia/beda-zmiany-w-przepisach-oc-sprawdzamy-jak-wplyna-na-portfele-kierowcow-6847763688016704a.html)
@@ -104,3 +104,4 @@
  - date published: 2022-12-23 05:52:49+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/908ec806-981a-4632-9ba6-9321318d3053" width="308" /> Na piątek zaplanowane jest spotkanie Mateusza Morawieckiego ze Zbigniewem Ziobrą. Jego stawką ma być poparcie lub jego brak dla ustawy o sądownictwie. Jednak nawet w przypadku braku zgody dla tego projektu ze strony Solidarnej Polski PiS wierzy, że uda się go przegłosować w parlamencie. Niewiadomą pozostaje prezydent.
+

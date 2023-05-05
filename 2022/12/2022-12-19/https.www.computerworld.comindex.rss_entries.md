@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## As the EU embraces cell phone calls on planes, could the US be next?
  - [https://www.computerworld.com/article/3683310/as-the-eu-embraces-cell-phone-calls-on-planes-could-the-us-be-next.html#tk.rss_all](https://www.computerworld.com/article/3683310/as-the-eu-embraces-cell-phone-calls-on-planes-could-the-us-be-next.html#tk.rss_all)
@@ -17,3 +17,4 @@
 <article>
 	<section class="page">
 <p><a href="https://support.microsoft.com/en-us/topic/kb5012170-security-update-for-secure-boot-dbx-72ff5eed-25b4-47c7-be28-c42bd211bb15" rel="noopener nofollow" target="_blank">KB5012170</a> is many things to many Windows users. First, it’s a patch that either installs with no problems or leads to a blue screen of death (BSOD). It can also be an indicator we have a problem getting updated drivers on our systems. It can demonstrate how users don’t keep up with Bios updates. And it shows that some OEMs enable Bitlocker on the systems they sell (not necessarily in a good way).</p><p>In short, it’s a problematic patch that just keeps rearing its head.</p><p>Also known as “Security Update for Secure Boot DBX,” KB5012170 was released earlier this year and makes improvements to the Secure Boot Forbidden Signature Database (DBX).  Windows devices that have Unified Extensible Firmware Interface (UEFI)-based firmware have Secure Boot enabled. It ensures only trusted software can be loaded and executed on during the boot process by using cryptographic signatures to verify the integrity of the process and the software being loaded.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3683213/the-trials-and-tribulations-of-microsoft-s-kb5012170-patch.html#jump">To read this article in full, please click here</a></p></section></article>
+

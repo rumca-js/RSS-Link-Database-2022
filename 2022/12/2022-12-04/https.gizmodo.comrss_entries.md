@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Ballerina Sounds Like John Wick With a More Generic Revenge Plot
  - [https://gizmodo.com/john-wick-ballerina-spinoff-keanu-reeves-1849852000](https://gizmodo.com/john-wick-ballerina-spinoff-keanu-reeves-1849852000)
@@ -34,3 +34,4 @@
  - date published: 2022-12-04 02:08:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Dns1rQtO--/c_fit,fl_progressive,q_80,w_636/4c4af0fbc2e5a98c953cf78364c1d5f1.png" /><p>Late Friday night, journalist Matt Taibbi released “<a href="https://twitter.com/mtaibbi/status/1598822959866683394" rel="noopener noreferrer" target="_blank">The Twitter Files</a>,” a batch of emails sent by Twitter executives discussing the company’s decision to stop an October 2020 New York Post story in its online tracks.<br /></p><p><a href="https://gizmodo.com/twitter-files-hunter-biden-elon-musk-taibbi-explained-1849851303">Read more...</a></p>
+

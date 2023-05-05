@@ -1,4 +1,18 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## PDC world darts: Price into last eight and Van Duijvenbode pips Smith
+ - [https://www.theguardian.com/sport/2022/dec/29/pdc-world-darts-price-into-last-eight-and-van-duijvenbode-pips-smith](https://www.theguardian.com/sport/2022/dec/29/pdc-world-darts-price-into-last-eight-and-van-duijvenbode-pips-smith)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 23:32:00+00:00
+
+<ul><li>World No 1 through with comfortable 4-1 win over José de Sousa</li><li>Van Duijvenbode prevails in thrilling sudden-death tiebreaker</li></ul><p>The top seed, <strong>Gerwyn Price</strong>, completed a comfortable 4-1 win over <strong>José de Sousa</strong> to book his place in the quarter-finals of the PDC World Darts Championship at Alexandra Palace.</p><p>The world No 1, from Wales, averaged slightly more than 94 and hit eight 180s to move into the last eight as he targets a repeat of his 2021 success.</p> <a href="https://www.theguardian.com/sport/2022/dec/29/pdc-world-darts-price-into-last-eight-and-van-duijvenbode-pips-smith">Continue reading...</a>
+
+## Natural History Museum names 85 wasps among 351 new species
+ - [https://www.theguardian.com/culture/2022/dec/30/natural-history-museum-names-85-wasps-among-351-new-species](https://www.theguardian.com/culture/2022/dec/30/natural-history-museum-names-85-wasps-among-351-new-species)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 23:01:32+00:00
+
+<p>The largest group of new discoveries was the wasp, including miniature varieties</p><p>Eighty-five new species of wasp are among more than 350 new species identified in 2022 by the Natural History Museum, and scientists say there are many more to come.</p><p>By combing through its collections, as well as sending scientists on research trips, curators and researchers have managed to describe a total of 351 new species.</p> <a href="https://www.theguardian.com/culture/2022/dec/30/natural-history-museum-names-85-wasps-among-351-new-species">Continue reading...</a>
 
 ## Championship: Boro stun Blackburn as Sheffield United keep pace at top
  - [https://www.theguardian.com/football/2022/dec/29/championship-boro-stun-blackburn-as-sheffield-united-keep-pace-at-top](https://www.theguardian.com/football/2022/dec/29/championship-boro-stun-blackburn-as-sheffield-united-keep-pace-at-top)
@@ -7,12 +21,40 @@
 
 <p>• Carrick’s side continue form to break into playoff places</p><p>• Blades record fifth straight win to move level with Burnley</p><p><strong>Middlesbrough</strong> moved into the Championship playoff places for the first time this season after coming from behind to defeat 10-man <strong>Blackburn</strong> 2-1 at Ewood Park.</p><p> Rovers went ahead in an even first half thanks to a cool Ryan Hedges finish in the sixth minute, vindicating Blackburn’s ploy of targeting the visitors’ high line.</p> <a href="https://www.theguardian.com/football/2022/dec/29/championship-boro-stun-blackburn-as-sheffield-united-keep-pace-at-top">Continue reading...</a>
 
+## Players pay tribute to Pelé ahead of Marseille v Toulouse kick-off – video
+ - [https://www.theguardian.com/football/video/2022/dec/29/players-pay-tribute-to-pele-ahead-of-marseille-toulouse-kick-off-video](https://www.theguardian.com/football/video/2022/dec/29/players-pay-tribute-to-pele-ahead-of-marseille-toulouse-kick-off-video)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 22:20:00+00:00
+
+<p>Ahead of the match between Marseille and Toulouse, players gave a minute of applause for footballing legend Pelé. The Brazilian star died at the age of 82 after an extended stay in São Paulo's Albert Einstein hospital since November. A statement was released by the hospital on Thursday to say the former footballer had died from a progression of colon cancer, first diagnosed in 2021.</p><ul><li><a href="https://www.theguardian.com/football/2022/dec/29/pele-brazil-dies-football-legend">Pelé, Brazil World Cup winner and football legend, dies aged 82</a></li></ul> <a href="https://www.theguardian.com/football/video/2022/dec/29/players-pay-tribute-to-pele-ahead-of-marseille-toulouse-kick-off-video">Continue reading...</a>
+
+## Vivienne Westwood: her life and career – in pictures
+ - [https://www.theguardian.com/lifeandstyle/gallery/2013/nov/30/vivienne-westwood-sexpistols](https://www.theguardian.com/lifeandstyle/gallery/2013/nov/30/vivienne-westwood-sexpistols)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 21:39:53+00:00
+
+<p>A look at the famous fashion designer’s greatest moments, <a href="https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81">after her death at the age of 81</a></p><ul><li><a href="https://www.theguardian.com/fashion/2022/dec/30/vivienne-westwood-an-appreciation">Remembering Vivienne Westwood: ‘The rebel who was never without a cause’</a></li></ul> <a href="https://www.theguardian.com/lifeandstyle/gallery/2013/nov/30/vivienne-westwood-sexpistols">Continue reading...</a>
+
+## Human toll of deadly US storm grows in ‘blizzard of the century’
+ - [https://www.theguardian.com/us-news/2022/dec/29/blizzard-century-deadly-us-storm-buffalo](https://www.theguardian.com/us-news/2022/dec/29/blizzard-century-deadly-us-storm-buffalo)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 21:25:25+00:00
+
+<p>Heartbreaking stories pour in about people missing a heart transplant or dying inside a car</p><p>One man never came home from a grocery run. Another man missed a chance at a new heart. A woman died after getting trapped in her car.</p><p>The human toll that the winter blast which gripped much of the US last week has continued to mount. Since the <a href="https://www.theguardian.com/weather/video/2022/dec/27/blizzard-of-the-century-too-early-to-declare-the-threat-has-gone-warns-ny-governor-video">“blizzard of the century”</a> swept through multiple parts of the nation last week, at least 60 people have died <a href="https://www.theguardian.com/us-news/2022/dec/27/us-braces-for-more-deaths-as-blizzard-of-the-century-grips-nation">countrywide</a>, and details about the heartbreak their families are enduring have been trickling out.</p> <a href="https://www.theguardian.com/us-news/2022/dec/29/blizzard-century-deadly-us-storm-buffalo">Continue reading...</a>
+
 ## Dame Vivienne Westwood, fashion designer, dies aged 81
  - [https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81](https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-29 21:21:15+00:00
 
 <p>The iconoclastic fashion designer’s creative partner and husband says ‘I will continue with Vivienne in my heart’ </p><p>Dame Vivienne Westwood died peacefully surrounded by her family in Clapham, South London, today, her representatives said in a statement.</p><p>The 81-year-old’s husband and creative partner, Andreas Kronthaler, said: “I will continue with Vivienne in my heart.</p> <a href="https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81">Continue reading...</a>
+
+## Pelé: a life in pictures
+ - [https://www.theguardian.com/football/gallery/2022/dec/29/pele-a-life-in-pictures](https://www.theguardian.com/football/gallery/2022/dec/29/pele-a-life-in-pictures)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 20:33:03+00:00
+
+<p>Here is Pelé’s remarkable life in pictures – on and off the field – from his childhood in Brazil to World Cup glory</p> <a href="https://www.theguardian.com/football/gallery/2022/dec/29/pele-a-life-in-pictures">Continue reading...</a>
 
 ## Pelé set the standards by which footballing greatness is judged | David Goldblatt
  - [https://www.theguardian.com/commentisfree/2022/dec/29/pele-football-greatness-brazil-global-star](https://www.theguardian.com/commentisfree/2022/dec/29/pele-football-greatness-brazil-global-star)
@@ -279,6 +321,20 @@
  - date published: 2022-12-29 14:00:23+00:00
 
 <p>What do you give the prince who’s already sharing his home with an ex-wife and five dogs? That’s right: more dogs!</p><p>It was an image that spoke to a nation in mourning, and even those not deep in mourning felt the natural empathy of the dog-lover: Muick and Sandy, the Queen’s corgis, attended by footmen as they watched her funeral procession. What would be the dogs’ fate? Did they even understand that their destiny had changed for ever?</p><p>Queen Elizabeth II was in fact survived by four dogs: two corgis, a dorgi and a cocker spaniel. The last, Lissy, is a baffler, since she wasn’t of either breed for which the Queen had such pronounced preference, and Elizabeth named her after<em> herself. </em>The need for disambiguation must have been constant, although Lissy’s registered pedigree name is Wolferton Drama. Anyway, she is living with her trainer, Ian Openshaw, for the time being.</p> <a href="https://www.theguardian.com/lifeandstyle/2022/dec/29/what-happened-to-queens-corgis-living-with-prince-andrew">Continue reading...</a>
+
+## Change isn’t graceful but we live in a graceless age. So happy new year – now get on with it! | Jack Vening
+ - [https://www.theguardian.com/commentisfree/2022/dec/30/change-isnt-graceful-but-we-live-in-a-graceless-age-so-happy-new-year-now-get-on-with-it](https://www.theguardian.com/commentisfree/2022/dec/30/change-isnt-graceful-but-we-live-in-a-graceless-age-so-happy-new-year-now-get-on-with-it)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 14:00:22+00:00
+
+<p>What do you have to lose? You have so much potential and you’re here for such a brief moment</p><p>Good news: once again it’s time to feel terrible! It’s almost New Year’s Eve, and everyone is busy either agonising about what they’re doing, feeling guilty for not doing anything or they’ve had that surgery that removes the NYE anxiety gland and are busy floating serenely in a milky pool like the weird ladies from Minority Report.</p><p>A new year, which means it’s almost time for absolutely nothing to change. Here comes 2023, rushing forward like a wave, taking some people on with it and once again dumping the rest of us a few feet from where we started.</p> <a href="https://www.theguardian.com/commentisfree/2022/dec/30/change-isnt-graceful-but-we-live-in-a-graceless-age-so-happy-new-year-now-get-on-with-it">Continue reading...</a>
+
+## Blueback review – Tim Winton adaptation hammers home its climate message
+ - [https://www.theguardian.com/film/2022/dec/30/blueback-review-tim-winton-adaptation-hammers-home-its-climate-message](https://www.theguardian.com/film/2022/dec/30/blueback-review-tim-winton-adaptation-hammers-home-its-climate-message)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-29 14:00:21+00:00
+
+<p>Mia Wasikowska plays a marine biologist in the latest Australian film about interspecies mateship, which is broadly appealing – if a little on the nose</p><ul><li><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=cvau_sfl">Get our weekend culture and lifestyle email</a></li></ul><p>Audiences open to an ecological ocean drama that’s gentler, more grounded and certainly more ‘Strayan than James Cameron’s <a href="https://www.theguardian.com/film/2022/dec/13/avatar-the-way-of-water-review-james-cameron">squillion-dollar screensaver</a> can find an appealing – if slight – companion piece in the latest Tim Winton adaptation, brought to the screen by writer-director Robert Connolly.</p><p>Like the excellent, more adult-oriented <a href="https://www.theguardian.com/film/2018/may/03/breath-review-profound-tim-winton-adaptation-swirls-with-soul-and-beauty">Breath</a> – also based on a Winton novel – this wholesome and modestly affecting coming-of-age story is set on the west coast of Australia, in a fictitious community called Longboat Bay. It’s a family-friendly, broadly appealing film that expands the canon of coastal Aussie pictures involving interspecies mateship – the <a href="https://www.theguardian.com/film/2014/nov/21/storm-boy-rewatched-heartfelt-portrait-of-a-boy-and-his-pelican">original</a> and <a href="https://www.theguardian.com/film/2019/jan/14/storm-boy-review-not-even-a-beloved-pelican-can-save-this-epic-downer">remade</a> Storm Boy, featuring Mr Percival the pelican, and <a href="https://www.theguardian.com/film/2015/sep/19/oddball-review-tale-of-a-penguin-guarding-sheepdog-makes-for-fluffy-fun">Oddball</a>, featuring a very photogenic Maremma sheepdog that saves a colony of penguins in Victoria.</p><p><strong><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=copyembed">Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning</a></strong></p> <a href="https://www.theguardian.com/film/2022/dec/30/blueback-review-tim-winton-adaptation-hammers-home-its-climate-message">Continue reading...</a>
 
 ## My bad trip – the World Cup holiday that became a tour of Europe’s dental clinics
  - [https://www.theguardian.com/lifeandstyle/2022/dec/30/my-bad-trip-the-world-cup-holiday-that-became-a-tour-of-europes-dental-clinics](https://www.theguardian.com/lifeandstyle/2022/dec/30/my-bad-trip-the-world-cup-holiday-that-became-a-tour-of-europes-dental-clinics)
@@ -841,3 +897,4 @@ and hurricane-force winds</p> <a href="https://www.theguardian.com/world/video/2
  - date published: 2022-12-29 00:18:33+00:00
 
 <p>Evacuation calls in Kherson amid barrage of Russian artillery attacks; Zelenskiy says of Bakhmut ‘there is no place that is not covered with blood’</p><ul><li><strong><a href="https://www.theguardian.com/world/ukraine">See all our Ukraine war coverage</a></strong></li></ul> <a href="https://www.theguardian.com/world/2022/dec/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-309-of-the-invasion">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Dziewiąty pakiet sankcji UE. Morawiecki: "Ważny krok w kierunku osłabienia siły Rosji"
  - [https://www.polsatnews.pl/wiadomosc/2022-12-16/dziewiaty-pakiet-sankcji-przeciwko-rosji-morawiecki-wazny-krok-w-kierunku-oslabienia-sily-rosji/](https://www.polsatnews.pl/wiadomosc/2022-12-16/dziewiaty-pakiet-sankcji-przeciwko-rosji-morawiecki-wazny-krok-w-kierunku-oslabienia-sily-rosji/)
@@ -104,3 +104,4 @@ Tysiąc luksusowych zegarków, złoto, pieniądze i biżuterię - to łupy złod
  - date published: 2022-12-15 05:32:00+00:00
 
 Maroko przegrało z Francją 0:2 w półfinale piłkarskich mistrzostw świata w Katarze. Po porażce drużyny z Afryki w kilku europejskich miastach wybuchły zamieszki. W Montpellier na południu Francji zginął 14-latek potrącony przez samochód.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Lone man confronts Buffalo looters, forces them to put back what they were attempting to steal
  - [https://www.louderwithcrowder.com/buffalo-looter-stopped](https://www.louderwithcrowder.com/buffalo-looter-stopped)
@@ -109,3 +109,4 @@
 <a href="https://youtu.be/2PvhTL6osO0" target="_blank">youtu.be</a>
 </small>
 </p>
+

@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Former Twitter censor stands by decision to ban satire site Babylon Bee – “not funny,” “dangerous”
  - [https://reclaimthenet.org/yoel-roth-babylon-bee/](https://reclaimthenet.org/yoel-roth-babylon-bee/)
@@ -12,7 +12,6 @@
  - [https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/](https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-04 17:24:44+00:00
- - tags: apple,privacy
 
 <a href="https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/" rel="nofollow" title="Apple CEO Tim Cook is questioned after company limited popular protest tool in China"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/tim-cool-letter-airdro.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Lawmakers want answers.</p>
 <p>The post <a href="https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/" rel="nofollow">Apple CEO Tim Cook is questioned after company limited popular protest tool in China</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -29,7 +28,6 @@
  - [https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech/](https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-04 14:10:19+00:00
- - tags: digital identity
 
 <a href="https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech/" rel="nofollow" title="UK and Ukraine to collaborate on digital ID"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/uk-ukr.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>As part of a new trade deal.</p>
 <p>The post <a href="https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech/" rel="nofollow">UK and Ukraine to collaborate on digital ID</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -41,3 +39,4 @@
 
 <a href="https://reclaimthenet.org/republicans-plan-vijaya-gadde-investigaion/" rel="nofollow" title="House Republicans plan to investigate former Twitter censor Vijaya Gadde over Hunter Biden laptop revelations"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/gadde-22.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Starting within months.</p>
 <p>The post <a href="https://reclaimthenet.org/republicans-plan-vijaya-gadde-investigaion/" rel="nofollow">House Republicans plan to investigate former Twitter censor Vijaya Gadde over Hunter Biden laptop revelations</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

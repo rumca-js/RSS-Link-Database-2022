@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## New kilonova has astronomers rethinking what we know about gamma-ray bursts
  - [https://arstechnica.com/?p=1902420](https://arstechnica.com/?p=1902420)
@@ -139,3 +139,4 @@ Louder, lighter, and better-looking than your typical 13-inch XPS laptop.
  - date published: 2022-12-07 00:00:51+00:00
 
 The evolution of this weapon may have had little to do with threats from predators.
+

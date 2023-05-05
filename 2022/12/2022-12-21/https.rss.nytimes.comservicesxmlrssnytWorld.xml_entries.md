@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Zelensky’s Message: Ukraine Is Fighting for Good Over Evil
  - [https://www.nytimes.com/2022/12/21/world/europe/zelensky-ukraine-washington.html](https://www.nytimes.com/2022/12/21/world/europe/zelensky-ukraine-washington.html)
@@ -146,3 +146,4 @@ As the war in Ukraine enters its 11th month, Volodymyr Zelensky is planning to a
  - date published: 2022-12-21 00:40:09+00:00
 
 The police on Tuesday identified the five people killed in a shooting one day before the gunman was scheduled to appear in court on orders to sell his unit.
+

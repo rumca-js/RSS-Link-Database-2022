@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Roman Załuski nie żyje. Reżyser filmów "Kogel-mogel" i "Och, Karol" zmarł przed 86. urodzinami
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29232572,roman-zaluski-nie-zyje-rezyser-filmow-kogel-mogel-i-och.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29232572,roman-zaluski-nie-zyje-rezyser-filmow-kogel-mogel-i-och.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -160,3 +160,4 @@
  - date published: 2022-12-06 07:20:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/87/df/1b/z29227399M,Pogoda-na-tydzien--Nadchodzi-snieg-i-zawieje--Szyk.jpg" vspace="2" />Przed nami kilka pochmurnych dni z opadami deszczu i śniegu. W połowie tygodnia do Polski zacznie docierać chłodniejsze powietrze z północy. W weekend miejscami możliwe zawieje śnieżne.
+

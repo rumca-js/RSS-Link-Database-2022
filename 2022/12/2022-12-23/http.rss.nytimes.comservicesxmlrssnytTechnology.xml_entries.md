@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## She Worked for Twitter. Then She Tweeted at Elon Musk.
  - [https://www.nytimes.com/2022/12/23/style/she-worked-for-twitter-then-she-tweeted-at-elon-musk.html](https://www.nytimes.com/2022/12/23/style/she-worked-for-twitter-then-she-tweeted-at-elon-musk.html)
@@ -20,3 +20,4 @@ Sasha Solomon, a software engineer, joined others in the media business who lost
  - date published: 2022-12-23 10:00:12+00:00
 
 The life cycle of a magical baby-soothing toy.
+

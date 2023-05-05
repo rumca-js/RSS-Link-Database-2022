@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Marvel Announces Planet of the Apes Comics Team, Reprint of Old Apes Comics
  - [https://gizmodo.com/planet-of-the-apes-comics-team-reprint-1849928615](https://gizmodo.com/planet-of-the-apes-comics-team-reprint-1849928615)
@@ -27,3 +27,4 @@
  - date published: 2022-12-24 15:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--tyfwzNJU--/c_fit,fl_progressive,q_80,w_636/06756aa0c268a45d196f3d5b65b1bd53.jpg" /><p>The cast and crew of <em>Black Panther: Wakanda Forever </em>spent months being fairly direct about their feelings on <a href="https://gizmodo.com/black-panther-wakanda-forever-ryan-coogler-changes-1849578987">continuing the film</a> without original leading man Chadwick Boseman, and more vaguely about what the sequel would’ve been like had he not unexpectedly passed in 2020. Even as the film has become a pretty solid…</p><p><a href="https://gizmodo.com/black-panther-wakanda-forever-original-plans-1849928042">Read more...</a></p>
+

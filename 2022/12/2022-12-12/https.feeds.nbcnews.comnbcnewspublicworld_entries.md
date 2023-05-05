@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Suspected Lockerbie bomber charged in three-count indictment
  - [https://www.nbcnews.com/now/video/suspected-lockerbie-bomber-charged-in-three-count-indictment-157302853536](https://www.nbcnews.com/now/video/suspected-lockerbie-bomber-charged-in-three-count-indictment-157302853536)
@@ -116,7 +116,6 @@ Long lines formed outside clinics and pharmacies in Beijing as residents reacted
  - [https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269](https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 10:25:29+00:00
- - tags: esg
 
 Radicalized by conspiracy theories, some far-right activists have supported farmers in the Netherlands in their campaign to stop plans to potentially shut thousands of farms in order to reduce harmful nitrogen emissions.
 
@@ -154,3 +153,4 @@ Two teens were killed and four people injured in Peru on Sunday during protests 
  - date published: 2022-12-12 09:35:58+00:00
 
 China will drop a travel tracing requirement. It is an exit from the strict “zero-Covid” policies that have elicited widespread dissatisfaction and protests.
+

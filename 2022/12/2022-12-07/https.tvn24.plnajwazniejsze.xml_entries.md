@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zmarł pracownik budowlany. FIFA "zasmucona"
  - [https://eurosport.tvn24.pl/zmar--pracownik-budowlany-w-katarze--fifa--g--boko-zasmucona-,1128306.html?source=rss](https://eurosport.tvn24.pl/zmar--pracownik-budowlany-w-katarze--fifa--g--boko-zasmucona-,1128306.html?source=rss)
@@ -727,3 +727,4 @@
 
 <img alt="Starcia z policją w Belgii i Holandii. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-2a7mn3-w-belgii-i-holandii-doszlo-do-starc-z-policja-6407619/alternates/LANDSCAPE_1280" />
     Sensacyjna porażka hiszpańskiej reprezentacji na mundialu spowodowała wybuch entuzjazmu kibiców marokańskiej drużyny.
+

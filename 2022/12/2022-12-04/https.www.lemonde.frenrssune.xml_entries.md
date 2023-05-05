@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## World Cup 2022: Les Bleus dominate Poland and send a message to the competition
  - [https://www.lemonde.fr/en/france/article/2022/12/05/world-cup-2022-les-bleus-dominate-poland-and-send-a-message-to-the-competition_6006573_7.html](https://www.lemonde.fr/en/france/article/2022/12/05/world-cup-2022-les-bleus-dominate-poland-and-send-a-message-to-the-competition_6006573_7.html)
@@ -118,3 +118,4 @@ The new 300-megawatt plant, known as Karoon, will take eight years to build and 
  - date published: 2022-12-04 01:50:34+00:00
 
 Hours after Palestinian militants fired a missile into southern Israel, the Israeli air force carried out overnight air strikes against sites of the Islamist movement Hamas in the Gaza strip.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Binance.US to Buy Assets of Bankrupt Crypto Lender Voyager, Eyes More Acquisitions
  - [https://www.wsj.com/articles/binance-us-to-buy-assets-of-bankrupt-crypto-lender-voyager-eyes-more-acquisitions-11671478348?mod=rss_Technology](https://www.wsj.com/articles/binance-us-to-buy-assets-of-bankrupt-crypto-lender-voyager-eyes-more-acquisitions-11671478348?mod=rss_Technology)
@@ -27,3 +27,4 @@ The agency alleged that the company invaded children’s privacy and tricked pla
  - date published: 2022-12-19 14:14:00+00:00
 
 The European Union charged Facebook parent Meta with antitrust violations for allegedly distorting competition by tying its online classified ad service to its social network.
+

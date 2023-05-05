@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## &#x1f6a8; Nie wykorzystałeś budżetu szkoleniowego? Kup vouchery Niebezpiecznika na 2023
  - [https://niebezpiecznik.pl/post/vouchery-szkolenia-2023/](https://niebezpiecznik.pl/post/vouchery-szkolenia-2023/)
@@ -13,3 +13,4 @@
  - date published: 2022-12-21 12:05:22+00:00
 
 <a href="https://niebezpiecznik.pl/post/panstwowy-rejestr-zastrzezonych-numerow-pesel-ochroni-nie-tylko-przed-wyludzeniami-pozyczek/"><img align="left" alt="" class="alignleft wp-post-image tfe" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/12/ustawa-150x150.png" title="" width="100" /></a>Rząd planuje utworzenie &#8220;rejestru zastrzeżeń&#8221; dla numerów PESEL. Ma on uniemożliwić nie tylko branie pożyczek, ale również zawieranie innych umów, na których można zrobić dotkliwe oszustwa. O tym, że w Polsce powstaje nowy system zastrzegania numerów PESEL wiadomo już od kilkunastu dni. Z zasady jednak nie lubimy informować o inicjatywach rządu dopóki nie przybiorą one [&#8230;]
+

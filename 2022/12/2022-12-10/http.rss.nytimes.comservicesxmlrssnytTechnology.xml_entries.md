@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## In a Future Filled With Electric Cars, AM Radio May Be Left Behind
  - [https://www.nytimes.com/2022/12/10/business/media/am-radio-cars.html](https://www.nytimes.com/2022/12/10/business/media/am-radio-cars.html)
@@ -27,3 +27,4 @@ Siri, Google Search, online marketing and your child’s homework will never be 
  - date published: 2022-12-10 00:06:29+00:00
 
 Ms. Khan, the chair of the Federal Trade Commission, has staked an ambitious trustbusting agenda on a case that may be difficult to win.
+

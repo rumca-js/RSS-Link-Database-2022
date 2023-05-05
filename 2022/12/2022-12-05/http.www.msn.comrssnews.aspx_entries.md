@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Cops Address Slain Idaho Student’s Rumored Stalker
  - [http://www.msn.com/en-us/news/crime/cops-address-slain-idaho-student-s-rumored-stalker/ar-AA14Wl2l?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/cops-address-slain-idaho-student-s-rumored-stalker/ar-AA14Wl2l?li=BBnbcA1&srcref=rss)
@@ -1110,5 +1110,6 @@
  - [http://www.msn.com/en-us/news/crime/jurors-hear-ex-border-patrol-agent-s-confession-in-killings/ar-AA14TBdv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/jurors-hear-ex-border-patrol-agent-s-confession-in-killings/ar-AA14TBdv?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-05 00:03:28.295837+00:00
+
 
 

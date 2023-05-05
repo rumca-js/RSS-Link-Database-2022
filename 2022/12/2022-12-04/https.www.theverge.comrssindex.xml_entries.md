@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## DJI’s cheaper Mini 3 drone could launch very soon
  - [https://www.theverge.com/2022/12/4/23492829/dji-mini-3-closer-launch-drone](https://www.theverge.com/2022/12/4/23492829/dji-mini-3-closer-launch-drone)
@@ -53,3 +53,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/4/23491777/fortnite-chapter-4-battle-pass-launch-witcher">Continue reading&hellip;</a>
   </p>
+

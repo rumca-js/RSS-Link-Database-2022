@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Californians Protest Against Apple for Alleged Collusion With Chinese Regime
  - [https://www.theepochtimes.com/californians-protest-against-apple-for-alleged-collusion-with-chinese-regime_4916102.html](https://www.theepochtimes.com/californians-protest-against-apple-for-alleged-collusion-with-chinese-regime_4916102.html)
@@ -27,3 +27,4 @@ Whatsapp logo on Aug. 22, 2022. (Dado Ruvic/Illustration/Reuters)
  - date published: 2022-12-10 04:21:02+00:00
 
 People holding mobile phones are silhouetted against a backdrop projected with the Twitter logo in this illustration picture taken on Sept. 27, 2013. (Kacper Pempel/Illustration/Reuters)
+

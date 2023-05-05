@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Kanada przywróci sankcje na części do rurociągu Nord Stream
  - [https://www.bankier.pl/wiadomosc/Kanada-przywroci-sankcje-na-czesci-do-rurociagu-Nord-Stream-8457005.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kanada-przywroci-sankcje-na-czesci-do-rurociagu-Nord-Stream-8457005.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -376,3 +376,4 @@ biliony złotych. Nominalna wielkość gospodarki jest punktem odniesienia
 dla istotnych wielkości, np. zadłużenia państwa. "Po covidowym wzroście 
 długu publicznego w Polsce nie ma już śladu" - komentują analitycy Banku
  Pekao.</p>
+

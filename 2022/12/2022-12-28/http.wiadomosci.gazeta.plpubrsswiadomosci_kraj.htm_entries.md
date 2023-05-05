@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## 54-latek kierował po pijanemu, został zatrzymany. Zadzwonił po synową. Też wpadła, ale z innego powodu
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29307241,54-latek-kierowal-po-pijanemu-zostal-zatrzymany-zadzwonil.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29307241,54-latek-kierowal-po-pijanemu-zostal-zatrzymany-zadzwonil.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -167,3 +167,4 @@
  - date published: 2022-12-28 05:15:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/27/b7/1b/z29061159M,Kaja-Godek.jpg" vspace="2" />"Aborcja to zabójstwo"- tak brzmi nazwa projektu obywatelskiego, za który odpowiedzialna jest Kaja Godek. Nowe przepisy zakładają m.in. wprowadzenie kar więzienia za informowanie o przerywaniu ciąży. "Czy jednak w dobie internetu można prawnie zakazać 'publicznego informowania' o czymkolwiek? Mam wątpliwości" - komentuje Pani od Feminatywów.
+

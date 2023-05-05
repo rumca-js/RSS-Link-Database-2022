@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## ChatGPT vs. a Cryptic Crossword
  - [https://jameswillia.ms/posts/chatgpt-cryptics.html](https://jameswillia.ms/posts/chatgpt-cryptics.html)
@@ -500,7 +500,6 @@
  - [https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-05 12:02:42+00:00
- - tags: cbdc
 
 <p>Article URL: <a href="https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway">https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33864447">https://news.ycombinator.com/item?id=33864447</a></p>
@@ -810,3 +809,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33859697">https://news.ycombinator.com/item?id=33859697</a></p>
 <p>Points: 7</p>
 <p># Comments: 2</p>
+

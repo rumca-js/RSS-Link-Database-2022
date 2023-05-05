@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET open source is 'heavily under-funded' says AWS
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59694](https://www.codeproject.com/script/News/View.aspx?nwid=59694)
@@ -125,3 +125,4 @@ An introduction to a few “used to” methods in a computer vision project
  - date published: 2022-12-02 05:00:00+00:00
 
 TARDIS not required
+

@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Trump Vows to Ban Feds From Targeting ‘Misinformation’ If Elected
  - [https://www.theepochtimes.com/trump-vows-to-ban-feds-from-targeting-misinformation-if-elected_4926831.html](https://www.theepochtimes.com/trump-vows-to-ban-feds-from-targeting-misinformation-if-elected_4926831.html)
@@ -48,3 +48,4 @@ A private jet is seen on the tarmac at Friedman Memorial Airport in Sun Valley, 
  - date published: 2022-12-15 05:53:50+00:00
 
 Logos of the Big Tech giants are displayed on a tablet on Oct. 1, 2019. (Denis Charlet/AFP via Getty Images)
+

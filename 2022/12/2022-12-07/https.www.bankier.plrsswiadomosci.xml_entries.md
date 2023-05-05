@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Spadków na Wall Street ciąg dalszy
  - [https://www.bankier.pl/wiadomosc/Spadkow-na-Wall-Street-ciag-dalszy-8453025.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Spadkow-na-Wall-Street-ciag-dalszy-8453025.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -413,3 +413,4 @@ granicę już zaczęły spadać, a przyszłość rysuje się w ciemnych barwach.
  - date published: 2022-12-07 02:37:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/3/91042596b81ac7-948-568-0-86-1721-1032.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Absolutnie nie powstrzymujemy Ukrainy, by pozyskała własną broń dalekiego zasięgu - powiedział we wtorek sekretarz obrony USA Lloyd Austin. Jednocześnie szef dyplomacji Antony Blinken dodał, że USA nie zachęcają, ani nie pomagają Ukrainie dokonywać ataków na terytorium Rosji.</p>
+

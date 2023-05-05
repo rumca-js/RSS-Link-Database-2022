@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Belgium Arrests EU Lawmaker, Four Others in Corruption Probe
  - [https://www.wsj.com/articles/belgium-detains-four-in-corruption-probe-linked-to-european-parliament-11670615469](https://www.wsj.com/articles/belgium-detains-four-in-corruption-probe-linked-to-european-parliament-11670615469)
@@ -97,3 +97,4 @@ Japan, the U.K. and Italy said they would jointly develop a next-generation stea
  - date published: 2022-12-09 01:04:00+00:00
 
 Friday’s planned action also set to target Russia for its use of Iranian drones in Ukraine
+

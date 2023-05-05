@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## German court rules Twitter has to remove offensive posts before they’re even reported
  - [https://reclaimthenet.org/germany-twitter-has-to-remove-offensive-posts/](https://reclaimthenet.org/germany-twitter-has-to-remove-offensive-posts/)
@@ -60,7 +60,7 @@
  - [https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship/](https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-17 00:28:07+00:00
- - tags: censorship,fbi,twitter,twitter files
 
 <a href="https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship/" rel="nofollow" title="FBI flagged jokes and satirical accounts to Twitter for censorship"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/twitter-fbi.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>More evidence of the agency's pervasive and secret online speech policing.</p>
 <p>The post <a href="https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship/" rel="nofollow">FBI flagged jokes and satirical accounts to Twitter for censorship</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

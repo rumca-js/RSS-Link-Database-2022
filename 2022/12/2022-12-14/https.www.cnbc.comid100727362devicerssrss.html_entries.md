@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Omicron BQ, XBB subvariants are a serious threat to boosters and knock out antibody treatments, study finds
  - [https://www.cnbc.com/2022/12/14/covid-news-bq-xbb-omicron-subvariants-pose-serious-threat-to-boosters.html](https://www.cnbc.com/2022/12/14/covid-news-bq-xbb-omicron-subvariants-pose-serious-threat-to-boosters.html)
@@ -160,3 +160,4 @@ Twitter co-founder Jack Dorsey wrote in a blog post that he gave up pushing for 
  - date published: 2022-12-14 00:27:08+00:00
 
 "The charts, as interpreted by Carley Garner, suggest that the oil speculators have been mostly wiped out, so it's time to buy the dips," he said.
+

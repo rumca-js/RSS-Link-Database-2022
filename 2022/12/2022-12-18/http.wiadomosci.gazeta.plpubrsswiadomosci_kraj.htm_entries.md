@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Gniezno. Trzech pijanych nastolatków grasowało nocą po mieście. Uszkodzili 11 samochodów
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29277571,gniezno-trzech-pijanych-nastolatkow-grasowalo-noca-po-miescie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29277571,gniezno-trzech-pijanych-nastolatkow-grasowalo-noca-po-miescie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -83,3 +83,4 @@
  - date published: 2022-12-18 06:19:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/49/e8/1b/z29262153M,Koszulka-z-Busia-ze-sklepu-I-Love-My-Polish-Herita.jpg" vspace="2" />Za górami, za lasami, na Facebooku jest takie niezwykłe miejsce: grupa dla mieszkańców Stanów Zjednoczonych dumnych ze swego polskiego pochodzenia. "I Love My Polish Heritage Group" ["kocham moje polskie dziedzictwo"] ma blisko 60 tys. członków, którzy tylko w ostatnim miesiącu opublikowali 1120 postów. Wyłania się z nich intrygująca tożsamość poskładana z kiełbasy, kapusty i mglistych fantazmatów o kraju Poland.
+

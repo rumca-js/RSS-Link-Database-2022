@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## This 80-Year Old Shipwreck Could Explode At Any Minute | Lightning Round
  - [https://www.youtube.com/watch?v=MZLrle7Ojkc](https://www.youtube.com/watch?v=MZLrle7Ojkc)
@@ -59,3 +59,4 @@ Time Stamps:
 12:05 - 12:42 Peanut butter and history
 12:42 - 14:00 Conclusion and Happy Holidays!
 14:00 - 16:36 Sponsor and close
+

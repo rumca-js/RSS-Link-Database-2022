@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Banks Must Prepare For Recession, And Recovery, Says Forrester
  - [https://www.forbes.com/sites/tomgroenfeldt/2022/12/26/banks-must-prepare-for-recession-and-recovery-says-forrester/](https://www.forbes.com/sites/tomgroenfeldt/2022/12/26/banks-must-prepare-for-recession-and-recovery-says-forrester/)
@@ -265,3 +265,4 @@ Artificial intelligence (AI) has been making waves in various industries for its
  - date published: 2022-12-26 01:00:00+00:00
 
 This week sees a parade of five planets and a crescent Moon.
+

@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Palestinian brothers killed after settler runs them over: Reports
  - [https://www.aljazeera.com/news/2022/12/17/two-palestinian-brothers-killed-after-settler-runs-them-over](https://www.aljazeera.com/news/2022/12/17/two-palestinian-brothers-killed-after-settler-runs-them-over)
@@ -293,3 +293,4 @@ More than 780,000 people of Moroccan origin live in France; visa restrictions ma
  - date published: 2022-12-17 01:14:43+00:00
 
 The US Office of the Director of National Intelligence reported 144 encounters with UFOs between 2004 and 2021.
+

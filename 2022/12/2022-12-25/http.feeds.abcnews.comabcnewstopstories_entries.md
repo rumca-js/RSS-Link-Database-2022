@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Biden, first lady thank service members in Christmas calls
  - [https://abcnews.go.com/Politics/wireStory/biden-lady-service-members-christmas-calls-95814326](https://abcnews.go.com/Politics/wireStory/biden-lady-service-members-christmas-calls-95814326)
@@ -20,6 +20,13 @@ President Joe Biden is celebrating a quiet Christmas with his family at the Whit
  - date published: 2022-12-25 22:42:09+00:00
 
 Canadian authorities say a bus rolled over on an icy highway in British Columbia on Christmas Eve, killing four people and injuring three dozen
+
+## Boil water order issued in Mississippi capital amid freeze
+ - [https://abcnews.go.com/Politics/wireStory/boil-water-order-issued-mississippi-capital-amid-freeze-95811368](https://abcnews.go.com/Politics/wireStory/boil-water-order-issued-mississippi-capital-amid-freeze-95811368)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-25 20:31:16+00:00
+
+City officials in Jackson, Mississippi, say residents must boil their drinking water due to water lines bursting in the frigid temperatures
 
 ## Migrants dropped near VP Harris home on frigid Christmas Eve
  - [https://abcnews.go.com/Politics/wireStory/buses-texas-drop-off-migrants-frigid-washington-dc-95810736](https://abcnews.go.com/Politics/wireStory/buses-texas-drop-off-migrants-frigid-washington-dc-95810736)
@@ -181,3 +188,4 @@ Strong winds made it difficult for flights to land at Reagan Washington National
  - date published: 2022-12-25 00:06:17+00:00
 
 Former child star Orlando Brown has pleaded not guilty to misdemeanor assault charges stemming from an alleged altercation in Lima, Ohio
+

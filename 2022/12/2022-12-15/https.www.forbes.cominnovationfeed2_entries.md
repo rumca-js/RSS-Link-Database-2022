@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## What Does The US Fusion Breakthrough Mean? Is It Just Hype?
  - [https://www.forbes.com/sites/melaniewindridge/2022/12/15/what-does-the-us-fusion-breakthrough-mean-is-it-just-hype/](https://www.forbes.com/sites/melaniewindridge/2022/12/15/what-does-the-us-fusion-breakthrough-mean-is-it-just-hype/)
@@ -302,3 +302,4 @@ New research reveals more about how the exoplanet 55 Cnc e (nicknamed Janssen) g
  - date published: 2022-12-15 00:44:37+00:00
 
 How to unlock the Chimera AR in Modern Warfare II and Warzone 2.
+

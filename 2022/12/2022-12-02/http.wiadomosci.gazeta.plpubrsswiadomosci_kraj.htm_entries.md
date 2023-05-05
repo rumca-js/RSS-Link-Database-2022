@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Ostrzegają, że PiS chce zwolnić myśliwych z badań lekarskich. "Wrzutka" w Sejmie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29214851,pis-mysliwi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29214851,pis-mysliwi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -160,3 +160,4 @@
  - date published: 2022-12-02 05:10:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/db/9b/1b/z28947675M,Pogoda--Snieg-w-Tatrach.jpg" vspace="2" />W Tatrach zamarzają górskie jeziora. Służby Tatrzańskiego Parku Narodowego (TPN) apelują, aby nie wchodzić na oblodzone akweny. - Teraz jest najgorszy okres - stwierdził leśniczy Grzegorz Bryniarski.
+

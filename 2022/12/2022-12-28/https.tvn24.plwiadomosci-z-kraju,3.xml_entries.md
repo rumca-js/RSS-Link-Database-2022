@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Miley Cyrus wycofała się z duetu z Morrisseyem? Muzyk wydał oświadczenie
  - [https://tvn24.pl/kultura-i-styl/miley-cyrus-wycofala-sie-duetu-morrissey-wokalista-opublikowal-oswiadczenie-6555135?source=rss](https://tvn24.pl/kultura-i-styl/miley-cyrus-wycofala-sie-duetu-morrissey-wokalista-opublikowal-oswiadczenie-6555135?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Rosjanie zaatakowali szpital położniczy w Chersoniu. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-q4r4mo-rosjanie-zaatakowali-szpital-polozniczy-w-chersoniu-6554919/alternates/LANDSCAPE_1280" />
     Agresorzy ostrzelali we wtorek oddział położniczy szpitala w Chersoniu - poinformował wiceszef biura prezydenta Ukrainy Kyryło Tymoszenko. "Ostrzelano miejsce, gdzie dziś urodziło się dwoje dzieci. Przed atakiem lekarze zdążyli zakończyć cesarskie cięcie" - napisał na Telegramie. Według niego "cudem" było to, że atak nie spowodował ofiar.
+

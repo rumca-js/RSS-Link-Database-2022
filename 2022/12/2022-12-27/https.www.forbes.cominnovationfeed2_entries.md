@@ -1,4 +1,11 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
+
+## My Favorite Dungeons & Dragons Products In 2022
+ - [https://www.forbes.com/sites/robwieland/2022/12/27/my-favorite-dungeons--dragons-products-in-2022/](https://www.forbes.com/sites/robwieland/2022/12/27/my-favorite-dungeons--dragons-products-in-2022/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-27 23:34:47+00:00
+
+Dozens of role playing products come across my desk each year. These are my favorite Dungeons & Dragons related products for 2022.
 
 ## California Law Tries To Force Tesla To Rename ‘FSD’ Product But It May Not Work
  - [https://www.forbes.com/sites/bradtempleton/2022/12/27/california-law-tries-to-force-tesla-to-rename-fsd-product-but-it-may-not-work/](https://www.forbes.com/sites/bradtempleton/2022/12/27/california-law-tries-to-force-tesla-to-rename-fsd-product-but-it-may-not-work/)
@@ -454,3 +461,4 @@ And 4K/120Hz pass through is finally on the cards for gamers
  - date published: 2022-12-27 01:00:00+00:00
 
 From views of Earth from space to JWST's instantly iconic first images, these are the best space photos of the year in reverse order of awesomeness.
+

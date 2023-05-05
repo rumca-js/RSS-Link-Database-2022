@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Turkey is stopping oil not under Russian sanctions, raising global energy market supply concerns
  - [https://www.cnbc.com/2022/12/08/turkey-stops-oil-not-under-russian-sanctions-upping-energy-supply-fears.html](https://www.cnbc.com/2022/12/08/turkey-stops-oil-not-under-russian-sanctions-upping-energy-supply-fears.html)
@@ -34,3 +34,4 @@ Temperatures across the Nordic countries and central and eastern Europe are also
  - date published: 2022-12-08 13:12:22+00:00
 
 Tech layoffs have been increasing in Southeast Asia as growth slows down. Existing investors are also pushing startups to extend their runways.
+

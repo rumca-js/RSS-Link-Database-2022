@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## NATO Membership for Sweden, Finland on Track, Officials Say
  - [https://www.wsj.com/articles/nato-membership-for-sweden-and-finland-on-track-officials-say-11670531221](https://www.wsj.com/articles/nato-membership-for-sweden-and-finland-on-track-officials-say-11670531221)
@@ -111,3 +111,4 @@ The man was convicted of blocking a street in Tehran by holding a “machete” 
  - date published: 2022-12-08 10:30:00+00:00
 
 The battle for Bakhmut has become a bloodbath for both sides as Russia steps up its attempts to take what used to be a quaint, tree-lined city.
+

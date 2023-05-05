@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## They really all came crawlin' back to Steam, didn't they?
  - [https://www.pcgamer.com/they-really-all-came-crawlin-back-to-steam-didnt-they](https://www.pcgamer.com/they-really-all-came-crawlin-back-to-steam-didnt-they)
@@ -181,3 +181,4 @@ Settled Space is a pretty big place.
  - date published: 2022-12-15 00:12:12+00:00
 
 Thanks to Solasta's DLC you can make a properly bizarre party at last.
+

@@ -1,4 +1,11 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
+
+## Tarkov's new urban map is packed with atmosphere, take a look ahead of release
+ - [https://www.pcgamer.com/tarkovs-new-urban-map-is-packed-with-atmosphere-take-a-look-ahead-of-release](https://www.pcgamer.com/tarkovs-new-urban-map-is-packed-with-atmosphere-take-a-look-ahead-of-release)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2022-12-27 23:57:51+00:00
+
+Filthy military boys in a filthy city.
 
 ## Check out this abandoned cityscape made in Minecraft
  - [https://www.pcgamer.com/check-out-this-abandoned-cityscape-made-in-minecraft](https://www.pcgamer.com/check-out-this-abandoned-cityscape-made-in-minecraft)
@@ -97,3 +104,4 @@ Proxy Studios' new world is a combination of post-apocalypse, cyberpunk, and eld
  - date published: 2022-12-27 01:58:29+00:00
 
 They got your Nintendo Switch controllers working again, too.
+

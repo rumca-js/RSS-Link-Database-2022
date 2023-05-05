@@ -1,4 +1,53 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Ohio police officer dodges out-of-control truck on icy road before it slams into cruiser
+ - [https://www.foxnews.com/us/ohio-police-officer-dodges-control-truck-icy-road-before-slams-cruiser](https://www.foxnews.com/us/ohio-police-officer-dodges-control-truck-icy-road-before-slams-cruiser)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:59:06+00:00
+
+An Ohio police officer quickly moved out of the way when a truck crashed into a police vehicle along an icy road on Christmas morning.
+
+## 'Laguna Beach' star Jason Wahler's 18-month-old son back home after spending Christmas in hospital
+ - [https://www.foxnews.com/entertainment/laguna-beach-star-jason-wahlers-18-month-old-son-home-spending-christmas-hospital](https://www.foxnews.com/entertainment/laguna-beach-star-jason-wahlers-18-month-old-son-home-spending-christmas-hospital)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:57:46+00:00
+
+"Laguna Beach" reality star Jason Wahler's son spent Christmas night in the hospital with pneumonia before returning home the next day.
+
+## Sofia Vergara stuns in a bikini as she celebrates Joe Manganiello's birthday: 'Mi amor'
+ - [https://www.foxnews.com/entertainment/sofia-vergara-stuns-bikini-celebrates-joe-manganiellos-birthday](https://www.foxnews.com/entertainment/sofia-vergara-stuns-bikini-celebrates-joe-manganiellos-birthday)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:52:54+00:00
+
+Sofia Vergara took to Instagram to share a sizzling snap in a black bikini as she celebrated husband Joe Manganiello's 46th birthday.
+
+## Russell Wilson wishes he played better for Nathaniel Hackett: 'One of the brighter minds I've been around'
+ - [https://www.foxnews.com/sports/russell-wilson-wishes-played-better-nathaniel-hackett-brighter-minds-ive-been-around](https://www.foxnews.com/sports/russell-wilson-wishes-played-better-nathaniel-hackett-brighter-minds-ive-been-around)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:52:26+00:00
+
+The Denver Broncos fired Nathaniel Hackett just 15 games into his tenure with the team, but Russell Wilson took the blame amid his own personal struggles.
+
+## Idaho murders: Moscow police chief floats potential release of 911 call
+ - [https://www.foxnews.com/us/idaho-murders-moscow-police-chief-floats-potential-release-911-call](https://www.foxnews.com/us/idaho-murders-moscow-police-chief-floats-potential-release-911-call)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:51:27+00:00
+
+Moscow Police Chief James Fry may be warming up to the idea of releasing the Nov. 13 911 call in the unsolved slayings of four University of Idaho students.
+
+## Washington Post 'exclusive' finds U.S. Capitol 'honors' 140 'enslavers' in artwork
+ - [https://www.foxnews.com/media/washington-post-exclusive-finds-u-s-capitol-honors-140-enslavers-artwork](https://www.foxnews.com/media/washington-post-exclusive-finds-u-s-capitol-honors-140-enslavers-artwork)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:30:43+00:00
+
+The Washington Post was ridiculed for pushing an “exclusive” story on the amount of slave owners and Confederates depicted in artwork at the U.S. Capitol.
+
+## Derrick Henry doubtful to play vs. Cowboys; Titans remaining cautious with more important Week 18 matchup
+ - [https://www.foxnews.com/sports/derrick-henry-doubtful-cowboys-titans-remaining-cautious-important-week-18-matchup](https://www.foxnews.com/sports/derrick-henry-doubtful-cowboys-titans-remaining-cautious-important-week-18-matchup)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-28 23:14:20+00:00
+
+The Tennessee Titans know Week 18 will determine the winner of the AFC South, so seeing star running back Derrick Henry listed as doubtful for Thursday makes sense.
 
 ## Tarek El Moussa ditches 'lonely holidays' thanks to wife Heather: 'Never going back'
  - [https://www.foxnews.com/entertainment/tarek-el-moussa-ditches-lonely-holidays-thanks-wife-heather](https://www.foxnews.com/entertainment/tarek-el-moussa-ditches-lonely-holidays-thanks-wife-heather)
@@ -986,3 +1035,4 @@ Bethune-Cookman University, an HBCU in Daytona Beach, announced on Tuesday that 
  - date published: 2022-12-28 00:13:47+00:00
 
 Another busload of migrants were dropped near Vice President Kamala Harris' official residence at the U.S. Naval Observatory in Washington, DC on Christmas Eve.
+

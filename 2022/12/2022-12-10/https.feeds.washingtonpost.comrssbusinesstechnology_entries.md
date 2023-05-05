@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## American aerospace pioneer and parachute jumper Joseph Kittinger dies at 94
  - [https://www.washingtonpost.com/nation/2022/12/10/joseph-kittinger-colonel-parachute-obituary/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/12/10/joseph-kittinger-colonel-parachute-obituary/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ A machine that talks like a person has long been a science fiction fantasy. Now 
  - date published: 2022-12-10 06:00:22+00:00
 
 Warehouse robots at companies like Amazon and FedEx are finally able to pick and sort things with humanlike finesse.
+

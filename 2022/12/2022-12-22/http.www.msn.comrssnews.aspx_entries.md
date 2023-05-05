@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## How to Upload Your Driver's License to Your iPhone
  - [http://www.msn.com/en-us/news/technology/how-to-upload-your-driver-s-license-to-your-iphone/ar-AA15zTmr?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/how-to-upload-your-driver-s-license-to-your-iphone/ar-AA15zTmr?li=BBnbcA1&srcref=rss)
@@ -1488,5 +1488,6 @@
  - [http://www.msn.com/en-us/news/politics/zelenskyy-to-address-congress-as-house-republicans-grow-skeptical-about-more-aid/ar-AA15xCQ4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/zelenskyy-to-address-congress-as-house-republicans-grow-skeptical-about-more-aid/ar-AA15xCQ4?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-22 00:01:07.703329+00:00
+
 
 

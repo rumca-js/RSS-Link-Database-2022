@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Stop Yourself From Tipsy Texting This Holiday Season
  - [https://www.wsj.com/articles/smartphone-tips-to-avoid-tipsy-texting-and-posting-over-the-holidays-11670114090?mod=rss_Technology](https://www.wsj.com/articles/smartphone-tips-to-avoid-tipsy-texting-and-posting-over-the-holidays-11670114090?mod=rss_Technology)
@@ -27,3 +27,4 @@ Salesforce, Okta and CrowdStrike describe how clients are delaying certain purch
  - date published: 2022-12-04 10:30:00+00:00
 
 The Dow Jones Industrial Average is beating the broader S&amp;P 500 to a degree not seen in nearly a century.
+

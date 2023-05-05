@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Airlines cancel thousands of flights amid winter storm, with Southwest nixing 68%
  - [https://abcnews.go.com/US/airlines-cancel-thousands-flights-amid-winter-storm-chaos/story?id=95834221](https://abcnews.go.com/US/airlines-cancel-thousands-flights-amid-winter-storm-chaos/story?id=95834221)
@@ -13,6 +13,13 @@ Airlines continue to cancel thousands of flights in what is becoming a Christmas
  - date published: 2022-12-26 23:30:31+00:00
 
 Tagovailoa met with doctors a day after the Dolphins' 26-20 loss.
+
+## Jackson, Mississippi, issues boil-water advisory on Christmas Day
+ - [https://abcnews.go.com/US/jackson-mississippi-issues-boil-water-advisory-christmas-day/story?id=95830122](https://abcnews.go.com/US/jackson-mississippi-issues-boil-water-advisory-christmas-day/story?id=95830122)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-26 19:57:15+00:00
+
+The City of Jackson, Mississippi --long plagued with water problems-- issued a boil-water advisory on Christmas Day until further notice.
 
 ## China to scrap COVID-19 quarantine for incoming passengers
  - [https://abcnews.go.com/International/wireStory/china-scrap-covid-19-quarantine-incoming-passengers-95830647](https://abcnews.go.com/International/wireStory/china-scrap-covid-19-quarantine-incoming-passengers-95830647)
@@ -118,3 +125,4 @@ A photographer in Texas went "hunting for icicles" over the weekend and said thi
  - date published: 2022-12-26 00:40:15+00:00
 
 Law enforcement officers in suburban Denver say a man killed his wife and then himself at a Jehovah's Witness Kingdom Hall in Thornton
+

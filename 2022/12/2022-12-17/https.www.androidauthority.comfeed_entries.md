@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## The Whoop 4.0 convinced me I don’t need a screen on my fitness tracker
  - [https://www.androidauthority.com/whoop-4-0-review-3249953/](https://www.androidauthority.com/whoop-4-0-review-3249953/)
@@ -55,3 +55,4 @@ Plus Oppo's new foldables, Motorola's crazily-priced flagship, our favorite geek
  - date published: 2022-12-17 11:00:17+00:00
 
 Oppo is shaping up to be a serious foldables player
+

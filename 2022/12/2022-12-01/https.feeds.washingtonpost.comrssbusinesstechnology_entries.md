@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Kanye West will not buy Parler after all
  - [https://www.washingtonpost.com/technology/2022/12/01/parler-kanye-west-deal-ended/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/01/parler-kanye-west-deal-ended/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ From locking down privacy settings to finding a new social network, Twitter regu
  - date published: 2022-12-01 06:00:45+00:00
 
 The model is adept at forethought, negotiation and trickery. One expert called it "super scary."
+

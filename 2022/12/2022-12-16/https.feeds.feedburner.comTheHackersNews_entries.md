@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Trojanized Windows 10 Installer Used in Cyberattacks Against Ukrainian Government Entities
  - [https://thehackernews.com/2022/12/trojanized-windows-10-installer-used-in.html](https://thehackernews.com/2022/12/trojanized-windows-10-installer-used-in.html)
@@ -12,7 +12,6 @@ Mandiant, which discovered the supply chain attack around mid-July 2022, said th
  - [https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html](https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-12-16 13:08:00+00:00
- - tags: twitter
 
 A former Twitter employee who was found guilty of spying on behalf of Saudi Arabia by sharing data pertaining to specific individuals has been sentenced to three-and-a-half years in prison.
 Ahmad Abouammo, 45, was convicted earlier this August on various criminal counts, including money laundering, fraud, falsifying records, and being an illegal agent of a foreign government.
@@ -60,3 +59,4 @@ Called MCCrash, the botnet is characterized by a unique spreading mechanism tha
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities impacting Veeam Backup & Replication software to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation in the wild.
 The now-patched critical flaws, tracked as CVE-2022-26500 and CVE-2022-26501, are both rated 9.8 on the CVSS scoring system, and could be leveraged to
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'Where are you really from?': Ngozi Fulani says Buckingham Palace honorary aide questioned her heritage
  - [https://www.cnn.com/videos/world/2022/12/01/ngozi-fulani-buckingham-palace-susan-hussey-racism-intv-ist-vpx.cnn](https://www.cnn.com/videos/world/2022/12/01/ngozi-fulani-buckingham-palace-susan-hussey-racism-intv-ist-vpx.cnn)
@@ -573,3 +573,4 @@ A sniffle, a sneeze or a cough can set off alarm bells these days for families w
  - date published: 2022-12-01 00:03:43+00:00
 
 A playful polar bear cub, two nuzzling red foxes and golden snub-nosed monkeys huddled together are among the shortlisted images for the Wildlife Photographer of the Year People's Choice Award 2022.
+

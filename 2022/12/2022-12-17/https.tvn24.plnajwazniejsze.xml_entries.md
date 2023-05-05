@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Marciniak poprowadzi finał. Trener Argentyny apeluje
  - [https://eurosport.tvn24.pl/trener-argentyny-zaapelowa--w-sprawie-marciniaka,1129735.html?source=rss](https://eurosport.tvn24.pl/trener-argentyny-zaapelowa--w-sprawie-marciniaka,1129735.html?source=rss)
@@ -615,3 +615,4 @@
 
 <img alt="Eksperci ISW: Ukraina ma duże szanse na odzyskanie znacznego obszaru" src="https://tvn24.pl/najnowsze/cdn-zdjecie-8qmixn-eksperci-od-materialow-wybuchowych-pracuja-w-miejscu-wybuchu-w-charkowie-6510486/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

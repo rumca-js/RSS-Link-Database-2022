@@ -1,4 +1,18 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
+
+## Hope for the Peltz-Beckham brand as Nicola effortlessly pulls off Playboy bunny acting role
+ - [https://www.dailymail.co.uk/news/article-11583121/Hope-Peltz-Beckham-brand-Nicola-effortlessly-pulls-Playboy-bunny-acting-role.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11583121/Hope-Peltz-Beckham-brand-Nicola-effortlessly-pulls-Playboy-bunny-acting-role.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-29 23:37:20+00:00
+
+Nicola Peltz Peltz effortlessly channels Dorothy Stratten- the doomed Playboy Playmate of the Year who was murdered by her jealous husband in 'Welcome to Chippendales.'
+
+## New York City starts legal cannabis sales today
+ - [https://www.dailymail.co.uk/news/article-11583597/New-York-City-starts-legal-cannabis-sales-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11583597/New-York-City-starts-legal-cannabis-sales-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-29 23:17:13+00:00
+
+Housing Works Cannabis Co. opened in lower Manhattan on Thursday. The dispensary is the first to open since New York legalized weed in 2021.
 
 ## Sam Bankman-Fried had four meetings with Biden aides this year
  - [https://www.dailymail.co.uk/news/article-11583847/Sam-Bankman-Fried-four-meetings-Biden-aides-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11583847/Sam-Bankman-Fried-four-meetings-Biden-aides-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1463,3 +1477,4 @@ Social media users are poking fun at Joe Biden's recently fired nuclear waste cz
  - date published: 2022-12-29 00:02:27+00:00
 
 The miserable Christmas list included a dustpan and brush, out of date chocolate and wine, vodka gifted to a pregnant woman and used deodorant.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Podsumowanie newsów ITHardware - tydzień 83. Sprawdź co Cię ominęło
  - [https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_trzeci_grudzien_2022-24721.html](https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_trzeci_grudzien_2022-24721.html)
@@ -161,3 +161,4 @@ Jak donosi VideoCardz,...
 
 <img src="https://ithardware.pl/artykuly/min/24631_1.jpg" />            Mikołajki to ważne święto, dlatego i my podeszliśmy do sprawy poważnie. Konkurs adwentowy trwa nadal, a w okienku tym razem znajdziecie absolutną bombę - wysokiej jakości zasilacz Seasonic PRIME GX-1300 o wartości 1239 zł! Jak go...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_6-24631.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_6-24631.html</a></p>
+

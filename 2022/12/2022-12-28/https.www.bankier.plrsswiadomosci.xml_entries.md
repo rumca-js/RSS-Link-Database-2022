@@ -1,4 +1,11 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
+
+## Czarnek: Niż demograficzny, który wejdzie do szkół, będzie powodował duże problemy
+ - [https://www.bankier.pl/wiadomosc/Czarnek-Niz-demograficzny-ktory-wejdzie-do-szkol-bedzie-powodowal-duze-problemy-8463731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czarnek-Niz-demograficzny-ktory-wejdzie-do-szkol-bedzie-powodowal-duze-problemy-8463731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-28 21:33:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/9/e4358e21f900b4-948-568-0-138-4256-2553.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Przed nami kolejny rok, w którym musimy znaleźć rozwiązania żeby zabezpieczyć nauczycieli przed niżem, który w najbliższym czasie wejdzie do szkół, zwłaszcza do szkół średnich - powiedział w środę minister edukacji i nauki Przemysław Czarnek.</p>
 
 ## Narasta lęk przed recesją. Znów spadkowa sesja na Wall Street
  - [https://www.bankier.pl/wiadomosc/Znow-spadkowa-sesja-na-Wall-Street-8463724.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Znow-spadkowa-sesja-na-Wall-Street-8463724.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -7,6 +14,27 @@
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/b/3b7c71993cb963-948-568-280-115-1720-1031.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Amerykański rynek akcji powoli zaczyna uwzględniać w
 wycenach rosnące ryzyko recesji w gospodarce USA.</p>
+
+## Niemcy chciały ograniczyć eksport broni, ale finał był inny. Drugi najwyższy wynik w historii
+ - [https://www.bankier.pl/wiadomosc/Niemcy-chcialy-ograniczyc-eksport-broni-ale-final-byl-inny-Drugi-najwyzszy-wynik-w-historii-8463722.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-chcialy-ograniczyc-eksport-broni-ale-final-byl-inny-Drugi-najwyzszy-wynik-w-historii-8463722.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-28 21:04:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/9/91f21164dec504-948-568-0-39-1757-1054.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Rząd Niemiec planował ograniczyć sprzedaż broni za granicę, jednak w tym roku zatwierdził już eksport uzbrojenia za co najmniej 8,35 mld euro. To drugi najwyższy wynik w historii RFN. Ponad jedna czwarta broni i sprzętu wojskowego trafiła do zaatakowanej przez Rosję Ukrainę.</p>
+
+## Co z cenami paliw po 1 stycznia? Prezes Orlenu po raz kolejny uspokaja
+ - [https://www.bankier.pl/wiadomosc/Co-z-cenami-paliw-po-1-stycznia-Prezes-Orlenu-po-raz-kolejny-uspokaja-8463703.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Co-z-cenami-paliw-po-1-stycznia-Prezes-Orlenu-po-raz-kolejny-uspokaja-8463703.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-28 19:49:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/4/e33043406697bb-948-568-0-5-1975-1185.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Ceny paliw na stacjach Orlenu, po 1 stycznia, czyli po podniesieniu VAT, będą kształtować się na poziomie podobnym do obecnego - zapewnił w środę prezes PKN Orlen Daniel Obajtek.</p>
+
+## PGE chce zawrzeć porozumienie z PGG ws. cen węgla
+ - [https://www.bankier.pl/wiadomosc/PGE-chce-zawrzec-porozumienie-z-PGG-ws-cen-wegla-8463693.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/PGE-chce-zawrzec-porozumienie-z-PGG-ws-cen-wegla-8463693.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-28 18:59:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/f/7c153b2de74a32-948-568-26-248-3513-2108.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W przyszłym tygodniu chcemy zawrzeć porozumienie z Polską Grupą Górniczą (PGG) w sprawie cen węgla w 2023 r. - poinformował w środę prezes PGE Wojciech Dąbrowski. Dodał, że liczy na utrzymanie spadkowego trendu dotyczącego cen węgla.</p>
 
 ## Reuters: eksport rosyjskiego gazu do Europy przez gazociągi spadł do najniższego poziomu od rozpadu ZSRR
  - [https://www.bankier.pl/wiadomosc/Reuters-eksport-rosyjskiego-gazu-do-Europy-przez-gazociagi-spadl-do-najnizszego-poziomu-od-rozpadu-ZSRR-8463648.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Reuters-eksport-rosyjskiego-gazu-do-Europy-przez-gazociagi-spadl-do-najnizszego-poziomu-od-rozpadu-ZSRR-8463648.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -369,3 +397,4 @@ umocnienie złotego została najprawdopodobniej zaprzepaszczona.</p>
  - date published: 2022-12-28 01:34:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/9/33bc89ac428191-948-568-0-0-2000-1199.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Kosowscy Serbowie rozpoczęli we wtorek wznoszenie nowych barykad w Mitrovicy, jednym z głównych miast na północy Kosowa - poinformowała agencja AP.</p>
+

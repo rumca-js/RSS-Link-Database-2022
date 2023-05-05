@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Smart speakers help people living alone feel less lonely, survey finds
  - [https://www.theguardian.com/technology/2022/dec/13/smart-speakers-help-people-living-alone-feel-less-lonely-survey-finds](https://www.theguardian.com/technology/2022/dec/13/smart-speakers-help-people-living-alone-feel-less-lonely-survey-finds)
@@ -1049,3 +1049,4 @@ A juicy fish dish with a bright citrussy kick<p>This is a rather festive, light 
  - date published: 2022-12-13 00:00:12+00:00
 
 <p>Swift previously denied ever hearing the 3LW song Playas Gon’ Play, saying Shake It Off’s ‘lyrics were written entirely by me’</p><p>Two songwriters have dropped their lawsuit claiming that Taylor Swift copied their lyrics in her 2014 No 1 hit Shake It Off, according to court documents filed on Monday.</p><p>Sean Hall and Nathan Butler told a Los Angeles federal judge they will dismiss their 2017 case with prejudice, which means it cannot be refiled.</p> <a href="https://www.theguardian.com/music/2022/dec/13/taylor-swift-shake-it-off-copyright-case-dropped">Continue reading...</a>
+

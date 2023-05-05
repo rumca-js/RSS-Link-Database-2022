@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Joe Biden Can’t Quit the Saudi “Pariahs”
  - [https://theintercept.com/2022/12/14/biden-saudi-arabia-mbs/](https://theintercept.com/2022/12/14/biden-saudi-arabia-mbs/)
@@ -31,3 +31,4 @@
 
 <p>Sanders pledged to work with the Biden administration on compromise language, and bring the resolution back to the floor if talks failed.</p>
 <p>The post <a href="https://theintercept.com/2022/12/13/bernie-sanders-yemen-war-white-house/" rel="nofollow">Bernie Sanders Pulls Yemen War Powers Resolution Amid Opposition From White House</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

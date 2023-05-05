@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## All of My Favorite Sci-Fi Christmas Ornaments
  - [https://gizmodo.com/hallmark-ornaments-sci-fi-pop-culture-star-wars-nintend-1849859461](https://gizmodo.com/hallmark-ornaments-sci-fi-pop-culture-star-wars-nintend-1849859461)
@@ -279,3 +279,4 @@
  - date published: 2022-12-06 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--m2rJS5xF--/c_fit,fl_progressive,q_80,w_636/c8e1e63dcc75b0ac77e19fe4f796e193.jpg" /><p>If you’ve been watching the casting announcements around Disney+’s Marvel series <a href="https://gizmodo.com/daredevil-yellow-suit-she-hulk-charlie-cox-disney-plus-1849545602"><em>Daredevil</em></a><em>: Born Again </em>and wondering... what about <a href="https://gizmodo.com/the-cast-and-crew-of-daredevil-are-beginning-to-bid-far-1830768729">Deborah Ann Woll</a> (<a href="https://gizmodo.com/the-punisher-tv-series-originally-had-no-plans-to-inclu-1819888129">Karen Page</a>) and Elden Henson (<a href="https://gizmodo.com/the-defenders-adds-the-true-hero-of-marvels-netflixvers-1784697682">Foggy Nelson</a>), who were part of the show’s original Netflix incarnation, you’re not alone. Star Charlie Cox, while attending German Comic…</p><p><a href="https://gizmodo.com/marvel-disney-plus-daredevil-born-again-casting-news-1849856309">Read more...</a></p>
+

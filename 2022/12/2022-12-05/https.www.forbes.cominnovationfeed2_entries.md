@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Astell&Kern’s Reveals The New HC3… A Luxury And Lightweight USB DAC
  - [https://www.forbes.com/sites/marksparrow/2022/12/05/astellkerns-reveals-the-new-hc3-a-luxury-and-lightweight-usb-dac/](https://www.forbes.com/sites/marksparrow/2022/12/05/astellkerns-reveals-the-new-hc3-a-luxury-and-lightweight-usb-dac/)
@@ -531,3 +531,4 @@ Now that the Steam Deck is nearing its Japanese release, I’ve been able to giv
  - date published: 2022-12-05 01:00:00+00:00
 
 The celestial highlights for the week ahead includes Mars at "opposition" being occulted by a full Moon—something that's not happened for 19 years.
+

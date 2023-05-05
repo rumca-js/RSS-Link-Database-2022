@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## UFC's Rafa Garcia wins bloody brawl: 'They told me I lost 20% of my blood'
  - [https://www.foxnews.com/sports/ufcs-rafa-garcia-wins-bloody-brawl-they-told-lost-my-blood](https://www.foxnews.com/sports/ufcs-rafa-garcia-wins-bloody-brawl-they-told-lost-my-blood)
@@ -818,3 +818,4 @@ A suspected shooter was arrested after a Mississippi deputy was shot in the back
  - date published: 2022-12-18 00:06:13+00:00
 
 "Austin Powers" star Elizabeth Hurley denied rumors that she was the "beautiful older woman in the countryside" that Prince Harry reportedly wrote about losing his virginity to in his memoir "Spare,"
+

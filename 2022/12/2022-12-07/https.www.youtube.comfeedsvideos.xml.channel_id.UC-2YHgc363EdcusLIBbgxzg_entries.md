@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## What Happens When Your Eyes Have 4 Color Receptors?
  - [https://www.youtube.com/watch?v=3hbCRWexWGQ](https://www.youtube.com/watch?v=3hbCRWexWGQ)
@@ -32,3 +32,4 @@ Instagram: https://instagram.com/answerswithjoe
 TikTok: https://www.tiktok.com/@answerswithjoe
 Facebook: http://www.facebook.com/answerswithjoe
 Twitter: https://www.twitter.com/answerswithjoe
+

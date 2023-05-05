@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Apple patent points to MacBook keys that change dynamically
  - [https://www.techradar.com/news/apple-patent-points-to-macbook-keys-that-change-dynamically](https://www.techradar.com/news/apple-patent-points-to-macbook-keys-that-change-dynamically)
@@ -48,3 +48,4 @@ That nasty bug which was causing stuttering frame rates has finally been fully r
  - date published: 2022-12-17 09:00:44+00:00
 
 The Nvidia RTX 4070 Ti has risen from the ashes of the cancelled RTX 4080 12GB.
+

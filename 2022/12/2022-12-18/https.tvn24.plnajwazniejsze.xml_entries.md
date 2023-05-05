@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Ból" i "wielkie rozczarowanie" we Francji
  - [https://eurosport.tvn24.pl/we-francji--b-l--i--wielkie-rozczarowanie-,1129872.html?source=rss](https://eurosport.tvn24.pl/we-francji--b-l--i--wielkie-rozczarowanie-,1129872.html?source=rss)
@@ -607,3 +607,4 @@
 
 <img alt="Wielka Brytania potwierdziła dostawę na Ukrainę precyzyjnych pocisków" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jdwour-wielka-brytania-potwierdzila-dostawe-na-ukraine-precyzyjnych-pociskow-brimstone-2-6526452/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

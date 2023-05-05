@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## England head home from World Cup rueing another penalty miss
  - [https://www.theguardian.com/football/2022/dec/10/england-head-home-from-world-cup-rueing-another-penalty-miss](https://www.theguardian.com/football/2022/dec/10/england-head-home-from-world-cup-rueing-another-penalty-miss)
@@ -846,3 +846,4 @@ Hull University in midwinter provided a perfect backdrop for a centenary lecture
  - date published: 2022-12-10 01:00:49+00:00
 
 <p>After mass demonstrations against Covid lockdowns, experts say Xi Jinping’s response will be a further gradual crackdown</p><p>Since Xi Jinping came to power a decade ago, China’s Communist party has enacted a sweeping crackdown on civil society. Independent NGOs have been shut down, journalists and human rights lawyers arrested and outspoken media tamed. Meanwhile, the government has invested heavily in a massive surveillance system to keep track of citizens’ movements and activities.</p><p>Given their emphasis on national security and stability, party leaders would have been shocked therefore by the nationwide protests that broke out on 26 November in opposition to <a href="https://www.theguardian.com/world/2022/dec/08/chinese-students-uk-china-covid-policies-diplomacy">Xi’s “zero-Covid” policy</a>. Demonstrators demanded an end to lockdowns and mass testing and some even called for the removal of the party and Xi himself.</p> <a href="https://www.theguardian.com/world/2022/dec/10/control-china-protests-covid-lockdown-xi-jinping">Continue reading...</a>
+

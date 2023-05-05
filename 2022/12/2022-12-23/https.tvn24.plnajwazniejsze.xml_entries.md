@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Kongres przyjął ustawę budżetową. Miliardy dolarów wsparcia dla Ukrainy
  - [https://tvn24.pl/swiat/usa-kongres-przyjal-ustawe-budzetowa-przewiduje-miliardy-dolarow-wsparcia-dla-ukrainy-6551642?source=rss](https://tvn24.pl/swiat/usa-kongres-przyjal-ustawe-budzetowa-przewiduje-miliardy-dolarow-wsparcia-dla-ukrainy-6551642?source=rss)
@@ -96,6 +96,22 @@
 <img alt="Jak żyje się Polakom? " src="https://tvn24.pl/najnowsze/cdn-zdjecie-r3jg8k-2312n307x-cnb-stangreciak-bieda-arch-0040-6551495/alternates/LANDSCAPE_1280" />
     Rafał Stangreciak ruszył w Polskę.
 
+## PiS zapowiada zmiany w Kodeksie wyborczym. Opozycja: boją się przegranej
+ - [https://fakty.tvn24.pl/pis-zapowiada-zmiany-w-kodeksie-wyborczym--opozycja--boj--si--przegranej,1130465.html?source=rss](https://fakty.tvn24.pl/pis-zapowiada-zmiany-w-kodeksie-wyborczym--opozycja--boj--si--przegranej,1130465.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-23 18:15:00+00:00
+
+<img alt="PiS zapowiada zmiany w Kodeksie wyborczym. Opozycja: boją się przegranej" src="https://tvn24.pl/najnowsze/cdn-zdjecie-21w2al-2312--pis-zapowiada-zmiany-w-kodeksie-wyborczym-opozycja-boja-sie-przegranej/alternates/LANDSCAPE_1280" />
+    Ma być więcej lokali wyborczych na wsi i darmowe dowożenie seniorów.
+
+## Mniej na stołach, skromniejsze prezenty. Święta w kryzysie
+ - [https://fakty.tvn24.pl/mniej-na-sto-ach--skromniejsze-prezenty--polacy-szykuj--si--na--wi-ta-w-dobie-dro-yzny,1130469.html?source=rss](https://fakty.tvn24.pl/mniej-na-sto-ach--skromniejsze-prezenty--polacy-szykuj--si--na--wi-ta-w-dobie-dro-yzny,1130469.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-23 18:12:00+00:00
+
+<img alt="Mniej na stołach, skromniejsze prezenty. Święta w kryzysie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-3qhqh3-polacy-mierza-sie-z-drozyzna-przed-swietami/alternates/LANDSCAPE_1280" />
+    Wydaliśmy więcej, kupiliśmy mniej.
+
 ## Francuscy kibice nie odpuszczają w kwestii Marciniaka. Ponad 200 tysięcy głosów
  - [https://eurosport.tvn24.pl/francuscy-kibice-nie-odpuszczaj--w-kwestii-szymona-marciniaka----daj--powt-rzenia-fina-u,1130483.html?source=rss](https://eurosport.tvn24.pl/francuscy-kibice-nie-odpuszczaj--w-kwestii-szymona-marciniaka----daj--powt-rzenia-fina-u,1130483.html?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -151,6 +167,14 @@
 
 <img alt="Świąteczne życzenia od polityków" src="https://tvn24.pl/najnowsze/cdn-zdjecie-6x7q1a-zyczenia-od-politykow-6551305/alternates/LANDSCAPE_1280" />
     "Wierzę, że przyszły rok przyniesie pokój", "światło zawsze wygrywa z mrokiem".
+
+## Świąteczne życzenia od polityków
+ - [https://tvn24.pl/polska/boze-narodzenie-jaroslaw-kaczynski-donald-tusk-mateusz-morawiecki-elzbieta-witek-i-zbigniew-rau-skladaja-zyczenia-swiateczne-6551251?source=rss](https://tvn24.pl/polska/boze-narodzenie-jaroslaw-kaczynski-donald-tusk-mateusz-morawiecki-elzbieta-witek-i-zbigniew-rau-skladaja-zyczenia-swiateczne-6551251?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-23 16:57:34+00:00
+
+<img alt="Świąteczne życzenia od polityków" src="https://tvn24.pl/najnowsze/cdn-zdjecie-6x7q1a-zyczenia-od-politykow-6551305/alternates/LANDSCAPE_1280" />
+    "Światło zawsze wygrywa z mrokiem".
 
 ## Sochan zbiera pochwały po życiowym meczu
  - [https://eurosport.tvn24.pl/sochan-zbiera-pochwa-y-po--yciowym-meczu---ma-potencja---by-notowa--triple-double-,1130460.html?source=rss](https://eurosport.tvn24.pl/sochan-zbiera-pochwa-y-po--yciowym-meczu---ma-potencja---by-notowa--triple-double-,1130460.html?source=rss)
@@ -592,6 +616,14 @@
 <img alt="Pracodawca będzie mógł sprawdzić trzeźwość. Trwają prace nad projektem" src="https://tvn24.pl/najnowsze/cdn-zdjecie-dj9hua-mezczyzna-mial-27-promila-alkoholu-w-organizmie-5600059/alternates/LANDSCAPE_1280" />
     Testy na alkohol i narkotyki.
 
+## Tematyczna, ekologiczna czy do góry nogami? Pokaż swoją choinkę
+ - [https://kontakt24.tvn24.pl/tematyczna-ekologiczna-czy-do-gory-nogami-pokaz-swoja-choinke,1530,gt?source=rss](https://kontakt24.tvn24.pl/tematyczna-ekologiczna-czy-do-gory-nogami-pokaz-swoja-choinke,1530,gt?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-23 08:12:20+00:00
+
+<img alt="Tematyczna, ekologiczna czy do góry nogami? Pokaż swoją choinkę" src="https://tvn24.pl/najnowsze/cdn-zdjecie-3sylks-reporterzy-24-pokazuja-swoje-choinki-6552691/alternates/LANDSCAPE_1280" />
+    Kontakt 24 czeka na zdjęcia i nagrania Waszych świątecznych drzewek i ozdób.
+
 ## Żywe, sztuczne, kolorowe. Pokażcie swoje choinki
  - [https://kontakt24.tvn24.pl/zywe-sztuczne-kolorowe-pokazcie-swoje-choinki,1530,gt?source=rss](https://kontakt24.tvn24.pl/zywe-sztuczne-kolorowe-pokazcie-swoje-choinki,1530,gt?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -799,3 +831,4 @@
 
 <img alt="Politico: szkolenia ukraińskich żołnierzy z obsługi systemów Patriot mogą odbywać się w USA" src="https://tvn24.pl/najnowsze/cdn-zdjecie-6tg0hm-patriot-6547372/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

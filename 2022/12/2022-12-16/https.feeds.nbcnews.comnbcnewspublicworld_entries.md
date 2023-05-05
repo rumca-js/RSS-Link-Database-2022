@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## North Korea performs key test to build more threatening ICBM
  - [https://www.nbcnews.com/news/world/north-korea-performs-key-test-build-threatening-icbm-rcna62060](https://www.nbcnews.com/news/world/north-korea-performs-key-test-build-threatening-icbm-rcna62060)
@@ -104,3 +104,4 @@ A new solar-powered electric vehicle prototype can get some of its charge from t
  - date published: 2022-12-16 00:15:35+00:00
 
 Prince Harry describes a furious row with his brother William in the Netflix docuseries “Harry & Meghan,” as well as Meghan having a miscarriage amid their legal battle with the Daily Mail. NBC News’ Keir Simmons shares more about the royal feud.
+

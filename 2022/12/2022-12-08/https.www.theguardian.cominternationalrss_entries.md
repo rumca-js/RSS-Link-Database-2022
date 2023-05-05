@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Racism poses public health threat to millions worldwide, finds report
  - [https://www.theguardian.com/science/2022/dec/08/racism-poses-public-health-threat-to-millions-worldwide-finds-report](https://www.theguardian.com/science/2022/dec/08/racism-poses-public-health-threat-to-millions-worldwide-finds-report)
@@ -1021,3 +1021,4 @@ Sculptor whose largely abstract work drew on natural forms<p>Charlotte Mayer, wh
  - date published: 2022-12-08 00:28:37+00:00
 
 <p>South Dakota, Maryland and Wisconsin have also issued similar directives citing security concerns</p><p>Texas governor Greg Abbott on Wednesday ordered state agencies to ban TikTok on government-issued devices, citing security concerns of the app’s data-sharing practices with the Chinese government.</p><p>“TikTok harvests vast amounts of data from its users’ devices – including when, where and how they conduct Internet activity – and offers this trove of potentially sensitive information to the Chinese government,” <a href="https://www.fox4news.com/news/gov-abbott-orders-tiktok-ban-for-all-texas-state-agencies">according to</a> one of the letters the governor sent to state agency leaders. </p> <a href="https://www.theguardian.com/technology/2022/dec/07/texas-bans-tiktok-government-devices-china-data-sharing-fears">Continue reading...</a>
+

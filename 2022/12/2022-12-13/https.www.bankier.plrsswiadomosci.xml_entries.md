@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## PiS idzie po KPO. W Sejmie złożono projekt nowelizacji ustawy o Sądzie Najwyższym
  - [https://www.bankier.pl/wiadomosc/PiS-idzie-po-KPO-W-Sejmie-zlozono-projekt-nowelizacji-ustawy-o-Sadzie-Najwyzszym-8456255.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/PiS-idzie-po-KPO-W-Sejmie-zlozono-projekt-nowelizacji-ustawy-o-Sadzie-Najwyzszym-8456255.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -429,3 +429,4 @@ nominalnie najmocniej po kieszeni dostaną przedsiębiorcy.</p>
  - date published: 2022-12-13 00:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/4/6b9db3856cd789-948-568-0-0-1985-1190.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Unia Europejska postanowiła zamrozić 6,3 mld euro funduszy dla Węgier z uwagi na praworządność - podała Rada UE w komunikacie. Decyzja została podjęta przez ambasadorów państw członkowskich przy UE większością kwalifikowaną w ramach unijnego mechanizmu warunkowości.</p>
+

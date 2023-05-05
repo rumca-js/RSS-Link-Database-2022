@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Krystyna Pawłowicz do Micka Jaggera: "Jesteś osobą wierzącą w 'Christmas'? Byłeś u spowiedzi?"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29298926,krystyna-pawlowicz-zaczepia-znana-gwiazde-rocka-internauci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29298926,krystyna-pawlowicz-zaczepia-znana-gwiazde-rocka-internauci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-12-25 06:48:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/2a/ed/1b/z29285930M,Gololedz---zdjecie-ilustracyjne.jpg" vspace="2" />Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia dla części kraju przed marznącymi opadami. Mogą one doprowadzić do powstania gołoledzi.
+

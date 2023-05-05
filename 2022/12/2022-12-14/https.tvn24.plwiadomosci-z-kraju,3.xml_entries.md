@@ -1,4 +1,27 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
+
+## Po pijanemu wjechał w pięć zaparkowanych samochodów i ranił nożem właściciela jednego z nich
+ - [https://tvn24.pl/tvnwarszawa/najnowsze/wyszkow-po-pijanemu-wjechal-w-piec-zaparkowanych-aut-i-ugodzil-nozem-wlasciciela-jednego-z-nich-6499677?source=rss](https://tvn24.pl/tvnwarszawa/najnowsze/wyszkow-po-pijanemu-wjechal-w-piec-zaparkowanych-aut-i-ugodzil-nozem-wlasciciela-jednego-z-nich-6499677?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2022-12-14 20:12:14+00:00
+
+<img alt="Po pijanemu wjechał w pięć zaparkowanych samochodów i ranił nożem właściciela jednego z nich" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-xs9842-do-zdarzenia-doszlo-w-wyszkowie-6499923/alternates/LANDSCAPE_1280" />
+    Policjanci z Wyszkowa zatrzymali 19-latka podejrzanego o jazdę pod wpływem alkoholu, uszkodzenie pięciu innych samochodów oraz zranienie nożem mężczyzny. Młody mężczyzna usłyszał zarzuty i trafił do aresztu.
+
+## Pogoda na jutro - czwartek, 15.12. Nocą nawet kilkanaście stopni mrozu, w dzień wszędzie odczujemy zimno
+ - [https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-jutro-czwartek-1512-noca-nawet-kilkanascie-stopni-mrozu-w-dzien-wszedzie-odczujemy-zimno-6498704?source=rss](https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-jutro-czwartek-1512-noca-nawet-kilkanascie-stopni-mrozu-w-dzien-wszedzie-odczujemy-zimno-6498704?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2022-12-14 18:45:31+00:00
+
+<img alt="Pogoda na jutro - czwartek, 15.12. Nocą nawet kilkanaście stopni mrozu, w dzień wszędzie odczujemy zimno " src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-syin5s-mroz-mrozna-noc-5533160/alternates/LANDSCAPE_1280" />
+    Pogoda na jutro. Czwartek 15.12 upłynie pod znakiem pochmurnej aury z przejaśnieniami i rozpogodzeniami. Miejscami sypnie śniegiem. Termometry pokażą maksymalnie zero stopni Celsjusza.
+
+## Niemcy, po ujawnieniu planów Obywateli Rzeszy, żądają od władz zdecydowanych działań. Sondaż
+ - [https://tvn24.pl/swiat/obywatele-rzeszy-niemcy-chca-bardziej-zdecydowanych-dzialan-wobec-organizacji-ekstremistycznych-sondaz-spiegel-6498905?source=rss](https://tvn24.pl/swiat/obywatele-rzeszy-niemcy-chca-bardziej-zdecydowanych-dzialan-wobec-organizacji-ekstremistycznych-sondaz-spiegel-6498905?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2022-12-14 18:37:52+00:00
+
+Niemiecki tygodnik "Spiegel" opublikował sondaż, z którego wynika, że - po zatrzymaniu planujących zamach stanu członków Obywateli Rzeszy i ich przywódcy księcia Heinricha XIII - Niemcy chcą, by państwo podjęło bardziej zdecydowane działania przeciwko ekstremistom w służbie publicznej. Dyskusja na ten temat trwa od ubiegłego tygodnia, gdy sprawa ujrzała światło dzienne. Przeciwni takim działaniom są tylko wyborcy prawicowo-populistycznej AfD, której działaczka była także wśród zatrzymanych.
 
 ## Wyrzucił psa z czwartego piętra, bo "go nie chciał". Ranny szczeniak znalazł nowy dom
  - [https://tvn24.pl/bialystok/bialystok-47-latek-wyrzucil-psa-przez-okno-bo-go-nie-chcial-6495929?source=rss](https://tvn24.pl/bialystok/bialystok-47-latek-wyrzucil-psa-przez-okno-bo-go-nie-chcial-6495929?source=rss)
@@ -23,3 +46,12 @@
 
 <img alt="Inflacja w Wielkiej Brytanii zaskoczyła ekonomistów" src="https://tvn24.pl/biznes/najnowsze/cdn-zdjecie-wi9quw-londyn-wielka-brytania-6494489/alternates/LANDSCAPE_1280" />
     Inflacja w Wielkiej Brytanii spadła mocniej niż oczekiwano. Tempo wzrostu cen w listopadzie 2022 roku wyhamowało do 10,7 procent rok do roku, podczas gdy w październiku było to 11,1 procent. Mimo takich danych, Bank Anglii przygotowuje się do kolejnej podwyżki stóp procentowych.
+
+## Smog dusi w części kraju. Sprawdź, gdzie wieczorem oddycha się najgorzej
+ - [https://tvn24.pl/tvnmeteo/smog/smog-w-polsce-jaka-jest-jakosc-powietrza-w-srode-1412-mapa-smogu-6492430?source=rss](https://tvn24.pl/tvnmeteo/smog/smog-w-polsce-jaka-jest-jakosc-powietrza-w-srode-1412-mapa-smogu-6492430?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2022-12-14 07:12:10+00:00
+
+<img alt="Smog dusi w części kraju. Sprawdź, gdzie wieczorem oddycha się najgorzej" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-olnq0q-smog-noc-6499473/alternates/LANDSCAPE_1280" />
+    W środę wieczorem nad częścią Polski unosi się smog. Miejscami dopuszczalne normy są przekroczone o ponad 250 procent. Sprawdź jakość powietrza w swojej okolicy.
+

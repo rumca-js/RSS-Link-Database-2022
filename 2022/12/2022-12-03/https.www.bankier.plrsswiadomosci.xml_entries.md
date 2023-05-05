@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Węgry zwolnione z limitu ceny na rosyjską ropę. Podaje tamtejszy MSZ
  - [https://www.bankier.pl/wiadomosc/Wegry-zwolnione-z-limitu-ceny-na-rosyjska-rope-Podaje-tamtejszy-MSZ-8450881.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wegry-zwolnione-z-limitu-ceny-na-rosyjska-rope-Podaje-tamtejszy-MSZ-8450881.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -254,3 +254,4 @@ puste lokum. Sprawdzamy, czy sytuacja dotycząca Polski wygląda podobnie. </p>
  - date published: 2022-12-03 03:06:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/4/73f653fc4c659d-948-568-0-120-2000-1199.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Koncern zbrojeniowy Northrop Grumman zaprezentował w piątek w Kalifornii najnowocześniejszy samolot bombowy B-21 Raider. Maszyna ma stać się "kręgosłupem" amerykańskich sił powietrznych.</p>
+

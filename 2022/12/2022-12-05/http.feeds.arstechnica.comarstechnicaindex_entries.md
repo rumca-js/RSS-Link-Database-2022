@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Here’s how marsh grass shrimp reduce drag while swimming
  - [https://arstechnica.com/?p=1901957](https://arstechnica.com/?p=1901957)
@@ -125,3 +125,4 @@ By 2027, all light-duty vehicles bought by the federal government must be EVs.
  - date published: 2022-12-05 10:00:46+00:00
 
 The electrified version of Ford's best-selling van is finding new friends.
+

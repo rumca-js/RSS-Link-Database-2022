@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## 49ers' Brock Purdy has incredible half in first career start, leaves dad in tears
  - [https://www.foxnews.com/sports/49ers-brock-purdy-incredible-half-first-career-start-leaves-dad-tears](https://www.foxnews.com/sports/49ers-brock-purdy-incredible-half-first-career-start-leaves-dad-tears)
@@ -669,7 +669,6 @@ A Georgia man under arrest and in handcuffs stole a patrol car on Friday and the
  - [https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company](https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-11 08:00:20+00:00
- - tags: twitter,twitter files
 
 Former First Lady Michelle Obama was among those who pressured Twitter to ban former President Donald Trump, following the riots at the Capitol Building on Jan. 6.
 
@@ -684,7 +683,6 @@ Cryptocurrency, non-fungible tokens, stablecoins, decentralized finance and more
  - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-11 06:46:54+00:00
- - tags: twitter,twitter files
 
 The latest installment of the 'Twitter Files' shows at least one employee at the company stood up to executives looking to ban former President Donald Trump, citing a 'slippery slope.'
 
@@ -813,3 +811,4 @@ NetChoice Vice President Carl Szabo is speaking out after his company was swept 
  - date published: 2022-12-11 00:24:21+00:00
 
 Prince Harry and Meghan Markle's new docuseries, "Harry & Meghan," was blasted by Meghan's paternal half siblings, Thomas Markle Jr. and Samantha Markle.
+

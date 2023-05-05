@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Anker’s Eufy breaks its silence on security cam security
  - [https://www.theverge.com/2022/12/20/23519772/anker-eufy-security-camera-statement-december-19-2022](https://www.theverge.com/2022/12/20/23519772/anker-eufy-security-camera-statement-december-19-2022)
@@ -601,3 +601,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/20/23518325/mastodon-monthly-active-users-twitter-elon-musk">Continue reading&hellip;</a>
   </p>
+

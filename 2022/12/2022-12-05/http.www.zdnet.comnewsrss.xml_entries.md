@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Eufy Security responds to camera security concerns
  - [https://www.zdnet.com/home-and-office/smart-home/eufy-security-responds-to-security-concerns/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eufy-security-responds-to-security-concerns/#ftag=RSSbaffb68)
@@ -230,3 +230,4 @@ You can save 50% off the typical $100 RRP for a limited time.
  - date published: 2022-12-05 01:47:14+00:00
 
 In its year's end reshuffle, Samsung also said it will retain the positions of its two CEOs due to the current "harsh business reality".
+

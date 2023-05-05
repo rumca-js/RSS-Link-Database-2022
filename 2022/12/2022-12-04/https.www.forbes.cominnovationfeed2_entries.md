@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## As Tripledemic Of Flu, RSV, And Covid-19 Surges Shortages Of Drugs Are Having A Disproportionate Impact On Children
  - [https://www.forbes.com/sites/joshuacohen/2022/12/04/as-tripledemic-of-flu-rsv-and-covid-19-surges-shortages-of-drugs-are-having-a-disproportionate-impact-on-children/](https://www.forbes.com/sites/joshuacohen/2022/12/04/as-tripledemic-of-flu-rsv-and-covid-19-surges-shortages-of-drugs-are-having-a-disproportionate-impact-on-children/)
@@ -202,3 +202,4 @@ The previously Switch exclusive 'Monster Hunter Rise' will be coming to PlayStat
  - date published: 2022-12-04 01:00:00+00:00
 
 A huge wave on Mars was caused by an asteroid collision similar to the one that killed the dinosaurs on Earth.
+

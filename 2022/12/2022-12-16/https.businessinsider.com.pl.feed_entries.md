@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Kanada pożyczy Ukrainie 500 mln dolarów kanadyjskich. Sprzedała obligacje
  - [https://businessinsider.com.pl/finanse/kanada-pozyczy-ukrainie-500-mln-dolarow-kanadyjskich-z-emisji-obligacji/s3wteg0](https://businessinsider.com.pl/finanse/kanada-pozyczy-ukrainie-500-mln-dolarow-kanadyjskich-z-emisji-obligacji/s3wteg0)
@@ -461,3 +461,4 @@ To może być początek końca koszmaru kredytobiorców. RPP wstrzymała podwyż
  - date published: 2022-12-16 05:00:00+00:00
 
 Jesteśmy liderem, jeśli chodzi o proces zawierania ugód frankowych, czyli szukania sprawiedliwego rozwiązania, które będzie satysfakcjonujące zarówno dla naszych klientów, jak i banku. Obecnie pracujemy nad kolejnymi, korzystnymi zmianami naszej oferty. Będziemy je intensywnie promować i mam nadzieję, że duża część frankowego portfela kredytowego do czasu orzeczenia TSUE znajdzie rozwiązanie na drodze ugodowej – mówi w wywiadzie dla Business Insider Polska Paweł Gruza, p.o. prezesa PKO BP.
+

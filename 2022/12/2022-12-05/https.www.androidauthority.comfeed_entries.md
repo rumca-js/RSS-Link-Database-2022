@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google Photos tests new search function to let you find people by their face
  - [https://www.androidauthority.com/google-photos-search-2-3244664/](https://www.androidauthority.com/google-photos-search-2-3244664/)
@@ -97,3 +97,4 @@ Multiplayer games on Android are easy to find, but they're not all great. Here a
  - date published: 2022-12-05 00:00:16+00:00
 
 Keeping your watch — and your wrist — clean and dry is the best way to care for your device.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Adding new files just got a lot faster
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59876](https://www.codeproject.com/script/News/View.aspx?nwid=59876)
@@ -62,3 +62,4 @@ So, no changes then?
  - date published: 2022-12-21 05:00:00+00:00
 
 "Tonight there's gonna be a jailbreak somewhere in the town"
+

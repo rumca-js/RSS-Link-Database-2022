@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Kari Lake loses suit over her defeat in Arizona governor’s race
  - [https://www.lemonde.fr/en/international/article/2022/12/24/kari-lake-loses-suit-over-her-defeat-in-arizona-governor-s-race_6009005_4.html](https://www.lemonde.fr/en/international/article/2022/12/24/kari-lake-loses-suit-over-her-defeat-in-arizona-governor-s-race_6009005_4.html)
@@ -209,3 +209,4 @@ The Belgian magistrate behind the arrest of six people in Brussels, including th
  - date published: 2022-12-24 01:40:08+00:00
 
 After a celebrity party near Hollywood in 2020, Mr. Lanez shot at her feet when she got out of a car they were both riding in.
+

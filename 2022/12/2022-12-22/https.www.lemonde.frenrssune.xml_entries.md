@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## US holiday travel upended as forecasters warn of 'bomb cyclone'
  - [https://www.lemonde.fr/en/environment/article/2022/12/23/us-holiday-travel-upended-as-forecasters-warn-of-bomb-cyclone_6008777_114.html](https://www.lemonde.fr/en/environment/article/2022/12/23/us-holiday-travel-upended-as-forecasters-warn-of-bomb-cyclone_6008777_114.html)
@@ -6,6 +6,13 @@
  - date published: 2022-12-22 23:33:24+00:00
 
 The frigid air was moving Thursday through the central United States to the east, with windchill advisories affecting about 135 million people over the coming days. Temperatures are plummeting 50 degrees Fahrenheit in some areas.
+
+## Peru's political crisis reveals ungovernable country
+ - [https://www.lemonde.fr/en/opinion/article/2022/12/23/peru-s-political-crisis-reveals-ungovernable-country_6008775_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/23/peru-s-political-crisis-reveals-ungovernable-country_6008775_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-22 23:13:16+00:00
+
+The impeached Peruvian president Pedro Castillo is in prison after an attempted coup. More broadly, the country's whole political system is seriously dysfunctional and has been for a long time.
 
 ## January 6 investigation's key witness recounts pressure from Trump allies
  - [https://www.lemonde.fr/en/international/article/2022/12/23/january-6-investigation-s-key-witness-recounts-pressure-from-trump-allies_6008772_4.html](https://www.lemonde.fr/en/international/article/2022/12/23/january-6-investigation-s-key-witness-recounts-pressure-from-trump-allies_6008772_4.html)
@@ -34,6 +41,13 @@ The meeting between the two governments was cancelled in October as they struggl
  - date published: 2022-12-22 19:55:54+00:00
 
 Parents are sometimes more attached to Christmas fairytales and the idea of Father Christmas than their children are. To keep the magic going for as long as possible, some are resorting to particularly elaborate scenarios.
+
+## Novelist Azar Nafisi: 'The Iranian people have broken the silence'
+ - [https://www.lemonde.fr/en/m-le-mag/article/2022/12/22/novelist-azar-nafisi-the-iranian-people-have-broken-the-silence_6008760_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/12/22/novelist-azar-nafisi-the-iranian-people-have-broken-the-silence_6008760_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-22 19:51:23+00:00
+
+Before going into exile in the United States in 1997, the author of 'Reading Lolita in Tehran' was a professor at the University of Tehran. She now devotes herself entirely to writing and has made numerous media appearances in support of her compatriots.
 
 ## Michel Houellebecq and the far-right radicalization of a best-selling author
  - [https://www.lemonde.fr/en/opinion/article/2022/12/22/michel-houellebecq-and-the-far-right-radicalization-of-a-best-selling-author_6008757_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/22/michel-houellebecq-and-the-far-right-radicalization-of-a-best-selling-author_6008757_23.html)
@@ -265,3 +279,4 @@ Bahamas' attorney general's office said that Sam Bankman-Fried would be leaving 
  - date published: 2022-12-22 00:01:12+00:00
 
 The Cincinnati Art Museum in Ohio has announced that using X-rays it has detected a man's face underneath 'Still Life with Bread and Eggs,' painted in 1865.
+

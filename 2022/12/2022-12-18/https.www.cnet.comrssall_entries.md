@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Elon Musk Conducts Poll on Whether He Should Step Down as Twitter's CEO     - CNET
  - [https://www.cnet.com/news/social-media/elon-musk-conducts-poll-on-whether-he-should-step-down-as-twitters-ceo/#ftag=CADf328eec](https://www.cnet.com/news/social-media/elon-musk-conducts-poll-on-whether-he-should-step-down-as-twitters-ceo/#ftag=CADf328eec)
@@ -405,3 +405,4 @@ Here's how the newer hardware and software affect real-world use.
  - date published: 2022-12-18 00:01:00+00:00
 
 All 45,000 Donald Trump Trading Card NFTs sold in 12 hours, and people have spent millions trading them on the secondary market.
+

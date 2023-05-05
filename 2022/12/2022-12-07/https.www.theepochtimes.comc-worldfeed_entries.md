@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Alberta’s Two Deputy Chief Medical Officers Resign From Their Positions: Minister
  - [https://www.theepochtimes.com/albertas-two-deputy-chief-medical-officers-resign-from-their-positions-minister_4910609.html](https://www.theepochtimes.com/albertas-two-deputy-chief-medical-officers-resign-from-their-positions-minister_4910609.html)
@@ -456,3 +456,4 @@ Minister for Climate Change and Energy Chris Bowen speaks to media during a pres
  - date published: 2022-12-07 02:05:47+00:00
 
 Brittany Higgins arrives to give evidence in front of an ACT Supreme Court jury in Canberra, Australia, on Oct. 6, 2022. (Martin Ollman/Getty Images)
+

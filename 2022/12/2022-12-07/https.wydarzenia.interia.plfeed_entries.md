@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## USA komentuje słowa Putina. "To absolutnie nieodpowiedzialne"
  - [https://wydarzenia.interia.pl/zagranica/news-usa-komentuje-slowa-putina-to-absolutnie-nieodpowiedzialne,nId,6458888](https://wydarzenia.interia.pl/zagranica/news-usa-komentuje-slowa-putina-to-absolutnie-nieodpowiedzialne,nId,6458888)
@@ -559,3 +559,4 @@
  - date published: 2022-12-07 04:40:26+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-287-dzien-inwazji-rosji,nzId,3489,akt,070629"><img align="left" alt="Wojna w Ukrainie. 287. dzień inwazji Rosji" src="https://i.iplsc.com/wojna-w-ukrainie-287-dzien-inwazji-rosji/000GGACPM8BUFIDC-C321.jpg" /></a>Najnowsze informacje z frontu.</p><br clear="all" />
+

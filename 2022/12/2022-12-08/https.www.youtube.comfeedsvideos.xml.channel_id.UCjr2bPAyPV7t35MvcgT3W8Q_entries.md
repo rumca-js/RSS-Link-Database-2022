@@ -1,10 +1,9 @@
-# Source The Hated One, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, Source language: en-US
+# Source:The Hated One, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, language:en-US
 
 ## How Kurzgesagt Cooks Propaganda For Billionaires
  - [https://www.youtube.com/watch?v=HjHMoNGqQTI](https://www.youtube.com/watch?v=HjHMoNGqQTI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
  - date published: 2022-12-08 13:14:27+00:00
- - tags: propaganda,bill gates,billionaires
 
 Kurzgesagt is not just a popular science outreach channel. It's a major tool for propaganda of their billionaire sponsors.
 Support independent research and analysis by joining my Patreon page: https://www.patreon.com/thehatedone 
@@ -63,3 +62,4 @@ https://twitter.com/The_HatedOne_
 https://www.reddit.com/r/thehatedone/
 
 The footage and images featured in the video were for critical analysis, commentary and parody, which are protected under the Fair Use laws of the United States Copyright act of 1976.
+

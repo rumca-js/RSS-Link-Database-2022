@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## PKO BP ma nowego wiceprezesa. Bartosz Drabikowski odwołany z zarządu
  - [https://www.money.pl/banki/pko-bp-ma-nowego-wiceprezesa-bartosz-drabikowski-odwolany-z-zarzadu-6844972633852544a.html](https://www.money.pl/banki/pko-bp-ma-nowego-wiceprezesa-bartosz-drabikowski-odwolany-z-zarzadu-6844972633852544a.html)
@@ -97,3 +97,4 @@
  - date published: 2022-12-15 06:05:22+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65" width="308" /> Kurs franka szwajcarskiego - 15.12.2022. W czwartek za jednego franka (CHF) trzeba zapłacić 4.7424 zł.
+

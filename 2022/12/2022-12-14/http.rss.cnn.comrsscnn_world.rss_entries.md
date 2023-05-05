@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## The Fed lifts rates by half a point, acknowledging that inflation is finally easing
  - [https://www.cnn.com/2022/12/14/economy/federal-reserve-december-meeting-final/index.html](https://www.cnn.com/2022/12/14/economy/federal-reserve-december-meeting-final/index.html)
@@ -69,3 +69,4 @@ Republicans are escalating their attacks on TikTok.
  - date published: 2022-12-14 01:13:41+00:00
 
 John J. Ray III, who made his name overseeing the liquidation of Enron in the early 2000s, is the man in charge of sifting through the rubble of FTX, the once-mighty cryptocurrency exchange — founded in 2019 and run into the ground by 2022 by Sam Bankman-Fried.
+

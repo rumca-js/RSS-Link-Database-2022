@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to nail the 'Do you have any questions for me?' part of the interview
  - [https://www.zdnet.com/education/professional-development/how-to-nail-the-do-you-have-any-questions-for-me-part-of-the-interview/#ftag=RSSbaffb68](https://www.zdnet.com/education/professional-development/how-to-nail-the-do-you-have-any-questions-for-me-part-of-the-interview/#ftag=RSSbaffb68)
@@ -209,3 +209,4 @@ Part of Best Buy's 'always-on' Samsung Wearables sale, these watches are perfect
  - date published: 2022-12-08 00:49:00+00:00
 
 Looking for some extra peace of mind at home but don't want to pay full price? With the holidays approaching, retailers are putting out some great security camera deals, so don't miss out.
+

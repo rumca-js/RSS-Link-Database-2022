@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Major Nuclear Fusion Energy Breakthrough to Be Announced by Scientists
  - [https://www.nytimes.com/2022/12/12/science/nuclear-fusion-energy-breakthrough.html](https://www.nytimes.com/2022/12/12/science/nuclear-fusion-energy-breakthrough.html)
@@ -20,3 +20,4 @@ Chinese officials at a desert rocket base described plans for their new space st
  - date published: 2022-12-12 18:19:13+00:00
 
 A project led by researchers from a Swiss university highlights China’s ambition to make the Tiangong outpost broadly available for science.
+

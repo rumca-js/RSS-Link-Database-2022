@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Israel's Benjamin Netanyahu Seals Key Coalition Deal With Ultranationalist Ally
  - [https://www.wsj.com/articles/israels-benjamin-netanyahu-seals-key-coalition-deal-with-ultranationalist-ally-11669919500](https://www.wsj.com/articles/israels-benjamin-netanyahu-seals-key-coalition-deal-with-ultranationalist-ally-11669919500)
@@ -76,3 +76,4 @@ The price cap is the West’s attempt to squeeze the Kremlin’s oil revenues wh
  - date published: 2022-12-01 10:30:00+00:00
 
 The vessels shipped thousands of tons of stolen Ukrainian grain to global buyers, using a sophisticated system of feeder vessels and floating cranes, according to an investigation by The Wall Street Journal.
+

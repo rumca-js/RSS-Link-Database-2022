@@ -1,4 +1,11 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## Cross sees off Williams at PDC World Darts as Clayton and Noppert progress
+ - [https://www.theguardian.com/sport/2022/dec/23/rob-cross-scott-williams-pdc-world-darts-championship-jonny-clayton-danny-noppert](https://www.theguardian.com/sport/2022/dec/23/rob-cross-scott-williams-pdc-world-darts-championship-jonny-clayton-danny-noppert)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-23 23:52:42+00:00
+
+<ul><li>Rob Cross, the 2018 champion, prevails 3-1 against debutant</li><li>Wales’ Jonny Clayton beats Dutchman Danny van Trijp 3-0</li></ul><p>Former PDC World Darts Championship champion <strong>Rob Cross</strong> is through to the third round after seeing off debutant <strong>Scott Williams</strong> at Alexandra Palace. A fine contest that went to a last-leg decider in each set saw Cross prevail 3-1 with an average of 99 and having recorded seven 180s.</p><p>The 32-year-old Englishman, <a href="https://www.theguardian.com/sport/2018/jan/01/rob-cross-pdc-darts-title-phil-taylor">winner in 2018</a> and a runner-up at last month’s Players Championship Finals, said in quotes on pdc.tv: “This place will always be special to me. This is the holy grail.</p> <a href="https://www.theguardian.com/sport/2022/dec/23/rob-cross-scott-williams-pdc-world-darts-championship-jonny-clayton-danny-noppert">Continue reading...</a>
 
 ## Elon Musk ‘orders Twitter to remove suicide prevention feature’
  - [https://www.theguardian.com/technology/2022/dec/23/elon-musk-orders-twitter-to-remove-suicide-prevention-feature](https://www.theguardian.com/technology/2022/dec/23/elon-musk-orders-twitter-to-remove-suicide-prevention-feature)
@@ -105,12 +112,26 @@
 
 <p>Since Ben Stokes took over as captain, the Test side have had all the answers, but there are difficult questions to come in 2023</p><p>I’ve just been to India with the cricketers from Harrow school, where I coach. There are some very strong players and a bit of depth in the first-team squad at the moment, which means I am lucky enough to be able to rotate players around.</p><p>I always encourage young players to be all-rounders – you want athletic cricketers who hopefully can contribute with the bat, the ball and in the field – and recently the talent and flexibility in the squad has given me the latitude I need to mix up the side and give more people opportunities. Of course it is one thing to do this with a school team and quite another to see it in a Test side, but England seem to be pushing this even further and really challenging traditional cricketstereotypes.</p> <a href="https://www.theguardian.com/sport/blog/2022/dec/23/freewheeling-england-are-leading-the-march-towards-total-cricket">Continue reading...</a>
 
+## Jacinda Ardern’s popularity plummeted this year. Things could get worse in 2023
+ - [https://www.theguardian.com/world/2022/dec/24/jacinda-arderns-popularity-plummeted-this-year-things-could-get-worse-in-2023](https://www.theguardian.com/world/2022/dec/24/jacinda-arderns-popularity-plummeted-this-year-things-could-get-worse-in-2023)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-23 18:00:10+00:00
+
+<p>The demise of ‘Jacindamania’ comes on the cusp of an election year, as New Zealand faces severe economic headwinds</p><p>“Bring it on,” Jacinda Ardern told a cheering crowd in early November, addressing party members at Labour’s last conference before the next election. It was a battle-cry for a party and leader who know there’s a tough fight ahead.</p><p>In the weeks that followed, political headwinds accelerated: projections of a recession, stubbornly high inflation, national fears over crime, grim polling and enduring pockets of anti-government conspiracists dominated the news cycle. The last year and a half have been brutal for the progressive leader, who has slipped from near-unprecedented levels of popularity to some of the lowest polling of her political career.</p> <a href="https://www.theguardian.com/world/2022/dec/24/jacinda-arderns-popularity-plummeted-this-year-things-could-get-worse-in-2023">Continue reading...</a>
+
 ## Title race, battle for top four and relegation scrap: the Premier League is back
  - [https://www.theguardian.com/football/2022/dec/23/title-race-battle-for-top-four-and-relegation-scrap-the-premier-league-is-back](https://www.theguardian.com/football/2022/dec/23/title-race-battle-for-top-four-and-relegation-scrap-the-premier-league-is-back)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-23 18:00:10+00:00
 
 <p>As the English top flight returns after the World Cup we look at how the teams shape up going into the season’s second half</p><p>When Premier League festivities resume on Boxing Day the smart money is on Arsenal and Manchester City slugging it out for the title until May in what could be a contest for the ages. Leading their sides in a classic master-apprentice matchup is City’s near-peerless manager, Pep Guardiola, and his former assistant and now Arsenal No 1, Mikel Arteta.</p> <a href="https://www.theguardian.com/football/2022/dec/23/title-race-battle-for-top-four-and-relegation-scrap-the-premier-league-is-back">Continue reading...</a>
+
+## What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis
+ - [https://www.theguardian.com/world/2022/dec/24/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis](https://www.theguardian.com/world/2022/dec/24/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-23 18:00:10+00:00
+
+<p>Zelenskiy addresses US Congress in person; a Russian soldier calls his mother; Ukrainians celebrate Christmas in Australia</p><ul><li><a href="https://www.theguardian.com/world/ukraine">See all our Ukraine war coverage</a></li></ul><p>Every week we wrap up the must-reads from our coverage of the <a href="https://www.theguardian.com/world/ukraine">Ukraine</a> war, from news and features to analysis and opinion.</p> <a href="https://www.theguardian.com/world/2022/dec/24/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis">Continue reading...</a>
 
 ## Army of stand-in workers quashes fears of Heathrow chaos
  - [https://www.theguardian.com/uk-news/2022/dec/23/heathrow-border-force-strike-travel-chaos-fears](https://www.theguardian.com/uk-news/2022/dec/23/heathrow-border-force-strike-travel-chaos-fears)
@@ -132,6 +153,13 @@
  - date published: 2022-12-23 17:30:47+00:00
 
 <p>Exclusive: Andriy Yermak, the Ukrainian president’s top adviser, describes the significance of this week’s White House visit</p><ul><li><a href="https://www.theguardian.com/world/live/2022/dec/23/russia-ukraine-war-live-north-korea-denies-supplying-russias-wagner-group-with-weapons-air-raid-sirens-sound-in-mykolaiv">Russia-Ukraine war – latest news updates</a></li></ul><p>Volodymyr Zelenskiy’s <a href="https://www.theguardian.com/world/2022/dec/21/volodymyr-zelenskiy-joe-biden-us-washington-visit">visit to the White House</a> confirmed that Ukraine and the US are “strategic partners” for the first time in history, the Ukrainian leader’s most senior adviser has said in an interview on his return home.</p><p>Andriy Yermak, the head of the Ukrainan president’s office, told the Guardian that the trip on Wednesday had cemented Zelenskiy’s bond with the US president, Joe Biden – and with senior US Republicans, despite “dirty” comments made by the Fox News host Tucker Carlson.</p> <a href="https://www.theguardian.com/world/2022/dec/23/andriy-yermak-ukrainian-president-top-adviser-zelenskiy-meeting-with-biden-cemented-their-bond-white-house-visit">Continue reading...</a>
+
+## Steak restaurant on paddle steamer in Essex starts sinking into lake
+ - [https://www.theguardian.com/uk-news/2022/dec/23/miller-carter-steakhouse-sinking-like-the-titanic-at-lakeside-shopping-centre](https://www.theguardian.com/uk-news/2022/dec/23/miller-carter-steakhouse-sinking-like-the-titanic-at-lakeside-shopping-centre)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-23 17:26:22+00:00
+
+<p>Shopping centre eatery said to have begun sinking before lunch service and observers describe it as ‘going down like the Titanic’</p><p>A restaurant on a converted paddle steamer has begun to sink into a lake in Essex.</p><p>Photographs of the Miller &amp; Carter Steakhouse at the Lakeside shopping centre showing it partially submerged emerged online on Friday. Some observers described the venue as “going down like the Titanic”, while one wrote online: “Looks like my family meal is cancelled!”</p> <a href="https://www.theguardian.com/uk-news/2022/dec/23/miller-carter-steakhouse-sinking-like-the-titanic-at-lakeside-shopping-centre">Continue reading...</a>
 
 ## Media mogul Michael Bloomberg looks to buy Dow Jones or Washington Post
  - [https://www.theguardian.com/media/2022/dec/23/media-mogul-michael-bloomberg-looks-to-buy-dow-jones-or-washington-post](https://www.theguardian.com/media/2022/dec/23/media-mogul-michael-bloomberg-looks-to-buy-dow-jones-or-washington-post)
@@ -909,3 +937,4 @@
  - date published: 2022-12-23 00:52:04+00:00
 
 <p>Nida Mohammad Nadeem says ban was necessary to prevent mixing of genders as rare protests break out</p><p>The minister of higher education in Afghanistan’s Taliban government has defended his decision to ban women from universities – a decree that <a href="https://www.theguardian.com/world/2022/dec/22/first-edition-afghanistan-women-university-ban">triggered a global backlash</a> and protests inside the country. </p><p>Afghanistan’s Taliban-run administration announced earlier this week it had <a href="https://www.theguardian.com/world/2022/dec/20/taliban-ban-afghan-women-university-education">closed universities to women</a> partly due to female students not adhering to its interpretation of the Islamic dress code and interaction between students of different genders.</p> <a href="https://www.theguardian.com/world/2022/dec/23/taliban-minister-defends-closing-universities-to-women-as-global-backlash-grows">Continue reading...</a>
+

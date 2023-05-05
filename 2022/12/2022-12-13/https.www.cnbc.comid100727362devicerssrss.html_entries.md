@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Musk's Twitter reportedly hasn't paid rent on its office spaces for weeks
  - [https://www.cnbc.com/2022/12/13/twitter-reportedly-hasnt-paid-rent-on-its-office-spaces-for-weeks.html](https://www.cnbc.com/2022/12/13/twitter-reportedly-hasnt-paid-rent-on-its-office-spaces-for-weeks.html)
@@ -223,3 +223,4 @@ The Biden administration's China chip curbs are prompting chipmakers to relocate
  - date published: 2022-12-13 00:32:04+00:00
 
 Sam Bankman-Fried's arrest is the first concrete move by regulators to hold individuals accountable for the multi-billion dollar implosion of FTX last month.
+

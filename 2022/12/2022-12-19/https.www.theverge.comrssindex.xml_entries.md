@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## T-Mobile’s latest stunt aims to capitalize on your hatred of Comcast
  - [https://www.theverge.com/2022/12/19/23517524/t-mobile-5g-home-internet-fixed-wireless-broadband-comcast-xfinity-stunt](https://www.theverge.com/2022/12/19/23517524/t-mobile-5g-home-internet-fixed-wireless-broadband-comcast-xfinity-stunt)
@@ -497,3 +497,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/18/23515764/elon-musk-head-twit-poll-tesla-doxxing-moderation">Continue reading&hellip;</a>
   </p>
+

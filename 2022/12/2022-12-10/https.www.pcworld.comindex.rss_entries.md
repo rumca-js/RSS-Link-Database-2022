@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## This kid-friendly 3D printer was featured on Shark Tank, and it’s just $300 today only
  - [https://www.pcworld.com/article/1428714/this-kid-friendly-3d-printer-was-featured-on-shark-tank-and-its-just-300-today-only.html](https://www.pcworld.com/article/1428714/this-kid-friendly-3d-printer-was-featured-on-shark-tank-and-its-just-300-today-only.html)
@@ -44,3 +44,4 @@
 <p><em>Prices subject to change.</em></p>
 
 3D Printers</div>
+

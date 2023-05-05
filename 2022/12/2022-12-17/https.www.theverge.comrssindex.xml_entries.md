@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Ford’s electric F-150 Lightning is getting more expensive, again
  - [https://www.theverge.com/2022/12/17/23514435/ford-electric-f-150-lightning-price-increase](https://www.theverge.com/2022/12/17/23514435/ford-electric-f-150-lightning-price-increase)
@@ -123,7 +123,6 @@
  - [https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto](https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-17 00:53:06+00:00
- - tags: meta,john carmack
 
 <figure>
       <img alt="A photo of John Carmack onstage." src="https://cdn.vox-cdn.com/thumbor/ecL1W9JLuWV4J0k1tKJjhHAgUF4=/0x0:3500x2333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71760537/515877292.0.jpg" />
@@ -136,3 +135,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Australia. Zabójstwo w domu opieki. Nastolatek miał udusić 70-latkę
  - [https://www.polsatnews.pl/wiadomosc/2022-12-24/australia-zabojstwo-w-domu-opieki-nastolatek-mial-udusic-70-latke/](https://www.polsatnews.pl/wiadomosc/2022-12-24/australia-zabojstwo-w-domu-opieki-nastolatek-mial-udusic-70-latke/)
@@ -104,3 +104,4 @@ Funkcjonariusze hiszpańskiej policji (Policia Nacional) zatrzymali jednego z dz
  - date published: 2022-12-24 05:15:00+00:00
 
 Sprawca piątkowego ataku w centrum Paryża, w którym zginęły trzy osoby, był znany policji - przekazały media. Na tym etapie śledztwa służby ustaliły, że ma on co najmniej dwie sprawy karne, w tym atak na obóz dla migrantów. Na miejscu strzelaniny doszło do starć protestujących z policją.
+

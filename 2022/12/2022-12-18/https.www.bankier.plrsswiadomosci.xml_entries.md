@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Kissinger chce negocjacji w sprawie pokoju na Ukrainie, Kijów odrzuca jego propozycję
  - [https://www.bankier.pl/wiadomosc/Kissinger-chce-negocjacji-w-sprawie-pokoju-na-Ukrainie-Kijow-odrzuca-jego-propozycje-8458910.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kissinger-chce-negocjacji-w-sprawie-pokoju-na-Ukrainie-Kijow-odrzuca-jego-propozycje-8458910.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -194,3 +194,4 @@ Możdżanowska (PiS).</p>
  - date published: 2022-12-18 03:20:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/f/ed9f2bb9c1f5fd-948-568-0-116-1732-1039.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Unia Europejskiej osiągnęła w niedzielę porozumienie w sprawie unijnego rynku uprawnień do emisji dwutlenku węgla, głównego narzędzia unijnej polityki do walki z globalnym ociepleniem, poinformowała czeska prezydencja UE.</p>
+

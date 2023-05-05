@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## MZ chce zachęcić Polaków do szczepień przeciwko grypie. E-skierowanie dla wszystkich
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29223763,mz-chce-zachecic-polakow-do-szczepien-przeciwko-grypie-e-skierowanie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29223763,mz-chce-zachecic-polakow-do-szczepien-przeciwko-grypie-e-skierowanie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -104,3 +104,4 @@
  - date published: 2022-12-05 06:30:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/94/ba/19/z26977172M,Zbrodnia-Polaniecka--Na-miejscu-zbrodni--w-czasie-.jpg" vspace="2" />Jedną z najgłośniejszych zbrodni w czasach Polskiej Rzeczpospolitej Ludowej jest tzw. sprawa połaniecka. W wigilijny wieczór brutalnie zamordowano trzy osoby - kobietę w ciąży, jej męża i 12-letniego brata. Świadkami było 30 osób, jednak przyrzekały milczenie na różaniec, krucyfiks i święty obraz. Dopiero na skutek zeznań 14-letniego chłopca i mężczyzny, który zmarł w tajemniczych okolicznościach, służby ustaliły sprawców.
+

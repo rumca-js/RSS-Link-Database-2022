@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## China Says It Has Taken U.S. Semiconductor Rules to WTO
  - [https://www.wsj.com/articles/china-says-it-has-taken-u-s-semiconductor-controls-to-wto-11670885619?mod=rss_Technology](https://www.wsj.com/articles/china-says-it-has-taken-u-s-semiconductor-controls-to-wto-11670885619?mod=rss_Technology)
@@ -76,3 +76,4 @@ Sam Bankman-Fried’s parents, both professors at Stanford Law, were there for F
  - date published: 2022-12-12 08:30:00+00:00
 
 The electric-vehicle maker said it wants to focus on its existing commercial-van business, as well as retail sales of trucks and SUVs.
+

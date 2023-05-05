@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Bethesda QA workers are forming a union of their own
  - [https://www.pcgamer.com/bethesda-qa-workers-are-forming-a-union-of-their-own](https://www.pcgamer.com/bethesda-qa-workers-are-forming-a-union-of-their-own)
@@ -223,3 +223,4 @@ Tom French had worked on the Halo series for over 11 years.
  - date published: 2022-12-05 00:04:20+00:00
 
 The Eagles have had a great season, and the team's players love GTA Online.
+

@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Fans euphoric as Argentina heads to World Cup final
  - [https://www.nbcnews.com/video/fans-euphoric-as-argentina-heads-to-world-cup-final-157491269636](https://www.nbcnews.com/video/fans-euphoric-as-argentina-heads-to-world-cup-final-157491269636)
@@ -181,3 +181,4 @@ The Golden Globes are back after controversy shrouded last year’s award ceremo
  - date published: 2022-12-13 00:08:20+00:00
 
 After 34 years, the former Libyan intelligence officer accused or making the bomb that blew up Pan Am 103 made his first appearance in court on U.S. soil. NBC News’ Andrea Mitchell has more details on the case.
+

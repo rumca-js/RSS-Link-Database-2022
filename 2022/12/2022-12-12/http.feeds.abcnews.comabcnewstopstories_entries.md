@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## COVID hospitalizations at least 3 times higher among seniors than other age groups
  - [https://abcnews.go.com/Health/covid-hospitalizations-3-times-higher-seniors-age-groups/story?id=95066360](https://abcnews.go.com/Health/covid-hospitalizations-3-times-higher-seniors-age-groups/story?id=95066360)
@@ -223,3 +223,4 @@ A hearing begins Monday in a case that will decide if the conviction should be o
  - date published: 2022-12-12 04:55:27+00:00
 
 Iran says it executed its second prisoner detained amid the nationwide protests now challenging the country&rsquo;s theocracy
+

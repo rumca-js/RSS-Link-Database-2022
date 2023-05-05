@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Google is now supporting my awful browser habits, and I love it
  - [https://www.digitaltrends.com/computing/google-chrome-update-adds-tab-history-bookmark-search/](https://www.digitaltrends.com/computing/google-chrome-update-adds-tab-history-bookmark-search/)
@@ -6,3 +6,4 @@
  - date published: 2022-12-07 17:47:34.292073+00:00
 
 Instead of encouraging me to stop, Google now supports my horrible browser tab habit. Thank you, Google.
+

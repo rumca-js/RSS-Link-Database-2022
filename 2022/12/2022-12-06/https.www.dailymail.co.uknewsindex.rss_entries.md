@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Melbourne worker plunges from crane cabin and gets stuck
  - [https://www.dailymail.co.uk/news/article-11509935/Melbourne-worker-plunges-crane-cabin-gets-stuck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11509935/Melbourne-worker-plunges-crane-cabin-gets-stuck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1952,3 +1952,4 @@ EDEN CONFIDENTIAL: I can reveal that Catherine wore a pair of earrings during he
  - date published: 2022-12-06 00:00:42+00:00
 
 Two hammerhead sharks were spotted swimming just off the coast of one of Australia's most popular beaches, inside the nets that are supposed to keep them out.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Europe finally agrees to cap gas prices
  - [https://www.cnn.com/2022/12/19/energy/eu-gas-price-cap/index.html](https://www.cnn.com/2022/12/19/energy/eu-gas-price-cap/index.html)
@@ -20,3 +20,4 @@ European Union governments have reached a deal on the world's first major carbon
  - date published: 2022-12-19 09:09:55+00:00
 
 Beijing has vowed to go all out next year to save its Covid-hit economy by boosting consumption and loosening control over private industry, including the struggling tech and property sectors. The new pledge marks a big shift from leader Xi Jinping's years-long effort to rein in private businesses, which were perceived as too powerful and "disorderly."
+

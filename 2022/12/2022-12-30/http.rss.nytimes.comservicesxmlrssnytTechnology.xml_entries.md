@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Google Changes Appeals Process for Suspected Child Abuse Images
  - [https://www.nytimes.com/2022/12/30/technology/google-appeals-change.html](https://www.nytimes.com/2022/12/30/technology/google-appeals-change.html)
@@ -34,3 +34,4 @@ Jon Bois and his collaborators specialize in documentaries about seemingly unrem
  - date published: 2022-12-30 10:00:15+00:00
 
 Tim Wu has been a leading proponent of a more aggressive approach to reining in the power of big business.
+

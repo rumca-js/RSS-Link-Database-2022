@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Netflix: The 52 Absolute Best TV Shows to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-watch-this-evening/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-watch-this-evening/#ftag=CADf328eec)
@@ -102,7 +102,6 @@ Check out the picture that won the 2022 Comedy Wildlife Photography Awards.
  - [https://www.cnet.com/tech/services-and-software/blur-your-home-on-google-maps-right-now-to-protect-your-privacy/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/blur-your-home-on-google-maps-right-now-to-protect-your-privacy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-11 21:15:02+00:00
- - tags: privacy,google
 
 Don't let online strangers get an easy look at where you live.
 
@@ -420,3 +419,4 @@ Are you a gamer on the hunt for a new headset for your PlayStation 5? These are 
  - date published: 2022-12-11 01:50:18+00:00
 
 The social network says subscribers will get a blue check mark once their account "has been reviewed," but it doesn't give details.
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## After 3 years of work, modders have remastered the first Star Wars FPS
  - [https://www.pcgamer.com/after-3-years-of-work-modders-have-remastered-the-first-star-wars-fps](https://www.pcgamer.com/after-3-years-of-work-modders-have-remastered-the-first-star-wars-fps)
@@ -139,3 +139,4 @@ Who wants some? Well, us.
  - date published: 2022-12-19 00:54:53+00:00
 
 Sorting through every new game on Steam so you don't have to.
+

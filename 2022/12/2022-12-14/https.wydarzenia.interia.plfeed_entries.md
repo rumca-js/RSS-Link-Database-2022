@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Gotowość operacyjna Bundeswehry. Raport nie pozostawia złudzeń
  - [https://wydarzenia.interia.pl/zagranica/news-gotowosc-operacyjna-bundeswehry-raport-nie-pozostawia-zludze,nId,6473090](https://wydarzenia.interia.pl/zagranica/news-gotowosc-operacyjna-bundeswehry-raport-nie-pozostawia-zludze,nId,6473090)
@@ -529,3 +529,4 @@
  - date published: 2022-12-14 04:31:34+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-294-dzien-inwazji-rosji-relacja-na-zywo,nzId,3512,akt,140820"><img align="left" alt="Wojna w Ukrainie. 294. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-294-dzien-inwazji-rosji-relacja-na-zywo/000GHHJRNM9FBBM8-C321.jpg" /></a>Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

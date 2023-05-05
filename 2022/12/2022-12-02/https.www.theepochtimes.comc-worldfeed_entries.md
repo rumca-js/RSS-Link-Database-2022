@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## PREMIERING NOW: Iranian Protestors Want ‘Revolution,’ Not ‘Reform’: Mary Mohammadi
  - [https://www.theepochtimes.com/iranian-protestors-want-revolution-not-reform-mary-mohammadi_4900918.html](https://www.theepochtimes.com/iranian-protestors-want-revolution-not-reform-mary-mohammadi_4900918.html)
@@ -391,3 +391,4 @@ Chinese aircraft carrier Liaoning (C) is participating in a military drills in t
  - date published: 2022-12-02 00:09:18+00:00
 
 A view down Anzac Parade towards Parliament House in Canberra, in the Australian Capital Territory, Australia. (Patty Jansen/pixabay)
+

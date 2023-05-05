@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## Ransomware zaatakował Urząd Marszałkowski Województwa Mazowieckiego: zaszyfrowane dane systemu Elektronicznego Zarządzania Dokumentami (EZD) oraz innych systemów.
  - [https://sekurak.pl/ransomware-zaatakowal-urzad-marszalkowski-wojewodztwa-mazowieckiego-zaszyfrowane-dane-systemu-elektronicznego-zarzadzania-dokumentami-ezd-oraz-innych-systemow/](https://sekurak.pl/ransomware-zaatakowal-urzad-marszalkowski-wojewodztwa-mazowieckiego-zaszyfrowane-dane-systemu-elektronicznego-zarzadzania-dokumentami-ezd-oraz-innych-systemow/)
@@ -15,3 +15,4 @@
 
 <p>O temacie donosi Kasperski [https://securelist[.]ru/novyj-troyanec-crywiper/106114/]. CryWiper, poza trwałym instalowaniem się w systemie (widoczny jest np. plik browserupdate.exe): &#8230; niszczy również pliki zapisując je losowymi danymi. Całość posiada również swój C&#38;C &#8211; który może wydać polecenie do startu szyfrowania&#8230;pardon &#8211; niszczenia danych. Kasperski wykrył malware w pewnej rosyjskiej organizacji, a media...</p>
 <p>Artykuł <a href="https://sekurak.pl/crywiper-udaje-ransomware-ale-jest-malwarem-niszczacym-dane-kierowanym-na-rosyjskie-agencje-rzadowe/" rel="nofollow">CryWiper &#8211; udaje ransomware, ale jest malwarem niszczącym dane. Kierowanym na rosyjskie agencje rządowe.</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

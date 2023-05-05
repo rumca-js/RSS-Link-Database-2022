@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. Eksplozje w Kadijiwce. "Coś huknęło w siedzibę wagnerowców"
  - [https://www.polsatnews.pl/wiadomosc/2022-12-11/wojna-w-ukrainie-eksplozje-w-kadijiwce-cos-huknelo-w-siedzibe-wagnerowcow/](https://www.polsatnews.pl/wiadomosc/2022-12-11/wojna-w-ukrainie-eksplozje-w-kadijiwce-cos-huknelo-w-siedzibe-wagnerowcow/)
@@ -97,3 +97,4 @@ W Paryżu po sobotnich meczach ćwierćfinałowych między Francją a Anglią or
  - date published: 2022-12-11 05:40:00+00:00
 
 Jak poinformował prezydent Ukrainy, po atakach dronów na infrastrukturę energetyczną obwodu odeskiego, 1,5 miliona mieszkańców regionu zostało bez prądu. Ponadto w sobotę pojawił się komunikat sugerujący ewakuację z tej części Ukrainy. Władze obwodowe zaprzeczają i wskazują na operację rosyjskich służb.
+

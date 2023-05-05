@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Spirala płacowo-cenowa… nie istnieje
  - [https://forsal.pl/praca/wynagrodzenia/artykuly/8601471,spirala-placowo-cenowa.html](https://forsal.pl/praca/wynagrodzenia/artykuly/8601471,spirala-placowo-cenowa.html)
@@ -517,3 +517,4 @@
  - date published: 2022-12-02 04:50:38+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/x08ktkuTURBXy9jN2Q4ZDJkMC02NDRlLTQxZDQtOWQ0NC1jMGVkYjJjOGVjMTcuanBlZ5GTBc0BHcyg" />Indyjska gospodarka może do 2030 roku stać się trzecią największą na świecie, wyprzedzając japońską i niemiecką – pisze CNBC.
+

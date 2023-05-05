@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Indian and Chinese Forces Clash on Border, India Says
  - [https://www.wsj.com/articles/indian-and-chinese-forces-clash-on-border-indian-army-says-11670869074](https://www.wsj.com/articles/indian-and-chinese-forces-clash-on-border-indian-army-says-11670869074)
@@ -62,3 +62,4 @@ Negotiations to renew agreements with three Pacific island allies face resistanc
  - date published: 2022-12-12 11:35:00+00:00
 
 A magnet for asylum seekers, Germany isn’t attracting enough qualified newcomers and is struggling to train the new arrivals.
+

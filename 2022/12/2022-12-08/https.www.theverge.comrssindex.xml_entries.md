@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Epic Games CEO Tim Sweeney thinks ‘every politician should fear’ Apple’s power
  - [https://www.theverge.com/2022/12/8/23500363/tim-sweeney-epic-games-ceo-interview-apple-app-store-google-legislaton](https://www.theverge.com/2022/12/8/23500363/tim-sweeney-epic-games-ceo-interview-apple-app-store-google-legislaton)
@@ -523,3 +523,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission">Continue reading&hellip;</a>
   </p>
+

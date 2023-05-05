@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## December 2024 set as date for universal phone charger in EU
  - [https://www.bbc.co.uk/news/technology-63907702?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63907702?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ New portable electronic devices sold in the EU will have to use a USB Type-C cha
  - date published: 2022-12-12 07:47:34+00:00
 
 Mr Kwon was charged with fraud and breaches of capital markets law after the implosion of the token.
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Raspberry Robin Worm Strikes Again, Targeting Telecom and Government Systems
  - [https://thehackernews.com/2022/12/raspberry-robin-worm-strikes-again.html](https://thehackernews.com/2022/12/raspberry-robin-worm-strikes-again.html)
@@ -39,3 +39,4 @@ Threat actors affiliated with a ransomware strain known as Play are leveraging a
 
 The Computer Emergency Response Team of Ukraine (CERT-UA) this week disclosed that users of the Delta situational awareness program received phishing emails from a compromised email account belonging to the Ministry of Defense.
 The attacks, which have been attributed to a threat cluster dubbed UAC-0142, aimed to infect systems with two pieces of data-stealing malware referred to as FateGrab and
+

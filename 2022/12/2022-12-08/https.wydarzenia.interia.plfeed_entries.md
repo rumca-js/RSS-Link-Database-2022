@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Rzecznik MSZ: Wymiana więźniów nie oznacza przełomu w relacjach USA i Rosji
  - [https://wydarzenia.interia.pl/kraj/news-rzecznik-msz-wymiana-wiezniow-nie-oznacza-przelomu-w-relacja,nId,6461118](https://wydarzenia.interia.pl/kraj/news-rzecznik-msz-wymiana-wiezniow-nie-oznacza-przelomu-w-relacja,nId,6461118)
@@ -458,3 +458,4 @@
  - date published: 2022-12-08 05:04:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-inflacja-pogrzebie-grosze-ekonomista-ostrzega-przed-efektem-,nId,6454414"><img align="left" alt="Inflacja pogrzebie grosze? Ekonomista ostrzega przed &quot;efektem cappuccino&quot;" src="https://i.iplsc.com/inflacja-pogrzebie-grosze-ekonomista-ostrzega-przed-efektem/000GG1NICRSQDKTE-C321.jpg" /></a>O istnieniu jedno-, dwu- i pięciogroszówek dało się zapomnieć nawet przed inflacją bijącą rekordy. Teraz najdrobniejszy bilon wart jest jeszcze mniej, więc gdzie tkwi sens w jego dalszej produkcji i używaniu? - Narodowy Bank Polski dokłada do jego emisji. Nadal niektórzy uznają jednak, że posługiwanie się nim jest wygodne - komentuje dr hab. Paweł Marszałek z poznańskiego Uniwersytetu Ekonomicznego. Jak ponadto zauważają eksperci, pozbycie się &quot;miedziaków&quot; może wywołać jeszcze większy wzrost cen za sprawą &quot;efektu cappuccino&quot;.</p><br clear="all" />
+

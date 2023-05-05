@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Company of Heroes 3. Znamy wymagania sprzętowe. Gra ma otrzymać pierwsze modyfikacje w dniu premiery
  - [https://ithardware.pl/aktualnosci/company_of_heroes_3_znamy_wymagania_sprzetowe_gra_ma_otrzymac_pierwsze_modyfikacje_w_dniu_premiery-24670.html](https://ithardware.pl/aktualnosci/company_of_heroes_3_znamy_wymagania_sprzetowe_gra_ma_otrzymac_pierwsze_modyfikacje_w_dniu_premiery-24670.html)
@@ -97,3 +97,4 @@ Jak wynika z ankiety Steam w listopadzie...
 
 <img src="https://ithardware.pl/artykuly/min/24611_1.jpg" />            Trzeci już dzień naszego corocznego Konkursu Adwentowego, w kt&oacute;rym codziennie do wygrania jest nowa nagroda! Co przyjdzie Ci zdobyć tym razem? Do zgarnięcia słuchawki bezprzewodowe Audictus Champion Pro o wartości 129...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_3-24611.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_3-24611.html</a></p>
+

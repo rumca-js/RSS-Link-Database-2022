@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Reanimate: Build declarative animations with SVG and Haskell
  - [https://reanimate.github.io/](https://reanimate.github.io/)
@@ -9,6 +9,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34074380">https://news.ycombinator.com/item?id=34074380</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
+
+## Cormac McCarthy loves a good diner
+ - [https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html](https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-20 23:01:44+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html">https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34074069">https://news.ycombinator.com/item?id=34074069</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
 ## Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services
  - [https://www.jetpack.io/blog/devbox-0-2-0/](https://www.jetpack.io/blog/devbox-0-2-0/)
@@ -789,3 +799,4 @@ Please let me know what you think and feel free to ask any questions.</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34059744">https://news.ycombinator.com/item?id=34059744</a></p>
 <p>Points: 11</p>
 <p># Comments: 1</p>
+

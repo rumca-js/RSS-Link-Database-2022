@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Musk vs. Musk: the billionaire's obsession with Twitter is undermining his accomplishments
  - [https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html](https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-17 23:51:18+00:00
- - tags: censorship,twitter,moderation,free speech,musk
 
 Tesla's image has suffered from multiple controversies triggered by Elon Musk after he purchased the social network. Its stock has lost 60% since the beginning of the year, and investors are calling for a refocus on the car manufacturer.
 
@@ -231,3 +230,4 @@ Besides insurrection, the panel is also considering recommending prosecutors pur
  - date published: 2022-12-17 00:08:43+00:00
 
 Former Israeli investigative journalist Moshe Zonder has co-created 'Tehran,' a suspense series that dives into contemporary Iran. Unable to film there, he tapped multiple sources to draw as faithful a portrait as possible of the reality of the country.
+

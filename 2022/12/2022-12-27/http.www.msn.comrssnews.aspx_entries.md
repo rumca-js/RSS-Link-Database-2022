@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Supreme Court keeps in place Trump-era immigration policy allowing asylum-seekers to be quickly turned away
  - [http://www.msn.com/en-us/news/politics/supreme-court-keeps-in-place-trump-era-immigration-policy-allowing-asylum-seekers-to-be-quickly-turned-away/ar-AA15IBCD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/supreme-court-keeps-in-place-trump-era-immigration-policy-allowing-asylum-seekers-to-be-quickly-turned-away/ar-AA15IBCD?li=BBnbcA1&srcref=rss)
@@ -1404,5 +1404,6 @@
  - [http://www.msn.com/en-us/news/world/seven-die-in-coach-plunge-horror-in-spain/ar-AA15GMT6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/seven-die-in-coach-plunge-horror-in-spain/ar-AA15GMT6?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-27 00:00:33.455311+00:00
+
 
 

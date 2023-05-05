@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Twitter Plans to Remove Tweets Promoting Rival Social Media Platforms
  - [https://www.wsj.com/articles/twitter-plans-to-remove-tweets-promoting-rival-social-media-platforms-11671396671?mod=rss_Technology](https://www.wsj.com/articles/twitter-plans-to-remove-tweets-promoting-rival-social-media-platforms-11671396671?mod=rss_Technology)
@@ -34,3 +34,4 @@ If strange activity suggests intruders are gaining access with your Netflix, Spo
  - date published: 2022-12-18 10:30:00+00:00
 
 The new function, which mimics AIM’s away messages, highlighted a generational divide among Instagram users.
+

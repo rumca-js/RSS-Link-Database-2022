@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Energy & Environment — Gas prices down year-over-year
  - [http://www.msn.com/en-us/news/politics/energy-environment-gas-prices-down-year-over-year/ar-AA153SIL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/energy-environment-gas-prices-down-year-over-year/ar-AA153SIL?li=BBnbcA1&srcref=rss)
@@ -760,7 +760,6 @@
  - [http://www.msn.com/en-us/health/health-news/who-covid-disruption-resulted-in-63-000-more-malaria-deaths/ar-AA1530sq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/health/health-news/who-covid-disruption-resulted-in-63-000-more-malaria-deaths/ar-AA1530sq?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-08 11:19:40.872309+00:00
- - tags: covid
 
 
 
@@ -1258,5 +1257,6 @@
  - [http://www.msn.com/en-us/news/world/peru-swore-in-the-country-s-first-female-leader-after-the-now-ousted-president-s-attempted-coup/ar-AA151LR5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/peru-swore-in-the-country-s-first-female-leader-after-the-now-ousted-president-s-attempted-coup/ar-AA151LR5?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-08 00:48:22.699534+00:00
+
 
 

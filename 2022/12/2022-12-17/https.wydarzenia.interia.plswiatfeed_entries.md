@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Ukraina: Ogłoszono alarm lotniczy. Z białoruskiego lotniska wyleciały myśliwce
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-ogloszono-alarm-lotniczy-z-bialoruskiego-lotniska-wy,nId,6479049](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-ogloszono-alarm-lotniczy-z-bialoruskiego-lotniska-wy,nId,6479049)
@@ -76,3 +76,4 @@
  - date published: 2022-12-17 04:57:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-297-dzien-inwazji-rosji-relacja-na-zywo,nzId,3520,akt,171343"><img align="left" alt="Wojna w Ukrainie. 297. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-297-dzien-inwazji-rosji-relacja-na-zywo/000GI21PJ52XHOXN-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

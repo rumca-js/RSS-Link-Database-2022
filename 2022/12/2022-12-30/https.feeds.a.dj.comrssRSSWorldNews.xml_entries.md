@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Venezuela's U.S.-Backed Opposition Removes Juan Guaidó as Leader
  - [https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-removes-juan-guaido-as-its-leader-11672441327](https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-removes-juan-guaido-as-its-leader-11672441327)
@@ -55,3 +55,4 @@ The fire, which burned for 17 hours before it was extinguished, may have been ca
  - date published: 2022-12-30 03:20:00+00:00
 
 The U.S. military said a Chinese jet fighter conducted an unsafe maneuver in international airspace over the South China Sea last week.
+

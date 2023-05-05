@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Trials Of Osiris Rewards This Week In Destiny 2 (December 30-January 3)
  - [https://www.gamespot.com/articles/trials-of-osiris-rewards-this-week-in-destiny-2-december-30-january-3/1100-6510232/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/trials-of-osiris-rewards-this-week-in-destiny-2-december-30-january-3/1100-6510232/?ftag=CAD-01-10abi2f)
@@ -41,3 +41,4 @@
  - date published: 2022-12-30 14:00:00+00:00
 
 <p><a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft's</a> Wrath of the Lich King expansion is often regarded as the high point in the history of Blizzard's long-running MMORPG, and all the changes, both big and small, Blizzard made to the expansion for its 2022 re-release make the beloved expansion even better.</p><p dir="ltr">The 2008 release of Wrath of the Lich King is viewed as peak WoW for good reason. It introduced the game's first new class, the iconic Death Knight, and starred the franchise's most well-known villain, Arthas. 2010, at the height of the expansion, is also when the game's subscription numbers peaked at over 12 million active players. For many fans, when they think of WoW, they think of Wrath of the Lich King.</p><p dir="ltr">Blizzard had two options for this year's re-release of the expansion, Wrath of the Lich King Classic: Keep Wrath of the Lich King largely as it was, or introduce changes. Nostalgia is a powerful tool, and too many changes could ruin what players remembered about playing the original. It was a mostly no-changes approach that the WoW Classic team used when it re-released the original, vanilla version of the MMO in 2019, which by all accounts seems to have been a much bigger success than even Blizzard predicted.</p><a href="https://www.gamespot.com/articles/wrath-of-the-lich-king-classics-changes-make-world-of-warcrafts-best-expansion-even-better/1100-6509954/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to password protect a PDF document
  - [https://www.androidauthority.com/how-to-password-protect-pdf-3258202/](https://www.androidauthority.com/how-to-password-protect-pdf-3258202/)
@@ -13,6 +13,13 @@ A quick drag-and-drop is all it takes to password-protect your PDFs.
  - date published: 2022-12-20 18:00:28+00:00
 
 It was a good year for smartwatches, but there are plenty of decisions worth revisiting.
+
+## 6 best dialer apps and contacts apps for Android
+ - [https://www.androidauthority.com/best-dialer-apps-contacts-apps-android-815908/](https://www.androidauthority.com/best-dialer-apps-contacts-apps-android-815908/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-12-20 17:04:08+00:00
+
+You don't have to use the stock dialer or contacts app. Here are the best dialer apps and contacts apps for Android!
 
 ## Irrational or not, I still long for a screenless Fitbit
  - [https://www.androidauthority.com/screenless-fitbit-flex-3-3248911/](https://www.androidauthority.com/screenless-fitbit-flex-3-3248911/)
@@ -55,3 +62,4 @@ It sounds like the Pixel 8 series could gain staggered HDR tech, which requires 
  - date published: 2022-12-20 06:13:23+00:00
 
 Is this the fully-equipped Pixel Tablet we haven't seen yet?
+

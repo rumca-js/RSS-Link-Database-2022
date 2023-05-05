@@ -1,4 +1,22 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Tesla’s Full Self-Driving is blamed for eight-car pileup in California
+ - [https://www.theverge.com/2022/12/22/23523201/tesla-fsd-braking-crash-bay-bridge-california-chp](https://www.theverge.com/2022/12/22/23523201/tesla-fsd-braking-crash-bay-bridge-california-chp)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-22 23:25:58+00:00
+
+<figure>
+      <img alt="Illustration depicting multiple red Tesla sedans on a black background." src="https://cdn.vox-cdn.com/thumbor/8X1lDjDenSb3M_Tro6k9loB7wVw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71784972/acastro_180724_1777_tesla_0002.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="MlrbIO">A Tesla driver is blaming Full Self-Driving software for having caused an eight-car pileup in the Yerba Buena Tunnel in California last month, according to a police report obtained by CNN Business.</p>
+<p id="BgsiB3">According to <a href="https://www.cnn.com/2022/12/21/business/tesla-fsd-8-car-crash/index.html">the December 7th report obtained by <em>CNN Business</em></a>, California Highway Patrol (CHP) reviewed tunnel footage and found that a Tesla made an unsafe lane change before abruptly slowing down from 55 mph to 20 mph — causing vehicles behind it to crash into one another.</p>
+<p id="c666OG">In the report, the driver of the Tesla blamed the automaker’s Full Self-Driving software that allegedly malfunctioned and caused a sudden slowdown. The Thanksgiving incident left nine people with minor injuries, including one child that was hospitalized.</p>
+<blockquote><p id="hFcHJI">California Highway...</p></blockquote>
+  <p>
+    <a href="https://www.theverge.com/2022/12/22/23523201/tesla-fsd-braking-crash-bay-bridge-california-chp">Continue reading&hellip;</a>
+  </p>
 
 ## How to take control of macOS notifications
  - [https://www.theverge.com/23490386/macos-notifications-banners-alerts-center-how-to](https://www.theverge.com/23490386/macos-notifications-banners-alerts-center-how-to)
@@ -429,3 +447,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/21/23521967/sam-bankman-fried-ftx-crypto-fraud-caroline-ellison-gary-wang">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Former Peruvian President Castillo's impeachment: a warning sign to Latin America's left
  - [https://www.foxnews.com/world/peru-president-pedro-castillo-impeachment-warning-sign-latin-american-left](https://www.foxnews.com/world/peru-president-pedro-castillo-impeachment-warning-sign-latin-american-left)
@@ -1245,3 +1245,4 @@ Feminist writer Jessica Valenti ranted against baby diapers being locked in glas
  - date published: 2022-12-09 00:00:12+00:00
 
 Three teams began the 2022 college football season in the AP Top 25 and failed to qualify for a bowl game. Texas A&amp;M, Michigan State and Miami all went 5-7.
+

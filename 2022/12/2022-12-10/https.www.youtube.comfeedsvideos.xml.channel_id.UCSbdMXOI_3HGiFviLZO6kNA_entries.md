@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The Quest 2 Just Got a MASSIVE Upgrade with V47
  - [https://www.youtube.com/watch?v=5vEwU8kKh4I](https://www.youtube.com/watch?v=5vEwU8kKh4I)
@@ -32,3 +32,4 @@ TIMESTAMPS:
 09:56 Quest 3
 10:32 Final opinion
 11:31 Outro
+

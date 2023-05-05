@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Senator Wyden to investigate whether domain registrar Neustar sold user data to the US government
  - [https://reclaimthenet.org/wyden-investigate-neustar-privacy-government/](https://reclaimthenet.org/wyden-investigate-neustar-privacy-government/)
@@ -47,3 +47,4 @@
 
 <a href="https://reclaimthenet.org/fauci-misinformation-blow-to-society/" rel="nofollow" title="Fauci says not pushing back against online &#8220;misinformation&#8221; would be a blow to society"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/fauci023.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Fauci uses one of his last interviews before retirement to speak about online speech.</p>
 <p>The post <a href="https://reclaimthenet.org/fauci-misinformation-blow-to-society/" rel="nofollow">Fauci says not pushing back against online &#8220;misinformation&#8221; would be a blow to society</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

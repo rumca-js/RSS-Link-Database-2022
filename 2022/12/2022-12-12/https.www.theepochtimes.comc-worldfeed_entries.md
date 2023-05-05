@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Home Price Rebound Likely: CoreLogic
  - [https://www.theepochtimes.com/home-price-rebound-likely-corelogic_4919758.html](https://www.theepochtimes.com/home-price-rebound-likely-corelogic_4919758.html)
@@ -447,3 +447,4 @@ UK Foreign Secretary James Cleverly gives an interview outside BBC Broadcasting 
  - date published: 2022-12-12 01:06:43+00:00
 
 China Sinopec's Tianjin terminal receiving its first liquefied natural gas (LNG) cargo from Australia on Feb. 6, 2018. (VCG via Getty Images)
+

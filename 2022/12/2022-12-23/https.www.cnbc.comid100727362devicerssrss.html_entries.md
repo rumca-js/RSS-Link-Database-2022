@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## TikTok banned on government devices under spending bill passed by Congress
  - [https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
@@ -118,3 +118,4 @@ In January, China will introduce first-of-its-kind regulation around "deepfakes"
  - date published: 2022-12-23 02:30:57+00:00
 
 Microsoft said for the third largest console maker to be buying a major gaming franchise would't overturn a competitive market. U.S. regulators don't agree.
+

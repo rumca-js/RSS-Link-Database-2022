@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Monster who assaulted man with baseball bat already back out on the street, 'cause you're in New York
  - [https://www.louderwithcrowder.com/baseball-bat-man-street](https://www.louderwithcrowder.com/baseball-bat-man-street)
@@ -142,3 +142,4 @@
 <a href="https://youtu.be/97V6zoymDHQ" target="_blank">youtu.be</a>
 </small>
 </p>
+

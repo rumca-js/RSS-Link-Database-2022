@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Eufy’s Dual doorbell proves two eyes on your porch are better than one
  - [https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date](https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date)
@@ -673,3 +673,4 @@
   <p>
     <a href="https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage">Continue reading&hellip;</a>
   </p>
+

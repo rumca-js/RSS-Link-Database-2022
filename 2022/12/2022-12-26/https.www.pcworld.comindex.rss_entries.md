@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Scale your SEO content marketing automatically with this top-rated $39 app
  - [https://www.pcworld.com/article/1443322/scale-your-seo-content-marketing-automatically-with-this-top-rated-39-app.html](https://www.pcworld.com/article/1443322/scale-your-seo-content-marketing-automatically-with-this-top-rated-39-app.html)
@@ -89,3 +89,4 @@ Marketing, Marketing Software</div>
 <p><em>Prices subject to change.</em></p>
 
 Video Editors, Videos</div>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## You get two guesses as to what puzzle game Sushi for Robots is about
  - [https://www.pcgamer.com/you-get-two-guesses-as-to-what-puzzle-game-sushi-for-robots-is-about](https://www.pcgamer.com/you-get-two-guesses-as-to-what-puzzle-game-sushi-for-robots-is-about)
@@ -104,3 +104,4 @@ Wordle today: The solution and a hint for the #559 puzzle.
  - date published: 2022-12-30 02:05:21+00:00
 
 Get in quick for this deal.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Who is Andrew Tate, ‘king of toxic masculinity’ accused of trafficking?
  - [https://www.washingtonpost.com/technology/2022/12/30/andrew-tate-explainer-arrested-greta-misogyny/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/30/andrew-tate-explainer-arrested-greta-misogyny/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Romanian prosecutors are seeking to hold Tate, self-described misogynist, and br
  - date published: 2022-12-30 07:30:36+00:00
 
 A federal waiver helped give rise to a new industry treating depression with the psychedelic drug ketamine by telemedicine. Now the controversial approach faces an uncertain future.
+

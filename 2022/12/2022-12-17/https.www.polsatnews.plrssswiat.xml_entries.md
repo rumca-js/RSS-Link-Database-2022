@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Niespodziewany gość ukrył się w choince. Nagranie hitem internetu
  - [https://www.polsatnews.pl/wiadomosc/2022-12-17/niespodziewany-gosc-w-ukryl-sie-w-choince-nagranie-hitem-internetu/](https://www.polsatnews.pl/wiadomosc/2022-12-17/niespodziewany-gosc-w-ukryl-sie-w-choince-nagranie-hitem-internetu/)
@@ -69,3 +69,4 @@ W piątkowym ostrzale Krzywego Rogu w obwodzie dniepropietrowskim w Ukrainie zgi
  - date published: 2022-12-17 07:24:00+00:00
 
 Ludzie przemówili - napisał Elon Musk na Twitterze, sugerując, ze przywróci zablokowane konta dziennikarzy, którzy go krytykowali i linkowali do zbanowanego profilu 19-latka z Florydy. Młody mężczyzna publikował dane o położenia samolotu miliardera. Musk uważa, że krytykowanie go non stop jest w porządku, ale śledzenie samolotów celebrytów to podawanie współrzędnych porwania.
+

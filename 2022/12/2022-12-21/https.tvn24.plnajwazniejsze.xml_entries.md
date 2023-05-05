@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Historyczna wizyta, długa rozmowa. "To, co robicie i co osiągnęliście, ma znaczenie dla całego świata"
  - [https://tvn24.pl/swiat/usa-joe-biden-i-wolodymyr-zelenski-konferencja-prasowa-po-rozmowach-w-bialym-domu-6548594?source=rss](https://tvn24.pl/swiat/usa-joe-biden-i-wolodymyr-zelenski-konferencja-prasowa-po-rozmowach-w-bialym-domu-6548594?source=rss)
@@ -407,6 +407,22 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-dqc9zi-unnamed-6547967/alternates/LANDSCAPE_1280" />
     Fundacja Viva! opublikowała nagranie z nielegalnego stoiska i składa zawiadomienie do prokuratury.
+
+## Poćwiartowane ciało mężczyzny w piwnicy, dwa dni wcześniej zgłoszono jego zaginięcie. Areszt dla syna
+ - [https://tvn24.pl/katowice/katowice-pocwiartowane-zwloki-mezczyzny-w-piwnicy-zarzuty-i-areszt-dla-syna-ofiary-przyznal-sie-do-winy-6547913?source=rss](https://tvn24.pl/katowice/katowice-pocwiartowane-zwloki-mezczyzny-w-piwnicy-zarzuty-i-areszt-dla-syna-ofiary-przyznal-sie-do-winy-6547913?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-21 12:55:40+00:00
+
+<img alt="Poćwiartowane ciało mężczyzny w piwnicy, dwa dni wcześniej zgłoszono jego zaginięcie. Areszt dla syna" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ide0d9-policja-w-miejscu-odnalezienia-pocwiartowanych-zwlok-6549499/alternates/LANDSCAPE_1280" />
+    "Złożył obszerne wyjaśnienia".
+
+## Poćwiartowane zwłoki mężczyzny w piwnicy. Zarzut zabójstwa usłyszał syn
+ - [https://tvn24.pl/katowice/katowice-pocwiartowane-zwloki-mezczyzny-w-piwnicy-zarzut-zabojstwa-uslyszal-syn-przyznal-sie-do-winy-6547913?source=rss](https://tvn24.pl/katowice/katowice-pocwiartowane-zwloki-mezczyzny-w-piwnicy-zarzut-zabojstwa-uslyszal-syn-przyznal-sie-do-winy-6547913?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-21 12:55:40+00:00
+
+<img alt="Poćwiartowane zwłoki mężczyzny w piwnicy. Zarzut zabójstwa usłyszał syn" src="https://tvn24.pl/najnowsze/cdn-zdjecie-annvbp-katowice-22122022-podejrzany-o-zabojstwo-ojca-podczas-doprowadzenia-do-prokuratury-6549481/alternates/LANDSCAPE_1280" />
+    "Złożył obszerne wyjaśnienia".
 
 ## W piwnicy znaleziono poćwiartowane zwłoki mężczyzny, jego syn zatrzymany
  - [https://tvn24.pl/katowice/katowice-pocwiartowane-cialo-w-piwnicy-bloku-syn-mezczyzny-przyznal-sie-do-zabojstwa-6547913?source=rss](https://tvn24.pl/katowice/katowice-pocwiartowane-cialo-w-piwnicy-bloku-syn-mezczyzny-przyznal-sie-do-zabojstwa-6547913?source=rss)
@@ -823,3 +839,4 @@
 
 <img alt="Ukraina walczy. Najważniejsze wydarzenia ostatnich godzin" src="https://tvn24.pl/najnowsze/cdn-zdjecie-hzbwxa-ukrainscy-operatorzy-dronow-6546015/alternates/LANDSCAPE_1280" />
     Rosyjska inwazja na Ukrainę trwa 301. dzień.
+

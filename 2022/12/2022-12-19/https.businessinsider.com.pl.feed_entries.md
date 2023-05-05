@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Putin na Białorusi. Według Mińska przywiózł rakiety
  - [https://businessinsider.com.pl/wiadomosci/putin-na-bialorusi-wedlug-minska-przywiozl-rakiety/t48g34v](https://businessinsider.com.pl/wiadomosci/putin-na-bialorusi-wedlug-minska-przywiozl-rakiety/t48g34v)
@@ -482,3 +482,4 @@ Z danych Nielsen IQ wynika, że napoje alkoholowe stanowią 55,7 proc. sprzedaż
  - date published: 2022-12-19 05:00:00+00:00
 
 Wkrótce do udziałowców Rafinerii Gdańskiej dołączy za pośrednictwem spółki zależnej globalny gigant Saudi Aramco. Rząd chce mieć jednak pewność, że część dawnego biznesu Lotosu nie trafi w niepowołane ręce, gdyby rozeszły się drogi arabskiego inwestora i PKN Orlen. Z ustaleń Business Insider Polska wynika, że od 1 stycznia przyszłego roku Rafineria Gdańska znajdzie się na specjalnej liście podmiotów podlegających ochronie. To oznacza, że ewentualna decyzja o sprzedaży przez Saudyjczyków będzie wymagała zielonego światła od ministra aktywów państwowych.
+

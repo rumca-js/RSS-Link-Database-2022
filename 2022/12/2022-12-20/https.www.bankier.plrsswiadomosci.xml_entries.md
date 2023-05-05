@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Na Wall Street bez większych zmian po czterech dniach spadków
  - [https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-wiekszych-zmian-po-czterech-dniach-spadkow-8460265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-wiekszych-zmian-po-czterech-dniach-spadkow-8460265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -394,3 +394,4 @@ oderwiemy oczu od liczników zużycia prądu. </p>
  - date published: 2022-12-20 00:33:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/4/154bc618782ac6-948-568-0-101-1500-899.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Jak podały kubańskie portale opozycyjne, powołując się na oficjalne dane amerykańskie, w ciągu 12 miesięcy - od 1 października ub. roku do 30 września 2022 r., nielegalna emigracja z Kuby do Stanów Zjednoczonych osiągnęła rekordowy poziom. Południową granicę USA przekroczyło lub usiłowało przekroczyć 220 tysięcy obywateli Kuby.</p>
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Woman gets arrested for PRAYING because in the UK there are certain places where that's against the law
  - [https://www.louderwithcrowder.com/praying-arrested-silence](https://www.louderwithcrowder.com/praying-arrested-silence)
@@ -122,3 +122,4 @@
 <a href="https://youtu.be/SZvOx9-1cdc" target="_blank">youtu.be</a>
 </small>
 </p>
+

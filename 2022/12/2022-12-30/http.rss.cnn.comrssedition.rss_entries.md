@@ -1,4 +1,11 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## CNN law enforcement analysts on what's next in Idaho investigation
+ - [https://www.cnn.com/videos/us/2022/12/30/moscow-idaho-murder-arrest-news-conference-criminologist-sot-vpx.cnn](https://www.cnn.com/videos/us/2022/12/30/moscow-idaho-murder-arrest-news-conference-criminologist-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 23:59:33+00:00
+
+CNN Chief Law Enforcement and Intelligence Analyst John Miller and CNN Senior Law Enforcement Analyst Andrew McCabe break down what's next in the investigation into the killings of four University of Idaho students following the arrest of a suspect in connection with the killings.
 
 ## North Korea fires at least one unidentified ballistic missile
  - [https://www.cnn.com/2022/12/30/asia/north-korea-ballistic-missile-intl-hkr/index.html](https://www.cnn.com/2022/12/30/asia/north-korea-ballistic-missile-intl-hkr/index.html)
@@ -6,6 +13,20 @@
  - date published: 2022-12-30 23:53:57+00:00
 
 North Korea fired at least one unidentified ballistic missile into the waters off the east coast of the Korean Peninsula on Saturday, according to South Korea's Joint Chiefs of Staff, the latest in an unprecedented year of weapons testing.
+
+## Retired general: A weak Russia would be satisfying for Xi
+ - [https://www.cnn.com/videos/world/2022/12/30/vladimir-putin-xi-jinping-to-meet-ukraine-war-wesley-clark-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/12/30/vladimir-putin-xi-jinping-to-meet-ukraine-war-wesley-clark-tsr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 23:41:10+00:00
+
+Former NATO Supreme Allied Commander Gen. Wesley Clark (ret.) explains the strategic relationship between Russian President Vladimir Putin and Chinese President Xi Jinping during Russia's war in Ukraine.
+
+## Keep an eye on the sky for 2023's celestial events
+ - [https://www.cnn.com/2022/12/30/world/celestial-events-2023-scn/index.html](https://www.cnn.com/2022/12/30/world/celestial-events-2023-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 22:53:12+00:00
+
+Stunning meteor showers, full moons and eclipses will light up the sky in 2023.
 
 ## Trump wanted to trademark 'Rigged Election!' and other key findings from latest Jan. 6 panel release
  - [https://www.cnn.com/2022/12/30/politics/january-6-transcript-release-latest/index.html](https://www.cnn.com/2022/12/30/politics/january-6-transcript-release-latest/index.html)
@@ -21,6 +42,20 @@ The House January 6 committee on Friday released another wave of witness intervi
 
 Brazilian President Jair Bolsonaro left Brazil for the United States on Friday, according to CNN Brasil, two days before the inauguration of his successor, President-elect Luiz Inácio "Lula" da Silva.
 
+## From 'Avatar' to 'Everything Everywhere All at Once': The scene-stealers of 2022
+ - [https://www.cnn.com/2022/12/30/entertainment/avatar-everything-everywhere-scene-stealers-of-2022/index.html](https://www.cnn.com/2022/12/30/entertainment/avatar-everything-everywhere-scene-stealers-of-2022/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 19:16:42+00:00
+
+As 2022 comes to an end, there is much to look back and reflect on, including those moments in film and television when an actor gave us pause, wowed us or downright destroyed us. Those moments and performances, stick with us long after the story ends, oftentimes registering on a deeply personal level.
+
+## How Vivienne Westwood dressed the Sex Pistols and shaped punk
+ - [https://www.cnn.com/style/article/vivienne-westwood-punk-fashion-sex-pistols-cec/index.html](https://www.cnn.com/style/article/vivienne-westwood-punk-fashion-sex-pistols-cec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 18:44:20+00:00
+
+With some help from the Sex Pistols, British youths hungry for anarchy, and influences including Teddy Boy subculture and fetishists, Vivienne Westwood helped develop punk as a style, an ethos and a movement.
+
 ## See six years of Trump's tax returns
  - [https://edition.cnn.com/2022/12/30/politics/read-donald-trump-tax-returns/index.html](https://edition.cnn.com/2022/12/30/politics/read-donald-trump-tax-returns/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -34,6 +69,13 @@ Brazilian President Jair Bolsonaro left Brazil for the United States on Friday, 
  - date published: 2022-12-30 18:08:38.731154+00:00
 
 
+
+## Don't let phone notifications stress you out. Here's how
+ - [https://www.cnn.com/2022/12/30/health/phone-notifications-interruptions-wellness-partner/index.html](https://www.cnn.com/2022/12/30/health/phone-notifications-interruptions-wellness-partner/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 17:56:34+00:00
+
+A ping from the pizza company. A couple of pings from your socials. Ping, ping, ping from your family WhatsApp group trying to organize a weekend gathering.
 
 ## Stocks are having their worst year since 2008. Bonds are even worse
  - [https://www.cnn.com/2022/12/30/investing/dow-stock-market-2022/index.html](https://www.cnn.com/2022/12/30/investing/dow-stock-market-2022/index.html)
@@ -55,6 +97,13 @@ Wall Street is bidding goodbye -- and good riddance -- to 2022. It has been a ye
  - date published: 2022-12-30 16:59:40+00:00
 
 [Breaking news update, published at 11:32 a.m. ET]
+
+## See how fireworks are installed on one of the world's tallest towers
+ - [https://www.cnn.com/videos/architecture/2022/12/30/taipei-new-year-fireworks-will-ripley-pkg.cnn](https://www.cnn.com/videos/architecture/2022/12/30/taipei-new-year-fireworks-will-ripley-pkg.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-30 16:53:24+00:00
+
+For the past 18 years spectators have gathered to see the fireworks display at Taipei's tallest building. CNN gets an exclusive look at the installation process.
 
 ## Bankruptcy, fame and prison: The rise and fall of Todd and Julie Chrisley
  - [https://www.cnn.com/2022/12/30/entertainment/todd-chrisley-julie-chrisley-timeline/index.html](https://www.cnn.com/2022/12/30/entertainment/todd-chrisley-julie-chrisley-timeline/index.html)
@@ -363,3 +412,4 @@ President Joe Biden on Thursday signed a $1.7 trillion federal spending bill tha
  - date published: 2022-12-30 00:00:46+00:00
 
 This was a doozy of a year, admittedly made even more overwhelming by the ever-expanding glut of content you know you want to consume.
+

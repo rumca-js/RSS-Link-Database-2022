@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Finding Community, and Freedom, on VRChat
  - [https://www.nytimes.com/2022/12/27/arts/music/vrchat-virtual-reality-clubbing.html](https://www.nytimes.com/2022/12/27/arts/music/vrchat-virtual-reality-clubbing.html)
@@ -20,3 +20,4 @@ Riiid is one of a handful of companies that believe that A.I.’s algorithms are
  - date published: 2022-12-27 05:01:08+00:00
 
 German security researchers studying biometric capture devices popular with the U.S. military got more than they expected for $68 on eBay.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Buoyed by Hero’s Welcome for Zelensky in Washington
  - [https://www.nytimes.com/2022/12/22/world/europe/zelensky-us-visit-reaction.html](https://www.nytimes.com/2022/12/22/world/europe/zelensky-us-visit-reaction.html)
@@ -174,3 +174,4 @@ Like many families only one generation removed from the “old country,” an In
  - date published: 2022-12-22 00:33:12+00:00
 
 President Biden and President Volodymyr Zelensky of Ukraine presented a united front against Russian aggression.
+

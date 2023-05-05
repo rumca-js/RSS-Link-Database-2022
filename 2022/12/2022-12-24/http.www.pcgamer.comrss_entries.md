@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## The ultimate Christmas videogame: Die Hard
  - [https://www.pcgamer.com/saturday-crapshoot-die-hard](https://www.pcgamer.com/saturday-crapshoot-die-hard)
@@ -69,3 +69,4 @@ An honest win.
  - date published: 2022-12-24 08:05:46+00:00
 
 Wordle today: The solution and a hint for the #553 puzzle.
+

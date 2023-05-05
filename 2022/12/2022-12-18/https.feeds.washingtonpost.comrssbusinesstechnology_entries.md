@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Elon Musk blamed a Twitter account for a stalker. Police see no link.
  - [https://www.washingtonpost.com/technology/2022/12/18/details-of-musk-stalking-incident/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/18/details-of-musk-stalking-incident/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ The incident last week triggered a major rewrite of Twitter’s rules and the su
  - date published: 2022-12-18 16:36:06+00:00
 
 The company owned by Elon Musk said Sunday that it "will no longer allow free promotion of specific social media platforms on Twitter."
+

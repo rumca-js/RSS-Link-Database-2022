@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Sam Bankman-Fried is denied bail in the Bahamas
  - [https://www.theverge.com/2022/12/13/23508217/sbf-sam-bankman-fried-ftx-bail-john-ray-congress-hearing](https://www.theverge.com/2022/12/13/23508217/sbf-sam-bankman-fried-ftx-bail-john-ray-congress-hearing)
@@ -548,7 +548,6 @@
  - [https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop](https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 13:22:13+00:00
- - tags: censorship,moderation
 
 <figure>
       <img alt="The New York Post, physical edition." src="https://cdn.vox-cdn.com/thumbor/1qqN3fex07kU_lC37hwurYGeIqA=/0x0:5760x3840/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744068/1160071619.0.jpg" />
@@ -715,3 +714,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto">Continue reading&hellip;</a>
   </p>
+

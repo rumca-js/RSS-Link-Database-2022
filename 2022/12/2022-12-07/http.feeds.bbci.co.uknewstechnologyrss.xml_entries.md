@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Elon Musk rejects concerns over beds at Twitter HQ
  - [https://www.bbc.co.uk/news/technology-63872987?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63872987?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ Open AI's ChatGPT generates convincing human-like answers in response to human p
  - date published: 2022-12-07 00:02:05+00:00
 
 Tech workers are rallying together to help peers who face having to leave the US after being laid off.
+

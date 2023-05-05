@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## "To umowa pod dyktando Saudi Aramco". Były minister gospodarki o sprzedaży Lotosu
  - [https://www.money.pl/gospodarka/to-umowa-pod-dyktando-saudi-aramco-byly-minister-gospodarki-o-sprzedazy-lotosu-6845316568160992a.html](https://www.money.pl/gospodarka/to-umowa-pod-dyktando-saudi-aramco-byly-minister-gospodarki-o-sprzedazy-lotosu-6845316568160992a.html)
@@ -167,3 +167,4 @@
  - date published: 2022-12-16 05:34:33+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b157942f-b4cc-483c-921d-260dd30f7bc9" width="308" /> Udało się osiągnąć porozumienie w sprawie 9. pakietu sankcji przeciwko Rosji - powiedział w czwartek wieczorem na konferencji prasowej po zakończeniu szczytu unijnych przywódców w Brukseli przewodniczący Rady Europejskiej Charles Michel.
+

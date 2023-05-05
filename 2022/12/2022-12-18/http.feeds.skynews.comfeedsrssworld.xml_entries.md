@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Elon Musk asks Twitter users if he should step down as boss of social media site
  - [https://news.sky.com/story/elon-musk-asks-twitter-users-if-he-should-step-down-as-boss-of-social-media-site-12771044](https://news.sky.com/story/elon-musk-asks-twitter-users-if-he-should-step-down-as-boss-of-social-media-site-12771044)
@@ -20,6 +20,13 @@ When the crowning moment came, after an epic World Cup final, it was not the blu
  - date published: 2022-12-18 20:37:00+00:00
 
 Argentina's triumph in the World Cup final has sent hundreds of thousands of ecstatic fans pouring out onto the streets of Buenos Aires.
+
+## 'Strong possibility' Ukraine retakes all territory by end of 2023 - apart from Crimea
+ - [https://news.sky.com/story/strong-possibility-ukraine-retakes-all-territory-by-end-of-2023-apart-from-crimea-12770942](https://news.sky.com/story/strong-possibility-ukraine-retakes-all-territory-by-end-of-2023-apart-from-crimea-12770942)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-18 20:06:00+00:00
+
+Ukraine has a good chance to liberate all its territory - apart from Crimea - by the end of 2023, a military expert says.
 
 ## Fairytale ending for Messi &#8211; Argentina beat France in penalty shootout to win World Cup
  - [https://news.sky.com/story/qatar-world-cup-fairytale-ending-for-messi-8211-argentina-beat-france-in-penalty-shootout-12770790](https://news.sky.com/story/qatar-world-cup-fairytale-ending-for-messi-8211-argentina-beat-france-in-penalty-shootout-12770790)
@@ -90,3 +97,4 @@ Israel has deported a Jerusalem-born Palestinian activist to France, despite obj
  - date published: 2022-12-18 01:12:00+00:00
 
 The World Cup is nearing its end, with France and Argentina to meet in the final match later today.
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Data breaches could be even more expensive in 2023
  - [https://www.techradar.com/news/data-breaches-could-be-even-more-expensive-in-2023](https://www.techradar.com/news/data-breaches-could-be-even-more-expensive-in-2023)
@@ -55,3 +55,4 @@ Without the correct attention, code-generating tools like Copilot could present 
  - date published: 2022-12-29 10:19:29+00:00
 
 Chrome set to warn users against insecure HTTP downloads, on top of existing “Not Secure” address bar warnings.
+

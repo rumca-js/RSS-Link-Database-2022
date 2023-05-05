@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Soboń: Mamy przestrzeń do tego, aby deficyt był wyższy
  - [https://www.bankier.pl/wiadomosc/Sobon-Mamy-przestrzen-do-tego-aby-deficyt-byl-wyzszy-8453695.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sobon-Mamy-przestrzen-do-tego-aby-deficyt-byl-wyzszy-8453695.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -467,3 +467,4 @@ poprzednim rokiem.  </p>
  - date published: 2022-12-08 00:46:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/1/3c9fb68460abb1-945-567-0-324-4285-2571.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sąd Najwyższy Francji podtrzymał decyzję o odzyskaniu prawie 1,5 mld USD od państwa agresora na rzecz Oszczadbanku. To pierwsze od sześciu lat zwycięstwo w sądzie w sprawie ukraińskich aktywów skradzionych przez Rosję na Krymie, poinformował w środę w wypowiedzi video prezydent Ukrainy.</p>
+

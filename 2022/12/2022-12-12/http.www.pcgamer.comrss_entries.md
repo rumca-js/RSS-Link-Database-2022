@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## In 2022, battle royale finally got some real competition
  - [https://www.pcgamer.com/in-2022-battle-royale-finally-got-some-real-competition](https://www.pcgamer.com/in-2022-battle-royale-finally-got-some-real-competition)
@@ -230,3 +230,4 @@ Sorting through every new game on Steam so you don't have to.
  - date published: 2022-12-12 00:11:43+00:00
 
 Apotheosis X creator hypersleep wanted to "push the boundaries of what's possible aesthetically with the Marathon engine."
+

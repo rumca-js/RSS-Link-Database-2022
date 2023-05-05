@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## VAT na paliwa wróci z 8 proc. na 23 proc. Analityk: ceny nie powinny wzrosnąć
  - [https://businessinsider.com.pl/twoje-pieniadze/vat-na-paliwa-wroci-z-8-proc-na-23-proc-analityk-ceny-nie-powinny-wzrosnac/bnpgyfd](https://businessinsider.com.pl/twoje-pieniadze/vat-na-paliwa-wroci-z-8-proc-na-23-proc-analityk-ceny-nie-powinny-wzrosnac/bnpgyfd)
@@ -447,3 +447,4 @@ Ponad rok temu prezes NBP zapowiadał, że jak pozostanie na stanowisku na kolej
  - date published: 2022-12-22 05:03:00+00:00
 
 Paweł Przychodzeń, bliski współpracownik ministra koordynatora służb specjalnych i szefa resortu spraw wewnętrznych Mariusza Kamińskiego, został odwołany z rady nadzorczej Rafinerii Gdańskiej. Z ustaleń Business Insider wynika, że wstrzymał się od głosu w sprawie umów, jakie Orlen ostatecznie zawarł z Saudyjczykami, a które dotyczyły sprzedaży 30 proc. udziałów w Rafinerii Gdańskiej. Nasi informatorzy wskazują, że Przychodzeń, miał szereg zastrzeżeń dotyczących zapisów, które znalazły się w dokumentach. Wyleciał z rady nadzorczej rafinerii w dzień ogłoszenia przez Orlen finalizacji umów z arabskim inwestorem.
+

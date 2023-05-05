@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## CNN Threatens To ‘Reevaluate’ Relationship With Twitter After Reporter Suspended
  - [https://www.dailywire.com/news/cnn-threatens-to-reevaluate-relationship-with-twitter-after-reporter-suspended](https://www.dailywire.com/news/cnn-threatens-to-reevaluate-relationship-with-twitter-after-reporter-suspended)
@@ -321,3 +321,4 @@ Mississippi State University has reportedly decided to promote defensive coordin
  - date published: 2022-12-15 07:27:34+00:00
 
 Transportation Secretary Pete Buttigieg vacationed in a famous tourist hotspot in Europe as the threat of a rail strike threatened to grind the U.S. economy to a halt. The Washington Free Beacon reported that Buttigieg left the U.S. for Porto, Portugal, on August 29, just days before Amtrak started canceling trips in anticipation that workers ...
+

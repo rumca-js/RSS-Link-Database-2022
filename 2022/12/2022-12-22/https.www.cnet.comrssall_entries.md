@@ -1,4 +1,11 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## HBO Max Drops First Look at Jodie Foster in True Detective     - CNET
+ - [https://www.cnet.com/culture/entertainment/hbo-max-drops-first-look-at-jodie-foster-in-true-detective/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-drops-first-look-at-jodie-foster-in-true-detective/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-22 23:20:19+00:00
+
+Preview also reveals sneak peeks at Succession, Velma, Our Flag Means Death, And Just Like That... and more.
 
 ## Netflix: The 52 Absolute Best TV Shows to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-stream-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-stream-tonight/#ftag=CADf328eec)
@@ -727,3 +734,4 @@ You can catch them all Dec. 26 on Samsung.com.
  - date published: 2022-12-22 00:00:02+00:00
 
 A 3D printer that costs nearly $600 should really have better bed-leveling.
+

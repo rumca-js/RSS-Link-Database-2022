@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## In France, peak inflation is expected in early 2023
  - [https://www.lemonde.fr/en/economy/article/2022/12/19/in-france-peak-inflation-is-expected-in-early-2023_6008245_19.html](https://www.lemonde.fr/en/economy/article/2022/12/19/in-france-peak-inflation-is-expected-in-early-2023_6008245_19.html)
@@ -181,3 +181,4 @@ Nelida Pinon joined the Brazilian Academy of Letters, in 1989. She died Saturday
  - date published: 2022-12-18 00:09:28+00:00
 
 On Saturday, only 8.8 percent of the Tunisian electorate had cast votes. The new parliament will have virtually no authority following a power grab by President Kais Saied. Preliminary results are expected Monday.
+

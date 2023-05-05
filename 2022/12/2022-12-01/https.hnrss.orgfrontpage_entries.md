@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Accelerando (2005)
  - [https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
@@ -789,3 +789,4 @@ something. It's off topic here.<p>Readers: please only email if you are personal
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33810296">https://news.ycombinator.com/item?id=33810296</a></p>
 <p>Points: 28</p>
 <p># Comments: 12</p>
+

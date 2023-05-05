@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## ‘Another night together’: Pelé ‘fights with faith’ in hospital as family gather
  - [https://www.theguardian.com/football/2022/dec/24/another-night-together-pele-fights-with-faith-in-hospital-as-family-gather](https://www.theguardian.com/football/2022/dec/24/another-night-together-pele-fights-with-faith-in-hospital-as-family-gather)
@@ -580,3 +580,4 @@
  - date published: 2022-12-24 00:02:23+00:00
 
 <p>Felonies facing  rapper Tory Lanez include assault with a semiautomatic weapon and could lead to up to 22 years in prison</p><p>A Los Angeles jury on Friday found rapper Tory Lanez guilty of three felonies in the 2020 shooting of hip-hop star Megan Thee Stallion that left her wounded with bullet fragments in her feet.</p><p>The jury deliberated for one day before convicting the 30-year-old Canadian rapper, whose legal name is Daystar Peterson, of assault with a semiautomatic firearm, having a loaded, unregistered firearm in a vehicle and discharging a firearm with gross negligence. The counts could lead to up to 22 years in prison.</p> <a href="https://www.theguardian.com/music/2022/dec/24/tory-lanez-found-guilty-in-megan-thee-stallion-shooting">Continue reading...</a>
+

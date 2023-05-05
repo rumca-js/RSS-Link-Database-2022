@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Destiny 2 game director responds to complaints about player burnout
  - [https://www.pcgamer.com/destiny-2-game-director-responds-to-complaints-about-player-burnout](https://www.pcgamer.com/destiny-2-game-director-responds-to-complaints-about-player-burnout)
@@ -258,3 +258,4 @@ But they look fairly nice for the price.
  - date published: 2022-12-07 00:09:21+00:00
 
 Devs behind Terraria, Caves of Qud, Prison Architect, and more say their games wouldn't have existed without Dwarf Fortress.
+

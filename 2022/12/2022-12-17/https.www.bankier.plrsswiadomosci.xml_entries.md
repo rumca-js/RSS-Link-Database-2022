@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Media: Putin ma większy problem z gazem, niż chce oficjalnie przyznać
  - [https://www.bankier.pl/wiadomosc/Media-Putin-ma-wiekszy-problem-z-gazem-niz-chce-oficjalnie-przyznac-8458731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Putin-ma-wiekszy-problem-z-gazem-niz-chce-oficjalnie-przyznac-8458731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -209,3 +209,4 @@ ostatnich dni.</p>
  - date published: 2022-12-17 00:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/2/bb116d1f546814-948-568-0-13-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Holandia nie wypłaci żadnych reparacji związanych z kolonialną przeszłością kraju i niewolnictwem - powiedział w piątek dziennikarzom premier Mark Rutte. "Nie ma co do tego najmniejszych wątpliwości" – podkreślił.</p>
+

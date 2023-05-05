@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Wotum nieufności. Upada rząd na Słowacji
  - [https://wydarzenia.interia.pl/zagranica/news-wotum-nieufnosci-upada-rzad-na-slowacji,nId,6475134](https://wydarzenia.interia.pl/zagranica/news-wotum-nieufnosci-upada-rzad-na-slowacji,nId,6475134)
@@ -27,3 +27,4 @@
  - date published: 2022-12-15 14:55:15+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-szwecja-z-zoo-uciekla-grupa-szympansow-trwa-oblawa,nId,6474878"><img align="left" alt="Szwecja: Z zoo uciekła grupa szympansów. Trwa obława" src="https://i.iplsc.com/szwecja-z-zoo-uciekla-grupa-szympansow-trwa-oblawa/000GHSN9TQCHFN19-C321.jpg" /></a>Ze szwedzkiego zoo wydostała się w środę grupa szympansów. Do incydentu doszło pod miastem Gävle, znajdującego się około 180 km na północ od Sztokholmu. Trzy osobniki zastrzelono, trwa obława na pozostałą czwórkę. To nie pierwszy przypadek ucieczki zwierząt z zoo w Szwecji w ostatnim czasie.</p><br clear="all" />
+

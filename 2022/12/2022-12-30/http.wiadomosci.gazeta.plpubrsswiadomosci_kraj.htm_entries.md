@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Natychmiastowa reakcja na krytykę Czarnka? Terlikowski znika z mediów
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29314015,natychmiastowa-reakcja-na-krytyke-czarnka-terlikowski-znika.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29314015,natychmiastowa-reakcja-na-krytyke-czarnka-terlikowski-znika.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -167,3 +167,4 @@
  - date published: 2022-12-30 05:19:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/67/f3/1b/z29308775M,Pies-w-sylwestra.jpg" vspace="2" />- Najważniejsze jest to, abyśmy zrozumieli, że psy odbierają fajerwerki tak, jak realne zagrożenie. Aby sobie to wyobrazić - poczujcie, że dziś, nagle, bez żadnego ostrzeżenia wasze miasto jest bombardowane. Tak czują się psy podczas nocy sylwestrowej - podkreśla w rozmowie z Gazeta.pl Piotr Wojtków, behawiorysta psów. Sylwestrowa zabawa ludzi oznacza piekło dla zwierząt. Apelujemy, aby ci, którzy zamierzają hucznie świętować Nowy Rok, pomyśleli o innych, tych mniejszych mieszkańcach kraju.
+

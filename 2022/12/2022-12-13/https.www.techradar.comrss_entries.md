@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This stalkerware tracked thousands of Android and iPhones
  - [https://www.techradar.com/news/this-stalkerware-tracked-thousands-of-android-and-iphones](https://www.techradar.com/news/this-stalkerware-tracked-thousands-of-android-and-iphones)
@@ -181,3 +181,4 @@ US shoppers are turning to carriers over Apple for their iPhones, and with good 
  - date published: 2022-12-13 05:00:21+00:00
 
 The new UltraGear monitor sports a 2K resolution display with a 240Hz refresh rate; exactly like the bigger model.
+

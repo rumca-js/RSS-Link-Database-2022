@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Rząd wykorzysta KGHM do zbrojeń
  - [https://forsal.pl/biznes/artykuly/8602427,kghm-produkcja-broni.html](https://forsal.pl/biznes/artykuly/8602427,kghm-produkcja-broni.html)
@@ -132,3 +132,4 @@
  - date published: 2022-12-04 07:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/tiIktkuTURBXy8xNjI5NTAxMy1mZjI3LTQ1YmItYWJiZi1hOTVkNjAzZTMxOGMuanBlZ5GTBc0BHcyg" />Mszczonów jest bardzo skuteczny w przyciąganiu inwestycji. Najpierw przyciągnął infrastrukturę do wypoczynku, a potem firmy utylizujące odpady, i to już nie wszystkim się podoba
+

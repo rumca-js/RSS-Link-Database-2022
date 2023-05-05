@@ -1,4 +1,34 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## NuttX RTOS for PinePhone: Display Engine
+ - [https://lupyuen.github.io/articles/de3](https://lupyuen.github.io/articles/de3)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 23:55:35+00:00
+
+<p>Article URL: <a href="https://lupyuen.github.io/articles/de3">https://lupyuen.github.io/articles/de3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34100614">https://news.ycombinator.com/item?id=34100614</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+## 2022 Medley Interlisp Annual Report
+ - [https://interlisp.org/news/2022medleyannualreport/](https://interlisp.org/news/2022medleyannualreport/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 23:53:40+00:00
+
+<p>Article URL: <a href="https://interlisp.org/news/2022medleyannualreport/">https://interlisp.org/news/2022medleyannualreport/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34100600">https://news.ycombinator.com/item?id=34100600</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+## Show HN: My bookmarks of HN and who I'm following
+ - [https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 23:10:44+00:00
+
+<p>Article URL: <a href="https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com">https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34100197">https://news.ycombinator.com/item?id=34100197</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
 ## Serverless Video Transcription inspired by Cyberpunk 2077
  - [https://github.com/elanmart/cbp-translate](https://github.com/elanmart/cbp-translate)
@@ -49,6 +79,36 @@
 <p>Article URL: <a href="https://www.zerodayinitiative.com/advisories/ZDI-22-1690/">https://www.zerodayinitiative.com/advisories/ZDI-22-1690/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34098804">https://news.ycombinator.com/item?id=34098804</a></p>
 <p>Points: 5</p>
+<p># Comments: 0</p>
+
+## Trading with BDDs
+ - [https://taeric.github.io/trading-with-bdds.html](https://taeric.github.io/trading-with-bdds.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 20:57:27+00:00
+
+<p>Article URL: <a href="https://taeric.github.io/trading-with-bdds.html">https://taeric.github.io/trading-with-bdds.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34098570">https://news.ycombinator.com/item?id=34098570</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+## Hardened_malloc
+ - [https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 20:53:14+00:00
+
+<p>Article URL: <a href="https://github.com/GrapheneOS/hardened_malloc">https://github.com/GrapheneOS/hardened_malloc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34098513">https://news.ycombinator.com/item?id=34098513</a></p>
+<p>Points: 26</p>
+<p># Comments: 0</p>
+
+## Password Requirements: Myths and Madness
+ - [https://www.franzoni.eu/password-requirements-myths-madness/](https://www.franzoni.eu/password-requirements-myths-madness/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 20:42:24+00:00
+
+<p>Article URL: <a href="https://www.franzoni.eu/password-requirements-myths-madness/">https://www.franzoni.eu/password-requirements-myths-madness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34098369">https://news.ycombinator.com/item?id=34098369</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
 ## Docker on MacOS is slow and how to fix it
@@ -141,6 +201,16 @@
 <p>Points: 13</p>
 <p># Comments: 2</p>
 
+## Searching a data breach with ElasticSearch
+ - [https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html](https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 19:09:30+00:00
+
+<p>Article URL: <a href="https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html">https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34097166">https://news.ycombinator.com/item?id=34097166</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
 ## LastPass: Notice of Recent Security Incident
  - [https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
  - RSS feed: https://hnrss.org/frontpage
@@ -206,7 +276,6 @@
  - [https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-22 17:17:46+00:00
- - tags: propgramming
 
 <p>Article URL: <a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/">https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34095775">https://news.ycombinator.com/item?id=34095775</a></p>
@@ -217,7 +286,6 @@
  - [https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-22 16:39:07+00:00
- - tags: microsoft,tracking
 
 <p>Article URL: <a href="https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies">https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34095258">https://news.ycombinator.com/item?id=34095258</a></p>
@@ -530,7 +598,6 @@
  - [https://pudding.cool/2022/12/yard-sale/](https://pudding.cool/2022/12/yard-sale/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-22 08:28:34+00:00
- - tags: money,society,billionaires
 
 <p>Article URL: <a href="https://pudding.cool/2022/12/yard-sale/">https://pudding.cool/2022/12/yard-sale/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34091098">https://news.ycombinator.com/item?id=34091098</a></p>
@@ -656,3 +723,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34088219">https://news.ycombinator.com/item?id=34088219</a></p>
 <p>Points: 8</p>
 <p># Comments: 0</p>
+

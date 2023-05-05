@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Ta ameba żywi się mózgami. Jest pierwsza ofiara śmiertelna
  - [https://www.chip.pl/2022/12/ameba-zywi-sie-mozgami-naegleria-fowleri](https://www.chip.pl/2022/12/ameba-zywi-sie-mozgami-naegleria-fowleri)
@@ -119,3 +119,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1080" src="https://konto.chip.pl/wp-content/uploads/2022/12/chinska-stacja-kosmiczna.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/chinska-stacja-kosmiczna.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Kamery znajdujące się na pokładzie chińskiej stacji kosmicznej Tiangong uwieczniły Ziemię i musimy przyznać, że nagranie jest naprawdę efektowne. Przy okazji po raz kolejny można przekonać się, że określenie Błękitna planeta trafnie opisuje Ziemię. Choć, biorąc pod uwagę ilość chmur uwiecznionych na nagraniu, być może łatwiej byłoby stwierdzić Pochmurna planeta.  Czytaj też: Program Artemis to [&#8230;]</p>
+

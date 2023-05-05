@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Alaska Native community relocates as climate crisis ravages homes
  - [https://www.aljazeera.com/news/2022/12/15/alaska-native-community-relocates-as-climate-crisis-ravages-homes](https://www.aljazeera.com/news/2022/12/15/alaska-native-community-relocates-as-climate-crisis-ravages-homes)
@@ -314,3 +314,4 @@ As tensions rise in the Taiwan Strait, private companies are stepping forward to
  - date published: 2022-12-15 02:08:52+00:00
 
 Rights groups say the National Unity Government, made up of elected members, must represent Myanmar at all UN bodies.
+

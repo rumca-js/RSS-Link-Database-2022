@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Australia v South Africa: second Test, day two – live
  - [https://www.theguardian.com/sport/live/2022/dec/27/australia-v-south-africa-second-test-day-two-live](https://www.theguardian.com/sport/live/2022/dec/27/australia-v-south-africa-second-test-day-two-live)
@@ -34,6 +34,13 @@
  - date published: 2022-12-26 21:38:41+00:00
 
 <p>Amid a deadly winter storm, heart-warming tales spring forth of neighbors assisting stranded tourists and helping deliver babies</p><p>As the US reels from a winter storm that has killed nearly 50 people nationwide, stories of hope and resilience have nonetheless emerged from America’s hardest hit region, western New York state.</p><p>This storm, which has <a href="https://apnews.com/f1efe43064cdae9eb2042db45491b56f#:~:text=BUFFALO%2C%20N.Y.,related%20disasters%20in%20its%20history.">resulted in 27 deaths around the city of Buffalo</a>, brought hurricane-force winds and nearly four feet of snow in parts of the region, thwarting first responders’ emergency response and rescue efforts. “This is a war with mother nature, and she has been hitting us with everything she has,” New York’s governor Kathy Hochul said.</p> <a href="https://www.theguardian.com/us-news/2022/dec/26/new-york-buffalo-winter-storm-survival-rescue">Continue reading...</a>
+
+## Darwin Núñez ‘unstoppable’ despite frustrations in front of goal, says Klopp
+ - [https://www.theguardian.com/football/2022/dec/26/darwin-nunez-unstoppable-despite-frustrations-jurgen-klopp-liverpool-aston-villa](https://www.theguardian.com/football/2022/dec/26/darwin-nunez-unstoppable-despite-frustrations-jurgen-klopp-liverpool-aston-villa)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-26 21:16:11+00:00
+
+<ul><li>Manager praises striker’s unselfishness after win at Aston Villa</li><li>Klopp: ‘The scoring in the beginning is not so important’</li></ul><p>Jürgen Klopp reiterated his confidence in Darwin Núñez after Liverpool’s 3-1 victory at Aston Villa, praising the Uruguay striker’s unselfish streak and insisting his £85m record signing is an “unstoppable” force despite his frustrations in front of goal.</p><p>Mohamed Salah equalled Kenny Dalglish’s Liverpool goalscoring mark to open the scoring with his 172nd strike for the club. Núñez missed a golden chance to get on the scoresheet but played a pivotal role in the buildup to the 18-year-old Stefan Bajcetic’s first Liverpool goal, which capped the scoring.</p> <a href="https://www.theguardian.com/football/2022/dec/26/darwin-nunez-unstoppable-despite-frustrations-jurgen-klopp-liverpool-aston-villa">Continue reading...</a>
 
 ## Liverpool trying to prise Cody Gakpo from PSV ahead of Manchester United
  - [https://www.theguardian.com/football/2022/dec/26/liverpool-cody-gakpo-psv-eindhoven](https://www.theguardian.com/football/2022/dec/26/liverpool-cody-gakpo-psv-eindhoven)
@@ -748,3 +755,4 @@
  - date published: 2022-12-26 01:31:54+00:00
 
 <p>Explosions heard at Russia’s Engels air base hundreds of miles from Ukraine’s front lines; Putin says west trying to ‘tear apart’ Russia</p><ul><li><strong><a href="https://www.theguardian.com/world/ukraine">See all our Ukraine war coverage</a></strong></li></ul> <a href="https://www.theguardian.com/world/2022/dec/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-306-of-the-invasion">Continue reading...</a>
+

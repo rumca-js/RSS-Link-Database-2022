@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## Nowa wersja Chrome łata prawie 30 podatności. Z czego 8 stanowi „wysokie zagrożenie”. Łatajcie się ASAP
  - [https://sekurak.pl/nowa-wersja-chrome-lata-prawie-30-podatnosci-z-czego-8-stanowi-wysokie-zagrozenie-latajcie-sie-asap/](https://sekurak.pl/nowa-wersja-chrome-lata-prawie-30-podatnosci-z-czego-8-stanowi-wysokie-zagrozenie-latajcie-sie-asap/)
@@ -31,3 +31,4 @@
 
 <p>Z dosyć lakonicznym wpisem możecie zapoznać się w tym miejscu: We recently detected unusual activity within a third-party cloud storage service, which is currently shared by both LastPass and its affiliate, GoTo. We immediately launched an investigation Jak się okazuje jest to w pewnym sensie druga faza ataku, który miał...</p>
 <p>Artykuł <a href="https://sekurak.pl/lastpass-informuje-o-incydencie-bezpieczenstwa-ktos-hasa-po-ich-chmurze-i-uzyskal-czesciowe-informacje-o-uzytkownikach-lastpassa/" rel="nofollow">LastPass informuje o &#8222;incydencie bezpieczeństwa&#8221;.  Ktoś hasa po ich chmurze i uzyskał częściowe informacje o użytkownikach LastPassa</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

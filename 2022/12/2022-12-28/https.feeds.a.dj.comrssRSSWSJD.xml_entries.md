@@ -1,4 +1,11 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
+
+## Tesla Stock Suffers December Selloff
+ - [https://www.wsj.com/articles/tesla-stock-suffers-december-selloff-amid-demand-concerns-china-production-pause-11672252505?mod=rss_Technology](https://www.wsj.com/articles/tesla-stock-suffers-december-selloff-amid-demand-concerns-china-production-pause-11672252505?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2022-12-28 22:02:00+00:00
+
+Elon Musk’s car company is trading back at August 2020 levels amid demand concerns, China production pause.
 
 ## Google Maps Chief Sees New Directions for Digital Navigation
  - [https://www.wsj.com/articles/google-maps-chief-sees-new-directions-for-digital-navigation-11672243772?mod=rss_Technology](https://www.wsj.com/articles/google-maps-chief-sees-new-directions-for-digital-navigation-11672243772?mod=rss_Technology)
@@ -41,3 +48,4 @@ Hundreds of FTX, Voyager and Celsius customers are parting with their accounts, 
  - date published: 2022-12-28 10:30:00+00:00
 
 As more car makers roll out electric vehicles, they are discovering that early customers are far more apt to try new brands.
+

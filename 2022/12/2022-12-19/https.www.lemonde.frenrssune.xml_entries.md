@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## US Supreme Court temporarily blocks lifting of asylum restrictions
  - [https://www.lemonde.fr/en/international/article/2022/12/19/us-supreme-court-temporarily-blocks-lifting-of-asylum-restrictions_6008383_4.html](https://www.lemonde.fr/en/international/article/2022/12/19/us-supreme-court-temporarily-blocks-lifting-of-asylum-restrictions_6008383_4.html)
@@ -270,6 +270,6 @@ Amnesty International considers Virginia Laparra to be a 'prisoner of conscience
  - [https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-19 00:26:21+00:00
- - tags: biurocracy,climate change
 
 No head of state, apart from Justin Trudeau, has planned to attend the conference. Everyone seems to be acknowledging that whatever is signed in Montreal will have no impact on the course of the world, writes Stéphane Foucart, a journalist for 'Le Monde'.
+

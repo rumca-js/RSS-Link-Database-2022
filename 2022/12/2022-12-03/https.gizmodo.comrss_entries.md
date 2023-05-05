@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The Last of Us Brings the Father-Daughter Road Trip to Live Action
  - [https://gizmodo.com/the-last-of-us-hbo-series-trailer-1849850989](https://gizmodo.com/the-last-of-us-hbo-series-trailer-1849850989)
@@ -83,3 +83,4 @@
  - date published: 2022-12-03 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--EKDjQGCM--/c_fit,fl_progressive,q_80,w_636/500375cfeb388258529d9db6d591fcc2.png" /><p>Welcome back to Toy Aisle, io9's regular round up of the coolest collectibles and most marvelous merchandise around. This week, we’ve got a whole host of <a href="https://gizmodo.com/lego-releases-largest-marvel-set-ever-with-hulkbuster-1849671947">Marvel Lego</a> to assemble, <a href="https://gizmodo.com/transformers-rise-of-the-beasts-trailer-teaser-beast-wa-1849839119"><em>Transformers</em></a> goes retro again, and the armored star of <a href="https://gizmodo.com/demons-souls-logitech-peripherals-xbox-one-sans-kinec-1575785321"><em>Demon’s Souls</em></a> braves the world of action figures. Check it out!<br /></p><p><a href="https://gizmodo.com/lego-marvel-star-wars-2023-sets-figma-demons-souls-1849825711">Read more...</a></p>
+

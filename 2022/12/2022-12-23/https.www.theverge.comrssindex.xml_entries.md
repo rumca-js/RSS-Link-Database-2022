@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Users report Google Calendar bug creating random, fake events
  - [https://www.theverge.com/2022/12/23/23524555/google-calendar-ios-android-app-spam-events](https://www.theverge.com/2022/12/23/23524555/google-calendar-ios-android-app-spam-events)
@@ -334,3 +334,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/22/23523322/lastpass-data-breach-cloud-encrypted-password-vault-hackers">Continue reading&hellip;</a>
   </p>
+

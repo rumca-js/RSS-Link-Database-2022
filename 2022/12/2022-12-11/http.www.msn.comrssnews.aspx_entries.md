@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Patti LaBelle rushed off stage after bomb threat
  - [http://www.msn.com/en-us/news/us/patti-labelle-rushed-off-stage-after-bomb-threat/ar-AA159PwM?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/patti-labelle-rushed-off-stage-after-bomb-threat/ar-AA159PwM?li=BBnbcA1&srcref=rss)
@@ -893,5 +893,6 @@
  - [http://www.msn.com/en-us/news/us/fire-department-saves-eagle-impaled-on-lightning-rod-atop-120-foot-radio-tower/ar-AA157Ryy?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/fire-department-saves-eagle-impaled-on-lightning-rod-atop-120-foot-radio-tower/ar-AA157Ryy?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-11 00:03:39.386652+00:00
+
 
 

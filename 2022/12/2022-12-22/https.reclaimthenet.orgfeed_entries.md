@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## TikTok spied on US journalists and other US users, monitored their location
  - [https://reclaimthenet.org/tiktok-spied-on-us-journalists-users/](https://reclaimthenet.org/tiktok-spied-on-us-journalists-users/)
@@ -47,3 +47,4 @@
 
 <a href="https://reclaimthenet.org/kamala-harris-social-media-work-white-house-misinformation-democracy/" rel="nofollow" title="VP Kamala Harris would &#8220;require&#8221; social media to work with The White House to protect &#8220;democracy&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/vp-kamala-harris-2.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Harris says she is concerned about "disinformation and misinformation."</p>
 <p>The post <a href="https://reclaimthenet.org/kamala-harris-social-media-work-white-house-misinformation-democracy/" rel="nofollow">VP Kamala Harris would &#8220;require&#8221; social media to work with The White House to protect &#8220;democracy&#8221;</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

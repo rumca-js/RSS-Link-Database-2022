@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Zachorowania na grypę "wystrzeliły". Ekspert nie ma dobrych wieści
  - [https://businessinsider.com.pl/wiadomosci/zachorowania-na-grype-wystrzelily-ekspert-pierwszy-sezon-o-tak-ciezkim-przebiegu/3y8byxm](https://businessinsider.com.pl/wiadomosci/zachorowania-na-grype-wystrzelily-ekspert-pierwszy-sezon-o-tak-ciezkim-przebiegu/3y8byxm)
@@ -391,3 +391,4 @@ Kupować czy czekać na spadki cen? Inwestorzy bacznie przyglądają się rynkow
  - date published: 2022-12-27 04:58:00+00:00
 
 To nie będzie łatwy rok. Wojna w Ukrainie prawdopodobnie się jeszcze nie zakończy, chociaż wszyscy byśmy sobie tego życzyli. Podobnie jak mamy nadzieję, że nie będziemy się już musieli mierzyć z tyloma szokami zewnętrznymi. Tego nikt nam nie może jednak obiecać i ja tego nikomu też nie obiecuję – mówi w wywiadzie dla Business Insider Polska minister finansów Magdalena Rzeczkowska.
+

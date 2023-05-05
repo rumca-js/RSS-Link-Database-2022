@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Keith Olbermann whines his MSNBC anchor ex-girlfriend beat the crap out of him and I think expects us to feel bad
  - [https://www.louderwithcrowder.com/keith-olbermann-katie-tur](https://www.louderwithcrowder.com/keith-olbermann-katie-tur)
@@ -204,3 +204,4 @@
 <a href="https://youtu.be/Mydj21dcYKk" target="_blank">youtu.be</a>
 </small>
 </p>
+

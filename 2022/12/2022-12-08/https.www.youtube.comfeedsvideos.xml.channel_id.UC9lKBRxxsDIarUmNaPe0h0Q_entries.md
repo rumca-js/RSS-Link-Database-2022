@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## You are being LIED to about inflation (here's the REAL cause)
  - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-12-08 14:30:52+00:00
- - tags: politics,inflation,all time,economy
 
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/
 📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/
@@ -45,3 +44,4 @@ Presented by Sorelle Amore.
 Written by Leon Hill.
 
 #Inflation #PriceGouging #Inflation2022
+

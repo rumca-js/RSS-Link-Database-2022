@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## They Thought It Was Hail. It Was Something WAY Weirder.
  - [https://www.youtube.com/watch?v=NfM-EJMFE48](https://www.youtube.com/watch?v=NfM-EJMFE48)
@@ -56,3 +56,4 @@ TIMESTAMPS:
 6:32 - Secret Military Experiments
 7:59 - Fact Vs Fiction
 9:51 - Sponsor - Hello Fresh
+

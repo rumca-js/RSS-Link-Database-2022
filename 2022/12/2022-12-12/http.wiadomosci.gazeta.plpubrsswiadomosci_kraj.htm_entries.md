@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Gen. Mirosław Hermaszewski nie żyje. Polski kosmonauta zmarł w Warszawie w wieku 81 lat
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29253993,gen-miroslaw-hermaszewski-nie-zyje-polski-astronauta-zmarl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29253993,gen-miroslaw-hermaszewski-nie-zyje-polski-astronauta-zmarl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -125,3 +125,4 @@
  - date published: 2022-12-12 05:48:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/71/e4/1b/z29248625M.jpg" vspace="2" />IMGW wydał ostrzeżenia drugiego stopnia przed intensywnym śniegiem i zamieciami na Pomorzu oraz Warmii i Mazurach. W tych regionach od rana pracują pługi i solarki. Na lokalnych drogach jest jednak niebezpiecznie.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Polacy wytwarzają przedmioty z użyciem chleba. Druk 3D po raz kolejny zaskakuje
  - [https://www.chip.pl/2022/12/druk-3d-z-uzyciem-chleba-polacy](https://www.chip.pl/2022/12/druk-3d-z-uzyciem-chleba-polacy)
@@ -63,3 +63,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1278" src="https://konto.chip.pl/wp-content/uploads/2022/12/factory-7541157_1920.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/factory-7541157_1920.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Na terenie kilku gmin na Żuławach Wiślanych powstanie ogromna inwestycja związana z infrastrukturą do wytwarzania zielonego wodoru. Według planów inwestora Green Capital S.A., na obszarze największej depresji w Polsce będzie produkowane aż 2,2 mln MWh rocznie. Jak dokładnie będzie produkowany tutaj zielony wodór? Firma Green Capital S.A. zlokalizuje na Żuławach Wiślanych olbrzymią inwestycję skupioną wokół [&#8230;]</p>
+

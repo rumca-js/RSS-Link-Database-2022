@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Pentagon: USA zwiększą obecność sił na wschodniej flance NATO
  - [https://businessinsider.com.pl/wiadomosci/pentagon-usa-zwieksza-obecnosc-sil-na-wschodniej-flance-nato/9ze6lm9](https://businessinsider.com.pl/wiadomosci/pentagon-usa-zwieksza-obecnosc-sil-na-wschodniej-flance-nato/9ze6lm9)
@@ -545,3 +545,4 @@ Firma, której pracownik zostanie powołany na ćwiczenia wojskowe, otrzyma świ
  - date published: 2022-12-09 04:59:00+00:00
 
 Jacek Jastrzębski, przewodniczący Komisji Nadzoru Finansowego, spotkanie świąteczne środowiska bankowego wykorzystał, aby jasno przedstawić, jakie ma oczekiwania wobec sektora. — Moim zdaniem jedną z przyczyn obecnej sytuacji i wyraźnej eskalacji oczekiwań wobec banków jest niestety wypieranie problemu frankowego przez banki i przysłowiowe "liczenie na cud", który jednak – jak to z cudami bywa – nie nastąpił. Dziś jest to już jednak historia, z której możemy jedynie wyciągać wnioski na przyszłość – powiedział bankowcom szef KNF.
+

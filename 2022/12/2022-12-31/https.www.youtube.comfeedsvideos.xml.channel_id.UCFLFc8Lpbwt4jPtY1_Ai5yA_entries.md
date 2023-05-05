@@ -1,10 +1,9 @@
-# Source LMG Clips, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA, Source language: en-US
+# Source:LMG Clips, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA, language:en-US
 
 ## Linus Goes Broke - Floatplane Exclusive
  - [https://www.youtube.com/watch?v=wAiQ4HE6IN8](https://www.youtube.com/watch?v=wAiQ4HE6IN8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA
  - date published: 2022-12-31 01:19:18+00:00
- - user: None
 
 Catch the full BTS for this, and many of our other videos on Floatplane! https://www.floatplane.com/channel/linustechtips
 
@@ -24,3 +23,4 @@ Facebook: http://www.facebook.com/LinusTech
 Instagram: https://www.instagram.com/linustech
 TikTok: https://www.tiktok.com/@linustech
 Twitch: https://www.twitch.tv/linustech
+

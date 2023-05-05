@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Jacek Kurski u boku prezesa NBP. Pojawił się na spotkaniu z szefem banku centralnego Ukrainy
  - [https://businessinsider.com.pl/wiadomosci/jacek-kurski-u-boku-prezesa-nbp-pojawil-sie-na-spotkaniu-z-szefem-banku-centralnego/sepkjrp](https://businessinsider.com.pl/wiadomosci/jacek-kurski-u-boku-prezesa-nbp-pojawil-sie-na-spotkaniu-z-szefem-banku-centralnego/sepkjrp)
@@ -482,3 +482,4 @@ Dla wielu Niemców przedświąteczne wyjazdy do Polski były niemal tradycją. M
  - date published: 2022-12-20 05:00:00+00:00
 
 Dla wielu Niemców przedświąteczne wyjazdy do Polski były niemal tradycją. Można było kupić świąteczne specjały, alkohol na sylwestrowe zabawy, choinkę i przy okazji zatankować. Wszystko to rzecz jasna z dużą oszczędnością. Wygląda na to, że to się właśnie kończy.
+

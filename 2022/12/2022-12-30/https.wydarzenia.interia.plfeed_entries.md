@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Brytyjski historyk podaje datę zakończenia wojny. "Putin nie może wygrać"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-brytyjski-historyk-podaje-date-zakonczenia-wojny-putin-nie-m,nId,6505064](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-brytyjski-historyk-podaje-date-zakonczenia-wojny-putin-nie-m,nId,6505064)
@@ -489,3 +489,4 @@
  - date published: 2022-12-30 04:39:56+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-310-dzien-inwazji-rosji-relacja-na-zywo,nzId,3554,akt,300853"><img align="left" alt="Wojna w Ukrainie. 310. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-310-dzien-inwazji-rosji-relacja-na-zywo/000GG20TWBTAVLF9-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

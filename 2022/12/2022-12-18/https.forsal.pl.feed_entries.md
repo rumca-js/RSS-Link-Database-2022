@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Arestowycz potwierdza informacje medialne: Wojska ukraińskie podjęły próbę zabicia gen. Gierasimowa
  - [https://forsal.pl/swiat/ukraina/artykuly/8613136,arestowycz-wojska-ukrainskie-podjely-probe-zabicia-gen-gierasimowa.html](https://forsal.pl/swiat/ukraina/artykuly/8613136,arestowycz-wojska-ukrainskie-podjely-probe-zabicia-gen-gierasimowa.html)
@@ -137,7 +137,6 @@
  - [https://forsal.pl/biznes/aktualnosci/artykuly/8611458,elon-musk-miliarderzy-demokracja.html](https://forsal.pl/biznes/aktualnosci/artykuly/8611458,elon-musk-miliarderzy-demokracja.html)
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-18 09:57:31+00:00
- - tags: musk,billionaires
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/tqgktkuTURBXy8xYjMzMzEyYi00NGY4LTRkMDAtYThkNC1iNzZiYjVhYmMxOWQuanBlZ5GTBc0BHcyg" />Przypadek szefa Tesli jak w soczewce skupia wszystkie problemy, w które kapryśni miliarderzy mogą wpędzić demokratyczne społeczeństwa.
 
@@ -231,3 +230,4 @@
  - date published: 2022-12-18 08:05:01+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/eywktkuTURBXy9iYTBkOTEwYy1jMzE1LTQxNDYtYTlhZi02Nzg4YWVlNDZjYjYuanBlZ5GTBc0BHcyg" />Wojna w Ukrainie i pandemia będą trwać. Wysokie ceny towarów będą sprzyjać producentom, ale pogłębią brak bezpieczeństwa żywnościowego i zaszkodzą wielu gospodarkom. Chociaż dynamika światowego PKB spowolni do 1,6 proc. w 2023 r. z 2,8 proc. w 2022 r., to inflacja utrzyma się na wysokim poziomie 6 proc., co zmusi banki centralne do dalszego podnoszenia stóp procentowych. Jednak Chiny utrzymają niskie stopy i mogą złagodzić swoją politykę zero tolerancji dla pandemii, czym pobudzą światowy handel.
+

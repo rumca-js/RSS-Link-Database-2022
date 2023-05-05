@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## George Santos Moved to Florida in 2016, Voted There, Then Quickly Registered Again in New York
  - [https://theintercept.com/2022/12/23/george-santos-new-york-florida-voter-registration/](https://theintercept.com/2022/12/23/george-santos-new-york-florida-voter-registration/)
@@ -15,3 +15,4 @@
 
 <p>After being shut down by local protesters, Ducey told a federal judge he would remove the shipping container wall.</p>
 <p>The post <a href="https://theintercept.com/2022/12/23/arizona-border-shipping-containers-doug-ducey/" rel="nofollow">Arizona Gov. Doug Ducey Agrees to Remove Illegal Border Wall</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

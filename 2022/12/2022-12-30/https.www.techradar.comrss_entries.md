@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Crypto platform 3Commas confirms major API breach, FBI to investigate
  - [https://www.techradar.com/news/crypto-platform-3commas-confirms-major-api-breach-fbi-to-investigate](https://www.techradar.com/news/crypto-platform-3commas-confirms-major-api-breach-fbi-to-investigate)
@@ -53,7 +53,6 @@ Alibaba has announced a change to its top roles as it recovers from a major Hong
  - [https://www.techradar.com/news/google-home-speakers-could-have-been-hijacked-to-spy-on-your-conversations](https://www.techradar.com/news/google-home-speakers-could-have-been-hijacked-to-spy-on-your-conversations)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-30 11:01:38+00:00
- - tags: google,privacy,hacker
 
 Flaw in Google Home mini speakers could add new accounts to the device and eavesdrop on owners.
 
@@ -70,3 +69,4 @@ Apple chip partner TSMC says that its next-gen processors are going to offer sig
  - date published: 2022-12-30 09:00:55+00:00
 
 We evaluate Intel’s performance over the year, from Raptor Lake CPUs to the debacle of the Arc GPU launch.
+

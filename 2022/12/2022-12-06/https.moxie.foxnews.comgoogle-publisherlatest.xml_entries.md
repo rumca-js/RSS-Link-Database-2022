@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Saints' Mark Ingram apologizes for role in loss to Bucs: 'I'm sick about this one'
  - [https://www.foxnews.com/sports/saints-mark-ingram-apologizes-role-loss-bucs-im-sick-about-this-one](https://www.foxnews.com/sports/saints-mark-ingram-apologizes-role-loss-bucs-im-sick-about-this-one)
@@ -1231,3 +1231,4 @@ Samaritan's Purse, the international Christian relief and evangelism organizatio
  - date published: 2022-12-06 00:02:23+00:00
 
 France superstar Kylian Mbappe has been hiding the Budweiser logo during his "Man of the Match" award photos, and reports say it's being done on purpose at the World Cup.
+

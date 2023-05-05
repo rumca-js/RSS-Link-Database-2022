@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Apple Expands Pricing for Apps
  - [https://www.nytimes.com/2022/12/06/technology/apple-apps-prices.html](https://www.nytimes.com/2022/12/06/technology/apple-apps-prices.html)
@@ -55,3 +55,4 @@ The new Crisis Core: Final Fantasy VII Reunion was overhauled in graphics and ga
  - date published: 2022-12-06 10:00:13+00:00
 
 Taiwan Semiconductor Manufacturing Company, the world’s biggest maker of advanced computer chips, plans to unveil an ambitious factory upgrade in Arizona.
+

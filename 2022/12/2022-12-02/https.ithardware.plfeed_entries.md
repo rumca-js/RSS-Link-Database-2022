@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Assassin`s Creed: Mirage może zadebiutować w drugiej połowie 2023 roku
  - [https://ithardware.pl/aktualnosci/assassin_s_creed_mirage_moze_zadebiutowac_w_drugiej_polowie_2023_roku-24660.html](https://ithardware.pl/aktualnosci/assassin_s_creed_mirage_moze_zadebiutowac_w_drugiej_polowie_2023_roku-24660.html)
@@ -121,3 +121,4 @@ W oświadczeniu...
 
 <img src="https://ithardware.pl/artykuly/min/24610_1.jpg" />            Dziś drugi dzień naszego corocznego Kalendarza Adwentowego, a zatem konkursu, w kt&oacute;rym codziennie, przez 24 dni, do zgarnięcia jest nagroda. Dziś do wygrania wysokiej jakości router z Wi-Fi 6 TP-Link Archer AX55 o wartości 395...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_2-24610.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_2-24610.html</a></p>
+

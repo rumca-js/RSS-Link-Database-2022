@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Ukraine Steps Up Attacks on Russian Targets in Occupied Territory
  - [https://www.wsj.com/articles/ukraine-steps-up-attacks-on-russian-targets-in-occupied-territory-11671105323](https://www.wsj.com/articles/ukraine-steps-up-attacks-on-russian-targets-in-occupied-territory-11671105323)
@@ -41,3 +41,4 @@ As America’s sway across the resource-rich continent has declined, Moscow has 
  - date published: 2022-12-15 11:22:00+00:00
 
 Senior officials are setting a robust GDP growth target of more than 5% for next year as they loosen Covid rules and de-emphasize ideology.
+

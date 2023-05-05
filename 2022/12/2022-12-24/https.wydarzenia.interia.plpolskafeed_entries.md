@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Pomysłowe i niepowtarzalne życzenia świąteczne. Gotowe propozycje bożonarodzeniowe
  - [https://wydarzenia.interia.pl/raport-boze-narodzenie-2022/news-pomyslowe-i-niepowtarzalne-zyczenia-swiateczne-gotowe-propoz,nId,6491111](https://wydarzenia.interia.pl/raport-boze-narodzenie-2022/news-pomyslowe-i-niepowtarzalne-zyczenia-swiateczne-gotowe-propoz,nId,6491111)
@@ -20,3 +20,4 @@
  - date published: 2022-12-24 05:19:49+00:00
 
 <p>Dla wielu osób Wigilia to ostatni moment, żeby zrobić zaległe przedświąteczne zakupy. Większość galerii handlowych i supermarketów jest otwartych, ale w innych godzinach niż zwykle. Sprawdź, jak są otwarte sklepy 24 grudnia i dowiedz się, czy wyrobisz się ze swoimi sprawunkami.</p><br clear="all" />
+

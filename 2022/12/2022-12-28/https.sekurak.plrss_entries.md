@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## [nowość] Skrót newsów sekuraka na e-mail. Zapisz się tutaj :-)
  - [https://sekurak.pl/nowosc-skrot-newsow-sekuraka-na-e-mail-zapisz-sie-tutaj/](https://sekurak.pl/nowosc-skrot-newsow-sekuraka-na-e-mail-zapisz-sie-tutaj/)
@@ -31,3 +31,4 @@
 
 <p>Akcja wyglądała jak na zrzucie poniżej: Wielu internautów machinalnie klika pierwszy link w Google, a tam&#8230;: Strona oczywiście graficznie podobna do oryginalnej, tyle że serwująca zainfekowany sterownik&#8230;Uważajcie i najlepiej zapatrzcie się w adblockera. ~ms</p>
 <p>Artykuł <a href="https://sekurak.pl/nasz-czytelnik-googlowal-sterowniki-do-karty-graficznej-kliknal-w-reklame-i-wyladowal-na-zainfekowanej-stronie-uwaga/" rel="nofollow">Nasz czytelnik googlował sterowniki do karty graficznej. Kliknął w reklamę i wylądował na zainfekowanej stronie. Uwaga!</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

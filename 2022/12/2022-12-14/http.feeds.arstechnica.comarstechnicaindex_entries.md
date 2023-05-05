@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## High class: A strong electric assist transforms a classic cruiser
  - [https://arstechnica.com/?p=1901684](https://arstechnica.com/?p=1901684)
@@ -67,7 +67,6 @@ In an abrupt reversal, China ended mandatory testing last week.
  - [https://arstechnica.com/?p=1904382](https://arstechnica.com/?p=1904382)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-14 17:50:42+00:00
- - tags: moderation,youtube,social media
 
 New automated moderation program does not seem to allow for human intervention.
 
@@ -119,3 +118,4 @@ Senators Warren and Welch urged Pfizer to back down from "unseemly profiteering.
  - date published: 2022-12-14 11:45:58+00:00
 
 "Flexing geopolitical muscles in space to harm others has already happened."
+

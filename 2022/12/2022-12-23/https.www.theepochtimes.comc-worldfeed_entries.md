@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## China Estimates 248 Million People Infected with COVID in 20 Days: Reports
  - [https://www.theepochtimes.com/china-estimates-248-million-people-infected-with-covid-in-20-days-reports_4943473.html](https://www.theepochtimes.com/china-estimates-248-million-people-infected-with-covid-in-20-days-reports_4943473.html)
@@ -300,3 +300,4 @@ A man runs across a downtown street during a winter storm in Toronto on Feb. 27,
  - date published: 2022-12-23 01:11:42+00:00
 
 Bamboo salt has been known in South Korea for more than 1000 years. Apart from being used as a condiment, it is also used to treat various diseases. South Korean bamboo salt is made by putting bay salt in a thick bamboo stem, blocking the ends with loess, and then baking it 9 times with pine firewood. (Photo courtesy of "Insan Bamboo Salt")
+

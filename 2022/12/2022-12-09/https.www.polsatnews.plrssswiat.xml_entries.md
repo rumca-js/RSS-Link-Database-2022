@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. Zabójstwo George'a Floyda. Wyrok dla kolejnego byłego policjanta
  - [https://www.polsatnews.pl/wiadomosc/2022-12-09/usa-zabojstwo-georgea-floyda-wyrok-dla-kolejnego-bylego-policjanta/](https://www.polsatnews.pl/wiadomosc/2022-12-09/usa-zabojstwo-georgea-floyda-wyrok-dla-kolejnego-bylego-policjanta/)
@@ -118,3 +118,4 @@ Pożar centrum handlowego w podmoskiewskich Chimkach. Na zdjęciach i nagraniach
  - date published: 2022-12-09 07:18:00+00:00
 
 Rosyjski sąd deportował Sarah Krivanek, która jest obywatelką Stanów Zjednoczonych. Kobieta była więziona przez prawie rok pod zarzutem napaści na swojego partnera - przekazały media. To kolejna skazana Amerykanka, która wróciła w ostatnich dniach z Rosji do USA.
+

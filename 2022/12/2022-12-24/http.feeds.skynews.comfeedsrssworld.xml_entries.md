@@ -1,4 +1,11 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
+
+## At least 24 dead and hundreds of thousands of homes without power in brutal US storm
+ - [https://news.sky.com/story/us-bomb-cyclone-at-least-24-dead-and-hundreds-of-thousands-of-homes-without-power-in-brutal-storm-12774272](https://news.sky.com/story/us-bomb-cyclone-at-least-24-dead-and-hundreds-of-thousands-of-homes-without-power-in-brutal-storm-12774272)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-24 22:07:00+00:00
+
+At least 24 people have died in the US as the country grapples with a brutal winter storm.
 
 ## Pope rebukes those 'ravenous' for power in annual Christmas Eve mass
  - [https://news.sky.com/story/pope-rebukes-those-ravenous-for-power-in-annual-christmas-eve-mass-12774261](https://news.sky.com/story/pope-rebukes-those-ravenous-for-power-in-annual-christmas-eve-mass-12774261)
@@ -41,3 +48,4 @@ Convicted killer Charles Sobhraj has arrived in France after being released from
  - date published: 2022-12-24 04:33:00+00:00
 
 Twenty people are dead after a fire at an unregistered care home in Siberia.
+

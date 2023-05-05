@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Trump White House lawyer told key witness to mislead Jan. 6 panel, sources say
  - [https://www.cnn.com/2022/12/20/politics/trump-ethics-lawyer-passantino-cassidy-hutchinson-misleading-testimony-jan-6/index.html](https://www.cnn.com/2022/12/20/politics/trump-ethics-lawyer-passantino-cassidy-hutchinson-misleading-testimony-jan-6/index.html)
@@ -539,3 +539,4 @@ A skier was rescued on Friday in Teton County, Wyoming, near Jackson Hole after 
  - date published: 2022-12-20 00:17:34+00:00
 
 It seems only yesterday that Enner Valencia was swatting aside Qatar in the 2022 World Cup's curtain raiser.
+

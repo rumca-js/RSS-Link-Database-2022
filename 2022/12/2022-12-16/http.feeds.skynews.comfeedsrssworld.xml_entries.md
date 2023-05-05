@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Mongolia trying to 'diversify' gas sector to get away from dependence on Russian neighbour
  - [https://news.sky.com/story/mongolia-trying-to-diversify-gas-sector-to-get-away-from-dependence-on-russian-neighbour-12769728](https://news.sky.com/story/mongolia-trying-to-diversify-gas-sector-to-get-away-from-dependence-on-russian-neighbour-12769728)
@@ -20,6 +20,13 @@ Thousands of tourists have reportedly been left stranded in the Peruvian city of
  - date published: 2022-12-16 20:03:00+00:00
 
 The family of a British man who died after a "non-work related incident" involving three Britons aboard an oil rig in Qatar have paid tribute to "an amazing, one-of-a-kind, beautiful soul".
+
+## Iran protests: Teen's bravery offers glimmer of hope as violent crackdown continues
+ - [https://news.sky.com/story/iran-protests-teens-bravery-offers-glimmer-of-hope-as-violent-crackdown-and-internet-restrictions-continue-12769571](https://news.sky.com/story/iran-protests-teens-bravery-offers-glimmer-of-hope-as-violent-crackdown-and-internet-restrictions-continue-12769571)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-16 18:54:00+00:00
+
+In her sunshine yellow coat, a 17-year-old girl clambered on top of a car and threw her hands in the air - fingers spread to show V for victory &#8211; and the crowd erupted in a loud cheer.
 
 ## Migrants rescued from second boat on same night four lives lost in Channel
  - [https://news.sky.com/story/channel-crossings-migrants-rescued-from-second-boat-on-same-night-four-lives-were-lost-12769577](https://news.sky.com/story/channel-crossings-migrants-rescued-from-second-boat-on-same-night-four-lives-were-lost-12769577)
@@ -111,3 +118,4 @@ Ten people, including five children aged between three and 15 years old, have be
  - date published: 2022-12-16 01:25:00+00:00
 
 A pilot safely ejected from a military jet after a failed landing that was caught on video in North Texas.
+

@@ -1,4 +1,46 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Lawyer Harmeet Dhillon Claims Victory As January 6 Panel Drops Trump Subpoena
+ - [https://www.dailywire.com/news/lawyer-harmeet-dhillon-claims-victory-as-january-6-panel-drops-trump-subpoena](https://www.dailywire.com/news/lawyer-harmeet-dhillon-claims-victory-as-january-6-panel-drops-trump-subpoena)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-28 22:36:54+00:00
+
+Conservative attorney Harmeet Dhillon is celebrating the House January 6 Committee withdrawing its subpoena against former President Donald Trump. The victory for The Dhillon Law Group, which Trump hired after being subpoenaed in October for testimony and documents, comes as Dhillon is challenging Chairwoman Ronna McDaniel to lead the Republican National Committee. &#8220;After my firm ...
+
+## Left-Wing Groups Funded Climate Alarmism Journalism, Claims Debunked: Report
+ - [https://www.dailywire.com/news/left-wing-groups-funded-climate-alarmism-journalism-claims-debunked-report](https://www.dailywire.com/news/left-wing-groups-funded-climate-alarmism-journalism-claims-debunked-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-28 22:36:10+00:00
+
+Five non-profit groups published a report Wednesday debunking mainstream media claims about the disastrous impacts of the so-called climate change crisis this year, which also included receiving millions of dollars to fund climate coverage. The &#8220;Climate Fact Check 2022&#8221; report created by the Competitive Enterprise Institute (CEI), the Heartland Institute, Energy &amp; Environment Legal Institute, ...
+
+## Hall Of Fame Wide Receiver Terrell Owens Looking For Return To Dallas Cowboys At Nearly 50 Years Old: Report
+ - [https://www.dailywire.com/news/hall-of-fame-wide-receiver-terrell-owens-looking-for-return-to-dallas-cowboys-at-nearly-50-years-old-report](https://www.dailywire.com/news/hall-of-fame-wide-receiver-terrell-owens-looking-for-return-to-dallas-cowboys-at-nearly-50-years-old-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-28 20:16:03+00:00
+
+Hall of Fame wide receiver Terrell Owens is reportedly looking to come back to play in the NFL as he nears 50 years old. Sports Illustrated reported that Owens&#8217; agent, Gregory D.L Daniel, Esq., confirmed that Owens has stayed in top shape and has been in contact with multiple NFL teams. If signed, Owens would become ...
+
+## Biden’s Past Attacks On Trump Come Back To Bite Him After Newest White House Pandemic Policy
+ - [https://www.dailywire.com/news/bidens-past-attacks-on-trump-come-back-to-bite-him-after-newest-white-house-pandemic-policy](https://www.dailywire.com/news/bidens-past-attacks-on-trump-come-back-to-bite-him-after-newest-white-house-pandemic-policy)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-28 19:23:07+00:00
+
+President Joe Biden faced scrutiny this week over his past attacks on former President Donald Trump regarding pandemic restrictions after the Biden administration announced it was reinstating testing requirements for travelers coming to the U.S. from China. The announcement from the administration comes as coronavirus numbers in China have skyrocketed in recent weeks, with millions ...
+
+## ‘Unbelievable’: Biometric Device With Identities Of U.S. Servicemen, Afghan Allies Sold On eBay For $68, Report Says
+ - [https://www.dailywire.com/news/unbelievable-biometric-device-with-identities-of-u-s-servicemen-afghan-allies-sold-on-ebay-for-68-report-says](https://www.dailywire.com/news/unbelievable-biometric-device-with-identities-of-u-s-servicemen-afghan-allies-sold-on-ebay-for-68-report-says)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-28 19:07:39+00:00
+
+A U.S. military device used to record and store information on military personnel, Afghanis who worked with the U.S. military, terrorists, and others reportedly turned up on an online auction platform and was sold for $68. The purchaser is German security researcher Matthias Marx. Marx and his team purchased the device, known as a Secure ...
+
+## Prosecutors Open Criminal Investigation Into Republican George Santos For Allegedly Lying About His Background
+ - [https://www.dailywire.com/news/prosecutors-open-criminal-investigation-into-republican-george-santos-for-allegedly-lying-about-his-background](https://www.dailywire.com/news/prosecutors-open-criminal-investigation-into-republican-george-santos-for-allegedly-lying-about-his-background)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-28 18:31:17+00:00
+
+Local prosecutors have opened a criminal investigation into U.S. Rep-elect George Santos (R-NY) after he was accused of, and subsequently admitted to, fabricating numerous claims about his background. In an interview with the New York Post Monday, Santos admitted that he fibbed about the claim that he worked for financial titans Goldman Sachs and Citigroup; ...
 
 ## New ‘Avatar’ Flick Tops $1 Billion In Just 14 Days – Faster Than Any Other Film This Year
  - [https://www.dailywire.com/news/new-avatar-flick-tops-1-billion-in-just-14-days-faster-than-any-other-film-this-year](https://www.dailywire.com/news/new-avatar-flick-tops-1-billion-in-just-14-days-faster-than-any-other-film-this-year)
@@ -209,3 +251,4 @@ A startup run by an environmentalist likened to a Bond villain is intentionally 
  - date published: 2022-12-28 08:23:38+00:00
 
 The adopted daughter of baseball Hall of Famer Dennis Eckersley was arrested Monday after allegedly abandoning her newborn boy after giving birth in a New Hampshire homeless camp amid freezing temperatures. Alexandra Eckersley, 26, who has a prior drug conviction, was charged with second-degree assault/extreme indifference and falsifying physical evidence charges, as well as misdemeanor ...
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## From Bitcoin to blockchain: Key cryptocurrency terms and what they mean
  - [https://www.bbc.co.uk/news/world-us-canada-63963079?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63963079?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ TikTok, owned by Chinese firm ByteDance, has called the effort "politically moti
  - date published: 2022-12-13 00:29:30+00:00
 
 FTX filed for bankruptcy last month, leaving many unable to withdraw their funds from the cryptocurrency exchange.
+

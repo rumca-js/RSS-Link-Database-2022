@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## CES 2023: what to expect from the world’s largest electronics expo in January
  - [https://www.techradar.com/news/ces-2023](https://www.techradar.com/news/ces-2023)
@@ -20,3 +20,4 @@ Uncertainty over the pricing of the 2023 flagship phones may have pushed the lau
  - date published: 2022-12-18 10:30:49+00:00
 
 We get a good look at the camera bump on the back of the OnePlus 11 in the phone's first official video.
+

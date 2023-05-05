@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Chrome now supports passkeys, the password killer
  - [https://www.pcworld.com/article/1431681/chrome-now-supports-passkeys-the-password-killer.html](https://www.pcworld.com/article/1431681/chrome-now-supports-passkeys-the-password-killer.html)
@@ -790,3 +790,4 @@ Gaming, Mice</div>
 <p><em>Prices subject to change.</em></p>
 
 Web Development</div>
+

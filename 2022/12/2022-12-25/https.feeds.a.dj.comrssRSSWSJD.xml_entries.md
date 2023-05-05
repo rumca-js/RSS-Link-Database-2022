@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Rising Power Prices in Europe Are Making EV Ownership More Expensive
  - [https://www.wsj.com/articles/rising-power-prices-in-europe-are-making-ev-ownership-more-expensive-11671719724?mod=rss_Technology](https://www.wsj.com/articles/rising-power-prices-in-europe-are-making-ev-ownership-more-expensive-11671719724?mod=rss_Technology)
@@ -13,3 +13,4 @@ The price rises for power remove a powerful incentive for consumers who were con
  - date published: 2022-12-25 10:30:00+00:00
 
 Here are the simple settings you need to know to become your own tech-support wizard.
+

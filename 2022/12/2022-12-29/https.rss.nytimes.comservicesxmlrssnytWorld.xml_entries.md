@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Missile Attack Overwhelms Ukraine’s Air Defenses
  - [https://www.nytimes.com/2022/12/29/world/europe/russia-strikes-ukraine.html](https://www.nytimes.com/2022/12/29/world/europe/russia-strikes-ukraine.html)
@@ -125,3 +125,4 @@ European subsidiaries of the American oil giant filed a lawsuit with a European 
  - date published: 2022-12-29 05:31:36+00:00
 
 New requirements for passengers coming from China.
+

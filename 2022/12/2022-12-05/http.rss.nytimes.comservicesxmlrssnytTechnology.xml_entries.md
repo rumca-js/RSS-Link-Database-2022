@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## The Brilliance and Weirdness of ChatGPT
  - [https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
@@ -55,3 +55,4 @@ The implosion of the exchange FTX shows how an industry built in the wake of the
  - date published: 2022-12-05 01:30:43+00:00
 
 A release of internal documents from Twitter set off intense debates in the intersecting worlds of media, politics and tech.
+

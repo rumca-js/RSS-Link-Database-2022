@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Indiana sues TikTok, claiming it exposes children to harmful content
  - [https://www.washingtonpost.com/technology/2022/12/07/tiktok-lawsuit-indiana-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/07/tiktok-lawsuit-indiana-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ The city was criticized by civil libertarians after it last week voted to give l
  - date published: 2022-12-07 03:05:00+00:00
 
 Wordle beat out terms like “Election results” and “Jeffrey Dahmer” in the U.S. and “Ukraine” and “Queen Elizabeth” globally.
+

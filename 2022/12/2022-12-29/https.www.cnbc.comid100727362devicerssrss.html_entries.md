@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## U.S. and global health officials are worried about lack of transparency from China on Covid outbreak
  - [https://www.cnbc.com/2022/12/29/us-global-health-officials-worry-about-china-transparency-on-covid.html](https://www.cnbc.com/2022/12/29/us-global-health-officials-worry-about-china-transparency-on-covid.html)
@@ -13,6 +13,13 @@ The U.S. in particular is worried that a new Covid variant could emerge in China
  - date published: 2022-12-29 20:15:53+00:00
 
 Southwest canceled thousands of flights over the past week while other airlines stabilized after brutal winter storms.
+
+## The tech IPO market collapsed in 2022, and next year doesn't look much better
+ - [https://www.cnbc.com/2022/12/29/tech-ipo-market-collapsed-in-2022-next-year-doesnt-look-much-better.html](https://www.cnbc.com/2022/12/29/tech-ipo-market-collapsed-in-2022-next-year-doesnt-look-much-better.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-29 19:45:06+00:00
+
+The only notable tech IPO in the U.S. this year was Intel's spinout of Mobileye, a company that had been public before it was acquired in 2017.
 
 ## Pelé, Brazilian soccer star and only player to win the World Cup three times, dies at age 82
  - [https://www.cnbc.com/2022/12/29/pel-brazilian-soccer-star-dies-at-age-82.html](https://www.cnbc.com/2022/12/29/pel-brazilian-soccer-star-dies-at-age-82.html)
@@ -118,3 +125,4 @@ An analyst maintains a bullish outlook on Apple despite shares of the tech giant
  - date published: 2022-12-29 01:14:28+00:00
 
 Middle-income Singaporeans could be affected most by Singapore's GST hike, which is designed to support an increase government social spending.
+

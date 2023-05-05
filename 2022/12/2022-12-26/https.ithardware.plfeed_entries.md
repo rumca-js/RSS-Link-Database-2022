@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Sony obawia się Xbox Game Pass? Nic z tych rzeczy
  - [https://ithardware.pl/aktualnosci/sony_obawia_sie_xbox_game_pass_nic_z_tych_rzeczy-25043.html](https://ithardware.pl/aktualnosci/sony_obawia_sie_xbox_game_pass_nic_z_tych_rzeczy-25043.html)
@@ -45,3 +45,4 @@ Firma&nbsp;nubia wprowadziła na rynek chiński...
 
 Resident Evil 2 Remake, Resident Evil 3 Remake, a niedługo zadebiutuje...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/capcom_pracuje_nad_resident_evil_code_veronica_remake_wydawca_zablokowal_fanowski_projekt-25039.html">https://ithardware.pl/aktualnosci/capcom_pracuje_nad_resident_evil_code_veronica_remake_wydawca_zablokowal_fanowski_projekt-25039.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Surf a magical archipelago in Wavetale, a former Stadia exclusive coming to Steam
  - [https://www.pcgamer.com/surf-a-magical-archipelago-in-wavetale-a-former-stadia-exclusive-coming-to-steam](https://www.pcgamer.com/surf-a-magical-archipelago-in-wavetale-a-former-stadia-exclusive-coming-to-steam)
@@ -55,3 +55,4 @@ The LA Thieves Call of Duty League skin could function as a veritable sneaking s
  - date published: 2022-12-11 00:39:49+00:00
 
 Lauren Hissrich and others working on the Netflix series responded to comments made by an ex-writer.
+

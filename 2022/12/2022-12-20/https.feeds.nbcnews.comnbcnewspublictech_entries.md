@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## California police say member of Elon Musk's security team is a suspect following stalker claim
  - [https://www.nbcnews.com/tech/tech-news/california-police-say-member-elon-musks-security-team-suspect-stalker-rcna62664](https://www.nbcnews.com/tech/tech-news/california-police-say-member-elon-musks-security-team-suspect-stalker-rcna62664)
@@ -41,3 +41,4 @@ NBC News worked with artists to capture the biggest stories from the year. Here 
  - date published: 2022-12-20 14:01:05+00:00
 
 Knox College students have been threatened by hackers who breached their school's computer systems.
+

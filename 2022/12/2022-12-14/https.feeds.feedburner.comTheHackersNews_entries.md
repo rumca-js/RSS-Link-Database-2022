@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## New GoTrim Botnet Attempting to Break into WordPress Sites' Admin Accounts
  - [https://thehackernews.com/2022/12/new-gotrim-botnet-attempting-to-break.html](https://thehackernews.com/2022/12/new-gotrim-botnet-attempting-to-break.html)
@@ -48,3 +48,4 @@ The critical remote code execution vulnerability, identified as CVE-2022-27518,
 
 Apple on Tuesday rolled out security updates to iOS, iPadOS, macOS, tvOS, and Safari web browser to address a new zero-day vulnerability that could result in the execution of malicious code.
 Tracked as CVE-2022-42856, the issue has been described by the tech giant as a type confusion issue in the WebKit browser engine that could be triggered when processing specially crafted content, leading to
+

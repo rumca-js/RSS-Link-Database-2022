@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 3 Google Chrome extensions to boost productivity I'd never heard of before
  - [https://www.zdnet.com/article/three-google-chrome-productivity-boosting-extensions-id-never-heard-of-before/#ftag=RSSbaffb68](https://www.zdnet.com/article/three-google-chrome-productivity-boosting-extensions-id-never-heard-of-before/#ftag=RSSbaffb68)
@@ -125,3 +125,4 @@ Here are the best gift ideas for your favorite foodie this holiday. Make cooking
  - date published: 2022-12-22 01:03:00+00:00
 
 With the holidays quickly approaching, it's time to start shopping. The best tech gifts don't have to cost a fortune -- we've rounded up products and devices for $100 or less.
+

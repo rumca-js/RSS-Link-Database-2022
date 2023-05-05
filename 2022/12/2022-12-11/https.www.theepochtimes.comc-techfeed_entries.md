@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Twitter to Relaunch Twitter Blue at Higher Price for Apple Users
  - [https://www.theepochtimes.com/twitter-to-relaunch-twitter-blue-at-higher-price-for-apple-users_4916812.html](https://www.theepochtimes.com/twitter-to-relaunch-twitter-blue-at-higher-price-for-apple-users_4916812.html)
@@ -34,3 +34,4 @@ Women mourn at the scene of a crowd crush that happened during Halloween festivi
  - date published: 2022-12-11 00:43:35+00:00
 
 The Twitter logo is displayed on the screen of a smartphone and a tablet in Toulouse, southern France on Oct. 26, 2020. (Lionel Bonaventure/AFP via Getty Images)
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Szczyt ironii". Departament Stanu komentuje słowa Putina
  - [https://tvn24.pl/swiat/wladimir-putin-i-alaksandr-lukaszenka-rozmowy-w-minsku-departament-stanu-usa-slowa-putina-o-tym-ze-rosja-nie-chce-wchlonac-bialorusi-to-szczyt-ironii-6543567?source=rss](https://tvn24.pl/swiat/wladimir-putin-i-alaksandr-lukaszenka-rozmowy-w-minsku-departament-stanu-usa-slowa-putina-o-tym-ze-rosja-nie-chce-wchlonac-bialorusi-to-szczyt-ironii-6543567?source=rss)
@@ -799,3 +799,4 @@
 
 <img alt="Rzucał do tarczy przez 22 godziny. Pobił rekord, wsparł szczytny cel" src="https://tvn24.pl/najnowsze/cdn-zdjecie-0yf3qb-rekord-zostalpobity-6538969/alternates/LANDSCAPE_1280" />
     Pan Wojciech pomógł w budowie Centrum Psychiatrii Dzieci i Młodzieży, przedsięwzięciu Fundacji TVN.
+

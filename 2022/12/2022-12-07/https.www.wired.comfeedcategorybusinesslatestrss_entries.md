@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## San Francisco Just Reversed Its Killer Robot Plan
  - [https://www.wired.com/story/san-francisco-police-killer-robots-ban/](https://www.wired.com/story/san-francisco-police-killer-robots-ban/)
@@ -27,3 +27,4 @@ The company sent cities scrambling to clamp down on short-term rentals. Now reso
  - date published: 2022-12-07 12:00:00+00:00
 
 The articulate new chatbot has won over the internet and shown how engaging conversational AI can be—even when it makes stuff up.
+

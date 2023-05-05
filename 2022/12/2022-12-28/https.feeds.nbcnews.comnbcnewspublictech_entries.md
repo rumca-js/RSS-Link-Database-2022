@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Greta Thunberg claps back at controversial influencer Andrew Tate
  - [https://www.nbcnews.com/news/greta-thunberg-andrew-tate-tweet-twitter-rcna63477](https://www.nbcnews.com/news/greta-thunberg-andrew-tate-tweet-twitter-rcna63477)
@@ -13,3 +13,4 @@ Climate activist Greta Thunberg had a fiery response to controversial influencer
  - date published: 2022-12-28 15:36:17+00:00
 
 The University of Oklahoma and Auburn University in Alabama announced that they would ban access to TikTok from campus Wi-Fi. Some students call the ban unnecessary.
+

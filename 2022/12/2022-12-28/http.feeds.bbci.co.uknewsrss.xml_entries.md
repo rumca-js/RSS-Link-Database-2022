@@ -1,4 +1,18 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## Garth Crooks' Team of the Week: Kane, Rashford, Joelinton, Haaland, Van Dijk, Ream, Sa
+ - [https://www.bbc.co.uk/sport/football/64111537?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64111537?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-28 23:47:34+00:00
+
+Who's leading their team towards the title? Who's excelled after the World Cup? It's Garth Crooks' Team of the Week.
+
+## Chris Dobey says Gary Anderson's 'annoying' comments drove win at World Championship
+ - [https://www.bbc.co.uk/sport/darts/64111670?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/64111670?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-28 23:10:07+00:00
+
+Chris Dobey says his 4-1 win over Gary Anderson at the World Darts Championship was fuelled by annoying comments from the two-time world champion.
 
 ## Hibernian 0-4 Celtic: Scottish Premiership leaders win 12th straight match
  - [https://www.bbc.co.uk/sport/football/64047599?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64047599?at_medium=RSS&at_campaign=KARANGA)
@@ -6,6 +20,13 @@
  - date published: 2022-12-28 23:06:07+00:00
 
 Celtic will go into next week's "showcase" Glasgow derby on a run of 12 straight Scottish Premiership wins after thumping Hibernian at Easter Road.
+
+## Dementia: Ex-British Lions stars join brain injury legal action
+ - [https://www.bbc.co.uk/news/uk-wales-64111598?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-64111598?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-28 23:00:57+00:00
+
+Ex-Wales winger Lenny Woodard says people will be "shocked" when the full list is revealed.
 
 ## Energy giant ExxonMobil sues EU to block energy windfall tax
  - [https://www.bbc.co.uk/news/business-64113398?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64113398?at_medium=RSS&at_campaign=KARANGA)
@@ -20,6 +41,13 @@ The US company says the levy on its profits will discourage future investment in
  - date published: 2022-12-28 22:34:32+00:00
 
 Revitalised Rangers maintain Michael Beale's 100% start going into the Old Firm derby as Motherwell's worrying run in the Scottish Premiership continues.
+
+## PSG 2-1 Strasbourg: Last-minute Mbappe penalty rescues win as Neymar sent off
+ - [https://www.bbc.co.uk/sport/football/64111259?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64111259?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-28 22:27:12+00:00
+
+Mbappe saves PSG with a late penalty as the league leaders struggle to victory against Strasbourg
 
 ## Leeds 1-3 Man City: Erling Haaland reaches 20 Premier League goals in record time
  - [https://www.bbc.co.uk/sport/football/64047637?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64047637?at_medium=RSS&at_campaign=KARANGA)
@@ -384,3 +412,4 @@ In-form Marcus Rashford is scoring goals for Manchester United, but Alan Shearer
  - date published: 2022-12-28 00:10:00+00:00
 
 Looming strikes and sexual assault claims at the Sandhurst military academy lead the papers.
+

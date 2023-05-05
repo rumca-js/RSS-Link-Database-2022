@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Twitter Reinstates Some Accounts of Suspended Journalists
  - [https://www.wsj.com/articles/twitter-reinstates-some-accounts-of-suspended-journalists-11671292940?mod=rss_Technology](https://www.wsj.com/articles/twitter-reinstates-some-accounts-of-suspended-journalists-11671292940?mod=rss_Technology)
@@ -41,3 +41,4 @@ The self-driving trucking company plans to cut potentially at least half of its 
  - date published: 2022-12-17 03:22:00+00:00
 
 Ross Gerber, a shareholder in Twitter and Tesla, says he has been approached to put more money into the social-media platform.
+

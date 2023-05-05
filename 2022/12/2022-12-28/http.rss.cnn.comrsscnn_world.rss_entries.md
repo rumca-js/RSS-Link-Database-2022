@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Irish tourist dies after falling from moving train in Thailand
  - [https://www.cnn.com/2022/12/28/asia/irish-tourist-thailand-death-railway-intl-hnk/index.html](https://www.cnn.com/2022/12/28/asia/irish-tourist-thailand-death-railway-intl-hnk/index.html)
@@ -13,3 +13,4 @@ A 45-year-old Irish tourist died in Thailand on Tuesday after falling from a mov
  - date published: 2022-12-28 04:13:15+00:00
 
 The United Nations Security Council on Tuesday said it was "deeply alarmed" by the ruling Taliban's ban on women attending university or working for aid groups in Afghanistan.
+

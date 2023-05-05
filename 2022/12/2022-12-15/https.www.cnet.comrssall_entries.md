@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Twitter Suspends Account Encouraging People to Join Mastodon     - CNET
  - [https://www.cnet.com/news/social-media/twitter-suspends-account-encouraging-people-to-join-mastodon/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-suspends-account-encouraging-people-to-join-mastodon/#ftag=CADf328eec)
@@ -475,3 +475,4 @@ Because we need more excuses to watch international cinema.
  - date published: 2022-12-15 00:01:03+00:00
 
 "Having TikTok babysit your kids is a terrible idea," says Imran Ahmed, CEO of the Center for Countering Digital Hate.
+

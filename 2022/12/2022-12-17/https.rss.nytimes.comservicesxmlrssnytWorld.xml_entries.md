@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Behind Argentina’s World Cup Magic, an Army of Witches
  - [https://www.nytimes.com/2022/12/17/world/americas/argentina-world-cup-witches.html](https://www.nytimes.com/2022/12/17/world/americas/argentina-world-cup-witches.html)
@@ -83,3 +83,4 @@ Voters will choose a new Parliament, but under revised rules that vastly dilute 
  - date published: 2022-12-17 00:13:03+00:00
 
 The physicist and architect of the American atomic bomb was stripped of his security clearance in 1954 after what is now called a flawed investigation.
+

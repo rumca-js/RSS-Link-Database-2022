@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Sejm za zamrożeniem cen gazu w 2023 roku, ale nie dla wszystkich
  - [https://www.money.pl/gospodarka/sejm-za-zamrozeniem-cen-gazu-w-2023-roku-ale-nie-dla-wszystkich-6840028680026688a.html](https://www.money.pl/gospodarka/sejm-za-zamrozeniem-cen-gazu-w-2023-roku-ale-nie-dla-wszystkich-6840028680026688a.html)
@@ -146,3 +146,4 @@
  - date published: 2022-12-01 05:50:08+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/12042a25-91af-4613-b483-2e986a21a8f1" width="308" /> Właściciel mieszkania musi przerzucić koszty utrzymania lokalu na najemcę. W przeciwnym razie zapłaci więcej fiskusowi - pisze w czwartek "Rzeczpospolita", opisując zmiany w przepisach, które pociąga za sobą Polski Ład. "Eksperci radzą: sprawdźcie umowy i dostosujcie je do zasad ryczałtowego rozliczenia, żeby skarbówka nie wzięła dodatkowego podatku" - czytamy.
+

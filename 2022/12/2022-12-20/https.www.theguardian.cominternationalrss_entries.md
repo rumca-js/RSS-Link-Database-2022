@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Russia-Ukraine war at a glance: what we know on day 301 of the invasion
  - [https://www.theguardian.com/world/2022/dec/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-301-of-the-invasion](https://www.theguardian.com/world/2022/dec/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-301-of-the-invasion)
@@ -909,3 +909,4 @@ A gloriously spicy, fruity, boozy twist on a Christmas classic<p>Remove 250g of 
  - date published: 2022-12-20 00:01:32+00:00
 
 <p>Monarch’s portrait on £5, £10, £20 and £50 likely to enter circulation in 2024</p><p>Designs for bank notes featuring an image of <a href="https://www.theguardian.com/uk/prince-charles">King Charles III</a> have been revealed by the Bank of England, with plans to enter circulation by mid-2024.</p><p>Announcing the design for the first time in the run-up to the coronation in May, the UK central bank said the king’s portrait would appear on existing designs of all four of its polymer bank notes currently in circulation – £5, £10, £20 and £50.</p> <a href="https://www.theguardian.com/business/2022/dec/20/king-charles-iii-bank-note-designs-revealed-by-bank-of-england">Continue reading...</a>
+

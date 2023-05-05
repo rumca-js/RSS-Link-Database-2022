@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Uber Is Back In The Robot Business Just In Time For CES
  - [https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/](https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/)
@@ -566,3 +566,4 @@ Think of purpose and profit like cake: You can have it and eat it too. In fact, 
  - date published: 2022-12-16 00:07:03+00:00
 
 From code-switching to showing vulnerability, ServiceNow’s John Castelly shares his workplace experience.
+

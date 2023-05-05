@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Cheer cheese selling for $17 at Aussie supermarkets amid cost of living increases
  - [https://www.dailymail.co.uk/news/article-11518515/Cheer-cheese-selling-17-Aussie-supermarkets-amid-cost-living-increases.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11518515/Cheer-cheese-selling-17-Aussie-supermarkets-amid-cost-living-increases.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1896,3 +1896,4 @@ As Del Boy and Rodney they were one of the most loved and enduring comedy partne
  - date published: 2022-12-08 00:03:52+00:00
 
 Health Secretary Steve Barclay (left) today gives his backing to the Daily Mail's children's cancer campaign, hailing research as key to beating the disease.
+

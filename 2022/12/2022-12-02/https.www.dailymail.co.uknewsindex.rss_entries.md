@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## New York Times journalists pledge to walk out for 24 hours over pay demands
  - [https://www.dailymail.co.uk/news/article-11496973/New-York-Times-journalists-pledge-walk-24-hours-pay-demands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11496973/New-York-Times-journalists-pledge-walk-24-hours-pay-demands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1707,3 +1707,4 @@ ACT Director of Public Prosecutions, Shane Drumgold fronted the media on Friday 
  - date published: 2022-12-02 00:04:13+00:00
 
 A New Zealand couple who are adamantly refusing doctors use vaccinated blood during their four-month-old baby's open heart surgery have admitted that some 'jabbed' blood will be used.
+

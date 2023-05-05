@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Duże zmiany dla pracowników. Od kiedy nowe zasady?
  - [https://wydarzenia.interia.pl/kraj/news-duze-zmiany-dla-pracownikow-od-kiedy-nowe-zasady,nId,6453866](https://wydarzenia.interia.pl/kraj/news-duze-zmiany-dla-pracownikow-od-kiedy-nowe-zasady,nId,6453866)
@@ -27,3 +27,4 @@
  - date published: 2022-12-05 13:52:09+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-emerytury-stazowe-nowe-swiadczenia-juz-w-2023-roku-jaroslaw-,nId,6446396"><img align="left" alt="Emerytury stażowe. Nowe świadczenia już w 2023 roku? Jarosław Kaczyński odpowiada jednoznacznie " src="https://i.iplsc.com/emerytury-stazowe-nowe-swiadczenia-juz-w-2023-roku-jaroslaw/000FZ649J2PCOCQP-C321.jpg" /></a>Od ponad roku w Sejmie trwają prace nad projektami ustaw dotyczącymi emerytur stażowych. Chodzi o wprowadzenie nowych świadczeń dla osób, które nie przekroczyły jeszcze wieku emerytalnego. Czy proponowane rozwiązania dla seniorów mają szansę wejść w życie w 2023 roku?</p><br clear="all" />
+

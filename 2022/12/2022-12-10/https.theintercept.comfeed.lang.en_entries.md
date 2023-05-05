@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Sheriff Calls on Feds to Seize Arizona Gov. Doug Ducey's Illegal Border Wall Equipment
  - [https://theintercept.com/2022/12/10/border-wall-illegal-arizona-ducey-container/](https://theintercept.com/2022/12/10/border-wall-illegal-arizona-ducey-container/)
@@ -15,3 +15,4 @@
 
 <p>Though Josh Shapiro’s entire election strategy was that he was the anti-MAGA candidate, the centrist Democrat’s team included Republican Jim Schultz.</p>
 <p>The post <a href="https://theintercept.com/2022/12/10/pennsylvania-josh-shapiro-trump-lawyer/" rel="nofollow">Pennsylvania’s Governor-Elect Ran on Saving Democracy. Then He Appointed a Trump White House Lawyer.</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## This Week's Toy News Won't Be Found Under This Year's Christmas Tree
  - [https://gizmodo.com/hot-toys-gotg-mantis-mafex-boba-fett-star-trek-plates-1849910915](https://gizmodo.com/hot-toys-gotg-mantis-mafex-boba-fett-star-trek-plates-1849910915)
@@ -90,3 +90,4 @@
  - date published: 2022-12-23 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--riIaiyDa--/c_fit,fl_progressive,q_80,w_636/0f4d249e926ab515d38e1cfe7c722286.jpg" /><p>So you waited until the 11th hour and it’s now too late to order holiday presents online. Thankfully, there are several stores where you can still scavenge in-person for the perfect last-minute geeky gift for the fan in your life. Pro-tip to speed up your quest even more: order pick-up exists!</p><p><a href="https://gizmodo.com/pop-culture-last-minute-gifts-marvel-star-wars-ghibli-1849920817">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Epic Games zapłaci ogromną karę za naruszenie prywatności i niechciane płatności
  - [https://ithardware.pl/aktualnosci/epic_games_zaplaci_ogromna_kare_za_naruszenie_prywatnosci_i_niechciane_platnosci-24952.html](https://ithardware.pl/aktualnosci/epic_games_zaplaci_ogromna_kare_za_naruszenie_prywatnosci_i_niechciane_platnosci-24952.html)
@@ -187,3 +187,4 @@ Nagroda - dysk SSD Lexar NM800 1 TB
 
 Lexar NM800 to wysokiej klasy dysk SSD M.2 PCIe 4.0...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_z_ithardware_dzien_19-24816.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_z_ithardware_dzien_19-24816.html</a></p>
+

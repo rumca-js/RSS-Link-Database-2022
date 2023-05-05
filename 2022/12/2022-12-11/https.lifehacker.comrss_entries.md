@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don't Make These Mistakes As a Guest in Someone's House
  - [https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682](https://lifehacker.com/dont-make-these-mistakes-as-a-guest-in-someones-house-1849874682)
@@ -20,3 +20,4 @@
  - date published: 2022-12-11 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--WGRalInZ--/c_fit,fl_progressive,q_80,w_636/cb75d352234d4cd0cc4c48782bac86be.jpg" /><p>Wool is a pretty <a href="https://www.americanwool.org/wool-101/science-of-wool/" rel="noopener noreferrer" target="_blank">incredible fabric</a>: It’s antimicrobial, breathable, odor-resistant, and extremely durable. It can also be tricky to wash and dry. </p><p><a href="https://lifehacker.com/avoid-these-mistakes-when-washing-wool-1849874701">Read more...</a></p>
+

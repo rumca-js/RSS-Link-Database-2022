@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Tragiczny wypadek na S8
  - [https://tvn24.pl/tvnwarszawa/najnowsze/tragiczny-wypadek-na-s8-zginely-dwie-osoby-6553595?source=rss](https://tvn24.pl/tvnwarszawa/najnowsze/tragiczny-wypadek-na-s8-zginely-dwie-osoby-6553595?source=rss)
@@ -55,6 +55,22 @@
 
 <img alt="USA zaniepokojone " src="https://tvn24.pl/najnowsze/cdn-zdjecie-wc8swy-tajpej-tajwan-shutterstock1692883492s-5612889/alternates/LANDSCAPE_1280" />
     Oświadczył Biały Dom.
+
+## "Strasznie jest chodzić po mieście i patrzeć na to wszystko"
+ - [https://fakty.tvn24.pl/tragiczna-codzienno---mieszka-c-w-chersonia---strasznie-jest-chodzi--po-mie-cie-i-patrze--na-to-wszystko-,1130621.html?source=rss](https://fakty.tvn24.pl/tragiczna-codzienno---mieszka-c-w-chersonia---strasznie-jest-chodzi--po-mie-cie-i-patrze--na-to-wszystko-,1130621.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-26 18:14:00+00:00
+
+<img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-f7fk1q-2612--tragiczna-codziennosc-mieszkancow-chersonia-strasznie-chodzic-po-miescie-i-patrzec-na-to-wszystko/alternates/LANDSCAPE_1280" />
+    Tragiczna codzienność mieszkańców Chersonia.
+
+## Od ponad siedmiu lat mieszkają na jachcie. "Wigilię spędziliśmy magicznie"
+ - [https://fakty.tvn24.pl/od-ponad-siedmiu-lat-mieszkaj--na-jachcie---wigili--sp-dzili-my-magicznie-,1130619.html?source=rss](https://fakty.tvn24.pl/od-ponad-siedmiu-lat-mieszkaj--na-jachcie---wigili--sp-dzili-my-magicznie-,1130619.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-26 18:08:18+00:00
+
+<img alt="Od ponad siedmiu lat mieszkają na jachcie. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-i38hji-2612--od-ponad-siedmiu-lat-mieszkaja-na-jachcie-wigilie-spedzilismy-magicznie/alternates/LANDSCAPE_1280" />
+    Kupili go za kredyt i oszczędności. Swoim pływającym domem przebyli już 50 tysięcy mil morskich.
 
 ## Newcastle United nie do zatrzymania
  - [https://eurosport.tvn24.pl/newcastle-united-nie-do-zatrzymania--sz-ste-zwyci-stwo-i-znakomity-awans,1130615.html?source=rss](https://eurosport.tvn24.pl/newcastle-united-nie-do-zatrzymania--sz-ste-zwyci-stwo-i-znakomity-awans,1130615.html?source=rss)
@@ -392,6 +408,14 @@
 <img alt="Gołoledź, silny wiatr. Uważajcie!" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-z5eyrb-oblodzenie-6218971/alternates/LANDSCAPE_1280" />
     IMGW ostrzega.
 
+## Uwaga na oblodzenia jezdni i chodników oraz silny wiatr. Alerty
+ - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenia-i-silny-wiatr-pogoda-we-wtorek-2712-6553085?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenia-i-silny-wiatr-pogoda-we-wtorek-2712-6553085?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-26 05:43:35+00:00
+
+<img alt="Uwaga na oblodzenia jezdni i chodników oraz silny wiatr. Alerty" src="https://tvn24.pl/najnowsze/cdn-zdjecie-p2mftx-oblodzenia-opady-marznace-5515042/alternates/LANDSCAPE_1280" />
+    Sprawdź, gdzie aura może stwarzać zagrożenie.
+
 ## "Incydent" w rosyjskiej bazie wojskowej Engels. Media donoszą o eksplozjach
  - [https://tvn24.pl/swiat/rosja-doniesienia-o-wybuchach-w-bazie-wojskowej-engels-6553074?source=rss](https://tvn24.pl/swiat/rosja-doniesienia-o-wybuchach-w-bazie-wojskowej-engels-6553074?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -439,3 +463,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-spwzea-kijow-w-ciemnosciach-po-wylaczeniu-pradu-6448115/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## FTX Co-Founder Sam Bankman-Fried Arrested in the Bahamas     - CNET
  - [https://www.cnet.com/personal-finance/crypto/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas/#ftag=CADf328eec](https://www.cnet.com/personal-finance/crypto/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas/#ftag=CADf328eec)
@@ -692,3 +692,4 @@ Review: Michelle Yeoh shows off her sword skills in this Easter egg-packed origi
  - date published: 2022-12-12 00:00:03+00:00
 
 Your Keurig is probably filled with gunk, which prevents it from making the best coffee. Clean it out in five easy steps.
+

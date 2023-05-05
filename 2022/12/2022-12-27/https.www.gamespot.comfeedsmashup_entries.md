@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Destiny 2 Season Of The Seraph: Seasonal Challenges Guide Week 4
  - [https://www.gamespot.com/articles/destiny-2-season-of-the-seraph-seasonal-challenges-guide-week-4/1100-6509714/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-season-of-the-seraph-seasonal-challenges-guide-week-4/1100-6509714/?ftag=CAD-01-10abi2f)
@@ -34,3 +34,4 @@
  - date published: 2022-12-27 14:00:00+00:00
 
 <p dir="ltr">Of all the Silent Hill projects currently in development--and there are a lot, as we'll detail further down in this article--the one that is hardest to figure out is <a href="https://www.gamespot.com/games/silent-hill-ascension/">Silent Hill Ascension</a>. With only a reveal trailer to go off of, even fans paying close attention likely have several questions about what kind of game it's going to be. This answer, and others, are a bit hazy as of now, but not without some context clues. Here's everything we know so far about Silent Hill Ascension.</p><h2 dir="ltr">Silent Hill Ascension release date</h2><p dir="ltr">When the experience was revealed, it didn't come with a specific release date, but it was announced for 2023. However, as we'll explain, it may not have just a single release date anyway.</p><h2 dir="ltr">What is Silent Hill Ascension?</h2><p dir="ltr">Silent Hill Ascension is not a traditional video game, though it is an interactive experience. It may not even launch on consoles and PC, though it may be viewable on those platforms one way or another. These are questions we don't yet have answers to. What we do know is that Ascension is a MILE, or massively interactive live event. MILEs are transmedia interactive experiences that, historically, have come from a number of different teams, but all operate on the foundational cloud technology from Genvid Technologies.</p><a href="https://www.gamespot.com/articles/silent-hill-ascension-release-date-trailers-and-everything-we-know-so-far/1100-6510159/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

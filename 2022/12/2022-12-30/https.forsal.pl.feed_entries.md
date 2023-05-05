@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Disco polo nie ma dobrej prasy. Jak się bawi klasa ludowa?
  - [https://forsal.pl/lifestyle/rozrywka/artykuly/8621328,klasa-ludowa-disco-polo-sylwester.html](https://forsal.pl/lifestyle/rozrywka/artykuly/8621328,klasa-ludowa-disco-polo-sylwester.html)
@@ -447,3 +447,4 @@
  - date published: 2022-12-30 05:12:28+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/qjWktkuTURBXy9hMWZhMDQwZC1lNDk0LTQzOWUtYTZmNS05NjhmZDU3MzZlZmUuanBlZ5GTBc0BHcyg" />Z punktu widzenia oszczędzających zmiany na rynku lokat przestają być jednoznacznie pozytywne. Co prawda kilka instytucji stara się nas kusić obietnicą oprocentowania na poziomie ponad 8%. Nie brakuje jednak też takich, które w ostatnim miesiącu pogorszyły ofertę depozytów. Co przyniesie 2023 rok? Przede wszystkim zależy to od decyzji podejmowanych przez RPP.
+

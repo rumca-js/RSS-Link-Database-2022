@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Perowskitowe ogniwa słoneczne coraz lepsze. To zasługa uczenia maszynowego
  - [https://www.chip.pl/2022/12/perowskitowe-ogniwa-sloneczne-uczenie-maszynowe](https://www.chip.pl/2022/12/perowskitowe-ogniwa-sloneczne-uczenie-maszynowe)
@@ -135,3 +135,4 @@
 
 <img alt="Zrobotyzowana proteza" class="attachment-full size-full wp-post-image" height="1439" src="https://konto.chip.pl/wp-content/uploads/2022/12/Wyjatkowa-zrobotyzowana-proteza-.jpg" style="margin-bottom: 10px;" width="2559" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Wyjatkowa-zrobotyzowana-proteza-.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Z rozwojem robotyki będzie jak z rozwojem automatyzacji &#8211; kiedy osiągnie nieokreślony poziom zaawansowania, zupełnie odmieni nasz świat. Najnowszym przykładem tego, jak bardzo zaawansowana robotyka się staje, jest opracowana na University of Utah zrobotyzowana proteza przeznaczona dla osób po amputacji dolnej kończyny, która doczekała się prezentacji w formie nagrania oraz publikacji w czasopiśmie Science Robotics. [&#8230;]</p>
+

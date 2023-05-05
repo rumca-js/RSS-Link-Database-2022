@@ -1,4 +1,25 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
+
+## Na Wall Street mocne spadki. Wróciły obawy o recesję
+ - [https://www.bankier.pl/wiadomosc/Na-Wall-Street-mocne-spadki-Wrocily-obawy-o-recesje-8461647.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Na-Wall-Street-mocne-spadki-Wrocily-obawy-o-recesje-8461647.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-22 22:17:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/c/1/17a8bdf702b3ff-948-568-115-250-1885-1130.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Czwartkowa sesja na Wall Street przyniosła mocne spadki głównych indeksów. Wróciły obawy o recesję.</p>
+
+## Pierwsza prezes SN zaskarżyła do TK zasady wynagradzania sędziów w 2023 r.
+ - [https://www.bankier.pl/wiadomosc/Pierwsza-prezes-SN-zaskarzyla-do-TK-zasady-wynagradzania-sedziow-w-2023-r-8461636.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pierwsza-prezes-SN-zaskarzyla-do-TK-zasady-wynagradzania-sedziow-w-2023-r-8461636.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-22 21:11:00+00:00
+
+<p>Pierwsza prezes Sądu Najwyższego Małgorzata Manowska zaskarżyła do Trybunału Konstytucyjnego przepisy ustawy okołobudżetowej na 2023 r. w sprawie zasad ustalania wynagrodzeń sędziów - poinformował w czwartek SN. Uchwałę w sprawie skierowania do TK podobnego wniosku podjęła też Krajowa Rada Sądownictwa.</p>
+
+## Kontrola trzeźwości w pracy. Projekt trafił do konsultacji
+ - [https://www.bankier.pl/wiadomosc/Kontrola-trzezwosci-w-pracy-Projekt-trafil-do-konsultacji-8461617.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kontrola-trzezwosci-w-pracy-Projekt-trafil-do-konsultacji-8461617.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-22 20:10:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/2/e8807eaca64520-948-568-0-0-4000-2399.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Ministerstwo Zdrowia skierowało w czwartek do konsultacji projekt rozporządzenia w sprawie badań na obecność alkoholu oraz opioidów, amfetaminy, kokainy czy benzodiazepiny w organizmie pracownika.</p>
 
 ## Założyciel kryptogiełdy FTX opuści areszt? Sąd wyznaczył olbrzymią kaucję
  - [https://www.bankier.pl/wiadomosc/Zalozyciel-kryptogieldy-FXT-opusci-areszt-Sad-wyznaczyl-250-mln-kaucji-8461605.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zalozyciel-kryptogieldy-FXT-opusci-areszt-Sad-wyznaczyl-250-mln-kaucji-8461605.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -536,3 +557,4 @@ roku. Przytaczamy kilka z nich.</p>
  - date published: 2022-12-22 02:01:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/8/4bde4652b0874b-948-569-1004-401-1571-943.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Wasze pieniądze to nie dobroczynność, to inwestycja w globalne bezpieczeństwo i demokrację - przekonywał w czwartek prezydent Ukrainy Wołodymyr Zełenski w przemówieniu przed połączonymi izbami Kongresu. Zełenski apelował o więcej broni dla Ukrainy i argumentował, że jeśli Rosja nie zostanie powstrzymana, nie skończy na Ukrainie.I jak zapewnia zarówno prezydent Biden, jak i Kongres Ukraina otrzyma pomoc militarną i finansową. </p>
+

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Giganci spożywczy ujawniają swoje dane. To już ok. 30 proc. sprzedaży
  - [https://www.money.pl/gospodarka/giganci-spozywczy-ujawniaja-swoje-dane-to-juz-ok-30-proc-sprzedazy-6845693919288064a.html](https://www.money.pl/gospodarka/giganci-spozywczy-ujawniaja-swoje-dane-to-juz-ok-30-proc-sprzedazy-6845693919288064a.html)
@@ -27,3 +27,4 @@
  - date published: 2022-12-18 05:57:17+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8c65f873-3f9e-4451-9d00-201fac5c5313" width="308" /> Ceny nawozów ostatnio nieco spadły, wciąż jednak utrzymują się na znacznie wyższym poziomie niż przez ostatnie lata. Choć towaru w magazynach jest "po brzegi", to rolnicy czekają na niższe ceny. Jednak jeśli będą zwlekać, to w 2023 r. zapłacą więcej niż dziś. A to zła wiadomość dla nas wszystkich.
+

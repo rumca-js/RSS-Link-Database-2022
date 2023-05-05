@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## 32 lata temu premierę miał "Kevin sam w domu". Oto, ile zarobił film
  - [https://forsal.pl/lifestyle/aktualnosci/artykuly/8617693,kevin-sam-w-domu-ile-zarobil-film.html](https://forsal.pl/lifestyle/aktualnosci/artykuly/8617693,kevin-sam-w-domu-ile-zarobil-film.html)
@@ -174,3 +174,4 @@
  - date published: 2022-12-24 04:59:02+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/PvfktkuTURBXy9jZGU1ZDA4Ni03ZjI3LTRhYzItYjZkMC0wNmU5OTFmY2Y2ZTkuanBlZ5GTBc0BHcyg" />Od 24 grudnia 2022 r. Wielka Brytania wprowadza zmiany w krajowych przepisach dotyczących zasad dostępu do brytyjskiego rynku przewozów drogowych wobec przewoźników z Unii Europejskiej - poinformowało w piątkowym komunikacie Ministerstwo Infrastruktury.
+

@@ -1,5 +1,3 @@
-# Source URL:https://feeds.nbcnews.com/nbcnews/public/news, Source language: en
-
 ## Storm blowing through California dumps snow in Sierra
  - [https://www.nbcnews.com/news/us-news/storm-blowing-california-dumps-snow-sierra-rcna61178](https://www.nbcnews.com/news/us-news/storm-blowing-california-dumps-snow-sierra-rcna61178)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/news
@@ -118,3 +116,4 @@ Boston mobster James "Whitey" Bulger begged to be in general population popped h
  - date published: 2022-12-11 11:00:41+00:00
 
 While I learned that I couldn't judge people based solely on their license plates, anti-LGBTQ hate stopped me from feeling comfortable with kissing my wife in public.
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## A love letter for the original Steam Link: I regret taking you for granted
  - [https://www.theverge.com/2022/12/25/23524514/valve-original-steam-link-discontinued-app-latency-bug](https://www.theverge.com/2022/12/25/23524514/valve-original-steam-link-discontinued-app-latency-bug)
@@ -151,3 +151,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/24/23525732/microsoft-windows-11-notepad-tabs-feature-leak">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Gan Jing World: Tech Platform Offers Clean Content Free of Communism
  - [https://www.theepochtimes.com/gan-jing-world-tech-platform-offers-clean-content-free-of-communism_4921742.html](https://www.theepochtimes.com/gan-jing-world-tech-platform-offers-clean-content-free-of-communism_4921742.html)
@@ -55,3 +55,4 @@ The logo for Google LLC is seen at the Google Store Chelsea in Manhattan, New Yo
  - date published: 2022-12-13 04:58:16+00:00
 
 The new GM logo on the facade of the General Motors headquarters in Detroit on March 16, 2021. (Rebecca Cook/Reuters)
+

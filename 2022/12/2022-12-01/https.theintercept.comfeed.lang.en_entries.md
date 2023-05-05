@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Fossil Fuel-Funded Super PAC Eyes $11.5 Million Spending Operation for Herschel Walker in Final Days
  - [https://theintercept.com/2022/12/01/georgia-herschel-walker-fossil-fuel/](https://theintercept.com/2022/12/01/georgia-herschel-walker-fossil-fuel/)
@@ -15,3 +15,4 @@
 
 <p>The National Security Council and DAWN, a nonprofit founded by Jamaal Khashoggi, met expressly to discuss the question.</p>
 <p>The post <a href="https://theintercept.com/2022/12/01/saudi-prince-mbs-immunity/" rel="nofollow">The Biden Administration Says Legal Immunity for Saudi Crown Prince Was Unavoidable. Privately, They Weren’t So Sure.</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

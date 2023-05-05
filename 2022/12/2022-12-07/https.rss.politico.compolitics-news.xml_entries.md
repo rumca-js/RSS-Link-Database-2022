@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Inside the turmoil roiling No Labels’ unity ticket presidential campaign
  - [https://www.politico.com/news/2022/12/07/no-labels-unity-presidential-ticket-centrist-group-2024-00072712](https://www.politico.com/news/2022/12/07/no-labels-unity-presidential-ticket-centrist-group-2024-00072712)
@@ -13,3 +13,4 @@ The centrist group says its critics don’t give it proper credit. But ex-staffe
  - date published: 2022-12-07 04:30:00+00:00
 
 These new state executives say they're "the next generation of national leaders," and they're willing to wait their turn — for now.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Bugs Bunny Finally Wins His First Emmy
  - [https://gizmodo.com/bugs-bunny-voice-eric-bauza-wins-looney-tunes-emmy-1849889817](https://gizmodo.com/bugs-bunny-voice-eric-bauza-wins-looney-tunes-emmy-1849889817)
@@ -293,3 +293,4 @@
  - date published: 2022-12-13 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--458zN9zT--/c_fit,fl_progressive,q_80,w_636/3500590e9d21e331ffb5d6930356c409.jpg" /><p>The best movies always have a dose of indefinable magic. A moment or coincidence that <a href="https://gizmodo.com/stephanie-hsu-jobu-tupaki-everything-everywhere-audtion-1849874203">comes together on the set</a> or in editing that just brings a scene to a whole other level. And with a film as dynamic and original as <a href="https://gizmodo.com/everything-everywhere-all-at-once-centers-love-amid-the-1848698179"><em>Everything Everywhere All at Once</em></a>, you’d guess that happened <a href="https://gizmodo.com/everything-everywhere-all-at-once-streaming-digital-rel-1849031043">more often than not</a>. It would have to…</p><p><a href="https://gizmodo.com/everything-everywhere-all-at-once-hot-dog-finger-world-1849885093">Read more...</a></p>
+

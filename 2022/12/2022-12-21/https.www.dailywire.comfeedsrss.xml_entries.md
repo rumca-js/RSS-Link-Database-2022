@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Tom Cruise Releases Footage Of ‘Most Dangerous’ Stunt He’s Ever Attempted For New ‘Mission: Impossible’ Film
  - [https://www.dailywire.com/news/tom-cruise-releases-footage-of-most-dangerous-stunt-hes-ever-attempted-for-new-mission-impossible-film](https://www.dailywire.com/news/tom-cruise-releases-footage-of-most-dangerous-stunt-hes-ever-attempted-for-new-mission-impossible-film)
@@ -433,3 +433,4 @@ Franco Harris, the NFL Hall of Fame running back who helped the Pittsburgh Steel
  - date published: 2022-12-21 07:33:26+00:00
 
 Formula One&#8217;s governing body, the Fédération Internationale de l&#8217;Automobile (FIA), is banning drivers from making political statements at races without prior permission from the group. FIA unveiled the new rule in an article to the International Sporting Code, saying that the following is now a violation of the rules: “The general making and display of ...
+

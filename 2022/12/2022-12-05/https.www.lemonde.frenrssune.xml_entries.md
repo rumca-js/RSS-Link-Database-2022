@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Massive bombing in Ukraine following Russian allegations Kyiv blasted 2 air bases
  - [https://www.lemonde.fr/en/international/article/2022/12/05/massive-bombing-in-ukraine-following-russian-allegations-kyiv-blasted-2-air-bases_6006692_4.html](https://www.lemonde.fr/en/international/article/2022/12/05/massive-bombing-in-ukraine-following-russian-allegations-kyiv-blasted-2-air-bases_6006692_4.html)
@@ -202,3 +202,4 @@ Samin and Araz share the abuse and intimidation they experienced in prison after
  - date published: 2022-12-05 03:08:37+00:00
 
 After the EU on Wednesday proposed a 'specialised court' backed by the UN to prosecute Russia's crime of aggression, experts question the feasability of such action.
+

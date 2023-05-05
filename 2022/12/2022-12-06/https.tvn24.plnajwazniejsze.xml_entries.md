@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Nie żyje reżyser "Kogel-mogel". Roman Załuski miał 85 lat
  - [https://tvn24.pl/polska/roman-zaluski-nie-zyje-rezyserowal-miedzy-innymi-och-karol-i-kogel-mogel-6407599?source=rss](https://tvn24.pl/polska/roman-zaluski-nie-zyje-rezyserowal-miedzy-innymi-och-karol-i-kogel-mogel-6407599?source=rss)
@@ -991,3 +991,4 @@
 
 <img alt="Dziś poznamy ostatnich dwóch ćwierćfinalistów" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jumm5r-mundial-trwa-jakie-mecze-we-wtorek-6-grudnia/alternates/LANDSCAPE_1280" />
     Jakie mecze odbędą się we wtorek na mundialu? Sprawdź terminarz na 6 grudnia i godziny spotkań.
+

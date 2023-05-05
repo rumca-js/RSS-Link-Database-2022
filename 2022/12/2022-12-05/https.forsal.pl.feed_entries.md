@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Wiceminister Edward Siarka przejął zadania wiceministra Jacka Ozdoby w MKiŚ
  - [https://forsal.pl/gospodarka/polityka/artykuly/8603750,edward-siarka-przejal-zadania-jacka-ozdoby-mkis.html](https://forsal.pl/gospodarka/polityka/artykuly/8603750,edward-siarka-przejal-zadania-jacka-ozdoby-mkis.html)
@@ -699,3 +699,4 @@
  - date published: 2022-12-05 05:30:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/KJxktkuTURBXy9kZGRlN2M2Zi03ZjdlLTQ5OTEtYThhOS04NzQwOGRiMzlkMTAuanBlZ5GTBc0BHcyg" />Zmiana klimatu i transformacja energetyczna stają się tematami priorytetowymi dla banków centralnych na całym świecie, szczególnie w obliczu zmiennych cen energii i coraz częstszych ekstremalnych zjawisk pogodowych.
+

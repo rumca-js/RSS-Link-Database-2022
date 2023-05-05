@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## At least 7 people killed in Kherson city due to Russian shelling, Ukrainian official says
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-24-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-24-22/index.html)
@@ -7,12 +7,26 @@
 
 
 
+## A 16-foot reticulated python was rescued in Texas after being missing for months
+ - [https://www.cnn.com/2022/12/24/us/massive-python-found-austin-texas-trnd/index.html](https://www.cnn.com/2022/12/24/us/massive-python-found-austin-texas-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-24 20:39:18+00:00
+
+An "unhappy" 16-foot albino reticulated python was rescued by an animal shelter in Austin, Texas on Monday -- after being missing for months.
+
 ## Maxi Jazz, lead singer of dance group Faithless, dies at 65
  - [https://www.cnn.com/2022/12/24/entertainment/maxi-jazz-faithless-singer-death/index.html](https://www.cnn.com/2022/12/24/entertainment/maxi-jazz-faithless-singer-death/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-24 18:07:38+00:00
 
 Maxi Jazz, the British musician best known as the lead vocalist for dance group Faithless, has died, according to the band.
+
+## Why everyone is suddenly talking about buccal fat removal
+ - [https://www.cnn.com/style/article/buccal-fat-removal-explainer-trnd/index.html](https://www.cnn.com/style/article/buccal-fat-removal-explainer-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-24 17:28:11+00:00
+
+Buccal fat removal might just be the new Brazilian butt lift -- aka the newest cosmetic surgery procedure to take over social media.
 
 ## Here's how to track Santa around the world, thanks to NORAD
  - [https://www.cnn.com/2022/12/24/us/norad-track-santa-trnd/index.html](https://www.cnn.com/2022/12/24/us/norad-track-santa-trnd/index.html)
@@ -209,3 +223,4 @@ A review into New England Patriots wide receiver DeVante Parker's head injury fo
  - date published: 2022-12-24 00:13:56+00:00
 
 A Los Angeles jury on Friday found rapper and singer Tory Lanez guilty of three charges related to the July 2020 shooting of fellow rapper Megan Thee Stallion in the Hollywood Hills, the Los Angeles County District Attorney said.
+

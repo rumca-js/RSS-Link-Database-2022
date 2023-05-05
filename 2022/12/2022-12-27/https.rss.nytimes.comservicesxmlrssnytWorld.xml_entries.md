@@ -1,4 +1,18 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
+
+## Pavel Antov, Founder of Russian Meat Company, Dies in India
+ - [https://www.nytimes.com/2022/12/27/world/europe/pavel-antov-russia-dead-india.html](https://www.nytimes.com/2022/12/27/world/europe/pavel-antov-russia-dead-india.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-12-27 23:41:28+00:00
+
+The body of the millionaire Pavel Antov, who had reportedly criticized the Russian shelling of civilians in Kyiv, was found outside his hotel.
+
+## Ukraine and Russia Battle for a Gateway City in the East
+ - [https://www.nytimes.com/2022/12/27/world/europe/ukraine-russia-kreminna-luhansk.html](https://www.nytimes.com/2022/12/27/world/europe/ukraine-russia-kreminna-luhansk.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-12-27 23:33:21+00:00
+
+Recapturing Kreminna, in eastern Ukraine, would be a step further in Ukraine’s campaign to retake major cities that Russia seized after it invaded.
 
 ## Your Wednesday Briefing: China’s Overwhelmed Hospitals
  - [https://www.nytimes.com/2022/12/27/briefing/china-doctors-covid-hospitals.html](https://www.nytimes.com/2022/12/27/briefing/china-doctors-covid-hospitals.html)
@@ -111,3 +125,4 @@ Ryazan, not far from Moscow, regularly sends young men off to fight. Some are no
  - date published: 2022-12-27 05:03:16+00:00
 
 Ukrainian attacks on Russian soil.
+

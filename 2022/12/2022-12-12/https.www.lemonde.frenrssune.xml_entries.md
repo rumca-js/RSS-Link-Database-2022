@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Los Angeles mayor declares homelessness state of emergency
  - [https://www.lemonde.fr/en/international/article/2022/12/12/los-angeles-mayor-declares-homelessness-state-of-emergency_6007528_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/los-angeles-mayor-declares-homelessness-state-of-emergency_6007528_4.html)
@@ -223,3 +223,4 @@ Researchers have evaluated the impact of thousands of years of domestication on 
  - date published: 2022-12-12 00:03:25+00:00
 
 Police clashed on Sunday with angry demonstrators calling for a national strike, fresh elections and the release of detained former president Pedro Castillo. One person was killed and five injured in the southern city of Andahuaylas.
+

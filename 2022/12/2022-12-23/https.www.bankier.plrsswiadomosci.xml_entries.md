@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Trzeci spadkowy tydzień na Wall Street z rzędu
  - [https://www.bankier.pl/wiadomosc/Trzeci-spadkowy-tydzien-na-Wall-Street-z-rzedu-8462203.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Trzeci-spadkowy-tydzien-na-Wall-Street-z-rzedu-8462203.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -341,3 +341,4 @@ cokwartalna podwyżka inflacyjna. </p>
  - date published: 2022-12-23 05:00:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/e/2a8cb34cd74608-948-568-0-39-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Według hotelarzy spod Tatr w okresie świąteczno-noworocznym pod Giewont przyjadą prawdziwe tłumy turystów. Rezerwacje w hotelach są wypełnione, ale nadal można znaleźć pokój na Sylwestra u przysłowiowej gaździny – powiedział PAP Karol Wagner z Tatrzańskiej Izby Gospodarczej zrzeszającej branżę turystyczną z Podhala.</p>
+

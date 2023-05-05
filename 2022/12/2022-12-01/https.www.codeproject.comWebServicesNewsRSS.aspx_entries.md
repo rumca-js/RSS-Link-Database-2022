@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Amazon satellite experiment puts the cloud in low earth orbit
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59677](https://www.codeproject.com/script/News/View.aspx?nwid=59677)
@@ -104,3 +104,4 @@ Black on black is never a good colour scheme?
  - date published: 2022-12-01 05:00:00+00:00
 
 Visual Studio for Mac v17.4 shipped earlier this month along with its Windows counterpart, with support for .NET MAUI heading a host of improvements.
+

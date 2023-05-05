@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## New Covid Booster Shots Cut Risk of Hospitalization by Half, CDC Reports
  - [https://www.nytimes.com/2022/12/16/health/covid-boosters.html](https://www.nytimes.com/2022/12/16/health/covid-boosters.html)
@@ -188,3 +188,4 @@ Eight days after Pedro Castillo’s removal from office and arrest, thousands of
  - date published: 2022-12-16 00:17:58+00:00
 
 Prosecutors say the glamorous lifestyle of a European lawmaker masked a Qatari corruption scandal. It exposed how vulnerable Brussels is to foreign influence.
+

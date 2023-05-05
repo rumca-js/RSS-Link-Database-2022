@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Wspomnienie Mariusza Waltera
  - [https://tvn24.pl/opinie/felieton-macieja-wierzynskiego-wspomnienie-6510431?source=rss](https://tvn24.pl/opinie/felieton-macieja-wierzynskiego-wspomnienie-6510431?source=rss)
@@ -847,3 +847,4 @@
 
 <img alt="Matki oskarżają położną. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-22nyff-porody-4563430/alternates/LANDSCAPE_1280" />
     Była zmowa milczenia, bo nikt nie chciał zaszkodzić idei porodów domowych. Jest zawiadomienie do prokuratury na Beatę K. - Trzeba powstrzymać tę kobietę, zanim jakieś dziecko umrze. Po porodzie domowym moja córka miała problemy z oddychaniem. Położna przekonywała, żeby nie dzwonić po karetkę i nas zostawiła. Wezwaliśmy pogotowie. Dziecko krwawiło z jelit, lekarze walczyli o jego życie - opowiada Lilianna.
+

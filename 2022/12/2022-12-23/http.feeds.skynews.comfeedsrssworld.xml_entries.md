@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Nine dead as bomb cyclone sends US temperatures to -45C
  - [https://news.sky.com/story/us-bomb-cyclone-nine-people-dead-as-temperatures-plummet-as-low-as-45c-12773934](https://news.sky.com/story/us-bomb-cyclone-nine-people-dead-as-temperatures-plummet-as-low-as-45c-12773934)
@@ -35,6 +35,20 @@ Two people have been killed and four others injured after a gunman opened fire i
 
 South Africa is in the throes of an electricity crisis.
 
+## Most divisive Christmas vegetable? Here's the 'tough' process Brussels sprouts go through
+ - [https://news.sky.com/story/most-divisive-christmas-vegetable-heres-the-tough-process-brussels-sprouts-go-through-12773540](https://news.sky.com/story/most-divisive-christmas-vegetable-heres-the-tough-process-brussels-sprouts-go-through-12773540)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-23 08:43:00+00:00
+
+In the world of Christmas vegetables, nothing is more divisive than a Brussels sprout.
+
+## One of lockdown's breakout stars fears for future of social media
+ - [https://news.sky.com/story/one-of-lockdowns-breakout-online-music-stars-issues-warning-over-future-of-social-media-12773537](https://news.sky.com/story/one-of-lockdowns-breakout-online-music-stars-issues-warning-over-future-of-social-media-12773537)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-23 08:39:00+00:00
+
+An Irish cellist whose online recitals went viral during lockdown has expressed his fears for the future of social media.
+
 ## French killer 'The Serpent' freed from Nepal jail
  - [https://news.sky.com/story/french-killer-charles-sobhraj-known-as-the-serpent-freed-from-jail-in-nepal-12773538](https://news.sky.com/story/french-killer-charles-sobhraj-known-as-the-serpent-freed-from-jail-in-nepal-12773538)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -48,3 +62,4 @@ The French murderer known as "The Serpent" has been freed from prison in Nepal a
  - date published: 2022-12-23 04:27:00+00:00
 
 Donald Trump was engaged in a "multi-part conspiracy" to overturn the lawful results of the 2020 presidential election, according to a report by US politicians.
+

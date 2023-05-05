@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## My Android TV went bust this year and I won’t buy another one anytime soon
  - [https://www.androidauthority.com/android-tv-update-problem-3241842/](https://www.androidauthority.com/android-tv-update-problem-3241842/)
@@ -27,3 +27,4 @@ From Apple to Samsung, these phones didn't see the light of day in 2022.
  - date published: 2022-12-23 14:00:23+00:00
 
 Our blind camera test reveals we all love Pixels but are not so hot on Xperias. One of us has a secret crush on the iPhone.
+

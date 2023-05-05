@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## EU delays decision on gas price cap
  - [https://www.lemonde.fr/en/energies/article/2022/12/13/eu-delays-decision-on-gas-price-cap_6007693_98.html](https://www.lemonde.fr/en/energies/article/2022/12/13/eu-delays-decision-on-gas-price-cap_6007693_98.html)
@@ -251,3 +251,4 @@ Asia and North America are picking up the bulk of funding in the technology sect
  - date published: 2022-12-13 00:38:34+00:00
 
 In December, 600 vehicles will roll off the production lines of the former Renault factory in Moscow. The rebirth of this mythical car brand from the Soviet era is a success story for the Russian industry and owes much to Beijing.
+

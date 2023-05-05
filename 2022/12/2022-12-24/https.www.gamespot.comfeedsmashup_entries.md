@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## The Steam Deck Has Transformed PC Gaming
  - [https://www.gamespot.com/articles/the-steam-deck-has-transformed-pc-gaming/1100-6509947/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-steam-deck-has-transformed-pc-gaming/1100-6509947/?ftag=CAD-01-10abi2f)
@@ -20,3 +20,4 @@
  - date published: 2022-12-24 14:00:00+00:00
 
 <p dir="ltr">I've been playing video games for as long as I can remember. I've faced down demons, giants, advanced alien species, and thanks to Japanese RPGs, I've attacked and dethroned my fair share of gods. But this year, Arcade Paradise encapsulated how sometimes, the smaller stakes of interpersonal conflict and intergenerational relationships can make a more memorable antagonist by feeling relatable and grounded.</p><p dir="ltr"><strong>Arcade Paradise spoilers follow.</strong></p><p dir="ltr">Arcade Paradise's story begins very light and unassuming. As a young college dropout named Ashley, you occasionally get voicemails from your father, who put you in charge of a laundromat. There's some mild signs of strife between you two and slightly snide comments about how this job will help teach you some responsibility, but on the whole, it seems no more strained than any typical parent-child relationship.</p><a href="https://www.gamespot.com/articles/arcade-paradise-shows-the-most-brutal-antagonists-can-be-the-most-mundane/1100-6510149/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

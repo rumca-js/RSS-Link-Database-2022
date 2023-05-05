@@ -1,10 +1,9 @@
-# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, Source language: en-US
+# Source:Laowhy86, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, language:en-US
 
 ## China is Using Quora as a Dangerous PSYOP
  - [https://www.youtube.com/watch?v=uzVOS6iyX8k](https://www.youtube.com/watch?v=uzVOS6iyX8k)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-12-15 16:30:10+00:00
- - tags: china,propaganda
 
 Protect yourself online with Guardio - https://guard.io/laowhy86 
 
@@ -65,3 +64,4 @@ https://socinator.com/
 https://github.com/topics/quora?l=python&amp;o=desc&amp;s=updated
  
 https://technode.com/2018/11/05/adam-dangelo-zhihu/
+

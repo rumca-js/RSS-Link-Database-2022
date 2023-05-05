@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Władysław Kosiniak-Kamysz przedstawia program "Uczciwa Polska"
  - [https://wydarzenia.interia.pl/kraj/news-wladyslaw-kosiniak-kamysz-przedstawia-program-uczciwa-polska,nId,6477550](https://wydarzenia.interia.pl/kraj/news-wladyslaw-kosiniak-kamysz-przedstawia-program-uczciwa-polska,nId,6477550)
@@ -13,3 +13,4 @@
  - date published: 2022-12-17 07:03:05+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raport-boze-narodzenie-2022/news-jaka-choinke-wybrac-na-boze-narodzenie-wady-i-zalety-sztuczn,nId,6472334"><img align="left" alt="Jaką choinkę wybrać na Boże Narodzenie? Wady i zalety sztucznych i żywych drzewek" src="https://i.iplsc.com/jaka-choinke-wybrac-na-boze-narodzenie-wady-i-zalety-sztuczn/000GHIMM6Q4FQIAY-C321.jpg" /></a>Drzewko bożonarodzeniowe pojawia się w wielu domach. Przystrajanie go i szukanie prezentów pod gałązkami to już tradycja. Na jaką choinkę zdecydujesz się w tym roku? Postawisz na naturalny świerk, sosnę, a może jodłę? A może wybierzesz sztuczny zamiennik? Poznaj zalety oraz wady każdego rozwiązania i podejmij decyzję. Dopasuj drzewko świąteczne do własnych wymagań.  </p><br clear="all" />
+

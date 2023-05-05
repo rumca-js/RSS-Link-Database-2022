@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Explore new cities in 2023 with these translation earbuds — now 55% off
  - [https://www.pcworld.com/article/1443342/explore-new-cities-in-2023-with-these-translation-earbuds-now-55-off.html](https://www.pcworld.com/article/1443342/explore-new-cities-in-2023-with-these-translation-earbuds-now-55-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-31 08:00:00+00:00
- - user: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -41,3 +40,4 @@
 <p><em>Prices subject to change.</em></p>
 
 Headphones</div>
+

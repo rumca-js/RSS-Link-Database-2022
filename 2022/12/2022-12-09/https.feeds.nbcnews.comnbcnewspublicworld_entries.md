@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Brazilian funk is the soundtrack of the World Cup on TikTok, despite the team’s loss
  - [https://www.nbcnews.com/news/latino/brazil-dancing-world-cup-tiktok-fans-funk-carioca-music-rcna61004](https://www.nbcnews.com/news/latino/brazil-dancing-world-cup-tiktok-fans-funk-carioca-music-rcna61004)
@@ -41,3 +41,4 @@ As China moves away from its strict “zero-Covid” controls, there has been a 
  - date published: 2022-12-09 13:18:59+00:00
 
 Russian opposition politician Ilya Yashin was sentenced in court to eight-and-a-half years in prison on Friday on charges of spreading “false information”
+

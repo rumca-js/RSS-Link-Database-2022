@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## GTA 6 Leak Appears In Goat Simulator 3 Ad | GameSpot News
  - [https://www.gamespot.com/videos/gta-6-leak-appears-in-goat-simulator-3-ad-gamespot-news/2300-6460295/](https://www.gamespot.com/videos/gta-6-leak-appears-in-goat-simulator-3-ad-gamespot-news/2300-6460295/)
@@ -181,3 +181,4 @@
  - date published: 2022-12-21 00:00:00+00:00
 
 <p>In addition to the <a href="https://www.gamespot.com/articles/destiny-2-spire-of-the-watcher-dungeon-guide/1100-6509966/">Hierarchy of Needs Exotic </a>bow and <a href="https://www.gamespot.com/articles/destiny-2-season-of-the-seraph-guides-season-pass-gear-exotics/1100-6509713/">The Manticore Exotic SMG</a>, Destiny 2's Season of the Seraph brings a new Exotic pulse rifle called Revision Zero. Revision Zero's intrinsic trait makes it strong against Barrier Champion's with its shield-piercing ammo. It also gathers target data from precision kills that lets you temporarily swap for a high-damage scope. Completing The Hidden Shape quest steps will give you Revision Zero and its weapon pattern for shaping it.</p><p>First, continue Season of the Seraph's Week three questline--called More Than A Weapon--and at Step 22 of the quest, you must speak with Elsie Bray at the Holoprojector. Accept<strong> The Hidden Shape Exotic quest</strong> and <strong>complete the Operation: Seraph's Shield mission</strong>--which you can access from the H.E.L.M. and is set at Power level 1580 for Normal mode. This mission doesn't have matchmaking, so you can complete it solo.</p><h2>Operation: Seraph's Shield Mission Guide</h2><p>Once at the facility entrance, avoid tripmines and head further into the facility. Defeat the Scanner Splicer to get the Scanner Augment, a mechanic that should be familiar from the Deep Stone Crypt raid.</p><a href="https://www.gamespot.com/articles/destiny-2-how-to-get-the-revision-zero-exotic-pulse-rifle/1100-6510185/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

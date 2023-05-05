@@ -1,4 +1,54 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Holography without Lasers: Hand-drawn Holograms (1999)
+ - [http://amasci.com/amateur/holo1.html](http://amasci.com/amateur/holo1.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 23:58:11+00:00
+
+<p>Article URL: <a href="http://amasci.com/amateur/holo1.html">http://amasci.com/amateur/holo1.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132917">https://news.ycombinator.com/item?id=34132917</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+## All I Want for Christmas Is These Seven TypeScript Improvements
+ - [https://effectivetypescript.com/2022/12/25/christmas/](https://effectivetypescript.com/2022/12/25/christmas/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 23:51:49+00:00
+
+<p>Article URL: <a href="https://effectivetypescript.com/2022/12/25/christmas/">https://effectivetypescript.com/2022/12/25/christmas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132866">https://news.ycombinator.com/item?id=34132866</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+## PG: MIT freedom statement feels like a turning point
+ - [https://twitter.com/paulg/status/1607139735675322371](https://twitter.com/paulg/status/1607139735675322371)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 23:49:51+00:00
+
+<p>Article URL: <a href="https://twitter.com/paulg/status/1607139735675322371">https://twitter.com/paulg/status/1607139735675322371</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132838">https://news.ycombinator.com/item?id=34132838</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
+
+## The science events to watch for in 2023
+ - [https://www.nature.com/articles/d41586-022-04444-3](https://www.nature.com/articles/d41586-022-04444-3)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 23:17:48+00:00
+
+<p>Article URL: <a href="https://www.nature.com/articles/d41586-022-04444-3">https://www.nature.com/articles/d41586-022-04444-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132566">https://news.ycombinator.com/item?id=34132566</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## Source Code for Populous for Windows CE / Dreamcast Released
+ - [https://github.com/LemonHaze420/DCPopulous](https://github.com/LemonHaze420/DCPopulous)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 23:08:48+00:00
+
+<p>Article URL: <a href="https://github.com/LemonHaze420/DCPopulous">https://github.com/LemonHaze420/DCPopulous</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132484">https://news.ycombinator.com/item?id=34132484</a></p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
 
 ## Australia Goes All-In on Green Hydrogen
  - [https://spectrum.ieee.org/green-hydrogen](https://spectrum.ieee.org/green-hydrogen)
@@ -8,6 +58,16 @@
 <p>Article URL: <a href="https://spectrum.ieee.org/green-hydrogen">https://spectrum.ieee.org/green-hydrogen</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132381">https://news.ycombinator.com/item?id=34132381</a></p>
 <p>Points: 7</p>
+<p># Comments: 0</p>
+
+## The Home Computer Christmas Wars
+ - [https://paleotronic.com/2019/12/01/the-home-computer-christmas-wars/](https://paleotronic.com/2019/12/01/the-home-computer-christmas-wars/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 22:37:49+00:00
+
+<p>Article URL: <a href="https://paleotronic.com/2019/12/01/the-home-computer-christmas-wars/">https://paleotronic.com/2019/12/01/the-home-computer-christmas-wars/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34132229">https://news.ycombinator.com/item?id=34132229</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
 ## MIT Faculty Votes for Statement on Freedom of Expression and Academic Freedom
@@ -174,6 +234,26 @@
 <p>Points: 11</p>
 <p># Comments: 0</p>
 
+## Into the Friar (2010)
+ - [https://chicagoreader.com/news-politics/into-the-friar/](https://chicagoreader.com/news-politics/into-the-friar/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 18:37:14+00:00
+
+<p>Article URL: <a href="https://chicagoreader.com/news-politics/into-the-friar/">https://chicagoreader.com/news-politics/into-the-friar/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34129778">https://news.ycombinator.com/item?id=34129778</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## I Ain't Got Nothing But Time
+ - [https://oxfordamerican.org/magazine/issue-119-winter-2022/i-ain-t-got-nothing-but-time?ref=the-browser](https://oxfordamerican.org/magazine/issue-119-winter-2022/i-ain-t-got-nothing-but-time?ref=the-browser)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 18:31:43+00:00
+
+<p>Article URL: <a href="https://oxfordamerican.org/magazine/issue-119-winter-2022/i-ain-t-got-nothing-but-time?ref=the-browser">https://oxfordamerican.org/magazine/issue-119-winter-2022/i-ain-t-got-nothing-but-time?ref=the-browser</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34129745">https://news.ycombinator.com/item?id=34129745</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
 ## Couples who meet on dating apps are more likely to divorce (2021)
  - [https://www.today.com/tmrw/couples-who-meet-dating-apps-are-more-likely-divorce-early-t236940](https://www.today.com/tmrw/couples-who-meet-dating-apps-are-more-likely-divorce-early-t236940)
  - RSS feed: https://hnrss.org/frontpage
@@ -198,7 +278,6 @@
  - [https://threadreaderapp.com/thread/1606701397109796866.html](https://threadreaderapp.com/thread/1606701397109796866.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-25 18:07:13+00:00
- - tags: moderation,fbi,censorship,twitter
 
 <p>Article URL: <a href="https://threadreaderapp.com/thread/1606701397109796866.html">https://threadreaderapp.com/thread/1606701397109796866.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34129518">https://news.ycombinator.com/item?id=34129518</a></p>
@@ -259,7 +338,6 @@
  - [https://experimentalhistory.substack.com/p/oligopoly-everywhere](https://experimentalhistory.substack.com/p/oligopoly-everywhere)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-25 16:27:31+00:00
- - tags: corporatocracy,oligopoly
 
 <p>Article URL: <a href="https://experimentalhistory.substack.com/p/oligopoly-everywhere">https://experimentalhistory.substack.com/p/oligopoly-everywhere</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34128514">https://news.ycombinator.com/item?id=34128514</a></p>
@@ -368,6 +446,16 @@
 <p>Points: 10</p>
 <p># Comments: 0</p>
 
+## New Sensor Uses MRI to Detect Light Deep in the Brain
+ - [https://neurosciencenews.com/mri-light-sensor-22130/](https://neurosciencenews.com/mri-light-sensor-22130/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 14:51:01+00:00
+
+<p>Article URL: <a href="https://neurosciencenews.com/mri-light-sensor-22130/">https://neurosciencenews.com/mri-light-sensor-22130/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34127683">https://news.ycombinator.com/item?id=34127683</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
 ## Blank page with an embedded tweet. How bad can it be?
  - [https://twitter.com/mhevery/status/1606438382561026049](https://twitter.com/mhevery/status/1606438382561026049)
  - RSS feed: https://hnrss.org/frontpage
@@ -382,7 +470,6 @@
  - [https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-25 14:50:00+00:00
- - tags: privacy,tracking,duckduckgo,google
 
 <p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/">https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34127669">https://news.ycombinator.com/item?id=34127669</a></p>
@@ -434,7 +521,6 @@
  - [https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0](https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-25 13:23:42+00:00
- - tags: mastodon,twitter
 
 <p>Article URL: <a href="https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0">https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34127025">https://news.ycombinator.com/item?id=34127025</a></p>
@@ -733,3 +819,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34122578">https://news.ycombinator.com/item?id=34122578</a></p>
 <p>Points: 29</p>
 <p># Comments: 6</p>
+

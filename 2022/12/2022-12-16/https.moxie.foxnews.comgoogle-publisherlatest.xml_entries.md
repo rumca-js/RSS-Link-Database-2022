@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Prince William’s godmother Lady Susan Hussey apologizes to charity boss following racism allegations: palace
  - [https://www.foxnews.com/entertainment/prince-williams-godmother-lady-susan-hussey-apologizes-charity-boss](https://www.foxnews.com/entertainment/prince-williams-godmother-lady-susan-hussey-apologizes-charity-boss)
@@ -830,7 +830,6 @@ U.S. Marine Corps veteran Robert Sundin, 70, was killed after attempting to defe
  - [https://www.foxnews.com/opinion/bidens-climate-czars-want-fly-private-live-like-kings-while-you-shiver-cold](https://www.foxnews.com/opinion/bidens-climate-czars-want-fly-private-live-like-kings-while-you-shiver-cold)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-16 11:00:45+00:00
- - tags: hypocrisy,climate change
 
 Biden's climate czars want to fly private, live like kings, but president has led a two-year crusade against US energy. Citizens are left to shiver in the cold.
 
@@ -1337,3 +1336,4 @@ A new report out of California shows that the state is advancing a plan to give 
  - date published: 2022-12-16 00:00:17+00:00
 
 El Paso Deputy City Manager Mario D'Agostino pleads for federal assistance amid the wave of illegal immigrants crossing the southern border as the end of Title 42 nears.
+

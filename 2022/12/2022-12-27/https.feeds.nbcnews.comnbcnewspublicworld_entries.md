@@ -1,4 +1,11 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
+
+## 10 convicted in attack on ex-Red Sox slugger David Ortiz in Dominican Republic
+ - [https://www.nbcnews.com/news/latino/10-convicted-attack-ex-red-sox-slugger-david-ortiz-dominican-republic-rcna63393](https://www.nbcnews.com/news/latino/10-convicted-attack-ex-red-sox-slugger-david-ortiz-dominican-republic-rcna63393)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2022-12-27 23:38:00+00:00
+
+Ten of the 13 people Dominican authorities accused of attempting to murder former Major League Baseball player David "Big Papi" Ortiz  have been convicted.
 
 ## Taiwan to extend compulsory military service citing threats from China
  - [https://www.nbcnews.com/video/taiwan-to-extend-compulsory-military-service-citing-threats-from-china-158825029854](https://www.nbcnews.com/video/taiwan-to-extend-compulsory-military-service-citing-threats-from-china-158825029854)
@@ -41,3 +48,4 @@ North Korean leader Kim Jong Un called for stronger effort to overcome hardships
  - date published: 2022-12-27 05:09:09+00:00
 
 South Korea has formally lifted a ban on the import of full-body sex dolls, ending years of debate over how much the government can interfere in private life.
+

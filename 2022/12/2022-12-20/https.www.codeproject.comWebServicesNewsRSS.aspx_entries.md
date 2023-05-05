@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Announcing SvelteKit 1.0
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59863](https://www.codeproject.com/script/News/View.aspx?nwid=59863)
@@ -118,3 +118,4 @@ There's also: swearing, pleading, Googling, and copy and pasting
  - date published: 2022-12-20 05:00:00+00:00
 
 Don't feed the reindeer gas station chili and hotdogs on Dec 24?
+

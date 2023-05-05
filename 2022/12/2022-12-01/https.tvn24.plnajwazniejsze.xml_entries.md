@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Sejm uchwalił ustawę abolicyjną w związku z wyborami kopertowymi
  - [https://tvn24.pl/polska/bezkarnosc-w-zwiazku-z-wyborami-kopertowymi-sejm-uchwalil-tzw-ustawe-abolicyjna-6304515?source=rss](https://tvn24.pl/polska/bezkarnosc-w-zwiazku-z-wyborami-kopertowymi-sejm-uchwalil-tzw-ustawe-abolicyjna-6304515?source=rss)
@@ -959,3 +959,4 @@
 
 <img alt="Glik nie do końca potrafił cieszyć się z awansu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-j0lwe7-kamil-glik/alternates/LANDSCAPE_1280" />
     - To słodko-gorzka radość - przyznał jeden z liderów kadry po meczu z Argentyną.
+

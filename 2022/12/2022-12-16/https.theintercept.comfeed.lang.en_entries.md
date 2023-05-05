@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Elon Musk’s Growing Purge of His Twitter Critics — at the Behest of the Far Right
  - [https://theintercept.com/2022/12/16/twitter-elon-musk-andy-ngo-its-going-down/](https://theintercept.com/2022/12/16/twitter-elon-musk-andy-ngo-its-going-down/)
@@ -31,3 +31,4 @@
 
 <p>A sweeping bill blocking prosecutors from targeting journalists for their sources or seizing their data already passed the House and is within striking distance in the Senate.</p>
 <p>The post <a href="https://theintercept.com/2022/12/15/journalist-source-protection-press-act/" rel="nofollow">Journalism Source Protection Bill Gets a Last-Minute Senate Push</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

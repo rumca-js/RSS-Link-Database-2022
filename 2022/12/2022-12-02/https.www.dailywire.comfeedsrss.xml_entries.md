@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Florida Man Stabs His Own Mother To Death ‘Because She Never Pushed Me To Be A Man’
  - [https://www.dailywire.com/news/florida-man-stabs-his-own-mother-to-death-because-she-never-pushed-me-to-be-a-man](https://www.dailywire.com/news/florida-man-stabs-his-own-mother-to-death-because-she-never-pushed-me-to-be-a-man)
@@ -328,3 +328,4 @@ The Los Angeles Lakers&#8217; LeBron James asked the media this week why they wo
  - date published: 2022-12-02 07:58:29+00:00
 
 Twitter CEO Elon Musk suspended rapper Kanye &#8220;Ye&#8221; West from the social media platform Thursday night after West tweeted an apparent logo for his long shot presidential campaign that showed a Nazi swastika inside a Jewish Star of David. West&#8217;s banishment from Twitter comes after he repeatedly praised Adolf Hitler and the Nazis during an ...
+

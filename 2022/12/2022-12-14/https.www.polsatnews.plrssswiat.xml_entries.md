@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Ukraina: Rzecznik praw człowieka informuje o katowniach dla dzieci
  - [https://www.polsatnews.pl/wiadomosc/2022-12-14/ukraina-rzecznik-praw-czlowieka-informuje-o-katowniach-dla-dzieci/](https://www.polsatnews.pl/wiadomosc/2022-12-14/ukraina-rzecznik-praw-czlowieka-informuje-o-katowniach-dla-dzieci/)
@@ -69,3 +69,4 @@ Niemieckie władze dokonały nalotu na domy w niemieckim rejonie przygranicznym,
  - date published: 2022-12-14 07:38:00+00:00
 
 W niemałe zdumienie wprawił służby celne na lotnisku Schiphol 62-letni pasażer. Kiedy funkcjonariusze otworzyli podczas kontroli jego walizkę, zobaczyli, że jest wypchana gotówką. Po przeliczeniu było w niej w sumie 228 tys. 700 euro.
+

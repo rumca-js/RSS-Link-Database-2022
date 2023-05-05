@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## USPS to Buy 66,000 Electric Delivery Vehicles to Cut Carbon Emissions     - CNET
  - [https://www.cnet.com/news/usps-to-buy-66000-electric-delivery-vehicles-to-cut-carbon-emissions/#ftag=CADf328eec](https://www.cnet.com/news/usps-to-buy-66000-electric-delivery-vehicles-to-cut-carbon-emissions/#ftag=CADf328eec)
@@ -650,3 +650,4 @@ It took years to confirm the existence of Kepler-1658b. Now we know its days are
  - date published: 2022-12-20 00:00:03+00:00
 
 Prepare for snow, ice and potential power outages now. We've got all the essentials you should have at home in case a storm hits.
+

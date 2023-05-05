@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Elon Musk Says Twitter 'Will, In Fact, Be OK Next Year'
  - [https://www.wsj.com/articles/elon-musk-says-twitter-cost-cuts-stemmed-cash-burn-11671634197?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-says-twitter-cost-cuts-stemmed-cash-burn-11671634197?mod=rss_Technology)
@@ -34,3 +34,4 @@ The wave of layoffs started this summer and has spanned departments, including w
  - date published: 2022-12-21 00:36:00+00:00
 
 The subscription-only package allows football fans to watch most Sunday afternoon games.
+

@@ -1,4 +1,74 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## How to Identify a Scientific Fact
+ - [https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/](https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 23:32:34+00:00
+
+<p>Article URL: <a href="https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/">https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34179568">https://news.ycombinator.com/item?id=34179568</a></p>
+<p>Points: 21</p>
+<p># Comments: 11</p>
+
+## Golang is evil on shitty networks
+ - [https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 23:17:43+00:00
+
+<p>Article URL: <a href="https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/">https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34179426">https://news.ycombinator.com/item?id=34179426</a></p>
+<p>Points: 99</p>
+<p># Comments: 20</p>
+
+## Can a Tarot card reading be defamatory?
+ - [https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory](https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 22:51:46+00:00
+
+<p>Article URL: <a href="https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory">https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34179185">https://news.ycombinator.com/item?id=34179185</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+## Software Illustrated: I'm just trying to change this lightbulb
+ - [https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 22:39:02+00:00
+
+<p>Article URL: <a href="https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html">https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34179067">https://news.ycombinator.com/item?id=34179067</a></p>
+<p>Points: 20</p>
+<p># Comments: 3</p>
+
+## Freenet build 1495 released: new user entrance, user experience, performance
+ - [https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html](https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 22:33:21+00:00
+
+<p>Article URL: <a href="https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html">https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34178994">https://news.ycombinator.com/item?id=34178994</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
+
+## The IE 11 user-agent forced Mozilla to freeze part of its user-agent string
+ - [https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 22:23:16+00:00
+
+<p>Article URL: <a href="https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html">https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34178880">https://news.ycombinator.com/item?id=34178880</a></p>
+<p>Points: 77</p>
+<p># Comments: 30</p>
+
+## Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy
+ - [https://twitter.com/tivadardanka/status/1608419325706391554](https://twitter.com/tivadardanka/status/1608419325706391554)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 22:22:27+00:00
+
+<p>Article URL: <a href="https://twitter.com/tivadardanka/status/1608419325706391554">https://twitter.com/tivadardanka/status/1608419325706391554</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34178870">https://news.ycombinator.com/item?id=34178870</a></p>
+<p>Points: 53</p>
+<p># Comments: 29</p>
 
 ## Ask HN: Tutorials Written with Heavy Dependencies
  - [https://news.ycombinator.com/item?id=34178349](https://news.ycombinator.com/item?id=34178349)
@@ -11,6 +81,16 @@
 <p>Points: 6</p>
 <p># Comments: 3</p>
 
+## Speaker diarization (labels) for OpenAI Whisper generated transcripts
+ - [https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/](https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 21:32:48+00:00
+
+<p>Article URL: <a href="https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/">https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34178300">https://news.ycombinator.com/item?id=34178300</a></p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
+
 ## Unintended consequences of blocking IP addresses
  - [https://blog.cloudflare.com/consequences-of-ip-blocking/](https://blog.cloudflare.com/consequences-of-ip-blocking/)
  - RSS feed: https://hnrss.org/frontpage
@@ -20,6 +100,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34178168">https://news.ycombinator.com/item?id=34178168</a></p>
 <p>Points: 9</p>
 <p># Comments: 5</p>
+
+## Endless Horse
+ - [http://endless.horse](http://endless.horse)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 21:07:40+00:00
+
+<p>Article URL: <a href="http://endless.horse">http://endless.horse</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34177935">https://news.ycombinator.com/item?id=34177935</a></p>
+<p>Points: 27</p>
+<p># Comments: 8</p>
 
 ## Privacy Is OK
  - [https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK](https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK)
@@ -60,6 +150,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34177703">https://news.ycombinator.com/item?id=34177703</a></p>
 <p>Points: 37</p>
 <p># Comments: 28</p>
+
+## Encrypted DNS and NTP = Deadlock
+ - [https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f](https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 20:14:35+00:00
+
+<p>Article URL: <a href="https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f">https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34177331">https://news.ycombinator.com/item?id=34177331</a></p>
+<p>Points: 25</p>
+<p># Comments: 13</p>
 
 ## Airport runway names shift with magnetic field
  - [https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field](https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field)
@@ -222,6 +322,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34174806">https://news.ycombinator.com/item?id=34174806</a></p>
 <p>Points: 40</p>
 <p># Comments: 0</p>
+
+## Power on the moon: What will it take to survive the lunar night?
+ - [https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/](https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 17:03:52+00:00
+
+<p>Article URL: <a href="https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/">https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34174765">https://news.ycombinator.com/item?id=34174765</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
 ## Ask HN: What was the best software that you used during 2022?
  - [https://news.ycombinator.com/item?id=34174593](https://news.ycombinator.com/item?id=34174593)
@@ -683,3 +793,14 @@ Funnily enough, it's possible to remove this DRM protection, but it's also not s
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34167962">https://news.ycombinator.com/item?id=34167962</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+
+## Make your database tables smaller
+ - [https://jezenthomas.com/make-your-database-tables-smaller/](https://jezenthomas.com/make-your-database-tables-smaller/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 00:15:59+00:00
+
+<p>Article URL: <a href="https://jezenthomas.com/make-your-database-tables-smaller/">https://jezenthomas.com/make-your-database-tables-smaller/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34167839">https://news.ycombinator.com/item?id=34167839</a></p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
+

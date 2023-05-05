@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Upgrading my network to 2.5Gbps with the fastest small business and residential firewall: Firewalla Gold Plus
  - [https://www.zdnet.com/home-and-office/networking/the-fastest-small-business-and-residential-firewall-firewalla-gold-plus/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/the-fastest-small-business-and-residential-firewall-firewalla-gold-plus/#ftag=RSSbaffb68)
@@ -34,3 +34,4 @@ Think you're alone when you're playing video games? Perhaps it's time to think a
  - date published: 2022-12-27 07:41:18+00:00
 
 While it remains unclear whether its New Zealand operations will go the way of its decision to quit the Australian market, MyRepublic tells ZDNET its strategic refocus and the anticipated global economic downturn may impact its IPO timeline.
+

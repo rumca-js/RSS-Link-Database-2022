@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Lubelskie. Potrącił 14-latkę i uciekł. Wpadła pod koła innego pojazdu, jest w ciężkim stanie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29272826,lubelskie-potracil-14-latke-i-uciekl-wpadla-pod-kola-innego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29272826,lubelskie-potracil-14-latke-i-uciekl-wpadla-pod-kola-innego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -139,3 +139,4 @@
  - date published: 2022-12-16 05:27:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/64/e6/1b/z29255268M,Naczelnik-Panstwa-Jozef-Pilsudski-podczas-rozmowy-.jpg" vspace="2" />To był cios w demokrację, zamach na władzę, na urząd prezydenta. Gdyby został nim Józef Piłsudski, to on byłby celem. Zginął jednak Gabriel Narutowicz. Profesor, polityk, dyplomata, powołany na urząd zaledwie siedem dni wcześniej. Zabójca nie uciekał, o zbrodni mówił z dumą, został za nią rozstrzelany. W 100. rocznicę śmierci prezydenta Narutowicza publikujemy relacje świadków procesu Eligiusza Niewiadomskiego i fragmenty oświadczeń samego zamachowca.
+

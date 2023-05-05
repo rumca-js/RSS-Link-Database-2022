@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## Upcoming RTX 4070 may not succeed unless Nvidia makes a key change
  - [https://www.digitaltrends.com/computing/nvidia-rtx-4070-leaked-specs-appear/](https://www.digitaltrends.com/computing/nvidia-rtx-4070-leaked-specs-appear/)
@@ -6,3 +6,4 @@
  - date published: 2022-12-09 16:21:10.383951+00:00
 
 Leaked specifications of the upcoming RTX 4070 appeared, giving us the first glimpse at the Nvidia graphics card.
+

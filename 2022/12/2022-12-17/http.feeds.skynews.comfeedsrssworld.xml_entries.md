@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## World Cup has 'changed the perception of this part of the world', says Qatar 2022 boss
  - [https://news.sky.com/story/qatar-world-cup-boss-tournament-has-changed-the-perception-of-this-part-of-the-world-12770401](https://news.sky.com/story/qatar-world-cup-boss-tournament-has-changed-the-perception-of-this-part-of-the-world-12770401)
@@ -27,6 +27,13 @@ It was one evening in Souq Waqif, a few days before the World Cup kicked off, wh
  - date published: 2022-12-17 18:00:00+00:00
 
 One of Iran's most famous actresses has been arrested and accused of "spreading falsehoods", state media has said.
+
+## Lockdowns, protests and Omicron - what happened around the world with COVID-19 in 2022?
+ - [https://news.sky.com/story/lockdowns-protests-and-omicron-what-happened-around-the-world-with-covid-19-in-2022-12770084](https://news.sky.com/story/lockdowns-protests-and-omicron-what-happened-around-the-world-with-covid-19-in-2022-12770084)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-17 16:08:00+00:00
+
+Next year could see the end of COVID-19 as an emergency worldwide, but global healthcare systems are still at risk of being overwhelmed, the World Health Organisation has told Sky News.
 
 ## Croatia finish third after beating Morocco 2-1
  - [https://news.sky.com/story/world-cup-2022-croatia-finish-third-after-beating-morocco-2-1-12770076](https://news.sky.com/story/world-cup-2022-croatia-finish-third-after-beating-morocco-2-1-12770076)
@@ -76,3 +83,4 @@ A man has avoided jail after drunkenly attacking a pet tortoise at a nursery in 
  - date published: 2022-12-17 04:33:00+00:00
 
 FIFA disbanded its human rights board two years ago and did not act on a plea to urgently replace it with new independent advisers particularly providing scrutiny of the Qatar World Cup, Sky News can reveal.
+

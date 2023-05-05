@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Holiday Shipping Deadlines 2022: Don't Be Late to Shipping Your Gifts With UPS, FedEx, Amazon and More     - CNET
  - [https://www.cnet.com/how-to/holiday-shipping-deadlines-2022-dont-be-late-to-shipping-your-gifts-with-ups-fedex-amazon-and-more/#ftag=CADf328eec](https://www.cnet.com/how-to/holiday-shipping-deadlines-2022-dont-be-late-to-shipping-your-gifts-with-ups-fedex-amazon-and-more/#ftag=CADf328eec)
@@ -608,3 +608,4 @@ Studies show there are benefits to even short bursts of exercise. If you're not 
  - date published: 2022-12-02 00:37:51+00:00
 
 Dec. 1 is World AIDS Day, so it's a good time to talk about the importance of getting tested for HIV.
+

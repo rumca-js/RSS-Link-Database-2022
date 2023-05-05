@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Eksplozja "prezentu" w KGP. Marek Biernacki: Absurdalna sytuacja, "gang Olsena"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29268713,eksplozja-prezentu-w-kgp-marek-biernacki-absurdalna-sytuacja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29268713,eksplozja-prezentu-w-kgp-marek-biernacki-absurdalna-sytuacja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -146,3 +146,4 @@
  - date published: 2022-12-15 05:15:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/61/e8/1b/z29264737M,Pogoda--zdjecie-ilustracyjne-.jpg" vspace="2" />Pogoda pod znakiem mrozu daje nam się we znaki i będzie tak jeszcze przez co najmniej kilka dni. Według rzecznika IMGW Grzegorza Walijewskiego jest nawet szansa na białe święta, ale nie w całej Polsce. Jakiej aury możemy się spodziewać w najbliższych dniach?
+

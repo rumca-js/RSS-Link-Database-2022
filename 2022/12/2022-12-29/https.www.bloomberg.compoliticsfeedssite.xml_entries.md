@@ -1,4 +1,18 @@
-# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
+
+## Shielded by Russia and China, Myanmar’s Tactics Turn More Brutal
+ - [https://www.bloomberg.com/news/articles/2022-12-30/shielded-by-russia-and-china-myanmar-s-tactics-turn-more-brutal](https://www.bloomberg.com/news/articles/2022-12-30/shielded-by-russia-and-china-myanmar-s-tactics-turn-more-brutal)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-30 00:00:00+00:00
+
+When Myanmar carried out the death penalty for the first time in three decades by executing four activists in July, China and Russia stayed silent while the US and its allies condemned the junta. Now the regime is on the verge of doing it again.
+
+## Biden Signs $1.7 Trillion Funding Bill That Includes Ukraine Aid
+ - [https://www.bloomberg.com/news/articles/2022-12-29/biden-signs-1-7-trillion-funding-bill-that-includes-ukraine-aid](https://www.bloomberg.com/news/articles/2022-12-29/biden-signs-1-7-trillion-funding-bill-that-includes-ukraine-aid)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-29 23:43:12+00:00
+
+President Joe Biden signed a $1.7 trillion government funding bill that includes $47 billion in additional aid for Ukraine in a victory for Democrats who feared that Republicans who will have control of the House in January could force deeper spending cuts and block assistance to Kyiv.
 
 ## Brazil’s Lula Taps Amazon Defender, New Ally in Bid to Diversify Cabinet
  - [https://www.bloomberg.com/news/articles/2022-12-29/lula-taps-amazon-defender-new-ally-in-bid-to-diversify-cabinet](https://www.bloomberg.com/news/articles/2022-12-29/lula-taps-amazon-defender-new-ally-in-bid-to-diversify-cabinet)
@@ -251,3 +265,4 @@ Australia would be willing to reconsider its case against China at the World Tra
  - date published: 2022-12-29 00:25:44+00:00
 
 Serbs in Kosovo agreed to start removing road barricades erected in protest against the largely ethnic-Albanian government, Serbian President Aleksandar Vucic said, even as he vowed to protect demonstrators that have raised the specter of renewed conflict.
+

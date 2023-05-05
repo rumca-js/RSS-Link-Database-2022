@@ -1,4 +1,25 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Novak Djokovic back in Australia following high-profile visa ban
+ - [https://www.cnn.com/2022/12/27/sport/tennis-novak-djokovic-australia-intl-spt/index.html](https://www.cnn.com/2022/12/27/sport/tennis-novak-djokovic-australia-intl-spt/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-27 23:33:42+00:00
+
+Novak Djokovic is back in Australia, according to a spokesperson with Tennis Australia, nearly a year after his high-profile visa ban from the country over his stance on the Covid-19 vaccination.
+
+## Key findings from the latest transcripts released by the Jan. 6 panel
+ - [https://www.cnn.com/2022/12/27/politics/january-6-transcripts-key-findings/index.html](https://www.cnn.com/2022/12/27/politics/january-6-transcripts-key-findings/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-27 22:55:16+00:00
+
+The January 6 committee released another batch of transcripts Tuesday, including two more of its interviews with blockbuster witness Cassidy Hutchinson and testimony from several other Trump White House officials.
+
+## Rep.-elect Santos faces growing condemnation for lies as House GOP leadership remains silent
+ - [https://www.cnn.com/2022/12/27/politics/george-santos-democrats-gop-leadership/index.html](https://www.cnn.com/2022/12/27/politics/george-santos-democrats-gop-leadership/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-27 22:23:52+00:00
+
+GOP Rep.-elect George Santos is facing growing condemnation from House Democrats, some of whom have called on him to step aside, and even from some corners of the GOP, with at least one of his fellow incoming Republicans calling for him to face an ethics investigation. House GOP leadership, however, remains silent over revelations that the New York Republican lied about parts of his biography.
 
 ## Supreme Court says Trump-era border restriction will remain in effect while legal challenges play out
  - [https://www.cnn.com/collections/intl-immigration/](https://www.cnn.com/collections/intl-immigration/)
@@ -83,6 +104,13 @@ Since the first length of fencing went up last week along the Mexican border nea
  - date published: 2022-12-27 17:33:29+00:00
 
 
+
+## 8-year-old goes viral for incredible dance moves at school concert
+ - [https://www.cnn.com/videos/us/2022/12/27/dancing-8-year-old-tiktok-school-winter-concert-california-affl-pkg-vpx.kgo](https://www.cnn.com/videos/us/2022/12/27/dancing-8-year-old-tiktok-school-winter-concert-california-affl-pkg-vpx.kgo)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-27 17:32:10+00:00
+
+8-year-old Jaden Williams was caught on camera tearing up the stage at his elementary school winter concert in Menlo Park, California. CNN affiliate KGO has the story.
 
 ## Arizona Cardinals defensive end J.J. Watt to retire after this NFL season
  - [https://www.cnn.com/2022/12/27/football/jj-watt-arizona-cardinals-retire/index.html](https://www.cnn.com/2022/12/27/football/jj-watt-arizona-cardinals-retire/index.html)
@@ -413,6 +441,13 @@ The past year has been one of the most tumultuous in modern British politics. Th
 
 For Olena Isayenko, the beeping sound her oxygen machine makes when disconnected from power is far scarier than the screeching of the air raid sirens now commonly heard throughout Kyiv.
 
+## Analysis: Why 2022 was a tough year for Trump and 2023 may not be much better
+ - [https://www.cnn.com/2022/12/27/politics/trump-2022-rough-year/index.html](https://www.cnn.com/2022/12/27/politics/trump-2022-rough-year/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-27 05:00:49+00:00
+
+This must feel like the year that won't end for former President Donald Trump, whose actions appear to be catching up with him in public, painful and expensive ways.
+
 ## Ukraine's Zelensky seeks Indian Prime Minister Modi's help with peace plan
  - [https://www.cnn.com/2022/12/26/india/india-modi-zelensky-phone-call-peace-intl-hnk/index.html](https://www.cnn.com/2022/12/26/india/india-modi-zelensky-phone-call-peace-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -496,3 +531,4 @@ Philippine authorities on Monday reported at least eight deaths mostly due to fl
  - date published: 2022-12-27 00:55:08+00:00
 
 Video captures an intense dance battle between 8th graders and their teacher.
+

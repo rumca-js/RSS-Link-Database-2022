@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## Alert. Nowa krytyczna podatność w Fortigate umożliwia przejęcie urządzenia. Trwa aktywna exploitacja! CVE-2022-42475
  - [https://sekurak.pl/alert-nowa-krytyczna-podatnosc-w-fortigate-umozliwia-przejecie-urzadzenia-trwa-aktywna-exploitacja-cve-2022-42475/](https://sekurak.pl/alert-nowa-krytyczna-podatnosc-w-fortigate-umozliwia-przejecie-urzadzenia-trwa-aktywna-exploitacja-cve-2022-42475/)
@@ -23,3 +23,4 @@
 
 <p>Niebanalny research tutaj. Pierwszym krokiem było zlokalizowanie podatności SQL injection (z poziomu zwykłego użytkownika cloudu IBMa): Ale w sumie co daje SQL injection, jak przecież wykupując swoją bazę danych w IBM cloud i tak mamy możliwość wykonywania dowolnych poleceń SQL-owych? Odpowiedź znajduje się powyżej. Zobaczcie że zdefiniowana przez IBM funkcja...</p>
 <p>Artykuł <a href="https://sekurak.pl/sql-injection-wykonanie-kodu-w-os-problemy-z-kubernetesem-sekrety-w-obrazach-dockera-mozna-bylo-podmieniac-bazowe-obrazy-w-czesci-cloudu-ibma/" rel="nofollow">SQL injection, wykonanie kodu w OS, problemy z Kubernetesem, sekrety w obrazach Dockera. Można było podmieniać bazowe obrazy w części cloudu IBMa</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

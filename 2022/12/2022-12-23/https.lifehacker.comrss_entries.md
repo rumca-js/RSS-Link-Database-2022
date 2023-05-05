@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Get Free Popeyes Chicken Sandwiches for the Rest of the Year
  - [https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863](https://lifehacker.com/get-free-popeyes-chicken-sandwiches-for-the-rest-of-the-1849922863)
@@ -34,3 +34,4 @@
  - date published: 2022-12-23 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s---XdQSc8h--/c_fit,fl_progressive,q_80,w_636/282e92ef42a748a1b83f243a0a484e1a.jpg" /><p>When making my Christmas (shopping) lists and checking them twice, I often forget to consider ice, which makes some amount of sense. Depending on where you are in the world, ice is probably not at the forefront of your mind in the days leading up to Christmas, especially if you’ve been shoveling snow, driving through…</p><p><a href="https://lifehacker.com/where-to-get-emergency-ice-on-christmas-day-1849877036">Read more...</a></p>
+

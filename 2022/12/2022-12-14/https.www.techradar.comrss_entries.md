@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Google launches new open-source security scanning tool
  - [https://www.techradar.com/news/google-launches-new-open-source-security-scanning-tool](https://www.techradar.com/news/google-launches-new-open-source-security-scanning-tool)
@@ -160,3 +160,4 @@ Fresh leak on the RTX 4070 Ti banishes whispers about a hamstrung graphics card.
  - date published: 2022-12-14 06:00:45+00:00
 
 Android 13 QPR2 Beta 1 also redesign launcher layouts and improves desktop mode.
+

@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Photos: Argentina batter Croatia to shoot for World Cup glory
  - [https://www.aljazeera.com/gallery/2022/12/13/photos-argentina-batter-croatia-shoot-world-cup-glory](https://www.aljazeera.com/gallery/2022/12/13/photos-argentina-batter-croatia-shoot-world-cup-glory)
@@ -545,3 +545,4 @@ Cryptocurrency exchange founder&#039;s arrest comes hours after he said he would
  - date published: 2022-12-13 00:34:44+00:00
 
 Amine Harit will continue to receive treatment for his knee injury while in Qatar to watch the semifinal against France.
+

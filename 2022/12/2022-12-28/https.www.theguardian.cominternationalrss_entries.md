@@ -1,4 +1,18 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## Pep Guardiola: fit and firing Erling Haaland will only get better
+ - [https://www.theguardian.com/football/2022/dec/28/pep-guardiola-fit-and-firing-erling-haaland-will-only-get-better](https://www.theguardian.com/football/2022/dec/28/pep-guardiola-fit-and-firing-erling-haaland-will-only-get-better)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-28 23:27:19+00:00
+
+<p>• Manchester City manager sends out warning to Premier League</p><p>• Champions see off Leeds thanks to double from striker</p><p>Pep Guardiola believes Erling Haaland will only get better after being able to build his fitness during the World Cup break.</p><p><a href="https://www.theguardian.com/football/2022/dec/28/leeds-united-manchester-city-premier-league-match-report">Haaland struck his 19th and 20th of the season to help beat Leeds 3-1</a> in only his 14th Premier League appearance for the club. <a href="https://www.theguardian.com/football/2022/jun/13/erling-haaland-completes-manchester-city-move-proud-day-borussia-dortmund">The Norwegian arrived in the summer from Borussia Dortmund</a> where he missed large portions of last season through injury. Due to Norway’s absence from Qatar 2022, Haaland avoided the mental and physical stress of tournament football.</p> <a href="https://www.theguardian.com/football/2022/dec/28/pep-guardiola-fit-and-firing-erling-haaland-will-only-get-better">Continue reading...</a>
+
+## Mbappé snatches winner for PSG after Neymar red card against Strasbourg
+ - [https://www.theguardian.com/football/2022/dec/28/mbappe-snatches-winner-for-psg-after-neymar-red-card-against-strasbourg](https://www.theguardian.com/football/2022/dec/28/mbappe-snatches-winner-for-psg-after-neymar-red-card-against-strasbourg)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-28 23:18:27+00:00
+
+<p></p><p>Neymar was sent off but Kylian Mbappé rescued Paris Saint-Germain with a late penalty to snatch a 2-1 victory over Strasbourg in the France striker’s first game since the World Cup final.</p><p>Marquinhos opened the scoring by breaking free from his marker and heading in Neymar’s cross after 14 minutes. The Brazilian defender, however, deflected Adrien Thomasson’s cross into his own net in the 51st minute to leave the scores level.</p> <a href="https://www.theguardian.com/football/2022/dec/28/mbappe-snatches-winner-for-psg-after-neymar-red-card-against-strasbourg">Continue reading...</a>
 
 ## Australia v South Africa: second Test, day four – live
  - [https://www.theguardian.com/sport/live/2022/dec/29/australia-v-south-africa-second-test-day-four-live](https://www.theguardian.com/sport/live/2022/dec/29/australia-v-south-africa-second-test-day-four-live)
@@ -21,12 +35,26 @@
 
 <p>It took Alfie Haaland 181 games spread over a decade to score 18 Premier League goals – his son Erling has bested him after 14 appearances for Manchester City, not that his former Leeds defender father will mind too much.</p><p>Leeds had made City work hard for their chances but were rarely able to cope with the champions’ slick passing and movement. For their second goal, a tired pass from the captain Liam Cooper to the oblivious Robin Koch was intercepted by boo-boy Jack Grealish, giving him the freedom of the half, he drew out the goalkeeper and slipped the ball to Haaland to knock into an empty net for his 19th of the campaign. Grealish enjoyed the goal more than Haaland after receiving plenty of Elland Road rancour throughout.</p> <a href="https://www.theguardian.com/football/2022/dec/28/leeds-united-manchester-city-premier-league-match-report">Continue reading...</a>
 
+## Canada: drone footage shows row of lakefront houses frozen over – video
+ - [https://www.theguardian.com/world/video/2022/dec/28/canada-drone-footage-shows-row-of-lakefront-houses-frozen-over-video](https://www.theguardian.com/world/video/2022/dec/28/canada-drone-footage-shows-row-of-lakefront-houses-frozen-over-video)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-28 22:04:06+00:00
+
+<p>The US and Canada have been battling with record freezing temperatures after a deadly winter storm, resulting in at least 65 deaths. Drone footage shows a row of lakefront houses completely frozen over in Ontario in Canada, where authorities declared a state of emergency after heavy snowfall. Western New York state has been hardest hit by an Arctic freeze. The national guard have been going door to door in the city of Buffalo, where in some cases residents have been trapped inside houses and without power</p><ul><li><a href="https://www.theguardian.com/us-news/2022/dec/28/buffalo-storm-national-guard-new-york">National guard check door-to-door in Buffalo after killer storm&nbsp;</a></li><li><a href="https://www.theguardian.com/us-news/2022/dec/28/flooding-oregon-washington-california-pacific-northwest-storm-rain">Western US battles rain and flooding as ‘atmospheric river’ storm hits</a></li></ul> <a href="https://www.theguardian.com/world/video/2022/dec/28/canada-drone-footage-shows-row-of-lakefront-houses-frozen-over-video">Continue reading...</a>
+
 ## Suspected Stockton serial killer charged with four additional deaths
  - [https://www.theguardian.com/us-news/2022/dec/28/suspected-california-serial-killer-charged-four-additional-deaths](https://www.theguardian.com/us-news/2022/dec/28/suspected-california-serial-killer-charged-four-additional-deaths)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-28 21:57:28+00:00
 
 <p>Wesley Brownlee, arrested in October while allegedly ‘out hunting’ for another victim, now faces seven charges for slayings</p><p>A man suspected in northern California serial killings has been charged in four additional slayings this week, bringing the total to seven deaths since April 2021, authorities said.</p><p>The shootings terrorized the Central Valley city of Stockton earlier this year as police searched for a man clad in black who appeared to be “on a mission” as he hunted victims for ambush-style shootings. He was also tied to violence in Alameda county.</p> <a href="https://www.theguardian.com/us-news/2022/dec/28/suspected-california-serial-killer-charged-four-additional-deaths">Continue reading...</a>
+
+## Children trapped in car for 55 hours after crash in Western Australia that killed parents
+ - [https://www.theguardian.com/australia-news/2022/dec/29/children-trapped-in-car-for-55-hours-after-crash-in-western-australia-that-killed-parents](https://www.theguardian.com/australia-news/2022/dec/29/children-trapped-in-car-for-55-hours-after-crash-in-western-australia-that-killed-parents)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-28 21:28:33+00:00
+
+<p>A five-year-old girl saved her younger brother’s life after their Land Rover rolled on Christmas Day</p><ul><li><a href="https://www.theguardian.com/australia-news/live/2022/dec/29/australia-news-live-holiday-death-toll-drownings-weather-floods-woodford-qld-nsw-vic-sa">Follow our Australia news live blog for the latest updates</a></li></ul><p>A five-year-old girl saved her younger brother’s life after a Christmas Day crash that killed their parents and left them trapped inside their vehicle for more than two days.</p><p>Jake Day, 28, and Cindy Braddock, 25, died after their four-wheel drive left the road and rolled about 10km from their hometown of Kondinin, in country Western Australia.</p><p> <strong><a href="https://www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories">Sign up for a weekly email featuring our best reads</a></strong></p> <a href="https://www.theguardian.com/australia-news/2022/dec/29/children-trapped-in-car-for-55-hours-after-crash-in-western-australia-that-killed-parents">Continue reading...</a>
 
 ## Liverpool complete £35m signing of World Cup star Cody Gakpo
  - [https://www.theguardian.com/football/2022/dec/28/liverpool-complete-35m-signing-of-world-cup-star-cody-gakpo](https://www.theguardian.com/football/2022/dec/28/liverpool-complete-35m-signing-of-world-cup-star-cody-gakpo)
@@ -69,6 +97,13 @@
  - date published: 2022-12-28 18:40:05+00:00
 
 <p>In the northern hemisphere five planets can be seen by the naked eye, and Uranus and Neptune with a telescope or binoculars</p><p>Every planet in the solar system was visible in the night sky simultaneously on Wednesday, which is regarded by experts as a rare astronomical event.</p><p>Venus, Mercury, Saturn, Jupiter and Mars could all be seen in that order in the northern hemisphere with the naked eye, starting from the south-western horizon and moving east.</p> <a href="https://www.theguardian.com/science/2022/dec/28/all-planets-in-the-solar-system-visible-in-night-sky-at-same-time-on-wednesday">Continue reading...</a>
+
+## PDC world darts: Van Gerwen defeats Suljovic and Smith edges into last 16
+ - [https://www.theguardian.com/sport/2022/dec/28/pdc-world-darts-dobey-fired-up-by-andersons-comments-in-shock-victory](https://www.theguardian.com/sport/2022/dec/28/pdc-world-darts-dobey-fired-up-by-andersons-comments-in-shock-victory)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-28 18:39:15+00:00
+
+<ul><li>Three-time champion progresses with 4-2 victory</li><li>Michael Smith recovers from 3-1 down to progress</li></ul><p>Michael van Gerwen maintained his pursuit of a fourth world title after defeating Mensur Suljovic 4-2 at Alexandra Palace.</p><p>Van Gerwen opened up a 2-0 advantage in his match before the Austrian halved the deficit. Van Gerwen made it 3-1 before Suljovic hit back to remain in the tie. But the Dutchman clinched his place in the last 16 by winning the sixth set and will face either <strong>Dirk van Duijvenbode</strong> or <strong>Ross Smith</strong> next.</p> <a href="https://www.theguardian.com/sport/2022/dec/28/pdc-world-darts-dobey-fired-up-by-andersons-comments-in-shock-victory">Continue reading...</a>
 
 ## Italy decrees travellers from China must take Covid tests
  - [https://www.theguardian.com/world/2022/dec/28/italy-decrees-travellers-from-china-must-take-covid-tests](https://www.theguardian.com/world/2022/dec/28/italy-decrees-travellers-from-china-must-take-covid-tests)
@@ -165,7 +200,6 @@
  - [https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover](https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-28 16:47:56+00:00
- - tags: mastodon,free speech,censorship,moderation,twitter
 
 <p>Eugen Rochko says he received offers of hundreds of thousands of dollars for rival network from Silicon Valley private equity firms</p><p>The founder of Mastodon has said he has rejected approaches from more than five US-based investors, as the Twitter rival grows in popularity after Elon Musk’s <a href="https://www.theguardian.com/technology/2022/nov/17/elon-musk-twitter-closes-offices-loyalty-oath-resignations">chaotic debut</a> as a social media owner.</p><p>Eugen Rochko, who launched the open-source social network in 2016, told the Financial Times he had received the offers from Silicon Valley private equity firms to put “hundreds of thousands of dollars” into the product.</p> <a href="https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover">Continue reading...</a>
 
@@ -756,3 +790,4 @@
  - date published: 2022-12-28 00:01:35+00:00
 
 <p>Scientists say test could replace a costly brain scan or painful lumbar puncture and enable earlier detection of disease</p><p>Scientists have developed a blood test to diagnose Alzheimer’s disease without the need for expensive brain imaging or a painful <a href="https://www.alzheimers.org.uk/research/take-part-research/lumbar-puncture#:~:text=Alzheimer%27s%20disease%20is%20characterised%20by,is%20affected%20by%20Alzheimer%27s%20disease.">lumbar puncture</a>, where a sample of cerebrospinal fluid (CSF) is drawn from the lower back. If validated, the test could enable faster diagnosis of the disease, meaning therapies could be initiated earlier.</p><p>Alzheimer’s is the most common form of dementia, but diagnosis remains challenging – particularly during the earlier stages of the disease.</p> <a href="https://www.theguardian.com/society/2022/dec/28/scientists-develop-blood-test-for-alzheimers-disease">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Returnal is coming to PC, but you’ll need 32GB of RAM to play comfortably
  - [https://www.theverge.com/2022/12/11/23504346/sony-returnal-pc-ram-recommendation](https://www.theverge.com/2022/12/11/23504346/sony-returnal-pc-ram-recommendation)
@@ -54,3 +54,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/11/23503314/mod-unlocked-90hz-google-pixel-6a">Continue reading&hellip;</a>
   </p>
+

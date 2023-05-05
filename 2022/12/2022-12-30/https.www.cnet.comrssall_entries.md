@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## If You Change One TV Picture Setting This Year, Make It This One     - CNET
  - [https://www.cnet.com/tech/home-entertainment/if-you-change-one-tv-picture-setting-this-year-make-it-this-one/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/if-you-change-one-tv-picture-setting-this-year-make-it-this-one/#ftag=CADf328eec)
@@ -342,3 +342,4 @@ The tax rules for claiming contributions are changing. Here's how they will impa
  - date published: 2022-12-30 00:00:03+00:00
 
 The Cowboys and Titans meet in the last NFL game of 2022.
+

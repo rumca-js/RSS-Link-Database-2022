@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Miniaturowe obiekty z DNA to nie fikcja, lecz rzeczywistość. Tylko jak je wykorzystać?
  - [https://www.chip.pl/2022/12/dna-tworzenie-miniaturowych-obiektow](https://www.chip.pl/2022/12/dna-tworzenie-miniaturowych-obiektow)
@@ -63,3 +63,4 @@
 
 <img alt="Curiosity" class="attachment-full size-full wp-post-image" height="1440" src="https://konto.chip.pl/wp-content/uploads/2022/12/Curiosity.jpg" style="margin-bottom: 10px;" width="2560" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Curiosity.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>15 grudnia 2022 roku marsjański lądownik Mars InSight przesłał ostatni pakiet danych i ostatnie zdjęcie. Mimo prób nie udało się ponownie nawiązać z nim kontaktu i prawdopodobnie jest to już ostateczny koniec misji. O tym, że ten moment się zbliża wiadomo było od dawna – z powodu rosnącego zapylenia sprawność ogniw słonecznych nieustannie spadała i [&#8230;]</p>
+

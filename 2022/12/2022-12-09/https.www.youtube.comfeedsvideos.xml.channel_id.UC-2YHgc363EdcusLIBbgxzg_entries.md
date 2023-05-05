@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## This Company Makes All The Advanced Semiconductors In The World
  - [https://www.youtube.com/watch?v=09kKwzaqBXc](https://www.youtube.com/watch?v=09kKwzaqBXc)
@@ -32,3 +32,4 @@ Instagram: https://instagram.com/answerswithjoe
 TikTok: https://www.tiktok.com/@answerswithjoe
 Facebook: http://www.facebook.com/answerswithjoe
 Twitter: https://www.twitter.com/answerswithjoe
+

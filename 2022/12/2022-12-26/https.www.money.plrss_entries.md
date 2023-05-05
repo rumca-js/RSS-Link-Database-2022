@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Urzędnik tłumaczy WIBOR. "Chińskie mury" gwarantem bezpieczeństwa
  - [https://www.money.pl/banki/urzednik-tlumaczy-wibor-chinskie-mury-gwarantem-bezpieczenstwa-6846652660050752a.html](https://www.money.pl/banki/urzednik-tlumaczy-wibor-chinskie-mury-gwarantem-bezpieczenstwa-6846652660050752a.html)
@@ -34,3 +34,4 @@
  - date published: 2022-12-26 05:58:01+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9e2fec48-8a6e-4a50-b258-e15eeb0c5019" width="308" /> Zapełnienie magazynów gazu i zakontraktowanie dostaw przed obecną zimą było priorytetem dla krajów Unii Europejskiej. Europejczycy płacą za to wysoką cenę. Jednak kryzys gazowy nie skończy się na tej zimie. - Gaz ziemny staje się paliwem realnej walki na światowych rynkach - mówi dr Przemysław Zaleski, ekspert z Fundacji Pułaskiego. Czeka nas kolejny brutalny wyścig i to na skalę globalną.
+

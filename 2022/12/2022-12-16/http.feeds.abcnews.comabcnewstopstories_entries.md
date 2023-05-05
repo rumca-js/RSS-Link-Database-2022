@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Amazon cited by OSHA for warehouse injury report failures
  - [https://abcnews.go.com/Business/amazon-cited-osha-warehouse-injury-report-failures/story?id=95430540](https://abcnews.go.com/Business/amazon-cited-osha-warehouse-injury-report-failures/story?id=95430540)
@@ -244,3 +244,4 @@ The bill now goes to President Biden to be signed into law.
  - date published: 2022-12-16 00:03:05+00:00
 
 Four people impersonate FBI agents in tactical gear during D.C. armed home robbery.
+

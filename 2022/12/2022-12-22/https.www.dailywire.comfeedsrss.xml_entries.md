@@ -1,4 +1,32 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Ben Shapiro, Nelk Boys Talk Elon, DeSantis, And Daily Wire on Full Send Podcast
+ - [https://www.dailywire.com/news/ben-shapiro-nelk-boys-talk-elon-desantis-and-daily-wire-on-full-send-podcast](https://www.dailywire.com/news/ben-shapiro-nelk-boys-talk-elon-desantis-and-daily-wire-on-full-send-podcast)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-22 21:22:36+00:00
+
+Kyle Forgeard, leader of YouTube sensations The Nelk Boys recently dropped by Nashville, where he hit up Daily Wire co-founder Ben Shapiro for his thoughts on politics, dating, Twitter, Brittney Griner, and how a certain media and entertainment company is taking on Hollywood in an interview this week. Forgeard and his Nelk Boys cast are ...
+
+## Alleged 37-Page Staffer Guide For Kyrsten Sinema: ‘It Is Your Job To Make Her As Comfortable As Possible’
+ - [https://www.dailywire.com/news/alleged-37-page-staffer-guide-for-kyrsten-sinema-it-is-your-job-to-make-her-as-comfortable-as-possible](https://www.dailywire.com/news/alleged-37-page-staffer-guide-for-kyrsten-sinema-it-is-your-job-to-make-her-as-comfortable-as-possible)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-22 21:11:19+00:00
+
+A newly-revealed alleged 37-page staffer guide for Sen. Kyrsten Sinema (I-AZ) has raised concerns among ethics experts that she might be crossing the line in terms of the tasks that she allegedly demands of her staff. The memo, obtained by The Daily Beast, is effectively a long list of dos and don&#8217;ts for staffers to ...
+
+## China-Based TikTok Employees Tracked U.S. Journalists, Citizens
+ - [https://www.dailywire.com/news/china-based-tiktok-employees-tracked-u-s-journalists-citizens](https://www.dailywire.com/news/china-based-tiktok-employees-tracked-u-s-journalists-citizens)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-22 20:10:22+00:00
+
+The China-based parent company of TikTok said Thursday that an internal investigation revealed employees obtained private data of four U.S.-based tech journalists and other American users&#8217; information. ByteDance, the Chinese tech giant that owns the video-sharing app, was accused earlier this year of tracking multiple reporters at Forbes under a covert surveillance campaign, which led ...
+
+## We’re One Step Closer To Solving The Mystery Of Brandan Roneel, Plus A Question From The Audience
+ - [https://www.dailywire.com/news/were-one-step-closer-to-solving-the-mystery-of-brandan-roneel-plus-a-question-from-the-audience](https://www.dailywire.com/news/were-one-step-closer-to-solving-the-mystery-of-brandan-roneel-plus-a-question-from-the-audience)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-22 20:05:39+00:00
+
+If you haven’t watched my show today, it’s a must-watch episode regarding the man of mystery Brandan Roneel.  As I explained recently, Roneel was a man who claimed to be a prodigious philanthropist and genius who wanted to donate to my organization Blexit a quarter of a million dollars via check back in 2020. I ...
 
 ## Thursday Afternoon Update: McConnell-Schumer Omnibus Passed, Arizona’s ‘Border Wall’ Coming Down, Chip Roy Plays Hardball
  - [https://www.dailywire.com/news/thursday-afternoon-update-mcconnell-schumer-omnibus-passed-arizonas-border-wall-coming-down-chip-roy-plays-hardball](https://www.dailywire.com/news/thursday-afternoon-update-mcconnell-schumer-omnibus-passed-arizonas-border-wall-coming-down-chip-roy-plays-hardball)
@@ -251,3 +279,4 @@ A panel of infectious disease experts is urging hospitals to stop testing new ad
  - date published: 2022-12-22 08:09:20+00:00
 
 In what the National Weather Service (NWS) is calling a “once in a generation type event,” a winter storm system blanketing the continental United States has already forced the cancellation of over 1,000 flights and threatens thousands more as the Christmas weekend approaches. In 37 states, in an area that stretches down to the Texas-Mexico ...
+

@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## ‘Don’t run, Joe’: Progressive group launches ad against Biden 2024 run
  - [https://www.washingtonexaminer.com/news/dont-run-joe-progressive-group-launches-ads-against-biden-reelection](https://www.washingtonexaminer.com/news/dont-run-joe-progressive-group-launches-ads-against-biden-reelection)
@@ -20,3 +20,4 @@ A progressive group against President Joe Biden running for reelection has launc
  - date published: 2022-12-13 00:14:11+00:00
 
 Senate Minority Leader Mitch McConnell (R-KY) threatened a short-term continuing resolution on Monday if Senate Democrats do not meet his demands for a large spending bill.
+

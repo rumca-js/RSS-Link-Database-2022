@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Michigan mom is arrested after allegedly sending harassing texts to her daughter
  - [https://www.nbcnews.com/news/us-news/michigan-mom-arrested-allegedly-sending-harassing-texts-daughter-rcna63003](https://www.nbcnews.com/news/us-news/michigan-mom-arrested-allegedly-sending-harassing-texts-daughter-rcna63003)
@@ -27,3 +27,4 @@ The collapse of crypto exchange FTX is becoming clearer.
  - date published: 2022-12-22 04:30:22+00:00
 
 Two of Sam Bankman-Fried's top business partners — a co-founder of the cryptocurrency exchange FTX and the former CEO of the hedge fund Alameda Research — have
+

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Tak Stany Zjednoczone pomagają Ukrainie. Próbują zdławić eksport Iranu
  - [https://www.money.pl/gospodarka/tak-stany-zjednoczone-pomagaja-ukrainie-probuja-zdlawic-eksport-iranu-6849573747919680a.html](https://www.money.pl/gospodarka/tak-stany-zjednoczone-pomagaja-ukrainie-probuja-zdlawic-eksport-iranu-6849573747919680a.html)
@@ -139,3 +139,4 @@
  - date published: 2022-12-28 04:54:05+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9804dab2-c3f3-4636-885e-cbdba30040db" width="308" /> Rynek nieruchomości w Polsce przeżywa dziś zastój. Polacy przerzucili się więc na zagraniczne nieruchomości, gdzie lokują swoje oszczędności. Obecnie najpopularniejszą lokalizacją jest Hiszpania, ale rośnie też zainteresowanie nowymi kierunkami. Ten trend napędza coraz popularniejsze zjawisko, czyli "workation".
+

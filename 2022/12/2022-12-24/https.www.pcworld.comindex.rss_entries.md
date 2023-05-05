@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Get three top-rated PC transfer tools for over 70% off
  - [https://www.pcworld.com/article/1440925/get-three-top-rated-pc-transfer-tools-for-over-70-off.html](https://www.pcworld.com/article/1440925/get-three-top-rated-pc-transfer-tools-for-over-70-off.html)
@@ -44,3 +44,4 @@
 <p><em>Prices subject to change.</em></p>
 
 Technology Industry</div>
+

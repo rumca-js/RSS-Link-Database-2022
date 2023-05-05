@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Xiaomi Watch S2 oficjalnie zaprezentowany. Smartwatch w dobrej cenie?
  - [https://ithardware.pl/aktualnosci/xiaomi_watch_s2_oficjalnie_zaprezentowany_smartwatch_w_dobrej_cenie-24800.html](https://ithardware.pl/aktualnosci/xiaomi_watch_s2_oficjalnie_zaprezentowany_smartwatch_w_dobrej_cenie-24800.html)
@@ -97,3 +97,4 @@ Nagroda - Patriot...
 
 <img src="https://ithardware.pl/artykuly/min/24792_1.jpg" />            Dyson często nieco zaskakuje przy wprowadzaniu nowych produkt&oacute;w i nie inaczej jest&nbsp;w przypadku nowych słuchawek Dyson Zone.&nbsp;Opr&oacute;cz odtwarzania wysokiej jakości dźwięku mają one r&oacute;wnież oczyszczać powietrze,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/dyson_zone_sluchawki_ktore_filtruja_powietrze_sluchaj_muzyki_bez_zanieczyszczen-24792.html">https://ithardware.pl/aktualnosci/dyson_zone_sluchawki_ktore_filtruja_powietrze_sluchaj_muzyki_bez_zanieczyszczen-24792.html</a></p>
+

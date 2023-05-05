@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Będą niższe kary za brak OC? Prezes Uniqa komentuje i wyjaśnia, dlaczego ubezpieczenia tanieją
  - [https://www.money.pl/ubezpieczenia/beda-nizsze-kary-za-brak-oc-prezes-uniqa-komentuje-i-wyjasnia-dlaczego-ubezpieczenia-tanieja-6839990536075808a.html](https://www.money.pl/ubezpieczenia/beda-nizsze-kary-za-brak-oc-prezes-uniqa-komentuje-i-wyjasnia-dlaczego-ubezpieczenia-tanieja-6839990536075808a.html)
@@ -76,3 +76,4 @@
  - date published: 2022-12-03 06:17:57+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/f25df134-ca5f-469f-b693-7773e001842b" width="308" /> Kursy walut - 03.12.2022. W sobotę za jednego dolara (USD) zapłacimy 4.44 zł. Cena jednego funta szterlinga (GBP) to 5.45 zł, a franka szwajcarskiego (CHF) 4.73 zł. Z kolei euro (EUR) możemy zakupić za 4.67 zł.
+

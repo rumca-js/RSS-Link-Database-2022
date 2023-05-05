@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Next year, be a retired botanist in a puzzle-filled mansion of forgotten plants
  - [https://www.pcgamer.com/next-year-be-a-retired-botanist-in-a-puzzle-filled-mansion-of-forgotten-plants](https://www.pcgamer.com/next-year-be-a-retired-botanist-in-a-puzzle-filled-mansion-of-forgotten-plants)
@@ -76,3 +76,4 @@ Apparently an incorrect file was included in a launch-day patch.
  - date published: 2022-12-04 00:41:58+00:00
 
 "We're independent thinkers."
+

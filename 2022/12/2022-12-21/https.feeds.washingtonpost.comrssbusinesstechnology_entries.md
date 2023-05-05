@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## SEC charges two Bankman-Fried colleagues with fraud
  - [https://www.washingtonpost.com/business/2022/12/21/caroline-ellison-fraud-charges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/12/21/caroline-ellison-fraud-charges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Nuclear fusion scientists achieved a holy grail moment last week, but it’s a l
  - date published: 2022-12-21 06:36:02+00:00
 
 Messi's post celebrating Argentina's World Cup win racked up almost 70 million likes — beating a photo of an egg to become the most-liked ever on Instagram.
+

@@ -1,4 +1,46 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## WATCH: Father Of Idaho Murder Victim Weighs In After Suspect Is Arrested
+ - [https://www.dailywire.com/news/watch-father-of-idaho-murder-victim-weighs-in-after-suspect-is-arrested](https://www.dailywire.com/news/watch-father-of-idaho-murder-victim-weighs-in-after-suspect-is-arrested)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-30 22:23:47+00:00
+
+Steve Goncalves, the father of Idaho murder victim Kaylee Goncalves, said Friday that the news that a suspect had been arrested in the case brought him the first bit of joy that he has had in a while. It had been more than a month since Kaylee GonCalves, 21; Ethan Chapin, 20; Xana Kernodle, 20; ...
+
+## BREAKING: Barbara Walters, Legendary ABC News Journalist, Dies
+ - [https://www.dailywire.com/news/breaking-barbara-walters-legendary-abc-news-journalist-dies](https://www.dailywire.com/news/breaking-barbara-walters-legendary-abc-news-journalist-dies)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-30 21:59:27+00:00
+
+Barbara Walters, a journalist at ABC News who helped forge the way for women to appear on news broadcasts, has died. She was 93 years old. ABC News broke the story on her death, but provided no details or any statements from her family. Walters joined ABC News in 1976, where she was the first ...
+
+## Judge Jeanine Pirro: ‘Genealogical DNA’ Was Used To Lead Police To Suspect In Idaho Murders Case
+ - [https://www.dailywire.com/news/judge-jeanine-pirro-genealogical-dna-was-used-to-lead-police-to-suspect-in-idaho-murders-case](https://www.dailywire.com/news/judge-jeanine-pirro-genealogical-dna-was-used-to-lead-police-to-suspect-in-idaho-murders-case)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-30 21:45:17+00:00
+
+Fox News&#8217;s Judge Jeanine Pirro, who previously served as a district attorney in New York, said Friday that sources revealed to her one of the pieces of evidence that were used to lead law enforcement officials to arrest a 28-year-old suspected of killing four college students in Idaho last month. It had been more than ...
+
+## ICE Deportations Lag Another Year As Agents Deployed To Border Crisis
+ - [https://www.dailywire.com/news/ice-deportations-lag-another-year-as-agents-deployed-to-border-crisis](https://www.dailywire.com/news/ice-deportations-lag-another-year-as-agents-deployed-to-border-crisis)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-30 20:10:04+00:00
+
+Assisting with a record flood of people crossing the U.S. southern border strained Immigration and Customs Enforcement (ICE) resources as the number of deportations conducted by the agency lagged again in fiscal year 2022. ICE deployed more than a thousand of its agents to the southern border throughout the year to supplement Customs and Border ...
+
+## Lawyer For Gabby Petito’s Parents Makes Explosive Accusation About Alleged Killer’s Mom: ‘Burn After Reading’
+ - [https://www.dailywire.com/news/lawyer-for-gabby-petitos-parents-makes-explosive-accusation-about-alleged-killers-mom-burn-after-reading](https://www.dailywire.com/news/lawyer-for-gabby-petitos-parents-makes-explosive-accusation-about-alleged-killers-mom-burn-after-reading)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-30 19:55:47+00:00
+
+An attorney for Gabby Petito&#8217;s family suggested that the mother of alleged killer Brian Laundrie knew that her son killed Petito and offered him assistance in disposing of her body. Pat Reilly, the attorney for the Petito family, wrote a letter to Matt Luka, the attorney for the Laundrie family, earlier this month informing him of ...
+
+## Nancy Pelosi Permits Massive Raises For House Staffers That Will Allow Them To Make More Than Lawmakers
+ - [https://www.dailywire.com/news/nancy-pelosi-permits-massive-raises-for-house-staffers-that-will-allow-them-to-make-more-than-lawmakers](https://www.dailywire.com/news/nancy-pelosi-permits-massive-raises-for-house-staffers-that-will-allow-them-to-make-more-than-lawmakers)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-30 19:34:12+00:00
+
+House Speaker Nancy Pelosi (D-CA) issued a directive on Friday that will allow House members to pay their staff a salary higher than that of many lawmakers in the nation&#8217;s capital. &#8220;As you know, our hard-working, patriotic Congressional staffers are integral to the functioning of the House of Representatives: ensuring this institution can effectively carry ...
 
 ## Ray Epps Told Nephew He ‘Orchestrated’ January 6
  - [https://www.dailywire.com/news/ray-epps-told-nephew-he-orchestrated-january-6](https://www.dailywire.com/news/ray-epps-told-nephew-he-orchestrated-january-6)
@@ -188,3 +230,4 @@ President Joe Biden signed the $1.7 trillion spending package into law on Thursd
  - date published: 2022-12-30 08:09:36+00:00
 
 A woman who has long claimed Aerosmith singer Steven Tyler made her abort their baby in the 1970s when she was just 17 has sued the rock star under a California law that expires Saturday. The suit, filed by Julia Holcomb in Los Angeles and first reported by Rolling Stone, does not name Tyler, but quotes ...
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Congress Proposes More Than $44 Billion for Ukraine
  - [https://www.nytimes.com/2022/12/20/us/politics/congress-aid-ukraine.html](https://www.nytimes.com/2022/12/20/us/politics/congress-aid-ukraine.html)
@@ -195,3 +195,4 @@ Capitalizing on reports of low Russian morale, Ukraine has begun offering enemy 
  - date published: 2022-12-20 00:00:10+00:00
 
 Pound notes with the new sovereign’s image will begin appearing in 2024, though money with his mother’s likeness will still be in circulation.
+

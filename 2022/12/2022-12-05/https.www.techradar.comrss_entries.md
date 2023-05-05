@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Meta facing lawsuit over reported tax sharing scandal
  - [https://www.techradar.com/news/meta-facing-lawsuit-over-reported-tax-sharing-scandal](https://www.techradar.com/news/meta-facing-lawsuit-over-reported-tax-sharing-scandal)
@@ -195,3 +195,4 @@ Up your connectivity for a business revolution.
  - date published: 2022-12-05 09:00:07+00:00
 
 The creator of Netflix's Witcher TV show says she sympathises with fans over Henry Cavill's departure after season 3.
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Thousands of Citrix Servers Still Unpatched for Critical Vulnerabilities
  - [https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html](https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html)
@@ -16,3 +16,4 @@ While CVE-2022-27510
 
 Users searching for popular software are being targeted by a new malvertising campaign that abuses Google Ads to serve trojanized variants that deploy malware, such as Raccoon Stealer and Vidar.
 The activity makes use of seemingly credible websites with typosquatted domain names that are surfaced on top of Google search results in the form of malicious ads by hijacking searches for specific
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Chiński łazik odnalazł na Księżycu coś, czego nigdy wcześniej tam nie widziano
  - [https://www.chip.pl/2022/12/ksiezyc-probki-skal-change-5](https://www.chip.pl/2022/12/ksiezyc-probki-skal-change-5)
@@ -127,3 +127,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="462" src="https://konto.chip.pl/wp-content/uploads/2022/12/jezioro.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/jezioro.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Szwajcarskie Alpy to jeden z najładniejszych naturalnych obszarów w całej Europie, a od niedawna na ich terenie działa tzw. bateria wodna. Od momentu rozpoczęcia jej budowy minęło aż 14 lat. Dokładniej rzecz biorąc, mówimy o elektrowni szczytowo-pompowej znanej jako Nant de Drance. Łączna pojemność jest na tyle imponująca, że mogłaby wystarczyć do naładowania 400 000 [&#8230;]</p>
+

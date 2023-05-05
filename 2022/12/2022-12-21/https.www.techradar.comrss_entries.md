@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Get creative this Christmas with Wondershare’s new campaign
  - [https://www.techradar.com/news/get-creative-this-christmas-with-wondershares-new-campaign](https://www.techradar.com/news/get-creative-this-christmas-with-wondershares-new-campaign)
@@ -139,3 +139,4 @@ A reputable source claims Apple is likely to either delay or cancel the iPhone S
  - date published: 2022-12-21 05:00:45+00:00
 
 Powered by Unreal Engine 5, the Centerpiece can support user-created pieces thanks to an internal CPU and GPU.
+

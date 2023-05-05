@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## GPW dopięła transakcję. Przejmuje armeńską giełdę
  - [https://www.money.pl/gielda/gpw-dopiela-transakcje-przejmuje-armenska-gielde-6849201675823936a.html](https://www.money.pl/gielda/gpw-dopiela-transakcje-przejmuje-armenska-gielde-6849201675823936a.html)
@@ -118,3 +118,4 @@
  - date published: 2022-12-27 05:57:42+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/81408e14-90cc-456a-a711-6271647a53e6" width="308" /> W 2023 r. seniorzy mogą spodziewać się kilku nowości dotyczących wypłat świadczeń socjalnych. Szykowana jest rekordowa waloryzacja emerytur, do tego wypłata 13. i 14. emerytury oraz podwyższenie kwoty emerytury rolniczej. Najważniejsze zmiany podsumowała "Gazeta Wyborcza".
+

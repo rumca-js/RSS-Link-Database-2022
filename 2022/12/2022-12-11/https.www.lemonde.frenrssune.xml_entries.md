@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## France's conservatives elect Eric Ciotti as leader to revive sagging fortunes
  - [https://www.lemonde.fr/en/france/article/2022/12/11/france-s-conservatives-elect-eric-ciotti-as-leader-to-revive-sagging-fortunes_6007387_7.html](https://www.lemonde.fr/en/france/article/2022/12/11/france-s-conservatives-elect-eric-ciotti-as-leader-to-revive-sagging-fortunes_6007387_7.html)
@@ -139,3 +139,4 @@ After the 'sad end' of President Pedro Castillo, who was impeached by Congress a
  - date published: 2022-12-11 01:52:48+00:00
 
 The socialist Eva Kaili, now-suspended Greek vice-president of the assembly, has been questioned. She is suspected of having received money from the emirate in return for 'influencing the economic and political decisions' of the institution.
+

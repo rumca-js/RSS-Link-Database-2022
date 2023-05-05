@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Sam Bankman-Fried’s House of Cards Is Falling Down
  - [https://www.wired.com/story/sam-bankman-fried-arrested-ftx-collapse/](https://www.wired.com/story/sam-bankman-fried-arrested-ftx-collapse/)
@@ -20,3 +20,4 @@ The US government says replacing staff with automation and remote monitoring sav
  - date published: 2022-12-13 12:00:00+00:00
 
 An upgraded power plant in Slovakia has angered neighboring Austria and fueled the debate over nuclear power and  independence from Russian gas.
+

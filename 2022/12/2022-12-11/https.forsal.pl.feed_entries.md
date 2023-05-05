@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Erdogan: Tureckie testy rakiet balistycznych "przerażają" Ateny
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8607797,erdogan-tureckie-testy-rakiet-balistycznych-przerazaja-ateny.html](https://forsal.pl/swiat/aktualnosci/artykuly/8607797,erdogan-tureckie-testy-rakiet-balistycznych-przerazaja-ateny.html)
@@ -223,3 +223,4 @@
  - date published: 2022-12-11 07:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/99oktkuTURBXy85YTAyMGM3Yy1kNTEwLTQ0YWUtOTg3ZC1hYzY2NmNlOGQ2MDUuanBlZ5GTBc0BHcyg" />Od jednej z najniższych do najwyższej w Europie inflacji w ciągu kilku miesięcy. Taką drogę przebyły Węgry pod wodzą Viktora Orbána.
+

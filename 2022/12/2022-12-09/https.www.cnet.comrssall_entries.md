@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Step Inside Ramses the Great's Ancient Egypt With Dazzling Immersive Tour     - CNET
  - [https://www.cnet.com/culture/step-inside-ancient-egypt-of-ramses-the-great-with-this-dazzling-immersive-tour/#ftag=CADf328eec](https://www.cnet.com/culture/step-inside-ancient-egypt-of-ramses-the-great-with-this-dazzling-immersive-tour/#ftag=CADf328eec)
@@ -811,3 +811,4 @@ Get the best deal on your solar panels by knowing what sales tactics may be scam
  - date published: 2022-12-09 00:03:50+00:00
 
 This simple Amazon Echo trick costs you nothing.
+

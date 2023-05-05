@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Kobiety i giełda. Stereotypy utrudniają paniom zarządzanie inwestycjami
  - [https://forsal.pl/finanse/gielda/artykuly/8606536,kobiety-i-gielda-stereotypy-utrudniaja-paniom-zarzadzanie-inwestycjami.html](https://forsal.pl/finanse/gielda/artykuly/8606536,kobiety-i-gielda-stereotypy-utrudniaja-paniom-zarzadzanie-inwestycjami.html)
@@ -230,3 +230,4 @@
  - date published: 2022-12-10 07:23:13+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/XKPktkuTURBXy82ZTA4MDE2OS1iY2E2LTRkODYtOGIwNS02NGUxNGRlYjNlN2IuanBlZ5GTBc0BHcyg" />Brutalna prawda jest taka, że w razie starcia z przeciwnikiem dysponującym takimi zdolnościami ofensywy powietrznej jak dzisiejsza Rosja, nasz imponujący sprzęt pancerny i artyleryjski na ziemi będzie względnie łatwym celem - pisze Witold Sokała.
+

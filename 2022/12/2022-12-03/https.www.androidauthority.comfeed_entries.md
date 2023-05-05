@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Future Pixel phones should have these AI-enabled features
  - [https://www.androidauthority.com/google-pixel-future-ai-features-3229592/](https://www.androidauthority.com/google-pixel-future-ai-features-3229592/)
@@ -34,3 +34,4 @@ The next affordable Pixel looks set to offer the same great value but with even 
  - date published: 2022-12-03 12:12:34+00:00
 
 Plus why you shouldn't go for a stroll in NYC with $95,000 in iPhones, free Steam Decks, and more...
+

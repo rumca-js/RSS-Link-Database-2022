@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## President Biden watches France-Morocco World Cup semifinal with Moroccan prime minister
  - [https://www.foxnews.com/sports/president-biden-watches-france-morocco-world-cup-semifinal-moroccan-prime-minister](https://www.foxnews.com/sports/president-biden-watches-france-morocco-world-cup-semifinal-moroccan-prime-minister)
@@ -1131,7 +1131,6 @@ Alejandro Mayorkas, the secretary of homeland security, went to Texas to speak w
  - [https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files](https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-14 02:30:19+00:00
- - tags: jack dorsey,twitter,twitter files,censorship
 
 Jack Dorsey, the former CEO of Twitter, said he "owns" the mistakes that were made during his tenure at the tech giant but maintains Twitter had no "hidden agendas."
 
@@ -1246,3 +1245,4 @@ Former US Attorney General William Barr is calling for the death penalty against
  - date published: 2022-12-14 00:21:05+00:00
 
 Michelle Pfeiffer is trading in her long, blonde locks for a blunt, bob hairstyle. The actress debuted her look in an Instagram post on Monday, and received a lot of praise from fans.
+

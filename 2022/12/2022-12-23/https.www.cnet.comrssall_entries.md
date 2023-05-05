@@ -1,4 +1,11 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## Best USB-C PD Chargers for 2022     - CNET
+ - [https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-24 00:00:00+00:00
+
+These versatile chargers can power all your tech goodies.
 
 ## HBO Max: The Absolute Best Sci-Fi TV Shows to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-tv-shows-to-watch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-tv-shows-to-watch-tonight/#ftag=CADf328eec)
@@ -445,7 +452,6 @@ This artificial intelligence bot can answer questions and write essays and progr
  - [https://www.cnet.com/tech/services-and-software/duckduckgo-wants-to-spare-you-from-annoying-google-sign-in-pop-ups/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/duckduckgo-wants-to-spare-you-from-annoying-google-sign-in-pop-ups/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-23 13:00:30+00:00
- - tags: tracking,duckduckgo,google,privacy
 
 The feature is another way to protect your data on the internet.
 
@@ -658,3 +664,4 @@ A new breach using info obtained in a previous hack secured user names, email ad
  - date published: 2022-12-23 00:04:00+00:00
 
 A new breach using information obtained in a previous hack exposed user names, email addresses and more.
+

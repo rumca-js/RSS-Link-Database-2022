@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## DHS won’t hand over full details about “anti-disinformation” practices
  - [https://reclaimthenet.org/dhs-redacted-anti-disinformation-practices/](https://reclaimthenet.org/dhs-redacted-anti-disinformation-practices/)
@@ -23,3 +23,4 @@
 
 <a href="https://reclaimthenet.org/eufy-responds-to-privacy-controversy/" rel="nofollow" title="Eufy responds to criticism of its &#8220;no cloud&#8221; privacy controversy"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/eufy-cam.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Questions have been raised about where data gets stored.</p>
 <p>The post <a href="https://reclaimthenet.org/eufy-responds-to-privacy-controversy/" rel="nofollow">Eufy responds to criticism of its &#8220;no cloud&#8221; privacy controversy</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

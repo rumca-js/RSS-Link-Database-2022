@@ -1,4 +1,11 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Open Channel: What Surprised You This Year?
+ - [https://gizmodo.com/open-channel-io9-2022-pop-culture-surprises-marvel-1849931868](https://gizmodo.com/open-channel-io9-2022-pop-culture-surprises-marvel-1849931868)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-28 00:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--RAcc3szf--/c_fit,fl_progressive,q_80,w_636/f2634d7d4e1ee807e42b690d56a54a61.jpg" /><p>It’s December 27, the year is basically over, and you know what that means: it’s time to look back on some stuff.<br /></p><p><a href="https://gizmodo.com/open-channel-io9-2022-pop-culture-surprises-marvel-1849931868">Read more...</a></p>
 
 ## The Last of Us' Showrunner Unsure Whether the Game Is the Greatest Story of Its Medium or Just Silly Pixels
  - [https://gizmodo.com/last-of-us-hbo-craig-mazin-games-violence-naughty-dog-1849932304](https://gizmodo.com/last-of-us-hbo-craig-mazin-games-violence-naughty-dog-1849932304)
@@ -209,3 +216,4 @@
  - date published: 2022-12-27 03:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--VRtlGigl--/c_fit,fl_progressive,q_80,w_636/d0e613b88fcf9c1582759e3429aec0da.jpg" /><p>An account whose sole purpose is to track Twitter CEO Elon Musk’s private jet is back on the blue bird app nearly two weeks after Musk changed the rules to kick it off the platform. Whether it will manage to stay on the platform Musk rules with an iron fist is an open question.</p><p><a href="https://gizmodo.com/account-tracks-elon-musk-jet-back-twitter-24-hour-delay-1849930468">Read more...</a></p>
+

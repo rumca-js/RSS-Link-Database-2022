@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Samsung reveals new Galaxy Z Flip 4 Luxury Box collab with Gigi by Gassan
  - [https://www.androidauthority.com/galaxy-z-flip-4-collab-3249492/](https://www.androidauthority.com/galaxy-z-flip-4-collab-3249492/)
@@ -34,3 +34,4 @@ Wired connections still reign supreme, but there are a few other popular options
  - date published: 2022-12-09 06:06:21+00:00
 
 The Frequent Faces feature was disabled earlier this year, but it's back on older phones.
+

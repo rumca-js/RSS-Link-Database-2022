@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Warnock and Walker face off for final Senate seat of 2022
  - [http://www.msn.com/en-us/news/politics/warnock-and-walker-face-off-for-final-senate-seat-of-2022/ar-AA14ZahL?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/warnock-and-walker-face-off-for-final-senate-seat-of-2022/ar-AA14ZahL?li=BBnbcA1&srcref=rss)
@@ -1229,5 +1229,6 @@
  - [http://www.msn.com/en-us/news/world/general-hospital-star-jack-wagner-s-son-harrison-official-cause-of-death-revealed-coroner/ar-AA14WyhY?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/general-hospital-star-jack-wagner-s-son-harrison-official-cause-of-death-revealed-coroner/ar-AA14WyhY?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-06 00:05:03.316036+00:00
+
 
 

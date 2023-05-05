@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Let it snow: Scientists make metallic snowflakes out of nanoparticles
  - [https://arstechnica.com/?p=1906711](https://arstechnica.com/?p=1906711)
@@ -34,3 +34,4 @@ Highlights from a year when generative AI went mainstream.
  - date published: 2022-12-26 11:55:33+00:00
 
 Advances may make it easier to build dangerous biological materials from scratch.
+

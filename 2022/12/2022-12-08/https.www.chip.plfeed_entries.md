@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Najwytrzymalszy materiał na Ziemi wykazuje nietypowe właściwości
  - [https://www.chip.pl/2022/12/najwytrzymalszy-material-na-ziemi-metal](https://www.chip.pl/2022/12/najwytrzymalszy-material-na-ziemi-metal)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="731" src="https://konto.chip.pl/wp-content/uploads/2022/02/supernowa-gwiazda.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/02/supernowa-gwiazda.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Około 165 000 lat temu gwiazda typu widmowego O w Wielkim Obłoku Magellana eksplodowała w formie supernowej typu II. Tysiące lat później astronomowie prowadzą obserwacje związane z tamtymi wydarzeniami. Światło wyemitowane w czasie eksplozji wystrzeliło we wszystkie strony, by mniej więcej 160 000 lat później dotrzeć do Ziemi. Oczywiście pięć tysięcy lat temu ówcześni obserwatorzy [&#8230;]</p>
+

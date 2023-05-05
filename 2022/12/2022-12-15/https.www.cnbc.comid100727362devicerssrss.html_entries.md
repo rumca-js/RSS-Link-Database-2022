@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Cramer warns investors that Powell won't go easy on stocks: 'The Fed is not your friend'
  - [https://www.cnbc.com/2022/12/15/cramer-the-fed-is-not-your-friend-and-wont-take-it-easy-on-stocks.html](https://www.cnbc.com/2022/12/15/cramer-the-fed-is-not-your-friend-and-wont-take-it-easy-on-stocks.html)
@@ -139,3 +139,4 @@ A day before the data release, China's National Bureau of Statistics canceled it
  - date published: 2022-12-15 01:26:26+00:00
 
 Former FTX co-CEO Ryan Salame disclosed "possible mishandling of clients' assets" by Sam Bankman-Fried to Bahamian regulators just before FTX bankruptcy filing.
+

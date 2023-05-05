@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## The mysterious company with military ties that held a key position in the internet’s infrastructure
  - [https://reclaimthenet.org/myst-com-mil-ties/](https://reclaimthenet.org/myst-com-mil-ties/)
@@ -63,3 +63,4 @@
 
 <a href="https://reclaimthenet.org/citizens-advice-employees-push-back-against-email-pronouns/" rel="nofollow" title="UK Citizens Advice employees push back against ideological email pronouns policy"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/citizens.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Compelled speech and "ideological instruction" allegations.</p>
 <p>The post <a href="https://reclaimthenet.org/citizens-advice-employees-push-back-against-email-pronouns/" rel="nofollow">UK Citizens Advice employees push back against ideological email pronouns policy</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

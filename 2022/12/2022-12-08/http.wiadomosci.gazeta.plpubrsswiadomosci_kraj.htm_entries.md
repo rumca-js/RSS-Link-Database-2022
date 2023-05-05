@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Dzieci były już na pasach, a mężczyzna machał znakiem stop. Kierująca nawet się nie zatrzymała
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29241884,dzieci-byly-juz-na-pasach-a-mezczyzna-machal-znakiem-stop.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29241884,dzieci-byly-juz-na-pasach-a-mezczyzna-machal-znakiem-stop.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -146,3 +146,4 @@
  - date published: 2022-12-08 05:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/92/72/1a/z27733906M.jpg" vspace="2" />Tomasz L., warszawski urzędnik, który w marcu został zatrzymany pod zarzutem szpiegostwa na rzecz Rosji, należał do komisji likwidacyjnej Wojskowych Służb Iinformacyjnych - podaje TVN24. Do doniesień odniósł się Sławomir Cenckiewicz, który kierował pracami komisji.
+

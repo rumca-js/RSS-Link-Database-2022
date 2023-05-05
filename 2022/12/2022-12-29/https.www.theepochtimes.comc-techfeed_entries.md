@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Google Must Face Privacy Lawsuit for Tracking Children Without Parental Consent: Appeals Court
  - [https://www.theepochtimes.com/google-must-face-privacy-lawsuit-for-tracking-children-without-parental-consent-appeals-court_4952047.html](https://www.theepochtimes.com/google-must-face-privacy-lawsuit-for-tracking-children-without-parental-consent-appeals-court_4952047.html)
@@ -27,3 +27,4 @@ Elon Musk's Twitter profile on a smartphone placed on printed Twitter logos on A
  - date published: 2022-12-29 06:16:29+00:00
 
 Twitter app logo in an illustration taken on Aug. 22, 2022. (Dado Ruvic/Illustration/Reuters)
+

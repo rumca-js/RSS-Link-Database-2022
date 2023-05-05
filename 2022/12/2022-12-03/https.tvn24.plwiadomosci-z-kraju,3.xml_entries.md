@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## W biegu pomogą dzieciom i młodzieży, które mierzą się z depresją
  - [https://tvn24.pl/tvnwarszawa/ulice/warszawa-bieg-pomocnikow-sw-mikolaja-w-lazienkach-krolewskich-6344994?source=rss](https://tvn24.pl/tvnwarszawa/ulice/warszawa-bieg-pomocnikow-sw-mikolaja-w-lazienkach-krolewskich-6344994?source=rss)
@@ -31,3 +31,4 @@
 
 <img alt="Przesyłka z ładunkiem wybuchowym, zakrwawione paczki. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-ie8ap6-dmytro-kuleba-zorganizowal-spotkanie-z-ukrainskimi-dyplomatami-6345102/alternates/LANDSCAPE_1280" />
     Ministerstwo spraw zagranicznych Ukrainy odnotowało łącznie 18 przypadków gróźb pod adresem swoich dyplomatów - poinformował szef ukraińskiej dyplomacji Dmytro Kułeba. Minister powiadomił na Facebooku, że przeprowadził w piątek naradę z dyplomatami.
+

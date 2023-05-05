@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Cybersquatting reached a new high this year
  - [https://www.techradar.com/news/cybersquatting-reached-a-new-high-this-year](https://www.techradar.com/news/cybersquatting-reached-a-new-high-this-year)
@@ -62,3 +62,4 @@ There are lots of exciting phones on the way in 2023, including foldables, flags
  - date published: 2022-12-27 05:00:15+00:00
 
 How did Nvidia fare over the past year? Strap yourself in tight, because the ride’s a bumpy one…
+

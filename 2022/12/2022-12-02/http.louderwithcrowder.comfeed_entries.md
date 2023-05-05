@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Journalismer reveals the most offensive detail about Elon Musk yet: he's totally a Republican now
  - [https://www.louderwithcrowder.com/elon-musk-republican](https://www.louderwithcrowder.com/elon-musk-republican)
@@ -84,3 +84,4 @@
 <a href="https://youtu.be/Ln2iWSrPD4g" target="_blank">youtu.be</a>
 </small>
 </p>
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## U.S. Places Top Chinese Memory Chip Maker on Export Blacklist
  - [https://www.wsj.com/articles/u-s-places-top-chinese-memory-chip-maker-on-export-blacklist-11671128773?mod=rss_Technology](https://www.wsj.com/articles/u-s-places-top-chinese-memory-chip-maker-on-export-blacklist-11671128773?mod=rss_Technology)
@@ -34,3 +34,4 @@ The entrepreneur’s approach is getting new scrutiny now that he owns the socia
  - date published: 2022-12-15 03:44:00+00:00
 
 The CEO’s sale of Tesla stock has weighed on the company’s share price, which is down more than 50% in 2022.
+

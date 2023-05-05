@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## In pictures: France receive heroes' welcome in Paris after World Cup heartbreak
  - [https://www.bbc.co.uk/news/world-europe-64034720?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64034720?at_medium=RSS&at_campaign=KARANGA)
@@ -475,3 +475,4 @@ Decision day looms for sealing a global deal to stop the destruction of nature.
  - date published: 2022-12-19 00:04:24+00:00
 
 The government-funded scheme will cap fares in England outside London from 1 January to 31 March.
+

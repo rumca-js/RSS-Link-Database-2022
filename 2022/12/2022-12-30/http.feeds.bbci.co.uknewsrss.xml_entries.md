@@ -1,4 +1,18 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## The Papers: 'Tests on China arrivals' and 'King knights Queen'
+ - [https://www.bbc.co.uk/news/blogs-the-papers-64131533?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-64131533?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-30 23:47:29+00:00
+
+Covid-19 tests for arrivals from China and King Charles's first New Year's Honours list lead the papers.
+
+## Darwin Nunez: Are Liverpool striker's missed chances a blip or cause for concern?
+ - [https://www.bbc.co.uk/sport/football/64131350?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64131350?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-30 23:40:58+00:00
+
+After missing more chances against Leicester on Friday, is Darwin Nunez's struggles in front of goal a cause for concern or just a blip?
 
 ## Covid in China: WHO calls on Beijing to strengthen its response
  - [https://www.bbc.co.uk/news/world-asia-64131713?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64131713?at_medium=RSS&at_campaign=KARANGA)
@@ -370,3 +384,4 @@ World number one Gerwyn Price advances to the World Darts Championship quarter-f
  - date published: 2022-12-30 00:04:42+00:00
 
 Tributes to Brazilian football icon Pele following his death and the financial toll of strikes lead the front pages.
+

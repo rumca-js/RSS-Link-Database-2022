@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Microsoft testing a new Windows 11 screen recorder so you can stop using the Xbox Game Bar
  - [https://www.techradar.com/news/microsoft-testing-a-new-windows-11-screen-recorder-so-you-can-stop-using-the-xbox-game-bar](https://www.techradar.com/news/microsoft-testing-a-new-windows-11-screen-recorder-so-you-can-stop-using-the-xbox-game-bar)
@@ -258,3 +258,4 @@ Kevin Levine's latest game, Judas, has just been announced and it features some 
  - date published: 2022-12-09 01:42:44+00:00
 
 After two years, fans of the epic rogue-like Hades are getting a sequel.
+

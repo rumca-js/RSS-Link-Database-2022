@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Pope Emeritus Benedict in stable condition and participates in Mass
  - [https://www.nbcnews.com/news/world/pope-emeritus-benedict-stable-condition-participates-mass-rcna63757](https://www.nbcnews.com/news/world/pope-emeritus-benedict-stable-condition-participates-mass-rcna63757)
@@ -133,3 +133,4 @@ The U.S. military says a Chinese plane came within ten feet of an American aircr
  - date published: 2022-12-30 00:09:20+00:00
 
 Russia bombarded Ukraine with cruise missiles and Iranian-made drones in one of its largest assaults yet on civilian targets. The attack on Ukraine’s power infrastructure comes days after a Ukrainian drone strike on a Russian airbase.
+

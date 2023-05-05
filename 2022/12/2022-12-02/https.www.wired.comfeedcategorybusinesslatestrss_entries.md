@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## How Chinese Netizens Swamped China’s Internet Controls
  - [https://www.wired.com/story/how-chinese-protests-netizens-swamped-chinas-internet-controls/](https://www.wired.com/story/how-chinese-protests-netizens-swamped-chinas-internet-controls/)
@@ -20,3 +20,4 @@ Despite ample reasons to be skeptical of cryptocurrency schemes, the notion of t
  - date published: 2022-12-02 11:00:00+00:00
 
 Elon Musk’s platform may be hell, but it’s also where huge amounts of reputational and social wealth are invested. All of that is in peril.
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Mark Zuckerberg Testifies About Meta’s Virtual Reality Ambitions
  - [https://www.nytimes.com/2022/12/20/technology/zuckerberg-meta-ftc-virtual-reality.html](https://www.nytimes.com/2022/12/20/technology/zuckerberg-meta-ftc-virtual-reality.html)
@@ -41,3 +41,4 @@ A Chinese app conquered the planet — and now the U.S. is threatening to shut i
  - date published: 2022-12-20 01:04:35+00:00
 
 The suit claimed that the Fellowship of Friends, an obscure group based in the Sierra Nevada foothills, gained influence inside Google.
+

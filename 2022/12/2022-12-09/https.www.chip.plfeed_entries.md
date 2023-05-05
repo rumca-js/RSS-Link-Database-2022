@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Odtworzono zawał serca na chipie. To może być przełom w leczeniu choroby wieńcowej
  - [https://www.chip.pl/2022/12/zawal-serca-na-chipie](https://www.chip.pl/2022/12/zawal-serca-na-chipie)
@@ -87,3 +87,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="703" src="https://konto.chip.pl/wp-content/uploads/2021/05/orc-wszechswiat.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2021/05/orc-wszechswiat.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Dwa niezależne zespoły przeprowadziły eksperymenty, za sprawą których udało im się osiągnąć tzw. kwantowe przesunięcie w czasie. W ramach tego zjawiska foton istnieje jednocześnie w stanach czasowych do przodu i do tyłu. Obie publikacje nie doczekały się jeszcze recenzji, dlatego możemy znaleźć je w formie preprintów w bazie danych serwisu arXiv. Z tekstów dowiadujemy się, [&#8230;]</p>
+

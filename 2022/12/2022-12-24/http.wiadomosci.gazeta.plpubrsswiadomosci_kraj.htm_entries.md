@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Piotr Kraśko wrócił jako prowadzący "Fakty" TVN. To drugi raz na antenie w tym tygodniu
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29297879,piotr-krasko-wrocil-jako-prowadzacy-fakty-tvn-to-drugi-raz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29297879,piotr-krasko-wrocil-jako-prowadzacy-fakty-tvn-to-drugi-raz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -139,3 +139,4 @@
  - date published: 2022-12-24 05:30:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/ab/cc/1a/z28102059M,Sklep--zakupy--zdjecie-ilustracyjne-.jpg" vspace="2" />24 grudnia wypada ostatni dzień, w którym możemy zrobić zakupy przed świętami Bożego Narodzenia. Warto pamiętać, że godziny otwarcia sklepów w Wigilię są krótsze, niż w dni pracujące. O której zamykają się sklepy sieci Lidl, Biedronka czy Kaufland?
+

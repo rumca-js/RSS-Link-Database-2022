@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Speaker Pelosi Undecided on Whether the House Will Ban TikTok on Government Devices
  - [https://www.theepochtimes.com/speaker-pelosi-undecided-on-whether-the-house-will-ban-tiktok-on-government-devices_4928783.html](https://www.theepochtimes.com/speaker-pelosi-undecided-on-whether-the-house-will-ban-tiktok-on-government-devices_4928783.html)
@@ -53,6 +53,6 @@ Smartphone in front of Microsoft logo on July 26, 2021. (Dado Ruvic/Illustratio/
  - [https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html](https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-16 02:42:19+00:00
- - tags: covid,collateral damage
 
 Dr. Scott Atlas, a public health policy expert, in California on April 17, 2021. (Tal Atzmon/The Epoch Times)
+

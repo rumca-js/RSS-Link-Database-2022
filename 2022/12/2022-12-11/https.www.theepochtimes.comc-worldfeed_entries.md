@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Canadian Families Can Expect to Pay $1,000 More for Food in 2023: Report
  - [https://www.theepochtimes.com/canadian-families-can-expect-to-pay-1000-more-for-food-in-2023-report_4917332.html](https://www.theepochtimes.com/canadian-families-can-expect-to-pay-1000-more-for-food-in-2023-report_4917332.html)
@@ -181,3 +181,4 @@ The Twitter logo is seen on the exterior of company's headquarters in San Franci
  - date published: 2022-12-11 00:15:41+00:00
 
 Shadow Treasurer Chris Bowen speaks to media during the 2018 ALP National Conference in Adelaide, Australia, on Dec. 16, 2018. (Mark Brake/Getty Images)
+

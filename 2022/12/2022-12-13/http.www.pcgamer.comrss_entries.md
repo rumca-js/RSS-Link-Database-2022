@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## LG's new OLED 240Hz monitors give 1440p gaming the respect it deserves
  - [https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves](https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves)
@@ -258,3 +258,4 @@ Dwarf Fortress's absurdly nuanced medical system still needs its graphical touch
  - date published: 2022-12-13 00:41:44+00:00
 
 With 300,000 sales and counting, Dwarf Fortress's creators no longer have to rely on Patreon donations.
+

@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Watch Dogs: Legion z datą premiery na Steam
  - [https://ithardware.pl/aktualnosci/watch_dogs_legion_z_data_premiery_na_steam-24851.html](https://ithardware.pl/aktualnosci/watch_dogs_legion_z_data_premiery_na_steam-24851.html)
@@ -189,3 +189,4 @@ Nagroda - dysk SSD Hikvision G4000E 1 TB
 
 Test Hikvision G4000E zdążył już...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_13-24810.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_13-24810.html</a></p>
+

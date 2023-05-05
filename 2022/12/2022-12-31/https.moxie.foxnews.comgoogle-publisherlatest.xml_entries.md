@@ -1,10 +1,30 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Playoff-bound Chargers set for huge defensive boost with return of four-time Pro Bowler
+ - [https://www.foxnews.com/sports/playoff-bound-chargers-set-huge-defensive-boost-return-four-time-pro-bowler](https://www.foxnews.com/sports/playoff-bound-chargers-set-huge-defensive-boost-return-four-time-pro-bowler)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-31 23:31:24+00:00
+
+The Los Angeles Chargers will get four-time Pro Bowler Joey Bosa back this Sunday against the Rams, just two weeks before the playoffs begin.
+
+## YouTube star Keenan Cahill dead at the age of 27 after complications from open heart surgery
+ - [https://www.foxnews.com/entertainment/youtube-star-keenan-cahill-dead-age-27-complications-open-heart-surgery](https://www.foxnews.com/entertainment/youtube-star-keenan-cahill-dead-age-27-complications-open-heart-surgery)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-31 23:12:56+00:00
+
+YouTube star Keenan Cahill died at the age of 27. He rose to fame with lip-syncing videos he created with stars Katy Perry, Justin Bieber and 50 Cent.
+
+## Mothers share how crisis pregnancy centers helped them walk away from abortion: 'huge enlightenment'
+ - [https://www.foxnews.com/politics/mothers-share-crisis-pregnancy-centers-helped-walk-away-abortion-huge-enlightenment](https://www.foxnews.com/politics/mothers-share-crisis-pregnancy-centers-helped-walk-away-abortion-huge-enlightenment)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-31 23:00:36+00:00
+
+Pro-life crisis pregnancy centers have been labeled as villainous, but their work is anything but. Fox News Digital spoke with two centers in DC and Virginia to learn about their work.
 
 ## Rep.-elect George Santos faces scrutiny over campaign filings his team blames as 'database error': Report
  - [https://www.foxnews.com/politics/rep-elect-george-santos-faces-scrutiny-over-campaign-filings-team-blames-database-error](https://www.foxnews.com/politics/rep-elect-george-santos-faces-scrutiny-over-campaign-filings-team-blames-database-error)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 22:56:02+00:00
- - user: None
 
 Republican Rep.-elect George Santos is facing criticism over suspicious FEC campaign filings that his team says were the result of a "database error."
 
@@ -12,7 +32,6 @@ Republican Rep.-elect George Santos is facing criticism over suspicious FEC camp
  - [https://www.foxnews.com/us/california-couple-killed-yosemite-national-park-rockslide-identified-park-officials](https://www.foxnews.com/us/california-couple-killed-yosemite-national-park-rockslide-identified-park-officials)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 22:24:51+00:00
- - user: None
 
 A married couple from San Jose, California, was killed in a rockslide at Yosemite National Park on Tuesday, park officials said.
 
@@ -20,7 +39,6 @@ A married couple from San Jose, California, was killed in a rockslide at Yosemit
  - [https://www.foxnews.com/us/idaho-college-student-slaying-suspect-bryan-kohberger-waive-extradition-hearing-attorney](https://www.foxnews.com/us/idaho-college-student-slaying-suspect-bryan-kohberger-waive-extradition-hearing-attorney)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 21:36:19+00:00
- - user: None
 
 The man Idaho police believe murdered four college students will waive extradition in Pennsylvania ensuring a quick return to Idaho to face charges.
 
@@ -28,7 +46,6 @@ The man Idaho police believe murdered four college students will waive extraditi
  - [https://www.foxnews.com/sports/bryce-young-throws-5-touchdowns-alabama-blows-out-kansas-state-sugar-bowl](https://www.foxnews.com/sports/bryce-young-throws-5-touchdowns-alabama-blows-out-kansas-state-sugar-bowl)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 21:24:32+00:00
- - user: None
 
 In likely his final game in an Alabama Crimson Tide uniform, Bryce Young threw for 321 yards and five touchdowns in their dominant Sugar Bowl win over Kansas State.
 
@@ -36,7 +53,6 @@ In likely his final game in an Alabama Crimson Tide uniform, Bryce Young threw f
  - [https://www.foxnews.com/us/heavy-rain-slams-central-northern-california-leading-widespread-road-closures-evacuation-orders](https://www.foxnews.com/us/heavy-rain-slams-central-northern-california-leading-widespread-road-closures-evacuation-orders)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 21:16:20+00:00
- - user: None
 
 Heavy rain and extreme flooding is spreading across Central and Northern California, causing major traffic delays, evacuations and power outages.
 
@@ -44,7 +60,6 @@ Heavy rain and extreme flooding is spreading across Central and Northern Califor
  - [https://www.foxnews.com/us/bloody-new-york-city-new-years-eve-broad-daylight-stabbing-times-square-sends-man-hospital](https://www.foxnews.com/us/bloody-new-york-city-new-years-eve-broad-daylight-stabbing-times-square-sends-man-hospital)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 21:02:36+00:00
- - user: None
 
 An altercation between two men in Times Square on Saturday morning sent one man to the hospital with stab wounds while the suspect fled the scene on foot.
 
@@ -52,7 +67,6 @@ An altercation between two men in Times Square on Saturday morning sent one man 
  - [https://www.foxnews.com/us/border-patrol-miami-encounter-cuban-migrants-boats-florida-keys-ahead-new-year](https://www.foxnews.com/us/border-patrol-miami-encounter-cuban-migrants-boats-florida-keys-ahead-new-year)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:50:26+00:00
- - user: None
 
 In the last 24 hours, the U.S. Border Patrol Miami Sector and its partners encountered 88 Haitian migrants in five landings across the Florida Keys.
 
@@ -60,7 +74,6 @@ In the last 24 hours, the U.S. Border Patrol Miami Sector and its partners encou
  - [https://www.foxnews.com/sports/falcons-practice-squad-player-fights-police-officer-and-attempts-to-flee-on-foot-during-traffic-stop](https://www.foxnews.com/sports/falcons-practice-squad-player-fights-police-officer-and-attempts-to-flee-on-foot-during-traffic-stop)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:48:53+00:00
- - user: None
 
 Falcons wide receiver Cameron Batson was taken into police custody Saturday morning after he allegedly started fighting with an officer and attempted to flee the scene.
 
@@ -68,7 +81,6 @@ Falcons wide receiver Cameron Batson was taken into police custody Saturday morn
  - [https://www.foxnews.com/sports/giants-announcer-reflects-being-inside-mall-america-during-fatal-shooting-making-safety-plans](https://www.foxnews.com/sports/giants-announcer-reflects-being-inside-mall-america-during-fatal-shooting-making-safety-plans)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:47:33+00:00
- - user: None
 
 Members of the New York Giants' radio broadcast team found themselves in survival mode when they were at the Mall of American during the fatal shooting last week.
 
@@ -76,7 +88,6 @@ Members of the New York Giants' radio broadcast team found themselves in surviva
  - [https://www.foxnews.com/faith-values/journalist-interviewed-pope-benedict-reflects-legacy-need-voice-clarity-particularly-now](https://www.foxnews.com/faith-values/journalist-interviewed-pope-benedict-reflects-legacy-need-voice-clarity-particularly-now)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:45:45+00:00
- - user: None
 
 Fox News contributor and the only journalist to conduct a TV interview with Pope Benedict in English Raymond Arroyo mourns Pope Benedict XVI's passing.
 
@@ -84,7 +95,6 @@ Fox News contributor and the only journalist to conduct a TV interview with Pope
  - [https://www.foxnews.com/entertainment/oprah-winfrey-reese-witherspoon-katie-couric-other-celebrities-pay-tribute-late-barbara-walters](https://www.foxnews.com/entertainment/oprah-winfrey-reese-witherspoon-katie-couric-other-celebrities-pay-tribute-late-barbara-walters)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:40:24+00:00
- - user: None
 
 Celebrities including Oprah Winfrey, Reese Witherspoon, Katie Couric and many others paid tribute to Barbara Walters following her death at the age of 93.
 
@@ -92,7 +102,6 @@ Celebrities including Oprah Winfrey, Reese Witherspoon, Katie Couric and many ot
  - [https://www.foxnews.com/us/moscow-idaho-police-still-searching-fixed-blade-knife-suspect-kohberger-arrest](https://www.foxnews.com/us/moscow-idaho-police-still-searching-fixed-blade-knife-suspect-kohberger-arrest)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:35:13+00:00
- - user: None
 
 Law enforcement are still searching for the weapon used in the slaying of four University of Idaho students, according to Moscow Chief of Police James Fry.
 
@@ -100,7 +109,6 @@ Law enforcement are still searching for the weapon used in the slaying of four U
  - [https://www.foxnews.com/media/media-dunk-pope-benedict-xvi-after-death-good-riddance-cartoonish-troubled-legacy](https://www.foxnews.com/media/media-dunk-pope-benedict-xvi-after-death-good-riddance-cartoonish-troubled-legacy)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:08:13+00:00
- - user: None
 
 Major news outlets marked the news of Pope Benedict XVI's death on Saturday with coverage critical of his "rigid" and "cartoonish" commitment to Catholic tradition.
 
@@ -108,7 +116,6 @@ Major news outlets marked the news of Pope Benedict XVI's death on Saturday with
  - [https://www.foxnews.com/world/scotland-police-blasted-report-describing-pedophiles-minor-attracted-people-baloney](https://www.foxnews.com/world/scotland-police-blasted-report-describing-pedophiles-minor-attracted-people-baloney)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:04:40+00:00
- - user: None
 
 Scottish police sparked criticism from politicians and social media users after using the term "minor attracted people" to describe pedophiles in a report.
 
@@ -116,7 +123,6 @@ Scottish police sparked criticism from politicians and social media users after 
  - [https://www.foxnews.com/lifestyle/new-year-brain-teaser-can-find-3-empty-champagne-flutes](https://www.foxnews.com/lifestyle/new-year-brain-teaser-can-find-3-empty-champagne-flutes)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 20:01:41+00:00
- - user: None
 
 Test your mind with this fun, New Year-themed brain teaser that was shared with Fox News Digital. Can you find the animals that are holding three empty glasses?
 
@@ -124,7 +130,6 @@ Test your mind with this fun, New Year-themed brain teaser that was shared with 
  - [https://www.foxnews.com/tech/delete-this-popular-task-manager-app-right-away-if-youre-an-android-user](https://www.foxnews.com/tech/delete-this-popular-task-manager-app-right-away-if-youre-an-android-user)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:53:17+00:00
- - user: None
 
 Experts are recommending to delete the Todo Day Manager app, where scammers can gain access to private messages, information through two-step verification codes.
 
@@ -132,7 +137,6 @@ Experts are recommending to delete the Todo Day Manager app, where scammers can 
  - [https://www.foxnews.com/us/peruvian-citizen-founder-violent-gang-deported-us-entering-illegally-through-california](https://www.foxnews.com/us/peruvian-citizen-founder-violent-gang-deported-us-entering-illegally-through-california)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:29:48+00:00
- - user: None
 
 A Peruvian man who founded a gang and was wanted for crimes in his home country was deported this week from the United States.
 
@@ -140,7 +144,6 @@ A Peruvian man who founded a gang and was wanted for crimes in his home country 
  - [https://www.foxnews.com/opinion/pope-benedict-left-us-thinking-to-do](https://www.foxnews.com/opinion/pope-benedict-left-us-thinking-to-do)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:28:46+00:00
- - user: None
 
 It is no easy feat to summarize the life of Pope Emeritus Benedict XVI, who died on Saturday at age 95. His life spanned some of the most significant events of the Catholic world.
 
@@ -148,7 +151,6 @@ It is no easy feat to summarize the life of Pope Emeritus Benedict XVI, who died
  - [https://www.foxnews.com/tech/iphone-accessories-best-2023](https://www.foxnews.com/tech/iphone-accessories-best-2023)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:23:57+00:00
- - user: None
 
 Some of the best accessories for your iPhone in the coming year range from slick portable power banks and charging cases to the next generation of AirPods.
 
@@ -156,7 +158,6 @@ Some of the best accessories for your iPhone in the coming year range from slick
  - [https://www.foxnews.com/sports/nfl-players-association-determine-no-concussion-protocols-were-violated-in-latest-tua-tagovailoa-injury](https://www.foxnews.com/sports/nfl-players-association-determine-no-concussion-protocols-were-violated-in-latest-tua-tagovailoa-injury)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:18:09+00:00
- - user: None
 
 The NFL and NFLPA announced the findings of a joint review into the Dolphins' handling of Tagovailoa's latest concussion, which put him in the protocol for a second time this year.
 
@@ -164,7 +165,6 @@ The NFL and NFLPA announced the findings of a joint review into the Dolphins' ha
  - [https://www.foxnews.com/us/idaho-murder-suspect-kohberger-wearing-suicide-prevention-vest-police-crime-scene-dna-sources](https://www.foxnews.com/us/idaho-murder-suspect-kohberger-wearing-suicide-prevention-vest-police-crime-scene-dna-sources)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:11:03+00:00
- - user: None
 
 Bryan Kohberger is wearing a suicide-prevention vest while he is being held in Pennsylvania following his arrest for the murder of four University of Idaho students.
 
@@ -172,7 +172,6 @@ Bryan Kohberger is wearing a suicide-prevention vest while he is being held in P
  - [https://www.foxnews.com/media/nancy-grace-dissects-revelations-idaho-murders-suspect-went-intent-kill](https://www.foxnews.com/media/nancy-grace-dissects-revelations-idaho-murders-suspect-went-intent-kill)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 19:10:21+00:00
- - user: None
 
 "Fox Nation" host Nancy Grace reacts to news of a suspect in custody in the Idaho murders and analyzes what's next in the investigation on 'Hannity.'
 
@@ -180,7 +179,6 @@ Bryan Kohberger is wearing a suicide-prevention vest while he is being held in P
  - [https://www.foxnews.com/tech/3-big-mistakes-give-scammers-access-your-bank-accounts](https://www.foxnews.com/tech/3-big-mistakes-give-scammers-access-your-bank-accounts)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 18:58:25+00:00
- - user: None
 
 Over $3 billion a year is estimated to be lost due to elder scams because they are typically financially secure, have good credit and are trusting.
 
@@ -188,7 +186,6 @@ Over $3 billion a year is estimated to be lost due to elder scams because they a
  - [https://www.foxnews.com/tech/what-is-google-home-system-ways-transform-your-life](https://www.foxnews.com/tech/what-is-google-home-system-ways-transform-your-life)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 18:23:23+00:00
- - user: None
 
 Your Google Home system is a one-stop shop that can control your home devices, from creating routines to controlling your home thermostat and more.
 
@@ -196,7 +193,6 @@ Your Google Home system is a one-stop shop that can control your home devices, f
  - [https://www.foxnews.com/health/type-2-diabetes-study-predicts-startling-rise-condition-america-young-people](https://www.foxnews.com/health/type-2-diabetes-study-predicts-startling-rise-condition-america-young-people)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 18:16:54+00:00
- - user: None
 
 A new modeling study is raising alarm bells after finding that the number of young people in the United States with diabetes will increase by nearly 700% over the next 40 years.
 
@@ -204,7 +200,6 @@ A new modeling study is raising alarm bells after finding that the number of you
  - [https://www.foxnews.com/us/moscow-idaho-police-believe-suspect-kohberger-acted-alone-chief-says](https://www.foxnews.com/us/moscow-idaho-police-believe-suspect-kohberger-acted-alone-chief-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 18:14:18+00:00
- - user: None
 
 Police Chief James Fry of Moscow, Idaho said in a press interview Saturday that law enforcement believes hihg-profile murder suspect Christopher Kohberger acted alone.
 
@@ -212,7 +207,6 @@ Police Chief James Fry of Moscow, Idaho said in a press interview Saturday that 
  - [https://www.foxnews.com/lifestyle/barbara-walters-left-messages-sense-isolation-child-success](https://www.foxnews.com/lifestyle/barbara-walters-left-messages-sense-isolation-child-success)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 17:54:48+00:00
- - user: None
 
 Broadcasting icon Barbara Walters passed away at 93 but left vivid tales of her life in a memoir, "Audition," published in 2008. In that book, she revealed challenges posed by her sister, Jackie.
 
@@ -220,7 +214,6 @@ Broadcasting icon Barbara Walters passed away at 93 but left vivid tales of her 
  - [https://www.foxnews.com/science/noaa-satellite-earth-mosaic-stunning-panoramic-view](https://www.foxnews.com/science/noaa-satellite-earth-mosaic-stunning-panoramic-view)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 17:28:28+00:00
- - user: None
 
 The NOAA released the first image from its NOAA-21 Visible Infrared Imaging Radiometer Suite instrument, showing blue water in the Caribbean and weather systems.
 
@@ -228,7 +221,6 @@ The NOAA released the first image from its NOAA-21 Visible Infrared Imaging Radi
  - [https://www.foxnews.com/world/russia-fires-20-cruise-missiles-ukraine-new-years-eve-least-1-dead-dozens-injured](https://www.foxnews.com/world/russia-fires-20-cruise-missiles-ukraine-new-years-eve-least-1-dead-dozens-injured)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 17:18:48+00:00
- - user: None
 
 Russia on launched 20 cruise missiles at several Ukrainian locations resulting in the death of one, dozens injured and forcing civilians to take cover on New Years Eve.
 
@@ -236,7 +228,6 @@ Russia on launched 20 cruise missiles at several Ukrainian locations resulting i
  - [https://www.foxnews.com/world/pope-emeritus-benedict-xvi-funeral-held-thursday-st-peters-square-pope-francis-presiding](https://www.foxnews.com/world/pope-emeritus-benedict-xvi-funeral-held-thursday-st-peters-square-pope-francis-presiding)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 17:08:43+00:00
- - user: None
 
 Pope Francis will lead the celebration of a funeral mass in St. Peter's Square for the late Pope Emeritus Benedict XVI, who passed away Saturday at 95 years old.
 
@@ -244,7 +235,6 @@ Pope Francis will lead the celebration of a funeral mass in St. Peter's Square f
  - [https://www.foxnews.com/sports/byu-offensive-lineman-dies-in-construction-accident-school-says](https://www.foxnews.com/sports/byu-offensive-lineman-dies-in-construction-accident-school-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 17:03:55+00:00
- - user: None
 
 The BYU football program announced that freshman Sione Veikoso died in a tragic accident in his hometown of Kailua, Hawai'i. He was 22 years old.
 
@@ -252,7 +242,6 @@ The BYU football program announced that freshman Sione Veikoso died in a tragic 
  - [https://www.foxnews.com/us/never-lose-hope-ex-cia-officer-helping-wounded-afghan-combat-veterans-heal](https://www.foxnews.com/us/never-lose-hope-ex-cia-officer-helping-wounded-afghan-combat-veterans-heal)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 17:00:54+00:00
- - user: None
 
 Sixteen months after waking up in a body bag, a wounded Afghan veteran who served alongside American troops is adapting to life in the U.S. with the help of FAMIL.
 
@@ -260,7 +249,6 @@ Sixteen months after waking up in a body bag, a wounded Afghan veteran who serve
  - [https://www.foxnews.com/media/australias-abc-rings-new-years-embarrassing-woke-bang-gets-blasted-disgrace](https://www.foxnews.com/media/australias-abc-rings-new-years-embarrassing-woke-bang-gets-blasted-disgrace)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 16:42:14+00:00
- - user: None
 
 Critics slammed Australian broadcast network "The ABC" on Twitter Saturday for pushing "woke" content during its 9 PM New Year's Eve fireworks show.
 
@@ -268,7 +256,6 @@ Critics slammed Australian broadcast network "The ABC" on Twitter Saturday for p
  - [https://www.foxnews.com/lifestyle/new-years-eve-cocktails-patriotic-twist-ring-2023](https://www.foxnews.com/lifestyle/new-years-eve-cocktails-patriotic-twist-ring-2023)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 16:08:19+00:00
- - user: None
 
 Wildhorse Saloon's restaurant operations manager showcased two "All-American cocktails" that will be available during Fox's All-American New Year celebration in Nashville, Tennessee.
 
@@ -276,7 +263,6 @@ Wildhorse Saloon's restaurant operations manager showcased two "All-American coc
  - [https://www.foxnews.com/us/wet-weather-california-floods-roads-landslides-outages](https://www.foxnews.com/us/wet-weather-california-floods-roads-landslides-outages)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 16:00:02+00:00
- - user: None
 
 Wet weather from an atmospheric river storm has impacted California, leading to widespread flooding, landslides and power outages on Friday and into the weekend.
 
@@ -284,7 +270,6 @@ Wet weather from an atmospheric river storm has impacted California, leading to 
  - [https://www.foxnews.com/world/romanian-court-extends-andrew-tate-detention-human-trafficking-rape-charges](https://www.foxnews.com/world/romanian-court-extends-andrew-tate-detention-human-trafficking-rape-charges)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 15:24:48+00:00
- - user: None
 
 A Romanian court extended the detention on Andrew Tate for 30 days after he was arrested on suspicion of human trafficking, rape and forming an organized crime group.
 
@@ -292,7 +277,6 @@ A Romanian court extended the detention on Andrew Tate for 30 days after he was 
  - [https://www.foxnews.com/us/idaho-murder-suspect-kohberger-pennsylvania-classmates-say-he-was-bright-awkward-bullied-school](https://www.foxnews.com/us/idaho-murder-suspect-kohberger-pennsylvania-classmates-say-he-was-bright-awkward-bullied-school)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 14:58:15+00:00
- - user: None
 
 A friend of the suspect arrested in connection with the quadruple murder told Fox News Digital that the Bryan Christopher Kohlberger she knew was a genius who was interested in what makes "humans tick" but had trouble relating to other peers.
 
@@ -300,7 +284,6 @@ A friend of the suspect arrested in connection with the quadruple murder told Fo
  - [https://www.foxnews.com/lifestyle/why-most-new-years-resolutions-fail-theres-new-approach-consider](https://www.foxnews.com/lifestyle/why-most-new-years-resolutions-fail-theres-new-approach-consider)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 14:46:34+00:00
- - user: None
 
 As a New Year begins, many people have resolutions — but a "Monday reset" may work far better in terms of developing and keeping healthy new habits, say experts. Here's why.
 
@@ -308,7 +291,6 @@ As a New Year begins, many people have resolutions — but a "Monday reset" may 
  - [https://www.foxnews.com/media/teacher-fired-for-having-students-listen-to-joe-rogan-interview-dr-robert-malone-says](https://www.foxnews.com/media/teacher-fired-for-having-students-listen-to-joe-rogan-interview-dr-robert-malone-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 14:08:20+00:00
- - user: None
 
 Scientist Dr. Robert Malone went viral on Twitter after he claimed that a teacher was fired for giving students an extra credit assignment involving Joe Rogan.
 
@@ -316,7 +298,6 @@ Scientist Dr. Robert Malone went viral on Twitter after he claimed that a teache
  - [https://www.foxnews.com/politics/gop-faces-delay-unlocking-full-powers-house-mccarthy-cannot-clinch-speakership](https://www.foxnews.com/politics/gop-faces-delay-unlocking-full-powers-house-mccarthy-cannot-clinch-speakership)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 14:00:01+00:00
- - user: None
 
 Republicans face delays in exercising their control of the U.S. House of Representatives if wayward GOP lawmakers cannot agree on who will be speaker next Congress.
 
@@ -324,7 +305,6 @@ Republicans face delays in exercising their control of the U.S. House of Represe
  - [https://www.foxnews.com/lifestyle/white-shepherd-dog-hamptons-looking-forever-home-give-her-chance](https://www.foxnews.com/lifestyle/white-shepherd-dog-hamptons-looking-forever-home-give-her-chance)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:42:12+00:00
- - user: None
 
 A five-year-old dog is up for adoption in East Hampton, New York. The rescue animal is described as affectionate, loving and silly — and looking for her forever home.
 
@@ -332,7 +312,6 @@ A five-year-old dog is up for adoption in East Hampton, New York. The rescue ani
  - [https://www.foxnews.com/politics/north-carolina-ag-charges-mark-meadows-voter-registration](https://www.foxnews.com/politics/north-carolina-ag-charges-mark-meadows-voter-registration)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:36:31+00:00
- - user: None
 
 Mark Meadows, the former White House chief of staff to then-President Trump, will not face voter fraud charges, according to the North Carolina attorney general.
 
@@ -340,7 +319,6 @@ Mark Meadows, the former White House chief of staff to then-President Trump, wil
  - [https://www.foxnews.com/world/russia-readies-air-defenses-moscow-gives-shelter-maps-border-city-new-year](https://www.foxnews.com/world/russia-readies-air-defenses-moscow-gives-shelter-maps-border-city-new-year)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:31:45+00:00
- - user: None
 
 Russia has stationed air defenses over Moscow and handed out shelter directives to residents living in Belgorod on Ukraine's border ahead of the New Year.
 
@@ -348,7 +326,6 @@ Russia has stationed air defenses over Moscow and handed out shelter directives 
  - [https://www.foxnews.com/world/north-korea-fires-3-missiles-sea-days-sending-drones-across-south-korean-border](https://www.foxnews.com/world/north-korea-fires-3-missiles-sea-days-sending-drones-across-south-korean-border)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:25:35+00:00
- - user: None
 
 North Korea fired three short-range missiles into the Sea of Japan with a distance that indicates capabilities of striking South Korea, according to officials.
 
@@ -356,7 +333,6 @@ North Korea fired three short-range missiles into the Sea of Japan with a distan
  - [https://www.foxnews.com/entertainment/betty-white-honored-best-friend-first-anniversary-tv-icons-death-betty-taught-us-so-many-things](https://www.foxnews.com/entertainment/betty-white-honored-best-friend-first-anniversary-tv-icons-death-betty-taught-us-so-many-things)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:00:52+00:00
- - user: None
 
 Betty White's "surrogate" daughter and best friend, Patty Sullivan, is celebrating the late comedian's incredible legacy on the first anniversary of her death.
 
@@ -364,7 +340,6 @@ Betty White's "surrogate" daughter and best friend, Patty Sullivan, is celebrati
  - [https://www.foxnews.com/media/bizarre-serena-williams-question-who-wants-millionaire-blasted-twitter-lack-effort](https://www.foxnews.com/media/bizarre-serena-williams-question-who-wants-millionaire-blasted-twitter-lack-effort)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:00:30+00:00
- - user: None
 
 An outrageously simple question from a 2021 episode of "Who Wants To Be a Millionaire" went viral last week after capturing the attention of a French tennis player.
 
@@ -372,7 +347,6 @@ An outrageously simple question from a 2021 episode of "Who Wants To Be a Millio
  - [https://www.foxnews.com/opinion/2022s-top-political-winners-losers-feature-victories-both-biden-desantis](https://www.foxnews.com/opinion/2022s-top-political-winners-losers-feature-victories-both-biden-desantis)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:00:25+00:00
- - user: None
 
 Biden and DeSantis earn their spots among 2022’s top political winners and losers, while Sen.-elect Fetterman, Gov. Whitmer are Democratic rising stars.
 
@@ -380,7 +354,6 @@ Biden and DeSantis earn their spots among 2022’s top political winners and los
  - [https://www.foxnews.com/politics/4-million-border-encounters-since-kamala-harris-assigned-address-root-cause-of-problem](https://www.foxnews.com/politics/4-million-border-encounters-since-kamala-harris-assigned-address-root-cause-of-problem)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:00:12+00:00
- - user: None
 
 Four million migrants have flocked to the southern border since Vice President Kamala Harris was assigned the task of addressing the "root cause" of the border crisis.
 
@@ -388,7 +361,6 @@ Four million migrants have flocked to the southern border since Vice President K
  - [https://www.foxnews.com/politics/parting-shots-dems-blasted-attempt-score-last-minute-cheap-political-points-trump-taxes](https://www.foxnews.com/politics/parting-shots-dems-blasted-attempt-score-last-minute-cheap-political-points-trump-taxes)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 13:00:06+00:00
- - user: None
 
 Democrats and the Biden administration offered last minute jabs at Republicans in the days leading up to the new Congress, and strategists suggest it was all for "cheap political points."
 
@@ -396,7 +368,6 @@ Democrats and the Biden administration offered last minute jabs at Republicans i
  - [https://www.foxnews.com/tech/2022-military-hardware-remember](https://www.foxnews.com/tech/2022-military-hardware-remember)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 11:23:19+00:00
- - user: None
 
 From the launch of the U.S. Air Force's hypersonic missile to the unveiling of the B-21 Raider bomber, the military has made technological strides in 2022.
 
@@ -404,7 +375,6 @@ From the launch of the U.S. Air Force's hypersonic missile to the unveiling of t
  - [https://www.foxnews.com/sports/how-aaron-judges-gamble-himself-turned-into-historic-year-field](https://www.foxnews.com/sports/how-aaron-judges-gamble-himself-turned-into-historic-year-field)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 11:00:45+00:00
- - user: None
 
 Aaron Judge bet on himself, turning down a hefty offer from the Yankees before opening day. To say the gamble worked would be quite the understatement.
 
@@ -412,7 +382,6 @@ Aaron Judge bet on himself, turning down a hefty offer from the Yankees before o
  - [https://www.foxnews.com/opinion/betty-white-remembered-adopt-5-most-amazing-habits-make-2023-your-best-year](https://www.foxnews.com/opinion/betty-white-remembered-adopt-5-most-amazing-habits-make-2023-your-best-year)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 11:00:41+00:00
- - user: None
 
 It has been a year since actress Betty White died just weeks before she would have turned 100. Although she is gone, White's perspective on life is still a great guide to living well.
 
@@ -420,7 +389,6 @@ It has been a year since actress Betty White died just weeks before she would ha
  - [https://www.foxnews.com/media/idaho-murder-diligent-planning-needed-house-complex-layout-ex-tenant](https://www.foxnews.com/media/idaho-murder-diligent-planning-needed-house-complex-layout-ex-tenant)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 11:00:33+00:00
- - user: None
 
 The unique construction of the Idaho murder house would have led a suspect to either not care about getting caught or 'diligently' plan, a former tenant said.
 
@@ -428,7 +396,6 @@ The unique construction of the Idaho murder house would have led a suspect to ei
  - [https://www.foxnews.com/sports/sports-teams-hoisted-championships-2022](https://www.foxnews.com/sports/sports-teams-hoisted-championships-2022)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 11:00:04+00:00
- - user: None
 
 Not a single championship game disappointed in 2022, some of which were thrillers to the very end. Here are your champions of every major professional sports league as the year ends.
 
@@ -436,7 +403,6 @@ Not a single championship game disappointed in 2022, some of which were thriller
  - [https://www.foxnews.com/us/boston-teen-charged-sucker-punching-referee-during-basketball-game-shame](https://www.foxnews.com/us/boston-teen-charged-sucker-punching-referee-during-basketball-game-shame)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 10:57:46+00:00
- - user: None
 
 A high school basketball player in Massachusetts is charged with assault and battery after allegedly sucker punching a ref during a game at Cohasset Middle-High School.
 
@@ -444,7 +410,6 @@ A high school basketball player in Massachusetts is charged with assault and bat
  - [https://www.foxnews.com/world/the-life-pope-emeritus-benedict-xvi-age-95](https://www.foxnews.com/world/the-life-pope-emeritus-benedict-xvi-age-95)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 10:51:38+00:00
- - user: None
 
 The spiritual and diplomatic life of Pope Emeritus Benedict XVI in photos during his time as Pope from 2005-2013 and photos during Benedict's youth; he passes away at age 95.
 
@@ -452,7 +417,6 @@ The spiritual and diplomatic life of Pope Emeritus Benedict XVI in photos during
  - [https://www.foxnews.com/us/colorado-man-charged-murder-after-allegedly-killing-cousin-bow-arrow](https://www.foxnews.com/us/colorado-man-charged-murder-after-allegedly-killing-cousin-bow-arrow)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 10:21:30+00:00
- - user: None
 
 A Colorado man was arrested after admitting to police that he killed his cousin with a bow and arrow. He made the confession after trying to break into a police station.
 
@@ -460,7 +424,6 @@ A Colorado man was arrested after admitting to police that he killed his cousin 
  - [https://www.foxnews.com/world/pope-benedicts-1969-vision-catholicism-vatican-ii-future-church-ensure-his-teachings](https://www.foxnews.com/world/pope-benedicts-1969-vision-catholicism-vatican-ii-future-church-ensure-his-teachings)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 10:11:31+00:00
- - user: None
 
 Pope Benedict XVI was a framer of the Second Vatican Council and a staunch defender of orthodoxy who clashed with both conservatives and progressives in the church.
 
@@ -468,7 +431,6 @@ Pope Benedict XVI was a framer of the Second Vatican Council and a staunch defen
  - [https://www.foxnews.com/media/most-awkward-embarrassing-kamala-harris-word-salads-2022](https://www.foxnews.com/media/most-awkward-embarrassing-kamala-harris-word-salads-2022)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 10:00:15+00:00
- - user: None
 
 Vice President Kamala Harris generated a lot of attention throughout 2022 with her bizarre and often embarrassing "word salads" on a variety of topics.
 
@@ -476,7 +438,6 @@ Vice President Kamala Harris generated a lot of attention throughout 2022 with h
  - [https://www.foxnews.com/world/pope-emeritus-benedict-xvi-dead-95-vatican-says](https://www.foxnews.com/world/pope-emeritus-benedict-xvi-dead-95-vatican-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 09:49:51+00:00
- - user: None
 
 The Vatican announced Pope Emeritus Benedict XVI died Saturday morning at the age of 95, making him older than any previous pope at his time of death.
 
@@ -484,7 +445,6 @@ The Vatican announced Pope Emeritus Benedict XVI died Saturday morning at the ag
  - [https://www.foxnews.com/opinion/viking-virtues-can-help-defeat-woke-enemies-america](https://www.foxnews.com/opinion/viking-virtues-can-help-defeat-woke-enemies-america)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 09:00:09+00:00
- - user: None
 
 Viking virtues can help defeat enemies of American culture. Characteristics that gave strength to explore, trade and settle are ones Americans need now.
 
@@ -492,7 +452,6 @@ Viking virtues can help defeat enemies of American culture. Characteristics that
  - [https://www.foxnews.com/us/arizona-man-taken-into-custody-after-he-caught-video-sexually-assaulting-4-year-old](https://www.foxnews.com/us/arizona-man-taken-into-custody-after-he-caught-video-sexually-assaulting-4-year-old)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 08:50:13+00:00
- - user: None
 
 An Arizona man was arrested after he was caught on video sexually assaulting a four-year-old child. He was charged with child molestation, child abuse and sexual assault.
 
@@ -500,7 +459,6 @@ An Arizona man was arrested after he was caught on video sexually assaulting a f
  - [https://www.foxnews.com/us/georgia-organization-pays-off-over-147k-school-lunch-debts-schools-across-state](https://www.foxnews.com/us/georgia-organization-pays-off-over-147k-school-lunch-debts-schools-across-state)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 08:16:00+00:00
- - user: None
 
 Georgia nonprofit "All for Lunch" ended 2022 by paying off outstanding lunch debt in metro Atlanta schools, totaling over $147,000 at 302 schools over the year.
 
@@ -508,7 +466,6 @@ Georgia nonprofit "All for Lunch" ended 2022 by paying off outstanding lunch deb
  - [https://www.foxnews.com/opinion/top-5-2022-winners-losers-are-strange-mix-athletes-royalty-politicians-moguls](https://www.foxnews.com/opinion/top-5-2022-winners-losers-are-strange-mix-athletes-royalty-politicians-moguls)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 07:00:57+00:00
- - user: None
 
 Top 5 2022 winners and losers are a strange mix of athletes, royalty, politicians and moguls – including greatest quarterback of all time and a princess.
 
@@ -516,7 +473,6 @@ Top 5 2022 winners and losers are a strange mix of athletes, royalty, politician
  - [https://www.foxnews.com/lifestyle/lose-weight-stay-healthy-make-money-americans-reveal-2023-new-years-resolutions](https://www.foxnews.com/lifestyle/lose-weight-stay-healthy-make-money-americans-reveal-2023-new-years-resolutions)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 07:00:56+00:00
- - user: None
 
 Americans in Nashville shared their 2023 New Year’s resolutions, some of which included getting in better shape, being a good parent and enjoying life more.
 
@@ -524,7 +480,6 @@ Americans in Nashville shared their 2023 New Year’s resolutions, some of which
  - [https://www.foxnews.com/world/protests-against-repressive-regimes-demonstrated-greatest-pushback-decades-citizens-demand-freedom](https://www.foxnews.com/world/protests-against-repressive-regimes-demonstrated-greatest-pushback-decades-citizens-demand-freedom)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 07:00:20+00:00
- - user: None
 
 Protesters have managed to post many videos and photos of their demonstrations to Western social media as citizens in Russia, Iran and China used more sophisticated methods.
 
@@ -532,7 +487,6 @@ Protesters have managed to post many videos and photos of their demonstrations t
  - [https://www.foxnews.com/us/maryland-man-arrested-florida-charged-human-trafficking](https://www.foxnews.com/us/maryland-man-arrested-florida-charged-human-trafficking)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 05:51:35+00:00
- - user: None
 
 A Maryland-based rapper was arrested and charged in Florida for human trafficking after selling a woman's body and keeping the proceeds, authorities said.
 
@@ -540,7 +494,6 @@ A Maryland-based rapper was arrested and charged in Florida for human traffickin
  - [https://www.foxnews.com/sports/nfl-slaps-packers-wr-allen-lazard-10k-fine-taunting-dolphins-players](https://www.foxnews.com/sports/nfl-slaps-packers-wr-allen-lazard-10k-fine-taunting-dolphins-players)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 05:28:57+00:00
- - user: None
 
 Allen Lazard was fined by the league for taunting the three Dolphins players he knocked them to the turf during a block that sprung Aaron Jones for a touchdown.
 
@@ -548,7 +501,6 @@ Allen Lazard was fined by the league for taunting the three Dolphins players he 
  - [https://www.foxnews.com/lifestyle/this-day-history-dec-31-1880-statesman-george-c-marshall-born](https://www.foxnews.com/lifestyle/this-day-history-dec-31-1880-statesman-george-c-marshall-born)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 05:02:07+00:00
- - user: None
 
 Nobel Peace Prize winner and Chief of Staff George Marshall was born on this day in history, Dec. 31, 1880. He's best known for his development of the Marshall Plan following World War II.
 
@@ -556,7 +508,6 @@ Nobel Peace Prize winner and Chief of Staff George Marshall was born on this day
  - [https://www.foxnews.com/sports/insane-titans-stat-sends-internet-into-frenzy-after-team-suffers-sixth-consecutive-loss](https://www.foxnews.com/sports/insane-titans-stat-sends-internet-into-frenzy-after-team-suffers-sixth-consecutive-loss)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 04:27:39+00:00
- - user: None
 
 The Titans are hoping to win the AFC South division for a third consecutive season. They've had a rough go as of late and lost six in a row, but one stat stands out.
 
@@ -564,7 +515,6 @@ The Titans are hoping to win the AFC South division for a third consecutive seas
  - [https://www.foxnews.com/lifestyle/baby-names-dominated-1970s](https://www.foxnews.com/lifestyle/baby-names-dominated-1970s)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 04:03:39+00:00
- - user: None
 
 The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.
 
@@ -572,7 +522,6 @@ The Fox News Lifestyle Newsletter brings you trending stories on family, travel,
  - [https://www.foxnews.com/media/tulsi-gabbard-finding-hope-inner-peace-gods-unconditional-love-most-important-life-death](https://www.foxnews.com/media/tulsi-gabbard-finding-hope-inner-peace-gods-unconditional-love-most-important-life-death)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 03:29:41+00:00
- - user: None
 
 Former Democratic lawmaker Tulsi Gabbard reflects on God's unconditional love for mankind and the joy we get in serving others on 'Tucker Carlson Tonight.'
 
@@ -580,7 +529,6 @@ Former Democratic lawmaker Tulsi Gabbard reflects on God's unconditional love fo
  - [https://www.foxnews.com/us/abortion-arizona-week-law-goes-into-effect-doctors-cant-charged-ban-appeals-court-rules](https://www.foxnews.com/us/abortion-arizona-week-law-goes-into-effect-doctors-cant-charged-ban-appeals-court-rules)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 03:05:27+00:00
- - user: None
 
 The Arizona Court of Appeals ruled on Friday the state's law outlawing abortion after 15 weeks can go into effect.
 
@@ -588,7 +536,6 @@ The Arizona Court of Appeals ruled on Friday the state's law outlawing abortion 
  - [https://www.foxnews.com/media/barbara-walters-journalistic-pioneer-dead-93](https://www.foxnews.com/media/barbara-walters-journalistic-pioneer-dead-93)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 02:52:56+00:00
- - user: None
 
 Barbara Walters has died at 93 years old.
 
@@ -596,7 +543,6 @@ Barbara Walters has died at 93 years old.
  - [https://www.foxnews.com/entertainment/ian-tyson-half-of-ian-sylvia-folk-duo-dead-age-89](https://www.foxnews.com/entertainment/ian-tyson-half-of-ian-sylvia-folk-duo-dead-age-89)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 02:46:44+00:00
- - user: None
 
 Ian Tyson, the Canadian folk singer who wrote "Four Strong Winds" as one half of Ian & Sylvia, died Thursday at age 89 following a series of health complications, his manager said.
 
@@ -604,7 +550,6 @@ Ian Tyson, the Canadian folk singer who wrote "Four Strong Winds" as one half of
  - [https://www.foxnews.com/sports/new-jersey-sportsbooks-stop-purdues-bowl-game-bets-drew-brees-involvement-school-gambling-site](https://www.foxnews.com/sports/new-jersey-sportsbooks-stop-purdues-bowl-game-bets-drew-brees-involvement-school-gambling-site)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 01:29:39+00:00
- - user: None
 
 Sportsbooks in New Jersey were forced to halt bets for the Citrus Bowl because of Drew Brees' relationship with Purdue and a gambling site in the state.
 
@@ -612,7 +557,6 @@ Sportsbooks in New Jersey were forced to halt bets for the Citrus Bowl because o
  - [https://www.foxnews.com/us/missouri-judge-rules-mccloskeys-not-entitled-weapons-returned-fines-remitted-pardon](https://www.foxnews.com/us/missouri-judge-rules-mccloskeys-not-entitled-weapons-returned-fines-remitted-pardon)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 01:16:51+00:00
- - user: None
 
 Mark and Patricia McCloskey must still pay fines and aren't entitled to get guns surrendered in their plea deal back, despite a governor's pardon.
 
@@ -620,7 +564,6 @@ Mark and Patricia McCloskey must still pay fines and aren't entitled to get guns
  - [https://www.foxnews.com/sports/tom-brady-spends-day-poolside-son-potential-nfc-south-clincher](https://www.foxnews.com/sports/tom-brady-spends-day-poolside-son-potential-nfc-south-clincher)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:57:52+00:00
- - user: None
 
 Tampa Bay Buccaneers quarterback Tom Brady is relaxing as much as he can before he faces the Carolina Panthers in a game where he and the Bucs can clinch the NFC South.
 
@@ -628,7 +571,6 @@ Tampa Bay Buccaneers quarterback Tom Brady is relaxing as much as he can before 
  - [https://www.foxnews.com/sports/nc-state-broadcaster-suspended-referring-illegal-aliens-sun-bowl-el-paso](https://www.foxnews.com/sports/nc-state-broadcaster-suspended-referring-illegal-aliens-sun-bowl-el-paso)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:32:14+00:00
- - user: None
 
 Gary Hahn, the football and men's basketball voice of N.C. State, has been suspended after referring to "illegal aliens" during the Sun Bowl in El Paso.
 
@@ -636,7 +578,6 @@ Gary Hahn, the football and men's basketball voice of N.C. State, has been suspe
  - [https://www.foxnews.com/media/idaho-murders-sources-tell-judge-jeanine-pirro-genealogical-dna-helped-nab-suspect](https://www.foxnews.com/media/idaho-murders-sources-tell-judge-jeanine-pirro-genealogical-dna-helped-nab-suspect)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:30:22+00:00
- - user: None
 
 Judge Jeanine Pirro, a former prosecutor in New York State, told 'The Five' her sources believe genealogical DNA evidence helped lead authorities to the Idaho suspect.
 
@@ -644,7 +585,6 @@ Judge Jeanine Pirro, a former prosecutor in New York State, told 'The Five' her 
  - [https://www.foxnews.com/lifestyle/kirk-cameron-greeted-overflow-new-york-library-crowd-message-faith-family-country](https://www.foxnews.com/lifestyle/kirk-cameron-greeted-overflow-new-york-library-crowd-message-faith-family-country)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:29:21+00:00
- - user: None
 
 Actor and author Kirk Cameron delivered a message of faith, family and country on Friday, Dec. 30, at Scarsdale Public Library in New York to an overflow crowd of fans.
 
@@ -652,7 +592,6 @@ Actor and author Kirk Cameron delivered a message of faith, family and country o
  - [https://www.foxnews.com/us/idaho-murder-suspect-bryan-kohbergers-washington-neighbors-witnesses-react-grad-students-arrest](https://www.foxnews.com/us/idaho-murder-suspect-bryan-kohbergers-washington-neighbors-witnesses-react-grad-students-arrest)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:24:33+00:00
- - user: None
 
 Kohberger was charged with felony burglary and four counts of murder for the stabbing deaths of Idaho co-eds Ethan Chapin, Kaylee Goncalves, Xana Kernodle, and Maddie Mogen.
 
@@ -660,7 +599,6 @@ Kohberger was charged with felony burglary and four counts of murder for the sta
  - [https://www.foxnews.com/tech/how-google-maps-lets-loved-ones-know-youre-safe-all-times](https://www.foxnews.com/tech/how-google-maps-lets-loved-ones-know-youre-safe-all-times)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:12:52+00:00
- - user: None
 
 Kurt "CyberGuy" Knutsson explains how you can utilize Google Maps to let your loved ones know you are safe in a situation or can call for help if you are in danger.
 
@@ -668,6 +606,6 @@ Kurt "CyberGuy" Knutsson explains how you can utilize Google Maps to let your lo
  - [https://www.foxnews.com/us/oregon-woman-held-without-bail-video-shows-her-allegedly-pushing-3-year-old-onto-train-tracks](https://www.foxnews.com/us/oregon-woman-held-without-bail-video-shows-her-allegedly-pushing-3-year-old-onto-train-tracks)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-31 00:09:10+00:00
- - user: None
 
 An Oregon woman is being held without bail after she allegedly pushed a child onto train tracks in Portland. The incident was caught on surveillance video.
+

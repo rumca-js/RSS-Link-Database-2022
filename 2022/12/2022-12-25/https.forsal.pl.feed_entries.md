@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Uwagi wymierzone w społeczność LGBTQ. Netanjahu potępił przyszłych koalicjantów
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8617811,benjamin-netanjahu-przyszli-koalicjanci-uwagi-spolecznosc-lgbtq.html](https://forsal.pl/swiat/aktualnosci/artykuly/8617811,benjamin-netanjahu-przyszli-koalicjanci-uwagi-spolecznosc-lgbtq.html)
@@ -160,3 +160,4 @@
  - date published: 2022-12-25 04:51:58+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/NQDktkuTURBXy8wY2VkNmRiNS1hMzAyLTRkNWUtODczZS00MDU0MzA3OTE3NTguanBlZ5GTBc0BHcyg" />Zdaniem amerykańskiego dziennika &quot;Wall Street Journal&quot;, prezydent Rosji Władimir Putin nie zna prawdziwego obrazu i przebiegu wojny na Ukrainie i kieruje się własnymi poglądami i uprzedzeniami, które umacniają w nim najbliźsi doradcy.
+

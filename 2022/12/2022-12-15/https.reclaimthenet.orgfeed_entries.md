@@ -1,10 +1,9 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Corporate coalition pushes government to create digital ID infrastructure
  - [https://reclaimthenet.org/corporations-push-for-digital-id/](https://reclaimthenet.org/corporations-push-for-digital-id/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-15 20:10:33+00:00
- - tags: digital identity
 
 <a href="https://reclaimthenet.org/corporations-push-for-digital-id/" rel="nofollow" title="Corporate coalition pushes government to create digital ID infrastructure"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/usa-digi-id-push.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Major corporations want to see the installation of digital ID.</p>
 <p>The post <a href="https://reclaimthenet.org/corporations-push-for-digital-id/" rel="nofollow">Corporate coalition pushes government to create digital ID infrastructure</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -21,7 +20,6 @@
  - [https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law/](https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-15 18:27:46+00:00
- - tags: censorship,israel
 
 <a href="https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law/" rel="nofollow" title="Israel to introduce sweeping online censorship law"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/isr-speech.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Including such things as "offensive" content.</p>
 <p>The post <a href="https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law/" rel="nofollow">Israel to introduce sweeping online censorship law</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -57,3 +55,4 @@
 
 <a href="https://reclaimthenet.org/twitter-bans-elonjet-flight-tracker/" rel="nofollow" title="Twitter bans @ElonJet account that showed location of Elon Musk&#8217;s private jet"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/twitte-elonjet.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Twitter's new policy bans the real-time sharing of someone's location.</p>
 <p>The post <a href="https://reclaimthenet.org/twitter-bans-elonjet-flight-tracker/" rel="nofollow">Twitter bans @ElonJet account that showed location of Elon Musk&#8217;s private jet</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

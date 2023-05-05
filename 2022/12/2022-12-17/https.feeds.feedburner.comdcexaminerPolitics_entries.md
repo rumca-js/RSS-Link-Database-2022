@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## New Jersey bill would shield officials addresses from disclosure
  - [https://www.washingtonexaminer.com/news/new-jersey-bill-would-shield-officials-addresses-from-disclosure](https://www.washingtonexaminer.com/news/new-jersey-bill-would-shield-officials-addresses-from-disclosure)
@@ -13,3 +13,4 @@
  - date published: 2022-12-17 13:27:06+00:00
 
 (The Center Square) – With the Teamsters union receiving a significant pension bailout from the federal government, Illinois taxpayers will now be paying for both public and private pension systems.
+

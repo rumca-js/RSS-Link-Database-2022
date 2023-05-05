@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Dungeon23 is the Perfect Low-Pressure Writing Ritual
  - [https://gizmodo.com/dungeon23-2023-ttrpg-writing-challenge-roleplaying-game-1849930262](https://gizmodo.com/dungeon23-2023-ttrpg-writing-challenge-roleplaying-game-1849930262)
@@ -41,3 +41,4 @@
  - date published: 2022-12-26 13:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--cWgSlzZL--/c_fit,fl_progressive,q_80,w_636/b85f6ef77f75b985383030ba20e79978.jpg" /><p><em>What would you do if you saw a self-driving car hit a person?</em></p><p><a href="https://gizmodo.com/mit-self-driving-car-trolley-problem-robot-ethics-uber-1849925401">Read more...</a></p>
+

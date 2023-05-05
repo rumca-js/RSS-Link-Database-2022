@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Liberal NYC Mayor defends high-income earners after mass exodus, tells critics 'stop dividing our city'
  - [http://www.msn.com/en-us/news/us/liberal-nyc-mayor-defends-high-income-earners-after-mass-exodus-tells-critics-stop-dividing-our-city/ar-AA15hToq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/liberal-nyc-mayor-defends-high-income-earners-after-mass-exodus-tells-critics-stop-dividing-our-city/ar-AA15hToq?li=BBnbcA1&srcref=rss)
@@ -53,7 +53,6 @@
  - [http://www.msn.com/en-us/news/politics/republicans-demand-twitter-and-facebook-provide-government-communications/ar-AA15hLg6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/republicans-demand-twitter-and-facebook-provide-government-communications/ar-AA15hLg6?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-14 22:36:03.811962+00:00
- - tags: twitter,facebook,government,censorship
 
 
 
@@ -761,7 +760,6 @@
  - [http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-14 12:35:22.164363+00:00
- - tags: social media,hate speech,meta,facebook
 
 
 
@@ -1294,5 +1292,6 @@
  - [http://www.msn.com/en-us/news/us/racism-scandal-prompts-another-day-of-protests-in-la-council/ar-AA15fc0S?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/racism-scandal-prompts-another-day-of-protests-in-la-council/ar-AA15fc0S?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-14 00:34:38.168824+00:00
+
 
 

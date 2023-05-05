@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Engineers brave ice and snow to reconnect Shetland
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63982839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63982839?at_medium=RSS&at_campaign=KARANGA)
@@ -475,3 +475,4 @@ Restrictions on liquids and removing electrical items from bags are to axed by J
  - date published: 2022-12-15 00:00:45+00:00
 
 Several of Thursday's papers lead with the migrant boat that got into difficulty while crossing the Channel.
+

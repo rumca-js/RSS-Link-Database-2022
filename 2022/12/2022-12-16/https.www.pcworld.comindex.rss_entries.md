@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Valve offers juicy details on the next-gen Steam Deck
  - [https://www.pcworld.com/article/1438078/valve-offers-juicy-details-on-the-steam-deck-2.html](https://www.pcworld.com/article/1438078/valve-offers-juicy-details-on-the-steam-deck-2.html)
@@ -652,3 +652,4 @@ Video Games</div>
 <p><em>Prices subject to change.</em></p>
 
 Storage Management Software</div>
+

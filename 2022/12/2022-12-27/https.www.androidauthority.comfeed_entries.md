@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## LG’s new optical zoom sensor aims to get rid of the smartphone camera bump
  - [https://www.androidauthority.com/lg-smartphone-camera-sensor-3260484/](https://www.androidauthority.com/lg-smartphone-camera-sensor-3260484/)
@@ -62,3 +62,4 @@ Some readers don't have a Google-powered TV or streaming box at all.
  - date published: 2022-12-27 05:00:25+00:00
 
 Speed monsters for die-hard gamers.
+

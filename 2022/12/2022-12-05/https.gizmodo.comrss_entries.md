@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Daredevil Confirms New Cast, But Karen and Foggy's Fates Remain Unknown
  - [https://gizmodo.com/marvel-disney-plus-daredevil-born-again-casting-news-1849856309](https://gizmodo.com/marvel-disney-plus-daredevil-born-again-casting-news-1849856309)
@@ -251,3 +251,4 @@
  - date published: 2022-12-05 11:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ta5VA_QV--/c_fit,fl_progressive,q_80,w_636/458ffecc6263e15226d2ae0eb44635ac.jpg" /><p>Government officials in Moore County, North Carolina declared a state of emergency and imposed a curfew from 9 p.m. Sunday night to 5 a.m. Monday morning after two shooting attacks on power substations knocked out power for thousands of people. And while some on Twitter speculated the attacks may have been tied to a…</p><p><a href="https://gizmodo.com/attacks-guns-north-carolina-energy-grid-power-drag-lgbt-1849852909">Read more...</a></p>
+

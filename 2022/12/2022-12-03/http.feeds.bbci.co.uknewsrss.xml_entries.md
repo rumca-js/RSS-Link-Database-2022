@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## World Cup 2022: Lionel Messi keeps Argentina dreams alive after scoring in 1,000th game
  - [https://www.bbc.co.uk/sport/football/63848847?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63848847?at_medium=RSS&at_campaign=KARANGA)
@@ -384,3 +384,4 @@ Composer Sir James MacMillan was asked in 2011 to write new music for the funera
  - date published: 2022-12-03 00:19:48+00:00
 
 Saturday's front pages focus on the rise of the bacteria infection and the first extracts from Matt Hancock's diaries.
+

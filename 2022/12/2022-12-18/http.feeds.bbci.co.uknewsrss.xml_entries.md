@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Battery lights vs mains LED bulbs: What's cheaper?
  - [https://www.bbc.co.uk/news/business-63910430?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63910430?at_medium=RSS&at_campaign=KARANGA)
@@ -475,3 +475,4 @@ Many say the series resonated because of their own experiences - but it also rai
  - date published: 2022-12-18 00:04:53+00:00
 
 A programme in California hopes to give back to communities targeted by the War on Drugs.
+

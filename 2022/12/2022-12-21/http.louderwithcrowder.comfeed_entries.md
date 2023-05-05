@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch as Justin Trudeau gives a masterclass on why you don't trust politicians calling for gun control
  - [https://www.louderwithcrowder.com/justin-trudeau-hunting](https://www.louderwithcrowder.com/justin-trudeau-hunting)
@@ -161,3 +161,4 @@
 <a href="https://youtu.be/SZvOx9-1cdc" target="_blank">youtu.be</a>
 </small>
 </p>
+

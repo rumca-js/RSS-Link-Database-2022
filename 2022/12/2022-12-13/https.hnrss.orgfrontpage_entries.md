@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## A native internet protocol for social media
  - [https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
@@ -775,3 +775,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33962478">https://news.ycombinator.com/item?id=33962478</a></p>
 <p>Points: 12</p>
 <p># Comments: 2</p>
+

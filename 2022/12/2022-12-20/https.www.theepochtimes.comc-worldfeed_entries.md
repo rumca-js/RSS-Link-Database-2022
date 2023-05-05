@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Environment Canada Suspended 1 Percent of Unvaccinated Federal Workers, Despite Majority Being Fully Vaccinated
  - [https://www.theepochtimes.com/environment-canada-suspended-1-percent-unvaccinated-federal-workers-despite-majority-fully-vaccinated_4935505.html](https://www.theepochtimes.com/environment-canada-suspended-1-percent-unvaccinated-federal-workers-despite-majority-fully-vaccinated_4935505.html)
@@ -440,3 +440,4 @@ Lisa LaFlamme, veteran journalist, receives an award as an Officer of the Order 
  - date published: 2022-12-20 02:36:38+00:00
 
 President of the Asia Society and former Australian prime minister Kevin Rudd speaks as he introduces U.S. Secretary of State Antony Blinken during an event at Jack Morton Auditorium of George Washington University in Washington, D.C., on May 26, 2022. (Alex Wong/Getty Images)
+

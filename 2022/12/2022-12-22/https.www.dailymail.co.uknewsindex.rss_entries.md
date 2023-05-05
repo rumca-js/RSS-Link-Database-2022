@@ -1,4 +1,11 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
+
+## Tragedy as six-year-old boy dies in a horrific car accident just days before Christmas
+ - [https://www.dailymail.co.uk/news/article-11567889/Tragedy-six-year-old-boy-dies-horrific-car-accident-just-days-Christmas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11567889/Tragedy-six-year-old-boy-dies-horrific-car-accident-just-days-Christmas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-22 23:52:20+00:00
+
+A child has died just days before Christmas in after the vehicle he was travelling in rolled on a regional highway in South West New South Wales.
 
 ## Perth thief smashes a car window with a brick and steals valuables as WA Police issue warning
  - [https://www.dailymail.co.uk/news/article-11567663/Perth-thief-smashes-car-window-brick-steals-valuables-WA-Police-issue-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11567663/Perth-thief-smashes-car-window-brick-steals-valuables-WA-Police-issue-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -160,6 +167,13 @@ Mother-of-two Amanda Martinez, 35, also known as Mandinha, is chief executive of
  - date published: 2022-12-22 21:35:59+00:00
 
 Kazi Islam, 26, was being held in HMP Rochester in Kent when he climbed a wall to demand a move to another jail while 'brandishing the sharpened toilet brush' at 'racist prison staff'.
+
+## Influencer Rachel Mee, 25, tragically dies just before her baby son's first Christmas
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11567271/Influencer-Rachel-Mee-25-tragically-dies-just-baby-sons-Christmas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11567271/Influencer-Rachel-Mee-25-tragically-dies-just-baby-sons-Christmas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-22 21:28:38+00:00
+
+The social media star, 25, had her son Kyro in March this year and sadly passed away on Sunday  December 18.
 
 ## Trans activist behind banned Antifa Twitter account says she is 'proud' of her calls to violence
  - [https://www.dailymail.co.uk/news/article-11566987/Trans-activist-banned-Antifa-Twitter-account-says-proud-calls-violence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11566987/Trans-activist-banned-Antifa-Twitter-account-says-proud-calls-violence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -487,7 +501,6 @@ The openly gay congressman-elect who is accused of lying about his career now ap
  - [https://www.dailymail.co.uk/news/article-11562433/Facebook-riddled-ex-CIA-agents-ex-FBI-agents-work-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11562433/Facebook-riddled-ex-CIA-agents-ex-FBI-agents-work-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-22 16:08:10+00:00
- - tags: twitter,facebook,government,cia
 
 Former CIA agents made up some of the top ranks in almost every politically sensitive department at Meta, as former FBI agents migrated over to Twitter in droves before the 2020 election.
 
@@ -952,6 +965,13 @@ Environment Minister Mark Spencer said punters facing soaring costs should use m
  - date published: 2022-12-22 10:47:20+00:00
 
 Police arrested a man suspected of stealing a car containing a child outside its mother's house in Ossett, West Yorkshire yesterday. The child was safely recovered after an hour.
+
+## The most disputed claims in part two of Harry and Meghan's Netflix show
+ - [https://www.dailymail.co.uk/femail/article-11565369/The-disputed-claims-two-Harry-Meghans-Netflix-show.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11565369/The-disputed-claims-two-Harry-Meghans-Netflix-show.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-22 10:42:52+00:00
+
+MailOnline's Femail editor Siofra Brennan and Royal Commentator Richard Fitzwilliams break down the most controversial and disputed claims from part two of the series.
 
 ## Australians warned about scammers ahead of Christmas: How to protect yourself from fraud
  - [https://www.dailymail.co.uk/news/article-11565509/Australians-warned-scammers-ahead-Christmas-protect-fraud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11565509/Australians-warned-scammers-ahead-Christmas-protect-fraud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1645,3 +1665,4 @@ Austrailain retail giant Kogan announced on Thursday it had purchased bruised re
  - date published: 2022-12-22 00:00:39+00:00
 
 Analysis also showed how the percentage of claims granted by the UK has soared in recent years, while in France the number has dropped.
+

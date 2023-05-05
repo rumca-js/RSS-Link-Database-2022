@@ -1,4 +1,25 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## Transgender woman sues female-only app Giggle for Girls for alleged discrimination
+ - [https://www.theguardian.com/media/2022/dec/31/transgender-woman-sues-female-only-app-giggle-for-girls-for-alleged-discrimination](https://www.theguardian.com/media/2022/dec/31/transgender-woman-sues-female-only-app-giggle-for-girls-for-alleged-discrimination)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 23:43:24+00:00
+
+<p>Roxanne Tickle claims she was unlawfully barred from using the app after the firm and its CEO said she was a man</p><ul><li><a href="https://www.theguardian.com/australia-news/live/2022/dec/31/australia-news-live-new-years-eve-fireworks-forecast-weather-house-prices-police-investigation">Follow our Australia news live blog for the latest updates</a></li><li>Get our <a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>An Australian transgender woman who says she was barred from using the female-only platform Giggle for Girls has sued the social media site for alleged discrimination.</p><p>In a federal court lawsuit filed on 22 December, Roxanne Tickle claims she was unlawfully barred from using Giggle in September 2021 after the firm and its CEO, Sally “Sall” Grover, said she was a man.</p><p><strong><a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=copyembed">Sign up for Guardian Australia’s free morning and afternoon</a></strong><a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=copyembed"> </a><strong><a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=copyembed">email newsletters for your daily news roundup</a></strong></p> <a href="https://www.theguardian.com/media/2022/dec/31/transgender-woman-sues-female-only-app-giggle-for-girls-for-alleged-discrimination">Continue reading...</a>
+
+## David Moyes accepts he is fighting for his West Ham future amid losing streak
+ - [https://www.theguardian.com/football/2022/dec/30/david-moyes-west-ham-future-brentford-defeat](https://www.theguardian.com/football/2022/dec/30/david-moyes-west-ham-future-brentford-defeat)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 23:43:08+00:00
+
+<ul><li>Fifth successive league defeat heaps pressure on manager</li><li>Brentford’s Ivan Toney scores but suffers knee injury</li></ul><p>David Moyes admitted that his job is under threat after <a href="https://www.theguardian.com/football/2022/dec/30/west-ham-brentford-premier-league-match-report">West Ham’s miserable 2-0 defeat at home to Brentford</a> saw them slip deeper into relegation trouble.</p><p>West Ham are a point above the bottom three after losing five consecutive league games and Moyes is running out of time to convince the London Stadium club’s board to persist with him.</p> <a href="https://www.theguardian.com/football/2022/dec/30/david-moyes-west-ham-future-brentford-defeat">Continue reading...</a>
+
+## PDC world darts: Van Gerwen and Smith march on, Cross and Humphries go out
+ - [https://www.theguardian.com/sport/2022/dec/30/pdc-world-darts-van-gerwen-and-smith-march-on-cross-and-humphries-go-out](https://www.theguardian.com/sport/2022/dec/30/pdc-world-darts-van-gerwen-and-smith-march-on-cross-and-humphries-go-out)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 23:34:48+00:00
+
+<ul><li>Michael van Gerwen and Michael Smith reach last eight</li><li>Chris Dobey and Stephen Bunting both earn surprise wins</li></ul><p>Michael van Gerwen powered past his Dutch compatriot, Dirk van Duijvenbode, with a 4-1 win to reach the PDC world championship quarter-finals. Elsewhere, Michael Smith advanced but two of the other top six seeds, <strong>Rob Cross</strong> and <strong>Luke Humphries</strong>, bowed out on a dramatic day.</p><p>Van Gerwen, the three-times former champion at Alexandra Palace, took a two-set lead despite his opponent claiming a leg with a 170 checkout. Van Duijvenbode got on the board by taking the third set but Van Gerwen closed out the match ruthlessly, averaging 100.42 and landing 13 of 30 doubles.</p> <a href="https://www.theguardian.com/sport/2022/dec/30/pdc-world-darts-van-gerwen-and-smith-march-on-cross-and-humphries-go-out">Continue reading...</a>
 
 ## Aerosmith’s Steven Tyler sued for 1970s sexual battery and assault of minor
  - [https://www.theguardian.com/music/2022/dec/30/aerosmith-steven-tyler-lawsuit-sexual-battery-assault](https://www.theguardian.com/music/2022/dec/30/aerosmith-steven-tyler-lawsuit-sexual-battery-assault)
@@ -6,6 +27,20 @@
  - date published: 2022-12-30 23:03:58+00:00
 
 <p>Suit alleges ‘various acts of criminal sexual conduct’ were committed against teenager by singer over three-year period</p><p>A woman who says she had a sexual relationship with Aerosmith frontman Steven Tyler when she was 16 is suing him in California, under a state law that has temporarily extended the statute of limitations for adults to take legal action on sexual abuse they suffered as children.</p><p>Julia Holcomb Misley, who has<a href="https://www.theguardian.com/tv-and-radio/2021/sep/13/look-away-review-horrifying-stories-of-abuse-at-the-hands-of-male-rock-stars"> spoken out publicly for years</a> about Tyler’s treatment of her as a teenager, filed a <a href="https://www.andersonadvocates.com/wp-content/uploads/2022/12/Julia-Misley-Holcomb-vs.-Defendant-Doe-1_Does-2-Through-50.pdf">lawsuit</a> in Los Angeles on Tuesday alleging sexual battery, sexual assault and intentional infliction of distress during a three-year period in the 1970s.</p> <a href="https://www.theguardian.com/music/2022/dec/30/aerosmith-steven-tyler-lawsuit-sexual-battery-assault">Continue reading...</a>
+
+## ‘Contract is just paper’: Manchester City players’ hunger drives Guardiola stay
+ - [https://www.theguardian.com/football/2022/dec/30/contract-is-just-paper-manchester-city-players-hunger-drives-guardiola-stay](https://www.theguardian.com/football/2022/dec/30/contract-is-just-paper-manchester-city-players-hunger-drives-guardiola-stay)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 22:30:01+00:00
+
+<ul><li>Manager says team reacted well in Liverpool and Leeds wins</li><li>‘If I extend, it’s because I have the feeling we can still play good’</li></ul><p>Pep Guardiola said the desire Manchester City displayed when beating Liverpool and Leeds was evidence of why he signed a new contract to stay at the Etihad.</p><p>The wins in the <a href="https://theguardian.com/football/2022/dec/22/manchester-city-liverpool-carabao-cup-last-16-match-report">Carabao Cup</a> and <a href="https://www.theguardian.com/football/2022/dec/28/leeds-united-manchester-city-premier-league-match-report">Premier League</a> came in City’s first two matches since the Qatar World Cup. Guardiola <a href="https://www.theguardian.com/football/2022/nov/22/pep-guardiola-signs-contract-extension-manchester-city-manager">agreed his fresh one-year deal</a> – with the option of another 12 months until the summer of 2025 – during the tournament and urged his side to continue performing as they did against Liverpool and Leeds when they face Everton on New Year’s Eve.</p> <a href="https://www.theguardian.com/football/2022/dec/30/contract-is-just-paper-manchester-city-players-hunger-drives-guardiola-stay">Continue reading...</a>
+
+## Leah Williamson among Lionesses recognised in New Year honours list
+ - [https://www.theguardian.com/football/2022/dec/30/leah-williamson-among-lionesses-recognised-in-new-year-honours-list](https://www.theguardian.com/football/2022/dec/30/leah-williamson-among-lionesses-recognised-in-new-year-honours-list)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 22:30:00+00:00
+
+<ul><li>Beth Mead, Ellen White and Lucy Bronze are made MBEs</li><li>Denise Lewis becomes a dame and Pat Jennings gets CBE</li></ul><p>England captain Leah Williamson is one of four Euro 2022 winners to be recognised in the New Year honours list.</p><p>The Arsenal defender lifted the Lionesses’ first major trophy after the team’s 2-1 extra-time <a href="https://www.theguardian.com/football/2022/jul/31/england-germany-womens-euro-2022-final-match-report#:~:text=Records%20tumbled%2C%20emotions%20raged%20and,and%20England%27s%20first%20since%201966.">defeat of Germany</a> at Wembley to earn the only piece of silverware for an England senior side since the men’s team’s World Cup triumph in 1966. The 25-year-old becomes an OBE, while her teammates Beth Mead, Ellen White and Lucy Bronze have been awarded MBEs. The head coach <a href="https://www.englandfootball.com/england/womens-senior-team/squad/Sarina-Wiegman">Sarina Wiegman</a> has also been awarded an honorary CBE.</p> <a href="https://www.theguardian.com/football/2022/dec/30/leah-williamson-among-lionesses-recognised-in-new-year-honours-list">Continue reading...</a>
 
 ## Liverpool fight back to beat Leicester as Wout Faes scores two own goals
  - [https://www.theguardian.com/football/2022/dec/30/liverpool-leicester-premier-league-match-report](https://www.theguardian.com/football/2022/dec/30/liverpool-leicester-premier-league-match-report)
@@ -21,12 +56,26 @@
 
 <p>It would be unwise in the extreme for West Ham to assume that they are in anything other than a relegation battle. Too good to go down? They have heard that one before in this corner of east London and, given that more than £100m was spent on refining this squad last summer, it would not be a surprise if West Ham come to the conclusion that whatever magic they had under David Moyes has disappeared for good.</p><p>There is talent in this squad, attacking players who can make a difference on their day, but the decline feels irreversible at the moment. Nothing Moyes tries is coming off and West Ham, who lie a point above the bottom three after falling to their fifth consecutive defeat, can be forgiven if they are thinking of making a managerial change after witnessing another witless display.</p> <a href="https://www.theguardian.com/football/2022/dec/30/west-ham-brentford-premier-league-match-report">Continue reading...</a>
 
+## Joe Marler handed two-week sanction for comments to Jake Heenan
+ - [https://www.theguardian.com/sport/2022/dec/30/joe-marler-handed-two-week-sanction-for-comments-to-jake-heenan](https://www.theguardian.com/sport/2022/dec/30/joe-marler-handed-two-week-sanction-for-comments-to-jake-heenan)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 21:36:43+00:00
+
+<ul><li>Harlequins man will miss games against Northampton and Sale</li><li>Prop could still figure for England in the Six Nations if selected</li></ul><p>Joe Marler has been banned for two weeks with a further four weeks suspended for comments made towards the Bristol flanker Jake Heenan.</p><p>The Harlequins and England prop Marler, who accepted a charge of conduct prejudicial to the game, made remarks during the first half of Tuesday’s Premiership match that reportedly related to Heenan’s mother.</p> <a href="https://www.theguardian.com/sport/2022/dec/30/joe-marler-handed-two-week-sanction-for-comments-to-jake-heenan">Continue reading...</a>
+
 ## Ginni Thomas ‘never spoke’ about 2020 vote to supreme court justice husband
  - [https://www.theguardian.com/us-news/2022/dec/30/ginni-thomas-clarence-thomas-2020-election](https://www.theguardian.com/us-news/2022/dec/30/ginni-thomas-clarence-thomas-2020-election)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-30 21:34:58+00:00
 
 <p>Clarence Thomas’s wife says couple did not discuss challenges to Biden’s election victory, in testimony released by January 6 panel</p><p>The conservative activist Ginni Thomas has “no memory” of what she discussed with her husband, the supreme court justice Clarence Thomas, during the heat of the battle to overturn the 2020 presidential election, according to <a href="https://january6th.house.gov/sites/democrats.january6th.house.gov/files/20220929_Virginia%20L.%20Thomas.pdf">congressional testimony</a> released on Friday.</p><p>Thomas, 65, recalled “an emotional time” in which her mood was lifted by her husband and <a href="https://www.theguardian.com/us-news/2022/sep/26/mark-meadows-text-messages-january-6-breach-book">Mark Meadows</a>, then Donald Trump’s chief of staff, a transcript of her deposition with the congressional committee investigating the January 6 attack on the US Capitol showed.</p> <a href="https://www.theguardian.com/us-news/2022/dec/30/ginni-thomas-clarence-thomas-2020-election">Continue reading...</a>
+
+## Cristiano Ronaldo completes deal to join Saudi Arabian club Al Nassr
+ - [https://www.theguardian.com/football/2022/dec/30/cristiano-ronaldo-al-nassr-saudi-arabia](https://www.theguardian.com/football/2022/dec/30/cristiano-ronaldo-al-nassr-saudi-arabia)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 21:30:07+00:00
+
+<ul><li>Portuguese forward joins on contract until June 2025</li><li>Ronaldo without club since leaving Manchester United</li></ul><p>Cristiano Ronaldo has joined the Saudi Arabian club Al Nassr following his <a href="https://www.theguardian.com/football/2022/nov/22/ronaldo-wanted-to-be-centre-stage-but-now-has-to-head-for-the-exit-door">acrimonious departure</a> from Manchester United.</p><p>“The world’s greatest athlete, officially signed for Al Nassr,” read a tweet from the club’s official account, which included a picture of Ronaldo holding up a named No 7 shirt.</p> <a href="https://www.theguardian.com/football/2022/dec/30/cristiano-ronaldo-al-nassr-saudi-arabia">Continue reading...</a>
 
 ## Southwest Airlines CEO on flights chaos: ‘No way to almost apologize enough’
  - [https://www.theguardian.com/world/2022/dec/30/southwest-airlines-ceo-bob-jordan-apologize](https://www.theguardian.com/world/2022/dec/30/southwest-airlines-ceo-bob-jordan-apologize)
@@ -62,6 +111,13 @@
  - date published: 2022-12-30 19:00:56+00:00
 
 <p>The move follows a ban by the House, which TikTok said was a ‘political measure that will do nothing’ for national security</p><p>TikTok has been banned on all federal government devices in the US, with limited exceptions, after Joe Biden signed a $1.7tn (£1.4tn) spending bill on Thursday containing a provision that outlaws the China-based app over growing security concerns.</p><p>The ban – which was approved by Congress in a vote last week – is a major step targeting the fastest-growing social media platform in the world <strong> </strong> as opponents express worry user data stored in China could be accessed by the government.</p> <a href="https://www.theguardian.com/technology/2022/dec/30/us-tiktok-ban-government-devices-china">Continue reading...</a>
+
+## What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis
+ - [https://www.theguardian.com/world/2022/dec/31/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis](https://www.theguardian.com/world/2022/dec/31/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-30 19:00:05+00:00
+
+<p>The battle for Kyiv revisited; the children stuck at camps in Crimea</p><ul><li><a href="https://www.theguardian.com/world/ukraine">See all our Ukraine war coverage</a></li></ul><p>Every week we wrap up the must-reads from our coverage of the <a href="https://www.theguardian.com/world/ukraine">Ukraine</a> war, from news and features to analysis and opinion.</p> <a href="https://www.theguardian.com/world/2022/dec/31/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis">Continue reading...</a>
 
 ## The Pelé paradox: football’s greatest celebrity still defines beautiful game
  - [https://www.theguardian.com/football/2022/dec/30/pele-paradox-brazil-1970-celebrity-modern-game](https://www.theguardian.com/football/2022/dec/30/pele-paradox-brazil-1970-celebrity-modern-game)
@@ -944,3 +1000,4 @@
  - date published: 2022-12-30 00:00:33+00:00
 
 <p>Further studies under way as ‘remarkable’ results offer new hope in treating biliary tract cancer</p><p>A man given a year to live after being diagnosed with an aggressive form of cancer is now disease-free thanks to a UK trial of a personalised drug regime.</p><p>Robert Glynn, 51, a welder from Worsley in Greater Manchester, said he “wouldn’t be here” if it were not for the remarkable results of the immunotherapy trial run by the Christie NHS foundation trust in Manchester.</p> <a href="https://www.theguardian.com/science/2022/dec/30/man-year-to-live-now-cancer-free-after-immunotherapy-trial">Continue reading...</a>
+

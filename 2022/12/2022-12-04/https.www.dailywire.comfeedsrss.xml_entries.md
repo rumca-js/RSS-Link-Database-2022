@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘It’s Only Painful To Say Out Loud’: Adam Sandler Gives Update After Hip Surgery
  - [https://www.dailywire.com/news/its-only-painful-to-say-out-loud-adam-sandler-gives-update-after-hip-surgery](https://www.dailywire.com/news/its-only-painful-to-say-out-loud-adam-sandler-gives-update-after-hip-surgery)
@@ -354,7 +354,6 @@ Incoming Israeli Prime Minister Benjamin Netanyahu called anti-Semitism the &#82
  - [https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned](https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-04 12:22:04+00:00
- - tags: assange,wikileaks,free speech
 
 Adding to a trend of polling Twitter on significant issues, Elon Musk is asking users to opine on whether WikiLeaks founder Julian Assange and former National Security Agency contractor Edward Snowden should be pardoned. Both Assange and Snowden are facing serious charges in the United States but are regarded by their supporters as critical whistleblowers ...
 
@@ -406,3 +405,4 @@ A reparations task force created by Democratic Governor Gavin Newsom is kicking 
  - date published: 2022-12-04 09:41:46+00:00
 
 A reparations task force created by Democratic Governor Gavin Newsom is kicking around some large sums, up to $223,000, to give to each qualifying black American residing in California. Newsom created the nine-person task force in 2020 as a social justice measure to promote &#8220;equity.&#8221; “As our country reckons with our painful legacy of racial injustice, ...
+

@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Berlin Detains German Intelligence Official Suspected of Spying for Russia
  - [https://www.wsj.com/articles/berlin-detains-german-intelligence-official-suspected-of-spying-for-russia-11671731754](https://www.wsj.com/articles/berlin-detains-german-intelligence-official-suspected-of-spying-for-russia-11671731754)
@@ -76,3 +76,4 @@ Soldiers mobilized to fight in Ukraine say inadequate training, alcohol abuse an
  - date published: 2022-12-22 09:31:00+00:00
 
 Prime Minister Frank Bainimarama’s party has yet to concede after the main opposition parties formed a coalition to oust the incumbent government.
+

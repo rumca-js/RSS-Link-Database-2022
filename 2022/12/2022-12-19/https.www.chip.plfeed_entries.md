@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Jaki laptop lub tablet na Święta? Szukamy w ofercie Lenovo
  - [https://www.chip.pl/2022/12/lenovo-laptopy-tablety-na-swieta](https://www.chip.pl/2022/12/lenovo-laptopy-tablety-na-swieta)
@@ -103,3 +103,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="583" src="https://konto.chip.pl/wp-content/uploads/2022/12/dwutlenek-wegla.jpeg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/dwutlenek-wegla.jpeg" style="display: block; margin: 1em auto;" /></p>
 <p>Holenderska firma Masterbloc oferuje przyjazny dla środowiska materiał budowlany, który nie dość, że pochodzi z częściowego recyklingu, to dodatkowo zapewnia wysoką wydajność w pochłanianiu dwutlenku węgla z powietrza. Jedną z korzystnych cech jest w tym przypadku możliwość produkowania takich bloków z użyciem pozostałości z przemysłu stalowego. Po drugie zapewniają one ujemny bilans w zakresie emisji [&#8230;]</p>
+

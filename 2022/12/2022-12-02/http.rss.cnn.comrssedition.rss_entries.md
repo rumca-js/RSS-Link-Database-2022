@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Netherlands vs. US: Two exciting young teams go head-to-head for place in World Cup quarterfinals
  - [https://www.cnn.com/2022/12/02/football/netherlands-us-qatar-world-cup-christian-pulisic-cody-gakpo-spt-intl/index.html](https://www.cnn.com/2022/12/02/football/netherlands-us-qatar-world-cup-christian-pulisic-cody-gakpo-spt-intl/index.html)
@@ -625,3 +625,4 @@ Since 2000, the Pantone Color Institute has annually announced a "Color of the Y
  - date published: 2022-12-02 00:00:13+00:00
 
 Pantone has spoken. The color that will shape the year ahead is — drum roll, please — Viva Magenta.
+

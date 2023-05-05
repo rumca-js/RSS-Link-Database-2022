@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Pinterest Adds Elliott Executive to Its Board
  - [https://www.wsj.com/articles/pinterest-adds-elliott-executive-to-its-board-11670360931?mod=rss_Technology](https://www.wsj.com/articles/pinterest-adds-elliott-executive-to-its-board-11670360931?mod=rss_Technology)
@@ -104,3 +104,4 @@ Journalism Competition and Preservation Act is meant to help publishers team up 
  - date published: 2022-12-06 00:01:00+00:00
 
 The two sides at a meeting make little progress over U.S. electric-car subsidies, an issue raised by the French president during his White House visit.
+

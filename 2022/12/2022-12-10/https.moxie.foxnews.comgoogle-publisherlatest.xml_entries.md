@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Twitter Files part 4 drop showing executives' approach to 'change of policy for Trump alone'
  - [https://www.foxnews.com/media/twitter-files-part-4-drop-showing-executives-approach-change-policy-trump-alone](https://www.foxnews.com/media/twitter-files-part-4-drop-showing-executives-approach-change-policy-trump-alone)
@@ -424,7 +424,6 @@ A campaign is said to be underway by left-wing and liberal groups in the U.S. to
  - [https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship](https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-10 12:00:09+00:00
- - tags: twitter,twitter files
 
 Elon Musk has been releasing parts of the so-called 'Twitter Files' for more than a week. But much of the country, including liberal media and major tech CEOs are all but ignoring them.
 
@@ -721,3 +720,4 @@ Catherine Zeta-Jones feared she gave husband Michael Douglas a "heart attack" wh
  - date published: 2022-12-10 00:08:09+00:00
 
 Medical experts share why people shouldn't prolong their bathroom visits. Adverse effects include hemorrhoids, constipation, muscle and bone pain, skin irritation and more.
+

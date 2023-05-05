@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Ramesh Balwani, No. 2 Theranos Executive, Is Sentenced for Fraud
  - [https://www.nytimes.com/2022/12/07/technology/sunny-balwani-theranos-sentenced.html](https://www.nytimes.com/2022/12/07/technology/sunny-balwani-theranos-sentenced.html)
@@ -34,3 +34,4 @@ New start-ups and other social platforms sense opportunity as Twitter grapples w
  - date published: 2022-12-07 04:28:24+00:00
 
 The move appears to be an olive branch to the Federal Trade Commission, which could vote to block the $69 billion acquisition in a closed-door session on Thursday.
+

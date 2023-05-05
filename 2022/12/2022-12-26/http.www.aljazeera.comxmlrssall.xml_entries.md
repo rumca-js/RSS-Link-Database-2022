@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Winter freeze strains pipes, water infrastructure in US South
  - [https://www.aljazeera.com/news/2022/12/26/winter-freeze-strains-pipes-water-infrastructure-in-us-south](https://www.aljazeera.com/news/2022/12/26/winter-freeze-strains-pipes-water-infrastructure-in-us-south)
@@ -265,3 +265,4 @@ Commuters in Beijing and Shanghai are crowding roads and public transport as cit
  - date published: 2022-12-26 03:52:14+00:00
 
 Ten people were initially feared buried, but rescue workers say eight have since been identified and accounted for.
+

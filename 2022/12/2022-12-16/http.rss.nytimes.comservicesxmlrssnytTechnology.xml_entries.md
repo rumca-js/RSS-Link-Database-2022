@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## DeSantis May Snub Big Tech Inaugural Donations, Strategists Say
  - [https://www.nytimes.com/2022/12/16/us/politics/florida-desantis-tech-donations.html](https://www.nytimes.com/2022/12/16/us/politics/florida-desantis-tech-donations.html)
@@ -48,3 +48,4 @@ Why the Twitter owner’s ruthless, unsparing style has made him a hero to many 
  - date published: 2022-12-16 01:58:28+00:00
 
 The social media service, which is owned by Elon Musk, said the accounts were suspended for “violating the Twitter rules” but did not provide details.
+

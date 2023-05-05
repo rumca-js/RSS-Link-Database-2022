@@ -1,4 +1,11 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## What new transcripts on Jan. 6 may reveal about Trump's mindset
+ - [https://www.cnn.com/videos/politics/2022/12/28/adam-schiff-congressman-january-6-committee-donald-trump-transcripts-pardon-tsr-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/28/adam-schiff-congressman-january-6-committee-donald-trump-transcripts-pardon-tsr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-28 23:26:08+00:00
+
+New transcripts reveal how Donald Trump approached the aftermath of the January 6 insurrection at the US Capitol, including pushing for pardons for those around him. Rep. Adam Schiff (D-CA) weighs in on the details with CNN's Wolf Blitzer.
 
 ## Guns temporarily banned from Brazil's capital ahead of Lula da Silva's inauguration
  - [https://www.cnn.com/2022/12/28/americas/brazil-firearms-brasilia-ban-intl-latam/index.html](https://www.cnn.com/2022/12/28/americas/brazil-firearms-brasilia-ban-intl-latam/index.html)
@@ -358,3 +365,4 @@ CNN's Gloria Borger and legal analyst Jennifer Rodgers react to newly-released t
  - date published: 2022-12-28 00:59:34+00:00
 
 Sudden flooding caused immediate evacuation for tourists visiting a World Heritage Site in Petra, Jordan.
+

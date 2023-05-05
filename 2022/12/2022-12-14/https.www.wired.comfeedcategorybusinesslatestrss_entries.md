@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## How Should You Cut Through the Noise of This Year’s Headlines?
  - [https://www.wired.com/story/how-should-you-cut-through-the-noise-of-this-years-biggest-headlines/](https://www.wired.com/story/how-should-you-cut-through-the-noise-of-this-years-biggest-headlines/)
@@ -13,3 +13,4 @@ WIRED's editor in chief reflects on a cacophonous year in Big Tech, crypto, and 
  - date published: 2022-12-14 00:27:21+00:00
 
 The suit claims the company lacks adequate moderation to prevent widespread hate speech that has led to violence and death.
+

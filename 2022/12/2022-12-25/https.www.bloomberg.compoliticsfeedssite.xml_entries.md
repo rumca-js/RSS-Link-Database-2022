@@ -1,4 +1,11 @@
-# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
+
+## Teen Arrested for Giving Out Bogus Parking Tickets to Collect Fines
+ - [https://www.bloomberg.com/news/articles/2022-12-25/california-19-year-old-arrested-in-bogus-parking-ticket-scam](https://www.bloomberg.com/news/articles/2022-12-25/california-19-year-old-arrested-in-bogus-parking-ticket-scam)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-25 20:50:28+00:00
+
+Santa Cruz, Calif. (AP) -- A 19-year-old man designed fake parking tickets and put them on cars near the beach in Northern California last week in the hopes of collecting real payments, authorities said.
 
 ## Jackson Residents Told to Boil Water as Water Lines Burst
  - [https://www.bloomberg.com/news/articles/2022-12-25/boil-water-order-issued-in-mississippi-capital-amid-freeze](https://www.bloomberg.com/news/articles/2022-12-25/boil-water-order-issued-in-mississippi-capital-amid-freeze)
@@ -126,6 +133,13 @@ SLOVIANSK UKRAINE - DECEMBER 24: Children receive presents from an Ukrainian sol
 
 With Russia’s invasion now into its 11th month, President Vladimir Putin said the absence of talks to stop the war is not Moscow’s fault. “It’s not we who refuse negotiations, but they,” Putin said in a TV interview. Russia is prepared to discuss “acceptable outcomes,” he added.
 
+## Dozens of Rohingya Found on Indonesian Beach After Weeks at Sea
+ - [https://www.bloomberg.com/news/articles/2022-12-25/58-rohingya-muslims-land-on-beach-in-indonesia-s-aceh](https://www.bloomberg.com/news/articles/2022-12-25/58-rohingya-muslims-land-on-beach-in-indonesia-s-aceh)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-25 07:34:49+00:00
+
+Banda Aceh, Indonesia (AP) -- Dozens of hungry and weak Rohingya Muslims were found on a beach in Indonesia’s northernmost province of Aceh on Sunday after weeks at sea, officials said.
+
 ## 4 NGOs Suspend Work in Afghanistan After Taliban Bar Women
  - [https://www.bloomberg.com/news/articles/2022-12-25/us-slams-taliban-for-women-s-ngo-jobs-ban-in-afghanistan](https://www.bloomberg.com/news/articles/2022-12-25/us-slams-taliban-for-women-s-ngo-jobs-ban-in-afghanistan)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
@@ -146,3 +160,4 @@ WINDSOR, ENGLAND - DECEMBER 13: In this image released on December 23, King Char
  - date published: 2022-12-25 00:03:15+00:00
 
 Rishi Sunak has been urged to drop "unspeakably cruel" policies to lift half a million children out of poverty.
+

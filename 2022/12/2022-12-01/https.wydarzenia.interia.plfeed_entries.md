@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Awantura w Sejmie ws. uchwały dotyczącej Rosji
  - [https://wydarzenia.interia.pl/kraj/news-awantura-w-sejmie-ws-uchwaly-dotyczacej-rosji,nId,6446812](https://wydarzenia.interia.pl/kraj/news-awantura-w-sejmie-ws-uchwaly-dotyczacej-rosji,nId,6446812)
@@ -607,3 +607,4 @@
  - date published: 2022-12-01 04:33:38+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-281-dzien-inwazji-rosji-relacja-na-zywo,nzId,3466,akt,010739"><img align="left" alt="Wojna w Ukrainie. 281. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-281-dzien-inwazji-rosji-relacja-na-zywo/000GF8IUGP95W5YH-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Zapraszamy do śledzenia naszej relacji na żywo.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Streisand Effect’: Elon Musk Bans Account That He Said He Wouldn’t, Unbans It, Then Bans It Again
  - [https://www.dailywire.com/news/streisand-effect-elon-musk-bans-account-that-he-said-he-wouldnt-unbans-it-then-bans-it-again](https://www.dailywire.com/news/streisand-effect-elon-musk-bans-account-that-he-said-he-wouldnt-unbans-it-then-bans-it-again)
@@ -349,3 +349,4 @@ VATICAN CITY— Rights to the Vatican Museums&#8217; priceless trove of art trea
  - date published: 2022-12-14 09:15:46+00:00
 
 Jack Dorsey took the blame for the mess Elon Musk inherited at Twitter, writing in a Tuesday blog post that he took his hands off the wheel when a big investor tried to oust him from the platform he co-founded. Musk, who bought the company for $44 billion in October, has been systematically uncovering and ...
+

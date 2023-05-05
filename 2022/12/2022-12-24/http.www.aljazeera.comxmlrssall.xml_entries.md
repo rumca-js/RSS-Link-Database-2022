@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Suspect in Paris shooting transferred to psychiatric unit
  - [https://www.aljazeera.com/news/2022/12/24/suspect-in-paris-shooting-transferred-to-psychiatric-unit](https://www.aljazeera.com/news/2022/12/24/suspect-in-paris-shooting-transferred-to-psychiatric-unit)
@@ -223,3 +223,4 @@ Myanmar&#039;s military accused of deliberately planting landmines to target civ
  - date published: 2022-12-24 00:01:11+00:00
 
 A United States judge ruled that Republican Abraham Hamadeh failed to prove claims about errors in vote counting.
+

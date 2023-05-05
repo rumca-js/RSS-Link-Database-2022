@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Peru Deploys Soldiers in Second-Largest City to End Violent Protests
  - [https://www.wsj.com/articles/peru-deploys-soldiers-in-second-largest-city-to-end-violent-protests-11671059926](https://www.wsj.com/articles/peru-deploys-soldiers-in-second-largest-city-to-end-violent-protests-11671059926)
@@ -125,3 +125,4 @@ A wave of drones struck Kyiv, with explosions reported in the historical center 
  - date published: 2022-12-14 08:25:00+00:00
 
 The annual rate of inflation fell in November, a fresh sign that the surge in consumer prices around the world since early last year is easing as household spending power declines and central banks push borrowing costs higher.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ramaphosa Vows to Fight Impeachment Report and Seek Re-election
  - [https://www.nytimes.com/2022/12/03/world/africa/south-africa-cyril-ramaphosa-impeachment.html](https://www.nytimes.com/2022/12/03/world/africa/south-africa-cyril-ramaphosa-impeachment.html)
@@ -97,3 +97,4 @@ The Kremlin reaffirmed a stance that both Washington and Kyiv find unacceptable,
  - date published: 2022-12-03 00:35:50+00:00
 
 Ukraine’s president called for legislation to prevent an ancient branch of the Orthodox Church, led by a Putin ally, from operating in his country, but it remains unclear how that would work.
+

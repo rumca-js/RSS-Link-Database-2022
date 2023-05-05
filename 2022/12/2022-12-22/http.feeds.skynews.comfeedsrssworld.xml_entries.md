@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Disgraced 'crypto king' Sam Bankman-Fried released on $250m bail - the largest in pre-trial history
  - [https://news.sky.com/story/disgraced-crypto-king-sam-bankman-fried-released-on-250m-bail-the-largest-in-pre-trial-history-12773330](https://news.sky.com/story/disgraced-crypto-king-sam-bankman-fried-released-on-250m-bail-the-largest-in-pre-trial-history-12773330)
@@ -27,6 +27,13 @@ Rishi Sunak and Ursula von der Leyen have insisted they will work together to fi
  - date published: 2022-12-22 15:05:00+00:00
 
 In a bunker below the fiercely contested city of Bakhmut, a jihadi commander with a half a million-dollar Russian bounty on his head, joins his men in prayer.
+
+## The glimmers of hope and reasons to be cheerful as 2022 ends
+ - [https://news.sky.com/story/adam-boulton-the-glimmers-of-hope-and-reasons-to-be-cheerful-as-2022-ends-12773139](https://news.sky.com/story/adam-boulton-the-glimmers-of-hope-and-reasons-to-be-cheerful-as-2022-ends-12773139)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-22 12:53:00+00:00
+
+2022 has been a tough year, in which the UK has often been hit harder than its peer countries in the G7 &#8211; the club of the world's wealthiest democracies.
 
 ## Guinea-born Italian rugby star accepts apology after being given rotten banana in club's Secret Santa
  - [https://news.sky.com/story/cherif-traore-guinea-born-italian-rugby-star-says-i-want-to-forgive-as-he-accepts-apology-after-being-given-rotten-banana-in-clubs-secret-santa-12773097](https://news.sky.com/story/cherif-traore-guinea-born-italian-rugby-star-says-i-want-to-forgive-as-he-accepts-apology-after-being-given-rotten-banana-in-clubs-secret-santa-12773097)
@@ -76,3 +83,4 @@ Into a buttoned-up, power-dressed chamber of US politicians entered the man of w
  - date published: 2022-12-22 02:18:00+00:00
 
 Benjamin Netanyahu has said he has successfully secured a deal to form a new coalition government following weeks of negotiations with religious and far-right partners.
+

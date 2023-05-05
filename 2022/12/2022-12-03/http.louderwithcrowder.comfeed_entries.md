@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Kevin Costner goes off on environmental bureaucrats in 'Yellowstone' and America needs to see it
  - [https://www.louderwithcrowder.com/yellowstone-environmental-bureaucrats](https://www.louderwithcrowder.com/yellowstone-environmental-bureaucrats)
@@ -60,3 +60,4 @@
 <a href="https://youtu.be/GNyXLR3pUxA" target="_blank">youtu.be</a>
 </small>
 </p>
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Mauna Loa Eruption In Hawaii Draws Sightseers As Lava Approaches Critical Highway
  - [https://www.forbes.com/sites/ericmack/2022/12/01/mauna-loa-eruption-in-hawaii-draws-sightseers-as-lava-approaches-critical-highway/](https://www.forbes.com/sites/ericmack/2022/12/01/mauna-loa-eruption-in-hawaii-draws-sightseers-as-lava-approaches-critical-highway/)
@@ -622,3 +622,4 @@ iPhone 14 Pro and Pro Max buyers are in for a shock...
  - date published: 2022-12-01 00:32:45+00:00
 
 AirPods Pro 2 look the same, but they are a massive upgrade on AirPods Pro. These are the big differences...
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: Harry and Meghan's 'bombshell' and calls to end strikes
  - [https://www.bbc.co.uk/news/blogs-the-papers-63829611?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63829611?at_medium=RSS&at_campaign=KARANGA)
@@ -622,3 +622,4 @@ BBC Analysis editor Ros Atkins looks at why millions of UK homes don’t have ad
  - date published: 2022-12-01 00:01:04+00:00
 
 Studies show less than 5% of the music industry is female. This business is trying to change that.
+

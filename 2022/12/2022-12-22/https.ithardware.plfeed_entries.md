@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Samsung zmniejsza produkcję budżetowej serii. Następca smartfona nie trafi na rynek?
  - [https://ithardware.pl/aktualnosci/samsung_zmniejsza_produkcje_budzetowej_serii_nastepca_smartfona_nie_trafi_na_rynek-25002.html](https://ithardware.pl/aktualnosci/samsung_zmniejsza_produkcje_budzetowej_serii_nastepca_smartfona_nie_trafi_na_rynek-25002.html)
@@ -143,3 +143,4 @@ Sound Blaster X4...
 
 <img src="https://ithardware.pl/artykuly/min/24986_1.jpg" />            Najwyraźniej Microsoft jeszcze nie skończył zakup&oacute;w i już planuje kolejne duże przejęcie, kt&oacute;re może odbić się jeszcze większym echem niż wykupienie Activision Blizzard. Tak przynajmniej przekonuje agencja Reuters, kt&oacute;ra...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/microsoft_moze_szykowac_kolejne_gigantyczne_przejecie_tym_razem_chodzi_o_netflixa-24986.html">https://ithardware.pl/aktualnosci/microsoft_moze_szykowac_kolejne_gigantyczne_przejecie_tym_razem_chodzi_o_netflixa-24986.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Sam Bankman-Fried and Allies’ Political Donations Under Scrutiny by U.S.
  - [https://www.nytimes.com/2022/12/17/us/politics/sam-bankman-fried-political-donations-doj.html](https://www.nytimes.com/2022/12/17/us/politics/sam-bankman-fried-political-donations-doj.html)
@@ -34,3 +34,4 @@ John Carmack, who was chief technology officer of Oculus, which Meta bought, is 
  - date published: 2022-12-17 00:12:35+00:00
 
 Elon Musk’s moves this week set off a heated debate about complex issues of free speech and online censorship.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Microsoft says it will bring Call of Duty to Nintendo
  - [https://www.washingtonpost.com/video-games/2022/12/06/call-duty-nintendo-microsoft-sony-xbox/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/06/call-duty-nintendo-microsoft-sony-xbox/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ Elon Musk has said little about what Twitter should do to give people a voice wh
  - date published: 2022-12-06 06:00:54+00:00
 
 ChatGPT is a conversational AI project from OpenAI that's been generating funny and sometimes insightful answers to questions.
+

@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Kumoch: Zależy nam na Ukrainie, która wierzy w siebie. Chcemy z nią współtworzyć region [WYWIAD]
  - [https://forsal.pl/swiat/ukraina/artykuly/8616895,kumoch-zalezy-nam-na-ukrainie-ktora-wierzy-w-siebie-wywiad.html](https://forsal.pl/swiat/ukraina/artykuly/8616895,kumoch-zalezy-nam-na-ukrainie-ktora-wierzy-w-siebie-wywiad.html)
@@ -412,3 +412,4 @@
  - date published: 2022-12-23 05:00:15+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/Zm9ktkuTURBXy81ODAyYzhkYy01Y2U5LTRiYTMtOGQ5ZS1hMWJjODE5ZjQ5MzguanBlZ5GTBc0BHcyg" />Wiele gospodarek może stanąć w obliczu „nieznacznej recesji” w pierwszym kwartale, co doprowadzi do spowolnienia tempa podwyżek stóp procentowych przez wiele banków centralnych i automatycznie uczyni złoto bardziej atrakcyjnym.
+

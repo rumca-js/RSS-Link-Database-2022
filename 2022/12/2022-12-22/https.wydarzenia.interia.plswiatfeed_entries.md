@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Prime time dla Zełenskiego w USA. W tle egzystencjalne interesy Polski
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-prime-time-dla-zelenskiego-w-usa-w-tle-egzystencjalne-intere,nId,6488985](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-prime-time-dla-zelenskiego-w-usa-w-tle-egzystencjalne-intere,nId,6488985)
@@ -62,3 +62,4 @@
  - date published: 2022-12-22 04:33:16+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-302-dzien-inwazji-rosji-relacja-na-zywo,nzId,3531,akt,221230"><img align="left" alt="Wojna w Ukrainie. 302. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-302-dzien-inwazji-rosji-relacja-na-zywo/000GIV5K6VVTGTSK-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Premier Holandii: Nie zamierzamy wypłacać żadnych reperacji w związku z kolonialną przeszłością
  - [https://www.bankier.pl/wiadomosc/Premier-Holandii-Nie-zamierzamy-wyplacac-zadnych-reperacji-w-zwiazku-z-kolonialna-przeszloscia-8458519.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Premier-Holandii-Nie-zamierzamy-wyplacac-zadnych-reperacji-w-zwiazku-z-kolonialna-przeszloscia-8458519.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -391,3 +391,4 @@ recesji. Analitycy BM BNP Paribas wskazują, w co w takim otoczeniu inwestować.
  - date published: 2022-12-16 00:04:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/f/ef20d68daecec3-948-568-12-75-987-592.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Archiwa Narodowe USA opublikowały w czwartek kolejną transzę ponad 13 tys. dokumentów, mających związek z zabójstwem prezydenta Johna F. Kennedy'ego. Według archiwów, wciąż niejawne pozostaje ok. 3 proc. dokumentów.</p>
+

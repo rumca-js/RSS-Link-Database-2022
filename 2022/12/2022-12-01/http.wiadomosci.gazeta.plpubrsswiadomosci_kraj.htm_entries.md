@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Pogoda. "Jęzor chłodu" naciera na Polskę od wschodu. Czeka nas "starcie gigantów"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29211104,jezor-chlodu-naciera-na-polske-od-wschodu-czeka-nas-starcie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29211104,jezor-chlodu-naciera-na-polske-od-wschodu-czeka-nas-starcie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -125,3 +125,4 @@
  - date published: 2022-12-01 06:57:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/cb/33/1b/z28520907M,Akcja-CBSP---zdjecie-ilustracyjne.jpg" vspace="2" />Do strzelaniny w Straszynie doszło we wtorek, jednak ze względu na dobro śledztwa funkcjonariusze nie udzielali zbyt wielu informacji. Teraz wiadomo, że akcja CBŚP dotyczyła działania grupy przestępczej nielegalnie handlującej bronią. W ramach śledztwa zatrzymano 13 osób oraz przejęto 146 sztuk broni palnej i dwa tysiące sztuk amunicji.
+

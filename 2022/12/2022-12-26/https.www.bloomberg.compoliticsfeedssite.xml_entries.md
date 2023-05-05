@@ -1,4 +1,11 @@
-# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
+
+## Serbian Army Put on Highest Alert Over Kosovo Tensions
+ - [https://www.bloomberg.com/news/articles/2022-12-26/serbian-army-put-on-highest-alert-over-kosovo-tensions](https://www.bloomberg.com/news/articles/2022-12-26/serbian-army-put-on-highest-alert-over-kosovo-tensions)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-26 23:54:39+00:00
+
+Serbia’s President Aleksandar Vucic has ordered the nation’s army on full alert after weeks of rising tensions in neighboring Kosovo where the local Serb minority has been confronting the authorities over new registration requirements, putting up road blockades and holding protests that threaten to tip into violence, the defense ministry says.
 
 ## Iran Compels Jet to Land, Removes Family of Football Icon Ali Daei
  - [https://www.bloomberg.com/news/articles/2022-12-26/iran-detains-flight-carrying-family-of-famed-footballer-daei](https://www.bloomberg.com/news/articles/2022-12-26/iran-detains-flight-carrying-family-of-famed-footballer-daei)
@@ -28,6 +35,13 @@ ZONGULDAK, TURKEY - JULY 29: Fatih and Kanuni drilling ships are seen as Kanuni 
 
 China will scrap all quarantine measures for Covid-19 from Jan. 8, including requirements for inbound visitors, according to the National Health Commission, Bloomberg News reports.The country will also downgrade Covid-control measures to the ‘Category-B’ level.
 
+## More Rohingya Refugees Reach Indonesia After Weeks at Sea
+ - [https://www.bloomberg.com/news/articles/2022-12-26/more-rohingya-refugees-reach-indonesia-after-weeks-at-sea](https://www.bloomberg.com/news/articles/2022-12-26/more-rohingya-refugees-reach-indonesia-after-weeks-at-sea)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-26 15:46:43+00:00
+
+Pidie, Indonesia (AP) -- A second group in two days of weak and exhausted Rohingya Muslims landed on a beach in Indonesia’s northernmost province of Aceh on Monday after weeks at sea, officials said.
+
 ## Argentina’s Fernandez Now Says He’ll Comply With Top Court Order
  - [https://www.bloomberg.com/news/articles/2022-12-26/argentina-s-fernandez-now-says-he-ll-comply-with-top-court-order](https://www.bloomberg.com/news/articles/2022-12-26/argentina-s-fernandez-now-says-he-ll-comply-with-top-court-order)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
@@ -41,6 +55,13 @@ Argentina’s national government will comply with a Supreme Court order that ca
  - date published: 2022-12-26 14:27:10+00:00
 
 Buffalo, N.Y. (AP) -- 27 storm-related deaths reported in western New York as nation’s death toll from storm rises to at least 48.
+
+## Ninety People Cross English Channel in Two Boats on Christmas Day
+ - [https://www.bloomberg.com/news/articles/2022-12-26/ninety-people-cross-english-channel-in-two-boats-on-christmas-day](https://www.bloomberg.com/news/articles/2022-12-26/ninety-people-cross-english-channel-in-two-boats-on-christmas-day)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-26 13:04:51+00:00
+
+Ninety people crossed the English Channel in two small boats on Christmas Day.
 
 ## China’s Xi Urges Better Hygiene as Nation Continues Covid Shift
  - [https://www.bloomberg.com/news/articles/2022-12-26/china-s-xi-urges-better-personal-hygiene-knowledge-in-covid-policy-shift](https://www.bloomberg.com/news/articles/2022-12-26/china-s-xi-urges-better-personal-hygiene-knowledge-in-covid-policy-shift)
@@ -98,6 +119,13 @@ Japanese Prime Minister Fumio Kishida plans to replace the fourth minister since
 
 Seoul, South Korea (AP) -- South Korea's military fired warning shots and scrambled aircraft after North Korean drones entered the South’s airspace on Monday, South Korean officials said, days after the North launched two ballistic missiles in its latest testing activities.
 
+## Pakistan Troops Search for Attackers After 6 Soldiers Killed
+ - [https://www.bloomberg.com/news/articles/2022-12-26/pakistan-troops-search-for-attackers-after-6-soldiers-killed](https://www.bloomberg.com/news/articles/2022-12-26/pakistan-troops-search-for-attackers-after-6-soldiers-killed)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-26 07:24:38+00:00
+
+Quetta, Pakistan (AP) -- Pakistani forces on Monday expanded their search for the perpetrators behind multiple attacks that killed six troops and wounded 17 civilians in a restive southwestern province the previous day.
+
 ## From House Prices to Oat Milk Recycling, Here Are Our Predictions for 2023
  - [https://www.bloomberg.com/news/articles/2022-12-26/uk-predictions-2023-house-prices-prospect-of-general-election-chatgpt](https://www.bloomberg.com/news/articles/2022-12-26/uk-predictions-2023-house-prices-prospect-of-general-election-chatgpt)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
@@ -125,3 +153,4 @@ China sent 71 warplanes as a part of its biggest display of military might near 
  - date published: 2022-12-26 01:13:11+00:00
 
 Brazil will reevaluate the procedures for President elect Luiz Inacio Lula da Silva’s inauguration after an explosive near capital Brasilia’s international airport was disarmed Saturday, the country’s incoming justice minister said.
+

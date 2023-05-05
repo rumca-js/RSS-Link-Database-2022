@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Na ulice wyszło sto tysięcy pielęgniarek. Premier woli "zaakceptować powszechne zakłócenia, niż podnieść płace"
  - [https://tvn24.pl/biznes/ze-swiata/anglia-irlandia-polnocna-walia-strajk-pielegniarek-premier-rishi-sunak-o-podwyzce-plac-dla-personelu-medycznego-6546535?source=rss](https://tvn24.pl/biznes/ze-swiata/anglia-irlandia-polnocna-walia-strajk-pielegniarek-premier-rishi-sunak-o-podwyzce-plac-dla-personelu-medycznego-6546535?source=rss)
@@ -31,3 +31,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-9qtegx-shutterstock1617546253-6546445/alternates/LANDSCAPE_1280" />
     Deklaracja natychmiastowego umieszczenia Rafinerii Gdańskiej w wykazie podmiotów chronionych, zawartym w rozporządzeniu Rady Ministrów wywołuje bardzo niepokojąca konstatacje - powiedział w rozmowie z TVN24 Biznes prof. Tomasz Siemiątkowski, adwokat i kierownik Katedry Prawa Gospodarczego w Szkole Głównej Handlowej. Dodał odnosząc się do fuzji Lotosu i Orlenu, że niestety dzieje się to za późno o tę jedną transakcje. - I wątpliwość kolejna: czy to było tylko zwykłe partactwo decydentów, czy też taki był plan? - zauważył.
+

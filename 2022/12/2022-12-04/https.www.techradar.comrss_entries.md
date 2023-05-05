@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Chats in Google Messages are about to get even more secure
  - [https://www.techradar.com/news/chats-in-google-messages-are-about-to-get-even-more-secure](https://www.techradar.com/news/chats-in-google-messages-are-about-to-get-even-more-secure)
@@ -27,3 +27,4 @@ According to a report, Netflix is inviting tens of thousands of extra people to 
  - date published: 2022-12-04 05:00:18+00:00
 
 The Asus Zenfone 10 could be one of the best small phones, provide it does justice to the current Zenfone 9.
+

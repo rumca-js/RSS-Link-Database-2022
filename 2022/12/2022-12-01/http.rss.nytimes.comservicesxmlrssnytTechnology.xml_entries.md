@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Kanye West’s Deal to Buy Parler Unravels
  - [https://www.nytimes.com/2022/12/01/technology/kanye-west-parler.html](https://www.nytimes.com/2022/12/01/technology/kanye-west-parler.html)
@@ -41,3 +41,4 @@ The tech multibillionaire said his company, Neuralink, was seeking government ap
  - date published: 2022-12-01 01:03:08+00:00
 
 Mr. Musk, who had said the company was trying to sabotage Twitter, met with Apple’s chief executive, Tim Cook, on Wednesday.
+

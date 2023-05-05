@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Amazon Fire TV Voice Remote Pro: Is it worth the upgrade?
  - [https://www.androidauthority.com/amazon-fire-tv-voice-remote-pro-3242341/](https://www.androidauthority.com/amazon-fire-tv-voice-remote-pro-3242341/)
@@ -20,3 +20,4 @@ Xiaomi's Pro model also brings a gigantic main camera and 120W fast charging.
  - date published: 2022-12-11 13:00:19+00:00
 
 Great power, high expectations.
+

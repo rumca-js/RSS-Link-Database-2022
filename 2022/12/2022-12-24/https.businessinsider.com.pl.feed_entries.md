@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Co miesiąc biorę tydzień "urlopu", aby podróżować po świecie. Nie mówię o tym szefowi
  - [https://businessinsider.com.pl/twoje-pieniadze/praca/co-miesiac-biore-tydzien-urlopu-aby-podrozowac-po-swiecie-nie-mowie-o-tym-szefowi/ekn6tjc](https://businessinsider.com.pl/twoje-pieniadze/praca/co-miesiac-biore-tydzien-urlopu-aby-podrozowac-po-swiecie-nie-mowie-o-tym-szefowi/ekn6tjc)
@@ -132,3 +132,4 @@ Dla wielu warszawskie osiedle Bliska Wola to przykład "patodeweloperki", "beton
  - date published: 2022-12-24 07:10:00+00:00
 
 Jeśli nie uwzględniać podatków nałożonych na paliwa samochodowe, to litr zarówno niemieckiej benzyny, jak i diesla jest już o około 70 gr tańszy od paliw sprzedawanych w Polsce. Orlen względnie niską ceną na stacjach może się chwalić już tylko dzięki niższemu polskiemu opodatkowaniu, a w rzeczywistości słono za paliwa przepłacamy. Nie licząc podatków, płacimy najwięcej w Unii Europejskiej za benzynę, a za olej napędowy taniej tylko od Szwedów.
+

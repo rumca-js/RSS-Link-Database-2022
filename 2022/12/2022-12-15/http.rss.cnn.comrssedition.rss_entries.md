@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Thousands of JFK assassination documents released
  - [https://www.cnn.com/2022/12/15/politics/jfk-assassination-documents/index.html](https://www.cnn.com/2022/12/15/politics/jfk-assassination-documents/index.html)
@@ -475,3 +475,4 @@ The woman who hosted an American college student studying in France before he we
  - date published: 2022-12-15 00:53:22+00:00
 
 The man accused of attacking House Speaker Nancy Pelosi's husband, Paul, said there was "evil in Washington" and had also planned to target President Joe Biden's son Hunter, California Gov. Gavin Newsom and actor Tom Hanks, a San Francisco Police Department official testified Wednesday.
+

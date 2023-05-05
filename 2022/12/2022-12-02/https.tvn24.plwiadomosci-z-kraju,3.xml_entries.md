@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Anna Lewandowska przygotowuje Szlachetną Paczkę dla matki z czwórką dzieci. "Pamiętam, jak to jest nie mieć nic"
  - [https://tvn24.pl/polska/anna-lewandowska-przygotowuje-szlachetna-paczke-dla-matki-z-czworka-dzieci-pamietam-jak-to-jest-nie-miec-nic-6305427?source=rss](https://tvn24.pl/polska/anna-lewandowska-przygotowuje-szlachetna-paczke-dla-matki-z-czworka-dzieci-pamietam-jak-to-jest-nie-miec-nic-6305427?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Awantura w Sejmie. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-bbdgd3-antoni-macierewicz-6304586/alternates/LANDSCAPE_1280" />
     Nocna sejmowa awantura w sprawie uchwały o uznaniu Rosji za państwo sponsorujące terroryzm. PiS nieoczekiwanie i w ostatniej chwili wniosło poprawkę, której autorem miał być Antoni Macierewicz, dotyczącą odpowiedzialności Rosji także za katastrofę smoleńską. W trakcie głosowania nad zmianą w projekcie uchwały opozycyjni posłowie zerwali kworum i w efekcie do rozstrzygnięcia nie doszło.
+

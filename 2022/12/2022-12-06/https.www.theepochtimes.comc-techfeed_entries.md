@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## The Fall of Sam Bankman-Fried and His Crypto Empire: A Timeline
  - [https://www.theepochtimes.com/the-fall-of-sam-bankman-fried-and-his-crypto-empire-a-timeline_4906642.html](https://www.theepochtimes.com/the-fall-of-sam-bankman-fried-and-his-crypto-empire-a-timeline_4906642.html)
@@ -48,3 +48,4 @@ Telstra is Australia's leading telecommunications and information services compa
  - date published: 2022-12-06 03:01:48+00:00
 
 Programmers work on computers in Belgrade, Serbia, July 4, 2018. (Marko Djurica/Reuters)
+

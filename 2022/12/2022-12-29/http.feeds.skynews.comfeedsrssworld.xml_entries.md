@@ -1,4 +1,11 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
+
+## 'Toxic' social media influencer Andrew Tate arrested in Romania
+ - [https://news.sky.com/story/controversial-social-media-influencer-andrew-tate-arrested-in-romania-12776569](https://news.sky.com/story/controversial-social-media-influencer-andrew-tate-arrested-in-romania-12776569)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-29 22:24:00+00:00
+
+Social media influencer Andrew Tate has been arrested in Romania on suspicion of human trafficking, rape and forming an organised crime group, prosecutors have confirmed.
 
 ## This is what two-million-year-old ice looks like
  - [https://news.sky.com/story/camera-plunges-down-antarctica-borehole-to-reveal-earths-oldest-ice-12776347](https://news.sky.com/story/camera-plunges-down-antarctica-borehole-to-reveal-earths-oldest-ice-12776347)
@@ -77,6 +84,13 @@ Benjamin Netanyahu will be sworn in as Prime Minister of Israel for a record six
 
 A cough syrup manufactured in India has been linked to the deaths of 18 children.&#160;
 
+## Resignation of 'God's Rottweiler' shocked the world - and he continued to be controversial
+ - [https://news.sky.com/story/pope-benedict-xvi-dies-resignation-of-gods-rottweiler-shocked-the-world-and-he-continued-to-be-controversial-12776084](https://news.sky.com/story/pope-benedict-xvi-dies-resignation-of-gods-rottweiler-shocked-the-world-and-he-continued-to-be-controversial-12776084)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-29 09:07:00+00:00
+
+The death of Pope Emeritus Benedict marks an unfamiliar junction for modern Catholics.
+
 ## Ukraine war: Russia's Lavrov rejects Zelenskyy's 'peace formula'
  - [https://news.sky.com/story/ukraine-war-russias-lavrov-rejects-volodymyr-zelenskyys-peace-formula-12776003](https://news.sky.com/story/ukraine-war-russias-lavrov-rejects-volodymyr-zelenskyys-peace-formula-12776003)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -104,3 +118,4 @@ At least 16 people are dead and dozens injured in a fire at a casino and hotel i
  - date published: 2022-12-29 03:26:00+00:00
 
 At least seven people are dead and dozens injured in a fire at a casino and hotel in western Cambodia.
+

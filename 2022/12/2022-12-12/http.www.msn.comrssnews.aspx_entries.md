@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Trump’s Special Master Suit Is Dead—Now the Real Case Begins
  - [http://www.msn.com/en-us/news/us/trump-s-special-master-suit-is-dead-now-the-real-case-begins/ar-AA15cuW5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/trump-s-special-master-suit-is-dead-now-the-real-case-begins/ar-AA15cuW5?li=BBnbcA1&srcref=rss)
@@ -1173,5 +1173,6 @@
  - [http://www.msn.com/en-us/news/world/king-charles-and-queen-consort-camilla-release-christmas-card/ar-AA15a1x6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/king-charles-and-queen-consort-camilla-release-christmas-card/ar-AA15a1x6?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-12 00:03:47.113246+00:00
+
 
 

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 9 of the Best Gifts for the Soccer Player on Your List
  - [https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968](https://lifehacker.com/9-of-the-best-gifts-for-the-soccer-player-on-your-list-1849847968)
@@ -125,3 +125,4 @@
  - date published: 2022-12-02 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ylRquH7p--/c_fit,fl_progressive,q_80,w_636/9b1d0f743060843c8cd16ba4b0bc5731.jpg" /><p>For the average cookie-eating month, it’s perfectly sensible to keep a few pre-scooped cookies in the freezer for when you want a quick, freshly baked chocolate chipper. But December is no average cookie month. With a lot of cookies on the list and a short window for shipping, you’ll need a strategy. To give yourself…</p><p><a href="https://lifehacker.com/do-this-now-to-get-a-head-start-on-your-holiday-baking-1849842282">Read more...</a></p>
+

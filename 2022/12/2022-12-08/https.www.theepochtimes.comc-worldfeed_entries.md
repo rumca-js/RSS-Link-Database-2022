@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Alberta Police Reform Could Bring Civilian Oversight
  - [https://www.theepochtimes.com/alberta-police-reform-could-bring-civilian-oversight_4912553.html](https://www.theepochtimes.com/alberta-police-reform-could-bring-civilian-oversight_4912553.html)
@@ -384,3 +384,4 @@ A doctor speaks with a patient during triage at the St George Hospital in Sydney
  - date published: 2022-12-08 00:23:23+00:00
 
 Teck’s Highland Valley Copper mine in the British Columbia Interior in a file photo. Copper has been identified as a critical mineral for Canada. (The Canadian Press/Jonathan Hayward)
+

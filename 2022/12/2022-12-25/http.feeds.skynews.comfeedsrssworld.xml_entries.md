@@ -1,4 +1,25 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
+
+## This skating star and his mother fled Ukraine for the UK - now they've risked a return home
+ - [https://news.sky.com/story/ukraine-war-this-skating-star-and-his-mother-fled-kyiv-for-the-uk-now-theyve-risked-a-return-home-12773562](https://news.sky.com/story/ukraine-war-this-skating-star-and-his-mother-fled-kyiv-for-the-uk-now-theyve-risked-a-return-home-12773562)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-25 23:50:00+00:00
+
+A seven-year-old Ukrainian figure skater who fled the war to live with a host family in Bristol has returned home.&#160;&#160;
+
+## Golfing great with most pro victories of all time dies aged 83
+ - [https://news.sky.com/story/golfer-kathy-whitworth-who-clocked-most-professional-tour-victories-of-all-time-dies-aged-83-12774425](https://news.sky.com/story/golfer-kathy-whitworth-who-clocked-most-professional-tour-victories-of-all-time-dies-aged-83-12774425)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-25 23:14:00+00:00
+
+Golfer Kathy Whitworth, who clocked up more wins than any other player on a single professional tour, male or female, has died aged 83.
+
+## Putin 'needs to return to reality' after claiming he's 'ready' for Ukraine talks
+ - [https://news.sky.com/story/vladimir-putin-told-he-needs-to-come-back-to-reality-after-claiming-hes-ready-for-ukraine-talks-12774423](https://news.sky.com/story/vladimir-putin-told-he-needs-to-come-back-to-reality-after-claiming-hes-ready-for-ukraine-talks-12774423)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-25 22:40:00+00:00
+
+Ukraine has said Vladimir Putin "needs to come back to reality" in response to the Russian president's claim that he is ready to negotiate.
 
 ## Six dead after bus falls from bridge in Spain
  - [https://news.sky.com/story/six-dead-after-bus-falls-from-bridge-in-spain-12774414](https://news.sky.com/story/six-dead-after-bus-falls-from-bridge-in-spain-12774414)
@@ -55,3 +76,4 @@ Several groups providing aid in Afghanistan have suspended their operations, aft
  - date published: 2022-12-25 04:55:00+00:00
 
 Pele's family are spending Christmas Day in hospital after the Brazilian football legend's cancer progressed.
+

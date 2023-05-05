@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## 4 grudnia - czy to niedziela handlowa?
  - [https://forsal.pl/artykuly/1398040,czy-dzis-niedziela-handlowa-sklepy-otwarte-zamkniete.html](https://forsal.pl/artykuly/1398040,czy-dzis-niedziela-handlowa-sklepy-otwarte-zamkniete.html)
@@ -111,3 +111,4 @@
  - date published: 2022-12-03 08:15:32+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/2c_ktkuTURBXy8zNGI2MjgxOS02MWJmLTQ1NzctOWFmNy1hMTJhMzNlMjE2YjUuanBlZ5GTBc0BHcyg" />Koncern zbrojeniowy Northrop Grumman zaprezentował w piątek w Kalifornii najnowocześniejszy samolot bombowy B-21 Raider. Maszyna ma stać się &quot;kręgosłupem&quot; amerykańskich sił powietrznych.
+

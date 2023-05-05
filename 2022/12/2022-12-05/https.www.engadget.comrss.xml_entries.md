@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## Real ID enforcement delayed yet again — this time to 2025
  - [https://www.engadget.com/real-id-deadline-delay-2025-224526308.html?src=rss](https://www.engadget.com/real-id-deadline-delay-2025-224526308.html?src=rss)
@@ -125,3 +125,4 @@
  - date published: 2022-12-05 09:00:17+00:00
 
 <p>DHL is turning to Ford for help to electrify 60 percent of its delivery fleet by the end of the decade. On Monday, the automaker’s Pro division announced it would supply the logistics company with 2,000 <a href="https://www.engadget.com/ford-e-transit-electric-delivery-van-143144512.html">E-Transit electric vans</a> by the end of 2023. The order is part of a €7 billion investment DHL has set aside through the end of the decade to build a zero-emissions fleet. Ford notes it has already delivered some of the vans covered by the deal to DHL, and that the vehicles are handling express deliveries throughout Europe and the Americas.</p><p>While 2,000 vehicles is a drop in the ocean for a company like DHL (the company already has 27,000 EVs in its fleet), the door is open for Ford to provide DHL with more E-Transit vans. The memorandum of understanding the two signed will see Ford grant DHL access to test vehicles. They also plan to work together on new products and charging solutions. Ford isn’t the only company providing electric vans to some of the biggest parcel delivery firms on the planet. In 2019, for instance, Amazon announced it would buy <a href="https://www.engadget.com/2019-09-19-jeff-bezos-amazon-climate-change-paris-agreement.html">100,000 EVs from Rivian</a>.</p><span id="end-legacy-contents"></span><div id="688ca5710a924904a3e03366cae60f16"></div>
+

@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Man accused of hammer attack on Nancy Pelosi's husband 'named Tom Hanks as target'
  - [https://news.sky.com/story/police-officer-tells-court-he-saw-hammer-attack-on-nancy-pelosis-husband-paul-as-suspect-pleads-not-guilty-to-all-charges-12768274](https://news.sky.com/story/police-officer-tells-court-he-saw-hammer-attack-on-nancy-pelosis-husband-paul-as-suspect-pleads-not-guilty-to-all-charges-12768274)
@@ -27,6 +27,13 @@ There are two places that can tell you just about everything about why people co
  - date published: 2022-12-14 15:12:00+00:00
 
 An American sportswriter died from an aortic aneurysm while covering the World Cup in Qatar, his widow has said.
+
+## Islamic State still a threat and seeking to free 10,000 jailed fighters, experts say
+ - [https://news.sky.com/story/islamic-state-still-a-threat-and-seeking-to-free-10000-of-its-jailed-fighters-experts-say-12768069](https://news.sky.com/story/islamic-state-still-a-threat-and-seeking-to-free-10000-of-its-jailed-fighters-experts-say-12768069)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-14 14:54:00+00:00
+
+While it no longer controls vast swathes of Iraq and Syria, Islamic State remains a threat and will seek to spring 10,000 of its fighters from Syrian prisons in 2023, experts say.
 
 ## Twitter account which tracked Elon Musk's private jet is suspended
  - [https://news.sky.com/story/twitter-account-which-tracked-elon-musks-private-jet-is-suspended-12768020](https://news.sky.com/story/twitter-account-which-tracked-elon-musks-private-jet-is-suspended-12768020)
@@ -83,3 +90,4 @@ The fact that China's authorities will no longer report asymptomatic cases sound
  - date published: 2022-12-14 03:13:00+00:00
 
 A group of 90 Ukrainian judges will undergo&#160;training, provided by the UK, to carry out war crimes trials for Russian soldiers.
+

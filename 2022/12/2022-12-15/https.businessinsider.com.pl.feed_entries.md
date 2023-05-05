@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Elektrownia jądrowa w sąsiedztwie. Oto co myślą Polacy [SONDAŻ]
  - [https://businessinsider.com.pl/gospodarka/elektrownia-jadrowa-w-sasiedztwie-oto-co-mysla-polacy-sondaz/4jkeszk](https://businessinsider.com.pl/gospodarka/elektrownia-jadrowa-w-sasiedztwie-oto-co-mysla-polacy-sondaz/4jkeszk)
@@ -419,3 +419,4 @@ Kolejne po amerykańskiej Rezerwie Federalnej banki centralne ograniczają skal�
  - date published: 2022-12-15 05:00:00+00:00
 
 Porozumienie polskiego rządu z Komisją Europejską sprawia, że długo wyczekiwany przez firmy Krajowy Plan Odbudowy niebawem zostanie uruchomiony. Unijne pieniądze mogą zapobiec części zwolnień i spowolnić inflację. Trwa jednak walka z czasem. — Gdy pracodawcy zauważą światełko w tunelu, mogą wstrzymać się ze zwolnieniami, nawet chwilowo, kosztem rentowności swoich firm — mówi Business Insiderowi o branży budowlanej Dariusz Blocher, członek rady nadzorczej Budimeksu.
+

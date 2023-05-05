@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Finally! Windows Snipping Tool will add screen recording
  - [https://www.pcworld.com/article/1430275/windows-snipping-tool-will-add-screen-recording.html](https://www.pcworld.com/article/1430275/windows-snipping-tool-will-add-screen-recording.html)
@@ -501,3 +501,4 @@ Laptops</div>
 <p><em>Prices subject to change.</em></p>
 
 Computer Accessories</div>
+

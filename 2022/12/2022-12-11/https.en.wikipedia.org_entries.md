@@ -1,10 +1,7 @@
-# Source URL:https://en.wikipedia.org, Source language: en
-
 ## Mass surveillance
  - [https://en.wikipedia.org/wiki/Mass_surveillance](https://en.wikipedia.org/wiki/Mass_surveillance)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 21:01:27+00:00
- - tags: surveillance,all time
 
 Mass surveillance
 
@@ -12,7 +9,6 @@ Mass surveillance
  - [https://en.wikipedia.org/wiki/Southern_Cross_Cable#Spying_and_interception](https://en.wikipedia.org/wiki/Southern_Cross_Cable#Spying_and_interception)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:58:54+00:00
- - tags: surveillance,all time
 
 Southern Cross Cable
 
@@ -20,31 +16,13 @@ Southern Cross Cable
  - [https://en.wikipedia.org/wiki/Global_surveillance](https://en.wikipedia.org/wiki/Global_surveillance)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:58:21+00:00
- - tags: surveillance,all time
 
 Global surveillance
-
-## PRISM
- - [https://en.wikipedia.org/wiki/PRISM](https://en.wikipedia.org/wiki/PRISM)
- - RSS feed: https://en.wikipedia.org
- - date published: 2022-12-11 20:58:07+00:00
- - tags: surveillance,all time
-
-PRISM
-
-## Global surveillance disclosures (2013–present)
- - [https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))
- - RSS feed: https://en.wikipedia.org
- - date published: 2022-12-11 20:57:41+00:00
- - tags: surveillance,all time
-
-Global surveillance disclosures (2013–present)
 
 ## EARN IT Act
  - [https://en.wikipedia.org/wiki/EARN_IT_Act](https://en.wikipedia.org/wiki/EARN_IT_Act)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:56:27+00:00
- - tags: all time,earn it act,government,censorhip
 
 EARN IT Act
 
@@ -52,7 +30,6 @@ EARN IT Act
  - [https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities](https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:41:33+00:00
- - tags: surveillance
 
 Surveillance issues in smart cities
 
@@ -60,7 +37,6 @@ Surveillance issues in smart cities
  - [https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:41:13+00:00
- - tags: privacy,google
 
 Privacy concerns regarding Google
 
@@ -68,7 +44,6 @@ Privacy concerns regarding Google
  - [https://en.wikipedia.org/wiki/Censorship_by_Google](https://en.wikipedia.org/wiki/Censorship_by_Google)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:39:48+00:00
- - tags: censorship,google
 
 Censorship by Google
 
@@ -76,6 +51,6 @@ Censorship by Google
  - [https://en.wikipedia.org/wiki/Censorship_by_Facebook](https://en.wikipedia.org/wiki/Censorship_by_Facebook)
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:39:03+00:00
- - tags: censorship,facebook
 
 Censorship by Facebook
+

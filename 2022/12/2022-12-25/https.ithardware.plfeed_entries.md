@@ -1,4 +1,14 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
+
+## Redmi Note 12 Pro Speed Edition. Poznaliśmy datę premiery i częściową specyfikację smartfona
+ - [https://ithardware.pl/aktualnosci/redmi_note_12_pro_speed_edition_poznalismy_date_premiery_i_czesciowa_specyfikacje_smartfona-25038.html](https://ithardware.pl/aktualnosci/redmi_note_12_pro_speed_edition_poznalismy_date_premiery_i_czesciowa_specyfikacje_smartfona-25038.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-12-25 23:45:00+00:00
+
+<img src="https://ithardware.pl/artykuly/min/25038_1.jpg" />            Xiaomi ujawniło w chińskich mediach społecznościowych datę premiery&nbsp;smartfona&nbsp;Redmi Note 12 Pro Speed Edition. Poznaliśmy przy okazji częściową specyfikację smartfona.
+
+Redmi Note 12 Pro Speed Edition ma otrzymać 6,67-calowy ekran...
+            <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/redmi_note_12_pro_speed_edition_poznalismy_date_premiery_i_czesciowa_specyfikacje_smartfona-25038.html">https://ithardware.pl/aktualnosci/redmi_note_12_pro_speed_edition_poznalismy_date_premiery_i_czesciowa_specyfikacje_smartfona-25038.html</a></p>
 
 ## Death Stranding Director`s Cut dostępny za darmo w Epic Games Store
  - [https://ithardware.pl/aktualnosci/death_stranding_director_s_cut_dostepny_za_darmo_w_epic_games_store-25037.html](https://ithardware.pl/aktualnosci/death_stranding_director_s_cut_dostepny_za_darmo_w_epic_games_store-25037.html)
@@ -9,6 +19,16 @@
 
 Po serii odgrzewanych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/death_stranding_director_s_cut_dostepny_za_darmo_w_epic_games_store-25037.html">https://ithardware.pl/aktualnosci/death_stranding_director_s_cut_dostepny_za_darmo_w_epic_games_store-25037.html</a></p>
+
+## Death Stranding za darmo w Epic Games Store
+ - [https://ithardware.pl/aktualnosci/death_stranding_za_darmo_w_epic_games_store-25037.html](https://ithardware.pl/aktualnosci/death_stranding_za_darmo_w_epic_games_store-25037.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-12-25 22:30:00+00:00
+
+<img src="https://ithardware.pl/artykuly/min/25037_1.jpg" />            Potwierdziły się przypuszczenia. Death Stranding jest następną darmową grą w Epic Games Store, na odebranie kt&oacute;rej jak zwykle mamy tylko dobę. Wiemy też, co będzie do zgarnięcia jutro.
+
+Po serii odgrzewanych kotlet&oacute;w i...
+            <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/death_stranding_za_darmo_w_epic_games_store-25037.html">https://ithardware.pl/aktualnosci/death_stranding_za_darmo_w_epic_games_store-25037.html</a></p>
 
 ## Wyciekły grafiki promocyjne smartfonów z linii Samsung Galaxy S23
  - [https://ithardware.pl/aktualnosci/wyciekly_grafiki_promocyjne_smartfonow_z_linii_samsung_galaxy_s23-25036.html](https://ithardware.pl/aktualnosci/wyciekly_grafiki_promocyjne_smartfonow_z_linii_samsung_galaxy_s23-25036.html)
@@ -107,3 +127,4 @@ Okres świąteczny to czas radości i zabawy. Może być on jednak zakł&oacute;
 
 <img src="https://ithardware.pl/artykuly/min/25030_1.jpg" />            God of War: Ragnarok to bardzo dobre zwieńczenie nordyckich przyg&oacute;d Kratosa. Gra posiada nie tylko wysokiej jakości oprawę graficzną, ale także ciekawą fabułę, czy dobry system walki. Santa Monica Studio nie porzuciło swojego projektu po...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/god_of_war_ragnarok_dostanie_wyczekiwany_tryb-25030.html">https://ithardware.pl/aktualnosci/god_of_war_ragnarok_dostanie_wyczekiwany_tryb-25030.html</a></p>
+

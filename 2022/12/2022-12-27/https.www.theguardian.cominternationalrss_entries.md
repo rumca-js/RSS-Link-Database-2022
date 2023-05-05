@@ -1,4 +1,53 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## Australia v South Africa: second Test, day three – live
+ - [https://www.theguardian.com/sport/live/2022/dec/28/australia-v-south-africa-second-test-day-three-live](https://www.theguardian.com/sport/live/2022/dec/28/australia-v-south-africa-second-test-day-three-live)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 23:55:49+00:00
+
+<ul><li>Live updates on the Boxing Day Test</li><li>Start time in Melbourne is 10:45am/11:45pm GMT</li><li>Thoughts? Email <a href="mailto:geoff.lemon@theguardian.com">Geoff</a> or tweet <a href="https://twitter.com/GeoffLemonSport">@GeoffLemonSport</a></li></ul><p><strong>93rd over: Australia 393-3 (Head 49, Carey 15)</strong> Two slips, gully, deep backward point for Rabada, but none of them stop Carey playing a back cut that goes fine of the sweeper for four. Quality shot. </p><p><strong>92nd over: Australia 389-3 (Head 49, Carey 11)</strong> Nortje to start, as was the case yesterday, and he picks up where he left off after Carey nudges a loosener for one run. Nasty bouncer over Head’s back shoulder, squaring him up and making him duck. Head gets off strike, Carey plays off the back foot, eventually picking up a run Warner style by dropping it down into the leg side.</p> <a href="https://www.theguardian.com/sport/live/2022/dec/28/australia-v-south-africa-second-test-day-three-live">Continue reading...</a>
+
+## Reigning PDC darts champion Peter Wright knocked out by Huybrechts
+ - [https://www.theguardian.com/sport/2022/dec/27/reigning-pdc-darts-champion-peter-wright-knocked-out-by-huybrechts](https://www.theguardian.com/sport/2022/dec/27/reigning-pdc-darts-champion-peter-wright-knocked-out-by-huybrechts)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 23:42:09+00:00
+
+<ul><li>Scot capitulates after taking the first set </li><li>Belgian wins 4-1 to shock Alexandra Palace crowd</li></ul><p>Peter Wright’s PDC world title defence came to an end with a shock 4-1 third-round defeat by Kim Huybrechts.</p><p>Wright took the first set 3-0, but the Scot was badly out of sorts and Huybrechts seized the initiative by winning seven of the next eight legs at Alexandra Palace.</p> <a href="https://www.theguardian.com/sport/2022/dec/27/reigning-pdc-darts-champion-peter-wright-knocked-out-by-huybrechts">Continue reading...</a>
+
+## Donald Trump’s tax returns to be made public by US House panel on Friday
+ - [https://www.theguardian.com/us-news/2022/dec/27/donald-trump-tax-returns-release-confirmation](https://www.theguardian.com/us-news/2022/dec/27/donald-trump-tax-returns-release-confirmation)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 23:00:49+00:00
+
+<p>The House ways and means committee confirmed that the former president’s tax records from 2015 to 2021 will be released</p><p>Donald Trump’s redacted tax returns will be made public on Friday after a powerful congressional committee voted last week to release them.</p><p>A spokesperson for the US House of Representatives ways and means committee confirmed the timing of the release in a statement to Reuters on Tuesday.</p> <a href="https://www.theguardian.com/us-news/2022/dec/27/donald-trump-tax-returns-release-confirmation">Continue reading...</a>
+
+## US supreme court refuses to lift pandemic-era immigration limit
+ - [https://www.theguardian.com/law/2022/dec/27/us-supreme-court-pandemic-era-immigration-limit-title-42](https://www.theguardian.com/law/2022/dec/27/us-supreme-court-pandemic-era-immigration-limit-title-42)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 22:57:46+00:00
+
+<p>Through a 5-4 vote, the court granted a request by 19 Republican state attorneys generals to hold Title 42 in place</p><p>The US supreme court on Tuesday left in place for the time being a pandemic-era order allowing US officials to rapidly expel migrants caught at the US-Mexico border in order to consider whether 19 states could challenge the policy’s end.</p><p>The court on a 5-4 vote granted a request by a group of Republican state attorneys general to put on hold a judge’s decision invalidating the emergency order known as Title 42 while it considered whether they could intervene to challenge the ruling.</p> <a href="https://www.theguardian.com/law/2022/dec/27/us-supreme-court-pandemic-era-immigration-limit-title-42">Continue reading...</a>
+
+## ‘Atmospheric river’ pummels California with heavy rain and snow
+ - [https://www.theguardian.com/us-news/2022/dec/27/atmospheric-river-california-rains](https://www.theguardian.com/us-news/2022/dec/27/atmospheric-river-california-rains)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 22:43:47+00:00
+
+<p>While rest of US digs out from arctic blast, the Golden State sees welcome showers to mitigate dry days in coming new year</p><p>A major storm known as an “atmospheric river” is pummeling California with heavy rain and high winds, continuing <a href="https://www.theguardian.com/us-news/2022/dec/23/weather-whiplash-us-west-sunny-east-coast-bomb-cyclone">a streak of weather whiplash</a> that has jolted the state from unseasonal heat to downpours in a matter of days.</p><p>The storm, spawned by a low pressure system off the Pacific north-west, delivered deluges across the San Francisco Bay Area as it made landfall on Monday night, prompting the National Weather Service to <a href="https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&amp;wwa=flood%20advisory">issue flood advisories and watches through large parts</a> of central and northern California. The storm is forecast to soak the southern part of the state by Tuesday evening, although it will soften as it moves down the coast. Forecasters said California will experience unsettled weather through the week.</p> <a href="https://www.theguardian.com/us-news/2022/dec/27/atmospheric-river-california-rains">Continue reading...</a>
+
+## Seamus Jennings on Rishi Sunak’s VIP lane – cartoon
+ - [https://www.theguardian.com/commentisfree/picture/2022/dec/27/seamus-jennings-on-rishi-sunaks-vip-lane-cartoon](https://www.theguardian.com/commentisfree/picture/2022/dec/27/seamus-jennings-on-rishi-sunaks-vip-lane-cartoon)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 22:31:47+00:00
+
+<a href="https://www.theguardian.com/commentisfree/picture/2022/dec/27/seamus-jennings-on-rishi-sunaks-vip-lane-cartoon">Continue reading...</a>
+
+## Pep Guardiola ‘would have preferred another opponent than Leeds’ this week
+ - [https://www.theguardian.com/football/2022/dec/27/pep-guardiola-leeds-manchester-city-premier-league](https://www.theguardian.com/football/2022/dec/27/pep-guardiola-leeds-manchester-city-premier-league)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 22:30:33+00:00
+
+<ul><li>Manchester City manager wary of ‘most aggressive team’</li><li>Guardiola laments ‘terrible’ schedule of six games in January</li></ul><p>Pep Guardiola has admitted concern about Manchester City’s defending before the World Cup break with the manager warning they cannot lose any more ground on Arsenal ahead of their “terrible” January schedule.</p><p><a href="https://www.theguardian.com/football/2022/nov/12/manchester-city-brentford-premier-league-match-report">City lost 2-1 against Brentford</a> at the Etihad Stadium on 12 November in their final Premier League match before the World Cup and, before Wednesday’s game at Leeds, Guardiola admitted that his team could “not control” Ivan Toney, who scored both the visitors’ goals last month. Following <a href="https://www.theguardian.com/football/2022/dec/26/arsenal-west-ham-premier-league-match-report">Arsenal’s win against West Ham</a> on Boxing Day, Mikel Arteta’s side have a seven-point lead at the top of the table over second-placed Newcastle, but City can retake that place and reduce the lead to five points if they beat Leeds.</p> <a href="https://www.theguardian.com/football/2022/dec/27/pep-guardiola-leeds-manchester-city-premier-league">Continue reading...</a>
 
 ## Rashford outstanding in Manchester United’s cruise past Nottingham Forest
  - [https://www.theguardian.com/football/2022/dec/27/manchester-united-nottingham-forest-premier-league-match-report](https://www.theguardian.com/football/2022/dec/27/manchester-united-nottingham-forest-premier-league-match-report)
@@ -6,6 +55,13 @@
  - date published: 2022-12-27 22:13:34+00:00
 
 <p>Manchester United were faster, sharper, smarter, and classier than Nottingham Forest in recording this seventh straight win over their visitors. Erik ten Hag continues to do what he professes he must: refuse to accept his team are near to the real deal and strive to move it closer to an elite side.</p><p>This was, though, approaching the complete performance: a blend of measured attacking and rapid breaks and the constant harrying of an opponent who ended exhausted and demoralised.</p> <a href="https://www.theguardian.com/football/2022/dec/27/manchester-united-nottingham-forest-premier-league-match-report">Continue reading...</a>
+
+## Potter uncertain over extent of Reece James’s injury after Chelsea return
+ - [https://www.theguardian.com/football/2022/dec/27/potter-uncertain-over-extent-of-reece-jamess-injury-after-chelsea-return](https://www.theguardian.com/football/2022/dec/27/potter-uncertain-over-extent-of-reece-jamess-injury-after-chelsea-return)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-27 21:38:41+00:00
+
+<ul><li>Defender appeared to suffer recurrence of recent knee injury </li><li>Graham Potter: ‘We just have to hope it’s not as bad as it was’</li></ul><p>Chelsea’s manager Graham Potter has admitted it is too early to tell the severity of “world class” Reece James’s injury, after the defender suffered what appeared to be a <a href="https://www.theguardian.com/football/2022/oct/15/england-defender-reece-james-ruled-out-of-world-cup-with-knee-injury">recurrence of the knee injury</a> that ruled him out of England’s World Cup campaign during his side’s 2-0 victory over Bournemouth. </p><p>Chelsea led through first-half strikes from Kai Havertz and Mason Mount when James made what appeared to be an innocuous pass in the 49th minute. The 23-year-old – making his first appearance since picking up the initial injury <a href="https://www.theguardian.com/football/2022/oct/11/milan-chelsea-champions-league-match-report">during October’s Champions League match</a> against AC Milan – immediately signalled to the bench that he could not continue, and was soon replaced by Cesar Azpilicueta. </p> <a href="https://www.theguardian.com/football/2022/dec/27/potter-uncertain-over-extent-of-reece-jamess-injury-after-chelsea-return">Continue reading...</a>
 
 ## Labour ‘drew up plans to govern’ in case of Johnson snap election
  - [https://www.theguardian.com/politics/2022/dec/27/labour-drew-up-plans-to-govern-in-case-of-johnson-snap-election](https://www.theguardian.com/politics/2022/dec/27/labour-drew-up-plans-to-govern-in-case-of-johnson-snap-election)
@@ -713,3 +769,4 @@
  - date published: 2022-12-27 01:00:20+00:00
 
 <p>A cobalt sky, bush-covered headlands and swivelling stingray eyes: in the stillness of dawn, it’s just me and the ocean</p><p>The sea curls around my ankles as I take a bearing on one of the yellow buoys that define the “no-boat zone” at Balmoral beach. I wade in, lean forward and let the water catch my fall. I start freestyling towards the cone, the taste of salt puckering my tongue. It’s 6.45am and the sun has been up a while.</p><p>Balmoral shimmers under a cobalt sky. The sea is glassy, the temperature in the low 20s. En route to the cone, I pass over clumps of seaweed deposited by a recent storm and a small stingray etched on the bottom; the ray doesn’t move, but I sense its eyes tracking me like swivels on an antenna base. Every few strokes I look sideways and ahead, as much to avoid contact with oncoming lap swimmers as to be aware of semi-submerged figures in straw hats and sunglasses, and bent-arm backstrokers ploughing through the water like combine harvesters. </p> <a href="https://www.theguardian.com/commentisfree/2022/dec/27/a-solitary-morning-ocean-swim-is-a-salty-sanctuary-for-introverts-like-me">Continue reading...</a>
+

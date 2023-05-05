@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Amid pathetic uptake, FDA green lights confusing COVID vaccine update for kids
  - [https://arstechnica.com/?p=1903512](https://arstechnica.com/?p=1903512)
@@ -90,3 +90,4 @@ Price-to-performance is a bit better than the 4090, if you can find it at $1,200
  - date published: 2022-12-09 06:31:08+00:00
 
 <em>Hades</em> and <em>Death Stranding</em> sequels, <em>Bioshock</em>'s spiritual successor, and more.
+

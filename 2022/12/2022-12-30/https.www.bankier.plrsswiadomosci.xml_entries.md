@@ -1,4 +1,11 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
+
+## Ustępujący prezydent Bolsonaro opuścił Brazylię. Udał się do USA
+ - [https://www.bankier.pl/wiadomosc/Ustepujacy-prezydent-Bolsonaro-opuscil-Brazylie-Udal-sie-do-USA-8464942.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ustepujacy-prezydent-Bolsonaro-opuscil-Brazylie-Udal-sie-do-USA-8464942.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-30 21:14:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/f/612fede8a52576-945-560-11-315-4481-2688.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent Brazylii Jair Bolsonaro, którego kadencja upływa w niedzielę, opuścił w piątek kraj udając się do Stanów Zjednoczonych. Przed wylotem zapowiedział, że jeszcze wróci do Brazylii.</p>
 
 ## Ostatnia sesja roku w Ameryce jak cały 2022 rok
  - [https://www.bankier.pl/wiadomosc/Ostatnia-sesja-roku-w-Ameryce-jak-caly-2022-rok-8464932.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ostatnia-sesja-roku-w-Ameryce-jak-caly-2022-rok-8464932.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -71,6 +78,13 @@ kryzysu finansowego sprzed kilkunastu lat.</p>
  - date published: 2022-12-30 14:36:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/9/ab0d7631e0553e-948-567-0-15-1000-599.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Od 1 stycznia kamery monitorujące zaczną działać na Morzu Północnym w celu zabezpieczenia infrastruktury krytycznej, takiej jak turbiny wiatrowe czy podwodne rurociągi - poinformował belgijski minister ds. Morza Północnego Vincent Van Quickenborne.</p>
+
+## Były rzecznik prezydenta z posadą w państwowej spółce
+ - [https://www.bankier.pl/wiadomosc/Kensbok-i-Spychalski-wiceprezesami-Gaz-Systemu-8464743.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kensbok-i-Spychalski-wiceprezesami-Gaz-Systemu-8464743.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-30 14:29:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/b/0f809da1ab2231-948-568-0-53-3543-2125.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />NWZA Gaz-Systemu powołało od 1 stycznia 2023 r.  Andrzeja Kensboka oraz Błażeja Spychalskiego na wiceprezesów spółki.  Z dniem 31 grudnia 2022 r. odwołano też ze składu zarządu Marcina Kapkowskiego oraz Krzysztofa Jackowskiego - poinformował Gaz -System w piątek.</p>
 
 ## Rafineria Gdańska. Rząd zapewnia, że nie ma żadnego ryzyka niekontrolowanego zbycia udziałów
  - [https://www.bankier.pl/wiadomosc/Rafineria-Gdanska-Rzad-zapewnia-ze-nie-ma-zadnego-ryzyka-niekontrolowanego-zbycia-udzialow-8464732.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rafineria-Gdanska-Rzad-zapewnia-ze-nie-ma-zadnego-ryzyka-niekontrolowanego-zbycia-udzialow-8464732.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -411,3 +425,4 @@ Półki w dyskontach pełne są od piw w cenie 3-4 zł za puszkę czy butelkę, 
  - date published: 2022-12-30 00:51:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/6/e9ffa2df0c2666-945-560-77-71-2062-1237.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent Joe Biden podpisał w czwartek ustawę budżetową na kolejny rok budżetowy, która przewiduje wydatki w wysokości prawie 1,7 bln dolarów, w tym 45 mld dolarów pomocy gospodarczej i wojskowej dla Ukrainy i sojuszników z NATO. Ustawę uchwaliły wcześniej obie izby Kongresu.</p>
+

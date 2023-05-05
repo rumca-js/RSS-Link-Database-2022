@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Nowa praca Kurskiego. Glapiński: mógłby zajmować o wiele wyższe stanowiska
  - [https://tvn24.pl/biznes/z-kraju/jacek-kurski-w-banku-swiatowym-adam-glapinski-komentuje-6420282?source=rss](https://tvn24.pl/biznes/z-kraju/jacek-kurski-w-banku-swiatowym-adam-glapinski-komentuje-6420282?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Rząd tworzy specjalny rejestr dotyczący numeru PESEL. Ma chronić przed oszustami" src="https://tvn24.pl/najnowsze/cdn-zdjecie-avm4tg-dowod-osobisty-5479600/alternates/LANDSCAPE_1280" />
     Rząd utworzy specjalny rejestr, w którym po wycieku lub kradzieży danych będzie można zastrzec swój numer PESEL - informuje "Dziennik Gazeta Prawna". Po takim zastrzeżeniu nikt już nie weźmie na niego kredytu czy pożyczki - informuje w czwartek "Dziennik Gazeta Prawna".
+

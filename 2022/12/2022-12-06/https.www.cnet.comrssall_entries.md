@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 'The White Lotus' Episode 6: Who's in the Mysterious Photo Tanya Picks Up     - CNET
  - [https://www.cnet.com/culture/entertainment/the-white-lotus-episode-6-whos-in-the-mysterious-photo-tanya-picks-up/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-white-lotus-episode-6-whos-in-the-mysterious-photo-tanya-picks-up/#ftag=CADf328eec)
@@ -762,3 +762,4 @@ Bill would allow news organizations to collectively bargain with tech companies 
  - date published: 2022-12-06 00:01:34+00:00
 
 When you subscribe, you save.
+

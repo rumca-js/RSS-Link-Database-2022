@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## US Congress to posthumously honour slain teenager Emmett Till
  - [https://www.aljazeera.com/news/2022/12/21/us-congress-to-posthumously-award-slain-teenager-emmett-till](https://www.aljazeera.com/news/2022/12/21/us-congress-to-posthumously-award-slain-teenager-emmett-till)
@@ -300,3 +300,4 @@ Twitter helped promote US military’s activities in Middle East, according to a
  - date published: 2022-12-21 01:34:25+00:00
 
 Alleged murder of Cassius is the latest in a number of attacks on Australia&#039;s Indigenous children and young people.
+

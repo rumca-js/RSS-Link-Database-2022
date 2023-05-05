@@ -1,4 +1,60 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Whoopi Forced To Apologize Again For Holocaust Comments
+ - [https://www.dailywire.com/news/whoopi-forced-to-apologize-again-for-holocaust-comments](https://www.dailywire.com/news/whoopi-forced-to-apologize-again-for-holocaust-comments)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 23:00:20+00:00
+
+Whoopi Goldberg had to apologize a second time for comments about the Holocaust when she appeared to repeat the same claims that got her suspended from ABC&#8217;s &#8220;The View&#8221; in February of 2022. Goldberg provoked strong reactions when she claimed — during a discussion about the Holocaust-themed graphic novel &#8220;Maus&#8221; — that the Holocaust was ...
+
+## House Committee Picks Date To Release Trump’s Tax Returns
+ - [https://www.dailywire.com/news/house-committee-picks-date-to-release-trumps-tax-returns](https://www.dailywire.com/news/house-committee-picks-date-to-release-trumps-tax-returns)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 22:29:29+00:00
+
+Several years&#8217; worth of former President Donald Trump&#8216;s tax returns are on track to be released to the public by the end of this week. A spokesperson for the Democrat-led House Ways and Means Committee told multiple news outlets that the disclosure will take place Friday, less than a week before Republicans take control of ...
+
+## Kari Lake Files Appeal In Dismissal Of Arizona Election Lawsuit
+ - [https://www.dailywire.com/news/kari-lake-files-appeal-in-dismissal-of-arizona-election-lawsuit](https://www.dailywire.com/news/kari-lake-files-appeal-in-dismissal-of-arizona-election-lawsuit)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 21:06:10+00:00
+
+Arizona Republican gubernatorial candidate Kari Lake appealed a Maricopa County judge&#8217;s decision Tuesday to dismiss her lawsuit, which challenged her defeat against Democratic Governor-elect Katie Hobbs. Lake filed a notice of appeal in the Arizona Superior Court, which would contest two counts heard in court in a two-day trial last week and eight others initially ...
+
+## Elon Musk On Big Tech Censorship: ‘Google Frequently Makes Links Disappear’
+ - [https://www.dailywire.com/news/elon-musk-on-big-tech-censorship-google-frequently-makes-links-disappear](https://www.dailywire.com/news/elon-musk-on-big-tech-censorship-google-frequently-makes-links-disappear)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 20:34:20+00:00
+
+Twitter CEO Elon Musk said in response to the latest release of &#8220;The Twitter Files&#8221; Tuesday that Twitter was far from the only big tech company that engages in online censorship, going as far as to say that Google makes links disappear on their search engine. Musk made the remarks in response to a tweet ...
+
+## Woman Rakes In The Dough Teaching Scared Gen-Z-ers How To Actually Talk On Phones
+ - [https://www.dailywire.com/news/woman-rakes-in-the-dough-teaching-scared-gen-z-ers-how-to-actually-talk-on-phones](https://www.dailywire.com/news/woman-rakes-in-the-dough-teaching-scared-gen-z-ers-how-to-actually-talk-on-phones)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 20:29:53+00:00
+
+Mary Jane Copps is raking in thousands of dollars for teaching Generation Z-ers — who have spent most of their lives only using texts — to have actual conversations via telephone. Business Insider published a report Monday on Copps — who has dubbed herself &#8220;The Phone Lady&#8221; — revealing that she charges up to $480 ...
+
+## ‘The Wizard Of Oz’ Prop Sells At Auction For Hefty Sum
+ - [https://www.dailywire.com/news/the-wizard-of-oz-prop-sells-at-auction-for-hefty-sum](https://www.dailywire.com/news/the-wizard-of-oz-prop-sells-at-auction-for-hefty-sum)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 20:26:02+00:00
+
+One of the most iconic props in Hollywood history comes from the classic movie &#8220;The Wizard of Oz,” and it recently sold at auction for nearly $500,000. Described as the “most famous and recognizable timepiece in film history,&#8221; Margaret Hamilton&#8217;s &#8220;Wicked Witch of the West&#8221; hourglass from the 1939 MGM film sold on December 17 ...
+
+## Texas Mechanic Killed Over $500 Repair Bill Two Days Before Christmas
+ - [https://www.dailywire.com/news/texas-mechanic-killed-over-500-repair-bill-two-days-before-christmas](https://www.dailywire.com/news/texas-mechanic-killed-over-500-repair-bill-two-days-before-christmas)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 20:12:57+00:00
+
+A 29-year-old Texas mechanic and father of two girls was fatally shot two days before Christmas after a dispute with a client about a $500 repair bill. Luis Manuel Casillas was found dead near the 7600 block of North Freeway in Houston, Texas, on Friday afternoon after an unknown customer accompanied by five other men ...
+
+## Brutal Review Savages ‘Babylon’: Greatest Accomplishment Was Making ‘Brad Pitt And Margot Robbie Boring’
+ - [https://www.dailywire.com/news/brutal-review-savages-babylon-greatest-accomplishment-was-making-brad-pitt-and-margot-robbie-boring](https://www.dailywire.com/news/brutal-review-savages-babylon-greatest-accomplishment-was-making-brad-pitt-and-margot-robbie-boring)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 18:31:00+00:00
+
+Film critic Gary Kramer savaged the old-Hollywood epic comedy-drama &#8220;Babylon&#8221; in his review, calling the Damien Chazelle flick &#8220;a busy, bawdy and bad orgy of Hollywood nothingness&#8221; and suggesting it&#8217;s crowning achievement was &#8220;to make Brad Pitt and Margot Robbie boring.&#8221; The review — which was published Friday on Salon ahead of what was supposed ...
 
 ## ‘The Real Minimum Wage Is Zero’: McDonald’s Restaurant Uses Automation For Pickups And Orders
  - [https://www.dailywire.com/news/the-real-minimum-wage-is-zero-mcdonalds-restaurant-uses-automation-for-pickups-and-orders](https://www.dailywire.com/news/the-real-minimum-wage-is-zero-mcdonalds-restaurant-uses-automation-for-pickups-and-orders)
@@ -251,3 +307,4 @@ Travelers returning from Christmas excursions were stranded across the country a
  - date published: 2022-12-27 09:31:33+00:00
 
 More than a month after Ivanka Trump was a no-show at her father&#8217;s announcement that he would seek the presidency again, Donald Trump says he actually asked her and her husband Jared Kushner not to join his campaign. Ivanka, who bore the title of senior presidential adviser during her father&#8217;s term in the White House, ...
+

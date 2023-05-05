@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Amazon is offering customers $2 per month for letting the company monitor the traffic on their phones
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59734](https://www.codeproject.com/script/News/View.aspx?nwid=59734)
@@ -62,3 +62,4 @@ Time to carve out yet another new programming language
  - date published: 2022-12-07 05:00:00+00:00
 
 "Tell the world how much they love the little things in life"
+

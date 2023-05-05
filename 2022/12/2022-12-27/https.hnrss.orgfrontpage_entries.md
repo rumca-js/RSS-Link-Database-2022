@@ -1,4 +1,14 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Tesla stock marks lowest close in years as investors worry about Musk’s focus
+ - [https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk](https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-27 23:54:44+00:00
+
+<p>Article URL: <a href="https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk">https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34155585">https://news.ycombinator.com/item?id=34155585</a></p>
+<p>Points: 56</p>
+<p># Comments: 37</p>
 
 ## Added 49 volumes of Arkansas, Mississippi, and Tennessee law
  - [https://official.resource.org/@carlmalamud/109582097911957160](https://official.resource.org/@carlmalamud/109582097911957160)
@@ -433,6 +443,16 @@
 <p>Points: 43</p>
 <p># Comments: 2</p>
 
+## A Paper Internet (2010)
+ - [https://carlos.bueno.org/2010/09/paper-internet.html](https://carlos.bueno.org/2010/09/paper-internet.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-27 12:31:57+00:00
+
+<p>Article URL: <a href="https://carlos.bueno.org/2010/09/paper-internet.html">https://carlos.bueno.org/2010/09/paper-internet.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34148082">https://news.ycombinator.com/item?id=34148082</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
 ## What’s in a PR statement: LastPass breach explained
  - [https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
  - RSS feed: https://hnrss.org/frontpage
@@ -442,6 +462,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34147977">https://news.ycombinator.com/item?id=34147977</a></p>
 <p>Points: 12</p>
 <p># Comments: 1</p>
+
+## Inventing the Lisa User Interface (1997) [pdf]
+ - [http://bitsavers.org/pdf/apple/lisa/development_history/articles/Perkins_-_Inventing_the_Lisa_User_Interface_199704.pdf](http://bitsavers.org/pdf/apple/lisa/development_history/articles/Perkins_-_Inventing_the_Lisa_User_Interface_199704.pdf)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-27 12:04:49+00:00
+
+<p>Article URL: <a href="http://bitsavers.org/pdf/apple/lisa/development_history/articles/Perkins_-_Inventing_the_Lisa_User_Interface_199704.pdf">http://bitsavers.org/pdf/apple/lisa/development_history/articles/Perkins_-_Inventing_the_Lisa_User_Interface_199704.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34147937">https://news.ycombinator.com/item?id=34147937</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
 ## Jerry (YC S17) Is Hiring Tech Leader / EM 中国远程 热爱技术
  - [https://v2ex.com/t/904724#reply0](https://v2ex.com/t/904724#reply0)
@@ -674,3 +704,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34143365">https://news.ycombinator.com/item?id=34143365</a></p>
 <p>Points: 75</p>
 <p># Comments: 24</p>
+

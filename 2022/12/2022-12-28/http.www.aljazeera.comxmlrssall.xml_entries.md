@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Prosecutors to investigate US Congressman-elect over false claims
  - [https://www.aljazeera.com/news/2022/12/28/prosecutors-to-investigate-us-congressman-elect-over-false-claims](https://www.aljazeera.com/news/2022/12/28/prosecutors-to-investigate-us-congressman-elect-over-false-claims)
@@ -342,3 +342,4 @@ Kim Jong Un&#039;s remarks may mean he will continue to conduct tests and expand
  - date published: 2022-12-28 00:29:47+00:00
 
 Arizona Governor-elect Katie Hobbs sought sanctions against Republican rival Kari Lake over allegations of voter fraud.
+

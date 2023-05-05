@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Razer Deathstalker V2 Pro Review: Big keyboards are thin again
  - [https://www.pcworld.com/article/1438527/razer-deathstalker-v2-pro-review-big-keyboards-are-thin-again.html](https://www.pcworld.com/article/1438527/razer-deathstalker-v2-pro-review-big-keyboards-are-thin-again.html)
@@ -278,3 +278,4 @@ Windows</div>
 <p><em>Prices subject to change.</em></p>
 
 Shopping</div>
+

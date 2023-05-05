@@ -1,4 +1,18 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## How accurate are China’s Covid death numbers?
+ - [https://www.theguardian.com/world/2022/dec/23/how-accurate-are-chinas-covid-death-numbers](https://www.theguardian.com/world/2022/dec/23/how-accurate-are-chinas-covid-death-numbers)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-22 23:53:26+00:00
+
+<p>With one of the lowest coronavirus tolls in the world, China has been routinely accused of downplaying infections and deaths for political reasons</p><p>The sudden end to China’s controversial zero-Covid strategy caught the country’s fragile health system unprepared, with hospitals scrambling for beds, pharmacies on the hunt for drugs and authorities racing to build special clinics.</p><p>On Thursday, a senior <a href="https://www.theguardian.com/world/world-health-organization">World Health Organisation</a> official said China may be struggling to keep a tally of Covid-19 infections as it experiences a big spike in cases. Experts say China could face more than a million Covid deaths next year.</p> <a href="https://www.theguardian.com/world/2022/dec/23/how-accurate-are-chinas-covid-death-numbers">Continue reading...</a>
+
+## Guardiola hails ‘grumpy’ De Bruyne but says Phillips not ‘in best condition’
+ - [https://www.theguardian.com/football/2022/dec/22/guardiola-hails-grumpy-de-bruyne-but-says-phillips-not-in-best-condition](https://www.theguardian.com/football/2022/dec/22/guardiola-hails-grumpy-de-bruyne-but-says-phillips-not-in-best-condition)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-22 23:49:20+00:00
+
+<ul><li>Belgian showed ‘the right fire’ in win over Liverpool – Guardiola</li><li>Manager says Phillips ‘not fit’ after returning from World Cup</li></ul><p>Pep Guardiola praised the “grumpy” Kevin De Bruyne but said Kalvin Phillips’s post-World Cup condition ruled him out of <a href="https://www.theguardian.com/football/2022/dec/22/manchester-city-liverpool-carabao-cup-last-16-match-report">Manchester City’s Carabao Cup victory over Liverpool</a>.</p><p>De Bruyne created Erling Haaland’s opener and Nathan Aké’s winner yet Guardiola stated that Phillips had arrived unfit following a break after participating at Qatar 2022 with England.</p> <a href="https://www.theguardian.com/football/2022/dec/22/guardiola-hails-grumpy-de-bruyne-but-says-phillips-not-in-best-condition">Continue reading...</a>
 
 ## The peculiar history of thornapple, the hallucinogenic weed that ended up in supermarket spinach
  - [https://www.theguardian.com/australia-news/2022/dec/23/the-peculiar-history-of-thornapple-the-hallucinogenic-weed-that-ended-up-in-supermarket-spinach](https://www.theguardian.com/australia-news/2022/dec/23/the-peculiar-history-of-thornapple-the-hallucinogenic-weed-that-ended-up-in-supermarket-spinach)
@@ -13,6 +27,13 @@
  - date published: 2022-12-22 23:30:11+00:00
 
 <p>Oxford University’s Panoramic trial suggests molnupiravir can speed up recovery in vaccinated but vulnerable patients</p><p>An oral antiviral pill for Covid speeds up recovery among vaccinated yet vulnerable patients, but does not reduce their likelihood of needing hospital care or dying, research has suggested.</p><p>The UK became the first country in the world in November 2021 <a href="https://www.theguardian.com/world/2021/nov/04/uk-is-first-to-approve-oral-antiviral-pill-molnupiravir-to-treat-covid">to approve molnupiravir for Covid</a>, with the pill – which can be taken twice a day at home – given to patients through the Panoramic (Platform Adaptive trial of NOvel antiviRals for eArly treatMent of Covid-19 In the Community) trial.</p> <a href="https://www.theguardian.com/world/2022/dec/22/molnupiravir-pill-for-covid-does-not-reduce-risk-of-hospitalisation-or-death-uk-study-finds">Continue reading...</a>
+
+## Meg Lanning to return as Australia captain for Pakistan ODI series
+ - [https://www.theguardian.com/sport/2022/dec/23/meg-lanning-to-return-as-australia-captain-for-pakistan-odi-series](https://www.theguardian.com/sport/2022/dec/23/meg-lanning-to-return-as-australia-captain-for-pakistan-odi-series)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-22 23:27:58+00:00
+
+<ul><li>Lanning took extended break from game in August this year</li><li>Australia to play three-match 50-over series in January</li></ul><p>Australia captain Meg Lanning will return to international cricket for the upcoming one-day international series against Pakistan. One of the game’s all-time greats took an extended break in August following Australia’s ODI World Cup triumph and a Commonwealth Games gold medal in Birmingham.</p><p>She announced she would miss the WBBL season and instead embark on an international holiday to explore alternative career options. Significantly, Lanning is returning as captain. </p> <a href="https://www.theguardian.com/sport/2022/dec/23/meg-lanning-to-return-as-australia-captain-for-pakistan-odi-series">Continue reading...</a>
 
 ## Sure, moaning about ‘nepo babies’ is fun – but we're missing the bigger problem | Rebecca Shaw
  - [https://www.theguardian.com/commentisfree/2022/dec/23/sure-moaning-about-nepo-babies-is-fun-but-were-missing-the-bigger-problem](https://www.theguardian.com/commentisfree/2022/dec/23/sure-moaning-about-nepo-babies-is-fun-but-were-missing-the-bigger-problem)
@@ -34,6 +55,13 @@
  - date published: 2022-12-22 22:20:38+00:00
 
 <p>After the appeal for calm caused by the ill-tempered history of this fixture, Manchester City and Liverpool produced a festive treat that hurtled along at 100mph and contained zero hint of niggle until the 77th minute.</p><p>At that point, Fabinho, on as a substitute, scissor-tackled Rodri, who took issue, and suddenly there was a melee featuring a shoving Jordan Henderson and Ilkay Gündogan flying into the fray. The upshot was bookings for the first two, and this proving the tie’s rarest of flash points.</p> <a href="https://www.theguardian.com/football/2022/dec/22/manchester-city-liverpool-carabao-cup-last-16-match-report">Continue reading...</a>
+
+## Alleged kingpin of global drug trafficking syndicate faces court after being extradited to Australia
+ - [https://www.theguardian.com/australia-news/2022/dec/23/alleged-kingpin-of-global-drug-trafficking-syndicate-faces-court-after-being-extradited-to-australia](https://www.theguardian.com/australia-news/2022/dec/23/alleged-kingpin-of-global-drug-trafficking-syndicate-faces-court-after-being-extradited-to-australia)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-22 22:15:57+00:00
+
+<p>Australian federal police described the arrest of Canadian national Tse Chi Lop as ‘one of the most significant arrests’ in its history</p><ul><li><strong><a href="https://www.theguardian.com/australia-news/live/2022/dec/23/australia-news-live-cap-on-price-of-gas-comes-into-effect-cyclone-warning-for-parts-of-nt-and-wa">Follow our Australia news live blog for the latest updates</a></strong></li><li><strong>Get our <a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></strong></li></ul><p>The alleged kingpin of a global drug trafficking syndicate has been extradited to Melbourne in what federal police have described as one of the most significant arrests in their history.</p><p>The Australian federal police charged Canadian national Tse Chi Lop after a decade-long investigation into transnational organised crime syndicate Sam Gor, also known as The Company.</p><p><strong><a href="https://www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories">Sign up for a weekly email featuring our best reads</a></strong></p> <a href="https://www.theguardian.com/australia-news/2022/dec/23/alleged-kingpin-of-global-drug-trafficking-syndicate-faces-court-after-being-extradited-to-australia">Continue reading...</a>
 
 ## The Traitors finale review – so thrilling your heart won’t stop hammering in your chest
  - [https://www.theguardian.com/tv-and-radio/2022/dec/22/the-traitors-finale-review-so-thrilling-your-heart-wont-stop-hammering-in-your-chest](https://www.theguardian.com/tv-and-radio/2022/dec/22/the-traitors-finale-review-so-thrilling-your-heart-wont-stop-hammering-in-your-chest)
@@ -986,3 +1014,4 @@
  - date published: 2022-12-22 01:18:31+00:00
 
 <p>Volodymyr Zelenskiy addresses US Congress on first foreign visit since war began; the White House pledges new $1.58bn aid package to Ukraine</p><ul><li><a href="https://www.theguardian.com/world/ukraine">See all our Ukraine war coverage</a></li></ul> <a href="https://www.theguardian.com/world/2022/dec/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-302-of-the-invasion">Continue reading...</a>
+

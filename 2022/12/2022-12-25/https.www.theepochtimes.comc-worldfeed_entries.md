@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## ‘Hundreds’ of Canadians Stranded for Days in Mexico After Sunwing Cancellations
  - [https://www.theepochtimes.com/hundreds-of-canadians-stranded-for-days-in-mexico-after-sunwing-cancellations_4945088.html](https://www.theepochtimes.com/hundreds-of-canadians-stranded-for-days-in-mexico-after-sunwing-cancellations_4945088.html)
@@ -139,3 +139,4 @@ Rescuers work during a rescue and evacuation operation following a landslide at 
  - date published: 2022-12-25 00:10:39+00:00
 
 The Chinese-funded Celukan Bawang 2 power plant in Singaraja on Indonesia's resort island of Bali on Oct. 29, 2020. (Sonny Tumbelaka/AFP via Getty Images)
+

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Co dalej z funduszami unijnymi dla Węgier? Komisja Europejska stawia sprawę jasno
  - [https://www.money.pl/gospodarka/co-dalej-z-funduszami-unijnymi-dla-wegier-komisja-europejska-stawia-sprawe-jasno-6842839275473472a.html](https://www.money.pl/gospodarka/co-dalej-z-funduszami-unijnymi-dla-wegier-komisja-europejska-stawia-sprawe-jasno-6842839275473472a.html)
@@ -167,3 +167,4 @@
  - date published: 2022-12-09 06:05:22+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c" width="308" /> Kurs euro - 09.12.2022. W piątek za jedno euro (EUR) trzeba zapłacić 4.6811 zł.
+

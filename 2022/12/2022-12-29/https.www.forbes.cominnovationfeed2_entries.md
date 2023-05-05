@@ -1,4 +1,18 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
+
+## This Week In XR: New Year’s Eve In VR, What To Expect At CES
+ - [https://www.forbes.com/sites/charliefink/2022/12/29/this-week-in-xr-new-years-eve-in-vr-what-to-expect-at-ces/](https://www.forbes.com/sites/charliefink/2022/12/29/this-week-in-xr-new-years-eve-in-vr-what-to-expect-at-ces/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-29 23:40:18+00:00
+
+The Quest App is ranked #1 in the App Store.
+
+## What Are The Future Disruptive Trends In A Volatile 2023
+ - [https://www.forbes.com/sites/markminevich/2022/12/29/what-are-the-future-disruptive-trends-in-a-volatile-2023/](https://www.forbes.com/sites/markminevich/2022/12/29/what-are-the-future-disruptive-trends-in-a-volatile-2023/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-29 23:06:39+00:00
+
+The year 2023 is set to be revolutionary for technology, with many disruptive trends expected to reshape how businesses function and how people interact with each other. From metaverse virtual workspaces, advancements in quantum, green energy sources to innovations in robots & satellites
 
 ## A Copilot For All!
  - [https://www.forbes.com/sites/arunshastri/2022/12/29/a-copilot-for-all/](https://www.forbes.com/sites/arunshastri/2022/12/29/a-copilot-for-all/)
@@ -417,7 +431,6 @@ A class action suit has been filed against Apple in New York, claiming damages f
  - [https://www.forbes.com/sites/bobeccles/2022/12/29/esg-is-not-about-ethical-standards-and-ethical-values/](https://www.forbes.com/sites/bobeccles/2022/12/29/esg-is-not-about-ethical-standards-and-ethical-values/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-29 07:16:59+00:00
- - tags: esg,blackrock
 
 I have been writing about the complete misconception the GOP haters have about ESG. I now have an example of a complete misconception from the other side. Here ESG is framed in terms of ethical standards and ethical values. This is not what ESG is all about. It's about material risk factors.
 
@@ -476,3 +489,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-12-29 01:00:00+00:00
 
 The 10 best images of the Earth from space taken by the orbiting space station, the Orion spacecraft and weather satellites.
+

@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Akcesja Finlandii i Szwecji do NATO. Węgry zajmą się tym tematem dopiero na wiosennej sesji parlamentu
  - [https://forsal.pl/swiat/bezpieczenstwo/artykuly/8609822,wegry-akcesja-finlandii-i-szwecji-do-nato.html](https://forsal.pl/swiat/bezpieczenstwo/artykuly/8609822,wegry-akcesja-finlandii-i-szwecji-do-nato.html)
@@ -531,3 +531,4 @@
  - date published: 2022-12-13 03:55:59+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/J-RktkuTURBXy8xZWJkOWQxOC01NDU3LTRmOGEtOGIyNy1lYzhhZTY3ZmY4YzkuanBlZ5GTBc0BHcyg" />Sam Bankman-Fried, założyciel giełdy kryptowalut FTX, został aresztowany na Bahamach – poinformowały amerykańskie media.
+

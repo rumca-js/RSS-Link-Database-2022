@@ -1,4 +1,11 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Attention Procrastinators: Here's Your Last-Minute Fandom Gift Guide
+ - [https://gizmodo.com/pop-culture-last-minute-gifts-marvel-star-wars-ghibli-1849920817](https://gizmodo.com/pop-culture-last-minute-gifts-marvel-star-wars-ghibli-1849920817)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-23 00:00:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--riIaiyDa--/c_fit,fl_progressive,q_80,w_636/0f4d249e926ab515d38e1cfe7c722286.jpg" /><p>So you waited until the 11th hour and it’s now too late to order holiday presents online. Thankfully, there are several stores where you can still scavenge in-person for the perfect last-minute geeky gift for the fan in your life. Pro-tip to speed up your quest even more: order pick-up exists!</p><p><a href="https://gizmodo.com/pop-culture-last-minute-gifts-marvel-star-wars-ghibli-1849920817">Read more...</a></p>
 
 ## A Picture-Perfect Christmas Goes Darkly Awry in Horror Short Snow Globe
  - [https://gizmodo.com/christmas-horror-short-snow-globe-santa-claus-murder-1849924798](https://gizmodo.com/christmas-horror-short-snow-globe-santa-claus-murder-1849924798)
@@ -300,3 +307,4 @@
  - date published: 2022-12-22 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--7NW2TtjG--/c_fit,fl_progressive,q_80,w_636/705290d94f153abc93ac1155c0710da3.jpg" /><p><a href="https://gizmodo.com/ariana-debose-wish-disney-animation-fairytale-d23-expo-1849526298">Walt Disney Animation Studios</a>’ <a href="https://gizmodo.com/strange-world-review-disney-animation-jake-gyllenhaal-1849810962"><em>Strange World</em></a> will be hitting  home media platforms just in time for the holidays. And with the digital release on December 23, animation fans will be able to unlock special features not yet available on Disney+, where the film will also be streaming.<br /></p><p><a href="https://gizmodo.com/strange-world-deleted-scene-highlights-heroines-disney-1849916660">Read more...</a></p>
+

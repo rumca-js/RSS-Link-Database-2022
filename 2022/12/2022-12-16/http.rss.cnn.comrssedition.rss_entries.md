@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## World Cup: Morocco and Croatia face off in the one match no team wants to play
  - [https://www.cnn.com/2022/12/16/football/morocco-croatia-world-cup-third-place-playoff-spt-intl/index.html](https://www.cnn.com/2022/12/16/football/morocco-croatia-world-cup-third-place-playoff-spt-intl/index.html)
@@ -125,6 +125,13 @@ While a debate unfolds online about Starbucks' new credit and debit card tipping
  - date published: 2022-12-16 15:47:43+00:00
 
 As water levels continues to recede at Lake Mead, more human remains continue to be discovered. This investigator explains why he is sure more bodies will be found in America's largest reservoir.
+
+## Expert reveals the best way to see a meteor shower
+ - [https://www.cnn.com/videos/business/2022/12/14/meteor-shower-expert-explainer-mc-scn-contd-orig.cnn-business](https://www.cnn.com/videos/business/2022/12/14/meteor-shower-expert-explainer-mc-scn-contd-orig.cnn-business)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-16 15:31:23+00:00
+
+Meteor showers occur when the Earth passes through a stream created by comet debris. NASA meteor astronomer Peter Jenniskens explains everything you need to know about this cosmic phenomenon.
 
 ## What this African American Hasidic Jewish rapper knows about the power of laughter
  - [https://www.cnn.com/2022/12/16/entertainment/nissim-black-comedy-show/index.html](https://www.cnn.com/2022/12/16/entertainment/nissim-black-comedy-show/index.html)
@@ -524,3 +531,4 @@ The Patriot missile defense could help protect Ukraine from Russia's best missil
  - date published: 2022-12-16 01:03:13+00:00
 
 The Senate is on track to vote Thursday evening to pass a stopgap bill to avert a government shutdown at the end of this week with funding currently set to expire on Friday at midnight.
+

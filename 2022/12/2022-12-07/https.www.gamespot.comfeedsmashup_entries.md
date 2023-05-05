@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Need For Speed Unbound Video Review
  - [https://www.gamespot.com/videos/need-for-speed-unbound-video-review/2300-6460184/](https://www.gamespot.com/videos/need-for-speed-unbound-video-review/2300-6460184/)
@@ -321,3 +321,4 @@
  - date published: 2022-12-07 00:08:00+00:00
 
 <p> </p><p dir="ltr">How to relearn moves in <a href="https://www.gamespot.com/games/pokemon-scarlet-pokemon-violet/">Pokemon Scarlet and Violet</a> is easier than it’s ever been. No longer do you have to track down a special NPC and spend rare currency to inspire the ol’ noggin. Instead, you just open a menu and spend absolutely nothing.</p><h2 dir="ltr">How to relearn moves in Scarlet and Violet</h2><p dir="ltr">You can have a Pokemon remember moves from their move summary page. Open the menu and choose one of the Pokemon in your party, or access your boxes and pick the Pokemon you want. Access their summary, and tilt the control stick to the right to change from the overview page to the move summary.</p><a href="https://www.gamespot.com/articles/pokemon-scarlet-and-violet-how-to-relearn-moves/1100-6509781/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

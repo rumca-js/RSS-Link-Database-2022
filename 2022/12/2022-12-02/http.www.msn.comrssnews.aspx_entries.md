@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Steve Bannon Questions if Herschel Walker's Campaign Has 'Any Momentum'
  - [http://www.msn.com/en-us/news/politics/steve-bannon-questions-if-herschel-walker-s-campaign-has-any-momentum/ar-AA14QxQN?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/steve-bannon-questions-if-herschel-walker-s-campaign-has-any-momentum/ar-AA14QxQN?li=BBnbcA1&srcref=rss)
@@ -1733,5 +1733,6 @@
  - [http://www.msn.com/en-us/news/politics/health-care-hhs-allows-those-living-with-hep-b-hiv-to-join-public-service/ar-AA14NKep?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/health-care-hhs-allows-those-living-with-hep-b-hiv-to-join-public-service/ar-AA14NKep?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-02 00:34:52.372665+00:00
+
 
 

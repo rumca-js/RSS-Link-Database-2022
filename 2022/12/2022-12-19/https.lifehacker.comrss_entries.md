@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 5 Headphones You Can Buy Right Now for Under $100
  - [https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889](https://lifehacker.com/5-headphones-you-can-buy-right-now-for-under-100-1849910889)
@@ -118,3 +118,4 @@
  - date published: 2022-12-19 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--BOVN4Ojl--/c_fit,fl_progressive,q_80,w_636/3423bdbaacadb4c68f24a4af8eb38b64.jpg" /><p>For many, the words “office politics” conjure images of manipulating, back-stabbing, or slippery co-workers who kiss-up to the boss and flaunt their influence to get what they want. The words reek of unfairness and are almost always used to refer to the underbelly of the workplace. Many employees flat out refuse to…</p><p><a href="https://lifehacker.com/you-actually-do-need-to-engage-in-office-politics-1849903141">Read more...</a></p>
+

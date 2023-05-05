@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## What to know about Lensa, the AI portrait app all over social media
  - [https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html](https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html)
@@ -258,3 +258,4 @@ At the Bhalswa landfill in northwest Delhi, a steady flow of jeeps zigzag up the
  - date published: 2022-12-11 00:02:22+00:00
 
 Former Trump attorney Michael Cohen reacts to the former president's post on his social media app Truth Social.
+

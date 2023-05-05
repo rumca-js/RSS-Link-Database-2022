@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Digital Storage And Memory Projections For 2023, Part 2
  - [https://www.forbes.com/sites/tomcoughlin/2022/12/24/digital-storage-and-memory-projections-for-2023-part-2/](https://www.forbes.com/sites/tomcoughlin/2022/12/24/digital-storage-and-memory-projections-for-2023-part-2/)
@@ -167,3 +167,4 @@ Comet C/2022 E3 (ZTF) may be seen using binoculars this Christmas as it likely b
  - date published: 2022-12-24 00:17:13+00:00
 
 The AI market is evolving very rapidly and deployment across all industries is happening today.
+

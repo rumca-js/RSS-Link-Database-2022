@@ -1,4 +1,46 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Former Nebraska quarterback Tommy Armstrong Jr. rescues family from house fire
+ - [https://www.foxnews.com/sports/former-nebraska-quarterback-tommy-armstrong-jr-rescues-family-house-fire](https://www.foxnews.com/sports/former-nebraska-quarterback-tommy-armstrong-jr-rescues-family-house-fire)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-27 23:54:06+00:00
+
+Tommy Armstrong Jr. was a quarterback for the Nebraska Cornhuskers football program, and now he's a hero for saving his mother's neighbors from a house fire.
+
+## Ohio police investigating after tampered ductwork found above female locker room at fire station
+ - [https://www.foxnews.com/us/ohio-police-investigating-tampered-ductwork-found-above-female-locker-room-fire-station](https://www.foxnews.com/us/ohio-police-investigating-tampered-ductwork-found-above-female-locker-room-fire-station)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-27 23:53:00+00:00
+
+Toledo Police and Toledo Fire and Rescue opened criminal and disciplinary investigations after finding a hole in the ductwork over a female locker room.
+
+## New York calls in military police to enforce driving ban in Buffalo
+ - [https://www.foxnews.com/us/new-york-calls-military-police-enforce-driving-ban-buffalo](https://www.foxnews.com/us/new-york-calls-military-police-enforce-driving-ban-buffalo)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-27 23:42:47+00:00
+
+State and military police in New York were mobilized to keep people off Buffalo's snow-choked roads with the driving ban remaining in effect indefinitely.
+
+## United States to allow MLB players to play for Cuba in World Baseball Classic
+ - [https://www.foxnews.com/sports/united-states-allow-mlb-players-play-cuba-world-baseball-classic](https://www.foxnews.com/sports/united-states-allow-mlb-players-play-cuba-world-baseball-classic)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-27 23:38:40+00:00
+
+The United States is allowing Cuban MLB stars to represent their country in the World Baseball Classic in March, if they are invited and choose to play.
+
+## Arizona judge denies request for sanctions against Lake; rewards $33k reimbursement
+ - [https://www.foxnews.com/politics/arizona-judge-denies-request-sanctions-against-lake-rewards-reimbursement](https://www.foxnews.com/politics/arizona-judge-denies-request-sanctions-against-lake-rewards-reimbursement)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-27 23:29:28+00:00
+
+An Arizona judge denied Gov.-elect Katie Hobbs' request to sanction her gubernatorial opponent Kari Lake, but granted over $33,000 in reimbursements.
+
+## Podcaster mocked for suggesting 'Little Women' author was really a transgender man: 'Rewriting history'
+ - [https://www.foxnews.com/media/podcaster-mocked-suggesting-little-women-author-transgender-man-rewritting-history](https://www.foxnews.com/media/podcaster-mocked-suggesting-little-women-author-transgender-man-rewritting-history)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-27 23:00:28+00:00
+
+A guest essay from the New York Times lit up Twitter after suggesting that “Little Women” author Louisa May Alcott could have identified as a transgender man.
 
 ## Idaho murders: Leaked image appears to show victims inside local bar hours before unsolved stabbings
  - [https://www.foxnews.com/us/idaho-murders-leaked-image-appears-show-victims-inside-local-bar-hours-before-unsolved-stabbings](https://www.foxnews.com/us/idaho-murders-leaked-image-appears-show-victims-inside-local-bar-hours-before-unsolved-stabbings)
@@ -860,3 +902,4 @@ A spokesperson for Mike Pence said the former vice president did not file a stat
  - date published: 2022-12-27 00:21:20+00:00
 
 New York Republican Rep.-elect George Santos confessed to the New York Post on Monday that he lied on his resume about his education and employment.
+

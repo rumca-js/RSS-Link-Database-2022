@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Juan Guaidó Is Voted Out as Leader of Venezuela’s Opposition
  - [https://www.nytimes.com/2022/12/30/world/americas/venezuela-opposition-juan-guaido.html](https://www.nytimes.com/2022/12/30/world/americas/venezuela-opposition-juan-guaido.html)
@@ -132,3 +132,4 @@ It is the disintegration of the U.S.S.R. that President Vladimir V. Putin of Rus
  - date published: 2022-12-30 03:16:06+00:00
 
 The prosecution of Daw Aung San Suu Kyi has drawn international condemnation. The latest set of corruption charges could put her in prison for the rest of her life.
+

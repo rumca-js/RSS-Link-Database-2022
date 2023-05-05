@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Iran Abolishes Morality Police, Considers Changing Hijab Laws, Official Says
  - [https://www.wsj.com/articles/iran-abolishes-morality-police-considers-changing-hijab-laws-official-says-11670165171](https://www.wsj.com/articles/iran-abolishes-morality-police-considers-changing-hijab-laws-official-says-11670165171)
@@ -48,3 +48,4 @@ Local authorities are dismantling some pandemic control measures even as the num
  - date published: 2022-12-04 06:00:00+00:00
 
 While Israel has made significant advances with the United Arab Emirates, relations have been slower to flourish with Bahrain and other countries that normalized ties in 2020.
+

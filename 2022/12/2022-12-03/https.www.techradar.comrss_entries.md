@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Google picks the best Android apps and games of 2022 – download them now
  - [https://www.techradar.com/news/google-picks-the-best-android-apps-and-games-of-2022-download-them-now](https://www.techradar.com/news/google-picks-the-best-android-apps-and-games-of-2022-download-them-now)
@@ -62,3 +62,4 @@ Austrian audio company marks 30th anniversary with limited-edition snow-white ve
  - date published: 2022-12-03 05:00:54+00:00
 
 The Realme GT 3 could land soon as an affordable alternative to a flagship. Here's what we know about it and what we want.
+

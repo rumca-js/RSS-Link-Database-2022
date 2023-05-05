@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 2022 Roundup of Web Research
  - [https://css-tricks.com/2022-roundup-of-web-research/](https://css-tricks.com/2022-roundup-of-web-research/)
@@ -90,3 +90,4 @@ One day, John Frum will fix all our code
  - date published: 2022-12-27 05:00:00+00:00
 
 In case you need something to start you up
+

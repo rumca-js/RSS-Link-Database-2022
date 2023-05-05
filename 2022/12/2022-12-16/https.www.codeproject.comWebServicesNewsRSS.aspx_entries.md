@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## ?-Q#: Understanding and Evolving the Q# Programming Language
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59832](https://www.codeproject.com/script/News/View.aspx?nwid=59832)
@@ -60,7 +60,6 @@ Meta Platforms Inc.’s artificial intelligence research team today announced an
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59839](https://www.codeproject.com/script/News/View.aspx?nwid=59839)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: privacy,tracking,ad business
 
 "Me do anything for cookie!"
 
@@ -105,3 +104,4 @@ I refuse to think about how this will be misused
  - date published: 2022-12-16 05:00:00+00:00
 
 For some, a breadboard doesn't involve toast
+

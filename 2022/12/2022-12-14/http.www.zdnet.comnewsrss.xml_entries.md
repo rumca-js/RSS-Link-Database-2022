@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## iOS 16.2: Is it better or worse for your iPhone battery?
  - [https://www.zdnet.com/article/ios-13-battery-life-bad-top-tips-to-fix-battery-drain-issues/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-13-battery-life-bad-top-tips-to-fix-battery-drain-issues/#ftag=RSSbaffb68)
@@ -237,3 +237,4 @@ One moderate vulnerability already exploited impacts the Windows SmartScreen Sec
  - date published: 2022-12-14 00:13:00+00:00
 
 The big box store is one of the best places to score great deals on tech. If you missed Cyber Monday, shop right now with great deals in Best Buy's catalog ahead of the holidays.
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Tour an automated McDonald's in Texas
  - [https://www.cnn.com/videos/tv/2022/12/25/mcdonalds-automatic-drive-thru-cprog-orig-mb.cnn](https://www.cnn.com/videos/tv/2022/12/25/mcdonalds-automatic-drive-thru-cprog-orig-mb.cnn)
@@ -35,6 +35,13 @@ Investigative reporter David Cay Johnston discusses what was learned from the Ho
 
 Police in Brasilia arrested a man on Saturday suspected of planting and possessing explosive devices one week ahead of former President Luiz Inácio Lula da Silva's inauguration, Police Chief Robson Candido said during a news briefing.
 
+## Powerful winter storm leaves first responders in need of rescue
+ - [https://www.cnn.com/videos/us/2022/12/25/buffalo-snow-new-york-rescue-challenges-mark-poloncarz-nr-sot-vpx.cnn](https://www.cnn.com/videos/us/2022/12/25/buffalo-snow-new-york-rescue-challenges-mark-poloncarz-nr-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-25 18:53:20+00:00
+
+Erie County Executive Mark Poloncarz speaks with CNN's Paula Reid about conditions in upstate New York after a winter storm dumped at least 43 inches of snow in Buffalo, according to the National Weather Service.
+
 ## At least 10 people buried in avalanche in Austria
  - [https://www.cnn.com/2022/12/25/europe/austria-avalanche-lech-zurs/index.html](https://www.cnn.com/2022/12/25/europe/austria-avalanche-lech-zurs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -48,6 +55,13 @@ At least 10 people were buried in an avalanche on Sunday near the mountain
  - date published: 2022-12-25 16:59:34+00:00
 
 Three foreign aid groups said Sunday that they were moving to temporarily suspend their operations in Afghanistan after the Taliban barred female employees of non-governmental organizations from coming to work.
+
+## This dog was abandoned at the San Francisco airport. Then a pilot adopted him
+ - [https://www.cnn.com/travel/article/dog-adopted-san-francisco-airport-trnd/index.html](https://www.cnn.com/travel/article/dog-adopted-san-francisco-airport-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-25 16:57:18+00:00
+
+A dog abandoned at the San Francisco airport has found a forever home with a United Airlines captain, according to the San Francisco SPCA.
 
 ## See arrival of migrants dropped off in front of vice president's home
  - [https://www.cnn.com/videos/politics/2022/12/25/migrant-buses-vice-president-kamala-harris-residence-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/25/migrant-buses-vice-president-kamala-harris-residence-vpx.cnn)
@@ -74,7 +88,6 @@ Britain's King Charles paid a heartfelt tribute to his mother, the late Queen El
  - [https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html](https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-25 14:44:44+00:00
- - tags: china,covid,zerocovid
 
 China's top health authority has announced that it has stopped publishing daily Covid-19 case numbers, as reports claimed that the true toll of the country's ongoing outbreak is much worse than the official figures published by authorities.
 
@@ -140,3 +153,4 @@ Pope Francis asked people this Christmas to "do something good," during his homi
  - date published: 2022-12-25 01:44:17+00:00
 
 For months, Leila has barely seen sunlight.
+

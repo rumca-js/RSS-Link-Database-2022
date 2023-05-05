@@ -1,4 +1,20 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## I just wish my Tesla Model 3 had Steam
+ - [https://www.theverge.com/23529762/tesla-steam-holiday-update-2022-gaming-intel-amd-ryzen](https://www.theverge.com/23529762/tesla-steam-holiday-update-2022-gaming-intel-amd-ryzen)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-29 22:57:18+00:00
+
+<figure>
+      <img alt="INT: driver of a Tesla model S with yoke steering wheel is parked and playing Cyberpunk 2077 steam game on the car’s infotainment screen while using a gaming keyboard in his lap, a mouse on the arm rest, and a PS5 controller sitting in the center console." src="https://cdn.vox-cdn.com/thumbor/u5Ugiyfg1Gsyo2HaX9Rzy1AR56Q=/0x0:2281x1521/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71804924/Screenshot_2022_12_29_at_3.29.06_AM.0.jpeg" />
+        <figcaption><em>I just want a rolling battle station.</em> | Image: Tesla</figcaption>
+    </figure>
+
+  <p id="XjkzWu">Steam, the PC gaming platform, is making its way around town as part of Tesla’s <a href="https://www.theverge.com/2022/12/13/23508269/tesla-holiday-update-steam-apple-music-support-light-show-mode">latest holiday update</a>. It fulfills a promise Tesla CEO Elon Musk made almost two years ago: that you’ll be able to <a href="https://www.theverge.com/2021/1/27/22253258/tesla-model-s-ps5-xbox-series-x-next-gen-10-teraflop">play <em>The Witcher 3</em></a><em> </em>using the car’s built-in hardware. But unfortunately for me, I won’t get to play it, and it doesn’t look like there will be any easy path toward upgrading.</p>
+<p id="HFtECe">I have a 2018 Tesla Model 3, and I think I should mention it’s received <a href="https://www.theverge.com/2019/9/26/20885822/tesla-software-version-10-now-available-features-netflix-youtube-spotify">plenty of upgrades over the years</a>, including overhauled user interface, Autopilot visualizations, streaming apps, and <a href="https://www.theverge.com/2019/6/18/18684297/tesla-arcade-model-3-hands-on-beach-buggy-racing-2-demo-electric-cars">arcade games</a>. But in my car, all of Tesla’s fancy new software is running on the Intel Atom — a processor designed for cheap netbooks from the previous decade (Remember <a href="https://www.theverge.com/2021/4/16/22388238/asus-eee-pc-netbook-laptop-line-linux-ipad-pro">the Eee PC</a>?). So...</p>
+  <p>
+    <a href="https://www.theverge.com/23529762/tesla-steam-holiday-update-2022-gaming-intel-amd-ryzen">Continue reading&hellip;</a>
+  </p>
 
 ## Samsung might be working on a more colorful budget phone and we’re here for it
  - [https://www.theverge.com/2022/12/29/23531141/samsung-galaxy-a34-leak-render-color-options](https://www.theverge.com/2022/12/29/23531141/samsung-galaxy-a34-leak-render-color-options)
@@ -206,3 +222,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/28/23530256/twitter-outage-down-connection-loading-error-notifications">Continue reading&hellip;</a>
   </p>
+

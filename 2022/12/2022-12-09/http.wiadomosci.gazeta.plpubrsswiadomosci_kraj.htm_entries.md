@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Lubuskie: 25-latek zatrzymany po policyjnej obławie. Jego partnerka walczy o życie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29245819,lubuskie-25-latek-zatrzymany-po-policyjnej-oblawie-jego-partnerka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29245819,lubuskie-25-latek-zatrzymany-po-policyjnej-oblawie-jego-partnerka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -132,3 +132,4 @@
  - date published: 2022-12-09 05:22:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/2e/e3/1b/z29241390M,Po-14-latach-policji-udalo-sie-wyjasnic-okolicznos.jpg" vspace="2" />Przez 14 lat rodzina zaginionej 17-latki nie wiedziała, co stało się z młodą dziewczyną. Po latach jednak zabójca nastolatki wspomniał o tej zbrodni, będąc po alkoholu i grożąc swojej znajomej. Sąd mógł skazać go na dożywocie, ale tego nie zrobił. Uznał bowiem, że przestępca "nie jest osobą zdemoralizowaną".
+

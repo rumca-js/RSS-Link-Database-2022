@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Brazil bow out, Messi magic and so much World Cup drama – Football Daily
  - [https://www.theguardian.com/football/audio/2022/dec/09/brazil-bow-out-messi-magic-and-so-much-world-cup-drama-football-daily](https://www.theguardian.com/football/audio/2022/dec/09/brazil-bow-out-messi-magic-and-so-much-world-cup-drama-football-daily)
@@ -1112,3 +1112,4 @@ French Formula One driver whose skill and tenacity sustained the Ferrari team in
  - date published: 2022-12-09 00:01:08+00:00
 
 <ul><li>Research compared former players to the general population</li><li>Repeatedly heading footballs has belated impact on brain</li></ul><p>Professional footballers are more likely to have worse brain health after they turn 65 compared with the general population, according to groundbreaking new research.</p><p>The study, which compared 75 former male professional footballers, including the former Norwich players Iwan Roberts and Jeremy Goss and the Crystal Palace striker Mark Bright to non-footballers, found that footballers’ brain health was typically better in their 40s.</p> <a href="https://www.theguardian.com/football/2022/dec/09/study-reveals-footballers-more-likely-to-have-worse-brain-health-after-age-of-65">Continue reading...</a>
+

@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## Somehow Every Computer Chip In The World Is Built By One Company
  - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-05 14:32:49+00:00
- - tags: monopoly,chips,all time
 
 Go to https://hensonshaving.com/joescott and enter "JOESCOTT" at checkout to get 100 free blades with your purchase. (Note: you must add both the 100 blade pack and the razor for the discount to apply.)
 It might seem impossible to believe but all the most advanced semiconductors are made by machines built by one company, named ASML. 
@@ -73,3 +72,4 @@ Timestamps:
 8:26 - Why ASML Has No Competitors
 10:33 - The CHIPS and Science Act
 12:43 - Sponsor - Henson Shaving
+

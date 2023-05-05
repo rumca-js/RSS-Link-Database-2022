@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Paraliż lotnisk w USA. Przez śnieżyce odwołano 4 tys. lotów
  - [https://businessinsider.com.pl/wiadomosci/paraliz-lotnisk-w-usa-przez-sniezyce-odwolano-4-tys-lotow/py4bm0l](https://businessinsider.com.pl/wiadomosci/paraliz-lotnisk-w-usa-przez-sniezyce-odwolano-4-tys-lotow/py4bm0l)
@@ -55,6 +55,13 @@ Pasażerowie linii lotniczych podróżujący na lotniskach w Wielkiej Brytanii s
  - date published: 2022-12-23 16:04:23+00:00
 
 Do końca roku zostało już tylko kilka dni. A to ostatni dzwonek, by wykorzystać dodatkowe dwa dni wolne. Mają do nich prawo rodzice dzieci w wieku do 14 lat. Jeśli nie zrobią tego w tym roku, to dwa dni przepadają. To tzw. opieka, o której pracujące matki i ojcowie często zapominają.
+
+## Rząd rozda tej zimy Polakom 57 mld zł. Zobacz, jaki dodatek ci się należy
+ - [https://businessinsider.com.pl/prawo/tarcze-oslonowe-kosztuja-rzad-575-mld-zl-sprawdz-jak-z-nich-skorzystac/jej9134](https://businessinsider.com.pl/prawo/tarcze-oslonowe-kosztuja-rzad-575-mld-zl-sprawdz-jak-z-nich-skorzystac/jej9134)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2022-12-23 15:20:33+00:00
+
+By pomóc przetrwać chłodne miesiące, rząd przygotował wiele działań osłonowych. Tyle że Polacy już się w nich gubią. Powstało już ponad 10 ustaw wartych ponad 57 mld zł. Żeby nie zgubić się w gąszczu przepisów, przedstawiamy najważniejsze informacje.
 
 ## Facebook zapłaci 725 mln dol. za udostępnianie danych użytkowników. Finał afery Cambridge Analytica
  - [https://businessinsider.com.pl/wiadomosci/facebook-zaplaci-725-mln-dol-final-afery-cambridge-analytica/jt47k49](https://businessinsider.com.pl/wiadomosci/facebook-zaplaci-725-mln-dol-final-afery-cambridge-analytica/jt47k49)
@@ -412,3 +419,4 @@ Nie wszyscy kochają atmosferę Bożego Narodzenia i spotkania z rodziną. Są t
  - date published: 2022-12-23 05:00:00+00:00
 
 Od stycznia z każdym kolejnym miesiącem spadała liczba bezrobotnych. Wszystko wskazuje na to, że w piątkowych oficjalnych danych nastąpi przełamanie i już w grudniu stopa bezrobocia ruszyła w górę. Jak wysoko dojdzie? Ekonomiści oceniają, że strukturalny problem niedoboru pracowników ograniczy skalę zwolnień związanych np. z dużym wzrostem płacy minimalnej.
+

@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## US appeals court upholds Florida transgender toilet policy
  - [https://www.aljazeera.com/news/2022/12/30/us-appeals-court-upholds-florida-transgender-toilet-policy](https://www.aljazeera.com/news/2022/12/30/us-appeals-court-upholds-florida-transgender-toilet-policy)
@@ -342,3 +342,4 @@ Controversial British-American internet personality had been questioned by Roman
  - date published: 2022-12-30 00:07:28+00:00
 
 Prosecutors seek six-month pre-trial detention for jailed right-wing Santa Cruz Governor Luis Fernando Camacho.
+

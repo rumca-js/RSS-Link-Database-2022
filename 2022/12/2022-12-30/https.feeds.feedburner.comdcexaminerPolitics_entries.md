@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## READ IN FULL: The newly released Trump tax returns
  - [https://www.washingtonexaminer.com/policy/economy/read-trump-tax-returns](https://www.washingtonexaminer.com/policy/economy/read-trump-tax-returns)
@@ -27,3 +27,4 @@ Former President Donald Trump's tax returns have been released in full after a m
  - date published: 2022-12-30 11:00:59+00:00
 
 The Mujahedin-e-Khalq Organization (MKO) is a barometer of Washington corruption.
+

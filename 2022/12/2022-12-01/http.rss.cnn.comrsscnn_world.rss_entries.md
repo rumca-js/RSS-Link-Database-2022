@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Mexico will increase minimum wage by 20% in 2023
  - [https://www.cnn.com/2022/12/01/americas/mexico-minimum-wage-2023-intl-latam/index.html](https://www.cnn.com/2022/12/01/americas/mexico-minimum-wage-2023-intl-latam/index.html)
@@ -55,3 +55,4 @@ China has given its most significant signal yet that the country may seek to adj
  - date published: 2022-12-01 03:55:02+00:00
 
 Europe is becoming increasingly reliant on China for trade, and many of its top companies are eager to invest in the world's second biggest economy despite the disruption caused by Covid lockdowns.
+

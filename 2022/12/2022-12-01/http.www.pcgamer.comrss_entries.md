@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## New World is finally cracking down on 'shell companies' to stop players from monopolizing the fun
  - [https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)
@@ -272,3 +272,4 @@ Unbound shows that photoreal racing is overrated.
  - date published: 2022-12-01 00:04:42+00:00
 
 Try it before it's gone.
+

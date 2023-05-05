@@ -1,4 +1,11 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
+
+## BC Mayor Questions Why Road Wasn’t Closed Before Fatal Crash on Christmas Eve
+ - [https://www.theepochtimes.com/bc-mayor-questions-why-road-wasnt-closed-before-fatal-crash-on-christmas-eve_4952223.html](https://www.theepochtimes.com/bc-mayor-questions-why-road-wasnt-closed-before-fatal-crash-on-christmas-eve_4952223.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-29 23:21:45+00:00
+
+Motorists travel on the snow-covered Cambie Bridge as freezing rain falls in Vancouver, on Dec. 23, 2022. (Darryl Dyck/The Canadian Press)
 
 ## Lethbridge Man Charged With First-Degree Murder in Wife’s Death
  - [https://www.theepochtimes.com/lethbridge-man-charged-with-first-degree-murder-in-wifes-death_4952381.html](https://www.theepochtimes.com/lethbridge-man-charged-with-first-degree-murder-in-wifes-death_4952381.html)
@@ -328,3 +335,4 @@ An employee of Australian mining giant Rio Tinto walks past a sign at the Shangh
  - date published: 2022-12-29 00:54:15+00:00
 
 Miners at a cobalt cleaning site in Lualaba Province, the Democratic Republic of the Congo. (Northwestern Now)
+

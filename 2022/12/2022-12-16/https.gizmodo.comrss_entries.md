@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The Jasad Heir Is a Tournament Arc Turned Political Thriller
  - [https://gizmodo.com/the-jasad-heir-sara-hashem-first-chapter-exclusive-look-1849905370](https://gizmodo.com/the-jasad-heir-sara-hashem-first-chapter-exclusive-look-1849905370)
@@ -130,7 +130,6 @@
  - [https://gizmodo.com/elon-musk-twitter-ban-mastodon-1849903839](https://gizmodo.com/elon-musk-twitter-ban-mastodon-1849903839)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-16 17:45:00+00:00
- - tags: censorship,twitter
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--T3jDtmt0--/c_fit,fl_progressive,q_80,w_636/cf926e39875fd08eb6af4fe25b59d62b.jpg" /><p>Twitter’s locking the hatches to keep users from jumping off its sinking ship.</p><p><a href="https://gizmodo.com/elon-musk-twitter-ban-mastodon-1849903839">Read more...</a></p>
 
@@ -280,3 +279,4 @@
  - date published: 2022-12-16 01:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--3hZM0K9c--/c_fit,fl_progressive,q_80,w_636/e374beb03855b8dd81d5302dca0fb096.jpg" /><p>Just off the hustle and bustle of the bright lights on the Las Vegas Strip is a destination for the <a href="https://gizmodo.com/theme-park-news-disney-parks-universal-studios-marvel-1849849378">experiential-themed adventure seeker</a> and <a href="https://gizmodo.com/star-wars-trek-stranger-things-walking-dead-beer-wine-b-1848840522">drinker</a>. Lost Spirits, a rum distillery inspired in part by Jules Verne’s <a href="https://gizmodo.com/disney-sets-its-eyes-on-20-000-leagues-under-the-sea-fo-1847535369"><em>20,000 Leagues Under the Sea</em></a><em>, </em>can be found at Area 15, an array of eclectic dining and interactive holes…</p><p><a href="https://gizmodo.com/lost-spirits-rum-distillery-photo-tour-las-vegas-1849901074">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Massachusetts toddler, 3, lights up after spotting her family in audience while performing
  - [https://www.dailymail.co.uk/news/article-11526993/Massachusetts-toddler-3-lights-spotting-family-audience-performing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11526993/Massachusetts-toddler-3-lights-spotting-family-audience-performing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1007,3 +1007,4 @@ Elon Musk has branded Twitter a 'crime scene' as he vows to dig up all its 'dark
  - date published: 2022-12-11 00:33:27+00:00
 
 Forecasters said snow was likely in the Christmas period, but they cannot say for certain if it will fall on December 25, as bookies have begun taking odds on a white Christmas returning to Britain.
+

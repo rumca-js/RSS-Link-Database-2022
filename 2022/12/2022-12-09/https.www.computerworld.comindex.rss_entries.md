@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple sets a security challenge for 2023
  - [https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all](https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all)
@@ -37,3 +37,4 @@
 <article>
 	<section class="page">
 <p>Have I ever mentioned how much I love shortcuts?</p><p>All right, <a href="https://www.computerworld.com/article/3662756/android-shortcuts.html">maybe I have</a>. (Maybe, erm, somewhere in the neighborhood of <a href="https://www.computerworld.com/article/3658207/pixel-shortcuts.html">7,942 times</a>, come to think of it.) But oh, it be true. There's just something so impossibly satisfying about knowing you're increasing your efficiency and slicing soul-sucking seconds out of your day.</p><p>And on Android, whoo boy, have we got some awesome opportunities for cutting out steps and achieving Mega-Nerd™ levels of efficiency obsession.</p><p>Today, as your friendly neighborhood Mega-Nerd™, I want to remind you about an easily overlooked option for adding some extra step-shaving shortcuts directly onto your home screen. These shortcuts are buried deep within some of Android's most productivity-oriented apps. And you'd have to be — well, an efficiency-obsessed Mega-Nerd™ to even realize they're there.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681999/android-shortcut-secret.html#jump">To read this article in full, please click here</a></p></section></article>
+

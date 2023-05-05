@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Police foil attempts to smuggle 30kg of meth using 3D printers
  - [https://www.techradar.com/news/police-foil-attempts-to-smuggle-30kg-of-meth-using-3d-printers](https://www.techradar.com/news/police-foil-attempts-to-smuggle-30kg-of-meth-using-3d-printers)
@@ -146,3 +146,4 @@ Twitter CEO Elon Musk enraged a lot of users into restricting how links are shar
  - date published: 2022-12-19 10:34:07+00:00
 
 Beta is open now for Gmail end-to-end encryption, but only some Google Workspace users will be eligible.
+

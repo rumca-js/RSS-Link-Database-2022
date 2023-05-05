@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Ukraine aims for a peace summit by the end of February, foreign minister says
  - [https://www.nbcnews.com/news/world/ukraine-russia-peace-summit-united-nations-foreign-minister-rcna63259](https://www.nbcnews.com/news/world/ukraine-russia-peace-summit-united-nations-foreign-minister-rcna63259)
@@ -62,3 +62,4 @@ China’s military sent 71 planes and seven ships toward Taiwan after Beijing ex
  - date published: 2022-12-26 03:36:01+00:00
 
 Six people are dead and two injured after a passenger bus careened off a bridge and plunged into an overflowing river in Spain.
+

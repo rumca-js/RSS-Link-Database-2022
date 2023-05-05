@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Nie żyje projektantka mody Vivienne Westwood
  - [https://www.polsatnews.pl/wiadomosc/2022-12-29/nie-zyje-projektantka-mody-vivienne-westwood/](https://www.polsatnews.pl/wiadomosc/2022-12-29/nie-zyje-projektantka-mody-vivienne-westwood/)
@@ -90,3 +90,4 @@ Ukraińcy dziękują światowym przywódcom za wsparcie. W Irpieniu pod Kijowem 
  - date published: 2022-12-29 07:07:00+00:00
 
 - Rosja z nikim nie zamierza rozmawiać w oparciu o formułę pokoju zaproponowaną przez Wołodymyra Zełenskiego - powiedział szef rosyjskiej dyplomacji Siergiej Ławrow w wywiadzie dla rosyjskiej agencji RIA Nowosti. Jest oczywiste, że Kijów nie jest gotowy do dialogu - stwierdził rosyjski minister spraw zagranicznych. Wcześniej dla TASS powiedział, że USA nie zaangażują się bezpośrednio w wojnę.
+

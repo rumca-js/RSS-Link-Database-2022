@@ -1,4 +1,32 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## Three-Legged Deer Caught in Christmas Lights Gets Help From Human Heroes     - CNET
+ - [https://www.cnet.com/science/biology/three-legged-deer-caught-up-in-christmas-lights-gets-help-from-human-heroes/#ftag=CADf328eec](https://www.cnet.com/science/biology/three-legged-deer-caught-up-in-christmas-lights-gets-help-from-human-heroes/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-24 23:40:00+00:00
+
+The deer's plight highlights the hidden dangers of holiday decorations.
+
+## Here Are the 10 Most Distracting Christmas Songs     - CNET
+ - [https://www.cnet.com/culture/entertainment/here-are-the-10-most-distracting-christmas-songs/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/here-are-the-10-most-distracting-christmas-songs/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-24 23:39:00+00:00
+
+Plus, 10 holiday carols to play if you're struggling to be productive this season.
+
+## Sports Reporter Goes Viral for Griping on Camera About Covering Storm     - CNET
+ - [https://www.cnet.com/culture/sports-reporter-goes-viral-for-griping-on-camera-about-covering-storm/#ftag=CADf328eec](https://www.cnet.com/culture/sports-reporter-goes-viral-for-griping-on-camera-about-covering-storm/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-24 23:36:00+00:00
+
+"I didn't even realize that there was a 3:30 also in the morning until today," says reporter Mark Woodley.
+
+## Prime Video: The Absolute Best Sci-Fi TV Shows to Watch     - CNET
+ - [https://www.cnet.com/culture/entertainment/prime-video-the-absolute-best-sci-fi-tv-shows-to-watch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-absolute-best-sci-fi-tv-shows-to-watch-tonight/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-24 23:15:03+00:00
+
+Check out the best sci-fi series Amazon has to offer.
 
 ## Netflix: The 52 Absolute Best TV Shows to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-stream-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-stream-this-week/#ftag=CADf328eec)
@@ -405,3 +433,4 @@ Before the actor's 2020 death, a completed script draft focused on the king and 
  - date published: 2022-12-24 00:00:00+00:00
 
 These versatile chargers can power all your tech goodies.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Ukraine 'keeping Russian missiles as evidence'
  - [https://www.bbc.co.uk/news/world-europe-63951794?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63951794?at_medium=RSS&at_campaign=KARANGA)
@@ -503,3 +503,4 @@ They may sing and dance like other musicians but they are made with artificial i
  - date published: 2022-12-12 00:02:32+00:00
 
 Children hospitalised after falling in a lake and troops to be used in strikes feature on front pages.
+

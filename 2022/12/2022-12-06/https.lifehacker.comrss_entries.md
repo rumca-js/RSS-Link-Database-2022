@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 10 'Digital' Gifts That Are Still Thoughtful
  - [https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900](https://lifehacker.com/10-digital-gifts-that-are-still-thoughtful-1849860900)
@@ -125,3 +125,4 @@
  - date published: 2022-12-06 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--I_N_xB6F--/c_fit,fl_progressive,q_80,w_636/ce958b7ee005a346f7646c0e5fb21993.jpg" /><p>With soaring <a href="https://lifehacker.com/6-of-the-best-videos-to-actually-help-you-understand-in-1849757643">inflation</a> causing concerns for your investments, U.S. savings bonds are considered a safe bet, since they’re fully backed by the government. In October <a href="https://lifehacker.com/why-you-should-buy-series-i-bonds-right-now-1849708604">we told you</a> to buy Series I <a href="https://lifehacker.com/the-difference-between-stocks-and-bonds-1792606471">bonds</a> in order to lock in an  interest rate of 9.62%, the reason being that in November, the Treasury Department dialed back…</p><p><a href="https://lifehacker.com/you-can-still-probably-make-a-killing-on-i-bonds-1849855295">Read more...</a></p>
+

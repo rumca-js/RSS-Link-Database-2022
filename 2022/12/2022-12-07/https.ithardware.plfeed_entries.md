@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Dysk SSD od Phisona otrzymał certyfikację NASA
  - [https://ithardware.pl/aktualnosci/dysk_ssd_od_phisona_otrzymal_certyfikacje_nasa-24741.html](https://ithardware.pl/aktualnosci/dysk_ssd_od_phisona_otrzymal_certyfikacje_nasa-24741.html)
@@ -183,3 +183,4 @@ Igor&rsquo;sLAB opublikował artykuł o serii Radeon 7900 w oparciu o informacje
 
 Nagroda -...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_7-24634.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_7-24634.html</a></p>
+

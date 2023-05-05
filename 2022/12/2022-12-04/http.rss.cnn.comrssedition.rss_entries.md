@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Video shows coyote attacking toddler in front of her house
  - [https://www.cnn.com/videos/us/2022/12/04/coyote-attack-los-angeles-ring-camera-nr-contd-vpx.cnn](https://www.cnn.com/videos/us/2022/12/04/coyote-attack-los-angeles-ring-camera-nr-contd-vpx.cnn)
@@ -245,3 +245,4 @@ From early on in this World Cup, the traditional heavyweights of the game have b
  - date published: 2022-12-04 00:15:19+00:00
 
 Sunday's round of 16 fixtures feature the 2018 World Cup winner, the current African champion and one of the Euro 2020 finalists.
+

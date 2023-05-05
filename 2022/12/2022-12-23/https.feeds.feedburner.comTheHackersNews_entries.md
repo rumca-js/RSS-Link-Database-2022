@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## FrodoPIR: New Privacy-Focused Database Querying System
  - [https://thehackernews.com/2022/12/frodopir-new-privacy-focused-database.html](https://thehackernews.com/2022/12/frodopir-new-privacy-focused-database.html)
@@ -51,3 +51,4 @@ The Commission nationale de l'informatique et des libertés (CNIL) noted that 
 The August 2022 security breach of LastPass may have been more severe than previously disclosed by the company.
 The popular password management service on Thursday revealed that malicious actors obtained a trove of personal information belonging to its customers that include their encrypted password vaults using data siphoned from the break-in.
 Also stolen is "basic customer account information
+

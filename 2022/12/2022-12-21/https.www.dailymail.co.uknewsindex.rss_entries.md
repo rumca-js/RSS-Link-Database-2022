@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Tom Watson uses his first speech in the Lords to say sorry to Lady Brittan over 'paedophile ring'
  - [https://www.dailymail.co.uk/news/article-11564225/Tom-Watson-uses-speech-Lords-say-sorry-Lady-Brittan-paedophile-ring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11564225/Tom-Watson-uses-speech-Lords-say-sorry-Lady-Brittan-paedophile-ring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1657,7 +1657,6 @@ New details about Ashley Gaddie's work history have come to light after he was a
  - [https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-21 00:54:41+00:00
- - tags: twitter files,propaganda,twitter
 
 The Pentagon handed Twitter a list of 52 accounts they wished to be protected and promoted, which they had created to bolster U.S. policy in the Middle East, it has emerged.
 
@@ -1702,3 +1701,4 @@ Fisheries minister Mark Spencer said they could net more than 140,000 tons - 30,
  - date published: 2022-12-21 00:25:45+00:00
 
 The music mogul, 63, left viewers distracted by his incredibly smooth visage, which may be the result of cosmetic surgery,  with one asking: 'What's he done to himself?'.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## "Eksplozja prezentu". Gen. Szymczyk dziękuje szefowi MSWiA i czuje się pokrzywdzony
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29281475,eksplozja-prezentu-gen-szymczyk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29281475,eksplozja-prezentu-gen-szymczyk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -160,3 +160,4 @@
  - date published: 2022-12-19 05:24:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/73/e7/1b/z29260403M,To-pierwsze-swieta-ukrainskich-uchodzcow-w-Polsce.jpg" vspace="2" />Kalina chciała wrócić do domu na święta, ale mama błagała, by tego nie robiła. Ksenia domu już nie ma. Maria ma, ale nie wierzy, że powrót będzie kiedykolwiek możliwy. Uchodźczynie z Enerhodaru spędzą pierwsze święta w Polsce.
+

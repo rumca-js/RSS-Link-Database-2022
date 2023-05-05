@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Firearms Expert Reacts To Metal Gear Solid 5’s Guns
  - [https://www.gamespot.com/videos/firearms-expert-reacts-to-metal-gear-solid-5s-guns/2300-6460115/](https://www.gamespot.com/videos/firearms-expert-reacts-to-metal-gear-solid-5s-guns/2300-6460115/)
@@ -27,3 +27,4 @@
  - date published: 2022-12-10 01:20:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4074868-ds2_breakdown_mainyt.jpg" width="480" /> Join GameSpot's two die hard Death Stranding fans Tom Caswell and Ben Janca as they break down the reveal trailer for Death Stranding 2.
+

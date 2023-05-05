@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Biden Hosts African Leaders for Talks on Security, Trade and Outer Space
  - [https://www.nytimes.com/2022/12/13/us/politics/africa-summit-biden.html](https://www.nytimes.com/2022/12/13/us/politics/africa-summit-biden.html)
@@ -167,3 +167,4 @@ Three other people, believed to be the assailants, were killed by the police dur
  - date published: 2022-12-13 00:00:08+00:00
 
 The December event has offered reporters rare — albeit stage-managed — chances to pose hard questions. With the war going poorly for Russia, that could have been awkward.
+

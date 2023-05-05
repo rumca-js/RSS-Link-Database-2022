@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## Inside the Largest VR Game Publisher In Japan
  - [https://www.youtube.com/watch?v=qwblvGYFG30](https://www.youtube.com/watch?v=qwblvGYFG30)
@@ -26,3 +26,4 @@ Patreon link:
 https://www.patreon.com/Thrillseeker
 OUTRO MUSIC:
 https://www.youtube.com/watch?v=u6JwgNQDVfI&amp;t=0s
+

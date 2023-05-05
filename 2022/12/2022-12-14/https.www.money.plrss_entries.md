@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## USA podjęły decyzję ws. stóp procentowych. To ważne dla polskiej waluty
  - [https://www.money.pl/gielda/stopy-procentowe-w-usa-grudzien-2022-r-fed-podjal-kluczowa-decyzje-6844538055162432a.html](https://www.money.pl/gielda/stopy-procentowe-w-usa-grudzien-2022-r-fed-podjal-kluczowa-decyzje-6844538055162432a.html)
@@ -153,3 +153,4 @@
  - date published: 2022-12-14 04:53:21+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/3fe3cb69-729e-4379-8dbd-f04d232cd294" width="308" /> Masowy exodus zagranicznych partnerów z rosyjskiego sektora naftowego i gazowego i sankcje sprawiły, że inwestycje w wydobycie ropy i gazu skurczą się w tym roku o 15 mld dol. - Rosyjski sektor wydobywczy będzie odczuwał coraz więcej problemów - ocenia ekspert Instytutu Sobieskiego.
+

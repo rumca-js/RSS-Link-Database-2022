@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Want to be more productive in 2023? These experts can show you how in five hours.
  - [https://www.pcworld.com/article/1428770/want-to-be-more-productive-in-2023-these-experts-can-show-you-how-in-five-hours.html](https://www.pcworld.com/article/1428770/want-to-be-more-productive-in-2023-these-experts-can-show-you-how-in-five-hours.html)
@@ -44,3 +44,4 @@
 <p><em>Prices subject to change.</em></p>
 
 Productivity Software</div>
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'Jared, you're a pervert': Walmart employee holds NOTHING back before publicly quitting over the intercom
  - [https://www.louderwithcrowder.com/walmart-worker-quits](https://www.louderwithcrowder.com/walmart-worker-quits)
@@ -80,3 +80,4 @@
 <a href="https://youtu.be/3nvDK9rz1eE" target="_blank">youtu.be</a>
 </small>
 </p>
+

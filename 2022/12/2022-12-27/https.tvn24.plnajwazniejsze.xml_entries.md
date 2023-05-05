@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Chcieli porwać gubernator, aby "wzniecić wojnę domową"
  - [https://tvn24.pl/swiat/usa-niedoszly-porywacz-gubernator-michigan-skazany-na-16-lat-wiezienia-6554935?source=rss](https://tvn24.pl/swiat/usa-niedoszly-porywacz-gubernator-michigan-skazany-na-16-lat-wiezienia-6554935?source=rss)
@@ -71,6 +71,14 @@
 
 <img alt="Szykuje się zakaz plastikowych sztućców, talerzyków i słomek. Do Sejmu wpłynął projekt ustawy" src="https://tvn24.pl/najnowsze/cdn-zdjecie-18tswr-sztucce-taleze-kubki-kubek-opakowanie-opakowania-plastikowe-shutterstock1496093477-5201171/alternates/LANDSCAPE_1280" />
     Nowe przepisy to wdrożenie dyrektywy Unii Europejskiej.
+
+## PRAWA MAGAZYN KONIEC ROKU 2022
+ - [https://tvn24.pl/tvn24-magazyn/2022-magazyn-na-koniec-roku/?source=rss](https://tvn24.pl/tvn24-magazyn/2022-magazyn-na-koniec-roku/?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-27 18:05:25+00:00
+
+<img alt="PRAWA MAGAZYN KONIEC ROKU 2022" src="https://tvn24.pl/najnowsze/cdn-zdjecie-365ydb-prawa-magazyn-koniec-roku-2022-6554820/alternates/LANDSCAPE_1280" />
+    undefined
 
 ## "Nielegalne magazyny" rosyjskiego oligarchy. Ukrywał surowiec w ukraińskich portach
  - [https://tvn24.pl/biznes/ze-swiata/ukraina-sbu-nalozono-areszt-na-majatek-rosyjskiego-oligarchy-aliszera-usmanowa-6554776?source=rss](https://tvn24.pl/biznes/ze-swiata/ukraina-sbu-nalozono-areszt-na-majatek-rosyjskiego-oligarchy-aliszera-usmanowa-6554776?source=rss)
@@ -527,3 +535,4 @@
 
 <img alt="Pożar w szpitalu w Łodzi. Jedna osoba nie żyje, poszkodowane pielęgniarki" src="https://tvn24.pl/najnowsze/cdn-zdjecie-jvi87y-pozar-w-szpitalu-przy-ulicy-okolnej-w-lodzi-6553631/alternates/LANDSCAPE_1280" />
     Strażacy ewakuowali część pacjentów i personelu.
+

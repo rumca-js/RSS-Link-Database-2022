@@ -1,4 +1,4 @@
-# Source Financial Times World, Source URL:https://www.ft.com/world?format=rss, Source language: en-US
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## Apple to start making MacBooks in Vietnam by mid-2023
  - [https://www.ft.com/content/575009cf-450b-4dfd-ad41-ea913dfaa23e](https://www.ft.com/content/575009cf-450b-4dfd-ad41-ea913dfaa23e)
@@ -48,6 +48,13 @@ Authorities shut Radio M internet station, viewed as last remaining media outlet
  - date published: 2022-12-26 13:22:58+00:00
 
 Conservative kingdom opens up to the Christian holiday as it pushes through a series of modernising reforms
+
+## Carbon credit groups seek to expand investor appeal
+ - [https://www.ft.com/content/10988960-465a-4e8e-a7c9-a0687a1abf8f](https://www.ft.com/content/10988960-465a-4e8e-a7c9-a0687a1abf8f)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-26 11:00:51+00:00
+
+Some project developers are turning to capital markets to help finance new offsetting schemes
 
 ## Uruguay’s global ambitions shake up Latin America’s Mercosur trade bloc
  - [https://www.ft.com/content/1d8834b4-b531-4263-b435-6354128a1a9d](https://www.ft.com/content/1d8834b4-b531-4263-b435-6354128a1a9d)
@@ -118,3 +125,4 @@ Pull on your hiking boots and hit these scenic trails
  - date published: 2022-12-26 04:00:50+00:00
 
 Explosion of cases and ban on more effective western shots lead residents to look abroad
+

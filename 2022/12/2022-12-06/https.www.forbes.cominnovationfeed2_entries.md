@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## AI Haikus Are Getting Better - At Least In Japanese
  - [https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/](https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/)
@@ -622,3 +622,4 @@ Company claims 8X faster training than AWS at half the cost for large models.
  - date published: 2022-12-06 00:00:00+00:00
 
 There’s no way most phone makers will bring the headphone jack back, so for those of us who want to listen to music on our phone with “proper” headphones, we need to buy a DAC and headphone amps
+

@@ -1,4 +1,20 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## LG Innotek is ready to put true optical zoom lenses in the next wave of flagship phones
+ - [https://www.theverge.com/2022/12/27/23528191/lg-innotek-optical-telephoto-zoom-smartphone-camera](https://www.theverge.com/2022/12/27/23528191/lg-innotek-optical-telephoto-zoom-smartphone-camera)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-27 21:34:26+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/bZ36EItGHBb9ejdO-K27bMUYMIo=/0x1:1594x1064/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71797491/Screenshot_2022_12_27_at_11.07.34_AM.0.png" />
+        <figcaption>The camera module uses a tiny, precise actuator to move the lens between 4x and 9x telephoto settings. | Image: LG Innotek</figcaption>
+    </figure>
+
+  <p id="wfpznF">LG’s <a href="https://www.theverge.com/2021/4/4/22346084/lg-exits-smartphone-business">smartphone-making days may be over</a>, but LG Innotek — a major supplier of mobile camera modules — is alive and well. It’s introducing <a href="https://www.lginnotek.com/news/pressView.do?idx=6397&amp;locale=en&amp;rowSize=15&amp;category=">a new telephoto zoom camera module</a> at CES 2023, offering true, continuous optical zoom. The company is partnering with Qualcomm to fast-track adoption of its new tech alongside the Snapdragon 8 Gen 2 in upcoming flagship Android phones.</p>
+<p id="lLUcJ0">While most other long smartphone cameras use image-quality-degrading digital zoom to reach beyond their native focal length, LG’s design uses moving lenses — much like a traditional DSLR camera lens — which preserves image detail. This camera module also uses a folded-optic design, also referred to as a periscope lens, keeping the overall size down. The result is a lens...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/27/23528191/lg-innotek-optical-telephoto-zoom-smartphone-camera">Continue reading&hellip;</a>
+  </p>
 
 ## You’ll soon be able to talk to Home Assistant without Google, Siri, or Alexa
  - [https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa](https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa)
@@ -253,3 +269,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/27/23527673/lg-minimalistic-fridge-washer-dryer-oven-dishwasher-ces">Continue reading&hellip;</a>
   </p>
+

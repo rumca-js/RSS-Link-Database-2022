@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Trudeau, Ford Mark Opening of New Ontario Electric Vehicle Factory
  - [https://www.theepochtimes.com/trudeau-ford-mark-opening-of-new-ontario-electric-vehicle-factory_4905343.html](https://www.theepochtimes.com/trudeau-ford-mark-opening-of-new-ontario-electric-vehicle-factory_4905343.html)
@@ -420,3 +420,4 @@ Volcanic ash from Pronojiwo following the eruption of Mount Semeru volcano, in L
  - date published: 2022-12-05 00:33:33+00:00
 
 Epidemic control workers stand guard outside a community in lockdown in Beijing on Nov. 29, 2022.(Kevin Frayer/Getty Images)
+

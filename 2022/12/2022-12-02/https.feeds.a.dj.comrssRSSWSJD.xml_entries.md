@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Sam Bankman-Fried Chucks the Crisis Communications Playbook
  - [https://www.wsj.com/articles/sam-bankman-fried-chucks-the-crisis-communications-playbook-11670012155?mod=rss_Technology](https://www.wsj.com/articles/sam-bankman-fried-chucks-the-crisis-communications-playbook-11670012155?mod=rss_Technology)
@@ -62,3 +62,4 @@ A massive cohort of tech-savvy youngsters are learning to flex their financial i
  - date published: 2022-12-02 08:56:00+00:00
 
 The musician and designer, who now legally goes by Ye, posted a picture of a swastika merged with the Star of David.
+

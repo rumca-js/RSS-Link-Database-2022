@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Z tym urządzeniem produkcja wodoru jest zaskakująco łatwa. Jak działa?
  - [https://www.chip.pl/2022/12/produkcja-wodoru-urzadzenie-slona-woda](https://www.chip.pl/2022/12/produkcja-wodoru-urzadzenie-slona-woda)
@@ -111,3 +111,4 @@
 
 <img alt="Barak MX" class="attachment-full size-full wp-post-image" height="900" src="https://konto.chip.pl/wp-content/uploads/2022/12/Test-Barak-MX-Izraela-2.jpg" style="margin-bottom: 10px;" width="1600" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Test-Barak-MX-Izraela-2.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Systemy obrony przeciwrakietowej dzielą się na te przeznaczone zarówno na ląd, jak i akweny wodne. Oba rodzaje zapewniają odmienny poziom ochrony przed zagrożeniami nacierającymi z różnych stron, a że Izrael słynie z zaawansowanych (i niestety potrzebnych) systemów przeciwrakietowych, tamtejsze koncerny zbrojeniowe rozwijają rodzime rozwiązania, czego przykładem jest Barak MX, który zaliczył niedawno arcyważny test. Wielki [&#8230;]</p>
+

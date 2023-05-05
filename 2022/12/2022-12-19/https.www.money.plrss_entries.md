@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## PKB wyhamuje, czeka nas recesja. PIE pokazał prognozy
  - [https://www.money.pl/gospodarka/pkb-wyhamuje-czeka-nas-recesja-pie-pokazal-prognozy-6846366492347232a.html](https://www.money.pl/gospodarka/pkb-wyhamuje-czeka-nas-recesja-pie-pokazal-prognozy-6846366492347232a.html)
@@ -139,3 +139,4 @@
  - date published: 2022-12-19 05:24:00+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4aac7f6b-f339-4fe0-9d0b-c331a164fc97" width="308" /> Wyższe podatki, praca przez co najmniej 30 lat i koniec emerytalnych przywilejów urzędniczych, to ostatnie propozycje premiera Belgii Aleksandra De Croo, które przedstawił członkom swojego gabinetu. Współrządzący socjaliści, jak relacjonują media, nie zgadzają się na realizacje tych pomysłów i mówią: to nigdy nie przejdzie.
+

@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Former PDC finalist Simon Whitlock survives scare against Christian Perez
  - [https://www.theguardian.com/sport/2022/dec/17/former-pdc-finalist-simon-whitlock-survives-scare-against-christian-perez](https://www.theguardian.com/sport/2022/dec/17/former-pdc-finalist-simon-whitlock-survives-scare-against-christian-perez)
@@ -746,7 +746,6 @@ The actor, 31, on starring in Bad Sisters, working with James Gandolfini, coming
  - [https://www.theguardian.com/us-news/2022/dec/16/us-trans-non-binary-youth-suicide-mental-health](https://www.theguardian.com/us-news/2022/dec/16/us-trans-non-binary-youth-suicide-mental-health)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-17 06:00:14+00:00
- - tags: trans,nonbinary
 
 <p>The alarmingly high rates of depression, anxiety and suicide attempts are spread across liberal and conservative regions</p><p>More than 50% of transgender and non-binary youth in states across the US seriously considered suicide in the past year, according to new survey data on a worsening LGTBQ+ youth mental health crisis.</p><p>The Trevor Project, a non-profit organization dedicated to LGBTQ+ youth suicide prevention, on Thursday <a href="https://www.thetrevorproject.org/blog/the-trevor-project-releases-new-state-level-data-on-lgbtq-youth-mental-health-victimization-access-to-support/">released</a> state-level <a href="https://www.thetrevorproject.org/research-briefs/2022-u-s-national-survey-on-lgbtq-youth-mental-health-by-state-dec-2022/">data</a> from nearly 34,000 queer and trans youth ages 13 to 24, showing alarmingly high rates of suicide attempts, depression and anxiety across liberal and conservative regions.</p> <a href="https://www.theguardian.com/us-news/2022/dec/16/us-trans-non-binary-youth-suicide-mental-health">Continue reading...</a>
 
@@ -840,3 +839,4 @@ The actor, 31, on starring in Bad Sisters, working with James Gandolfini, coming
  - date published: 2022-12-17 00:30:05+00:00
 
 <p>Morocco’s coach has called it a ‘booby prize’ but there are still reasons to tune in</p><p>It is quite easy to forget about the third-place playoff at a World Cup with everyone focusing on the final. But who could forget Poland 3-2 France in 1982? Or Turkey 3-2 South Korea in 2002? Or even whatever happened when England played Belgium four years ago?</p> <a href="https://www.theguardian.com/football/2022/dec/17/world-cup-2022-briefing-why-the-third-place-playoff-is-worth-watching">Continue reading...</a>
+

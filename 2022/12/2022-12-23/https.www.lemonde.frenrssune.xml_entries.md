@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Across the US, deadly winter storms leave 1.4 million homes in the dark
  - [https://www.lemonde.fr/en/united-states/article/2022/12/23/across-the-us-deadly-winter-storms-leave-1-4-million-homes-in-the-dark_6008908_133.html](https://www.lemonde.fr/en/united-states/article/2022/12/23/across-the-us-deadly-winter-storms-leave-1-4-million-homes-in-the-dark_6008908_133.html)
@@ -237,3 +237,4 @@ On December 20, Taliban government has 'immediately' and 'until further notice' 
  - date published: 2022-12-23 00:01:17+00:00
 
 Cryptocurrency entrepreneur will await trial at his parents' California home. He's been charged with fraud for swindling investors and looting customer deposits on his FTX trading platform.
+

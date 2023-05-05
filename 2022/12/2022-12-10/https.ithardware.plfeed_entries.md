@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## BMW rozpoczęło produkcję wodorowego modelu iX5 Hydrogen
  - [https://ithardware.pl/aktualnosci/bmw_rozpoczelo_produkcje_wodorowego_modelu_ix5_hydrogen-24791.html](https://ithardware.pl/aktualnosci/bmw_rozpoczelo_produkcje_wodorowego_modelu_ix5_hydrogen-24791.html)
@@ -95,3 +95,4 @@ Windows 11 otrzymał wbudowaną funkcję&nbsp;nagrywania...
 
 <img src="https://ithardware.pl/artykuly/min/24709_1.jpg" />            Problemy z Wi-Fi? A może po prostu szukasz czegoś bezkompromisowego, bo masz dość buforowania na Netfliksie lub wysokich op&oacute;źnień w grach wideo? C&oacute;ż... mamy lekarstwo, bo dziś, dziesiątego dnia Konkursu Adwentowego do zdobycia...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_10-24709.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_10-24709.html</a></p>
+

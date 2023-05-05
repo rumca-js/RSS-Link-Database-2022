@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Heavy Snow in Japan Leaves 17 Dead, Dozens Injured
  - [https://www.theepochtimes.com/heavy-snow-in-japan-leaves-17-dead-dozens-injured_4946530.html](https://www.theepochtimes.com/heavy-snow-in-japan-leaves-17-dead-dozens-injured_4946530.html)
@@ -216,3 +216,4 @@ Leader of communist party Nepal, Pushpa Kamal Dahal, greets the gathering after 
  - date published: 2022-12-26 00:11:11+00:00
 
 A police-issued Taser gun is displayed at the Victoria police station in Victoria in a file photo. (The Canadian Press/Jonathan Hayward)
+

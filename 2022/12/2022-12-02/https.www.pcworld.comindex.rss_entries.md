@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## EcoFlow Delta 2 power station review: Flexible, advanced, and LOUD
  - [https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html](https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html)
@@ -496,3 +496,4 @@ Laptops, Ultraportable Laptops</div>
 
 <p><em>Prices subject to change.</em></p>
 Deep Learning</div>
+

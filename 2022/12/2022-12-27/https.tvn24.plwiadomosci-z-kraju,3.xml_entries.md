@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Córka byłego prezydenta Isabel dos Santos oskarżana o korupcję. Sąd nakazał "prewencyjne" zajęcie majątku i udziałów
  - [https://tvn24.pl/swiat/angola-corka-bylego-prezydenta-isabel-dos-santos-oskarzana-o-korupcje-sad-nakazal-prewencyjne-zajecie-majatku-6554791?source=rss](https://tvn24.pl/swiat/angola-corka-bylego-prezydenta-isabel-dos-santos-oskarzana-o-korupcje-sad-nakazal-prewencyjne-zajecie-majatku-6554791?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Kardynał Krajewski zawiózł do Ukrainy transport z pomocą od papieża. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-ds4lzk-kardynal-konrad-krajewski-6554490/alternates/LANDSCAPE_1280" />
     Papieski jałmużnik kardynał Konrad Krajewski wraca do Rzymu z piątej misji do Ukrainy od początku rosyjskiej inwazji. Zawiózł kolejny transport z pomocą - generatory prądotwórcze i ciepłochronną odzież. - Opowiadałem Ojcu Świętemu, że kiedy przejeżdżałem przez granicę, to w końcu jeden z celników do mnie mówi: "ksiądz to chyba jest z mafii, bo ciągle coś przewozi, a samochód prawie dotyka asfaltu, bo tak był obciążony". Ponieważ generatory są bardzo ciężkie, około 50 kilo, a nawet do 100 kilo ważą te, które przewoziliśmy - wyjaśniał kardynał.
+

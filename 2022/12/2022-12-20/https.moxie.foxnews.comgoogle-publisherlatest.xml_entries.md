@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## European court deals blow to Super League claim of illegal UEFA monopoly
  - [https://www.foxnews.com/sports/european-court-deals-blow-super-league-claim-illegal-uefa-monopoly](https://www.foxnews.com/sports/european-court-deals-blow-super-league-claim-illegal-uefa-monopoly)
@@ -538,6 +538,13 @@ Two people were killed in Illinois after the car they were in was struck by a Me
  - date published: 2022-12-20 16:30:16+00:00
 
 CNN anchor Don Lemon argued with former Defense Secretary Mark Esper over the effectiveness of former President Trump's border wall and insisted it was "wasted time."
+
+## Texas DPS tracks down Honduran drug traffickers on border, one suspect just 14 years old
+ - [https://www.foxnews.com/politics/border-patrol-tracks-down-honduran-drug-traffickers-texas-border-one-suspect-just-14-years-old](https://www.foxnews.com/politics/border-patrol-tracks-down-honduran-drug-traffickers-texas-border-one-suspect-just-14-years-old)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-20 16:16:13+00:00
+
+Texas DPS authorities have detained a group of four Hondurans attempting to cross into Texas through Mexico, also discovering a stash of fentanyl and marijuana.
 
 ## Murdaugh murders: AG to seek life without parole as judge orders state to turn over blood-spatter analysis
  - [https://www.foxnews.com/us/murdaugh-murders-judge-orders-state-turn-blood-spatter-analysis-files](https://www.foxnews.com/us/murdaugh-murders-judge-orders-state-turn-blood-spatter-analysis-files)
@@ -1259,3 +1266,4 @@ NBC justice reporter Ryan J. Reilly was criticized Monday on Twitter for mocking
  - date published: 2022-12-20 00:30:28+00:00
 
 Virginia Republican Governor Glenn R. Youngkin sounded off Monday on the fact the Title 42 immigration measure will be removed later this week.
+

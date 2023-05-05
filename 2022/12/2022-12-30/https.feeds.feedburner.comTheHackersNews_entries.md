@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researcher Uncovers Potential Wiretapping Bugs in Google Home Smart Speakers
  - [https://thehackernews.com/2022/12/researcher-uncovers-potential.html](https://thehackernews.com/2022/12/researcher-uncovers-potential.html)
@@ -15,3 +15,4 @@ The flaws "allowed an attacker within wireless proximity to install a 'backdoor'
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two-years-old security flaws impacting TIBCO Software's JasperReports product to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 The flaws, tracked as CVE-2018-5430 (CVSS score: 7.7) and CVE-2018-18809 (CVSS score: 9.9), were addressed by TIBCO in April 2018 and March 2019,
+

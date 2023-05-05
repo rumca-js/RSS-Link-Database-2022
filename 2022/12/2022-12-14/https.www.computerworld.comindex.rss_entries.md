@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple looks poised to open its walled garden in 2023
  - [https://www.computerworld.com/article/3682761/apple-looks-poised-to-open-its-walled-garden-in-2023.html#tk.rss_all](https://www.computerworld.com/article/3682761/apple-looks-poised-to-open-its-walled-garden-in-2023.html#tk.rss_all)
@@ -27,3 +27,4 @@
 <article>
 	<section class="page">
 <p>One in four employees don’t feel secure in their current positions and almost half  of them plan to explore new job options in 2023, according to a new report that indicates  <a href="https://www.computerworld.com/article/3645496/the-great-resignation-why-workers-quit-and-how-companies-can-respond.html">the Great Resignation</a> remains in full swing.</p><p>Over the past year, more than 4 million workers have quit their jobs every month, according to <a href="https://www.bls.gov/news.release/jolts.t04.htm?tpcc=nlraceahead" rel="nofollow noopener" target="_blank">US Bureau of Labor Statistics</a></p><p>The report, by human resource management software provider <a href="https://www.isolvedhcm.com/" rel="nofollow noopener" target="_blank">Isolved</a>, says the top way employers can improve company culture and retain their workers is by paying their employees market value.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3682758/the-great-resignation-isnt-over-yet.html#jump">To read this article in full, please click here</a></p></section></article>
+

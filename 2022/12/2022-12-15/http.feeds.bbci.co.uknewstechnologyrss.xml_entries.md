@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Ofcom report shows growing 5G coverage
  - [https://www.bbc.co.uk/news/technology-63974085?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63974085?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ The sale brings the total of Tesla stocks sold by Mr Musk over the past year to 
  - date published: 2022-12-15 00:24:15+00:00
 
 Twitter owner Elon Musk's critics say the suspension contradicts his avowed commitment to free speech.
+

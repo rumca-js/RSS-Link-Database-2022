@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Striking NYT workers whine about how rough their lives are, like having to come to work five days a week
  - [https://www.louderwithcrowder.com/new-york-times-strike](https://www.louderwithcrowder.com/new-york-times-strike)
@@ -127,3 +127,4 @@
 <a href="https://youtu.be/DcQ9aB9lNEw" target="_blank">youtu.be</a>
 </small>
 </p>
+

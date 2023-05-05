@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## From recovery to regulation: How China's tech giants could fare in 2023 after a bruising year
  - [https://www.cnbc.com/2022/12/20/china-technology-sector-stock-outlook-for-2023.html](https://www.cnbc.com/2022/12/20/china-technology-sector-stock-outlook-for-2023.html)
@@ -125,3 +125,4 @@ On Sunday, Twitter's new owner and CEO Elon Musk posted an informal poll of the 
  - date published: 2022-12-19 02:04:13+00:00
 
 The collapse of FTX, once a $32 billion exchange, has shattered investor confidence in crypto. CNBC looks at how it may reshape the industry in the long run.
+

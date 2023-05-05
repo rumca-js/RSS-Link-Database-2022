@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Russian Air Base Is Attacked, as Ukraine Discounts Escalation Threat
  - [https://www.nytimes.com/2022/12/26/world/europe/russia-drone-attack-ukraine.html](https://www.nytimes.com/2022/12/26/world/europe/russia-drone-attack-ukraine.html)
@@ -13,6 +13,13 @@ Russia said falling wreckage from a Ukrainian drone had killed three servicemen 
  - date published: 2022-12-26 21:33:42+00:00
 
 Ali Daei, a prominent former soccer player, said his wife and daughter were prevented from leaving Iran on Monday after their plane made an unannounced stopover en route to Dubai.
+
+## How citizen spies foiled Putin’s grand plan for one Ukrainian city.
+ - [https://www.nytimes.com/2022/12/26/world/europe/how-citizen-spies-foiled-putins-grand-plan-for-one-ukrainian-city.html](https://www.nytimes.com/2022/12/26/world/europe/how-citizen-spies-foiled-putins-grand-plan-for-one-ukrainian-city.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-12-26 21:30:04+00:00
+
+A partisan cell in Kherson spied on, undermined and even hunted down Russian soldiers. Now that Vladimir V. Putin’s forces are gone, people feel free to talk — and to brag a little.
 
 ## With More Strikes in Russia, Ukraine Makes Calculation Moscow Has Reached Limit, Analysts Say
  - [https://www.nytimes.com/live/2022/12/26/world/russia-ukraine-news](https://www.nytimes.com/live/2022/12/26/world/russia-ukraine-news)
@@ -48,6 +55,13 @@ From Jan. 8, visitors will be required to show only a negative P.C.R. test taken
  - date published: 2022-12-26 18:48:30+00:00
 
 The suspect is accused of killing three Kurds. Prosecutors say he admitted targeting foreigners, but many Kurds see the attack as politically motivated terrorism.
+
+## Bakhmut’s final food stand finds a way to keep the pizza coming.
+ - [https://www.nytimes.com/2022/12/26/world/europe/bakhmuts-final-food-stand-finds-a-way-to-keep-the-pizza-coming.html](https://www.nytimes.com/2022/12/26/world/europe/bakhmuts-final-food-stand-finds-a-way-to-keep-the-pizza-coming.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-12-26 18:32:46+00:00
+
+
 
 ## Nepal’s Revolving Door Produces a New Leader but No Hoped-For Change
  - [https://www.nytimes.com/2022/12/26/world/asia/nepal-election-prime-minister.html](https://www.nytimes.com/2022/12/26/world/asia/nepal-election-prime-minister.html)
@@ -105,6 +119,13 @@ South Korean war planes fired warning shots, while the authorities briefly prohi
 
 A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the residents — who luckily had a well-stocked kitchen.
 
+## Ukraine is offering Russian soldiers detailed instructions on how to surrender to its drones.
+ - [https://www.nytimes.com/2022/12/26/world/europe/ukraine-is-offering-russian-soldiers-detailed-instructions-on-how-to-surrender-to-its-drones.html](https://www.nytimes.com/2022/12/26/world/europe/ukraine-is-offering-russian-soldiers-detailed-instructions-on-how-to-surrender-to-its-drones.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-12-26 08:23:45+00:00
+
+
+
 ## In Ukraine, Christmas lights defy the darkness of war.
  - [https://www.nytimes.com/2022/12/26/world/europe/in-ukraine-christmas-lights-defy-the-darkness-of-war.html](https://www.nytimes.com/2022/12/26/world/europe/in-ukraine-christmas-lights-defy-the-darkness-of-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
@@ -118,3 +139,4 @@ A South Korean tour group’s van became stuck in the snow outside a house in Wi
  - date published: 2022-12-26 05:02:03+00:00
 
 A special edition looking back at 2022.
+

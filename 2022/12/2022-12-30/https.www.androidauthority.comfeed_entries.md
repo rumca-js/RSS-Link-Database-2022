@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Here are the best streaming shows you might have missed in 2022
  - [https://www.androidauthority.com/best-streaming-shows-missed-2022-hidden-gems-3258892/](https://www.androidauthority.com/best-streaming-shows-missed-2022-hidden-gems-3258892/)
@@ -55,3 +55,4 @@ We've also got the $149 Moto Buds 600 ANC.
  - date published: 2022-12-30 05:52:17+00:00
 
 The Movano Evie targets female users with multiple female health-tracking features.
+

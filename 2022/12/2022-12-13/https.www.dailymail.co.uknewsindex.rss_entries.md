@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Online romance scam warning as AFP arrest 21 people
  - [https://www.dailymail.co.uk/news/article-11535413/Online-romance-scam-warning-AFP-arrest-21-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11535413/Online-romance-scam-warning-AFP-arrest-21-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1817,7 +1817,6 @@ Leonard Cohen's children have sued the appointed trustee in charge of their fath
  - [https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-13 00:39:13+00:00
- - tags: censorship,trump,twitter files,twitter
 
 President Donald Trump was banned from Twitter for a post which some a some thought could be interpreted as an 'incitement of violence,' while dictators were allowed to call for murder.
 
@@ -1862,3 +1861,4 @@ Americans believe that the federal budget will be most positively impacted by a
  - date published: 2022-12-13 00:01:53+00:00
 
 Experts say it has the potential to help 3,000 children a year in England if rolled out, helping many young patients before symptoms appear.
+

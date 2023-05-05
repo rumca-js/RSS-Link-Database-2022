@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Activists file lawsuit against Meta over murdered Ethiopian professor
  - [https://www.washingtonpost.com/technology/2022/12/13/ethiopia-slain-professor-lawsuit-meta-kenya/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/13/ethiopia-slain-professor-lawsuit-meta-kenya/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ A medical ethics group asked the FDA to disqualify Neuralink from animal tests a
  - date published: 2022-12-13 05:22:35+00:00
 
 Hong Kong authorities remain very sensitive about "Glory to Hong Kong" despite the city's reputation for openness and access to information in contrast to the mainland.
+

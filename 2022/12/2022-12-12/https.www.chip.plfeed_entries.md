@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Przełom, na który czekał świat nauki. Fuzja jądrowa wkroczyła na nowy poziom
  - [https://www.chip.pl/2022/12/fuzja-jadrowa-dodatni-bilans-energetyczny](https://www.chip.pl/2022/12/fuzja-jadrowa-dodatni-bilans-energetyczny)
@@ -127,3 +127,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="531" src="https://konto.chip.pl/wp-content/uploads/2022/12/komputer.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/komputer.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Powszechnie wykorzystywane układy scalone opierają swoje funkcjonowanie na przenoszeniu elektronów. W tym przypadku inżynierowie zastosowali jednak inny sposób. Na czele zespołu zajmującego się tą sprawą stanął Yi Zhang z Uniwersytetu Aalto, który wraz ze współpracownikami stworzył optyczne bramki logiczne wykonujące swoje zadania za pomocą światła. O tym, jak dokładnie działa ich koncepcja możemy przeczytać na [&#8230;]</p>
+

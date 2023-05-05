@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Lauren Boebert Officially Wins Reelection Bid
  - [https://www.dailywire.com/news/lauren-boebert-officially-wins-reelection-bid](https://www.dailywire.com/news/lauren-boebert-officially-wins-reelection-bid)
@@ -356,3 +356,4 @@ Former FTX CEO Sam Bankman-Fried desires to launch a new business that would pay
  - date published: 2022-12-12 08:53:20+00:00
 
 After he was booed when he made a surprise appearance on stage with Dave Chappelle at Chappelle’s show at the Chase Center in San Francisco Sunday night, Twitter CEO Elon Musk followed by issuing a ringing denunciation of his leftist foes on Monday morning. When Chappelle introduced Musk, much of the crowd booed, prompting Chappelle to ...
+

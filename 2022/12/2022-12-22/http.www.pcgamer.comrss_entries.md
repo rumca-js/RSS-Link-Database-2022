@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Boomer shooters had a phenomenal year—these are our top picks for retro FPS action on the cheap
  - [https://www.pcgamer.com/boomer-shooters-had-a-phenomenal-yearthese-are-our-top-picks-for-retro-fps-action-on-the-cheap](https://www.pcgamer.com/boomer-shooters-had-a-phenomenal-yearthese-are-our-top-picks-for-retro-fps-action-on-the-cheap)
@@ -167,3 +167,4 @@ Better to make sure everyone gets a slice.
  - date published: 2022-12-22 02:51:58+00:00
 
 These could be a really great card, if the price is right.
+

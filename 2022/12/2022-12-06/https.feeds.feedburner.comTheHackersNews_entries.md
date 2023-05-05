@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Chinese Hackers Target Middle East Telecoms in Latest Cyber Attacks
  - [https://thehackernews.com/2022/12/chinese-hackers-target-middle-east.html](https://thehackernews.com/2022/12/chinese-hackers-target-middle-east.html)
@@ -50,3 +50,4 @@ The
 
 A version of an open source ransomware toolkit called Cryptonite has been observed in the wild with wiper capabilities due to its "weak architecture and programming."
 Cryptonite, unlike other ransomware strains, is not available for sale on the cybercriminal underground, and was instead offered for free by an actor named CYBERDEVILZ until recently through a GitHub repository. The source code and
+

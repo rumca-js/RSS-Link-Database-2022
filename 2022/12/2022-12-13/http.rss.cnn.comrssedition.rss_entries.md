@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## El Paso experiences 'major surge' in border crossings
  - [https://www.cnn.com/videos/politics/2022/12/13/el-paso-border-crossings-lavandera-lead-pkg-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/13/el-paso-border-crossings-lavandera-lead-pkg-vpx.cnn)
@@ -546,3 +546,4 @@ For the first time, a new gene editing technology called base editing was used t
  - date published: 2022-12-13 00:04:19+00:00
 
 Sam Bankman-Fried, the founder of failed crypto exchange FTX, was arrested in the Bahamas on Monday after US prosecutors filed criminal charges against him, according to a statement from the government of the Bahamas.
+

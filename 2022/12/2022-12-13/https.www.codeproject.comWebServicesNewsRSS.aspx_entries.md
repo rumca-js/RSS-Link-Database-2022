@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 5 new MVC features in .NET 7
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59790](https://www.codeproject.com/script/News/View.aspx?nwid=59790)
@@ -118,3 +118,4 @@ Hitting the egg nog - heavy on the nog
  - date published: 2022-12-13 05:00:00+00:00
 
 Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects
+

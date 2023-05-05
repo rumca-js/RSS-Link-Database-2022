@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Zełenski rozmawiał z Bidenem. Pentagon ujawnił, jaką broń przekaże Ukrainie
  - [https://businessinsider.com.pl/wiadomosci/zelenski-w-usa-pentagon-ujawnil-jaka-bron-przekaze-ukrainie/s6vzx1s](https://businessinsider.com.pl/wiadomosci/zelenski-w-usa-pentagon-ujawnil-jaka-bron-przekaze-ukrainie/s6vzx1s)
@@ -496,3 +496,4 @@ Kongres zdecydował, że ujawni dokumenty podatkowe byłego prezydenta Stanów Z
  - date published: 2022-12-21 05:00:00+00:00
 
 Szef Komendy Głównej Policji otrzymał w prezencie od ukraińskich służb dwa granatniki przeciwpancerne, które miały być zużyte i przerobione na przedmioty dekoracyjne. To dość nietypowy podarek, którego szef polskiej policji nie zgłosił do rejestru korzyści. Być może nie musiał, jeśli jego wartość oszacowano na mniejszą, niż wymaga obowiązek informacyjny. Inni szefowie polskich służb różnie podchodzą do tematu. Niektórzy skrupulatnie wyliczają otrzymane zegarki, szable, sztućce i pióra. Pozostali z kolei twierdzą, że nie otrzymują prezentów lub wcale nie składają oświadczeń.
+

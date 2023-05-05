@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Bankman-Fried agrees to extradition from Bahamas to face U.S. charges
  - [https://www.washingtonpost.com/technology/2022/12/19/sam-bankman-fried-extradition-bahamas/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/19/sam-bankman-fried-extradition-bahamas/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Before moving abroad and backing high-tech companies in the United States and al
  - date published: 2022-12-19 04:00:06+00:00
 
 Musk apologized and launched a poll on whether to remain Twitter CEO after a policy outlawing promotion of other social media sites prompted major backlash.
+

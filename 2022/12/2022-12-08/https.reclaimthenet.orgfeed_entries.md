@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## US military official targets mom over Facebook post that criticized school’s promotion of “polysexual” art
  - [https://reclaimthenet.org/us-military-official-targets-mom-facebook-post/](https://reclaimthenet.org/us-military-official-targets-mom-facebook-post/)
@@ -55,3 +55,4 @@
 
 <a href="https://reclaimthenet.org/elon-musk-censorship-docs-hidden-or-deleted/" rel="nofollow" title="Elon Musk hints censorship docs may have been hidden or deleted"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/elon-twit.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>By previous employees.</p>
 <p>The post <a href="https://reclaimthenet.org/elon-musk-censorship-docs-hidden-or-deleted/" rel="nofollow">Elon Musk hints censorship docs may have been hidden or deleted</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

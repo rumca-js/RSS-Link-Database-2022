@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## I Have So Many Questions About Avatar's 12 Days of Christmas
  - [https://gizmodo.com/avatar-way-of-water-christmas-carol-wtf-james-cameron-1849916220](https://gizmodo.com/avatar-way-of-water-christmas-carol-wtf-james-cameron-1849916220)
@@ -300,3 +300,4 @@
  - date published: 2022-12-20 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--XzldrL-D--/c_fit,fl_progressive,q_80,w_636/e39be88ef0aa335f3fa1476772149591.jpg" /><p>Turns out the trailer for <a href="https://gizmodo.com/indiana-jones-5-trailer-harrison-ford-lucasfilm-disney-1849798758"><em>Indiana Jones and the Dial of Destiny</em></a> might only be the second-best thing to happen with the movie this month. The top spot might be reserved for the <a href="https://gizmodo.com/indiana-jones-5-opening-harrison-ford-lucasfilm-ilm-1849808175">film’s director James Mangold</a>, who’s been patiently, but directly, explaining to people on Twitter he knows more about his movie than they do. </p><p><a href="https://gizmodo.com/indiana-jones-5-rumors-trolls-james-mangold-lucasfilm-1849912634">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## BitKeep Confirms Cyber Attack, Loses Over $9 Million in Digital Currencies
  - [https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html](https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html)
@@ -15,3 +15,4 @@ Decentralized multi-chain crypto wallet BitKeep on Wednesday confirmed a cyberat
 
 Microsoft's decision to block Visual Basic for Applications (VBA) macros by default for Office files downloaded from the internet has led many threat actors to improvise their attack chains in recent months.
 Now according to Cisco Talos, advanced persistent threat (APT) actors and commodity malware families alike are increasingly using Excel add-in (.XLL) files as an initial intrusion vector.
+

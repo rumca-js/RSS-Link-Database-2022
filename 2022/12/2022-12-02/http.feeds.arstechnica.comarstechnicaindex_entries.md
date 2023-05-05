@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## OLED monitor selection is pathetic. 2023 can change that
  - [https://arstechnica.com/?p=1901593](https://arstechnica.com/?p=1901593)
@@ -125,3 +125,4 @@ A new vision of sci-fi survival-horror updates the pace for classic scares.
  - date published: 2022-12-02 00:38:57+00:00
 
 It's a win for those with C. diff and a milestone for microbiome-based therapies.
+

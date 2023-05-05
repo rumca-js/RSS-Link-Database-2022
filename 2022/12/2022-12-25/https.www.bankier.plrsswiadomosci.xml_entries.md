@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Europa zmaga się z napływem uchodźców. Ten kraj przoduje na tle UE
  - [https://www.bankier.pl/wiadomosc/Europa-zmaga-sie-z-naplywem-uchodzcow-Ten-kraj-przoduje-na-tle-UE-8462505.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Europa-zmaga-sie-z-naplywem-uchodzcow-Ten-kraj-przoduje-na-tle-UE-8462505.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -147,3 +147,4 @@ przedemerytalnym, pracownicy służby zdrowia i opieki społecznej.</p>
  - date published: 2022-12-25 03:02:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/5/0f5eb4bc12b321-948-568-0-202-3000-1799.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Zdaniem amerykańskiego dziennika "Wall Street Journal" prezydent Rosji Władimir Putin nie zna prawdziwego obrazu i przebiegu wojny na Ukrainie i kieruje się własnymi  poglądami i uprzedzeniami, które umacniają w nim najbliźsi doradcy.</p>
+

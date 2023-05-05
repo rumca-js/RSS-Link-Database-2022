@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Po co nam wideorejestrator? Sprawdzamy Nextbase 522GW
  - [https://www.chip.pl/2022/12/nextbase-522gw-po-co-nam-wideorejestrator-opinia](https://www.chip.pl/2022/12/nextbase-522gw-po-co-nam-wideorejestrator-opinia)
@@ -127,3 +127,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="690" src="https://konto.chip.pl/wp-content/uploads/2022/12/valknut.png" style="margin-bottom: 10px;" width="690" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/valknut.png" style="display: block; margin: 1em auto;" /></p>
 <p>Przedstawiciele Uniwersytetu Aalto połączyli trzy wiry kwantowe tak, aby nie dochodziło do ich rozpadu. Powstała w ten sposób struktura jest zadziwiająco podobna do symbolu wykorzystywanego przez wikingów.  To, co udało się zaobserwować jest nie tylko ciekawostką, ale i może mieć istotny wpływ na kilka dziedzin nauki, takich jak fizyka cząstek i obliczenia kwantowe. Bosego-Einsteina. Odkrycia [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Best Places to Catch the Northern Lights in 2023
  - [https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229](https://lifehacker.com/the-best-places-to-catch-the-northern-lights-in-2023-1849924229)
@@ -20,3 +20,4 @@
  - date published: 2022-12-25 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--gwu1bmKN--/c_fit,fl_progressive,q_80,w_636/1776b85e7ee996deb78e6a22a7a41793.jpg" /><p>Whether you’re a seasoned real estate pro, or someone who casually scans the listings from time to time, you’ve probably noticed that the <a href="https://lifehacker.com/why-so-many-homes-are-being-taken-off-the-market-right-1849858667">2022 housing market</a> has been <a href="https://lifehacker.com/6-of-the-best-videos-to-help-you-understand-this-housin-1849808743">a little hard to follow</a> at times. Like 2021, most experts have indicated that this year has largely been a <a href="https://lifehacker.com/the-difference-between-a-buyers-market-and-a-sellers-ma-1849599283">seller’s market</a>, but what’s in store for 2023?</p><p><a href="https://lifehacker.com/these-cities-are-expected-to-see-the-biggest-real-estat-1849924191">Read more...</a></p>
+

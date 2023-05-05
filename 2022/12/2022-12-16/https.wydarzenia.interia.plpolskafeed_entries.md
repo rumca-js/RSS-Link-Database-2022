@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Mnożą się wątpliwości po wybuchu w komendzie. Nieoficjalnie: Komendant nie poda się do dymisji
  - [https://wydarzenia.interia.pl/kraj/news-mnoza-sie-watpliwosci-po-wybuchu-w-komendzie-nieoficjalnie-k,nId,6477218](https://wydarzenia.interia.pl/kraj/news-mnoza-sie-watpliwosci-po-wybuchu-w-komendzie-nieoficjalnie-k,nId,6477218)
@@ -13,3 +13,4 @@
  - date published: 2022-12-16 06:00:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-zakaz-ladowania-prywatnych-telefonow-w-pracy-nonsens,nId,6474875"><img align="left" alt="Zakaz ładowania prywatnych telefonów w pracy. &quot;Nonsens&quot;" src="https://i.iplsc.com/zakaz-ladowania-prywatnych-telefonow-w-pracy-nonsens/000GHSRYGDG9XXTF-C321.jpg" /></a>Prywatnego telefonu pracownikowi w pracy ładować nie wolno - to jedna z metod na oszczędzanie wprowadzana przez niektóre instytucje. Jak potwierdziła Interia, taki zakaz wprowadzono m.in. w Sądzie Okręgowym w Katowicach. Oszczędność? Niecałe dwa złote. Na jednym pracowniku. Przez rok.</p><br clear="all" />
+

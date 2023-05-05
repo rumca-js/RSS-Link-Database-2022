@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 5 Trends in AI that will dominate 2023
  - [https://stories.evopricing.com/5-trends-in-ai-that-will-dominate-2023-40da8450356](https://stories.evopricing.com/5-trends-in-ai-that-will-dominate-2023-40da8450356)
@@ -132,3 +132,4 @@ Assuming you use it, of course
  - date published: 2022-12-23 05:00:00+00:00
 
 In case you think your programming will get a little rusty over the holidays
+

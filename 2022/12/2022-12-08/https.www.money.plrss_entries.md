@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Przełomowa decyzja polskiego banku. Czy dobra dla kredytobiorców?
  - [https://www.money.pl/banki/kredyt-mieszkaniowy-tylko-staloprocentowy-czy-to-dobre-dla-kredytobiorcow-dwie-strony-medalu-6842378122668608a.html](https://www.money.pl/banki/kredyt-mieszkaniowy-tylko-staloprocentowy-czy-to-dobre-dla-kredytobiorcow-dwie-strony-medalu-6842378122668608a.html)
@@ -174,3 +174,4 @@
  - date published: 2022-12-08 05:38:03+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b93f6830-d651-4e33-a8fb-3771d4436949" width="308" /> Na początku 2023 roku wróci 23-procentowy VAT dodany do gazu. Rząd utrzymuje, że to wymóg Brukseli. Ale Unia wcale nie blokuje Polsce możliwości obniżania VAT na gaz - informuje dziennik "Rzeczpospolita".
+

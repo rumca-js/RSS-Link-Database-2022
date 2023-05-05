@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## To będą smutne święta dla Elona Muska. Oto dlaczego
  - [https://www.money.pl/gielda/tesla-akcje-leca-w-dol-kiedy-kurs-sie-zatrzyma-prognoza-na-2023-r-6847297568983872a.html](https://www.money.pl/gielda/tesla-akcje-leca-w-dol-kiedy-kurs-sie-zatrzyma-prognoza-na-2023-r-6847297568983872a.html)
@@ -20,3 +20,4 @@
  - date published: 2022-12-24 08:44:50+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/6749d0e7-7746-45e7-a326-c628f62ac59f" width="308" /> Serwis YouTube działa już od ponad 17 lat. W tym czasie najpopularniejsze utwory zostały wyświetlone przez internautów miliardy razy. Jak wygląda ścisły światowy top najpopularniejszych wideoklipów opublikowanych w serwisie i jak wypadają na tle czołówki polscy twórcy?
+

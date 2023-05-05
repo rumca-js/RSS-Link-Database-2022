@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## GeForce RTX 4090 z turbiną faktycznie istnieje i wygląda komicznie. Karta pojawiła się w sprzedaży
  - [https://ithardware.pl/aktualnosci/geforce_rtx_4090_z_turbina_faktycznie_istnieje_i_wyglada_komicznie_karta_pojawila_sie_w_sprzedazy-25077.html](https://ithardware.pl/aktualnosci/geforce_rtx_4090_z_turbina_faktycznie_istnieje_i_wyglada_komicznie_karta_pojawila_sie_w_sprzedazy-25077.html)
@@ -113,3 +113,4 @@ Amerykańskie sankcje oraz op&oacute;źnienie w rozwoju...
 
 Za powstanie wideo odpowiada&nbsp;nasz redakcyjny...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_szosty_grudzien_2022-25066.html">https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_szosty_grudzien_2022-25066.html</a></p>
+

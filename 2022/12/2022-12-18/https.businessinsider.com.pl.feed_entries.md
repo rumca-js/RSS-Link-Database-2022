@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Szymon Marciniak poprowadził finał mundialu w Katarze. Tyle zarobił
  - [https://businessinsider.com.pl/sport/szymon-marciniak-poprowadzil-final-mundialu-w-katarze-tyle-zarobil/kf0rs81](https://businessinsider.com.pl/sport/szymon-marciniak-poprowadzil-final-mundialu-w-katarze-tyle-zarobil/kf0rs81)
@@ -97,3 +97,4 @@ Robert Makłowicz wchodzi w nowy biznes. Powstaje spółka Makłowicz i Synowie.
  - date published: 2022-12-18 07:58:45+00:00
 
 Malta chce przyciągnąć do siebie turystów z Polski. W tym celu otworzyła w Warszawie biuro swojej organizacji turystycznej. — Nie chcemy rywalizować w oparciu o cenę. Chcemy zachęcać i przyciągać turystów tym, co możemy im zaoferować na miejscu — mówi w rozmowie z Business Insider Polska Clayton Bartolo, minister turystyki Malty.
+

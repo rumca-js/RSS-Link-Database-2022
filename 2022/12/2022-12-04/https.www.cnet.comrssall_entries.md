@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Finished '1899'? Time to Watch the Best Show on Netflix     - CNET
  - [https://www.cnet.com/culture/entertainment/finished-1899-time-to-watch-the-best-show-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/finished-1899-time-to-watch-the-best-show-on-netflix/#ftag=CADf328eec)
@@ -426,3 +426,4 @@ You can get faster, more reliable Wi-Fi throughout your entire home with a mesh 
  - date published: 2022-12-04 00:38:00+00:00
 
 Jonathan Graziano's pug went viral for predicting what kind of day viewers should have.
+

@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Members of Twitter’s Trust and Safety Council Resign, Claim Hate Speech on the Rise Under Musk’s Leadership
  - [https://www.theepochtimes.com/members-of-twitters-trust-and-safety-council-resign-claim-hate-speech-on-the-rise-under-musks-leadership_4914775.html](https://www.theepochtimes.com/members-of-twitters-trust-and-safety-council-resign-claim-hate-speech-on-the-rise-under-musks-leadership_4914775.html)
@@ -41,3 +41,4 @@ Tiktok, The Clock Is Ticking &#124; The Beau Show
  - date published: 2022-12-09 00:51:02+00:00
 
 SpaceX owner and Tesla CEO Elon Musk smiles at the E3 gaming convention in Los Angeles on June 13, 2019. (Mike Blake/Reuters)
+

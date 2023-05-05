@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Effective, fast, and unrecoverable: Wiper malware is popping up everywhere
  - [https://arstechnica.com/?p=1903915](https://arstechnica.com/?p=1903915)
@@ -111,3 +111,4 @@ New $899 and $999 GPUs maintain the status quo in the Nvidia-AMD rivalry.
  - date published: 2022-12-12 13:00:50+00:00
 
 26 mpg once the battery is depleted is not amazing, however.
+

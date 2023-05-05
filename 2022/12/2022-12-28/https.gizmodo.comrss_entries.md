@@ -1,4 +1,11 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Christian Slater's Willow Character Is From an Imaginary Sequel We Never Saw
+ - [https://gizmodo.com/christian-slater-willow-disney-plus-lucasfilm-madmartig-1849935103](https://gizmodo.com/christian-slater-willow-disney-plus-lucasfilm-madmartig-1849935103)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-28 23:40:00+00:00
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--o1lOVcas--/c_fit,fl_progressive,q_80,w_636/44e04b1dfef9671ebe5a74cc9373ce22.jpg" /><p>Christian Slater <a href="https://gizmodo.com/d23-expo-willow-lucasfilm-disney-plus-1849521269">being part of Disney+’s</a> <em>Willow</em> is easily one of the most exciting things about the series. <a href="https://gizmodo.com/the-christian-slater-tipping-point-2011-will-be-the-ye-5731892">Slater’s career has spanned</a> decades and includes some of our most beloved films and shows. He’s the kind of actor who, <a href="https://gizmodo.com/christian-slater-will-star-in-the-next-tv-show-about-an-1649099071">if they’re in a project</a>, instantly makes you more excited about it. However, previous to…</p><p><a href="https://gizmodo.com/christian-slater-willow-disney-plus-lucasfilm-madmartig-1849935103">Read more...</a></p>
 
 ## 2022 Was Star Trek's Year
  - [https://gizmodo.com/2022-year-in-review-star-trek-paramount-picard-1849935695](https://gizmodo.com/2022-year-in-review-star-trek-paramount-picard-1849935695)
@@ -223,3 +230,4 @@
  - date published: 2022-12-28 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--RAcc3szf--/c_fit,fl_progressive,q_80,w_636/f2634d7d4e1ee807e42b690d56a54a61.jpg" /><p>It’s December 27, the year is basically over, and you know what that means: it’s time to look back on some stuff.<br /></p><p><a href="https://gizmodo.com/open-channel-io9-2022-pop-culture-surprises-marvel-1849931868">Read more...</a></p>
+

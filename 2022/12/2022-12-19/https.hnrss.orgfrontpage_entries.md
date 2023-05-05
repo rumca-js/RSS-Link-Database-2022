@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Amazon Ring cameras used in nationwide ‘swatting’ spree, US Justice Dept. says
  - [https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree](https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree)
@@ -369,7 +369,6 @@
  - [https://news.ycombinator.com/item?id=34052786](https://news.ycombinator.com/item?id=34052786)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-19 14:57:24+00:00
- - tags: privacy,tracking,google
 
 <p>Hi,<p>I've been meaning to write this for a few years now.
 I saw https://news.ycombinator.com/item?id=34032484 and lots of great replies there - but I happen to have an insight which I kept track of for years now.<p>Some background first. Since more than a decade I've been using an always-on VPN on all my devices through a VPS I operate (various cloud providers along the years).
@@ -805,3 +804,4 @@ It is really something that angers me.every.damn.time.<p>I have a Dell U2723QE, 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34046354">https://news.ycombinator.com/item?id=34046354</a></p>
 <p>Points: 11</p>
 <p># Comments: 6</p>
+

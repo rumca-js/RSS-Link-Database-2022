@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Critics seek evidence of government involvement in Twitter censorship decisions
  - [http://www.msn.com/en-us/news/politics/critics-seek-evidence-of-government-involvement-in-twitter-censorship-decisions/ar-AA156FRw?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/critics-seek-evidence-of-government-involvement-in-twitter-censorship-decisions/ar-AA156FRw?li=BBnbcA1&srcref=rss)
@@ -1012,7 +1012,6 @@
  - [http://www.msn.com/en-us/news/technology/musk-addresses-fallout-from-second-twitter-files-release/ar-AA154MWP?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/musk-addresses-fallout-from-second-twitter-files-release/ar-AA154MWP?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-09 07:20:58.024063+00:00
- - tags: twitter files,twitter
 
 
 
@@ -1377,5 +1376,6 @@
  - [http://www.msn.com/en-us/news/politics/video-shows-griner-walking-past-bout-in-prisoner-swap/ar-AA154pix?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/video-shows-griner-walking-past-bout-in-prisoner-swap/ar-AA154pix?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-09 00:20:29.825459+00:00
+
 
 

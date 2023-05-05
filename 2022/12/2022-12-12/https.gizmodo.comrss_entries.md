@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Everything Everywhere's Hot Dog Break-Up Scene Was Improvised
  - [https://gizmodo.com/everything-everywhere-all-at-once-hot-dog-finger-world-1849885093](https://gizmodo.com/everything-everywhere-all-at-once-hot-dog-finger-world-1849885093)
@@ -249,6 +249,6 @@
  - [https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192](https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-12 10:00:00+00:00
- - tags: elon musk,twitter
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--OclvnA0c--/c_fit,fl_progressive,q_80,w_636/b194223c87e6ed14d1fdd73ca2a51536.jpg" /><p>Elon Musk, the billionaire who wants nothing more in life than to be adored by legions of fans, was loudly booed by a crowd in San Francisco on Sunday night after he was invited onstage by comedian Dave Chappelle. And the footage is pretty rough, even if you don’t particularly like Musk.<br /></p><p><a href="https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192">Read more...</a></p>
+

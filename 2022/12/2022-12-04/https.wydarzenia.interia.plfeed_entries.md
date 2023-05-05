@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wpadka Rosjan. Chwalili się sukcesem, pokazali nie swoich żołnierzy
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wpadka-rosjan-chwalili-sie-sukcesem-pokazali-nie-swoich-zoln,nId,6452320](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wpadka-rosjan-chwalili-sie-sukcesem-pokazali-nie-swoich-zoln,nId,6452320)
@@ -310,3 +310,4 @@
  - date published: 2022-12-04 04:43:22+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-czy-4-grudnia-to-niedziela-handlowa-te-sklepy-beda-otwarte,nId,6443985"><img align="left" alt="Czy 4 grudnia to niedziela handlowa? Te sklepy będą otwarte" src="https://i.iplsc.com/czy-4-grudnia-to-niedziela-handlowa-te-sklepy-beda-otwarte/000GF3TJMXUHVX2F-C321.jpg" /></a>Niedziela handlowa jeszcze kilka lat temu była oczywistością, a dziś to rzadkość. Nie dziwi więc fakt, że wiele osób w związku ze zbliżającymi się świętami Bożego Narodzenia chce wiedzieć, czy w najbliższą niedzielę 4 grudnia będzie można zrobić zakupy i jakie sklepy tego dnia będą otwarte. Kiedy wypadają niedziele handlowe w grudniu 2022?</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Don Lemon becomes surprising voice of reason: Male soccer players deserve to get paid more than women
  - [https://www.louderwithcrowder.com/don-lemon-soccer](https://www.louderwithcrowder.com/don-lemon-soccer)
@@ -165,3 +165,4 @@
 <a href="https://youtu.be/Ln2iWSrPD4g" target="_blank">youtu.be</a>
 </small>
 </p>
+

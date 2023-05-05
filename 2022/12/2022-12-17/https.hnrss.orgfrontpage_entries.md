@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Does It Inline?
  - [https://bolinlang.com/does-it-inline](https://bolinlang.com/does-it-inline)
@@ -615,3 +615,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34022443">https://news.ycombinator.com/item?id=34022443</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
+

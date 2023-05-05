@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Death toll reaches 29 as monster storm continues to ravage the US
  - [https://www.lemonde.fr/en/united-states/article/2022/12/25/death-toll-reaches-29-as-monster-storm-continues-to-ravage-the-us_6009111_133.html](https://www.lemonde.fr/en/united-states/article/2022/12/25/death-toll-reaches-29-as-monster-storm-continues-to-ravage-the-us_6009111_133.html)
@@ -27,6 +27,13 @@ Ihsane El-Kadi, who runs Radio M, was arrested over the week-end, about 60 kilom
  - date published: 2022-12-25 17:00:12+00:00
 
 The town of Mont-Saxonnex illustrates the environmental concerns in mountainous areas around development projects and the difficulties in finding alternative revenue streams to downhill skiing.
+
+## Christmas in Kyiv: 'We will not let the Russians steal the holidays'
+ - [https://www.lemonde.fr/en/international/article/2022/12/25/christmas-in-kyiv-we-will-not-let-the-russians-steal-the-biggest-holidays_6009091_4.html](https://www.lemonde.fr/en/international/article/2022/12/25/christmas-in-kyiv-we-will-not-let-the-russians-steal-the-biggest-holidays_6009091_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-25 15:30:04+00:00
+
+Despite the restrictions and the tributes to the many dead from the war, Ukrainians festively celebrated the Christian holiday on December 24.
 
 ## King Charles hails UK public 'solidarity' in first Christmas message
  - [https://www.lemonde.fr/en/europe/article/2022/12/25/king-charles-hails-uk-public-solidarity-in-first-christmas-message_6009088_143.html](https://www.lemonde.fr/en/europe/article/2022/12/25/king-charles-hails-uk-public-solidarity-in-first-christmas-message_6009088_143.html)
@@ -174,3 +181,4 @@ The hard-hitting actions of the Letzte Generation movement have not met with una
  - date published: 2022-12-25 00:25:28+00:00
 
 Caregivers assist injured protesters outside of public hospital facilities, where they risk arrest.
+

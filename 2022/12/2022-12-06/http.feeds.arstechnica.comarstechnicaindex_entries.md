@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Adobe Stock begins selling AI-generated artwork
  - [https://arstechnica.com/?p=1902462](https://arstechnica.com/?p=1902462)
@@ -118,3 +118,4 @@ Facebook accused of leaving dangerous content online to serve business interests
  - date published: 2022-12-06 13:14:58+00:00
 
 Holmes is currently scheduled to report to prison in April.
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Backstreet Boys member Nick Carter accused of rape
  - [https://www.lemonde.fr/en/united-states/article/2022/12/09/backstreet-boys-member-nick-carter-accused-of-rape_6007074_133.html](https://www.lemonde.fr/en/united-states/article/2022/12/09/backstreet-boys-member-nick-carter-accused-of-rape_6007074_133.html)
@@ -265,3 +265,4 @@ The undertaking marks a sign of the interest in the country, which plans to pump
  - date published: 2022-12-08 00:23:18+00:00
 
 Riga said the channel posed a 'threat to national security' for airing messages in support of Moscow. The decision was denounced by Reporters Without Borders.
+

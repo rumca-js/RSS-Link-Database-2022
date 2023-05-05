@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Saints Row IV: Re-Elected kolejną darmową grą w Epic Games Store
  - [https://ithardware.pl/aktualnosci/saints_row_iv_re_elected_kolejna_darmowa_gra_w_epic_games_store-24644.html](https://ithardware.pl/aktualnosci/saints_row_iv_re_elected_kolejna_darmowa_gra_w_epic_games_store-24644.html)
@@ -167,3 +167,4 @@ Płyta gł&oacute;wna Gigabyte B760 ma mieć...
 
 <img src="https://ithardware.pl/artykuly/min/24607_1.jpg" />            Witajcie! Oto przed Wami pierwszy dzień Kalendarza Adwentowego, czyli konkursu organizowanego przez naszą redakcję. Dziś do zgarnięcia ciekawa nagroda w postaci klawiatury mechanicznej Genesis Thor 303 TKL Black. Co zrobić, żeby...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_1-24607.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_1-24607.html</a></p>
+

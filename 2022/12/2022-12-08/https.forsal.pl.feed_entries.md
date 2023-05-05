@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## UE przyjęła decyzję o nieakceptowaniu rosyjskich dokumentów wydawanych na Ukrainie i w Gruzji
  - [https://forsal.pl/gospodarka/polityka/artykuly/8606305,ue-przyjela-decyzje-o-nieakceptowaniu-rosyjskich-dokumentow-wydawanych-na-ukrainie-i-w-gruzji.html](https://forsal.pl/gospodarka/polityka/artykuly/8606305,ue-przyjela-decyzje-o-nieakceptowaniu-rosyjskich-dokumentow-wydawanych-na-ukrainie-i-w-gruzji.html)
@@ -545,3 +545,4 @@
  - date published: 2022-12-08 05:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/nP5ktkuTURBXy81OWFhYzVhMS0wMWQ0LTQ2MjUtOWM3Yi01N2RmNGJlZmM4YzUuanBlZ5GTBc0BHcyg" />Od 20 do 30 proc. ma wynieść udział krajowego przemysłu w budowie pierwszych farm wiatrowych na Bałtyku. To jest jednak olbrzymie wyzwanie.
+

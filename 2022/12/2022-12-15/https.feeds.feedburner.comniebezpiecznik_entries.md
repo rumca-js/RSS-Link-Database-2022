@@ -1,4 +1,4 @@
-# Source Niebezpiecznik, Source URL:https://feeds.feedburner.com/niebezpiecznik/, Source language: pl-PL
+# Source:Niebezpiecznik, URL:https://feeds.feedburner.com/niebezpiecznik/, language:pl-PL
 
 ## &#x26a0;&#xfe0f; Uwaga na e-maile od Krajowej Administracji Skarbowej!
  - [https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-krajowej-administracji-skarbowej/](https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-krajowej-administracji-skarbowej/)
@@ -13,3 +13,4 @@
  - date published: 2022-12-15 09:50:34+00:00
 
 <a href="https://niebezpiecznik.pl/post/wojna-hybrydowa-lekcja-dla-nas-wszystkich-model-zero-trust-w-praktyce/"><img align="left" alt="" class="alignleft wp-post-image tfe" height="100" hspace="5" src="https://niebezpiecznik.pl/wp-content/uploads/2022/12/SEC20_Security_030-150x150.jpg" title="" width="100" /></a>Zacznijmy od przypomnienia, czym są działania hybrydowe, czyli skryte, wielowymiarowe i skoordynowane kampanie, za które często odpowiadają podmioty sponsorowane przez państwa. Ich celem jest wzmocnienie interesów i strategii podmiotów zlecających lub wykonujących ataki przy jednoczesnym osłabieniu lub wyrządzeniu szkody wybranemu obiektowi. Atakujący do zrealizowania swoich zamiarów wykorzystują różne metody i narzędzia, do których należą m.in. [&#8230;]
+

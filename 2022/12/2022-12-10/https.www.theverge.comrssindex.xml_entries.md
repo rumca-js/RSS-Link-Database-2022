@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Elon Musk’s $8 Twitter Blue subscription is coming back with phone number verification and a higher price on iOS
  - [https://www.theverge.com/2022/12/10/23503355/twitter-blue-verification-elon-musk-phone-number-ads](https://www.theverge.com/2022/12/10/23503355/twitter-blue-verification-elon-musk-phone-number-ads)
@@ -128,3 +128,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/9/23502559/stellantis-electrification-costs-layoffs-plant-halt">Continue reading&hellip;</a>
   </p>
+

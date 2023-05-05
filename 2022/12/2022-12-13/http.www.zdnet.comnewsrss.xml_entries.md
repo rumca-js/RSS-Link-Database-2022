@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The best TV deals: 75, 65, 50-inch TVs on sale for the holidays
  - [https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/#ftag=RSSbaffb68)
@@ -202,3 +202,4 @@ Big tech loses its grip.
  - date published: 2022-12-13 11:32:00+00:00
 
 More Pi Zero W, 3A+ and 2GB/4GB Raspberry Pi 4s are available ahead of the holiday season, if you know where to look.
+

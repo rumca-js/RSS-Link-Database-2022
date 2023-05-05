@@ -1,4 +1,11 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Pelé's funeral to take place Monday, Tuesday in hometown Santos
+ - [https://www.lemonde.fr/en/football/article/2022/12/30/pele-s-funeral-to-take-place-in-hometown-santos_6009642_130.html](https://www.lemonde.fr/en/football/article/2022/12/30/pele-s-funeral-to-take-place-in-hometown-santos_6009642_130.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-29 23:30:22+00:00
+
+Outgoing Brazilian President Jair Bolsonaro also declared three days of national mourning for Pelé.
 
 ## Vivienne Westwood, fashion maverick, has died at 81
  - [https://www.lemonde.fr/en/obituaries/article/2022/12/29/vivienne-westwood-fashion-maverick-dies-at-81_6009640_15.html](https://www.lemonde.fr/en/obituaries/article/2022/12/29/vivienne-westwood-fashion-maverick-dies-at-81_6009640_15.html)
@@ -279,3 +286,4 @@ Croatia will join the eurozone and the Schengen area on January 1, 2023, in a tu
  - date published: 2022-12-29 02:17:12+00:00
 
 The agreement was reached at a late-night crisis meeting with the leaders of Kosovo Serbs, Serbian President Aleksandar Vucic said on Wednesday.
+

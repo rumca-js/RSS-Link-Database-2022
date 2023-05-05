@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Peloton users report being followed by spam accounts showing nude photos, links to unknown websites
  - [https://www.dailymail.co.uk/news/article-11555835/Peloton-users-report-followed-spam-accounts-showing-nude-photos-links-unknown-websites.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11555835/Peloton-users-report-followed-spam-accounts-showing-nude-photos-links-unknown-websites.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1558,7 +1558,6 @@ The puzzle's silhouette has since caused quite the stir on social media, with s
  - [https://www.dailymail.co.uk/news/article-11552469/Emails-FBI-repeatedly-grilled-Twitter-execs-state-propaganda-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552469/Emails-FBI-repeatedly-grilled-Twitter-execs-state-propaganda-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-19 00:36:52+00:00
- - tags: fbi,surveillance,government,twitter,censorship
 
 Journalist Matt Taibbi, who released the first batch of internal files about the Hunter saga earlier in December, posted emails showing the FBI's Foreign Influence Task Force wanted info.
 
@@ -1610,3 +1609,4 @@ This should be Trump territory, a gathering of grassroots conservatives in Phoen
  - date published: 2022-12-19 00:06:48+00:00
 
 ABC presenter Virginia Trioli is rumoured to be making a return to television in an art-based program following her stoush with Victorian premier Daniel Andrews.
+

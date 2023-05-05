@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## New Years Revellers in Queensland Urged to Avoid Illegal Backyard Fireworks
  - [https://www.theepochtimes.com/new-years-revellers-in-queensland-urged-to-avoid-illegal-backyard-fireworks_4954199.html](https://www.theepochtimes.com/new-years-revellers-in-queensland-urged-to-avoid-illegal-backyard-fireworks_4954199.html)
@@ -251,3 +251,4 @@ Prime Minister Justin Trudeau delivers an address at the Laurier Club Holiday Ev
  - date published: 2022-12-30 00:23:56+00:00
 
 Brazilian soccer great Pele attends a news conference to present the FIFA World Cup global "Trophy Tour" in Paris on March 10, 2014. (Gonzalo Fuentes/Reuters)
+

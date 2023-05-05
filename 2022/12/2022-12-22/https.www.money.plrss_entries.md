@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Wielkie pieniądze od G7 na wsparcie Ukrainy. "To priorytet"
  - [https://www.money.pl/gospodarka/wielkie-pieniadze-od-g7-na-wsparcie-ukrainy-to-priorytet-6847387124390752a.html](https://www.money.pl/gospodarka/wielkie-pieniadze-od-g7-na-wsparcie-ukrainy-to-priorytet-6847387124390752a.html)
@@ -104,3 +104,4 @@
  - date published: 2022-12-22 05:20:38+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5541ae1d-b507-46ca-8a7b-3f64a1cd6f1f" width="308" /> Sejm przyjął niedawno ustawę budżetową na rok 2023, w której zapisano dochody i wydatki naszego państwa. Jeśli przejrzymy jej zapisy, okazuje się, że nie ma w niej środków na wypłatę czternastej emerytury - pisze "Super Express". Pieniądze mają&nbsp;pochodzić z innego źródła.
+

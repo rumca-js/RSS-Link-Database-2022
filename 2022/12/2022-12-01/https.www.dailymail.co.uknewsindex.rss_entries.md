@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Missionary carrying a cross on his shoulder during 5,000-miles walk across America is arrested
  - [https://www.dailymail.co.uk/news/article-11492609/Missionary-carrying-cross-shoulder-5-000-miles-walk-America-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11492609/Missionary-carrying-cross-shoulder-5-000-miles-walk-America-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -207,7 +207,6 @@ Bill Shorten said high-income earners who were bringing home more than $100,000 
  - [https://www.dailymail.co.uk/news/article-11492253/78-woke-ESG-funds-Biden-wants-401ks-invest-UNDERPERFORMED-market-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11492253/78-woke-ESG-funds-Biden-wants-401ks-invest-UNDERPERFORMED-market-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-01 21:56:44+00:00
- - tags: blackrock,esg,woke
 
 A study by Investment Metrics in September found that 78% of funds focusing on ESG principles fell more than 15 percent below their benchmarks.
 
@@ -1870,3 +1869,4 @@ This year's photographs also include a curious-looking frog, cute bunny and a gu
  - date published: 2022-12-01 00:01:48+00:00
 
 The price of a turkey crown centrepiece for Christmas dinner has risen by up to 26 per cent thanks to higher farming costs and the impact of bird flu.
+

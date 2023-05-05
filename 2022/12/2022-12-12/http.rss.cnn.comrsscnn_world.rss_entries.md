@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## The latest on the Lockerbie bombing suspect in US custody
  - [https://www.cnn.com/world/live-news/lockerbie-bombing-suspect-masud-custody/index.html](https://www.cnn.com/world/live-news/lockerbie-bombing-suspect-masud-custody/index.html)
@@ -34,3 +34,4 @@ Kosovo's Prime Minister urged NATO peacekeeping troops to intervene after minori
  - date published: 2022-12-12 01:48:51+00:00
 
 China will abolish its Covid-19 trace tracking service, the "Mobile Itinerary card," on Tuesday, officials say.
+

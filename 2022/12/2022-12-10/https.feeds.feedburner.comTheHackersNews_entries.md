@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Hack-for-Hire Group Targets Travel and Financial Entities with New Janicab Malware Variant
  - [https://thehackernews.com/2022/12/hack-for-hire-group-targets-travel-and.html](https://thehackernews.com/2022/12/hack-for-hire-group-targets-travel-and.html)
@@ -23,3 +23,4 @@ Web application firewalls are a key line of defense to help filter, monitor, a
 
 Cisco has released a new security advisory warning of a high-severity flaw affecting IP Phone 7800 and 8800 Series firmware that could be potentially exploited by a remote attacker to cause remote code execution or a denial-of-service (DoS) condition.
 The networking equipment major said it's working on a patch to address the vulnerability, which is tracked as CVE-2022-20968 (CVSS score: 8.1) and
+

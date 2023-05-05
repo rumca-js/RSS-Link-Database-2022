@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Difference Between Knobs and Pulls on Kitchen Cabinets, and When to Use Each
  - [https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593](https://lifehacker.com/the-difference-between-knobs-and-pulls-on-kitchen-cabin-1849923593)
@@ -20,3 +20,4 @@
  - date published: 2022-12-24 15:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--VWOV2jkZ--/c_fit,fl_progressive,q_80,w_636/44c201cdc06f9832f88dca0b668ea76b.jpg" /><p>Whether you shop primarily online or in person, you’ve likely been asked to make a donation to some kind of charitable organization as you’re checking out. Sometimes it’s rounding up the total of your order to the nearest dollar, and donating the change. Other times, you have the option of donating $1, $2, or another…</p><p><a href="https://lifehacker.com/stop-donating-at-the-cash-register-already-1849923643">Read more...</a></p>
+

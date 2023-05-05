@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Dr Rakowiecka-Asgari: Wygląda na to, że władze Iranu chcą iść w chińską stronę
  - [https://wydarzenia.interia.pl/zagranica/news-dr-rakowiecka-asgari-wyglada-na-to-ze-wladze-iranu-chca-isc-,nId,6470161](https://wydarzenia.interia.pl/zagranica/news-dr-rakowiecka-asgari-wyglada-na-to-ze-wladze-iranu-chca-isc-,nId,6470161)
@@ -55,3 +55,4 @@
  - date published: 2022-12-13 05:13:53+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-wegry-odblokowaly-weto-wobec-wsparcia-dla-ukrainy,nId,6470010"><img align="left" alt="Media: Węgry odblokowały weto wobec wsparcia dla Ukrainy" src="https://i.iplsc.com/media-wegry-odblokowaly-weto-wobec-wsparcia-dla-ukrainy/000GHA84MDYT7J2R-C321.jpg" /></a>Węgry odblokowały weto wobec wsparcia UE dla Ukrainy - powiadomiło źródło unijne. Mowa o przekazaniu 18 mld euro wsparcia makrofinansowego. Według źródła, za zmianę decyzji Węgrom obiecano poparcie dla ich Krajowego Planu Odbudowy.</p><br clear="all" />
+

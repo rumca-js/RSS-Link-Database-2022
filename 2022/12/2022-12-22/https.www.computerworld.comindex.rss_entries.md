@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Why enterprises should embrace remote work in 2023
  - [https://www.computerworld.com/article/3684050/why-enterprises-should-embrace-remote-work-in-2023.html#tk.rss_all](https://www.computerworld.com/article/3684050/why-enterprises-should-embrace-remote-work-in-2023.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>One of Android's most underappreciated advantages is its tight integration with the excellent Google Assistant voice command genie.</p><p>It's easy to take Assistant for granted, being a person who carries around an Android phone every day. It's just always <em>there</em>, usually quietly waiting. And it's certainly not perfect.</p><p>But Assistant can do some spectacularly useful stuff. And all it takes is 10 minutes with an iPhone to remind yourself just how good we've got it.</p><p>These bits of advanced Google Assistant knowledge from Android Intelligence over the past year will help you tap into some of the service's most advanced and out-of-sight possibilities. Check 'em out, store 'em deep in your brain's internal storage, and be sure to come <a href="https://www.androidintel.net" rel="noopener nofollow" target="_blank"><strong>sign up for my Android Intelligence newsletter</strong></a> when you're done to get even more off-the-beaten-path knowledge in your inbox every Friday — direct from me to you.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3682776/google-assistant-android-2022.html#jump">To read this article in full, please click here</a></p></section></article>
+

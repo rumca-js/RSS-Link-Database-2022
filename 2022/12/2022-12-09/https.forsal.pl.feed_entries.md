@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Sztuka kontra AI, czyli o nieetycznych skutkach rozwoju sztucznej inteligencji
  - [https://forsal.pl/lifestyle/technologie/artykuly/8606440,sztuka-kontra-ai-nieetyczne-skutkih-rozwoju-sztucznej-inteligencji.html](https://forsal.pl/lifestyle/technologie/artykuly/8606440,sztuka-kontra-ai-nieetyczne-skutkih-rozwoju-sztucznej-inteligencji.html)
@@ -207,7 +207,6 @@
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html)
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-09 14:08:48+00:00
- - tags: covid
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/wZbktkuTURBXy8zYTE3MzdhNC0xN2VmLTRmYmItYTc4Zi04N2IxNTBmYzliY2YuanBlZ5GTBc0BHcyg" />W całej Europie odczuwana jest duża nadwyżka szczepionek przeciwko Covid-19. Kontynuacja realizacji kontraktów na ich dostawy jest nielogiczna - poinformował dziennikarzy w Brukseli minister zdrowia Adam Niedzielski.
 
@@ -567,3 +566,4 @@
  - date published: 2022-12-09 05:30:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/krmktkuTURBXy9kNzJjN2Q4MC01MGY5LTRkYWEtODMxNy00YWMyYTY5OWE2ZDAuanBlZ5GTBc0BHcyg" />W piątek Turcja przyjmie rosyjską delegację w Ankarze, z którą podejmie rozmowy na temat ponad 25-proc. obniżki cen na gaz z Rosji – zdradzają wysocy rangą przedstawiciele Turcji.
+

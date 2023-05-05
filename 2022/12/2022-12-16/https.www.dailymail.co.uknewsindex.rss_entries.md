@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## NHS blasted after posting job advert for £115k-a-year role of 'director' to create 'brave spaces'
  - [https://www.dailymail.co.uk/news/article-11548015/NHS-blasted-posting-job-advert-115k-year-role-director-create-brave-spaces.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11548015/NHS-blasted-posting-job-advert-115k-year-role-director-create-brave-spaces.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1645,3 +1645,4 @@ A new public health survey for 2021, released yesterday, vividly illustrates Eng
  - date published: 2022-12-16 00:00:33+00:00
 
 EPHRAIM HARDCASTLE: King Charles's fudging of the Counsellors of State Act has been attributed to his fondness for Princess Beatrice.
+

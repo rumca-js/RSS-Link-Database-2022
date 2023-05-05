@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Elden Ring: Where To Get The Shield Of The Guilty
  - [https://www.gamespot.com/articles/elden-ring-where-to-get-the-shield-of-the-guilty/1100-6505194/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-ring-where-to-get-the-shield-of-the-guilty/1100-6505194/?ftag=CAD-01-10abi2f)
@@ -419,3 +419,4 @@
  - date published: 2022-12-01 00:42:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4070238-site.jpg" width="480" /> Xbox Game Pass continues to grow each month. Here's a list of seven great games, from Pentiment to Vampire Survivors, you can play on the service right now.
+

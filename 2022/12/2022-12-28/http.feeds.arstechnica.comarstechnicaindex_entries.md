@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Startup Make Sunsets promises to disrupt… the stratosphere?
  - [https://arstechnica.com/?p=1906897](https://arstechnica.com/?p=1906897)
@@ -62,3 +62,4 @@ The top three were easy to choose. After that, things got tough.
  - date published: 2022-12-28 12:16:04+00:00
 
 $210,000 fee for Comcast Internet, a plan to block competition, and more ISP stories.
+

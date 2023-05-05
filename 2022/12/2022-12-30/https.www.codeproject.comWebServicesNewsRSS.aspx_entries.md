@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Become an expert in Artificial Intelligence with Microsoft Learn
  - [https://dev.to/ppiova/become-an-expert-in-artificial-intelligence-with-microsoft-learn-1j44](https://dev.to/ppiova/become-an-expert-in-artificial-intelligence-with-microsoft-learn-1j44)
@@ -83,3 +83,4 @@ What’s on deck for AI in 2023? Will regulation rein in the worst of what AI br
  - date published: 2022-12-30 05:00:00+00:00
 
 Get a head start with our four big bets for 2023.
+

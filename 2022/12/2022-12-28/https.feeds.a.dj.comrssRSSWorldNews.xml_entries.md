@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## U.S. to Require Travelers From China to Test Negative for Covid-19
  - [https://www.wsj.com/articles/u-s-to-require-travelers-from-china-to-test-negative-for-covid-19-11672257619](https://www.wsj.com/articles/u-s-to-require-travelers-from-china-to-test-negative-for-covid-19-11672257619)
@@ -6,6 +6,13 @@
  - date published: 2022-12-28 20:00:00+00:00
 
 Federal health officials said the move reflects the coronavirus’s rapid spread in China.
+
+## Suspected Russian Agent in Germany Had Access to Western Intelligence About Ukraine War
+ - [https://www.wsj.com/articles/suspected-russian-agent-in-germany-had-access-to-western-intelligence-about-ukraine-war-11672255183](https://www.wsj.com/articles/suspected-russian-agent-in-germany-had-access-to-western-intelligence-about-ukraine-war-11672255183)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-28 19:47:00+00:00
+
+The suspect worked for the signals intelligence branch of Germany’s Federal Intelligence Service, which conducts electronic surveillance and works with U.S. and U.K. agencies.
 
 ## Turkey, Syria Defense Ministers Meet in Moscow
  - [https://www.wsj.com/articles/turkey-syria-defense-ministers-meet-in-moscow-11672255686](https://www.wsj.com/articles/turkey-syria-defense-ministers-meet-in-moscow-11672255686)
@@ -69,3 +76,4 @@ Pope Francis said his 95-year-old predecessor, retired Pope Benedict XVI, was ve
  - date published: 2022-12-28 10:30:00+00:00
 
 Protesters and public-health experts have been targeted for blame for the country’s sudden about-face as infections explode, but leader Xi Jinping remains unscathed.
+

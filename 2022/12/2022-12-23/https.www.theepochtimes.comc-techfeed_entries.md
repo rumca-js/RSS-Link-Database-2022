@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Elon Musk Rolls out ‘View Count’ Feature for Twitter
  - [https://www.theepochtimes.com/elon-musk-rolls-out-view-count-feature-for-twitter_4943351.html](https://www.theepochtimes.com/elon-musk-rolls-out-view-count-feature-for-twitter_4943351.html)
@@ -34,3 +34,4 @@ The Tesla company logo on the hood of an unsold vehicle at a dealership in Littl
  - date published: 2022-12-23 04:48:23+00:00
 
 A mobile phone customer looks at an earthquake warning application on an iPhone in Los Angeles on Jan. 3, 2019. (Richard Vogel/AP Photo)
+

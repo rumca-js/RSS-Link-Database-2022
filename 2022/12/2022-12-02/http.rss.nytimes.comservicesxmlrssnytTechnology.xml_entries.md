@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitter Keeps Missing Its Advertising Targets as Woes Mount
  - [https://www.nytimes.com/2022/12/02/technology/twitter-advertising-targets-missed.html](https://www.nytimes.com/2022/12/02/technology/twitter-advertising-targets-missed.html)
@@ -27,3 +27,4 @@ Musk takes on tech’s fight against the Apple “tax.”
  - date published: 2022-12-02 02:02:21+00:00
 
 The Crypties was intended as a gala evening in Miami to celebrate the currencies of the future. It turned out to be more of a roast.
+

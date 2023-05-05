@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Electric Vehicle Battery Recycling Plant Joins ‘Battery Belt’ in South Carolina
  - [https://www.theepochtimes.com/electric-vehicle-battery-recycling-plant-joins-battery-belt-in-south-carolina_4929544.html](https://www.theepochtimes.com/electric-vehicle-battery-recycling-plant-joins-battery-belt-in-south-carolina_4929544.html)
@@ -34,3 +34,4 @@ Cruise AV, General Motor's autonomous electric Bolt EV, in Detroit on Jan. 16, 2
  - date published: 2022-12-17 03:19:43+00:00
 
 The TikTok logo displayed on a tablet in Lille, northern France, on March 23, 2022. (Denis Charlet/AFP via Getty Images)
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## James Cameron wants to put debate around Jack's death in 'Titanic' to rest
  - [https://www.cnn.com/2022/12/18/entertainment/james-cameron-death-debate-titanic/index.html](https://www.cnn.com/2022/12/18/entertainment/james-cameron-death-debate-titanic/index.html)
@@ -174,3 +174,4 @@ Ukraine's presidential office is criticizing FIFA for refusing to show a video m
  - date published: 2022-12-18 00:09:57+00:00
 
 It was one of the heaviest bombardments in history. A shock-and-awe campaign of overwhelming air power aimed at bombing into submission a determined opponent that, despite being vastly outgunned, had withstood everything the world's most formidable war machine could throw at it.
+

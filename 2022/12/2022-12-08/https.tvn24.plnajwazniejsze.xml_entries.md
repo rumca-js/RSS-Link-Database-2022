@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Kamil Majchrzak z pozytywnym wynikiem kontroli antydopingowej. Tenisista wydał oświadczenie
  - [https://eurosport.tvn24.pl/kamil-majchrzak-z-pozytywnym-wynikiem-kontroli-antydopingowej--tenisista-wyda--o-wiadczenie,1128428.html?source=rss](https://eurosport.tvn24.pl/kamil-majchrzak-z-pozytywnym-wynikiem-kontroli-antydopingowej--tenisista-wyda--o-wiadczenie,1128428.html?source=rss)
@@ -767,3 +767,4 @@
 
 <img alt="Trzustka prosto z drukarki. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-uti029-trzustka-prosto-z-drukarki-3d-6414938/alternates/LANDSCAPE_1280" />
     Pionierski wynalazek zespołu doktora Michała Wszoły.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wybuch w Siecieborzycach. Prokuratura spodziewa się przełomu w sprawie. Kobieta widzi
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29303401,wybuch-w-siecieborzycach-prokuratura-spodziewa-sie-przelomu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29303401,wybuch-w-siecieborzycach-prokuratura-spodziewa-sie-przelomu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -188,3 +188,4 @@
  - date published: 2022-12-27 06:07:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/57/82/1b/z28845911M,Pilne.jpg" vspace="2" />W nocy w Wojewódzkim Zespole Zakładów Opieki Zdrowotnej Centrum Leczenia Chorób Płuc i Rehabilitacji w Łodzi wybuchł pożar. Jak przekazała straż pożarna, zginęła jedna osoba, a dwie są poszkodowane.
+

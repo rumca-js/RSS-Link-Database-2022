@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## AMD przeniesie swoje centrum logistyczne z Hongkongu do Tajwanu
  - [https://ithardware.pl/aktualnosci/amd_przeniesie_swoje_centrum_logistyczne_z_hongkongu_do_tajwanu-25088.html](https://ithardware.pl/aktualnosci/amd_przeniesie_swoje_centrum_logistyczne_z_hongkongu_do_tajwanu-25088.html)
@@ -103,3 +103,4 @@ Stalker 2 został pokazany na nowym gameplayu....
 
 Dishonored - Definitive Edition kończy...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/dishonored_definitive_edition_za_darmo_w_epic_games_store_wiemy_jakie_gry_odbierzemy_za_tydzien-25078.html">https://ithardware.pl/aktualnosci/dishonored_definitive_edition_za_darmo_w_epic_games_store_wiemy_jakie_gry_odbierzemy_za_tydzien-25078.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Father Greg Williams fly from Yeppoon, Queensland, to Melbourne to surprise son Ross Williams
  - [https://www.dailymail.co.uk/news/article-11530351/Father-Greg-Williams-fly-Yeppoon-Queensland-Melbourne-surprise-son-Ross-Williams.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530351/Father-Greg-Williams-fly-Yeppoon-Queensland-Melbourne-surprise-son-Ross-Williams.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -368,7 +368,6 @@ USPS letter carrier of 18 years Aundre Cross (left), 44, was shot dead last Fri
  - [https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-12 19:29:03+00:00
- - tags: twitter; twitter files
 
 Part five of the Twitter Files dropped Monday afternoon detailing the social media platform's decision to indefinitely ban Donald Trump two days after the January 6 Capitol attack.
 
@@ -1540,3 +1539,4 @@ A New Zealand man's 1993 Toyota Corolla has clocked more than two million kilome
  - date published: 2022-12-12 00:00:30+00:00
 
 Shannon Marie Morgan, 38, was arrested Wednesday night after Citrus County sheriff's deputies found a young child in her home living in deplorable conditions.
+

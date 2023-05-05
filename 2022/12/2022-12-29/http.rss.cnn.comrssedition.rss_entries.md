@@ -1,4 +1,11 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Video shows Chinese fighter jet intercepting US aircraft
+ - [https://www.cnn.com/videos/world/2022/12/29/china-intercepts-us-jet-south-china-sea-liebermann-tsr-sot-vpx.cnn](https://www.cnn.com/videos/world/2022/12/29/china-intercepts-us-jet-south-china-sea-liebermann-tsr-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-29 23:17:31+00:00
+
+A Chinese fighter jet intercepted a US reconnaissance aircraft over the South China Sea last week and performed an "unsafe maneuver," forcing the US aircraft to take evasive action. CNN's Oren Liebermann reports.
 
 ## Video shows Russian cruise missile flying toward Kyiv
  - [https://www.cnn.com/videos/world/2022/12/29/russian-missile-strikes-kyiv-ukraine-wedeman-dnt-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/12/29/russian-missile-strikes-kyiv-ukraine-wedeman-dnt-lead-vpx.cnn)
@@ -35,12 +42,26 @@ British fashion designer and style icon Vivienne Westwood has died aged 81. She 
 
 As Rep.-elect George Santos continues to face scrutiny for false claims the New York Republican has made about his biography, another story is being questioned: that his mother was at the World Trade Center on September 11, 2001, and that the incident played a role in her death.
 
+## Nick Cannon welcomes baby No. 12
+ - [https://www.cnn.com/2022/12/29/entertainment/nick-cannon-baby-12-dad-family/index.html](https://www.cnn.com/2022/12/29/entertainment/nick-cannon-baby-12-dad-family/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-29 21:10:29+00:00
+
+Nick Cannon has expanded his family once again.
+
 ## Brazilian soccer legend Pelé dies at 82
  - [https://www.cnn.com/2022/12/29/football/brazil-pele-soccer-died-intl-latam-spt/index.html](https://www.cnn.com/2022/12/29/football/brazil-pele-soccer-died-intl-latam-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-29 19:42:28+00:00
 
 Pelé, the Brazilian soccer legend who won three World Cups and became the sport's first global icon, has died at the age of 82, according to a statement from his daughter Kely Nascimento on Instagram.
+
+## CNN's Don Riddell looks back on Pelé's life and career
+ - [https://www.cnn.com/videos/sports/2022/12/29/pele-brazil-soccer-icon-dead-riddell-obit-pkg-vpx.cnn](https://www.cnn.com/videos/sports/2022/12/29/pele-brazil-soccer-icon-dead-riddell-obit-pkg-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-29 19:34:07+00:00
+
+Pelé, the Brazilian soccer legend who won three World Cups and became the sport's first global icon, has died at the age of 82, according to a statement from his daughter Kely Nascimento on Instagram. CNN's Don Riddell looks back on his life and career.
 
 ## Watch passenger's enthusiastic reunion with his missing luggage
  - [https://www.cnn.com/videos/business/2022/12/29/passenger-luggage-reunion-cprog-orig-ht.cnn-business](https://www.cnn.com/videos/business/2022/12/29/passenger-luggage-reunion-cprog-orig-ht.cnn-business)
@@ -119,6 +140,13 @@ Joseph, "Jo Mersa" Marley, a Reggae artist who followed in the footsteps of fath
  - date published: 2022-12-29 15:43:58+00:00
 
 The late Marvel Comics visionary Stan Lee will be the focus of an upcoming documentary.
+
+## Father of 7 misses heart transplant surgery after canceled flight
+ - [https://www.cnn.com/2022/12/29/us/alaska-man-heart-transplant-winter-weather/index.html](https://www.cnn.com/2022/12/29/us/alaska-man-heart-transplant-winter-weather/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-29 15:43:31+00:00
+
+Patrick Holland had only been on the heart transplant list for a few weeks when he said he got a call last Thursday from the University of Washington Medical Center in Seattle that a donor match had been found.
 
 ## Kavi Sharma is American Girl's first South Asian 'Girl of the Year'
  - [https://www.cnn.com/style/article/american-girl-of-the-year-south-asian-first-cec/index.html](https://www.cnn.com/style/article/american-girl-of-the-year-south-asian-first-cec/index.html)
@@ -420,3 +448,4 @@ A search and rescue team in Utah reunited a family with its dog, after it spent 
  - date published: 2022-12-29 00:58:06+00:00
 
 The Princeton University student who was initially considered missing and was later found dead on the university's campus, died by suicide, the Mercer County Prosecutor's Office said in a news release Wednesday.
+

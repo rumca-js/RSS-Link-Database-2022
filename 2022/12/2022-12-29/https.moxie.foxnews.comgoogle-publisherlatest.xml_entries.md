@@ -1,4 +1,46 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Chicago church robbed of Christmas Day donations collected to help homeless people
+ - [https://www.foxnews.com/us/chicago-church-robbed-christmas-day-donations-collected-help-homeless-people](https://www.foxnews.com/us/chicago-church-robbed-christmas-day-donations-collected-help-homeless-people)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 23:53:01+00:00
+
+Chicago police are investigating the theft of thousands of dollars in donations that a church had collected for its community outreach efforts at their Christmas services.
+
+## Titans place Ryan Tannehill on IR, effectively ending his season
+ - [https://www.foxnews.com/sports/titans-place-ryan-tannehill-on-ir-effectively-ends-his-season](https://www.foxnews.com/sports/titans-place-ryan-tannehill-on-ir-effectively-ends-his-season)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 23:48:49+00:00
+
+The Tennessee Titans placed quarterback Ryan Tannehill on injured reserve Thursday, which effectively ends his 2022-23 NFL season. Tannehill had ankle surgery last week.
+
+## Cowboys, Terrell Owens unable to reach deal as 49-year-old asks for too much money: report
+ - [https://www.foxnews.com/sports/cowboys-terrell-owens-unable-reach-deal-49-year-old-asks-too-much-money-report](https://www.foxnews.com/sports/cowboys-terrell-owens-unable-reach-deal-49-year-old-asks-too-much-money-report)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 23:46:38+00:00
+
+Terrell Owens' agent was reportedly in talks with the Dallas Cowboys for an NFL return, but after asking for too much money, they were unable to agree to a deal.
+
+## Mel B's daughter recreates her famous Spice Girls looks from the '90s
+ - [https://www.foxnews.com/entertainment/mel-bs-daughter-recreates-famous-spice-girls-90s](https://www.foxnews.com/entertainment/mel-bs-daughter-recreates-famous-spice-girls-90s)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 23:38:41+00:00
+
+Spice Girls star Mel B's daughter, Phoenix, recreated some of her mom's most iconic "Scary Spice" looks from her time in the band, including scenes from music videos and album covers.
+
+## Atlanta suspects vandalize historic church with threatening graffiti; FBI offers $10k reward
+ - [https://www.foxnews.com/us/atlanta-suspects-vandalize-historic-church-threatening-graffiti-fbi-offers-10k-reward](https://www.foxnews.com/us/atlanta-suspects-vandalize-historic-church-threatening-graffiti-fbi-offers-10k-reward)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 23:35:58+00:00
+
+Atlanta's historic Ebenezer Baptist Church Heritage Sanctuary was vandalized earlier this year with a message that read, "If abortions aren't safe, neither are you."
+
+## Vikings' Justin Jefferson defends Kirk Cousins, says stats match MVP candidates'
+ - [https://www.foxnews.com/sports/vikings-justin-jefferson-defends-kirk-cousins-says-stats-match-mvp-candidates](https://www.foxnews.com/sports/vikings-justin-jefferson-defends-kirk-cousins-says-stats-match-mvp-candidates)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 23:32:17+00:00
+
+Minnesota Vikings Pro Bowl wide receiver Justin Jefferson won't hear any more Kirk Cousins criticism, and he went to social media to defend his quarterback.
 
 ## Ice-T seemingly responds to trolls criticizing wife Coco's video of their 7-year-old daughter 'twerking'
  - [https://www.foxnews.com/entertainment/ice-t-seemingly-responds-trolls-criticizing-wife-coco-video-7-year-old-daughter-twerking](https://www.foxnews.com/entertainment/ice-t-seemingly-responds-trolls-criticizing-wife-coco-video-7-year-old-daughter-twerking)
@@ -174,6 +216,13 @@ University of Idaho students Ethan Chapin, 20, Kaylee Goncalves, 21, Xana Kernod
  - date published: 2022-12-29 20:01:35+00:00
 
 'Outnumbered' panelists called out the president for vacationing at the home of wealthy donors while holding the highest public office in the country.
+
+## New Year's 2023 LIVE UPDATES
+ - [https://www.foxnews.com/live-news/new-years-2023](https://www.foxnews.com/live-news/new-years-2023)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-29 19:40:56+00:00
+
+Fox News is ringing in the New Year with a special hosted by FOX & Friends Weekend’s Will Cain, Rachel Campos-Duffy, and Pete Hegseth live from Nashville, Tenn. Multi-platinum country music star Brantley Gilbert performs live. People across the world are celebrating the end of 2022 and the start of 2023. Fox News Digital is keeping you up-to-date on everything related to New Year's Eve.
 
 ## Dark money group linked to foreign billionaire infused millions of dollars to major Dem, left-wing causes
  - [https://www.foxnews.com/politics/dark-money-group-linked-foreign-billionaire-infused-millions-dollars-major-dem-left-wing-causes](https://www.foxnews.com/politics/dark-money-group-linked-foreign-billionaire-infused-millions-dollars-major-dem-left-wing-causes)
@@ -951,3 +1000,4 @@ Former Transportation Secretary Elaine L. Chao reacted to the chaos at American 
  - date published: 2022-12-29 00:00:34+00:00
 
 MSNBC host Alicia Menendez, filling in for Alex Wagner, slammed Republican leaders and the party itself from a religious hypocrisy angle, for not being hospitable enough to migrants.
+

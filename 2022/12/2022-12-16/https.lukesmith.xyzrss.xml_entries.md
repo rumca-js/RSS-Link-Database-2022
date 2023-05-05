@@ -1,4 +1,4 @@
-# Source Luke Smith, Source URL:https://lukesmith.xyz/rss.xml, Source language: en-US
+# Source:Luke Smith, URL:https://lukesmith.xyz/rss.xml, language:en-US
 
 ## Retiring My Fiat Donation Portal
  - [https://lukesmith.xyz/updates/retiring-fiat-donation-portal/](https://lukesmith.xyz/updates/retiring-fiat-donation-portal/)
@@ -14,3 +14,4 @@ You have no excuse now that they are cheap again!</p>
 It still works if you want to give a &ldquo;good-bye&rdquo; donation, but you might want to get some Bitcoin/Monero first if you don&rsquo;t. 😉</p>
 <p>Note that I now have my Bitcoin and Monero addresses in the footers of this site now.
 Much more minimal than running a payment gateway on a server!</p>
+

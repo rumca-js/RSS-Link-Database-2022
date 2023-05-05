@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Uncover MirrorFace Cyber Attacks Targeting Japanese Political Entities
  - [https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html](https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html)
@@ -59,3 +59,4 @@ It also charged six suspects – Jeremiah Sam Evans Miller (23), Angel Manuel Co
 Phishing campaigns involving the Qakbot malware are using Scalable Vector Graphics (SVG) images embedded in HTML email attachments.
 The new distribution method was spotted by Cisco Talos, which said it identified fraudulent email messages featuring HTML attachments with encoded SVG images that incorporate HTML script tags.
 HTML smuggling is a technique that relies on using legitimate features of
+

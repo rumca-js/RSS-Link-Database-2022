@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Cristiano Ronaldo oficjalnie piłkarzem Al Nassr
  - [https://eurosport.tvn24.pl/oficjalnie--cristiano-ronaldo-pi-karzem-al-nassr,1131070.html?source=rss](https://eurosport.tvn24.pl/oficjalnie--cristiano-ronaldo-pi-karzem-al-nassr,1131070.html?source=rss)
@@ -119,6 +119,14 @@
 
 <img alt="Wracają obawy przed koronawirusem. List do 27 ministrów" src="https://tvn24.pl/najnowsze/cdn-zdjecie-8cn4qx-podrozni-z-chin-testowani-na-lotnisku-we-wloszech-6558802/alternates/LANDSCAPE_1280" />
     Napisała unijna komisarz do spraw zdrowia.
+
+## Włączył autopilota i zasnął
+ - [https://fakty.tvn24.pl/kierowca-w--czy--autopilota-i-zasn----do-akcji-wkroczyli-funkcjonariusze,1131027.html?source=rss](https://fakty.tvn24.pl/kierowca-w--czy--autopilota-i-zasn----do-akcji-wkroczyli-funkcjonariusze,1131027.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-30 18:06:00+00:00
+
+<img alt="Włączył autopilota i zasnął" src="https://tvn24.pl/najnowsze/cdn-zdjecie-wy832b-kierowca-wlaczyl-autopilota-i-zasnal-do-akcji-wkroczyli-funkcjonariusze/alternates/LANDSCAPE_1280" />
+    Jechał równym tempem po autostradzie.
 
 ## Uwaga! Nocą będzie silnie wiało
  - [https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-jutro-sobota-3112-noca-bedzie-silnie-wial-wiatr-miejscami-popada-deszcz-w-dzien-do-16-stopni-6558763?source=rss](https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-jutro-sobota-3112-noca-bedzie-silnie-wial-wiatr-miejscami-popada-deszcz-w-dzien-do-16-stopni-6558763?source=rss)
@@ -751,3 +759,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-uc2fdj-prezydent-ukrainy-wolodymyr-zelenski-6557816/alternates/LANDSCAPE_1280" />
     W kwestii pomocy Ukrainie.
+

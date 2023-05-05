@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This dangerous botnet might have been taken down by a simple typo
  - [https://www.techradar.com/news/this-dangerous-botnet-might-have-been-taken-down-by-a-simple-typo](https://www.techradar.com/news/this-dangerous-botnet-might-have-been-taken-down-by-a-simple-typo)
@@ -230,3 +230,4 @@ Pei hopes to take on Apple with the upcoming device, although it's currently ham
  - date published: 2022-12-06 05:00:00+00:00
 
 The AMD Radeon RX 7900 XTX might be just what gamers need to bring down the soaring price of graphics cards, whether you're Team Red or not.
+

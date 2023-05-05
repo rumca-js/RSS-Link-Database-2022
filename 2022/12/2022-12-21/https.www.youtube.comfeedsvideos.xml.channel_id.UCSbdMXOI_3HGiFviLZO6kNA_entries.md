@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The Current Era of VR has JUST ENDED.
  - [https://www.youtube.com/watch?v=TGOMs1TpY54](https://www.youtube.com/watch?v=TGOMs1TpY54)
@@ -24,3 +24,4 @@ https://www.youtube.com/watch?v=u6JwgNQDVfI&amp;t=0s
 
 Contact Glove kickstarter: 
 https://www.kickstarter.com/projects/diver-x/contact-glove
+

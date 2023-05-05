@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## 73-year-old pays $370/month to live in a plane he bought for $100,000 from a salvage yard: 'I have no regrets'
  - [https://www.cnbc.com/2022/12/26/73-year-old-pays-370-bucks-a-month-to-live-in-a-1066-square-foot-plane.html](https://www.cnbc.com/2022/12/26/73-year-old-pays-370-bucks-a-month-to-live-in-a-1066-square-foot-plane.html)
@@ -62,3 +62,4 @@ For a small but growing network of countries, the world's go-to metric of econom
  - date published: 2022-12-26 00:35:13+00:00
 
 A study from the holiday company Destination2 reviewed the number of views on TikTok for beaches all around the world.
+

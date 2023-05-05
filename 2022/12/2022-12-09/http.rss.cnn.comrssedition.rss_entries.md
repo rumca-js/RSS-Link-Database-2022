@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Argentina and Messi through to semifinals after thrilling penalty shootout win
  - [https://www.cnn.com/2022/12/09/football/argentina-netherlands-world-cup-lionel-messi-spt-intl/index.html](https://www.cnn.com/2022/12/09/football/argentina-netherlands-world-cup-lionel-messi-spt-intl/index.html)
@@ -505,3 +505,4 @@ Japanese fashion mogul Yusaku Maezawa has picked eight passengers that he said w
  - date published: 2022-12-09 00:47:12+00:00
 
 A Qatari World Cup official made a controversial statement while addressing a recent migrant worker's death that launched a work safety investigation.
+

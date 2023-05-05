@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Death Stranding Director's Cut is free on the Epic Games Store right now
  - [https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now](https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now)
@@ -62,3 +62,4 @@ Survival city builder Farthest Frontier is fraught with diseases, injuries, bear
  - date published: 2022-12-25 08:05:46+00:00
 
 Wordle today: The solution and a hint for the #554 puzzle.
+

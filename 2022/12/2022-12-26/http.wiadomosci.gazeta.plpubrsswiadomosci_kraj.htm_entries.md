@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Częstochowa. Pijany kierowca śmiertelnie potrącił taksówkarza. Próbował uciec z miejsca zdarzenia
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29300230,czestochowa-smiertelnie-potracil-taksowkarza-probowal-uciekac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29300230,czestochowa-smiertelnie-potracil-taksowkarza-probowal-uciekac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-12-26 07:35:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/05/dc/1b/z29213701M,Kosciol.jpg" vspace="2" />26 grudnia Kościół katolicki wspomina Świętego Szczepana, pierwszego męczennika. W liturgii ten dzień ma rangę święta. Wierni modlą się za chrześcijan prześladowanych na całym świecie.
+

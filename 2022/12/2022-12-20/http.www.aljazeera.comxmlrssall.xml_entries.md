@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Former US police officer gets nearly 12 years for fatal shooting
  - [https://www.aljazeera.com/news/2022/12/20/former-us-police-officer-gets-nearly-12-years-for-fatal-shooting](https://www.aljazeera.com/news/2022/12/20/former-us-police-officer-gets-nearly-12-years-for-fatal-shooting)
@@ -349,3 +349,4 @@ Washington state is considering banning the Chinese-owned app for government bus
  - date published: 2022-12-20 01:56:49+00:00
 
 Russian President also ordered strengthening of Russia&#039;s borders and safety of residents in annexed regions of Ukraine.
+

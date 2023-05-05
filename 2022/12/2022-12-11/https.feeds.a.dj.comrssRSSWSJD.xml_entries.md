@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Battle Between FTC and Microsoft Turns on Future of Cloud Gaming
  - [https://www.wsj.com/articles/battle-between-ftc-and-microsoft-turns-on-future-of-cloud-gaming-11670796726?mod=rss_Technology](https://www.wsj.com/articles/battle-between-ftc-and-microsoft-turns-on-future-of-cloud-gaming-11670796726?mod=rss_Technology)
@@ -62,3 +62,4 @@ Unhappy with Elon Musk’s vision for Twitter, some are seeking refuge on the pr
  - date published: 2022-12-11 10:30:00+00:00
 
 Many longtime shareholders are cashing out of their investments, a troubling sign after what has already been a painful market selloff.
+

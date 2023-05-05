@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Strikes Across Iran Lead to Shuttered Shops and Ghost Towns
  - [https://www.nytimes.com/2022/12/06/world/middleeast/iran-protest-strikes.html](https://www.nytimes.com/2022/12/06/world/middleeast/iran-protest-strikes.html)
@@ -153,3 +153,4 @@ Ukraine strikes military bases deep in Russia.
  - date published: 2022-12-06 00:59:56+00:00
 
 Launching drones at air bases 300 miles from its own territory, Ukraine changed the geography of the war. It said it had developed drones with a range of over 600 miles.
+

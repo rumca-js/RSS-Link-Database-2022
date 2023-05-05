@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## "FT": Tuż przed inwazją najważniejsi urzędnicy finansowi ostrzegali Putina przed skutkami sankcji
  - [https://forsal.pl/swiat/rosja/artykuly/8612220,ft-tuz-przed-inwazja-najwazniejsi-urzednicy-finansowi-ostrzegali-putina-przed-skutkami-sankcji.html](https://forsal.pl/swiat/rosja/artykuly/8612220,ft-tuz-przed-inwazja-najwazniejsi-urzednicy-finansowi-ostrzegali-putina-przed-skutkami-sankcji.html)
@@ -552,3 +552,4 @@
  - date published: 2022-12-16 05:30:14+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/xeQktkuTURBXy85YzcyYTNmNi0zOThmLTQxYjctODQyMS1kZTE2N2EyOWNiYzkuanBlZ5GTBc0BHcyg" />Wypłaty rekompensujące gwałtowny wzrost rachunków za energię już wkrótce mogą zniechęcić ludzi do poszukiwania pracy i doprowadzić do poważnych niedoborów pracowników w Wielkiej Brytanii, ostrzegają parlamentarzyści.
+

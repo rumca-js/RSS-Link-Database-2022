@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Takich minerałów na Ziemi jeszcze nie widziano. Jak trafiły na naszą planetę?
  - [https://www.chip.pl/2022/12/mineraly-meteoryt-el-ali-uklad-sloneczny](https://www.chip.pl/2022/12/mineraly-meteoryt-el-ali-uklad-sloneczny)
@@ -39,3 +39,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="500" src="https://konto.chip.pl/wp-content/uploads/2022/12/ultracienka-skora.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/ultracienka-skora.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>WeTac to interfejs haptyczny, który powinien stanowić bardzo obiecującą opcję dla operowania w wirtualnej rzeczywistości.  Jest to w zasadzie ultracienka skóra, dzięki której możemy odczuwać to, co na co dzień, lecz nie w rzeczywistym świecie, lecz tym cyfrowym. Za realizację projektu odpowiadają naukowcy z City University of Hongkong, którzy piszą o swoich dokonaniach na łamach [&#8230;]</p>
+

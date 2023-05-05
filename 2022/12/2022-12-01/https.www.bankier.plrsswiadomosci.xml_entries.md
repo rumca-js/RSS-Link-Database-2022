@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Definicja przemocy domowej rozszerzona o przemoc ekonomiczną i cyfrową. Sejm przyjął nowelizację przepisów
  - [https://www.bankier.pl/wiadomosc/Sejm-przyjal-nowelizacje-przepisow-dot-instrumentow-przeciw-przemocy-domowej-8449971.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sejm-przyjal-nowelizacje-przepisow-dot-instrumentow-przeciw-przemocy-domowej-8449971.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -487,3 +487,4 @@ kredytobiorców GNB dopiero zaczynają się klarować.  </p>
  - date published: 2022-12-01 02:08:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/c/3/10d2dda10dcfae-948-568-52-0-2947-1768.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Administracja prezydenta USA Joe Bidena rozważa możliwość znacznego rozszerzenia szkolenia ukraińskiego wojska w amerykańskiej bazie w Niemczech. Chodzi o przeszkolenie do 2500 osób miesięcznie - podała w środę CNN.</p>
+

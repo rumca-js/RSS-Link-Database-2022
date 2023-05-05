@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Google has a company strategy, not a product strategy
  - [https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
@@ -677,3 +677,4 @@ So I thought implementing an IME that can be used with Vim keybindings could be 
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33849068">https://news.ycombinator.com/item?id=33849068</a></p>
 <p>Points: 29</p>
 <p># Comments: 4</p>
+

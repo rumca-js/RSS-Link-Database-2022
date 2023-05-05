@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Media: Mike Pence będzie kandydować na prezydenta USA
  - [https://wydarzenia.interia.pl/zagranica/news-media-mike-pence-bedzie-kandydowac-na-prezydenta-usa,nId,6496427](https://wydarzenia.interia.pl/zagranica/news-media-mike-pence-bedzie-kandydowac-na-prezydenta-usa,nId,6496427)
@@ -223,3 +223,4 @@
  - date published: 2022-12-26 05:37:35+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-prognoza-pogody-na-drugi-dzien-swiat-bedzie-wietrznie-i-desz,nId,6496191"><img align="left" alt="Prognoza pogody na drugi dzień świąt. Będzie wietrznie i deszczowo" src="https://i.iplsc.com/prognoza-pogody-na-drugi-dzien-swiat-bedzie-wietrznie-i-desz/000GJCBZHW4TUQ8X-C321.jpg" /></a>W poniedziałek Polska znajdzie się w zasięgu niżu z układem frontów atmosferycznych. Synoptyk IMGW-PIB przekazał, że w dzień napłynie cieplejsze powietrze, ale już w nocy nadejdzie chłodniejszy front z powietrzem powietrzem polarno-morskim. </p><br clear="all" />
+

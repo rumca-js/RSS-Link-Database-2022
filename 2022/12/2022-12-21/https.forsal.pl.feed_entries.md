@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## KGHM: Wydobycie miedzi w 2023 r. na poziomie zbliżonym do 2022 r., więcej srebra i inwestycji
  - [https://forsal.pl/biznes/artykuly/8616239,kghm-wydobycie-miedzi-w-2023-r-na-poziomie-zblizonym-do-2022-r-wiecej-srebra-i-inwestycji.html](https://forsal.pl/biznes/artykuly/8616239,kghm-wydobycie-miedzi-w-2023-r-na-poziomie-zblizonym-do-2022-r-wiecej-srebra-i-inwestycji.html)
@@ -489,3 +489,4 @@
  - date published: 2022-12-21 00:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/YOYktkuTURBXy9hZWM1YmIxOS0zMjc2LTRiYzEtODk0MC05MzZjZDY1OTk5YTguanBlZ5GTBc0BHcyg" />Piotr Wawrzyk: To, czy Polska dostanie pieniądze na wsparcie ukraińskich uchodźców, zależy od dobrej woli Komisji Europejskiej. Wydajemy ogromne fundusze z budżetu krajowego na ten cel, liczone w miliardach złotych
+

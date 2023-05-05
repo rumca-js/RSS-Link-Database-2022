@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## ‘A.A.P.I.’ and ‘Latinx’ just aren’t welcome in our ‘master bedrooms’
  - [http://www.msn.com/en-us/news/us/a-a-p-i-and-latinx-just-aren-t-welcome-in-our-master-bedrooms/ar-AA15NkbT?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/a-a-p-i-and-latinx-just-aren-t-welcome-in-our-master-bedrooms/ar-AA15NkbT?li=BBnbcA1&srcref=rss)
@@ -844,7 +844,6 @@
  - [http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-29 09:21:12.403807+00:00
- - tags: tracking,privacy,google
 
 
 
@@ -1167,5 +1166,6 @@
  - [http://www.msn.com/en-us/news/technology/how-to-make-your-new-tv-look-and-sound-its-best-for-the-holidays/ar-AA15vki4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/how-to-make-your-new-tv-look-and-sound-its-best-for-the-holidays/ar-AA15vki4?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-29 00:17:06.229344+00:00
+
 
 

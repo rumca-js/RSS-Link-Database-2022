@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## Uwaga, nie płaćcie tego mandatu! Orange ostrzega.
  - [https://sekurak.pl/uwaga-nie-placcie-tego-mandatu-orange-ostrzega/](https://sekurak.pl/uwaga-nie-placcie-tego-mandatu-orange-ostrzega/)
@@ -23,3 +23,4 @@
 
 <p>Dostęp do kamer to jedno, ale dość niepokojąca jest funkcja opisana jako &#8222;manipulate visual recordings to mask on-site activities&#8221;: Donoszący o całej sprawie serwis Haaretz wspomina o historycznej już sprawie ujawnionych tożsamości agentów Mossadu. Odbyło się to poprzez analizę / korelację nagrań z wielu kamer CCTV. Gazeta dodaje, że gdyby...</p>
 <p>Artykuł <a href="https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/" rel="nofollow">Izraelska firma oferuje hackowanie kamer CCTV. Dostęp do feedów, zmiana feedów, dostęp do nagrań&#8230;</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

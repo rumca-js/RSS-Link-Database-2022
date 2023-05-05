@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Android Splash Screen Logos and Animations with Xamarin
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59894](https://www.codeproject.com/script/News/View.aspx?nwid=59894)
@@ -29,14 +29,14 @@ The Surface Duo drag and drop sample has been updated to use the AndroidX drag a
 Learn how to build a basic app using Android’s Jetpack Compose UI toolkit.
 
 ## Implementing Maps in .NET MAUI
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59886](https://www.codeproject.com/script/News/View.aspx?nwid=59886)
+ - [https://www.telerik.com/blogs/implementing-maps-dotnet-maui](https://www.telerik.com/blogs/implementing-maps-dotnet-maui)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-22 05:00:00+00:00
 
 Learn how to add maps to your .NET MAUI applications in a very fast and easy way, with the IMap interface.
 
 ## Introducing Cadl: Microsoft’s concise API design language
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59887](https://www.codeproject.com/script/News/View.aspx?nwid=59887)
+ - [https://www.infoworld.com/article/3683909/introducing-cadl-microsofts-concise-api-design-language.html](https://www.infoworld.com/article/3683909/introducing-cadl-microsofts-concise-api-design-language.html)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-22 05:00:00+00:00
 
@@ -57,21 +57,21 @@ In this post, I'll describe how to translate all strings used within your .NET M
 "The ultimate weapon is team"
 
 ## Okta's source code stolen after GitHub repositories hacked
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59889](https://www.codeproject.com/script/News/View.aspx?nwid=59889)
+ - [https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-22 05:00:00+00:00
 
 To be fair, security isn't their business focus (oh, wait...)
 
 ## Study finds AI assistants help developers produce code that's more likely to be buggy
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59884](https://www.codeproject.com/script/News/View.aspx?nwid=59884)
+ - [https://www.theregister.com/2022/12/21/ai_assistants_bad_code/](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-22 05:00:00+00:00
 
 And another study finds I'm shocked. SHOCKED!
 
 ## The Future of Foundation
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59888](https://www.codeproject.com/script/News/View.aspx?nwid=59888)
+ - [https://www.swift.org/blog/future-of-foundation/](https://www.swift.org/blog/future-of-foundation/)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-22 05:00:00+00:00
 
@@ -85,7 +85,7 @@ The Foundation framework is used in nearly all Swift projects. It provides both 
 Beyond the pronunciation of it
 
 ## What should be an ideal gift for a secret santa game to a person whom you don't really know?
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59885](https://www.codeproject.com/script/News/View.aspx?nwid=59885)
+ - [https://www.codeproject.com/Messages/5916622/What-should-be-an-ideal-gift-for-a-secret-santa-ga](https://www.codeproject.com/Messages/5916622/What-should-be-an-ideal-gift-for-a-secret-santa-ga)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-22 05:00:00+00:00
 
@@ -111,3 +111,4 @@ Can't type - busy watching keyboard
  - date published: 2022-12-22 05:00:00+00:00
 
 _**Finally**_
+

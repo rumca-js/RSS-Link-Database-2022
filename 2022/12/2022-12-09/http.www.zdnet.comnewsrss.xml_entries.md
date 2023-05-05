@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The 5 best hybrid cars of 2023
  - [https://www.zdnet.com/article/best-hybrid-car/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-hybrid-car/#ftag=RSSbaffb68)
@@ -153,3 +153,4 @@ Zero-turn mowers are great for both larger properties as well as yards with lots
  - date published: 2022-12-09 02:16:00+00:00
 
 Discover Samsung is back for one more time this year. Check out the best picks and add them to your cart today -- some of these are only here for the day.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Seven die in coach plunge horror in Spain
  - [https://www.bbc.co.uk/news/world-europe-64099387?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64099387?at_medium=RSS&at_campaign=KARANGA)
@@ -20,6 +20,20 @@ A woman and four children have also been taken to hospital after two cars collid
  - date published: 2022-12-26 22:45:28+00:00
 
 Premier League football resumes with a feast of Boxing Day fixtures which produces 25 goals, as table-toppers Arsenal show no signs of letting up.
+
+## 'IVF let me introduce baby to my terminally-ill dad'
+ - [https://www.bbc.co.uk/news/uk-england-nottinghamshire-63986345?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-nottinghamshire-63986345?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-26 22:43:25+00:00
+
+A terminally-ill father was able to meet his first grandchild after his daughter had IVF treatment.
+
+## Chelsea: Reece James in 'good place' after missing World Cup, says Blues boss Graham Potter
+ - [https://www.bbc.co.uk/sport/football/64096864?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64096864?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-26 22:31:41+00:00
+
+Chelsea right-back Reece James is in a "good place" after the "challenging period" of missing out on the World Cup, says boss Graham Potter.
 
 ## Stefan Bajcetic: The 'cheeky' teenager and his 'Christmas story'
  - [https://www.bbc.co.uk/sport/football/64098845?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64098845?at_medium=RSS&at_campaign=KARANGA)
@@ -174,6 +188,13 @@ The measure, to take effect from 8 January, is part of China's about-turn on its
  - date published: 2022-12-26 16:14:07+00:00
 
 Corey Domachowski is the unlikely match-winner after snatching a dramatic last-gasp victory at Rodney Parade.
+
+## The far-right faithfuls not giving up
+ - [https://www.bbc.co.uk/news/world-latin-america-64094197?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-64094197?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-26 15:22:04+00:00
+
+With only days to go until Lula is sworn in as president, some of his opponents refuse to accept defeat.
 
 ## Buffalo blizzard: Storm turns city into 'war zone'
  - [https://www.bbc.co.uk/news/world-us-canada-64096509?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64096509?at_medium=RSS&at_campaign=KARANGA)
@@ -433,3 +454,4 @@ About 20% of our water supply is lost to leaks and scientists say miniature 'pip
  - date published: 2022-12-26 00:00:42+00:00
 
 About 20% of our water supply is lost to leaks and scientists say miniature 'pipe robots' could help.
+

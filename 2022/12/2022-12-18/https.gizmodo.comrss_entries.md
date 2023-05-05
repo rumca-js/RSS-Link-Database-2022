@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Avatar: The Way of Water Makes a Big Box Office Splash
  - [https://gizmodo.com/avatar-way-of-water-box-office-open-1849908745](https://gizmodo.com/avatar-way-of-water-box-office-open-1849908745)
@@ -27,3 +27,4 @@
  - date published: 2022-12-18 15:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--aHb8Hr2f--/c_fit,fl_progressive,q_80,w_636/fb721b52c34cf74482c4a40b3bfc63ce.jpg" /><p>Just as its pretty stellar <a href="https://gizmodo.com/spy-x-family-anime-cour-2-october-1849466604">first season</a> is about to come to a close, it was confirmed that <a href="https://gizmodo.com/spy-x-family-anime-manga-anya-yor-loid-forger-1849117880"><em>Spy x Family’s</em></a><em> </em>anime will be returning. During this weekend’s Jump Festa, representatives for the series confirmed that a second season is in active development and will be hitting sometime in 2023. </p><p><a href="https://gizmodo.com/spy-x-family-season-2-movie-2023-1849908505">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Princess of Wales unveils a rare black and white photograph of a young Queen Elizabeth II
  - [https://www.dailymail.co.uk/news/article-11572333/Princess-Kate-unveils-rare-black-white-photograph-young-Queen-Elizabeth-II.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11572333/Princess-Kate-unveils-rare-black-white-photograph-young-Queen-Elizabeth-II.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -825,3 +825,4 @@ Tory Lanez was accused of shooting his former girlfriend Megan Thee Stallion in 
  - date published: 2022-12-24 00:00:59+00:00
 
 Mohit Bakaya said major political events had dominated the news in 2022 and at times it felt 'kind of relentless' for listeners.
+

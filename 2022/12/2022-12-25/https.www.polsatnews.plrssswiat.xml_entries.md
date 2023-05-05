@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Niemcy: Fala zachorowań na COVID-19, grypę i RSV. Około 9 mln osób z objawami
  - [https://www.polsatnews.pl/wiadomosc/2022-12-25/niemcy-fala-zachorowan-na-covid-19-grype-i-rsv-okolo-9-mln-osob-z-objawami/](https://www.polsatnews.pl/wiadomosc/2022-12-25/niemcy-fala-zachorowan-na-covid-19-grype-i-rsv-okolo-9-mln-osob-z-objawami/)
@@ -132,3 +132,4 @@ Potężna burza śnieżna pustoszy i paraliżuje Stany Zjednoczone. W całym kra
  - date published: 2022-12-25 06:43:00+00:00
 
 Prezydent Ukrainy Wołodymyr Zełenski przekazał życzenia dla chrześcijan, z okazji świąt Bożego Narodzenia. W obchodzoną wczoraj, według kalendarza gregoriańskiego, wigilię Bożego Narodzenia, minęło dokładnie 10 miesięcy od rozpoczęcia rosyjskiej agresji. - Złamie najeźdźcę nasz stalowy duch - zapewniał szef państwa.
+

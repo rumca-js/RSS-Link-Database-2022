@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## I've become the reason people ragequit, and I love it
  - [https://www.pcgamer.com/ive-become-the-reason-people-ragequit-and-i-love-it](https://www.pcgamer.com/ive-become-the-reason-people-ragequit-and-i-love-it)
@@ -202,3 +202,4 @@ An "official mod" for the early access game adds support for an open source sex 
  - date published: 2022-12-08 00:22:12+00:00
 
 Any one of these will give you at least +2 to friendship.
+

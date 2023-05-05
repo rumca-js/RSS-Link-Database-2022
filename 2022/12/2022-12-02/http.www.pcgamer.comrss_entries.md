@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Just two years after release, DJ rhythm game Fuser is being delisted
  - [https://www.pcgamer.com/just-two-years-after-release-dj-rhythm-game-fuser-is-being-delisted](https://www.pcgamer.com/just-two-years-after-release-dj-rhythm-game-fuser-is-being-delisted)
@@ -244,3 +244,4 @@ Gory and moody, The Callisto Protocol doesn't mess with the survival horror form
  - date published: 2022-12-02 00:50:16+00:00
 
 Here's what we'll be playing in the final month of 2022.
+

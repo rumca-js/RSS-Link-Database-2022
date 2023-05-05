@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Turcja. Odkryto dodatkowe złoża gazu ziemnego na Morzu Czarnym
  - [https://www.polsatnews.pl/wiadomosc/2022-12-26/turcja-odkryto-dodatkowe-zloza-gazu-ziemnego-na-morzu-czarnym/](https://www.polsatnews.pl/wiadomosc/2022-12-26/turcja-odkryto-dodatkowe-zloza-gazu-ziemnego-na-morzu-czarnym/)
@@ -104,3 +104,4 @@ Wskutek ataku zimy w Stanach Zjednoczonych zginęło od 30 do 37 osób. Śnieży
  - date published: 2022-12-26 06:44:00+00:00
 
 Trzy osoby zginęły w nocy z niedzieli na poniedziałek w wyniku eksplozji w bazie lotniczej koło miasta Engels w obwodzie saratowskim na południu Rosji - poinformowała agencja Reutera, powołując się na rosyjskie ministerstwo obrony. Według mediów na terenie bazy wybuchł pożar, który objął powierzchnię 120 metrów kwadratowych.
+

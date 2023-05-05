@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Images Emerge Of Democrat Megadonor Sam Bankman-Fried Under Arrest, Surrounded By Law Enforcement
  - [https://www.dailywire.com/news/images-emerge-of-democrat-megadonor-sam-bankman-fried-under-arrest-surrounded-by-law-enforcement](https://www.dailywire.com/news/images-emerge-of-democrat-megadonor-sam-bankman-fried-under-arrest-surrounded-by-law-enforcement)
@@ -67,7 +67,6 @@ Marti G. Cummings, a drag queen whom President Joe Biden invited to attend the s
  - [https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man](https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-13 17:44:34+00:00
- - tags: propaganda,ideology,gender
 
 In the modern era, when up is down and left is right, when everything George Orwell predicted has come true, of course we&#8217;re redefining words to mean whatever the woke leftists want them to mean. The Cambridge Dictionary is the latest, having decided to redefine the words “man” and “woman.&#8221; A woman is now “an ...
 
@@ -343,3 +342,4 @@ A retired U.S. Navy SEAL who became famous a decade ago for becoming transgende
  - date published: 2022-12-13 07:50:30+00:00
 
 New details emerged Monday evening over the alleged incident that led to the arrest of the University of Texas Men&#8217;s Basketball Head Coach Chris Beard. Beard, 49, was arrested after the Austin Police Department reportedly responded to a “disturbance hot shot,” which the department says are incidents that “are in progress and are an immediate ...
+

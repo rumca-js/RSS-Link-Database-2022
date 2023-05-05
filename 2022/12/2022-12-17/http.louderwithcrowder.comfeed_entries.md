@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'All the nuggets...poof': Black bear caught stealing Chick-Fil-A delivery (but left the salad)
  - [https://www.louderwithcrowder.com/black-bear-chick-fil-a](https://www.louderwithcrowder.com/black-bear-chick-fil-a)
@@ -96,3 +96,4 @@
 <a href="https://youtu.be/N_jzaYt0gBY" target="_blank">youtu.be</a>
 </small>
 </p>
+

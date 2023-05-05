@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Ransomware attack knocks Rackspace’s Exchange servers offline
  - [https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all](https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all)
@@ -62,3 +62,4 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
 <article>
 	<section class="page">
 <p>Apple is expected to get about one-third of its future processors from a new semiconductor fabrication facility set to be in production in 2024, according to <a href="https://www.bloomberg.com/news/articles/2022-12-01/tsmc-plans-to-make-more-advanced-chips-in-us-at-urging-of-apple?utm_medium=email&amp;utm_source=newsletter&amp;utm_term=221201&amp;utm_campaign=author_19842959&amp;sref=9hGJlFio&amp;leadSource=uverify%20wall" rel="nofollow noopener" target="_blank">a report by Bloomberg</a>.</p><p>The new $12 billion fabrication plant, being built by Taiwan Semiconductor Manufacturing Co. (TSMC) in Phoenix, is among more than a half dozen projects by chip makers to re-shore the industry in America.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681991/as-re-shoring-brings-chipmakers-back-to-the-us-apple-looks-to-jump-on-board.html#jump">To read this article in full, please click here</a></p></section></article>
+

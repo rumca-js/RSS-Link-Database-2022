@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Rupert Murdoch set to be deposed in Dominion's $1.6 billion defamation case
  - [https://www.cnn.com/2022/12/05/media/rupert-murdoch-dominion-defamation-case/index.html](https://www.cnn.com/2022/12/05/media/rupert-murdoch-dominion-defamation-case/index.html)
@@ -25,5 +25,6 @@ Hertz will pay $168 million to settle 364 claims related to the company falsely 
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-04-22/h_38488593fbf4d0cb2510e181d92a6bd8](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-04-22/h_38488593fbf4d0cb2510e181d92a6bd8)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-12-05 01:02:39.329084+00:00
+
 
 

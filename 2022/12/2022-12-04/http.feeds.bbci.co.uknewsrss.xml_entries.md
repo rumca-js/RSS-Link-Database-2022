@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## England 3-0 Senegal: Jude Bellingham 'will be best midfielder in the world', says Phil Foden
  - [https://www.bbc.co.uk/sport/football/63852600?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63852600?at_medium=RSS&at_campaign=KARANGA)
@@ -433,3 +433,4 @@ With money tight, there are ways you can organise a Christmas party without the 
  - date published: 2022-12-04 00:09:13+00:00
 
 Nick Robinson looks at the biggest risks taken by Liz Truss during her seven weeks in No 10 - and why they did not succeed.
+

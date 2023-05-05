@@ -1,4 +1,11 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Tencent, the discreet Chinese digital leader, forced to reinvent itself
+ - [https://www.lemonde.fr/en/economy/article/2022/12/29/tencent-the-discreet-chinese-digital-leader-forced-to-reinvent-itself_6009487_19.html](https://www.lemonde.fr/en/economy/article/2022/12/29/tencent-the-discreet-chinese-digital-leader-forced-to-reinvent-itself_6009487_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-28 23:41:55+00:00
+
+The Chinese company – founder of WeChat and world's No. 1 in video games – is selling off important assets. It's a turning point marking entry into a more manageable era for the web giant.
 
 ## Prosecutors open investigation into US Rep.-Elect George Santos after he admits to numerous lies
  - [https://www.lemonde.fr/en/international/article/2022/12/28/prosecutors-open-investigation-into-rep-elect-george-santos_6009484_4.html](https://www.lemonde.fr/en/international/article/2022/12/28/prosecutors-open-investigation-into-rep-elect-george-santos_6009484_4.html)
@@ -55,6 +62,13 @@ Every day, electricity is cut off for several hours in Tanzania, Zimbabwe and Za
  - date published: 2022-12-28 17:39:01+00:00
 
 Built upon the control of information, the Chinese regime perceives Elon Musk's satellite constellation as a threat. Beijing's ambition is to 'access all space' within a radius of 60 to 100 times the distance between the Earth and the Sun.
+
+## In Ukraine, the resilience of video game creators
+ - [https://www.lemonde.fr/en/pixels/article/2022/12/28/in-ukraine-the-resilience-of-video-game-creators_6009462_13.html](https://www.lemonde.fr/en/pixels/article/2022/12/28/in-ukraine-the-resilience-of-video-game-creators_6009462_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-28 17:00:14+00:00
+
+While the mainstream Ukrainian video game industry has adapted to the upheavals brought about by the Russian invasion, independent and amateur creators have not given up and are now addressing the war through their creations.
 
 ## Paris-New York, Washington-Kabul in less than an hour: SpaceX's other military and commercial dream
  - [https://www.lemonde.fr/en/economy/article/2022/12/28/paris-new-york-washington-kabul-in-less-than-an-hour-spacex-s-other-military-and-commercial-dream_6009459_19.html](https://www.lemonde.fr/en/economy/article/2022/12/28/paris-new-york-washington-kabul-in-less-than-an-hour-spacex-s-other-military-and-commercial-dream_6009459_19.html)
@@ -272,3 +286,4 @@ The rebellion led by Quebec Members of the National Assembly (MNAs) could be fol
  - date published: 2022-12-28 00:55:33+00:00
 
 A congressional aide who spoke on condition of anonymity declared on Tuesday, December 27, Donald Trump's tax documents should be released during the next House meeting. The Internal Revenue Service had started auditioning the former president back in 2016.
+

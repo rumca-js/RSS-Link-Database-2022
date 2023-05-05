@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Rosja wprowadziła w życie prawo, które zabrania gier "szerzących propagandę LGBT"
  - [https://ithardware.pl/aktualnosci/rosja_wprowadzila_w_zycie_prawo_ktore_zabrania_gier_szerzacych_propagande_lgbt-24762.html](https://ithardware.pl/aktualnosci/rosja_wprowadzila_w_zycie_prawo_ktore_zabrania_gier_szerzacych_propagande_lgbt-24762.html)
@@ -213,3 +213,4 @@ Karty graficzne Intel Arc A7 zadebiutowały na rynku niecałe dwa...
 
 Nagroda -...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_8-24707.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_8-24707.html</a></p>
+

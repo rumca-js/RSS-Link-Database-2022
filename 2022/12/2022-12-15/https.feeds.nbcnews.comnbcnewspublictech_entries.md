@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Instagram's rollout of 'notes' feature sparks nostalgia for AIM
  - [https://www.nbcnews.com/tech/instagram-notes-feature-millennial-nostalgia-aim-rcna61800](https://www.nbcnews.com/tech/instagram-notes-feature-millennial-nostalgia-aim-rcna61800)
@@ -27,3 +27,4 @@ Days before FTX’s bankruptcy filing last month, co-CEO Ryan Salame told Bahami
  - date published: 2022-12-15 04:08:44+00:00
 
 Tesla CEO Elon Musk sold about 22 million more shares in his electric vehicle business worth around $3.6 billion, according to a financial filing out Wednesday
+

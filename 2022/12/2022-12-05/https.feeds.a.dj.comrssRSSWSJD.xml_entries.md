@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Slack CEO Stewart Butterfield to Depart
  - [https://www.wsj.com/articles/slack-ceo-stewart-butterfield-to-depart-11670264219?mod=rss_Technology](https://www.wsj.com/articles/slack-ceo-stewart-butterfield-to-depart-11670264219?mod=rss_Technology)
@@ -76,3 +76,4 @@ High costs, lack of trained personnel and unexpected construction snags are amon
  - date published: 2022-12-05 07:32:00+00:00
 
 New Zealand said it would seek to require online platforms like Alphabet’s Google and Facebook owner Meta Platforms to pay news publishers for content.
+

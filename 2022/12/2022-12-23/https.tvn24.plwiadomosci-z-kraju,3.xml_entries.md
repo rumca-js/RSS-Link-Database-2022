@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Świąteczny ranking. TOP 10 filmów na Boże Narodzenie
  - [https://tvn24.pl/kultura-i-styl/najlepsze-filmynaboze-narodzenie-swiateczny-ranking-6549684?source=rss](https://tvn24.pl/kultura-i-styl/najlepsze-filmynaboze-narodzenie-swiateczny-ranking-6549684?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Zasady wynagradzania sędziów zaskarżone do Trybunału Konstytucyjnego" src="https://tvn24.pl/najnowsze/cdn-zdjecie-0vpd8z-trybunal-konstytucyjny-5527511/alternates/LANDSCAPE_1280" />
     Przepisy ustawy okołobudżetowej na 2023 rok w sprawie zasad ustalania wynagrodzeń sędziów zostały zaskarżone przez pierwszą prezes Sądu Najwyższego, Krajową Radę Sądownictwa i prezes Naczelnego Sądu Administracyjnego. Po zarejestrowaniu tych wniosków w TK stanowiska do kwestii powinni przedstawić m.in. Sejm i Prokurator Generalny.
+

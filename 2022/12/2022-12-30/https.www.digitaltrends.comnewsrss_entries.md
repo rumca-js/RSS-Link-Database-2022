@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## What to expect at CES 2023, from mondo TVs to EVs
  - [https://www.digitaltrends.com/news/what-to-expect-ces-2023/](https://www.digitaltrends.com/news/what-to-expect-ces-2023/)
@@ -20,3 +20,4 @@ If you're looking to start the new year with a new career, ZipRecruiter has ever
  - date published: 2022-12-30 17:08:45.471771+00:00
 
 Looking for a side gig for the new year? If you're ready to leverage your skills to earn extra cash, read on.
+

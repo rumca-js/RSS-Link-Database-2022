@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
+# Source:Digital Trends, URL:https://www.digitaltrends.com/news/rss, language:en-US
 
 ## This trick improves the power efficiency of Nvidia’s RTX 4090
  - [https://www.digitaltrends.com/computing/nvidia-rtx-4090-performance-after-undervolting/](https://www.digitaltrends.com/computing/nvidia-rtx-4090-performance-after-undervolting/)
@@ -34,3 +34,4 @@ The latest show-and-tell event from Elon Musk's brain-interface Neuralink ventur
  - date published: 2022-12-03 08:23:12.992827+00:00
 
 We tested a lot of products in 2022, but these are the ones that stood out from the rest of the pack and brought something new to the table
+

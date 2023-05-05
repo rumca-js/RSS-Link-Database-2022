@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## US-China chip war: How the technology dispute is playing out
  - [https://www.bbc.co.uk/news/business-63995570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63995570?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ They depict the former US president in various guises including a superhero, ast
  - date published: 2022-12-16 00:43:24+00:00
 
 For those with experience in AI, automation and cloud computing the tech downturn is not a big problem.
+

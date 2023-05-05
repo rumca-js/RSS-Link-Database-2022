@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## "Kevin sam w domu" miał premierę 32 lata temu; zarobił ponad 477 mln dol.
  - [https://www.bankier.pl/wiadomosc/Kevin-sam-w-domu-mial-premiere-32-lata-temu-zarobil-ponad-477-mln-dol-8462369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kevin-sam-w-domu-mial-premiere-32-lata-temu-zarobil-ponad-477-mln-dol-8462369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -146,3 +146,4 @@ czym polega taka operacja i jakie mogą być jej koszty.</p>
  - date published: 2022-12-24 04:56:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/f/ab9ab0023d909f-945-560-210-332-3047-1828.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Brazylijski dziennik "Folha de Sao Paulo" opublikował w przeddzień świąt Bożego Narodzenia serię reportaży o klęsce niedożywienia lub głodu w Brazylii i w całym regionie, wywołanej pandemią koronawirusa, a następnie niezwykle dotkliwymi następstwami wojny na Ukrainie, m.in. wzrostem cen zbóż.</p>
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Glapiński "Gigantem Polska Press" za "wybitne zarządzanie bankiem centralnym"
  - [https://www.bankier.pl/wiadomosc/Glapinski-Gigantem-za-wybitne-zarzadzanie-bankiem-centralnym-8454752.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Glapinski-Gigantem-za-wybitne-zarzadzanie-bankiem-centralnym-8454752.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -233,3 +233,4 @@ do zakupu odbiornika cyfrowego otrzymało prawie 600 tys. osób.</p>
  - date published: 2022-12-11 00:46:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/9/d32e2c4b57dd72-948-568-2-17-997-598.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sąd Najwyższy USA przystał na rozpatrzenie wniosku administracji prezydenta Bidena o respektowanie przepisów penalizujących zachęcanie do nielegalnej imigracji. Wcześniej wniosek odrzucił federalny Sąd Apelacyjny w San Francisco motywując, że stanowi on naruszenie prawa do wolności słowa.</p>
+

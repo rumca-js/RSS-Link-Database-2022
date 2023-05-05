@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## No 'sir'! Marines mull scrapping gender identifiers in training camps
  - [http://www.msn.com/en-us/news/us/no-sir-marines-mull-scrapping-gender-identifiers-in-training-camps/ar-AA15xxnj?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/no-sir-marines-mull-scrapping-gender-identifiers-in-training-camps/ar-AA15xxnj?li=BBnbcA1&srcref=rss)
@@ -1194,5 +1194,6 @@
  - [http://www.msn.com/en-us/news/crime/worker-killed-after-ammonia-leak-at-massachusetts-food-plant/ar-AA15vl94?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/worker-killed-after-ammonia-leak-at-massachusetts-food-plant/ar-AA15vl94?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-21 00:05:30.666682+00:00
+
 
 

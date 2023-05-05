@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Wpadł lider grupy przestępczej zajmującej się wysadzaniem bankomatów. Wytropili go "łowcy głów"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29275088,wpadl-lider-grupy-przestepczej-zajmujacej-sie-wysadzaniem-bankomatow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29275088,wpadl-lider-grupy-przestepczej-zajmujacej-sie-wysadzaniem-bankomatow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -55,3 +55,4 @@
  - date published: 2022-12-17 09:21:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/74/ea/1b/z29273460M,Gen--insp--Jaroslaw-Szymczyk--Zdjecie-ilustracyjne.jpg" vspace="2" />- Kiedy przestawiałem zużyte granatniki, będące prezentami od Ukraińców, doszło do eksplozji - tak o wybuchu w Komendzie Głównej Policji mówi w rozmowie z RMF FM gen. insp. Jarosław Szymczyk. Sprawę bada prokuratura, wkrótce Szymczyk ma złożyć zeznania jako pokrzywdzony.
+

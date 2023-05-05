@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Microsoft uncovers DDoS campaign targeting Minecraft servers
  - [https://www.techradar.com/news/microsoft-uncovers-ddos-campaign-targeting-minecraft-servers](https://www.techradar.com/news/microsoft-uncovers-ddos-campaign-targeting-minecraft-servers)
@@ -144,7 +144,6 @@ Some tech heads lucky enough to get their hands on the GPU are reporting broken 
  - [https://www.techradar.com/news/tech-giants-band-together-to-set-up-open-source-mapping-platform](https://www.techradar.com/news/tech-giants-band-together-to-set-up-open-source-mapping-platform)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-16 12:57:28+00:00
- - tags: maps,opensource,monopoly
 
 Overture Maps Foundation aims to build more reliable maps, but Apple and Google aren’t taking part.
 
@@ -175,3 +174,4 @@ It's time to refresh your office's unsung hero with these great deals.
  - date published: 2022-12-16 06:00:47+00:00
 
 Eight Nest devices, like the WiFi Pro, are now able to control the smart home standard as Google promises more next year.
+

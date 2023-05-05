@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## SpaceX Gets Go-Ahead for Smaller Network of Starlink Satellites
  - [https://www.wsj.com/articles/elon-musks-spacex-wins-go-ahead-for-7-500-more-starlink-satellites-after-aiming-for-30-000-11669938677?mod=rss_Technology](https://www.wsj.com/articles/elon-musks-spacex-wins-go-ahead-for-7-500-more-starlink-satellites-after-aiming-for-30-000-11669938677?mod=rss_Technology)
@@ -76,3 +76,4 @@ Sam Bankman-Fried said that he didn’t intend to commit any fraud or use custom
  - date published: 2022-12-01 00:42:00+00:00
 
 The Twitter boss said he met with Apple CEO Tim Cook at Apple’s headquarters and that Mr. Cook said Apple never considered banning Twitter from the App Store.
+

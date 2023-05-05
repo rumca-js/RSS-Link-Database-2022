@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Beijing Crematorium's Death Surge Points to Rising Covid Toll
  - [https://www.wsj.com/articles/beijing-crematoriums-death-surge-points-to-rising-covid-toll-in-china-11671219181](https://www.wsj.com/articles/beijing-crematoriums-death-surge-points-to-rising-covid-toll-in-china-11671219181)
@@ -69,3 +69,4 @@ Leader Kim Jong Un oversaw a test of an engine using solid fuel, which can allow
  - date published: 2022-12-16 07:58:00+00:00
 
 Japan called China its biggest security challenge and said it would sharply raise military spending including for missiles that can hit other countries.
+

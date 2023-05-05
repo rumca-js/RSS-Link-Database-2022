@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: U.S. Journalist Grant Wahl Collapses And Dies While Covering World Cup Soccer Games
  - [https://www.dailywire.com/news/breaking-u-s-journalist-grant-wahl-collapses-and-dies-while-covering-world-cup-soccer-games](https://www.dailywire.com/news/breaking-u-s-journalist-grant-wahl-collapses-and-dies-while-covering-world-cup-soccer-games)
@@ -286,3 +286,4 @@ U.S. officials are reportedly concerned that the Russian terrorist that Presiden
  - date published: 2022-12-09 06:52:20+00:00
 
 Arizona Sen. Kyrsten Sinema has changed her affiliation to independent after decrying the stranglehold extremists have on both major parties in a move that potentially weakens Democrats&#8217; already tenuous hold on the upper chamber. The first-term Democrat made the announcement Friday morning in a guest column for the Arizona Republic, just days after Democrats won ...
+

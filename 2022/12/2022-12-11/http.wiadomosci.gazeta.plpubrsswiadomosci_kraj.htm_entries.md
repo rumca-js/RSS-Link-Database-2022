@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Zaginęła 17-letnia Emilia Późniak. Ostatni raz była widziana w piątek
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29249167,zaginela-17-letnia-emilia-pozniak-jest-podopieczna-osrodka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29249167,zaginela-17-letnia-emilia-pozniak-jest-podopieczna-osrodka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -41,3 +41,4 @@
  - date published: 2022-12-11 06:53:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/34/be/1a/z28043316M,zawieja--zdjecie-ilustracyjne.jpg" vspace="2" />IMGW wydał ostrzeżęnie drugiego stopnia przed silnymi opadami śniegu dla Podkarpacia, południowej Lubelszczyzny i wschodniej części Małopolski. Niższy alert IMGW wydało dla Podlasia, wschodnich powiatów województwa warmińsko - mazurskiego, wschodniego i północnego Mazowsza oraz północnej części Lubelszczyzny. Wiatr może dochodzić do 55 km/h i powodować zawieje i zamiecie śnieżne.
+

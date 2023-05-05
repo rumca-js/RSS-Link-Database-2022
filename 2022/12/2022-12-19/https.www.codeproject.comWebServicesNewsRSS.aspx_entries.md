@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 'Is WPF dead?' Some devs claim 'Yes' as Microsoft relegates Issues/PRs to the community
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59856](https://www.codeproject.com/script/News/View.aspx?nwid=59856)
@@ -83,3 +83,4 @@ It's not just awesome, it's WASM!
  - date published: 2022-12-19 05:00:00+00:00
 
 For those that like to phone it in
+

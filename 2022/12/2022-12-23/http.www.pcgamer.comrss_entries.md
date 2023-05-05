@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Our favorite Steam Deck games in the Steam Winter Sale
  - [https://www.pcgamer.com/best-steam-deck-winter-sale-deals](https://www.pcgamer.com/best-steam-deck-winter-sale-deals)
@@ -97,3 +97,4 @@ It can run Doom and steal all of our hearts.
  - date published: 2022-12-23 01:41:13+00:00
 
 That's if the announcement video is to be believed.
+

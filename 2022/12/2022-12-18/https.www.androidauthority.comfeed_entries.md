@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How fast is 5G in the real world? Compared against 4G LTE
  - [https://www.androidauthority.com/how-fast-is-5g-real-world-3249921/](https://www.androidauthority.com/how-fast-is-5g-real-world-3249921/)
@@ -34,3 +34,11 @@ Don't expect an instant smart home revolution. This is a marathon, not a race.
  - date published: 2022-12-18 13:00:22+00:00
 
 Samsung's Pro model snatches the top prize, but which other wearables made our top five?
+
+## 5 best voice changer apps for Android
+ - [https://www.androidauthority.com/best-voice-changer-apps-for-android-613326/](https://www.androidauthority.com/best-voice-changer-apps-for-android-613326/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-12-18 06:00:59+00:00
+
+There aren't a lot of voice changers, but there are a few decent ones.
+

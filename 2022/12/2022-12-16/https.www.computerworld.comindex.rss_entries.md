@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Patch Tuesday: Two zero-day flaws in Windows need immediate attention
  - [https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-need-immediate-attention.html#tk.rss_all](https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-need-immediate-attention.html#tk.rss_all)
@@ -55,3 +55,4 @@
 	<section class="page">
 <p>As 2023 approaches, I’m hearing a lot about what companies will be announcing at the upcoming Consumer Electronics Show (CES). One pitch that stood out for me has a shot at owning the show in terms of innovation — and since CES is the first big tech event of the year, it would make this company an innovation leader for the new year.</p><p>But innovation carries risk. And while this company is not risk-averse, many are, making the innovation path problematic.</p><p>Let’s think about the yin and yang of innovation vs. execution, and why execution and tolerance for failure are critical to real innovation.</p><h2>Winning the smartphone world</h2>
 <p>One of the most seemingly innovative products so far this century is Apple’s iPhone, which arrived in 2007. But about five years before that, Phillips had showcased a similar concept; a year before that, LG brought a similar product to market; and both Microsoft (a client of the author) and Palm had working groups on iPhone-like products.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3683315/innovation-vs-execution-you-have-to-have-both.html#jump">To read this article in full, please click here</a></p></section></article>
+

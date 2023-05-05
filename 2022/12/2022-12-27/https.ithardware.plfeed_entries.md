@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nadchodzą piekielnie szybkie laptopy. Mobilna wersja GeForce RTX 4080 została przetestowana
  - [https://ithardware.pl/aktualnosci/nadchodza_piekielnie_szybkie_laptopy_mobilna_wersja_geforce_rtx_4080_zostala_przetestowana-25052.html](https://ithardware.pl/aktualnosci/nadchodza_piekielnie_szybkie_laptopy_mobilna_wersja_geforce_rtx_4080_zostala_przetestowana-25052.html)
@@ -89,3 +89,4 @@ Jakiś czas temu&nbsp;Federalna Komisja Handlu USA...
 
 Samsung Galaxy S22 FE powinien zostać zaprezentowany i trafić do sklep&oacute;w w...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/samsung_galaxy_s22_fe_jednak_zyje_smartfon_moze_zadebiutowac_w_2023_roku-25044.html">https://ithardware.pl/aktualnosci/samsung_galaxy_s22_fe_jednak_zyje_smartfon_moze_zadebiutowac_w_2023_roku-25044.html</a></p>
+

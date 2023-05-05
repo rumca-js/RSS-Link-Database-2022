@@ -1,4 +1,11 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Lions' Jared Goff likens field conditions at Bank of America Stadium to 'cement' after loss
+ - [https://www.foxnews.com/sports/lions-jared-goff-likens-field-conditions-bank-of-america-stadium-cement-loss](https://www.foxnews.com/sports/lions-jared-goff-likens-field-conditions-bank-of-america-stadium-cement-loss)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-25 23:34:37+00:00
+
+Detroit Lions quarterback Jared Goff took issue with the field conditions at Bank of America Stadium on Saturday and compared the field to "cement."
 
 ## Raiders' Josh Jacobs expresses frustration with offense: 'It’s bulls---, for real'
  - [https://www.foxnews.com/sports/raiders-josh-jacobs-expresses-frustration-offense-its-bulls-real](https://www.foxnews.com/sports/raiders-josh-jacobs-expresses-frustration-offense-its-bulls-real)
@@ -482,3 +489,4 @@ Despite the sturm and drang about “funding the government before the deadline,
  - date published: 2022-12-25 00:10:29+00:00
 
 Stephan Bonnar, UFC Hall of Famer best known for his bout against Forrest Griffin on season one of "The Ultimate Fighter," died Thursday at age 45.
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## US oil plunges below $75 for first time since just before Christmas
  - [https://www.cnn.com/2022/12/06/business/oil-prices-gas-russia-embargo/index.html](https://www.cnn.com/2022/12/06/business/oil-prices-gas-russia-embargo/index.html)
@@ -34,3 +34,4 @@ Democrats and Republicans in Congress are gearing up for yet another political s
  - date published: 2022-12-06 04:25:13+00:00
 
 Indonesian lawmakers passed a sweeping new criminal code on Tuesday that criminalizes sex outside marriage, as part of a tranche of changes that critics say threaten human rights and freedoms in the Southeast Asian country.
+

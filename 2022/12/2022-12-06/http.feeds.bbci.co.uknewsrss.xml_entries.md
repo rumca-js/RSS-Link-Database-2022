@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Ambulance unlikely if you fall' and 'Mone alone'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63882342?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63882342?at_medium=RSS&at_campaign=KARANGA)
@@ -587,3 +587,4 @@ Yields of tomatoes and other crops are set to hit a record low as farmers strugg
  - date published: 2022-12-06 00:00:09+00:00
 
 Fewer banks and shops, but beauty parlours prosper - BBC analysis of Ordnance Survey data has found.
+

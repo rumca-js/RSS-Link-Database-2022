@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Monday Briefing: The Social Cost of ‘Zero Covid’
  - [https://www.nytimes.com/2022/12/04/briefing/zero-covid-china-iran-morality-police-russia-oil.html](https://www.nytimes.com/2022/12/04/briefing/zero-covid-china-iran-morality-police-russia-oil.html)
@@ -83,3 +83,4 @@ These misty and damp parts of the country have long beckoned to mushroom hunters
  - date published: 2022-12-04 04:51:49+00:00
 
 Ukraine’s president criticized the $60-a-barrel limit set by the Group of 7 nations, suggesting that the architects of the plan were “trying to avoid big decisions.”
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Marvel Snap's Music Video is a Superhero Shipper's Delight
  - [https://gizmodo.com/marvel-snap-music-video-1849880240](https://gizmodo.com/marvel-snap-music-video-1849880240)
@@ -41,3 +41,4 @@
  - date published: 2022-12-11 15:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--tMFsV2J5--/c_fit,fl_progressive,q_80,w_636/9b2404c38b6ad072dd392601fa98eded.jpg" /><p>The past week has been eventful for fans of DC movies. Between a debut poster for <a href="https://gizmodo.com/blue-beetle-solo-movie-dc-comics-warner-bros-1849852605"><em>Blue Beetle</em></a><em>, </em>everything going on with <a href="https://gizmodo.com/dc-black-adam-box-office-flop-dwayne-johnson-the-rock-1849866587">Dwayne Johnson and </a><a href="https://gizmodo.com/dc-black-adam-box-office-flop-dwayne-johnson-the-rock-1849866587"><em>Black Adam</em></a><em>, </em>and varying movies getting put on hold or maybe <a href="https://gizmodo.com/wonder-woman-3-dead-cancel-warner-bros-dc-patty-jenkins-1849866873">straight up gone</a>, things are looking...kinda weird as James Gunn and Peter Safran begin to settle on what the next few…</p><p><a href="https://gizmodo.com/open-channel-pitch-dc-movie-canceled-1849879491">Read more...</a></p>
+

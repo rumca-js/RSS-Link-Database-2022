@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Każda lekcja, której nam udzielał, była niezwykle ważna"
  - [https://tvn24.pl/polska/mariusz-walter-nie-zyje-michal-samul-wojciech-bojanowski-i-brygida-grysiak-ciesiolkiewicz-wspominaja-bylego-szefa-tvn-6488368?source=rss](https://tvn24.pl/polska/mariusz-walter-nie-zyje-michal-samul-wojciech-bojanowski-i-brygida-grysiak-ciesiolkiewicz-wspominaja-bylego-szefa-tvn-6488368?source=rss)
@@ -1007,3 +1007,4 @@
 
 <img alt="Pięć osób nie żyje, dziecko wśród ofiar. Zwolennicy byłego prezydenta zablokowali lotnisko" src="https://tvn24.pl/najnowsze/cdn-zdjecie-qlqlr3-zwolennicy-bylego-prezydenta-peru-zablokowali-lotnisko-na-poludniu-kraju-6469930/alternates/LANDSCAPE_1280" />
     Nowo zaprzysiężona prezydent Dina Boluarte ogłosiła stan wyjątkowy.
+

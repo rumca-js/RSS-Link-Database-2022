@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## Child tax credit fans gain momentum in GOP infighting over economics
  - [https://www.washingtonexaminer.com/policy/economy/child-tax-credit-gains-momentum-gop-infighting](https://www.washingtonexaminer.com/policy/economy/child-tax-credit-gains-momentum-gop-infighting)
@@ -13,3 +13,4 @@ A long-running intra-GOP debate over the child tax credit is coming back to the 
  - date published: 2022-12-12 09:00:32+00:00
 
 A long-running intra-GOP debate over the child tax credit is coming back to the political foreground, pitting supply-siders against more populist, family-focused lawmakers.
+

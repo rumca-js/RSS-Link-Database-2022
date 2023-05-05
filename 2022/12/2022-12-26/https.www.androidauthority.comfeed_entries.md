@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Apple iPhone 15: Everything we know so far and what we want to see
  - [https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
@@ -41,3 +41,11 @@ Google Photos has plenty of printing options, but have you used for printing bef
  - date published: 2022-12-26 12:00:44+00:00
 
 From the camera experience to software updates, here's how OnePlus can improve things in the new year.
+
+## 15 best e-book reader apps for Android
+ - [https://www.androidauthority.com/best-ebook-ereader-apps-for-android-170696/](https://www.androidauthority.com/best-ebook-ereader-apps-for-android-170696/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-12-26 09:25:21+00:00
+
+It's become a lot easier to read e-books than it used to be — here are some of our favorite ways.
+

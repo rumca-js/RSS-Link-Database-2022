@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## As US debates Title 42 policy, asylum seekers left in limbo
  - [https://www.aljazeera.com/news/2022/12/19/as-us-debates-end-to-title-42-policy-asylum-seekers-left-in-limbo](https://www.aljazeera.com/news/2022/12/19/as-us-debates-end-to-title-42-policy-asylum-seekers-left-in-limbo)
@@ -356,3 +356,4 @@ Joyous crowds lined Lusail Boulevard in Qatar following the conclusion of an inc
  - date published: 2022-12-19 01:15:25+00:00
 
 N Korea has released satellite imagery of South Korea&#039;s Seoul and Incheon cities presumed to have been shot during test.
+

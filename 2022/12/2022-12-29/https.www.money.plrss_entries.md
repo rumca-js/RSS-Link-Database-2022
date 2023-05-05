@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## 10 proc. w skali roku? Ważą się losy lokat
  - [https://www.money.pl/banki/10-proc-w-skali-roku-waza-sie-losy-lokat-6849883364539200a.html](https://www.money.pl/banki/10-proc-w-skali-roku-waza-sie-losy-lokat-6849883364539200a.html)
@@ -118,3 +118,4 @@
  - date published: 2022-12-29 06:05:20+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b" width="308" /> Kurs dolara - 29.12.2022. W czwartek za jednego dolara (USD) trzeba zapłacić 4.4131 zł.
+

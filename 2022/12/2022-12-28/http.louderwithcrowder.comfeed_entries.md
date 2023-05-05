@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Whoopi Goldberg ends 2022 apologizing for Holocaust comments...which is how she started 2022
  - [https://www.louderwithcrowder.com/whoopi-goldberg-apologizes-again](https://www.louderwithcrowder.com/whoopi-goldberg-apologizes-again)
@@ -131,3 +131,4 @@
 <a href="https://youtu.be/5m6N-x85qLM" target="_blank">youtu.be</a>
 </small>
 </p>
+

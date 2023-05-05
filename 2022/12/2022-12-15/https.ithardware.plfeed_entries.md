@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Nowy Tomb Raider powstaje we współpracy z Amazon Games. Poznaliśmy kolejne informacje o grze
  - [https://ithardware.pl/aktualnosci/nowy_tomb_raider_powstaje_we_wspolpracy_z_amazon_games_poznalismy_kolejne_informacje_o_grze-24897.html](https://ithardware.pl/aktualnosci/nowy_tomb_raider_powstaje_we_wspolpracy_z_amazon_games_poznalismy_kolejne_informacje_o_grze-24897.html)
@@ -217,3 +217,4 @@ Samsung 980 1 TB pojawił się...
 
 Za powstanie wideo odpowiada&nbsp;nasz redakcyjny...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_czwarty_grudzien_2022-24873.html">https://ithardware.pl/aktualnosci/newsy_podsumowanie_tydzien_osiemdziesiaty_czwarty_grudzien_2022-24873.html</a></p>
+

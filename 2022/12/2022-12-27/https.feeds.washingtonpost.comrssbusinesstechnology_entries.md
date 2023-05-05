@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## How well do you know the biggest gaming news of 2022?
  - [https://www.washingtonpost.com/video-games/interactive/2022/video-game-news-quiz-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/interactive/2022/video-game-news-quiz-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ Our tech columnist says social media companies all decide which users’ posts t
  - date published: 2022-12-27 06:00:25+00:00
 
 It's been a dreary year for tech stocks — and for entrepreneurs' wealth.
+

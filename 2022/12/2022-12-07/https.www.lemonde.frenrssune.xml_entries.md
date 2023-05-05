@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Putin warns Ukraine conflict could be a 'lengthy process'
  - [https://www.lemonde.fr/en/international/article/2022/12/08/putin-warns-ukraine-conflict-could-be-a-lengthy-process_6006941_4.html](https://www.lemonde.fr/en/international/article/2022/12/08/putin-warns-ukraine-conflict-could-be-a-lengthy-process_6006941_4.html)
@@ -265,3 +265,4 @@ After 13 years of negotiations – financing issues, liability questions, and sa
  - date published: 2022-12-07 03:59:32+00:00
 
 Democratic incumbent Senator Raphael Warnock defeated Trump-backed Republican challenger Herschel Walker to give Democrats a 51-49 Senate majority.
+

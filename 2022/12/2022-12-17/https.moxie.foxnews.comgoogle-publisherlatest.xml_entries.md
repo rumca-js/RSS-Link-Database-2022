@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## DC Democrat fights own party over violent crime response: 'Truly puzzling'
  - [https://www.foxnews.com/politics/dc-democrat-fights-own-party-violent-crime-response](https://www.foxnews.com/politics/dc-democrat-fights-own-party-violent-crime-response)
@@ -550,7 +550,6 @@ Georgia police arrested a suspect in the fatal shooting of a correctional office
  - [https://www.foxnews.com/politics/republicans-respond-after-twitter-files-6-reveals-fbi-flagged-users-and-tweets](https://www.foxnews.com/politics/republicans-respond-after-twitter-files-6-reveals-fbi-flagged-users-and-tweets)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-17 07:40:32+00:00
- - tags: censorship,fbi,twitter,twitter files
 
 Republican lawmakers including Reps. Matt Gaetz, Jim Jordan and others have responded after the latest Twitter Files alleged coordination between the intel community and Twitter.
 
@@ -784,3 +783,4 @@ FBI employees regularly contacted Twitter workers to notify them of accounts tha
  - date published: 2022-12-17 00:06:02+00:00
 
 Barbara Gatica Avilés has been banned from tennis for three years after admitting to fixing a match in 2016. She also had been suspended for an anti-doping violation.
+

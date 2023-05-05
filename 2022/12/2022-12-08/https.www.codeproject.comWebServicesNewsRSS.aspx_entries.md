@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Abstraction is expensive
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59752](https://www.codeproject.com/script/News/View.aspx?nwid=59752)
@@ -125,3 +125,4 @@ More or less
  - date published: 2022-12-08 05:00:00+00:00
 
 The latest releases have new Views, Layouts, Tizen support, .NET 7 support and so much more.
+

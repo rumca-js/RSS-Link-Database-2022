@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Sam Bankman-Fried Is Set for Extradition to U.S.
  - [https://www.nytimes.com/2022/12/21/technology/sbf-ftx-extradition.html](https://www.nytimes.com/2022/12/21/technology/sbf-ftx-extradition.html)
@@ -55,3 +55,4 @@ Mr. Musk, who asked his Twitter followers on Sunday if he should step down as he
  - date published: 2022-12-21 02:07:07+00:00
 
 Lawyers for the FTX founder are in talks about a deal that could allow him to be released on bail when he is extradited to the United States on fraud charges.
+

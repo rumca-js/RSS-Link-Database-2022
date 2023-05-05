@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## I'm horrified by the hidden hungry in our schools, writes top chef RAYMOND BLANC
  - [https://www.dailymail.co.uk/debate/article-11543671/Im-horrified-hidden-hungry-schools-writes-chef-RAYMOND-BLANC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11543671/Im-horrified-hidden-hungry-schools-writes-chef-RAYMOND-BLANC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1904,3 +1904,4 @@ In a candid interview, the Prime Minister said Hinduism is not just a religion b
  - date published: 2022-12-15 00:00:54+00:00
 
 People are also turning towards 'planet friendly gardening', the RHS said in its predictions based on input from gardeners, experts and growers.
+

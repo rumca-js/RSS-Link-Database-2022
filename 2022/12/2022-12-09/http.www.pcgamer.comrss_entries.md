@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## The Outbound Ghost dev defaces his own Steam page in dispute with publisher
  - [https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher](https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher)
@@ -338,3 +338,4 @@ Sony confirms its PS5 exclusive is out early 2023.
  - date published: 2022-12-09 00:26:11+00:00
 
 One of the best PC games of 2022 is now on your phone.
+

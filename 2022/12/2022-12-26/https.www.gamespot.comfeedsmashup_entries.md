@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Best Of 2022: God Of War Ragnarok's Twist On Norse Mythology Is An Excellent Subversion
  - [https://www.gamespot.com/articles/god-of-war-ragnaroks-twist-on-norse-mythology-is-an-excellent-subversion/1100-6510121/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/god-of-war-ragnaroks-twist-on-norse-mythology-is-an-excellent-subversion/1100-6510121/?ftag=CAD-01-10abi2f)
@@ -41,3 +41,4 @@
  - date published: 2022-12-26 14:00:00+00:00
 
 <p dir="ltr">Netflix's Christmas release of Witcher: Blood Origin will see the creation of the very first Witcher. And while characters like Geralt will eventually become beings melding magic and humanity, the first Witcher looked a bit different.</p><p dir="ltr"><strong>Warning: The following interview has some spoilers for the finale of Witcher: Blood Origin.</strong></p><p dir="ltr">Actor Laurence O'Fuarain's character Fjall is a mighty warrior, who ends up taking on that role of the very first Witcher during the final episodes of the season. However, he had to wear a large prosthetic suit for that transformation. It was tough," O'Fuarain told GameSpot. "And when you have to go into prosthetics for a couple of hours in a chair, it's never easy, but I mean, you know, part of the parcel. What would happen was I'd get collected from the apartments that I was staying in at about 2 AM, 2:15. And then I'd literally be dropped back at about 10 PM because once you get it on, you have to shoot all day, and then you have to take everything off. And like my makeup artist, Valentin, he had to be there before I was there, so I can't complain. He had it the roughest. That was just part of the job."</p><a href="https://www.gamespot.com/articles/witcher-blood-origins-laurence-ofuarain-stank-up-the-room-in-his-prosthetic-suit/1100-6510222/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Analysis: Zelensky's Washington trip marks a victory in the PR war with Putin
  - [https://www.cnn.com/2022/12/21/europe/zelensky-putin-media-war-intl/index.html](https://www.cnn.com/2022/12/21/europe/zelensky-putin-media-war-intl/index.html)
@@ -27,3 +27,4 @@ Another day, another round of strikes in Britain.
  - date published: 2022-12-21 00:05:16+00:00
 
 The family of Peru's ousted President Pedro Castillo has been granted asylum by the Mexican government, Mexico's foreign minister said Tuesday amid ongoing protests in the Andean nation, which has left dozens of people dead.
+

@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## „Oddam w dobre ręce laptopa” – czyli jak przestępcy organizują sobie darmowe zakupy. Uważajcie.
  - [https://sekurak.pl/oddam-w-dobre-rece-laptopa-czyli-jak-przestepcy-organizuja-sobie-darmowe-zakupy-uwazajcie/](https://sekurak.pl/oddam-w-dobre-rece-laptopa-czyli-jak-przestepcy-organizuja-sobie-darmowe-zakupy-uwazajcie/)
@@ -23,3 +23,4 @@
 
 <p>Jeden z czytelników przesłał nam zdjęcie takiej wiadomości: &#8222;Drogi Obywatelu&#8221; oraz &#8222;Administracja finansowa refundacji&#8221; brzmi nieco komicznie, ale zobaczmy co się dzieje dalej. Po wejściu strona vat-poland[.]com informuje nas, że powinniśmy użyć jednak przeglądarki mobilnej. OK: Hasło było w mailu, więc przechodzimy dalej. Zbierają numer telefonu &#8211; to może na...</p>
 <p>Artykuł <a href="https://sekurak.pl/wystarczy-tylko-zatwierdzic-wniosek-o-zwrot-podatku-aby-otrzymac-sporo-pieniazkow-a-nie-czekaj-to-oszustwo/" rel="nofollow">Wystarczy tylko &#8222;zatwierdzić wniosek o zwrot podatku&#8221; aby otrzymać sporo pieniążków. A nie, czekaj, to oszustwo!</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

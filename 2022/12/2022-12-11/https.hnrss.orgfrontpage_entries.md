@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Carvana sees 98% of its market value evaporate
  - [https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
@@ -689,3 +689,4 @@ So how did you folks do it?</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33938619">https://news.ycombinator.com/item?id=33938619</a></p>
 <p>Points: 5</p>
 <p># Comments: 2</p>
+

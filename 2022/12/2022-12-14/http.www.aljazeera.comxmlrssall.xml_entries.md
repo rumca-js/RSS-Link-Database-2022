@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Photos: France charge into final to end Morocco’s World Cup dream
  - [https://www.aljazeera.com/gallery/2022/12/14/photos-france-charge-into-final-to-end-moroccos-world-cup-dream](https://www.aljazeera.com/gallery/2022/12/14/photos-france-charge-into-final-to-end-moroccos-world-cup-dream)
@@ -123,7 +123,6 @@ A US-drafted resolution to remove Iran from the Commission on the Status of Wome
  - [https://www.aljazeera.com/news/2022/12/14/peru-declares-nationwide-state-of-emergency-as-crisis-deepens](https://www.aljazeera.com/news/2022/12/14/peru-declares-nationwide-state-of-emergency-as-crisis-deepens)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 18:48:46+00:00
- - tags: politics
 
 Ex-President Pedro Castillo calls on supporters to go to prison where he is held as prosecutors seek 18-month detention.
 
@@ -448,3 +447,4 @@ Crisis triggered by the military takeover makes life even more dangerous for tho
  - date published: 2022-12-14 00:49:47+00:00
 
 &#039;No human being can stop Messi,&#039; Argentina fan Ricardo Falu told Al Jazeera as the Albicelestes defeated Croatia 3-0.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Lasery mają tendencję do autodestrukcji. W ten sposób można je jednak zabezpieczyć
  - [https://www.chip.pl/2022/12/lasery-uszkodzenia-przez-wiazke-izolator](https://www.chip.pl/2022/12/lasery-uszkodzenia-przez-wiazke-izolator)
@@ -71,3 +71,4 @@
 
 <img alt="Chiński system rakietowy FOB" class="attachment-full size-full wp-post-image" height="1200" src="https://konto.chip.pl/wp-content/uploads/2022/07/Taki-pocisk-hipersoniczny-maja-tylko-Chiny.-Jest-niczym-3w1-czemu-zawdziecza-swoja-unikalnosc-1.jpg" style="margin-bottom: 10px;" width="832" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/07/Taki-pocisk-hipersoniczny-maja-tylko-Chiny.-Jest-niczym-3w1-czemu-zawdziecza-swoja-unikalnosc-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>W lipcu 2021 roku Chiny zrealizowały test, który do tej pory budzi wiele pytań wśród osobistości z amerykańskiego departamentu obrony. Potwierdził to po raz kolejny opublikowany właśnie coroczny raport China Military Power Report (CMPR), który służy od lat w celu oceny obecnej strategii obronnej i zdolności wojskowych Chin. Pojawiła się w nim wzmianka o szczególnym [&#8230;]</p>
+

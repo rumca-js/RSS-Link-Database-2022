@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Misleading Ads Fueled Rapid Growth of Online Mental Health Companies
  - [https://www.wsj.com/articles/telehealth-cerebral-done-ads-mental-health-adhd-11672161087?mod=rss_Technology](https://www.wsj.com/articles/telehealth-cerebral-done-ads-mental-health-adhd-11672161087?mod=rss_Technology)
@@ -34,3 +34,4 @@ Semiconductor companies are slashing production plans to try to restore balance 
  - date published: 2022-12-27 10:30:00+00:00
 
 Most laid off workers in tech are finding jobs shortly after beginning their search, as employers continue to scoop up workers in a tight labor market.
+

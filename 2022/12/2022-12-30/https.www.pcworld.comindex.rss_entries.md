@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best wireless gaming mice: Tested and approved
  - [https://www.pcworld.com/article/559298/best-wireless-gaming-mice.html](https://www.pcworld.com/article/559298/best-wireless-gaming-mice.html)
@@ -911,3 +911,4 @@ Monitors</div>
 <p><em>Prices subject to change.</em></p>
 
 </div>
+

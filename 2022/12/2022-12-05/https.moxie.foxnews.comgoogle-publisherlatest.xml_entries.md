@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Brandi Carlile honors Amy Grant and U2 at Kennedy Center Honors: 'Changed the way that God and faith are seen'
  - [https://www.foxnews.com/entertainment/brandi-carlile-honors-amy-grant-u2-kennedy-center-honors-changed-god-faith-seen](https://www.foxnews.com/entertainment/brandi-carlile-honors-amy-grant-u2-kennedy-center-honors-changed-god-faith-seen)
@@ -599,7 +599,6 @@ The Christmas parade in the city of Waukesha, Wisconsin has made its emotional r
  - [https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring](https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-05 14:42:02+00:00
- - tags: blm,kyle rittenhouse
 
 Kyle Rittenhouse said he was hopeful that Twitter’s censorship campaign against him would be exposed after owner Elon Musk released the "Twitter Files."
 
@@ -1050,3 +1049,4 @@ Trae Young reportedly missed the Atlanta Hawks' game against the Denver Nuggets 
  - date published: 2022-12-05 00:03:13+00:00
 
 MSNBC Analyst Brendan Buck suggested that Twitter's communications amid the 2020 election may be used as evidence to support claims of big tech bias against conservatives.
+

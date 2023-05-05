@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Twitter Offering ‘Largest Advertiser Incentive Ever’ as Brands Leave Platform and Revenues Decline
  - [https://www.theepochtimes.com/twitter-offering-largest-advertiser-incentive-ever-as-brands-leave-platform-and-revenues-decline_4901257.html](https://www.theepochtimes.com/twitter-offering-largest-advertiser-incentive-ever-as-brands-leave-platform-and-revenues-decline_4901257.html)
@@ -48,3 +48,4 @@ Rapper Kanye West attends the Givenchy Spring-Summer 2023 fashion show during th
  - date published: 2022-12-02 03:29:20+00:00
 
 A Hyundai Ioniq battery electric vehicle being charged. (Christopher Furlong/Getty Images)
+

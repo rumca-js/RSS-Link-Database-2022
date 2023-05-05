@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania. Babcia miała dość gotowania za darmo. Pobrała od rodziny opłatę za święta
  - [https://www.polsatnews.pl/wiadomosc/2022-12-23/wielka-brytania-babcia-miala-dosc-gotowania-za-darmo-pobrala-od-rodziny-oplate-za-swieta/](https://www.polsatnews.pl/wiadomosc/2022-12-23/wielka-brytania-babcia-miala-dosc-gotowania-za-darmo-pobrala-od-rodziny-oplate-za-swieta/)
@@ -90,3 +90,4 @@ Arktyczna zima zaatakowała Stany Zjednoczone. Obszar, na którym wydano ostrze�
  - date published: 2022-12-23 05:09:00+00:00
 
 Pentagon rozważa szkolenie ukraińskich sił zbrojnych w zakresie obsługi systemu obrony przeciwrakietowej Patriot w bazie wojskowej w Stanach Zjednoczonych - przekazały media. Taką informację otrzymano od urzędników z Departamentu Obrony USA. Według Pentagonu szkolenie wymaga 90 co najmniej żołnierzy i zajmie kilka miesięcy.
+

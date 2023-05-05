@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Shirley Watts nie żyje. Żona perkusisty The Rolling Stones miała 82 lata
  - [https://www.polsatnews.pl/wiadomosc/2022-12-19/shirlet-watts-nie-zyje-zona-perkusisty-the-rolling-stones-miala-82-lata/](https://www.polsatnews.pl/wiadomosc/2022-12-19/shirlet-watts-nie-zyje-zona-perkusisty-the-rolling-stones-miala-82-lata/)
@@ -139,3 +139,4 @@ Miliarder Elon Musk po raz kolejny zaskoczył swoim pomysłem. Tym razem zapyta�
  - date published: 2022-12-19 05:31:00+00:00
 
 Co najmniej 36 osób na pokładzie samolotu linii Hawaiian Airlines zostało rannych, a 20 trafiło do szpitala po tym, jak ich samolot napotkał poważne turbulencje podczas lotu z Phoenix do Honolulu – poinformowały władze.
+

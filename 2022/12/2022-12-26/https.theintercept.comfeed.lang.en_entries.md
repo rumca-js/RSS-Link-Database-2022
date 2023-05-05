@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Texas Lawmakers Plan to Further Decimate Abortion Rights in Upcoming Legislative Session
  - [https://theintercept.com/2022/12/26/texas-abortion-legislative-session/](https://theintercept.com/2022/12/26/texas-abortion-legislative-session/)
@@ -15,3 +15,4 @@
 
 <p>O fim do governo de Jair Bolsonaro não torna nosso trabalho mais fácil daqui para a frente. Na verdade, impõe outras dificuldades.</p>
 <p>The post <a href="https://theintercept.com/2022/12/26/nosso-jornalismo-tem-principios-inegociaveis/" rel="nofollow">Nosso jornalismo tem princípios inegociáveis</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

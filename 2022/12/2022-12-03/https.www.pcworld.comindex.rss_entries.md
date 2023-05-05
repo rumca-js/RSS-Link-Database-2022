@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## How to set up two monitors for double the screen real estate
  - [https://www.pcworld.com/article/448298/how-to-set-up-two-monitors.html](https://www.pcworld.com/article/448298/how-to-set-up-two-monitors.html)
@@ -209,3 +209,4 @@ Computers, Monitors</div>
 
 <p><em>Prices subject to change.</em></p>
 Software Development</div>
+

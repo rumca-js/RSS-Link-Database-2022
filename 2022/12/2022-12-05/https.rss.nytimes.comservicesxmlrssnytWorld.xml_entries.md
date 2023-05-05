@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## In Liberated Ukrainian City of Kherson, Ecstasy Gives Way to Despair
  - [https://www.nytimes.com/2022/12/05/world/europe/ukraine-kherson-russia.html](https://www.nytimes.com/2022/12/05/world/europe/ukraine-kherson-russia.html)
@@ -153,3 +153,4 @@ New Zealand’s health service is seeking to take temporary custody of a critica
  - date published: 2022-12-05 05:01:12+00:00
 
 While Russia’s economy has not collapsed, an exodus of Western companies is eroding hard-won progress, and experts say the worst may be yet to come.
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Forget iPhone 15 Pro, Pixel 8 Pro Could Get A Major Camera Upgrade
  - [https://www.forbes.com/sites/prakharkhanna/2022/12/20/forget-iphone-15-pro-pixel-8-pro-could-get-a-major-camera-upgrade/](https://www.forbes.com/sites/prakharkhanna/2022/12/20/forget-iphone-15-pro-pixel-8-pro-could-get-a-major-camera-upgrade/)
@@ -554,3 +554,4 @@ Will you see "shooting stars" this week? Everything you need to know about the U
  - date published: 2022-12-20 01:00:00+00:00
 
 Some hints and the solution for today's 'Quordle' are just ahead.
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Busting a myth: Saturn V rocket wasn’t loud enough to melt concrete
  - [https://arstechnica.com/?p=1907031](https://arstechnica.com/?p=1907031)
@@ -41,3 +41,4 @@ This year we gingerly ventured back into theaters, but streaming is still in the
  - date published: 2022-12-30 11:07:48+00:00
 
 Way too much rainfall in some places, not nearly enough in others.
+

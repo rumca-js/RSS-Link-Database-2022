@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Fortnite Chapter 4 Start Time: When Will Fortnite Servers Be Back Up?
  - [https://www.gamespot.com/articles/fortnite-chapter-4-start-time-when-will-fortnite-servers-be-back-up/1100-6509691/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-chapter-4-start-time-when-will-fortnite-servers-be-back-up/1100-6509691/?ftag=CAD-01-10abi2f)
@@ -90,3 +90,4 @@
  - date published: 2022-12-03 01:17:00+00:00
 
 <p>It appears that CD Projekt Red plans on releasing a Game of the Year edition for its most recent game, <a href="https://www.gamespot.com/games/cyberpunk-2077/">Cyberpunk 2077</a>.</p><p dir="ltr">In an investor meeting reported on by <a href="https://insider-gaming.com/cyberpunk-2077-game-of-the-year-edition/">Insider Gaming</a>, CD Projekt Red CEO Adam Kicinski stated that the studio intends to release a Game of the Year edition after the launch of the game's upcoming DLC <a href="https://www.gamespot.com/videos/cyberpunk-2077-phantom-liberty-official-teaser-trailer/2300-6459383/">Phantom Liberty</a>.</p><p dir="ltr">The report states that Kicinski said the following about the upcoming rerelease of Cyberpunk 2077 next year:</p><a href="https://www.gamespot.com/articles/cyberpunk-2077-goty-coming-in-2023/1100-6509684/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

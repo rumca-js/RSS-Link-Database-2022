@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET 7 networking improvements
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59758](https://www.codeproject.com/script/News/View.aspx?nwid=59758)
@@ -125,3 +125,4 @@ I knew that {company}'s licensing fees were high, but I didn't think they were t
  - date published: 2022-12-09 05:00:00+00:00
 
 The latest release of PyTorch with DirectML is available
+

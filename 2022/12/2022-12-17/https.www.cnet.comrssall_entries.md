@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Netflix: The 47 Absolute Best Movies to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-movies-to-watch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-movies-to-watch-tonight/#ftag=CADf328eec)
@@ -426,3 +426,4 @@ The Communications Workers of America is escalating its complaints to the Nation
  - date published: 2022-12-17 01:22:37+00:00
 
 The animated show will give Ash Ketchum a goodbye arc and then bring on new protagonists.
+

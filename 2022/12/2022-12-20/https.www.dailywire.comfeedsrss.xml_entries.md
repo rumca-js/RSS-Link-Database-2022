@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Conspiracy Theorist Mike Lindell To Audit DeSantis’ Historic Re-Election Win: ‘I Don’t Believe It’
  - [https://www.dailywire.com/news/conspiracy-theorist-mike-lindell-to-audit-desantis-historic-re-election-win-i-dont-believe-it](https://www.dailywire.com/news/conspiracy-theorist-mike-lindell-to-audit-desantis-historic-re-election-win-i-dont-believe-it)
@@ -335,3 +335,4 @@ A Maricopa County judge ruled Monday that Republican gubernatorial candidate Kar
  - date published: 2022-12-20 09:06:38+00:00
 
 A shock wave hit Earth’s magnetic field on Sunday night, cracking the magnetosphere, which protects the planet from radiation. Earth’s magnetic field, also called the geomagnetic field, extends from the interior of the earth thousands of miles into space. Electric currents, resulting from convection currents stimulated by molten iron and nickel in Earth’s outer core, ...
+

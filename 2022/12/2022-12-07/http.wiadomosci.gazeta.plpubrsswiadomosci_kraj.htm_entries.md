@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Iława. Mężczyzna zgłosił porwanie, bo chciał, by policjanci zawieźli go do domu? Policja apeluje
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29237524,ilawa-mezczyzna-zglosil-porwanie-bo-chcial-by-policjanci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29237524,ilawa-mezczyzna-zglosil-porwanie-bo-chcial-by-policjanci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -146,3 +146,4 @@
  - date published: 2022-12-07 05:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/4f/ac/1a/z27969871M,Snieg--zima--zdjecie-ilustracyjne-.jpg" vspace="2" />W środę 7 grudnia do Polski wróci łagodna zima. Temperatura nieco spadnie, jednak największa zmiana czeka nas w opadach - zamiast deszczu spadnie w śnieg. Lokalnie mogą występować nawet burze śnieżne.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## No alien life discovered on Earth, Pentagon says, but search deepens
  - [https://www.washingtonpost.com/national-security/2022/12/16/pentagon-ufo-office-alien-life/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/national-security/2022/12/16/pentagon-ufo-office-alien-life/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -69,3 +69,4 @@ Use our simulator to learn how AI generates images from “noise.”
  - date published: 2022-12-16 04:00:42+00:00
 
 Internal documents show how a small group of executives molded online discourse. Under Musk, that’s more of a problem than ever.
+

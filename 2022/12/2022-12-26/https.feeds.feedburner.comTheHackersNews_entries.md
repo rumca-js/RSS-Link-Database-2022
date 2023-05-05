@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## GuLoader Malware Utilizing New Techniques to Evade Security Software
  - [https://thehackernews.com/2022/12/guloader-malware-utilizing-new.html](https://thehackernews.com/2022/12/guloader-malware-utilizing-new.html)
@@ -23,3 +23,4 @@ As we are nearing the end of 2022, looking at the most concerning threats of thi
 The pay-per-install (PPI) malware downloader service known as PrivateLoader is being used to distribute a previously documented information-stealing malware dubbed RisePro.
 Flashpoint spotted the newly identified stealer on December 13, 2022, after it discovered "several sets of logs" exfiltrated using the malware on an illicit cybercrime marketplace called Russian Market.
 A C++-based malware,
+

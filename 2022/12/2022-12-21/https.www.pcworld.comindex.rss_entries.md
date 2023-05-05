@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Sorry, tinkerers: The Raspberry Pi 5 isn’t launching in 2023
  - [https://www.pcworld.com/article/1440616/finally-raspberry-pi-5-is-set-to-launch-in-2023.html](https://www.pcworld.com/article/1440616/finally-raspberry-pi-5-is-set-to-launch-in-2023.html)
@@ -467,3 +467,4 @@ Laptops</div>
 <p><em>Prices subject to change.</em></p>
 
 Mobile, Mobile Phones&nbsp;</div>
+

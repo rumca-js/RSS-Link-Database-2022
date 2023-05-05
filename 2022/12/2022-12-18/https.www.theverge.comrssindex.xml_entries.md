@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Riot Games says Sam Bankman-Fried’s love of League of Legends hurts the brand
  - [https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation](https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation)
@@ -53,3 +53,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/18/23515070/apple-monitors-pro-display-xdr-rumors">Continue reading&hellip;</a>
   </p>
+

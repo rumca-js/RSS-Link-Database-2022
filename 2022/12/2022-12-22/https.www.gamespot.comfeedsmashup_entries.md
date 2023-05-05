@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Steam Winter Sale - Best Steam Deck Deals
  - [https://www.gamespot.com/gallery/steam-winter-sale-best-steam-deck-deals/2900-4562/](https://www.gamespot.com/gallery/steam-winter-sale-best-steam-deck-deals/2900-4562/)
@@ -62,3 +62,4 @@
  - date published: 2022-12-22 14:00:00+00:00
 
 <p dir="ltr">This Christmas, the Witcher world returns to Netflix with Blood Origin, a four-part series telling the origin of the very first Witcher. One of the biggest surprises is the inclusion of Minnie Driver in the series.</p><p dir="ltr">Driver plays Seanchaí, the narrative voice for the series. An accomplished actor in her own right with a storied career, Driver's inclusion in Blood Origin is a different move for her, as Driver is entering a world of high-fantasy, not something she's known for. So what drew her to this role?</p><p dir="ltr">"I like origin stories," Driver told GameSpot. "I like well-done origin stories. And I think that we're kind of honing now that the prequel has become not such a dirty word in moviemaking. It's really cool that they get the attention they deserve. And I really like this one. I like the idea of the inception of The Witcher like this character that we've sort of come to love in this universe that was that he heralded. I love going back to see the beginning of that. And like, you know, being the person that kind of guides you through that. That's such a huge honor, it's cool."</p><a href="https://www.gamespot.com/articles/why-minnie-driver-joined-witcher-blood-origin/1100-6510216/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

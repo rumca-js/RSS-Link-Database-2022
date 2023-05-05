@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## SpaceX launches lunar lander for Japanese venture ispace, which aims to create an economy around the moon
  - [https://www.cnbc.com/2022/12/11/spacex-launches-japanese-ispace-lunar-lander-first-mission.html](https://www.cnbc.com/2022/12/11/spacex-launches-japanese-ispace-lunar-lander-first-mission.html)
@@ -41,3 +41,4 @@ Harry Kane blazed a late penalty over the bar as England's World Cup dreams ende
  - date published: 2022-12-11 04:26:31+00:00
 
 Morocco wrote World Cup history on Saturday night as the first African and Arab country to reach the tournament's semi-finals.
+

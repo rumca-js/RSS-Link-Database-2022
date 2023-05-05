@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## How Jared Kushner Lost at the World Cup in Qatar
  - [https://theintercept.com/2022/12/04/world-cup-qatar-jared-kushner-israel/](https://theintercept.com/2022/12/04/world-cup-qatar-jared-kushner-israel/)
@@ -15,3 +15,4 @@
 
 <p>At an upcoming settlement conference in federal court, lawyers for Jones will try to negotiate an end to his long legal saga.</p>
 <p>The post <a href="https://theintercept.com/2022/12/04/death-penalty-barry-jones-settlement-conference/" rel="nofollow">Barry Jones Is Spending Another Holiday Season on Death Row. Could It Be His Last?</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

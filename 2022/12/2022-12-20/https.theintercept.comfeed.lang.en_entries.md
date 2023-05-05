@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Elon Musk Is Still Silencing the Journalists He Banned From Twitter
  - [https://theintercept.com/2022/12/20/elon-musk-twitter-banned-journalists/](https://theintercept.com/2022/12/20/elon-musk-twitter-banned-journalists/)
@@ -39,3 +39,4 @@
 
 <p>Grassley, a staunch defender of press freedom and whistleblower rights, said he doesn’t think that the PRESS Act will be included in year-end legislation.</p>
 <p>The post <a href="https://theintercept.com/2022/12/19/chuck-grassley-press-act/" rel="nofollow">Sen. Chuck Grassley Has Been a Champion for Whistleblowers. Until Tom Cotton Caught His Ear.</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

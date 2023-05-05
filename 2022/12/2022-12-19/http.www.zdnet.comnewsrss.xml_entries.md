@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to choose the right monitor layout for work
  - [https://www.zdnet.com/home-and-office/smart-office/how-to-choose-the-right-monitor-layout-for-work/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/how-to-choose-the-right-monitor-layout-for-work/#ftag=RSSbaffb68)
@@ -216,3 +216,4 @@ There's still time to pick up cheap laptops before the holidays. Best Buy has yo
  - date published: 2022-12-19 06:16:07+00:00
 
 The South Korean EV battery maker continues to expand its production capacity.
+

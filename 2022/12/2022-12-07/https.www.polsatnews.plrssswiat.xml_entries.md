@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Belgia: 89-latka zgwałcona w domu opieki. Kobieta dokona eutanazji
  - [https://www.polsatnews.pl/wiadomosc/2022-12-07/belgia-89-latka-zgwalcona-w-domu-opieki-kobieta-dokona-eutanazji/](https://www.polsatnews.pl/wiadomosc/2022-12-07/belgia-89-latka-zgwalcona-w-domu-opieki-kobieta-dokona-eutanazji/)
@@ -69,3 +69,4 @@ Po sensacyjnym awansie reprezentacji Maroka do ćwierćfinału piłkarskich mist
  - date published: 2022-12-07 05:24:00+00:00
 
 Demokratyczny senator Raphael Warnock pokonał kandydata Partii Republikańskiej Herschela Walkera w wyborach startowych do Senatu w Georgii - podały media. To rozstrzygnięcie przypieczętowuje kontrolę Partii Demokratycznej nad tą Izbą. Rozkład sił będzie wynosił 51-49 dla ugrupowania prezydenta Joe Bidena.
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Make your noisy recording sound like pro audio with Adobe’s free AI tool
  - [https://arstechnica.com/?p=1905687](https://arstechnica.com/?p=1905687)
@@ -90,3 +90,4 @@ Cyberwarfare is getting real.
  - date published: 2022-12-19 05:01:25+00:00
 
 The performance Kia EV has playful handling and easy sub-12 second quarter-miles.
+

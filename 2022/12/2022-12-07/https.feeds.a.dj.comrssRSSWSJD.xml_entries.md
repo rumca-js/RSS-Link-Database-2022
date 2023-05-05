@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## TikTok Is Sued by Indiana, Alleging It Misleads Users
  - [https://www.wsj.com/articles/tiktok-is-sued-by-state-of-indiana-accused-of-targeting-young-teens-with-adult-content-11670445960?mod=rss_Technology](https://www.wsj.com/articles/tiktok-is-sued-by-state-of-indiana-accused-of-targeting-young-teens-with-adult-content-11670445960?mod=rss_Technology)
@@ -118,3 +118,4 @@ Elon Musk said a top Twitter lawyer “was exited,” part of the fallout from t
  - date published: 2022-12-07 02:56:00+00:00
 
 A group that includes Blue Origin, Boeing and Lockheed Martin wants to build a craft to transport astronauts to the moon.
+

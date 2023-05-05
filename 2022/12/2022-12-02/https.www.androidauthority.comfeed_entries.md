@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## How to cancel your PlayStation Plus subscription
  - [https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)
@@ -104,3 +104,4 @@ Real-time speaker labeling is now a thing on your Pixel's Recorder app.
  - date published: 2022-12-02 05:33:43+00:00
 
 Real-time speaker labeling is now a thing on your Pixel's Recorder app.
+

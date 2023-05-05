@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## ‘Black Panther’ actor Tenoch Huerta named AP 'breakthrough entertainer'
  - [https://www.nbcnews.com/news/latino/black-panther-actor-tenoch-huerta-named-breakthrough-entertainer-rcna62428](https://www.nbcnews.com/news/latino/black-panther-actor-tenoch-huerta-named-breakthrough-entertainer-rcna62428)
@@ -132,3 +132,4 @@ Russian President Vladimir Putin heads for Belarus on Monday, fueling Ukrainia
  - date published: 2022-12-19 09:07:39+00:00
 
 Thai navy ships and helicopters were searching on Monday for more than two dozen sailors still missing more than 12 hours after a warship sank.
+

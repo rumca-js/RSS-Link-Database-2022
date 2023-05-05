@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to screen-mirror an iPhone to a Samsung TV
  - [https://www.zdnet.com/home-and-office/home-entertainment/how-to-screen-mirror-an-iphone-to-a-samsung-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/how-to-screen-mirror-an-iphone-to-a-samsung-tv/#ftag=RSSbaffb68)
@@ -181,3 +181,4 @@ I found the best laptops to give as gifts this holiday season so you can focus o
  - date published: 2022-12-21 02:00:17+00:00
 
 The tech giant's latest DRAM boasts a top speed of 7.2Gbps, which means it can process 60GB per second.
+

@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Best PC Games 2022
  - [https://www.gamespot.com/videos/best-pc-games-2022/2300-6460269/](https://www.gamespot.com/videos/best-pc-games-2022/2300-6460269/)
@@ -27,3 +27,4 @@
  - date published: 2022-12-17 02:29:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4078618-gs-boty-2022-best-nintendo-games.jpg" width="480" /> The Nintendo Switch is getting up in years, but the hybrid portable console is still going strong. The platform had a solid year of great new releases, especially from outside the realm of Nintendo's usual top-tier franchises.
+

@@ -1,4 +1,4 @@
-# Source Reuters - All, Source URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, Source language: en-US
+# Source:Reuters - All, URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, language:en-US
 
 ## Reuters reveals Florida pulls $2 bln from BlackRock in largest anti-ESG divestment
  - [https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-florida-pulls-2-bln-from-blackrock-in-largest-anti-esg-divestment/](https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-florida-pulls-2-bln-from-blackrock-in-largest-anti-esg-divestment/)
@@ -23,3 +23,4 @@
 
 <p>Reuters exclusively reported that India plans to offer cash subsidies, lower taxes and other incentives to bolster its shipbuilding industry, [&#8230;]</p>
 <p>The post <a href="https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-india-to-offer-incentives-to-boost-shipbuilding-industry/" rel="nofollow">Reuters reveals India to offer incentives to boost shipbuilding industry</a> appeared first on <a href="https://www.reutersagency.com/en/" rel="nofollow">Reuters News Agency</a>.</p>
+

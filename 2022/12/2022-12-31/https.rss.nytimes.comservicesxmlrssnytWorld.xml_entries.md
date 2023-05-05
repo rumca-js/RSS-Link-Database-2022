@@ -1,10 +1,16 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
+
+## Deadly Russian Strikes Hammer Ukraine on New Year’s Eve
+ - [https://www.nytimes.com/2022/12/31/world/europe/ukraine-strikes-russia-new-years-eve.html](https://www.nytimes.com/2022/12/31/world/europe/ukraine-strikes-russia-new-years-eve.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-12-31 23:20:04+00:00
+
+Explosions hit the capital, Kyiv, and other cities on the final day of a year shaped by Russia’s invasion. Flanked by soldiers, Vladimir V. Putin called the invasion a “sacred duty” of Russians.
 
 ## Biden and Pelosi Pay Homage to Benedict XVI
  - [https://www.nytimes.com/2022/12/31/world/europe/biden-pelosi-pope-benedict.html](https://www.nytimes.com/2022/12/31/world/europe/biden-pelosi-pope-benedict.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 22:08:38+00:00
- - user: None
 
 President Biden and House Speaker Nancy Pelosi, both Catholic, issued statements mourning the passing of the retired pope.
 
@@ -12,7 +18,6 @@ President Biden and House Speaker Nancy Pelosi, both Catholic, issued statements
  - [https://www.nytimes.com/2022/12/31/world/europe/benedict-xvi-funeral-arrangements.html](https://www.nytimes.com/2022/12/31/world/europe/benedict-xvi-funeral-arrangements.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 22:05:24+00:00
- - user: None
 
 About 30,000 were expected to visit St. Peter’s Basilica on each of the three days that the pope emeritus’s body would lie in wake there.
 
@@ -20,7 +25,6 @@ About 30,000 were expected to visit St. Peter’s Basilica on each of the three 
  - [https://www.nytimes.com/2022/12/31/world/europe/pope-benedict-funeral.html](https://www.nytimes.com/2022/12/31/world/europe/pope-benedict-funeral.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 21:06:00+00:00
- - user: None
 
 Benedict stunned the Roman Catholic world by becoming the first pope in nearly 600 years to resign. Now his death leaves a living pope presiding over the funeral of his predecessor.
 
@@ -28,7 +32,6 @@ Benedict stunned the Roman Catholic world by becoming the first pope in nearly 6
  - [https://www.nytimes.com/2022/12/31/world/asia/india-ukraine-russia.html](https://www.nytimes.com/2022/12/31/world/asia/india-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 17:58:43+00:00
- - user: None
 
 The invasion of Ukraine, compounding the effects of the pandemic, has contributed to the ascent of a giant that defies easy alignment. It could be the decisive force in a changing global system.
 
@@ -36,7 +39,6 @@ The invasion of Ukraine, compounding the effects of the pandemic, has contribute
  - [https://www.nytimes.com/2022/12/31/world/europe/pope-emeritus-benedict-xvi-sex-abuse-scandal.html](https://www.nytimes.com/2022/12/31/world/europe/pope-emeritus-benedict-xvi-sex-abuse-scandal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 17:19:54+00:00
- - user: None
 
 His efforts to rid the church of what he called “filth” went further than those of John Paul II, but he was reluctant to hold bishops accountable.
 
@@ -44,7 +46,6 @@ His efforts to rid the church of what he called “filth” went further than th
  - [https://www.nytimes.com/2022/12/31/world/europe/pope-benedict-resignation-2013.html](https://www.nytimes.com/2022/12/31/world/europe/pope-benedict-resignation-2013.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 15:56:31+00:00
- - user: None
 
 The resignation of Pope Benedict XVI was the first resignation of a pope in six centuries.
 
@@ -52,7 +53,6 @@ The resignation of Pope Benedict XVI was the first resignation of a pope in six 
  - [https://www.nytimes.com/2022/12/31/world/europe/zelensky-ukraine-war.html](https://www.nytimes.com/2022/12/31/world/europe/zelensky-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 14:41:36+00:00
- - user: None
 
 In nightly addresses to his people and passionate speeches to foreign leaders, the Ukrainian president has delivered a story line to rally his country, and its allies, to Ukraine’s cause.
 
@@ -60,7 +60,6 @@ In nightly addresses to his people and passionate speeches to foreign leaders, t
  - [https://www.nytimes.com/2022/12/31/world/europe/american-conservative-catholics-mourn-benedict-as-an-unofficial-figurehead.html](https://www.nytimes.com/2022/12/31/world/europe/american-conservative-catholics-mourn-benedict-as-an-unofficial-figurehead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 13:38:27+00:00
- - user: None
 
 
 
@@ -68,7 +67,6 @@ In nightly addresses to his people and passionate speeches to foreign leaders, t
  - [https://www.nytimes.com/2022/12/31/world/europe/germany-benedict.html](https://www.nytimes.com/2022/12/31/world/europe/germany-benedict.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 12:57:20+00:00
- - user: None
 
 He was the first German pope in over 400 years, but his legacy is marred by failures at handling sexual abuse scandals when he served in southern Germany.
 
@@ -76,7 +74,6 @@ He was the first German pope in over 400 years, but his legacy is marred by fail
  - [https://www.nytimes.com/2022/12/31/briefing/your-best-advice-of-2022.html](https://www.nytimes.com/2022/12/31/briefing/your-best-advice-of-2022.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 11:23:54+00:00
- - user: None
 
 From readers of The Morning.
 
@@ -84,7 +81,6 @@ From readers of The Morning.
  - [https://www.nytimes.com/2022/12/31/world/europe/germany-scholz-anniversary.html](https://www.nytimes.com/2022/12/31/world/europe/germany-scholz-anniversary.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 11:22:25+00:00
- - user: None
 
 Olaf Scholz came to power with a mandate for domestic renewal. Instead, he was forced to upend his country’s traditional stance on war and foreign policy.
 
@@ -92,7 +88,6 @@ Olaf Scholz came to power with a mandate for domestic renewal. Instead, he was f
  - [https://www.nytimes.com/2022/12/31/world/canada/canada-year-in-review.html](https://www.nytimes.com/2022/12/31/world/canada/canada-year-in-review.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 11:00:04+00:00
- - user: None
 
 The Times’s journalists in Canada reflect on some of the stories and reporting experiences that marked 2022.
 
@@ -100,7 +95,6 @@ The Times’s journalists in Canada reflect on some of the stories and reporting
  - [https://www.nytimes.com/2022/12/31/world/europe/long-before-he-was-pope-the-man-who-became-benedict-was-a-central-figure-in-the-church.html](https://www.nytimes.com/2022/12/31/world/europe/long-before-he-was-pope-the-man-who-became-benedict-was-a-central-figure-in-the-church.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 10:23:10+00:00
- - user: None
 
 
 
@@ -108,7 +102,6 @@ The Times’s journalists in Canada reflect on some of the stories and reporting
  - [https://www.nytimes.com/2022/12/31/world/europe/pope-benedict-photos.html](https://www.nytimes.com/2022/12/31/world/europe/pope-benedict-photos.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 10:20:25+00:00
- - user: None
 
 Here are a selection of images from Benedict’s long life.
 
@@ -116,7 +109,6 @@ Here are a selection of images from Benedict’s long life.
  - [https://www.nytimes.com/live/2022/12/31/world/pope-benedict-dies](https://www.nytimes.com/live/2022/12/31/world/pope-benedict-dies)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 10:08:59+00:00
- - user: None
 
 The German pope, formerly Cardinal Joseph Ratzinger, was elected in 2005 as a doctrinal conservative, but stunned the world by resigning in 2013 — the first to do so in centuries.
 
@@ -124,7 +116,6 @@ The German pope, formerly Cardinal Joseph Ratzinger, was elected in 2005 as a do
  - [https://www.nytimes.com/2022/12/31/world/europe/victor-hugo-france.html](https://www.nytimes.com/2022/12/31/world/europe/victor-hugo-france.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 10:00:35+00:00
- - user: None
 
 After a restoration darkened the hue of a statue at the birthplace of the French writer, complaints ensued — then vandalism.
 
@@ -132,7 +123,6 @@ After a restoration darkened the hue of a statue at the birthplace of the French
  - [https://www.nytimes.com/2022/12/31/world/europe/orthodox-church-ukraine-russia.html](https://www.nytimes.com/2022/12/31/world/europe/orthodox-church-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 10:00:29+00:00
- - user: None
 
 Ukrainian officials are cracking down on a branch of the Russian Orthodox Church that they describe as a subversive force doing the Kremlin’s bidding.
 
@@ -140,7 +130,6 @@ Ukrainian officials are cracking down on a branch of the Russian Orthodox Church
  - [https://www.nytimes.com/2022/12/31/world/middleeast/palestinian-martyrs-israel.html](https://www.nytimes.com/2022/12/31/world/middleeast/palestinian-martyrs-israel.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 10:00:28+00:00
- - user: None
 
 In one of the deadliest years for Palestinians, a tradition of political and armed groups claiming Palestinian “martyrs” clouds the distinction between civilian and fighter.
 
@@ -148,7 +137,6 @@ In one of the deadliest years for Palestinians, a tradition of political and arm
  - [https://www.nytimes.com/2022/12/31/world/europe/benedict-xvi-dead.html](https://www.nytimes.com/2022/12/31/world/europe/benedict-xvi-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 09:56:12+00:00
- - user: None
 
 He defined a conservative course for the Roman Catholic Church, but his papacy was noted for his struggle with the clergy sexual abuse scandal and for his unexpected resignation.
 
@@ -156,7 +144,6 @@ He defined a conservative course for the Roman Catholic Church, but his papacy w
  - [https://www.nytimes.com/video/world/europe/100000004009495/benedict-pope-for-a-church-in-crisis-obituary.html](https://www.nytimes.com/video/world/europe/100000004009495/benedict-pope-for-a-church-in-crisis-obituary.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 09:56:07+00:00
- - user: None
 
 Ian Fisher, The Times's Rome bureau chief from 2004 to 2008, covered Pope Benedict XVI and remembers him as a brilliant theologian who led the Catholic Church through rough times.
 
@@ -164,7 +151,6 @@ Ian Fisher, The Times's Rome bureau chief from 2004 to 2008, covered Pope Benedi
  - [https://www.nytimes.com/live/2022/12/31/world/russia-ukraine-news](https://www.nytimes.com/live/2022/12/31/world/russia-ukraine-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 09:12:03+00:00
- - user: None
 
 Volodymyr Zelensky of Ukraine and Vladimir V. Putin of Russia are expected to address their nations as the first anniversary of Russia’s invasion approaches.
 
@@ -172,7 +158,6 @@ Volodymyr Zelensky of Ukraine and Vladimir V. Putin of Russia are expected to ad
  - [https://www.nytimes.com/2022/12/30/world/europe/zelensky-journalism-law-free-speech.html](https://www.nytimes.com/2022/12/30/world/europe/zelensky-journalism-law-free-speech.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 09:09:30+00:00
- - user: None
 
 Lawmakers who passed the bill said it would help meet European Union conditions for membership, but journalists have denounced it as a move toward censorship.
 
@@ -180,7 +165,6 @@ Lawmakers who passed the bill said it would help meet European Union conditions 
  - [https://www.nytimes.com/2022/12/31/world/europe/putin-zelensky-speech-ukraine-war.html](https://www.nytimes.com/2022/12/31/world/europe/putin-zelensky-speech-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 08:13:43+00:00
- - user: None
 
 Volodymyr Zelensky of Ukraine and Vladimir V. Putin of Russia will share their New Year’s messages as the war grinds on toward its one-year anniversary.
 
@@ -188,6 +172,6 @@ Volodymyr Zelensky of Ukraine and Vladimir V. Putin of Russia will share their N
  - [https://www.nytimes.com/2022/12/31/world/europe/putin-and-zelensky-to-give-dueling-addresses-with-no-end-to-fighting-in-sight.html](https://www.nytimes.com/2022/12/31/world/europe/putin-and-zelensky-to-give-dueling-addresses-with-no-end-to-fighting-in-sight.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-31 08:13:43+00:00
- - user: None
 
 Volodymyr Zelensky of Ukraine and Vladimir V. Putin of Russia will share their New Year’s messages as the war grinds on toward its one-year anniversary.
+

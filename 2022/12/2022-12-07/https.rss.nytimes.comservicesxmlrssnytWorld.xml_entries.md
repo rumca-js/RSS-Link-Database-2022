@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Thursday Briefing: China Eases Covid Restrictions
  - [https://www.nytimes.com/2022/12/07/briefing/china-covid-peru-president-germany-arrest-coup.html](https://www.nytimes.com/2022/12/07/briefing/china-covid-peru-president-germany-arrest-coup.html)
@@ -195,3 +195,4 @@ The court followed the Biden administration’s guidance that Crown Prince Moham
  - date published: 2022-12-07 00:04:43+00:00
 
 The third apparent drone attack in two days on a Russian air base indicates a new phase of the war for Ukraine as it develops longer-range weapons.
+

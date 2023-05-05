@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Balenciaga creative director apologizes for controversial ad campaign
  - [https://www.cnn.com/style/article/balenciaga-demna-apology-child-ad-cec/index.html](https://www.cnn.com/style/article/balenciaga-demna-apology-child-ad-cec/index.html)
@@ -48,3 +48,4 @@ I don't know about y'all, but I could use some hopeful news today. So here's wha
  - date published: 2022-12-02 00:09:57+00:00
 
 Uruguay and Ghana's quarterfinal meeting at South Africa 2010 is widely viewed as one of the most iconic World Cup matches in history.
+

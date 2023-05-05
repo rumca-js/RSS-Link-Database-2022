@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don’t Use This Viral TikTok Hack to Fix Window Condensation
  - [https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089](https://lifehacker.com/don-t-use-this-viral-tiktok-hack-to-fix-window-condensa-1849877089)
@@ -111,3 +111,4 @@
  - date published: 2022-12-09 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--bRhJ7nVs--/c_fit,fl_progressive,q_80,w_636/afa058978f4c52d0a03ebe403632981a.jpg" /><p>Snow days almost bring as much joy to a child as Christmas morning. And as kids and parents anxiously watch the news to see if the weather might cause a school day cancelation, there are two measurements you might hear that sound the same: snowfall and snow depth. But you might have different numbers for each. Let’s …</p><p><a href="https://lifehacker.com/theres-actually-a-difference-between-snowfall-and-snow-1849873485">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## In Argentina, 'The Boss' puts the spotlight on building superintendents
  - [https://www.lemonde.fr/en/international/article/2022/12/10/in-argentina-the-boss-puts-the-spotlight-on-building-superintendents_6007212_4.html](https://www.lemonde.fr/en/international/article/2022/12/10/in-argentina-the-boss-puts-the-spotlight-on-building-superintendents_6007212_4.html)
@@ -223,3 +223,4 @@ The Balkan nation, despite its population of just four million, has a rich footb
  - date published: 2022-12-09 00:23:51+00:00
 
 On Thursday, December 9, more than 1,000 New York Times workers have walked off the job in the newspaper's biggest labor dispute in more than 40 years.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## It's Been 25 Years Since Pokémon Accidentally Gave Hundreds of People Seizures
  - [https://gizmodo.com/pokemon-porygon-seizures-pikachu-shock-25th-anniversary-1849900785](https://gizmodo.com/pokemon-porygon-seizures-pikachu-shock-25th-anniversary-1849900785)
@@ -279,3 +279,4 @@
  - date published: 2022-12-15 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--UKCfweFk--/c_fit,fl_progressive,q_80,w_636/3be590bd5f45c03b8fb36a53e4a39681.jpg" /><p>The romantic dramedy between the gods will be heating up in season three of <a href="https://gizmodo.com/rachel-smythe-lore-olympus-hades-persephone-webtoon-1849379157"><em>Lore Olympus</em></a>. io9 chatted with <a href="https://gizmodo.com/comic-con-2022-eisners-winners-complete-list-1849323130">creator and Eisner winner Rachel Smythe</a> about what’s next for the popular Webtoon weekly appointment release that leads the charts in digital reading content and <a href="https://gizmodo.com/science-fiction-fantasy-books-year-in-review-2022-1849888238">book lists</a>.</p><p><a href="https://gizmodo.com/rachel-smythe-hades-and-persephone-lore-olympus-webtoon-1849895305">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Binance Is Trying to Calm Investors, but Its Finances Remain a Mystery
  - [https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351?mod=rss_Technology](https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351?mod=rss_Technology)
@@ -27,3 +27,4 @@ The current tech downturn could be much worse than it appears now, say those who
  - date published: 2022-12-10 00:21:00+00:00
 
 The stablecoin is in a heated battle with tether for market share as recent crypto woes erode trust.
+

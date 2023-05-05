@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## John Cleese’s classic “silly walk” burns more calories than a normal gait
  - [https://arstechnica.com/?p=1906174](https://arstechnica.com/?p=1906174)
@@ -62,3 +62,4 @@ Eufy changed some cloud behavior, admitted it can do more, ignored some issues.
  - date published: 2022-12-21 14:59:43+00:00
 
 Musk says he'll resign once he finds someone "foolish enough to take the job."
+

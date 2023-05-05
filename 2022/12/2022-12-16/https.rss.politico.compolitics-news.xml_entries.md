@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Scenes from a celebration of the same-sex marriage law — at Mar-a-Lago
  - [https://www.politico.com/news/2022/12/16/celebration-same-sex-marriage-mar-a-lago-00074441](https://www.politico.com/news/2022/12/16/celebration-same-sex-marriage-mar-a-lago-00074441)
@@ -20,3 +20,4 @@ Every week political cartoonists throughout the country and across the political
  - date published: 2022-12-16 05:00:00+00:00
 
 Rep. Don Beyer says this week’s breakthrough could be a turning point for both science and civilization.
+

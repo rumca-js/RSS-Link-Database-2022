@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Kenya Maasai Olympics: Hundreds gather for lion hunt alternative
  - [https://www.bbc.co.uk/news/world-africa-63932225?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63932225?at_medium=RSS&at_campaign=KARANGA)
@@ -412,3 +412,4 @@ Argentina's vast hordes of fans were finally able to celebrate as a chaotic, dra
  - date published: 2022-12-10 00:00:42+00:00
 
 The former FTX boss says he would give anything to start a new business and repay crypto investors.
+

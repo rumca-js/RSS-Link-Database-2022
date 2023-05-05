@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Kremlin Bans Sales Of Russian Oil To Countries That Impose Price Cap
  - [https://www.wsj.com/articles/kremlin-bans-sales-of-russian-oil-to-countries-that-impose-price-cap-11672161766](https://www.wsj.com/articles/kremlin-bans-sales-of-russian-oil-to-countries-that-impose-price-cap-11672161766)
@@ -69,3 +69,4 @@ Conscription will increase to a full year from the current four months starting 
  - date published: 2022-12-27 06:21:00+00:00
 
 The ex-leader was convicted of embezzlement and bribery in 2018, but his prison sentence was suspended in June because of poor health.
+

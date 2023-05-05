@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Germany coup plot: Far-right cell targeted many senior officials including Scholz
  - [https://www.lemonde.fr/en/international/article/2022/12/14/germany-coup-plot-far-right-cell-targeted-many-senior-officials-including-scholz_6007825_4.html](https://www.lemonde.fr/en/international/article/2022/12/14/germany-coup-plot-far-right-cell-targeted-many-senior-officials-including-scholz_6007825_4.html)
@@ -230,3 +230,4 @@ During a ceremony on the White House lawn, the American president described the 
  - date published: 2022-12-14 01:14:31+00:00
 
 The president of the Democratic Republic of Congo joined the United States on Tuesday in blaming climate change for major floods.
+

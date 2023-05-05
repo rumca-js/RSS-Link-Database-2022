@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## White Men Charged in Attack on Black Teenagers at Pool in South Africa
  - [https://www.nytimes.com/2022/12/28/world/africa/south-africa-black-teenagers-pool.html](https://www.nytimes.com/2022/12/28/world/africa/south-africa-black-teenagers-pool.html)
@@ -132,3 +132,4 @@ Père-Lachaise in Paris, whose tombs of Oscar Wilde, Jim Morrison, Édith Piaf a
  - date published: 2022-12-28 05:23:47+00:00
 
 China’s medical system is buckling under the strain of thousands of Covid infections.
+

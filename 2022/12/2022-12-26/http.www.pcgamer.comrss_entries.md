@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Steam's Year in Review serves up highlights of your 2022 playtime
  - [https://www.pcgamer.com/steams-year-in-review-serves-up-highlights-of-your-2022-playtime](https://www.pcgamer.com/steams-year-in-review-serves-up-highlights-of-your-2022-playtime)
@@ -97,3 +97,4 @@ Can the world's most pathetic wrestler capture the gold without winning a match 
  - date published: 2022-12-26 08:05:56+00:00
 
 Wordle today: The solution and a hint for the #555 puzzle.
+

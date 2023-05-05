@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Lobbyists want media-Big Tech cartel bill attached to defense spending
  - [https://reclaimthenet.org/jcpa-defense-spending/](https://reclaimthenet.org/jcpa-defense-spending/)
@@ -31,3 +31,4 @@
 
 <a href="https://reclaimthenet.org/vijaya-gadde-hunter-biden/" rel="nofollow" title="Former Twitter exec, Vijaya Gadde, who was appointed adviser to President Biden&#8217;s DHS in 2021, played a key role in suppressing Hunter Biden story a year earlier"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/vijaya.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>More close censorship ties between the Biden admin and Big Tech.</p>
 <p>The post <a href="https://reclaimthenet.org/vijaya-gadde-hunter-biden/" rel="nofollow">Former Twitter exec, Vijaya Gadde, who was appointed adviser to President Biden&#8217;s DHS in 2021, played a key role in suppressing Hunter Biden story a year earlier</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

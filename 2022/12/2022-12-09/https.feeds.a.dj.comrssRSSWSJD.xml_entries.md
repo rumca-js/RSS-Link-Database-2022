@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## FTC's Move to Block Microsoft-Activision Blizzard Deal Came Despite Charm Offensive
  - [https://www.wsj.com/articles/ftcs-move-to-block-microsofts-deal-for-activision-blizzard-came-despite-charm-offensive-11670628909?mod=rss_Technology](https://www.wsj.com/articles/ftcs-move-to-block-microsofts-deal-for-activision-blizzard-came-despite-charm-offensive-11670628909?mod=rss_Technology)
@@ -76,3 +76,4 @@ The result is a win for the UAW, which plans organizing campaigns at many U.S. b
  - date published: 2022-12-09 04:35:00+00:00
 
 The malfunction, which lasted more than 2½ hours, affected software that places digital ads on websites.
+

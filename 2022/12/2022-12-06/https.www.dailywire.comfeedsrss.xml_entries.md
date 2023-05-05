@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Are You Pulling My Chain?’: Adam Sandler Claims He ‘Discovered’ Brendan Fraser In Hilarious Joint Interview
  - [https://www.dailywire.com/news/are-you-pulling-my-chain-adam-sandler-claims-he-discovered-brendan-fraser-in-hilarious-joint-interview](https://www.dailywire.com/news/are-you-pulling-my-chain-adam-sandler-claims-he-discovered-brendan-fraser-in-hilarious-joint-interview)
@@ -454,3 +454,4 @@ Movie director James Cameron said in a recent interview that &#8220;Titanic&#822
  - date published: 2022-12-06 07:29:42+00:00
 
 Hollywood responded with an outpouring of love in response to Monday&#8217;s tragic news that actress Kirstie Alley, who starred in “Cheers,” “Veronica’s Closet,” and “Drop Dead Gorgeous,” had died at 71. Alley’s children released the news of her death, saying that she died after a battle with cancer and that she was surrounded by her ...
+

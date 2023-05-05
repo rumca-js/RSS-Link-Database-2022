@@ -1,4 +1,18 @@
-# Source Financial Times World, Source URL:https://www.ft.com/world?format=rss, Source language: en-US
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
+
+## Behind the women billionaires: China receding on gender equality
+ - [https://www.ft.com/content/756a5e98-e451-4c3a-9dc4-e8bb43d1c57b](https://www.ft.com/content/756a5e98-e451-4c3a-9dc4-e8bb43d1c57b)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-28 23:00:24+00:00
+
+Economic growth, policy, prove double-edged sword for women as historic progress is undone
+
+## Ministers accused of Whitehall pay ploy
+ - [https://www.ft.com/content/ec08b5a0-9954-49ad-9382-e4bc8f938e4f](https://www.ft.com/content/ec08b5a0-9954-49ad-9382-e4bc8f938e4f)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-28 22:30:24+00:00
+
+Labour says £30mn reward vouchers have been used to get round civil service salary freeze
 
 ## FirstFT: New Covid restrictions on travellers from China
  - [https://www.ft.com/content/02f3f623-1788-42b3-90b7-4e6d266625f7](https://www.ft.com/content/02f3f623-1788-42b3-90b7-4e6d266625f7)
@@ -230,3 +244,4 @@ Defaults such as Evergrande’s froze the markets but new state-backed funds cou
  - date published: 2022-12-28 00:01:49+00:00
 
 Region will acquire elected mayor with new powers if agreement wins local approval
+

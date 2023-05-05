@@ -1,4 +1,4 @@
-# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, Source language: en-US
+# Source:Luke Smith - YouTube, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, language:en-US
 
 ## Luke Smith: The Return to Normalcy - (Live interview by Justin Murphy)
  - [https://www.youtube.com/watch?v=VcHW0mpi9y8](https://www.youtube.com/watch?v=VcHW0mpi9y8)
@@ -43,3 +43,4 @@ XMR: 89yML3AtqnTNdo3wNuoaW44D94Zx1kBZNSBc9SyNxGdaKEZwZNdVzvy9zpbzJMzysiWZEU3b5Lw
 OR affiliate links to things l use:
 https://www.vultr.com/?ref=8384069-6G Get a VPS and host a website or server for anything else.
 https://www.epik.com/?affid=we2ro7sa6 Get a cheap and reliable domain name with Epik.
+

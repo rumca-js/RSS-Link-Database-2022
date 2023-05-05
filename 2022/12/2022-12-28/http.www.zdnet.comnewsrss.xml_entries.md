@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## The best eco gifts for this season
  - [https://www.zdnet.com/home-and-office/eco-gifts/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/eco-gifts/#ftag=RSSbaffb68)
@@ -27,3 +27,4 @@ Senior professionals who've already reached the pinnacle offer best-practice adv
  - date published: 2022-12-28 13:00:22+00:00
 
 Apple's new flagship laptop has the super powers of higher-end machines. And, see our three honorable mentions for the best product of 2022.
+

@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Blinken: Poprosimy Chiny o nakłonienie Korei Płn. do negocjacji ws. broni jądrowej
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8617286,bron-jadrowa-chiny-korea-polnocna-usa.html](https://forsal.pl/swiat/aktualnosci/artykuly/8617286,bron-jadrowa-chiny-korea-polnocna-usa.html)
@@ -566,3 +566,4 @@
  - date published: 2022-12-22 05:30:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/i60ktkuTURBXy8zNTM0ZmUzNS0wMDBlLTRjZDMtYTM4Ni1jMDM3MWY4YTM0ZTkuanBlZ5GTBc0BHcyg" />Cały świat przygląda się Szwecji, gdzie spadki cen nieruchomości trwają już ósmy miesiąc z rzędu. To największy zjazd od trzech dekad.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## An academic who was imprisoned in Iran welcomes Brittney Griner to a ‘bizarre club.’
  - [https://www.nytimes.com/2022/12/10/world/australia/an-academic-who-was-imprisoned-in-iran-welcomes-brittney-griner-to-a-bizarre-club.html](https://www.nytimes.com/2022/12/10/world/australia/an-academic-who-was-imprisoned-in-iran-welcomes-brittney-griner-to-a-bizarre-club.html)
@@ -139,3 +139,4 @@ In a string of appearances, it wasn’t so much what the Russian leader said, mu
  - date published: 2022-12-10 00:50:17+00:00
 
 The National Security Council spokesman, John Kirby, said that the U.S. was “concerned that Russia intends to provide Iran with advanced military components.”
+

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Parler halts intent of sell to Ye
  - [https://www.lemonde.fr/en/international/article/2022/12/02/parler-halts-intent-of-sell-to-ye_6006330_4.html](https://www.lemonde.fr/en/international/article/2022/12/02/parler-halts-intent-of-sell-to-ye_6006330_4.html)
@@ -210,3 +210,4 @@ New York representative Hakeem Jeffries was elected on Wednesday, November 30, h
 
 The French president raised concerns about the effects of American industrial subsidies and tax breaks to members of Congress in Washington on Wednesday, November 30, 2022. France and other EU countries are alarmed that the Inflation Reduction Act will 
 give American companies an unfair advantage.
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Discover Malicious PyPI Package Posing as SentinelOne SDK to Steal Data
  - [https://thehackernews.com/2022/12/researchers-discover-malicious-pypi.html](https://thehackernews.com/2022/12/researchers-discover-malicious-pypi.html)
@@ -42,3 +42,4 @@ Agenda, attributed to an operator named Qilin, is a ransomware-as-a-service (Raa
 Meta Platforms disclosed that it took down no less than 200 covert influence operations since 2017 spanning roughly 70 countries across 42 languages.
 The social media conglomerate also took steps to disable accounts and block infrastructure operated by spyware vendors, including in China, Russia, Israel, the U.S. and India, that targeted individuals in about 200 countries.
 "The global
+

@@ -1,4 +1,4 @@
-# Source Reuters - All, Source URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, Source language: en-US
+# Source:Reuters - All, URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, language:en-US
 
 ## Reuters reveals Musk’s Neuralink faces federal probe, employee backlash over animal tests
  - [https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests/](https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests/)
@@ -7,3 +7,4 @@
 
 <p>Reuters exclusively reported that Elon Musk’s Neuralink is under federal investigation for potential animal-welfare violations amid internal staff complaints that [&#8230;]</p>
 <p>The post <a href="https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests/" rel="nofollow">Reuters reveals Musk’s Neuralink faces federal probe, employee backlash over animal tests</a> appeared first on <a href="https://www.reutersagency.com/en/" rel="nofollow">Reuters News Agency</a>.</p>
+

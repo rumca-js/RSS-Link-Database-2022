@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania. Ekspert odradza masturbacji w okresie świąt. Taka praktyka może być niebezpieczna
  - [https://www.polsatnews.pl/wiadomosc/2022-12-20/wielka-brytania-ekspert-odradza-masturbacji-w-okresie-swiat-taka-praktyka-moze-byc-niebezpieczna/](https://www.polsatnews.pl/wiadomosc/2022-12-20/wielka-brytania-ekspert-odradza-masturbacji-w-okresie-swiat-taka-praktyka-moze-byc-niebezpieczna/)
@@ -90,3 +90,4 @@ Alaksandr Łukaszenka prawdopodobnie udaremnił wysiłki Władimira Putina, któ
  - date published: 2022-12-20 05:20:00+00:00
 
 Komisja śledcza Izby Republikanów wydała rekomendację dla prokuratury federalnej - sugeruje w niej postawienie czterech zarzutów karnych byłemu prezydentowi USA, Donaldowi Trumpowi. Mają one być związane ze szturmem na Kapitol 6 stycznia 2021 roku i dotyczyć m.in. podżegania do przeprowadzenia przewrotu.
+

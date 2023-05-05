@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## VRChat's Predator Problem Has Gotten Out of Hand
  - [https://www.youtube.com/watch?v=4-esctqB04s](https://www.youtube.com/watch?v=4-esctqB04s)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-12-31 20:45:12+00:00
- - user: None
 
 Hello. 
 
@@ -30,3 +29,4 @@ Patreon link:
 https://www.patreon.com/Thrillseeker
 OUTRO MUSIC:
 https://www.youtube.com/watch?v=u6Jwg...
+

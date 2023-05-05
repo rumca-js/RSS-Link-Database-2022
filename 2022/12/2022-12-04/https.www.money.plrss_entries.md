@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Szef zapłaci pracownikom za grudniowe zakupy. Nietypowy pomysł w Holandii
  - [https://www.money.pl/pieniadze/szef-zaplaci-pracownikom-za-grudniowe-zakupy-nietypowy-pomysl-w-holandii-6841050882095680a.html](https://www.money.pl/pieniadze/szef-zaplaci-pracownikom-za-grudniowe-zakupy-nietypowy-pomysl-w-holandii-6841050882095680a.html)
@@ -55,3 +55,4 @@
  - date published: 2022-12-04 06:36:33+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cac4137f-5b1b-4113-b0b8-9b548297bde9" width="308" /> Węgry zostały zwolnione ze stosowania limitu cen ropy naftowej sprowadzanej z Rosji - poinformował w sobotę na Facebooku minister spraw zagranicznych i handlu Węgier Peter Szijjarto.
+

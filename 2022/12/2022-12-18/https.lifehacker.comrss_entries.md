@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Sit Your Kids In Front of This Free Santa Tracker
  - [https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611](https://lifehacker.com/sit-your-kids-in-front-of-this-free-santa-tracker-1849899611)
@@ -20,3 +20,4 @@
  - date published: 2022-12-18 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--lHweC-go--/c_fit,fl_progressive,q_80,w_636/29d3f601a8ad32490afd85a8c4828f56.jpg" /><p>When it comes to putting a resume together, most of us were taught to put our full name and contact information at the top of the page, including our home address. But  the way we work has evolved over time, so it makes sense that we adjust our resumes to keep up with the times as well. And according to some career…</p><p><a href="https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579">Read more...</a></p>
+

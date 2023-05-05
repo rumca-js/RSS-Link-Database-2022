@@ -1,4 +1,4 @@
-# Source LMG Clips, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA, Source language: en-US
+# Source:LMG Clips, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA, language:en-US
 
 ## A Dark Day for VR…
  - [https://www.youtube.com/watch?v=w4T77vvA6dw](https://www.youtube.com/watch?v=w4T77vvA6dw)
@@ -60,3 +60,4 @@ Facebook: http://www.facebook.com/LinusTech
 Instagram: https://www.instagram.com/linustech
 TikTok: https://www.tiktok.com/@linustech
 Twitch: https://www.twitch.tv/linustech
+

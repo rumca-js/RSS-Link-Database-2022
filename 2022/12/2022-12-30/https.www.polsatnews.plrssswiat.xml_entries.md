@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Białoruś: Rzekomo miał obrażać Łukaszenkę. Obywatel Łotwy skazany na cztery lata więzienia
  - [https://www.polsatnews.pl/wiadomosc/2022-12-30/bialorus-rzekomo-mial-obrazac-lukaszenke-obywatel-lotwy-skazany-na-cztery-lata-wiezienia/](https://www.polsatnews.pl/wiadomosc/2022-12-30/bialorus-rzekomo-mial-obrazac-lukaszenke-obywatel-lotwy-skazany-na-cztery-lata-wiezienia/)
@@ -97,3 +97,4 @@ Poplecznik Putina i jeden z najwierniejszych Kremlowi propagandystów grozi Zach
  - date published: 2022-12-30 06:10:00+00:00
 
 Influencer Andrew Tate słynie z niechęci do kobiet i obelg kierowanych w ich stronę. Nie przejmuje się też zmianami klimatu, bo we wpisie do Grety Thunberg pochwalił się kolekcją paliwożernych aut. Odpowiedź aktywistki stała się hitem internetu, ale to nie koniec historii. Tate chciał postawić kropkę i nagrał wideo, na którym zdradził, gdzie jest. I przez to został zatrzymany za handel ludźmi.
+

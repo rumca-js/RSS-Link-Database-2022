@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Lee Harvey Oswald, the CIA, and LSD: New Clues in Newly Declassified Documents
  - [https://theintercept.com/2022/12/19/lee-harvey-oswald-cia-lsd-jfk/](https://theintercept.com/2022/12/19/lee-harvey-oswald-cia-lsd-jfk/)
@@ -15,3 +15,4 @@
 
 <p>In capitalism, managers aren’t in charge. They’re well-compensated employees.</p>
 <p>The post <a href="https://theintercept.com/2022/12/19/twitter-elon-musk-ceo/" rel="nofollow">Who Cares Whether Elon Musk Is CEO of Twitter? He OWNS It.</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

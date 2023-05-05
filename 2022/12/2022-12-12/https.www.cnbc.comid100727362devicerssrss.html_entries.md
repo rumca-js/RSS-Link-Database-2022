@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Jim Cramer says three key deals helped the market rally on Monday
  - [https://www.cnbc.com/2022/12/12/jim-cramer-says-three-key-deals-helped-the-market-rally-on-monday.html](https://www.cnbc.com/2022/12/12/jim-cramer-says-three-key-deals-helped-the-market-rally-on-monday.html)
@@ -139,3 +139,4 @@ Unlike the trillions that vanished into thin crypto air, the money for the next 
  - date published: 2022-12-12 00:05:10+00:00
 
 One hotel can be rated three, four and even five stars — that's because ratings are "not regulated in a consistent way across the industry," one insider says.
+

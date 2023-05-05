@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## BrandPost: Innovate in Place: Less Risk. More Return
  - [https://www.computerworld.com/article/3681849/innovate-in-place-less-risk-more-return.html#tk.rss_all](https://www.computerworld.com/article/3681849/innovate-in-place-less-risk-more-return.html#tk.rss_all)
@@ -26,3 +26,4 @@
 <article>
 	<section class="page">
 <p>While I’ve never been laid off, I was fired twice in my younger years. It was both very traumatic and unexpected. The most embarrassing experience was being fired from my first full-time job as a dish washer in an unairconditioned kitchen. But I was a kid then and living at home. Later, when I was fired after a forced takeover of the business I worked at, I was living paycheck to paycheck — and went into a panic that led to a lot of really poor career decisions focused more on getting any job rather than rethinking my career.</p><p>Since then, I’ve covered a lot of layoffs — and were it to happen to me again, I’d approach the problem differently. One is to avoid companies that do layoffs regularly; there is no upside whether you’re laid off or kept on the job. Not only do the people let go experience a lot of trauma, but those that remain have survivor’s guilt, wind up doing their job and the work of those laid off, and work under the perceived threat of being culled down the road. </p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681830/so-you-were-laid-off-dont-panic.html#jump">To read this article in full, please click here</a></p></section></article>
+

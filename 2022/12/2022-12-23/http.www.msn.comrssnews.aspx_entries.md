@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## AOC helped stuff omnibus bill with pork before voting no
  - [http://www.msn.com/en-us/news/us/aoc-helped-stuff-omnibus-bill-with-pork-before-voting-no/ar-AA15CgvT?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/aoc-helped-stuff-omnibus-bill-with-pork-before-voting-no/ar-AA15CgvT?li=BBnbcA1&srcref=rss)
@@ -1705,5 +1705,6 @@
  - [http://www.msn.com/en-us/news/politics/hillicon-valley-fcc-proposes-300-million-fine-for-robocalls/ar-AA15zLNw?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/hillicon-valley-fcc-proposes-300-million-fine-for-robocalls/ar-AA15zLNw?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-23 00:06:51.200514+00:00
+
 
 

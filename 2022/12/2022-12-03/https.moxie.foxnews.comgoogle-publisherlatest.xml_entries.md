@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Catholic bishop blasts 'evil woman' Hillary Clinton for comparing pro-lifers to Taliban, Russian war crimes
  - [https://www.foxnews.com/politics/catholic-bishop-blasts-evil-woman-hillary-clinton-comparing-pro-lifers-taliban-russian-war-crimes](https://www.foxnews.com/politics/catholic-bishop-blasts-evil-woman-hillary-clinton-comparing-pro-lifers-taliban-russian-war-crimes)
@@ -95,7 +95,6 @@ Jonathan the tortoise arrived on the Island of Saint Helena in 1882 at the alleg
  - [https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story](https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-03 21:03:29+00:00
- - tags: twitter; twitter files,free speech,censorship
 
 Twitter owner Elon Musk called The New York Times a "lobbying firm for far left politicians" on Saturday after it was charged with ignoring the "Twitter Files" revelations.
 
@@ -784,3 +783,4 @@ Here's a sample of the "most popular" baby girl and baby boy names of 2022 and e
  - date published: 2022-12-03 00:09:11+00:00
 
 Quarterback Drew Pyne announced Friday on Twitter that he will be entering the transfer portal after starting 10 games for the University of Notre Dame this season.
+

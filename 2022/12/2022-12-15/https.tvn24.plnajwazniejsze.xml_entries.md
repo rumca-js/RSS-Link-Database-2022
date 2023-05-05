@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Nie tylko skuteczna, ale i efektowna. Świątek z zagraniem roku
  - [https://eurosport.tvn24.pl/nie-tylko-skuteczna--ale-i-efektowna---wi-tek-z-zagraniem-roku,1129466.html?source=rss](https://eurosport.tvn24.pl/nie-tylko-skuteczna--ale-i-efektowna---wi-tek-z-zagraniem-roku,1129466.html?source=rss)
@@ -679,3 +679,4 @@
 
 <img alt="Starcia z policją po porażce Maroka w półfinale mistrzostw świata" src="https://tvn24.pl/najnowsze/cdn-zdjecie-l0otl4-zamieszki-po-porazce-maroka-w-polfinale-mistrzostw-swiata-6505296/alternates/LANDSCAPE_1280" />
     We Francji i Belgii.
+

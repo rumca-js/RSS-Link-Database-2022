@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Here’s how to get Disney Plus with Verizon wireless plan for free
  - [https://www.androidauthority.com/how-to-get-disney-plus-with-verizon-3249514/](https://www.androidauthority.com/how-to-get-disney-plus-with-verizon-3249514/)
@@ -55,3 +55,4 @@ It's time to pit the best smartphone cameras against each other.
  - date published: 2022-12-10 12:12:53+00:00
 
 Plus our Reader's Choice Phone of the Year Awards winner, highlights from The Game Awards, and more weekly top tech news.
+

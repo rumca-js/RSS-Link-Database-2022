@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'King of Hearts' and NHS targets to be axed
  - [https://www.bbc.co.uk/news/blogs-the-papers-64092025?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-64092025?at_medium=RSS&at_campaign=KARANGA)
@@ -147,6 +147,13 @@ Members of the Royal Family will attend a morning service at St Mary Magdalene C
 
 Freya Davies, Alice Davidson-Richards, Nat Sciver and Katherine Brunt share what they would buy their teammates for Secret Santa.
 
+## India beat Bangladesh in Dhaka thriller to wrap up series win
+ - [https://www.bbc.co.uk/sport/cricket/64089695?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/64089695?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-25 08:47:13+00:00
+
+India win a nailbiter in Dhaka to beat Bangladesh and secure a 2-0 series win.
+
 ## NFL week 16: Cowboys beat the Eagles, Vikings win another close game, Niners go eight in a row
  - [https://www.bbc.co.uk/sport/american-football/64088881?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/american-football/64088881?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -251,3 +258,4 @@ The Christmas Eve service was organised by the Princess of Wales and featured tr
  - date published: 2022-12-25 00:00:06+00:00
 
 The former Desert Island Discs host returns to the radio programme - this time as the interviewee.
+

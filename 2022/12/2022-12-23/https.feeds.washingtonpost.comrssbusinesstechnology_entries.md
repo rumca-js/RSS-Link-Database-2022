@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Those government TikTok ‘bans’ hardly ban anything
  - [https://www.washingtonpost.com/technology/2022/12/23/tiktok-china-ban/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/23/tiktok-china-ban/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ Across PlayStation, Xbox, PC and Nintendo Switch, here are the games we're most 
  - date published: 2022-12-23 03:25:22+00:00
 
 Microsoft wants to buy Activision, the maker of hit video games like Call of Duty. Regulators oppose what could be the largest acquisition in the gaming industry.
+

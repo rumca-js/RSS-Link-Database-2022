@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'Targeted' attacks on North Carolina power stations leave tens of thousands in dark
  - [https://www.cnn.com/2022/12/05/us/power-outage-moore-county-investigation-monday/index.html](https://www.cnn.com/2022/12/05/us/power-outage-moore-county-investigation-monday/index.html)
@@ -441,3 +441,4 @@ In a World Cup of surprises, Japan has played a leading role in headline-making 
  - date published: 2022-12-05 00:07:09+00:00
 
 Retired Air Force Col. Cedric Leighton breaks down the potential Russian strategy in regards to the city of Bakhmut, Ukraine.
+

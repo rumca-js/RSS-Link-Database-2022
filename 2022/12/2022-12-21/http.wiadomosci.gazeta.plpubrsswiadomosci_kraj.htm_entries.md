@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Kalisz. Pożar w centrum miasta. Mieszkańcy wraz z psem ewakuowani przez balkon
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29289732,grozny-pozar-w-kamienicy-w-centrum-kalisza-ewakuowano-czternascie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29289732,grozny-pozar-w-kamienicy-w-centrum-kalisza-ewakuowano-czternascie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -230,3 +230,4 @@
  - date published: 2022-12-21 05:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/f7/ed/1b/z29285623M,Zima-w-Olsztynie.jpg" vspace="2" />Sytuacja na drogach w Polsce jest bardzo trudna. Najgorzej jest w woj. warmińsko-mazurskim, gdzie odwołano wiele kursów autobusów oraz zajęcia w szkołach. Zaobserwowano również większą ilość wypadków z udziałem pieszych.
+

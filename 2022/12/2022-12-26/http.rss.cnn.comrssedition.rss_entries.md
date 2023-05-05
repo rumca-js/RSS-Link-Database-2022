@@ -1,4 +1,11 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## Video captures moment avalanche overtakes skiers in Austria
+ - [https://www.cnn.com/videos/world/2022/12/26/avalanche-austria-skier-rescue-video-contd-orig-zt.cnn](https://www.cnn.com/videos/world/2022/12/26/avalanche-austria-skier-rescue-video-contd-orig-zt.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-26 23:51:46+00:00
+
+Skiers who survived a Christmas Day avalanche were caught on camera the moment they were buried in snow.
 
 ## Ex-ambassador says this is why Putin says he wants to negotiate
  - [https://www.cnn.com/videos/world/2022/12/26/vladimir-putin-russia-ukraine-war-negotiations-taylor-intv-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/12/26/vladimir-putin-russia-ukraine-war-negotiations-taylor-intv-tsr-vpx.cnn)
@@ -13,6 +20,13 @@ Former US Ambassador to Ukraine William Taylor tells CNN's Wolf Blitzer why he t
  - date published: 2022-12-26 22:57:42+00:00
 
 
+
+## Kim Kardashian describes challenges of co-parenting with Kanye West
+ - [https://www.cnn.com/2022/12/26/entertainment/kim-kardashian-angie-martinez-irl-podcast-interview/index.html](https://www.cnn.com/2022/12/26/entertainment/kim-kardashian-angie-martinez-irl-podcast-interview/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-26 22:50:11+00:00
+
+Kim Kardashian is speaking out for the first time since her divorce from Kanye West became finalized last month.
 
 ## All around the world, women are better empathizers than men, study finds
  - [https://www.cnn.com/2022/12/26/health/empathy-women-men/index.html](https://www.cnn.com/2022/12/26/health/empathy-women-men/index.html)
@@ -104,6 +118,13 @@ Sometime during the Cretaceous Period, 120 million years ago, a dinosaur wolfed 
  - date published: 2022-12-26 17:02:56+00:00
 
 Russia has put the investigative journalist Christo Grozev on its "wanted" list, according to the Russian Interior Ministry.
+
+## Wharton professor on how to really achieve your goals
+ - [https://www.cnn.com/videos/health/2022/12/22/goal-making-habit-forming-tips-new-years-resolutions-lbb-orig.cnn](https://www.cnn.com/videos/health/2022/12/22/goal-making-habit-forming-tips-new-years-resolutions-lbb-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-26 16:51:16+00:00
+
+Katy Milkman, professor at the University of Pennsylvania's Wharton School of Business, details science-backed and proven ways you can turn those New Year's resolutions into a reality this year. Milkman's book, "How to Change," offers even more tips to help you achieve your goals.
 
 ## TV took us back to Westeros, Middle-earth and a galaxy far far away in 2022
  - [https://www.cnn.com/2022/12/26/entertainment/fantasy-tv-sci-fi-nostalgia-2022-cec/index.html](https://www.cnn.com/2022/12/26/entertainment/fantasy-tv-sci-fi-nostalgia-2022-cec/index.html)
@@ -321,3 +342,4 @@ Russia is prepared to resume gas supplies to Europe via the Yamal-Europe gas pip
  - date published: 2022-12-26 00:17:58+00:00
 
 Two Indianapolis police officers had spent the day searching in vain for a missing baby in a stolen vehicle when they stopped to eat and gather their wits.
+

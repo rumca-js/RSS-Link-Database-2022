@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Shipment makes Call of Duty: Modern Warfare 2’s worst parts fun
  - [https://www.pcworld.com/article/1439495/shipment-makes-call-of-duty-modern-warfare-2s-worst-parts-fun.html](https://www.pcworld.com/article/1439495/shipment-makes-call-of-duty-modern-warfare-2s-worst-parts-fun.html)
@@ -578,3 +578,4 @@ Windows, Windows 11</div>
 <p><em>Prices subject to change.</em></p>
 
 Certifications</div>
+

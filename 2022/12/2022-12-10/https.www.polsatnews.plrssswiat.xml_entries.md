@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Niemcy. Aktywista użył zbyt mocnego kleju. Służby musiały wycinać asfalt
  - [https://www.polsatnews.pl/wiadomosc/2022-12-10/niemcy-aktywista-uzyl-zbyt-mocnego-kleju-sluzby-musialy-wycinac-asfalt/](https://www.polsatnews.pl/wiadomosc/2022-12-10/niemcy-aktywista-uzyl-zbyt-mocnego-kleju-sluzby-musialy-wycinac-asfalt/)
@@ -111,3 +111,4 @@ Za naszą zachodnią granicą nie można kupić petard i fajerwerków przez cał
  - date published: 2022-12-10 05:39:00+00:00
 
 Wzgórze Ingino we włoskim Gubbio po raz 42. rozświetliła największa choinka świata. Świąteczna iluminacja w kształcie bożonarodzeniowego drzewka ma 750 metrów wysokości.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Wordle players break streaks to support New York Times union walkout
  - [https://www.washingtonpost.com/video-games/2022/12/09/wordle-streak-walkout-nyt/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/09/wordle-streak-walkout-nyt/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -27,3 +27,4 @@ Artists say Lensa's Magic Avatars are built by AI that uses techniques and style
  - date published: 2022-12-09 02:26:14+00:00
 
 Space enthuasiast and entrepreneur Yusaku Maezawa on Friday announced the eight people who will join him on a trip around the moon.
+

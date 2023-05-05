@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Adobe's PostScript programming language sparked a revolution. Now you can check out the source code
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59720](https://www.codeproject.com/script/News/View.aspx?nwid=59720)
@@ -118,3 +118,4 @@ Hot steaming blurbs. No reason in particular.
  - date published: 2022-12-06 05:00:00+00:00
 
 Wasp is a simple configuration language for building full-stack web apps with less code and ensured best practices.
+

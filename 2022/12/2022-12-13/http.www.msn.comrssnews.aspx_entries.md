@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Democrat Rips 'Cancel Culture' After Pressure to Resign Over Racist Remarks
  - [http://www.msn.com/en-us/news/world/democrat-rips-cancel-culture-after-pressure-to-resign-over-racist-remarks/ar-AA15fvvj?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/democrat-rips-cancel-culture-after-pressure-to-resign-over-racist-remarks/ar-AA15fvvj?li=BBnbcA1&srcref=rss)
@@ -1082,5 +1082,6 @@
  - [http://www.msn.com/en-us/money/companies/ftx-s-sam-bankman-fried-arrested-in-bahamas-on-criminal-charges-prosecutor-says/ar-AA15creH?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/money/companies/ftx-s-sam-bankman-fried-arrested-in-bahamas-on-criminal-charges-prosecutor-says/ar-AA15creH?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-13 00:45:44.350347+00:00
+
 
 

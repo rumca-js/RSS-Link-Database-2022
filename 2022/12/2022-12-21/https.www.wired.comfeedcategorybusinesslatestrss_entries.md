@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Mastodon Is Hurtling Toward a Tipping Point
  - [https://www.wired.com/story/mastodon-legal-issues-tipping-point/](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)
@@ -13,3 +13,4 @@ As the niche, decentralized social networking platform rises in popularity, it f
  - date published: 2022-12-21 12:00:00+00:00
 
 Author and labor lawyer Orly Lobel says AI can help mitigate human biases in hiring and compensation.
+

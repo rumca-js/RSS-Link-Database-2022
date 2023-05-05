@@ -1,4 +1,32 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## ‘I Was Wrong’: UCLA Professor Admits Conservatives’ Fears Were Justified About Leftist Academics In The Workforce
+ - [https://www.dailywire.com/news/i-was-wrong-ucla-professor-admits-conservatives-fears-were-justified-about-leftist-academics-in-the-workforce](https://www.dailywire.com/news/i-was-wrong-ucla-professor-admits-conservatives-fears-were-justified-about-leftist-academics-in-the-workforce)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-26 22:04:16+00:00
+
+An academic critic admitted that he was wrong about the influence leftist scholars would have in mainstream culture. Russell Jacoby, author and professor emeritus of history at University California Los Angeles (UCLA), wrote a book in 1987 dismissing conservatives’ fears that students of postmodernism and critical pedagogy would wreak havoc on American culture. Now, 35 ...
+
+## ‘No Greater Christmas Present’: Bob Saget’s Widow Reflects On First Holiday Without Him
+ - [https://www.dailywire.com/news/no-greater-christmas-present-bob-sagets-widow-reflects-on-first-holiday-without-him](https://www.dailywire.com/news/no-greater-christmas-present-bob-sagets-widow-reflects-on-first-holiday-without-him)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-26 20:20:38+00:00
+
+Kelly Rizzo, widow of the late comedian Bob Saget, took some time over the Christmas weekend to reflect on her first holiday season without the &#8220;Full House&#8221; star. Rizzo shared her thoughts — along with several throwback photos of herself with the former &#8220;America&#8217;s Funniest Videos&#8221; host in happier times — in an Instagram post ...
+
+## Looters Ransack Upstate New York Businesses Amid Deadly Blizzard Conditions
+ - [https://www.dailywire.com/news/looters-ransack-upstate-new-york-businesses-amid-deadly-blizzard-conditions](https://www.dailywire.com/news/looters-ransack-upstate-new-york-businesses-amid-deadly-blizzard-conditions)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-26 20:03:21+00:00
+
+Looters ransacked and damaged upstate New York businesses over the weekend as deadly extreme winter weather and low temperatures froze local authorities from performing regular patrols. New York State Police reportedly responded to claims across social media that some businesses had their windows smashed and merchandise damaged and stolen in the City of Buffalo as ...
+
+## New York Rep-Elect Who Made False Statements About Career, Personal Life Admits It
+ - [https://www.dailywire.com/news/new-york-rep-elect-who-made-false-statements-about-career-personal-life-admits-it](https://www.dailywire.com/news/new-york-rep-elect-who-made-false-statements-about-career-personal-life-admits-it)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-26 19:53:59+00:00
+
+New York Republican Congressman-elect George Santos came clean about questionable aspects of his career and personal life. In an interview with the New York Post Monday, Santos admitted that he fibbed about the claim that he worked for financial titans Goldman Sachs and Citigroup; he also admitted that he did not graduate from college. Furthermore, ...
 
 ## Pranked? Pence Spox Denies Former VP Filed For Presidential Campaign
  - [https://www.dailywire.com/news/pranked-pence-spox-denies-former-vp-filed-for-presidential-campaign](https://www.dailywire.com/news/pranked-pence-spox-denies-former-vp-filed-for-presidential-campaign)
@@ -223,3 +251,4 @@ South Korea responded with force to a potential North Korean threat Monday after
  - date published: 2022-12-26 07:43:04+00:00
 
 Dax Tejera, executive producer of &#8220;This Week&#8221; on ABC News, died of a heart attack Friday, according to the network. He was 37. ABC News President Kim Godwin sent a memo to staff on Saturday announcing his passing. &#8220;It’s with a heavy heart and great sadness that we share that our friend and colleague, Dax ...
+

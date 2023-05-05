@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Intel Core i9-13980HX potwierdzony. Dostrzeżono go w specyfikacjach laptopów ASUS-a
  - [https://ithardware.pl/aktualnosci/intel_core_i9_13980hx_potwierdzony_dostrzezono_go_w_specyfikacjach_laptopow_asus_a-25024.html](https://ithardware.pl/aktualnosci/intel_core_i9_13980hx_potwierdzony_dostrzezono_go_w_specyfikacjach_laptopow_asus_a-25024.html)
@@ -126,7 +126,6 @@ Idea samochod&oacute;w solarnych nie jest niczym nowym, ale...
  - [https://ithardware.pl/aktualnosci/raport_apple_cenzuruje_aplikacje_na_kazde_zadanie_chin_i_rosji_by_nie_stracic_rynkow-25014.html](https://ithardware.pl/aktualnosci/raport_apple_cenzuruje_aplikacje_na_kazde_zadanie_chin_i_rosji_by_nie_stracic_rynkow-25014.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-23 09:35:20+00:00
- - tags: apple,russia,china,censorship
 
 <img src="https://ithardware.pl/artykuly/min/25014_1.jpg" />            AppleCensorship, projekt, kt&oacute;ry monitoruje i dokumentuje cenzurę&nbsp;Apple&nbsp;App Store, opublikował dwa nowe raporty, kt&oacute;re rzucają światło na skalę cenzury App Store w Hongkongu i&nbsp;Rosji.
 
@@ -140,6 +139,16 @@ Chociaż część aplikacji jest...
 
 <img src="https://ithardware.pl/artykuly/min/25006_1.jpg" />            Starfield, The Elder Scrolls VI i&hellip; może Indiana Jones? W swojej odpowiedzi na pozew FTC mający na celu zablokowanie umowy Activision Blizzard, Microsoft twierdzi, że wybrano już trzy ekskluzywne gry, kt&oacute;re nie trafią na platformy...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/microsoft_planuje_trzy_ekskluzywne_gry_od_bethesdy_playstation_bedzie_musialo_obejsc_sie_smakiem-25006.html">https://ithardware.pl/aktualnosci/microsoft_planuje_trzy_ekskluzywne_gry_od_bethesdy_playstation_bedzie_musialo_obejsc_sie_smakiem-25006.html</a></p>
+
+## FBI zaleca korzystanie z blokerów reklam w sieci
+ - [https://ithardware.pl/aktualnosci/fbi_zaleca_korzystanie_z_blokerow_reklam_w_sieci-25025.html](https://ithardware.pl/aktualnosci/fbi_zaleca_korzystanie_z_blokerow_reklam_w_sieci-25025.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-12-23 09:00:00+00:00
+
+<img src="https://ithardware.pl/artykuly/min/25025_1.jpg" />            Wtyczki blokujące reklamy są nie w smak właścicielom stron internetowych, kt&oacute;rzy zarabiają na wyświetlaniu tego rodzaju treści. Co jednak gdy ich użycie zaleca FBI?
+
+Federalne Biuro Śledcze rekomenduje&nbsp;internautom, żeby w okresie...
+            <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/fbi_zaleca_korzystanie_z_blokerow_reklam_w_sieci-25025.html">https://ithardware.pl/aktualnosci/fbi_zaleca_korzystanie_z_blokerow_reklam_w_sieci-25025.html</a></p>
 
 ## ADATA i Galax pokażą na CES superszybkie pamięci DDR5 i dyski SSD PCIe 5.0
  - [https://ithardware.pl/aktualnosci/adata_i_galax_pokaza_na_ces_superszybkie_pamieci_ddr5_i_dyski_ssd_pcie_5_0-25005.html](https://ithardware.pl/aktualnosci/adata_i_galax_pokaza_na_ces_superszybkie_pamieci_ddr5_i_dyski_ssd_pcie_5_0-25005.html)
@@ -172,3 +181,4 @@ Nagroda - SteelSeries AEROX 5
 
 Myszka AEROX 5 to jedna z najlżejszych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_23-24822.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_23-24822.html</a></p>
+

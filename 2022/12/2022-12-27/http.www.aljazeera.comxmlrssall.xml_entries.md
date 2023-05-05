@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## US Supreme Court upholds controversial Title 42 border policy
  - [https://www.aljazeera.com/news/2022/12/27/us-supreme-court-upholds-controversial-title-42-immgration-policy](https://www.aljazeera.com/news/2022/12/27/us-supreme-court-upholds-controversial-title-42-immgration-policy)
@@ -321,3 +321,4 @@ Serbian President Aleksandar Vucic has ordered that &#039;all measures be taken 
  - date published: 2022-12-27 01:37:26+00:00
 
 Former international striker said his wife and daughter were travelling from Tehran to Dubai when flight was diverted.
+

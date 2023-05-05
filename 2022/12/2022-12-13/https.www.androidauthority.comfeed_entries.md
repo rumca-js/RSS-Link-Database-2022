@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Hell freezes over: Apple allegedly working on app sideloading for iPhones
  - [https://www.androidauthority.com/iphone-app-sideloading-3250788/](https://www.androidauthority.com/iphone-app-sideloading-3250788/)
@@ -62,3 +62,4 @@ From Argentina to Thailand, Samsung Good Lock has quietly expanded in a big way.
  - date published: 2022-12-13 06:11:18+00:00
 
 A returning favorite and a first for OnePlus phones.
+

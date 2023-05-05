@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "W trójkącie" Rubena Oestlunda wielkim zwycięzcą "europejskich Oscarów"
  - [https://tvn24.pl/kultura-i-styl/europejskie-nagrody-filmowe-2022-w-trojkacie-rubena-oestlunda-wielkim-zwyciezca-lista-nagrodzonych-6444837?source=rss](https://tvn24.pl/kultura-i-styl/europejskie-nagrody-filmowe-2022-w-trojkacie-rubena-oestlunda-wielkim-zwyciezca-lista-nagrodzonych-6444837?source=rss)
@@ -607,3 +607,4 @@
 
 <img alt="Ukraina walczy. Najważniejsze wydarzenia ostatnich godzin" src="https://tvn24.pl/najnowsze/cdn-zdjecie-w8nnm8-zniszczenia-po-rosyjskim-ataku-rakietowym-na-donieck-6432648/alternates/LANDSCAPE_1280" />
     Rosyjska inwazja na Ukrainę trwa 290. dzień.
+

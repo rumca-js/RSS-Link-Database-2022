@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Częstochowa nie chce płacić za lekcje religii w szkołach. Pierwsza taka uchwała w Polsce
  - [https://www.bankier.pl/wiadomosc/Czestochowa-nie-chce-placic-za-lekcje-religii-w-szkolach-Pierwsza-taka-uchwala-w-Polsce-8457830.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czestochowa-nie-chce-placic-za-lekcje-religii-w-szkolach-Pierwsza-taka-uchwala-w-Polsce-8457830.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -390,3 +390,4 @@ swoich dwóch poprzedników.</p>
  - date published: 2022-12-15 02:07:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/1/1527da52cf3245-948-568-0-0-1810-1086.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Po porażce Maroka w półfinale mistrzostw świata w piłce nożnej w kilku europejskich miastach wybuchły zamieszki. Na południu Francji w Montpellier 14-latek zginął wskutek potrącenia przez samochód. Według doniesień lokalnych mediów grupa osób próbowała usunąć francuską flagę z okna samochodu, w tym momencie kierowca przyspieszył i potrącił nastolatka.</p>
+

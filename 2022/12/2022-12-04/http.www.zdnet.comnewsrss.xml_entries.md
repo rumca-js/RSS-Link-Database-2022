@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## We are still failing to learn the most important lesson in cybersecurity. That needs to change, fast
  - [https://www.zdnet.com/article/we-are-still-failing-to-learn-the-most-important-lesson-in-cybersecurity-that-needs-to-change-fast/#ftag=RSSbaffb68](https://www.zdnet.com/article/we-are-still-failing-to-learn-the-most-important-lesson-in-cybersecurity-that-needs-to-change-fast/#ftag=RSSbaffb68)
@@ -27,3 +27,4 @@ It seems that Verizon, at least, has changed its tactics around folding phones.
  - date published: 2022-12-04 12:00:21+00:00
 
 There comes a point with even the finest companies when it's worth asking one question: Why?
+

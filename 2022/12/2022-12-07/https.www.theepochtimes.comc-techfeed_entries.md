@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Amazon Shopping Site Back up After Outage
  - [https://www.theepochtimes.com/amazon-shopping-site-back-up-after-outage_4909546.html](https://www.theepochtimes.com/amazon-shopping-site-back-up-after-outage_4909546.html)
@@ -34,3 +34,4 @@ Elon Musk's Twitter profile on a smartphone placed on printed Twitter logos, on 
  - date published: 2022-12-07 14:06:07+00:00
 
 Apple CEO Tim Cook announces a new lineup of products during a special event at Apple Park in Cupertino, Calif., on Mar. 8, 2022. (Brooks Kraft/Apple Inc./Handout via Reuters)
+

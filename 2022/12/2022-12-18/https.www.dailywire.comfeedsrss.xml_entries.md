@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Garland Calls For Stand Against ‘Disturbing’ Rise In Anti-Semitism At National Menorah Lighting
  - [https://www.dailywire.com/news/garland-calls-for-stand-against-disturbing-rise-in-anti-semitism-at-national-menorah-lighting](https://www.dailywire.com/news/garland-calls-for-stand-against-disturbing-rise-in-anti-semitism-at-national-menorah-lighting)
@@ -167,3 +167,4 @@ Texas Republican Governor Greg Abbott said ending Title 42 would bring &#8220;to
  - date published: 2022-12-18 08:00:05+00:00
 
 Twitter CEO Elon Musk suspended left-wing Washington Post reporter Taylor Lorenz on Saturday night after saying late last week that her &#8220;shameful behavior&#8221; would not be tolerated on the platform in the future. Lorenz claimed in a blog post that she &#8220;received zero communication from the company on why I was suspended or what terms ...
+

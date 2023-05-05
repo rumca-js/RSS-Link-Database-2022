@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Ocasio-Cortez Responds To Being Under Congressional Investigation
  - [https://www.dailywire.com/news/ocasio-cortez-responds-to-being-under-congressional-investigation](https://www.dailywire.com/news/ocasio-cortez-responds-to-being-under-congressional-investigation)
@@ -32,7 +32,6 @@ U.S. prosecutors have reportedly opened a criminal investigation into whether di
  - [https://www.dailywire.com/news/california-math-professor-under-investigation-for-opposing-transgender-surgeries-on-children](https://www.dailywire.com/news/california-math-professor-under-investigation-for-opposing-transgender-surgeries-on-children)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 20:50:12+00:00
- - tags: censorship,free speech
 
 A Northern California city college launched a &#8220;full investigation&#8221; on a math professor who argued against pushing transgender surgeries and hormone blockers on children in a series of emails obtained by local media. In response to an email sent to Sacramento City College faculty promoting &#8220;The Ethics of Providing Healthcare&#8221; at Sacramento State University last ...
 
@@ -448,3 +447,4 @@ The niece of former Republican New Jersey Governor Chris Christie allegedly hurl
  - date published: 2022-12-07 07:33:21+00:00
 
 Republican candidate Herschel Walker gave a classy concession speech Tuesday night following his loss in Georgia&#8217;s U.S. Senate runoff race against incumbent Democratic Sen. Raphael Warnock. Walker&#8217;s speech came after he performed worse than he did against Warnock during last month&#8217;s midterm elections, losing by more than 90,000 votes versus only being separated by 37,675 ...
+

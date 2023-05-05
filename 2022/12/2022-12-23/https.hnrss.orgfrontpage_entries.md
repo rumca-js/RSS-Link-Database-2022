@@ -1,4 +1,24 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## How We Slowed the Subway Down
+ - [https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/](https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 23:41:52+00:00
+
+<p>Article URL: <a href="https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/">https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34112008">https://news.ycombinator.com/item?id=34112008</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+## The situation at LastPass may be worse than they are letting on
+ - [https://twitter.com/cryptopathic/status/1606416137771782151](https://twitter.com/cryptopathic/status/1606416137771782151)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 23:27:39+00:00
+
+<p>Article URL: <a href="https://twitter.com/cryptopathic/status/1606416137771782151">https://twitter.com/cryptopathic/status/1606416137771782151</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34111880">https://news.ycombinator.com/item?id=34111880</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
 ## Managing tape drives and libraries with the Unix/Linux CLI
  - [http://blogs.intellique.com/cgi-bin/tech/2022/01/27](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
@@ -10,6 +30,16 @@
 <p>Points: 4</p>
 <p># Comments: 2</p>
 
+## Dating of a large tool assemblage at the Cooper’s Ferry site (Idaho, USA)
+ - [https://www.science.org/doi/10.1126/sciadv.ade1248](https://www.science.org/doi/10.1126/sciadv.ade1248)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 22:12:06+00:00
+
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.ade1248">https://www.science.org/doi/10.1126/sciadv.ade1248</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34111182">https://news.ycombinator.com/item?id=34111182</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
 ## Jukebox Sample Explorer
  - [https://jukebox.openai.com/](https://jukebox.openai.com/)
  - RSS feed: https://hnrss.org/frontpage
@@ -19,6 +49,26 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34111166">https://news.ycombinator.com/item?id=34111166</a></p>
 <p>Points: 4</p>
 <p># Comments: 2</p>
+
+## What Color Is It?
+ - [http://whatcolorisit.sumbioun.com/](http://whatcolorisit.sumbioun.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 21:57:42+00:00
+
+<p>Article URL: <a href="http://whatcolorisit.sumbioun.com/">http://whatcolorisit.sumbioun.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34111057">https://news.ycombinator.com/item?id=34111057</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+## Detecting potential cheaters in Advent of Code Leaderboards
+ - [https://adamfallon.com/aoc/advent-of-code/cheating/2022/12/23/detecting-potential-cheaters-in-private-advent-of-code-leaderboard.html](https://adamfallon.com/aoc/advent-of-code/cheating/2022/12/23/detecting-potential-cheaters-in-private-advent-of-code-leaderboard.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 21:51:37+00:00
+
+<p>Article URL: <a href="https://adamfallon.com/aoc/advent-of-code/cheating/2022/12/23/detecting-potential-cheaters-in-private-advent-of-code-leaderboard.html">https://adamfallon.com/aoc/advent-of-code/cheating/2022/12/23/detecting-potential-cheaters-in-private-advent-of-code-leaderboard.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34111002">https://news.ycombinator.com/item?id=34111002</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
 
 ## A new chat feature has been released by You Search
  - [https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat](https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat)
@@ -82,6 +132,16 @@ The JavaScript runs in your browser like a browser extension. It scrapes the HTM
 <p>Points: 15</p>
 <p># Comments: 1</p>
 
+## The Reliability Trap: The crash of Emirates flight 521
+ - [https://admiralcloudberg.medium.com/the-reliability-trap-the-crash-of-emirates-flight-521-98397de8c34e](https://admiralcloudberg.medium.com/the-reliability-trap-the-crash-of-emirates-flight-521-98397de8c34e)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 20:08:48+00:00
+
+<p>Article URL: <a href="https://admiralcloudberg.medium.com/the-reliability-trap-the-crash-of-emirates-flight-521-98397de8c34e">https://admiralcloudberg.medium.com/the-reliability-trap-the-crash-of-emirates-flight-521-98397de8c34e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34110066">https://news.ycombinator.com/item?id=34110066</a></p>
+<p>Points: 33</p>
+<p># Comments: 10</p>
+
 ## Breakfast at Bäckerei Frank (2014)
  - [http://travelhungry.co/blog/2014/6/21/breakfast-at-backerei-frank](http://travelhungry.co/blog/2014/6/21/breakfast-at-backerei-frank)
  - RSS feed: https://hnrss.org/frontpage
@@ -90,6 +150,26 @@ The JavaScript runs in your browser like a browser extension. It scrapes the HTM
 <p>Article URL: <a href="http://travelhungry.co/blog/2014/6/21/breakfast-at-backerei-frank">http://travelhungry.co/blog/2014/6/21/breakfast-at-backerei-frank</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34109813">https://news.ycombinator.com/item?id=34109813</a></p>
 <p>Points: 8</p>
+<p># Comments: 0</p>
+
+## Reverse Engineering TikTok's VM Obfuscation
+ - [https://nullpt.rs/reverse-engineering-tiktok-vm-1](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 19:36:06+00:00
+
+<p>Article URL: <a href="https://nullpt.rs/reverse-engineering-tiktok-vm-1">https://nullpt.rs/reverse-engineering-tiktok-vm-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34109771">https://news.ycombinator.com/item?id=34109771</a></p>
+<p>Points: 56</p>
+<p># Comments: 1</p>
+
+## Sierra Christmas Card 1986: A Computer Christmas
+ - [https://archive.org/details/sierra-christmas-card-1986](https://archive.org/details/sierra-christmas-card-1986)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 19:33:41+00:00
+
+<p>Article URL: <a href="https://archive.org/details/sierra-christmas-card-1986">https://archive.org/details/sierra-christmas-card-1986</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34109750">https://news.ycombinator.com/item?id=34109750</a></p>
+<p>Points: 18</p>
 <p># Comments: 0</p>
 
 ## I Found a Secret US Government Surveillance Program
@@ -172,6 +252,16 @@ The JavaScript runs in your browser like a browser extension. It scrapes the HTM
 <p>Points: 13</p>
 <p># Comments: 4</p>
 
+## RssCloud, WordPress. FeedLand, and Dave Winer
+ - [https://andysylvester.com/2022/12/22/rsscloud-wordpress-feedland-and-dave-winer/](https://andysylvester.com/2022/12/22/rsscloud-wordpress-feedland-and-dave-winer/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 17:36:38+00:00
+
+<p>Article URL: <a href="https://andysylvester.com/2022/12/22/rsscloud-wordpress-feedland-and-dave-winer/">https://andysylvester.com/2022/12/22/rsscloud-wordpress-feedland-and-dave-winer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34108469">https://news.ycombinator.com/item?id=34108469</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
 ## The Mathematical Hacker
  - [https://www.evanmiller.org/mathematical-hacker.html](https://www.evanmiller.org/mathematical-hacker.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -232,6 +322,16 @@ The JavaScript runs in your browser like a browser extension. It scrapes the HTM
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34107240">https://news.ycombinator.com/item?id=34107240</a></p>
 <p>Points: 6</p>
 <p># Comments: 1</p>
+
+## How Asus and a Microsoft Bug Almost Broke Remote Work
+ - [https://nuxx.net/blog/2022/12/23/how-asus-and-a-microsoft-bug-almost-broke-remote-work/](https://nuxx.net/blog/2022/12/23/how-asus-and-a-microsoft-bug-almost-broke-remote-work/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 15:49:14+00:00
+
+<p>Article URL: <a href="https://nuxx.net/blog/2022/12/23/how-asus-and-a-microsoft-bug-almost-broke-remote-work/">https://nuxx.net/blog/2022/12/23/how-asus-and-a-microsoft-bug-almost-broke-remote-work/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34107061">https://news.ycombinator.com/item?id=34107061</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 ## Nuklear – A single-header ANSI C immediate mode cross-platform GUI library
  - [https://github.com/Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
@@ -343,6 +443,16 @@ The JavaScript runs in your browser like a browser extension. It scrapes the HTM
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34105558">https://news.ycombinator.com/item?id=34105558</a></p>
 <p>Points: 17</p>
 <p># Comments: 3</p>
+
+## Walk as Spreadsheet (2021)
+ - [https://craigmod.com/ridgeline/115/](https://craigmod.com/ridgeline/115/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-23 13:29:56+00:00
+
+<p>Article URL: <a href="https://craigmod.com/ridgeline/115/">https://craigmod.com/ridgeline/115/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34105546">https://news.ycombinator.com/item?id=34105546</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
 ## RISC-V Pushes into the Mainstream
  - [https://semiengineering.com/risc-v-pushes-into-the-mainstream/](https://semiengineering.com/risc-v-pushes-into-the-mainstream/)
@@ -613,3 +723,4 @@ The JavaScript runs in your browser like a browser extension. It scrapes the HTM
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34100752">https://news.ycombinator.com/item?id=34100752</a></p>
 <p>Points: 16</p>
 <p># Comments: 1</p>
+

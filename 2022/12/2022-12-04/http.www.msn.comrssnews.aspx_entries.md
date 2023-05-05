@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Trump critics underestimate him 'at their own peril', Jen Psaki warns
  - [http://www.msn.com/en-us/news/politics/trump-critics-underestimate-him-at-their-own-peril-jen-psaki-warns/ar-AA14TOY5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-critics-underestimate-him-at-their-own-peril-jen-psaki-warns/ar-AA14TOY5?li=BBnbcA1&srcref=rss)
@@ -900,5 +900,6 @@
  - [http://www.msn.com/en-us/news/politics/ukraine-aid-and-stealth-bombers-pentagon-lays-out-consequences-if-congress-can-t-pass-a-budget-deal/ar-AA14S781?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/ukraine-aid-and-stealth-bombers-pentagon-lays-out-consequences-if-congress-can-t-pass-a-budget-deal/ar-AA14S781?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-04 00:01:37.031290+00:00
+
 
 

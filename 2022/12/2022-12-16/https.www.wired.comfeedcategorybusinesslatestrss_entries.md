@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## No One on Twitter Is Safe From Elon Musk
  - [https://www.wired.com/story/elon-musk-blocked-journalists-twitter/](https://www.wired.com/story/elon-musk-blocked-journalists-twitter/)
@@ -41,3 +41,4 @@ Companies are exploring how to adapt powerful new chatbot technology to negotiat
  - date published: 2022-12-16 11:00:00+00:00
 
 A Portuguese island created a village for remote workers, promising community to the newcomers and prosperity to the locals—then delivered on neither.
+

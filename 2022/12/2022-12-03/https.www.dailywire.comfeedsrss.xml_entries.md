@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Football Legend ‘Prime Time’ Deion Sanders Accepts Coaching Job At Major Division I School
  - [https://www.dailywire.com/news/breaking-football-legend-prime-time-deion-sanders-accepts-coaching-job-at-major-division-i-school](https://www.dailywire.com/news/breaking-football-legend-prime-time-deion-sanders-accepts-coaching-job-at-major-division-i-school)
@@ -265,3 +265,4 @@ Bette Midler lost her temper and grossed out the internet this week over a snark
  - date published: 2022-12-03 09:50:13+00:00
 
 Bette Midler lost her temper and grossed out the internet this week over a snarky retort to her tweet calling for more use of solar energy. The “Rose” singer and actress tweeted out a graphic with a painting of the sun and the message: “If God wanted us to have free, unlimited clean energy, he ...
+

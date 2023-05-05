@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Anglia spacerkiem do ćwierćfinału. Będzie hit
  - [https://eurosport.tvn24.pl/anglia-spacerkiem-do--wier-fina-u--b-dzie-hit,1127848.html?source=rss](https://eurosport.tvn24.pl/anglia-spacerkiem-do--wier-fina-u--b-dzie-hit,1127848.html?source=rss)
@@ -640,3 +640,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-7ur1hr-ukrainscy-zolnierze-na-froncie-3122022-6362529/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

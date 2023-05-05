@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## USA: Kolejny pakiet pomocy militarnej dla Ukrainy. Biden wydał zgodę
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-usa-kolejny-pakiet-pomocy-militarnej-dla-ukrainy-biden-wydal,nId,6463355](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-usa-kolejny-pakiet-pomocy-militarnej-dla-ukrainy-biden-wydal,nId,6463355)
@@ -514,3 +514,4 @@
  - date published: 2022-12-09 04:33:30+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-289-dzien-inwazji-rosji-relacja-na-zywo,nzId,3497,akt,090803"><img align="left" alt="Wojna w Ukrainie. 289. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-289-dzien-inwazji-rosji-relacja-na-zywo/000GGO6EIML50HH1-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

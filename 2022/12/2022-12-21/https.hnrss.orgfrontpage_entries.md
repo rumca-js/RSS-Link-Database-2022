@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Netflix: 30% bitrate saving using Film Grain Synthesis
  - [https://waveletbeam.com/index.php/news/48-netflix-film-grain-synthesis](https://waveletbeam.com/index.php/news/48-netflix-film-grain-synthesis)
@@ -802,3 +802,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34074744">https://news.ycombinator.com/item?id=34074744</a></p>
 <p>Points: 15</p>
 <p># Comments: 1</p>
+

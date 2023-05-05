@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Ukraina. Kijów zareagował na słowa Orbana. "Węgry patologicznie lekceważą nasz kraj"
  - [https://www.polsatnews.pl/wiadomosc/2022-12-27/ukraina-kijow-zareagowal-na-slowa-orbana-wegry-patologicznie-lekcewaza-nasz-kraj/](https://www.polsatnews.pl/wiadomosc/2022-12-27/ukraina-kijow-zareagowal-na-slowa-orbana-wegry-patologicznie-lekcewaza-nasz-kraj/)
@@ -90,3 +90,4 @@ Powrót Wielkiej Brytanii do UE i rozpad Unii, wojna domowa w USA i powstanie IV
  - date published: 2022-12-27 05:14:00+00:00
 
 Propozycje Moskwy dotyczące demilitaryzacji i denazyfikacji Ukrainy są dobrze znane Kijowowi i to do władz ukraińskich należy ich realizacja, w przeciwnym razie armia rosyjska rozstrzygnie tę kwestię - powiedział szef rosyjskiej dyplomacji Siergiej Ławrow.
+

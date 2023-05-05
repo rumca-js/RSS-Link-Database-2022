@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Add This Not-so-Secret Ingredient to All Your Party Snacks
  - [https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837](https://lifehacker.com/add-this-not-so-secret-ingredient-to-all-your-party-sna-1849889837)
@@ -118,3 +118,4 @@
  - date published: 2022-12-13 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--gCVpWATr--/c_fit,fl_progressive,q_80,w_636/46ab031d1cbd438a8978f8b717a20734.jpg" /><p>Vehicles catching on fire seems to be trending this year, with <a href="https://lifehacker.com/these-suvs-have-been-recalled-because-they-might-catch-1849828467">Ford</a> and <a href="https://lifehacker.com/these-trucks-are-being-recalled-before-they-catch-fire-1849796883">Ram</a> Sports Utility Vehicles (SUVs) being recalled in November, and <a href="https://lifehacker.com/park-these-recalled-kia-suvs-outside-because-of-fire-ri-1849706684">Kia</a> SUVs in October. Now, Subaru is joining the group with their most recent SUV recall. Subaru of America, Inc. has announced a <a href="https://media.subaru.com/pressrelease/2001/1/subaru-announces-recall-2019-2022-model-year-ascent" rel="noopener noreferrer" target="_blank">safety recall for certain Subaru Ascent</a> SUVs for…</p><p><a href="https://lifehacker.com/these-subaru-suvs-need-to-be-parked-outside-before-they-1849883954">Read more...</a></p>
+

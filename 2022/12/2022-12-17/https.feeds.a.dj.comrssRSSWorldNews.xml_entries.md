@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Argentina in World Cup Final Gives Tired Nation a Reason to Celebrate
  - [https://www.wsj.com/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980](https://www.wsj.com/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980)
@@ -27,3 +27,4 @@ Russian assaults are eroding Ukrainians’ access to heat, light and water as te
  - date published: 2022-12-17 05:01:00+00:00
 
 Searching for allies against Ukraine, Russia now presents itself as the leader of a global culture war against moral depravity. It’s not working.
+

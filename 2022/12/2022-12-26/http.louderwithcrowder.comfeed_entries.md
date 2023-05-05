@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Twitter's top lawyer wanted pandemic Trump tweet removed for misinformation, tells all you need to know about the left
  - [https://www.louderwithcrowder.com/trump-tweet-removed](https://www.louderwithcrowder.com/trump-tweet-removed)
@@ -81,3 +81,4 @@
 <a href="https://youtu.be/SZvOx9-1cdc" target="_blank">youtu.be</a>
 </small>
 </p>
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Meta to pay $725 million to settle Cambridge Analytica lawsuit
  - [https://arstechnica.com/?p=1906625](https://arstechnica.com/?p=1906625)
@@ -34,3 +34,4 @@ Dealmaster has discounts on some of our favorite fitness trackers, 4K TVs, and s
  - date published: 2022-12-23 12:30:46+00:00
 
 Both companies' smart displays often feel pretty dumb.
+

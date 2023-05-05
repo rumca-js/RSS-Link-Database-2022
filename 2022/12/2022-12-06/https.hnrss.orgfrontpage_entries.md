@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## The Simple Art of Murder (1944)
  - [https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/](https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/)
@@ -857,3 +857,4 @@ class DataPreprocessor(object):
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33873828">https://news.ycombinator.com/item?id=33873828</a></p>
 <p>Points: 14</p>
 <p># Comments: 12</p>
+

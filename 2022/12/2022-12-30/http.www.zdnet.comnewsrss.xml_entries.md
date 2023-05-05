@@ -1,4 +1,11 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## CES 2023 tech I'm watching: Metaverse, ER of the future, food tech, NFTs
+ - [https://www.zdnet.com/article/ces-2023-tech-im-watching-metaverse-er-of-the-future-food-tech-nfts/#ftag=RSSbaffb68](https://www.zdnet.com/article/ces-2023-tech-im-watching-metaverse-er-of-the-future-food-tech-nfts/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-30 15:14:00+00:00
+
+The latest in autonomous cars, robots, AI, Web3, digital health, and more will be on display at CES 2023.
 
 ## CES 2023 tech to watch: EVs, the metaverse, NFTs, and more
  - [https://www.zdnet.com/article/ces-2023-tech-preview/#ftag=RSSbaffb68](https://www.zdnet.com/article/ces-2023-tech-preview/#ftag=RSSbaffb68)
@@ -48,3 +55,4 @@ iPhone power tip: You're not limited to the thumbs-up, heart and 4 other reactio
  - date published: 2022-12-30 13:51:00+00:00
 
 You're not limited to the thumbs-up, heart and 4 other reactions in iMessage. Here's how to up your texting game.
+

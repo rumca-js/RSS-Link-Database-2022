@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Musk cheerleaders and conservative influencers criticize journalist suspensions from Twitter
  - [https://www.nbcnews.com/tech/internet/elon-musk-twitter-journalist-suspensions-bans-criticism-free-speech-rcna62156](https://www.nbcnews.com/tech/internet/elon-musk-twitter-journalist-suspensions-bans-criticism-free-speech-rcna62156)
@@ -34,3 +34,4 @@ Twitter on Thursday evening suddenly suspended several high-profile journalists 
  - date published: 2022-12-16 07:44:09+00:00
 
 House Republicans sent a letter Thursday to Uber asking the tech company to explain what steps it is taking in response to drivers' complaints that they’re
+

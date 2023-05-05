@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Denver mayor declares state of emergency after arrival of migrants from southern border: 'An immense strain'
  - [https://www.foxnews.com/us/denver-mayor-declares-state-emergency-arrival-migrants-southern-border-immense-strain](https://www.foxnews.com/us/denver-mayor-declares-state-emergency-arrival-migrants-southern-border-immense-strain)
@@ -678,3 +678,4 @@ Former Mets, Angels and Phillies right-hander Noah Syndergaard has been added to
  - date published: 2022-12-15 00:01:40+00:00
 
 Republican House intelligence committee members allege in a report that there are indications that COVID-19 could be tied to China’s biological weapons research program.
+

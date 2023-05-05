@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Guillermo del Toro’s Pinocchio is a gnarly and spiritual fairy tale about what makes life beautiful
  - [https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review](https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review)
@@ -776,3 +776,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/8/23500829/everything-everywhere-all-at-once-fandom-best-movie-daniel-kwon">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## LumaFusion vs DaVinci Resolve: Which iPad video editor should you use?
  - [https://www.zdnet.com/article/lumafusion-vs-davinci-resolve-which-ipad-video-editor-should-you-use/#ftag=RSSbaffb68](https://www.zdnet.com/article/lumafusion-vs-davinci-resolve-which-ipad-video-editor-should-you-use/#ftag=RSSbaffb68)
@@ -55,3 +55,4 @@ iPhone power tip: Sick of missing your shot because you couldn't open your camer
  - date published: 2022-12-29 08:53:00+00:00
 
 Chinese tech giant appoints Wu Zeming as its CTO, replacing Li Cheng, while CEO and chairman Daniel Zhang adds acting president of Alibaba's cloud business to his portfolio, in a series of top management changes that the company says is an annual routine.
+

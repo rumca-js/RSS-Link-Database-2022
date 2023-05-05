@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Oppo sets date for the launch of its new foldables
  - [https://www.androidauthority.com/oppo-find-n2-launch-3249198/](https://www.androidauthority.com/oppo-find-n2-launch-3249198/)
@@ -104,3 +104,4 @@ The Realme 10 Pro series packs in a number of features.
  - date published: 2022-12-08 05:30:13+00:00
 
 Overkill for many, but super useful for some.
+

@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Amateur astronomers challenged to spot an asteroid for Christmas
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59811](https://www.codeproject.com/script/News/View.aspx?nwid=59811)
@@ -55,3 +55,4 @@ printf ought to be enough for everyone
  - date published: 2022-12-14 05:00:00+00:00
 
 About Firebase SDKs, quick fixes and refactorings, and target platforms
+

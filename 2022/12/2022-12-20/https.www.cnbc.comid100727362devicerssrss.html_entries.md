@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## FTX founder Sam Bankman-Fried will fly from Bahamas to U.S. Wednesday to face criminal charges
  - [https://www.cnbc.com/2022/12/20/indicted-ftx-founder-sam-bankman-fried-to-return-to-us-after-hearing.html](https://www.cnbc.com/2022/12/20/indicted-ftx-founder-sam-bankman-fried-to-return-to-us-after-hearing.html)
@@ -139,3 +139,4 @@ In a letter published on his personal blog on Tuesday, Bill Gates addresses area
  - date published: 2022-12-20 00:20:11+00:00
 
 Venture capital firms in Southeast Asia will probably be pickier next year, with valuations plunging and macro headwinds slowing down growth in 2022.
+

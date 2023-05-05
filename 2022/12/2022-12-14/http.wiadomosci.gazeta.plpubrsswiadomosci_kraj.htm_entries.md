@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Ksiądz krzyczał i wykręcał ręce uczniowi szkoły specjalnej. Jest śledztwo prokuratury
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29264433,ksiadz-krzyczal-i-wykrecal-rece-uczniowi-szkoly-specjalnej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29264433,ksiadz-krzyczal-i-wykrecal-rece-uczniowi-szkoly-specjalnej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -153,3 +153,4 @@
  - date published: 2022-12-14 05:05:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/03/e7/1b/z29258499M,Pogoda--zdjecie-ilustracyjne-.jpg" vspace="2" />Niż Brygida w ciągu ostatnich dni nieco namieszał w pogodzie i przyniósł do naszego kraju m.in. intensywne opady śniegu. Front odsunął się od Polski, nie oznacza to jednak, że to koniec zimowej aury. Wkroczył bowiem wyż Julian, który sprawi, że zrobi się naprawdę zimno.
+

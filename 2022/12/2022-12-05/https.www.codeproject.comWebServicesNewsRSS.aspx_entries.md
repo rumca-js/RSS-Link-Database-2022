@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## Cache invalidation really is one of the hardest problems in computer science
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59707](https://www.codeproject.com/script/News/View.aspx?nwid=59707)
@@ -76,3 +76,4 @@ I never met a verse I cared for that much
  - date published: 2022-12-05 05:00:00+00:00
 
 A pile of boxes, with a laptop perched on top
+

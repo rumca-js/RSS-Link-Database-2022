@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## F.T.C. Sues to Block Microsoft’s $69 Billion Acquisition of Activision
  - [https://www.nytimes.com/2022/12/08/technology/ftc-microsoft-activision.html](https://www.nytimes.com/2022/12/08/technology/ftc-microsoft-activision.html)
@@ -13,3 +13,4 @@ The move by the commission signals an aggressive stance by federal regulators to
  - date published: 2022-12-08 00:35:48+00:00
 
 Federal prosecutors are investigating whether Sam Bankman-Fried and his hedge fund orchestrated trades in a way that led to the collapse of two cryptocurrencies in May.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Przeprowadzili historyczne obserwacje. Korona słoneczna nigdy przedtem nie była widziana w takich okolicznościach
  - [https://www.chip.pl/2022/12/korona-sloneczna-srodkowa-warstwa-obserwacje](https://www.chip.pl/2022/12/korona-sloneczna-srodkowa-warstwa-obserwacje)
@@ -60,7 +60,6 @@
  - [https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl](https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl)
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-12-29 14:10:31+00:00
- - tags: amazon,allegro,monopoly
 
 <img alt="allegro" class="attachment-full size-full wp-post-image" height="1280" src="https://konto.chip.pl/wp-content/uploads/2017/11/damq4lTJt7KMiPbC02nJFIyq63LIkBKc.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2017/11/damq4lTJt7KMiPbC02nJFIyq63LIkBKc.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>&#8220;W praktyce przedsiębiorcy posiadającemu dominującą pozycję na rynku wolno mniej&#8221; &#8211; słusznie uważa prezes Urzędu Ochrony Konkurencji i Konsumentów (UOKiK), Tomasz Chrustny, argumentując nałożenie na spółkę Allegro ponad 206 mln zł kary za nadużywanie pozycji dominującej wobec innych przedsiębiorców na swojej platformie sprzedażowej. I dorzuca kolejne 4 mln zł kary za stosowanie klauzul abuzywnych w [&#8230;]</p>
@@ -144,3 +143,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="829" src="https://konto.chip.pl/wp-content/uploads/2022/12/pterozaur.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/pterozaur.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Pterozaury zamieszkiwały Ziemię przez bardzo długi czas, występując na naszej planecie w okresie od 227 mln do 66 mln lat temu Co więcej, nie tylko były w stanie przetrwać, ale wręcz zdominowały niektóre ekosystemy. Mimo to, naukowa wiedza na ich temat nie jest pozbawiona luk. Paleobiolodzy szacują, iż poszczególne osobniki mogły mieć rozpiętość skrzydeł wynoszącą [&#8230;]</p>
+

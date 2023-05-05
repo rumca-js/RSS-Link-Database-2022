@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Nagrywanie bez zgody a dowód w sądzie
  - [https://www.money.pl/gospodarka/nagrywanie-bez-zgody-a-dowod-w-sadzie-6842680891873824a.html](https://www.money.pl/gospodarka/nagrywanie-bez-zgody-a-dowod-w-sadzie-6842680891873824a.html)
@@ -41,3 +41,4 @@
  - date published: 2022-12-10 06:04:54+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/6e5875aa-c0d1-483b-bd22-a97f8a6f3045" width="308" /> Rząd nie planuje nominalnego podwyższenia podatków od 2023 r., ale i tak zapłacimy wyższe daniny niż dotychczas. Wiele opłat jest bowiem powiązanych z inflacją lub płacą minimalną. Za kieszenie mogą łapać się palacze papierosów czy posiadacze nieruchomości. Na baczności muszą się mieć także sprawcy wykroczeń drogowych i skarbowych. Mandaty i grzywny wzrosną drakońsko.
+

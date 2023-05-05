@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Yes, That’s John Fetterman In Christian Bale’s New Movie: ‘That’s A Face That Fits In The 1830s’
  - [https://www.dailywire.com/news/yes-thats-john-fetterman-in-christian-bales-new-movie-thats-a-face-that-fits-in-the-1830s](https://www.dailywire.com/news/yes-thats-john-fetterman-in-christian-bales-new-movie-thats-a-face-that-fits-in-the-1830s)
@@ -160,3 +160,4 @@ Elon Musk, whose exposure of Twitter’s internal communications has lifted the 
  - date published: 2022-12-11 09:02:19+00:00
 
 The fourth installment of &#8220;The Twitter Files&#8221; released over the weekend revealed new information about the actions that led up to the platform banning former President Donald Trump following the January 6, 2021, riot in the nation&#8217;s capital. The first several tweets offered no new information and rehashed prior releases from The Twitter Files. The ...
+

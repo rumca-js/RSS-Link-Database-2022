@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Avatar: The Way of Water's Space Battle That Could've Been Comes to Life in This Comic Preview
  - [https://gizmodo.com/avatar-2-the-way-of-water-comic-prequel-space-battle-1849920622](https://gizmodo.com/avatar-2-the-way-of-water-comic-prequel-space-battle-1849920622)
@@ -300,3 +300,4 @@
  - date published: 2022-12-21 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Z_NSMiQg--/c_fit,fl_progressive,q_80,w_636/b0a1c8326f18ef2f4308f13998d090b8.png" /><p>It’s nearly Christmas, but there is another important holiday season upon us: <a href="https://gizmodo.com/avatar-2-movie-review-the-way-of-water-james-cameron-1849876980"><em>Avatar: The Way of Water</em></a> release season, and you bet some genius in marketing decided to smash these two things together in unholy matrimony. But in doing so, they have opened a very different kind of Pandora’s box than presumably whatever…</p><p><a href="https://gizmodo.com/avatar-way-of-water-christmas-carol-wtf-james-cameron-1849916220">Read more...</a></p>
+

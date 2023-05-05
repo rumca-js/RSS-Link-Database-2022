@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Pozwolenia na fotowoltaikę będą wydawane szybciej
  - [https://www.chip.pl/2022/12/pozwolenia-na-fotowoltaike-beda-wydawane-szybciej](https://www.chip.pl/2022/12/pozwolenia-na-fotowoltaike-beda-wydawane-szybciej)
@@ -119,3 +119,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="677" src="https://konto.chip.pl/wp-content/uploads/2022/12/teleskop-keplera.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/teleskop-keplera.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Pytanie o to, czy gdzieś tam istnieją pozaziemskie formy życia jest jednym z fundamentalnych, jeśli chodzi o eksplorację kosmosu. Niedawno astronomowie &#8211; szukając odpowiedzi &#8211; sprawdzili dwanaście różnych planet. Na czele zespołu odpowiedzialnego za te poszukiwania stanęła Sofia Sheikh związana z SETI Institute i Berkeley SETI Research Center. Współpracując z przedstawicielami Breakthrough Listen, Center for [&#8230;]</p>
+

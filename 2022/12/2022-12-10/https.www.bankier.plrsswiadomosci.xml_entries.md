@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Trudna porażka dla Bolsonaro. Były prezydent wierzy w poparcie wojska
  - [https://www.bankier.pl/wiadomosc/Trudna-porazka-dla-Bolsonaro-Byly-prezydent-wierzy-w-poparcie-wojska-8454525.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Trudna-porazka-dla-Bolsonaro-Byly-prezydent-wierzy-w-poparcie-wojska-8454525.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -210,3 +210,4 @@
  - date published: 2022-12-10 00:34:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/5/be5da0efdca6e0-948-568-10-49-1990-1193.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sąd stanowy skazał w piątek na 3.5 roku więzienia byłego policjanta z Minneapolis J. Alexandera Kuenga klęczącego na plecach George'a Floyda, który zginął w wyniku uciskania mu szyi przez innego funkcjonariusza. Kueng odbywa już wyrok wydany przez sąd federalny.</p>
+

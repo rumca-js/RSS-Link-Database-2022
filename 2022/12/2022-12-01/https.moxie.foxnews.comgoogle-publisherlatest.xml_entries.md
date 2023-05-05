@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Mariah Carey praises David Beckham after he sings 'All I Want For Christmas Is You': 'Fave rendition'
  - [https://www.foxnews.com/entertainment/mariah-carey-praises-david-beckham-sings-all-i-want-for-christmas-is-you](https://www.foxnews.com/entertainment/mariah-carey-praises-david-beckham-sings-all-i-want-for-christmas-is-you)
@@ -1238,3 +1238,4 @@ Buffalo Bills linebacker Von Miller confirmed on his podcast this week that Supe
  - date published: 2022-12-01 00:09:26+00:00
 
 A Chicago teenager was shot and killed on Tuesday by two males armed with handguns who fled after committing the crime, according to police.
+

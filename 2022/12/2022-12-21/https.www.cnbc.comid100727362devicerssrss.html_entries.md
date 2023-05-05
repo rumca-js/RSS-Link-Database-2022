@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## New bill will force Twitter, TikTok and other social media platforms to increase transparency by sharing internal data
  - [https://www.cnbc.com/2022/12/21/new-bill-force-twitter-tiktok-other-social-media-platforms-share-data.html](https://www.cnbc.com/2022/12/21/new-bill-force-twitter-tiktok-other-social-media-platforms-share-data.html)
@@ -118,3 +118,4 @@ S&amp;P Global's base case forecast for oil prices is $90 a barrel for 2023, but
  - date published: 2022-12-21 00:38:14+00:00
 
 As Tesla shares sank 8% on Tuesday, reaching a new 52-week low, CEO Elon Musk tried to blame macroeconomic factors.
+

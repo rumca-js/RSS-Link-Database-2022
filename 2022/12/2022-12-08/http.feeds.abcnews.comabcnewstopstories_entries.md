@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## WATCH:  Why is the jobs boom bad for inflation?
  - [https://abcnews.go.com/Business/video/jobs-boom-bad-inflation-94802217](https://abcnews.go.com/Business/video/jobs-boom-bad-inflation-94802217)
@@ -48,3 +48,4 @@ A large herd of elk rushed across a roadway and drivers in Colorado had no choic
  - date published: 2022-12-08 02:00:51+00:00
 
 A handful of centenarian survivors gathered in Hawaii to commemorate those killed 81 years ago in the attack on Pearl Harbor.
+

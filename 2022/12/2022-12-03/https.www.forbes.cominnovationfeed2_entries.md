@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Did Vladimir Putin Really Fall And Soil Himself? Here Are Claims About His Health
  - [https://www.forbes.com/sites/brucelee/2022/12/03/did-putin-really-fall-and-soil-himself-here-are-claims-about-his-health/](https://www.forbes.com/sites/brucelee/2022/12/03/did-putin-really-fall-and-soil-himself-here-are-claims-about-his-health/)
@@ -223,3 +223,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-12-03 01:00:00+00:00
 
 On the night of December 7, 2022 the full Moon will appear to blot out Mars. Here's your viewing guide.
+

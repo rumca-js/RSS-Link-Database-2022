@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘We’ve Got To Stand Up For It On Both Sides’: Megyn Kelly Calls On Musk To Reinstate Suspended Reporters
  - [https://www.dailywire.com/news/weve-got-to-stand-up-for-it-on-both-sides-megyn-kelly-calls-on-musk-to-reinstate-suspended-reporters](https://www.dailywire.com/news/weve-got-to-stand-up-for-it-on-both-sides-megyn-kelly-calls-on-musk-to-reinstate-suspended-reporters)
@@ -293,3 +293,4 @@ An F-35B Lighting II Joint Strike Fighter crashed into the ground in Texas on Th
  - date published: 2022-12-16 00:13:46+00:00
 
 Daily Wire host Michael Knowles opened an appearance on the Timcast IRL podcast wearing a black face-mask reminiscent of the one worn by Kanye West in his now infamous interview with Alex Jones, kicking off a two hour discussion about censorship and the foundational structure of society. After removing the “$4 Amazon” mask and slamming ...
+

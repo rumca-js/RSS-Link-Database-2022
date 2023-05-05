@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Quality Street fans confused over new environmentally-friendly wrappers and ask 'what's going on'
  - [https://www.dailymail.co.uk/news/article-11573283/Quality-Street-fans-confused-new-environmentally-friendly-wrappers-ask-whats-going-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11573283/Quality-Street-fans-confused-new-environmentally-friendly-wrappers-ask-whats-going-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -111,6 +111,13 @@ The woman, 58, was travelling along Bedfont Road (pictured) at around 11.50pm on
  - date published: 2022-12-25 21:15:44+00:00
 
 Greg Henry, Abby Radcliffe, Shobi Maynard and Bridget Schuster met in the airport in Tampa on December 22 when their flight to Cleveland, Ohio, was canceled. They teamed up to drive home.
+
+## Alexandra Mardell WINS the Strictly Come Dancing Christmas Special with pro Kai Widdrington
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11573173/Alexandra-Mardell-WINS-Strictly-Come-Dancing-Christmas-Special-pro-Kai-Widdrington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11573173/Alexandra-Mardell-WINS-Strictly-Come-Dancing-Christmas-Special-pro-Kai-Widdrington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-25 20:17:30+00:00
+
+Alexandra Mardell managed to bag the glitterball trophy, during Strictly Come Dancing's Christmas Special taking the win with professional partner Kai Widdrington.
 
 ## Read and watch King Charles first Christmas speech as Monarch in full
  - [https://www.dailymail.co.uk/news/article-11573205/Read-watch-King-Charles-Christmas-speech-Monarch-full.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11573205/Read-watch-King-Charles-Christmas-speech-Monarch-full.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -636,3 +643,4 @@ Art dating back 22,000 years, which is sacred to Indigenous Australians, has bee
  - date published: 2022-12-25 00:09:22+00:00
 
 Christmas tensions boiled over into violence in a shopping centre carpark as two women and a man threw punches and kicked each other in the Whitsundays region of Queensland.
+

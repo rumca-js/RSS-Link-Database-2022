@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Wspaniały Leo Messi. Piękna asysta i historyczny gol
  - [https://eurosport.tvn24.pl/wielki-leo-messi--wizjonerska-asysta-i-historyczny-gol-na-wag--p--fina-u-dla-argentyny,1128548.html?source=rss](https://eurosport.tvn24.pl/wielki-leo-messi--wizjonerska-asysta-i-historyczny-gol-na-wag--p--fina-u-dla-argentyny,1128548.html?source=rss)
@@ -839,3 +839,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie03f3bb699f61e7c2b26d46d5b113ca9a-brytyjscy-i-amerykanscy-zolnierze-na-cwiczeniach-nato-w-norwegii-4705416/alternates/LANDSCAPE_1280" />
     Zbigniew Rau podczas konferencji Aspen Security Forum w Waszyngtonie.
+

@@ -1,4 +1,11 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
+
+## USA: Ograniczenia dotyczące imigracji. Sąd Najwyższy blokuje decyzję Bidena
+ - [https://wydarzenia.interia.pl/zagranica/news-usa-ograniczenia-dotyczace-imigracji-sad-najwyzszy-blokuje-d,nId,6498464](https://wydarzenia.interia.pl/zagranica/news-usa-ograniczenia-dotyczace-imigracji-sad-najwyzszy-blokuje-d,nId,6498464)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-12-27 23:09:31+00:00
+
+<p><a href="https://wydarzenia.interia.pl/zagranica/news-usa-ograniczenia-dotyczace-imigracji-sad-najwyzszy-blokuje-d,nId,6498464"><img align="left" alt="USA: Ograniczenia dotyczące imigracji. Sąd Najwyższy blokuje decyzję Bidena" src="https://i.iplsc.com/usa-ograniczenia-dotyczace-imigracji-sad-najwyzszy-blokuje-d/000GJMR84YHJ9OOF-C321.jpg" /></a>Sąd Najwyższy USA zdecydował we wtorek o tymczasowym utrzymaniu restrykcji na granicy wprowadzonych na czas pandemii, umożliwiających szybkie wydalanie nieudokumentowanych migrantów. Zablokował w ten sposób decyzję administracji prezydenta Bidena.</p><br clear="all" />
 
 ## Ukraina: Masowa dezercja żołnierzy. Rosjanie zwiększyli patrole
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-masowa-dezercja-zolnierzy-rosjanie-zwiekszyli-patrol,nId,6498444](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-masowa-dezercja-zolnierzy-rosjanie-zwiekszyli-patrol,nId,6498444)
@@ -457,3 +464,4 @@
  - date published: 2022-12-27 04:39:25+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-307-dzien-inwazji-rosji-relacja-na-zywo,nzId,3543,akt,270925"><img align="left" alt="Wojna w Ukrainie. 307. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-307-dzien-inwazji-rosji-relacja-na-zywo/000GJGD63LS48SDE-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## State says NYC planned ban on foie gras sales violates law
  - [https://abcnews.go.com/Business/wireStory/state-nyc-planned-ban-foie-gras-sales-violates-95389995](https://abcnews.go.com/Business/wireStory/state-nyc-planned-ban-foie-gras-sales-violates-95389995)
@@ -230,3 +230,4 @@ Passing a temporary funding bill avoids the federal government shutdown that wou
  - date published: 2022-12-15 00:29:32+00:00
 
 An Amazon contract worker was hospitalized and his alleged shooter was killed in an incident in a parking lot, according to police.
+

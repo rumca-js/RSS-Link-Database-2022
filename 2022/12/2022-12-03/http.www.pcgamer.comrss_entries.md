@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## A quick tour of Discworld MUD, one of the longest-running online games ever
  - [https://www.pcgamer.com/saturday-crapshoot-discworld-mud](https://www.pcgamer.com/saturday-crapshoot-discworld-mud)
@@ -48,3 +48,4 @@ A thorough investigation of quite possibly the most-modded character of the last
  - date published: 2022-12-03 08:05:46+00:00
 
 Wordle today: The solution and a hint for the #532 puzzle.
+

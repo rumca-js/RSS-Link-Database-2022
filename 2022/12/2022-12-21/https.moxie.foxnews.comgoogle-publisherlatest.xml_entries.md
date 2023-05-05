@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Deion Sanders' son, quarterback Shedeur, announces transfer to Colorado
  - [https://www.foxnews.com/sports/deion-sanders-son-quarterback-shedeur-announces-transfer-colorado](https://www.foxnews.com/sports/deion-sanders-son-quarterback-shedeur-announces-transfer-colorado)
@@ -1231,3 +1231,4 @@ An El Paso food bank is struggling to provide enough food and resources as a sur
  - date published: 2022-12-21 00:16:36+00:00
 
 Tampa Bay Buccaneers quarterback Tom Brady opened up about his Christmas plans and how he is going to "learn" how to deal with the new challenges in his life.
+

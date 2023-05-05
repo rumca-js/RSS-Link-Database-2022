@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Pierwsza kobieta w zarządzie Samsunga. Pokieruje działem odpowiedzialnym za smartfony
  - [https://ithardware.pl/aktualnosci/pierwsza_kobieta_w_zarzadzie_samsunga_pokieruje_dzialem_odpowiedzialnym_za_smartfony-24699.html](https://ithardware.pl/aktualnosci/pierwsza_kobieta_w_zarzadzie_samsunga_pokieruje_dzialem_odpowiedzialnym_za_smartfony-24699.html)
@@ -205,3 +205,4 @@ Kr&oacute;tki materiał koncentruje się na wydajności i charakterystyce...
 
 Nagroda...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_5-24613.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_5-24613.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Prezes banku centralnego: Węgry są blisko kryzysu, limity cen powinny zostać natychmiast wycofane
  - [https://www.bankier.pl/wiadomosc/Prezes-banku-centralnego-Wegry-sa-blisko-kryzysu-limity-cen-powinny-zostac-natychmiast-wycofane-8451725.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prezes-banku-centralnego-Wegry-sa-blisko-kryzysu-limity-cen-powinny-zostac-natychmiast-wycofane-8451725.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -403,3 +403,4 @@ relatywnie niskiego oprocentowania.</p>
  - date published: 2022-12-05 00:25:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/a/4/aeecb58b761af1-948-568-0-115-1513-908.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Na Kubie obowiązuje od czwartku nowy Kodeks Karny, który w intencji  władz ma zapobiec m.in. powtórzeniu się wielkich  demonstracji ulicznych  z lipca 2021 roku, największego  od przeszło pół wieku sprzeciwu społeczeństwa wobec polityki rządu, powiedziała  opozycyjna dziennikarka Yoani Sanchez.</p>
+

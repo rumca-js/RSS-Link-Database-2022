@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## World Health Organization meets to discuss granting of increased surveillance powers under pandemic treaty
  - [https://reclaimthenet.org/world-health-organization-surveillance-powers-pandemic-treaty/](https://reclaimthenet.org/world-health-organization-surveillance-powers-pandemic-treaty/)
@@ -55,3 +55,4 @@
 
 <a href="https://reclaimthenet.org/labour-legal-but-harmful/" rel="nofollow" title="UK: Labour lawmakers want to censor &#8220;legal but harmful&#8221; speech online"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/uk-osb.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>More speech restrictions</p>
 <p>The post <a href="https://reclaimthenet.org/labour-legal-but-harmful/" rel="nofollow">UK: Labour lawmakers want to censor &#8220;legal but harmful&#8221; speech online</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

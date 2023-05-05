@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Megan Thee Stallion: US jury finds Tory Lanez guilty of shooting hip-hop star
  - [https://www.bbc.co.uk/news/world-us-canada-64083515?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64083515?at_medium=RSS&at_campaign=KARANGA)
@@ -6,6 +6,13 @@
  - date published: 2022-12-23 23:57:11+00:00
 
 The Canadian rapper faces more than 20 years in jail for wounding the Grammy-winning hip-hop star in 2020.
+
+## Snowman composer reversions classic with TikTok violinist
+ - [https://www.bbc.co.uk/news/entertainment-arts-64006536?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64006536?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-23 23:25:15+00:00
+
+Esther Abrami has worked with The Snowman composer Howard Blake on a new arrangement.
 
 ## In pictures: Scotland's amazing Christmas trees
  - [https://www.bbc.co.uk/news/uk-scotland-63903914?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63903914?at_medium=RSS&at_campaign=KARANGA)
@@ -20,6 +27,13 @@ From royal palaces to glamorous restaurants to trees that aren't really trees.
  - date published: 2022-12-23 23:18:39+00:00
 
 Danube Street in Edinburgh was once home to Scotland's most famous brothel.
+
+## White Christmas forecast for parts of Scotland
+ - [https://www.bbc.co.uk/news/uk-scotland-64080993?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-64080993?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-23 23:16:04+00:00
+
+A Met Office yellow alert for snow and ice has been put in place for Christmas Day and Boxing Day.
 
 ## Kalvin Phillips: Pep Guardiola says Man City midfielder was 'overweight' after World Cup
  - [https://www.bbc.co.uk/sport/football/64081762?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64081762?at_medium=RSS&at_campaign=KARANGA)
@@ -175,6 +189,13 @@ Greater Manchester Police are appealing for information after a number of incide
 
 Money donated in memory of Queen Elizabeth is being used to help those unable to pay energy bills.
 
+## The Christmas questions you've been searching for
+ - [https://www.bbc.co.uk/news/uk-63989107?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63989107?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-23 14:23:50+00:00
+
+How does Santa visit everyone, and is there mince in mince pies: your Christmas questions answered.
+
 ## Kyra King: Mother admits losing control of dog that killed baby
  - [https://www.bbc.co.uk/news/uk-england-lincolnshire-64078112?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-lincolnshire-64078112?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -251,6 +272,13 @@ England World Cup winner George Cohen dies, aged 83, his former club Fulham anno
  - date published: 2022-12-23 10:34:54+00:00
 
 England's Sam Curran becomes the most expensive auction buy in the history of the Indian Premier League after being bought by Punjab Kings for £1.85m.
+
+## King George VI Chase: Bravemansgame heads Kempton contenders
+ - [https://www.bbc.co.uk/sport/horse-racing/64028072?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/horse-racing/64028072?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-23 10:33:42+00:00
+
+Bravemansgame heads nine horses declared for the King George VI Chase at Kempton on 26 December.
 
 ## The Traitors: Wilfred and Kieran are rooted out in BBC One finale
  - [https://www.bbc.co.uk/news/entertainment-arts-64074768?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64074768?at_medium=RSS&at_campaign=KARANGA)
@@ -419,3 +447,4 @@ Travellers arriving in the UK are warned to expect disruption and delays as staf
  - date published: 2022-12-23 00:00:21+00:00
 
 Migrants allowed into the US don't stay at the border long - this is how they decide where to go now.
+

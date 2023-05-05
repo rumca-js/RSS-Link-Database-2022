@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Key takeaways from Zelensky's historic visit to Washington
  - [https://www.cnn.com/2022/12/21/politics/takeaways-volodymyr-zelensky-visit-to-washington/index.html](https://www.cnn.com/2022/12/21/politics/takeaways-volodymyr-zelensky-visit-to-washington/index.html)
@@ -153,6 +153,13 @@ US President Joe Biden is expected to announce an additional $1.8 billion in sec
  - date published: 2022-12-21 15:20:27+00:00
 
 Pittsburgh Steelers great Franco Harris, who was arguably best known for one of the most iconic plays in NFL history -- dubbed the "Immaculate Reception" -- has died at the age of 72, the Pro Football Hall of Fame announced on Wednesday.
+
+## A bear that tangled with the wrong pig is one of 2022's top videos. See the moment
+ - [https://www.cnn.com/collections/videos-of-the-year-2022/](https://www.cnn.com/collections/videos-of-the-year-2022/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-21 15:16:32+00:00
+
+
 
 ## Thousands still without power after California earthquake
  - [https://www.cnn.com/2022/12/21/us/humboldt-county-california-earthquake-wednesday/index.html](https://www.cnn.com/2022/12/21/us/humboldt-county-california-earthquake-wednesday/index.html)
@@ -491,6 +498,13 @@ A federal appeals court on Tuesday rejected China Telecom Corp's challenge to a 
 
 After a near-fatal journey from Venezuela, 7-year-old Camila and her mother are waiting at the border near El Paso, Texas, hoping the Biden administration will lift a Trump-era policy that prevents asylum seekers from crossing the border.
 
+## Iran and Russia were too distracted to meddle in midterm elections, US general says
+ - [https://www.cnn.com/2022/12/19/politics/iran-russia-cyber-command-midterm-elections/index.html](https://www.cnn.com/2022/12/19/politics/iran-russia-cyber-command-midterm-elections/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-21 02:28:23+00:00
+
+Domestic unrest in Iran and Russia's war in Ukraine may have distracted Tehran and Moscow from making more of an effort to influence or interfere in the 2022 US midterm election, a top US military cyberofficial said Monday.
+
 ## Elon Musk says he will step down as Twitter CEO — once he finds a replacement
  - [https://www.cnn.com/2022/12/20/tech/elon-musk-twitter-ceo/index.html](https://www.cnn.com/2022/12/20/tech/elon-musk-twitter-ceo/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -567,3 +581,4 @@ CNN's Jake Tapper speaks with TikTok Head of Public Policy Michael Beckerman abo
  - date published: 2022-12-21 00:27:13+00:00
 
 Tension between Republican Reps. Lauren Boebert and Marjorie Taylor Greene has spilled into public view, with the two trading barbs over House Minority Leader Kevin McCarthy's campaign to be the next House Speaker.
+

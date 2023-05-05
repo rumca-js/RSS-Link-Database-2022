@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania. Przygotowania przed koronacją Karola III. Trzeba zmienić koronę?
  - [https://www.polsatnews.pl/wiadomosc/2022-12-04/wielka-brytania-przygotowania-przed-koronacja-karola-iii-trzeba-zmienic-korone/](https://www.polsatnews.pl/wiadomosc/2022-12-04/wielka-brytania-przygotowania-przed-koronacja-karola-iii-trzeba-zmienic-korone/)
@@ -69,3 +69,4 @@ Moi przyjaciele, chcę, aby wszyscy byli spokojni i pozytywnie myśleli. Jestem 
  - date published: 2022-12-04 05:46:00+00:00
 
 - Putin był zaskoczony taką porażką jego wojska w Ukrainie. Może to na pewien czas doprowadzić do zawężenia jego celów w kierunku tego kraju - podał w sobotę dyrektor wywiadu narodowego USA Avril Haines.
+

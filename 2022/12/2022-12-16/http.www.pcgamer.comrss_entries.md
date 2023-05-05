@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## This tropical survival game is scratching my Wind Waker itch by adding sailing and mysterious ruins
  - [https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins](https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins)
@@ -160,3 +160,4 @@ Wordle today: The solution and a hint for the #545 puzzle.
  - date published: 2022-12-16 01:50:40+00:00
 
 Yep, more Henry Cavill news. We're changing our name to HC Gamer.
+

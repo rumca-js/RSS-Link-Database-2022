@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## This Is How ‘Hard’ Your Typical Workout Should Be
  - [https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561](https://lifehacker.com/this-is-how-hard-your-typical-workout-should-be-1849759561)
@@ -125,3 +125,4 @@
  - date published: 2022-12-27 13:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--fqIHsJpZ--/c_fit,fl_progressive,q_80,w_636/bebf6d3aeb2a63a339dda8f582831a0e.jpg" /><p>The holiday pressure is over! Hopefully the presents are opened, the relatives have traveled back home, and things are extra light at work. That means it’s the perfect time to check out some funny, heartwarming, and otherwise just plain incredible videos from the past year. Each of these 25 videos went viral to some…</p><p><a href="https://lifehacker.com/25-of-the-greatest-viral-videos-of-2022-1849917629">Read more...</a></p>
+

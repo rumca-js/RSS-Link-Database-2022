@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
+# Source:Sorelle Amore Finance, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, language:en-US
 
 ## The "Mother Of All Crashes" is almost here (Michael Burry's new prediction)
  - [https://www.youtube.com/watch?v=3uZQ-PrtjiQ](https://www.youtube.com/watch?v=3uZQ-PrtjiQ)
@@ -48,3 +48,4 @@ This video is sponsored by Masterworks.
 See important Masterworks disclosures: http://masterworks.io/cd 
 
 #MichaelBurry #FinancialCrash #Economy
+

@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## Łatajcie się szybko do iOS 16.2. Można złowrogim filmikiem wykonać kod na telefonie z uprawnieniami roota (albo i mocniej)
  - [https://sekurak.pl/latajcie-sie-szybko-do-ios-16-2-mozna-zlowrogim-filmikiem-wykonac-kod-na-telefonie-z-uprawnieniami-roota-albo-i-mocniej/](https://sekurak.pl/latajcie-sie-szybko-do-ios-16-2-mozna-zlowrogim-filmikiem-wykonac-kod-na-telefonie-z-uprawnieniami-roota-albo-i-mocniej/)
@@ -31,3 +31,4 @@
 
 <p>Sophos donosi że wykrył w działaniach grupy ransomware Cuba, złośliwy sterownik jądra Windows, który był prawidłowo podpisany. Warto wspomnieć, że Windows wymaga podpisu takich sterowników aby zapobiec nadużyciom. Z kolei tego typu &#8222;lewy&#8221; sterownik może być użyty do omijania / wyłączania zaawansowanych mechanizmów chroniących przed malware (np. EDR), jednak wcześniej...</p>
 <p>Artykuł <a href="https://sekurak.pl/atakujacy-wchodza-na-nowy-poziom-malware-podpisany-prawidlowymi-certyfikatami-microsofts-windows-hardware-developer-program/" rel="nofollow">Atakujący wchodzą na nowy poziom. Malware podpisany prawidłowymi certyfikatami Microsoft’s Windows Hardware Developer Program.</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

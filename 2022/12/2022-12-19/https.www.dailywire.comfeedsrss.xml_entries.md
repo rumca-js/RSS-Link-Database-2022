@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Stacey Abrams Campaign Claims To Be In Debt After More Than $100 Million Raised
  - [https://www.dailywire.com/news/stacey-abrams-campaign-claims-to-be-in-debt-after-more-than-100-million-raised](https://www.dailywire.com/news/stacey-abrams-campaign-claims-to-be-in-debt-after-more-than-100-million-raised)
@@ -384,3 +384,4 @@ Twitter strongly voted for Twitter CEO Elon Musk to step down as the head of the
  - date published: 2022-12-19 05:56:36+00:00
 
 Twitter CEO Elon Musk apologized on Sunday for instituting a new policy that sparked a flurry of negative comments that ultimately led to him reversing course. During the World Cup, the company announced it would suspend, and potentially ban, Twitter users who promoted certain rival social media platforms. The changes were widely viewed as an ...
+

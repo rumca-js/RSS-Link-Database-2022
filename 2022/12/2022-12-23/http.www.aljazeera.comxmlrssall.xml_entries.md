@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## US Congress passes new election rules in response to January 6
  - [https://www.aljazeera.com/news/2022/12/23/us-passes-new-election-rules-in-response-to-january-6](https://www.aljazeera.com/news/2022/12/23/us-passes-new-election-rules-in-response-to-january-6)
@@ -391,3 +391,4 @@ A right-wing dictatorship that ruled Argentina from 1976 to 1983 systematically 
  - date published: 2022-12-23 00:11:54+00:00
 
 The 4,155-page spending bill includes $858bn for military spending and $45bn in additional assistance for Ukraine.
+

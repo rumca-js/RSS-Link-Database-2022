@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Google and Meta Embrace Full-Court Strategy Against Media Ad Revenue Sharing Proposal
  - [https://theintercept.com/2022/12/07/google-facebook-ads-news-jcpa/](https://theintercept.com/2022/12/07/google-facebook-ads-news-jcpa/)
@@ -31,3 +31,4 @@
 
 <p>Italy's new prime minister, Giorgia Meloni, has inspired a surge of far-right threats and attacks against journalists and critics.</p>
 <p>The post <a href="https://theintercept.com/2022/12/07/italy-giorgia-meloni-journalists/" rel="nofollow">&#8220;We&#8217;re Coming for You&#8221;: Journalists Are Targeted as Italy&#8217;s Neofascists Rise to Power</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

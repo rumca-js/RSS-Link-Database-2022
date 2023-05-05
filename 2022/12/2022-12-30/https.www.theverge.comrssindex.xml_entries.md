@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Meta acquires smart lensmaker Luxexcel as it works toward AR glasses goal
  - [https://www.theverge.com/2022/12/30/23532567/meta-acquires-lensmaker-luxexcel-ar-glasses](https://www.theverge.com/2022/12/30/23532567/meta-acquires-lensmaker-luxexcel-ar-glasses)
@@ -160,3 +160,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/29/23531770/google-voice-spam-call-warning-enhanced-protection">Continue reading&hellip;</a>
   </p>
+

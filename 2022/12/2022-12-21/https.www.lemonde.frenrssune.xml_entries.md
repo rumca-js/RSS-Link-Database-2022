@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Israel: After weeks of difficult negotiations, Benjamin Netanyahu announces a new government
  - [https://www.lemonde.fr/en/international/article/2022/12/22/israel-prime-minister-announces-a-new-government_6008642_4.html](https://www.lemonde.fr/en/international/article/2022/12/22/israel-prime-minister-announces-a-new-government_6008642_4.html)
@@ -158,9 +158,15 @@ The majority is counting on the support of right-wing party Les Républicains to
  - [https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html](https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-21 07:23:50+00:00
- - tags: covid,china,statistics
 
 The government announced that only those who directly died of respiratory failure caused by the virus would be counted under Covid death statistics.
+
+## Christmas recipes from our homes to yours: 'Le Monde' in English's favorite dishes
+ - [https://www.lemonde.fr/en/food/article/2022/12/21/christmas-recipes-from-our-homes-to-yours-le-monde-in-english-s-favorite-dishes_6008565_119.html](https://www.lemonde.fr/en/food/article/2022/12/21/christmas-recipes-from-our-homes-to-yours-le-monde-in-english-s-favorite-dishes_6008565_119.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-21 07:00:07+00:00
+
+The United States, Ireland, Australia, France and beyond: The team behind 'Le Monde' in English is sharing its best Christmas recipes from all over the world.
 
 ## Zelensky plans US visit in first trip abroad since war began
  - [https://www.lemonde.fr/en/international/article/2022/12/21/zelensky-plans-us-visit-in-first-trip-abroad-since-war-began_6008559_4.html](https://www.lemonde.fr/en/international/article/2022/12/21/zelensky-plans-us-visit-in-first-trip-abroad-since-war-began_6008559_4.html)
@@ -238,3 +244,4 @@ A proposal, approved by legislators on Tuesday, would push up to April 2024 elec
  - date published: 2022-12-21 00:24:03+00:00
 
 Consumers are looking for discounts and low prices by any means, multiplying shopping channels, buying large quantities and stocking up. New players are emerging.
+

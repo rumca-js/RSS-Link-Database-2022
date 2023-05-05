@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Fortnite Adds New My Hero Academia Themed Mode | GameSpot News
  - [https://www.gamespot.com/videos/fortnite-adds-new-my-hero-academia-themed-mode-gamespot-news/2300-6460267/](https://www.gamespot.com/videos/fortnite-adds-new-my-hero-academia-themed-mode-gamespot-news/2300-6460267/)
@@ -314,3 +314,4 @@
  - date published: 2022-12-16 00:07:00+00:00
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4077984-20221215_steamdeck2details_newsv2.jpg" width="480" /> Valve shares details on the future of the Steam Deck, Spider-Man 2 gets a smaller release window, and some new details on Starfield.
+

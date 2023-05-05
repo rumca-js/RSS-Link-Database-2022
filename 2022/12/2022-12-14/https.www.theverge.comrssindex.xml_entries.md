@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Google’s making code formatting a breeze in Docs
  - [https://www.theverge.com/2022/12/14/23509936/google-docs-code-blocks-smart-canvas](https://www.theverge.com/2022/12/14/23509936/google-docs-code-blocks-smart-canvas)
@@ -572,3 +572,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/13/23508269/tesla-holiday-update-steam-apple-music-support-light-show-mode">Continue reading&hellip;</a>
   </p>
+

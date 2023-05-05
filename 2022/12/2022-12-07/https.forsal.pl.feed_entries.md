@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Rabobank podejrzewany o naruszenie ustawy o zapobieganiu praniu pieniędzy
  - [https://forsal.pl/biznes/bankowosc/artykuly/8605678,rabobank-podejrzewany-o-naruszenie-ustawy-o-zapobieganiu-praniu-pieniedzy.html](https://forsal.pl/biznes/bankowosc/artykuly/8605678,rabobank-podejrzewany-o-naruszenie-ustawy-o-zapobieganiu-praniu-pieniedzy.html)
@@ -594,3 +594,4 @@
  - date published: 2022-12-07 05:30:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/EgtktkuTURBXy9mYTg0ZTA5YS0wM2JiLTRiNmMtYTcyOC1kYTU2ODkxZWFmYjkuanBlZ5GTBc0BHcyg" />Prawie 40 000 km – Niemcy to państwo z największą siecią kolejową w Europie. Jakie kraje znalazły się jeszcze w zestawieniu Komisji Europejskiej, o którym informuje Statista.
+

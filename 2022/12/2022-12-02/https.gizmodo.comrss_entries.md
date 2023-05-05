@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## This Week's Toy News Has Big Mechs, Big Knights, and Big Pokémon
  - [https://gizmodo.com/lego-marvel-star-wars-2023-sets-figma-demons-souls-1849825711](https://gizmodo.com/lego-marvel-star-wars-2023-sets-figma-demons-souls-1849825711)
@@ -272,3 +272,4 @@
  - date published: 2022-12-02 00:00:00+00:00
 
 <video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--mqBd-6pt--/c_fit,fl_progressive,q_80,w_636/a06508e76dee217d211fa7b5be524e97.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--_HwTYv0h--/c_fit,fl_progressive,q_80,w_636/a06508e76dee217d211fa7b5be524e97.mp4" type="video/mp4" /></video><p>Now that we know a <a href="https://gizmodo.com/youre-going-to-have-to-wait-longer-for-indiana-jones-5-1827217390">fifth <em>Indiana Jones</em> film</a> actually exists, is coming out, and even has a real title, it’s time to dig a little deeper. <a href="https://gizmodo.com/indiana-jones-5-trailer-harrison-ford-lucasfilm-disney-1849798758?rev=1669929593577">Thursday’s reveal of the first trailer</a> for <em>Indiana Jones and the Dial of Destiny</em> was <a href="https://gizmodo.com/indiana-jones-5-macguffin-speculation-harrison-ford-1849149004">chock full of recognizable</a> Indy action with plenty of Nazi punching, cave exploring, and train…</p><p><a href="https://gizmodo.com/indiana-jones-5-trailer-breakdown-dial-of-destiny-ford-1849843527">Read more...</a></p>
+

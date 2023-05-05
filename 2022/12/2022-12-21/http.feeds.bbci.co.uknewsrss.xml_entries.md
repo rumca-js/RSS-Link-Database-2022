@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Newspaper headlines: 'Fears for sick' and PM's 'silence' over strike
  - [https://www.bbc.co.uk/news/blogs-the-papers-64060257?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-64060257?at_medium=RSS&at_campaign=KARANGA)
@@ -6,6 +6,13 @@
  - date published: 2022-12-21 23:49:58+00:00
 
 The impact of NHS strikes dominates the front pages of Thursday's newspapers.
+
+## Marcus Rashford: Manchester United forward not dwelling on England World Cup exit
+ - [https://www.bbc.co.uk/sport/football/64060653?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64060653?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-21 23:35:02+00:00
+
+Marcus Rashford says there is no time to dwell on England's untimely World Cup exit after his superb solo goal in Manchester United's win over Burnley.
 
 ## Iran protesters 'too scared to go to hospital'
  - [https://www.bbc.co.uk/news/world-middle-east-64042717?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-64042717?at_medium=RSS&at_campaign=KARANGA)
@@ -28,6 +35,13 @@ Watch highlights of Wednesday's Scottish Premiership match between Celtic and Li
 
 The Ukrainian president takes his first foreign trip since Russia invaded his country in February.
 
+## Celtic: Liel Abada stars as Postecoglou faces Groundhog Day
+ - [https://www.bbc.co.uk/sport/football/64059972?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64059972?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-21 23:05:34+00:00
+
+BBC Scotland's Tom English looks at Liel Abada's influence as a familiar feeling sets in for Ange Postecoglou's Celtic after beating Livingston.
+
 ## The people who rent the same Christmas tree year after year
  - [https://www.bbc.co.uk/news/uk-scotland-64052537?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-64052537?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -41,6 +55,13 @@ Some people are choosing to hire their Christmas tree to try to reduce waste and
  - date published: 2022-12-21 22:57:12+00:00
 
 Seen as a symbol of Christmas in Australia, the beetles seem to have gone missing in recent years.
+
+## Sports Personality of the Year 2022: Beth Mead targets World Cup with England
+ - [https://www.bbc.co.uk/sport/sports-personality/64060304?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/sports-personality/64060304?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-21 22:45:40+00:00
+
+Beth Mead is targeting a return for the World Cup with England in 2023 after becoming the first female footballer to win BBC Sports Personality of the Year.
 
 ## Battle of the Brits 2022: Andy Murray beats Jack Draper after Dan Evans wins opener
  - [https://www.bbc.co.uk/sport/tennis/64058507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/64058507?at_medium=RSS&at_campaign=KARANGA)
@@ -97,6 +118,20 @@ Celtic restore their nine-point lead at the summit of the Scottish Premiership a
  - date published: 2022-12-21 21:41:33+00:00
 
 Brazil great Pele's cancer is getting worse, according to the hospital where the 82-year-old is being treated.
+
+## Sports Personality of the Year 2022: Beth Mead crowned winner
+ - [https://www.bbc.co.uk/sport/av/sports-personality/64060228?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/sports-personality/64060228?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-21 21:38:07+00:00
+
+England and Arsenal forward Beth Mead has been voted BBC Sports Personality of the Year 2022.
+
+## Sports Personality 2022: Honouring the sports stars we lost in 2022
+ - [https://www.bbc.co.uk/sport/av/sports-personality/64059162?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/sports-personality/64059162?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-21 21:25:08+00:00
+
+Sports stars who passed away in 2022 are honoured at this year's Sports Personality of the Year event.
 
 ## Beth Mead wins Sports Personality of the Year
  - [https://www.bbc.co.uk/sport/sports-personality/64045751?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/sports-personality/64045751?at_medium=RSS&at_campaign=KARANGA)
@@ -195,6 +230,13 @@ Former Pittsburgh Steelers running back Franco Harris, who made the 'Immaculate 
  - date published: 2022-12-21 16:15:09+00:00
 
 The plane had flown from the Gambia to the West Sussex airport on 7 December.
+
+## The UK asylum system in seven charts
+ - [https://www.bbc.co.uk/news/uk-53699511?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-53699511?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-21 15:58:52+00:00
+
+How many people seek asylum in the UK versus other countries, and how many are allowed to stay?
 
 ## Glaswegian who 'invented' chicken tikka masala dies
  - [https://www.bbc.co.uk/news/uk-scotland-glasgow-west-64055639?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-64055639?at_medium=RSS&at_campaign=KARANGA)
@@ -496,3 +538,4 @@ Lamor Whitehead was robbed of more than $1m in jewellery during a livestreamed s
  - date published: 2022-12-21 00:02:54+00:00
 
 Almost 90% of pubs are considering shorter opening hours over winter as bills rise, according to a new survey.
+

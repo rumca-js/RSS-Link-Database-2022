@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## US Attorney General calls for end to cocaine sentencing disparity
  - [https://www.aljazeera.com/news/2022/12/16/us-attorney-general-calls-for-end-to-cocaine-sentencing-disparity](https://www.aljazeera.com/news/2022/12/16/us-attorney-general-calls-for-end-to-cocaine-sentencing-disparity)
@@ -377,3 +377,4 @@ Pyongyang wants to build more solid-fuel missiles, which are more stable and can
  - date published: 2022-12-16 00:46:44+00:00
 
 Six men held for years after trying to get to Australia by boat look forward to starting new lives in New Zealand.
+

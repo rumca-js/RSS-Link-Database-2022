@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Odległa galaktyka zapisze się w historii. Kosmiczny Teleskop Jamesa Webba ustanowił rekord
  - [https://www.chip.pl/2022/12/odlegla-galaktyka-kosmiczny-teleskop-jamesa-webba](https://www.chip.pl/2022/12/odlegla-galaktyka-kosmiczny-teleskop-jamesa-webba)
@@ -79,3 +79,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="870" src="https://konto.chip.pl/wp-content/uploads/2022/12/egzoplaneta-janssen.jpg" style="margin-bottom: 10px;" width="1280" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/egzoplaneta-janssen.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Nawet w Układzie Słonecznym moglibyśmy znaleźć planety, które na powierzchni mają temperatury uniemożliwiające jakiekolwiek funkcjonowanie. Mimo to Wenus czy Merkury są przy tym obiekcie niczym łagodne baranki. Mówimy bowiem o 55 Cancri e, znanej również pod nazwą Janssen. Analizy orbity tej planety oraz orbit innych obiektów o podobnych właściwościach dostarczyły astronomom informacji na temat ich [&#8230;]</p>
+

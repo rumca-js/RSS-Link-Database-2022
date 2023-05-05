@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Former Google CEO Eric Schmidt is helping to fund the salaries of dozens of Biden officials
  - [https://reclaimthenet.org/eric-schmidt-biden-official-salaries/](https://reclaimthenet.org/eric-schmidt-biden-official-salaries/)
@@ -20,7 +20,6 @@
  - [https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/](https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-25 15:23:08+00:00
- - tags: moderation,tracking,fbi,privacy,social media
 
 <a href="https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/" rel="nofollow" title="The FBI won&#8217;t name other social media companies it pays"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/fbi-twitter3.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The FBI says it reimburses platforms for the cost of its requests.</p>
 <p>The post <a href="https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/" rel="nofollow">The FBI won&#8217;t name other social media companies it pays</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -32,3 +31,4 @@
 
 <a href="https://reclaimthenet.org/the-fbi-flagged-tweets-on-ukraine-and-vaccines/" rel="nofollow" title="The FBI flagged tweets on Ukraine and vaccines"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/fbi-ukr-vax.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Twitter execs couldn't link the tweets to the foreign influence campaigns the FBI was alleging.</p>
 <p>The post <a href="https://reclaimthenet.org/the-fbi-flagged-tweets-on-ukraine-and-vaccines/" rel="nofollow">The FBI flagged tweets on Ukraine and vaccines</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Is plane tracking doxxing? How public data enraged Elon Musk.
  - [https://www.washingtonpost.com/technology/2022/12/17/elon-musk-jet-tracker-doxxing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/17/elon-musk-jet-tracker-doxxing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ The jet tracking account was permanently suspended from Twitter. Elon Musk doesn
  - date published: 2022-12-17 07:00:02+00:00
 
 How to get started on social-media site Mastodon, whether you're leaving Twitter or just looking for people who have.
+

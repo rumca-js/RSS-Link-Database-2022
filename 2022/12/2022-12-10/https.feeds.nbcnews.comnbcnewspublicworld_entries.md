@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## France tops England 2-1 to advance to World Cup semifinals
  - [https://www.nbcnews.com/news/sports/france-tops-england-2-1-advance-world-cup-semifinals-rcna61129](https://www.nbcnews.com/news/sports/france-tops-england-2-1-advance-world-cup-semifinals-rcna61129)
@@ -69,3 +69,4 @@ Videos showing the turbulent journey to Antarctica have taken off on TikTok in r
  - date published: 2022-12-10 00:01:54+00:00
 
 WNBA star Brittney Griner is back in the U.S., touching down in Texas where military doctors will check her physical and mental health and where she reunited with her wife Cherelle. NBC News’ Andrea Mitchell has more details on the prisoner swap.
+

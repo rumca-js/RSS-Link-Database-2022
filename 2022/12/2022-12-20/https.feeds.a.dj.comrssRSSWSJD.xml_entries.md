@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Musk Casts Doubt on Poll Wanting Him Gone as Twitter Head
  - [https://www.wsj.com/articles/elon-musk-casts-doubt-on-poll-wanting-him-gone-as-twitter-head-11671578391?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-casts-doubt-on-poll-wanting-him-gone-as-twitter-head-11671578391?mod=rss_Technology)
@@ -62,3 +62,4 @@ Made-to-fit industry clouds offer CIOs the promise of cost savings and vendors a
  - date published: 2022-12-20 11:00:00+00:00
 
 Caden Inc. hopes to give users thousands of dollars a year under one option of its data-sharing system, with lesser payments for more limited information.
+

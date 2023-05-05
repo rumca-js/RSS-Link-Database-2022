@@ -1,4 +1,46 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Hundreds of Florida 'Surfing Santas' brave freezing Christmas Eve temperatures to surf for charity
+ - [https://www.foxnews.com/us/hundreds-florida-surfing-santas-brave-freezing-christmas-eve-temperatures-surf-charity](https://www.foxnews.com/us/hundreds-florida-surfing-santas-brave-freezing-christmas-eve-temperatures-surf-charity)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-24 23:38:34+00:00
+
+Thousands of people braved freezing temperatures in Florida to attend a "Surfing Santas" event that has raised hundreds of thousands of dollars for charity.
+
+## Twitter Files author Taibbi slams Dem congressman after accusation of 'gaslighting' Americans
+ - [https://www.foxnews.com/politics/twitter-files-author-slams-dem-congressman-after-accusation-gaslighting-americans](https://www.foxnews.com/politics/twitter-files-author-slams-dem-congressman-after-accusation-gaslighting-americans)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-24 23:22:28+00:00
+
+Twitter Files author Matt Taibbi is responding to Rep. Ted Lieu, D-Calif., who accused him of "gaslighting" Americans with the revelations into Twitter's previous conduct.
+
+## Steelers players honor Franco Harris by wearing his jersey ahead of retiring late running back's number
+ - [https://www.foxnews.com/sports/steelers-players-honor-franco-harris-wearing-jersey-ahead-late-running-backs-number-retirement](https://www.foxnews.com/sports/steelers-players-honor-franco-harris-wearing-jersey-ahead-late-running-backs-number-retirement)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-24 23:18:20+00:00
+
+Members of the Pittsburgh Steelers paid homage to Franco Harris, who died earlier this week, ahead of his number retirement ceremony on Saturday.
+
+## Chiefs gift head coach Andy Reid with juicy Christmas present after win
+ - [https://www.foxnews.com/sports/chiefs-gift-head-coach-andy-reid-juicy-christmas-present-win](https://www.foxnews.com/sports/chiefs-gift-head-coach-andy-reid-juicy-christmas-present-win)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-24 22:58:40+00:00
+
+Andy Reid had to brave out below-zero wind chills during the Kansas City Chiefs' win on Sunday, so his players gave him a gift in the locker room.
+
+## Chiefs take down Seahawks with wind chill in the negatives
+ - [https://www.foxnews.com/sports/chiefs-take-down-seahawks-wind-chill-negatives](https://www.foxnews.com/sports/chiefs-take-down-seahawks-wind-chill-negatives)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-24 22:56:03+00:00
+
+The Kansas City Chiefs are still tied for the best record in the AFC after they took down the Seattle Seahawks in maybe the coldest game of the year.
+
+## Panthers keep playoff hopes alive, hurt Lions' with upset victory
+ - [https://www.foxnews.com/sports/panthers-keep-playoff-hopes-alive-hurt-lions-with-upset-victory](https://www.foxnews.com/sports/panthers-keep-playoff-hopes-alive-hurt-lions-with-upset-victory)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-24 22:52:23+00:00
+
+The Carolina Panthers are still alive for the NFC South title after D'Onta Foreman ran for a career-high 165 yards in their 37-23 victory over the Lions.
 
 ## Former Georgia quarterback talks Stetson Bennett, Bulldogs CFP matchup with Ohio State
  - [https://www.foxnews.com/sports/former-georgia-quarterback-talks-stetson-bennett-bulldogs-cfp-matchup-with-ohio-state](https://www.foxnews.com/sports/former-georgia-quarterback-talks-stetson-bennett-bulldogs-cfp-matchup-with-ohio-state)
@@ -657,3 +699,4 @@ An airman at Shaw Air Force Base in South Carolina shot a person who was attempt
  - date published: 2022-12-24 00:31:53+00:00
 
 President Joe Biden was criticized for his holiday speech's focus on unity, with critics saying he has been anything but a unifying president.
+

@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## North Korea has delivered rockets, missiles to Russian Wagner Group mercenaries for use in Ukraine, White House says
  - [https://www.nbcnews.com/news/world/north-korea-missiles-russian-mercenary-wagner-ukraine-rcna63002](https://www.nbcnews.com/news/world/north-korea-missiles-russian-mercenary-wagner-ukraine-rcna63002)
@@ -13,6 +13,13 @@ North Korea has delivered rockets and missiles to the Russian private military c
  - date published: 2022-12-22 19:06:02+00:00
 
 The record-long wait times for Indian nationals to get a tourist visa to the U.S. is frustrating many and threatens to stymie immigration, experts say.
+
+## 2022: Headlines, Highlights and History
+ - [https://www.nbcnews.com/now/video/2022-headlines-highlights-and-history-158481989528](https://www.nbcnews.com/now/video/2022-headlines-highlights-and-history-158481989528)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2022-12-22 16:58:42+00:00
+
+A look back at the major stories that defined 2022 – including the War in Ukraine, a year of transition for the Royal Family, and the social trends that got everyone talking. Hosted by Joe Fryer and Savannah Sellers.
 
 ## Pele's health worsens as loved ones of Brazilian soccer legend rally to his bedside
  - [https://www.nbcnews.com/news/latin-america/peles-health-worsens-loved-ones-brazilian-soccer-legend-rally-bedside-rcna62930](https://www.nbcnews.com/news/latin-america/peles-health-worsens-loved-ones-brazilian-soccer-legend-rally-bedside-rcna62930)
@@ -104,3 +111,4 @@ Ukrainian President Volodymyr Zelenskyy addressed Congress during his first know
  - date published: 2022-12-22 00:00:33+00:00
 
 An NBC team spent weeks inside the bombed out city of Izium, Ukraine hearing the stories of those who survived the worst of Russia’s war. Despite relentless bombardment, air strikes, and allegations of torture by occupying Russian forces, the people of this once idyllic city are unbowed.
+

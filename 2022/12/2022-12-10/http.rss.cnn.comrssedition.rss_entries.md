@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Hae Min Lee's brother is requesting a redo of the hearing that vacated Adnan Syed's murder conviction
  - [https://www.cnn.com/2022/12/10/us/hae-min-lee-family-request-redo-hearing-adnan-syed-conviction-vacated/index.html](https://www.cnn.com/2022/12/10/us/hae-min-lee-family-request-redo-hearing-adnan-syed-conviction-vacated/index.html)
@@ -356,3 +356,4 @@ The congressman-elect set to become the first member of Generation Z to serve in
  - date published: 2022-12-10 00:04:58+00:00
 
 Ahead of its World Cup quarterfinal against France, England has a problem to solve. Namely, how to stop the tournament's top scorer, Kylian Mbappé, from adding to his tally.
+

@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Gigantyczne wieże miały powstać przy plaży w Międzyzdrojach. Deweloper zmienia zdanie
  - [https://businessinsider.com.pl/gospodarka/dwie-wieze-mialy-powstac-przy-plazy-jest-zwrot-akcji/fdnxm92](https://businessinsider.com.pl/gospodarka/dwie-wieze-mialy-powstac-przy-plazy-jest-zwrot-akcji/fdnxm92)
@@ -188,3 +188,4 @@ Choć wojna na Ukrainie trwa od 24 lutego br., to ustawy z tzw. tarczy energetyc
  - date published: 2022-12-10 05:08:00+00:00
 
 Wojsko wzywa na ćwiczenia – nawet ludzi, którzy nigdy nie mieli nic wspólnego z mundurem. Ja jestem właśnie taką osobą. Tylko ja się zgłosiłem do armii samemu i spędziłem w jednostce cały dzień. Oto co się działo – i czy czuję się przez to choć odrobinę bezpieczniejszy.
+

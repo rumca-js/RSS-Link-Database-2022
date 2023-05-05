@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## 'Americans prepared to stand up to bullies': Biden 'not worried' about international support for Ukraine
  - [https://news.sky.com/story/americans-prepared-to-stand-up-to-bullies-joe-biden-not-worried-about-international-support-for-ukraine-12772822](https://news.sky.com/story/americans-prepared-to-stand-up-to-bullies-joe-biden-not-worried-about-international-support-for-ukraine-12772822)
@@ -97,3 +97,4 @@ This will be a big moment in the war in Ukraine.
  - date published: 2022-12-21 07:54:00+00:00
 
 Eight teenage girls who apparently met on social media have been charged with murder after a man was stabbed to death in Toronto.&#160;
+

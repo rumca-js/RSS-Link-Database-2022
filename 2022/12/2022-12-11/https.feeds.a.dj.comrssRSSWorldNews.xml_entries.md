@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## U.S. Builds New Firewall to Stop Spread of Militant Islamists
  - [https://www.wsj.com/articles/u-s-builds-new-firewall-to-stop-spread-of-militant-islamists-11670771719](https://www.wsj.com/articles/u-s-builds-new-firewall-to-stop-spread-of-militant-islamists-11670771719)
@@ -41,3 +41,4 @@ President Biden and senior advisers, in last-minute negotiations with world lead
  - date published: 2022-12-11 10:12:00+00:00
 
 Ukrainian President Volodymyr Zelensky said 1.5 million people in the region were without power, with only critical infrastructure connected to the power grid.
+

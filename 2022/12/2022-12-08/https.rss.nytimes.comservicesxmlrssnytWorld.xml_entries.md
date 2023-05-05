@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Who Is Dina Boluarte, Peru’s New and First Woman President?
  - [https://www.nytimes.com/2022/12/08/world/americas/dina-boluarte-peru-president.html](https://www.nytimes.com/2022/12/08/world/americas/dina-boluarte-peru-president.html)
@@ -244,3 +244,4 @@ A plot to overthrow the government in Germany.
  - date published: 2022-12-08 00:00:10+00:00
 
 Vladimir Putin appeared to acknowledge that subduing Russia’s neighbor was taking longer than expected, but said there was no need for another draft now.
+

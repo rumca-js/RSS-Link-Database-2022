@@ -1,4 +1,18 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Blizzard, Bluster, And Bombs: Christmas Eve At The Siege Of Bastogne, 1944
+ - [https://www.dailywire.com/news/blizzard-bluster-and-bombs-christmas-eve-at-the-siege-of-bastogne-1944](https://www.dailywire.com/news/blizzard-bluster-and-bombs-christmas-eve-at-the-siege-of-bastogne-1944)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-24 18:25:33+00:00
+
+American service members have often spent their holidays away from loved ones — and in harm&#8217;s way — and the men who found themselves in the besieged Belgian city of Bastogne just before Christmas of 1944 were no exception. Bastogne, which sits just a few miles from the border of Luxembourg, had been under German ...
+
+## Fiancée Of Texas Basketball Coach Changes Story: He Didn’t Strangle Me, He Acted In Self-Defense
+ - [https://www.dailywire.com/news/fiancee-of-texas-basketball-coach-changes-story-he-didnt-strangle-me-he-acted-in-self-defense](https://www.dailywire.com/news/fiancee-of-texas-basketball-coach-changes-story-he-didnt-strangle-me-he-acted-in-self-defense)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-24 17:58:04+00:00
+
+The fiancée of University of Texas head men&#8217;s basketball coach Chris Beard said Friday that he did not strangle her and she did not want him arrested, a stark turn around from the story that emerged early this month. Beard, 49, was arrested on December 12 after the Austin Police Department reportedly responded to a “disturbance ...
 
 ## TikTok Personality Gets Sued After Accusing Professor Of Murdering 4 Students At University Of Idaho
  - [https://www.dailywire.com/news/tiktok-personality-gets-sued-after-accusing-professor-of-murdering-4-students-at-university-of-idaho](https://www.dailywire.com/news/tiktok-personality-gets-sued-after-accusing-professor-of-murdering-4-students-at-university-of-idaho)
@@ -125,3 +139,4 @@ Democratic New York City Mayor Eric Adams skipped town as the Big Apple braced f
  - date published: 2022-12-24 09:40:22+00:00
 
 A performing arts center in part funded by Tennessee taxpayers hosted an “all ages” drag show last month as Republicans in the Volunteer State propose protecting children from “sexually explicit” performances.  Over the Thanksgiving weekend, the James K. Polk Theatre, a part of the Tennessee Performing Arts Center (TPAC), hosted a presentation of “A Drag ...
+

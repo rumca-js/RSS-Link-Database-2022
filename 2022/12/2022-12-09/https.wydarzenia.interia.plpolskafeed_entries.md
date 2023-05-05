@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Szumowski o leczeniu Lisa. "Czy jest świętym, czy grzesznikiem, nie jest ważne"
  - [https://wydarzenia.interia.pl/kraj/news-szumowski-o-leczeniu-lisa-czy-jest-swietym-czy-grzesznikiem-,nId,6463066](https://wydarzenia.interia.pl/kraj/news-szumowski-o-leczeniu-lisa-czy-jest-swietym-czy-grzesznikiem-,nId,6463066)
@@ -20,3 +20,4 @@
  - date published: 2022-12-09 07:12:56+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-przestroga-dla-emerytow-nie-spelnil-jednego-obowiazku-musi-z,nId,6460757"><img align="left" alt="Przestroga dla emerytów: Nie spełnił jednego obowiązku. Musi zapłacić 1651 zł" src="https://i.iplsc.com/przestroga-dla-emerytow-nie-spelnil-jednego-obowiazku-musi-z/000GGLBBIYAKX1DS-C321.jpg" /></a>71-latni Włodzimierz był przekonany, że nie musi płacić abonamentu. Spełniał wszystkie ustawowe kryteria. Mocno się zdziwił, gdy w lipcu dostał pismo z Poczty Polskiej wzywające go do zapłaty zaległych 1651 złotych. Poczta Polska podkreśla, że zwolnienie z opłat nie następuje automatycznie. Trzeba jeszcze to zgłosić na poczcie. To przestroga dla innych emerytów, którzy za radą sąsiadów po prostu przestają płacić abonament.</p><br clear="all" />
+

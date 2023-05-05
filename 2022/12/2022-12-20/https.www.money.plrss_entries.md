@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Putin ciągnie Białoruś na wojnę? Łukaszenka mógłby tego pożałować
  - [https://www.money.pl/gospodarka/putin-ciagnie-bialorus-na-wojne-lukaszenka-moglby-tego-pozalowac-6846678027897664a.html](https://www.money.pl/gospodarka/putin-ciagnie-bialorus-na-wojne-lukaszenka-moglby-tego-pozalowac-6846678027897664a.html)
@@ -118,3 +118,4 @@
  - date published: 2022-12-20 06:02:23+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/40bd9b37-ed90-456f-b62d-745aaaefacad" width="308" /> Od 2018 r. nie było takiego poparcia dla euro. Ok. 54 proc. szefów średnich i dużych firm chciałoby przyjęcia unijnej waluty i rezygnacji ze złotego. To efekt wojny w Ukrainie, rosnącej inflacji i słabości samego złotego - wynika z raportu Grant Thornton.
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Hybrid Workplaces Are Great, But May Feel Too Transactional
  - [https://www.forbes.com/sites/joemckendrick/2022/12/19/hybrid-workplaces-are-great-but-may-feel-too-transactional/](https://www.forbes.com/sites/joemckendrick/2022/12/19/hybrid-workplaces-are-great-but-may-feel-too-transactional/)
@@ -538,3 +538,4 @@ Here's today's 'Heardle' song, along with some hints.
  - date published: 2022-12-19 01:00:00+00:00
 
 The celestial highlights for the week ahead have a seasonal twist.
+

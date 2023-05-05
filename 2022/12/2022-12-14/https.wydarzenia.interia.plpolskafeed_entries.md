@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Premier w Brukseli: Powinniśmy maksymalnie ograniczyć ceny gazu i ropy
  - [https://wydarzenia.interia.pl/kraj/news-premier-w-brukseli-powinnismy-maksymalnie-ograniczyc-ceny-ga,nId,6472987](https://wydarzenia.interia.pl/kraj/news-premier-w-brukseli-powinnismy-maksymalnie-ograniczyc-ceny-ga,nId,6472987)
@@ -27,3 +27,4 @@
  - date published: 2022-12-14 08:45:41+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-nowe-swiadczenie-dla-emerytow-tobie-tez-moze-sie-nalezec,nId,6470276"><img align="left" alt="Nowe świadczenie dla emerytów. Tobie też może się należeć?" src="https://i.iplsc.com/nowe-swiadczenie-dla-emerytow-tobie-tez-moze-sie-nalezec/000FT8TXC16QA5V1-C321.jpg" /></a>Lewica proponuje wprowadzenie tzw. wdowich emerytur. Ustawa ma zapewnić godne życie emerytom. Wyjaśniamy, jaki jest ostateczny kształt obywatelskiego projektu i kiedy ewentualne przepisy mogłyby zostać uchwalone.</p><br clear="all" />
+

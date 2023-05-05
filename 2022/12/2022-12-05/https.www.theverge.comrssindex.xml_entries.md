@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Many EA games are borked on Steam Deck, but fixes are on the way
  - [https://www.theverge.com/2022/12/5/23495287/steam-deck-ea-games-electronic-arts-pc](https://www.theverge.com/2022/12/5/23495287/steam-deck-ea-games-electronic-arts-pc)
@@ -525,3 +525,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## FTC sues over Microsoft's $69 billion acquisition of Activision Blizzard
  - [https://www.cnn.com/2022/12/08/tech/ftc-microsoft-activision-blizzard-acquisition/index.html](https://www.cnn.com/2022/12/08/tech/ftc-microsoft-activision-blizzard-acquisition/index.html)
@@ -27,3 +27,4 @@ It seems like you can't go anywhere these days without colliding headfirst into 
  - date published: 2022-12-08 06:00:33+00:00
 
 Chinese President Xi Jinping is visiting Saudi Arabia this week for the first time in nearly seven years, during which he is expected to sign billions of dollars of deals with the world's largest oil exporter and meet leaders from across the Middle East.
+

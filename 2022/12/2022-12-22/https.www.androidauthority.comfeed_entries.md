@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google might be hitting the panic button to protect Search from ChatGPT
  - [https://www.androidauthority.com/google-chatgpt-ai-3259557/](https://www.androidauthority.com/google-chatgpt-ai-3259557/)
@@ -76,3 +76,4 @@ Are you looking forward to OnePlus' first 2023 flagship?
  - date published: 2022-12-22 05:00:23+00:00
 
 Privacy and bandwidth concerns can override Sidewalk's benefits.
+

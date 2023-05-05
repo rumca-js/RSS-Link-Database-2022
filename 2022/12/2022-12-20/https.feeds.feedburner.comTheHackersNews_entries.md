@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Beware: Cybercriminals Launch New BrasDex Android Trojan Targeting Brazilian Banking Users
  - [https://thehackernews.com/2022/12/beware-cybercriminals-launch-new.html](https://thehackernews.com/2022/12/beware-cybercriminals-launch-new.html)
@@ -36,7 +36,6 @@ This is based on the different industries and geographies that were attacked, we
  - [https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html](https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-12-20 06:33:00+00:00
- - tags: children epic games,privacy
 
 Epic Games has reached a $520 million settlement with the U.S. Federal Trade Commission (FTC) over allegations that the Fortnite creator violated online privacy laws for children and tricked users into making unintended purchases in the video game.
 To that end, the company will pay a record $275 million monetary penalty for breaching the Children's Online Privacy Protection Act (COPPA) by
@@ -48,3 +47,4 @@ To that end, the company will pay a record $275 million monetary penalty for bre
 
 Microsoft has disclosed details of a now-patched security flaw in Apple macOS that could be exploited by an attacker to get around security protections imposed to prevent the execution of malicious applications.
 The shortcoming, dubbed Achilles (CVE-2022-42821, CVSS score: 5.5), was addressed by the iPhone maker in macOS Ventura 13, Monterey 12.6.2, and Big Sur 11.7.2, describing it as a logic
+

@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## LastPass got hacked again, and this time it affects customers
  - [https://www.pcworld.com/article/1419901/lastpass-got-hacked-again-and-this-time-your-data-got-taken.html](https://www.pcworld.com/article/1419901/lastpass-got-hacked-again-and-this-time-your-data-got-taken.html)
@@ -775,3 +775,4 @@ Desktop PCs, Gaming Laptops</div>
 <p><em>Prices subject to change.</em></p>
 
 IT Skills</div>
+

@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Comcast agents mistakenly reject some poor people who qualify for free Internet
  - [https://arstechnica.com/?p=1906042](https://arstechnica.com/?p=1906042)
@@ -160,3 +160,4 @@ Whether you're streaming games or joining Zoom meetings, you've got options.
  - date published: 2022-12-20 00:35:43+00:00
 
 More than a dozen attacks allegedly logged in a single week.
+

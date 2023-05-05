@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Woman dies after crowd crush at London concert venue
  - [https://www.nbcnews.com/video/woman-dies-after-crowd-crush-at-london-concert-venue-158023237881](https://www.nbcnews.com/video/woman-dies-after-crowd-crush-at-london-concert-venue-158023237881)
@@ -69,3 +69,4 @@ The multibillion-dollar international monkey trade exploded because it supplied 
  - date published: 2022-12-17 00:10:30+00:00
 
 Russia fired at least 76 missiles, most of them at Kyiv, according to Ukraine, and were targeting energy infrastructure. NBC News’ Ellison Barber has the latest details on the ongoing conflict.
+

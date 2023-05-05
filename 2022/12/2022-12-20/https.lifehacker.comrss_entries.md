@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 7 Last-Minute Gift Card Ideas (That Aren’t Amazon or Starbucks)
  - [https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244](https://lifehacker.com/7-last-minute-gift-card-ideas-that-aren-t-amazon-or-st-1849916244)
@@ -125,3 +125,4 @@
  - date published: 2022-12-20 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--nqGYA6HT--/c_fit,fl_progressive,q_80,w_636/6f1d6d5c541dfae064999d1a097b3ba2.jpg" /><p><a href="https://lifehacker.com/the-best-ios-16-1-features-you-mightve-missed-1849910887">Read more...</a></p>
+

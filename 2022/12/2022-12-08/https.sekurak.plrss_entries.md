@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## Policjanci z Otwocka zatrzymali obywatela Indii. Miał podszywać się pod kontrahentów firm, podrzucając lewy rachunek bankowy…
  - [https://sekurak.pl/policjanci-z-otwocka-zatrzymali-obywatela-indii-mial-podszywac-sie-pod-kontrahentow-firm-podrzucajac-lewy-rachunek-bankowy/](https://sekurak.pl/policjanci-z-otwocka-zatrzymali-obywatela-indii-mial-podszywac-sie-pod-kontrahentow-firm-podrzucajac-lewy-rachunek-bankowy/)
@@ -31,3 +31,4 @@
 
 <p>Propozycję stworzenia rejestru wysunął Minister cyfryzacji. Jak donosi Gazeta Prawna: [przepisy] umożliwią każdemu szybkie zastrzeganie swego numeru PESEL w razie wycieku czy kradzieży danych osobowych. Będzie to możliwe poprzez aplikację mObywatel, ale również w tradycyjnej formie, na piśmie, w dowolnym urzędzie gminy. Dodatkowo: [&#8230;] każdy będzie mógł za darmo zastrzec...</p>
 <p>Artykuł <a href="https://sekurak.pl/powstanie-baza-umozliwiajaca-zastrzec-pesel-nikt-tak-latwo-nie-wezmie-kredytu-czy-abonamentu-na-telefon-na-nasze-wykradzione-dane/" rel="nofollow">Powstanie baza umożliwiająca zastrzec PESEL. Nikt tak łatwo nie weźmie kredytu czy abonamentu na telefon na nasze wykradzione dane &#8230;</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

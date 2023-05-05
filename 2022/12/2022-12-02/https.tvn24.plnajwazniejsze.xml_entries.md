@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## PRAWA MAGAZYN INFLACJA
  - [https://tvn24.pl/tvn24-magazyn/Inflacja-w-Polsce/?source=rss](https://tvn24.pl/tvn24-magazyn/Inflacja-w-Polsce/?source=rss)
@@ -1031,3 +1031,4 @@
 
 <img alt="Inwazja na Ukrainę. Najważniejsze wydarzenia ostatnich godzin" src="https://tvn24.pl/najnowsze/cdn-zdjecie-909c31-billboard-grupa-wagnera-5788774/alternates/LANDSCAPE_1280" />
     Agresja Rosji trwa 282. dzień.
+

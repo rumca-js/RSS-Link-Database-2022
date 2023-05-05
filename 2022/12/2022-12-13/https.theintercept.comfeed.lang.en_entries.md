@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## The Shutdown of “Luxury Emissions” Should Be at the Center of Climate Revolt
  - [https://theintercept.com/2022/12/13/climate-protest-private-jets-schiphol-airport/](https://theintercept.com/2022/12/13/climate-protest-private-jets-schiphol-airport/)
@@ -15,3 +15,4 @@
 
 <p>A new film takes viewers behind the scenes of the push for a Green New Deal.</p>
 <p>The post <a href="https://theintercept.com/2022/12/13/deconstructed-climate-to-the-end-documentary/" rel="nofollow">Inside the Fight for Climate Justice</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

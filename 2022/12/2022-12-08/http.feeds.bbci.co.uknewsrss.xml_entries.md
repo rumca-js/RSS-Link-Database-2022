@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## The Papers: 'Palace anger' and 'direct hit' at Queen's legacy
  - [https://www.bbc.co.uk/news/blogs-the-papers-63912086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63912086?at_medium=RSS&at_campaign=KARANGA)
@@ -580,3 +580,4 @@ In recent years, some world leaders have been making arguments for countries bec
  - date published: 2022-12-08 00:01:04+00:00
 
 Vittorio Pozzo is the only coach to have won successive men's World Cup titles but remains relatively little known - for one reason.
+

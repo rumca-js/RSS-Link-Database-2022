@@ -1,5 +1,3 @@
-# Source URL:https://feeds.nbcnews.com/nbcnews/public/news, Source language: en
-
 ## Karen Bass, vowing unity, takes oath as L.A.'s mayor
  - [https://www.nbcnews.com/news/us-news/karen-bass-promising-pursue-unity-takes-oath-ls-mayor-rcna61204](https://www.nbcnews.com/news/us-news/karen-bass-promising-pursue-unity-takes-oath-ls-mayor-rcna61204)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/news
@@ -20,3 +18,4 @@ The operator of the Keystone Pipeline System, which carries a form of crude oil 
  - date published: 2022-12-12 00:56:31+00:00
 
 NASA Administrator Bill Nelson received assurances from the head of SpaceX that Elon Musk's Twitter drama is "nothing to worry about."
+

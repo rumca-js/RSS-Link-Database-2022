@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Digital transformation powered by edge-to-cloud comes to life in this scenario of a big-box retailer
  - [https://www.zdnet.com/article/digital-transformation-powered-by-edge-to-cloud-comes-to-life-in-this-scenario-of-a-big-box-retailer/#ftag=RSSbaffb68](https://www.zdnet.com/article/digital-transformation-powered-by-edge-to-cloud-comes-to-life-in-this-scenario-of-a-big-box-retailer/#ftag=RSSbaffb68)
@@ -83,3 +83,4 @@ Review: Logitech's Combo Touch cover and Crayon stylus for the iPad are cheaper 
  - date published: 2022-12-23 12:34:42+00:00
 
 The space industry is turning to Level Ex, a company that has gamified virtual medical training, to prepare astronauts for long journeys into space.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## 'Somebody shake him!': Bill Clinton caught passed out at an NFL game (but in his defense, he's old AF)
  - [https://www.louderwithcrowder.com/bill-clinton-nfl-sleeping](https://www.louderwithcrowder.com/bill-clinton-nfl-sleeping)
@@ -168,3 +168,4 @@
 <a href="https://youtu.be/0s9FbpoibPo" target="_blank">youtu.be</a>
 </small>
 </p>
+

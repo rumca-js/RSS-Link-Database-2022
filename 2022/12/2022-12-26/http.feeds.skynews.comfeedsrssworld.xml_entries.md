@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Russia's Lavrov: Either Ukraine fulfils Moscow's proposals or our army will decide
  - [https://news.sky.com/story/russias-lavrov-either-ukraine-fulfils-moscows-proposals-or-the-issue-will-be-decided-by-our-army-12774972](https://news.sky.com/story/russias-lavrov-either-ukraine-fulfils-moscows-proposals-or-the-issue-will-be-decided-by-our-army-12774972)
@@ -6,6 +6,13 @@
  - date published: 2022-12-26 22:10:00+00:00
 
 Russia's foreign minister appears to have ended any immediate prospect for peace talks over the Ukraine war, days after Russia's president said he was ready to negotiate.
+
+## 10 most costly climate change-related disasters in 2022 revealed
+ - [https://news.sky.com/story/10-most-costly-climate-change-related-disasters-in-2022-revealed-12774943](https://news.sky.com/story/10-most-costly-climate-change-related-disasters-in-2022-revealed-12774943)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-26 21:10:00+00:00
+
+Droughts, floods, storms and hurricanes were among the most costly climate change-related disasters during 2022, according to a new report.
 
 ## Taliban 'trying to erase women' from society in Afghanistan
  - [https://news.sky.com/story/taliban-trying-to-erase-women-from-society-in-afghanistan-foreign-secretary-james-cleverly-says-12774930](https://news.sky.com/story/taliban-trying-to-erase-women-from-society-in-afghanistan-foreign-secretary-james-cleverly-says-12774930)
@@ -69,3 +76,4 @@ China has launched its largest incursion yet into Taiwan's air defence zone, the
  - date published: 2022-12-26 02:03:00+00:00
 
 At least 50 deaths have been linked to a severe storm that continues to batter the US and Canada.
+

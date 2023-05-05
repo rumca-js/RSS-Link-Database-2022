@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Sam Bankman-Fried Says FTX US Users Will Get 100 Percent of Their Money Back
  - [https://www.theepochtimes.com/sam-bankman-fried-says-ftx-us-users-will-get-100-percent-of-their-money-back_4898657.html](https://www.theepochtimes.com/sam-bankman-fried-says-ftx-us-users-will-get-100-percent-of-their-money-back_4898657.html)
@@ -48,3 +48,4 @@ An example of texts used by predators to entice children into compromising situa
  - date published: 2022-12-01 02:45:48+00:00
 
 Tesla CEO Elon Musk speaks at a gaming convention in Los Angeles, Calif., on June 13, 2019. (Mike Blake/Reuters)
+

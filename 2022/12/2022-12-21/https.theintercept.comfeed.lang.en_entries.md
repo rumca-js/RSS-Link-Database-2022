@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Borderland Residents Shut Down Arizona Gov. Doug Ducey’s Illegal Wall
  - [https://theintercept.com/2022/12/21/intercepted-arizona-ducey-border-wall/](https://theintercept.com/2022/12/21/intercepted-arizona-ducey-border-wall/)
@@ -15,3 +15,4 @@
 
 <p>Inside the sweeping criminal investigation into NGOs saving lives in the Mediterranean.</p>
 <p>The post <a href="https://theintercept.com/2022/12/21/italy-iuventa-humanitarian-rescue/" rel="nofollow">Hacked Phones, Undercover Cops, and the Conspiracy Theory at the Center of Italy’s Crackdown on Humanitarian Rescue</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

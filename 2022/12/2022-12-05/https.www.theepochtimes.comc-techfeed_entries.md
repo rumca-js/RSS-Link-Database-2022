@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Musk Admits ‘Quite Significant’ Risk of Assassination
  - [https://www.theepochtimes.com/musk-admits-quite-significant-risk-of-assassination_4904673.html](https://www.theepochtimes.com/musk-admits-quite-significant-risk-of-assassination_4904673.html)
@@ -34,3 +34,4 @@ Twitter logo and a photo of Elon Musk are displayed through a magnifier in this 
  - date published: 2022-12-05 11:53:51+00:00
 
 Tesla CEO Elon Musk reacts during the unveiling of the new Tesla Model Y in Hawthorne, Calif., on March 14, 2019. (Frederic J. Brown/AFP via Getty Images)
+

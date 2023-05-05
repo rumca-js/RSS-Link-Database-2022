@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Inwestorzy zaniepokojeni recesją. S&P500 w dół czwarty raz z rzędu
  - [https://www.bankier.pl/wiadomosc/Inwestorzy-zaniepokojeni-recesja-8459522.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inwestorzy-zaniepokojeni-recesja-8459522.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -381,3 +381,4 @@ listopadzie pojawiło się mniej ofert pracy niż przed rokiem. </p>
  - date published: 2022-12-19 00:33:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/a/95b9bee058c1d2-945-560-0-35-1797-1078.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Oscar Leeser burmistrz El Paso, położonego przy granicy z Meksykiem miasta w Teksasie,  ogłosił w niedzielę stan wyjątkowy. Uzasadniał to obawami, że tamtejsza społeczność nie sprosta bez pomocy przewidywanemu zwiększeniu fali imigrantów napływających przez południową granicę.</p>
+

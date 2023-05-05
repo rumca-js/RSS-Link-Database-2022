@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Lubelskie. Kierowca przygnieciony przez autobus. Zginął podczas wymiany koła
  - [https://wydarzenia.interia.pl/lubelskie/news-lubelskie-kierowca-przygnieciony-przez-autobus-zginal-podcza,nId,6494870](https://wydarzenia.interia.pl/lubelskie/news-lubelskie-kierowca-przygnieciony-przez-autobus-zginal-podcza,nId,6494870)
@@ -266,3 +266,4 @@
  - date published: 2022-12-25 05:00:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-amerykanie-kochaja-boze-narodzenie-ducha-swiat-czuc-wszedzie,nId,6483001"><img align="left" alt="Amerykanie kochają Boże Narodzenie. Ducha świąt czuć wszędzie" src="https://i.iplsc.com/amerykanie-kochaja-boze-narodzenie-ducha-swiat-czuc-wszedzie/000GIHAMUWX097AT-C321.jpg" /></a>Pierogi na świątecznym jarmarku? Bożonarodzeniowy Yoda i dziadki do orzechów? Dokładnie tak wyglądają i smakują święta w USA. Dodajmy do tego jeszcze popularne &quot;All I Want for Christmas Is You&quot; Mariah Carey, &quot;Rockin' Around the Christmas Tree&quot; Brendy Lee, grzane wino, lampki choinkowe oraz &quot;Happy Holidays&quot; rzucane na każdym kroku. Amerykanie - niezależnie od wyznania - uwielbiają ten klimat.</p><br clear="all" />
+

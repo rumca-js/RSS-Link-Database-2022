@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Shoemaker Ecco leaks almost 60GB of customer data
  - [https://www.techradar.com/news/shoemaker-ecco-leaks-almost-60gb-of-customer-data](https://www.techradar.com/news/shoemaker-ecco-leaks-almost-60gb-of-customer-data)
@@ -90,3 +90,4 @@ DuckDuckGo wants to stop Sign in with Google from collecting data about your bro
  - date published: 2022-12-23 08:00:35+00:00
 
 Charlie Cox opens up on the prospect of a completely R-rated Daredevil MCU TV series.
+

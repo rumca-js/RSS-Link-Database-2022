@@ -1,10 +1,9 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## President Trump outlines free speech policies for 2024 campaign
  - [https://reclaimthenet.org/president-trump-ban-big-tech-federal-government-censorship-collusion-2024/](https://reclaimthenet.org/president-trump-ban-big-tech-federal-government-censorship-collusion-2024/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-16 19:42:30+00:00
- - tags: free speech,censorship
 
 <a href="https://reclaimthenet.org/president-trump-ban-big-tech-federal-government-censorship-collusion-2024/" rel="nofollow" title="President Trump outlines free speech policies for 2024 campaign"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/president-trump-ban-big-tech-federal-government-censorship-collusion-2024-a.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>"If we don't have free speech, then we just don't have a free country."</p>
 <p>The post <a href="https://reclaimthenet.org/president-trump-ban-big-tech-federal-government-censorship-collusion-2024/" rel="nofollow">President Trump outlines free speech policies for 2024 campaign</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -40,3 +39,4 @@
 
 <a href="https://reclaimthenet.org/twitter-bans-mastodon-rupar-donnie-osullivan-ryan-mac-drew-harwell-matt-binder-keith-olbermann/" rel="nofollow" title="Twitter bans accounts of Mastodon, journalists that cover banning of Elon Musk flight tracker account"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/elon-musk-banned-accounts.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>A wave of sudden bans.</p>
 <p>The post <a href="https://reclaimthenet.org/twitter-bans-mastodon-rupar-donnie-osullivan-ryan-mac-drew-harwell-matt-binder-keith-olbermann/" rel="nofollow">Twitter bans accounts of Mastodon, journalists that cover banning of Elon Musk flight tracker account</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

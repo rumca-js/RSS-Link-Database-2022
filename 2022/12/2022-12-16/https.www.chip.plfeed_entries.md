@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Netflix z reklamami nie spełnia oczekiwań. Czy powinno nas to dziwić?
  - [https://www.chip.pl/2022/12/netflix-z-reklamami-nie-spelnia-oczekiwan-czy-powinno-nas-to-dziwic](https://www.chip.pl/2022/12/netflix-z-reklamami-nie-spelnia-oczekiwan-czy-powinno-nas-to-dziwic)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1000" src="https://konto.chip.pl/wp-content/uploads/2022/12/sztuczna-inteligencja-1.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/sztuczna-inteligencja-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Od kilku tygodni ogromną popularnością cieszy się ChatGPT od OpenAI, ale w Państwie Środka tego typu narzędzia są najwyraźniej niemile widziane. Na to przynajmniej wskazują kroki podjęte przez tamtejsze władze. Sztuczna inteligencja rozwinęła się do tego stopnia, że wiele osób nie byłoby w stanie odróżnić, czy rozmawiają z drugim człowiekiem czy też maszyną. Równie imponujące [&#8230;]</p>
+

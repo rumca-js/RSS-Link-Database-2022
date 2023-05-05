@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Święta w hotelu. "Obłożenie na poziomie 60-70 proc."
  - [https://businessinsider.com.pl/biznes/swieta-w-hotelu-oblozenie-na-poziomie-60-70-proc/xqxj6e1](https://businessinsider.com.pl/biznes/swieta-w-hotelu-oblozenie-na-poziomie-60-70-proc/xqxj6e1)
@@ -153,3 +153,4 @@ Kto wygra wybory parlamentarne w Polsce i kiedy zakończy się wojna w Ukrainie?
  - date published: 2022-12-25 07:03:00+00:00
 
 Należy podejmować próby mnożenia kapitału, ale gromadzenie pieniędzy nie może przysłaniać spraw najważniejszych – uczył niemal dwa tysiące lat temu Jezus z Nazaretu. Zanim przystąpi się do analizy jego słów dotyczących spraw ekonomicznych, należy uzmysłowić sobie, że dużym błędem jest próba dopasowywania ich do nurtów myśli ekonomicznej i politycznej, jakie pojawiły się wiele setek lat po jego odejściu.
+

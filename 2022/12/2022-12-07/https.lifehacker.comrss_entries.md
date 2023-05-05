@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How 'Planned Happenstance' Can Add Luck to Your Career
  - [https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120](https://lifehacker.com/how-planned-happenstance-can-add-luck-to-your-career-1849865120)
@@ -125,3 +125,4 @@
  - date published: 2022-12-07 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--Uky9npQE--/c_fit,fl_progressive,q_80,w_636/0a702fbc68d1abe0a91b8f2836555508.jpg" /><p>There have never been more different types of vegan milk to choose from, which is great news for people who don’t (or can’t) drink cow’s milk, and it’s a double-edged sword for vegan cooks and bakers. Variety is great, but it means every new alt milk is a gamble; I’ve had oat milk with the texture of half and half,…</p><p><a href="https://lifehacker.com/always-keep-soy-milk-in-your-pantry-1849860421">Read more...</a></p>
+

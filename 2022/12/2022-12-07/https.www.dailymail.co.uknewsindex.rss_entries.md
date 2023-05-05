@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## When you will finally get some relief from skyrocketing power prices
  - [https://www.dailymail.co.uk/news/article-11514529/When-finally-relief-skyrocketing-power-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514529/When-finally-relief-skyrocketing-power-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2113,3 +2113,4 @@ Sunak and Biden have agreed a UK-US Energy Security and Affordability Partnershi
  - date published: 2022-12-07 00:10:42+00:00
 
 Rubel worries the school could face 'collapsing enrollment' and a wave of students transferring schools if the case goes unsolved.
+

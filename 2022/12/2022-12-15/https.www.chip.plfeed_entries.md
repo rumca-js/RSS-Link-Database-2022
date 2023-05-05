@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Ten smartwatch jest napędzany żywym organizmem. Trzeba go karmić, bo inaczej przestanie działać
  - [https://www.chip.pl/2022/12/smartwatch-z-zywym-organizmem-w-srodku](https://www.chip.pl/2022/12/smartwatch-z-zywym-organizmem-w-srodku)
@@ -127,3 +127,4 @@
 
 <img alt="Amerykański hipersoniczny pocisk AGM-183 ARRW" class="attachment-full size-full wp-post-image" height="1060" src="https://konto.chip.pl/wp-content/uploads/2022/12/Amerykanski-hipersoniczny-pocisk-AGM-183-ARRW-1.jpg" style="margin-bottom: 10px;" width="1908" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Amerykanski-hipersoniczny-pocisk-AGM-183-ARRW-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Historię pocisku AGM-183A ARRW świat śledzi od kilku lat. Pierwszy kontrakt na niego udzielono bowiem już w sierpniu 2018 roku, a jego wysokość sięgała aż 480 mln dolarów. Za rozwijanie tej broni odpowiada spółka Lockheed Martin Missiles and Fire Control, w którą nie bez powodu wierzy rząd USA, patrząc na wszystko, co do tej pory [&#8230;]</p>
+

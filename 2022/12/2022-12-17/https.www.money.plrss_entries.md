@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Urlop macierzyński, rodzicielski i wychowawczy – jakie są różnice
  - [https://www.money.pl/gospodarka/urlop-macierzynski-rodzicielski-i-wychowawczy-jakie-sa-roznice-6844473521297984a.html](https://www.money.pl/gospodarka/urlop-macierzynski-rodzicielski-i-wychowawczy-jakie-sa-roznice-6844473521297984a.html)
@@ -34,3 +34,4 @@
  - date published: 2022-12-17 05:00:06+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/90167999-8bcb-4b8b-a158-05aef8876875" width="308" /> Kiedy stopy procentowe zaczęły drastycznie rosnąć, rząd wprowadził wakacje kredytowe. Na łącznie cztery miesiące ulgi mogli liczyć kredytobiorcy w trzecim i czwartym kwartale 2022 r. W przyszłym roku też będzie można zawiesić spłatę, ale już tylko raz na kwartał. Pojawia się więc pytanie, w którym miesiącu opłaca się zawnioskować o przerwę, żeby liczyć na jak największe oszczędności.
+

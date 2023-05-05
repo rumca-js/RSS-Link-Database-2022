@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Difference Between Plant Food and Fertilizer
  - [https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660](https://lifehacker.com/the-difference-between-plant-food-and-fertilizer-1849842660)
@@ -20,3 +20,4 @@
  - date published: 2022-12-04 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--GPNFdHB2--/c_fit,fl_progressive,q_80,w_636/874e499ca43c023ea86e01ccaad3c7d0.jpg" /><p>As convenient as buying couches online can be, there are still some advantages to shopping at brick-and-mortar retailers. First and foremost, going to stores in person means you get to try them out before making a purchase. And then, there’s the delivery situation.</p><p><a href="https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683">Read more...</a></p>
+

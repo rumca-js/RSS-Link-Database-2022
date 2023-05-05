@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Max Levchin’s War on Credit Cards
  - [https://www.wired.com/story/max-levchins-war-on-credit-cards-bnpl/](https://www.wired.com/story/max-levchins-war-on-credit-cards-bnpl/)
@@ -6,3 +6,4 @@
  - date published: 2022-12-01 13:00:00+00:00
 
 The PayPal cofounder on why his “buy now, pay later” company Affirm is a healthier way to borrow, what caused the techlash, and Elon Musk’s Twitter.
+

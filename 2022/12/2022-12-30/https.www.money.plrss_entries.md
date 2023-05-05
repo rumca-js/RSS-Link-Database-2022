@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Komisja Kongresu upubliczniła zeznania podatkowe Donalda Trumpa
  - [https://www.money.pl/podatki/komisja-kongresu-upublicznila-zeznania-podatkowe-donalda-trumpa-6850230707116864a.html](https://www.money.pl/podatki/komisja-kongresu-upublicznila-zeznania-podatkowe-donalda-trumpa-6850230707116864a.html)
@@ -111,3 +111,4 @@
  - date published: 2022-12-30 05:42:13+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/f5333ec2-0ee6-47de-9742-5d97821555fc" width="308" /> Prezydent Joe Biden podpisał ustawę budżetową na kolejny rok budżetowy, która przewiduje wydatki w wysokości prawie 1,7 bln dolarów. Z tej kwoty 45 mld dol. zostanie przeznaczone na pomoc gospodarczą i wojskową dla Ukrainy i sojuszników z NATO.
+

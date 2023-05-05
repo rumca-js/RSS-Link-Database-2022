@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Strzelał do policjantów podczas próby zatrzymania, zginął. CBŚP zatrzymało 13 osób i przejęło nielegalną broń
  - [https://tvn24.pl/pomorze/akcja-cbsp-sledczy-zatrzymali-13-osob-i-przejeli-nielegalna-bron-podczas-jednego-z-zatrzyman-w-straszynie-doszlo-do-strzelaniny-6302762?source=rss](https://tvn24.pl/pomorze/akcja-cbsp-sledczy-zatrzymali-13-osob-i-przejeli-nielegalna-bron-podczas-jednego-z-zatrzyman-w-straszynie-doszlo-do-strzelaniny-6302762?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Fogiel: dodatkowe 700 milionów dla TVP to " src="https://tvn24.pl/najnowsze/cdn-zdjecie-rl5b58-01-0730-piasek-cl-0002-6302656/alternates/LANDSCAPE_1280" />
     My bierzemy to za dobrą monetę i wychodzimy z taką propozycją, która będzie dobra i dla Polski, i dla Ukrainy. Nie chcemy odpowiadać zabiegiem PR-owskim - powiedział w TVN24 Radosław Fogiel z PiS, komentując niemiecką propozycję przekazania Polsce systemów Patriot. Mówił też o poprawce zakładającej przekazanie dodatkowych 700 milionów złotych na media publiczne. To - jak stwierdził - "pewnego rodzaju waloryzacja".
+

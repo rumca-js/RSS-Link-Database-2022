@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## The top 12 tech stories of 2022
  - [https://www.computerworld.com/article/3684170/the-top-12-tech-stories-of-2022.html#tk.rss_all](https://www.computerworld.com/article/3684170/the-top-12-tech-stories-of-2022.html#tk.rss_all)
@@ -18,3 +18,4 @@
 	<section class="page">
 <p>Sifting through the usual end-of-the-year speculation, I have some thoughts on what Apple’s enterprise users can anticipate in 2023, a year in which Apple will focus on reconfiguring operations and manufacturing for greater resilience.</p><h2><strong>Building a functional supply chain</strong></h2>
 <p>Every consumer electronics company has been hit by COVID-related supply chain challenges. The world’s great factory, China, <a href="https://apnews.com/article/taiwan-technology-health-covid-business-61c1b91d5ca112d0209027b9e75bfe78" rel="nofollow noopener" target="_blank">has suffered</a>, while unravelling political consensus, <a href="https://www.applemust.com/apple-in-talks-to-close-unused-russian-office-space/" rel="nofollow noopener" target="_blank">the war in Ukraine</a> and tension in Taiwan all pose existential threats to those firms with deep supply chain connections in the nation.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3683269/what-to-expect-from-apple-in-2023.html#jump">To read this article in full, please click here</a></p></section></article>
+

@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Full Video: Charles III delivers first Christmas broadcast as king
  - [https://www.nbcnews.com/video/charles-iii-delivers-first-christmas-broadcast-as-king-158767173874](https://www.nbcnews.com/video/charles-iii-delivers-first-christmas-broadcast-as-king-158767173874)
@@ -48,3 +48,4 @@ Dozens of people were taken to hospital late Christmas Eve after a bus accident 
  - date published: 2022-12-25 03:54:55+00:00
 
 Russian shells pummeled Kherson on Saturday, killing at least 10 people and injuring 55 in the city that Moscow’s troops were forced to abandon last month.
+

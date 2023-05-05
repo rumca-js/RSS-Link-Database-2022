@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Dyson's Air Purifying Headphones Will Cost $949
  - [https://gizmodo.com/dyson-air-purifying-headphones-filter-price-release-dat-1849831922](https://gizmodo.com/dyson-air-purifying-headphones-filter-price-release-dat-1849831922)
@@ -307,3 +307,4 @@
  - date published: 2022-12-07 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ytv9q8hw--/c_fit,fl_progressive,q_80,w_636/327a638da83941d2bab62f0c6f1d50f2.jpg" /><p>When we bought a second tree, it was <a href="https://gizmodo.com/hallmark-ornaments-disturbing-weird-bad-2022-christmas-1849740003">officially a problem</a>. I’ve loved sci-fi and pop culture my entire life. So, when I was young, my mom started taking me to Hallmark each year to buy a few of the <a href="https://gizmodo.com/21-great-sci-fi-christmas-ornaments-from-hallmark-1845708107">latest Keepsake ornaments.</a> Even after I moved out, each year I’d give her a list and <a href="https://gizmodo.com/hallmark-ornaments-keepsake-star-wars-marvel-batman-spi-1848923536">that year’s ornaments</a> were part of…</p><p><a href="https://gizmodo.com/hallmark-ornaments-sci-fi-pop-culture-star-wars-nintend-1849859461">Read more...</a></p>
+

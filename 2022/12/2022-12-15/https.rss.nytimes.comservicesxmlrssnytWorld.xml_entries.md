@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## U.S. Will Train More Ukrainian Troops, Adding Advanced Battle Tactics
  - [https://www.nytimes.com/2022/12/15/world/europe/ukraine-troops-training-pentagon.html](https://www.nytimes.com/2022/12/15/world/europe/ukraine-troops-training-pentagon.html)
@@ -174,3 +174,4 @@ For a mother and daughter, the sweetest moment came when the production broke a 
  - date published: 2022-12-15 04:40:34+00:00
 
 Russian trench warfare in Ukraine.
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Perowskitowe ogniwa słoneczne stabilne, jak nigdy. Pomogły ostatnie badania
  - [https://www.chip.pl/2022/12/perowskitowe-ogniwa-sloneczne-stabilnosc](https://www.chip.pl/2022/12/perowskitowe-ogniwa-sloneczne-stabilnosc)
@@ -119,3 +119,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="997" src="https://konto.chip.pl/wp-content/uploads/2022/12/fuzja-jadrowa-1.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/fuzja-jadrowa-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Sprzęt znajdujący się w Lawrence Livermore National Laboratory pojawił się w filmie W ciemność. Star Trek. Niecałe dziesięć lat później może natomiast posłużyć w badaniach nad fuzją jądrową. Arthur Pak oraz jego współpracownicy tworzą zespół, który przed kilkoma tygodniami wykorzystał laser do wystrzelenia 192 wiązek w trzech impulsach skierowanych na cylinder zawierający niewielkich rozmiarów diamentową [&#8230;]</p>
+

@@ -1,4 +1,39 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
+
+## Joe and Jill Biden visit Children's National Hospital to read to sick kids
+ - [https://www.dailymail.co.uk/news/article-11570797/Joe-Jill-Biden-visit-Childrens-National-Hospital-read-sick-kids.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570797/Joe-Jill-Biden-visit-Childrens-National-Hospital-read-sick-kids.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 23:58:13+00:00
+
+President Joe Biden praised a young girl for 'working it' during his visit to Children's National Hospital on Friday while Jill Biden read from The Snowy Day.
+
+## Kentucky woman's festive tribute to Cousin Eddie from National Lampoons sparks police callout
+ - [https://www.dailymail.co.uk/news/article-11570711/Kentucky-womans-festive-tribute-Cousin-Eddie-National-Lampoons-sparks-police-callout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570711/Kentucky-womans-festive-tribute-Cousin-Eddie-National-Lampoons-sparks-police-callout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 23:46:17+00:00
+
+Police in Shepherdsville Kentucky were called to the scene of a man allegedly exposing himself outside a home - only to find a tribute to cult classic the National Lampoon's Christmas Vacation film.
+
+## Adorable baby chimp DIES at Kansas Zoo just a month after shooting to internet fame
+ - [https://www.dailymail.co.uk/news/article-11570695/Adorable-baby-chimp-DIES-Kansas-Zoo-just-month-shooting-internet-fame.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570695/Adorable-baby-chimp-DIES-Kansas-Zoo-just-month-shooting-internet-fame.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 23:45:53+00:00
+
+Kucheza, who brought fame to the Sedgwick County Zoo in Kansas, died unexpectedly Thursday, cradled in mother Mahale's arms, according to a post on the zoo's Facebook page.
+
+## Locals fear sun-dappled New Forest spot is being targeted - three years after horrific attacks
+ - [https://www.dailymail.co.uk/news/article-11570811/Locals-fear-sun-dappled-New-Forest-spot-targeted-three-years-horrific-attacks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570811/Locals-fear-sun-dappled-New-Forest-spot-targeted-three-years-horrific-attacks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 23:38:06+00:00
+
+On a sunny December morning, the teeny village of Bramshaw in the New Forest couldn't look more appealing.
+
+## Monarch nods to his late mother the Queen by recording Christmas message in St George's Chapel
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11570607/Monarch-nods-late-mother-Queen-recording-Christmas-message-St-Georges-Chapel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11570607/Monarch-nods-late-mother-Queen-recording-Christmas-message-St-Georges-Chapel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 23:29:04+00:00
+
+With bold colours and twinkling lights, the setting for King Charles's first Christmas Speech is a moving tribute to his late mother. It is expected to be broadcast at 3pm on Christmas Day.
 
 ## Carlisle, Perth: Toyota Hilux driver ploughs into man after chasing him from a nearby park
  - [https://www.dailymail.co.uk/news/article-11570589/Carlisle-Perth-Toyota-Hilux-driver-ploughs-man-chasing-nearby-park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570589/Carlisle-Perth-Toyota-Hilux-driver-ploughs-man-chasing-nearby-park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6,6 +41,13 @@
  - date published: 2022-12-23 23:08:06+00:00
 
 The 45-year-old man had been walking on Harris Street in Carlisle, in Perth's eastern suburbs, when the driver of a Toyota Hilux ute began to accelerate towards him at about 7pm on Thursday.
+
+## Welcome to the age of the Nepo Babies: The offspring of A-list parents now dominate celebrity world
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11570471/Welcome-age-Nepo-Babies-offspring-list-parents-dominate-celebrity-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11570471/Welcome-age-Nepo-Babies-offspring-list-parents-dominate-celebrity-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 23:01:26+00:00
+
+Nepo Babies - youngsters who land easily in the world of entertainment, cushioned by their parents' famous names
 
 ## Tragedy as man, 29, is killed in a crash with a parked boat at Cromer on Sydney's northern beaches
  - [https://www.dailymail.co.uk/news/article-11570671/Tragedy-man-29-killed-crash-parked-boat-Cromer-Sydneys-northern-beaches.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570671/Tragedy-man-29-killed-crash-parked-boat-Cromer-Sydneys-northern-beaches.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -20,6 +62,13 @@ A 29-year-old man died at the scene when he was a passenger in a car that report
  - date published: 2022-12-23 22:42:17+00:00
 
 The court heard that the group used an encrypted communications platform to supply of 1,000 kilos of cocaine, 50 kilos of heroin and launder of £24 million of criminal proceeds in the south of England.
+
+## Can YOU spot the 50 pop stars and bands hidden in this image?
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11570729/Can-spot-50-pop-stars-bands-hidden-image.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11570729/Can-spot-50-pop-stars-bands-hidden-image.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 22:39:40+00:00
+
+It's been another huge year for music, capped off with LadBaby's record fifth Christmas number one in a row. Can YOU spot the 50 hidden pop stars and bands in this image?
 
 ## Morrisons sells huge Christmas turkey for £136 - more than the cost of a flight to Istanbul
  - [https://www.dailymail.co.uk/news/article-11570735/Morrisons-sells-huge-Christmas-turkey-136-cost-flight-Istanbul.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570735/Morrisons-sells-huge-Christmas-turkey-136-cost-flight-Istanbul.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -41,6 +90,13 @@ The three girls, aged from 12 to 16, were last seen on Thursday evening at midni
  - date published: 2022-12-23 22:32:55+00:00
 
 Christmas Day revellers making plans for an outdoor feast can stop stressing as the weather forecast predicts mostly clear and sunny skies for large parts of the country.
+
+## LEO MCKINSTRY: Why does the NHS think a £115,000 Director of Lived Experience is worth three nurses?
+ - [https://www.dailymail.co.uk/debate/article-11570675/LEO-MCKINSTRY-does-NHS-think-115-000-Director-Lived-Experience-worth-three-nurses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11570675/LEO-MCKINSTRY-does-NHS-think-115-000-Director-Lived-Experience-worth-three-nurses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 22:18:39+00:00
+
+LEO MCKINSTRY:A Daily Mail investigation reveals how Britain's supposedly cash-strapped NHS is still finding millions to spend on the well-paid bureaucrats of the 'equality, diversity and inclusion' (EDI) racket.
 
 ## LAST of The Few: John 'Paddy' Hemingway, 103, tells ROBERT HARDMAN of many brushes with death
  - [https://www.dailymail.co.uk/news/article-11570579/LAST-John-Paddy-Hemingway-103-tells-ROBERT-HARDMAN-brushes-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570579/LAST-John-Paddy-Hemingway-103-tells-ROBERT-HARDMAN-brushes-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -155,6 +211,13 @@ The recalled models are: WA49B, WA50B, WA51A, WA52A, WA54A, and WA55A. The model
 
 Sam Bankman-Fried's ex-girlfriend has confessed that she knowingly engaged in 'illegal' business tactics with the disgraced FTX founder in bombshell court testimony.
 
+## Who are LadBaby? A look at the YouTuber stars
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11569951/Who-LadBaby-YouTubers-attempt-fifth-Christmas-No-1.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11569951/Who-LadBaby-YouTubers-attempt-fifth-Christmas-No-1.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 21:39:08+00:00
+
+They currently hold four Christmas No 1's, with novelty track Sausage Rolls For Everyone, We Built This City, I Love Sausage Rolls and Don't Stop Me Eatin'.
+
 ## Snapchat's opioid SHAME: crime watchdog slams the 'platform of choice for fentanyl drug dealers'
  - [https://www.dailymail.co.uk/news/article-11570425/Snapchats-opioid-SHAME-crime-watchdog-slams-platform-choice-fentanyl-drug-dealers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570425/Snapchats-opioid-SHAME-crime-watchdog-slams-platform-choice-fentanyl-drug-dealers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -224,6 +287,13 @@ Incumbent congressman George Santos' past is undergoing new scrutiny as a new re
  - date published: 2022-12-23 19:07:02+00:00
 
 Tomas Mazetti, 55 and his wife Hannah, 33, from Gothenburg, Sweden, have launched a fundraiser to buy the rights to Wham! hit Last Christmas, just so they can take it off air forever.
+
+## The race to become Christmas Number one RECAP: LadBaby claim the top spot AGAIN
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11569897/The-race-Christmas-Number-one-LIVE-LadBaby-attempt-gain-fifth-hit-single.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11569897/The-race-Christmas-Number-one-LIVE-LadBaby-attempt-gain-fifth-hit-single.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-23 18:56:14+00:00
+
+CHRISTMAS NUMBER ONE RECAP: This is MailOnline's live blog which followed the race to Christmas Number one and LadBaby's fifth victory.
 
 ## Major flooding in Queens forces scores of residents to wade through high water as they evacuate
  - [https://www.dailymail.co.uk/news/article-11570077/Major-flooding-Queens-forces-scores-residents-wade-high-water-evacuate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570077/Major-flooding-Queens-forces-scores-residents-wade-high-water-evacuate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1261,3 +1331,4 @@ Connie Gent and her school friend Lacey Bennett, both 11, were murdered by drug 
  - date published: 2022-12-23 00:06:35+00:00
 
 The situation on the U.S.-Mexico border made Joe Biden's 'blood boil', according to a new book charting the first year of his presidency. Biden was angered by the 'lack of solutions'.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## SEC Asks Public Companies for More Information About Crypto Exposure
  - [https://www.wsj.com/articles/sec-asks-public-companies-for-more-information-about-crypto-exposure-11670531943?mod=rss_Technology](https://www.wsj.com/articles/sec-asks-public-companies-for-more-information-about-crypto-exposure-11670531943?mod=rss_Technology)
@@ -76,3 +76,4 @@ Facebook’s parent company faces an antitrust fight over its proposed purchase 
  - date published: 2022-12-08 03:19:00+00:00
 
 Google plans to combine the team working on the mapping service Waze with the group overseeing the company’s Maps product, as the search giant faces pressure to streamline operations and cut costs.
+

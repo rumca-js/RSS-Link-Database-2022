@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The weekend’s best deals: A bunch of Apple devices, Surface, Xbox, Meta Quest, and more
  - [https://arstechnica.com/?p=1901855](https://arstechnica.com/?p=1901855)
@@ -13,3 +13,4 @@ Dealmaster also has buy-two-get-one-free books, 4K TVs, and a slew of smart home
  - date published: 2022-12-10 14:00:36+00:00
 
 Housemarque's challenging masterwork is really a PC game at heart.
+

@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
+# Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
 ## Częstochowa. Radni przegłosowali uchwałę ws. likwidacji finansowania lekcji religii z lokalnego budżetu
  - [https://tvn24.pl/katowice/czestochowa-radni-przeglosowali-uchwale-w-sprawie-likwidacji-doplat-do-lekcji-religii-w-szkolach-6508961?source=rss](https://tvn24.pl/katowice/czestochowa-radni-przeglosowali-uchwale-w-sprawie-likwidacji-doplat-do-lekcji-religii-w-szkolach-6508961?source=rss)
@@ -23,3 +23,4 @@
 
 <img alt="Minister obrony Ukrainy: Rosja szykuje nową ofensywę" src="https://tvn24.pl/najnowsze/cdn-zdjecie-k5zcmg-rosyjscy-zolnierze-6508241/alternates/LANDSCAPE_1280" />
     Są dowody, że Rosja przygotowuje nową szeroko zakrojoną ofensywę, która może się rozpocząć przed końcem lutego 2023 roku - powiedział w czwartek w wywiadzie dla dziennika "The Guardian" ukraiński minister obrony Ołeksij Reznikow.
+

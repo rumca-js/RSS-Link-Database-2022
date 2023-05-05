@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## AT&T drove me completely crazy. Then along came Frank
  - [https://www.zdnet.com/article/at-t-drove-me-completely-crazy-then-along-came-frank/#ftag=RSSbaffb68](https://www.zdnet.com/article/at-t-drove-me-completely-crazy-then-along-came-frank/#ftag=RSSbaffb68)
@@ -20,3 +20,4 @@ It's a life lesson, really.
  - date published: 2022-12-11 10:00:21+00:00
 
 Spotify Wrapped, Apple Music Replay, and even your Strava and Duolingo roundups are fun. But there's a gap between what we share and what we are.
+

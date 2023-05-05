@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## The Russian Billionaire Selling Putin's War to the Public
  - [https://www.wsj.com/articles/russian-billionaire-selling-putins-war-ukraine-11669994410](https://www.wsj.com/articles/russian-billionaire-selling-putins-war-ukraine-11669994410)
@@ -62,3 +62,4 @@ The constant repairs to damage caused by Russian strikes have led to a critical 
  - date published: 2022-12-02 10:00:00+00:00
 
 The preliminary Commerce Department findings, expected on Friday, are likely to accelerate importers’ race to find other sources.
+

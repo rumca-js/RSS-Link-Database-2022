@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Finland defence minister to take two months’ paternity leave amid Nato bid
  - [https://www.theguardian.com/world/2022/dec/16/finland-defence-minister-to-take-two-months-paternity-leave-amid-nato-bid](https://www.theguardian.com/world/2022/dec/16/finland-defence-minister-to-take-two-months-paternity-leave-amid-nato-bid)
@@ -839,3 +839,4 @@
  - date published: 2022-12-15 00:20:00+00:00
 
 <p><a href="https://twitter.com/maxrushden">Max Rushden</a> is joined by <a href="https://twitter.com/bglendenning">Barry Glendenning</a>, <a href="https://twitter.com/PhilippeAuclair">Philippe Auclair</a> and <a href="https://twitter.com/kickback_nedum">Nedum Onuoha</a> as France complete the final line-up for the 2022 World Cup</p><p><strong>Rate, review, share on <a href="https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2">Apple Podcasts</a>, <a href="https://soundcloud.com/guardianfootballweekly">Soundcloud</a>, <a href="https://audioboom.com/channel/football-weekly">Audioboom</a>, <a href="https://www.mixcloud.com/guardianfootballweekly/">Mixcloud</a>, <a href="https://www.acast.com/footballweekly">Acast</a> and <a href="http://www.stitcher.com/podcast/guardianuk/football-weekly">Stitcher</a>, and join the conversation on <a href="https://www.facebook.com/GuardianPodcasts/">Facebook</a>, <a href="https://twitter.com/guardianaudio">Twitter</a> and <a href="mailto:footballweekly@theguardian.com">email</a>.</strong></p><p>Today; Morocco were brilliant once again but ultimately lacked the firepower and fit defenders to overcome a comfortable France side. The panel debate whether Griezmann has been played in the wrong position his entire career.</p> <a href="https://www.theguardian.com/football/audio/2022/dec/15/antoine-griezmann-right-position-football-daily-podcast-world-cup-france-morocco">Continue reading...</a>
+

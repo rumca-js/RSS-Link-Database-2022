@@ -1,4 +1,23 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: 'Libs of TikTok' reveals her identity, shares surprising offer made by GOP Governor
+ - [https://www.louderwithcrowder.com/libs-tiktok-tucker-desantis](https://www.louderwithcrowder.com/libs-tiktok-tucker-desantis)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2022-12-27 23:45:06+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32398973&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Chaya Raichik. I have been avoiding using the name of citizen journalist behind "Libs of TikTok," only because I felt it wasn't appropriate when she didn't choose to be <a href="https://www.louderwithcrowder.com/taylor-lorenz-libs-tiktok" target="_blank">doxxed by whatsherface</a>. We'll deal with the semantics of defining "doxxing" in a bit. But now that Chaya is out and about, we should put a name behind the person doing such important work. And, more importantly,  the person who is also responsible for so many of us having content.</p><p>Chaya sat down with Tucker Carlson, where she revealed a surprising offer made by Gov. Ron DeSantis' office.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Wow. After <a href="https://twitter.com/libsoftiktok?ref_src=twsrc%5Etfw">@libsoftiktok</a> wax doxxed and threatened, <a href="https://twitter.com/GovRonDeSantis?ref_src=twsrc%5Etfw">@GovRonDeSantis</a> reached out and told her she could stay at the Governor’s Mansion. <a href="https://t.co/PVJkqCt12H">pic.twitter.com/PVJkqCt12H</a><br />— David Reaboi, Late Republic Nonsense (@davereaboi) <a href="https://twitter.com/davereaboi/status/1607777382680739840?ref_src=twsrc%5Etfw">December 27, 2022</a></blockquote> </div><blockquote>[His office said] the Governor wanted me to give you a message. He said if you don't feel safe -- you or your family - and if you need a place to go, you can come to the Governor's mansion. We have a guest house. You can come and stay as long as you need. </blockquote><div class="rm-embed embed-media"><blockquote class="twitter-tweet">I recently got the opportunity to thank <a href="https://twitter.com/GovRonDeSantis?ref_src=twsrc%5Etfw">@GovRonDeSantis</a> in person. He was so gracious. Brushed it off. He said “of course! You do great work!” It wasn’t even a question for him. Genuinely a kindhearted person. <a href="https://t.co/R4CEqaxwQK">https://t.co/R4CEqaxwQK</a><br />— Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1607800004533428226?ref_src=twsrc%5Etfw">December 27, 2022</a></blockquote> </div><p>The cool thing is it wasn't done for publicity. If it was, and Washington Post's hit piece came out on April 10th, DeSantis would have said so himself on April 11th. Had Chaya not revealed this info, no one would know.</p><p>As for the doxxing -- <a href="https://www.louderwithcrowder.com/cnn-threatens-doxx-anonymous-creator-trumpwwe-gif" target="_blank">because it</a> is <a href="https://www.louderwithcrowder.com/cnn-is-now-live-trolling-trump-supporters-over-russian-collusion" target="_blank">never doxxing</a> when <a href="https://www.louderwithcrowder.com/cnn-doxxes-another-person-trump-retweeted-and-misquotes-them" target="_blank">corporate media</a> are the <a href="https://www.louderwithcrowder.com/cnn-medical-misinformation" target="_blank">ones doing it</a> -- critics will say that Chaya wasn't doxxed. She only had all of her personal information linked to a copy of her real estate license. However, the personal info wasn't printed IN the article and WaPo removed the link after the article was already published and people saw it. But, like, they took it down. So totally not doxxing.</p><p>Though, as I was grabbing links for this post, I was reminded that the <a href="https://www.louderwithcrowder.com/twitter-whistleblower-4000-emplioyees" target="_blank">Twitter Whistleblower testified 4000 Twitter employees</a> could dox users on a whim. It makes you wonder if one of them leaked to Taylor Lorenz. And if there will be a Twitter Files on it.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">I'm Leaving The Blaze... | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/N_jzaYt0gBY" target="_blank">youtu.be</a>
+</small>
+</p>
 
 ## Watch: Potential GOP presidential candidate shows off the flamethrower Santa Claus brought her for Christmas
  - [https://www.louderwithcrowder.com/kristi-noem-flamethrower](https://www.louderwithcrowder.com/kristi-noem-flamethrower)
@@ -83,3 +102,4 @@
 <a href="https://youtu.be/N_jzaYt0gBY" target="_blank">youtu.be</a>
 </small>
 </p>
+

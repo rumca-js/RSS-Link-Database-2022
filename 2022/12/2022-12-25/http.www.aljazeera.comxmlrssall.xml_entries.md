@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Photos: Deadly blizzard rages in US, Canada on Christmas
  - [https://www.aljazeera.com/gallery/2022/12/25/photos-frigid-monster-storm-across-us](https://www.aljazeera.com/gallery/2022/12/25/photos-frigid-monster-storm-across-us)
@@ -160,3 +160,4 @@ Judge throws out Republican Kari Lake’s challenge of her defeat in the Arizona
  - date published: 2022-12-25 04:43:40+00:00
 
 Fierce storm leaves 300,000 homes and businesses without power and at least 18 dead from exposure and icy car crashes.
+

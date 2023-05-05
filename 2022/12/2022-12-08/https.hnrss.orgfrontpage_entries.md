@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## ReVanced DMCA Takedown on GitHub
  - [https://github.com/revanced/revanced-patches](https://github.com/revanced/revanced-patches)
@@ -827,3 +827,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33902219">https://news.ycombinator.com/item?id=33902219</a></p>
 <p>Points: 9</p>
 <p># Comments: 1</p>
+

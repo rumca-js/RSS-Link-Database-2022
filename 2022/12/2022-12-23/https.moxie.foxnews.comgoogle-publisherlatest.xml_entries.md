@@ -1,4 +1,60 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## 4-year-old girl gets stuck inside claw machine: See the video
+ - [https://www.foxnews.com/lifestyle/4-year-old-girl-gets-stuck-inside-claw-machine-see-video](https://www.foxnews.com/lifestyle/4-year-old-girl-gets-stuck-inside-claw-machine-see-video)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:58:03+00:00
+
+A 4-year-old girl got stuck inside a claw machine while out for lunch with her family in Queensland. Her siblings reportedly convinced her to climb in and grab a teddy bear.
+
+## Former Sacramento King caught on camera saying California's capital 'can suck my d---'
+ - [https://www.foxnews.com/sports/former-sacramento-king-caught-camera-saying-californias-capital-suck-my-d-k](https://www.foxnews.com/sports/former-sacramento-king-caught-camera-saying-californias-capital-suck-my-d-k)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:51:55+00:00
+
+Buddy Hield, 30, played six seasons with the NBA's Sacramento Kings. But apparently, the current Indiana Pacer wasn't too fond of his time in Sacramento.
+
+## Georgia police officer buys homeless man hotel room, warm meal amid freezing weather: 'act of service'
+ - [https://www.foxnews.com/us/georgia-police-officer-buys-homeless-man-hotel-room-warm-meal-amid-freezing-weather](https://www.foxnews.com/us/georgia-police-officer-buys-homeless-man-hotel-room-warm-meal-amid-freezing-weather)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:51:48+00:00
+
+People are praising the kind act of a Georgia Police Department Officer after he bought a man in need a warm meal and a place to stay the night.
+
+## Border Patrol agents arrest two teenagers in Arizona human smuggling incident involving five migrants
+ - [https://www.foxnews.com/us/border-patrol-agents-arrest-two-teenagers-arizona-human-smuggling-incident-involving-five-migrants](https://www.foxnews.com/us/border-patrol-agents-arrest-two-teenagers-arizona-human-smuggling-incident-involving-five-migrants)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:49:42+00:00
+
+Border Patrol agents in Arizona stopped a human smuggling operation and arrested two teenagers who were allegedly transporting five migrants.
+
+## Jets WR coach, former Cowboys receiver Miles Austin, suspended for violating league's gambling policy: reports
+ - [https://www.foxnews.com/sports/jets-wr-coach-former-cowboys-receiver-miles-austin-suspended-violating-leagues-gambling-policy-reports](https://www.foxnews.com/sports/jets-wr-coach-former-cowboys-receiver-miles-austin-suspended-violating-leagues-gambling-policy-reports)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:35:11+00:00
+
+New York Jets wide receivers coach and former Dallas Cowboy Miles Austin has reportedly been suspended by the NFL for violating the league's gambling policy.
+
+## House GOP Leader McCarthy blasts omnibus bill after it passes: 'Forever stain this Congress'
+ - [https://www.foxnews.com/politics/house-gop-leader-mccarthy-blasts-omnibus-bill-after-passes-forever-stain-this-congress](https://www.foxnews.com/politics/house-gop-leader-mccarthy-blasts-omnibus-bill-after-passes-forever-stain-this-congress)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:31:14+00:00
+
+House GOP Leader Kevin McCarthy said the $1.7 trillion government spending bill is a "stain" on the current Congress after it passed on Friday.
+
+## 2022 in review: How Biden’s border woes went from bad to worse
+ - [https://www.foxnews.com/politics/2022-review-how-bidens-border-woes-went-from-bad-worse](https://www.foxnews.com/politics/2022-review-how-bidens-border-woes-went-from-bad-worse)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:22:44+00:00
+
+After a horrible year at the southern border in 2021, the situation worsened for the Biden administration in 2022 as numbers increased and political waters became murkier.
+
+## Tamar Braxton details recent health scare, urging fans to 'please be careful'
+ - [https://www.foxnews.com/entertainment/tamar-braxton-details-recent-health-scare-urging-fans-please-careful](https://www.foxnews.com/entertainment/tamar-braxton-details-recent-health-scare-urging-fans-please-careful)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-23 23:09:50+00:00
+
+Tamar Braxton revealed she experienced a recent health scare after feeling flu like symptoms. She encouraged her fans to be careful this holiday season, so they don't get what she has.
 
 ## Pennsylvania police bodycams capture dramatic rescue of woman from car sinking in frigid pond
  - [https://www.foxnews.com/us/pennsylvania-police-bodycams-capture-rescue-woman-car-sinking-frigid-pond](https://www.foxnews.com/us/pennsylvania-police-bodycams-capture-rescue-woman-car-sinking-frigid-pond)
@@ -1042,3 +1098,4 @@ Suspected kidnapper Nalah Jackson was arrested Thursday evening by Indianapolis 
  - date published: 2022-12-23 00:00:26+00:00
 
 TikTok’s China-based parent company ByteDance revealed that an internal probe found employees had inappropriately obtained the data of U.S. TikTok users.
+

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Promocja drewna przez parafie. KO zawiadamia prokuraturę, Lasy Państwowe odpowiadają
  - [https://www.money.pl/gospodarka/promocja-drewna-przez-parafie-ko-zawiadamia-prokurature-lasy-panstwowe-odpowiadaja-6841725168691744a.html](https://www.money.pl/gospodarka/promocja-drewna-przez-parafie-ko-zawiadamia-prokurature-lasy-panstwowe-odpowiadaja-6841725168691744a.html)
@@ -188,3 +188,4 @@
  - date published: 2022-12-06 05:16:08+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/56bb6bcd-887c-4bab-a59b-3c7fd0a9c77e" width="308" /> Węgry są blisko kryzysu, wszystkie limity cen powinny zostać natychmiast wycofane - miał stwierdzić podczas poniedziałkowego posiedzenia parlamentarnej komisji ds. gospodarczych Gyorgy Matolcsy, prezes Narodowego Banku Węgier (MNB), krytykując poczynania rządu Viktora Orbana.
+

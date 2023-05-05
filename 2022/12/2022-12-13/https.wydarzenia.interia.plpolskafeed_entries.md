@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Ferie zimowe 2023. Kiedy przerwę mają uczniowie z podlaskiego i warmińsko-mazurskiego?
  - [https://wydarzenia.interia.pl/kraj/news-ferie-zimowe-2023-kiedy-przerwe-maja-uczniowie-z-podlaskiego,nId,6461086](https://wydarzenia.interia.pl/kraj/news-ferie-zimowe-2023-kiedy-przerwe-maja-uczniowie-z-podlaskiego,nId,6461086)
@@ -41,3 +41,4 @@
  - date published: 2022-12-13 05:14:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-sejm-komisja-zaopiniowala-wniosek-ws-wotum-nieufnosci-wobec-,nId,6470011"><img align="left" alt="Sejm: Komisja zaopiniowała wniosek ws. wotum nieufności wobec Ziobry" src="https://i.iplsc.com/sejm-komisja-zaopiniowala-wniosek-ws-wotum-nieufnosci-wobec/000GHA875GUY9D5L-C321.jpg" /></a>Sejmowa komisja negatywnie zaopiniowała wniosek o wyrażenie wotum nieufności wobec ministra sprawiedliwości Zbigniewa Ziobry. Wniosek złożyły kluby KO i Lewicy oraz koło Polska 2050. - Fakty kompletnie was nie interesują, nie słuchacie - powiedział Ziobro do opozycji na koniec sześciogodzinnych obrad.</p><br clear="all" />
+

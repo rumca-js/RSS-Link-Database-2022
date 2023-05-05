@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Wojna w Ukrainie. Putin mówi o rosnącym ryzyku
  - [https://www.money.pl/gospodarka/wojna-w-ukrainie-putin-mowi-o-rosnacym-ryzyku-6842143074429472a.html](https://www.money.pl/gospodarka/wojna-w-ukrainie-putin-mowi-o-rosnacym-ryzyku-6842143074429472a.html)
@@ -188,3 +188,4 @@
  - date published: 2022-12-07 04:45:00+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/acf6e6b5-3163-428f-9396-5f62a25f948e" width="308" /> Stopy procentowe znów na niezmienionym poziomie? Rada Polityki Pieniężnej ogłosi dziś ostatnią w 2022 r. decyzję, która będzie mieć wpływ na wysokość rat kredytów. Ostatnie wypowiedzi członków RPP mogą sugerować, że w grudniu Rada trzeci miesiąc z rzędu nie dokona zmian, po 11 z rzędu podwyżkach do września. Obecnie stopa referencyjna wynosi 6,75 proc.
+

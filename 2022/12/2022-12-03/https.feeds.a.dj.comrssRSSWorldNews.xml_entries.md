@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## U.K. Police Raid London Home of Russian Oligarch
  - [https://www.wsj.com/articles/british-police-raid-london-home-of-russian-oligarch-seizing-cash-and-devices-11670097079](https://www.wsj.com/articles/british-police-raid-london-home-of-russian-oligarch-seizing-cash-and-devices-11670097079)
@@ -41,3 +41,4 @@ The Reserve Bank of New Zealand is encouraging households to cut spending in a b
  - date published: 2022-12-03 10:30:00+00:00
 
 European officials say subsidies in the Inflation Reduction Act threaten the region’s economy as it teeters on the verge of a recession.
+

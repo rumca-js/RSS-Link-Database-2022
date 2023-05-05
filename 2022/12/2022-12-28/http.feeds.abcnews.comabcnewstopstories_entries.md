@@ -1,4 +1,11 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
+
+## WATCH:  Top US Google searches of 2022
+ - [https://abcnews.go.com/US/video/top-us-google-searches-2022-95687832](https://abcnews.go.com/US/video/top-us-google-searches-2022-95687832)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-28 21:22:04+00:00
+
+Here's a look back at the top U.S. Google searches in 2022.
 
 ## What's causing the flights meltdown at Southwest Airlines?
  - [https://abcnews.go.com/Business/causing-flights-meltdown-southwest-airlines/story?id=95888949](https://abcnews.go.com/Business/causing-flights-meltdown-southwest-airlines/story?id=95888949)
@@ -237,3 +244,4 @@ Heavy rains and torrents of floodwater prompted the evacuation of Jordan’s fam
  - date published: 2022-12-28 00:16:25+00:00
 
 A father and son helped rescue the pilot of a small plane after it crash-landed onto an iced-over Maryland creek on Monday.
+

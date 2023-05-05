@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## LastPass users: Your info and password vault data are now in hackers’ hands
  - [https://arstechnica.com/?p=1906575](https://arstechnica.com/?p=1906575)
@@ -83,3 +83,4 @@ With rising popularity comes rising costs, culture shifts—and potential legal 
  - date published: 2022-12-22 11:45:38+00:00
 
 The differences between ICE vehicles and EVs go all the way down to the tarmac.
+

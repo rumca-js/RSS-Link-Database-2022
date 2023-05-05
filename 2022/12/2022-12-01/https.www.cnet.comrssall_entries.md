@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Disney's New AI Can Make Your Favorite Actor Look Older or Younger     - CNET
  - [https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/#ftag=CADf328eec)
@@ -678,3 +678,4 @@ Sam Bankman-Fried, the founder of FTX, was worth approximately $16 billion at th
  - date published: 2022-12-01 00:00:01+00:00
 
 Excellent contrast, accurate color and solid features make it our favorite sub-$1,000 projector for 2020.
+

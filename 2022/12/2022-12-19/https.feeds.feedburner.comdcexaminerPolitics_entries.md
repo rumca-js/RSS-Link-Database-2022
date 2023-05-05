@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## Key tax breaks left out of funding bill, clouding their future
  - [https://www.washingtonexaminer.com/policy/tax-provisions-omnibus-left-out](https://www.washingtonexaminer.com/policy/tax-provisions-omnibus-left-out)
@@ -13,3 +13,4 @@ Efforts to expand the child tax credit and avoid losing a prized business tax br
  - date published: 2022-12-19 08:00:05+00:00
 
 After FTX’s collapse, some lawmakers quickly donated campaign contributions from the company’s disgraced founder Sam Bankman-Fried to a wide array of charities.
+

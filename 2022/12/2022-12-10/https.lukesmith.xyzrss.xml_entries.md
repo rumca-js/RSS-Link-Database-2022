@@ -1,4 +1,4 @@
-# Source Luke Smith, Source URL:https://lukesmith.xyz/rss.xml, Source language: en-US
+# Source:Luke Smith, URL:https://lukesmith.xyz/rss.xml, language:en-US
 
 ## Blockchain Blasphemy and the Technological Antichrist
  - [https://lukesmith.xyz/articles/blockchain-blasphemy/](https://lukesmith.xyz/articles/blockchain-blasphemy/)
@@ -121,3 +121,4 @@ At that, the trajectory of an asteroid is an issue of math, while any alleged tr
 <li>There are utopian and millennialist sects going by various names that concoct rationalizations to expand the power of this technological system, expand its range and shield it from questioning.</li>
 </ol>
 <p>I will leave for the future why I so quickly dismiss the supposed inevitability of &ldquo;singularity.&rdquo; Perhaps in the next episode&hellip;</p>
+

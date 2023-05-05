@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Relive the Inanity of 2022 With Google’s ‘Year in Search’
  - [https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636](https://lifehacker.com/relive-the-inanity-of-2022-with-google-s-year-in-searc-1849905636)
@@ -118,3 +118,4 @@
  - date published: 2022-12-16 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--SdyU0p7N--/c_fit,fl_progressive,q_80,w_636/5434d5311e3d6eb0fc9b9e3f8d00d414.jpg" /><p>One of my favorite Christmastime treats is a three-ingredient sweet called “Rolo candy.” (At least that is what my family called it.) You take a mini pretzel, place an unwrapped Rolo on top, then heat it in the oven until the candy softens. Press a pecan half into the chocolate and let it set, and you have a…</p><p><a href="https://lifehacker.com/these-3-ingredient-pecan-bites-are-a-perfect-amuse-bouc-1849900542">Read more...</a></p>
+

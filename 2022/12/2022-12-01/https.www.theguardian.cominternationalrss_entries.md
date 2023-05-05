@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Hansi Flick left in limbo as Germany fail to find new winning blueprint | Jonathan Liew
  - [https://www.theguardian.com/football/blog/2022/dec/01/hansi-flick-germany-world-cup-limbo-fail-winning-blueprint](https://www.theguardian.com/football/blog/2022/dec/01/hansi-flick-germany-world-cup-limbo-fail-winning-blueprint)
@@ -1073,3 +1073,4 @@ decision-making or the setting of policy. However, documents discovered by the G
  - date published: 2022-12-01 00:32:06+00:00
 
 <p>Disgraced CEO said he ‘didn’t knowingly comingle funds’ with FTX’s sister company Alameda Research</p><p>“Look, I screwed up,” fallen crypto billionaire Sam Bankman-Fried told a conference in New York on Wednesday, but he maintained he “didn’t ever try to commit fraud” and was “shocked” by the collapse of his businesses.</p><p>Bankman-Fried, with glassy eyes and visibly shaking at times, appeared via video conference from a nondescript room in the Bahamas. He told the New York Times’s DealBook Summit he was “deeply sorry about what happened” but consistently argued he did not have a full picture of what was going on within the various branches of FTX, his now bankrupt cryptocurrency exchange, and its offshoots.</p> <a href="https://www.theguardian.com/technology/2022/nov/30/ftx-sam-bankman-fried-i-screwed-up">Continue reading...</a>
+

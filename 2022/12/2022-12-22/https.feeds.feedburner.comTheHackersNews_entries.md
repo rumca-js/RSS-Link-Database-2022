@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## FIN7 Cybercrime Syndicate Emerges as Major Player in Ransomware Landscape
  - [https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html](https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html)
@@ -50,3 +50,4 @@ Zerobot, first documented by Fortinet FortiGuard Labs earlier this month,
 Okta, a company that provides identity and access management services, disclosed on Wednesday that some of its source code repositories were accessed in an unauthorized manner earlier this month.
 "There is no impact to any customers, including any HIPAA, FedRAMP or DoD customers," the company said in a public statement. "No action is required by customers."
 The security event, which was first
+

@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Covid Disinformation Doctor Wants to Help Elon Musk Do Medical Fact-Checks on Twitter
  - [https://theintercept.com/2022/12/15/elon-musk-twitter-covid-vaccine-simone-gold/](https://theintercept.com/2022/12/15/elon-musk-twitter-covid-vaccine-simone-gold/)
@@ -31,3 +31,4 @@
 
 <p>Confusion reigned as Twitter’s capricious billionaire owner seemed to make company policy on the fly.</p>
 <p>The post <a href="https://theintercept.com/2022/12/14/twitter-elonjets-elon-musk-ban/" rel="nofollow">Tweaked Twitter Privacy Rules Would Ban Elon Musk’s Bêtes Noires — or Not</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

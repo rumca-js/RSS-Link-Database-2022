@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## SC official says Alex Murdaugh will not face death penalty
  - [http://www.msn.com/en-us/news/crime/sc-official-says-alex-murdaugh-will-not-face-death-penalty/ar-AA15vfEM?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/sc-official-says-alex-murdaugh-will-not-face-death-penalty/ar-AA15vfEM?li=BBnbcA1&srcref=rss)
@@ -1467,5 +1467,6 @@
  - [http://www.msn.com/en-us/news/crime/michigan-man-sentenced-for-gun-crime-in-wva-bar-shooting/ar-AA15t2v3?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/michigan-man-sentenced-for-gun-crime-in-wva-bar-shooting/ar-AA15t2v3?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-20 00:45:06.021471+00:00
+
 
 

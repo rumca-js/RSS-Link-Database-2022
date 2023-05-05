@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wpadka premiera Wielkiej Brytanii. Zapytał bezdomnego, czy zajmuje się biznesem
  - [https://wydarzenia.interia.pl/zagranica/news-wpadka-premiera-wielkiej-brytanii-zapytal-bezdomnego-czy-zaj,nId,6493365](https://wydarzenia.interia.pl/zagranica/news-wpadka-premiera-wielkiej-brytanii-zapytal-bezdomnego-czy-zaj,nId,6493365)
@@ -307,3 +307,4 @@
  - date published: 2022-12-24 05:00:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-jak-po-30-latach-wyglada-dom-kevina-mccallistera-odwiedzilis,nId,6482769"><img align="left" alt="Jak po 30 latach wygląda dom Kevina McCallistera? Odwiedziliśmy kultowe miejsce na mapie Chicago" src="https://i.iplsc.com/jak-po-30-latach-wyglada-dom-kevina-mccallistera-odwiedzilis/000GIGT7BKX084U2-C321.jpg" /></a>Wigilijna kolacja, choinka, prezenty i &quot;Kevin sam w domu&quot; w Polsacie - tak od lat wygląda świąteczny harmonogram Polaków. Koniec grudnia bez spotkania z tym zawadiackim chłopcem wydaje się być niepełny. Rezydencję rodziny McCallister znajdziemy na przedmieściach Chicago. Odwiedziłam tę okolicę i sprawdziłam, gdzie najlepiej zastawić pułapkę na złodziei.</p><br clear="all" />
+

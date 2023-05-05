@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Ukraine Will Get What It Needs to ‘Defend Itself and Succeed on the Battlefield,’ Biden Tells Zelensky
  - [https://www.theepochtimes.com/ukraine-will-get-what-it-needs-to-defend-itself-and-succeed-on-the-battlefield-biden-tells-zelensky_4938451.html](https://www.theepochtimes.com/ukraine-will-get-what-it-needs-to-defend-itself-and-succeed-on-the-battlefield-biden-tells-zelensky_4938451.html)
@@ -412,3 +412,4 @@ Prime Minister Justin Trudeau discusses dental care for children at Schulich Sch
  - date published: 2022-12-21 00:05:16+00:00
 
 Panelists at the “Citizens' Hearing”—an independent inquiry into Canada's pandemic response—listen to stories of Canadians adversely affected by COVID-19 vaccine mandates and restrictions, in Toronto on June 23, 2022. (L–R) Former Reform Party leader Preston Manning, retired Ontario pediatrician Dr. Susan Natsheh, and David Ross, president of the Canadian Covid Care Alliance. (Andrew Chen/The Epoch Times)
+

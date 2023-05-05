@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Core i5-12400 podkręcony do 5,0 GHz! MSI planuje wypuścić płyty pozwalające na OC procesorów Non-K
  - [https://ithardware.pl/aktualnosci/core_i5_12400_podkrecony_do_5_0_ghz_msi_planuje_wypuscic_plyty_pozwalajace_na_oc_procesorow_non_k-25065.html](https://ithardware.pl/aktualnosci/core_i5_12400_podkrecony_do_5_0_ghz_msi_planuje_wypuscic_plyty_pozwalajace_na_oc_procesorow_non_k-25065.html)
@@ -103,3 +103,4 @@ Death Standing Director's...
 
 <img src="https://ithardware.pl/artykuly/min/25053_1.jpg" />            Chiński producent samochod&oacute;w elektrycznych NIO zaprezentował nowego elektrycznego SUV-a, model EC7. Auto charakteryzuje się doskonałą aerodynamiką ze wsp&oacute;łczynnikiem&nbsp;oporu powietrza 0,23, aktywną aerodynamiką dzięki...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/nio_ec7_elektryczny_suv_z_doskonala_aerodynamika_i_zasiegiem_do_940_km-25053.html">https://ithardware.pl/aktualnosci/nio_ec7_elektryczny_suv_z_doskonala_aerodynamika_i_zasiegiem_do_940_km-25053.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Six Senses Nears Plastic-Free Goal; Here’s What’s Left To Do
  - [https://www.forbes.com/sites/douggollan/2022/12/07/six-senses-nears-plastic-free-goal-heres-whats-left-to-do/](https://www.forbes.com/sites/douggollan/2022/12/07/six-senses-nears-plastic-free-goal-heres-whats-left-to-do/)
@@ -699,3 +699,4 @@ Artifical hibernation could help protect humans as they explore the solar system
  - date published: 2022-12-07 00:34:49+00:00
 
 Twitter’s CEO complained about the investigation on his own platform, questioning why the city “attacks companies providing beds for tired employees” when it could prioritize enforcing drug laws instead.
+

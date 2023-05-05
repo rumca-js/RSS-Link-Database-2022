@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Orion spacecraft splashes down in Pacific, completing first Artemis mission
  - [https://www.washingtonpost.com/technology/2022/12/11/orion-splashdown-artemis-mission/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/11/orion-splashdown-artemis-mission/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ The Orion spacecraft, which had no astronauts on board, splashed down in the Pac
  - date published: 2022-12-11 11:45:40+00:00
 
 The flight has gone exceedingly well, raising hopes for Artemis II, the first flight with crew.
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## As ‘Halo Infinite’ esports enters year 2, teams express cautious optimism
  - [https://www.washingtonpost.com/video-games/esports/2022/12/02/halo-infinite-esports-c9-optic/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/esports/2022/12/02/halo-infinite-esports-c9-optic/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ Zeka and Deft talked about what it was like to challenge T1 and Faker.
  - date published: 2022-12-02 05:49:23+00:00
 
 Musk said Ye was suspended for "incitement to violence" after he posted a swastika and his interview with Infowars's Alex Jones praising Hitler.
+

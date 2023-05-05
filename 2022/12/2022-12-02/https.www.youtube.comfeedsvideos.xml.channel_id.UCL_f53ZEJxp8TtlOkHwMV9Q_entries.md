@@ -1,4 +1,4 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
+# Source:Jordan B Peterson, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, language:en-US
 
 ## The Irrefutable Argument for God (Exodus Clip)
  - [https://www.youtube.com/watch?v=iozl992R_0Q](https://www.youtube.com/watch?v=iozl992R_0Q)
@@ -39,3 +39,4 @@ Telegram: https://t.me/DrJordanPeterson
 All socials: https://linktr.ee/drjordanbpeterson
 
 #JordanPeterson #JordanBPeterson #DrJordanPeterson #DrJordanBPeterson #DailyWirePlus
+

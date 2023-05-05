@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Masz RTX 4090? Ten adapter be quiet! zmnijeszy rachunki za prąd!
  - [https://ithardware.pl/aktualnosci/masz_rtx_4090_ten_adapter_be_quiet_zmnijeszy_rachunki_za_prad-24679.html](https://ithardware.pl/aktualnosci/masz_rtx_4090_ten_adapter_be_quiet_zmnijeszy_rachunki_za_prad-24679.html)
@@ -111,3 +111,4 @@ Geralt z Rivii, gł&oacute;wny bohater książek Andrzeja Sapkowskiego i gier CD
 
 <img src="https://ithardware.pl/artykuly/min/24612_1.jpg" />            Dziś 4 grudnia i choć do Świąt Bożego Narodzenia jeszcze trochę zostało, my kontynuujemy naszą serię konkurs&oacute;w adwentowych. Dziś prawdziwa bomba! Do zgarnięcia wysokiej jakości słuchawki bezprzewodowe Corsair HS80 WL Carbon o...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_4-24612.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_4-24612.html</a></p>
+

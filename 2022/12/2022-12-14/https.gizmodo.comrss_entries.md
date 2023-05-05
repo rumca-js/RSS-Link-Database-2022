@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## HBO Max Is Removing Even More Shows, But They'll Have a Streaming Future... Somewhere
  - [https://gizmodo.com/hbo-max-westworld-raised-by-wolves-free-ad-supported-tv-1849895241](https://gizmodo.com/hbo-max-westworld-raised-by-wolves-free-ad-supported-tv-1849895241)
@@ -237,3 +237,4 @@
  - date published: 2022-12-14 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--pHQu--6K--/c_fit,fl_progressive,q_80,w_636/c054d4ac1b95ec6b61e8ed7e8c6d4ea4.png" /><p>If you’re one of the nearly 5,000 backers of the 2017 smash-hit board game <a href="https://www.google.com/search?q=gizmodo+gloomhaven&amp;oq=gizmodo+gloomhaven&amp;aqs=chrome..69i57j33i160l3.4585j0j15&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer" target="_blank"><em>Gloomhaven</em></a>—or one of the more than 83,000 backers of its sequel, <em>Frosthaven</em>—you should probably be aware that the tabletop board game is moving to, uh, a different table, I guess. Game designer Isaac Childres has announced <em>Gloomhaven</em> will soon…</p><p><a href="https://gizmodo.com/gloomhaven-board-game-role-playing-rpg-cephalofair-1849889868">Read more...</a></p>
+

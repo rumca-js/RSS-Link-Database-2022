@@ -1,4 +1,4 @@
-# Source Financial Times World, Source URL:https://www.ft.com/world?format=rss, Source language: en-US
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## Rishi Sunak urged to stick by plan to rapidly overhaul EU laws
  - [https://www.ft.com/content/a150d286-d154-4916-bfea-8d366e8c7aed](https://www.ft.com/content/a150d286-d154-4916-bfea-8d366e8c7aed)
@@ -13,6 +13,13 @@ Jacob Rees-Mogg warns that backtracking could play into the hands of Labour at t
  - date published: 2022-12-29 20:55:45+00:00
 
 Also in today’s newsletter, Ukraine rocked by massive Russian missile barrage and what to read in 2023
+
+## Congress faults US regulator’s approval of Biogen Alzheimer’s drug
+ - [https://www.ft.com/content/5389750b-71b0-4fe6-9793-feb6f64712e1](https://www.ft.com/content/5389750b-71b0-4fe6-9793-feb6f64712e1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-29 20:33:15+00:00
+
+Committees cite inappropriate collaboration between FDA and drugmaker
 
 ## Pelé, football star and global symbol of Brazil, 1940-2022
  - [https://www.ft.com/content/9a54070a-d503-41fc-816c-e6f9d477951c](https://www.ft.com/content/9a54070a-d503-41fc-816c-e6f9d477951c)
@@ -244,3 +251,4 @@ Demand for international travel soars as restrictions are lifted but some countr
  - date published: 2022-12-29 00:01:24+00:00
 
 Incoming TUC head vows to fight ‘tough’ legislation promised by PM as industrial unrest escalates
+

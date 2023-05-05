@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Boy found buried under Arkansas house; mother, man arrested
  - [https://abcnews.go.com/US/wireStory/boy-found-buried-arkansas-house-mother-man-arrested-95481458](https://abcnews.go.com/US/wireStory/boy-found-buried-arkansas-house-mother-man-arrested-95481458)
@@ -174,3 +174,4 @@ Four people were shot, two fatally, outside Benito Juarez High School Friday aft
  - date published: 2022-12-17 00:03:54+00:00
 
 TSA said it has recovered a record 6,301 firearms from airport security checkpoints so far this year as of Friday -- more than 88% of which were loaded.
+

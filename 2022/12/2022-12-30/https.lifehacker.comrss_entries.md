@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Should Get In on Wesson's $3 Million False Advertising Settlement
  - [https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170](https://lifehacker.com/you-should-get-in-on-wessons-3-million-false-advertisi-1849939170)
@@ -20,3 +20,4 @@
  - date published: 2022-12-30 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--NPAYZokb--/c_fit,fl_progressive,q_80,w_636/62308fcb2ed2a12f6242334e9515185a.jpg" /><p>Well, 2022 was another one for the books. After making it through the third year of the COVID-19 pandemic, along with countless other challenges, treat yourself to some free or cheap food on New Year’s Day. Here are a few of the available offers.</p><p><a href="https://lifehacker.com/the-best-free-and-cheap-food-for-new-years-day-1849939195">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Samsung Galaxy S23 signature colors and new release date leak out
  - [https://www.techradar.com/news/samsung-galaxy-s23-signature-colors-and-new-release-date-leak-out](https://www.techradar.com/news/samsung-galaxy-s23-signature-colors-and-new-release-date-leak-out)
@@ -13,3 +13,4 @@ We now have a better idea of when the Galaxy S23 phones are going to show up and
  - date published: 2022-12-25 04:00:16+00:00
 
 Most users seem confident they can spot social media scams, which many claim occur at least once a week.
+

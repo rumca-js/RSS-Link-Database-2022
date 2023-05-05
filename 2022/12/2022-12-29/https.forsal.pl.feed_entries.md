@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Stanowisko szefa WHO w sprawie środków podjętych przez inne kraje w związku z nawrotem pandemii w Chinach
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8621449,who-stanowisko-panstw-nawrot-pandemii-chiny.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8621449,who-stanowisko-panstw-nawrot-pandemii-chiny.html)
@@ -566,3 +566,4 @@
  - date published: 2022-12-29 05:15:53+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/8xtktkuTURBXy85OGYzN2YzNS1lYWQyLTQ1ZTgtODY0NS01ZDlkNDllNTE5NzIuanBlZ5GTBc0BHcyg" />Akcje Tesli w grudniu spadły o 44 proc., a Elon Musk przesiaduje na Twitterze. Gigant na rynku samochodów elektrycznych dołącza do najsłabszych wśród najcenniejszych firm technologicznych.
+

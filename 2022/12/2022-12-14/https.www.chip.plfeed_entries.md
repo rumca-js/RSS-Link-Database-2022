@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Świąteczne promocje Plusa już dostępne. Zobacz, co możesz zyskać
  - [https://www.chip.pl/2022/12/swiateczne-promocje-plusa-juz-dostepne-zobacz-co-mozesz-zyskac](https://www.chip.pl/2022/12/swiateczne-promocje-plusa-juz-dostepne-zobacz-co-mozesz-zyskac)
@@ -135,3 +135,4 @@
 
 <img alt="optyczny układ obliczeniowy" class="attachment-full size-full wp-post-image" height="1264" src="https://konto.chip.pl/wp-content/uploads/2022/12/Ulepszony-optyczny-uklad-obliczeniowy.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Ulepszony-optyczny-uklad-obliczeniowy.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Ledwie kilka dni temu opisywałem to, jak konkretny rodzaj tlenków może stać się podstawą dla układów optycznych, a dziś ponownie powracam do tego tematu związanego z &#8220;procesorami przyszłości&#8221;. Tym jednak razem nie z powodu nowego materiału, bo zespoły naukowców z Monash University, RMIT i University of Adelaide osiągnęły coś być może ważniejszego &#8211; dokładną metodę [&#8230;]</p>
+

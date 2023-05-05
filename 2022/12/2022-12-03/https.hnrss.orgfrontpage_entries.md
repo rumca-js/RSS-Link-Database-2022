@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Fosshost Is Shutting Down
  - [https://fosshost.org/](https://fosshost.org/)
@@ -621,7 +621,6 @@ I was pretty surprised and happy, because I hadn't had much success with Google.
  - [https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-03 02:40:32+00:00
- - tags: censorship,privacy,facebook,new zealand
 
 <p>Article URL: <a href="https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/">https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33839919">https://news.ycombinator.com/item?id=33839919</a></p>
@@ -657,3 +656,4 @@ I was pretty surprised and happy, because I hadn't had much success with Google.
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33838697">https://news.ycombinator.com/item?id=33838697</a></p>
 <p>Points: 13</p>
 <p># Comments: 15</p>
+

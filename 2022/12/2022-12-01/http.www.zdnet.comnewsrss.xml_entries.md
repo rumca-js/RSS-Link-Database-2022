@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Eufy's security cameras send data to the cloud without consent, and that's not the worst part
  - [https://www.zdnet.com/article/eufys-security-cameras-send-data-to-the-cloud-without-consent-and-thats-not-the-worst-part/#ftag=RSSbaffb68](https://www.zdnet.com/article/eufys-security-cameras-send-data-to-the-cloud-without-consent-and-thats-not-the-worst-part/#ftag=RSSbaffb68)
@@ -132,3 +132,4 @@ Some VPNs can unblock streaming services. But depending on the device and where 
  - date published: 2022-12-01 00:26:00+00:00
 
 If you're traveling for the holidays, a portable monitors allows you to work or play as easily as if you were home. And the best ones offer USB-C passthrough, a good refresh rate, and more.
+

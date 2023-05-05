@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Jack Dorsey Says Twitter Has Too Much Power
  - [https://www.wsj.com/articles/jack-dorsey-says-twitter-has-too-much-power-11671034399?mod=rss_Technology](https://www.wsj.com/articles/jack-dorsey-says-twitter-has-too-much-power-11671034399?mod=rss_Technology)
@@ -41,3 +41,4 @@ Group14, now valued above $3 billion, also got a $100 million government grant t
  - date published: 2022-12-14 10:30:00+00:00
 
 The CFTC’s complaint is taking advantage of leeway granted in legislation passed over a decade ago after the 2008-09 financial crisis.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## EU Imposes New Sanctions on Iranians Over Supplying Drones to Russia
  - [https://www.nytimes.com/2022/12/12/world/europe/russia-iran-ukraine-drones-eu-sanctions.html](https://www.nytimes.com/2022/12/12/world/europe/russia-iran-ukraine-drones-eu-sanctions.html)
@@ -139,3 +139,4 @@ China, Russia, Turkey and the United Arab Emirates are all vying for influence i
  - date published: 2022-12-12 05:55:14+00:00
 
 The German aristocrat connected to a plot to overthrow the government.
+

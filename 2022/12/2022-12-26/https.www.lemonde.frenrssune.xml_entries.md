@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Kurds killed in Paris: The 10th district mourns the victims in silent march
  - [https://www.lemonde.fr/en/france/article/2022/12/27/kurds-killed-in-paris-the-10th-district-mourns-the-victims-in-silent-march_6009237_7.html](https://www.lemonde.fr/en/france/article/2022/12/27/kurds-killed-in-paris-the-10th-district-mourns-the-victims-in-silent-march_6009237_7.html)
@@ -6,6 +6,20 @@
  - date published: 2022-12-26 23:02:41+00:00
 
 Several hundred people marched on Monday midday from rue d'Enghien to rue La Fayette to pay tribute to the three Kurdish activists shot dead on Friday. Among them, many Kurds, and the occasional French people who came to show their support.
+
+## Youth on probation: Iranians through the lens of Forough Alaei
+ - [https://www.lemonde.fr/en/m-le-mag/article/2022/12/26/youth-on-probation-iranians-through-the-lens-of-forough-alaei_6009236_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/12/26/youth-on-probation-iranians-through-the-lens-of-forough-alaei_6009236_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-26 22:40:28+00:00
+
+Very few photographic documents bear witness to the daily life of today's Iranian youth. Those taken by 33 years old female photographer Forough Alaei portray this new generation longing for prosperity – and fighting for freedom of choice.
+
+## Japanese treatments and marine spas: Five relaxing stays in France to melt your stress away
+ - [https://www.lemonde.fr/en/health/article/2022/12/26/japanese-treatments-and-marine-spas-five-relaxing-stays-in-france-to-melt-your-stress-away_6009227_14.html](https://www.lemonde.fr/en/health/article/2022/12/26/japanese-treatments-and-marine-spas-five-relaxing-stays-in-france-to-melt-your-stress-away_6009227_14.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-26 19:30:06+00:00
+
+In 2023, it's time to make taking care of yourself a priority. How about a sea thalasso in Bénodet, Japanese treatments in Alsace, or a candlelight massage in Epernay?
 
 ## Japan redesigns energy future by prioritizing nuclear power
  - [https://www.lemonde.fr/en/environment/article/2022/12/26/japan-redesigns-energy-future-by-prioritizing-nuclear-power_6009218_114.html](https://www.lemonde.fr/en/environment/article/2022/12/26/japan-redesigns-energy-future-by-prioritizing-nuclear-power_6009218_114.html)
@@ -209,3 +223,4 @@ China said it conducted the 'strike drill' in response to unspecified 'provocati
  - date published: 2022-12-26 02:58:54+00:00
 
 As strained relations between the two countries were exacerbated by recent blockades, Belgrade is preparing to send troops to the border.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Should Get In on Keurig's $10 Million K-Cup Settlement
  - [https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)
@@ -20,3 +20,4 @@
  - date published: 2022-12-17 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--R7FhrSzy--/c_fit,fl_progressive,q_80,w_636/32fdf4469d5064eafbbe08f0c16267c6.jpg" /><p>Whether your <a href="https://lifehacker.com/how-to-manage-your-seasonal-depression-1829966671">seasonal affective disorder</a> has kicked in, or you’re <a href="https://lifehacker.com/how-to-manage-your-anxiety-during-the-holidays-1849862228">feeling the pressure of the holiday season</a>, chances are you could use some comfort food. And if you’ve already gone over your yearly budget, it would be even better if that food was available at a discount, or perhaps even for free. </p><p><a href="https://lifehacker.com/feed-your-sad-some-free-wendy-s-1849898962">Read more...</a></p>
+

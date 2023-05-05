@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wołodymyr Zełenski w USA. Joe Biden podczas konferencji mówił o wsparciu i ogłosił pakiet pomocy
  - [https://www.polsatnews.pl/wiadomosc/2022-12-21/wolodymyr-zelenski-w-usa-joe-biden-podczas-konferencji-mowil-o-wsparciu-i-oglosil-pakiet-pomocy/](https://www.polsatnews.pl/wiadomosc/2022-12-21/wolodymyr-zelenski-w-usa-joe-biden-podczas-konferencji-mowil-o-wsparciu-i-oglosil-pakiet-pomocy/)
@@ -146,3 +146,4 @@ Zrezygnuję z funkcji dyrektora generalnego, gdy tylko znajdę kogoś na tyle g�
  - date published: 2022-12-21 05:03:00+00:00
 
 Podczas środowej wizyty prezydenta Ukrainy w Waszyngtonie ogłoszony zostanie pakiet pomocy wojskowej o wartości 2 mld dolarów, obejmujący m.in. baterię systemu przeciwlotniczego i przeciwrakietowego Patriot - zapowiedział wysoki rangą przedstawiciel administracji USA. Wizyta prezydenta Ukrainy w USA byłaby jego pierwszą podróżą zagraniczną od wybuchu wojny.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## How Bolt uses Slack to kill internal email
  - [https://www.computerworld.com/article/3684089/how-bolt-uses-slack-to-kill-internal-email.html#tk.rss_all](https://www.computerworld.com/article/3684089/how-bolt-uses-slack-to-kill-internal-email.html#tk.rss_all)
@@ -17,3 +17,4 @@
 <article>
 	<section class="page">
 <p>In the face of an ongoing <a href="https://www.computerworld.com/article/3664116/how-tech-companies-are-responding-to-the-talent-gap.html">IT skills gap</a>, technologies such as low-code and no-code platforms that can automate processes and empower workers to accomplish tasks are seeing significant growth, according to a recent study.</p><p>In each of the past four years, sales in low-code and no-code application platforms (LCAP) grew more $1 billion annually, from $3.47 billion in 2019 to a projected $8 billion this year.</p><p>Over the next two years, the LCAP market is projected to be the fastest-growing segment of the “<a href="https://www.gartner.com/en/information-technology/glossary/hyperautomation" rel="nofollow noopener" target="_blank">hyperautomation</a>” technologies market, as research firm Gartner calls it. LCAP is expected to grow 25% to roughly $10 billion in 2023 and to $12.3 billion in 2024, <a href="https://www.gartner.com/en/newsroom/press-releases/2022-12-13-gartner-forecasts-worldwide-low-code-development-technologies-market-to-grow-20-percent-in-2023" rel="nofollow noopener" target="_blank">according to Gartner</a>.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3684173/low-code-development-platforms-to-grow-25-in-2023.html#jump">To read this article in full, please click here</a></p></section></article>
+

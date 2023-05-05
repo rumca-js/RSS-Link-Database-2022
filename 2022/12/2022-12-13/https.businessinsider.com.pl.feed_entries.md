@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Węgry bez unijnych pieniędzy. Niemcy: "wzmocnienie praworządności"
  - [https://businessinsider.com.pl/gospodarka/wegry-bez-unijnych-pieniedzy-niemcy-wzmocnienie-praworzadnosci/jksc9xx](https://businessinsider.com.pl/gospodarka/wegry-bez-unijnych-pieniedzy-niemcy-wzmocnienie-praworzadnosci/jksc9xx)
@@ -461,3 +461,4 @@ Od przyszłego roku banki w Polsce będą mogły oferować kredyty mieszkaniowe 
  - date published: 2022-12-13 05:09:42+00:00
 
 Notowania rosyjskiej ropy zanurkowały. Cena baryłki Urals spadła o jedną czwartą w ciągu tygodnia. Eksperci są jednak ostrożni – wciąż nie można mówić o jednoznacznym pogrążeniu naftowych zysków Kremla.
+

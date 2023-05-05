@@ -1,4 +1,11 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## US Supreme Court keeps Trump-era border policy
+ - [https://www.bbc.co.uk/news/world-us-canada-64103825?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64103825?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-27 23:55:57+00:00
+
+Legislation preventing undocumented migrants crossing the border from Mexico is extended.
 
 ## Fresh appeal for Lyla Lake, 13, missing over Christmas
  - [https://www.bbc.co.uk/news/uk-england-hampshire-64106030?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-hampshire-64106030?at_medium=RSS&at_campaign=KARANGA)
@@ -21,12 +28,33 @@ Manchester United manager Erik Ten Hag believes his team are capable of increasi
 
 Anass Zaroury hits the fastest Championship goal of the season - after just 49 seconds - as leaders Burnley beat Birmingham City.
 
+## Mullets: Australia's love affair with the iconic hairstyle
+ - [https://www.bbc.co.uk/news/world-australia-64048499?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-64048499?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-27 22:02:53+00:00
+
+"Other countries try it but it's not the same," argues one local - the hairstyle is a national icon.
+
 ## Manchester United 3-0 Nottingham Forest: Marcus Rashford, Anthony Martial & Fred score
  - [https://www.bbc.co.uk/sport/football/64035052?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64035052?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-27 21:56:49+00:00
 
 Marcus Rashford is instrumental as Manchester United continue their renaissance with a comfortable Premier League win over Nottingham Forest.
+
+## TikTok: Welsh speakers use social media to teach others
+ - [https://www.bbc.co.uk/news/uk-wales-64027345?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-64027345?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-27 21:55:36+00:00
+
+Meet the social media influencers sharing their love of the Welsh language to new audiences.
+
+## Reece James: Chelsea boss Graham Potter has 'fingers crossed' over defender's knee injury
+ - [https://www.bbc.co.uk/sport/football/64105840?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64105840?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-27 21:30:53+00:00
+
+Chelsea manager Graham Potter says he has his "fingers crossed" that Reece James' latest knee injury is not serious.
 
 ## Man, 62, dies after being hit by police car in Livingston
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-64098548?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-64098548?at_medium=RSS&at_campaign=KARANGA)
@@ -328,3 +356,4 @@ Tributes to Elle Edwards, who was shot dead in a pub on Christmas Eve, dominate 
  - date published: 2022-12-27 00:01:47+00:00
 
 As the conflict enters its second calendar year, experts predict what could happen on the ground.
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Pele: The Brazilian forward's legendary career in his own words
  - [https://www.bbc.co.uk/sport/av/football/63848046?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63848046?at_medium=RSS&at_campaign=KARANGA)
@@ -41,6 +41,20 @@ The football legend, regarded by many as the world's greatest player, has died a
  - date published: 2022-12-29 22:56:33+00:00
 
 Al Nassr want Cristiano Ronaldo and Sergio Ramos at the club, Manchester City are outbidding AC Milan for Rafael Leao, plus more.
+
+## A&E wait: Frustration over disabled man's 48-hour ordeal
+ - [https://www.bbc.co.uk/news/uk-wales-64038636?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-64038636?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-29 22:55:06+00:00
+
+The man was experiencing chest pain, was uncomfortable and had no food, a care agency boss says.
+
+## The photographer using a Victorian process to picture Scotland
+ - [https://www.bbc.co.uk/news/uk-scotland-highlands-islands-64053045?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-64053045?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-29 22:47:46+00:00
+
+Alex Boyd has made images of Scottish landscapes using a process invented more than 170 years ago.
 
 ## Liverpool: Jurgen Klopp compares Darwin Nunez to Robert Lewandowski
  - [https://www.bbc.co.uk/sport/football/64119494?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64119494?at_medium=RSS&at_campaign=KARANGA)
@@ -167,6 +181,13 @@ Italy is responding to China's Covid surge with mandatory testing - but the EU w
  - date published: 2022-12-29 16:39:25+00:00
 
 Stephen Anderson and guide dog Barney have been denied access to taxis more than 30 times.
+
+## Quiz of the week: What's the Ana de Armas lawsuit about?
+ - [https://www.bbc.co.uk/news/world-64091998?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-64091998?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-29 16:35:36+00:00
+
+How closely have you been paying attention to what's been going on over the past seven days?
 
 ## Ex-Pope Benedict is lucid and alert - Vatican
  - [https://www.bbc.co.uk/news/world-europe-64119078?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64119078?at_medium=RSS&at_campaign=KARANGA)
@@ -482,3 +503,4 @@ Slight changes to gas and electricity rates are likely to add only pennies, not 
  - date published: 2022-12-29 00:02:44+00:00
 
 Manchester City striker Erling Haaland is using the frustration of missing out on a World Cup spot with Norway as motivation to score even more goals.
+

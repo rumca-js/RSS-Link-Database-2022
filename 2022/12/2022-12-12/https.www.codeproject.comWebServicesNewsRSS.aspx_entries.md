@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## A whole new world
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59776](https://www.codeproject.com/script/News/View.aspx?nwid=59776)
@@ -97,3 +97,4 @@ Just in case you don't have any opinions of your own
  - date published: 2022-12-12 05:00:00+00:00
 
 Video killed the screenshot star
+

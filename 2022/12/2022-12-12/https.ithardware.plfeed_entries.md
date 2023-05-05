@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## GOG. Wystartowała Zimowa Wyprzedaż 2022, platforma udostępnia grę za darmo
  - [https://ithardware.pl/aktualnosci/gog_wystartowala_zimowa_wyprzedaz_2022_platforma_udostepnia_gre_za_darmo-24831.html](https://ithardware.pl/aktualnosci/gog_wystartowala_zimowa_wyprzedaz_2022_platforma_udostepnia_gre_za_darmo-24831.html)
@@ -187,3 +187,4 @@ Warto...
 
 Nagroda - myszka gamingowa Pulsar...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_12-24799.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_12-24799.html</a></p>
+

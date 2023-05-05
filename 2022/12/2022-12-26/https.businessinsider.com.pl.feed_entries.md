@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Płacisz składki ZUS? Musisz spełnić ten obowiązek. Masz czas tylko do końca grudnia
  - [https://businessinsider.com.pl/prawo/praca/nowe-wymogi-zus-od-2023-r-kto-musi-zalozyc-elektroniczne-konto/8qdstmf](https://businessinsider.com.pl/prawo/praca/nowe-wymogi-zus-od-2023-r-kto-musi-zalozyc-elektroniczne-konto/8qdstmf)
@@ -146,3 +146,4 @@ Robi się nerwowo? Nie jadę. Tak było do czasów pandemii. Od tej pory zadziwi
  - date published: 2022-12-26 06:57:00+00:00
 
 Karuzela kadrowa w polskim biznesie i gospodarce w 2022 r. kręciła się w najlepsze. Po 31 latach z funkcją prezesa pożegnał się najdłużej urzędujący szef w branży ubezpieczeń. Król TVN ogłosił przenosiny do Polsatu, a szef Telewizji Polskiej trafił do banku wszystkich banków. Poważne zmiany zaszły też w największych państwowych spółkach, gdzie trudno było nadążyć za wszystkimi roszadami.
+

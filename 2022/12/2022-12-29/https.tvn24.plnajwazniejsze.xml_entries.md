@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Legendy polskiej piłki grały przeciwko Pelemu. "Wielkie przeżycie", "wywiązałem się z zadania"
  - [https://eurosport.tvn24.pl/legendy-polskiej-pi-ki-gra-y-przeciwko-pelemu---wielkie-prze-ycie----wywi-za-em-si--z-zadania-,1130958.html?source=rss](https://eurosport.tvn24.pl/legendy-polskiej-pi-ki-gra-y-przeciwko-pelemu---wielkie-prze-ycie----wywi-za-em-si--z-zadania-,1130958.html?source=rss)
@@ -135,6 +135,22 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-mza5ro-shutterstock2116875791-6557577/alternates/LANDSCAPE_1280" />
     Prognozy dotyczące rynku kredytów mieszkaniowych.
+
+## Polacy sami wypisywaliby sobie L4? Takie rozwiązania funkcjonują w Europie
+ - [https://fakty.tvn24.pl/polacy-sami-wypisywaliby-sobie-l4--takie-rozwi-zania-funkcjonuj--w-europie,1130939.html?source=rss](https://fakty.tvn24.pl/polacy-sami-wypisywaliby-sobie-l4--takie-rozwi-zania-funkcjonuj--w-europie,1130939.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-29 18:09:00+00:00
+
+<img alt="Polacy sami wypisywaliby sobie L4? Takie rozwiązania funkcjonują w Europie" src="https://tvn24.pl/najnowsze/cdn-zdjecie-2ijsa5-polacy-sami-wypisywaliby-sobie-l4-takie-rozwiazania-funkcjonuja-w-europie/alternates/LANDSCAPE_1280" />
+    Prezes Naczelnej Rady Lekarskiej ma pomysł, jak odciążyć przychodnie.
+
+## "Fakty" TVN: poszukiwania mają związek z zaginięciem Iwony Wieczorek
+ - [https://fakty.tvn24.pl/sopot--policja-rozkopuje-pla---wok---dawnej-zatoki-sztuki,1130931.html?source=rss](https://fakty.tvn24.pl/sopot--policja-rozkopuje-pla---wok---dawnej-zatoki-sztuki,1130931.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-29 18:07:00+00:00
+
+<img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-1wcq4g-sopot-policja-rozkopuje-plaze-wokol-dawnej-zatoki-sztuki/alternates/LANDSCAPE_1280" />
+    Kolejny dzień okolice dawnej Zatoki Sztuki przeszukują policjanci i pies tropiący.
 
 ## Polacy na podium w pierwszym konkursie Turnieju Czterech Skoczni
  - [https://eurosport.tvn24.pl/dw-ch-polskich-zawodnik-w-na-podium-w-oberstdorfie,1130888.html?source=rss](https://eurosport.tvn24.pl/dw-ch-polskich-zawodnik-w-na-podium-w-oberstdorfie,1130888.html?source=rss)
@@ -767,3 +783,4 @@
 
 <img alt="Grupa, która " src="https://tvn24.pl/najnowsze/cdn-zdjecie-unptiz-rosyjscy-zolnierze-na-bialorusi-6236717/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Zaginięcie Iwony Wieczorek. Były policjant o zarzutach dla Pawła P. i nowym wątku w sprawie
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29296893,zaginiecie-iwony-wieczorek-byly-policjant-o-zarzutach-dla-pawla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29296893,zaginiecie-iwony-wieczorek-byly-policjant-o-zarzutach-dla-pawla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -118,3 +118,4 @@
  - date published: 2022-12-23 06:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/c9/ee/1b/z29289161M.jpg" vspace="2" />W najbliższych dniach temperatura w Polsce zacznie rosnąć. Zima na chwilę nas opuściła, śnieg zaczyna topnieć. Według zapowiedzi synoptyków w kraju temperatura z dnia na dzień będzie coraz wyższa. Kiedy możemy się spodziewać powrotu zimy?
+

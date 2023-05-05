@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Making The Office A Destination Of Choice In The Era Of Hybrid Work
  - [https://www.forbes.com/sites/joemckendrick/2022/12/09/making-the-office-a-destination-of-choice-in-the-era-of-hybrid-work/](https://www.forbes.com/sites/joemckendrick/2022/12/09/making-the-office-a-destination-of-choice-in-the-era-of-hybrid-work/)
@@ -566,3 +566,4 @@ The Meta-Within deal gets its day in court.
  - date published: 2022-12-09 00:00:00+00:00
 
 A new series published in The Lancet highlights how public health researchers have neglected the significant influences that racism and discrimination have on health disparities globally.
+

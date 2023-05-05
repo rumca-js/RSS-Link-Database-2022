@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Śnieżyce, marznące opady i mrozy. Będzie niebezpiecznie
  - [https://wydarzenia.interia.pl/kraj/news-sniezyce-marznace-opady-i-mrozy-bedzie-niebezpiecznie,nId,6474918](https://wydarzenia.interia.pl/kraj/news-sniezyce-marznace-opady-i-mrozy-bedzie-niebezpiecznie,nId,6474918)
@@ -56,3 +56,4 @@
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-komunikat-mswia-ws-eksplozji-w-komendzie-glownej-policji,nId,6474792"><img align="left" alt="Komunikat MSWiA ws. eksplozji w Komendzie Głównej Policji " src="https://i.iplsc.com/komunikat-mswia-ws-eksplozji-w-komendzie-glownej-policji/000GHRECJOT57NND-C321.jpg" /></a>MSWiA wydało komunikat w sprawie wybuchu, do którego doszło w budynku Komendy Głównej Policji w Warszawie. Jak powiadomiono, w środę doszło do eksplozji &quot;jednego z prezentów&quot;, które Komendant Głównej Policji gen. insp. Jarosław Szymczyk otrzymał podczas wizyty w Ukrainie. 
 </p><br clear="all" />
+

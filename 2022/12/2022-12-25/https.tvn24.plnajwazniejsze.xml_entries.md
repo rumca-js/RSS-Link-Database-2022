@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Były prezydent Niemiec: byłbym zbulwersowany, gdybyśmy przestali okazywać solidarność z ofiarą
  - [https://tvn24.pl/swiat/ukraina-wojna-byly-prezydent-niemiec-joachim-gauck-o-solidarnosci-z-ukraina-i-dzialaniach-wladimira-putina-6553049?source=rss](https://tvn24.pl/swiat/ukraina-wojna-byly-prezydent-niemiec-joachim-gauck-o-solidarnosci-z-ukraina-i-dzialaniach-wladimira-putina-6553049?source=rss)
@@ -471,3 +471,4 @@
 
 <img alt="Ukraina. Najważniejsze wydarzenia ostatnich godzin" src="https://tvn24.pl/najnowsze/cdn-zdjecie-tuie5v-cherson-ukraina-zniszczenia-cywile-21122022-6549436/alternates/LANDSCAPE_1280" />
     Rosyjska inwazja na Ukrainę trwa 305. dzień.
+

@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## North Korean Drones Penetrate South's Air Defenses
  - [https://www.wsj.com/articles/north-korean-drones-penetrate-souths-air-defenses-11672077684](https://www.wsj.com/articles/north-korean-drones-penetrate-souths-air-defenses-11672077684)
@@ -48,3 +48,4 @@ China’s People’s Liberation Army dispatched a swarm of jet fighters and othe
  - date published: 2022-12-26 08:18:00+00:00
 
 The strike at the Engels air base, a hub for Russia’s strategic bombers in the Saratov region, is the latest apparent demonstration of Kyiv’s ability to strike military targets inside Russia.
+

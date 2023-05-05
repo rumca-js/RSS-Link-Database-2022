@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## You Should Make an 'Old Year's Resolution' Instead
  - [https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380](https://lifehacker.com/you-should-make-an-old-years-resolution-instead-1849936380)
@@ -20,3 +20,4 @@
  - date published: 2022-12-29 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--SCyIVALP--/c_fit,fl_progressive,q_80,w_636/f351c6f1980018ceab44de542d4465e2.jpg" /><p>Do your plans for the new year include traveling more? If so, you may want to pay a quick visit to Frontier Airlines’ website, where some one-way flights are currently available for <a href="https://flights.flyfrontier.com/en/" rel="noopener noreferrer" target="_blank">fares starting at $19 </a>(plus taxes and fees). Whether you’re fortunate enough to be able to work remotely and have the flexibility to…</p><p><a href="https://lifehacker.com/get-one-way-flights-for-19-during-frontiers-latest-sal-1849936455">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## "Pomogliśmy Zachodowi się odnaleźć". Wystąpienie 41 razy przerywane oklaskami
  - [https://tvn24.pl/swiat/wolodymyr-zelenski-wyglosil-przemowienie-w-radzie-najwyzszej-ukrainy-nikt-nie-boi-sie-juz-rosji-6556290?source=rss](https://tvn24.pl/swiat/wolodymyr-zelenski-wyglosil-przemowienie-w-radzie-najwyzszej-ukrainy-nikt-nie-boi-sie-juz-rosji-6556290?source=rss)
@@ -111,6 +111,14 @@
 
 <img alt="Wytatuował jej na czarno gałki oczne. Zaczęła tracić wzrok" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ltva63-wyrok-zapadl-przed-swietami-zdjecie-ilustracyjne-6555922/alternates/LANDSCAPE_1280" />
     Jest wyrok sądu.
+
+## Rok od zapowiedzi "fundamentalnej reformy"
+ - [https://fakty.tvn24.pl/rok-od-zapowiedzi--fundamentalnej-reformy---projekt-trafi--do-kosza--szpitale-ton--w-d-ugach,1130808.html?source=rss](https://fakty.tvn24.pl/rok-od-zapowiedzi--fundamentalnej-reformy---projekt-trafi--do-kosza--szpitale-ton--w-d-ugach,1130808.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-28 18:11:00+00:00
+
+<img alt="Rok od zapowiedzi " src="https://tvn24.pl/najnowsze/cdn-zdjecie-b4bvg3-2812--rok-od-zapowiedzi-fundamentalnej-reformy-polskiego-szpitalnictwa-projekt-trafil-do-kosza-placowki-tona-w-dlugach/alternates/LANDSCAPE_1280" />
+    Projekt trafił do kosza, szpitale toną w długach.
 
 ## Spór o zatrzymanie prawa jazdy. "Nie obejdzie się bez zmiany legislacyjnej"
  - [https://tvn24.pl/biznes/moto/zatrzymanie-prawa-jazdy-za-predkosc-decyzja-tk-komentuje-zwiazek-powiatow-polskich-6556063?source=rss](https://tvn24.pl/biznes/moto/zatrzymanie-prawa-jazdy-za-predkosc-decyzja-tk-komentuje-zwiazek-powiatow-polskich-6556063?source=rss)
@@ -343,6 +351,14 @@
 
 <img alt="Licytacja nazwy ulicy na pomoc w kupnie " src="https://tvn24.pl/najnowsze/cdn-zdjecie-56gvv7-oliwier-zbiorka-sma-6555585/alternates/LANDSCAPE_1280" />
     Akcja ma pomóc 11-miesięcznemu Oliwierowi, który choruje na SMA.
+
+## Sukces zbiórki na "najdroższy lek świata" dla Oliwiera
+ - [https://tvn24.pl/polska/wadowice-zbiorka-na-najdrozszy-lek-swiata-dla-oliwiera-z-sma-6555428?source=rss](https://tvn24.pl/polska/wadowice-zbiorka-na-najdrozszy-lek-swiata-dla-oliwiera-z-sma-6555428?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-28 12:52:52+00:00
+
+<img alt="Sukces zbiórki na " src="https://tvn24.pl/najnowsze/cdn-zdjecie-2q0dd3-siepomaga-6557765/alternates/LANDSCAPE_1280" />
+    11-miesięczny chłopiec choruje na SMA.
 
 ## "Urlop dla myśliwego" sześć dni, "na dziecko" dwa? Wyjaśniamy
  - [https://konkret24.tvn24.pl/polska/spiewak-urlop-dla-mysliwego-to-szesc-dni-na-dziecko-dwa-wyjasniamy-6555222?source=rss](https://konkret24.tvn24.pl/polska/spiewak-urlop-dla-mysliwego-to-szesc-dni-na-dziecko-dwa-wyjasniamy-6555222?source=rss)
@@ -847,3 +863,4 @@
 
 <img alt="Ponad 4 miliony rodzin w potrzebie, 10 miliardów euro w ramach pomocy" src="https://tvn24.pl/najnowsze/cdn-zdjecie-va7xrx-madryt-hiszpania-shutterstock1734313574-6482581/alternates/LANDSCAPE_1280" />
     Rząd Sancheza zatwierdził nowy pakiet działań antykryzysowych.
+

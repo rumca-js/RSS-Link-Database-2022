@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Google Chrome dostaje funkcję, która ma ograniczyć zapotrzebowanie na RAM
  - [https://ithardware.pl/aktualnosci/google_chrome_dostaje_funkcje_ktora_ma_ograniczyc_zapotrzebowanie_na_ram-24781.html](https://ithardware.pl/aktualnosci/google_chrome_dostaje_funkcje_ktora_ma_ograniczyc_zapotrzebowanie_na_ram-24781.html)
@@ -183,3 +183,4 @@ Dziś w nocy czasu polskiego w Los Angeles odbyła się coroczna gala The Game A
 
 Nagroda -...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_9-24708.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_9-24708.html</a></p>
+

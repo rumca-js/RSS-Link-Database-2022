@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Gen. Górka: Kupione przez Polskę satelity znajdą zastosowanie nie tylko w wojsku
  - [https://forsal.pl/gospodarka/artykuly/8618955,gen-gorka-kupione-przez-polske-satelity-znajda-zastosowanie-nie-tylko-w-wojsku.html](https://forsal.pl/gospodarka/artykuly/8618955,gen-gorka-kupione-przez-polske-satelity-znajda-zastosowanie-nie-tylko-w-wojsku.html)
@@ -412,3 +412,4 @@
  - date published: 2022-12-27 04:31:43+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/FuVktkuTURBXy9mNTM3MDk1ZS04ZTc2LTQ4ODEtYjA4OS1lMTk2ZGQ4MjIyODAuanBlZ5GTBc0BHcyg" />&quot;Sytuacja w Donbasie jest ciężka i bolesna. Okupanci wykorzystują wszystkie dostępne im środki - a są to znaczne środki - aby osiągnąć przynajmniej jakiś postęp&quot; - powiedział prezydent Ukrainy Wołodymyr Zełenski w poniedziałek w codziennym wystąpieniu wideo.
+

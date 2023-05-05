@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Limit cenowy na rosyjską ropę nie pomoże Ukrainie? "UE łagodzi sankcje wobec Rosji"
  - [https://www.money.pl/gielda/limit-cenowy-na-rosyjska-rope-nie-pomoze-ukrainie-ue-lagodzi-sankcje-wobec-rosji-6841417283090976a.html](https://www.money.pl/gielda/limit-cenowy-na-rosyjska-rope-nie-pomoze-ukrainie-ue-lagodzi-sankcje-wobec-rosji-6841417283090976a.html)
@@ -111,3 +111,4 @@
  - date published: 2022-12-05 04:40:59+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a8e35b44-9768-402d-ad83-d4c48ec01d98" width="308" /> Od poniedziałku 5 grudnia rosyjska ropa naftowa nie może być sprowadzana drogą morską do Unii Europejskiej i Wielkiej Brytanii. To kolejny mechanizm sankcyjny, który ma ograniczyć zyski Federacji Rosyjskiej ze sprzedaży czarnego surowca. Równolegle nałożono "kaganiec cenowy" dla dostaw do krajów trzecich. - Rosja nie wierzy w determinację Europy, a jednocześnie jest gotowa poświęcić cześć dochodów dla celów politycznych. Trudno dziś przewidzieć wynik tej gry. Przeciąganie liny właśnie się rozpoczęło - mówi money.pl Szymon Karaś, ekspert Ośrodka Studiów Wschodnich.
+

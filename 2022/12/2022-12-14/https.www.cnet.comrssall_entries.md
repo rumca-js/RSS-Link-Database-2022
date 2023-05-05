@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Twitter Account That Tracked Musk's Jet Returns After Brief Grounding     - CNET
  - [https://www.cnet.com/news/social-media/twitter-account-that-tracked-musks-jet-returns-after-brief-grounding/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-account-that-tracked-musks-jet-returns-after-brief-grounding/#ftag=CADf328eec)
@@ -403,7 +403,6 @@ These apps also show delivery times and fees so you can get your food faster and
  - [https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-14 17:15:00+00:00
- - tags: money,government,control
 
 Money sent to friends and family won't be taxed, but income received through third-party apps will be.
 
@@ -875,3 +874,4 @@ A new lawsuit alleges Facebook failed to police content that incited violence in
  - date published: 2022-12-14 00:01:00+00:00
 
 This week, catch Who Killed Santa? A Murderville Mystery, starring Will Arnett, Jason Bateman and Maya Rudolph.
+

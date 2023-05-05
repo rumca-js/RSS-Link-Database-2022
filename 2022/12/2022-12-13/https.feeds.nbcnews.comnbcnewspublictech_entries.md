@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Disgraced FTX CEO Sam Bankman-Fried 'orchestrated yearslong fraud' on investors and customers, SEC and criminal charges say
  - [https://www.nbcnews.com/tech/crypto/disgraced-ftx-ceo-sam-bankman-fried-orchestrated-years-long-fraud-inve-rcna61414](https://www.nbcnews.com/tech/crypto/disgraced-ftx-ceo-sam-bankman-fried-orchestrated-years-long-fraud-inve-rcna61414)
@@ -41,3 +41,4 @@ U.S. scientists have achieved “ignition” —  a fusion reaction that produc
  - date published: 2022-12-13 03:23:35+00:00
 
 Twitter on Monday disbanded its Trust and Safety Council, a group of volunteers who offered the company outside expert advice about online safety, according to
+

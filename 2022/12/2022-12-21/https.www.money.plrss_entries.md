@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Awaria największego bloku energetycznego. Zabraknie prądu?
  - [https://www.money.pl/gospodarka/awaria-najwiekszego-bloku-energetycznego-zabraknie-pradu-6847085285763936a.html](https://www.money.pl/gospodarka/awaria-najwiekszego-bloku-energetycznego-zabraknie-pradu-6847085285763936a.html)
@@ -111,3 +111,4 @@
  - date published: 2022-12-21 05:41:50+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7217262a-c769-4a34-9f0d-cdcd21acbff9" width="308" /> Polacy oddali się już szaleństwu przedświątecznych przygotowań. Niektórzy jednak obawiają się, że mogą nie otrzymać na czas swojego świadczenia. Zgodnie z harmonogramem wypłat w niektórych przypadkach ZUS wypłaca emerytury 25. dnia miesiąca. Jak będzie w grudniu?
+

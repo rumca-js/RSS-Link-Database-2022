@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Elon Musk's Twitter Is Making Meta Look Smart
  - [https://www.wired.com/story/plaintext-elon-musks-twitter-is-making-meta-look-smart/](https://www.wired.com/story/plaintext-elon-musks-twitter-is-making-meta-look-smart/)
@@ -13,3 +13,4 @@ A scathing decision from Facebook’s Oversight Board shows a better way to work
  - date published: 2022-12-09 12:00:00+00:00
 
 Remote and hybrid work has reshaped the typical seasonal rush. Airlines and hotels see dollar signs.
+

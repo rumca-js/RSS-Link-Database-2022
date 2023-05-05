@@ -1,4 +1,39 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
+
+## North Lakes stabbing: Emma Lovell's husband supports calls for Emma's Law and crackdown on juveniles
+ - [https://www.dailymail.co.uk/news/article-11580405/North-Lakes-stabbing-Emma-Lovells-husband-supports-calls-Emmas-Law-crackdown-juveniles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11580405/North-Lakes-stabbing-Emma-Lovells-husband-supports-calls-Emmas-Law-crackdown-juveniles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 23:53:37+00:00
+
+A petition calling for mandatory jail and no bail for armed and violent repeat home invaders is gaining momentum in the wake of the North Lake mum's tragic death north of Brisbane.
+
+## National Guard set to go door-to-door in Buffalo as death toll rises to 34
+ - [https://www.dailymail.co.uk/news/article-11580659/National-Guard-set-door-door-Buffalo-death-toll-rises-34.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11580659/National-Guard-set-door-door-Buffalo-death-toll-rises-34.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 23:44:04+00:00
+
+Mark C. Poloncarz, the local county executive, made the announcement that the Guard will join other local authorities to neighborhoods that lost power during the 'blizzard of the century.'
+
+## Dramatic before and after photos show how flood of migrants crossing El Paso border has reduced
+ - [https://www.dailymail.co.uk/news/article-11580635/Dramatic-photos-flood-migrants-crossing-El-Paso-border-reduced.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11580635/Dramatic-photos-flood-migrants-crossing-El-Paso-border-reduced.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 23:39:44+00:00
+
+Just 24 hours after the Supreme Court's announcement of the extension of Title 42 on Tuesday, migrant surges at the US-Mexico border already appear to be dropping off.
+
+## Carolina McCauley: Cleaning expert shares her favourite cleaning hacks of 2022
+ - [https://www.dailymail.co.uk/femail/cleaning/article-11580551/Carolina-McCauley-Cleaning-expert-shares-favourite-cleaning-hacks-2022.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/cleaning/article-11580551/Carolina-McCauley-Cleaning-expert-shares-favourite-cleaning-hacks-2022.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 23:34:42+00:00
+
+Cleaning expert Carolina McCauley has shared her top six cleaning hacks of 2022. The tricks can take half the time off everyday household chores
+
+## Dietitian Susie Burrell shares foods to add to diet for a flat stomach in 2023 - and what to remove
+ - [https://www.dailymail.co.uk/femail/health/article-11580443/Dietitian-Susie-Burrell-shares-foods-add-diet-flat-stomach-2023-remove.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/health/article-11580443/Dietitian-Susie-Burrell-shares-foods-add-diet-flat-stomach-2023-remove.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 23:15:08+00:00
+
+Sydney dietitian Susie Burrell has revealed the five foods you need to add to your diet for a flat stomach in 2023, and the ones you need to banish from your life altogether.
 
 ## 'Drunk driver' ploughs car into a carnival crowd in Nigeria, killing at least 14 revellers
  - [https://www.dailymail.co.uk/news/article-11580691/Drunk-driver-ploughs-car-carnival-crowd-Nigeria-killing-14-revellers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11580691/Drunk-driver-ploughs-car-carnival-crowd-Nigeria-killing-14-revellers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -77,6 +112,13 @@ EXCLUSIVE: A treasury review of the tax system has been quietly ditched, it emer
 
 The number is a rise of more than two-thirds (67 per cent) in less than two years and comes amid growing concerns from medical experts, parents and politicians.
 
+## The Hollywood guide to the ultimate New Year's Eve Party
+ - [https://www.dailymail.co.uk/femail/real-life/article-11579961/The-Hollywood-guide-ultimate-New-Years-Eve-Party.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/real-life/article-11579961/The-Hollywood-guide-ultimate-New-Years-Eve-Party.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 22:16:25+00:00
+
+Sitting in his London home, Paul is dressed in a trademark three-piece suit that could be straight out of TV show Mad Men (which is appropriate, since he directed several episodes).
+
 ## Why post-war houses in Australia have stood the test of time
  - [https://www.dailymail.co.uk/news/article-11578047/Why-post-war-houses-Australia-stood-test-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11578047/Why-post-war-houses-Australia-stood-test-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -111,6 +153,13 @@ A second storm is also heading to the West Coast, expected to hit Thursday and b
  - date published: 2022-12-28 22:09:33+00:00
 
 An urgent manhunt has been launched for inmates who remain on the run after they escaped from jail.
+
+## Memo to Meghan: From a writer banished by her father-in-law for being 'unspeakably vulgar'
+ - [https://www.dailymail.co.uk/femail/article-11580123/Memo-Meghan-writer-banished-father-law-unspeakably-vulgar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11580123/Memo-Meghan-writer-banished-father-law-unspeakably-vulgar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 22:09:28+00:00
+
+For five years, Rowan Pelling's father-in-law refused to even speak with her - now she opens up about the importance of keeping a bridge between your spouse and their family.
 
 ## Iced out! Furious Tesla owners share videos of their cars failing to work in harsh winter snowstorm
  - [https://www.dailymail.co.uk/news/article-11580379/Iced-Furious-Tesla-owners-share-videos-cars-failing-work-harsh-winter-snowstorm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11580379/Iced-Furious-Tesla-owners-share-videos-cars-failing-work-harsh-winter-snowstorm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -174,6 +223,13 @@ New data from the Internal Revenue Service shows New York has lost a weighty pro
  - date published: 2022-12-28 21:12:54+00:00
 
 Republican District Attorney Anne Donnelly has opened a criminal investigation into George Santos after it was revealed that he lied about his resume and background.
+
+## Eamonn Holmes issues health update following chronic pain battle and spinal surgery
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11580387/Eamonn-Holmes-issues-health-update-following-chronic-pain-battle-spinal-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11580387/Eamonn-Holmes-issues-health-update-following-chronic-pain-battle-spinal-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 21:10:56+00:00
+
+The GB news host, 63, revealed that despite physiotherapy he continues to find his lack of mobility stops him from doing simple things and is forced to rely on others.
 
 ## Michelle Obama admits raising kids while Barack launched his career put a strain on their marriage
  - [https://www.dailymail.co.uk/news/article-11580191/Michelle-Obama-admits-raising-kids-Barack-launched-career-strain-marriage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11580191/Michelle-Obama-admits-raising-kids-Barack-launched-career-strain-marriage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -524,6 +580,13 @@ Cars were logjammed up and down the country, with snaking queues spotted in Her
  - date published: 2022-12-28 16:49:04+00:00
 
 WARNING, DISTRESSING CONTENT: Shocking CCTV footage shows the moment a thug brutally beat a German Shepherd before dragging it along by its lead.
+
+## Prince William and Kate 'raising George, Charlotte and Louis with Middleton parenting model'
+ - [https://www.dailymail.co.uk/femail/article-11579711/Prince-William-Kate-raising-George-Charlotte-Louis-Middleton-parenting-model.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11579711/Prince-William-Kate-raising-George-Charlotte-Louis-Middleton-parenting-model.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-28 16:45:10+00:00
+
+Speaking to Ok! ,royal expert Duncan Larcombe said it's evident that the Prince and Princess of Wales have taken inspiration from Kate's parents in how they are raising their children.
 
 ## Greg Abbott calls Biden 'Hypocrite-in-Chief' for criticizing migrant drop at Kamala's home
  - [https://www.dailymail.co.uk/news/article-11579613/Greg-Abbott-calls-Biden-Hypocrite-Chief-criticizing-migrant-drop-Kamalas-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11579613/Greg-Abbott-calls-Biden-Hypocrite-Chief-criticizing-migrant-drop-Kamalas-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1476,3 +1539,4 @@ A Brisbane teenager is going to court over a fine and loss-of-licence because sh
  - date published: 2022-12-28 00:01:49+00:00
 
 The NHS is set to eliminate the virus by 2025 - five years ahead of global targets. Deaths in England have fallen by 35 per cent in six years, well-exceeding the WHO's target of 10 per cent.
+

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Węgry w potrzasku. Orban ekspresowo wprowadza nowy podatek
  - [https://www.money.pl/podatki/wegry-w-potrzasku-orban-ekspresowo-wprowadza-nowy-podatek-6848491885464384a.html](https://www.money.pl/podatki/wegry-w-potrzasku-orban-ekspresowo-wprowadza-nowy-podatek-6848491885464384a.html)
@@ -69,3 +69,4 @@
  - date published: 2022-12-25 06:47:51+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4384c82c-0d3a-429f-88f5-7c5861886a2c" width="308" /> Kino familijne przyciąga w święta przed ekrany całe rodziny. Najbardziej chyba znane są w Polsce dwa tytuły: "Kevin sam w domu" i "Kevin sam w Nowym Jorku", ale serwisy streamingowe oferują więcej propozycji. Które ze świątecznych filmów okazały się najbardziej kasowe i gdzie można je obejrzeć? Mamy listę.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Była wiceszefowa europarlamentu zostanie w areszcie. Śledztwo w sprawie korupcji trwa
  - [https://tvn24.pl/swiat/belgia-unia-europejska-wiceszefowa-parlamentu-europejskiego-zostanie-w-areszcie-sledztwo-w-sprawie-korupcji-trwa-6550125?source=rss](https://tvn24.pl/swiat/belgia-unia-europejska-wiceszefowa-parlamentu-europejskiego-zostanie-w-areszcie-sledztwo-w-sprawie-korupcji-trwa-6550125?source=rss)
@@ -808,6 +808,46 @@
 <img alt="Wyniki głosowania na najlepszego piłkarza 2022 roku. Lewandowski w czołówce" src="https://tvn24.pl/najnowsze/cdn-zdjecie-8mlf76-robert-lewandowski-i-leo-messi-w-walce-o-pilke-podczas-mundialu/alternates/LANDSCAPE_1280" />
     Serwisu piłkarskiego "Goal".
 
+## IMGW ostrzega południe kraju przed niebezpieczną pogodą
+ - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-roztopy-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-roztopy-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-22 05:27:17+00:00
+
+<img alt="IMGW ostrzega południe kraju przed niebezpieczną pogodą" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie0f66b318be3e95c1aa4cca7d2847c40c-roztopy-na-poludniu-kraju-5170455/alternates/LANDSCAPE_1280" />
+    Zagrożeniem będą roztopy.
+
+## Niebezpieczna aura w dziesięciu województwach. Przybywa alarmów IMGW
+ - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenie-roztopy-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenie-roztopy-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-22 05:27:17+00:00
+
+<img alt="Niebezpieczna aura w dziesięciu województwach. Przybywa alarmów IMGW" src="https://tvn24.pl/najnowsze/cdn-zdjecie-no3hd9-oblodzenia-oblodzone-drogi-6419619/alternates/LANDSCAPE_1280" />
+    Zagrożeniem będą oblodzenia i roztopy.
+
+## Niebezpieczna aura w dziesięciu województwach. Przybywa alarmów IMGW
+ - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenie-silny-wiatr-roztopy-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenie-silny-wiatr-roztopy-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-22 05:27:17+00:00
+
+<img alt="Niebezpieczna aura w dziesięciu województwach. Przybywa alarmów IMGW" src="https://tvn24.pl/najnowsze/cdn-zdjecie-no3hd9-oblodzenia-oblodzone-drogi-6419619/alternates/LANDSCAPE_1280" />
+    Zagrożeniem będą oblodzenia i roztopy.
+
+## Niebezpiecznie w dziesięciu województwach. Przybywa alertów
+ - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenie-silny-wiatr-roztopy-niebezpieczna-pogoda-w-czesci-kraju-6548668?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-oblodzenie-silny-wiatr-roztopy-niebezpieczna-pogoda-w-czesci-kraju-6548668?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-22 05:27:17+00:00
+
+<img alt="Niebezpiecznie w dziesięciu województwach. Przybywa alertów" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ikxce9-oblodzenia-oblodzone-drogi-6419619/alternates/LANDSCAPE_1280" />
+    Zagrożeniem będą oblodzenia i roztopy.
+
+## Roztopy, gołoledź. Alarmy w połowie województw
+ - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-roztopy-opady-marznace-gololedz-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-roztopy-opady-marznace-gololedz-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-piatek-2312-6548668?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-22 05:27:17+00:00
+
+<img alt="Roztopy, gołoledź. Alarmy w połowie województw" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie979bfb06c1de3e59dc76b6e8c781b61a-uwaga-na-marznace-opady-5018947/alternates/LANDSCAPE_1280" />
+    Sprawdź, gdzie obowiązują alerty.
+
 ## W niektórych miejscach ciepło i deszcz przyspieszą topnienie śniegu. W innych drogi nadal ma skuwać lód
  - [https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-roztopy-oblodzenie-opady-marznace-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-czwartek-2212-6548668?source=rss](https://tvn24.pl/tvnmeteo/pogoda/alerty-imgw-roztopy-oblodzenie-opady-marznace-niebezpieczna-pogoda-w-czesci-kraju-pogoda-w-czwartek-2212-6548668?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -871,3 +911,4 @@
 
 <img alt="Moment, który wiele pokazał. Poważne pytanie, reakcja Bidena i śmiech Zełenskiego " src="https://tvn24.pl/najnowsze/cdn-zdjecie-0dna83-joe-biden-i-wolodymyr-zelenski-w-bialym-domu-6548600/alternates/LANDSCAPE_1280" />
     Śmiech na koniec konferencji w Białym Domu.
+

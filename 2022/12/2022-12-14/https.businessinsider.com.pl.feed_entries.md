@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Stopy procentowe w USA. Szef Fed studzi nadzieje rynku
  - [https://businessinsider.com.pl/gospodarka/stopy-procentowe-w-usa-szef-fed-studzi-nadzieje-rynku/tt4pl74](https://businessinsider.com.pl/gospodarka/stopy-procentowe-w-usa-szef-fed-studzi-nadzieje-rynku/tt4pl74)
@@ -480,7 +480,6 @@ Obecni czterdziestolatkowie prowadzący firmy mogą liczyć co najwyżej na mini
  - [https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f](https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f)
  - RSS feed: https://businessinsider.com.pl/.feed
  - date published: 2022-12-14 05:41:00+00:00
- - tags: smartphone
 
 Według różnych badań każdy z nas sięga po swojego smartfona od 50 do nawet 150 razy dziennie. Często jednak robimy to bez najmniejszego celu. Greg McKeown, autor bestsellerowej książki "Esencjalista: Mniej, ale lepiej", sugeruje, by nawyk sięgania po telefon zastąpić innym.
 
@@ -525,3 +524,4 @@ Nad gospodarką Węgier zbierają się czarne chmury. Państwo to wypada dużo s
  - date published: 2022-12-14 05:09:15+00:00
 
 Jak wynika z artykułu "Gazety Wyborczej", sprzedaż przez Orlen części Lotosu miała się odbyć z naruszeniem ustawy o kontroli niektórych inwestycji. Służby miały nie dostać w ogóle możliwości sprawdzenia tej transakcji.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Eric Allison, Prison Reporter Who Knew the Beat All Too Well, Dies at 79
  - [https://www.nytimes.com/2022/12/09/world/europe/eric-allison-dead.html](https://www.nytimes.com/2022/12/09/world/europe/eric-allison-dead.html)
@@ -216,3 +216,4 @@ The hospital treats both civilians and military personnel who have survived tort
  - date published: 2022-12-09 00:57:27+00:00
 
 Many of the poorest countries will continue to get free Covid shots, but global demand for them has plummeted, driving a shift away from the goal of broad coverage.
+

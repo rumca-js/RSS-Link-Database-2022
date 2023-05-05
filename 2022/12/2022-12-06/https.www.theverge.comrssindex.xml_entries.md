@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Chrome ‘@’ shortcuts search tabs, bookmarks, and history right from the address bar
  - [https://www.theverge.com/2022/12/6/23496839/google-chrome-site-search-shortcuts-tabs-bookmarks-history](https://www.theverge.com/2022/12/6/23496839/google-chrome-site-search-shortcuts-tabs-bookmarks-history)
@@ -637,3 +637,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/5/23495357/apple-atlanta-union-cwa-nlrb-complaint-coercing-interrogating">Continue reading&hellip;</a>
   </p>
+

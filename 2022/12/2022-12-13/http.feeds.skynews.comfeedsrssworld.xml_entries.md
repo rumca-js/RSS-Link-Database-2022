@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Arrested crypto boss hugs parents as he is denied bail over 'one of biggest financial frauds in US history'
  - [https://news.sky.com/story/sam-bankman-fried-arrested-crypto-boss-hugs-parents-as-he-is-denied-bail-over-one-of-biggest-financial-frauds-in-us-history-12767714](https://news.sky.com/story/sam-bankman-fried-arrested-crypto-boss-hugs-parents-as-he-is-denied-bail-over-one-of-biggest-financial-frauds-in-us-history-12767714)
@@ -132,3 +132,4 @@ New Zealand's prime minister has been caught calling a rival politician an "arro
  - date published: 2022-12-13 04:33:00+00:00
 
 Six people, including two police officers, have been killed in a gunfight at a remote home in Australia's Queensland state.
+

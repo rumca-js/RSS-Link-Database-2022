@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Don't Throw Out Your Soap Ends
  - [https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946](https://lifehacker.com/dont-throw-out-your-soap-ends-1849874946)
@@ -20,3 +20,4 @@
  - date published: 2022-12-10 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--THrJBuvl--/c_fit,fl_progressive,q_80,w_636/e54b55f201698ebf4f65a736ef1dc556.jpg" /><p>Whether multicolored or classic white, a few strands of holiday lights can make pretty much anything look festive, both indoors and outdoors. And while the strings of small bulbs have a longstanding reputation of being annoying and difficult to work with—which can sometimes lead to accidents—they also carry other…</p><p><a href="https://lifehacker.com/make-your-christmas-lights-less-dangerous-1849874988">Read more...</a></p>
+

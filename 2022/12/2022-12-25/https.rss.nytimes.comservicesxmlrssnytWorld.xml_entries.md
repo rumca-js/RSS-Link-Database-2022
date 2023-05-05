@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## 4 Dead and Dozens Injured in British Columbia Bus Crash
  - [https://www.nytimes.com/2022/12/25/world/canada/british-columbia-bus-crash.html](https://www.nytimes.com/2022/12/25/world/canada/british-columbia-bus-crash.html)
@@ -90,3 +90,4 @@ One town is protecting a statue of St. Nick with sandbags, another is putting it
  - date published: 2022-12-25 05:00:10+00:00
 
 Alex Edelman, a comedian, recalls his family’s one-night fling with Christmas — undertaken as a mitzvah for a non-Jewish friend.
+

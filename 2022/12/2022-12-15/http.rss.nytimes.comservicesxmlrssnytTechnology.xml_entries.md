@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## California Reduces Subsidies for Homes With Rooftop Solar
  - [https://www.nytimes.com/2022/12/15/business/energy-environment/california-rooftop-solar-subsidy.html](https://www.nytimes.com/2022/12/15/business/energy-environment/california-rooftop-solar-subsidy.html)
@@ -41,3 +41,4 @@ The e-commerce giant avoided a fine, but will make a variety of changes regulato
  - date published: 2022-12-15 16:30:10+00:00
 
 When the only thing better than a flip phone is no phone at all.
+

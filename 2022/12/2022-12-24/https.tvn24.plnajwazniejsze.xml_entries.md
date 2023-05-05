@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Koncert "Nasza kolęda"
  - [https://tvn24.pl/go/programy,7/opinie-i-wydarzenia-odcinki,16593/odcinek-2813,S00E2813,946113?source=rss](https://tvn24.pl/go/programy,7/opinie-i-wydarzenia-odcinki,16593/odcinek-2813,S00E2813,946113?source=rss)
@@ -48,6 +48,14 @@
 <img alt="Rosja " src="https://tvn24.pl/najnowsze/cdn-zdjecie-6nx417-bialoruscy-zolnierze-6482579/alternates/LANDSCAPE_1280" />
     Ocenił szef ukraińskiego wywiadu wojskowego (HUR) Kyryło Budanow.
 
+## Wzrost zachorowań na grypę, RSV i COVID-19. Szpitale dokładają łóżka
+ - [https://fakty.tvn24.pl/wzrost-zachorowa--na-gryp---rsv-i-covid-19--szpitale-dok-adaj-----ka,1130536.html?source=rss](https://fakty.tvn24.pl/wzrost-zachorowa--na-gryp---rsv-i-covid-19--szpitale-dok-adaj-----ka,1130536.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-24 18:14:00+00:00
+
+<img alt="Wzrost zachorowań na grypę, RSV i COVID-19. Szpitale dokładają łóżka" src="https://tvn24.pl/najnowsze/cdn-zdjecie-zhuq9a-szpitale-dokladaja-lozka-powodem-wzrost-zachorowan-na-grype-rsv-i-covid-19/alternates/LANDSCAPE_1280" />
+    W Polsce lawinowo przybywa chorych na grypę. Szpitalne oddziały są przepełnione, chorzy muszą leżeć na korytarzach.
+
 ## Talibowie nakazują wyrzucenie Afganek z kolejnych miejsc
  - [https://tvn24.pl/swiat/afganistan-talibowie-zakazuja-afgankom-pracy-w-organizacjach-pozarzadowych-6552456?source=rss](https://tvn24.pl/swiat/afganistan-talibowie-zakazuja-afgankom-pracy-w-organizacjach-pozarzadowych-6552456?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -55,6 +63,14 @@
 
 <img alt="Talibowie nakazują wyrzucenie Afganek z kolejnych miejsc" src="https://tvn24.pl/najnowsze/cdn-zdjecie-lrbsfi-talibowie-w-afganistanie-6413149/alternates/LANDSCAPE_1280" />
     Nie podoba im się, że pracują.
+
+## W trakcie ciąży dowiedziały się, że chorują na raka. "Boskie matki" nie poddały się
+ - [https://fakty.tvn24.pl/w-trakcie-ci--y-dowiedzia-y-si----e-choruj--na-raka---boskie-matki--nie-podda-y-si-,1130551.html?source=rss](https://fakty.tvn24.pl/w-trakcie-ci--y-dowiedzia-y-si----e-choruj--na-raka---boskie-matki--nie-podda-y-si-,1130551.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-24 18:09:00+00:00
+
+<img alt="W trakcie ciąży dowiedziały się, że chorują na raka. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-sroki5-w-trakcie-ciazy-dowiedzialy-sie-ze-choruja-na-raka-boskie-matki-nie-poddaly-sie/alternates/LANDSCAPE_1280" />
+    "Boskie matki" to kobiety, które będąc w ciąży, dowiedziały się, że chorują na raka. Miały siłę, by żyć i uśmiechać się, bo chcą, by bez względu na wszystko ich dzieci widziały je radosnymi.
 
 ## Maxi Jazz nie żyje. Wokalista Faithless miał 65 lat
  - [https://tvn24.pl/kultura-i-styl/maxi-jazz-nie-zyje-wokalista-faithless-mial-65-lat-6552419?source=rss](https://tvn24.pl/kultura-i-styl/maxi-jazz-nie-zyje-wokalista-faithless-mial-65-lat-6552419?source=rss)
@@ -360,6 +376,14 @@
 <img alt="Pierniki, barszcz, pierogi. Czy wszystko już gotowe? Pokażcie swoje świąteczne przygotowania" src="https://tvn24.pl/najnowsze/cdn-zdjecie-zh4w35-gt-k24-jedzenie-16-6551844/alternates/LANDSCAPE_1280" />
     Czekamy na Wasze zdjęcia i nagrania.
 
+## Pierniki, sałatki, bigos, pierogi. Co gości na Waszych świątecznych stołach?
+ - [https://kontakt24.tvn24.pl/pierniki-salatki-bigos-pierogi-co-gosci-na-waszych-swiatecznych-stolach,1531,gt?source=rss](https://kontakt24.tvn24.pl/pierniki-salatki-bigos-pierogi-co-gosci-na-waszych-swiatecznych-stolach,1531,gt?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-24 08:10:09+00:00
+
+<img alt="Pierniki, sałatki, bigos, pierogi. Co gości na Waszych świątecznych stołach?" src="https://tvn24.pl/najnowsze/cdn-zdjecie-f4vz7x-swiateczne-potrawy-u-reporterow-24-6552710/alternates/LANDSCAPE_1280" />
+    Czekamy na Wasze zdjęcia i nagrania.
+
 ## Tak powstają bombki. Reporter TVN24 w największej fabryce w Europie
  - [https://tvn24.pl/go/programy,7/tylnymi-drzwiami--odcinki,703882/odcinek-5,S00E05,946114?source=rss](https://tvn24.pl/go/programy,7/tylnymi-drzwiami--odcinki,703882/odcinek-5,S00E05,946114?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -511,3 +535,4 @@
 
 <img alt="O co ekonomiści kłócą się przy wigilijnym stole?  " src="https://tvn24.pl/najnowsze/cdn-zdjecie-lsc6r7-2312-byk-i-niedzwiedz-do-go-6551568/alternates/LANDSCAPE_1280" />
     Piotr Bujak, główny ekonomista PKO Banku Polskiego oraz Adam Czerniak z SHG i Polityki Insight.
+

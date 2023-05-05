@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Highly immune evasive omicron XBB.1.5 variant is quickly becoming dominant in U.S. as it doubles weekly
  - [https://www.cnbc.com/2022/12/30/covid-news-omicron-xbbpoint1point5-is-highly-immune-evasive-and-binds-better-to-cells.html](https://www.cnbc.com/2022/12/30/covid-news-omicron-xbbpoint1point5-is-highly-immune-evasive-and-binds-better-to-cells.html)
@@ -14,6 +14,13 @@ XBB.1.5 now represents about 41% of new cases nationwide in the U.S., according 
 
 The news of Ronaldo's signing Friday follows months of rumors and speculation as to whether he would join a Saudi team offering a lucrative contract.
 
+## Nasdaq closes out its first four-quarter slump since dot-com crash
+ - [https://www.cnbc.com/2022/12/30/nasdaq-closes-out-its-first-four-quarter-slump-since-dot-com-crash.html](https://www.cnbc.com/2022/12/30/nasdaq-closes-out-its-first-four-quarter-slump-since-dot-com-crash.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-30 21:06:04+00:00
+
+The Nasdaq wrapped up its worst year since 2008 and is mired in a slump that's drawing many comparisons to the dot-com crash more than two decades ago.
+
 ## Building emergency savings is a top financial resolution for 2023, survey finds. Here’s how to get started
  - [https://www.cnbc.com/2022/12/30/if-you-want-more-emergency-savings-in-2023-these-tips-can-help.html](https://www.cnbc.com/2022/12/30/if-you-want-more-emergency-savings-in-2023-these-tips-can-help.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
@@ -27,6 +34,13 @@ When it comes to financial resolutions for 2023, there's one goal at the top of 
  - date published: 2022-12-30 16:40:49+00:00
 
 DeFi crypto Solana has struggled in 2022, between outages and exposure to FTX, but will 2023 hold more of the same, or be a boon for the Ethereum competitor?
+
+## A cardiologist shares the 4 worst foods for high cholesterol—and what she eats to keep her ‘heart healthy’
+ - [https://www.cnbc.com/2022/12/30/cardiologist-shares-worst-foods-for-high-cholesterol-and-what-she-eats-for-a-healthy-heart-and-brain.html](https://www.cnbc.com/2022/12/30/cardiologist-shares-worst-foods-for-high-cholesterol-and-what-she-eats-for-a-healthy-heart-and-brain.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-30 15:35:59+00:00
+
+Cardiologist Dr. Elizabeth Klodas shares the worst foods for high cholesterol and what she eats instead to maintain a healthy heart and brain.
 
 ## Here's how to know if your company's layoff policy is a 'good' one
  - [https://www.cnbc.com/2022/12/30/heres-how-to-know-if-your-companys-layoff-policy-is-a-good-one.html](https://www.cnbc.com/2022/12/30/heres-how-to-know-if-your-companys-layoff-policy-is-a-good-one.html)
@@ -104,3 +118,4 @@ It's unlikely that a dangerous new Covid-19 variant is spreading in China, said 
  - date published: 2022-12-30 00:55:29+00:00
 
 Global venture dollars may have dropped in 2022, but SGInnovate, Singapore's government-owned tech investment firm, is optimistic about 2023.
+

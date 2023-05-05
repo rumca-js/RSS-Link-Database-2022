@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## How to Uncurse Your Dice Before Game Night
  - [https://gizmodo.com/dungeons-dragons-dnd-dice-how-to-uncurse-roll-20-1849871968](https://gizmodo.com/dungeons-dragons-dnd-dice-how-to-uncurse-roll-20-1849871968)
@@ -300,3 +300,4 @@
  - date published: 2022-12-08 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--FZWdoXy8--/c_fit,fl_progressive,q_80,w_636/b6d9101cf2af63d9060ee14f3cc29908.jpg" /><p>As the saga of the “<a href="https://gizmodo.com/twitter-files-hunter-biden-elon-musk-taibbi-explained-1849851303">Twitter Files</a>” continues, the platform’s former CEO Jack Dorsey seems to be wondering why we can’t just hurry this up already and dump <em>all</em> of the company’s related dirt in one fell swoop. </p><p><a href="https://gizmodo.com/jack-to-elon-can-we-just-get-the-doxxing-over-with-1849864704">Read more...</a></p>
+

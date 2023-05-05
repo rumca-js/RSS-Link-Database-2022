@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Chart: Elon Musk is spurring growth at Mastodon
  - [https://www.nbcnews.com/data-graphics/twitter-owner-elon-musk-driving-user-growth-mastodon-rcna62832](https://www.nbcnews.com/data-graphics/twitter-owner-elon-musk-driving-user-growth-mastodon-rcna62832)
@@ -34,3 +34,4 @@ When everything seemed to be going wrong, Cuban multimedia artist Alejandro Pabl
  - date published: 2022-12-21 02:28:55+00:00
 
 Elon Musk will step down as Twitter’s chief executive after he finds someone “foolish” enough to replace him, he said Tuesday.
+

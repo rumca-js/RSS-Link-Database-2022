@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Blizzard disables Standard Hearthstone packs because they were dishing out new Signature cards like candy
  - [https://www.pcgamer.com/blizzard-disables-standard-hearthstone-packs-because-they-were-dishing-out-new-signature-cards-like-candy](https://www.pcgamer.com/blizzard-disables-standard-hearthstone-packs-because-they-were-dishing-out-new-signature-cards-like-candy)
@@ -272,3 +272,4 @@ It's time to marathon Marathon.
  - date published: 2022-12-06 00:22:20+00:00
 
 Charlie and Ebony aren't just window dressing, they are minotr participants in mankind's war against evil.
+

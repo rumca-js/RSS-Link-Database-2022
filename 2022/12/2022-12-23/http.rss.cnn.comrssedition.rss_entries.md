@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## 'Like a mob movie': Tapper reacts to Hutchinson's Jan. 6 testimony transcript
  - [https://www.cnn.com/videos/politics/2022/12/23/cassidy-hutchinson-transcripts-jan-6-tapper-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/23/cassidy-hutchinson-transcripts-jan-6-tapper-lead-vpx.cnn)
@@ -6,6 +6,13 @@
  - date published: 2022-12-23 22:34:32+00:00
 
 CNN's Jake Tapper breaks down insights revealed from transcripts of former Trump aide Cassidy Hutchinson's testimony before the January 6 committee.
+
+## 7 countries, 7 traditional Christmas feasts
+ - [https://www.cnn.com/travel/article/christmas-feasts-world/index.html](https://www.cnn.com/travel/article/christmas-feasts-world/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-23 22:06:00+00:00
+
+Christmas is celebrated in many ways in many corners of the globe, and the cuisine that marks the holiday is as diverse as the people feasting on it.
 
 ## A bizarre trend: Was 2022 the year of the cannibal?
  - [https://www.cnn.com/2022/12/23/entertainment/2022-cannibals-trend-movies/index.html](https://www.cnn.com/2022/12/23/entertainment/2022-cannibals-trend-movies/index.html)
@@ -49,6 +56,13 @@ Adnan Syed, recently exonerated after spending over two decades behind bars, is 
 
 CNN's Polo Sandoval is barely visible standing about 40 yards from the news camera amid severe winter weather in Buffalo, New York.
 
+## Former YouTube star Jenna Marbles marries long-term boyfriend Julien Solomita
+ - [https://www.cnn.com/2022/12/23/entertainment/jenna-marbles-julien-solomita-married-trnd/index.html](https://www.cnn.com/2022/12/23/entertainment/jenna-marbles-julien-solomita-married-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-23 19:32:11+00:00
+
+Former YouTuber Jenna Mourey, known by her channel name Jenna Marbles, has tied the knot with Julien Solomita, according to an Instagram post from her long-time partner.
+
 ## House passes $1.7 trillion government spending bill as funding deadline looms
  - [https://www.cnn.com/2022/12/23/politics/house-vote-spending-bill/index.html](https://www.cnn.com/2022/12/23/politics/house-vote-spending-bill/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -56,12 +70,33 @@ CNN's Polo Sandoval is barely visible standing about 40 yards from the news came
 
 The House voted Friday to pass a massive $1.7 trillion spending bill that would fund critical government operations across federal agencies and provide emergency aid for Ukraine and natural disaster relief. The bill will next go to President Joe Biden to be signed into law.
 
+## Jamie Lee Curtis says the 'nepo baby' conversation is 'designed to try to diminish and denigrate'
+ - [https://www.cnn.com/2022/12/23/entertainment/jamie-lee-curtis-nepo-baby/index.html](https://www.cnn.com/2022/12/23/entertainment/jamie-lee-curtis-nepo-baby/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-23 18:06:39+00:00
+
+Jamie Lee Curtis is opening up about her experiences in Hollywood as the child of movie stars, prompted by the current conversation around 'nepo babies' -- the term for children of notable figures whose familial ties are thought to have helped them find exposure and fame themselves.
+
+## The truth behind 'gift guilt' and what to do about it
+ - [https://www.cnn.com/2022/12/23/health/gift-guilt-holidays-wellness/index.html](https://www.cnn.com/2022/12/23/health/gift-guilt-holidays-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-23 17:55:21+00:00
+
+Planning meals, traveling and shopping for gifts are widely understood holiday stress factors for a lot of people, but receiving presents can also stir up uncomfortable feelings — what's known as "gift guilt."
+
 ## Winter storm and severe cold sweeps across US
  - [https://edition.cnn.com/webview/us/live-news/winter-storm-christmas-weather-forecast-12-23-2022/index.html](https://edition.cnn.com/webview/us/live-news/winter-storm-christmas-weather-forecast-12-23-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-23 17:20:01.604000+00:00
 
 
+
+## Video captures moose dropping its antlers in the front yard of home
+ - [https://www.cnn.com/videos/us/2022/12/23/moose-loses-antlers-ring-camera-ktuu-cprog-vpx.ktuu](https://www.cnn.com/videos/us/2022/12/23/moose-loses-antlers-ring-camera-ktuu-cprog-vpx.ktuu)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-23 16:36:12+00:00
+
+A doorbell camera in Alaska captured a moose dropping his antlers in the front yard. CNN affiliate KTUU has the story.
 
 ## The secrets behind your favorite Christmas movie classics
  - [https://www.cnn.com/2022/12/23/entertainment/christmas-movie-secrets-holiday-films-cec/index.html](https://www.cnn.com/2022/12/23/entertainment/christmas-movie-secrets-holiday-films-cec/index.html)
@@ -431,5 +466,6 @@ Additional Twitter employees were terminated Thursday as part of ongoing, rollin
  - [https://www.cnn.com/2022/12/22/china/china-covid-deaths-crematorium-intl-hnk-mic/index.html](https://www.cnn.com/2022/12/22/china/china-covid-deaths-crematorium-intl-hnk-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-23 00:18:10+00:00
+
 
 

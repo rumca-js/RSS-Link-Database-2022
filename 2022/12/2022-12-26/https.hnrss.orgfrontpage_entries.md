@@ -1,4 +1,54 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Show HN: How many advertising panels in Sydney are near a public telephone?
+ - [https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 23:57:37+00:00
+
+<p>Article URL: <a href="https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings">https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34143279">https://news.ycombinator.com/item?id=34143279</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## Running Windows 7 on a 5 MHz CPU with 128MB of RAM
+ - [https://www.tomshardware.com/news/windows-7-runs-at-5-mhz](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 23:43:09+00:00
+
+<p>Article URL: <a href="https://www.tomshardware.com/news/windows-7-runs-at-5-mhz">https://www.tomshardware.com/news/windows-7-runs-at-5-mhz</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34143197">https://news.ycombinator.com/item?id=34143197</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
+
+## Rigs of Rods: free and open source vehicle simulator that uses soft-body physics
+ - [https://www.rigsofrods.org/](https://www.rigsofrods.org/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 23:32:51+00:00
+
+<p>Article URL: <a href="https://www.rigsofrods.org/">https://www.rigsofrods.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34143119">https://news.ycombinator.com/item?id=34143119</a></p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
+
+## Creepy Website Similarity
+ - [https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 23:30:41+00:00
+
+<p>Article URL: <a href="https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi">https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34143101">https://news.ycombinator.com/item?id=34143101</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+## Too big to live, too loved to die: Big Tech's billion dollar curse of the free
+ - [https://www.theregister.com/2022/12/26/opinion_column_alexa/](https://www.theregister.com/2022/12/26/opinion_column_alexa/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 23:05:14+00:00
+
+<p>Article URL: <a href="https://www.theregister.com/2022/12/26/opinion_column_alexa/">https://www.theregister.com/2022/12/26/opinion_column_alexa/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34142932">https://news.ycombinator.com/item?id=34142932</a></p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
 
 ## Binary Posters
  - [https://github.com/corkami/pics/blob/master/binary/README.md](https://github.com/corkami/pics/blob/master/binary/README.md)
@@ -9,6 +59,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34142407">https://news.ycombinator.com/item?id=34142407</a></p>
 <p>Points: 8</p>
 <p># Comments: 0</p>
+
+## Are You Really Losing Weight?
+ - [https://jasmcole.com/2022/02/10/losing-it/](https://jasmcole.com/2022/02/10/losing-it/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 21:39:53+00:00
+
+<p>Article URL: <a href="https://jasmcole.com/2022/02/10/losing-it/">https://jasmcole.com/2022/02/10/losing-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34142184">https://news.ycombinator.com/item?id=34142184</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
 ## A Visual Guide to UseEffect
  - [https://alexsidorenko.com/blog/useeffect/](https://alexsidorenko.com/blog/useeffect/)
@@ -39,6 +99,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34142131">https://news.ycombinator.com/item?id=34142131</a></p>
 <p>Points: 10</p>
 <p># Comments: 0</p>
+
+## How Twitter moderated the Covid debate
+ - [https://www.thefp.com/p/how-twitter-rigged-the-covid-debate](https://www.thefp.com/p/how-twitter-rigged-the-covid-debate)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 21:22:47+00:00
+
+<p>Article URL: <a href="https://www.thefp.com/p/how-twitter-rigged-the-covid-debate">https://www.thefp.com/p/how-twitter-rigged-the-covid-debate</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34142030">https://news.ycombinator.com/item?id=34142030</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
 ## Mold linker: targeting macOS/iOS now requires a commercial license
  - [https://github.com/rui314/mold/releases/tag/v1.8.0](https://github.com/rui314/mold/releases/tag/v1.8.0)
@@ -398,7 +468,6 @@ asses handed to us every day.<p>At best we are ambivalent about holidays and eve
  - [https://clintel.org/](https://clintel.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-26 12:58:24+00:00
- - tags: climate change,science
 
 <p>Article URL: <a href="https://clintel.org/">https://clintel.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34137293">https://news.ycombinator.com/item?id=34137293</a></p>
@@ -696,3 +765,4 @@ asses handed to us every day.<p>At best we are ambivalent about holidays and eve
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34133388">https://news.ycombinator.com/item?id=34133388</a></p>
 <p>Points: 13</p>
 <p># Comments: 1</p>
+

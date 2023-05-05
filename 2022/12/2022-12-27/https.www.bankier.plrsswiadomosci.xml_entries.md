@@ -1,4 +1,11 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
+
+## Sąd Najwyższy USA utrzymał ograniczenia dot. imigracji. "Szybkie wydalanie" nadal w mocy
+ - [https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-USA-utrzymal-ograniczenia-dot-imigracji-Szybkie-wydalanie-nadal-w-mocy-8463172.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-USA-utrzymal-ograniczenia-dot-imigracji-Szybkie-wydalanie-nadal-w-mocy-8463172.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-27 22:27:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/8/a6f48623785fa2-945-560-0-67-1000-599.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sąd Najwyższy USA zdecydował we wtorek o tymczasowym utrzymaniu restrykcji na granicy wprowadzonych na czas pandemii, umożliwiających szybkie wydalanie nieudokumentowanych migrantów. Sąd zablokował w ten sposób decyzję administracji prezydenta Bidena.</p>
 
 ## Srogi pogrom na akcjach Tesli
  - [https://www.bankier.pl/wiadomosc/Srogi-pogrom-na-akcjach-Tesli-8463161.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Srogi-pogrom-na-akcjach-Tesli-8463161.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -311,3 +318,4 @@ linię orzeczniczą.</p>
  - date published: 2022-12-27 00:43:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/6/c930bc0fe152a3-948-568-42-127-4207-2524.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Blisko 46-milionowa Argentyna, której gospodarka od  czasu pandemii koronawirusa zmaga się z kryzysem  nasilającym się w następstwie  rosyjskiej agresji w Ukrainie, kończy rok 2022 z niemal 100-procentową inflacją, najwyższą w Ameryce Łacińskiej.</p>
+

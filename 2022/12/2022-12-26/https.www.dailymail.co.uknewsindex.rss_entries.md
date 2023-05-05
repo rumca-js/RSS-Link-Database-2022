@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Trump 2024 campaign adviser tells journalist ex-president's 'magic is gone'
  - [https://www.dailymail.co.uk/news/article-11575353/Trump-2024-campaign-adviser-tells-journalist-ex-presidents-magic-gone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11575353/Trump-2024-campaign-adviser-tells-journalist-ex-presidents-magic-gone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -62,6 +62,13 @@ Emma Lovell, 41, and her husband Lee, 43, were inside their North Lakes home, no
  - date published: 2022-12-26 23:07:03+00:00
 
 Pet owners have been given a desperate warning on foods leftover from Christmas that are toxic to their dogs. A trip to the vet emergency room during holiday season could easily top $1,000.
+
+## Teenagers emulate Princess of Wales's eclectic Noughties style in TikTok social media craze
+ - [https://www.dailymail.co.uk/femail/article-11575261/Teenagers-emulate-Princess-Waless-eclectic-Noughties-style-TikTok-social-media-craze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11575261/Teenagers-emulate-Princess-Waless-eclectic-Noughties-style-TikTok-social-media-craze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-26 22:47:17+00:00
+
+Kate's Noughties outfits have become a hit among a generation of teenagers who have embraced retro fashion trends.
 
 ## Hope Hicks went from 'Trump whisper' to not showing up for a month before 'sad' events of January 6
  - [https://www.dailymail.co.uk/news/article-11575107/Hope-Hicks-went-Trump-whisper-not-showing-month-sad-events-January-6.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11575107/Hope-Hicks-went-Trump-whisper-not-showing-month-sad-events-January-6.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -438,7 +445,6 @@ A female hiker survived a a 200-foot fall in the San Gabriel Mountains on Saturd
  - [https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-26 15:14:28+00:00
- - tags: misinformation,censorship,covid,disinformation,big brother
 
 Both the Trump and Biden administrations pressured Twitter executives to censor information that was 'true but inconvenient,' the latest Twitter Files reveal.
 
@@ -994,3 +1000,4 @@ A trial date has been set for the Florida man accused of beating his five-month-
  - date published: 2022-12-26 00:01:12+00:00
 
 Trina Newman, 61, a dedicated activist and minister, was tragically hit by a car while dropping off presents for local kids at a community center in South Los Angeles.
+

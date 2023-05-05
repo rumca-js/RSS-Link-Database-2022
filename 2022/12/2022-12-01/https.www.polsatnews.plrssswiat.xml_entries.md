@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Obraz skradziony z Muzeum Narodowego odnaleziony w Niemczech. Został wystawiony na aukcji
  - [https://www.polsatnews.pl/wiadomosc/2022-12-01/obraz-skradziony-z-muzeum-narodowego-odnaleziony-w-niemczech-zostal-wystawiony-na-aukcji/](https://www.polsatnews.pl/wiadomosc/2022-12-01/obraz-skradziony-z-muzeum-narodowego-odnaleziony-w-niemczech-zostal-wystawiony-na-aukcji/)
@@ -97,3 +97,4 @@ Nie powiodła się egzekucja mordercy Alana Millera przy użyciu śmiertelnego z
  - date published: 2022-12-01 07:52:00+00:00
 
 Urzędniczka Pałacu Buckingham, a prywatnie przyjaciółka królowej Elżbiety oraz matka chrzestna księcia Williama - Lady Sarah Hussey - odchodzi po rasistowskim skandalu. Na jednej z imprez dopytywała ona czarnoskórą działaczkę, skąd tak naprawdę pochodzi.
+

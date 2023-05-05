@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Biden signs TikTok ban for government devices, setting up a chaotic 2023 for the app
  - [https://www.nbcnews.com/tech/tech-news/tiktok-ban-biden-government-college-state-federal-security-privacy-rcna63724](https://www.nbcnews.com/tech/tech-news/tiktok-ban-biden-government-college-state-federal-security-privacy-rcna63724)
@@ -13,3 +13,4 @@ Security concerns have inspired a wave of TikTok bans across the US over the las
  - date published: 2022-12-30 14:39:40+00:00
 
 AI art is suddenly everywhere. We created a quiz to see whether you can spot the difference between human- and robot-generated images.
+

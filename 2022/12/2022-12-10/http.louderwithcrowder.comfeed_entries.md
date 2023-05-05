@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Great news, you guys! Liver King declares he's 'going natty,' will stop taking ludicrous amounts of steroids
  - [https://www.louderwithcrowder.com/liver-king-natty-podcast](https://www.louderwithcrowder.com/liver-king-natty-podcast)
@@ -56,3 +56,4 @@
 <a href="https://youtu.be/jnbraZMp1Rs" target="_blank">youtu.be</a>
 </small>
 </p>
+

@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## This slick custom PC looks like a vintage tube amp
  - [https://www.pcworld.com/article/1432787/this-slick-custom-pc-looks-like-a-vintage-tube-amp.html](https://www.pcworld.com/article/1432787/this-slick-custom-pc-looks-like-a-vintage-tube-amp.html)
@@ -516,3 +516,4 @@ Gaming, GPUs</div>
 <p><em>Prices subject to change.</em></p>
 
 Microsoft, Microsoft Office</div>
+

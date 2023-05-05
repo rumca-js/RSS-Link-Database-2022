@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## 5 hidden gems you may have missed in 2022
  - [https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022](https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022)
@@ -132,3 +132,4 @@ Rose Engine's psychological thriller breaks the rules with purpose.
  - date published: 2022-12-20 08:05:46+00:00
 
 Wordle today: The solution and a hint for the #549 puzzle.
+

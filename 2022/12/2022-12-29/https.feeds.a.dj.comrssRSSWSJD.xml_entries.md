@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## U.S. Moves to Appease Allies on EV Subsidies
  - [https://www.wsj.com/articles/u-s-moves-to-appease-allies-on-ev-subsidies-11672329296?mod=rss_Technology](https://www.wsj.com/articles/u-s-moves-to-appease-allies-on-ev-subsidies-11672329296?mod=rss_Technology)
@@ -55,3 +55,4 @@ The U.S. is considering whether to release a genetically modified version tolera
  - date published: 2022-12-29 02:15:00+00:00
 
 Social-media app owned by Elon Musk suffers glitches, with some users getting error messages.
+

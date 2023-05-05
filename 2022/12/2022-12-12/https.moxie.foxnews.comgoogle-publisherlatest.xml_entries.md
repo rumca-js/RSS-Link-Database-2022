@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Pistons' Cade Cunningham opts for shin surgery, ending his 2022-23 season: report
  - [https://www.foxnews.com/sports/pistons-cade-cunningham-opts-for-shin-surgery-ending-2022-23-season-report](https://www.foxnews.com/sports/pistons-cade-cunningham-opts-for-shin-surgery-ending-2022-23-season-report)
@@ -1056,3 +1056,4 @@ New York Times TV critic called the January 6 Committee hearings some of the bes
  - date published: 2022-12-12 00:07:01+00:00
 
 Josh Allen had two touchdowns, including one to Dawson Knox, as the Buffalo Bills defeated the New York Jets, 20-12, on Sunday afternoon.
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Google Chrome gets memory- and power-saving modes
  - [https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all](https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all)
@@ -45,3 +45,4 @@
 <article>
 	<section class="page">
 <p>Atlassian Thursday unveiled a <a href="https://www.atlassian.com/blog/jira-service-management/atlassian-high-velocity-itsm-2022-product-highlights" rel="nofollow">slew of new features</a> for Jira Service Management—its <a href="https://www.cio.com/article/230741/what-is-itsm-managing-it-to-serve-business-needs.html">IT service management (ITSM)</a> offering—providing support and development teams with new automation capabilities, virtual agent technology and on-the-go incident response.  </p><p>Speaking ahead of the company’s annual High-Velocity ITSM event in London on December 8, Jira Service Management  product manager Shihab Hamid said that Atlassian—which has acquired six companies in the last four years to "beef up" its product portfolio—was looking to bridge gaps among <a href="https://www.infoworld.com/article/3215275/what-is-devops-transforming-software-development.html">devops</a>, IT operations, tech support and business teams.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3682628/atlassian-targets-itsm-with-new-additions-to-jira-service-management.html#jump">To read this article in full, please click here</a></p></section></article>
+

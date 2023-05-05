@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## 8,000 Southwest Airlines passengers were ready to take a chance
  - [https://www.zdnet.com/article/8000-southwest-airlines-passengers-were-ready-to-take-a-chance/#ftag=RSSbaffb68](https://www.zdnet.com/article/8000-southwest-airlines-passengers-were-ready-to-take-a-chance/#ftag=RSSbaffb68)
@@ -27,3 +27,4 @@ Smart suitcases can help you travel smarter, not harder. But you'll want to make
  - date published: 2022-12-17 12:00:21+00:00
 
 Starbucks begins to embrace digital tipping. The whole thing seems rampant. But doesn't it make customers feel uncomfortable?
+

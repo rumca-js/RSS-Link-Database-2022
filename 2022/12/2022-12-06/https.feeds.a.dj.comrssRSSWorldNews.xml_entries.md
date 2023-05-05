@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Argentine Court Sentences Vice President Cristina Kirchner to Six Years in Prison
  - [https://www.wsj.com/articles/argentine-court-sentences-vice-president-cristina-kirchner-to-6-years-in-prison-11670361113](https://www.wsj.com/articles/argentine-court-sentences-vice-president-cristina-kirchner-to-6-years-in-prison-11670361113)
@@ -83,3 +83,4 @@ Chinese authorities projected an air of national grief and unity as they tamped 
  - date published: 2022-12-06 00:01:00+00:00
 
 The two sides at a meeting make little progress over U.S. electric-car subsidies, an issue raised by the French president during his White House visit.
+

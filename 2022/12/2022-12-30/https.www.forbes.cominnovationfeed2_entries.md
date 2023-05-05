@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Apple Loop: More iPhone Problems, Foldable iPad Details, MacBook’s New Home
  - [https://www.forbes.com/sites/ewanspence/2022/12/30/apple-news-iphone-14-plus-problems-homepod-foldable-ipad-comic-sans/](https://www.forbes.com/sites/ewanspence/2022/12/30/apple-news-iphone-14-plus-problems-homepod-foldable-ipad-comic-sans/)
@@ -461,3 +461,4 @@ As the sun approaches solar maximum the aurora are expected to become more inten
  - date published: 2022-12-30 00:14:46+00:00
 
 When technology is out of sync with humanity, we’re all left high and dry.
+

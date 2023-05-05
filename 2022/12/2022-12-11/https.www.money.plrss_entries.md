@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Utrata prawa do opodatkowania CIT-em estońskim
  - [https://www.money.pl/gospodarka/utrata-prawa-do-opodatkowania-cit-em-estonskim-6842707991591456a.html](https://www.money.pl/gospodarka/utrata-prawa-do-opodatkowania-cit-em-estonskim-6842707991591456a.html)
@@ -69,3 +69,4 @@
  - date published: 2022-12-11 05:51:07+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/bfa94a71-1ef2-4ef5-976d-b4356c328b42" width="308" /> Polak za kredyt hipoteczny płaci ponad pięć razy więcej niż Francuz i prawie trzy razy więcej niż Niemiec. Sprawdziliśmy, dlaczego kredyty hipoteczne w Polsce są takie drogie, ile wynosi ich oprocentowanie w Europie i czy możemy coś zrobić, żeby płacić niższą ratę za kredyt na mieszkanie.
+

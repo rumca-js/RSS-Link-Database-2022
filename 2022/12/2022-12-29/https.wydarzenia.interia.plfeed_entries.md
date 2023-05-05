@@ -1,4 +1,11 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
+
+## Korek na Moście Krymskim. "Każde auto jest sprawdzane"
+ - [https://wydarzenia.interia.pl/zagranica/news-korek-na-moscie-krymskim-kazde-auto-jest-sprawdzane,nId,6502847](https://wydarzenia.interia.pl/zagranica/news-korek-na-moscie-krymskim-kazde-auto-jest-sprawdzane,nId,6502847)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-12-29 23:05:42+00:00
+
+<p><a href="https://wydarzenia.interia.pl/zagranica/news-korek-na-moscie-krymskim-kazde-auto-jest-sprawdzane,nId,6502847"><img align="left" alt="Korek na Moście Krymskim. &quot;Każde auto jest sprawdzane&quot;" src="https://i.iplsc.com/korek-na-moscie-krymskim-kazde-auto-jest-sprawdzane/000GJZF4KJ4W9ISG-C321.jpg" /></a>Kierowcy przez cały dzień stoją w korku, który utworzył się przed Mostem Krymskim - poinformował w czwartek portal NEXTA. Powodem są kontrole pojazdów. Policjanci &quot;sprawdzają każdy samochód&quot; za pomocą specjalnego sprzętu. W ciągu sześciu godzin kolejka miała się przesunąć o jeden kilometr.</p><br clear="all" />
 
 ## Izrael: Rząd Benjamina Netanjahu zatwierdzony przez parlament
  - [https://wydarzenia.interia.pl/zagranica/news-izrael-rzad-benjamina-netanjahu-zatwierdzony-przez-parlament,nId,6502844](https://wydarzenia.interia.pl/zagranica/news-izrael-rzad-benjamina-netanjahu-zatwierdzony-przez-parlament,nId,6502844)
@@ -420,3 +427,4 @@
  - date published: 2022-12-29 04:49:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-309-dzien-inwazji-rosji-relacja-na-zywo,nzId,3552,akt,290852"><img align="left" alt="Wojna w Ukrainie. 309. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-309-dzien-inwazji-rosji-relacja-na-zywo/000GBDHFTNQTW2JI-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

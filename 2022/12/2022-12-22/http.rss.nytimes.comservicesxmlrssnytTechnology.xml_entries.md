@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Twitter Is Said to Have Struggled Over Revealing US Influence Campaign
  - [https://www.nytimes.com/2022/12/22/technology/twitter-military-influence-campaign.html](https://www.nytimes.com/2022/12/22/technology/twitter-military-influence-campaign.html)
@@ -48,3 +48,4 @@ Federal regulators have sued to block the $69 billion acquisition, but the compa
  - date published: 2022-12-22 01:58:42+00:00
 
 Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## The Difference Between Puff Pastry and Phyllo Dough
  - [https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506](https://lifehacker.com/the-difference-between-puff-pastry-and-phyllo-dough-1849900506)
@@ -125,3 +125,4 @@
  - date published: 2022-12-15 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--z9NaQvGT--/c_fit,fl_progressive,q_80,w_636/81b208551921a6ad73a01bfb8ff35d12.jpg" /><p>As much as <a href="https://lifehacker.com/tofu-freaking-rules-1843024412">I love tofu</a>, I have to admit that tempeh might be the true champion of soy-based meat substitutes. It’s higher in protein than tofu, and while it’s a little less versatile, its rubbly texture and funky, nutty flavor are both delicious and unique. There’s simply no substitute.<br /></p><p><a href="https://lifehacker.com/make-even-better-tempeh-by-steaming-it-first-1849895182">Read more...</a></p>
+

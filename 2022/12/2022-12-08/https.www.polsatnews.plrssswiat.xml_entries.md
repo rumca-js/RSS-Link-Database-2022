@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania: Do obiegu trafiły pierwsze monety z wizerunkiem króla Karola III
  - [https://www.polsatnews.pl/wiadomosc/2022-12-08/wielka-brytania-do-obiegu-trafily-pierwsze-monety-z-wizerunkiem-krola-karola-iii/](https://www.polsatnews.pl/wiadomosc/2022-12-08/wielka-brytania-do-obiegu-trafily-pierwsze-monety-z-wizerunkiem-krola-karola-iii/)
@@ -83,3 +83,4 @@ Na stół, podczas konferencji reprezentanta Brazylii w Katarze, wskoczył kot. 
  - date published: 2022-12-08 05:20:00+00:00
 
 Jedynym prawdziwym gwarantem integralności terytorialnej Ukrainy w jej obecnych granicach może być Rosja - powiedział prezydent Rosji Władimir Putin podczas spotkania z członkami Rady ds. Praw Człowieka. Jego zdaniem w Polsce nacjonalistyczni politycy śnią o powrocie tak zwanych terytoriów historycznych, które Ukraina otrzymała od Stalina. Putin tłumaczył się też z braku postępów na froncie.
+

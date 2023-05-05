@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Tesla’s new virtual power plant lets Texans sell electricity back to the grid
  - [https://www.theverge.com/2022/12/16/23512979/tesla-electric-launch-texas-powerwall-virtual-power-plant-vpp](https://www.theverge.com/2022/12/16/23512979/tesla-electric-launch-texas-powerwall-virtual-power-plant-vpp)
@@ -573,3 +573,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet">Continue reading&hellip;</a>
   </p>
+

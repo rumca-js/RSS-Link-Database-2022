@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Young conservatives send mixed messages on Trump at MAGA gathering
  - [https://www.politico.com/news/2022/12/18/young-conservatives-trump-turning-point-americafest-00074517](https://www.politico.com/news/2022/12/18/young-conservatives-trump-turning-point-americafest-00074517)
@@ -13,3 +13,4 @@ Some attendees are talking about the former president more as a historical figur
  - date published: 2022-12-18 07:00:00+00:00
 
 Founded after the 2004 Howard Dean presidential campaign, Democracy for America was felled by poor fundraising and what many former employees described as shoddy management.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Ukraine Faces More Outages and Strikes Russian-Controlled Melitopol
  - [https://www.nytimes.com/2022/12/11/world/europe/ukraine-odesa-outages-melitopol.html](https://www.nytimes.com/2022/12/11/world/europe/ukraine-odesa-outages-melitopol.html)
@@ -76,3 +76,4 @@ Dr. Kylie Moore-Gilbert, who was in prison for two years, said she was unable to
  - date published: 2022-12-11 05:01:13+00:00
 
 The tiny country, starved of natural gas and electricity because of the conflict in neighboring Ukraine, is confronting street rallies bankrolled by a pro-Russian politician to target its pro-Western government.
+

@@ -1,4 +1,55 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Tell HN: Everyone should have a holiday dinner this year
+ - [https://news.ycombinator.com/item?id=34122118](https://news.ycombinator.com/item?id=34122118)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 23:09:29+00:00
+
+<p>I just wanted to let any HN users who are alone for the holidays - maybe even without a place to stay - that I want to make sure you have a good meal in your stomach tomorrow night and that you know that there are others who do care.<p>HN has been an incredible resource for me. I have met friends, cofounders, and business partners on this site. My intellectual curiousity has been somewhat sated and my social circle made richer by this site’s very existence. I myself have gone through tough times and spent multiple holiday seasons on the street. I want you to know there are people out there who care about you and believe in you.<p>If you need food to celebrate the holidays (or another resource, such as housing help for the night) please email me at the address in my bio. You may remain as anonymous as you wish, so long as I have enough information to get you the assistance you desire.<p>Merry Christmas and Happy Holidays.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34122118">https://news.ycombinator.com/item?id=34122118</a></p>
+<p>Points: 68</p>
+<p># Comments: 1</p>
+
+## Volodymyr “Fresh” Yezhov, S.T.A.L.K.E.R. dev and the face of 'Loki', has died
+ - [https://twitter.com/app4soft/status/1606784614793633794](https://twitter.com/app4soft/status/1606784614793633794)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 22:58:48+00:00
+
+<p>Article URL: <a href="https://twitter.com/app4soft/status/1606784614793633794">https://twitter.com/app4soft/status/1606784614793633794</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34122028">https://news.ycombinator.com/item?id=34122028</a></p>
+<p>Points: 54</p>
+<p># Comments: 2</p>
+
+## We’re in a golden age of board games
+ - [https://www.washingtonpost.com/business/2022/12/24/board-game-popularity/](https://www.washingtonpost.com/business/2022/12/24/board-game-popularity/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 22:39:46+00:00
+
+<p>Article URL: <a href="https://www.washingtonpost.com/business/2022/12/24/board-game-popularity/">https://www.washingtonpost.com/business/2022/12/24/board-game-popularity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34121880">https://news.ycombinator.com/item?id=34121880</a></p>
+<p>Points: 42</p>
+<p># Comments: 1</p>
+
+## Idaho professor sues TikToker over allegations in the killing of 4 students
+ - [https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149](https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 22:39:19+00:00
+
+<p>Article URL: <a href="https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149">https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34121873">https://news.ycombinator.com/item?id=34121873</a></p>
+<p>Points: 33</p>
+<p># Comments: 1</p>
+
+## How to Write Unmantainable Code
+ - [https://github.com/Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 22:11:24+00:00
+
+<p>Article URL: <a href="https://github.com/Droogans/unmaintainable-code">https://github.com/Droogans/unmaintainable-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34121624">https://news.ycombinator.com/item?id=34121624</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
 ## I'm sure LastPass setting the delete account to display: none was coincidental
  - [https://infosec.exchange/@chiesennegs/109570145849933257](https://infosec.exchange/@chiesennegs/109570145849933257)
@@ -9,6 +60,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34121583">https://news.ycombinator.com/item?id=34121583</a></p>
 <p>Points: 108</p>
 <p># Comments: 15</p>
+
+## What ChatGPT Can't Do
+ - [https://auerstack.substack.com/p/what-chatgpt-cant-do](https://auerstack.substack.com/p/what-chatgpt-cant-do)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 21:46:58+00:00
+
+<p>Article URL: <a href="https://auerstack.substack.com/p/what-chatgpt-cant-do">https://auerstack.substack.com/p/what-chatgpt-cant-do</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34121380">https://news.ycombinator.com/item?id=34121380</a></p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 ## PostScript Cartridge for HP LaserJet
  - [https://www.pagetable.com/?p=1721](https://www.pagetable.com/?p=1721)
@@ -41,6 +102,16 @@
 <p>Points: 318</p>
 <p># Comments: 43</p>
 
+## Make It with Punched Cards (1971)
+ - [https://archive.org/details/makeitwithpunchedcards1971](https://archive.org/details/makeitwithpunchedcards1971)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 20:35:51+00:00
+
+<p>Article URL: <a href="https://archive.org/details/makeitwithpunchedcards1971">https://archive.org/details/makeitwithpunchedcards1971</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34120830">https://news.ycombinator.com/item?id=34120830</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
 ## Stanford Hates Fun
  - [https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html](https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -70,6 +141,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34119879">https://news.ycombinator.com/item?id=34119879</a></p>
 <p>Points: 89</p>
 <p># Comments: 20</p>
+
+## Libstdc++ Gets C++20 Chrono
+ - [https://isocpp.org//blog/2022/12/libstdcpp-gets-c20-chrono](https://isocpp.org//blog/2022/12/libstdcpp-gets-c20-chrono)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 18:54:06+00:00
+
+<p>Article URL: <a href="https://isocpp.org//blog/2022/12/libstdcpp-gets-c20-chrono">https://isocpp.org//blog/2022/12/libstdcpp-gets-c20-chrono</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34119878">https://news.ycombinator.com/item?id=34119878</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
 
 ## Setting up my new laptop: Nix style
  - [https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
@@ -481,3 +562,4 @@ The scary thing here is that if I can't build these stuffs then there is 0 point
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34112943">https://news.ycombinator.com/item?id=34112943</a></p>
 <p>Points: 57</p>
 <p># Comments: 39</p>
+

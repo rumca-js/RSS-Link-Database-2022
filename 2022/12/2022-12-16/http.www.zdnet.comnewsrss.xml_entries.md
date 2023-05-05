@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## How to GPS track a phone
  - [https://www.zdnet.com/article/how-to-gps-track-a-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-gps-track-a-phone/#ftag=RSSbaffb68)
@@ -160,3 +160,4 @@ Smart TVs always drop in price around Christmas, but an $80 smart TV isn't a dea
  - date published: 2022-12-16 01:12:29+00:00
 
 The food and beverage industry is experiencing a digital transformation, as robots and AI-powered tools fill in the gaps caused by a labor shortage.
+

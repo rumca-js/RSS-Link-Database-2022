@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Despite the gloomy headlines, demand for tech skills is strong
  - [https://www.zdnet.com/article/despite-the-gloomy-headlines-demand-for-tech-skills-is-strong/#ftag=RSSbaffb68](https://www.zdnet.com/article/despite-the-gloomy-headlines-demand-for-tech-skills-is-strong/#ftag=RSSbaffb68)
@@ -223,3 +223,4 @@ If you're struggling to nod off during the night, this smart headband could be a
  - date published: 2022-12-12 09:05:33+00:00
 
 Australian insurance group brings in Microsoft to roll out "enhanced security operations", shutting down its systems including website and apps as well as retail outlets over the weekend for the upgrade.
+

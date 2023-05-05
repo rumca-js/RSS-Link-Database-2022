@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## 3 Reasons to Use Expo for Your Next Cross-Platform Mobile App Project
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59816](https://www.codeproject.com/script/News/View.aspx?nwid=59816)
@@ -125,3 +125,4 @@ Then use the Python to run some TypeScript to load a VB module that runs a...
  - date published: 2022-12-15 05:00:00+00:00
 
 Suppose you are familiar with CollectionViewSource from WPF. In that case, you may not be aware that the class no longer has functionality for sorting and grouping itself in UWP, but this can be achieved in the underlying source.
+

@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Ex-NBA star Amar'e Stoudemire charged with punching daughter
  - [https://abcnews.go.com/Sports/wireStory/nba-star-amare-stoudemire-charged-punching-daughter-95513466](https://abcnews.go.com/Sports/wireStory/nba-star-amare-stoudemire-charged-punching-daughter-95513466)
@@ -188,3 +188,4 @@ Three days ago, North Korea said it tested a &ldquo;high-thrust solid-fuel motor
  - date published: 2022-12-18 01:22:57+00:00
 
 Bob Mangan’s annual light show in North Ridgeville, Ohio, almost did not happen until his neighbors let him know how important it is to the community and he went all out.
+

@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## Astronomers detected a star that was ripped apart by a supermassive black hole
  - [https://www.lemonde.fr/en/science/article/2022/12/01/astronomers-detected-a-star-that-was-ripped-apart-by-a-supermassive-black-hole_6006262_10.html](https://www.lemonde.fr/en/science/article/2022/12/01/astronomers-detected-a-star-that-was-ripped-apart-by-a-supermassive-black-hole_6006262_10.html)
@@ -20,3 +20,4 @@ With hospitals in crisis in the face of an epidemic of bronchiolitis, health pro
  - date published: 2022-12-01 00:33:39+00:00
 
 'The fight against HIV and AIDS has always been bigger than just an effort to defeat a particular virus,' say Peter Sands, executive director of The Global fund, and Winnie Byanyima, executive director of UNAIDS.
+

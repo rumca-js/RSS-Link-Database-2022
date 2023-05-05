@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## 'Secretary of evil', 97, who worked at Nazi concentration camp awaits verdict
  - [https://news.sky.com/story/secretary-of-evil-97-who-worked-at-nazi-concentration-camp-awaits-verdict-12768803](https://news.sky.com/story/secretary-of-evil-97-who-worked-at-nazi-concentration-camp-awaits-verdict-12768803)
@@ -41,3 +41,4 @@ A boy has been killed in Montpellier amid clashes between France and Morocco fan
  - date published: 2022-12-15 00:54:00+00:00
 
 A man has been executed by lethal injection in the US for the rape and murder of a 16-year-old girl more than two decades ago.
+

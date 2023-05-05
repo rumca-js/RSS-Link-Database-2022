@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Aid Groups Pause Work in Afghanistan After Taliban Move
  - [https://www.wsj.com/articles/aid-groups-pause-work-in-afghanistan-after-nations-women-are-banned-11671980007](https://www.wsj.com/articles/aid-groups-pause-work-in-afghanistan-after-nations-women-are-banned-11671980007)
@@ -41,3 +41,4 @@ Authorities in some regions estimate up to a million residents are being infecte
  - date published: 2022-12-25 12:00:00+00:00
 
 In Ukraine, many Christians are celebrating Christmas on Dec. 25 this year, instead of in January, as they repudiate the Moscow-affiliated Orthodox church.
+

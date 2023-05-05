@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Znamy angielskie słowo roku. Tryb goblina może dotyczyć każdego z nas
  - [https://wydarzenia.interia.pl/zagranica/news-znamy-angielskie-slowo-roku-tryb-goblina-moze-dotyczyc-kazde,nId,6456479](https://wydarzenia.interia.pl/zagranica/news-znamy-angielskie-slowo-roku-tryb-goblina-moze-dotyczyc-kazde,nId,6456479)
@@ -14,3 +14,4 @@
 
 <p><a href="https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-tragedia-w-czasie-zabawy-betonowy-slup-zabil,nId,6456004"><img align="left" alt="Wielka Brytania: Tragedia w czasie zabawy. Betonowy słup zabił pięciolatka" src="https://i.iplsc.com/wielka-brytania-tragedia-w-czasie-zabawy-betonowy-slup-zabil/000GG5OC0BNAHKGM-C321.jpg" /></a>Pięcoletni chłopiec zginął przygnieciony przez betonowy słup, który przewrócił się na niego w czasie zabawy. Rodzice i ratownicy medyczni desperacko walczyli o życie dziecka, reanimując je przez 42 minuty. Dziecko doznało poważnego urazu czaszki i szyi. 
 </p><br clear="all" />
+

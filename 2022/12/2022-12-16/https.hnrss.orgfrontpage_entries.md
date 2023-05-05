@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Oppenheimer Cleared [pdf]
  - [https://www.energy.gov/sites/default/files/2022-12/S1%20Oppenheimer%20Order%2012.12.22%20signed%20by%20S1%2012-16-2022.pdf](https://www.energy.gov/sites/default/files/2022-12/S1%20Oppenheimer%20Order%2012.12.22%20signed%20by%20S1%2012-16-2022.pdf)
@@ -806,3 +806,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34007637">https://news.ycombinator.com/item?id=34007637</a></p>
 <p>Points: 41</p>
 <p># Comments: 5</p>
+

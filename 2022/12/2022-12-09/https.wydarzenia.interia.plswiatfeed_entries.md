@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Rosja stara się pozyskać broń z państw objętych sankcjami
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-stara-sie-pozyskac-bron-z-panstw-objetych-sankcjami,nId,6463320](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-stara-sie-pozyskac-bron-z-panstw-objetych-sankcjami,nId,6463320)
@@ -7,3 +7,4 @@
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-stara-sie-pozyskac-bron-z-panstw-objetych-sankcjami,nId,6463320"><img align="left" alt="Rosja stara się pozyskać broń z państw objętych sankcjami" src="https://i.iplsc.com/rosja-stara-sie-pozyskac-bron-z-panstw-objetych-sankcjami/000GGT4HODT1N9BQ-C321.jpg" /></a>Ambasador Wielkiej Brytanii przy ONZ Barbara Woodward oświadczyła, że Rosja próbuje uzyskać więcej broni, w tym setki pocisków balistycznych z Iranu oraz Korei Północnej i innych państw objętych sankcjami. 
 </p><br clear="all" />
+

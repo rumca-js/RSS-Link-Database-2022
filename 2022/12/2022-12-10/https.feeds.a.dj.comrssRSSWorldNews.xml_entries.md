@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Putin's Propaganda Chief Urges 'War Over People's Minds' on Russia's Home Front
  - [https://www.wsj.com/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966](https://www.wsj.com/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966)
@@ -34,3 +34,4 @@ The fresh attacks are an indication that Moscow has replenished its supply of Ir
  - date published: 2022-12-10 09:35:00+00:00
 
 Parliament is banning high-pressure tactics cited by the suspect in the assassination of former Prime Minister Shinzo Abe.
+

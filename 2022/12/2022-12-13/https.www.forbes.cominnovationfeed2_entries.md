@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## 4 Mind-Boggling Technology Advances In Store For 2023
  - [https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/](https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/)
@@ -508,7 +508,6 @@ With the latest update going live, you need never be out of emergency contact ag
  - [https://www.forbes.com/sites/roslynlayton/2022/12/13/as-esg-is-gamed-with-greenwashing-better-energy-uses-future-fit/](https://www.forbes.com/sites/roslynlayton/2022/12/13/as-esg-is-gamed-with-greenwashing-better-energy-uses-future-fit/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-13 09:01:53+00:00
- - tags: esg
 
 It’s not enough to produce sustainable energy. Power production should restore the environment.
 
@@ -595,3 +594,4 @@ After his pronouns and Fauci tweet on Sunday morning, Musk kept going on Twitter
  - date published: 2022-12-13 01:00:00+00:00
 
 The source of the “extra light” coming from inside our solar system could be sunlight reflecting off a tenuous sphere of dust from comets falling into the solar system, according to new research.
+

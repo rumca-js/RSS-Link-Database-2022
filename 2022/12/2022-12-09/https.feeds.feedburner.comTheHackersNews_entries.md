@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Using XDR to Consolidate and Optimize Cybersecurity Technology
  - [https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html](https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html)
@@ -47,3 +47,4 @@ For today's businesses data privacy is already a big headache, and with modern p
 
 The Iran-linked MuddyWater threat actor has been observed targeting several countries in the Middle East as well as Central and West Asia as part of a new spear-phishing activity.
 "The campaign has been observed targeting Armenia, Azerbaijan, Egypt, Iraq, Israel, Jordan, Oman, Qatar, Tajikistan, and the United Arab Emirates," Deep Instinct researcher Simon Kenin said in a technical write-up.
+

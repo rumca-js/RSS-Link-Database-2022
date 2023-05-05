@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Denmark Forms Coalition Government, Bridging Left-Right Divide
  - [https://www.wsj.com/articles/denmark-forms-coalition-government-bridging-left-right-divide-11670974330](https://www.wsj.com/articles/denmark-forms-coalition-government-bridging-left-right-divide-11670974330)
@@ -76,3 +76,4 @@ Young people, many of them minors, have a played a leading role in the protests 
  - date published: 2022-12-13 08:55:00+00:00
 
 The proposed cap was widely criticized by European Union countries on both sides of the debate, with some warning of unintended consequences and others saying it was too high to be effective.
+

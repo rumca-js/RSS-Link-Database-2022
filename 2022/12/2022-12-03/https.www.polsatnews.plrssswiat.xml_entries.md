@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. 10-latek zamordował matkę, bo nie kupiła mu okularów VR
  - [https://www.polsatnews.pl/wiadomosc/2022-12-03/usa-10-latek-zamordowal-matke-bo-nie-kupila-mu-okularow-vr/](https://www.polsatnews.pl/wiadomosc/2022-12-03/usa-10-latek-zamordowal-matke-bo-nie-kupila-mu-okularow-vr/)
@@ -62,3 +62,4 @@ Ukraińcy mogą szykować się do przeprowadzenia ofensywy i odbicia Melitopolu 
  - date published: 2022-12-03 08:00:00+00:00
 
 Rosyjskie media społecznościowe obiegła informacja o poważnym wypadku Władimira Putina. Prezydent Rosji miał spaść ze schodów w swojej rezydencji i poważnie potłuc kość ogonową.
+

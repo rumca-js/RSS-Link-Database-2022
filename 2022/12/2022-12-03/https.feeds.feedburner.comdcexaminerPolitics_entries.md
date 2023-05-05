@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## Rep. Knodl to run for state Senate seat
  - [https://www.washingtonexaminer.com/news/rep-knodl-to-run-for-state-senate-seat](https://www.washingtonexaminer.com/news/rep-knodl-to-run-for-state-senate-seat)
@@ -13,3 +13,4 @@
  - date published: 2022-12-03 11:46:46+00:00
 
 (The Center Square) – West Virginia has been in a state of emergency related to the COVID-19 pandemic for nearly three years, but Gov. Jim Justice announced it ends Jan. 1.
+

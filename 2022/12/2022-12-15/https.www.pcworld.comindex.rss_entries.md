@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Weird Al would kill for this DIY Commodore 64 accordion
  - [https://www.pcworld.com/article/1436851/weird-al-would-kill-for-this-commodore-64-accordion.html](https://www.pcworld.com/article/1436851/weird-al-would-kill-for-this-commodore-64-accordion.html)
@@ -441,3 +441,4 @@ Laptops</div>
 <p><em>Prices subject to change.</em></p>
 
 Web Development</div>
+

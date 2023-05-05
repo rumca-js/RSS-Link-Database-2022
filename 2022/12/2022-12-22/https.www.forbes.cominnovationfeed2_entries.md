@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Autonomous Vehicles Reality Check Part 2: Moving People
  - [https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/](https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/)
@@ -461,3 +461,4 @@ Exactly How, When And Where To See Christmas Day’s Fleeting Cosmic Alignment W
  - date published: 2022-12-22 00:11:52+00:00
 
 From April next year Japan will become one of the few countries in the world to mandate the use of helmets when bicycling. Critics will be watching to see if cycle use drops following the law's introduction.
+

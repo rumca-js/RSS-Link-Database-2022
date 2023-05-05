@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
 
 ## ByteDance fired four employees who accessed US journalists' TikTok data
  - [https://www.engadget.com/bytedance-tiktok-employees-us-user-data-journalists-210339650.html?src=rss](https://www.engadget.com/bytedance-tiktok-employees-us-user-data-journalists-210339650.html?src=rss)
@@ -76,3 +76,4 @@
  - date published: 2022-12-22 09:02:43+00:00
 
 <p>The two-year-old <a href="https://www.engadget.com/oculus-quest-2-review-vr-facebook-headset-173026291.html">Meta Quest 2</a> is now faster due to a surprise performance boost in the <a href="https://developer.oculus.com/blog/boost-app-performance-525-mhz-gpu-frequency-meta-quest-2/">headset's latest update</a>. Meta boosted the maximum frequency from 490 MHz to 525 MHz, giving all Quest 2 headsets up to 7 percent more performance.&nbsp;</p><p>&quot;No integration or coding is needed to start reaping the benefits of this improvement — the dynamic clocking system will automatically increase the frequency as it detects that your app would benefit from it,&quot; Meta wrote. To get the extra speed, all you'll need to do is either a doff/don (take it off and put it back on) or sleep cycle by clicking the power button twice.</p><span id="end-legacy-contents"></span><p>What's more, if you have dynamic foveation enabled in your app, the GPU will boost from 490 MHz to 525 MHz to maintain higher visual quality rather than increasing foveation (foveation lowers image detail depending on what you're looking at). The result should be better overall image quality.&nbsp;</p><p>Quest 2 owners will benefit from the extra speed with no app changes, but developers could also update apps, using the extra power to boost resolution. In any case, it makes the headset more useful in the final year of its lifespan, with the Quest 3 <a href="https://www.engadget.com/meta-quest-3-2023-233025187.html">set to launch next year</a>.&nbsp;</p>
+

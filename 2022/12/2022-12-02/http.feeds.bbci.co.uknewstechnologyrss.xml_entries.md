@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## No more airplane mode? EU to allow calls on flights
  - [https://www.bbc.co.uk/news/technology-63786591?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63786591?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ The rapper has repeatedly made anti-Semitic remarks, alienating business partner
  - date published: 2022-12-02 00:00:31+00:00
 
 The rapid expansion of Indian healthcare firms in Africa has not been without problems.
+

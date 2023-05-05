@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## France World Cup squad welcomed home by thousands after heroic defeat
  - [https://news.sky.com/story/world-cup-french-football-team-welcomed-home-after-heroic-defeat-against-argentina-12771670](https://news.sky.com/story/world-cup-french-football-team-welcomed-home-after-heroic-defeat-against-argentina-12771670)
@@ -56,6 +56,13 @@ Millions of Argentinians breathed a collective sigh of relief after their side's
 
 Temperatures as low as -15C (12F) are set to bring arctic conditions to large parts of the US in the run-up to Christmas, forecasters have warned.
 
+## War, drought, protest and prime ministers: The most striking images from a tumultuous year
+ - [https://news.sky.com/story/war-drought-protest-and-prime-ministers-the-most-striking-images-from-a-tumultuous-year-12771145](https://news.sky.com/story/war-drought-protest-and-prime-ministers-the-most-striking-images-from-a-tumultuous-year-12771145)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-19 08:12:00+00:00
+
+A war in Europe, the death of the Queen, record heatwaves and flooding, protests around the world and three prime ministers... it's been quite a year.
+
 ## Elon Musk to quit as Twitter boss - if he abides by poll he launched himself
  - [https://news.sky.com/story/elon-musk-to-quit-as-twitter-boss-if-he-abides-by-poll-he-launched-himself-12771138](https://news.sky.com/story/elon-musk-to-quit-as-twitter-boss-if-he-abides-by-poll-he-launched-himself-12771138)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -83,3 +90,4 @@ Argentinian fans have been celebrating through the night after their team won th
  - date published: 2022-12-19 00:26:00+00:00
 
 Eleven people have been seriously injured during turbulence on a Hawaiian Airlines flight.
+

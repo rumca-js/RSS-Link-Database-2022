@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Foreign secretary to signal shift towards partnerships with rising world powers
  - [https://news.sky.com/story/foreign-secretary-to-signal-shift-towards-partnerships-with-rising-world-powers-12765850](https://news.sky.com/story/foreign-secretary-to-signal-shift-towards-partnerships-with-rising-world-powers-12765850)
@@ -62,3 +62,4 @@ A celebrity chef is among those arrested over an alleged plot by a far-right ter
  - date published: 2022-12-10 07:23:00+00:00
 
 Pro-democracy Hong Kong tycoon Jimmy Lai has been charged with fraud and sentenced to five years and nine months in prison.
+

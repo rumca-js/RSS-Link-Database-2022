@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Addressing Climate Change Will Not “Save the Planet”
  - [https://theintercept.com/2022/12/03/climate-biodiversity-green-energy/](https://theintercept.com/2022/12/03/climate-biodiversity-green-energy/)
@@ -15,3 +15,4 @@
 
 <p>Israeli officials railed against the depiction of the 1948 Nakba, or ethnic cleansing of Palestinians. Their campaigns failed.</p>
 <p>The post <a href="https://theintercept.com/2022/12/03/farha-netflix-nakba-palestine-israel/" rel="nofollow">Netflix&#8217;s “Farha” and the Palestinian Right to Process Pain Through Art</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

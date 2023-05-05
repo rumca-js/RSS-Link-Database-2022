@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Former Twitter official leaves home after threats unleashed by Musk attacks
  - [https://www.washingtonpost.com/technology/2022/12/12/musk-twitter-harass-yoel-roth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/12/musk-twitter-harass-yoel-roth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Take our quiz to find out how well you understand emojis, slang and reactions th
  - date published: 2022-12-12 05:00:03+00:00
 
 Gen Z’s use of emojis, slang and punctuation is confusing older colleagues as workplace communications are increasingly online.
+

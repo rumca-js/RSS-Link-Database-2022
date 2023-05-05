@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## LinkedIn has a fake account problem it's trying to fix. Real users are part of the solution
  - [https://www.cnbc.com/2022/12/10/not-just-twitter-linkedin-has-fake-account-problem-its-trying-to-fix.html](https://www.cnbc.com/2022/12/10/not-just-twitter-linkedin-has-fake-account-problem-its-trying-to-fix.html)
@@ -62,3 +62,4 @@ If you invest today, which of the two companies going head to head will give you
  - date published: 2022-12-10 00:37:51+00:00
 
 Donald Trump, who is again running for the White House, is under criminal investigation for the removal of government documents when his presidency ended.
+

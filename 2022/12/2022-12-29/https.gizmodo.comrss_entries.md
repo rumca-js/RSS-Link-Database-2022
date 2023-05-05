@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## New Zealand Celebrates Avatar: The Way of Water With These Stunning Stamps
  - [https://gizmodo.com/avatar-2-stamps-new-zealand-way-of-water-james-cameron-1849938315](https://gizmodo.com/avatar-2-stamps-new-zealand-way-of-water-james-cameron-1849938315)
@@ -55,3 +55,4 @@
  - date published: 2022-12-29 13:54:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--TBouAbXB--/c_fit,fl_progressive,q_80,w_636/a77980587d6e08536ab8bc8860afead0.jpg" /><p>Countries all over the world saw one climate disaster after another this year. </p><p><a href="https://gizmodo.com/worst-natural-disasters-weather-climate-2022-1849885088">Read more...</a></p>
+

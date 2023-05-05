@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Our Planet’s Future: Combatting Climate Change
  - [https://www.nbcnews.com/nightly-news/video/our-planet-s-future-combatting-climate-change-158677061593](https://www.nbcnews.com/nightly-news/video/our-planet-s-future-combatting-climate-change-158677061593)
@@ -83,3 +83,4 @@ French serial killer Charles Sobhraj is set to be released from prison in Nepal 
  - date published: 2022-12-23 01:34:43+00:00
 
 The year of 2022 marks a special anniversary of 150 years of baseball in Japan. NBC News’ Jake Ward reports on how an increasing number of the country’s biggest stars are now playing in the MLB, teaching Americans more about the Japanese perspective on the game.
+

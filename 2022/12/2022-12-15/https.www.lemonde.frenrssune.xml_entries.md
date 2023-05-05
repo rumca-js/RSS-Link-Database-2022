@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## War in Ukraine: Deadly Russian shelling leaves Kherson in the dark
  - [https://www.lemonde.fr/en/international/article/2022/12/16/war-in-ukraine-deadly-russian-shelling-leaves-kherson-in-the-dark_6007941_4.html](https://www.lemonde.fr/en/international/article/2022/12/16/war-in-ukraine-deadly-russian-shelling-leaves-kherson-in-the-dark_6007941_4.html)
@@ -174,3 +174,4 @@ The environment ministers participating in high-level and high-stakes talks star
  - date published: 2022-12-15 03:47:23+00:00
 
 There was little sign of tension as supporters waved tricolour flags and let off flares alongside Moroccan supporters.
+

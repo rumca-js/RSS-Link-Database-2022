@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Kto dostanie powołanie na ćwiczenia wojskowe? Są szczegóły dot. wezwań
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29258898,kto-dostanie-powolanie-na-cwiczenia-wojskowe-sa-szczegoly-dot.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29258898,kto-dostanie-powolanie-na-cwiczenia-wojskowe-sa-szczegoly-dot.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -216,3 +216,4 @@
  - date published: 2022-12-13 05:15:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/4d/e5/1b/z29252685M,Jazda-nieodsniezonym-samochodem-moze-sporo-kosztow.jpg" vspace="2" />Już na początku grudnia zimowa pogoda dała się we znaki kierowcom. Marznące opady, niskie temperatury i intensywne opady śniegu doprowadziły nie tylko do niebezpiecznych sytuacji na drogach, ale dołożyły także kierowcom sporo nowych obowiązków. Przypominamy, jak przygotować się do jazdy w trudnych warunkach, aby jednocześnie uniknąć mandatów, które w tym roku są wyjątkowo wysokie.
+

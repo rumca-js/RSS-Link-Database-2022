@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 7 of the Best Videos to Start (or Perfect) Your Deadlift
  - [https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715](https://lifehacker.com/7-of-the-best-videos-to-start-or-perfect-your-deadlif-1849884715)
@@ -132,3 +132,4 @@
  - date published: 2022-12-12 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--1bt08ulg--/c_fit,fl_progressive,q_80,w_636/617c225d91e5cc855b43eba271d17cf0.jpg" /><p>If you’re into practical gift-giving, robot vacuums are a slam dunk. Once they’re properly set up, they can take one of the worst time-sucking chores off your to-do list for good—or at least until they break. Thankfully, robot vacuum maintenance is fairly simple. Here’s everything you need to do to keep yours from…</p><p><a href="https://lifehacker.com/schedule-these-maintenance-tasks-to-keep-your-robot-vac-1849880400">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## JumpCloud hits AWS marketplace as Apple's enterprise market grows
  - [https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all](https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all)
@@ -18,3 +18,4 @@
 <article>
 	<section class="page">
 <p>Biometrics is supposed to be one of the underpinnings of a modern authentication system. But many biometric implementations (whether that be fingerprint scanes or face recognition) can be wildly inaccurate, and the only universally positive thing to say about them is they're better than nothing.</p><p>Also — and this may prove critical — the fact that biometrics are falsely seen as being very accurate may be sufficient to dissuade some fraud attempts. </p><p>There are a variety of practical reasons biometrics don't work well in the real world, and a recent post by a cybersecurity specialist at KnowBe4, a security awareness training vendor, adds a new layer of complexity to the biometrics issue.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3682149/biometrics-are-even-less-accurate-than-we-thought.html#jump">To read this article in full, please click here</a></p></section></article>
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## How to be a former prime minister
  - [https://www.bbc.co.uk/news/uk-politics-63791816?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63791816?at_medium=RSS&at_campaign=KARANGA)
@@ -629,3 +629,4 @@ Millions of pieces of mail have been piling up ahead of the action, the CWU unio
  - date published: 2022-12-09 00:01:34+00:00
 
 The couple tell their "truth" about love, the media and racism, but many questions remain unanswered.
+

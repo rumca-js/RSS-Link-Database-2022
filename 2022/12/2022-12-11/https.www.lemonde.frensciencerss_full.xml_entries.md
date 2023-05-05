@@ -1,4 +1,4 @@
-# Source Le Monde - science, Source URL:https://www.lemonde.fr/en/science/rss_full.xml, Source language: en-US
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
 
 ## US researchers discover how we actually catch colds
  - [https://www.lemonde.fr/en/environment/article/2022/12/11/us-researchers-discover-how-we-actually-catch-colds_6007332_114.html](https://www.lemonde.fr/en/environment/article/2022/12/11/us-researchers-discover-how-we-actually-catch-colds_6007332_114.html)
@@ -13,3 +13,4 @@ When we inhale a virus, a cloud of small spheres with anti-infective powers is r
  - date published: 2022-12-11 03:51:05+00:00
 
 Two human-shaped lead coffins were uncovered at the transept crossing as reconstruction work began on the vault and spire of the Paris cathedral.
+

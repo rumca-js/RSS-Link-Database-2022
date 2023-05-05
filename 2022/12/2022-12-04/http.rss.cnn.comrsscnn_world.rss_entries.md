@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Is the worst over for bitcoin and the rest of crypto?
  - [https://www.cnn.com/2022/12/04/investing/stocks-week-ahead/index.html](https://www.cnn.com/2022/12/04/investing/stocks-week-ahead/index.html)
@@ -27,3 +27,4 @@ There's at least one group of shoppers excitedly hitting malls this holiday seas
  - date published: 2022-12-04 08:05:10+00:00
 
 Dr. Mrinalini Watsa, a researcher at San Diego Zoo in California, scoops up soil from a fresh paw print made by Rakan, a 4-year-old male Sumatran tiger who lives at the zoo, and secures it in a specimen jar.
+

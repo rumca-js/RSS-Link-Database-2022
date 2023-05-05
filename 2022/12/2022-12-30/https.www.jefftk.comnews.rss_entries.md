@@ -1,4 +1,4 @@
-# Source Jeff Kaufmann, Source URL:https://www.jefftk.com/news.rss, Source language: en-US
+# Source:Jeff Kaufmann, URL:https://www.jefftk.com/news.rss, language:en-US
 
 ## Christmas Microscopy
  - [https://www.jefftk.com/p/christmas-microscopy](https://www.jefftk.com/p/christmas-microscopy)
@@ -149,3 +149,4 @@ something I think would show up well I'll get it out.
   </p>
 
 <p><i>Comment via: <a href="https://www.facebook.com/jefftk/posts/pfbid0Gtor8dH7XntQKd9vmiTWWFU7i3dmWhxEwWUZvBwzhiEVNS3obNNQgvuYsYr3cvGul">facebook</a>, <a href="https://mastodon.mit.edu/@jefftk/109604654414052447">mastodon</a></i></p>
+

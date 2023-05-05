@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Kupują kota w worku? Polacy skarżą się na wadliwy węgiel. To mogą zrobić
  - [https://www.money.pl/gospodarka/kupuja-kota-w-worku-polacy-skarza-sie-na-wadliwy-wegiel-to-moga-zrobic-6844223964342816a.html](https://www.money.pl/gospodarka/kupuja-kota-w-worku-polacy-skarza-sie-na-wadliwy-wegiel-to-moga-zrobic-6844223964342816a.html)
@@ -153,3 +153,4 @@
  - date published: 2022-12-13 05:05:40+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c30e0ff1-bc4a-42b5-92d8-e064a2890c03" width="308" /> Polacy dowiedzieli się, czym jest PIT-2 przy okazji wprowadzania Polskiego Ładu, gdy część wieloetatowców otrzymała niższe wynagrodzenia. Luka w przepisach została naprawiona, ale Ministerstwo Finansów dmucha na zimne. Oto co warto wiedzieć o zmianach dotyczących osławionego PIT-2.
+

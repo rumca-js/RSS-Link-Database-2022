@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wielka Brytania: 93-latka ze złamanym biodrem czekała na pomoc ponad dobę
  - [https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-93-latka-ze-zlamanym-biodrem-czekala-na-pomo,nId,6485189](https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-93-latka-ze-zlamanym-biodrem-czekala-na-pomo,nId,6485189)
@@ -464,3 +464,4 @@
  - date published: 2022-12-20 04:33:39+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-300-dzien-inwazji-rosji-relacja-na-zywo,nzId,3527,akt,200852"><img align="left" alt="Wojna w Ukrainie. 300. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-300-dzien-inwazji-rosji-relacja-na-zywo/000GII172N5REPCL-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

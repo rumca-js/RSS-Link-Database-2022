@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## I am Superman: The Trek EXe mountain e-bike, reviewed
  - [https://arstechnica.com/?p=1904915](https://arstechnica.com/?p=1904915)
@@ -20,3 +20,4 @@ Departing CTO rails against "inefficiency" and "self-sabotage" in the Meta ranks
  - date published: 2022-12-17 00:02:10+00:00
 
 An error with the macro recording feature may be to blame.
+

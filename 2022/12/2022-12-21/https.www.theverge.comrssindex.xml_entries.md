@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Attorney says facial recognition got her kicked out of a Rockettes show
  - [https://www.theverge.com/2022/12/21/23520990/rockettes-msg-facial-recognition-ban-privacy-ai](https://www.theverge.com/2022/12/21/23520990/rockettes-msg-facial-recognition-ban-privacy-ai)
@@ -402,3 +402,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/20/23519922/george-hotz-geohot-twitter-internship-resigns">Continue reading&hellip;</a>
   </p>
+

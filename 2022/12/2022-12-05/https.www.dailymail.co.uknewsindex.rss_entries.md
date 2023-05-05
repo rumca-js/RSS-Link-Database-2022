@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Why home borrowers are set to be hit with an eighth interest rate rise in a row in December
  - [https://www.dailymail.co.uk/news/article-11505395/Why-home-borrowers-set-hit-eighth-rate-rise-row-December.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11505395/Why-home-borrowers-set-hit-eighth-rate-rise-row-December.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1658,3 +1658,4 @@ It's been a tough year for politicians, and now they're finishing 2022 as the bu
  - date published: 2022-12-05 00:04:45+00:00
 
 A study has revealed that the hype over air fryers may be justified, showing the devices are cheaper and sometimes better at turning out tasty meals than a traditional oven.
+

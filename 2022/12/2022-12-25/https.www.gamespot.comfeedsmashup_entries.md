@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## A 2022 Retrospective Of The Very Best Pets In Video Games
  - [https://www.gamespot.com/gallery/a-2022-retrospective-of-the-very-best-pets-in-video-games/2900-4557/](https://www.gamespot.com/gallery/a-2022-retrospective-of-the-very-best-pets-in-video-games/2900-4557/)
@@ -20,3 +20,4 @@
  - date published: 2022-12-25 14:00:00+00:00
 
 <p dir="ltr">From the very outset of Elden Ring, if you proceed in the direction the game points you, you'll arrive at the gates of Stormveil Castle. Upon first look, Stormveil's crumbling battlements and crazed knights are well-known territory for Souls fans. However, its familiar features and foes are more than a rehash of the Souls games that came before it.</p><p dir="ltr">Stormveil Castle is a celebration of how far From Software has come since the days of <a href="https://www.gamespot.com/games/demons-souls/">Demon's Souls</a>. Sown with secret paths, missable foes, and brutal group-fights, Stormveil is not only a microcosm of Elden Ring, but also one of the best overall video game levels of 2022.</p><p dir="ltr">Guarded by early-game roadblock boss Margit the Fell Omen, Stormveil is clearly intended as a lengthy tribute to the first world of Demon's Souls, the Boletarian Palace. Besides the obvious visual similarities, certain sections of Stormveil are seemingly ripped directly from Demon's Souls--particularly the part where you navigate the castle wall's narrow footholds and explore a broken wall rife with exploding barrels and winding staircases. The inner courtyards also bear an undeniable resemblance to the later levels of the Boletarian Palace, especially in the open stretch before you hit the ultimate boss of the level, Godrick the Grafted.</p><a href="https://www.gamespot.com/articles/how-stormveil-castle-embodies-the-brilliance-of-elden-ring/1100-6510147/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

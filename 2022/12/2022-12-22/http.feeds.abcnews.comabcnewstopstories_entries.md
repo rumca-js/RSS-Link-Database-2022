@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Tesla offers rare year-end discounts on 2 top-selling models
  - [https://abcnews.go.com/Technology/wireStory/tesla-offers-rare-year-end-discounts-2-top-95730141](https://abcnews.go.com/Technology/wireStory/tesla-offers-rare-year-end-discounts-2-top-95730141)
@@ -293,3 +293,4 @@ Families of Iranian protesters in jail say their loved ones are being tortured.
  - date published: 2022-12-22 00:01:19+00:00
 
 An American woman held in Russia for over a year is speaking about her ordeal after her release on Dec. 8, the same day as WNBA star Brittney Griner.
+

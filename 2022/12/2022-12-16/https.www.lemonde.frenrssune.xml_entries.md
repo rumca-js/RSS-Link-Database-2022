@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Russia renews major missile attacks on Ukraine's energy infrastructure
  - [https://www.lemonde.fr/en/international/article/2022/12/16/russia-renews-major-missile-attack-on-ukraine-s-energy-infrastructure_6008033_4.html](https://www.lemonde.fr/en/international/article/2022/12/16/russia-renews-major-missile-attack-on-ukraine-s-energy-infrastructure_6008033_4.html)
@@ -195,3 +195,4 @@ Meanwhile, supporters of the ousted president have continued to protest across t
  - date published: 2022-12-16 00:01:57+00:00
 
 On Thursday, the EU passed the landmark agreement intended to stop governments racing to cut taxes to lure the world's richest firms to their territory.
+

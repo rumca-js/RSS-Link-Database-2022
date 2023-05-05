@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## England are through and France await - Football Daily
  - [https://www.theguardian.com/football/audio/2022/dec/04/england-are-through-and-france-await-football-daily](https://www.theguardian.com/football/audio/2022/dec/04/england-are-through-and-france-await-football-daily)
@@ -741,3 +741,4 @@ In acting as a conveyor belt to the most sought-after jobs, many schools shut ou
  - date published: 2022-12-04 00:09:00+00:00
 
 <p>Ridiculed and pitied abroad, and floundering at home, the new UK prime minister sets out his vision: survival of the weakest</p><p>It has become fashionable to dismiss Britain’s latest prime minister, Rishi Sunak, as weak and unimpressive. There’s a reason for this. He is. Even Conservative MPs who picked him little more than one month ago <a href="https://conservativehome.com/2022/11/30/our-cabinet-league-table/" title="">pour scorn on his performance</a>. Directionless Sunak has already made more U-turns than a taxi driver on speed.</p><p>His Labour opponents hold a poll lead of more than 20 percentage points. If an election were held today, the Tories <a href="https://yougov.co.uk/topics/politics/articles-reports/2022/11/23/voting-intention-con-26-lab-47-15-16-nov-2022" title="">would face a meltdown </a>akin to Canada in 1993. That’s when Kim Campbell’s Progressive Conservatives suffered a 27-point negative swing and were all but wiped out. </p> <a href="https://www.theguardian.com/commentisfree/2022/dec/04/sunak-deluded-wont-stop-britain-decline">Continue reading...</a>
+

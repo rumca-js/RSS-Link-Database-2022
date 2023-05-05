@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## YouTube zablokował oficjalny kanał Pornhuba
  - [https://ithardware.pl/aktualnosci/youtube_zablokowal_oficjalny_kanal_pornhuba-24932.html](https://ithardware.pl/aktualnosci/youtube_zablokowal_oficjalny_kanal_pornhuba-24932.html)
@@ -69,3 +69,4 @@ Wideo prezentujące rozgrywkę&nbsp;Assassin`s Creed Jade...
 
 Nagroda - 2x myszka gamingowa Dream...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_18-24814.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_18-24814.html</a></p>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Whoa Scoob, Shaggy's gonna be like, the bad guy in a Five Nights at Freddy's movie
  - [https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)
@@ -76,3 +76,4 @@ You can play the prologue campaign and the full human campaign now.
  - date published: 2022-12-18 01:37:44+00:00
 
 Guess they didn't get eaten by a dragon after all.
+

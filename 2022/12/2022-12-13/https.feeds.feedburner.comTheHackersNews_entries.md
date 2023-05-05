@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Google Launches Largest Distributed Database of Open Source Vulnerabilities
  - [https://thehackernews.com/2022/12/google-launches-largest-distributed.html](https://thehackernews.com/2022/12/google-launches-largest-distributed.html)
@@ -40,3 +40,4 @@ The typosquatted Python packages all impersonate the popular requests library: 
 Fortinet on Monday issued emergency patches for a severe security flaw affecting its FortiOS SSL-VPN product that it said is being actively exploited in the wild.
 Tracked as CVE-2022-42475 (CVSS score: 9.3), the critical bug relates to a heap-based buffer overflow vulnerability that could allow an unauthenticated attacker to execute arbitrary code via specially crafted requests.
 The company said
+

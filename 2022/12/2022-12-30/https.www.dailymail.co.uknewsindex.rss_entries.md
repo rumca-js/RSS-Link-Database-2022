@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Husband urges people to support lifesaving research with Stand Up To Cancer campaign
  - [https://www.dailymail.co.uk/news/article-11587063/Husband-urges-people-support-lifesaving-research-Stand-Cancer-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11587063/Husband-urges-people-support-lifesaving-research-Stand-Cancer-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7,12 +7,26 @@
 
 Angus Hulme and Victoria Hall-Hulme fell in love and enjoyed a blissful wedding in Chelsea on August 4 this year. Just four weeks later, Mrs Hall-Hulme died of bowel cancer. She was 33.
 
+## Research suggests seductive smells trigger 'stronger restraint' in those watching their waistline
+ - [https://www.dailymail.co.uk/sciencetech/article-11587025/Research-suggests-seductive-smells-trigger-stronger-restraint-watching-waistline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11587025/Research-suggests-seductive-smells-trigger-stronger-restraint-watching-waistline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 23:40:24+00:00
+
+Instead of luring you to break your healthy eating regimen, seductive smells - including chocolate - could actually help you stick to it, a study suggests.
+
 ## The Mouse of Commons! Historic Parliament buildings are infested with 'super-mice' that evade traps
  - [https://www.dailymail.co.uk/news/article-11587005/The-Mouse-Commons-Historic-Parliament-buildings-infested-super-mice-evade-traps.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11587005/The-Mouse-Commons-Historic-Parliament-buildings-infested-super-mice-evade-traps.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-30 23:37:02+00:00
 
 Almost £65,000 was spent in 2020/21 trying to combat Westminster's rodent problem, yet the pests persist.
+
+## EDEN CONFIDENTIAL: Pippa Middleton looks to make a splash with huge outdoor swimming pool
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11586921/EDEN-CONFIDENTIAL-Pippa-Middleton-looks-make-splash-huge-outdoor-swimming-pool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11586921/EDEN-CONFIDENTIAL-Pippa-Middleton-looks-make-splash-huge-outdoor-swimming-pool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 23:28:53+00:00
+
+EDEN CONFIDENTIAL: Pippa Middleton is determined to make a splash at the country home she and her husband, James Matthews, bought for £15 million.
 
 ## NSW man Thomas Svechheimers raises money for beloved dog Ghost's Intervertebral Disc Disorder
  - [https://www.dailymail.co.uk/news/article-11586653/NSW-man-Thomas-Svechheimers-raises-money-beloved-dog-Ghosts-Intervertebral-Disc-Disorder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586653/NSW-man-Thomas-Svechheimers-raises-money-beloved-dog-Ghosts-Intervertebral-Disc-Disorder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -56,6 +70,20 @@ Deloitte has lowered thermostats by 2C across the 22 sites, many of which were a
 
 One person is dead and another person is in critical condition after their black SUV crashed and plummets 40 feet into Brooklyn Long Island Railroad train yard.
 
+## How Vivienne Westwood stunned the Palace with THAT photograph and proved she was a sublime designer
+ - [https://www.dailymail.co.uk/femail/article-11586503/How-Vivienne-Westwood-stunned-Palace-photograph-proved-sublime-designer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11586503/How-Vivienne-Westwood-stunned-Palace-photograph-proved-sublime-designer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 22:57:37+00:00
+
+In terms of talent, daring, courage, anti-establishment campaigning and knickerless meetings with the Queen, it is hard to imagine many topping Vivienne Westwood.
+
+## My Daily Horoscope: What does December 31st 2022 bring for MY star sign? Oscar Cainer tells all
+ - [https://www.dailymail.co.uk/femail/article-11562465/My-Daily-Horoscope-does-December-31st-2022-bring-star-sign-Oscar-Cainer-tells-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11562465/My-Daily-Horoscope-does-December-31st-2022-bring-star-sign-Oscar-Cainer-tells-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 22:48:32+00:00
+
+What does December 31st 2022 bring for MY star sign? Oscar Cainer tells all. Dynamic Mars, in retrograde since October, will soon move forwards, bringing renewed enthusiasm
+
 ## Will you be a champion of the charts? Try KEN BRUCE's fiendishly tough festive PopMaster quiz
  - [https://www.dailymail.co.uk/news/article-11586747/Will-champion-charts-Try-KEN-BRUCEs-fiendishly-tough-festive-PopMaster-quiz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586747/Will-champion-charts-Try-KEN-BRUCEs-fiendishly-tough-festive-PopMaster-quiz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -91,6 +119,13 @@ Dmytro Kozatsky shared his portrait to symbolise hope as Mariupol fell after mor
 
 REBECCA ENGLISH: It's already clear that the new 'Carolean era' will represent a more modern monarchy than ever before.
 
+## Rachel Riley and Stephen Graham make New Year's Honours List
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11585943/Rachel-Riley-Stephen-Graham-make-New-Years-Honours-List.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11585943/Rachel-Riley-Stephen-Graham-make-New-Years-Honours-List.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 22:34:06+00:00
+
+The Countdown presenter, 36, has received an MBE in recognition of her efforts to raise awareness of the Holocaust and combat antisemitism.
+
 ## University tells students to 'have hard conversations' with those who 'deny white privilege'
  - [https://www.dailymail.co.uk/news/article-11586577/University-tells-students-hard-conversations-deny-white-privilege.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586577/University-tells-students-hard-conversations-deny-white-privilege.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -104,6 +139,13 @@ The university's equality, diversity and inclusion page on its website also enco
  - date published: 2022-12-30 22:33:34+00:00
 
 Jake Day, 28, and Cindy Braddock, 25, died when their Land Rover Discover rolled over on an isolated road in the West Australian town of Kondinin, 279km east of Perth, on Christmas Day.
+
+## BEL MOONEY: What can I do to stop being so lonely and sad?
+ - [https://www.dailymail.co.uk/femail/article-11586163/BEL-MOONEY-stop-lonely-sad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11586163/BEL-MOONEY-stop-lonely-sad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 22:31:05+00:00
+
+This week, Bel advises a woman aged 68 who does not have children and has never been married, and who is feeling lonely.
 
 ## Rock legend Brian May knighted 20 years after rocking on the roof of Buckingham Palace
  - [https://www.dailymail.co.uk/news/article-11586635/Rock-legend-Brian-knighted-20-years-rocking-roof-Buckingham-Palace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586635/Rock-legend-Brian-knighted-20-years-rocking-roof-Buckingham-Palace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -175,6 +217,13 @@ CLIVE MYRIE: We are a nation of quizzers. But you might be surprised to learn th
 
 Each year the ball has a theme and the 2023 crystal design has been called the Gift of Love. The theme is represented by a circle of 'overlapping hearts entwined together.'
 
+## PAUL MCKENNA reveals how YOU can wake up to a New Year with no worries
+ - [https://www.dailymail.co.uk/health/article-11586489/PAUL-MCKENNA-reveals-wake-New-Year-no-worries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11586489/PAUL-MCKENNA-reveals-wake-New-Year-no-worries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 22:05:36+00:00
+
+PAUL MCKENNA: You can let go of your worries, turn off the fear and replace it with inner peace. And I am going to show you how.
+
 ## 2022 was the year we realised we're now fighting Cold War II against China...
  - [https://www.dailymail.co.uk/news/article-11586705/2022-year-realised-fighting-Cold-War-II-against-China.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586705/2022-year-realised-fighting-Cold-War-II-against-China.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -188,6 +237,13 @@ NIALL FERGUSON: No, the real revelations of 2022 were not from Russia. And the o
  - date published: 2022-12-30 22:02:10+00:00
 
 Iran's military kicked off its annual drill on Friday in the coastal area near the strategic Strait of Hormuz. Military will engage in 'wargames' dubbed 'Zolfaghar-1401', it has been reported.
+
+## DAME JOAN COLLINS: I don't look this good without being vain... and trolls who attack me are jealous
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11586349/DAME-JOAN-COLLINS-dont-look-good-without-vain-trolls-attack-jealous.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11586349/DAME-JOAN-COLLINS-dont-look-good-without-vain-trolls-attack-jealous.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 22:01:43+00:00
+
+DAME JOAN COLLINS: I believe that vanity keeps you healthy, makes you feel better and you get compliments, which is great for your mental health.
 
 ## Gas and electricity prices are 'unlikely to return to normal' until next decade, experts warn
  - [https://www.dailymail.co.uk/news/article-11586571/Gas-electricity-prices-unlikely-return-normal-decade-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586571/Gas-electricity-prices-unlikely-return-normal-decade-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -293,6 +349,13 @@ California sheriff's deputy, Isaiah Cordeo, 32, has been killed by a violent cri
  - date published: 2022-12-30 20:28:24+00:00
 
 President Joe Biden broke cover Friday to play a round of golf with his grandson Hunter during his holiday break on St. Croix.
+
+## Warwick Davis on heartbreaking impact of loss of his firstborn baby
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11586311/Warwick-Davis-heartbreaking-impact-loss-firstborn-baby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11586311/Warwick-Davis-heartbreaking-impact-loss-firstborn-baby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 20:26:22+00:00
+
+Warwick Davis, 52, has spoken out about the ongoing impact the death of his first child has had on him.
 
 ## Parents of Idaho victim Kaylee Goncalves 'feel incredible relief' over Bryan Kohberger arrest
  - [https://www.dailymail.co.uk/news/article-11586269/Parents-Idaho-victim-Kaylee-Goncalves-feel-incredible-relief-arrest-Bryan-Kohberger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586269/Parents-Idaho-victim-Kaylee-Goncalves-feel-incredible-relief-arrest-Bryan-Kohberger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -447,6 +510,13 @@ Officials close to the case said Tate asked his employees to shadow his victims'
  - date published: 2022-12-30 17:39:47+00:00
 
 British actress Emmy Tayler, who worked for Ghislaine Maxwell, is suing the international publisher HarperCollins over the book Perversion Of Justice: The Jeffrey Epstein Story.
+
+## Jonathan Ross reveals his rarely seen daughter Betty, 31, is currently using an electric wheelchair
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11585751/Jonathan-Ross-reveals-rarely-seen-daughter-Betty-30-currently-using-electric-wheelchair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11585751/Jonathan-Ross-reveals-rarely-seen-daughter-Betty-30-currently-using-electric-wheelchair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 17:12:29+00:00
+
+The chat show host, 62, opened up about Betty's long-term illness, saying she can't walk too far but has been 'showing some improvement'.
 
 ## Energy firm launches appeal fighting to build huge 40-acre solar farm
  - [https://www.dailymail.co.uk/news/article-11586031/Energy-firm-launches-appeal-fighting-build-huge-40-acre-solar-farm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11586031/Energy-firm-launches-appeal-fighting-build-huge-40-acre-solar-farm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1441,3 +1511,4 @@ The legendary figure, a man who transcended his sport and was a global icon, lea
  - date published: 2022-12-30 00:00:47+00:00
 
 Nelson Mandela's diplomatic intervention in the Lockerbie bombing case sparked tensions with Tony Blair's Labour government, the files reveal.
+

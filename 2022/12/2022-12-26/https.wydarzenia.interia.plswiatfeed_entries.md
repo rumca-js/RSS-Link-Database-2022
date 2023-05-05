@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## Atak zimy w USA i Japonii. Kilkadziesiąt ofiar śmiertelnych
  - [https://wydarzenia.interia.pl/zagranica/news-atak-zimy-w-usa-i-japonii-kilkadziesiat-ofiar-smiertelnych,nId,6496198](https://wydarzenia.interia.pl/zagranica/news-atak-zimy-w-usa-i-japonii-kilkadziesiat-ofiar-smiertelnych,nId,6496198)
@@ -13,3 +13,4 @@
  - date published: 2022-12-26 06:06:16+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-eksplozja-w-rosyjskiej-bazie-lotniczej-engels-sa-ofiary,nId,6496195"><img align="left" alt="Eksplozja w rosyjskiej bazie lotniczej Engels. Są ofiary" src="https://i.iplsc.com/eksplozja-w-rosyjskiej-bazie-lotniczej-engels-sa-ofiary/000GJCCV3FXE8Y4Q-C321.jpg" /></a>Ukraińskie i rosyjskie media podały, że po północy w bazie Engels, położonej około 800 kilometrów od granicy z Ukrainą, słychać było wybuchy. Rosyjski resort obrony twierdzi, że zginęli trzej wojskowi z personelu technicznego bazy, na których spadły odłamki ukraińskiego drona zestrzelonego przez rosyjską obronę przeciwlotniczą. </p><br clear="all" />
+

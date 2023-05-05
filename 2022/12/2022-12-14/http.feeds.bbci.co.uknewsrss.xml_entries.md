@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## World Cup 2022: France wins sets up a final and the Messi-Mbappe duel many craved
  - [https://www.bbc.co.uk/sport/football/63980941?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63980941?at_medium=RSS&at_campaign=KARANGA)
@@ -559,3 +559,4 @@ Royal Mail staff will begin further industrial action, joining a second day of r
  - date published: 2022-12-14 00:01:08+00:00
 
 Battery-powered lanterns and cleaning the fireplace, the BBC explores how habits are changing this winter.
+

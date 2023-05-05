@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## iPhone 14 and 14 Pro 3 Months Later: Highs and Lows of Apple's Newest Phones     - CNET
  - [https://www.cnet.com/tech/mobile/iphone-14-and-14-pro-3-months-later-highs-and-lows-of-apples-newest-phones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-and-14-pro-3-months-later-highs-and-lows-of-apples-newest-phones/#ftag=CADf328eec)
@@ -594,3 +594,4 @@ James Cameron's visually spectacular Avatar 2 sets up future tales of Pandora an
  - date published: 2022-12-19 00:30:03+00:00
 
 Dwayne Johnson's antihero adventure hits HBO's streaming service, and his encounter with the most powerful being in DC's cinematic universe has a different vibe now.
+

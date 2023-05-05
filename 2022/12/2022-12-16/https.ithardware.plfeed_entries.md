@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Stany Zjednoczone wpisują na czarną listę kolejne firmy z Chin
  - [https://ithardware.pl/aktualnosci/stany_zjednoczone_wpisuja_na_czarna_liste_kolejne_firmy_z_chin-24916.html](https://ithardware.pl/aktualnosci/stany_zjednoczone_wpisuja_na_czarna_liste_kolejne_firmy_z_chin-24916.html)
@@ -159,3 +159,4 @@ Nagroda - monitor iiyama G-Master G2450HSU Black Hawk
 
 iiyama G-Master G2450HSU-B1 Black Hawk to gamingowy monitor,...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_16-24813.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_16-24813.html</a></p>
+

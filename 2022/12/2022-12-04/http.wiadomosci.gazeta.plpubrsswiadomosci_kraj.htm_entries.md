@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Renata Przemyk nie chce Nagrody Mediów Publicznych. "W oczy bym sobie nie mogła spojrzeć"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29220868,renata-przemyk-nie-chce-nagrody-mediow-publicznych-w-oczy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29220868,renata-przemyk-nie-chce-nagrody-mediow-publicznych-w-oczy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -90,3 +90,4 @@
  - date published: 2022-12-04 06:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/00/94/1a/z27870464M,Barborka--zdjecie-ilustracyjne-.jpg" vspace="2" />Barbórka dla górników i osób związanych z kopalnią jest dniem szczególnym. Obchody dnia świętej Barbary z Nikomedii stały się górnośląską tradcyją.
+

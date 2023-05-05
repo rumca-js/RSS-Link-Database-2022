@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## United Airlines got customers truly excited. Then came the embarrassment
  - [https://www.zdnet.com/article/united-airlines-got-customers-truly-excited-then-came-the-embarrassment/#ftag=RSSbaffb68](https://www.zdnet.com/article/united-airlines-got-customers-truly-excited-then-came-the-embarrassment/#ftag=RSSbaffb68)
@@ -13,3 +13,4 @@ Your company may have good reason to make customers feel optimistic. But please,
  - date published: 2022-12-18 12:00:23+00:00
 
 There are ordinary ways to talk to your customers. And then there are the less ordinary.
+

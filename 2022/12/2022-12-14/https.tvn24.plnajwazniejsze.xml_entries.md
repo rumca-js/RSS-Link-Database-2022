@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Wejście smoka. 44 sekundy na boisku i już cieszył się z gola
  - [https://eurosport.tvn24.pl/prawdziwe-wej-cie-smoka--44-sekundy-na-boisku-i-ju--cieszy--si--z-gola,1129314.html?source=rss](https://eurosport.tvn24.pl/prawdziwe-wej-cie-smoka--44-sekundy-na-boisku-i-ju--cieszy--si--z-gola,1129314.html?source=rss)
@@ -799,3 +799,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-o31xmj-kanclerz-niemiec-olaf-scholz-6492340/alternates/LANDSCAPE_1280" />
     Zapowiedział kanclerz Niemiec Olaf Scholz.
+

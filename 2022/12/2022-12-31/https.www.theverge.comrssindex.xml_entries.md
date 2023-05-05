@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Tesla broke labor laws by telling workers not to discuss pay, NLRB claims
  - [https://www.theverge.com/2022/12/31/23533743/tesla-florida-workers-pay-working-conditions-nlrb](https://www.theverge.com/2022/12/31/23533743/tesla-florida-workers-pay-working-conditions-nlrb)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 21:17:42+00:00
- - user: None
 
 <figure>
       <img alt="This is a stock image of the Tesla logo spelled out in red with a white shape forming around it and a tilted and zoomed red Tesla T logo behind it." src="https://cdn.vox-cdn.com/thumbor/v-PlTBRXH7DgOSm5Rwopd9hzgdQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71810922/acastro_STK086_02.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/12/31/23533524/grubhub-dc-settlement-hidden-fees](https://www.theverge.com/2022/12/31/23533524/grubhub-dc-settlement-hidden-fees)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 18:07:24+00:00
- - user: None
 
 <figure>
       <img alt="An image showing Grubhub’s website on a laptop screen." src="https://cdn.vox-cdn.com/thumbor/EVTX2RHYcdKbnLyaJVRzv4a3Iek=/0x0:3999x2666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71810524/1241840004.0.jpg" />
@@ -37,7 +35,6 @@
  - [https://www.theverge.com/2022/12/31/23490721/3g-sunset-verizon-history-december-2022](https://www.theverge.com/2022/12/31/23490721/3g-sunset-verizon-history-december-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 17:00:00+00:00
- - user: None
 
 <figure>
       <img alt="Photo of a 3G symbol on a cell phone." src="https://cdn.vox-cdn.com/thumbor/hUyYh7MCpIdfqZOV62H_UI52EuU=/33x0:608x383/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71810273/3G.1419965040.0.jpg" />
@@ -54,7 +51,6 @@
  - [https://www.theverge.com/2022/12/31/23533423/nvidia-rtx-4070-ti-leak-specs-unlaunched-12gb-4080](https://www.theverge.com/2022/12/31/23533423/nvidia-rtx-4070-ti-leak-specs-unlaunched-12gb-4080)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 15:54:52+00:00
- - user: None
 
 <figure>
       <img alt="The GeForce RTX logo on the Nvidia GeForce RTX 4090 Founders Edition." src="https://cdn.vox-cdn.com/thumbor/ZWotme7NfcrnKLqOA73Kwu5pd-k=/7x0:2034x1351/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71810109/226321_Nvidia_RTX_4090_twarren_0013.0.jpg" />
@@ -76,7 +72,6 @@
  - [https://www.theverge.com/23513418/bring-back-personal-blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 15:30:00+00:00
- - user: rumpel
 
 <figure>
       <img alt="note hand writing" src="https://cdn.vox-cdn.com/thumbor/YH5nE_D_nkYyD0ocu2SrxwEPfS0=/4x0:2044x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71810061/7024888627_3257c520fd_k.0.0.jpg" />
@@ -92,7 +87,6 @@
  - [https://www.theverge.com/23484820/steam-deck-best-games-2022-roundup](https://www.theverge.com/23484820/steam-deck-best-games-2022-roundup)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 14:30:00+00:00
- - user: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/dRFGWUDj4GARBuG6dx_TsRulBRM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71809903/226437_M_Huigen_year_best_gear_steam_deck_games.0.jpg" />
@@ -104,3 +98,4 @@
   <p>
     <a href="https://www.theverge.com/23484820/steam-deck-best-games-2022-roundup">Continue reading&hellip;</a>
   </p>
+

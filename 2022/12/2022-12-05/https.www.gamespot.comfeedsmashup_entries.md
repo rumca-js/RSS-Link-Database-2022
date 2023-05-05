@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## CD Projekt Red Will Stop Supporting Gwent, Its Witcher Card Game, In 2024
  - [https://www.gamespot.com/articles/cd-projekt-red-will-stop-supporting-gwent-its-witcher-card-game-in-2024/1100-6509739/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cd-projekt-red-will-stop-supporting-gwent-its-witcher-card-game-in-2024/1100-6509739/?ftag=CAD-01-10abi2f)
@@ -335,3 +335,4 @@
  - date published: 2022-12-05 02:40:00+00:00
 
 <p>It's Monday and that can only mean one thing: We're back for another week of <a href="https://www.gamespot.com/games/wordle/">Wordle</a> guides. After a long weekend, it's time to get back into the swing of things, and we're here to make sure you do that by getting the Wordle correct. Today's answer doesn't do players any favors, as it's definitely not a word that many users will think of quickly. If you haven't started the December 5 Wordle just yet, then you can check out our list of recommended <a href="https://www.gamespot.com/articles/wordle-best-starting-words-to-use-and-other-game-tips/1100-6499460/">starting words</a>. However, if you're already past the starting point and visiting this article, then you might be in need of some help.</p><p>That's where we can come in. Below, players will find two tips for today's Wordle. We've also spelled out the full answer for players who might not find the hints helpful enough.</p><h2>Today's Wordle Answer - December 5, 2022</h2><p>We'll begin with a couple of hints that directly relate to the answer, but won't give it away.</p><a href="https://www.gamespot.com/articles/todays-wordle-answer-534-december-5-2022/1100-6509697/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

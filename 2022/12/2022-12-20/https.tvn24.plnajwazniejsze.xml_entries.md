@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Media: Zełenski planuje odwiedzić Waszyngton i wystąpić w Kongresie
  - [https://tvn24.pl/swiat/usa-media-prezydent-zelenski-planuje-odwiedzic-waszyngton-i-wystapic-w-kongresie-6547027?source=rss](https://tvn24.pl/swiat/usa-media-prezydent-zelenski-planuje-odwiedzic-waszyngton-i-wystapic-w-kongresie-6547027?source=rss)
@@ -919,3 +919,4 @@
 
 <img alt="Ma 31 lat, 12 spędził w więzieniu, grozi mu kolejne 10" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-zft8vz-policja-zatrzymala-recydywiste-podejrzanego-o-sutenerstwo-6543255/alternates/LANDSCAPE_1280" />
     Podejrzany o sutenerstwo zatrzymany.
+

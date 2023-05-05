@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Texas Republican introduces bill to force platforms to receive ID documents from users
  - [https://reclaimthenet.org/patterson-id-documents-online/](https://reclaimthenet.org/patterson-id-documents-online/)
@@ -20,7 +20,6 @@
  - [https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/](https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-11 18:25:45+00:00
- - tags: twitter; twitter files,free speech,censorship
 
 <a href="https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/" rel="nofollow" title="Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/mcarthy.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>McCarthy said the government influenced Twitter to censor critics.</p>
 <p>The post <a href="https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/" rel="nofollow">Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -40,3 +39,4 @@
 
 <a href="https://reclaimthenet.org/twitter-execs-thirst-to-ban-president-trump/" rel="nofollow" title="A junior employee was the only pushback against Twitter execs&#8217; thirst to ban President Trump"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/trump-twit-3.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>"This might be an unpopular opinion but one off ad hoc decisions like this that don't appear rooted in policy are imho a slippery slope and reflect an alternatively equally dictatorial problem."</p>
 <p>The post <a href="https://reclaimthenet.org/twitter-execs-thirst-to-ban-president-trump/" rel="nofollow">A junior employee was the only pushback against Twitter execs&#8217; thirst to ban President Trump</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

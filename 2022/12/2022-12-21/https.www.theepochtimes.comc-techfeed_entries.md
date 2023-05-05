@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## 3 Chinese Nationals Charged for Pilfering Data From Spotify, Netflix, and Optus
  - [https://www.theepochtimes.com/3-chinese-nationals-charged-for-pilfering-data-from-spotify-netflix-and-optus_4936996.html](https://www.theepochtimes.com/3-chinese-nationals-charged-for-pilfering-data-from-spotify-netflix-and-optus_4936996.html)
@@ -41,3 +41,4 @@ Mark Zuckerberg speaks at Georgetown University in Washington on Oct. 17, 2019. 
  - date published: 2022-12-21 01:04:27+00:00
 
 Influencer or Impactor? &#124; The Beau Show
+

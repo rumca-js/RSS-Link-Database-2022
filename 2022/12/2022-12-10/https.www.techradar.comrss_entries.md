@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Turns out coffee also makes semiconductors work faster too
  - [https://www.techradar.com/news/turns-out-coffee-also-makes-semiconductors-work-faster-too](https://www.techradar.com/news/turns-out-coffee-also-makes-semiconductors-work-faster-too)
@@ -34,3 +34,4 @@ We've got leaks around improvements that are coming to both photo and video capt
  - date published: 2022-12-10 11:06:02+00:00
 
 We’re slowly getting a better idea of how the RX 7900 XTX might match up to Nvidia’s RTX 4080.
+

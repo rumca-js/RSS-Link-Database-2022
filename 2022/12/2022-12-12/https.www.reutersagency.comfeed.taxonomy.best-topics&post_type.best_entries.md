@@ -1,4 +1,4 @@
-# Source Reuters - All, Source URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, Source language: en-US
+# Source:Reuters - All, URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, language:en-US
 
 ## Reuters reveals Microsoft seeks to settle EU antitrust concerns over Teams
  - [https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-microsoft-seeks-to-settle-eu-antitrust-concerns-over-teams/](https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-microsoft-seeks-to-settle-eu-antitrust-concerns-over-teams/)
@@ -31,3 +31,4 @@
 
 <p>Reuters exclusively reported Zeekr, one of Chinese automaker Geely’s upmarket electric car brands, has confidentially filed for a U.S. initial [&#8230;]</p>
 <p>The post <a href="https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-zeekr-a-premium-geely-electric-car-brand-seeks-over-1-billion-in-u-s-ipo/" rel="nofollow">Reuters reveals Zeekr, a premium Geely electric car brand, seeks over $1 billion in U.S. IPO</a> appeared first on <a href="https://www.reutersagency.com/en/" rel="nofollow">Reuters News Agency</a>.</p>
+

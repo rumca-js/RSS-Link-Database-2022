@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## iPad deals 2022: Top iPad Pro accessories on sale
  - [https://www.zdnet.com/article/holiday-ipad-deals-2022-top-ipad-pro-accessories-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/holiday-ipad-deals-2022-top-ipad-pro-accessories-on-sale/#ftag=RSSbaffb68)
@@ -188,3 +188,4 @@ Normally $30, this puzzle offers cash prizes -- only after you piece it together
  - date published: 2022-12-06 01:33:18+00:00
 
 While other content platforms have moved in other direction, restricting or banning AI-generated content, Adobe is trying to embrace the new art form with the right set of rules
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Hertz To Pay $168 Million In Settlements Over Arrest, Theft Claims
  - [https://www.dailywire.com/news/hertz-to-pay-168-million-in-settlements-over-arrest-theft-claims](https://www.dailywire.com/news/hertz-to-pay-168-million-in-settlements-over-arrest-theft-claims)
@@ -433,3 +433,4 @@ Switzerland is considering banning electric vehicles for non-essential travel th
  - date published: 2022-12-05 08:31:43+00:00
 
 Bob McGrath, one of the four original hosts of &#8220;Sesame Street&#8221; when it premiered in 1969, died Sunday at the age of 90. Rest in Peace to our Bob McGrath. He was so vital in not only our education, but our earliest cognitive memories. Who are the people in your neighborhood?pic.twitter.com/mHtLqhi8MT &mdash; Danny Deraney (@DannyDeraney) ...
+

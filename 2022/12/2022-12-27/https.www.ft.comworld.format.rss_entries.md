@@ -1,4 +1,11 @@
-# Source Financial Times World, Source URL:https://www.ft.com/world?format=rss, Source language: en-US
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
+
+## FirstFT: Taiwan extends military requirement
+ - [https://www.ft.com/content/e587c9f5-e6e3-41e3-aade-370622f12ab4](https://www.ft.com/content/e587c9f5-e6e3-41e3-aade-370622f12ab4)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-27 21:26:23+00:00
+
+Also in today’s newsletter: Russia hits back at G7 oil price cap and South Korea’s Lee Myung-bak to be pardoned
 
 ## Russian crude being shipped to India under G7 price cap
  - [https://www.ft.com/content/41237fe7-210d-406c-a22a-2e17a79f7381](https://www.ft.com/content/41237fe7-210d-406c-a22a-2e17a79f7381)
@@ -139,3 +146,4 @@ Doctors and nurses given ‘no choice’ but to work while infected after influx
  - date published: 2022-12-27 00:01:03+00:00
 
 Conservatives who won over longtime Labour voters in 2019 say Sunak needs to do more for them to retain rundown areas
+

@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## 3 numbers that show how Raphael Warnock won the Georgia runoff
  - [https://www.politico.com/news/2022/12/08/raphael-warnock-georgia-runoff-00072999](https://www.politico.com/news/2022/12/08/raphael-warnock-georgia-runoff-00072999)
@@ -20,3 +20,4 @@ Michigan Rep. Debbie Dingell and her allies are done being polite about Democrat
  - date published: 2022-12-08 04:30:00+00:00
 
 There’s just one main hurdle: Donald Trump isn’t ready to drop his attack on the method.
+

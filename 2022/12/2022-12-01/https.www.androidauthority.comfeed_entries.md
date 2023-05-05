@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## New app trying to bring iMessage to Android may have found secret formula
  - [https://www.androidauthority.com/imessage-android-sunbird-3243535/](https://www.androidauthority.com/imessage-android-sunbird-3243535/)
@@ -69,3 +69,4 @@ This would be Oppo's first clamshell foldable phone.
  - date published: 2022-12-01 03:00:09+00:00
 
 Don't get caught with a dead device.
+

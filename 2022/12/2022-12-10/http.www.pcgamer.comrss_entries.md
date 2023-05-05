@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Here's a rhythm game powered entirely by chill vibes
  - [https://www.pcgamer.com/heres-a-rhythm-game-powered-entirely-by-chill-vibes](https://www.pcgamer.com/heres-a-rhythm-game-powered-entirely-by-chill-vibes)
@@ -41,3 +41,4 @@ Both the current CEO of ZA/UM and the Disco Elysium producer who sued him claim 
  - date published: 2022-12-10 08:05:46+00:00
 
 Wordle today: The solution and a hint for the #539 puzzle.
+

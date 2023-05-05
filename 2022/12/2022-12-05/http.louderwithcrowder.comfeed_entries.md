@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Surprise! Thanks to Biden's stimulus bill, the IRS is coming after your side hustles if you make more than $600
  - [https://www.louderwithcrowder.com/irs-600-side-job](https://www.louderwithcrowder.com/irs-600-side-job)
@@ -209,3 +209,4 @@
 <a href="https://youtu.be/bxxdXDzS-Tc" target="_blank">youtu.be</a>
 </small>
 </p>
+

@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Kierowca bez ręki jechał "wężykiem". "Czuć było wyraźną woń alkoholu"
  - [https://tvn24.pl/tvnwarszawa/ulice/warszawa-pijany-kierowca-bez-lewej-reki-jechal-wezykiem-wybrzezem-gdynskim-6551461?source=rss](https://tvn24.pl/tvnwarszawa/ulice/warszawa-pijany-kierowca-bez-lewej-reki-jechal-wezykiem-wybrzezem-gdynskim-6551461?source=rss)
@@ -15,3 +15,4 @@
 
 <img alt="Gdzie jest Święty Mikołaj? Śledź z nami jego trasę" src="https://tvn24.pl/najnowsze/cdn-zdjecie-royw9r-mikolaj-prezenty-sanie-adobestock126385481-6551933/alternates/LANDSCAPE_1280" />
     Święty Mikołaj jest w podróży. Zanim zawita do Polski, będzie musiał odwiedzić jeszcze wiele krajów. Niedawno widziano go w okolicach Nowej Zelandii. Śledź z nami to, gdzie znajdują się jego sanie.
+

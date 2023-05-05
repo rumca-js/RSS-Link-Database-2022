@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Sam Bankman-Fried Says He Can't Account for Billions Sent to Alameda
  - [https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659?mod=rss_Technology](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659?mod=rss_Technology)
@@ -27,3 +27,4 @@ Automating some warehouse functions could let the giant do more with its existin
  - date published: 2022-12-03 05:00:00+00:00
 
 Burned by Covid lockdowns and worker protests at Foxconn plants, the iPhone maker is looking to diversify the supply chain that has powered its growth.
+

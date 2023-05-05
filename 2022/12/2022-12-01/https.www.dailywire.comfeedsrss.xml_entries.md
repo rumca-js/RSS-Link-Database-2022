@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## U.S. Air Marshals Planning Rebellion After Biden Orders Them To Southern Border: Report
  - [https://www.dailywire.com/news/u-s-air-marshals-planning-rebellion-after-biden-orders-them-to-southern-border-report](https://www.dailywire.com/news/u-s-air-marshals-planning-rebellion-after-biden-orders-them-to-southern-border-report)
@@ -426,3 +426,4 @@ Two major tech giants on Tuesday announced a $13 million grant to fund global fa
  - date published: 2022-12-01 08:42:51+00:00
 
 The federal government has awarded $5 million to a group of journalists called Hacks/Hackers to develop software that will encourage regular Americans to confront their friends when they make &#8220;harmful&#8221; posts, and &#8220;correct misinformation&#8221; by replying with text suggested by the software. The group is also organizing Wikipedia censors to determine who is a &#8220;credible source&#8221; on vaccines, and block anyone else from being cited on the online encyclopedia. Job ads for the project do not require that applicants have any expertise in medicine.
+

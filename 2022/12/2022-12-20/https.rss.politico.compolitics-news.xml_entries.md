@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Biden administration wants Supreme Court to end Title 42 — just not yet
  - [https://www.politico.com/news/2022/12/20/biden-administration-wants-supreme-court-to-end-title-42-just-not-yet-00074895](https://www.politico.com/news/2022/12/20/biden-administration-wants-supreme-court-to-end-title-42-just-not-yet-00074895)
@@ -20,3 +20,4 @@ The trip would come days after Congress, in the early hours of Tuesday morning, 
  - date published: 2022-12-20 14:30:43+00:00
 
 Turning Point USA straw poll endorses Harmeet Dhillon over Ronna McDaniel by a wide margin.
+

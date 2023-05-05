@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Stability AI plans to let artists opt out of Stable Diffusion 3 image training
  - [https://arstechnica.com/?p=1904587](https://arstechnica.com/?p=1904587)
@@ -132,3 +132,4 @@ Dealmaster also has discounts on VR, Xbox, SD cards, robot vacuums, and 4K TVs.
  - date published: 2022-12-15 03:58:10+00:00
 
 After three hours Wednesday night the leak remained ongoing.
+

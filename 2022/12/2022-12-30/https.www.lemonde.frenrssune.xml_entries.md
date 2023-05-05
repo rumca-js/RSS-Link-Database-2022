@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## A day in the French court where asylum seekers plead their case
  - [https://www.lemonde.fr/en/police-and-justice/article/2022/12/30/a-day-in-the-french-court-where-asylum-seekers-plead-their-case_6009763_105.html](https://www.lemonde.fr/en/police-and-justice/article/2022/12/30/a-day-in-the-french-court-where-asylum-seekers-plead-their-case_6009763_105.html)
@@ -258,3 +258,4 @@ New York City mayor Eric Adams believes that the historic milestone 'represents 
  - date published: 2022-12-30 00:00:24+00:00
 
 On Thursday morning, blasts were reported across Ukraine – including in Kyiv, Kharkiv and Lviv – leaving three people killed and six wounded, including a child.
+

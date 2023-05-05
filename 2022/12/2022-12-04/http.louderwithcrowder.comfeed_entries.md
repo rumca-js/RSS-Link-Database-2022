@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Woman caught feeding fake ducks, goes mecha-Karen on hunters when she's told they're decoys
  - [https://www.louderwithcrowder.com/ducks-decoys-feeding](https://www.louderwithcrowder.com/ducks-decoys-feeding)
@@ -74,3 +74,4 @@
 <a href="https://youtu.be/bxxdXDzS-Tc" target="_blank">youtu.be</a>
 </small>
 </p>
+

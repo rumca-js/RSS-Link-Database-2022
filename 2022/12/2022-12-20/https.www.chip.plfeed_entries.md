@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Kryształ magnetyczny zawiera nieznaną strukturę. Jej poszukiwania trwały 30 lat
  - [https://www.chip.pl/2022/12/krysztal-magnetyczny-spin-elektronu](https://www.chip.pl/2022/12/krysztal-magnetyczny-spin-elektronu)
@@ -135,3 +135,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="843" src="https://konto.chip.pl/wp-content/uploads/2022/12/tandemowe-ogniwo.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/tandemowe-ogniwo.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Naukowcy związani z Helmholtz-Zentrum Berlin zaprojektowali tandemowe ogniwo słoneczne składające się z perowskitu i krzemu. W czasie testów okazało się, że jest ono rekordowo wydajne.  Wyniki zostały już potwierdzone przez European Solar Test Installation. Ile wynosi nowy rekord? 32,5% &#8211; właśnie taka jest sprawność nowego modułu, co w praktyce oznacza, że takie ogniwo przetwarza 32,5% [&#8230;]</p>
+

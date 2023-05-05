@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Twitch called out for allowing users to create charity campaigns for nonprofits that some consider controversial
  - [https://www.nbcnews.com/tech/social-media/twitch-charity-tool-backlash-rcna61543](https://www.nbcnews.com/tech/social-media/twitch-charity-tool-backlash-rcna61543)
@@ -27,3 +27,4 @@ The Securities and Exchange Commission has charged seven social media influencer
  - date published: 2022-12-14 00:01:10+00:00
 
 A new lawsuit accuses Facebook of playing a role in political violence in Africa and seeks to hold it accountable by demanding more than $2 billion in
+

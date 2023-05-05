@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Taliban releases 2 Americans who were detained in Afghanistan
  - [https://www.nbcnews.com/news/us-news/taliban-releases-2-americans-detained-afghanistan-rcna62641](https://www.nbcnews.com/news/us-news/taliban-releases-2-americans-detained-afghanistan-rcna62641)
@@ -132,3 +132,4 @@ The Bank of England unveiled its first bank notes featuring King Charles on Tues
  - date published: 2022-12-20 01:02:51+00:00
 
 The state of Texas deployed National Guard and equipment to El Paso Monday, a few hours before the Supreme Court paused attempts to lift Title 42.
+

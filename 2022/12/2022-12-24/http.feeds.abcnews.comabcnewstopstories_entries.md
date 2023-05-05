@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## WATCH:  Guinness World Record breaker fits 110 candy canes in his beard
  - [https://abcnews.go.com/Lifestyle/video/guinness-world-record-breaker-fits-110-candy-canes-95800916](https://abcnews.go.com/Lifestyle/video/guinness-world-record-breaker-fits-110-candy-canes-95800916)
@@ -56,6 +56,13 @@ A federal judge has temporarily banned San Francisco from clearing homeless enca
 
 Eyewitnesses in the western Afghan city of Herat say Taliban forces used a water cannon to disperse a protest over their university ban for women
 
+## Tesla stock has plummeted since Elon Musk took over Twitter. Here's why.
+ - [https://abcnews.go.com/Business/tesla-stock-plummeted-elon-musk-twitter/story?id=95756733](https://abcnews.go.com/Business/tesla-stock-plummeted-elon-musk-twitter/story?id=95756733)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-24 13:02:36+00:00
+
+Shares of Tesla have fallen 45% in two months since Elon Musk acquired Twitter.
+
 ## Truck with liquified gas explodes in South Africa; 8 killed
  - [https://abcnews.go.com/International/wireStory/truck-liquified-gas-explodes-south-africa-8-killed-95789419](https://abcnews.go.com/International/wireStory/truck-liquified-gas-explodes-south-africa-8-killed-95789419)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
@@ -112,6 +119,13 @@ There was a record number of migrants that crossed southern border last month, a
 
 The Mall of America in Minnesota was under lockdown in the midst of a reported shooting.
 
+## Trump attacks Jan. 6 report, claiming it produced no evidence
+ - [https://abcnews.go.com/Politics/trump-responds-jan-6-report-claims-produce-single/story?id=95772514](https://abcnews.go.com/Politics/trump-responds-jan-6-report-claims-produce-single/story?id=95772514)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-24 03:25:56+00:00
+
+Former President Trump responded publicly Friday night to the final report released by the House Jan. 6 committee, attacking the committee and refuting its findings.
+
 ## Flight canceled? Experts share some advice about what to do
  - [https://abcnews.go.com/Business/wireStory/flight-canceled-experts-share-advice-95767044](https://abcnews.go.com/Business/wireStory/flight-canceled-experts-share-advice-95767044)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
@@ -132,3 +146,4 @@ California Gov. Gavin Newsom has granted 10 pardons, including for several peopl
  - date published: 2022-12-24 01:02:45+00:00
 
 Multiple people have been fatally poisoned with narcotics in New York City in what investigators say are schemes by criminal crews to incapacitate and rob people at bars and nightclubs
+

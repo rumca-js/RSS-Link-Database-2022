@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## How to Find the Journalists Banned From Twitter on Mastodon     - CNET
  - [https://www.cnet.com/tech/services-and-software/how-to-find-the-journalists-banned-from-twitter-on-mastodon/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/how-to-find-the-journalists-banned-from-twitter-on-mastodon/#ftag=CADf328eec)
@@ -678,3 +678,4 @@ The final episodes of the docuseries reveal the sad state of the royal brothers'
  - date published: 2022-12-16 00:06:00+00:00
 
 They're like a cheat code.
+

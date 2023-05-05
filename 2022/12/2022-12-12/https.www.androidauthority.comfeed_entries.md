@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Is Peacock actually free? Here’s what the free “base” plan gets you
  - [https://www.androidauthority.com/is-peacock-actually-free-heres-what-the-free-base-plan-gets-you-3195942/](https://www.androidauthority.com/is-peacock-actually-free-heres-what-the-free-base-plan-gets-you-3195942/)
@@ -55,3 +55,4 @@ From CPU speeds to dimensions and more, here's what the listing tells us.
  - date published: 2022-12-12 05:47:32+00:00
 
 Here's everything you need to know about Xiaomi's new software.
+

@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Canada to Spend $1.24 Billion on Rescue Helicopter Upgrades Through Sole-Sourced Deal
  - [https://www.theepochtimes.com/canada-to-spend-1-24-billion-on-rescue-helicopter-upgrades-through-sole-sourced-deal_4941634.html](https://www.theepochtimes.com/canada-to-spend-1-24-billion-on-rescue-helicopter-upgrades-through-sole-sourced-deal_4941634.html)
@@ -370,3 +370,4 @@ An Ottawa Light Rail Transit (OLRT) train travels along the tracks in Ottawa on 
  - date published: 2022-12-22 01:47:44+00:00
 
 A Chinese paramilitary police stands guard on the Bund waterfront during China's National Day celebrations in Shanghai on October 1, 2022.(Hector Retamal/AFP via Getty Images)
+

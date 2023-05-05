@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Biden signs $1.7T government spending bill, ensuring funding for most of 2023
  - [https://abcnews.go.com/Politics/biden-signs-17t-government-spending-bill-ensuring-funding/story?id=95934378](https://abcnews.go.com/Politics/biden-signs-17t-government-spending-bill-ensuring-funding/story?id=95934378)
@@ -6,6 +6,20 @@
  - date published: 2022-12-29 23:53:10+00:00
 
 President Joe Biden Thursday signed the omnibus spending bill into law while on vacation, extending funding for the government into next year.
+
+## FBI offering $10,000 for information on vandals who defaced historic Black church
+ - [https://abcnews.go.com/US/fbi-posts-reward-after-abortion-related-vandalism-historic/story?id=95941480](https://abcnews.go.com/US/fbi-posts-reward-after-abortion-related-vandalism-historic/story?id=95941480)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-29 23:48:37+00:00
+
+The FBI is offering a $10,000 reward for information involving 10 people accused of vandalizing the historic Ebenezer Baptist Church Heritage Sanctuary in Atlanta.
+
+## How to get refunds for canceled flights
+ - [https://abcnews.go.com/Business/refunds-canceled-flights/story?id=95930390](https://abcnews.go.com/Business/refunds-canceled-flights/story?id=95930390)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-29 22:15:43+00:00
+
+A passenger seeking a refund for a canceled flight need to be his or her "own best advocate," an expert said.
 
 ## 3 charged in Mall of America killing days before Christmas
  - [https://abcnews.go.com/US/wireStory/3-charged-mall-america-killing-days-christmas-95949334](https://abcnews.go.com/US/wireStory/3-charged-mall-america-killing-days-christmas-95949334)
@@ -34,6 +48,13 @@ Fashion designer Vivienne Westwood has died. She was 81.
  - date published: 2022-12-29 21:34:05+00:00
 
 Southwest Airlines said it plans to return to "normal operations with minimal disruptions", after days of chaos that saw the company cancel thousands of its flights.
+
+## Idaho murders: Police bringing cleaning crew to crime scene
+ - [https://abcnews.go.com/US/idaho-murders-police-bringing-cleaning-crew-crime-scene/story?id=95941421](https://abcnews.go.com/US/idaho-murders-police-bringing-cleaning-crew-crime-scene/story?id=95941421)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-29 20:01:43+00:00
+
+Police in Moscow, Idaho, say they're sending in a cleaning crew to the house where four University of Idaho students were mysteriously murdered.
 
 ## Brazilian soccer legend Pelé dead at 82
  - [https://abcnews.go.com/Sports/brazilian-soccer-legend-pel-dead-82/story?id=27220479](https://abcnews.go.com/Sports/brazilian-soccer-legend-pel-dead-82/story?id=27220479)
@@ -209,3 +230,4 @@ Attorney General Keith Ellison has charged a former Minneapolis police officer w
  - date published: 2022-12-29 00:00:35+00:00
 
 Singer pleaded guilty in 2018 and has since helped federal prosecutors in Boston with their sweeping investigation.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Rusza nowy dodatek do ogrzewania. Oni z pewnością go nie dostaną. Ciebie też to ominie?
  - [https://wydarzenia.interia.pl/kraj/news-rusza-nowy-dodatek-do-ogrzewania-oni-z-pewnoscia-go-nie-dost,nId,6443732](https://wydarzenia.interia.pl/kraj/news-rusza-nowy-dodatek-do-ogrzewania-oni-z-pewnoscia-go-nie-dost,nId,6443732)
@@ -13,3 +13,4 @@
  - date published: 2022-12-01 05:38:26+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-snieg-i-przerazliwy-ziab-pogoda-w-czwartek-nie-zachwyci,nId,6445845"><img align="left" alt="Śnieg i przeraźliwy ziąb. Pogoda w czwartek nie zachwyci" src="https://i.iplsc.com/snieg-i-przerazliwy-ziab-pogoda-w-czwartek-nie-zachwyci/000GF8KNI1KUHXBO-C321.jpg" /></a>Niemal cały kraj będzie w czwartek pochmurny. Słońce pojawi się jedynie w górach. Zimno będzie w nocy, mieszkańcy Suwalszczyzny mogą spodziewać się temperatur do -9 stopni Celsjusza.</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Zobaczą, choć nie patrzą. Nowa metoda pozwala naukowcom dokonywać niezwykłych rzeczy
  - [https://www.chip.pl/2022/12/obserwacje-kwantowe-bez-patrzenia](https://www.chip.pl/2022/12/obserwacje-kwantowe-bez-patrzenia)
@@ -79,3 +79,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="703" src="https://konto.chip.pl/wp-content/uploads/2022/12/ogniwo-sloneczne-1.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/ogniwo-sloneczne-1.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Perowskitowe ogniwa słoneczne stanowią alternatywę dla opartych na krzemie. W najnowszym wydaniu inżynierowie postanowili wykorzystać tzw. formamidyn i cez.  Za potencjalnym przełomem stoją przedstawiciele Monash University, którzy zaprojektowali ogniwa o sprawności 21 procent. Taki wynik nie jest może szczególnie imponujący (w innych przypadkach udało się już przekroczyć próg 30 procent), ale nadal mówimy o najlepszym [&#8230;]</p>
+

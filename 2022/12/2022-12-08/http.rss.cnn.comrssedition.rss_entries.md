@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Croatia has 'nothing to fear' ahead of quarterfinal clash against 'terrifying' Brazil, says head coach
  - [https://www.cnn.com/2022/12/08/football/brazil-croatia-world-cup-quarterfinals-spt-intl/index.html](https://www.cnn.com/2022/12/08/football/brazil-croatia-world-cup-quarterfinals-spt-intl/index.html)
@@ -573,3 +573,4 @@ Donald Trump is facing a flurry of criticism on Capitol Hill, with Republican fu
  - date published: 2022-12-08 02:06:36+00:00
 
 After their flight was canceled late on Sunday, 13 strangers decided to rent a van and drive all the way from Orlando to Knoxville, Tennessee.
+

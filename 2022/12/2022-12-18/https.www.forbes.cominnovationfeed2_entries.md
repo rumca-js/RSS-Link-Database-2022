@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Elon Musk Just Started A Poll Asking Whether He Should Step Down As Head Of Twitter
  - [https://www.forbes.com/sites/johnbbrandon/2022/12/18/elon-musk-just-started-a-poll-asking-whether-he-should-step-down-as-head-of-twitter/](https://www.forbes.com/sites/johnbbrandon/2022/12/18/elon-musk-just-started-a-poll-asking-whether-he-should-step-down-as-head-of-twitter/)
@@ -188,3 +188,4 @@ Go outside after dark anywhere on the planet this week and you’ll see two brig
  - date published: 2022-12-18 00:43:29+00:00
 
 If you see your older laptop (or other device such as a smartphone or tablet) starting to physically swell or warp, that is a warning sign that its Lithium Ion battery is swelling and becoming hazardous.
+

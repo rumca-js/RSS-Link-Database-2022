@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Now Telegram users don’t need a phone number — they can buy a fake one with crypto
  - [https://www.theverge.com/2022/12/7/23498236/telegram-fragment-phone-number-crypto-verification-monetization](https://www.theverge.com/2022/12/7/23498236/telegram-fragment-phone-number-crypto-verification-monetization)
@@ -198,7 +198,6 @@
  - [https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:02:52+00:00
- - tags: apple,privacy
 
 <figure>
       <img alt="Apple logo illustration" src="https://cdn.vox-cdn.com/thumbor/JqhaGxSTGwK0GjL6ZiWOF6ELJDo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722789/acastro_180604_1777_apple_wwdc_0003.0.jpg" />
@@ -671,3 +670,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/6/23497417/apple-tsmc-phoenix-fab-plans-biden-amd-nvidia">Continue reading&hellip;</a>
   </p>
+

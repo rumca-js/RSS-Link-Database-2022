@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Microsoft Teams aims to be a rather dull Discord
  - [https://www.pcworld.com/article/1428443/microsoft-teams-aims-to-be-a-rather-dull-discord.html](https://www.pcworld.com/article/1428443/microsoft-teams-aims-to-be-a-rather-dull-discord.html)
@@ -722,3 +722,4 @@ Browsers, Social Networking Apps</div>
 <p><em>Prices subject to change.</em></p>
 
 Project Management, Project Management Tools</div>
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Thanks to Golden Packs, Magic Arena's economy doesn't suck anymore
  - [https://www.pcgamer.com/thanks-to-golden-packs-magic-arenas-economy-doesnt-suck-anymore](https://www.pcgamer.com/thanks-to-golden-packs-magic-arenas-economy-doesnt-suck-anymore)
@@ -195,3 +195,4 @@ Why Into the Breach: Advanced Edition was one of the best experiences of the yea
  - date published: 2022-12-21 01:14:11+00:00
 
 Eight classic games that exist in an ownership gray area.
+

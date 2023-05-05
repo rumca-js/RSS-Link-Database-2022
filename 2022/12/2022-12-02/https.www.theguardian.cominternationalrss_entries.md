@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Serbia suffer and give Granit Xhaka last word in game of gesture politics | Barney Ronay
  - [https://www.theguardian.com/football/blog/2022/dec/02/serbia-suffer-and-give-granit-xhaka-last-word-in-game-of-gesture-politics-switzerland-world-cup](https://www.theguardian.com/football/blog/2022/dec/02/serbia-suffer-and-give-granit-xhaka-last-word-in-game-of-gesture-politics-switzerland-world-cup)
@@ -942,7 +942,6 @@
  - [https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests](https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-02 05:06:26+00:00
- - tags: china,censorship,zerocovid
 
 <p>Crackdown launched on virtual private networks, which protesters and other citizens had used to access banned non-Chinese news and social media apps</p><p>Chinese authorities have initiated the highest “emergency response” level of censorship, according to leaked directives,<strong> </strong>including a crackdown on VPNs and other methods of bypassing online censorship after unprecedented protests demonstrated widespread public frustration with the zero-Covid policy.</p><p>The crackdown, including the tracking and questioning of protesters, comes alongside easing of pandemic restrictions, in an apparent carrot and stick approach to an outpouring of public grievances. During an extraordinary week in China, protests against zero-Covid restrictions included criticism of the authoritarian rule of Xi Jinping – which was further highlighted by the death of former Chinese leader Jiang Zemin.</p> <a href="https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests">Continue reading...</a>
 
@@ -1036,3 +1035,4 @@
  - date published: 2022-12-02 00:01:01+00:00
 
 <p>The design company calls it an empowering shade that drives innovation – and its storied history suggests it might be right</p><p>It exists between blue and red, warm and cool, to be found on a spectrum all its own. It is 150 years old yet still future-facing, at once digital and primordial. It is – to quote its creators – “brave, fearless and pulsating”. It is Viva Magenta, Pantone’s colour of 2023.</p><p>If you’ve never heard of this colour, that’s quite deliberate. For almost 25 years, the colour-matching company has tasked itself with choosing a shade that – according to its extensive cross-disciplinary analysis of prominent hues within art, fashion, design and beyond – not simply captures the zeitgeist, but sets the tone for the year to come.</p> <a href="https://www.theguardian.com/fashion/2022/dec/02/viva-magenta-what-pantones-colour-of-the-year-tells-us-about-2023">Continue reading...</a>
+

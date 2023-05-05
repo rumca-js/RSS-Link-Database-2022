@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Rackspace customers are still being affected by Microsoft Exchange issue
  - [https://www.techradar.com/news/rackspace-customers-are-still-being-affected-by-microsoft-exchange-issue](https://www.techradar.com/news/rackspace-customers-are-still-being-affected-by-microsoft-exchange-issue)
@@ -174,3 +174,4 @@ Your iPhone will be able to better detect unknown AirTags and sound the alarm.
  - date published: 2022-12-22 03:09:47+00:00
 
 E Ink's new Gallery 3 screen tech promises superior color saturation on ereader displays, and it's being mass produced.
+

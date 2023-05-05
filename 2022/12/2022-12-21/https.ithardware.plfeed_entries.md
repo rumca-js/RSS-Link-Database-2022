@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Gracze chcą zablokować przejęcie Activision Blizzard przez Microsoft
  - [https://ithardware.pl/aktualnosci/gracze_chca_zablokowac_przejecie_activision_blizzard_przez_microsoft-24985.html](https://ithardware.pl/aktualnosci/gracze_chca_zablokowac_przejecie_activision_blizzard_przez_microsoft-24985.html)
@@ -147,3 +147,4 @@ Nagroda - G.SKILL Trident Z5 RGB 2x 16 GB DDR5-6000 CL 36
 
 Kto zamawiał...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_z_ithardware_dzien_21-24819.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_z_ithardware_dzien_21-24819.html</a></p>
+

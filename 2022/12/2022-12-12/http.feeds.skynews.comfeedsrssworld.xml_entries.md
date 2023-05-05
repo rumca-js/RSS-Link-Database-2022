@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Founder of bankrupt crypto firm FTX arrested in Bahamas
  - [https://news.sky.com/story/sam-bankman-fried-founder-of-bankrupt-crypto-firm-ftx-arrested-in-bahamas-12767138](https://news.sky.com/story/sam-bankman-fried-founder-of-bankrupt-crypto-firm-ftx-arrested-in-bahamas-12767138)
@@ -91,6 +91,20 @@ The EU corruption scandal is of the "utmost concern" after investigators charged
 
 The Sudanese businessman embroiled in the Farmgate scandal is currently cooperating with the South African authorities - and would be willing to testify in any legal proceedings.
 
+## Three PMs, the death of a monarch, and war in Europe - 2022 in review
+ - [https://news.sky.com/story/2022-in-review-three-prime-ministers-the-death-of-a-monarch-and-a-war-in-europe-12766654](https://news.sky.com/story/2022-in-review-three-prime-ministers-the-death-of-a-monarch-and-a-war-in-europe-12766654)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-12 09:41:00+00:00
+
+For most of us, 2022 has felt like more than just a year.
+
+## How is Christmas celebrated around the world?
+ - [https://news.sky.com/story/what-is-christmas-and-when-and-how-is-it-celebrated-around-the-world-12766638](https://news.sky.com/story/what-is-christmas-and-when-and-how-is-it-celebrated-around-the-world-12766638)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-12 09:25:00+00:00
+
+The festive season has arrived, with sleigh bells ringing and the timely smattering of snow glistening on our streets.
+
 ## Police name seven people missing after explosion at Jersey block of flats
  - [https://news.sky.com/story/jersey-flats-explosion-police-name-seven-victims-missing-after-blast-12766568](https://news.sky.com/story/jersey-flats-explosion-police-name-seven-victims-missing-after-blast-12766568)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -118,3 +132,4 @@ Italian Prime Minister Giorgia Meloni has paid tribute to a friend who was among
  - date published: 2022-12-12 05:18:00+00:00
 
 The inside light of a car flickered in the darkness next to a cluster of large apartment blocks in the Ukrainian city of Odesa.
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Uncover Darknet Service Allowing Hackers to Trojonize Legit Android Apps
  - [https://thehackernews.com/2022/12/researchers-uncover-darknet-service.html](https://thehackernews.com/2022/12/researchers-uncover-darknet-service.html)
@@ -49,3 +49,4 @@ The discovery, reported by Google Threat Analysis Group researchers Benoît Seve
 An Iranian advanced persistent threat (APT) actor known as Agrius has been attributed as behind a set of data wiper attacks aimed at diamond industries in South Africa, Israel, and Hong Kong.
 The wiper, codenamed Fantasy by ESET, is believed to have been delivered via a supply chain attack targeting an Israeli software suite developer as part of a campaign that began in February 2022.
 Victims
+

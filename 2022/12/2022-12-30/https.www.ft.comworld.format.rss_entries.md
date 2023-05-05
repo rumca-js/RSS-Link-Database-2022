@@ -1,4 +1,25 @@
-# Source Financial Times World, Source URL:https://www.ft.com/world?format=rss, Source language: en-US
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
+
+## The haunting divide between refugee and economic migrant
+ - [https://www.ft.com/content/28ad8fae-7101-45e0-a26b-4f868002b3d2](https://www.ft.com/content/28ad8fae-7101-45e0-a26b-4f868002b3d2)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-30 23:00:52+00:00
+
+Simplistic distinctions between the deserving and undeserving do nothing to help the vulnerable
+
+## UK government set to miss 2022 target on global trade deals
+ - [https://www.ft.com/content/d81f6e4c-7716-44c2-a745-2b7a74089ede](https://www.ft.com/content/d81f6e4c-7716-44c2-a745-2b7a74089ede)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-30 22:31:34+00:00
+
+Tory manifesto promise to seal post-Brexit agreements for 80% of country’s business with the world falls short
+
+## Ousted Treasury chief Tom Scholar named in New Year honours
+ - [https://www.ft.com/content/bcb37264-ca59-4f0a-9480-0a00da4c01ac](https://www.ft.com/content/bcb37264-ca59-4f0a-9480-0a00da4c01ac)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2022-12-30 22:31:29+00:00
+
+Former top UK officials receive awards, alongside football’s Euro-winning ‘Lionesses’ and rock and fashion icons
 
 ## The zero per cent party
  - [https://www.ft.com/content/65a964f5-fc9e-40c3-b576-d0fade44ba1e](https://www.ft.com/content/65a964f5-fc9e-40c3-b576-d0fade44ba1e)
@@ -300,3 +321,4 @@ Labour PM sought to cultivate links with Bush and strengthen UK relations with B
  - date published: 2022-12-30 00:02:43+00:00
 
 Senior officials discussed regime change in Iraq and encouraging countries to leave the cartel
+

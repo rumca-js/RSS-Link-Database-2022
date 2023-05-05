@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Researchers Demonstrate How EDR and Antivirus Can Be Weaponized Against Users
  - [https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html](https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html)
@@ -49,3 +49,4 @@ In fact, cybercriminals often ramp up their efforts during the holidays, taking 
 
 The U.S. Department of Health and Human Services (HHS) has cautioned of ongoing Royal ransomware attacks targeting healthcare entities in the country.
 "While most of the known ransomware operators have performed Ransomware-as-a-Service, Royal appears to be a private group without any affiliates while maintaining financial motivation as their goal," the agency's Health Sector Cybersecurity
+

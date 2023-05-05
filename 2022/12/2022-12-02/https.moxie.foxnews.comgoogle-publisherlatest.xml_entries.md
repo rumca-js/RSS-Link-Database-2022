@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Ex-NBA star Jeremy Lin fined for making 'inappropriate' COVID quarantine comments
  - [https://www.foxnews.com/sports/ex-nba-star-jeremy-lin-sued-over-quarantine-comments](https://www.foxnews.com/sports/ex-nba-star-jeremy-lin-sued-over-quarantine-comments)
@@ -585,7 +585,6 @@ Republicans in a House majority are in position to expand educational freedom by
  - [https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies](https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-02 16:57:22+00:00
- - tags: government,big tech,election,censorship
 
 An FBI agent testified to Republican attorneys general this week that the FBI held weekly meetings with Big Tech companies in Silicon Valley ahead of the 2020 presidential election.
 
@@ -1365,3 +1364,4 @@ Alexi Lalas talked to Fox News Digital about the U.S. men's soccer team's scorin
  - date published: 2022-12-02 00:00:36+00:00
 
 Steve Goncalves, the father of slain University of Idaho murder victim Kaylee Goncalves appealed to the public for help to move the investigation forward.
+

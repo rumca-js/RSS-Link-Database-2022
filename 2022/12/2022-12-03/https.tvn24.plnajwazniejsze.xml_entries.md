@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Dziennikarze TVN i TVN24 nagrodzeni na Festiwalu Mediów Człowiek w Zagrożeniu
  - [https://tvn24.pl/polska/reporterzy-tvn24-i-tvn-konrad-borusiewicz-tomasz-patora-marcin-jakobczyk-i-edyta-krzesniak-nagrodzeni-na-festiwalu-mediow-czlowiek-w-zagrozeniu-6349784?source=rss](https://tvn24.pl/polska/reporterzy-tvn24-i-tvn-konrad-borusiewicz-tomasz-patora-marcin-jakobczyk-i-edyta-krzesniak-nagrodzeni-na-festiwalu-mediow-czlowiek-w-zagrozeniu-6349784?source=rss)
@@ -535,3 +535,4 @@
 
 <img alt="Tak spełnia się marzenia. Jak wygląda praca na pokładzie ZERO-G? " src="https://tvn24.pl/najnowsze/cdn-zdjecie-lf9hhc-hubert-kijek-akcja-grawitacja-6307237/alternates/LANDSCAPE_1280" />
     Dziennikarz TVN24 BiS został zaproszony przez Europejską Agencję Kosmiczną.
+

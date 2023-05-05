@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## The Game Awards start soon. Here’s what you need to know.
  - [https://www.washingtonpost.com/video-games/2022/12/08/game-awards/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/08/game-awards/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Seeing AI selfies everywhere? Here's how to generate your own — and what to kn
  - date published: 2022-12-08 00:00:20+00:00
 
 As Russian forces shell Ukrainian cities, pro-Kremlin propagandists have homed in on a new topic: turning Europeans against Ukrainian refugees.
+

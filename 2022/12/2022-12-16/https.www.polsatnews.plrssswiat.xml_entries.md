@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Grecja. Papież zwraca zabytki do Partenonu. Były w Muzeum Watykańskim od wieków.
  - [https://www.polsatnews.pl/wiadomosc/2022-12-16/grecja-papiez-zwraca-zabytki-do-partenonu-byly-w-muzeum-watykanskim-od-wiekow/](https://www.polsatnews.pl/wiadomosc/2022-12-16/grecja-papiez-zwraca-zabytki-do-partenonu-byly-w-muzeum-watykanskim-od-wiekow/)
@@ -118,3 +118,4 @@ Co najmniej 10 osób, w tym pięcioro dzieci, zginęło w pożarze, który wybuc
  - date published: 2022-12-16 05:35:00+00:00
 
 Archiwa Narodowe USA opublikowały kolejne dokumenty ws. zabójstwa amerykańskiego prezydenta Johna F. Kennedyego. Wciąż niejawne pozostaje ok. 3 proc. dokumentów.
+

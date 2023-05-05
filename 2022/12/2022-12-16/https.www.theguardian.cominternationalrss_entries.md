@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Beau Greaves denied by William O’Connor on her PDC world darts debut
  - [https://www.theguardian.com/sport/2022/dec/16/pdc-world-darts-championship-beau-greaves-william-oconnor-michael-smith](https://www.theguardian.com/sport/2022/dec/16/pdc-world-darts-championship-beau-greaves-william-oconnor-michael-smith)
@@ -1098,3 +1098,4 @@
  - date published: 2022-12-16 00:00:36+00:00
 
 <p>A host of intriguing storylines await, including those for clubmates</p><p>Lisandro Martínez v Raphaël Varane, Leandro Paredes v Adrien Rabiot, Cristian Romero v Hugo Lloris and Nahuel Molina v Antoine Griezmann. These are subplots we can look forward to when Argentina face France in the final on Sunday. While everyone is thinking about Lionel Messi v Kylian Mbappé, there are plenty of clubmates preparing to do battle for the right to be champions of the planet, the entire planet.</p> <a href="https://www.theguardian.com/football/2022/dec/16/world-cup-2022-briefing-argentina-v-france-will-provide-subplots-aplenty">Continue reading...</a>
+

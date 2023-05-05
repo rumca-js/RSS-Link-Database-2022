@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
+# Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
 ## Do ukraińskich placówek dyplomatycznych "przyszły zakrwawione przesyłki". Dwie z nich są w Polsce
  - [https://tvn24.pl/swiat/ukraina-msz-w-kijowie-do-placowek-dyplomatycznych-w-szesciu-krajach-takze-w-polsce-przyszly-zakrwawione-przesylki-z-oczami-zwierzat-6305132?source=rss](https://tvn24.pl/swiat/ukraina-msz-w-kijowie-do-placowek-dyplomatycznych-w-szesciu-krajach-takze-w-polsce-przyszly-zakrwawione-przesylki-z-oczami-zwierzat-6305132?source=rss)
@@ -7,3 +7,4 @@
 
 <img alt="Do ukraińskich placówek dyplomatycznych " src="https://tvn24.pl/najnowsze/cdn-zdjecie-3ba9z7-ambasada-ukrainy-w-polsce-6305223/alternates/LANDSCAPE_1280" />
     Ukraińskie ambasady i konsulaty w sześciu krajach otrzymały zakrwawione przesyłki, w których znajdowały się oczy zwierząt - przekazał w piątek rzecznik resortu dyplomacji w Kijowie Ołeh Nikołenko. Dwie z tych placówek znajdują się w Polsce.
+

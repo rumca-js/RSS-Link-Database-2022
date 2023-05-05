@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Jean-Luc Godard's final days
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/12/07/jean-luc-godard-s-final-days_6006813_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/12/07/jean-luc-godard-s-final-days_6006813_117.html)
@@ -230,3 +230,4 @@ The actress, star of both big and small screens, died on Monday, December 5, 202
  - date published: 2022-12-06 03:30:09+00:00
 
 Much criticized at Manchester United, the defender has once again asserted himself in the England team, which easily defeated Senegal in the round of 16 on Sunday.
+

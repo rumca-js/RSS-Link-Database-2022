@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## PS Plus Extra i Premium. Poznaliśmy gry, które trafią do usługi w grudniu
  - [https://ithardware.pl/aktualnosci/ps_plus_extra_i_premium_poznalismy_gry_ktore_trafia_do_uslugi_w_grudniu-24871.html](https://ithardware.pl/aktualnosci/ps_plus_extra_i_premium_poznalismy_gry_ktore_trafia_do_uslugi_w_grudniu-24871.html)
@@ -189,3 +189,4 @@ Nagroda - słuchawki Genesis Radon 800
 
 Słuchawki Genesis...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_14-24811.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_14-24811.html</a></p>
+

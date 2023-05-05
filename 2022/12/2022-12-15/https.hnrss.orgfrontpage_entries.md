@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## IvorySQL: Open-source Oracle-compatible PostgreSQL
  - [https://github.com/IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL)
@@ -534,3 +534,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33993806">https://news.ycombinator.com/item?id=33993806</a></p>
 <p>Points: 10</p>
 <p># Comments: 4</p>
+

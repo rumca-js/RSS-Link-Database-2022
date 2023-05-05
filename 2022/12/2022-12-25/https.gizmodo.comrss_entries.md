@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## The Era Defining Naughtiness of The Live-Action The Grinch Can Be Explained By One Small Detail
  - [https://gizmodo.com/the-era-defining-naughtiness-of-the-live-action-grinch-1849926117](https://gizmodo.com/the-era-defining-naughtiness-of-the-live-action-grinch-1849926117)
@@ -48,3 +48,4 @@
  - date published: 2022-12-25 15:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ANpre4Yy--/c_fit,fl_progressive,q_80,w_636/08f47a3876529d0e41b09b3e0cfd996b.jpg" /><p>These days there’s no shortage of <a href="https://gizmodo.com/the-10-most-bone-chillingly-inappropriate-christmas-mov-1674947957">Christmas-themed horror movies</a>, especially ones that feature <a href="https://gizmodo.com/christmas-bloody-christmas-shudder-horror-movie-review-1849864955">a killer dressed as Santa Claus</a>. But in the slasher genre’s earliest days, that hadn’t yet become a trope—1972's <em>Tales From the Crypt </em>gave us a red-suited maniac, to name maybe the most notable early example, and 1980's <em>To</em>…</p><p><a href="https://gizmodo.com/to-all-a-goodnight-christmas-horror-1980-retro-review-1849919498">Read more...</a></p>
+

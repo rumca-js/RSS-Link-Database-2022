@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## DOJ Investigating $372 Million in Missing FTX Funds, Reports Say     - CNET
  - [https://www.cnet.com/personal-finance/crypto/doj-investigating-372-million-in-missing-ftx-funds-reports-say/#ftag=CADf328eec](https://www.cnet.com/personal-finance/crypto/doj-investigating-372-million-in-missing-ftx-funds-reports-say/#ftag=CADf328eec)
@@ -405,3 +405,4 @@ Not only will you avoid paying return shipping, but you can also get cash back.
  - date published: 2022-12-27 07:45:00+00:00
 
 Craig is back as detective Benoit Blanc for Rian Johnson's cutting Knives Out sequel, streaming now.
+

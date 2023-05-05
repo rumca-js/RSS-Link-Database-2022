@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## How Ukrainians Are Surviving A Cold Winter Under Russia’s Missile Barrage
  - [https://www.forbes.com/sites/ericmack/2022/12/10/how-ukrainians-are-surviving-a-cold-winter-under-russias-missile-barrage/](https://www.forbes.com/sites/ericmack/2022/12/10/how-ukrainians-are-surviving-a-cold-winter-under-russias-missile-barrage/)
@@ -248,3 +248,4 @@ Here's today's 'Heardle' song, along with some hints.
  - date published: 2022-12-10 01:00:00+00:00
 
 If we want to find Earth 2.0 we’re going to have to play the long game and visit star systems most like our own, says a white paper proposing a multi-century mission.
+

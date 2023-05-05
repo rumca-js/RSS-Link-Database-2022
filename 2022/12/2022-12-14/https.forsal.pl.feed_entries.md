@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Sejm uchwalił nowelizację ustawy o pomocy obywatelom Ukrainy
  - [https://forsal.pl/gospodarka/prawo/artykuly/8610703,pomoc-obywatelom-ukrainy-zmiany.html](https://forsal.pl/gospodarka/prawo/artykuly/8610703,pomoc-obywatelom-ukrainy-zmiany.html)
@@ -587,3 +587,4 @@
  - date published: 2022-12-14 05:29:21+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/AMkktkuTURBXy8yZDgzMzc2Zi03NGM2LTRmYjUtOWQ3Ny0wNDhkNzk1MTQyNDcuanBlZ5GTBc0BHcyg" />Relacje USA z Arabią Saudyjską są coraz gorsze. Sytuację wykorzystują Chiny, które zacieśniają relacje z tym azjatyckim krajem – czytamy w portalu Vox.
+

@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Sam Bankman-Fried will now surrender himself for extradition before Bahamian court Monday: Source
  - [https://www.cnbc.com/2022/12/17/ftx-founder-sam-bankman-fried-will-not-contest-us-extradition-in-alleged-fraud-case-source-says.html](https://www.cnbc.com/2022/12/17/ftx-founder-sam-bankman-fried-will-not-contest-us-extradition-in-alleged-fraud-case-source-says.html)
@@ -34,3 +34,4 @@ When you've known your partner through many ups and downs, it can be challenging
  - date published: 2022-12-17 01:00:40+00:00
 
 Last year Marc Benioff, Salesforce's co-founder and CEO, said people could work very productively at home. Now he's saying newer employees are having issues.
+

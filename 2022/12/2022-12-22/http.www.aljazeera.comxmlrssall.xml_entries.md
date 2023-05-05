@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Chile plans to open embassy in occupied Palestinian territories
  - [https://www.aljazeera.com/news/2022/12/22/chile-plans-to-open-embassy-in-occupied-palestinian-territories](https://www.aljazeera.com/news/2022/12/22/chile-plans-to-open-embassy-in-occupied-palestinian-territories)
@@ -335,3 +335,4 @@ Religious Zionism is a growing force in Israel, and will have a strong presence 
  - date published: 2022-12-22 01:04:53+00:00
 
 Benjamin Netanyahu&#039;s agreement sees him return to power as head of the most right-wing coalition in Israel&#039;s history.
+

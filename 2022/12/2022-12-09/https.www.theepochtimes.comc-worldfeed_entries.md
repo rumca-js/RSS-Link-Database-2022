@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Study Finds Prejudice Against COVID-19 Unvaccinated Around the World
  - [https://www.theepochtimes.com/study-finds-prejudice-against-covid-19-unvaccinated-around-the-world_4914249.html](https://www.theepochtimes.com/study-finds-prejudice-against-covid-19-unvaccinated-around-the-world_4914249.html)
@@ -349,3 +349,4 @@ Soldiers of The People's Liberation Army (PLA) take part in military exercises a
  - date published: 2022-12-09 02:30:55+00:00
 
 Families join the Freedom Convoy protest in downtown Ottawa after police distributed arrest notices to truckers and their supporters occupying Wellington St. and the Parliament Hill area on Feb. 16, 2022. (Richard Moore/The Epoch Times)
+

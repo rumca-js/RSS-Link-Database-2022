@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Amazon layoffs now expected to mount to 20,000, including top managers
  - [https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html#tk.rss_all](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html#tk.rss_all)
@@ -41,3 +41,4 @@
 <li>And, yes, part of it is the Pixel upgrade promise and the fact that Pixel phones are still the only Android devices where both timely and reliable software updates are a built-in <em>feature</em> and guarantee.</li>
 </ul>
 <p><strong>[Psst: Got a Pixel? Any Pixel? </strong><a href="https://www.androidintel.net/pixel-academy-ai/" rel="noopener nofollow" target="_blank"><strong>Check out my free Pixel Academy e-course</strong></a><strong> to uncover all sorts of advanced intelligence lurking within your phone!]</strong></p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681115/google-pixel-upgrade.html#jump">To read this article in full, please click here</a></p></section></article>
+

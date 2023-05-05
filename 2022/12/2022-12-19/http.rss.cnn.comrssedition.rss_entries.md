@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Moscow says it shot down 4 US-made missiles over Russia
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-19-22/h_10d30afe66ee9dafc9dbed2d37a9aa69](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-19-22/h_10d30afe66ee9dafc9dbed2d37a9aa69)
@@ -580,3 +580,4 @@ Now there can be no arguments. Now there should be no debate.
  - date published: 2022-12-19 00:55:18+00:00
 
 Argentina has won the 2022 World Cup, beating France via a penalty shootout in one of the most thrilling finals in recent memory. Journalist Stefano Pozzebon is in Buenos Aires with fan reactions.
+

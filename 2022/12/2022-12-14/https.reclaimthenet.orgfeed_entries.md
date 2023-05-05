@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## The New York Times is surprised to hear the Biden administration uses spyware
  - [https://reclaimthenet.org/the-new-york-times-is-surprised-to-hear-the-biden-administration-uses-spyware/](https://reclaimthenet.org/the-new-york-times-is-surprised-to-hear-the-biden-administration-uses-spyware/)
@@ -68,7 +68,6 @@
  - [https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/](https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-14 16:28:55+00:00
- - tags: censorship,privacy,china
 
 <a href="https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/" rel="nofollow" title="Privacy concerns are raised over Chinese surveillance companies&#8217; access to UK business crime data"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/hikvision-cam-uk.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Chinese surveillance tech, with links to the CCP, is prominent in the UK.</p>
 <p>The post <a href="https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/" rel="nofollow">Privacy concerns are raised over Chinese surveillance companies&#8217; access to UK business crime data</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -80,3 +79,4 @@
 
 <a href="https://reclaimthenet.org/china-bans-online-deep-fakes/" rel="nofollow" title="China bans online deep fakes, posting content that goes against socialist values"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/china-deepfake.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>New censorship regulation.</p>
 <p>The post <a href="https://reclaimthenet.org/china-bans-online-deep-fakes/" rel="nofollow">China bans online deep fakes, posting content that goes against socialist values</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

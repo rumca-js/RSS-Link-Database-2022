@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter account that tracked Elon Musk’s jet is suspended permanently
  - [https://www.washingtonpost.com/technology/2022/12/14/elonjet-twitter-suspension-jack-sweeney-talks/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/14/elonjet-twitter-suspension-jack-sweeney-talks/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -48,3 +48,4 @@ South Florida attorney Adam Moskowitz wants celebrity endorsers to pay for assur
  - date published: 2022-12-14 06:00:27+00:00
 
 Musk has become so popular in QAnon circles that some regard him, not Trump, as the savior-like figure they’ve been waiting for.
+

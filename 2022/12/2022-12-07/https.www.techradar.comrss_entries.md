@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Let Amazon know what ads you see and it will give you money
  - [https://www.techradar.com/news/let-amazon-know-what-ads-you-see-and-it-will-give-you-money](https://www.techradar.com/news/let-amazon-know-what-ads-you-see-and-it-will-give-you-money)
@@ -174,3 +174,4 @@ Just like on Instagram, Facebook Dating will ask users to make certain poses to 
  - date published: 2022-12-07 02:07:05+00:00
 
 Ensure your favorite outdoor adventurer can protect their new iPhone this Christmas with Rokform.
+

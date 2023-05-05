@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## All the Batman Movies Ranked, From Terrible to Triumphant     - CNET
  - [https://www.cnet.com/culture/entertainment/all-the-batman-movies-ranked-from-terrible-to-triumphant/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/all-the-batman-movies-ranked-from-terrible-to-triumphant/#ftag=CADf328eec)
@@ -636,3 +636,4 @@ Following Henry Cavill being cut from playing Superman, Dwayne "The Rock" Johnso
  - date published: 2022-12-21 00:01:02+00:00
 
 Re-analysis of a decades-old fossil provides the first evidence of a dinosaur eating a mammal.
+

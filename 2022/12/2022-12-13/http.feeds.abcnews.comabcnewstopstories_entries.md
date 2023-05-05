@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Sexual abuse of female inmates plagues federal prisons, Senate report finds
  - [https://abcnews.go.com/Politics/senate-report-documents-widespread-sexual-abuse-female-inmates/story?id=95157791](https://abcnews.go.com/Politics/senate-report-documents-widespread-sexual-abuse-female-inmates/story?id=95157791)
@@ -300,3 +300,4 @@ Only 20% of the deputies in the Uvalde County Sheriff’s Office had received tr
  - date published: 2022-12-13 00:23:47+00:00
 
 Special counsel Jack Smith has subpoenaed the secretary of state's offices in Georgia and New Mexico as part of his probe into efforts to overturn the 2020 election.
+

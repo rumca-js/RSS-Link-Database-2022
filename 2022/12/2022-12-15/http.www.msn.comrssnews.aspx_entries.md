@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## US to expand combat training of Ukrainian service members
  - [http://www.msn.com/en-us/news/world/us-to-expand-combat-training-of-ukrainian-service-members/ar-AA15kGhl?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/us-to-expand-combat-training-of-ukrainian-service-members/ar-AA15kGhl?li=BBnbcA1&srcref=rss)
@@ -746,5 +746,6 @@
  - [http://www.msn.com/en-us/news/politics/pelosi-portrait-unveiled-historic-1st-of-a-female-speaker/ar-AA15hY1I?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/pelosi-portrait-unveiled-historic-1st-of-a-female-speaker/ar-AA15hY1I?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-15 00:36:11.639582+00:00
+
 
 

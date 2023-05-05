@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Batman Goes Lovecraft for His Next Animated Movie
  - [https://gizmodo.com/batman-doom-came-to-gotham-animated-movie-1849877905](https://gizmodo.com/batman-doom-came-to-gotham-animated-movie-1849877905)
@@ -55,3 +55,4 @@
  - date published: 2022-12-10 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--mg3bV7lT--/c_fit,fl_progressive,q_80,w_636/fca8dc244c6c4e331309652d5488dfe1.jpg" /><p><a href="https://gizmodo.com/how-the-last-airbender-inspired-lisette-olivera-1849876903">Read more...</a></p>
+

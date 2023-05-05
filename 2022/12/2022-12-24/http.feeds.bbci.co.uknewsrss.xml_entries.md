@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Looking down on London at Christmas
  - [https://www.bbc.co.uk/news/uk-england-london-63951637?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63951637?at_medium=RSS&at_campaign=KARANGA)
@@ -48,6 +48,13 @@ Watch highlights from each World Cup this century and vote for which you think w
  - date published: 2022-12-24 19:04:56+00:00
 
 A spokesperson for the royal couple says the newspaper profited off "hate, violence and misogyny".
+
+## Fantasy football: How should managers shake up their teams with unlimited transfers?
+ - [https://www.bbc.co.uk/sport/football/64012464?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64012464?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-24 18:59:37+00:00
+
+Fantasy Premier League returns on Monday - and unlimited transfers during the break have give managers a golden opportunity to shake up their squads.
 
 ## Are you in business?, Rishi Sunak asks homeless man during shelter visit
  - [https://www.bbc.co.uk/news/uk-64087160?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64087160?at_medium=RSS&at_campaign=KARANGA)
@@ -314,3 +321,4 @@ So far at least 12 deaths have been linked to the cold snap, which has brought b
  - date published: 2022-12-24 00:07:56+00:00
 
 How well do you remember the news of the past 12 months?
+

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Iran sprzeda Rosji rakiety. Jednak nie chce łamać ograniczeń ONZ
  - [https://www.money.pl/gospodarka/iran-sprzeda-rosji-rakiety-jednak-nie-chce-lamac-ograniczen-onz-6843905391114784a.html](https://www.money.pl/gospodarka/iran-sprzeda-rosji-rakiety-jednak-nie-chce-lamac-ograniczen-onz-6843905391114784a.html)
@@ -111,3 +111,4 @@
  - date published: 2022-12-12 05:49:09+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/013e29ff-a33e-4156-a33e-d7012177b2fb" width="308" /> Premier Mateusz Morawiecki złożył deklarację dotyczącą wypłat dodatkowych emerytur. - Trzynastka i czternastka będą dalej utrzymane. Jeśli będziemy nadal rządzić, wpiszemy 14. emeryturę do ustawy, żeby stała się dodatkiem sformalizowanym - powiedział w rozmowie z "Super Expressem". Jak dodał, na wsparcie emerytów rząd ma wydać łącznie około 70 mld zł.
+

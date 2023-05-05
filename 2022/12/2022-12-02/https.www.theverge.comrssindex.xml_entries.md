@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Motorola’s Edge 30 Fusion is coming to the US in pink, and I don’t hate it
  - [https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023](https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023)
@@ -357,3 +357,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/1/23488906/netflix-preview-club-early-screening-expansion">Continue reading&hellip;</a>
   </p>
+

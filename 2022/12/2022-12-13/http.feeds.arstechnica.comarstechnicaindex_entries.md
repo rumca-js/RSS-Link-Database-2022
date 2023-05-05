@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Spider-Man: Across the Spider-Verse trailer wows with 6 distinct animation styles
  - [https://arstechnica.com/?p=1904060](https://arstechnica.com/?p=1904060)
@@ -153,3 +153,4 @@ The collaboration may seem odd, but it made sense after we drove it.
  - date published: 2022-12-13 00:11:14+00:00
 
 Analysis re-ignites debate over existence of 3rd century CE emperor named Sponsian.
+

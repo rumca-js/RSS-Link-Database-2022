@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Danish Reporter Says Ukrainian Intelligence Tried to Coerce Her Into Working as a Propagandist
  - [https://theintercept.com/2022/12/29/matilde-kimer-ukraine/](https://theintercept.com/2022/12/29/matilde-kimer-ukraine/)
@@ -23,3 +23,4 @@
 
 <p>Officials have known about the widespread security failure for 15 years without fixing it.</p>
 <p>The post <a href="https://theintercept.com/2022/12/29/dhs-buildings-security-employees/" rel="nofollow">Department of Homeland Security Can&#8217;t Even Secure Its Buildings Against People It Fired</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Na Węgrzech brakuje benzyny i oleju napędowego. MOL: Bezpieczeństwo dostaw paliw zagrożone
  - [https://forsal.pl/biznes/energetyka/artykuly/8601141,na-wegrzech-brakuje-benzyny-i-oleju-napedowego-bezpieczenstwo-dostaw-zagrozone.html](https://forsal.pl/biznes/energetyka/artykuly/8601141,na-wegrzech-brakuje-benzyny-i-oleju-napedowego-bezpieczenstwo-dostaw-zagrozone.html)
@@ -776,3 +776,4 @@
  - date published: 2022-12-01 05:24:21+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/TmCktkuTURBXy8wOGVlMGQ1Zi05MGEzLTRkNTItOTA1ZS05M2FmYTFmNzkwNjMuanBlZ5GTBc0BHcyg" />Rekordowo wysoki niedobór wykwalifikowanych pracowników w Szwajcarii – informuje dziennik „Blick”. Najbardziej poszukiwani kandydaci to: informatycy, pracownicy służby zdrowia oraz inżynierzy.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## What Are JDAMs? And What Will They Do For Ukraine?
  - [https://www.nytimes.com/2022/12/23/us/politics/ukraine-weapons-russia.html](https://www.nytimes.com/2022/12/23/us/politics/ukraine-weapons-russia.html)
@@ -139,3 +139,4 @@ For a biologist in San Francisco, Dec. 25 will bring not presents and mistletoe,
  - date published: 2022-12-23 04:51:37+00:00
 
 Passed after an address by Ukraine’s leader, the bill would allow foreigners in the United States who are suspected of war crimes to be tried even if the crime was overseas and the victim was not American.
+

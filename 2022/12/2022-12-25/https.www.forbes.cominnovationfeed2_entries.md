@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Sony To iPhone, Oura To Kindle: Gadgets Of The Year 2022
  - [https://www.forbes.com/sites/davidphelan/2022/12/25/sony-to-iphone-oura-to-kindle-gadgets-of-the-year-2022/](https://www.forbes.com/sites/davidphelan/2022/12/25/sony-to-iphone-oura-to-kindle-gadgets-of-the-year-2022/)
@@ -69,3 +69,4 @@ How to solve today's Christmas Wordle.
  - date published: 2022-12-25 02:18:57+00:00
 
 Cerner contributed $1.5 billion dollars in revenue.
+

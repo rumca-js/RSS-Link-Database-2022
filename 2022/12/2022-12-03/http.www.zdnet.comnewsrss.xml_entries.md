@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## This one-tap business card is the ultimate networking tool. And it's only $12
  - [https://www.zdnet.com/home-and-office/networking/this-one-tap-business-card-is-the-ultimate-networking-tool-and-its-only-12/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/this-one-tap-business-card-is-the-ultimate-networking-tool-and-its-only-12/#ftag=RSSbaffb68)
@@ -27,3 +27,4 @@ When you can't solve a problem, do you have to annoy some of your best customers
  - date published: 2022-12-03 12:00:21+00:00
 
 Do you ever wonder what texting has done to our behavior? Well, please let me give you some data.
+

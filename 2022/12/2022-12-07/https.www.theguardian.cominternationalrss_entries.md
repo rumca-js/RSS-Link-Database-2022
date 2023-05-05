@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Apple announces new security and privacy measures amid surge in cyber-attacks
  - [https://www.theguardian.com/technology/2022/dec/07/apple-new-security-privacy-measures-spike-cyber-attacks](https://www.theguardian.com/technology/2022/dec/07/apple-new-security-privacy-measures-spike-cyber-attacks)
@@ -235,7 +235,6 @@ Cuban singer, songwriter and guitarist who was one of the founders of the <em>nu
  - [https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy](https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-07 16:45:07+00:00
- - tags: blackrock,esg
 
 <p>Hedge fund says company still too attached to fossil fuels as it promotes eco-conscious strategy</p><p>Larry Fink, the chief executive of BlackRock, the world’s largest asset manager and one of the most vocal supporters of environmental, social and corporate governance (ESG) investment principles, is facing pressure from an activist hedge fund to step down amid claims of hypocrisy.</p><p>London-based Bluebell Capital Partners, a $250m hedge fund, took aim at Fink and BlackRock on Tuesday, claiming the firm’s ESG strategy was inconsistent and had “alienated clients and attracted an undesired level of negative publicity”.</p> <a href="https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy">Continue reading...</a>
 
@@ -1092,3 +1091,4 @@ Cuban singer, songwriter and guitarist who was one of the founders of the <em>nu
  - date published: 2022-12-07 00:01:25+00:00
 
 <p>University of Copenhagen study shows more comprehension of domestic than wild animals</p><p>It might not be animal communication Dr Dolittle-style, but researchers have found humans are able to glean insights into the feelings of creatures including pigs, horses and goats based on their vocalisations.</p><p>The team say the findings suggest certain information within sounds, such as how intense an animal’s emotions are, appears to be conveyed in a similar way across species.</p> <a href="https://www.theguardian.com/science/2022/dec/07/talk-to-the-animals-study-shows-some-human-understanding-of-creatures-sounds">Continue reading...</a>
+

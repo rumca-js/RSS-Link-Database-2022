@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## China to remove COVID-19 quarantine regulations for inbound travelers
  - [https://www.foxnews.com/world/china-remove-covid-19-quarantine-regulations-inbound-travelers](https://www.foxnews.com/world/china-remove-covid-19-quarantine-regulations-inbound-travelers)
@@ -482,3 +482,4 @@ The Dallas Mavericks kept the celebration going after Dirk Nowitzki's with a 124
  - date published: 2022-12-26 00:05:34+00:00
 
 The Philadelphia 76ers surged past the New York Knicks with a big second half on Sunday afternoon to win the game 119-112. Embiid had 35 points.
+

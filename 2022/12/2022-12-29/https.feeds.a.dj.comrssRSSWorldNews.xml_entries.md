@@ -1,4 +1,39 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
+
+## American Avoids Extradition to Egypt After Release From Dubai Detention
+ - [https://www.wsj.com/articles/american-avoids-extradition-to-egypt-after-release-from-dubai-detention-11672335476](https://www.wsj.com/articles/american-avoids-extradition-to-egypt-after-release-from-dubai-detention-11672335476)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-29 23:16:00+00:00
+
+Sherif Osman, an Egyptian-American dual national, is back in the U.S. after facing possible extradition to Egypt over criticizing the government.
+
+## From Obama to Neymar, Tributes to Pelé Pour In
+ - [https://www.wsj.com/articles/from-obama-to-neymar-tributes-to-pele-pour-in-from-across-the-globe-11672349238](https://www.wsj.com/articles/from-obama-to-neymar-tributes-to-pele-pour-in-from-across-the-globe-11672349238)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-29 22:30:00+00:00
+
+World leaders and some of the biggest names in soccer paid tribute to Pelé, who rose from poverty to become a global ambassador for what he called “the beautiful game.”
+
+## Beijing Calls for Measured, 'Science-Based' Response to Its Covid Outbreak
+ - [https://www.wsj.com/articles/beijing-calls-for-measured-science-based-response-to-its-covid-outbreak-11672327491](https://www.wsj.com/articles/beijing-calls-for-measured-science-based-response-to-its-covid-outbreak-11672327491)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-29 19:29:00+00:00
+
+Chinese reactions to new screening protocols by the U.S. and other countries varied, with some condemning what they see as discriminatory and unscientific measures against China, while others expressed acceptance.
+
+## Canada Shifts on China To Build Credibility With Allies
+ - [https://www.wsj.com/articles/canada-shifts-on-china-to-build-credibility-with-allies-11672339249](https://www.wsj.com/articles/canada-shifts-on-china-to-build-credibility-with-allies-11672339249)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-29 18:40:00+00:00
+
+Prime Minister Justin Trudeau’s administration has shifted from efforts to strengthen ties with China to publicly criticizing its behavior as disruptive.
+
+## Brazilian President-elect Says He Will End Illegal Amazon Deforestation
+ - [https://www.wsj.com/articles/brazilian-president-elect-luiz-inacio-lula-da-silva-says-he-will-end-illegal-amazon-deforestation-11672336459](https://www.wsj.com/articles/brazilian-president-elect-luiz-inacio-lula-da-silva-says-he-will-end-illegal-amazon-deforestation-11672336459)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-29 18:14:00+00:00
+
+Luiz Inácio Lula da Silva will face challenges, however, including those rooted in his commitments to expand social spending.
 
 ## The Bravery and the Recklessness of Ukraine's Improvised Army
  - [https://www.wsj.com/articles/ukraine-military-kharkiv-russia-war-landmines-11672326884](https://www.wsj.com/articles/ukraine-military-kharkiv-russia-war-landmines-11672326884)
@@ -48,3 +83,4 @@ South Korean President Yoon Suk-yeol berated his defense minister over the milit
  - date published: 2022-12-29 10:32:00+00:00
 
 With an energy crisis hitting Europe, governments are exploring ways to recycle electricity used on social-media scrolling, conference calls and video streaming to help heat homes and offices.
+

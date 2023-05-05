@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Manchester City 3-2 Liverpool: EFL Cup fourth-round tie was 'spectacular', says Jurgen Klopp
  - [https://www.bbc.co.uk/sport/football/64072419?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64072419?at_medium=RSS&at_campaign=KARANGA)
@@ -14,6 +14,13 @@ Pep Guardiola and Jurgen Klopp both heap praise on Thursday's "spectacular" EFL 
 
 The White House says North Korea provided missiles and rockets to be used in Ukraine, which Pyongyang denies.
 
+## No tree or gifts for thousands in this US city
+ - [https://www.bbc.co.uk/news/world-us-canada-64072601?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64072601?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-22 23:45:33+00:00
+
+Migrants arriving in El Paso will spend their first Christmas away from home. Many left loved ones behind.
+
 ## Molnupiravir Covid antiviral treatment hastens recovery - trial
  - [https://www.bbc.co.uk/news/health-64070392?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-64070392?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -27,6 +34,20 @@ But molnupiravir showed no obvious benefit at reducing hospital cases and deaths
  - date published: 2022-12-22 23:29:14+00:00
 
 Headlines include clashes over Scotland's gender law and advice to avoid nan if you have flu.
+
+## The turbulent political year in 90 seconds
+ - [https://www.bbc.co.uk/news/uk-politics-64070731?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-64070731?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-22 23:25:41+00:00
+
+A bumpy year in UK politics has seen partygate, three prime ministers and a lot of strikes.
+
+## Why we spent £10k on Christmas decorations
+ - [https://www.bbc.co.uk/news/uk-england-derbyshire-63978862?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-63978862?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-22 23:24:44+00:00
+
+Mark Peacock needs a double lung transplant but that has not stopped him creating a winter wonderland.
 
 ## Far-right groups had racism rift before Capitol riot
  - [https://www.bbc.co.uk/news/world-us-canada-64071724?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64071724?at_medium=RSS&at_campaign=KARANGA)
@@ -104,6 +125,13 @@ TMS statistician Andy Zaltzman assesses the numbers behind England's incredible 
  - date published: 2022-12-22 19:31:49+00:00
 
 Prosecutors have accused Sam Bankman-Fried of "one of the biggest financial frauds in US history".
+
+## He Huang: How a comedian divided Chinese social media
+ - [https://www.bbc.co.uk/news/world-australia-63953451?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63953451?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-22 19:02:27+00:00
+
+Chinese comedian He Huang went viral with a performance in Sydney, prompting a heated response.
 
 ## Are teachers in the top 10% of earners in some areas?
  - [https://www.bbc.co.uk/news/64064200?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/64064200?at_medium=RSS&at_campaign=KARANGA)
@@ -489,3 +517,4 @@ The Claudia Winkleman-fronted TV series has built a fiercely devoted following i
  - date published: 2022-12-22 00:00:17+00:00
 
 Charities say families seeking support over the holding period face a postcode lottery.
+

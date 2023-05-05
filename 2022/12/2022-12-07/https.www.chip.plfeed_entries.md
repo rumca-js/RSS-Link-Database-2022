@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Superkomputer połączony z komputerem kwantowym. Czego możemy się spodziewać?
  - [https://www.chip.pl/2022/12/superkomputer-komputer-kwantowy-lumi-helmi](https://www.chip.pl/2022/12/superkomputer-komputer-kwantowy-lumi-helmi)
@@ -143,3 +143,4 @@
 
 <img alt="Broń laserowa Chin, LW-30" class="attachment-full size-full wp-post-image" height="1152" src="https://konto.chip.pl/wp-content/uploads/2022/12/Bron-laserowa-Chin.-Poznalismy-szczegoly-LW-30-zwalczajacego-cele-z-predkoscia-swiatla.jpg" style="margin-bottom: 10px;" width="1920" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Bron-laserowa-Chin.-Poznalismy-szczegoly-LW-30-zwalczajacego-cele-z-predkoscia-swiatla.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Wojsko, które opanuje wysokowydajne lasery i wyposaży w nie swoje samoloty, okręty, czołgi i nawet oddziały piechoty, będzie miało ogromną przewagę nad wrogami. Mowa przecież o panowaniu nad bronią mogącą zwalczać całą masę celów z prędkością światła. Państwo Środka doskonale wie, jak wielka stawka jest na szali i przejawem tej wiedzy jest nowa broń laserowa [&#8230;]</p>
+

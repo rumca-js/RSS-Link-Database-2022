@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Where are Samsung phones designed and made? The answer might surprise you
  - [https://www.androidauthority.com/where-are-samsung-phones-made-3251712/](https://www.androidauthority.com/where-are-samsung-phones-made-3251712/)
@@ -90,3 +90,4 @@ A true tale of technology and teamwork.
  - date published: 2022-12-15 05:00:12+00:00
 
 A stylish and surprisingly practical alternative to a smartwatch and fitness band.
+

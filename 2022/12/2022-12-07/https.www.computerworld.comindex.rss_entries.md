@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Apple finally adds encryption to iCloud backups
  - [https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all](https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all)
@@ -64,3 +64,4 @@
 <article>
 	<section class="page">
 <p>They may be part and parcel of everyday business, but with hundreds of business-oriented laptops to choose from — everything from sleek ultralight tablets to huge portable workstations — picking the right ones to outfit your company’s workforce can make finding a needle in a haystack seem easy. We’re here to help with a buyer’s guide that breaks the options into categories and provides details, price estimates, and pros and cons of each.</p><p>Let’s begin with the basics. Business laptops are not meant for gaming, movies, or idle web surfing — unless that’s your business. First and foremost, these systems are serious tools to help people do their jobs. They focus on reliability and durability, with models available for several years to accommodate long enterprise deployments; many vendors promise to stock replacement parts for five years.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/2524405/buyers-guide-to-business-laptops.html#jump">To read this article in full, please click here</a></p></section></article>
+

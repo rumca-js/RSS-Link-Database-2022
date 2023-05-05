@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Trump calls for the termination of the US Constitution in Truth Social post
  - [https://www.cnn.com/2022/12/03/politics/trump-constitution-truth-social/index.html](https://www.cnn.com/2022/12/03/politics/trump-constitution-truth-social/index.html)
@@ -287,3 +287,4 @@ An Illinois eighth grader describes making a nearly full-court shot with just th
  - date published: 2022-12-03 01:14:03+00:00
 
 The World Cup has hardly been straightforward for Lionel Messi and Argentina thus far, but they are strong favorites ahead of their round of 16 game against Australia.
+

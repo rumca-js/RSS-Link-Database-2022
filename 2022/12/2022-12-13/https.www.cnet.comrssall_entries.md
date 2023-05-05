@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## How Netflix Hit 'Wednesday' Brought a Disembodied Hand to Life     - CNET
  - [https://www.cnet.com/culture/entertainment/how-netflix-hit-wednesday-brought-a-disembodied-hand-to-life/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/how-netflix-hit-wednesday-brought-a-disembodied-hand-to-life/#ftag=CADf328eec)
@@ -669,6 +669,6 @@ Here's your guide to what festive movies (and a couple of shows) to watch on str
  - [https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec](https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-13 00:15:03+00:00
- - tags: facebook,privacy
 
 You don't have to let Facebook track you across the web. We'll show you how to prevent it.
+

@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## US moving to increase military presence in Australia as China continues to flex influence in Indo-Pacific
  - [https://www.foxnews.com/world/us-moving-increase-military-presence-australia-as-china-continues-flex-influence-indo-pacific](https://www.foxnews.com/world/us-moving-increase-military-presence-australia-as-china-continues-flex-influence-indo-pacific)
@@ -1231,3 +1231,4 @@ Nearly 20 years after suffering from an eating disorder, 35-year-old Hilary Duff
  - date published: 2022-12-07 00:00:12+00:00
 
 On his podcast, Bill Maher dismissed young environmentalists, telling them that despite their complaints about older generations they drive cars "as much as we did."
+

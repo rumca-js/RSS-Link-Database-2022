@@ -1,4 +1,4 @@
-# Source Reuters - All, Source URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, Source language: en-US
+# Source:Reuters - All, URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, language:en-US
 
 ## Reuters reveals India’s Snapdeal to shelve $152 million IPO amid tech stocks rout
  - [https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-indias-snapdeal-to-shelve-152-million-ipo-amid-tech-stocks-rout/](https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-indias-snapdeal-to-shelve-152-million-ipo-amid-tech-stocks-rout/)
@@ -31,3 +31,4 @@
 
 <p>Reuters exclusively revealed that the Biden administration was to impose sanctions on prominent Turkish businessman Sitki Ayan and his network [&#8230;]</p>
 <p>The post <a href="https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-u-s-puts-sanctions-on-turkish-businessman-citing-links-to-irans-quds-force/" rel="nofollow">Reuters reveals U.S. puts sanctions on Turkish businessman, citing links to Iran&#8217;s Quds Force</a> appeared first on <a href="https://www.reutersagency.com/en/" rel="nofollow">Reuters News Agency</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Java 20: A Sneak Peek on the Panama FFM API
  - [http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
@@ -622,7 +622,6 @@ It seems IPv6 is still not viable, more than a decade after launch. Do you use i
  - [https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc](https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-07 04:28:12+00:00
- - tags: cbdc
 
 <p>Article URL: <a href="https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc">https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33890625">https://news.ycombinator.com/item?id=33890625</a></p>
@@ -718,3 +717,4 @@ It seems IPv6 is still not viable, more than a decade after launch. Do you use i
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33888981">https://news.ycombinator.com/item?id=33888981</a></p>
 <p>Points: 30</p>
 <p># Comments: 23</p>
+

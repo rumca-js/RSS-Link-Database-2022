@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## AT&T Long Lines – A Forgotten System (2018)
  - [http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
@@ -358,7 +358,6 @@
  - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:57:28+00:00
- - tags: meta,facebook privacy,gdpr
 
 <p>Article URL: <a href="https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/">https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921861">https://news.ycombinator.com/item?id=33921861</a></p>
@@ -729,9 +728,9 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://twitter.com/bariweiss/status/1601007575633305600](https://twitter.com/bariweiss/status/1601007575633305600)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 00:16:35+00:00
- - tags: twitter,twitter files
 
 <p>Article URL: <a href="https://twitter.com/bariweiss/status/1601007575633305600">https://twitter.com/bariweiss/status/1601007575633305600</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33915734">https://news.ycombinator.com/item?id=33915734</a></p>
 <p>Points: 83</p>
 <p># Comments: 66</p>
+

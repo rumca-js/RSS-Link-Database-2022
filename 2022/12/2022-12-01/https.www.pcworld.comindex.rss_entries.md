@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Intel Evo NFTs are the latest thing no one wants
  - [https://www.pcworld.com/article/1421785/intel-evo-nfts-are-the-latest-thing-no-one-wants.html](https://www.pcworld.com/article/1421785/intel-evo-nfts-are-the-latest-thing-no-one-wants.html)
@@ -1168,3 +1168,4 @@ Monitors</div>
 
 <p><em>Prices subject to change.</em></p>
 VPN</div>
+

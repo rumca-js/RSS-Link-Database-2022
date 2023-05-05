@@ -1,4 +1,4 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
 
 ## The Quest 2 Just Got MORE POWERFUL with a FREE UPGRADE!
  - [https://www.youtube.com/watch?v=SmVo3FZ9OWI](https://www.youtube.com/watch?v=SmVo3FZ9OWI)
@@ -17,3 +17,4 @@ https://www.patreon.com/Thrillseeker
 
 Link to Meme Break: 
 https://twitter.com/Digital_VRC/status/1606063636404875264?s=20&amp;t=21hK2rq7f0tJyc4jHQyl2Q
+

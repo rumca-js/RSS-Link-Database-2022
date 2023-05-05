@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Survive Your Toxic Family Over the Holidays
  - [https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911](https://lifehacker.com/how-to-survive-your-toxic-family-over-the-holidays-1849924911)
@@ -125,3 +125,4 @@
  - date published: 2022-12-22 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--79pU1oBi--/c_fit,fl_progressive,q_80,w_636/2a763fb8bb7e3b43ffd6c9ad2aab1c62.jpg" /><p>If you’re going home for the holidays with your partner, you might think that your sex life has to be put on pause. After all, you’ll probably be crammed in a guest room—or your childhood bedroom—right next to your parents’ room and, well, sex can be loud for all sorts of reasons. But what if your sex life doesn’t…</p><p><a href="https://lifehacker.com/a-guide-to-having-quiet-sneaky-sex-when-youre-home-for-1849917772">Read more...</a></p>
+

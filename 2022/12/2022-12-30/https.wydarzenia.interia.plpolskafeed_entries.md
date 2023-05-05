@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## 10-letniego chłopca wydobyto z rzeki. Nieznany los matki
  - [https://wydarzenia.interia.pl/lubelskie/news-10-letniego-chlopca-wydobyto-z-rzeki-nieznany-los-matki,nId,6504739](https://wydarzenia.interia.pl/lubelskie/news-10-letniego-chlopca-wydobyto-z-rzeki-nieznany-los-matki,nId,6504739)
@@ -13,3 +13,4 @@
  - date published: 2022-12-30 08:07:25+00:00
 
 <p><a href="https://wydarzenia.interia.pl/news-nowe-zasady-tak-bedzie-wygladala-kwalifikacja-wojskowa-w-202,nId,6502088"><img align="left" alt="Nowe zasady. Tak będzie wyglądała kwalifikacja wojskowa w 2023 roku" src="https://i.iplsc.com/nowe-zasady-tak-bedzie-wygladala-kwalifikacja-wojskowa-w-202/000EA2YY2U3WAQV8-C321.jpg" /></a>Kwalifikację wojskową przeprowadza się co roku, aby w ewidencji państwowej widniała aktualna liczba osób, które są gotowe w razie zagrożenia zasilić polską armię i strzec granic państwowych. Sprawdź, jakie są zasady przeprowadzania komisji wojskowej w 2023 roku, od kiedy będzie ona trwała i kogo obejmie. Na czym polega kwalifikacja wojskowa?</p><br clear="all" />
+

@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Verdict reached for rapper accused of shooting Megan Thee Stallion
  - [https://abcnews.go.com/US/verdict-reached-trial-rapper-tory-lanez-charged-shooting/story?id=95723751](https://abcnews.go.com/US/verdict-reached-trial-rapper-tory-lanez-charged-shooting/story?id=95723751)
@@ -70,12 +70,26 @@ On Thursday, the U.S. hit officially more than 100 million COVID-19 cases, but e
 
 An underground fire has been raging at an environmental landfill near Birmingham for almost a month, covering Alabama&rsquo;s largest metro area with smoke
 
+## Question raised in multibillion-dollar lawsuit over Elon Musk Tesla tweet
+ - [https://abcnews.go.com/US/question-raised-multibillion-dollar-lawsuit-elon-musk-tesla/story?id=95752068](https://abcnews.go.com/US/question-raised-multibillion-dollar-lawsuit-elon-musk-tesla/story?id=95752068)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-23 17:57:02+00:00
+
+A judge in a lawsuit over a tweet Elon Musk sent in 2018 about Tesla has asked for an explanation about a calculation.
+
 ## Patients sue hospital after being allegedly sexually assaulted by nurse
  - [https://abcnews.go.com/US/patients-sue-hospital-after-allegedly-sexually-assaulted-nurse/story?id=95718396](https://abcnews.go.com/US/patients-sue-hospital-after-allegedly-sexually-assaulted-nurse/story?id=95718396)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-23 17:43:38+00:00
 
 Two women who say they were sexually assaulted by a nurse are suing his former employer for negligence, claiming the hospital should have known about the misconduct.
+
+## Will FTX traders get their money back? Bankruptcy experts weigh in
+ - [https://abcnews.go.com/Business/ftx-traders-money-back-bankruptcy-experts-weigh/story?id=95727711](https://abcnews.go.com/Business/ftx-traders-money-back-bankruptcy-experts-weigh/story?id=95727711)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-23 17:43:01+00:00
+
+Creditors in FTX's multibillion dollar bankruptcy could number more than a million.
 
 ## Congress inches closer to passing $1.7T spending bill as House prepares to vote
  - [https://abcnews.go.com/Politics/congress-inches-closer-passing-17t-spending-bill-house/story?id=95747819](https://abcnews.go.com/Politics/congress-inches-closer-passing-17t-spending-bill-house/story?id=95747819)
@@ -230,3 +244,4 @@ What is the real impact of Title 42 and how could it contribute to record border
  - date published: 2022-12-23 00:17:33+00:00
 
 An artist in Buenos Aires created a larger-than-life mural of Lionel Messi and the Argentinian soccer team celebrating their World Cup victory.
+

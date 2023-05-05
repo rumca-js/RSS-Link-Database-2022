@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Jakie mogą być skutki długu publicznego?
  - [https://businessinsider.com.pl/finanse/makroekonomia/dlug-publiczny-czym-jest-jakie-niesie-za-soba-skutki/e5med25](https://businessinsider.com.pl/finanse/makroekonomia/dlug-publiczny-czym-jest-jakie-niesie-za-soba-skutki/e5med25)
@@ -552,3 +552,4 @@ Jakie inwestycje przyniósł mijający rok? To przede wszystkim domykanie i inic
  - date published: 2022-12-29 04:58:00+00:00
 
 Zdolność kredytowa Polaków przestała znikać. Wręcz odwrotnie. Planujący wzięcie kredytu w banku mogą dziś liczyć na wyższą kwotę niż jeszcze na początku listopada. W zależności od dochodów różnice mogą sięgać nawet 40 tys. zł.
+

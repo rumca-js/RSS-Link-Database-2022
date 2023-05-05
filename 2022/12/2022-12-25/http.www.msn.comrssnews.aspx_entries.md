@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Colorado man kills wife and himself at temple on Christmas morning: Police
  - [http://www.msn.com/en-us/news/crime/colorado-man-kills-wife-and-himself-at-temple-on-christmas-morning-police/ar-AA15ENxx?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/colorado-man-kills-wife-and-himself-at-temple-on-christmas-morning-police/ar-AA15ENxx?li=BBnbcA1&srcref=rss)
@@ -900,5 +900,6 @@
  - [http://www.msn.com/en-us/news/technology/three-legged-deer-caught-in-christmas-lights-gets-help-from-human-heroes/ar-AA15xd6e?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/three-legged-deer-caught-in-christmas-lights-gets-help-from-human-heroes/ar-AA15xd6e?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-25 00:02:25.047168+00:00
+
 
 

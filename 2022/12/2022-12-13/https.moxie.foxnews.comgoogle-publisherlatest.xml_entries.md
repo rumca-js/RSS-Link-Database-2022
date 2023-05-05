@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## No suspension for Broncos' Jerry Jeudy for yelling, making contact with referee: report
  - [https://www.foxnews.com/sports/no-suspension-broncos-jerry-jeudy-yelling-making-contact-referee](https://www.foxnews.com/sports/no-suspension-broncos-jerry-jeudy-yelling-making-contact-referee)
@@ -1224,3 +1224,4 @@ The University of Texas announced they have suspended men's basketball head coac
  - date published: 2022-12-13 00:12:29+00:00
 
 Chicago police arrested a man on Saturday who stabbed an officer after a failed stun gun deployment, before getting shot by another officer on the scene.
+

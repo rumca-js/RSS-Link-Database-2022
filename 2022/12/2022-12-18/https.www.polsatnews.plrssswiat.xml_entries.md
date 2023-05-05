@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. Policja szuka 11-latki. Matka nie zgłosiła zaginięcia
  - [https://www.polsatnews.pl/wiadomosc/2022-12-18/usa-policja-szuka-11-latki-matka-nie-zglosila-zaginiecia/](https://www.polsatnews.pl/wiadomosc/2022-12-18/usa-policja-szuka-11-latki-matka-nie-zglosila-zaginiecia/)
@@ -69,3 +69,4 @@ Korea Północna wystrzeliła w niedzielę dwie kierowane rakiety, które przele
  - date published: 2022-12-18 05:38:00+00:00
 
 Po ostatnich zmasowanych atakach na ukraińskie miasta prezydent Wołodymyr Zełenski zaapelował do zachodnich przywódców o systemy obrony przeciwlotniczej dla broniącego się przed rosyjską agresją kraju. Kluczowe decyzje wciąż czekają na zatwierdzenie i implementację - powiedział w wieczornym wystąpieniu wideo w sobotę ukraiński lider.
+

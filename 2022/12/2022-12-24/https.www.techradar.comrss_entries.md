@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Google's Pixel phone plans for 2023 and beyond have leaked
  - [https://www.techradar.com/news/googles-pixel-phone-plans-for-2023-and-beyond-have-leaked](https://www.techradar.com/news/googles-pixel-phone-plans-for-2023-and-beyond-have-leaked)
@@ -20,3 +20,4 @@ As we look into 2023, there's a bunch of features that would benefit a lot of iO
  - date published: 2022-12-24 01:00:55+00:00
 
 Want the best Santa Tracker and to play some fun games through Norad or Google? We're live-blogging it for you
+

@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## UFO, któremu prawa fizyki się niestraszne. Marynarka wojenna podzieliła się nagraniami
  - [https://www.chip.pl/2022/12/ufo-nagranie-marynarka-wojenna-usa-wideo](https://www.chip.pl/2022/12/ufo-nagranie-marynarka-wojenna-usa-wideo)
@@ -111,3 +111,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1080" src="https://konto.chip.pl/wp-content/uploads/2022/12/delfin.jpg" style="margin-bottom: 10px;" width="1620" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/delfin.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Naukowcy z kilku szkockich instytucji badawczych twierdzą, że wykryli u kilku gatunków zwierząt markery potencjalnie związane z chorobą Alzheimera. Badania dotyczyły delfinów butlonosych, grindwali długopłetwych oraz delfinowców białonosych. O tym, czego dowiedzieli się autorzy, możemy przeczytać na łamach European Journal of Neuroscience. Przede wszystkim mowa o zwyrodnieniowych zmianach w mózgu wskazujących na objawy podobne do [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## Key questions as US arrests man accused of Lockerbie bombing
  - [https://news.sky.com/story/key-questions-as-us-arrests-man-accused-of-lockerbie-bombing-12766388](https://news.sky.com/story/key-questions-as-us-arrests-man-accused-of-lockerbie-bombing-12766388)
@@ -41,3 +41,4 @@ On a despondent morning for England players, Jude Bellingham had a final message
  - date published: 2022-12-11 09:34:00+00:00
 
 The backrooms at the local communist party headquarters near Belgorod airport are stacked high with supplies.
+

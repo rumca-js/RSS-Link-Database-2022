@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Blasts Hit Russian Air Bases, Moscow Launches Missile Barrage on Ukraine
  - [https://www.wsj.com/articles/explosions-hit-russian-air-bases-as-more-missiles-strike-ukrainian-infrastructure-11670237453](https://www.wsj.com/articles/explosions-hit-russian-air-bases-as-more-missiles-strike-ukrainian-infrastructure-11670237453)
@@ -62,3 +62,4 @@ The IAEA has been asked to detail how much its observers at the occupied Zaporiz
  - date published: 2022-12-05 10:02:00+00:00
 
 In contrast to the U.S., retail sales in Europe fell sharply as consumers were hit by significantly higher heating and electricity bills.
+

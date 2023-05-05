@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Reporter's Notebook: Is loosening restrictions on Venezuelan oil the right decision?
  - [http://www.msn.com/en-us/news/politics/reporter-s-notebook-is-loosening-restrictions-on-venezuelan-oil-the-right-decision/ar-AA14S2lN?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/reporter-s-notebook-is-loosening-restrictions-on-venezuelan-oil-the-right-decision/ar-AA14S2lN?li=BBnbcA1&srcref=rss)
@@ -1334,5 +1334,6 @@
  - [http://www.msn.com/en-us/news/politics/desantis-silent-on-trump-s-dinner-with-white-nationalist-fuentes-ye/ar-AA14Qvtj?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/desantis-silent-on-trump-s-dinner-with-white-nationalist-fuentes-ye/ar-AA14Qvtj?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-03 00:23:04.573162+00:00
+
 
 

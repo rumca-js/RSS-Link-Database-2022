@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Idaho murders: Police should have released Hyundai information 'immediately,' former Det. Ted Williams says
  - [https://www.foxnews.com/us/idaho-murders-police-should-released-hyundai-information-immediately-former-det-ted-williams-says](https://www.foxnews.com/us/idaho-murders-police-should-released-hyundai-information-immediately-former-det-ted-williams-says)
@@ -1056,3 +1056,4 @@ A Border Patrol facility in El Paso, Texas, was overwhelmed with an influx of mi
  - date published: 2022-12-19 00:11:30+00:00
 
 Substack writer Matt Taibbi revealed FBI agents pressuring Twitter employees for more answers on "foreign influence" using mainstream media articles as sources.
+

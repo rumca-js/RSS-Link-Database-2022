@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Google announces its favorite Chrome extensions of the year
  - [https://www.androidauthority.com/google-chrome-extensions-3251129/](https://www.androidauthority.com/google-chrome-extensions-3251129/)
@@ -69,3 +69,4 @@ Google first brought a display resolution toggle to the Pixel 7 Pro, and it's no
  - date published: 2022-12-14 05:51:41+00:00
 
 There's still no word on a timeline for these phones to actually get updated, though.
+

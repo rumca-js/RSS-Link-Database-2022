@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## IOC delays picking 2030 Winter Games host city due to climate concerns
  - [https://www.nbcnews.com/now/video/ioc-delays-picking-2030-winter-games-host-city-due-to-climate-concerns-157798469924](https://www.nbcnews.com/now/video/ioc-delays-picking-2030-winter-games-host-city-due-to-climate-concerns-157798469924)
@@ -62,3 +62,4 @@ Soccer fans were seen hurling fireworks toward riot police in the streets of Nic
  - date published: 2022-12-15 08:33:06+00:00
 
 Prince Harry and his wife, Meghan, were expected to level stinging new criticisms at the British royal family in the second installment of their Netflix series.
+

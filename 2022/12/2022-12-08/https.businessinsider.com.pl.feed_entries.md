@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Kryzys energetyczny. Brytyjczycy dostaną dodatek za mróz
  - [https://businessinsider.com.pl/gospodarka/kryzys-energetyczny-brytyjczycy-dostana-dodatek-za-mroz/czlwevq](https://businessinsider.com.pl/gospodarka/kryzys-energetyczny-brytyjczycy-dostana-dodatek-za-mroz/czlwevq)
@@ -279,3 +279,4 @@ W tym roku sezon przedświąteczny będzie dla kurierów najgorszy od lat. Powod
  - date published: 2022-12-08 10:07:02+00:00
 
 Eurodeputowany Patryk Jaki w programie Sedno Sprawy w Radiu Plus nazwał premiera Mateusza Morawieckiego i jego otoczenie "frakcją bankową w PiS", która "nie rozumie unijnej polityki". Stwierdził też, że obecny szef rządu to dla Solidarnej Polski "mniejsze zło".
+

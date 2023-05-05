@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## At least 3 dead and multiple injured as tornadoes wreak havoc across US
  - [https://www.cnn.com/2022/12/14/us/nationwide-massive-storm-tornadoes-wednesday/index.html](https://www.cnn.com/2022/12/14/us/nationwide-massive-storm-tornadoes-wednesday/index.html)
@@ -546,3 +546,4 @@ After the first round of games at the World Cup, an all too familiar script look
  - date published: 2022-12-14 00:55:27+00:00
 
 Jay Leno has opened up for the first time about the accident that left him with severe burns to his face and body.
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## House of the Dragon's Olivia Cook on Her Most Difficult Scene So Far
  - [https://gizmodo.com/house-of-the-dragon-game-of-thrones-alicent-hightower-1849912673](https://gizmodo.com/house-of-the-dragon-game-of-thrones-alicent-hightower-1849912673)
@@ -258,3 +258,4 @@
  - date published: 2022-12-19 12:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--QLyTx-bK--/c_fit,fl_progressive,q_80,w_636/f0ed3c06e1aad9445a677653822b1530.png" /><p>Last week, we got a staggering <a href="https://gizmodo.com/dyson-air-purifying-headphones-filter-price-release-dat-1849831922">price reveal</a> for Dyson’s first-ever audio product, the Zone. The combination headphones-air-purifier will already cost you your privacy, as folks are bound to shoot stares at you from across the train or plane while you’ve got it on. But it’ll also run you $950—at least. </p><p><a href="https://gizmodo.com/dyson-zone-air-purifying-headphones-hands-on-preview-1849905776">Read more...</a></p>
+

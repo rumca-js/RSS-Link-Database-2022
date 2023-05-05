@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Vice Society Ransomware Attackers Targeted Dozens of Schools in 2022
  - [https://thehackernews.com/2022/12/vice-society-ransomware-attackers.html](https://thehackernews.com/2022/12/vice-society-ransomware-attackers.html)
@@ -47,3 +47,4 @@ Microsoft's Security Threat Intelligence Center (MSTIC) is tracking the activity
 
 A novel Go-based botnet called Zerobot has been observed in the wild proliferating by taking advantage of nearly two dozen security vulnerabilities in the internet of things (IoT) devices and other software.
 The botnet "contains several modules, including self-replication, attacks for different protocols, and self-propagation," Fortinet FortiGuard Labs researcher Cara Lin said. "It also
+

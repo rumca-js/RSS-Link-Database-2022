@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
+# Source:Money PL, URL:https://www.money.pl/rss/, language:pl-PL
 
 ## Oszczędzanie na emeryturę. Czy i pod jakimi warunkami konta emerytalne się opłacają?
  - [https://www.money.pl/emerytury/oszczedzanie-na-emeryture-czy-i-pod-jakimi-warunkami-konta-emerytalne-sie-oplacaja-6840280926087744a.html](https://www.money.pl/emerytury/oszczedzanie-na-emeryture-czy-i-pod-jakimi-warunkami-konta-emerytalne-sie-oplacaja-6840280926087744a.html)
@@ -167,3 +167,4 @@
  - date published: 2022-12-02 04:53:39+00:00
 
 <img src="https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/537a74ee-430f-4812-8f2f-e8d2b2157ee8" width="308" /> Za kilka dni UE uruchamia embargo na rosyjski surowiec przewożony drogą morską. Z początkiem grudnia Turcja wprowadza dodatkowe wymagania dla tankowców, które przewożą ropę przez cieśninę Bosfor. Własne embargo i zakaz świadczenia usług transportu rosyjskiej ropy włącza Wielka Brytania, a z inicjatywy G7 na "moskiewskie czarne złoto" nałożone będzie ograniczenie cenowe. - Rosja będzie skazana na "flotę duchów" - mówi Przemysław Zaleski, ekspert Politechniki Wrocławskiej.
+

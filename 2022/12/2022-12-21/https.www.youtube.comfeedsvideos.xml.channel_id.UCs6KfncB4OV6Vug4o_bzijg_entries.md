@@ -1,4 +1,4 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
+# Source:Techlore, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, language:en-US
 
 ## The VPN You Use Probably Sucks - Here's Why.
  - [https://www.youtube.com/watch?v=u-uj_dLXu5s](https://www.youtube.com/watch?v=u-uj_dLXu5s)
@@ -45,3 +45,4 @@ Support our mission to spread privacy to the masses:
 06:02 So What DO Vpns Do?
 06:32 How Can You Pick a Good VPN?
 #VPN #privacy #techlore
+

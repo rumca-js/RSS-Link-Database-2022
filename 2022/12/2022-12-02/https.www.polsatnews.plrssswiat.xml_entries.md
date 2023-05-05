@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Lwiątka z Ukrainy dotarły do azylu w USA
  - [https://www.polsatnews.pl/wiadomosc/2022-12-02/lwiatka-z-ukrainy-dotarly-do-azylu-w-usa/](https://www.polsatnews.pl/wiadomosc/2022-12-02/lwiatka-z-ukrainy-dotarly-do-azylu-w-usa/)
@@ -90,3 +90,4 @@ Pracownik firmy zajmującej się zielenią miejską w Owensboro w stanie Kentuck
  - date published: 2022-12-02 08:53:00+00:00
 
 200 kg złota padło łupem złodziei, który uprowadzili przewożącą surowiec furgonetkę, wcześniej obezwładniając żołnierzy - informuje o wydarzeniach w Korei Północnej amerykańska rozgłośnia Radio Wolna Azja (RFA), powołując się na swoje źródła w kraju.
+

@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## One of NASA's First Webb Telescope Images Gets Its Long-Awaited Lore     - CNET
  - [https://www.cnet.com/science/space/one-of-nasas-first-webb-telescope-images-gets-its-long-awaited-lore/#ftag=CADf328eec](https://www.cnet.com/science/space/one-of-nasas-first-webb-telescope-images-gets-its-long-awaited-lore/#ftag=CADf328eec)
@@ -762,3 +762,4 @@ The latest report from the International Energy Agency says the growth of renewa
  - date published: 2022-12-08 00:01:02+00:00
 
 The headphones feature active noise canceling and a face mask that's designed to filter out harmful airborne toxins.
+

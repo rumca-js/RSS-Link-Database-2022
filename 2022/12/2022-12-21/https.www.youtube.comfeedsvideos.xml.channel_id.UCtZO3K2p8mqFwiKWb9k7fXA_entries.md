@@ -1,4 +1,4 @@
-# Source Techaltar, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA, Source language: en-US
+# Source:Techaltar, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA, language:en-US
 
 ## Goodbye, Kindle. The next era of E-ink is coming.
  - [https://www.youtube.com/watch?v=8Xr9X6cbQ68](https://www.youtube.com/watch?v=8Xr9X6cbQ68)
@@ -36,3 +36,4 @@ https://discord.gg/npKQebe
 
 Channel Music by Edemski: https://soundcloud.com/edemski
 Other music by Epidemic Sound: http://epidemicsound.com/creator
+

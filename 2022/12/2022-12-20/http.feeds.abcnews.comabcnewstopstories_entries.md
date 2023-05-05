@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Worker killed after ammonia leak at Massachusetts food plant
  - [https://abcnews.go.com/US/worker-killed-after-ammonia-leak-massachusetts-food-plant/story?id=95615223](https://abcnews.go.com/US/worker-killed-after-ammonia-leak-massachusetts-food-plant/story?id=95615223)
@@ -272,3 +272,4 @@ Three suicides by sailors assigned to a U.S. Navy aircraft carrier were not conn
  - date published: 2022-12-20 02:14:58+00:00
 
 The holiday travel season this year is expected to rival the busiest seasons before the coronavirus pandemic at Florida&rsquo;s two most bustling airports
+

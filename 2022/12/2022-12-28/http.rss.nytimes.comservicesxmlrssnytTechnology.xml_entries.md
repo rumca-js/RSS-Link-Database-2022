@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## As Covid-19 Continues to Spread, So Does Misinformation About It
  - [https://www.nytimes.com/2022/12/28/technology/covid-misinformation-online.html](https://www.nytimes.com/2022/12/28/technology/covid-misinformation-online.html)
@@ -20,3 +20,4 @@ The tech giant has so far taken steps to streamline without mass layoffs, but em
  - date published: 2022-12-28 10:00:04+00:00
 
 Operating in shadows, he was a hero; in the light, he quickly became a villain.
+

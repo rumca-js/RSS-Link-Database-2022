@@ -1,10 +1,9 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## CDC and Census Bureau had direct access to Twitter portal where they could flag speech for censorship
  - [https://reclaimthenet.org/cdc-census-bureau-twitter-portal-censorship/](https://reclaimthenet.org/cdc-census-bureau-twitter-portal-censorship/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-07 20:06:43+00:00
- - tags: censorship,cdc,twitter
 
 <a href="https://reclaimthenet.org/cdc-census-bureau-twitter-portal-censorship/" rel="nofollow" title="CDC and Census Bureau had direct access to Twitter portal where they could flag speech for censorship"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/cdc-census-bureau-twitter-portal-censorship.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>More Big Tech-Big Government censorship collusion.</p>
 <p>The post <a href="https://reclaimthenet.org/cdc-census-bureau-twitter-portal-censorship/" rel="nofollow">CDC and Census Bureau had direct access to Twitter portal where they could flag speech for censorship</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -45,7 +44,6 @@
  - [https://reclaimthenet.org/wef-digital-id-metaverse/](https://reclaimthenet.org/wef-digital-id-metaverse/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-07 16:43:32+00:00
- - tags: wef,digital identity,metaverse
 
 <a href="https://reclaimthenet.org/wef-digital-id-metaverse/" rel="nofollow" title="WEF thinks of ways to regulate digital ID in the metaverse"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/wef-fing.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Already thinking about ways to control future technology.</p>
 <p>The post <a href="https://reclaimthenet.org/wef-digital-id-metaverse/" rel="nofollow">WEF thinks of ways to regulate digital ID in the metaverse</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -54,7 +52,6 @@
  - [https://reclaimthenet.org/fauci-deposition/](https://reclaimthenet.org/fauci-deposition/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-07 14:56:01+00:00
- - tags: covid,fauci,censorship
 
 <a href="https://reclaimthenet.org/fauci-deposition/" rel="nofollow" title="Fauci deposition: Fauci says no one from his office pushed for social media censorship. Documents show they did."><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/fauci-depo.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Key details from the deposition.</p>
 <p>The post <a href="https://reclaimthenet.org/fauci-deposition/" rel="nofollow">Fauci deposition: Fauci says no one from his office pushed for social media censorship. Documents show they did.</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -66,3 +63,4 @@
 
 <a href="https://reclaimthenet.org/musk-fires-twitter-lawyer-jim-baker/" rel="nofollow" title="Musk fires Twitter lawyer Jim Baker, former FBI lawyer involved in censoring Hunter Biden laptop story (and the Trump-Russia investigation)"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/jim-baker.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Baker was fired on Tuesday, when it was found he was involved in vetting which information gets released to the public.</p>
 <p>The post <a href="https://reclaimthenet.org/musk-fires-twitter-lawyer-jim-baker/" rel="nofollow">Musk fires Twitter lawyer Jim Baker, former FBI lawyer involved in censoring Hunter Biden laptop story (and the Trump-Russia investigation)</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

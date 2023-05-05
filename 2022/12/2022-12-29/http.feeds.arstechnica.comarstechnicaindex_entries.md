@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Bees like to roll little wooden balls as a form of play, study finds
  - [https://arstechnica.com/?p=1906979](https://arstechnica.com/?p=1906979)
@@ -55,3 +55,4 @@ Eight EVs made the top 10 this year.
  - date published: 2022-12-29 11:45:30+00:00
 
 A dearth of big-budget blockbusters couldn't hold back the year in games.
+

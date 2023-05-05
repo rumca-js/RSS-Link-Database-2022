@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## BofA Warns of Looming Unemployment Shock, Recommends Selling Stock Rallies
  - [https://www.theepochtimes.com/bofa-warns-of-looming-unemployment-shock-recommends-selling-stock-rallies_4901001.html](https://www.theepochtimes.com/bofa-warns-of-looming-unemployment-shock-recommends-selling-stock-rallies_4901001.html)
@@ -167,3 +167,4 @@ A Royal Australian Air Force C-17 Globemaster aircraft prepares to land at Honia
  - date published: 2022-12-03 00:05:56+00:00
 
 Australian Prime Minister Anthony Albanese holds a press conference at Parliament House in Canberra, Australia, on Oct. 18, 2022. (Martin Ollman/Getty Images)
+

@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## New Westminster BC Police Baiting ‘Porch Pirates’ With Packages
  - [https://www.theepochtimes.com/new-westminster-bc-police-baiting-porch-pirates-with-packages_4922261.html](https://www.theepochtimes.com/new-westminster-bc-police-baiting-porch-pirates-with-packages_4922261.html)
@@ -378,3 +378,4 @@ Sam Bankman-Fried testifies during a hearing before the House Financial Services
  - date published: 2022-12-13 00:04:20+00:00
 
 In this photo taken by an individual not employed by the Associated Press and obtained by the AP outside Iran, Iranians protests the death of 22-year-old Mahsa Amini after she was detained by the morality police last month, in Tehran, Oct. 27, 2022. (The Canadian Press/Middle East Images)
+

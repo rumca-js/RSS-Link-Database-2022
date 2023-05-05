@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Voters Abandon Major Parties, Study Finds
  - [https://www.theepochtimes.com/voters-abandon-major-parties-study-finds_4903866.html](https://www.theepochtimes.com/voters-abandon-major-parties-study-finds_4903866.html)
@@ -111,3 +111,4 @@ Participant hold their laptops in front of an illuminated wall at the annual Cha
  - date published: 2022-12-04 00:08:35+00:00
 
 An aerial drone view of houses inundated by floodwater in Woodburn, Australia, on March 07, 2022. (Dan Peled/Getty Images)
+

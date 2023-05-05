@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Argentina celebrates World Cup victory
  - [https://www.nbcnews.com/video/argentina-celebrates-world-cup-victory-158114885778](https://www.nbcnews.com/video/argentina-celebrates-world-cup-victory-158114885778)
@@ -69,3 +69,4 @@ North Korea fired a pair of ballistic missiles on Sunday toward its eastern wate
  - date published: 2022-12-18 00:23:35+00:00
 
 Rescuers on Saturday found the bodies of a woman and two children, raising the death toll from a landslide on an unlicensed campground in Malaysia to 24.
+

@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## US student in France missing for 2 weeks
  - [https://www.cnn.com/videos/world/2022/12/12/kenny-deland-jr-missing-student-france-bell-pkg-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/12/12/kenny-deland-jr-missing-student-france-bell-pkg-lead-vpx.cnn)
@@ -496,3 +496,4 @@ President Joe Biden and Ukrainian President Volodymyr Zelensky spoke on Sunday t
  - date published: 2022-12-12 00:44:33+00:00
 
 Newly-appointed special counsel Jack Smith is moving fast on a pair of criminal probes around Donald Trump that in recent months have focused on the former president's state of mind after the 2020 election, including what he knew about plans to impede the transfer of power, people familiar with the matter tell CNN.
+

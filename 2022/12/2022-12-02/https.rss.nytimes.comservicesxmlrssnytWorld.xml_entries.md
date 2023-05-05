@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Hans Magnus Enzensberger, Leading Light in German Letters, Dies at 93
  - [https://www.nytimes.com/2022/12/02/world/europe/hans-magnus-enzensberger-dead.html](https://www.nytimes.com/2022/12/02/world/europe/hans-magnus-enzensberger-dead.html)
@@ -146,3 +146,4 @@ Even as Ukrainian workers race to restore basic services like electricity, heat 
  - date published: 2022-12-02 00:09:19+00:00
 
 Even as Ukrainian workers race to restore basic services like electricity, heat and water, new Russian airstrikes send them back to the starting line.
+

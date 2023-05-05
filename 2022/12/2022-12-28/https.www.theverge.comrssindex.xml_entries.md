@@ -1,4 +1,20 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## The LastPass disclosure of leaked password vaults is being torn apart by security experts
+ - [https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-28 21:40:10+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/Hkt1aYHbdJ6LQDnNw4wl_ZfwUGg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71800982/akrales_220309_4977_0182.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="cvkXLT">Last week, just before Christmas, LastPass <a href="https://www.theverge.com/2022/12/22/23523322/lastpass-data-breach-cloud-encrypted-password-vault-hackers">dropped a bombshell announcement</a>: as the result of a breach in August, which lead to another breach in November, hackers had gotten their hands on users’ password vaults. While the company insists that your login information is still secure, some cybersecurity experts are heavily criticizing <a href="https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/">its post</a>, saying that it could make people feel more secure than they actually are and pointing out that this is just the latest in a series of incidents that make it hard to trust the password manager.</p>
+<p id="X4PCGe">LastPass’ December 22nd statement was “full of omissions, half-truths and outright lies,” reads <a href="https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/">a blog post from Wladimir Palant</a>, a security researcher known for helping originally develop AdBlock Pro, among...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal">Continue reading&hellip;</a>
+  </p>
 
 ## Amazon’s started to deliver orders by drones in California and Texas
  - [https://www.theverge.com/2022/12/28/23529705/amazon-drone-delivery-prime-air-california-texas](https://www.theverge.com/2022/12/28/23529705/amazon-drone-delivery-prime-air-california-texas)
@@ -259,3 +275,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/27/23528333/southwest-airlines-flights-canceled-winter-storm">Continue reading&hellip;</a>
   </p>
+

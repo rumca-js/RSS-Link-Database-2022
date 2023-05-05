@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Holandia. Część turbiny spadła na autostradę. Droga była zablokowana na wiele godzin
  - [https://www.polsatnews.pl/wiadomosc/2022-12-28/holandia-czesc-turbiny-spadla-na-autostrade-droga-byla-zablokowana-na-wiele-godzin/](https://www.polsatnews.pl/wiadomosc/2022-12-28/holandia-czesc-turbiny-spadla-na-autostrade-droga-byla-zablokowana-na-wiele-godzin/)
@@ -69,3 +69,4 @@ Do mieszkania wpada zielony potwór i niszczy choinkę, zabiera prezenty, strasz
  - date published: 2022-12-28 05:26:00+00:00
 
 Według brytyjskiego wywiadu ​​ataki na ukraińską infrastrukturę krytyczną, to najprawdopodobniej wynik realizacji przez Rosję koncepcji strategicznej operacji niszczenia celów strategicznych - podała Ukraińska Prawda. Wiceminister spraw wewnętrznych Ukrainy Jewhen Jenin podał, że od początku wojny ostrzały zniszczyły ponad 35 tys. obiektów, z czego 702 to infrastruktura krytyczna.
+

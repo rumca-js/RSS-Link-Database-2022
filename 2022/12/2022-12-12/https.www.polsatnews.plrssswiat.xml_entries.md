@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wojna w Ukrainie. Rosjanie zaczynają wcielać kobiety do wojska
  - [https://www.polsatnews.pl/wiadomosc/2022-12-12/wojna-w-ukrainie-rosjanie-zaczynaja-wcielac-kobiety-do-wojska/](https://www.polsatnews.pl/wiadomosc/2022-12-12/wojna-w-ukrainie-rosjanie-zaczynaja-wcielac-kobiety-do-wojska/)
@@ -139,3 +139,4 @@ Rosyjski żołnierz schwytany przez ukraińskich obrońców w Donbasie wyjaśni�
  - date published: 2022-12-12 07:34:00+00:00
 
 W niedzielę na przedmieściach Rzymu doszło do strzelaniny, w wyniku której zginęły trzy kobiety uczestniczące w spotkaniu wspólnoty mieszkaniowej. Jedną z ofiar była przyjaciółka premier Włoch. Słowo sprawiedliwość nigdy nie może być zastosowane do tej sprawy. Bo nie wypada tak umierać - napisała na Facebooku Giorgia Meloni.
+

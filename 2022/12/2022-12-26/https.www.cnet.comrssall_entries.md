@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 5 Google Home Settings You Should Change Right After Unboxing     - CNET
  - [https://www.cnet.com/how-to/5-google-home-settings-you-should-change-right-after-unboxing/#ftag=CADf328eec](https://www.cnet.com/how-to/5-google-home-settings-you-should-change-right-after-unboxing/#ftag=CADf328eec)
@@ -363,3 +363,4 @@ Looking for the best kamado grill? We tested brands such as Big Green Egg, Kamad
  - date published: 2022-12-26 00:00:02+00:00
 
 The prequel gave us the first Witcher and hinted at what's to come.
+

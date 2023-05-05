@@ -1,4 +1,11 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## This free Windows 10 upgrade offer still works. Here's why -- and how to get it
+ - [https://www.zdnet.com/article/this-free-windows-10-upgrade-offer-still-works-heres-why-and-how-to-get-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-free-windows-10-upgrade-offer-still-works-heres-why-and-how-to-get-it/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-20 22:33:00+00:00
+
+More than six years after Microsoft’s free upgrade offer officially ended, people are still reporting successful Windows 10 upgrades from older machines. Here’s the latest extremely unofficial report.
 
 ## Yes, you can still get a free Windows 10 upgrade. Here's how
  - [https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/#ftag=RSSbaffb68](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/#ftag=RSSbaffb68)
@@ -153,3 +160,4 @@ New Linux-based tablet will come with a focus on repairability after the origina
  - date published: 2022-12-20 10:27:21+00:00
 
 Changes in strategy around high-end processors are part of the reason, says Bloomberg.
+

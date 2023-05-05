@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Looking after thousands of Northern Ireland's abandoned mines
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63993263?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63993263?at_medium=RSS&at_campaign=KARANGA)
@@ -447,3 +447,4 @@ Hamza Yassin, Fleur East, Helen Skelton and Molly Rainford all hope to land the 
  - date published: 2022-12-17 00:03:31+00:00
 
 World champions Charlotte Fry and Glamourdale win the Dressage World Cup freestyle with a new personal best at the London International Horse Show.
+

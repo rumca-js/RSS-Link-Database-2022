@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Machines that think like humans: Everything to know about AGI and AI Debate 3
  - [https://www.zdnet.com/article/ai-debate-3-everything-you-need-to-know-about-artificial-general-intelligence/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-debate-3-everything-you-need-to-know-about-artificial-general-intelligence/#ftag=RSSbaffb68)
@@ -11,6 +11,13 @@ For 3.5 hours, scholars led by Gary Marcus and Vincent Boucher discussed what to
  - [https://www.zdnet.com/article/what-is-cron-and-how-do-you-use-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-cron-and-how-do-you-use-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-26 20:27:06+00:00
+
+If you're looking to automate tasks in Linux, cron is the tool to use. Find out how it's done here.
+
+## What is cron in Linux and how do you use it?
+ - [https://www.zdnet.com/article/what-is-cron-in-linux-and-how-do-you-use-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-cron-in-linux-and-how-do-you-use-it/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-26 20:27:00+00:00
 
 If you're looking to automate tasks in Linux, cron is the tool to use. Find out how it's done here.
 
@@ -28,6 +35,13 @@ Microsoft's Xbox Series X and Series S gaming consoles offer different capabilit
 
 A thief who's scared of being caught might ditch your phone and you can locate it with Find My.
 
+## Change this one iPhone setting to foil thieves from stealing your phone and selling it
+ - [https://www.zdnet.com/article/change-this-one-iphone-setting-to-foil-thieves-from-stealing-your-phone-and-selling-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/change-this-one-iphone-setting-to-foil-thieves-from-stealing-your-phone-and-selling-it/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-26 19:10:00+00:00
+
+A thief who's scared of being caught might ditch your phone and you can locate it with Find My.
+
 ## What are hidden files in Linux and how do you create them?
  - [https://www.zdnet.com/article/what-are-hidden-files-in-linux-and-how-do-you-create-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-are-hidden-files-in-linux-and-how-do-you-create-them/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
@@ -41,3 +55,4 @@ If you're looking to hide files from plain sight in Linux, it's much easier than
  - date published: 2022-12-26 17:50:00+00:00
 
 When you can't get any sound out of your Windows computer, resetting your audio is one trick to try.
+

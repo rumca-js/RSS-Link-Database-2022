@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Zaginięcie Iwony Wieczorek. Dziennikarze dotarli do "mężczyzny z ręcznikiem". "Zrobiliście ze mnie zabójcę"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29285673,zaginiecie-iwony-wieczorek-dziennikarze-dotarli-do-mezczyzny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29285673,zaginiecie-iwony-wieczorek-dziennikarze-dotarli-do-mezczyzny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -251,3 +251,4 @@
  - date published: 2022-12-20 05:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/0f/ec/1b/z29281551M,Opole--Kradl-ze-sklepow-drogie-towary--a-pieniadze.jpg" vspace="2" />Policjanci z Opola rozpracowali serię kradzieży, do których dochodziło na terenie miasta. Jak się okazało, dopuszczał się ich 19-latek. Młody mężczyzna miał następnie sprzedawać zrabowane towary, a otrzymane w ten sposób pieniądze przeznaczać na luksusowe życie.
+

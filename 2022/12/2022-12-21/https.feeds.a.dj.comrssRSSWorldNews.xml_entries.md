@@ -1,4 +1,18 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
+
+## Israel's Netanyahu Says He Can Form a Government
+ - [https://www.wsj.com/articles/israels-benjamin-netanyahu-says-he-can-form-a-government-bringing-him-closer-to-return-to-power-11671664399](https://www.wsj.com/articles/israels-benjamin-netanyahu-says-he-can-form-a-government-bringing-him-closer-to-return-to-power-11671664399)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-21 23:13:00+00:00
+
+Benjamin Netanyahu will have seven days to finalize coalition deals with his allies before he can be sworn in as prime minister.
+
+## Brazil's Incoming President Lula da Silva Wins Approval to Spend Big
+ - [https://www.wsj.com/articles/brazils-incoming-president-lula-da-silva-wins-approval-to-spend-big-11671661746](https://www.wsj.com/articles/brazils-incoming-president-lula-da-silva-wins-approval-to-spend-big-11671661746)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-21 22:29:00+00:00
+
+Congress voted to suspend the constitutional spending cap to allow higher outlays on the poor, spooking financial markets.
 
 ## Biden Meets With Zelensky, Pledges Continued U.S. Support for Ukraine
  - [https://www.wsj.com/articles/zelensky-heads-to-washington-to-shore-up-more-u-s-support-for-ukraine-11671644438](https://www.wsj.com/articles/zelensky-heads-to-washington-to-shore-up-more-u-s-support-for-ukraine-11671644438)
@@ -62,3 +76,4 @@ China’s National Health Commission on Wednesday said there had been no new Cov
  - date published: 2022-12-21 10:36:00+00:00
 
 The Ukrainian president will meet President Biden and address a joint session of Congress during his trip, which comes after U.S. lawmakers unveiled a spending bill that carries an additional $44.9 billion in aid to help Ukraine and its NATO allies.
+

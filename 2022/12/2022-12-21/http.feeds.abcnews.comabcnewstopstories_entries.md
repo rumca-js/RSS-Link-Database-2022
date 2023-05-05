@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Zelenskyy to address Congress as House Republicans grow skeptical about more aid
  - [https://abcnews.go.com/Politics/zelenskyy-address-congress-house-republicans-grow-skeptical-aid/story?id=95659008](https://abcnews.go.com/Politics/zelenskyy-address-congress-house-republicans-grow-skeptical-aid/story?id=95659008)
@@ -48,6 +48,13 @@ The House has unanimously passed a bill posthumously awarding the Congressional 
  - date published: 2022-12-21 21:20:03+00:00
 
 A former Harvard fencing coach was acquitted Wednesday of charges that he accepted more than $1.5 million in bribes in exchange for designating a wealthy businessman&rsquo;s two sons as recruits to help secure their admission to the elite university
+
+## Coldest Christmas in decades possible for parts of US: What to expect Christmas Eve
+ - [https://abcnews.go.com/US/coldest-christmas-decades-parts-us-expect-christmas-eve/story?id=95647966](https://abcnews.go.com/US/coldest-christmas-decades-parts-us-expect-christmas-eve/story?id=95647966)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-21 20:21:27+00:00
+
+Break out your hats and gloves -- this could be the coldest Christmas in decades for parts of the country.
 
 ## New bridge to open in place of collapsed Pittsburgh span
  - [https://abcnews.go.com/US/wireStory/new-bridge-open-place-collapsed-pittsburgh-span-95665221](https://abcnews.go.com/US/wireStory/new-bridge-open-place-collapsed-pittsburgh-span-95665221)
@@ -265,3 +272,4 @@ The Drug Enforcement Administration on Tuesday said it has seized more than 379 
  - date published: 2022-12-21 00:56:01+00:00
 
 A man allegedly vandalized and carved a Nazi symbol into the base of a large menorah in Beverly Hills, California, on the first night of Hanukkah, according to police.
+

@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## Somebody Is FINALLY Doing Something About Space Junk
  - [https://www.youtube.com/watch?v=YW00vGR-yDk](https://www.youtube.com/watch?v=YW00vGR-yDk)
@@ -79,3 +79,4 @@ Privateer's Partnerships
 Cleaning Up Orbit
 More on Moriba Jah 
 Sponsor - NordVPN
+

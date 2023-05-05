@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Activision Blizzard developer Proletariat is unionizing
  - [https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing](https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing)
@@ -122,3 +122,4 @@ In my old age I'm begging MMOs to not stay the same, actually.
  - date published: 2022-12-28 01:34:33+00:00
 
 Just around the corner in early January.
+

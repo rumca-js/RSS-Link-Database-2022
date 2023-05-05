@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Meet Stable Horde, the crowd-powered Folding@Home of AI art
  - [https://www.pcworld.com/article/1431633/meet-stable-horde-the-setihome-of-ai-art.html](https://www.pcworld.com/article/1431633/meet-stable-horde-the-setihome-of-ai-art.html)
@@ -124,3 +124,4 @@ Internet</div>
 <p><em>Prices subject to change.</em></p>
 
 Productivity Software</div>
+

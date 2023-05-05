@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Oddziały paramilitarne Obywateli Rzeszy. Organizacja była bardziej rozbudowana, niż sądzono
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8608901,niemcy-obywatele-rzeszy-oddzialy-paramilitarne.html](https://forsal.pl/swiat/aktualnosci/artykuly/8608901,niemcy-obywatele-rzeszy-oddzialy-paramilitarne.html)
@@ -524,3 +524,4 @@
  - date published: 2022-12-12 05:27:46+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/N00ktkuTURBXy9mZDQ1NjE2Mi01OTFiLTRkY2ItOTIwZC1iMzc1YmM0N2QzNTguanBlZ5GTBc0BHcyg" />W listopadzie ceny nieruchomości w Szwecji pogłębiły swój spadek. Wpływ na osłabienie rynku, który już teraz jest jednym z najsłabszych wśród krajów rozwiniętych, miały wysokie stopy procentowe.
+

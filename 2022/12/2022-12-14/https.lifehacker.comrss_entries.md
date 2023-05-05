@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## How to Prevent Holiday Kitchen Disasters
  - [https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874](https://lifehacker.com/how-to-prevent-holiday-kitchen-disasters-1849894874)
@@ -132,3 +132,4 @@
  - date published: 2022-12-14 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--CPQ66OAi--/c_fit,fl_progressive,q_80,w_636/287e03dac63adc639d4c750b1097288b.jpg" /><p>Marinated tofu is great, but getting tofu to actually absorb marinades is trickier than it seems. If you want the flavor to get all the way inside, you have to get heat involved somehow, whether that’s in the form of a dip in <a href="https://lifehacker.com/boil-tofu-instead-of-pressing-it-to-reduce-moisture-1625168015">boiling salty water</a>, or by pan-frying, baking, or my new favorite pre-marinade technique:…</p><p><a href="https://lifehacker.com/why-you-should-be-air-frying-your-tofu-before-marinatin-1849889987">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Lawsuit Claims TikTok Violates Pennsylvania Wiretapping and Surveillance Rules
  - [https://www.theepochtimes.com/lawsuit-claims-tiktok-violates-pennsylvania-wiretapping-and-surveillance-rules_4933445.html](https://www.theepochtimes.com/lawsuit-claims-tiktok-violates-pennsylvania-wiretapping-and-surveillance-rules_4933445.html)
@@ -34,3 +34,4 @@ The Epic Games logo, maker of the popular video game "Fortnite", is pictured on 
  - date published: 2022-12-20 01:26:00+00:00
 
 Marc Ruskin, retired FBI Special Agent and author of "The Pretender," in New York on Oct. 4, 2019. (Samira Bouaou/The Epoch Times)
+

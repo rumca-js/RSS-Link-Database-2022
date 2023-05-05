@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Police arrest man wounded in Oklahoma pot farm slayings
  - [https://abcnews.go.com/US/wireStory/police-arrest-man-wounded-oklahoma-pot-farm-slayings-94951897](https://abcnews.go.com/US/wireStory/police-arrest-man-wounded-oklahoma-pot-farm-slayings-94951897)
@@ -202,3 +202,4 @@ A California woman who warned a judge last year about the danger posed by the Co
  - date published: 2022-12-10 00:11:43+00:00
 
 In a lawsuit filed Thursday, several employees at a Kentucky candle factory allege the company "refused" to let them leave before a deadly tornado struck.
+

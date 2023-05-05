@@ -1,4 +1,14 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
+
+## Metro Last Light Redux dostępny za darmo w Epic Games Store
+ - [https://ithardware.pl/aktualnosci/metro_last_light_redux_dostepny_za_darmo_w_epic_games_store-25029.html](https://ithardware.pl/aktualnosci/metro_last_light_redux_dostepny_za_darmo_w_epic_games_store-25029.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-12-24 22:56:09+00:00
+
+<img src="https://ithardware.pl/artykuly/min/25029_1.jpg" />            Metro Last Light Redux to kolejna darmowa gra dostępna w Epic Games Store. Prawdopodobnie poznaliśmy też produkcję, kt&oacute;ra będzie do odebrania jutro i szykuje się prawdziwy prezent dla fan&oacute;w Hideo Kojimy.
+
+Metro Last Light Redux...
+            <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/metro_last_light_redux_dostepny_za_darmo_w_epic_games_store-25029.html">https://ithardware.pl/aktualnosci/metro_last_light_redux_dostepny_za_darmo_w_epic_games_store-25029.html</a></p>
 
 ## Facebook zgodził się zapłacić 725 mln USD za wyciek danych Cambridge Analytica
  - [https://ithardware.pl/aktualnosci/facebook_zgodzil_sie_zaplacic_725_mln_usd_za_wyciek_danych_cambridge_analytica-25028.html](https://ithardware.pl/aktualnosci/facebook_zgodzil_sie_zaplacic_725_mln_usd_za_wyciek_danych_cambridge_analytica-25028.html)
@@ -33,3 +43,4 @@ Nagroda - Gigabyte AORUS Waterforce X240
 
 Gigabyte...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_24-25008.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_24-25008.html</a></p>
+

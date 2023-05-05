@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## Nations Pledge to Protect Animal, Plant Diversity
  - [https://www.wsj.com/articles/nations-pledge-to-protect-animal-plant-diversity-11671466201](https://www.wsj.com/articles/nations-pledge-to-protect-animal-plant-diversity-11671466201)
@@ -62,3 +62,4 @@ Russia launched a fresh wave of drone attacks as Ukraine struggled to repair ene
  - date published: 2022-12-19 12:02:00+00:00
 
 A town in Tuscany is fighting against an LNG terminal that Italy says is urgently needed as part of Europe’s efforts to replace Russian energy.
+

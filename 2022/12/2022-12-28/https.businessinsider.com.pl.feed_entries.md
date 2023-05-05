@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Rezygnacja z polisy na życie — jak wypowiedzieć umowę ubezpieczenia?
  - [https://businessinsider.com.pl/poradnik-finansowy/ubezpieczenia/rezygnacja-z-polisy-na-zycie-wzor-terminy-konsekwencje-jak-wypowiedziec-polise/vz30myl](https://businessinsider.com.pl/poradnik-finansowy/ubezpieczenia/rezygnacja-z-polisy-na-zycie-wzor-terminy-konsekwencje-jak-wypowiedziec-polise/vz30myl)
@@ -426,3 +426,4 @@ Każda zaoszczędzona jednostka energii to zysk dla naszego portfela i środowis
  - date published: 2022-12-28 05:00:00+00:00
 
 Od 1 stycznia minimalne wynagrodzenie za pracę wzrośnie z 3010 zł do 3490 zł. Kolejna podwyżka — tym razem do 3600 zł — zacznie obowiązywać od lipca 2023 r. Rząd szacuje, że dzięki temu wyższe pensje w przyszłym roku otrzyma ok. 3,05 mln osób. Inni pracownicy też skorzystają, bo wzrosną świadczenia powiązane z płacą minimalną, w tym np. maksymalne odprawy i dodatki za pracę w nocy.
+

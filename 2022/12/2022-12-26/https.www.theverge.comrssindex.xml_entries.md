@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Some New Year’s resolutions that won’t end up in your pile of shame
  - [https://www.theverge.com/tldr/2022/12/26/23523235/new-years-resolution-self-improvement](https://www.theverge.com/tldr/2022/12/26/23523235/new-years-resolution-self-improvement)
@@ -202,3 +202,4 @@
   <p>
     <a href="https://www.theverge.com/23522467/cadillac-lyriq-ev-review-specs-photos-price">Continue reading&hellip;</a>
   </p>
+

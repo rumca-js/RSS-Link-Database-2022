@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Hope Hicks went from 'Trump whisper' to not showing up for a month before 'sad' events of January 6
  - [http://www.msn.com/en-us/news/politics/hope-hicks-went-from-trump-whisper-to-not-showing-up-for-a-month-before-sad-events-of-january-6/ar-AA15GPcR?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/hope-hicks-went-from-trump-whisper-to-not-showing-up-for-a-month-before-sad-events-of-january-6/ar-AA15GPcR?li=BBnbcA1&srcref=rss)
@@ -1096,5 +1096,6 @@
  - [http://www.msn.com/en-us/news/technology/the-witcher-blood-origin-ending-and-post-credits-scene-explained/ar-AA15EZup?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/the-witcher-blood-origin-ending-and-post-credits-scene-explained/ar-AA15EZup?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-26 00:21:19.599449+00:00
+
 
 

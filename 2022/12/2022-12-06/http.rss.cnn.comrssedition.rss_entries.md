@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Iranian patrol boat tried to temporarily blind US Navy ships in Strait of Hormuz, US says
  - [https://www.cnn.com/2022/12/06/politics/iran-us-strait-hormuz/index.html](https://www.cnn.com/2022/12/06/politics/iran-us-strait-hormuz/index.html)
@@ -589,3 +589,4 @@ Japan bids the World Cup farewell after its World Cup last-16 penalty shootout d
  - date published: 2022-12-06 00:25:52+00:00
 
 Explosions at two Russian air bases Monday have focused attention on Ukraine's efforts to develop longer-range combat drones.
+

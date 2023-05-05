@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## The White House says it was “not involved” in Twitter censorship pressure
  - [https://reclaimthenet.org/the-white-house-says-it-was-not-involved-in-twitter-censorship-pressure/](https://reclaimthenet.org/the-white-house-says-it-was-not-involved-in-twitter-censorship-pressure/)
@@ -12,7 +12,6 @@
  - [https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/](https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-10 20:21:31+00:00
- - tags: twitter,twitter files
 
 <a href="https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/" rel="nofollow" title="Elon Musk says some political candidates running for office were secretly shadow banned on Twitter"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/musk-8.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Musk is yet to reveal which ones.</p>
 <p>The post <a href="https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/" rel="nofollow">Elon Musk says some political candidates running for office were secretly shadow banned on Twitter</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
@@ -40,3 +39,4 @@
 
 <a href="https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets/" rel="nofollow" title="Twitter had regular meetings with FBI, allowed them to flag tweets"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/yoel-roth-fbi.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>New published chats reveal.</p>
 <p>The post <a href="https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets/" rel="nofollow">Twitter had regular meetings with FBI, allowed them to flag tweets</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

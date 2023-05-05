@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Not a Joke, the Pentagon Wants to Name a Warship the USS Fallujah
  - [https://theintercept.com/2022/12/17/uss-fallujah-iraq-warship/](https://theintercept.com/2022/12/17/uss-fallujah-iraq-warship/)
@@ -15,3 +15,4 @@
 
 <p>Video of Rep. Katie Porter calling out right-wing activists for falsely accusing LGBTQ+ Americans of being pedophiles was misleadingly edited to accuse her of condoning pedophilia.</p>
 <p>The post <a href="https://theintercept.com/2022/12/16/viral-spread-lies-katie-porter-shows-twitters-power-amplify-disinformation/" rel="nofollow">Emboldened Right-Wing Activists Spread Lies About Rep. Katie Porter on Twitter</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

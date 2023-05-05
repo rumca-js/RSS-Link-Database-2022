@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Godziny otwarcia sklepów w Wigilię i Sylwestra [LISTA SIECI]
  - [https://forsal.pl/biznes/handel/artykuly/8614126,godziny-otwarcia-sklepow-wigilia-sylwester-biedronka-lidl-zabka.html](https://forsal.pl/biznes/handel/artykuly/8614126,godziny-otwarcia-sklepow-wigilia-sylwester-biedronka-lidl-zabka.html)
@@ -503,3 +503,4 @@
  - date published: 2022-12-19 05:30:05+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/oPOktkuTURBXy9mODYxMzhmYy1lYjhiLTRjMTUtODgxMi05YWE2NjliZDViYmIuanBlZ5GTBc0BHcyg" />Mieszkańcy Holandii, Hiszpanii oraz Włoch – jak wynika z badania Global Consumer Survey – najczęściej korzystają z pomocy inteligentnych technologii przy ogrzewaniu budynków – zaznacza Statista.
+

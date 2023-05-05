@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Belgijskie media: Rosyjska gospodarka nie radzi sobie bez miliardów ze sprzedaży gazu
  - [https://forsal.pl/biznes/media/artykuly/8612633,belgijskie-media-rosyjska-gospodarka-brak-miliardow-ze-sprzedazy-gazu.html](https://forsal.pl/biznes/media/artykuly/8612633,belgijskie-media-rosyjska-gospodarka-brak-miliardow-ze-sprzedazy-gazu.html)
@@ -307,3 +307,4 @@
  - date published: 2022-12-17 06:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/-xbktkuTURBXy9lNjdhYjFhNS0xYTMzLTQ3MTktOTAwNC1hY2U5M2ZiNTM5MTYuanBlZ5GTBc0BHcyg" />W największych gospodarkach obawy o niewypłacalność są przedwczesne. Musiałby się ziścić scenariusz długo utrzymującej się inflacji połączonej ze słabym tempem wzrostu gospodarczego. W tarapatach mogą być jednak biedniejsze kraje
+

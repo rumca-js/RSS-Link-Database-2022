@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Want more shows like His Dark Materials? What to watch after the final season
  - [https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/](https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/)
@@ -83,3 +83,4 @@ Apple could join Asus and Lenovo in offering a computer with a folding screen.
  - date published: 2022-12-07 06:04:43+00:00
 
 This could be the best clamshell foldable on the market when it launches.
+

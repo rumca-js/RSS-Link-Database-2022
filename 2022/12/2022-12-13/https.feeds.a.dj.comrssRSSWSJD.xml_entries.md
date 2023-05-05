@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## FTX's Sam Bankman-Fried Charged With Criminal Fraud, Conspiracy
  - [https://www.wsj.com/articles/ftxs-sam-bankman-fried-charged-with-criminal-fraud-conspiracy-11670951131?mod=rss_Technology](https://www.wsj.com/articles/ftxs-sam-bankman-fried-charged-with-criminal-fraud-conspiracy-11670951131?mod=rss_Technology)
@@ -83,3 +83,4 @@ The arrest occurred in the Bahamas after the U.S. filed criminal charges. Bankma
  - date published: 2022-12-13 00:59:00+00:00
 
 The relaunch of Twitter Blue is central to Elon Musk’s goal of reducing the social platform’s reliance on advertising dollars.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Keith Olbermann reduced to tweeting from his dog's Twitter account trying to evade Elon Musk's lifetime ban
  - [https://www.louderwithcrowder.com/keith-olbermann-dog](https://www.louderwithcrowder.com/keith-olbermann-dog)
@@ -162,3 +162,4 @@
 <a href="https://youtu.be/N_jzaYt0gBY" target="_blank">youtu.be</a>
 </small>
 </p>
+

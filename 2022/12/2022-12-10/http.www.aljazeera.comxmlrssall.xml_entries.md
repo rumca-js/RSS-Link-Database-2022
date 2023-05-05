@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Photos: England going home, France moving on to face Morocco
  - [https://www.aljazeera.com/gallery/2022/12/10/photos-england-going-home-france-moving-on-to-face-morocco](https://www.aljazeera.com/gallery/2022/12/10/photos-england-going-home-france-moving-on-to-face-morocco)
@@ -321,3 +321,4 @@ Belarus also asked to be allowed to export its fertiliser products, which are cu
  - date published: 2022-12-10 02:13:35+00:00
 
 Supporters of Argentina from all over the world cheered the Argentinian side on to victory over the Dutch.
+

@@ -1,4 +1,14 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## The New Tech Worldview
+ - [https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview](https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-28 23:02:04+00:00
+
+<p>Article URL: <a href="https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview">https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34167216">https://news.ycombinator.com/item?id=34167216</a></p>
+<p>Points: 8</p>
+<p># Comments: 5</p>
 
 ## ChatBCG: Generative AI For Slides
  - [https://www.chatbcg.com/](https://www.chatbcg.com/)
@@ -30,6 +40,16 @@
 <p>Points: 74</p>
 <p># Comments: 57</p>
 
+## Human-Oriented Automatic Theorem Proving
+ - [https://wtgowers.github.io/human-style-atp/](https://wtgowers.github.io/human-style-atp/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-28 21:06:08+00:00
+
+<p>Article URL: <a href="https://wtgowers.github.io/human-style-atp/">https://wtgowers.github.io/human-style-atp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34165950">https://news.ycombinator.com/item?id=34165950</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
 ## Why Solana was decimated by Bankman-Fried’s downfall
  - [https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall/](https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall/)
  - RSS feed: https://hnrss.org/frontpage
@@ -39,6 +59,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34165882">https://news.ycombinator.com/item?id=34165882</a></p>
 <p>Points: 50</p>
 <p># Comments: 11</p>
+
+## Golden Cove’s Lopsided Vector Register File
+ - [https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/](https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-28 20:57:53+00:00
+
+<p>Article URL: <a href="https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/">https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34165853">https://news.ycombinator.com/item?id=34165853</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
 ## Ask HN: What to do with old computer books?
  - [https://news.ycombinator.com/item?id=34165838](https://news.ycombinator.com/item?id=34165838)
@@ -747,3 +777,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34155783">https://news.ycombinator.com/item?id=34155783</a></p>
 <p>Points: 36</p>
 <p># Comments: 9</p>
+

@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Google Chrome can finally…search Chrome
  - [https://www.pcworld.com/article/1427403/google-chrome-can-finally-search-chrome.html](https://www.pcworld.com/article/1427403/google-chrome-can-finally-search-chrome.html)
@@ -496,3 +496,4 @@ CPUs and Processors</div>
 <p><em>Prices subject to change.</em></p>
 
 Video Editors</div>
+

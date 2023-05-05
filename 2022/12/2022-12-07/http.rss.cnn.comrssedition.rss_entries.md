@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Expert: China has failed to prepare residents when zero-Covid policy ends
  - [https://www.cnn.com/videos/world/2022/12/07/china-zero-covid-policy-rollback-elderly-vaccine-risk-watson-dnt-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/12/07/china-zero-covid-policy-rollback-elderly-vaccine-risk-watson-dnt-lead-vpx.cnn)
@@ -615,5 +615,6 @@ Once Sydney's tallest building, the AMP Centre was showing its age. The outdated
  - [https://cnn.it/3HdCVpV](https://cnn.it/3HdCVpV)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-07 00:46:24.547335+00:00
+
 
 

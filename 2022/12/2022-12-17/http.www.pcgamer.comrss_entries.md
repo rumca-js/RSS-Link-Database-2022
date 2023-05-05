@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## ArtStation will allow artists to opt out of AI programs using their creations, but concerns remain
  - [https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain](https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain)
@@ -55,3 +55,4 @@ This was the first year of Riot's seven-year partnership with FTX.
  - date published: 2022-12-17 08:05:46+00:00
 
 Wordle today: The solution and a hint for the #546 puzzle.
+

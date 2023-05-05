@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## The Pandemic and War — Not Government Spending — Caused Inflation, According to Nobel Prize Winner
  - [https://theintercept.com/2022/12/12/inflation-covid-war-joseph-stiglitz-ira-regmi/](https://theintercept.com/2022/12/12/inflation-covid-war-joseph-stiglitz-ira-regmi/)
@@ -23,3 +23,4 @@
 
 <p>New documents show the extent of the prison labor in New York, including jobs like asbestos removal.</p>
 <p>The post <a href="https://theintercept.com/2022/12/12/covid-new-york-prison-labor/" rel="nofollow">Incarcerated People Forced to Do Dangerous Work for &#8220;Slave&#8221; Wages at Height of Pandemic</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

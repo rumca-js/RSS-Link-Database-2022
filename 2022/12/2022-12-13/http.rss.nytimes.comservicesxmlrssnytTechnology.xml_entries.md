@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs
  - [https://www.nytimes.com/2022/12/13/technology/elon-musk-twitter-shakeup.html](https://www.nytimes.com/2022/12/13/technology/elon-musk-twitter-shakeup.html)
@@ -48,3 +48,4 @@ The Energy Department on Tuesday morning will present “a major scientific brea
  - date published: 2022-12-13 01:01:57+00:00
 
 The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.
+

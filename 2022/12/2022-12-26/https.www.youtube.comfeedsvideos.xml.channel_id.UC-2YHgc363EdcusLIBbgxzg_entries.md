@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
+# Source:Joe Scott, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, language:en-US
 
 ## Does The Fusion Breakthrough Live Up To The Clickbait?
  - [https://www.youtube.com/watch?v=SpuS7axls7k](https://www.youtube.com/watch?v=SpuS7axls7k)
@@ -40,3 +40,4 @@ TIMESTAMPS:
 4:41 - Inertial Confinement Fusion Experiment
 7:05 - Is This Overhyped?
 10:35 - Sponsor - Nebula & Curiosity Stream
+

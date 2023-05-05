@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 2 Million-Year-Old DNA, the Oldest Ever Recovered, Opens Window to the Past     - CNET
  - [https://www.cnet.com/science/biology/2-million-year-old-dna-the-oldest-ever-recovered-opens-window-to-the-past/#ftag=CADf328eec](https://www.cnet.com/science/biology/2-million-year-old-dna-the-oldest-ever-recovered-opens-window-to-the-past/#ftag=CADf328eec)
@@ -116,7 +116,6 @@ Starting early next year, Netflix will begin cracking down on sharing an account
  - [https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec](https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-07 19:52:00+00:00
- - tags: censorship,shadowban,instagram
 
 Instagram will show professional users examples of their content that's run afoul of the app's guidelines.
 
@@ -728,3 +727,4 @@ Voyages of Australia's RV Investigator research vessel have also discovered a ne
  - date published: 2022-12-07 00:00:02+00:00
 
 Yes, there is a right way to load the dishwasher to make your dishes squeaky clean every time. Here's how.
+

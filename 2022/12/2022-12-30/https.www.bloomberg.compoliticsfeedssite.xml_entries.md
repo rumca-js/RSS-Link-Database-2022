@@ -1,4 +1,4 @@
-# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
 ## North Korea Fires Ballistic Missile as Kim Leads Major Meeting
  - [https://www.bloomberg.com/news/articles/2022-12-30/north-korea-fires-suspected-ballistic-missile](https://www.bloomberg.com/news/articles/2022-12-30/north-korea-fires-suspected-ballistic-missile)
@@ -314,3 +314,4 @@ A supertax on private jets should be introduced to fund public transport improve
  - date published: 2022-12-30 00:00:00+00:00
 
 When Myanmar carried out the death penalty for the first time in three decades by executing four activists in July, China and Russia stayed silent while the US and its allies condemned the junta. Now the regime is on the verge of doing it again.
+

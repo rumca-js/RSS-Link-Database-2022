@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Google’s stranglehold on the mapping space could be challenged by new initiative from Meta, Microsoft, Amazon, and others
  - [https://www.theverge.com/2022/12/15/23511455/oogle-maps-meta-microsoft-amazon-tomtom](https://www.theverge.com/2022/12/15/23511455/oogle-maps-meta-microsoft-amazon-tomtom)
@@ -205,3 +205,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/14/23510113/resident-evil-village-vr-mode-playstation-vr2-psvr2-free-update">Continue reading&hellip;</a>
   </p>
+

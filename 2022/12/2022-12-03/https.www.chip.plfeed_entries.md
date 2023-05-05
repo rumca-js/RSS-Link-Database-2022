@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Produkcja amoniaku będzie ekologiczna szybciej niż myślicie, eliminując znaczną część emisji dwutlenku węgla
  - [https://www.chip.pl/2022/12/ekologiczna-produkcja-amoniaku](https://www.chip.pl/2022/12/ekologiczna-produkcja-amoniaku)
@@ -111,3 +111,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1200" src="https://konto.chip.pl/wp-content/uploads/2022/12/galaktyka.jpg" style="margin-bottom: 10px;" width="1200" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/galaktyka.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Odległości we wszechświecie to temat na niejedną astronomiczną dyskusję. A jeśli coś ma nam namieszać w głowie, to oddalona o 3 miliardy lat świetlnych galaktyka Alcyoneus będzie idealnym kandydatem. Jest to jedna z tzw. radiogalaktyk, których wyróżniającą cechą są emisje bardzo silnych fal radiowych. Jakie są natomiast rozmiary tego obiektu? Wystarczy wspomnieć, że ma około [&#8230;]</p>
+

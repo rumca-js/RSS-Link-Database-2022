@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Social media influencers charged with $100m stock scheme
  - [https://www.bbc.co.uk/news/world-us-canada-63981003?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63981003?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ The case also seeks changes to Facebook’s algorithm, which it alleges fuels ha
  - date published: 2022-12-14 00:10:30+00:00
 
 Sam Bankman-Fried is accused of a huge scheme to defraud investors in failed crypto exchange FTX.
+

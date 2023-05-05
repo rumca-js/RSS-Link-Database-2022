@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Earthshot Prize: Prince William announces five winners
  - [https://www.bbc.co.uk/news/world-us-canada-63829126?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63829126?at_medium=RSS&at_campaign=KARANGA)
@@ -566,3 +566,4 @@ A Commons committee says there should be "significant" punishments for ministers
  - date published: 2022-12-02 00:02:04+00:00
 
 The UK government is on course to miss its target for signing deals, as exporter numbers fall.
+

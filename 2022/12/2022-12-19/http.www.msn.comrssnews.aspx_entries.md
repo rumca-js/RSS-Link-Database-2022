@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Most people don't know how bad the border crisis is
  - [http://www.msn.com/en-us/news/us/most-people-don-t-know-how-bad-the-border-crisis-is/ar-AA15sZ0P?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/most-people-don-t-know-how-bad-the-border-crisis-is/ar-AA15sZ0P?li=BBnbcA1&srcref=rss)
@@ -1285,5 +1285,6 @@
  - [http://www.msn.com/en-us/news/politics/ftx-s-bankman-fried-to-agree-to-extradition-to-us-reports/ar-AA15qtPH?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/ftx-s-bankman-fried-to-agree-to-extradition-to-us-reports/ar-AA15qtPH?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-19 00:39:06.824580+00:00
+
 
 

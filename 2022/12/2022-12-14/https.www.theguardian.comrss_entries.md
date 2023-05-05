@@ -1,0 +1,9 @@
+# Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
+
+## ‘We can’t afford not to’: a firefighter, paramedic, train driver and teacher on UK strikes – video
+ - [https://www.theguardian.com/uk-news/video/2022/dec/14/we-cant-afford-not-to-a-firefighter-paramedic-train-driver-and-teacher-on-uk-strikes-video](https://www.theguardian.com/uk-news/video/2022/dec/14/we-cant-afford-not-to-a-firefighter-paramedic-train-driver-and-teacher-on-uk-strikes-video)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2022-12-14 13:14:54+00:00
+
+<p>“We can’t afford to strike, but we can’t afford not to strike,” firefighter Kasey from Leicestershire has told the Guardian.</p><p>The wave of strikes sweeping the UK are reaching their peak this week, threatening to bring much of the country to a standstill as workers across the transport network, NHS, Royal Mail and civil service take <a href="https://www.theguardian.com/uk-news/industrial-action">industrial action</a> in ongoing rows over pay and conditions.</p><p>In the new year, strike ballots for firefighters and teachers will close, while junior doctors are scheduled to vote next month. Nurses across the country will begin their first strike on Thursday.&nbsp;</p><p>We asked four people across England – a paramedic, a teacher, a firefighter, and a train driver – about why they are striking, the realities of being a public sector worker during a cost of living crisis and whether they are hopeful that this action could lead to change in their industry<br /></p><ul><li><a href="https://www.theguardian.com/uk-news/2022/dec/12/uk-strike-days-calendar-the-public-service-stoppages-planned-for-december">UK strike days calendar – the public service stoppages planned for December</a></li></ul> <a href="https://www.theguardian.com/uk-news/video/2022/dec/14/we-cant-afford-not-to-a-firefighter-paramedic-train-driver-and-teacher-on-uk-strikes-video">Continue reading...</a>
+

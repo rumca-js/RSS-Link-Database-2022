@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## America has tipping fatigue
  - [https://www.cnn.com/2022/12/17/business/tips-coffee-ice-cream-touch-screens-ctrp/index.html](https://www.cnn.com/2022/12/17/business/tips-coffee-ice-cream-touch-screens-ctrp/index.html)
@@ -13,3 +13,4 @@ A new checkout trend is sweeping across America, making for an increasingly awkw
  - date published: 2022-12-17 00:51:16+00:00
 
 President Joe Biden is expected to name former congressman Joe Kennedy III as his special envoy to Northern Ireland for economic affairs, according to two people familiar with the plans, installing a member of one of the United States' most famous political families to the post at a critical moment for the region.
+

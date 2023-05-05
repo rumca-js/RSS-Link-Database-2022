@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Rosyjski propagandysta o Wołodymyrze Zełenskim: Tak bym go traktował
  - [https://www.polsatnews.pl/wiadomosc/2022-12-05/rosyjski-propagandysta-o-wolodymyrze-zelenskim-tak-bym-go-traktowal/](https://www.polsatnews.pl/wiadomosc/2022-12-05/rosyjski-propagandysta-o-wolodymyrze-zelenskim-tak-bym-go-traktowal/)
@@ -104,3 +104,4 @@ W irańskich dronach szturmowych Shahed 136 używanych przez rosyjską armię w 
  - date published: 2022-12-05 05:10:00+00:00
 
 Wyrzucony podczas erupcji indonezyjskiego wulkanu Semeru we wschodniej Jawie materiał trafił w most, który został uszkodzony. Władze zarządziły ewakuację ludności w promieniu 8 kilometrów od góry o wysokości 3676 m n.p.m. Tysiące ludzi opuściły swoje domy i schroniły się m.in. w szkołach i meczetach po erupcji, która miała miejsce w niedzielę.
+

@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Elon Musk’s Cuts at Twitter? A Data Center, Janitors, Some Toilet Paper
  - [https://www.nytimes.com/2022/12/29/technology/twitter-elon-musk.html](https://www.nytimes.com/2022/12/29/technology/twitter-elon-musk.html)
@@ -34,3 +34,4 @@ Say hello to new-and-improved A.I. assistants, and move over to brands like Twit
  - date published: 2022-12-29 02:08:25+00:00
 
 The issues surfaced several days after Elon Musk said he had shut down one of the company’s major data centers.
+

@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Your Friday Briefing: Is China Relenting?
  - [https://www.nytimes.com/2022/12/01/briefing/china-covid-relax-restrictions.html](https://www.nytimes.com/2022/12/01/briefing/china-covid-relax-restrictions.html)
@@ -97,3 +97,4 @@ A torrent of protest videos is testing the limits of China’s censorship appara
  - date published: 2022-12-01 00:00:12+00:00
 
 The idea reflects frustration with the difficulty in holding anyone accountable in the war, and actually reaching trials in a new court is likely to be very hard.
+

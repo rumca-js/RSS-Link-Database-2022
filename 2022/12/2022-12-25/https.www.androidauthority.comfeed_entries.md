@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Got a new PS5 for Christmas? Here are 7 things you should do first
  - [https://www.androidauthority.com/new-ps5-guide-1187853/](https://www.androidauthority.com/new-ps5-guide-1187853/)
@@ -41,3 +41,11 @@ As it turns out, there's a whole lot going on inside a Sony DualSense controller
  - date published: 2022-12-25 13:00:05+00:00
 
 You already knew it was going to be Apex Legends Mobile.
+
+## 15 best Android home screen launchers for every taste
+ - [https://www.androidauthority.com/best-android-launcher-apps-222408/](https://www.androidauthority.com/best-android-launcher-apps-222408/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-12-25 09:00:45+00:00
+
+Android launchers are where customization begins and where a lot of people start when making their phone unique.
+

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Rośnie napięcie w Kosowie, Serbowie zablokowali drogi
  - [https://tvn24.pl/swiat/zamieszki-w-kosowie-serbowie-zablokowali-drogi-padly-strzaly-patrol-unijnej-misji-eulex-zaatakowany-granatem-hukowym-6460900?source=rss](https://tvn24.pl/swiat/zamieszki-w-kosowie-serbowie-zablokowali-drogi-padly-strzaly-patrol-unijnej-misji-eulex-zaatakowany-granatem-hukowym-6460900?source=rss)
@@ -589,3 +589,4 @@ Niedziela jest 291. dniem inwazji zbrojnej Rosji na Ukrainę. W nocy z soboty na
 
 <img alt="Pogoda na dziś: Polska w objęciach zimowych opadów, będzie mocno sypać" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-z27cv7-intensywne-opady-sniegu-6455320/alternates/LANDSCAPE_1280" />
     W niedzielę termometry pokażą od -3 do 0 stopni Celsjusza
+

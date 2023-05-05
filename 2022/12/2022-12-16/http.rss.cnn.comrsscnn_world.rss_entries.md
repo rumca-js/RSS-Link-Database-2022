@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Amazon warehouse workers in UK vote to go on strike
  - [https://www.cnn.com/2022/12/16/tech/uk-amazon-strike/index.html](https://www.cnn.com/2022/12/16/tech/uk-amazon-strike/index.html)
@@ -27,3 +27,4 @@ A tour of the Pacific region took a woozy turn for one Australian politician aft
  - date published: 2022-12-16 06:01:23+00:00
 
 All new houses in Tokyo built by large-scale homebuilders after April 2025 must install solar power panels to cut household carbon emissions, according to a new regulation passed by the Japanese capital's local assembly Thursday.
+

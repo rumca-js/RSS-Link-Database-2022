@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Seven-year-old becomes the youngest person in the UK to be fitted with bionic hand
  - [https://www.dailymail.co.uk/news/article-11550151/Seven-year-old-youngest-person-UK-fitted-bionic-hand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11550151/Seven-year-old-youngest-person-UK-fitted-bionic-hand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -896,3 +896,4 @@ A National Allotment Society guide warns that glasshouses are a 'negative featur
  - date published: 2022-12-17 00:04:08+00:00
 
 The Centre for Retail Research said there would be a £1.5billion hit to sales in store and online in the run up to Christmas because of rail and postal strikes.
+

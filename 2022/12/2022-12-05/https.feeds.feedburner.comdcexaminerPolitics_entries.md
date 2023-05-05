@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## Idaho murders: Moscow police hits out at 'speculation and unvetted information'
  - [https://www.washingtonexaminer.com/news/idaho-murders-moscow-police-speculation-unvetted-information](https://www.washingtonexaminer.com/news/idaho-murders-moscow-police-speculation-unvetted-information)
@@ -13,3 +13,4 @@ Moscow, Idaho, police are addressing "unvetted information" circulating in the m
  - date published: 2022-12-05 13:14:13+00:00
 
 (The Center Square) – U.S. Sen. Catherine Cortez Masto introduced legislation Thursday that would create a federal grant program for organizations that connect women to reproductive health care and abortion resources, her office announced.
+

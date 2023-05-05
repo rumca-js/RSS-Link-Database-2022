@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Goldman Sachs is planning to cut up to 8% of its employees in January
  - [https://www.cnbc.com/2022/12/16/goldman-sachs-is-planning-to-cut-up-to-8percent-of-its-employees-in-january.html](https://www.cnbc.com/2022/12/16/goldman-sachs-is-planning-to-cut-up-to-8percent-of-its-employees-in-january.html)
@@ -132,3 +132,4 @@ Adar Poonawalla became the CEO of the world's largest vaccine manufacturer, Seru
  - date published: 2022-12-16 01:04:33+00:00
 
 Mainland China's swift rollback of many Covid-related restrictions has been unexpectedly sudden, revealing a new set of economic challenges.
+

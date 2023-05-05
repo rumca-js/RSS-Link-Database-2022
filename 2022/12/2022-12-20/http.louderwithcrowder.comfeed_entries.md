@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Woman arrested for SILENTLY  praying outside of abortion clinic. Like, police even questioned her "are you praying?"
  - [https://www.louderwithcrowder.com/praying-arrested](https://www.louderwithcrowder.com/praying-arrested)
@@ -138,3 +138,4 @@
 <a href="https://youtu.be/2PvhTL6osO0" target="_blank">youtu.be</a>
 </small>
 </p>
+

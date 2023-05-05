@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Sejmowa komisja przeciw wotum nieufności wobec Ziobry
  - [https://tvn24.pl/polska/zbigniew-ziobro-wniosek-o-wotum-nieufnosci-wobec-ministra-sprawiedliwosci-opinia-sejmowej-komisji-6466299?source=rss](https://tvn24.pl/polska/zbigniew-ziobro-wniosek-o-wotum-nieufnosci-wobec-ministra-sprawiedliwosci-opinia-sejmowej-komisji-6466299?source=rss)
@@ -901,3 +901,4 @@ Głównym postulatem jest kilkuprocentowa podwyżka płac.
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-qxmmo7-erdogan-5541840/alternates/LANDSCAPE_1280" />
     Prezydent Turcji o rakietach balistycznych dalekiego zasięgu.
+

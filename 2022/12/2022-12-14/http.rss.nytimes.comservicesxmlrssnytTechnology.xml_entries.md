@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Tech Trade Group Sues California to Halt Children’s Online Safety Law
  - [https://www.nytimes.com/2022/12/14/technology/netchoice-lawsuit-children-online-safety.html](https://www.nytimes.com/2022/12/14/technology/netchoice-lawsuit-children-online-safety.html)
@@ -41,3 +41,4 @@ MycoWorks uses mycelium, the substance in the root structure of mushrooms, to ma
  - date published: 2022-12-14 04:36:43+00:00
 
 A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.
+

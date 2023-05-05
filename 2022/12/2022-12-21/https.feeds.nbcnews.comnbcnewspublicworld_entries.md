@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Watch full remarks as Biden, Zelenskyy unite in support of Ukraine
  - [https://www.nbcnews.com/video/watch-full-remarks-as-biden-zelenskyy-unite-in-support-of-ukraine-158382149515](https://www.nbcnews.com/video/watch-full-remarks-as-biden-zelenskyy-unite-in-support-of-ukraine-158382149515)
@@ -181,3 +181,4 @@ Mike Hodges, the British filmmaker who directed the hard-boiled gangster saga "G
  - date published: 2022-12-21 00:50:46+00:00
 
 As protests in Iran enter their third month, injured protestors are turning to social media to receive medical treatment as some doctors are claiming many of the wounded cannot seek care at local hospitals over fears they will be reported to authorities. NBC News’ Maura Barrett reports on how one U.S.-based physician is providing care from thousands of miles away. Warning some of the following images may be difficult to see.
+

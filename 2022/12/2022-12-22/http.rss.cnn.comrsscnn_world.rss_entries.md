@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## NASA and Russia weigh options for astronaut return after spacecraft leak
  - [https://www.cnn.com/2022/12/22/world/nasa-russia-soyuz-spacecraft-leak-iss-scn/index.html](https://www.cnn.com/2022/12/22/world/nasa-russia-soyuz-spacecraft-leak-iss-scn/index.html)
@@ -6,6 +6,20 @@
  - date published: 2022-12-22 20:47:21+00:00
 
 Officials at NASA and Russia's space agency, Roscosmos, are working to decide how to bring home several people at the International Space Station after a Russian Soyuz spacecraft sprang a leak last week.
+
+## Companies are reining in holiday bonuses
+ - [https://www.cnn.com/2022/12/22/economy/holiday-bonus-challenger-jobs/index.html](https://www.cnn.com/2022/12/22/economy/holiday-bonus-challenger-jobs/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2022-12-22 18:50:46+00:00
+
+Last year, bonuses were bountiful. This year, economic uncertainty is bringing a chill to the holiday-season perk, according to survey data released Thursday by Challenger, Gray & Christmas.
+
+## Why America's economy remains surprisingly strong -- but you don't realize it
+ - [https://www.cnn.com/2022/12/22/economy/us-economy/index.html](https://www.cnn.com/2022/12/22/economy/us-economy/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2022-12-22 17:02:33+00:00
+
+Each week brings head-scratching contradictory news about the economy. This past week was no different, with a batch of economic reports showing that — despite the recession talk — the US economy shows remarkable resilience.
 
 ## NFL games are coming to YouTube TV. Google gets the rights to Sunday Ticket for 2023
  - [https://www.cnn.com/2022/12/22/media/youtube-nfl-sunday-ticket/index.html](https://www.cnn.com/2022/12/22/media/youtube-nfl-sunday-ticket/index.html)
@@ -34,3 +48,4 @@ More than 1,200 flights have been cancelled across the United States, according 
  - date published: 2022-12-22 05:30:51+00:00
 
 The United Nations Security Council (UNSC) has called on Myanmar's ruling military junta to release all political prisoners, including deposed State Counselor Aung San Suu Kyi and former President Win Myint, in its first resolution passed on the Southeast Asian country since its independence.
+

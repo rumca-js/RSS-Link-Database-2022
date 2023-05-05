@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Shopify Cancels Plans to Move Into Massive New Office Space in Downtown Toronto
  - [https://www.theepochtimes.com/shopify-cancels-plans-to-move-into-massive-new-office-space-in-downtown-toronto_4931726.html](https://www.theepochtimes.com/shopify-cancels-plans-to-move-into-massive-new-office-space-in-downtown-toronto_4931726.html)
@@ -153,3 +153,4 @@ People shop at a Loblaws store in Toronto on May 3, 2018. (The Canadian Press/Na
  - date published: 2022-12-18 00:09:35+00:00
 
 Nuclear reactors of No. 5 (center L) and 6 look over tanks storing water that was treated but still radioactive, at the Fukushima Daiichi nuclear power plant in Okuma town, Fukushima prefecture, northeastern Japan, on Feb. 27, 2021. (Hiro Komae/AP Photo)
+

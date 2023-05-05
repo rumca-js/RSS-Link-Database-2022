@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## UFC president Dana White caught on video saying the quiet part out loud ... soccer is stupid
  - [https://www.louderwithcrowder.com/dana-white-soccer](https://www.louderwithcrowder.com/dana-white-soccer)
@@ -178,3 +178,4 @@
 <a href="https://youtu.be/1-AirCvNSS4" target="_blank">youtu.be</a>
 </small>
 </p>
+

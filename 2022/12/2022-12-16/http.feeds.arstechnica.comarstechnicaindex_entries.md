@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Riffusion’s AI generates music from text using visual sonograms
  - [https://arstechnica.com/?p=1905167](https://arstechnica.com/?p=1905167)
@@ -97,3 +97,4 @@ High-fashion 2-in-1's inflated price is more for its design than its performance
  - date published: 2022-12-16 12:00:32+00:00
 
 No one has yet stepped forth to win the great methane rocket race.
+

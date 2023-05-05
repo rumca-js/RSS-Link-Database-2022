@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Polska przeciw unijnemu podatkowi dla największych podmiotów gospodarczych
  - [https://www.bankier.pl/wiadomosc/Polska-przeciw-unijnemu-podatkowi-dla-najwiekszych-podmiotow-gospodarczych-8455506.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polska-przeciw-unijnemu-podatkowi-dla-najwiekszych-podmiotow-gospodarczych-8455506.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -349,3 +349,4 @@ alarmują: PiS po 25. latach chce zniszczyć ochronę zwierząt w Polsce.</p>
  - date published: 2022-12-12 04:56:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/c/b/c8e70af0b05e66-948-567-0-35-1000-599.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W listopadzie br. codzienne zakupy były droższe średnio o 25,8 proc. rdr - wynika z przekazanego PAP najnowszego "Indeksu cen w sklepach detalicznych". Zdrożały wszystkie z 12 analizowanych kategorii produktów, a ich średnie wzrosty znowu są dwucyfrowe.</p>
+

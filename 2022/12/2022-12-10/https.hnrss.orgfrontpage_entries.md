@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Zero-Cost Well-Defined Signed Integer Overflow in C++
  - [https://rentry.co/c955s](https://rentry.co/c955s)
@@ -633,3 +633,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33928379">https://news.ycombinator.com/item?id=33928379</a></p>
 <p>Points: 5</p>
 <p># Comments: 1</p>
+

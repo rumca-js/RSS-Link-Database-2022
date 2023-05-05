@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Report: Teens Warned to Be on Alert for Online Scams Ahead of Holiday Season
  - [https://www.theepochtimes.com/report-teens-warned-to-be-on-alert-for-online-scams-ahead-of-holiday-season_4931292.html](https://www.theepochtimes.com/report-teens-warned-to-be-on-alert-for-online-scams-ahead-of-holiday-season_4931292.html)
@@ -41,3 +41,4 @@ A sign at Twitter headquarters in San Francisco on Dec. 8, 2022. (Jeff Chiu/AP P
  - date published: 2022-12-19 00:01:22+00:00
 
 Elon Musk on a smartphone placed on printed Twitter logos on April 28, 2022. (Dado Ruvic/Illustration/Reuters)
+

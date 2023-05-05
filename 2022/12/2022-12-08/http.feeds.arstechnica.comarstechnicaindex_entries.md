@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Pentagon picked four tech companies to form $9B cloud computing network
  - [https://arstechnica.com/?p=1903180](https://arstechnica.com/?p=1903180)
@@ -104,3 +104,4 @@ Help yourself to prizes by helping us raise money for good causes.
  - date published: 2022-12-08 00:09:27+00:00
 
 Amazon already had a lot of success with Fire TV devices.
+

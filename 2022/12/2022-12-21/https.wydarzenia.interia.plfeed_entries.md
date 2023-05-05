@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Zełenski spotkał się z Pelosi. Został porównany do Winstona Churchilla
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-spotkal-sie-z-pelosi-zostal-porownany-do-winstona-c,nId,6487388](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-spotkal-sie-z-pelosi-zostal-porownany-do-winstona-c,nId,6487388)
@@ -516,3 +516,4 @@ Msza pogrzebowa odbyła się z katedrze polowej WP z ceremoniałem wojskowym. Pr
  - date published: 2022-12-21 04:31:13+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-301-dzien-inwazji-rosji-relacja-na-zywo,nzId,3530,akt,210807"><img align="left" alt="Wojna w Ukrainie. 301. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-301-dzien-inwazji-rosji-relacja-na-zywo/000GIOGRMTC5RERM-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

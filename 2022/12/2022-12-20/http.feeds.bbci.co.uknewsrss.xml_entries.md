@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## PDC World Championship: Fallon Sherrock beaten in first round by Ricky Evans
  - [https://www.bbc.co.uk/sport/darts/64047110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/64047110?at_medium=RSS&at_campaign=KARANGA)
@@ -76,6 +76,13 @@ The PM insists he won’t back down against striking workers, as nurses demand a
  - date published: 2022-12-20 21:44:13+00:00
 
 The magnitude 6.4 tremor struck overnight, killing at least two people and damaging roads and buildings.
+
+## The man who survived the 'Nazi typist's' concentration camp
+ - [https://www.bbc.co.uk/news/world-europe-64042502?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64042502?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-20 21:41:34+00:00
+
+Manfred Goldberg was 13 when he was sent to Stutthof, where the entrance became known as Death Gate.
 
 ## MK Dons 0-3 Leicester: Foxes ease into quarter-finals
  - [https://www.bbc.co.uk/sport/football/63953190?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63953190?at_medium=RSS&at_campaign=KARANGA)
@@ -503,3 +510,4 @@ A record number of people attempt the trek this year on foot in search of a bett
  - date published: 2022-12-20 00:01:04+00:00
 
 Notes featuring the King's portrait will enter circulation in mid-2024, says the Bank of England.
+

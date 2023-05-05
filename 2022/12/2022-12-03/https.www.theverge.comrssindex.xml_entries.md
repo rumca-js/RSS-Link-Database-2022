@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Fortnite’s latest live event was its strangest yet
  - [https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)
@@ -174,3 +174,4 @@
   <p>
     <a href="https://www.theverge.com/2022/12/2/23490743/amazon-shopper-panel-vpn-ad-verification">Continue reading&hellip;</a>
   </p>
+

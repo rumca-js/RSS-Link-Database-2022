@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Olaf Scholz o współpracy z Rosją. "Po wojnie znów będzie możliwa"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-olaf-scholz-o-wspolpracy-z-rosja-po-wojnie-znow-bedzie-mozli,nId,6470877](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-olaf-scholz-o-wspolpracy-z-rosja-po-wojnie-znow-bedzie-mozli,nId,6470877)
@@ -444,3 +444,4 @@
  - date published: 2022-12-13 04:36:09+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-293-dzien-inwazji-rosji-relacja-na-zywo,nzId,3510,akt,130536"><img align="left" alt="Wojna w Ukrainie. 293. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-293-dzien-inwazji-rosji-relacja-na-zywo/000GHA7MCPIEKLCY-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

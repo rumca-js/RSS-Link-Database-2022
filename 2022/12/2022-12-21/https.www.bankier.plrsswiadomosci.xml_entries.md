@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Izrael ma nowy rząd. Benjamin Netanjahu: Udało mi się
  - [https://www.bankier.pl/wiadomosc/Izrael-ma-nowy-rzad-Benjamin-Netanjahu-Udalo-mi-sie-8460952.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Izrael-ma-nowy-rzad-Benjamin-Netanjahu-Udalo-mi-sie-8460952.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -340,6 +340,13 @@ pochodzenia pieniędzy.</p>
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/3/737bc3df230b19-948-567-0-62-1000-599.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Branża zabawkowa zauważyła niszę wśród dorosłych, którzy wspominając swoje dzieciństwo, buszują po półkach w poszukiwaniu lalek, klocków czy kolekcjonerskich misiów. Jak się okazuje, to oni w dużej mierze napędzają obecnie podaż, bo odpowiadają za ponad 25 proc. sprzedaży. </p>
 
+## 400 zł za założenie konta w BNP Paribas. Bank rusza z promocją „Dobry Start”
+ - [https://www.bankier.pl/wiadomosc/400-zl-za-zalozenie-konta-w-BNP-Paribas-Bank-rusza-z-promocja-Dobry-Start-8460375.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/400-zl-za-zalozenie-konta-w-BNP-Paribas-Bank-rusza-z-promocja-Dobry-Start-8460375.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-21 07:28:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/d/716934f9597920-948-568-0-0-2496-1497.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />BNP Paribas startuje z kolejną promocją kont osobistych. Do zgarnięcia jest 400 zł za uruchomienie konta i wykazanie się umiarkowaną aktywnością. Nagrody zostaną wypłacone w trzech turach. Trzeba się jednak pospieszyć, bo liczba kont w promocji jest ograniczona do 9000. A z poprzednich edycji wiadomo, że rozchodzą się jak świeże bułki.</p>
+
 ## Prawie 2/3 pracowników IT pracuje w systemach elastycznych
  - [https://www.bankier.pl/wiadomosc/Prawie-2-3-pracownikow-IT-pracuje-w-systemach-elastycznych-8459801.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prawie-2-3-pracownikow-IT-pracuje-w-systemach-elastycznych-8459801.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -412,3 +419,4 @@ kurierskich.</p>
  - date published: 2022-12-21 02:09:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/2/5e0635acb2afd4-948-568-0-119-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Komisja finansów Izby Reprezentantów zagłosowała we wtorek za ujawnieniem dokumentów podatkowych Donalda Trumpa i jego firm z lat 2015-2020. Jest to finał wieloletnich starań o publikację skrywanych przez byłego prezydenta zeznań podatkowych.</p>
+

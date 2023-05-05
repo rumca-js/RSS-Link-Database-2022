@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Smart Tech Caregivers Can Gift Their Loved Ones This Holiday Season
  - [https://www.forbes.com/sites/quora/2022/12/14/smart-tech-caregivers-can-gift-their-loved-ones-this-holiday-season/](https://www.forbes.com/sites/quora/2022/12/14/smart-tech-caregivers-can-gift-their-loved-ones-this-holiday-season/)
@@ -540,3 +540,4 @@ The “star of Bethlehem” or “Christmas star” is much debated by sky-watch
  - date published: 2022-12-14 00:18:24+00:00
 
 Here's what you'll find in each present during Fortnite Winterfest 2022 in the Cozy Lodge.
+

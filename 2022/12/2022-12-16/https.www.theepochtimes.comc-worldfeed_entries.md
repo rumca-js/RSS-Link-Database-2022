@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Alberta Starts 5-Year Plan to Boost Rural Economy
  - [https://www.theepochtimes.com/alberta-starts-5-year-plan-to-boost-rural-economy_4929148.html](https://www.theepochtimes.com/alberta-starts-5-year-plan-to-boost-rural-economy_4929148.html)
@@ -335,3 +335,4 @@ Police officers detain a protestor during a rally in Sydney. Climate activist gr
  - date published: 2022-12-16 00:13:22+00:00
 
 Activists with Just Stop Oil glue their hands to the wall after throwing soup at  Vincent van Gogh's "Sunflowers" at the National Gallery in London, on Oct. 14, 2022. (Just Stop Oil/Handout via Reuters)
+

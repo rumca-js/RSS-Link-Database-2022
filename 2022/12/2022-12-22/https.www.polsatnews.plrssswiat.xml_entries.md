@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Wielka Brytania. Mama cała w tatuażach. "Nie wpuścili mnie na wigilię syna w szkole"
  - [https://www.polsatnews.pl/wiadomosc/2022-12-22/wielka-brytania-mama-cala-w-tatuazach-nie-wpuscili-mnie-na-wigilie-syna-w-szkole/](https://www.polsatnews.pl/wiadomosc/2022-12-22/wielka-brytania-mama-cala-w-tatuazach-nie-wpuscili-mnie-na-wigilie-syna-w-szkole/)
@@ -111,3 +111,4 @@ W 300. dniu rosyjskiej inwazji na Ukrainę Wołodymyr Zełenski złożył wizyt�
  - date published: 2022-12-22 05:16:00+00:00
 
 - Wasze wsparcie jest kluczowe nie tylko, by utrzymać pozycję w walce, ale też dokonać punktu zwrotnego i wygrać na polu bitwy. Mamy artylerię. Tak, dziękujemy wam za wszystko, co mamy. Czy to wystarczy? Szczerze mówiąc, nie bardzo - mówił prezydent Wołodymyr Zełenski w przemówienie przed połączonymi izbami Kongresu.
+

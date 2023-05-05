@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Racism And Discrimination Are Significant Contributing Factors To Health Disparities: Lancet
  - [https://www.forbes.com/sites/anuradhavaranasi/2022/12/08/racism-and-discrimination-are-significant-contributing-factors-to-health-disparities-lancet/](https://www.forbes.com/sites/anuradhavaranasi/2022/12/08/racism-and-discrimination-are-significant-contributing-factors-to-health-disparities-lancet/)
@@ -580,3 +580,4 @@ Regardless of what happens to the price of Paxlovid once the product is commerci
  - date published: 2022-12-08 01:00:00+00:00
 
 Icy asteroids may have bombarded Mars with water in its first 100 million years to create oceans deeper than on Earth, according to a new study of Martian meteorites.
+

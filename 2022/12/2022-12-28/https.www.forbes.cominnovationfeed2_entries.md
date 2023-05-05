@@ -1,4 +1,11 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
+
+## CIO Insights: Work-Bench VC Jonathan Lehr And Team On Enterprise Tech Trends To Watch
+ - [https://www.forbes.com/sites/dianebrady/2022/12/28/cio-insights-work-benchs-jonathan-lehr-and-team-on-enterprise-tech-trends-to-watch/](https://www.forbes.com/sites/dianebrady/2022/12/28/cio-insights-work-benchs-jonathan-lehr-and-team-on-enterprise-tech-trends-to-watch/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-28 23:54:27+00:00
+
+Work-Bench Cofounder and General Partner Jon Lehr and team share their thoughts on  enterprise tech trends to watch in 2023
 
 ## My Favorite Audio Gear I Reviewed In 2022
  - [https://www.forbes.com/sites/bradmoon/2022/12/28/my-favorite-audio-gear-i-reviewed-in-2022/](https://www.forbes.com/sites/bradmoon/2022/12/28/my-favorite-audio-gear-i-reviewed-in-2022/)
@@ -496,3 +503,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-12-28 01:00:00+00:00
 
 Your complete guide to the best meteor showers in 2023 for seeing "shooting stars."
+

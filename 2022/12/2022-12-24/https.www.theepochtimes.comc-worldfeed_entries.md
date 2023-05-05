@@ -1,4 +1,19 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
+
+## Whistleblower Group Criticizes Federal Review of Wrongdoing Disclosure Regime
+ - [https://www.theepochtimes.com/whistleblower-group-criticizes-federal-review-of-wrongdoing-disclosure-regime_4944522.html](https://www.theepochtimes.com/whistleblower-group-criticizes-federal-review-of-wrongdoing-disclosure-regime_4944522.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-24 23:01:33+00:00
+
+President of the Treasury Board Mona Fortier stands during question period in the House of Commons on Parliament Hill in Ottawa on March 28, 2022. (The Canadian Press/Sean Kilpatrick
+Sean Kilpatrick)
+
+## Quebec Provincial Police Investigating Two Deadly Overnight Fires Amid Power Outages
+ - [https://www.theepochtimes.com/quebec-provincial-police-investigating-two-deadly-overnight-fires-amid-power-outages_4944517.html](https://www.theepochtimes.com/quebec-provincial-police-investigating-two-deadly-overnight-fires-amid-power-outages_4944517.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-24 22:58:40+00:00
+
+A Hydro Quebec truck is shown in an area without power in Montreal on Dec. 24, 2022. (The Canadian Press/Graham Hughes)
 
 ## Many in Canada May Spend Christmas Day Without Power as Storm Continues
  - [https://www.theepochtimes.com/many-in-canada-may-spend-christmas-eve-and-day-without-power-as-winter-storm-continues_4944418.html](https://www.theepochtimes.com/many-in-canada-may-spend-christmas-eve-and-day-without-power-as-winter-storm-continues_4944418.html)
@@ -140,3 +155,4 @@ Chinese paramilitary police (in green uniforms) secure an exit as Tibetans monks
  - date published: 2022-12-24 00:12:09+00:00
 
 Lifeguards from North Bondi attend to a giant Christmas tree they erected at Bondi Beach in Sydney, Australia, on Dec. 25, 2010. (Don Arnold/Getty Images)
+

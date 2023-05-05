@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## OnePlus tries to be cool, but ends up being embarrassing with tweet from iPhone
  - [https://www.androidauthority.com/oneplus-tweet-iphone-3260685/](https://www.androidauthority.com/oneplus-tweet-iphone-3260685/)
@@ -20,6 +20,13 @@ The Xperia lineup is good; here's how Sony could make it great.
  - date published: 2022-12-28 15:30:18+00:00
 
 We break down the ways different streamers dominated in 2022.
+
+## 10 best office apps for Android to get work done
+ - [https://www.androidauthority.com/best-office-apps-for-android-281250/](https://www.androidauthority.com/best-office-apps-for-android-281250/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-12-28 15:19:26+00:00
+
+One of the centers of productivity are office apps and for obvious reasons. Here are the best office apps for Android.
 
 ## Wallpaper Wednesday: More great phone wallpapers for all to share (Dec. 28)
  - [https://www.androidauthority.com/wallpaper-wednesday-dec-28-2022-3259518/](https://www.androidauthority.com/wallpaper-wednesday-dec-28-2022-3259518/)
@@ -69,3 +76,4 @@ Almost two-thirds of respondents sideloaded an app in the last year, at the very
  - date published: 2022-12-28 05:50:27+00:00
 
 We're not just talking phones but also tablets, smartwatches, TV boxes, TVs, and more.
+

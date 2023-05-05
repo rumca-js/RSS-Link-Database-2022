@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Tesla finally delivered its first electric semi trucks
  - [https://www.zdnet.com/article/tesla-finally-delivered-its-first-electric-semi-trucks/#ftag=RSSbaffb68](https://www.zdnet.com/article/tesla-finally-delivered-its-first-electric-semi-trucks/#ftag=RSSbaffb68)
@@ -153,3 +153,4 @@ It's like putting a smartwatch in the part of the skull that's removed, says Mus
  - date published: 2022-12-02 00:03:00+00:00
 
 "Mortal computation" means analog computers marrying AI closely to hardware will put GPT-3 in your toaster for $1 running on a few watts of power.
+

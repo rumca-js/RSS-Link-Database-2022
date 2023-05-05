@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## UK government asked Twitter and Facebook to “tweak” algorithms during Covid
  - [https://reclaimthenet.org/uk-government-asked-twitter-fb-tweak-algorithms/](https://reclaimthenet.org/uk-government-asked-twitter-fb-tweak-algorithms/)
@@ -31,3 +31,4 @@
 
 <a href="https://reclaimthenet.org/the-browser-for-those-that-like-firefox-but-think-mozilla-lost-its-way/" rel="nofollow" title="The browser for those that like Firefox but think Mozilla lost its way"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/lwolfw2.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>🛡</p>
 <p>The post <a href="https://reclaimthenet.org/the-browser-for-those-that-like-firefox-but-think-mozilla-lost-its-way/" rel="nofollow">The browser for those that like Firefox but think Mozilla lost its way</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

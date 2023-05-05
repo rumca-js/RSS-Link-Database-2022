@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Taliban Bar Women From NGOs, Threatening to Worsen Crisis
  - [https://www.nytimes.com/2022/12/24/world/asia/taliban-women-ngos-afghanistan.html](https://www.nytimes.com/2022/12/24/world/asia/taliban-women-ngos-afghanistan.html)
@@ -76,3 +76,4 @@ Several popular television programs in the country are helping to encourage conv
  - date published: 2022-12-24 08:00:16+00:00
 
 For former residents of Iqrit, where Israeli forces leveled everything but the church in 1951, religious rituals bind them to a place from which they were expelled.
+

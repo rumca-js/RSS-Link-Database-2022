@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## WATCH: Trump teases 'major announcement' coming Thursday
  - [https://www.washingtonexaminer.com/news/watch-trump-teases-major-announcement-coming-thursday](https://www.washingtonexaminer.com/news/watch-trump-teases-major-announcement-coming-thursday)
@@ -20,3 +20,4 @@ Former President Donald Trump, who has already announced a run for the White Hou
  - date published: 2022-12-14 11:00:19+00:00
 
 The midterm election victories of congresswomen Abigail Spanberger (D-VA) and Elissa Slotkin (D-MI) were notable for many reasons. Surviving bruising campaigns, they now emerge as key centrist Democratic voices in the next Congress.
+

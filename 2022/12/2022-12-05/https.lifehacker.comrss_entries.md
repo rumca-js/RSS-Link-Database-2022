@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Winterize Your Gin Cocktail
  - [https://lifehacker.com/winterize-your-gin-cocktail-1849855357](https://lifehacker.com/winterize-your-gin-cocktail-1849855357)
@@ -111,3 +111,4 @@
  - date published: 2022-12-05 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ix9o6ETS--/c_fit,fl_progressive,q_80,w_636/a303a0139cbea595bf2de7539fea86a8.jpg" /><p>If someone on your holiday shopping list has an interest in astronomy, but you don’t know the Pleiades from pilates, read on. Herre is a ground-zero, get-started guide with 11 gifts that are perfect for budding star-gazers and planet peepers containing everything from gear and books to chemical helpers for the…</p><p><a href="https://lifehacker.com/11-of-the-best-gifts-for-amateur-astronomers-1849849765">Read more...</a></p>
+

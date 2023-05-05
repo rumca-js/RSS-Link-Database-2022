@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Amazon brings Matter to Echo devices, plugs, bulbs, and other devices you own
  - [https://www.androidauthority.com/amazon-alexa-matter-3257894/](https://www.androidauthority.com/amazon-alexa-matter-3257894/)
@@ -49,6 +49,13 @@ The global launch event will be held in New Delhi, India.
 
 The listing follows a recent tradition of upcoming Pixel products landing on Facebook's storefront first.
 
+## 10 best life simulator games for Android
+ - [https://www.androidauthority.com/life-simulator-games-android-1117812/](https://www.androidauthority.com/life-simulator-games-android-1117812/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-12-19 08:31:06+00:00
+
+Life simulator games are fun if you like sim life. There are a bunch of options on Android and here are the best ones.
+
 ## You told us: You think Samsung can deliver a Snapdragon beater
  - [https://www.androidauthority.com/samsung-beat-snapdragon-smartphone-chip-poll-results-3257807/](https://www.androidauthority.com/samsung-beat-snapdragon-smartphone-chip-poll-results-3257807/)
  - RSS feed: https://www.androidauthority.com/feed/
@@ -62,3 +69,4 @@ A small majority think Samsung has what it takes to beat Qualcomm. Some of you a
  - date published: 2022-12-19 05:57:47+00:00
 
 There's no word on a timeline just yet, but it'll presumably take place before the stable release in Q1.
+

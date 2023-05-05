@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Melbourne Hospitals Defer Elective Surgery
  - [https://www.theepochtimes.com/melbourne-hospitals-defer-elective-surgery_4907980.html](https://www.theepochtimes.com/melbourne-hospitals-defer-elective-surgery_4907980.html)
@@ -399,3 +399,4 @@ Canadian Consul General in Hong Kong and Macau Rachael Bedlington (L) made a spe
  - date published: 2022-12-06 00:02:29+00:00
 
 Alberta Premier Danielle Smith, along with cabinet ministers, speaks at a press conference after members were sworn into cabinet in Edmonton on Oct. 24, 2022. (Jason Franson/The Canadian Press)
+

@@ -1,4 +1,11 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Betty White's pal Vicki Lawrence recalls phrase TV icon saw as 'compliment': 'Aren't you offended by that?'
+ - [https://www.foxnews.com/entertainment/betty-white-pal-vicki-lawrence-recalls-phrase-tv-icon-saw-compliment](https://www.foxnews.com/entertainment/betty-white-pal-vicki-lawrence-recalls-phrase-tv-icon-saw-compliment)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-30 23:38:32+00:00
+
+Betty White's friend Vicki Lawrence remembers the legendary actress nearly one year after her death. The two co-starred on "Mama's Family" until White left the show for "The Golden Girls."
 
 ## Memphis responds to lawsuit by victim allegedly raped by Eliza Fletcher's accused killer, year before slaying
  - [https://www.foxnews.com/us/memphis-responds-lawsuit-victim-allegedly-raped-eliza-fletchers-accused-killer-year-before-slaying](https://www.foxnews.com/us/memphis-responds-lawsuit-victim-allegedly-raped-eliza-fletchers-accused-killer-year-before-slaying)
@@ -1056,3 +1063,4 @@ Dr. Robert "Bob" Lynn Penny, an actor who played roles in "My Cousin Vinny" and 
  - date published: 2022-12-30 00:00:39+00:00
 
 Sen. Ben Cardin, D-Md., faced massive backlash after suggesting that hate speech is not protected under the First Amendment during a Senate Committee Hearing on Wednesday.
+

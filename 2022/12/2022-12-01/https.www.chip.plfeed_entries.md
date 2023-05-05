@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Same panele słoneczne to jeszcze nic. W takiej kombinacji instalacja daje znacznie lepsze wyniki
  - [https://www.chip.pl/2022/12/panele-sloneczne-turbiny-wiatrowe-energia](https://www.chip.pl/2022/12/panele-sloneczne-turbiny-wiatrowe-energia)
@@ -159,3 +159,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1536" src="https://konto.chip.pl/wp-content/uploads/2022/03/tunel-czasoprzestrzenny.jpg" style="margin-bottom: 10px;" width="2731" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/03/tunel-czasoprzestrzenny.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Wykorzystując Sycamore, czyli komputer kwantowy należący do Google, naukowcy byli w stanie po raz pierwszy w historii stworzyć wirtualny tunel czasoprzestrzenny. Podstawowym problemem w zakresie rozumienia tego typu struktur jest niezgodność między mechaniką kwantową, która obejmuje prawa rządzące bardzo małymi obiektami, a ogólną teorią względnością, która tyczy się zjawisk na znacznie większą skalę. Tego typu [&#8230;]</p>
+

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## ‘Madness’: Even Biden DOJ Officials Calling Foul On Griner Swap For ‘Merchant Of Death’
  - [https://www.dailywire.com/news/madness-even-biden-doj-officials-calling-foul-on-griner-swap-for-merchant-of-death](https://www.dailywire.com/news/madness-even-biden-doj-officials-calling-foul-on-griner-swap-for-merchant-of-death)
@@ -118,3 +118,4 @@ Horrifying details have emerged in the tragic case of a 7-year-old Texas girl wh
  - date published: 2022-12-10 08:28:55+00:00
 
 The brother of U.S. journalist Grant Wahl believes that his death in Qatar while covering the World Cup was not an accident. CBS News reported that Wahl “suffered a heart attack” while in the press box of Lusail Stadium in Doha. Wahl generated international headlines during the World Cup in November after he wore LGBT gear in ...
+

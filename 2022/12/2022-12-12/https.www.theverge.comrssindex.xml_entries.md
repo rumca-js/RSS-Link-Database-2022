@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
 ## Discord leans on linked accounts to verify who you are and what you can access
  - [https://www.theverge.com/2022/12/12/23506157/discord-linked-roles-connections-server-administration](https://www.theverge.com/2022/12/12/23506157/discord-linked-roles-connections-server-administration)
@@ -478,3 +478,4 @@
   <p>
     <a href="https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel">Continue reading&hellip;</a>
   </p>
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Tragedia na szlaku w Beskidzie Małym. Dwie osoby w stanie hipotermii, kobieta nie przeżyła
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29216633,tragedia-na-szlaku-w-beskidzie-malym-dwie-osoby-w-stanie-hipotermii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29216633,tragedia-na-szlaku-w-beskidzie-malym-dwie-osoby-w-stanie-hipotermii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -69,3 +69,4 @@
  - date published: 2022-12-03 07:49:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/de/dc/1b/z29215454M,Czeslaw--Darek--Tomaszkiewicz-zaginal-w-1996-roku-.jpg" vspace="2" />W 1996 roku siedmioletni Darek wpadł do kuchni i poprosił mamę o kanapki i worek jutowy. Gdy nie wrócił do wieczora, rodzina zaczęła go szukać. Wówczas okazało się, że przed zaginięciem mówił cioci o "wujku", z którym miał przyjść na plażę. Chłopiec do tej pory się nie odnalazł. Sprawa ta stała się medialna dopiero w 2021 roku za sprawą kanału zajmującego się opisywaniem niewyjaśnionych zaginięć.
+

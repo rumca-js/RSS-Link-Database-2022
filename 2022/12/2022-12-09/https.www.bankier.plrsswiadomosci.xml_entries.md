@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Brytyjski rząd poluzuje regulacje bankowe wprowadzone po kryzysie finansowym
  - [https://www.bankier.pl/wiadomosc/Brytyjski-rzad-poluzuje-regulacje-bankowe-wprowadzone-po-kryzysie-finansowym-8454308.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Brytyjski-rzad-poluzuje-regulacje-bankowe-wprowadzone-po-kryzysie-finansowym-8454308.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -379,3 +379,4 @@ ofertach pracy. Tych właściwie nie ma.</p>
  - date published: 2022-12-09 04:07:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/a/c02fdc7ff6db0a-948-568-0-20-995-597.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />USA planują w piątek nałożyć nowe sankcje na Rosję i Chiny. Waszyngton chce ukarać Moskwę za wykorzystanie irańskich dronów w wojnie z Ukrainą - poinformowali w czwartek dwaj amerykańscy urzędnicy cytowani przez Reutersa. Władze USA chcą też uderzyć w chińskie firmy, które ich zdaniem dokonują nadmiernych połowów i wykorzystują flotę rybacką do zwiększania strefy wpływów Państwa Środka.</p>
+

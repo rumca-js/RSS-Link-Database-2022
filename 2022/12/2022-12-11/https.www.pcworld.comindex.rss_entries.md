@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Beat applicant tracking systems with 88% off this top-rated resume building tool
  - [https://www.pcworld.com/article/1428720/beat-applicant-tracking-systems-with-88-off-this-top-rated-resume-building-tool.html](https://www.pcworld.com/article/1428720/beat-applicant-tracking-systems-with-88-off-this-top-rated-resume-building-tool.html)
@@ -44,3 +44,4 @@
 <p><em>Prices subject to change.</em></p>
 
 Resumes</div>
+

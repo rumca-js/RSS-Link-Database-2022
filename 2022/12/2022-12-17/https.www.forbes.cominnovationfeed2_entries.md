@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## New Instagram Updates Bring Massive Changes
  - [https://www.forbes.com/sites/paulmonckton/2022/12/17/new-instagram-updates-bring-massive-changes/](https://www.forbes.com/sites/paulmonckton/2022/12/17/new-instagram-updates-bring-massive-changes/)
@@ -188,3 +188,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-12-17 01:35:20+00:00
 
 NASA’S new Webb Space Telescope continues opening vistas onto heretofore hidden astrophysics. This time it’s a nearby star forming region where stars that will evolve to be not unlike our own are currently in the birthing process.
+

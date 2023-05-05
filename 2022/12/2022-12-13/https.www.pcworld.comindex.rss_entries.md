@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Opera’s new Lucid Mode makes older video look like new
  - [https://www.pcworld.com/article/1434315/operas-new-lucid-mode-makes-older-video-look-like-new.html](https://www.pcworld.com/article/1434315/operas-new-lucid-mode-makes-older-video-look-like-new.html)
@@ -1437,3 +1437,4 @@ Laptops</div>
 <p><em>Prices subject to change.</em></p>
 
 Dell</div>
+

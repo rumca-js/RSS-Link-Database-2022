@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: Little girl gets stuck in a claw machine when her sister dared her to climb in and it's hard not to laugh
  - [https://www.louderwithcrowder.com/claw-machine-girl-stuck](https://www.louderwithcrowder.com/claw-machine-girl-stuck)
@@ -65,3 +65,4 @@
 <a href="https://youtu.be/qfCSsRaTTjc" target="_blank">youtu.be</a>
 </small>
 </p>
+

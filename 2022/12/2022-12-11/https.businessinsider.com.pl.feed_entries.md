@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Zła wiadomość dla podróżujących. Bilety lotnicze tańsze nie będą
  - [https://businessinsider.com.pl/twoje-pieniadze/zla-wiadomosc-dla-podrozujacych-bilety-lotnicze-tansze-nie-beda/g4ery2n](https://businessinsider.com.pl/twoje-pieniadze/zla-wiadomosc-dla-podrozujacych-bilety-lotnicze-tansze-nie-beda/g4ery2n)
@@ -104,3 +104,4 @@ Ich zapach i smak jest jedyny w swoim rodzaju. Są najbardziej luksusowym dodatk
  - date published: 2022-12-11 05:11:30+00:00
 
 Bruksela dała zielone światło na ograniczenie możliwości wykonywania przez linie lotnicze połączeń na krótkich dystansach, o ile istnieje dla nich alternatywa w postaci podróży pociągiem. Niemcy po zakończonym gigantycznym sukcesie eksperymencie z biletem za 9 euro pracują nad systemowym rozwiązaniem zapewniającym tanie bilety na transport zbiorowy. Branża lotnicza odbudowująca się po pandemii nie wydaje się jednak być przerażona tym trendem.
+

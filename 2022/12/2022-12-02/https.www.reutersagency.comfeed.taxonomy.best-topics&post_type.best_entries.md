@@ -1,4 +1,4 @@
-# Source Reuters - All, Source URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, Source language: en-US
+# Source:Reuters - All, URL:https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best, language:en-US
 
 ## Reuters reveals as economy stutters, China’s youth seek safety of civil service
  - [https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-as-economy-stutters-chinas-youth-seek-safety-of-civil-service/](https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-as-economy-stutters-chinas-youth-seek-safety-of-civil-service/)
@@ -15,3 +15,4 @@
 
 <p>Reuters exclusively reported that Canada&#8217;s largest pension fund CPP Investments is set to raise C$500 million in its first &#8220;reverse [&#8230;]</p>
 <p>The post <a href="https://www.reutersagency.com/en/reutersbest/article/reuters-reveals-canadian-pension-fund-cppi-to-issue-first-reverse-inquiry-bond-on-investor-demand/" rel="nofollow">Reuters reveals Canadian pension fund CPPI to issue first &#8216;reverse inquiry&#8217; bond on investor demand</a> appeared first on <a href="https://www.reutersagency.com/en/" rel="nofollow">Reuters News Agency</a>.</p>
+

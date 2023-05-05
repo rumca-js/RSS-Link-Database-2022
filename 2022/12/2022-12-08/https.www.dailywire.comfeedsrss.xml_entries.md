@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## BREAKING: Felony Arrest Warrant Issued For Biden Official Sam Brinton For Another Alleged Theft, Report Says
  - [https://www.dailywire.com/news/breaking-felony-arrest-warrant-issued-for-biden-official-sam-brinton-for-another-alleged-theft-report-says](https://www.dailywire.com/news/breaking-felony-arrest-warrant-issued-for-biden-official-sam-brinton-for-another-alleged-theft-report-says)
@@ -447,3 +447,4 @@ Twitter CEO Elon Musk is reportedly set to change the price that the company cha
  - date published: 2022-12-08 07:53:48+00:00
 
 Peru&#8217;s socialist President Pedro Castillo was reportedly arrested Wednesday after being impeached and removed from office for staging a coup to stay in power. During his first 16 months in power, Castillo has faced six criminal investigations and three impeachment attempts, including the one that removed him from power this week, The New York Times ...
+

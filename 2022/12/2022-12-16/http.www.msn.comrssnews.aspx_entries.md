@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## FEC asks Congress to take action on 'scam PACs' that raise millions for campaigns but only enrich their founders
  - [http://www.msn.com/en-us/news/politics/fec-asks-congress-to-take-action-on-scam-pacs-that-raise-millions-for-campaigns-but-only-enrich-their-founders/ar-AA15mY8j?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fec-asks-congress-to-take-action-on-scam-pacs-that-raise-millions-for-campaigns-but-only-enrich-their-founders/ar-AA15mY8j?li=BBnbcA1&srcref=rss)
@@ -704,5 +704,6 @@
  - [http://www.msn.com/en-us/news/technology/these-wordle-start-words-practically-guarantee-a-winning-streak/ar-AA146EZt?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/these-wordle-start-words-practically-guarantee-a-winning-streak/ar-AA146EZt?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:34.917040+00:00
+
 
 

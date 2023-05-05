@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Watch: GOP congresswoman puts trans activist on blast over their 'extremist rhetoric' on Twitter
  - [https://www.louderwithcrowder.com/nancy-mace-rhetoric-hearings](https://www.louderwithcrowder.com/nancy-mace-rhetoric-hearings)
@@ -147,3 +147,4 @@
 <a href="https://youtu.be/97V6zoymDHQ" target="_blank">youtu.be</a>
 </small>
 </p>
+

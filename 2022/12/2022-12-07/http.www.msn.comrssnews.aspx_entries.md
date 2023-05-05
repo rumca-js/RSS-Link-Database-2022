@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Biden admin appeals ruling blocking Title 42 border protocol
  - [http://www.msn.com/en-us/news/us/biden-admin-appeals-ruling-blocking-title-42-border-protocol/ar-AA151wSy?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/biden-admin-appeals-ruling-blocking-title-42-border-protocol/ar-AA151wSy?li=BBnbcA1&srcref=rss)
@@ -1327,5 +1327,6 @@
  - [http://www.msn.com/en-us/news/politics/a-possible-watershed-moment-for-valuing-nature/ar-AA14ZjET?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/a-possible-watershed-moment-for-valuing-nature/ar-AA14ZjET?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-07 00:47:01.407805+00:00
+
 
 

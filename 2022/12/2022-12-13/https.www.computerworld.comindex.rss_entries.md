@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## European Commission takes step toward approving EU-US data privacy pact
  - [https://www.computerworld.com/article/3683068/european-commission-takes-step-toward-approving-eu-us-data-privacy-pact.html#tk.rss_all](https://www.computerworld.com/article/3683068/european-commission-takes-step-toward-approving-eu-us-data-privacy-pact.html#tk.rss_all)
@@ -74,3 +74,4 @@
 <article>
 	<section class="page">
 <p>When a company’s mission is to advance artificial intelligence (AI) and machine learning (ML) to build human-centered solutions for the U.S. government, you can bet continuous training and upskilling are central to the IT charter.</p><p>For <a href="https://www.metrostar.com/" rel="noopener nofollow" target="_blank">MetroStar</a>, a solutions and digital services company catering to the public sector, it’s that emphasis on building creative and innovative technologist communities, coupled with a commitment to employee development, that has helped the 400-plus-person company land the top spot for small companies in <em>Computerworld</em>’s Best Places to Work in IT 2023 rankings.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3681340/metrostar-fast-fearless-it-culture-fueled-by-upskilling.html#jump">To read this article in full, please click here</a></p></section></article>
+

@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## How The Last Airbender Inspired Lisette Olivera
  - [https://gizmodo.com/how-the-last-airbender-inspired-lisette-olivera-1849876903](https://gizmodo.com/how-the-last-airbender-inspired-lisette-olivera-1849876903)
@@ -293,3 +293,4 @@
  - date published: 2022-12-09 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--sMhe_weH--/c_fit,fl_progressive,q_80,w_636/82a11178cb8b6519d8625f4d20ad4acd.png" /><p>Earlier this week, while preparing for a <a href="https://gizmodo.com/accessible-ttrpgs-elle-dwight-role-recommendations-1849802734">tabletop role playing game</a>, I was perusing my dice, trying to pick out a set of polyhedral dice (which consist of seven dice: a D4, <a href="https://gizmodo.com/medieval-cheater-s-dice-with-two-fours-and-fives-found-1825171270">D6</a>, D8, two D10s, D12, and a <a href="https://gizmodo.com/real-ancient-d20s-greece-egypt-rpgs-gallery-1848779772">D20</a>) that would best fit my Dragonborn Monk, <a href="https://gizmodo.com/dungeons-and-dragons-dnd-new-trailer-honor-thieves-1849853453">Teimuraz</a>. I found a set still in its packaging—my red-and-silver <a href="https://dispeldice.com/products/crimson-nebula-7-piece-polyhedral-dice-set" rel="noopener noreferrer" target="_blank">Crimson…</a></p><p><a href="https://gizmodo.com/dungeons-dragons-dnd-dice-how-to-uncurse-roll-20-1849871968">Read more...</a></p>
+

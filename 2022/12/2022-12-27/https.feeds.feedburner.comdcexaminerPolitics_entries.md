@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## West Virginia sees significant decline in chronic homelessness
  - [https://www.washingtonexaminer.com/news/west-virginia-sees-significant-decline-in-chronic-homelessness](https://www.washingtonexaminer.com/news/west-virginia-sees-significant-decline-in-chronic-homelessness)
@@ -13,3 +13,4 @@
  - date published: 2022-12-27 13:57:06+00:00
 
 (The Center Square) – Pittsburgh has been declared a World War II Heritage City by the National Parks Service in recognition of its wartime efforts, and crucial role in supporting the American war effort.
+

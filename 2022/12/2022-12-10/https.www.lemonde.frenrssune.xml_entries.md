@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Twitter relaunching subscriber service after debacle
  - [https://www.lemonde.fr/en/pixels/article/2022/12/11/twitter-relaunching-subscriber-service-after-debacle_6007303_13.html](https://www.lemonde.fr/en/pixels/article/2022/12/11/twitter-relaunching-subscriber-service-after-debacle_6007303_13.html)
@@ -160,3 +160,4 @@ The International Union for Conservation of Nature has published an update of it
  - date published: 2022-12-10 00:24:48+00:00
 
 Officers arrested Greek socialist MEP Eva Kaili hours after four other suspects had been detained for questioning. Belgium's federal prosecutor also conducted a series of raids at 16 addresses in Brussels.
+

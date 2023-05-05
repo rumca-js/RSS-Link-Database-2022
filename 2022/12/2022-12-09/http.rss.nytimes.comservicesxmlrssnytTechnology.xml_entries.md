@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Tell Us How Your Family Uses Alexa
  - [https://www.nytimes.com/2022/12/09/technology/personaltech/alexa-uses-kids.html](https://www.nytimes.com/2022/12/09/technology/personaltech/alexa-uses-kids.html)
@@ -27,3 +27,4 @@ OpenAI’s new chatbot is a coder, a teacher, a potential Google killer, and …
  - date published: 2022-12-09 06:04:35+00:00
 
 A group chat including crypto leaders shows Binance’s Changpeng Zhao accusing FTX’s Sam Bankman-Fried of orchestrating trades to destabilize the industry.
+

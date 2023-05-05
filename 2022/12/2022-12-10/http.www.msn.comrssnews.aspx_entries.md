@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Powerball Drawing for 12/10/22, Saturday Jackpot Is $116 Million
  - [http://www.msn.com/en-us/news/us/powerball-drawing-for-12-10-22-saturday-jackpot-is-116-million/ar-AA158vBS?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/powerball-drawing-for-12-10-22-saturday-jackpot-is-116-million/ar-AA158vBS?li=BBnbcA1&srcref=rss)
@@ -851,7 +851,6 @@
  - [http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-files-reveal-internal-debate-to-remove-mike-huckabee-tweet-including-election-joke/ar-AA1572de?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-files-reveal-internal-debate-to-remove-mike-huckabee-tweet-including-election-joke/ar-AA1572de?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-10 03:22:18.202690+00:00
- - tags: twitter,twitter files
 
 
 
@@ -1055,5 +1054,6 @@
  - [http://www.msn.com/en-us/news/politics/energy-environment-big-oil-doubles-down-on-fossil-house-documents/ar-AA156UBI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/energy-environment-big-oil-doubles-down-on-fossil-house-documents/ar-AA156UBI?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-10 00:21:58.689215+00:00
+
 
 

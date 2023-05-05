@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## Best Chromebook deals: Top picks from budget to midrange and more
  - [https://www.pcworld.com/article/1424553/best-chromebook-deals.html](https://www.pcworld.com/article/1424553/best-chromebook-deals.html)
@@ -137,3 +137,4 @@ Chromebooks</div>
 
 <p><em>Prices subject to change.</em></p>
 Microsoft, Microsoft Surface</div>
+

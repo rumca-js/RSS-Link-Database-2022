@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Australia v South Africa: second Test, day one – live
  - [https://www.theguardian.com/sport/live/2022/dec/26/australia-vs-south-africa-cricket-live-updates-score-second-test-boxing-day-one-latest-scores-aus-v-sa](https://www.theguardian.com/sport/live/2022/dec/26/australia-vs-south-africa-cricket-live-updates-score-second-test-boxing-day-one-latest-scores-aus-v-sa)
@@ -188,6 +188,13 @@
  - date published: 2022-12-25 14:00:04+00:00
 
 <p>Half the Hareth family obtained visas, but three sons faced years of danger and uncertainty, until they were recognised as refugees</p><p>A refugee family have celebrated their first festive season safely together in two and a half years after the Home Office abandoned threats to deport three of them because they arrived in the UK on a small boat.</p><p>The Hareth family – mother, Ferdowz, and father, Hussein, both 55, Hamzah, 27, Hassan, 25, Hazem, 24, and Azzam, 14, fled war in Yemen, but had very different journeys to the UK and contrasting experiences of dealing with the Home Office even though their circumstances were identical. </p> <a href="https://www.theguardian.com/uk-news/2022/dec/25/family-finally-united-in-the-uk-after-fleeing-yemen">Continue reading...</a>
+
+## After a year of rain, towns at the end of Australia’s giant river system await the slow, inevitable deluge
+ - [https://www.theguardian.com/australia-news/2022/dec/26/after-a-year-of-rain-towns-at-the-end-of-australias-giant-river-system-await-the-slow-inevitable-deluge](https://www.theguardian.com/australia-news/2022/dec/26/after-a-year-of-rain-towns-at-the-end-of-australias-giant-river-system-await-the-slow-inevitable-deluge)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-25 14:00:03+00:00
+
+<p>Some 4,000 properties and 200 businesses lie in the path of the water, as do Aboriginal burial grounds. The earth is saturated, and the water has nowhere to go</p><p>An enormous levee runs down Mannum’s main street. As the flood waters pour into South Australia from the eastern states, the river side of the town will be sacrificed. The other side, it is hoped, will be saved by the “<a href="https://www.abc.net.au/news/2022-12-15/river-murray-flood-emergency-warnings-forecast/101774260">great wall of Mannum</a>”.</p><p>The water has come a long way, over many months, on rivers that flow from more than 1,500km north across the Queensland border, and from almost 1,000km east in the Snowy Mountains on the border of New South Wales and Victoria.</p> <a href="https://www.theguardian.com/australia-news/2022/dec/26/after-a-year-of-rain-towns-at-the-end-of-australias-giant-river-system-await-the-slow-inevitable-deluge">Continue reading...</a>
 
 ## Long Covid patients using unproven and expensive treatments, experts warn
  - [https://www.theguardian.com/society/2022/dec/25/long-covid-patients-unproven-expensive-treatments-experts-warn](https://www.theguardian.com/society/2022/dec/25/long-covid-patients-unproven-expensive-treatments-experts-warn)
@@ -454,3 +461,4 @@
  - date published: 2022-12-25 00:00:10+00:00
 
 <p>She lets the dog spend the night with them; he thinks it’s gross. You make the call on where sleeping dogs should lie</p><p><em>Luna is always on our mattress at night, and I think it’s gross. She’s got a dog bed downstairs</em></p> <a href="https://www.theguardian.com/lifeandstyle/2022/dec/25/should-my-girlfriends-dog-stop-sleeping-in-our-bed">Continue reading...</a>
+

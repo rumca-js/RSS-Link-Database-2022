@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Soccer fans throng Paris streets as France reaches World Cup final
  - [https://www.nbcnews.com/video/paris-soccer-fans-celebrate-as-france-beats-morocco-to-reach-world-cup-final-157622341627](https://www.nbcnews.com/video/paris-soccer-fans-celebrate-as-france-beats-morocco-to-reach-world-cup-final-157622341627)
@@ -146,3 +146,4 @@ Political turmoil continues in Latin America with a series of actions against fo
  - date published: 2022-12-14 00:37:49+00:00
 
 The U.S. is poised to approve sending a Patriot missile battery to Ukraine, finally agreeing to an urgent request from Ukrainian leaders desperate for more
+

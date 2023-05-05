@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Bankman-Fried says he was careless at FTX. Prosecutors say it’s fraud.
  - [https://www.washingtonpost.com/business/2022/12/15/sbf-fraud-docs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/2022/12/15/sbf-fraud-docs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -41,3 +41,4 @@ Wyden cited a paragraph in the record of the Justice Department’s prosecution 
  - date published: 2022-12-15 03:00:40+00:00
 
 Some Tesla investors are concerned that Musk is focusing too much on the social media company and becoming more polarizing.
+

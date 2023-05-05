@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## OnePlus shares a new OnePlus 11 launch date and official images
  - [https://www.techradar.com/news/oneplus-shares-a-new-oneplus-11-launch-date-and-official-image](https://www.techradar.com/news/oneplus-shares-a-new-oneplus-11-launch-date-and-official-image)
@@ -48,3 +48,4 @@ Password managers are popular, but how much do we trust them? Our exclusive Tech
  - date published: 2022-12-26 01:55:44+00:00
 
 The 2022 after-Christmas sales event is live, and we have all the top deals from Walmart, Amazon, Target and more.
+

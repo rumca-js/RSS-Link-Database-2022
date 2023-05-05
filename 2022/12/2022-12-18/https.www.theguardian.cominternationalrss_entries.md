@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## Lakers’ Anthony Davis to miss multiple weeks with foot injury, sources say
  - [https://www.theguardian.com/sport/2022/dec/18/anthony-davis-foot-injury-time-out-los-angeles-lakers](https://www.theguardian.com/sport/2022/dec/18/anthony-davis-foot-injury-time-out-los-angeles-lakers)
@@ -874,3 +874,4 @@ Learning to control impulsivity does not come naturally, says Philippa Perry. Th
  - date published: 2022-12-18 00:05:34+00:00
 
 It may be the season of goodwill to all, but research shows that a burst of colourful swearing relieves stress and promotes bonding. Happy effing Christmas!<p>I’m sitting in a polite home in southeast London shouting, “Go piss up a rope ya fuckstick,” at a sofa cushion. This odd ejaculation is at the behest of Australian singing teacher Sam, who’s part of today’s four-woman therapeutic “cursing circle”, a group therapy trend that emerged, like all things in fringe therapeutics, on the west coast of America.</p><p>Sam, our group leader today, sees her compatriots’ reputation as experts of the profane as a form of honest discourse that might help uptight Britons improve our intimate relationships and let off steam. And it’s something that could be especially helpful at this time of year: a way of venting after a festive overload of troublesome relatives or office Christmas parties. Perhaps best not to vent in company, though, as Sam recommends hollering therapeutic profanities at volume towards inanimate objects when you are alone. This year, try dreaming of a blue Christmas rather than a white one.</p> <a href="https://www.theguardian.com/lifeandstyle/2022/dec/18/why-swearing-is-a-christmas-stress-buster">Continue reading...</a>
+

@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Ben Esposito was tired of ‘wholesome’ video games. Enter ‘Neon White.’
  - [https://www.washingtonpost.com/video-games/2022/07/22/neon-white-ben-esposito-profile/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/07/22/neon-white-ben-esposito-profile/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -20,3 +20,4 @@ Google is trying to make its phone cameras more inclusive. We put it to the test
  - date published: 2022-12-29 07:00:21+00:00
 
 Since launching in 2018, Dear Media has become one of the most prominent names in women’s media.
+

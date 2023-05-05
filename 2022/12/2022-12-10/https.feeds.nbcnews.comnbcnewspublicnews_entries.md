@@ -1,5 +1,3 @@
-# Source URL:https://feeds.nbcnews.com/nbcnews/public/news, Source language: en
-
 ## Harry and Meghan's new Netflix series isn't doing what they think it's doing
  - [https://www.nbcnews.com/think/opinion/netflixs-harry-meghan-keeps-royals-stuck-rcna61075](https://www.nbcnews.com/think/opinion/netflixs-harry-meghan-keeps-royals-stuck-rcna61075)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/news
@@ -27,3 +25,4 @@ More than 40 million borrowers like Joy Morales-Bartlett were eligible to cancel
  - date published: 2022-12-10 00:01:33+00:00
 
 Arizona Senator Kyrsten Sinema makes Joe Biden and the Democrat's life harder by becoming an independent. She's no John McCain.
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Saudi Arabia says Crown Prince MBS made 'personal efforts' to help free Brittney Griner
  - [https://www.dailymail.co.uk/news/article-11522825/Saudi-Arabia-says-Crown-Prince-MBS-personal-efforts-help-free-Brittney-Griner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11522825/Saudi-Arabia-says-Crown-Prince-MBS-personal-efforts-help-free-Brittney-Griner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -165,7 +165,6 @@ The White House denied President Biden had any involvement in Twitter's decision
  - [https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-09 22:05:44+00:00
- - tags: blackrock,esg
 
 BlackRock CEO Larry Fink is accused of environment, social and governance (ESG) activism that is 'simply at odds with BlackRock's duty to investors'.
 
@@ -1722,3 +1721,4 @@ William and Kate represent the values of Britain better than Harry and Meghan, a
  - date published: 2022-12-09 00:04:02+00:00
 
 Hassan Chokr, 35, dropped his pants and bared his bum in front of the female judge during a bond hearing after he was accused of hurling anti-Semitic slurs outside a temple.
+

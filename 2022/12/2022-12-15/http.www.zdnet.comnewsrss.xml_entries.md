@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## Low-code and no-code apps spur new job descriptions for software developers
  - [https://www.zdnet.com/article/low-code-and-no-code-apps-spur-new-job-descriptions-for-professional-developers/#ftag=RSSbaffb68](https://www.zdnet.com/article/low-code-and-no-code-apps-spur-new-job-descriptions-for-professional-developers/#ftag=RSSbaffb68)
@@ -216,3 +216,4 @@ With a good pair of headphones, working out can sometimes feel like a breeze. Th
  - date published: 2022-12-15 00:08:28+00:00
 
 The Surface Water and Ocean Topography (SWOT) satellite will observe nearly all water on Earth's surface, helping people on the coasts and inland better prepare for the effects of climate change.
+

@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## The parade may have been called off but Argentinians will still celebrate into the early hours
  - [https://news.sky.com/story/the-bus-parade-may-have-been-cancelled-but-argentinians-will-still-celebrate-into-the-early-hours-12772262](https://news.sky.com/story/the-bus-parade-may-have-been-cancelled-but-argentinians-will-still-celebrate-into-the-early-hours-12772262)
@@ -28,6 +28,13 @@ An open-air bus parade for Argentina's World Cup heroes had to be called off par
 
 Female students have been banned from universities in Afghanistan with immediate effect, the Taliban has said.
 
+## 'We want them home': Islanders demand return of 400-year-old skulls from Trinity College Dublin
+ - [https://news.sky.com/story/trinity-college-dublin-faces-islanders-demands-to-return-400-year-old-skulls-stolen-by-men-of-science-12772109](https://news.sky.com/story/trinity-college-dublin-faces-islanders-demands-to-return-400-year-old-skulls-stolen-by-men-of-science-12772109)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-20 17:59:00+00:00
+
+When the two men crept into the ruined island monastery to steal human skulls under the cover of darkness, they knew what they were doing was wrong even by the ethical standards of 1890.
+
 ## 'A really kind, good guy': Teammate of Iranian footballer facing death penalty speaks out
  - [https://news.sky.com/story/amir-nasr-azadani-teammate-of-iranian-footballer-facing-death-penalty-speaks-out-12772072](https://news.sky.com/story/amir-nasr-azadani-teammate-of-iranian-footballer-facing-death-penalty-speaks-out-12772072)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -56,9 +63,17 @@ He shoots, he scores... again. Lionel Messi has taken the lead for the most-like
 
 A number of people have reportedly died from starvation on a stranded boat, carrying 160 Rohingya refugees, which is adrift in Indian waters in the Andaman Sea.
 
+## The year everything changed: Sky News editors give verdicts on 2022 - and what's next
+ - [https://news.sky.com/story/sky-news-editors-give-their-verdicts-on-2022-and-what-might-happen-next-12771887](https://news.sky.com/story/sky-news-editors-give-their-verdicts-on-2022-and-what-might-happen-next-12771887)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-20 11:06:00+00:00
+
+It's been a year of tumultuous change in politics, global relations, science, economics and, of course, the Royal family.
+
 ## Argentina World Cup winners return home to Buenos Aires
  - [https://news.sky.com/story/argentina-world-cup-winners-return-home-to-buenos-aires-12771769](https://news.sky.com/story/argentina-world-cup-winners-return-home-to-buenos-aires-12771769)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-20 07:11:00+00:00
 
 After taking the World Cup crown, Argentina returned home to Buenos Aires on Tuesday with the country declaring the day of celebration as a national holiday.
+

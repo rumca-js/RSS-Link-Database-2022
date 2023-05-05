@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## The Mandalorian season 3 has been delayed—but only a little
  - [https://arstechnica.com/?p=1901454](https://arstechnica.com/?p=1901454)
@@ -97,3 +97,4 @@ Revisiting the wonder and betrayal of online life circa 1992.
  - date published: 2022-12-01 00:20:21+00:00
 
 Variston IT fingerprints found in source code for advanced Chrome exploit.
+

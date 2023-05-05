@@ -1,4 +1,60 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Transgender Boxing Category To Be Introduced In 2023
+ - [https://www.dailywire.com/news/transgender-boxing-category-to-be-introduced-in-2023](https://www.dailywire.com/news/transgender-boxing-category-to-be-introduced-in-2023)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 21:11:25+00:00
+
+World Boxing Council officials said in a report Thursday that the international professional prizefighting organization would create a new category for transgender fighters in 2023. Mauricio Sulaiman, the council president, told The Telegraph he believes it&#8217;s time for the sport to address issues of &#8220;safety and inclusion.&#8221; &#8220;We are going to put out a global ...
+
+## Oklahoma State Football Coach Blasts Reporter After Loss: ‘Don’t Be An A**’
+ - [https://www.dailywire.com/news/oklahoma-state-football-coach-blasts-reporter-after-loss-dont-be-an-a](https://www.dailywire.com/news/oklahoma-state-football-coach-blasts-reporter-after-loss-dont-be-an-a)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 20:51:14+00:00
+
+Oklahoma State head football coach Mike Gundy slammed a reporter this week during a press conference after his team lost their bowl game. The press conference took place Tuesday night after the Cowboy&#8217;s 24-17 loss to the Wisconsin Badgers in the Guaranteed Rate Bowl. A reporter asked Gundy, “With the portal now, staff changes happen ...
+
+## Andrew Tate Arrested After Clue In Video To Greta Thunberg Tipped Police Off That He Was In Country: Report
+ - [https://www.dailywire.com/news/andrew-tate-arrested-after-clue-in-video-to-greta-thunberg-tipped-police-off-that-he-was-in-country-report](https://www.dailywire.com/news/andrew-tate-arrested-after-clue-in-video-to-greta-thunberg-tipped-police-off-that-he-was-in-country-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 20:31:39+00:00
+
+Online personality Andrew Tate was detained Thursday by Romanian law enforcement on suspicion of rape, human trafficking, and organized crime after a clue in a video that he sent to far-left climate activist Greta Thunberg allegedly tipped off officials that he was in the country. Reuters reported that investigators found six women who had allegedly ...
+
+## Tulsi Gabbard Grills George Santos Over False Claims: ‘Do You Have No Shame?’
+ - [https://www.dailywire.com/news/tulsi-gabbard-grills-george-santos-over-false-claims-do-you-have-no-shame](https://www.dailywire.com/news/tulsi-gabbard-grills-george-santos-over-false-claims-do-you-have-no-shame)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 20:12:29+00:00
+
+Former Rep. Tulsi Gabbard grilled Rep.-elect George Santos of New York during a Fox News interview this week after Santos&#8217; alleged falsehoods about his background came to light and he admitted to fabricating aspects of his past. Gabbard, now an Independent and a Fox News contributor, interviewed Santos while guest hosting Tucker Carlson&#8217;s show. &#8220;The ...
+
+## ‘Some Sort Of Sick Joke’: U.K. Medical Center’s Christmas Message To Patients Goes Disastrously Wrong
+ - [https://www.dailywire.com/news/some-sort-of-sick-joke-u-k-medical-centers-christmas-message-to-patients-goes-disastrously-wrong](https://www.dailywire.com/news/some-sort-of-sick-joke-u-k-medical-centers-christmas-message-to-patients-goes-disastrously-wrong)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 19:43:14+00:00
+
+A medical practice in the United Kingdom accidentally told potentially thousands of its patients they had “aggressive lung cancer” two days before Christmas. Askern Medical Practice in Doncaster sent a text message to its patients on the Friday before Christmas Eve telling each they had “aggressive lung cancer with metastases,” as well as sending them ...
+
+## Revealed: Ray Epps Claimed He Believed Capitol Was Open To Public On January 6
+ - [https://www.dailywire.com/news/revealed-ray-epps-claimed-he-believed-capitol-was-open-to-public-on-january-6](https://www.dailywire.com/news/revealed-ray-epps-claimed-he-believed-capitol-was-open-to-public-on-january-6)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 19:12:35+00:00
+
+Ray Epps, a mysterious January 6 figure some theorized to be a federal informant, told congressional investigators he believed the U.S. Capitol was open to the public on the day of the riot. The assertion appears in a long-awaited transcript released Thursday by the House January 6 Committee, which released its final report last week. ...
+
+## Andrew Tate Detained In Romania In Human Trafficking Investigation: Report
+ - [https://www.dailywire.com/news/andrew-tate-detained-in-romania-in-human-trafficking-investigation-report](https://www.dailywire.com/news/andrew-tate-detained-in-romania-in-human-trafficking-investigation-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 18:31:58+00:00
+
+American-British media personality and former professional kickboxer Andrew Tate and his brother were detained in Romania in a human trafficking investigation Thursday along with a former policewoman, according to reports. Romanian authorities allegedly detained Tate and his brother at their luxury villa after armed police raided his residence searching for evidence related to the case ...
+
+## ICE Says It Can’t Find Records On Nearly 400,000 Illegal Immigrants It Should Be Monitoring
+ - [https://www.dailywire.com/news/ice-says-it-cant-find-records-on-nearly-400000-illegal-immigrants-it-should-be-monitoring](https://www.dailywire.com/news/ice-says-it-cant-find-records-on-nearly-400000-illegal-immigrants-it-should-be-monitoring)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-29 18:26:14+00:00
+
+U.S. Immigration and Customs Enforcement (ICE) has “no records” of hundreds of thousands of illegal immigrants it released into the United States. The Department of Homeland Security agency made its admission in response to a Freedom of Information Act (FOIA) request from Syracuse University’s Transactional Records Access Clearinghouse (TRAC). TRAC had requested information on 377,980 ...
 
 ## Austin’s Spiking Homeless Problem Comes To Head Over Frigid Christmas
  - [https://www.dailywire.com/news/austins-spiking-homeless-problem-comes-to-head-over-frigid-christmas](https://www.dailywire.com/news/austins-spiking-homeless-problem-comes-to-head-over-frigid-christmas)
@@ -251,3 +307,4 @@ Former first lady Michelle Obama revealed in an interview this month that she co
  - date published: 2022-12-29 07:53:41+00:00
 
 A newly released Pentagon report has concluded that U.S. military bases used to house Afghan nationals that were evacuated from Afghanistan amid President Joe Biden&#8217;s pullout from the country have sustained hundreds of millions of dollars worth of damage. The report comes after approximately 76,000 Afghan nationals were evacuated over a period of several days ...
+

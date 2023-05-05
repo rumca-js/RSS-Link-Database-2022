@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## ‘One of the oldest hatreds’: Netanyahu sees new source of antisemitism
  - [https://www.politico.com/news/2022/12/04/netanyahu-antisemitism-online-hatred-00072091](https://www.politico.com/news/2022/12/04/netanyahu-antisemitism-online-hatred-00072091)
@@ -13,3 +13,4 @@
  - date published: 2022-12-04 12:34:26+00:00
 
 “I can't be really chasing every one of these crazy statements that come out,” Rep. David Joyce said.
+

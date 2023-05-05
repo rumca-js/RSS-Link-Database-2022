@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## AMD RDNA 3 GPUs glimpsed at Amazon with price tags that’ll please
  - [https://www.techradar.com/news/amd-rdna-3-gpus-glimpsed-at-amazon-with-price-tags-thatll-please](https://www.techradar.com/news/amd-rdna-3-gpus-glimpsed-at-amazon-with-price-tags-thatll-please)
@@ -27,3 +27,4 @@ AWS and the NFL are building the "digital athlete" to revolutionize American Foo
  - date published: 2022-12-11 12:30:53+00:00
 
 Twitter is relaunching its premium Blue plan on Monday, and there are numerous benefits included in the deal.
+

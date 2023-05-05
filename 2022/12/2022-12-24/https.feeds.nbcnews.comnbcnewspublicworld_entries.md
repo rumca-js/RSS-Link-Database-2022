@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Watch: Video captures moment gas tanker explodes in Johannesburg, killing 8
  - [https://www.nbcnews.com/video/watch-video-captures-moment-gas-tanker-explodes-in-johannesburg-killing-8-158752325913](https://www.nbcnews.com/video/watch-video-captures-moment-gas-tanker-explodes-in-johannesburg-killing-8-158752325913)
@@ -48,3 +48,4 @@ St. Nicholas, Ukraine’s version of Santa Claus, is making a special stop at th
  - date published: 2022-12-24 00:09:57+00:00
 
 A five-year drought is causing a hunger crisis in East Africa. After NBC News’ Keir Simmons reported on the dire conditions in Kenya last month, UNICEF says viewers’ generosity led to half a million dollars in donations. However, 20 million children there still face drought conditions that are expected to worsen in 2023.
+

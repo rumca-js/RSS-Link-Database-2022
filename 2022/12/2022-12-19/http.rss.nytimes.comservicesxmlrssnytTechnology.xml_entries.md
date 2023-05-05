@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
+# Source:NY times technology, URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, language:en-US
 
 ## Sam Bankman-Fried Agrees to Be Extradited to the US
  - [https://www.nytimes.com/2022/12/19/business/sam-bankman-fried-extradition.html](https://www.nytimes.com/2022/12/19/business/sam-bankman-fried-extradition.html)
@@ -41,3 +41,4 @@ Sales contracts prevent buyers of the company’s electric cars from pursuing cl
  - date published: 2022-12-19 02:46:46+00:00
 
 Fury mounted over Mr. Musk’s moves to prevent Twitter users from sharing links to other social media platforms. The billionaire also asked whether he should remain as head of the service.
+

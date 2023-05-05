@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## FTX diverted $200 million of customer money for two venture deals that caught the SEC's attention
  - [https://www.cnbc.com/2022/12/28/ftx-used-200-million-of-customer-funds-for-two-venture-investments.html](https://www.cnbc.com/2022/12/28/ftx-used-200-million-of-customer-funds-for-two-venture-investments.html)
@@ -6,6 +6,20 @@
  - date published: 2022-12-28 22:53:40+00:00
 
 As Sam Bankman-Fried was using FTX customer money for all sorts of risky trading and lending, he was also making large venture investments.
+
+## AMC shares hit 52-week low as recent moves and gimmicks fail to win over investors
+ - [https://www.cnbc.com/2022/12/28/amc-entertainment-stock-falls-hits-low.html](https://www.cnbc.com/2022/12/28/amc-entertainment-stock-falls-hits-low.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-28 21:40:45+00:00
+
+Shares of AMC Entertainment have fallen more than 85% so far this year, sinking below $4.
+
+## 'Avatar: The Way of Water' crosses $1B in ticket sales in just 14 days: Here are the 10 highest-grossing movies of 2022
+ - [https://www.cnbc.com/2022/12/28/top-gun-to-avatar-these-are-the-highest-grossing-movies-of-2022.html](https://www.cnbc.com/2022/12/28/top-gun-to-avatar-these-are-the-highest-grossing-movies-of-2022.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-28 20:32:21+00:00
+
+With 'Avatar 2' crossing the $1 billion mark this week, the 2022 box office tripled the number of billion-dollar grossers from 2021.
 
 ## U.S. will require airline passengers traveling from China to test negative for Covid
  - [https://www.cnbc.com/2022/12/28/us-will-require-airline-passengers-traveling-from-china-to-test-negative-for-covid-.html](https://www.cnbc.com/2022/12/28/us-will-require-airline-passengers-traveling-from-china-to-test-negative-for-covid-.html)
@@ -60,7 +74,6 @@ CFOs expect the Dow Jones Industrial Average to fall below 30,000 and the econom
  - [https://www.cnbc.com/2022/12/28/zelenskyy-blackrock-ceo-fink-agree-to-coordinate-ukraine-investment.html](https://www.cnbc.com/2022/12/28/zelenskyy-blackrock-ceo-fink-agree-to-coordinate-ukraine-investment.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-28 11:54:37+00:00
- - tags: war,zelensky,blackrock,ukraine
 
 Ukrainian President Volodymyr Zelenskyy and BlackRock CEO Larry Fink have agreed to coordinate investment in rebuilding Ukraine, Kyiv announced on Wednesday
 
@@ -105,3 +118,4 @@ Vidit Agrawal of Indonesian startup GajiGesa says crazy growth is nice. But stay
  - date published: 2022-12-28 02:15:32+00:00
 
 While burnout is caused by a variety of factors, one thing remains in your control — the company that you choose to work for.
+

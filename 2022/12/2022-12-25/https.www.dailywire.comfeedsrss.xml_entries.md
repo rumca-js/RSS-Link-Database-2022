@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Neil DeGrasse Tyson Tries To Ruin Christmas. Again.
  - [https://www.dailywire.com/news/neil-degrasse-tyson-tries-to-ruin-christmas-again](https://www.dailywire.com/news/neil-degrasse-tyson-tries-to-ruin-christmas-again)
@@ -62,3 +62,4 @@ Twitter received intelligence reports from U.S. agencies raising concerns about 
  - date published: 2022-12-25 08:08:58+00:00
 
 A flurry of buses dropped off dozens of migrants at the Washington, D.C., residence of Vice President Kamala Harris on a frigid Christmas Eve. Texas Governor Greg Abbott and other Republicans leading southern states have arranged the transport of thousands of migrants to liberal enclaves such as Chicago, New York City, Martha&#8217;s Vineyard, and Washington, ...
+

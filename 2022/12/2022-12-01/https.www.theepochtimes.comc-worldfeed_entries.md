@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Workplace Rule Changes Become Law
  - [https://www.theepochtimes.com/workplace-rule-changes-become-law_4899143.html](https://www.theepochtimes.com/workplace-rule-changes-become-law_4899143.html)
@@ -377,3 +377,4 @@ Two Tesla model cars are charged by a Tesla supercharger at Tesla Motors in Toro
  - date published: 2022-12-01 01:00:17+00:00
 
 Several hundreds Chinese students at the University of Pennsylvania joined a candlelight vigil to mourn those who lost their lives in the Urumqi fire, in Xinjiang, in support of demonstrations in China calling for an end to COVID-19 lockdowns, on Nov. 29, 2022. (Leon Liu/The Epoch Times)
+

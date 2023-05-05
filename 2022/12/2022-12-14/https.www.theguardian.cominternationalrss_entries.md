@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
 ## ‘The whole world is proud’: France game a step too far for Morocco, says Regragui
  - [https://www.theguardian.com/football/2022/dec/14/france-semi-final-a-game-too-far-for-morocco-says-regragui](https://www.theguardian.com/football/2022/dec/14/france-semi-final-a-game-too-far-for-morocco-says-regragui)
@@ -972,3 +972,4 @@
  - date published: 2022-12-14 00:03:17+00:00
 
 <p>Argentina’s icon ran things again and took a step back in time to set up a clinching third goal as Croatia were swept aside</p><p>Does it actually matter if Lionel Messi wins a World Cup? This will now be the narrative around the dog days of his final global tournament leading up to the final on Sunday.</p><p>The reality is something else. In fact, watching Messi here the opposite seemed to be the case. This was not just a performance of edge and thrust and decisive moments but all of those things carved out of the air in his own unique physical style, a footballer capable, at 35, of basically making this thing up in his own image.</p> <a href="https://www.theguardian.com/football/blog/2022/dec/14/lionel-messi-sets-up-shot-at-destiny-with-throwback-brilliance-argentina-world-cup">Continue reading...</a>
+

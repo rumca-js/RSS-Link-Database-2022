@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Rząd wykorzysta KGHM do zbrojeń? Jest odpowiedź spółki na medialne doniesienia
  - [https://www.bankier.pl/wiadomosc/Rzad-wykorzysta-KGHM-do-zbrojen-Jest-odpowiedz-spolki-na-medialne-doniesienia-8451091.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rzad-wykorzysta-KGHM-do-zbrojen-Jest-odpowiedz-spolki-na-medialne-doniesienia-8451091.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -154,3 +154,4 @@ związane z federalną pomocą finansową dla małych przedsiębiorstw podczas
  pandemii Covid-19. Pobierały miliardowe opłaty, nie sprawdzając, czy 
 pożyczkobiorcy kwalifikują się do wsparcia - napisał dziennik 
 "Washington Post".</p>
+

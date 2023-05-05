@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## Noem takes aim at China again with letters to Congress, investment company
  - [https://www.washingtonexaminer.com/news/noem-takes-aim-at-china-again-with-letters-to-congress](https://www.washingtonexaminer.com/news/noem-takes-aim-at-china-again-with-letters-to-congress)
@@ -13,3 +13,4 @@
  - date published: 2022-12-22 00:04:53+00:00
 
 Benjamin Netanyahu unveiled a coalition agreement Wednesday, ushering in his return to the prime ministership nearly 18 months after his ouster.
+

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Ołeksij Reznikow o ukraińskiej kontrofensywie. "Wkrótce zostanie wznowiona"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-oleksij-reznikow-o-ukrainskiej-kontrofensywie-wkrotce-zostan,nId,6466575](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-oleksij-reznikow-o-ukrainskiej-kontrofensywie-wkrotce-zostan,nId,6466575)
@@ -345,3 +345,4 @@
  - date published: 2022-12-11 04:49:18+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-czy-11-grudnia-to-niedziela-handlowa-te-sklepy-beda-otwarte,nId,6460761"><img align="left" alt="Czy 11 grudnia to niedziela handlowa? Te sklepy będą otwarte " src="https://i.iplsc.com/czy-11-grudnia-to-niedziela-handlowa-te-sklepy-beda-otwarte/00066E2WE226P27Q-C321.jpg" /></a>Przepisy dotyczące zakazu handlu w niedzielę zostały zaostrzone w 2022 roku. W ciągu dwunastu miesięcy przewidziano zaledwie siedem niedziel handlowych. Grudzień pod tym względem jest wyjątkowym miesiącem. Czy dziś, czyli w niedzielę 11 grudnia, zrobimy zakupy i jakie sklepy będą otwarte?</p><br clear="all" />
+

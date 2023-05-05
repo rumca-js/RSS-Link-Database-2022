@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Yes, You Need to Clean Your Artificial Christmas Tree
  - [https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808](https://lifehacker.com/yes-you-need-to-clean-your-artificial-christmas-tree-1849842808)
@@ -13,3 +13,4 @@
  - date published: 2022-12-03 16:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--xOm5kb5X--/c_fit,fl_progressive,q_80,w_636/718845cd6be982c0b76ed38485812969.jpg" /><p>‘Tis the season for holiday houseguests and air mattresses. And chances are, you’ve either heard or said, “Don’t worry—we have an air mattress!” only to find out that it leaks. This discovery usually takes place late into the first night of the visit when everyone is exhausted, and just wants to go to bed.</p><p><a href="https://lifehacker.com/the-best-ways-to-fix-a-leaky-air-mattress-without-a-pat-1849842829">Read more...</a></p>
+

@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Use These Phrases to Sound More Credible at Work
  - [https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748](https://lifehacker.com/use-these-phrases-to-sound-more-credible-at-work-1849924748)
@@ -20,3 +20,4 @@
  - date published: 2022-12-26 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--knG1B0hO--/c_fit,fl_progressive,q_80,w_636/795c80fc8fc920b7c3219bd4baf5ec42.jpg" /><p>Sometimes you need to get a car from one part of the country to another, and driving it yourself isn’t an option. In situations like that, it often makes the most sense to ship your car.</p><p><a href="https://lifehacker.com/the-cheapest-way-to-ship-a-car-1849924771">Read more...</a></p>
+

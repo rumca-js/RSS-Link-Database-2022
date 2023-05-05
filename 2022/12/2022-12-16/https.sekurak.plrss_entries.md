@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## FBI ostrzega przed nowym trendem – cyberprzestępcy kradną duże dostawy jedzenia
  - [https://sekurak.pl/fbi-ostrzega-przed-nowym-trendem-cyberprzestepcy-kradna-duze-dostawy-jedzenia/](https://sekurak.pl/fbi-ostrzega-przed-nowym-trendem-cyberprzestepcy-kradna-duze-dostawy-jedzenia/)
@@ -31,3 +31,4 @@
 
 <p>Brzmi to nieco abstrakcyjnie, ale Associated Press donosi: Albańska prokuratura zażądała w środę aresztu domowego dla pięciu pracowników sektora publicznego, których obwiniają za brak ochrony kraju przed cyberatakiem ze strony rzekomych irańskich hakerów. Prokuratorzy stwierdzili, że pięciu informatyków administracji publicznej nie sprawdziło bezpieczeństwa systemu i nie zaktualizowało oprogramowania antywirusowego. Są...</p>
 <p>Artykuł <a href="https://sekurak.pl/albania-pieciu-rzadowym-adminom-grozi-kara-do-7-lat-wiezienia-nie-aktualizowali-oprogramowania-czym-ulatwili-cyberatak-na-kraj/" rel="nofollow">Albania: pięciu rządowym adminom grozi kara do 7 lat więzienia. &#8222;Nie aktualizowali oprogramowania, czym ułatwili cyberatak na kraj&#8221;</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

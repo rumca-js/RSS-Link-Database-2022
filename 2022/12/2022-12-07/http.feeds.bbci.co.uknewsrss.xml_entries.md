@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## Sunny Balwani: Former Theranos executive gets nearly 13 years in prison
  - [https://www.bbc.co.uk/news/world-us-canada-63895825?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63895825?at_medium=RSS&at_campaign=KARANGA)
@@ -622,3 +622,4 @@ The family of Lisa Dorrian say she does not deserve to be out there alone, as Cr
  - date published: 2022-12-07 00:01:13+00:00
 
 Singapore Airlines recently dropped its five-decade-old policy, after demands from human rights groups.
+

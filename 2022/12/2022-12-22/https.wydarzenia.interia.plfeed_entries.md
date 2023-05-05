@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Wojna w Ukrainie. Korea Północna dostarczyła broń Grupie Wagnera
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-korea-polnocna-dostarczyla-bron-grupie-wagn,nId,6489569](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wojna-w-ukrainie-korea-polnocna-dostarczyla-bron-grupie-wagn,nId,6489569)
@@ -513,3 +513,4 @@
  - date published: 2022-12-22 00:26:52+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-wolodymyr-zelenski-w-kongresie-w-przyszlym-roku-zobaczymy-pu,nId,6487391"><img align="left" alt="Wołodymyr Zełenski w Kongresie: W przyszłym roku zobaczymy punkt zwrotny" src="https://i.iplsc.com/wolodymyr-zelenski-w-kongresie-w-przyszlym-roku-zobaczymy-pu/000GIUQ5BNF6LGI9-C321.jpg" /></a>- Ukraina się nie poddała, Ukraina żyje i ma się dobrze - powiedział prezydent Wołodymyr Zełenski przed amerykańskim Kongresem. - Pokonaliśmy Rosję w walce o ludzkie umysły i to daje nam ogromną odwagę, a Amerykanie są też częścią tego wielkiego zwycięstwa, ponieważ wezwaliście cały świat do obrony naszych wartości. Rosyjska tyrania straciła nad nami kontrolę - podkreślił. Zełenski zapowiedział, że &quot;w przyszłym roku zobaczymy punkt zwrotny&quot;.</p><br clear="all" />
+

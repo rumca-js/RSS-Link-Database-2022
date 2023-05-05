@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## Akira Toriyama's Sand Land is Jumping Over to Anime
  - [https://gizmodo.com/sand-land-anime-adaptation-akira-toriyama-1849907650](https://gizmodo.com/sand-land-anime-adaptation-akira-toriyama-1849907650)
@@ -97,3 +97,4 @@
  - date published: 2022-12-17 00:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--DRmV7DVP--/c_fit,fl_progressive,q_80,w_636/eb244d295980d50c3a4481b6b177667d.png" /><p>American-Egyptian author Sara Hashem is preparing for her <a href="https://gizmodo.com/a-royal-reject-prepares-for-revolution-in-this-excerpt-1842644121">epic political</a> <a href="https://gizmodo.com/chloe-gong-fantasy-book-excerpt-immortal-longings-1849809292">fantasy</a> <a href="https://gizmodo.com/a-girl-prepares-her-brows-for-battle-in-this-excerpt-fr-1847362266">debut</a>, <em>The Jasad Heir</em>, inspired by her experiences living in Egypt. Hashem wrote this novel  to answer the question: “what do you owe to a place and a people you’ve barely known but without whom you wouldn’t exist?” As a fugitive queen…</p><p><a href="https://gizmodo.com/the-jasad-heir-sara-hashem-first-chapter-exclusive-look-1849905370">Read more...</a></p>
+

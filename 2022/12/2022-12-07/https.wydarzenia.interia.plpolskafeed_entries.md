@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Polska, URL:https://wydarzenia.interia.pl/polska/feed, language:pl-PL
 
 ## Wirus RSV u dzieci i dorosłych. Jakie ma objawy?
  - [https://wydarzenia.interia.pl/nauka/news-wirus-rsv-u-dzieci-i-doroslych-jakie-ma-objawy,nId,6456565](https://wydarzenia.interia.pl/nauka/news-wirus-rsv-u-dzieci-i-doroslych-jakie-ma-objawy,nId,6456565)
@@ -42,3 +42,4 @@
  - date published: 2022-12-07 08:57:00+00:00
 
 <p><a href="https://wydarzenia.interia.pl/kraj/news-zle-wiesci-dla-wlascicieli-domow-i-mieszkan-gdzie-podwyzka-p,nId,6456123"><img align="left" alt="Złe wieści dla właścicieli domów i mieszkań. Gdzie podwyżka podatku będzie najwyższa?" src="https://i.iplsc.com/zle-wiesci-dla-wlascicieli-domow-i-mieszkan-gdzie-podwyzka-p/00078QZD8IUSEM16-C321.jpg" /></a>Podatek od nieruchomości w 2023 to konieczność głębszego sięgnięcia do kieszeni. Miasta i gminy ogłaszają już stawki na przyszły rok, jednak już wiadomo, że podatek od nieruchomości kolejny raz będzie sposobem na ratowanie budżetów. W przypadku właścicieli nieruchomości o dużej powierzchni, podwyżka może znacząco obciążyć budżet. Zadowoleni nie będą przedsiębiorcy. Ile wynosi podatek od nieruchomości 2023? Oto maksymalne stawki podatku.</p><br clear="all" />
+

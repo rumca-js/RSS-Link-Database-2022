@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
+# Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
 ## Some day soon we might be making popcorn with infrared poppers
  - [https://arstechnica.com/?p=1885812](https://arstechnica.com/?p=1885812)
@@ -76,3 +76,4 @@ Intel Arc joins the fray, and Nvidia charges big money for big performance.
  - date published: 2022-12-27 12:15:38+00:00
 
 Gmail stops filtering political spam, Meta allows some death threats, and more.
+

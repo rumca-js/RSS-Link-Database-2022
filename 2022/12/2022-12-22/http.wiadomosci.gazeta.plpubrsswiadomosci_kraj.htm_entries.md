@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Odwilż w pełni. IMGW wydał alert pierwszego stopnia przed roztopami i marznącymi opadami
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29293874,odwilz-w-pelni-imgw-wydal-alert-pierwszego-stopnia-przed-roztopami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29293874,odwilz-w-pelni-imgw-wydal-alert-pierwszego-stopnia-przed-roztopami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -160,3 +160,4 @@
  - date published: 2022-12-22 06:00:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/40/ee/1b/z29290048M,Robert-Wojtowicz.jpg" vspace="2" />20 stycznia 1995 roku Robert Wójtowicz wyszedł na chwilę z domu, żeby wyrzucić śmieci. To właśnie wtedy 23-latek po raz ostatni był widziany przez rodzinę i kolegę z bloku. Po 20 latach od zaginięcia główne tropy zaczęły prowadzić do trzech byłych wikarych z parafii św. Maksymiliana Kolbe w Nowej Hucie-Mistrzejowicach. Po 27 latach, jak pisze ks. Isakowicz-Zaleski, nadal porusza zmowa milczenia wokół tej sprawy.
+

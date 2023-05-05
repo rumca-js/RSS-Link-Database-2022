@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Mississippi State running back Dillon Johnson trolls Mike Leach with transfer announcement
  - [https://www.foxnews.com/sports/mississippi-state-running-back-dillon-johnson-trolls-mike-leach-transfer-announcement](https://www.foxnews.com/sports/mississippi-state-running-back-dillon-johnson-trolls-mike-leach-transfer-announcement)
@@ -1126,3 +1126,4 @@ Former Buffalo Bills punter Matt Araiza will not face criminal charges in a 2021
  - date published: 2022-12-08 00:04:55+00:00
 
 New York Times union leaders called on Twitter followers to join a virtual picket line by not engaging with the publication during their day-long walkout.
+

@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Prezes URE zatwierdził taryfy, rząd zamroził ceny. Oto co zobaczymy na rachunkach
  - [https://businessinsider.com.pl/twoje-pieniadze/prezes-ure-zatwierdzil-taryfy-rzad-zamrozil-ceny-oto-co-zobaczymy-na-rachunkach/l9phlhs](https://businessinsider.com.pl/twoje-pieniadze/prezes-ure-zatwierdzil-taryfy-rzad-zamrozil-ceny-oto-co-zobaczymy-na-rachunkach/l9phlhs)
@@ -181,3 +181,4 @@ Nowy podatek dla właścicieli samochodów, wysłanie na orbitę pierwszego pols
  - date published: 2022-12-17 05:14:46+00:00
 
 Nigdy dotąd wyniki Holdingu PiS nie były o tyle wyższe od wyników dwudziestki największych prywatnych spółek notowanych na giełdzie. Różnica przekroczyła w trzecim kwartale 20 mld zł. Po konsolidacji Orlenu z Lotosem i PGNiG pod zarządem Daniela Obajtka jest gigant, przy którym zyski całej reszty państwowych firm to tylko tło.
+

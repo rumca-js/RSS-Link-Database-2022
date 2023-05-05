@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
 
 ## Sharon Osbourne was transported to a hospital after an emergency call
  - [https://www.cnn.com/2022/12/17/entertainment/sharon-osbourne-emergency-hospital-california/index.html](https://www.cnn.com/2022/12/17/entertainment/sharon-osbourne-emergency-hospital-california/index.html)
@@ -160,3 +160,4 @@ On Thursday, Elon Musk's ownership of Twitter entered a terrifying new phase whe
  - date published: 2022-12-17 00:18:15+00:00
 
 As Peru explodes in protest with supporters of its former president taking to streets, lawmakers on Friday rejected a constitutional reform that is needed to hold early general elections in 2023.
+

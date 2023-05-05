@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## This creepy Android flaw can detect your identity and even gender
  - [https://www.techradar.com/news/this-creepy-android-flaw-can-detect-your-identity-and-even-gender](https://www.techradar.com/news/this-creepy-android-flaw-can-detect-your-identity-and-even-gender)
@@ -62,3 +62,4 @@ Analyst Ming-Chi Kuo has some predictions about what's happening with Apple's iP
  - date published: 2022-12-28 07:30:04+00:00
 
 It was a pretty good year for AMD overall, but the heat of the competition proved challenging to say the least.
+

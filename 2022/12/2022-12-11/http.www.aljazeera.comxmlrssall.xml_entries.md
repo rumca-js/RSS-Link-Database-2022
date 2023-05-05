@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## American Black feminist, activist Dorothy Pitman Hughes dies, 84
  - [https://www.aljazeera.com/news/2022/12/11/america-black-feminist-activist-dorothy-pitman-hughes-dies-84](https://www.aljazeera.com/news/2022/12/11/america-black-feminist-activist-dorothy-pitman-hughes-dies-84)
@@ -216,3 +216,4 @@ Opposition party mobilises tens of thousands of supporters in Dhaka to protest p
  - date published: 2022-12-11 01:30:01+00:00
 
 Serbian president said he was under &#039;no illusion&#039; that NATO would agree to his request amid tension in northern Kosovo.
+

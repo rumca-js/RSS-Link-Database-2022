@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## Insights Shed Light on Australia’s Rate Hike Picture
  - [https://www.theepochtimes.com/insights-shed-light-on-australias-rate-hike-picture_4930794.html](https://www.theepochtimes.com/insights-shed-light-on-australias-rate-hike-picture_4930794.html)
@@ -216,3 +216,4 @@ Bricks of seized opium that were concealed in shipping pallets are displayed at 
  - date published: 2022-12-17 00:00:17+00:00
 
 Prime Minister Justin Trudeau takes part in a bilateral meeting with Prime Minister of Vietnam Pham Minh Chinh (not pictured) during the ASEAN Summit in Phnom Penh, Cambodia, on Nov. 12, 2022. (Sean Kilpatrick/The Canadian Press)
+

@@ -1,4 +1,18 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
+
+## Putin, Isolated and Distrustful, Leans on Handful of Hard-Line Advisers
+ - [https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184](https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-23 17:18:00+00:00
+
+Russia’s president built a power structure designed to deliver him the information he wants to hear, feeding into his miscalculations on the Ukraine war.
+
+## Russia Threatens to Cut Oil Output By Up to 7%
+ - [https://www.wsj.com/articles/russia-threatens-to-cut-oil-output-by-up-to-7-11671813859](https://www.wsj.com/articles/russia-threatens-to-cut-oil-output-by-up-to-7-11671813859)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-12-23 17:17:00+00:00
+
+Moscow comments over reducing production by up to 7%, or 700,000 barrels a day, boosts global crude prices
 
 ## Paris Shooting Kills at Least Three, With Kurdish Center Among Sites Hit
  - [https://www.wsj.com/articles/paris-shooting-leaves-at-least-two-people-dead-11671800024](https://www.wsj.com/articles/paris-shooting-leaves-at-least-two-people-dead-11671800024)
@@ -48,3 +62,4 @@ Core inflation rose at the fastest pace in nearly 41 years in November, fueling 
  - date published: 2022-12-23 08:38:00+00:00
 
 The spending is part of a record defense budget approved by the cabinet equivalent to $51.4 billion for the fiscal year starting in April.
+

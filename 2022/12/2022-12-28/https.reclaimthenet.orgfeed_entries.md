@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## $1.7 trillion spending bill requires platforms to verify ID of those earning $5,000 revenue per year
  - [https://reclaimthenet.org/spending-bill-tech-platforms-verifiy-id/](https://reclaimthenet.org/spending-bill-tech-platforms-verifiy-id/)
@@ -23,3 +23,4 @@
 
 <a href="https://reclaimthenet.org/seattle-banned-employees-holiday-symbols-in-virtual-workspaces/" rel="nofollow" title="Seattle &#8220;Workforce Equity Manager&#8221; banned employees from displaying religious holiday symbols in virtual workspaces"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/seattle-virtual-holid.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>A restriction for the Christmas and Hanukkah season.</p>
 <p>The post <a href="https://reclaimthenet.org/seattle-banned-employees-holiday-symbols-in-virtual-workspaces/" rel="nofollow">Seattle &#8220;Workforce Equity Manager&#8221; banned employees from displaying religious holiday symbols in virtual workspaces</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

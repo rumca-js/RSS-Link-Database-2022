@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## 9 of the Best New Things to Stream in December 2022
  - [https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676](https://lifehacker.com/9-of-the-best-new-things-to-stream-in-december-2022-1849835676)
@@ -132,3 +132,4 @@
  - date published: 2022-12-01 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--oV_cws95--/c_fit,fl_progressive,q_80,w_636/4493ee0262ee166fcf71aebc88b194fb.jpg" /><p>It’s no secret Instagram is plagued with fake accounts, bots, and impersonators. Just take a look at any comments section on any trending post and you’ll see it’s swarmed with thirst traps and crypto “moguls.” But there are far more elaborate fake accounts out there that have mastered the art of seeming genuine on the…</p><p><a href="https://lifehacker.com/how-to-tell-if-an-instagram-account-is-fake-1849838074">Read more...</a></p>
+

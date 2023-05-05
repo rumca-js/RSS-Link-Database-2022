@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Clojure is a trinity of language, REPL, and structural editor
  - [https://blog.jakubholy.net/2022/trinity-of-clojure/](https://blog.jakubholy.net/2022/trinity-of-clojure/)
@@ -710,3 +710,4 @@ The UI is rough, but I would love feedback on how to improve it for you. <a href
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33949131">https://news.ycombinator.com/item?id=33949131</a></p>
 <p>Points: 6</p>
 <p># Comments: 1</p>
+

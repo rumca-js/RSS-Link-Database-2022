@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## North Korea fires missile toward sea, South Korea says
  - [https://abcnews.go.com/International/wireStory/north-korea-fires-missile-sea-south-korea-95994313](https://abcnews.go.com/International/wireStory/north-korea-fires-missile-sea-south-korea-95994313)
@@ -60,7 +60,6 @@ Tampa Bay Buccaneers backup quarterback Blaine Gabbert became an unexpected hero
  - [https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766](https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-30 21:14:51+00:00
- - tags: privacy,google,tracking
 
 Google has agreed to pay Indiana $20 million to resolve the state&rsquo;s lawsuit against the technology giant over allegedly deceptive location tracking practices
 
@@ -259,3 +258,4 @@ A blistering independent report on Tennessee&rsquo;s lethal injection system has
  - date published: 2022-12-30 00:29:25+00:00
 
 A man accused of tampering with a voting machine during Colorado&rsquo;s primary election is mentally incompetent and cannot continue with court proceedings, a judge has ruled
+

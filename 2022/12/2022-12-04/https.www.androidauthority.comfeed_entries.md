@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Step aside ultrawide, ultra-tall monitors are perfect for reading and writing
  - [https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/](https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/)
@@ -20,3 +20,4 @@ Google's Nest Wifi Pro is fast, good-looking, and easy to use. Just don't expect
  - date published: 2022-12-04 13:00:49+00:00
 
 You can't scroll your way to the end of the rainbow.
+

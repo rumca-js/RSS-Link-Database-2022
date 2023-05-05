@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## MAIL ON SUNDAY COMMENT: A lesson from Mrs T on how to tame the unions and inflation
  - [https://www.dailymail.co.uk/news/article-11525075/MAIL-SUNDAY-COMMENT-lesson-Mrs-T-tame-unions-inflation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11525075/MAIL-SUNDAY-COMMENT-lesson-Mrs-T-tame-unions-inflation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -952,3 +952,4 @@ The Albany man, 38, was allegedly behind the wheel of the white Subaru Forester 
  - date published: 2022-12-10 00:01:26+00:00
 
 The woman, 49, was driving a blue Hyundai Getz into traffic on the Tonkin Highway in Kewdale, Perth at 8.10pm on Thursday when she smashed into a concrete barrier.
+

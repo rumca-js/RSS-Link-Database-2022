@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## 3 Steps To Create A Total Experience
  - [https://www.forbes.com/sites/servicenow/2022/12/21/3-steps-to-create-a-total-experience/](https://www.forbes.com/sites/servicenow/2022/12/21/3-steps-to-create-a-total-experience/)
@@ -531,3 +531,4 @@ The Realme 10 Pro Plus is a well-rounded entry level phone.
  - date published: 2022-12-21 01:00:00+00:00
 
 The astronomical theories about the source of the story about a bright star appearing in the east—and how to test some of them out yourself this Christmas.
+

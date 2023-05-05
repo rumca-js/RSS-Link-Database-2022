@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Upadek FTX. Część klientów ma odzyskać aktywa
  - [https://businessinsider.com.pl/gielda/upadek-ftx-czesc-klientow-ma-odzyskac-aktywa/0glz36b](https://businessinsider.com.pl/gielda/upadek-ftx-czesc-klientow-ma-odzyskac-aktywa/0glz36b)
@@ -440,3 +440,4 @@ Rynek fajerwerków w Polsce to pod względem wielkości ścisła światowa czoł
  - date published: 2022-12-30 05:00:00+00:00
 
 Jeszcze przed wejściem Polski do Unii Europejskiej nie brakowało obaw, że Niemcy będą "wykupywali" Szczecin. Stało się raczej coś odwrotnego – szczecinianie coraz częściej przeprowadzają się na "niemieckie" przedmieścia. Polskie firmy nie boją się inwestować w przygranicznych miejscowościach. Ostatnio zaś bliskość Szczecina przyciągnęła znane światowe marki, by otwierać wielkie fabryki w niedużych miejscowościach. Można więc już mówić, że Szczecin stał się centrum polsko-niemieckiej aglomeracji? Słychać to coraz częściej, ale na pewno nie z ust polskich polityków. "Aglomeracja" to dla nich prawdziwy gorący kartofel.
+

@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## China's plans to scrap Covid quarantine rules is a win for key Club holdings
  - [https://www.cnbc.com/2022/12/27/chinas-plans-scrap-covid-quarantine-rules-win-for-key-club-holdings.html](https://www.cnbc.com/2022/12/27/chinas-plans-scrap-covid-quarantine-rules-win-for-key-club-holdings.html)
@@ -14,12 +14,26 @@ China's latest move to roll back its zero-Covid policy by scrapping quarantine r
 
 Tesla shares slid 9% on Tuesday with investors continuing to flee the electric vehicle maker and CEO Elon Musk.
 
+## IBM beat all its large-cap tech peers in 2022 as investors shunned growth for safety
+ - [https://www.cnbc.com/2022/12/27/ibm-stock-outperformed-technology-sector-in-2022.html](https://www.cnbc.com/2022/12/27/ibm-stock-outperformed-technology-sector-in-2022.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-27 16:34:29+00:00
+
+The 111-year-old hardware, software and consulting conglomerate is benefiting from changing investor sentiment and a preference for cash over growth.
+
 ## 3 signs the 'pandemic economy' ended in 2022—even though Covid is still around
  - [https://www.cnbc.com/2022/12/27/3-signs-the-pandemic-economy-ended-in-2022-even-though-covid-is-still-around.html](https://www.cnbc.com/2022/12/27/3-signs-the-pandemic-economy-ended-in-2022-even-though-covid-is-still-around.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-27 16:31:04+00:00
 
 The Covid-19 pandemic changed a number of Americans' money habits. But not all of those changes were built to last.
+
+## 2023 could be another difficult year for the auto industry – here's why
+ - [https://www.cnbc.com/2022/12/27/why-2023-could-be-another-difficult-year-for-the-auto-industry.html](https://www.cnbc.com/2022/12/27/why-2023-could-be-another-difficult-year-for-the-auto-industry.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-27 15:34:26+00:00
+
+Supplies of new cars are finally improving. But will the automakers have to cut prices to find enough buyers?
 
 ## The benefits and risks of using a password manager to protect your online identity
  - [https://www.cnbc.com/2022/12/27/benefits-risks-of-using-a-password-manager-to-protect-online-identity.html](https://www.cnbc.com/2022/12/27/benefits-risks-of-using-a-password-manager-to-protect-online-identity.html)
@@ -48,6 +62,13 @@ Nio had expected to deliver up to 48,000 EVs in the fourth quarter, but Covid-li
  - date published: 2022-12-27 13:15:15+00:00
 
 The latest round of Western sanctions against Russia over its invasion of Ukraine are beginning to pinch the country's economy, economists have suggested.
+
+## Privacy and crypto will likely lead tech policy under split Congress as hope for passing ambitious antitrust reforms dwindles
+ - [https://www.cnbc.com/2022/12/27/privacy-and-crypto-will-likely-lead-tech-policy-under-split-congress.html](https://www.cnbc.com/2022/12/27/privacy-and-crypto-will-likely-lead-tech-policy-under-split-congress.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-27 13:00:01+00:00
+
+With split control of Congress next year, bipartisanship will be key to passing tech reforms.
 
 ## Chinese provinces hit hard by Covid are seeing a strain on critical care, health officials say
  - [https://www.cnbc.com/2022/12/27/chinese-provinces-hit-hard-by-covid-are-seeing-a-strain-on-critical-care-health-officials-say.html](https://www.cnbc.com/2022/12/27/chinese-provinces-hit-hard-by-covid-are-seeing-a-strain-on-critical-care-health-officials-say.html)
@@ -97,3 +118,4 @@ China announced Monday that starting Jan. 8, 2023, travelers will no longer need
  - date published: 2022-12-27 01:33:24+00:00
 
 The founders of sports tech start-up Dream Sports explain why workers who reach out to other employees during "unplug" time must pay a fine of about $1,200.
+

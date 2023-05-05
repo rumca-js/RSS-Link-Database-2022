@@ -1,4 +1,4 @@
-# Source Sekurak, Source URL:https://sekurak.pl/rss, Source language: pl-PL
+# Source:Sekurak, URL:https://sekurak.pl/rss, language:pl-PL
 
 ## LastPass – o co chodzi w wycieku haseł z tego managera i jaki jest koszt złamania wszystkich Twoich haseł?
  - [https://sekurak.pl/lastpass-o-co-chodzi-w-wycieku-hasel-z-tego-managera-i-jaki-jest-koszt-zlamania-wszystkich-twoich-hasel/](https://sekurak.pl/lastpass-o-co-chodzi-w-wycieku-hasel-z-tego-managera-i-jaki-jest-koszt-zlamania-wszystkich-twoich-hasel/)
@@ -15,3 +15,4 @@
 
 <p>Na jednym z polskich forów pojawiło się takie ogłoszenie: Rekordy zawierają dane: Login Imię/Nazwisko Telefon kupującego Nr przesyłki (InPost lub innej kurierskiej) Adres dostawy Zakupiony towar / kwota Data/godzina transakcji Dane nie zawierają więcej informacji o użytkownikach (np. ich haseł). Przed publikacją poprosiliśmy Allegro o ustosunkowanie się do tematu. Niedługo...</p>
 <p>Artykuł <a href="https://sekurak.pl/punktowy-wyciek-danych-kupujacych-na-allegro-dane-wystawiono-na-sprzedaz-incydent-nie-ma-charakteru-masowego/" rel="nofollow">Punktowy wyciek danych kupujących na Allegro. Dane wystawiono na sprzedaż. Incydent nie ma charakteru masowego.</a> pochodzi z serwisu <a href="https://sekurak.pl" rel="nofollow">Sekurak</a>.</p>
+

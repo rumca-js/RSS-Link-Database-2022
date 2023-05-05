@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Żaby stają się przezroczyste. Biologia po raz kolejny pokazuje swoją potęgę
  - [https://www.chip.pl/2022/12/jak-zaby-szklane-staja-sie-przezroczyste](https://www.chip.pl/2022/12/jak-zaby-szklane-staja-sie-przezroczyste)
@@ -55,3 +55,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="1200" src="https://konto.chip.pl/wp-content/uploads/2022/12/Lockheed-SR-71-Blackbird-2.jpg" style="margin-bottom: 10px;" width="1542" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/Lockheed-SR-71-Blackbird-2.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Zebraliśmy dla was dziesięć samolotów, których wygląd od razu przyciąga uwagę i budzi całą masę pytań. Poniższa lista obejmuje dzieła z ostatnich dekad, z całego świata, choć w zestawieniu królują projekty amerykańskie. Nie bez powodu, bo to właśnie w USA działają firmy pokroju Lockheed Martina, Northrop Grummana, Bella czy Boeinga, za którymi stoją nie tyle [&#8230;]</p>
+

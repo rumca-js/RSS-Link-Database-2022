@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## TikTok sued by Indiana AG for child safety, security issues
  - [https://www.zdnet.com/article/tiktok-sued-by-indiana-ag-for-child-safety-security-issues/#ftag=RSSbaffb68](https://www.zdnet.com/article/tiktok-sued-by-indiana-ag-for-child-safety-security-issues/#ftag=RSSbaffb68)
@@ -195,3 +195,4 @@ The Nest gadget, a 7-in-1 USB connectivity hub, is now on sale for a limited tim
  - date published: 2022-12-07 01:57:00+00:00
 
 Chromebooks offer fantastic features, such as touchscreens, fast processors, and decent storage, allowing you all the tools you need to knock out your work. And, you'll have some fun doing so.
+

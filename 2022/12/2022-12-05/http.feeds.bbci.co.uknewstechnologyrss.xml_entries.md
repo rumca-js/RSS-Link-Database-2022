@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Covid restrictions hit iPhone maker Foxconn
  - [https://www.bbc.co.uk/news/technology-63858872?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63858872?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ Surbhi Gupta, who was laid off in the US, on the uncertainties she and other vis
  - date published: 2022-12-05 00:07:05+00:00
 
 How Taiwanese phone fraud fighters are able to warn the world about the latest scams.
+

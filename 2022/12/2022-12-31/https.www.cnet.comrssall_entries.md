@@ -1,10 +1,23 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## Pixel 7 Settings: A Deep Dive Into Customizing Your New Phone     - CNET
+ - [https://www.cnet.com/tech/mobile/pixel-7-settings-a-deep-dive-into-customizing-your-new-phone/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-7-settings-a-deep-dive-into-customizing-your-new-phone/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-31 23:52:43+00:00
+
+Get the most out of your Google Pixel with a few tweaks to its out-of-the-box settings.
+
+## How to Watch, Stream Georgia vs. Ohio State in the Peach Bowl Today Without Cable     - CNET
+ - [https://www.cnet.com/tech/home-entertainment/how-to-watch-stream-georgia-vs-ohio-state-in-the-peach-bowl-today-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/how-to-watch-stream-georgia-vs-ohio-state-in-the-peach-bowl-today-without-cable/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-31 23:30:03+00:00
+
+The Bulldogs and Buckeyes meet in Atlanta on New Year's Eve in the semifinals of the College Football Playoff.
 
 ## Obsessed With Fridge Organization Videos on TikTok? Here's How You Can Do It Too     - CNET
  - [https://www.cnet.com/how-to/obsessed-with-fridge-organization-videos-on-tiktok-heres-how-you-can-do-it-too/#ftag=CADf328eec](https://www.cnet.com/how-to/obsessed-with-fridge-organization-videos-on-tiktok-heres-how-you-can-do-it-too/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 23:00:03+00:00
- - user: None
 
 Here's how to achieve the viral fridge look -- and how much it'll cost you.
 
@@ -12,7 +25,6 @@ Here's how to achieve the viral fridge look -- and how much it'll cost you.
  - [https://www.cnet.com/personal-finance/credit-cards/credit-card-mistakes-you-shouldnt-repeat-in-2023/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/credit-card-mistakes-you-shouldnt-repeat-in-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 21:36:42+00:00
- - user: None
 
 Improve your finances in the new year by avoiding some of the most common credit card mistakes.
 
@@ -20,7 +32,6 @@ Improve your finances in the new year by avoiding some of the most common credit
  - [https://www.cnet.com/personal-finance/maybe-dont-use-tiktok-for-financial-advice/#ftag=CADf328eec](https://www.cnet.com/personal-finance/maybe-dont-use-tiktok-for-financial-advice/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 21:12:00+00:00
- - user: None
 
 The most cringeworthy money tips we've seen on TikTok.
 
@@ -28,7 +39,6 @@ The most cringeworthy money tips we've seen on TikTok.
  - [https://www.cnet.com/deals/heres-the-one-amazon-prime-feature-you-cant-live-without-in-2023/#ftag=CADf328eec](https://www.cnet.com/deals/heres-the-one-amazon-prime-feature-you-cant-live-without-in-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 21:00:03+00:00
- - user: None
 
 Subscribe and save on all your favorites snacks, bathroom and kitchen essentials today.
 
@@ -36,7 +46,6 @@ Subscribe and save on all your favorites snacks, bathroom and kitchen essentials
  - [https://www.cnet.com/health/medical/is-this-a-heart-attack-heres-what-to-do-and-how-to-know/#ftag=CADf328eec](https://www.cnet.com/health/medical/is-this-a-heart-attack-heres-what-to-do-and-how-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 20:34:00+00:00
- - user: None
 
 Five tips that could save a life.
 
@@ -44,7 +53,6 @@ Five tips that could save a life.
  - [https://www.cnet.com/health/medical/why-making-that-doctors-appointment-should-be-your-2023-health-goal/#ftag=CADf328eec](https://www.cnet.com/health/medical/why-making-that-doctors-appointment-should-be-your-2023-health-goal/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 20:00:02+00:00
- - user: None
 
 Listen to that nagging voice in your head (or from your family member). It could save your life, now or later.
 
@@ -52,7 +60,6 @@ Listen to that nagging voice in your head (or from your family member). It could
  - [https://www.cnet.com/tech/home-entertainment/how-to-watch-stream-michigan-vs-tcu-in-the-fiesta-bowl-today-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/how-to-watch-stream-michigan-vs-tcu-in-the-fiesta-bowl-today-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 19:30:03+00:00
- - user: None
 
 The Wolverines and Horned Frogs meet in the desert on New Year's Eve in the semifinals of the College Football Playoff.
 
@@ -60,7 +67,6 @@ The Wolverines and Horned Frogs meet in the desert on New Year's Eve in the semi
  - [https://www.cnet.com/health/nutrition/your-guide-to-counting-calories-the-right-way/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/your-guide-to-counting-calories-the-right-way/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 17:07:36+00:00
- - user: None
 
 'Tis the season for renewed weight loss goals. But there's a right and a wrong way to count calories.
 
@@ -68,7 +74,6 @@ The Wolverines and Horned Frogs meet in the desert on New Year's Eve in the semi
  - [https://www.cnet.com/how-to/so-many-people-put-their-wi-fi-router-in-the-wrong-place-and-internet-speed-suffers/#ftag=CADf328eec](https://www.cnet.com/how-to/so-many-people-put-their-wi-fi-router-in-the-wrong-place-and-internet-speed-suffers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 17:04:18+00:00
- - user: None
 
 Put your Wi-Fi router in the right spot for a speedier-than-ever home internet connection.
 
@@ -76,7 +81,6 @@ Put your Wi-Fi router in the right spot for a speedier-than-ever home internet c
  - [https://www.cnet.com/how-to/5-google-home-settings-we-recommend-changing-during-setup/#ftag=CADf328eec](https://www.cnet.com/how-to/5-google-home-settings-we-recommend-changing-during-setup/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 17:01:00+00:00
- - user: None
 
 The default settings on your Google smart speaker aren't always ideal.
 
@@ -84,7 +88,6 @@ The default settings on your Google smart speaker aren't always ideal.
  - [https://www.cnet.com/health/sleep/7-insomnia-home-remedies-that-beat-counting-sheep/#ftag=CADf328eec](https://www.cnet.com/health/sleep/7-insomnia-home-remedies-that-beat-counting-sheep/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:54:00+00:00
- - user: None
 
 These natural insomnia fixes actually work.
 
@@ -92,7 +95,6 @@ These natural insomnia fixes actually work.
  - [https://www.cnet.com/health/mental/7-daily-habits-thatll-improve-your-mental-health-in-2023/#ftag=CADf328eec](https://www.cnet.com/health/mental/7-daily-habits-thatll-improve-your-mental-health-in-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:47:00+00:00
- - user: None
 
 Forget New Year's resolutions and aim for new healthy daily habits instead.
 
@@ -100,7 +102,6 @@ Forget New Year's resolutions and aim for new healthy daily habits instead.
  - [https://www.cnet.com/health/sleep/for-some-melatonin-does-more-harm-than-good-heres-what-to-try-instead/#ftag=CADf328eec](https://www.cnet.com/health/sleep/for-some-melatonin-does-more-harm-than-good-heres-what-to-try-instead/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:36:00+00:00
- - user: None
 
 If melatonin makes you groggy, there are alternative sleep supplements you can try.
 
@@ -108,7 +109,6 @@ If melatonin makes you groggy, there are alternative sleep supplements you can t
  - [https://www.cnet.com/tech/all-the-amazon-coupons-currently-active-in-one-lace/#ftag=CADf328eec](https://www.cnet.com/tech/all-the-amazon-coupons-currently-active-in-one-lace/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:32:00+00:00
- - user: None
 
 Did you know you can find extra deals every day by clipping Amazon Coupons?
 
@@ -116,7 +116,6 @@ Did you know you can find extra deals every day by clipping Amazon Coupons?
  - [https://www.cnet.com/tech/home-entertainment/new-tv-setup-the-settings-tweaks-we-always-recommend/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/new-tv-setup-the-settings-tweaks-we-always-recommend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:18:00+00:00
- - user: None
 
 New televisions never look or sound as good right out of the box.
 
@@ -124,7 +123,6 @@ New televisions never look or sound as good right out of the box.
  - [https://www.cnet.com/health/sleep/restful-sleep-warning-signs-youre-not-getting-enough/#ftag=CADf328eec](https://www.cnet.com/health/sleep/restful-sleep-warning-signs-youre-not-getting-enough/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:13:00+00:00
- - user: None
 
 Should you be tracking your sleep? Here's what to look out for and what you can do if you're still tired in the morning.
 
@@ -132,7 +130,6 @@ Should you be tracking your sleep? Here's what to look out for and what you can 
  - [https://www.cnet.com/how-to/hot-showers-without-worrying-about-that-energy-bill-a-simple-diy-you-should-try/#ftag=CADf328eec](https://www.cnet.com/how-to/hot-showers-without-worrying-about-that-energy-bill-a-simple-diy-you-should-try/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:09:00+00:00
- - user: None
 
 Give yourself the gift of cheaper, warmer water all year long.
 
@@ -140,7 +137,6 @@ Give yourself the gift of cheaper, warmer water all year long.
  - [https://www.cnet.com/health/medical/8-tips-to-quit-smoking/#ftag=CADf328eec](https://www.cnet.com/health/medical/8-tips-to-quit-smoking/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 16:00:02+00:00
- - user: None
 
 Try these tips to kick the habit for good.
 
@@ -148,7 +144,6 @@ Try these tips to kick the habit for good.
  - [https://www.cnet.com/culture/entertainment/this-dystopian-sci-fi-thriller-from-2006-feels-like-a-completely-different-movie-today/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/this-dystopian-sci-fi-thriller-from-2006-feels-like-a-completely-different-movie-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 15:52:37+00:00
- - user: None
 
 On my first date with my now-husband, we went to the movies and saw Children of Men. Rewatching it now, with a child of our own, the movie seems so different.
 
@@ -156,7 +151,6 @@ On my first date with my now-husband, we went to the movies and saw Children of 
  - [https://www.cnet.com/tech/mobile/i-nearly-replaced-my-apple-watch-with-this-swanky-luxe-hybrid-watch/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/i-nearly-replaced-my-apple-watch-with-this-swanky-luxe-hybrid-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 15:00:12+00:00
- - user: None
 
 A fancy hybrid timepiece, the Withings ScanWatch Horizon is packed with health trackers. But the Apple Watch is better at keeping me detached from my phone.
 
@@ -164,7 +158,6 @@ A fancy hybrid timepiece, the Withings ScanWatch Horizon is packed with health t
  - [https://www.cnet.com/health/sleep/6-best-duvet-covers-for-2023/#ftag=CADf328eec](https://www.cnet.com/health/sleep/6-best-duvet-covers-for-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 15:00:09+00:00
- - user: None
 
 Bring life back into your old bedding. See our top picks for the best duvet covers.
 
@@ -172,7 +165,6 @@ Bring life back into your old bedding. See our top picks for the best duvet cove
  - [https://www.cnet.com/how-to/9-things-you-dont-clean-around-your-home-but-should-asap/#ftag=CADf328eec](https://www.cnet.com/how-to/9-things-you-dont-clean-around-your-home-but-should-asap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 15:00:03+00:00
- - user: None
 
 From your ceiling fan to your remote control, these home items and appliances are often neglected.
 
@@ -180,7 +172,6 @@ From your ceiling fan to your remote control, these home items and appliances ar
  - [https://www.cnet.com/deals/rare-brumate-end-of-year-sale-up-to-30-percent-off/#ftag=CADf328eec](https://www.cnet.com/deals/rare-brumate-end-of-year-sale-up-to-30-percent-off/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:49:35+00:00
- - user: None
 
 If you want your cold drinks to stay cold, you need a Brumate. These sales don't come around often, so don't miss out.
 
@@ -188,7 +179,6 @@ If you want your cold drinks to stay cold, you need a Brumate. These sales don't
  - [https://www.cnet.com/personal-finance/social-security-disability-insurance-2023-when-to-expect-your-january-check/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-disability-insurance-2023-when-to-expect-your-january-check/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:45:02+00:00
- - user: None
 
 The SSDI payments for January include the cost-of-living adjustment increase for 2023.
 
@@ -196,7 +186,6 @@ The SSDI payments for January include the cost-of-living adjustment increase for
  - [https://www.cnet.com/deals/save-30-on-eufys-smart-scale-p2-and-grab-one-for-just-35-today/#ftag=CADf328eec](https://www.cnet.com/deals/save-30-on-eufys-smart-scale-p2-and-grab-one-for-just-35-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:38:54+00:00
- - user: None
 
 Ensure you hit your fitness goals this year with an affordable smart scale.
 
@@ -204,7 +193,6 @@ Ensure you hit your fitness goals this year with an affordable smart scale.
  - [https://www.cnet.com/health/nutrition/instead-of-calories-you-should-track-this-key-health-metric/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/instead-of-calories-you-should-track-this-key-health-metric/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:30:03+00:00
- - user: None
 
 Tracking your macronutrients could be the key to achieving your 2023 health goals.
 
@@ -212,7 +200,6 @@ Tracking your macronutrients could be the key to achieving your 2023 health goal
  - [https://www.cnet.com/tech/mobile/iphone-15-rumors-everything-were-hearing-about-apple-next-phone/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-15-rumors-everything-were-hearing-about-apple-next-phone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:00:21+00:00
- - user: None
 
 Our unofficial curtain-raiser on Apple's iPhone 15 series based on the most credible rumors circulating so far.
 
@@ -220,7 +207,6 @@ Our unofficial curtain-raiser on Apple's iPhone 15 series based on the most cred
  - [https://www.cnet.com/health/mental/8-self-soothing-habits-to-try-in-the-new-year/#ftag=CADf328eec](https://www.cnet.com/health/mental/8-self-soothing-habits-to-try-in-the-new-year/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:00:12+00:00
- - user: None
 
 These self-calming techniques can help you manage everyday stressors.
 
@@ -228,7 +214,6 @@ These self-calming techniques can help you manage everyday stressors.
  - [https://www.cnet.com/tech/mobile/transfer-your-google-authenticator-accounts-every-time-you-switch-phones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/transfer-your-google-authenticator-accounts-every-time-you-switch-phones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:00:08+00:00
- - user: None
 
 Don't leave your security codes behind when you change over to a new iPhone or Android phone.
 
@@ -236,7 +221,6 @@ Don't leave your security codes behind when you change over to a new iPhone or A
  - [https://www.cnet.com/health/fitness/burn-this-number-of-calories-in-a-day-to-lose-weight-according-to-experts/#ftag=CADf328eec](https://www.cnet.com/health/fitness/burn-this-number-of-calories-in-a-day-to-lose-weight-according-to-experts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 13:00:00+00:00
- - user: None
 
 If weight loss is on your list of New Year's resolutions, this is a good rule of thumb.
 
@@ -244,7 +228,6 @@ If weight loss is on your list of New Year's resolutions, this is a good rule of
  - [https://www.cnet.com/personal-finance/social-security-2023-heres-when-your-january-check-arrives/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-2023-heres-when-your-january-check-arrives/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 12:35:02+00:00
- - user: None
 
 Here's when you can expect your January Social Security check with the 2023 cost-of-living adjustment increase to arrive.
 
@@ -252,7 +235,6 @@ Here's when you can expect your January Social Security check with the 2023 cost
  - [https://www.cnet.com/deals/clever-ideas-to-use-your-new-gift-card-on/#ftag=CADf328eec](https://www.cnet.com/deals/clever-ideas-to-use-your-new-gift-card-on/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 12:00:13+00:00
- - user: None
 
 We've rounded up over 30 unique and affordable ideas that you can snag for less than $50 -- the perfect way to spend your new gift card.
 
@@ -260,7 +242,6 @@ We've rounded up over 30 unique and affordable ideas that you can snag for less 
  - [https://www.cnet.com/culture/ghosts-of-kennecott-exploring-an-abandoned-copper-mine-in-alaska/#ftag=CADf328eec](https://www.cnet.com/culture/ghosts-of-kennecott-exploring-an-abandoned-copper-mine-in-alaska/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 12:00:07+00:00
- - user: None
 
 The abandoned Kennecott Copper Mine in Alaska is unlike any place you've ever seen.
 
@@ -268,7 +249,6 @@ The abandoned Kennecott Copper Mine in Alaska is unlike any place you've ever se
  - [https://www.cnet.com/tech/mobile/more-airpods-pro-owners-should-know-these-features/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/more-airpods-pro-owners-should-know-these-features/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 12:00:02+00:00
- - user: None
 
 Here are 13 AirPods Pro tips to help master your Apple wireless earbuds.
 
@@ -276,7 +256,6 @@ Here are 13 AirPods Pro tips to help master your Apple wireless earbuds.
  - [https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 08:00:03+00:00
- - user: None
 
 Experts discuss the pros and cons of the most popular weight loss programs. Find out what they have to say.
 
@@ -284,7 +263,6 @@ Experts discuss the pros and cons of the most popular weight loss programs. Find
  - [https://www.cnet.com/culture/entertainment/barbara-walters-trailblazing-tv-journalist-dies-at-93/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/barbara-walters-trailblazing-tv-journalist-dies-at-93/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 03:42:00+00:00
- - user: None
 
 Walters was the first woman to anchor an evening news broadcast in the US.
 
@@ -292,7 +270,6 @@ Walters was the first woman to anchor an evening news broadcast in the US.
  - [https://www.cnet.com/deals/improve-your-target-shopping-experience-with-these-4-simple-tips/#ftag=CADf328eec](https://www.cnet.com/deals/improve-your-target-shopping-experience-with-these-4-simple-tips/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 00:45:03+00:00
- - user: None
 
 Save on your next trip to Target with these tips and tricks.
 
@@ -300,6 +277,6 @@ Save on your next trip to Target with these tips and tricks.
  - [https://www.cnet.com/how-to/its-time-to-break-up-with-your-provider-heres-how-to-cancel-your-internet-service/#ftag=CADf328eec](https://www.cnet.com/how-to/its-time-to-break-up-with-your-provider-heres-how-to-cancel-your-internet-service/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-31 00:15:02+00:00
- - user: None
 
 Say goodbye to your current broadband service. These steps break down how to cancel your internet provider.
+

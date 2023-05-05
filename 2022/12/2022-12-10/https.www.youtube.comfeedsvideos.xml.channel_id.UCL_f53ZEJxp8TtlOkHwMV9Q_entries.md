@@ -1,4 +1,4 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
+# Source:Jordan B Peterson, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, language:en-US
 
 ## How Can God Be Good in a World Full of Suffering?
  - [https://www.youtube.com/watch?v=MXnd0oxfx_I](https://www.youtube.com/watch?v=MXnd0oxfx_I)
@@ -37,3 +37,4 @@ Telegram: https://t.me/DrJordanPeterson
 All socials: https://linktr.ee/drjordanbpeterson
 
 #JordanPeterson #JordanBPeterson #DrJordanPeterson #DrJordanBPeterson #DailyWirePlus
+

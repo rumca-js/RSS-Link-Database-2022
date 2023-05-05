@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Staffordshire terrier attacks 10-year-old boy in Palmerston Northern Territory
  - [https://www.dailymail.co.uk/news/article-11559605/Staffordshire-terrier-attacks-10-year-old-boy-Palmerston-Northern-Territory.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559605/Staffordshire-terrier-attacks-10-year-old-boy-Palmerston-Northern-Territory.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1714,3 +1714,4 @@ The Bank of England has unveiled his portrait for the notes, taken from an origi
  - date published: 2022-12-20 00:07:01+00:00
 
 NASCAR tweeted a message stating 'Happy Holidays' which appeared to irate several followers online. NASCAR has a largely Christian and conservative fan base in the southeastern U.S.
+

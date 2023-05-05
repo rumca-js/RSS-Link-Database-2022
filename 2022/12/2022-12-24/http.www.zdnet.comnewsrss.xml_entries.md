@@ -1,4 +1,11 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## Big Ass Fans Haiku Generation 4: IoT's a Breeze
+ - [https://www.zdnet.com/article/big-ass-fans-haiku-generation-4-iots-a-breeze/#ftag=RSSbaffb68](https://www.zdnet.com/article/big-ass-fans-haiku-generation-4-iots-a-breeze/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-24 23:58:32+00:00
+
+Starting at $1600, are these smart ceiling fans worth the money?
 
 ## Google's leaked product roadmap looks strikingly familiar
  - [https://www.zdnet.com/article/googles-leaked-product-roadmap-looks-strikingly-familiar/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-leaked-product-roadmap-looks-strikingly-familiar/#ftag=RSSbaffb68)
@@ -27,3 +34,4 @@ Samsung is trying to do what it did before, but in a vastly different world. May
  - date published: 2022-12-24 06:36:00+00:00
 
 Internet service provider will transfer its broadband subscriber base to Superloop, as it exits the Australian market in a bid to "refocus towards profitability" and its domestic Singapore market.
+

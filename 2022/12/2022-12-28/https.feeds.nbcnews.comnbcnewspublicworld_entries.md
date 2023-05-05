@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Top court bans guns from Brazil's capital ahead of Lula inauguration
  - [https://www.nbcnews.com/news/world/brazil-lula-president-inauguration-gun-ban-brasilia-supreme-court-rcna63511](https://www.nbcnews.com/news/world/brazil-lula-president-inauguration-gun-ban-brasilia-supreme-court-rcna63511)
@@ -69,3 +69,4 @@ Novak Djokovic has arrived in Australia almost a year after he was deported over
  - date published: 2022-12-28 08:15:11+00:00
 
 Rohingya Muslims who survived a harrowing 40 days on a boat across the Indian Ocean to end up in Indonesia have recounted stories of hunger and desperation.
+

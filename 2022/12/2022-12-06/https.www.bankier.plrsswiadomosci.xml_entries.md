@@ -1,4 +1,4 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
 ## Węgry znoszą limit cen na paliwo. Liczne problemy na stacjach
  - [https://www.bankier.pl/wiadomosc/Wegry-znosza-limit-cen-na-paliwo-Liczne-problemy-na-stacjach-8452373.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wegry-znosza-limit-cen-na-paliwo-Liczne-problemy-na-stacjach-8452373.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -433,3 +433,4 @@ Consumer Finance.</p>
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/1/a85a55b37625ef-948-568-15-100-1985-1190.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Zaglądając pod podszewkę „payrollsów” widać, że
 z amerykańskim rynkiem pracy nie jest tak dobrze, jak to na pierwszy rzut oka
 wygląda</p>
+

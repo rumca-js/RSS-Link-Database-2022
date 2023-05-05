@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Actor Orlando Brown pleads not guilty to assault charges
  - [http://www.msn.com/en-us/news/crime/actor-orlando-brown-pleads-not-guilty-to-assault-charges/ar-AA15DnmY?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/actor-orlando-brown-pleads-not-guilty-to-assault-charges/ar-AA15DnmY?li=BBnbcA1&srcref=rss)
@@ -935,5 +935,6 @@
  - [http://www.msn.com/en-us/news/crime/rapper-tory-lanez-found-guilty-on-all-charges-in-shooting-of-megan-thee-stallion/ar-AA15C8uh?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/rapper-tory-lanez-found-guilty-on-all-charges-in-shooting-of-megan-thee-stallion/ar-AA15C8uh?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-24 00:07:47.755550+00:00
+
 
 

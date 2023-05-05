@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## Why You Should Customize the Apps and Widgets on Your iPhone Home Screen     - CNET
  - [https://www.cnet.com/tech/services-and-software/why-you-should-customize-your-apps-and-widgets-on-your-iphone-home-screen/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/why-you-should-customize-your-apps-and-widgets-on-your-iphone-home-screen/#ftag=CADf328eec)
@@ -398,3 +398,4 @@ Once you've unboxed your Google Home smart speaker, don't just set it up and for
  - date published: 2022-12-28 00:15:03+00:00
 
 Your home internet connection will be speedier than ever if you put your router in the proper spot.
+

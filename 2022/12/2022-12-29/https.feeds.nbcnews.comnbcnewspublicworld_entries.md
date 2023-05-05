@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
 
 ## Vivienne Westwood, influential fashion maverick, dies at 81
  - [https://www.nbcnews.com/news/obituaries/vivienne-westwood-influential-fashion-maverick-dies-81-rcna63671](https://www.nbcnews.com/news/obituaries/vivienne-westwood-influential-fashion-maverick-dies-81-rcna63671)
@@ -83,3 +83,4 @@ A fire burning through a Cambodian hotel casino has killed at least 10 people an
  - date published: 2022-12-29 00:12:27+00:00
 
 Pope Francis revealed his predecessor, Benedict XVI, is very sick in a call for prayers during his general audience. The 95-year-old’s condition worsened due to his age, the Vatican says.
+

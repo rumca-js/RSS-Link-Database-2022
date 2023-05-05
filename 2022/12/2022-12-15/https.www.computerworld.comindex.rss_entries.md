@@ -1,4 +1,4 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
 
 ## Microsoft calls time out on Apple Watch Authenticator
  - [https://www.computerworld.com/article/3683471/microsoft-calls-time-out-on-apple-watch-authenticator.html#tk.rss_all](https://www.computerworld.com/article/3683471/microsoft-calls-time-out-on-apple-watch-authenticator.html#tk.rss_all)
@@ -36,3 +36,4 @@
 <article>
 	<section class="page">
 <p>Within a week of ChatGPT’s November 30, 2022, launch, the AI-powered conversation tool was the talk of the (media) town, fascinating early users with its <a href="https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html">conversational abilities and even creativity</a>. Soon, the enthusiasts exclaimed, we won’t need people to write marketing copy, ads, essays, reports, or pretty much anything other than the most specialized scientific reports. And AI will be able to handle all our customer service calls, appointment-making, and other routine conversations.</p><p>Not so fast! My own experiments with the underlying technology suggest we have a ways to go before we get there.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html#jump">To read this article in full, please click here</a></p></section></article>
+

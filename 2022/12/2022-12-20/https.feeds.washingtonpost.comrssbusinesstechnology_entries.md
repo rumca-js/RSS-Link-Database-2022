@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## A couple’s car fell 300 feet. A new iPhone feature aided their rescue.
  - [https://www.washingtonpost.com/nation/2022/12/20/iphone-crash-detection-couple-saved/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/12/20/iphone-crash-detection-couple-saved/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -55,3 +55,4 @@ Opt for YouTube Kids. Check out these three great kids channels. And try more ti
  - date published: 2022-12-20 04:00:08+00:00
 
 Digital Minister Taro Kono wants to take Japan’s government out of the analog age and into the digital.
+

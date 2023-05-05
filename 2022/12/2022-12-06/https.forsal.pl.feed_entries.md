@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Departament Stanu USA zgodził się na sprzedaż Polsce 116 czołgów Abrams
  - [https://forsal.pl/swiat/bezpieczenstwo/artykuly/8604661,departament-stanu-usa-zgodzil-sie-na-sprzedaz-polsce-116-czolgow-m1a1-abrams.html](https://forsal.pl/swiat/bezpieczenstwo/artykuly/8604661,departament-stanu-usa-zgodzil-sie-na-sprzedaz-polsce-116-czolgow-m1a1-abrams.html)
@@ -440,3 +440,4 @@
  - date published: 2022-12-06 05:30:02+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/TxuktkuTURBXy9hOTU4NDFjNS05NzIyLTQ2NjUtYmM0MC1jN2JjMjAxNWY4ZmQuanBlZ5GTBc0BHcyg" />Imponujące. Szokujące. To koniec zawodów opartych na tworzeniu tekstów. Tego rodzaju opinie towarzyszą uruchomionej przed kilkoma dniami technologicznej nowince – chatbotowi działającemu w oparciu sztuczną inteligencję. Stworzyła go kalifornijska organizacja non-profit OpenAI Inc.
+

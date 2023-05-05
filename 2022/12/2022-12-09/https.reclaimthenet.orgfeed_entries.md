@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
 
 ## Dr. Jay Bhattacharya says he “strongly” suspects federal government directed Twitter to blacklist his account
  - [https://reclaimthenet.org/jay-bhattacharya-government-twitter-blacklist/](https://reclaimthenet.org/jay-bhattacharya-government-twitter-blacklist/)
@@ -63,3 +63,4 @@
 
 <a href="https://reclaimthenet.org/documents-show-how-twitter-shadow-banned-users/" rel="nofollow" title="Documents show how Twitter shadow banned users"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/twitter-shadow-ban.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>"We control the amplification of your content quite a bit. And normal people do not know how much we do."</p>
 <p>The post <a href="https://reclaimthenet.org/documents-show-how-twitter-shadow-banned-users/" rel="nofollow">Documents show how Twitter shadow banned users</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

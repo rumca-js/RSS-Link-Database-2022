@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
 
 ## Biden's lavish lobster dinner doesn't change his hostility to seafood industry, fish groups say
  - [http://www.msn.com/en-us/news/politics/biden-s-lavish-lobster-dinner-doesn-t-change-his-hostility-to-seafood-industry-fish-groups-say/ar-AA14NBf4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/biden-s-lavish-lobster-dinner-doesn-t-change-his-hostility-to-seafood-industry-fish-groups-say/ar-AA14NBf4?li=BBnbcA1&srcref=rss)
@@ -494,5 +494,6 @@
  - [http://www.msn.com/en-us/news/us/grieving-family-shares-warning-after-catfishing-scam-led-to-3-slayings/ar-AA14MMZU?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/grieving-family-shares-warning-after-catfishing-scam-led-to-3-slayings/ar-AA14MMZU?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-01 15:34:16.863597+00:00
+
 
 

@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Switzerland qualifies after tense 3-2 victory over Serbia
  - [https://www.lemonde.fr/en/sports/article/2022/12/02/switzerland-advances-after-tense-3-2-victory-over-serbia_6006434_9.html](https://www.lemonde.fr/en/sports/article/2022/12/02/switzerland-advances-after-tense-3-2-victory-over-serbia_6006434_9.html)
@@ -188,3 +188,4 @@ A unanimous federal appeals court on Thursday, December 1, halted a third-party 
  - date published: 2022-12-02 00:32:42+00:00
 
 The Ukrainian National security and defense council instructed its government on Thursday, December 1, to propose to the country's parliament a bill on proscribing activities by religious organizations affiliated with centers of influence in Russia.
+

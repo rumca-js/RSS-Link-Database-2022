@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## NBA Legend Alonzo Mourning’s Journey From Kidney Scare To Health Advocate
  - [https://www.forbes.com/sites/lipiroy/2022/12/02/nba-legend-alonzo-mournings-journey-from-kidney-scare-to-health-advocate/](https://www.forbes.com/sites/lipiroy/2022/12/02/nba-legend-alonzo-mournings-journey-from-kidney-scare-to-health-advocate/)
@@ -475,3 +475,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-12-02 00:06:17+00:00
 
 New Device Captures Movement in the Metaverse
+

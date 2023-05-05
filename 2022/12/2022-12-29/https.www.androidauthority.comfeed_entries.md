@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## WhatsApp Communities: Everything you need to know
  - [https://www.androidauthority.com/whatsapp-communities-explained-3261009/](https://www.androidauthority.com/whatsapp-communities-explained-3261009/)
@@ -83,3 +83,4 @@ Over 80% of respondents thought the good outweighed the bad for Google in 2022.
  - date published: 2022-12-29 06:11:19+00:00
 
 The Poco F5 Pro could be a well-rounded flagship if it's based on the Redmi K60
+

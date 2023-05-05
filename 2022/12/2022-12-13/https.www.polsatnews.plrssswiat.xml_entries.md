@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## USA. CNN: Administracja Joe Bidena finalizuje plany wysłania systemu Patriot na Ukrainę
  - [https://www.polsatnews.pl/wiadomosc/2022-12-13/usa-cnn-administracja-bidena-finalizuje-plany-wyslania-systemu-patriot-an-ukraine/](https://www.polsatnews.pl/wiadomosc/2022-12-13/usa-cnn-administracja-bidena-finalizuje-plany-wyslania-systemu-patriot-an-ukraine/)
@@ -62,3 +62,4 @@ Alaksandr Łukaszenka polecił białoruskiemu Ministerstwu Obrony Narodowej nag�
  - date published: 2022-12-13 07:53:00+00:00
 
 Dave Chappelle zaprosił właściciela Twittera do udziału w swoim programie komediowym. Publiczność z San Francisco, delikatnie mówiąc, nie była jednak entuzjastycznie nastawiona do miliardera i bezlitośnie wymierzyła w jego stronę salwę gwizdów.
+

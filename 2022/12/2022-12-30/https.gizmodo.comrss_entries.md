@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
 
 ## A Chatty Rock Meets a Reckless Soldier in This Gory and Delightful Fantasy Short
  - [https://gizmodo.com/fantasy-short-film-rock-of-ages-talking-rock-iceland-1849934395](https://gizmodo.com/fantasy-short-film-rock-of-ages-talking-rock-iceland-1849934395)
@@ -48,3 +48,4 @@
  - date published: 2022-12-30 00:30:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--ECOE6_Jy--/c_fit,fl_progressive,q_80,w_636/abc96cf63384432010aea40e4e2db60a.jpg" /><p>The travel nightmare wreaking havoc on the lives of thousands of Southwest Airlines passengers and staff may finally come to an end on Friday, at least according to the company.</p><p><a href="https://gizmodo.com/southwest-airlines-resume-normal-operations-december-30-1849939147">Read more...</a></p>
+

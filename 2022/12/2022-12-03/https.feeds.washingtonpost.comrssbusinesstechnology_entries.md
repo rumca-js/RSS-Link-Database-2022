@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## White House rebukes Trump’s suggestion to suspend Constitution over 2020 election
  - [https://www.washingtonpost.com/politics/2022/12/03/trump-constitution-truth-social/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/politics/2022/12/03/trump-constitution-truth-social/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +34,4 @@ Fans who have turned against Ye for his antisemitic remarks began flooding the r
  - date published: 2022-12-03 07:00:00+00:00
 
 The Department of Homeland Security on Wednesday warned that domestic terrorists were maintaining “a visible presence online in attempts to motivate supporters to conduct attacks.”
+

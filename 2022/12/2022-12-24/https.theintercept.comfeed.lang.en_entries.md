@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## Subpoenaed Fossil Fuel Documents Reveal an Industry Stuck in the Past
  - [https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/](https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/)
@@ -23,3 +23,4 @@
 
 <p>The race was neck and neck, but outside Republican groups put almost no cash into Santos’s effort.</p>
 <p>The post <a href="https://theintercept.com/2022/12/24/george-santos-election-republicans/" rel="nofollow">Did Republicans Know About George Santos Before the Election?</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

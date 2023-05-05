@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
+# Source:Polsat News, URL:https://www.polsatnews.pl/rss/swiat.xml, language:pl-PL
 
 ## Maria Pirogowa nie żyje. Była deputowaną separatystycznej republiki Doniecka
  - [https://www.polsatnews.pl/wiadomosc/2022-12-06/maria-pirogowa-nie-zyje-byla-deputowana-separatystycznej-republiki-doniecka/](https://www.polsatnews.pl/wiadomosc/2022-12-06/maria-pirogowa-nie-zyje-byla-deputowana-separatystycznej-republiki-doniecka/)
@@ -153,3 +153,4 @@ Ukraińskie siły zbrojne zestrzeliły 60 z 70 rakiet wystrzelonych przez Rosję
  - date published: 2022-12-06 05:05:00+00:00
 
 W wieku 71 lat zmarła amerykańska aktorka Kirstie Alley. Sławę zyskała dzięki roli w serialu Zdrówko, grała w Star Treku i Północ-Południe. Wystąpiła w kilkudziesięciu produkcjach. Od niedawna zmagała się z nowotworem.
+

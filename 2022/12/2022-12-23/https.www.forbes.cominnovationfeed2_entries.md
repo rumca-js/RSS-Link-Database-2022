@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## FTC’s Mastercard Ruling Is A Victory For Merchants, Consumers And Dodd-Frank
  - [https://www.forbes.com/sites/dianebrady/2022/12/23/ftcs-mastercard-ruling-is-a-victory-for-merchants-consumers-and-dodd-frank/](https://www.forbes.com/sites/dianebrady/2022/12/23/ftcs-mastercard-ruling-is-a-victory-for-merchants-consumers-and-dodd-frank/)
@@ -419,3 +419,4 @@ If you want something out of this world then NASA has you covered with its Mars 
  - date published: 2022-12-23 00:21:32+00:00
 
 Breaking down the chaotic calls that won Gen.G the RLCS Fall Major.
+

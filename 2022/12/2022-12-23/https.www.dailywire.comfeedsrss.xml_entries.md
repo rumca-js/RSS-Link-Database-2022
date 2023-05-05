@@ -1,4 +1,39 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Klavan Reveals The True Meaning Of Christmas
+ - [https://www.dailywire.com/news/klavan-reveals-the-true-meaning-of-christmas](https://www.dailywire.com/news/klavan-reveals-the-true-meaning-of-christmas)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-23 21:13:04+00:00
+
+The following is the opening satirical monologue from &#8220;The Andrew Klavan Show.&#8220; Well, it&#8217;s Christmas, and you know what that means, and neither do I. This is the day when God came into the world to tell us to stop judging and to forgive one another, which of course we have absolutely no intention of ...
+
+## Tory Lanez Found Guilty Of Shooting Megan Thee Stallion, May Be Deported
+ - [https://www.dailywire.com/news/tory-lanez-found-guilty-of-shooting-megan-thee-stallion-may-be-deported](https://www.dailywire.com/news/tory-lanez-found-guilty-of-shooting-megan-thee-stallion-may-be-deported)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-23 21:11:38+00:00
+
+Rapper Tory Lanez, 30, is facing more than two decades in prison and possible deportation after a Los Angeles jury found him guilty on Friday of shooting rapper Megan Thee Stallion after a 2020 Hollywood party. According to a report from entertainment website TMZ, the jury convicted Lanez on three felony counts: felony negligent discharge ...
+
+## California Lost More Residents Than Any Other State In 2022: U.S. Census Bureau
+ - [https://www.dailywire.com/news/california-lost-more-residents-than-any-other-state-in-2022-u-s-census-bureau](https://www.dailywire.com/news/california-lost-more-residents-than-any-other-state-in-2022-u-s-census-bureau)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-23 20:45:34+00:00
+
+The U.S. Census Bureau reported Thursday that California lost more residents than any other state this year, with over 300,000 people fleeing the state, marking the third consecutive year that California’s population declined. California joined 17 other states this year that experienced a population decline, compared to 15 and D.C. in 2021. The bureau reported that ...
+
+## Massive Pile-Up Of Nearly 50 Vehicles Shuts Down Ohio Turnpike, At Least Two Dead
+ - [https://www.dailywire.com/news/massive-pile-up-of-over-50-vehicles-shuts-down-ohio-turnpike-at-least-two-dead](https://www.dailywire.com/news/massive-pile-up-of-over-50-vehicles-shuts-down-ohio-turnpike-at-least-two-dead)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-23 20:34:46+00:00
+
+At least two people are dead and more have been injured in a massive pile-up on Friday, shutting down the Ohio Turnpike in both directions near the Erie/Sandusky county line. A spokesperson for the Ohio State Highway Patrol (OSHP) told the local ABC affiliate that there were several crashes throughout the day — the first ...
+
+## Dr. Robert Malone Tells Ben Shapiro COVID Vaccines Are Unsafe For All Age Groups
+ - [https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups](https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-23 18:54:53+00:00
+
+Dr. Robert Malone, the scientist who pioneered the technology behind the mRNA COVID vaccines, told Ben Shapiro Friday he would no longer advise even most elderly patients to get the jab. Speaking on Shapiro’s popular radio show and podcast, Malone, who was marginalized by the media for raising questions about the vaccines early in the ...
 
 ## Federal Judge Says School Hiding Kids’ Gender Transitions Doesn’t ‘Shock The Conscience,’ Throws Out Parent Lawsuit
  - [https://www.dailywire.com/news/federal-judge-says-school-hiding-kids-gender-transitions-doesnt-shock-the-conscience-throws-out-parent-lawsuit](https://www.dailywire.com/news/federal-judge-says-school-hiding-kids-gender-transitions-doesnt-shock-the-conscience-throws-out-parent-lawsuit)
@@ -272,3 +307,4 @@ Two pit bulls attacked a playground in Missouri this week, leaving nearly two do
  - date published: 2022-12-23 07:31:49+00:00
 
 A book that is expected to hit bookshelves next month will detail one of the issues that reportedly caused President Joe Biden to explode into fits of rage during his first years as president. Author Chris Whipple, in his forthcoming book, &#8220;The Fight of His Life: Inside Joe Biden&#8217;s White House,&#8221; describes how the scenes ...
+

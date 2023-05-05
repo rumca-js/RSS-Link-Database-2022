@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
 
 ## Be a Finance Squirrel
  - [https://lifehacker.com/be-a-finance-squirrel-1849871811](https://lifehacker.com/be-a-finance-squirrel-1849871811)
@@ -111,3 +111,4 @@
  - date published: 2022-12-08 14:00:00+00:00
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--9V4KooVV--/c_fit,fl_progressive,q_80,w_636/b6c05c0d139749ecfe4f363190ecb460.jpg" /><p>The best pot pies are homemade ones, but lazy pot pies are the best answer to cold weather <em>and</em> low energy. You have every right to eat thick meat stews in pie form, but not everyone has the gumption to toil away for hours. There is a way to have it all. Summon up your inner Sandra Lee: This hearty dish is made with…</p><p><a href="https://lifehacker.com/make-the-best-lazy-chicken-pot-pie-from-a-can-of-soup-1849865516">Read more...</a></p>
+

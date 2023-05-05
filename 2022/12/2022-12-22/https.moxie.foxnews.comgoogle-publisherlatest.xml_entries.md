@@ -1,4 +1,18 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## Florida's iguanas might fall from trees, hit people amid cold front
+ - [https://www.foxnews.com/us/floridas-iguanas-might-fall-from-trees-hit-people-amid-cold-front](https://www.foxnews.com/us/floridas-iguanas-might-fall-from-trees-hit-people-amid-cold-front)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-22 23:58:28+00:00
+
+Iguanas are cold-blooded and when the temperatures drop, the normally tropical reptiles slow and can become frozen.
+
+## California county bans landlords from conducting criminal background checks for housing
+ - [https://www.foxnews.com/us/california-county-bans-landlords-conducting-criminal-background-checks](https://www.foxnews.com/us/california-county-bans-landlords-conducting-criminal-background-checks)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-22 23:47:28+00:00
+
+A California county has passed an ordinance that will ban landlords from checking the criminal histories of applicants.
 
 ## Newest Yankees pitcher Carlos Rodon reveals plans for Venmos he received from fans recruiting him to Bronx
  - [https://www.foxnews.com/sports/newest-yankees-pitcher-carlos-rodon-reveals-plans-venmos-received-fans-recruiting-him-bronx](https://www.foxnews.com/sports/newest-yankees-pitcher-carlos-rodon-reveals-plans-venmos-received-fans-recruiting-him-bronx)
@@ -1140,3 +1154,4 @@ NASA's Mars rover deposited the first sample of rocks on the Red Planet's surfac
  - date published: 2022-12-22 00:00:57+00:00
 
 MSNBC regular Kurt Andersen slammed former Vice President Mike Pence as a 'p---y" and a "wimp" for not supporting the indictment of former President Donald Trump.
+

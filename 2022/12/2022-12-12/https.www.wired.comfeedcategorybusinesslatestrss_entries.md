@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## These Algorithms Are Hunting for an EV Battery Mother Lode
  - [https://www.wired.com/story/these-mining-algorithms-are-hunting-for-an-ev-battery-mother-lode/](https://www.wired.com/story/these-mining-algorithms-are-hunting-for-an-ev-battery-mother-lode/)
@@ -13,3 +13,4 @@ AI trained on reams of geological data can indicate where to dig in search of me
  - date published: 2022-12-12 12:00:00+00:00
 
 A confluence of factors is leading people in the nation to gravitate toward extremist views.
+

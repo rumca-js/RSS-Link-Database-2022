@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## Fuel tanker tunnel fire kills at least 19 in Afghanistan
  - [https://www.cnn.com/2022/12/18/asia/afghanistan-fuel-tanker-tunnel-fire-intl/index.html](https://www.cnn.com/2022/12/18/asia/afghanistan-fuel-tanker-tunnel-fire-intl/index.html)
@@ -27,3 +27,4 @@ It's only a week until Christmas, and Mechelle Lutsko is holding onto hope that 
  - date published: 2022-12-18 00:28:08+00:00
 
 Roughly two dozen former leaders of the US military -- including retired chairmen of the Joint Chiefs of Staff, a former Supreme Allied commander of NATO and several former commanders in Afghanistan -- sent a letter to US congressional leaders Saturday evening urging them to act quickly to save Afghan allies who currently run the risk of deportation.
+

@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
 ## Lake on hook for $33K in witness fees in failed challenge
  - [https://abcnews.go.com/Politics/wireStory/lake-hook-33k-witness-fees-failed-challenge-95865137](https://abcnews.go.com/Politics/wireStory/lake-hook-33k-witness-fees-failed-challenge-95865137)
@@ -181,3 +181,4 @@ The holiday shopping season for Mega Millions lottery tickets is ramping up
  - date published: 2022-12-27 02:31:27+00:00
 
 The New York Republican admitted lying about his job experience and education.
+

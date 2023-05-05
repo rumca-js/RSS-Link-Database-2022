@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## "NYT": Ukraina chciała zlikwidować szefa rosyjskiego Sztabu Generalnego
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nyt-ukraina-chciala-zlikwidowac-szefa-rosyjskiego-sztabu-gen,nId,6479256](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nyt-ukraina-chciala-zlikwidowac-szefa-rosyjskiego-sztabu-gen,nId,6479256)
@@ -312,3 +312,4 @@
  - date published: 2022-12-17 04:57:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-297-dzien-inwazji-rosji-relacja-na-zywo,nzId,3520,akt,170729"><img align="left" alt="Wojna w Ukrainie. 297. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-297-dzien-inwazji-rosji-relacja-na-zywo/000GI21PJ52XHOXN-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

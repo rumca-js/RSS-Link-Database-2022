@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## LIVE NOW: Newsmakers (Dec. 14): What Do the Twitter Files Reveal About Company Actions?
  - [https://www.theepochtimes.com/newsmakers-dec-14-what-do-the-twitter-files-reveal-about-company-actions_4924312.html](https://www.theepochtimes.com/newsmakers-dec-14-what-do-the-twitter-files-reveal-about-company-actions_4924312.html)
@@ -20,3 +20,4 @@ Then-Twitter CEO Jack Dorsey addresses students during a town hall at the Indian
  - date published: 2022-12-14 03:53:47+00:00
 
 The Apple Inc. logo hanging at the entrance to the Apple store on 5th Avenue in Manhattan, New York, on Oct. 16, 2019. (Mike Segar/Reuters)
+

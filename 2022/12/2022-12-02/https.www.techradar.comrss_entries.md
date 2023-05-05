@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Medibank hackers claim to have leaked  the last set of stolen files
  - [https://www.techradar.com/news/medibank-hackers-claim-to-have-leaked-the-last-set-of-stolen-files](https://www.techradar.com/news/medibank-hackers-claim-to-have-leaked-the-last-set-of-stolen-files)
@@ -216,3 +216,4 @@ Samsung Display reportedly owns the equipment to take the tech beyond 4K, and ma
  - date published: 2022-12-02 05:00:07+00:00
 
 While the motor isn't all that impressive, you can still light up the night in style thanks to numerous lights present.
+

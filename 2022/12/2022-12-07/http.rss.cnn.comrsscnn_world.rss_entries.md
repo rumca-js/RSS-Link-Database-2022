@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
 
 ## UK government greenlights first new coal mine in three decades
  - [https://www.cnn.com/2022/12/07/europe/uk-coal-mine-cumbria-energy-climate-intl-gbr/index.html](https://www.cnn.com/2022/12/07/europe/uk-coal-mine-cumbria-energy-climate-intl-gbr/index.html)
@@ -41,3 +41,4 @@ China's zero-Covid policy, which stalled the world's second-largest economy and 
  - date published: 2022-12-07 02:44:54+00:00
 
 E-cigarette maker Juul Labs said Tuesday that it has settled litigation it faced in the United States, resolving a substantial amount of legal issues for the company.
+

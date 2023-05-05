@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
+# Source:Washington Examiner - politics, URL:https://feeds.feedburner.com/dcexaminer/Politics, language:en-US
 
 ## FDA to fast-track review of application to allow NARCAN to be sold over the counter
  - [https://www.washingtonexaminer.com/news/fda-to-fast-track-review-of-application-to-allow-narcan-to-be-sold-over-the-counter](https://www.washingtonexaminer.com/news/fda-to-fast-track-review-of-application-to-allow-narcan-to-be-sold-over-the-counter)
@@ -13,3 +13,4 @@
  - date published: 2022-12-07 13:26:46+00:00
 
 (The Center Square) — Indiana will receive payment of $15.7 million from e-cigarette maker Juul Labs Inc. to settle allegations Juul engaged in deceptive marketing practices targeting minors. It has been unlawful to sell tobacco products, including e-cigarettes, to persons under the age of 21 in the United States since 2019.
+

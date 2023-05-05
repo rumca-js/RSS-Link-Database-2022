@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## England boss Gareth Southgate 'conflicted' about England future
  - [https://www.bbc.co.uk/sport/football/63939239?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63939239?at_medium=RSS&at_campaign=KARANGA)
@@ -321,3 +321,4 @@ See every card from Argentina's intense quarter-final match with the Netherlands
  - date published: 2022-12-11 00:02:35+00:00
 
 Pictures of captain Harry Kane cover the front pages after England's World Cup loss to France.
+

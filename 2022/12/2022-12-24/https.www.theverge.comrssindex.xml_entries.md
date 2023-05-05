@@ -1,4 +1,20 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## YouTube’s testing its Queue system for its iOS and Android apps
+ - [https://www.theverge.com/2022/12/24/23525564/youtube-queue-ios-android-apps-premium-test](https://www.theverge.com/2022/12/24/23525564/youtube-queue-ios-android-apps-premium-test)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-24 22:45:46+00:00
+
+<figure>
+      <img alt="Illustration of a YouTube logo with geometric background" src="https://cdn.vox-cdn.com/thumbor/j7-G1xT3SwIMpKvgqlF35dMNzcs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71790815/acastro_STK092_01.0.jpg" />
+        <figcaption><em>The desktop feature is finally coming to phones.</em> | Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="E816an">YouTube is starting to test out its queueing system on iOS and Android. The feature has been available on the web <a href="https://www.theverge.com/2019/11/7/20952253/youtube-homepage-design-thumbnails-videos-titles-queue-recommendation-hide">for years now</a>, and shows in the YouTube apps under certain circumstances — users who control their Chromecast with their phones <a href="https://support.google.com/chromecast/answer/2995235?hl=en">might recognize it</a>, as will those who use the YouTube Music apps — but now <a href="https://www.theverge.com/2020/10/6/21504817/youtube-premium-beta-test-labs-new-features">YouTube Premium users who opt-in</a> to the test will be able to add videos to a stack that acts like an impermanent playlist.</p>
+<p id="6mfqJJ">After you turn on the feature (which we’ll cover how to do in just a second), you’ll have access to a new “Play last in queue” button in the three vertical dot menu that appears on video thumbnails. Tapping it will add the video to the bottom of your queue — or will create a new queue if you’re currently...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/24/23525564/youtube-queue-ios-android-apps-premium-test">Continue reading&hellip;</a>
+  </p>
 
 ## 9 great games for your PlayStation from 2022
  - [https://www.theverge.com/23494185/playstation-ps5-ps4-games-best-2022-roundup](https://www.theverge.com/23494185/playstation-ps5-ps4-games-best-2022-roundup)
@@ -129,3 +145,4 @@
   <p>
     <a href="https://www.theverge.com/23508869/ecoflow-power-kit-review-off-grid-vanlife">Continue reading&hellip;</a>
   </p>
+

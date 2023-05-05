@@ -1,4 +1,25 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Specter of civil war resurfaces in the Oromia region of Ethiopia
+ - [https://www.lemonde.fr/en/international/article/2022/12/28/specter-of-civil-war-resurfaces-in-the-oromia-region-of-ethiopia_6009349_4.html](https://www.lemonde.fr/en/international/article/2022/12/28/specter-of-civil-war-resurfaces-in-the-oromia-region-of-ethiopia_6009349_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-27 23:56:49+00:00
+
+The country's most populous province is the scene of a harshly suppressed nationalist rebellion and deadly clashes between the militias of the different communities.
+
+## South Korea's ex-president Lee Myung-bak pardoned by successor who had prosecuted him
+ - [https://www.lemonde.fr/en/international/article/2022/12/28/south-korea-s-ex-president-lee-myung-bak-pardoned-by-successor-who-had-prosecuted-him_6009348_4.html](https://www.lemonde.fr/en/international/article/2022/12/28/south-korea-s-ex-president-lee-myung-bak-pardoned-by-successor-who-had-prosecuted-him_6009348_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-27 23:32:42+00:00
+
+The former mayor of Seoul was sentenced to 17 years in prison and a heavy fine for corruption and bribery back in 2020. He was pardoned on Tuesday, December 27, along with other prominent figures.
+
+## Los Angeles mourns P-22, its beloved celebrity mountain lion
+ - [https://www.lemonde.fr/en/international/article/2022/12/27/los-angeles-mourns-p-22-its-beloved-celebrity-mountain-lion_6009347_4.html](https://www.lemonde.fr/en/international/article/2022/12/27/los-angeles-mourns-p-22-its-beloved-celebrity-mountain-lion_6009347_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-27 22:56:36+00:00
+
+Nicknamed "the Hollywood Cat," the feline had won the hearts of the town's inhabitants. It was euthanized at the age of 12 – an exceptionally old age for a mountain lion.
 
 ## US Supreme Court rules to keep pandemic-era immigration limits in place indefinitely
  - [https://www.lemonde.fr/en/international/article/2022/12/27/us-supreme-court-rules-to-keep-pandemic-era-immigration-limits-in-place-indefinitely_6009343_4.html](https://www.lemonde.fr/en/international/article/2022/12/27/us-supreme-court-rules-to-keep-pandemic-era-immigration-limits-in-place-indefinitely_6009343_4.html)
@@ -181,3 +202,4 @@ The European Commission was expected to propose a harmonized logo before the end
  - date published: 2022-12-27 01:30:03+00:00
 
 The drop in the number of moviegoers France experienced at the beginning of fall has been improving towards the end of the year. Yet, many constraints still weigh on the future of movie theaters, which have always been able to innovate and adapt to the circumstances.
+

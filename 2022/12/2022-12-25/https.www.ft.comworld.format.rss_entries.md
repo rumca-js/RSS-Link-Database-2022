@@ -1,4 +1,4 @@
-# Source Financial Times World, Source URL:https://www.ft.com/world?format=rss, Source language: en-US
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
 ## Charity tries to provide dignity as well as food as cost of living soars
  - [https://www.ft.com/content/c6b56bd0-2310-434d-a6a9-389dd6bafe5d](https://www.ft.com/content/c6b56bd0-2310-434d-a6a9-389dd6bafe5d)
@@ -48,3 +48,4 @@ Figures presented at closed-door meeting are in stark contrast to low official c
  - date published: 2022-12-25 01:15:13+00:00
 
 US restrictions on advanced tech help foundry benefit from Beijing’s shifting view of the semiconductor supply chain
+

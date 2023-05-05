@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Gov. Chris Sununu surveys the field
  - [https://www.politico.com/news/2022/12/09/pbdd-12-09-2022-00072805](https://www.politico.com/news/2022/12/09/pbdd-12-09-2022-00072805)
@@ -27,3 +27,4 @@ In missives sent to all 168 members, several committeemen expressed horror with 
  - date published: 2022-12-09 04:30:00+00:00
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.
+

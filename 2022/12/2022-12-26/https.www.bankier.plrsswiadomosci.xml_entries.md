@@ -1,4 +1,25 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
+
+## Kolejny rosyjski oligarcha zginął w tajemniczych okolicznościach
+ - [https://www.bankier.pl/wiadomosc/Kolejny-rosyjski-oligarcha-zginal-w-tajemniczych-okolicznosciach-8462676.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kolejny-rosyjski-oligarcha-zginal-w-tajemniczych-okolicznosciach-8462676.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-26 20:40:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/1/6/aacef10a3a2fa1-948-568-210-0-958-575.png" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Paweł Antow, rosyjski biznesmen i deputowany organu ustawodawczego w obwodzie włodzimierskim, notowany niegdyś na liście "Forbesa", zmarł po upadku z trzeciej kondygnacji hotelu w Rayagada w Indiach; wcześniej krytykował działania Rosji na Ukrainie - podał niezależny portal Mediazona.</p>
+
+## Erdogan: Nasze zasoby gazu na Morzu Czarnym są większe, niż szacowano
+ - [https://www.bankier.pl/wiadomosc/Erdogan-Nasze-zasoby-gazu-na-Morzu-Czarnym-sa-wieksze-niz-szacowano-8462674.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Erdogan-Nasze-zasoby-gazu-na-Morzu-Czarnym-sa-wieksze-niz-szacowano-8462674.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-26 20:30:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/8/9/a57f893826a022-948-568-37-52-2962-1777.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent Turcji Recep Tayyip Erdogan oświadczył w poniedziałek, że zasoby gazu odkryte na Morzu Czarnym są większe niż szacowano i sięgają 710 mld m sześc., po odnalezieniu nowych zasobów, szacowanych na 58 mld m sześc., na obszarze złoża Caycuma-1.</p>
+
+## Ukraińska armia: liczba ataków słabnie, bo Rosja nie nadąża z produkcją iskanderów
+ - [https://www.bankier.pl/wiadomosc/Ukrainska-armia-liczba-atakow-slabnie-bo-Rosja-nie-nadaza-z-produkcja-iskanderow-8462659.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ukrainska-armia-liczba-atakow-slabnie-bo-Rosja-nie-nadaza-z-produkcja-iskanderow-8462659.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-26 17:54:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/d/20bd530e8378fd-945-560-0-209-2987-1792.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Tempo produkcji w Rosji pocisków rakietowych typu Iskander, Kalibr i Ch-101 nie pozwala armii rosyjskiej na tak częste zmasowane ataki na Ukrainę, jak planowało dowództwo w Moskwie - ocenił w poniedziałek rzecznik ukraińskiego lotnictwa wojskowego Jurij Ihnat.</p>
 
 ## Hipopotamy zagrożone wyginięciem, a kłusownicy pogarszają sprawę. Rośnie handel ich zębami i kłami
  - [https://www.bankier.pl/wiadomosc/Hipopotamy-zagrozone-wyginieciem-a-klusownicy-pogarszaja-sprawe-Rosnie-handel-ich-zebami-i-klami-8459666.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Hipopotamy-zagrozone-wyginieciem-a-klusownicy-pogarszaja-sprawe-Rosnie-handel-ich-zebami-i-klami-8459666.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -160,3 +181,4 @@
  - date published: 2022-12-26 00:24:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/c/080c5a89cfcd04-945-560-5-0-2042-1225.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Strzały padły w pobliżu patrolu sił pokojowych NATO w północnej części Kosowa, gdzie miejscowi Serbowie utworzyli blokady drogowe, aby uniemożliwić policji z Prisztiny patrolowanie tego obszaru – poinformował w niedzielę wieczorem Sojusz Północnoatlantycki.</p>
+

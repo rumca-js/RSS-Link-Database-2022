@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## As Peru’s Unrest Chases Away Visitors, Many Fear for Their Livelihood
  - [https://www.nytimes.com/2022/12/19/world/americas/peru-cusco-unrest-tourism.html](https://www.nytimes.com/2022/12/19/world/americas/peru-cusco-unrest-tourism.html)
@@ -167,3 +167,4 @@ The shooting occurred in the city of Vaughan, Ontario, about 20 miles north of T
  - date published: 2022-12-19 00:39:23+00:00
 
 Confrontations between protesters and the Peruvian authorities have left at least 25 dead and hundreds injured. Nowhere may tensions be higher than in the highland city of Ayacucho.
+

@@ -1,4 +1,46 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
+
+## Transgender pansexuality Australian Human Rights Commission video slammed as woke gender ideology
+ - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:59:01+00:00
+
+The Australian Human Rights Commission has produced Let's Talk About Bodies, Identity and Sexuality, which is aimed at schoolchildren aged 8 to 12, but has been bitterly attacked by opponents.
+
+## Tesla stock slumps 11% in a day, as Elon Musk's car firm overtakes Meta
+ - [https://www.dailymail.co.uk/news/article-11577719/Tesla-stock-slumps-11-day-Elon-Musks-car-firm-overtakes-Meta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577719/Tesla-stock-slumps-11-day-Elon-Musks-car-firm-overtakes-Meta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:56:44+00:00
+
+Tesla shares slumped 11 percent on Tuesday, surpassing Meta to become the worst-performing tech stock of 2022. The stock fell to its to lowest in more than two years.
+
+## Trump official McEntee testifies about drawing up troop withdrawal directive, installing loyalists
+ - [https://www.dailymail.co.uk/news/article-11577743/Trump-official-McEntee-testifies-drawing-troop-withdrawal-directive-installing-loyalists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577743/Trump-official-McEntee-testifies-drawing-troop-withdrawal-directive-installing-loyalists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:46:28+00:00
+
+Testimony by former White House presidential personnel chief Johnny McEntee reveals his office's role in drafting a presidential directive on pulling U.S. troops out of Afghanistan.
+
+## Sam Bankman-Fried meets with The Big Short author Michael Lewis while on house arrest
+ - [https://www.dailymail.co.uk/news/article-11577753/Sam-Bankman-Fried-meets-Big-Short-author-Michael-Lewis-house-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577753/Sam-Bankman-Fried-meets-Big-Short-author-Michael-Lewis-house-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:40:01+00:00
+
+Lewis, 62, reportedly met with Bankman-Fried for several hours on Friday at the $4 million home of the accused crypto fraudster's parents, who are both Stanford University law professors.
+
+## FBI captures one of its most-wanted fugitives in Mexico where he'd been teaching yoga classes
+ - [https://www.dailymail.co.uk/news/article-11577735/FBI-captures-one-wanted-fugitives-Mexico-hed-teaching-yoga-classes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577735/FBI-captures-one-wanted-fugitives-Mexico-hed-teaching-yoga-classes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:34:05+00:00
+
+Mexican authorities have arrested Jorge Rueda, who was wanted by the FBI for the October 2010 murder of a Maryland college professor, Sue Marcum.
+
+## Parents 'fuming' after 'rusty retractable knife' falls out of two-year-old's Peppa Pig box
+ - [https://www.dailymail.co.uk/news/article-11577755/Parents-fuming-rusty-retractable-knife-falls-two-year-olds-Peppa-Pig-box.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577755/Parents-fuming-rusty-retractable-knife-falls-two-year-olds-Peppa-Pig-box.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:31:46+00:00
+
+Martin Sexton, 36, was horrified when two-year-old daughter Maggie found a retractable knife while opening her Peppa Pig present on Christmas Day at their home in Brackley, Northamptonshire.
 
 ## Emma Lovell stabbing: Calls for Queensland government to crack down on youth crime
  - [https://www.dailymail.co.uk/news/article-11577563/Emma-Lovell-stabbing-Calls-Queensland-government-crack-youth-crime.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577563/Emma-Lovell-stabbing-Calls-Queensland-government-crack-youth-crime.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -154,6 +196,13 @@ Government ministers have recovered just £18million of the hundreds of millions
 
 Parcel delivery has soared to new heights with a drone carrying drugs to inmates worth $250,000 crashing in a Townsville jail.
 
+## Ariana Grande sends Christmas presents to children in Manchester Hospitals following terorist attack
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11577519/Ariana-Grande-sends-Christmas-presents-children-Manchester-Hospitals-following-terorist-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11577519/Ariana-Grande-sends-Christmas-presents-children-Manchester-Hospitals-following-terorist-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 21:20:41+00:00
+
+The songstress, 29, has an emotional connection with the Royal Manchester Children's Hospital helped a number of her fans following a terrorist attack at her nearby Arena concert in 2017.
+
 ## Jerry Jones, P Diddy and David Geffen all moor their luxury yachts off the coast of St. Barts
  - [https://www.dailymail.co.uk/news/article-11577017/Jerry-Jones-P-Diddy-David-Geffen-moor-luxury-yachts-coast-St-Barts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577017/Jerry-Jones-P-Diddy-David-Geffen-moor-luxury-yachts-coast-St-Barts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -301,6 +350,13 @@ Donald Trump is furious over a new report that quotes multiple sources within hi
  - date published: 2022-12-27 18:25:34+00:00
 
 The latest footage of the ongoing attacks on Russia shows the drone quickly advancing on a Russian tank as it drives along a single track road in the vast countryside.
+
+## Shocking footage reveals Newcastle fan trying to wrestle Dan Burn's shirt off a CHILD
+ - [https://www.dailymail.co.uk/sport/football/article-11576695/Shocking-footage-reveals-Newcastle-fan-trying-wrestle-Dan-Burns-shirt-CHILD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-11576695/Shocking-footage-reveals-Newcastle-fan-trying-wrestle-Dan-Burns-shirt-CHILD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 18:24:27+00:00
+
+The Magpies beat Leicester 3-0 on Monday, with Chris Wood, Miguel Almiron and Joelinton scoring, and after the game Dan Burn threw his shirt into the crowd for a youngster.
 
 ## Baby formula shortages in the U.S. continue with parents fearing price hikes in 2023
  - [https://www.dailymail.co.uk/news/article-11570175/Baby-formula-shortages-U-S-continue-parents-fearing-price-hikes-2023.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11570175/Baby-formula-shortages-U-S-continue-parents-fearing-price-hikes-2023.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1134,3 +1190,4 @@ A mother whose young daughter survived cancer claimed that new treatments could 
  - date published: 2022-12-27 00:05:34+00:00
 
 William easily tracked down the Old Folks' party. He listened for a moment outside the door to the confused murmur within, then flew open the door and entered dramatically.
+

@@ -1,4 +1,11 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## Miles Bron's 'Glass Onion' Estate Listed on Zillow for $450 Million     - CNET
+ - [https://www.cnet.com/culture/entertainment/miles-brons-glass-onion-estate-listed-on-zillow-for-450-million/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/miles-brons-glass-onion-estate-listed-on-zillow-for-450-million/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-29 23:29:00+00:00
+
+The cheeky post for the Greek Isle commune from Knives Out 2 on Netflix offers a venue for "multi-layered living in paradise."
 
 ## 10 Freeze-Proof Plants That Will Weather a Winter Storm     - CNET
  - [https://www.cnet.com/how-to/10-freeze-proof-plants-that-will-weather-a-winter-storm/#ftag=CADf328eec](https://www.cnet.com/how-to/10-freeze-proof-plants-that-will-weather-a-winter-storm/#ftag=CADf328eec)
@@ -335,3 +342,4 @@ The requirement, to be implemented by the Centers for Disease Control and Preven
  - date published: 2022-12-29 00:00:03+00:00
 
 This is the TV setup and accessories list to check twice.
+

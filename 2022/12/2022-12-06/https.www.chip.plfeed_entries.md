@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Ingenuity wniósł się wyżej niż kiedykolwiek przedtem. Marsjański helikopter podbija Czerwoną Planetę
  - [https://www.chip.pl/2022/12/helikopter-ingenuity-rekordowy-przelot-na-marsie](https://www.chip.pl/2022/12/helikopter-ingenuity-rekordowy-przelot-na-marsie)
@@ -127,3 +127,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="450" src="https://konto.chip.pl/wp-content/uploads/2022/12/reaktor-smr.jpg" style="margin-bottom: 10px;" width="1300" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/reaktor-smr.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Na południu Chin trwają prace budowlane związane z Linglong One, która ma być wyspą pokrytą reaktorami jądrowymi. O sprawie informują tamtejsze media. Changjiang ACP100, bo tak nazywa się pierwszy zainstalowany reaktor, będzie produkował miliard kilowatogodzin energii elektrycznej rocznie. Taka ilość powinna wystarczyć do funkcjonowania ponad 500 tysięcy gospodarstw domowych. Budowana infrastruktura może nie tylko produkować [&#8230;]</p>
+

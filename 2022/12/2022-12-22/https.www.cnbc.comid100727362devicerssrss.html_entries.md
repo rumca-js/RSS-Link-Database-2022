@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Tesla under investigation by NHTSA for two more crashes that may have involved Autopilot or FSD
  - [https://www.cnbc.com/2022/12/22/nhtsa-initiates-two-more-tesla-crash-investigations.html](https://www.cnbc.com/2022/12/22/nhtsa-initiates-two-more-tesla-crash-investigations.html)
@@ -118,3 +118,4 @@ A traditional Christmas meal may be tamales, cabbage rolls or prawns, depending 
  - date published: 2022-12-22 00:14:41+00:00
 
 Disgraced FTX founder Sam Bankman-Fried is aboard a federal plane en route to New York, after a day of courtroom chaos in the Bahamas over his extradition.
+

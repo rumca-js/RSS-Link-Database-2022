@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
 ## Jalen Hurts sets another Eagles record in blowout win over Titans
  - [https://www.foxnews.com/sports/jalen-hurts-sets-another-eagles-record-blowout-win-titans](https://www.foxnews.com/sports/jalen-hurts-sets-another-eagles-record-blowout-win-titans)
@@ -762,3 +762,4 @@ A visibly frustrated Ja Morant used "inappropriate language" toward the end of t
  - date published: 2022-12-04 00:24:40+00:00
 
 Taylor Dziczek was arrested after FBI agents following him collected his DNA from a Red Bull drink he had at the MGM Casino in Springfield, Massachusetts.
+

@@ -1,4 +1,4 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
 
 ## Elon Musk fires controversial Twitter lawyer over suppressing Hunter story, handling the 'Twitter Files'
  - [https://www.louderwithcrowder.com/james-baker-fired-elon-musk](https://www.louderwithcrowder.com/james-baker-fired-elon-musk)
@@ -175,3 +175,4 @@
 <a href="https://youtu.be/E2M0OA6-t70" target="_blank">youtu.be</a>
 </small>
 </p>
+

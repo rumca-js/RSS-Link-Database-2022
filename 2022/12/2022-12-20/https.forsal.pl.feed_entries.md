@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Wawrzyk: UE musi zrzucić się na pomoc dla uchodźców
  - [https://forsal.pl/swiat/unia-europejska/artykuly/8615169,wawrzyk-ue-musi-zrzucic-sie-na-pomoc-dla-uchodzcow.html](https://forsal.pl/swiat/unia-europejska/artykuly/8615169,wawrzyk-ue-musi-zrzucic-sie-na-pomoc-dla-uchodzcow.html)
@@ -559,3 +559,4 @@
  - date published: 2022-12-20 04:15:29+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/rgFktkuTURBXy82ZjJlMDc5OC01N2IzLTQ3NmItYjg3Ny00Njc5NjE4MmYwMTUuanBlZ5GTBc0BHcyg" />Z danych Adecco Group Global Workforce of the Future wynika, że to nie wynagrodzenie ma największy wpływ na podejście pracowników do miejsca zatrudnienia. Jakie czynnik wpływają według badania na atrakcyjność pracy?
+

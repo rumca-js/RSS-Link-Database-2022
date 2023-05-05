@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
+# Source:Chip.pl, URL:https://www.chip.pl/feed, language:pl-PL
 
 ## Metale ziem rzadkich obracane na życzenie. Co kryje się za skomplikowanymi eksperymentami?
  - [https://www.chip.pl/2022/12/metale-ziem-rzadkich-rotacja-czasteczek](https://www.chip.pl/2022/12/metale-ziem-rzadkich-rotacja-czasteczek)
@@ -71,3 +71,4 @@
 
 <img alt="" class="attachment-full size-full wp-post-image" height="843" src="https://konto.chip.pl/wp-content/uploads/2022/12/akerbp-norwegia.jpg" style="margin-bottom: 10px;" width="1500" /><p><img src="https://konto.chip.pl/wp-content/uploads/2022/12/akerbp-norwegia.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Norweska firma Aker BP i jej partnerzy zaprezentowali w Ministerstwie Ropy Naftowej i Energii plany dotyczące eksploatacji paliw kopalnych. Chodzi o pozyskiwanie gazu i ropy naftowej, co może być nieco sprzeczne z wcześniejszymi planami dotyczącymi stopniowego ograniczania emisji. Trzeba jednak uczciwie przyznać, iż agresja Rosji na Ukrainę poważnie zakłóciła funkcjonowanie rynku opartego na paliwach kopalnych [&#8230;]</p>
+

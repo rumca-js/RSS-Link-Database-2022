@@ -1,4 +1,4 @@
-# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
 ## Texas Governor Calls For Probe of Atmos Energy in Wake of Freeze
  - [https://www.bloomberg.com/news/articles/2022-12-28/texas-governor-calls-for-probe-of-atmos-energy-in-wake-of-freeze](https://www.bloomberg.com/news/articles/2022-12-28/texas-governor-calls-for-probe-of-atmos-energy-in-wake-of-freeze)
@@ -90,6 +90,13 @@ San Francisco (AP) -- The man who allegedly broke into U.S. House Speaker Nancy 
  - date published: 2022-12-28 18:46:20+00:00
 
 President Joe Biden’s struggle to manage a historic influx of migrants will stretch into his third year in office, even after the Supreme Court kept in place pandemic-era border controls.
+
+## Banxico’s Esquivel Declines More Government Job Offers
+ - [https://www.bloomberg.com/news/articles/2022-12-28/banxico-s-esquivel-declines-fresh-round-of-government-job-offers](https://www.bloomberg.com/news/articles/2022-12-28/banxico-s-esquivel-declines-fresh-round-of-government-job-offers)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2022-12-28 18:45:06+00:00
+
+Gerardo Esquivel
 
 ## US Energy Regulator Opens Probe Into Winter Storm Blackouts
  - [https://www.bloomberg.com/news/articles/2022-12-28/us-regulators-launch-probe-into-early-winter-power-emergencies](https://www.bloomberg.com/news/articles/2022-12-28/us-regulators-launch-probe-into-early-winter-power-emergencies)
@@ -223,3 +230,4 @@ Philippine Transport Secretary Jaime Bautista said he’s in favor of imposing C
  - date published: 2022-12-28 05:00:20+00:00
 
 <p>Revolving door in 10 Downing Street contributed to economic and political turmoil in 2022, handing the opposition Labour Party a huge poll lead.</p>
+

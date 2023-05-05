@@ -1,4 +1,4 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
 
 ## Whole Beijing is feverish/CCP faces largest rotten tail project: 3-year zero-COVID abruptly exited
  - [https://www.youtube.com/watch?v=3tQEb6ojT9o](https://www.youtube.com/watch?v=3tQEb6ojT9o)
@@ -16,3 +16,4 @@ Your support allows us to produce more high-quality videos.
 Consider donating at https://www.paypal.com/paypalme/ChinaInsights
 
 Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+

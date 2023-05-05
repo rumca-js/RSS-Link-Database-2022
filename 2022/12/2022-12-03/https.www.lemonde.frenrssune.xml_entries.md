@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## In bombarded Kherson: 'I will stay until the end, even if I have to freeze to death'
  - [https://www.lemonde.fr/en/international/article/2022/12/03/in-bombarded-kherson-i-will-stay-until-the-end-even-if-i-have-to-freeze-to-death_6006515_4.html](https://www.lemonde.fr/en/international/article/2022/12/03/in-bombarded-kherson-i-will-stay-until-the-end-even-if-i-have-to-freeze-to-death_6006515_4.html)
@@ -160,3 +160,4 @@ During his visit to the Bayou state, the French president also had a 'clear and 
  - date published: 2022-12-03 00:06:32+00:00
 
 The price cap aims to reorder the global oil market to prevent price spikes and starve President Vladimir Putin of funding for his war in Ukraine.
+

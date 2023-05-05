@@ -1,4 +1,11 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
+
+## Twitter experiences a widespread global outage
+ - [https://www.washingtonpost.com/technology/2022/12/28/twitter-global-outage/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/28/twitter-global-outage/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-28 20:41:26+00:00
+
+Attempts to log into the Twitter desktop app were met with "error" messages late Wednesday.
 
 ## Indie game gems you may have missed in 2022
  - [https://www.washingtonpost.com/video-games/2022/12/28/indie-game-recommendations-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/28/indie-game-recommendations-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -34,3 +41,4 @@ This year brought advances in AI chatbots and image makers, along with a brewing
  - date published: 2022-12-28 06:00:00+00:00
 
 The U.S. congressman aims to apply his artificial-intelligence knowledge to his legislative work as the technology evolves further.
+

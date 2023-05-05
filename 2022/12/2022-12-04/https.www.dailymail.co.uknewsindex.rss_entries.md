@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Trade Union barons fund Labour trio's £7,000 jaunt to Spain so they can meet counterparts in Madrid
  - [https://www.dailymail.co.uk/news/article-11501599/Trade-Union-barons-fund-Labour-trios-7-000-jaunt-Spain-meet-counterparts-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11501599/Trade-Union-barons-fund-Labour-trios-7-000-jaunt-Spain-meet-counterparts-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -987,3 +987,4 @@ A million dollars in Sydney mainly buys a house a long way from the city. That k
  - date published: 2022-12-04 00:03:06+00:00
 
 SQM Research is expecting property prices to start recovering next year after the Reserve Bank of Australia stops raising interest rates. This would benefit landlords as rents keep soaring.
+

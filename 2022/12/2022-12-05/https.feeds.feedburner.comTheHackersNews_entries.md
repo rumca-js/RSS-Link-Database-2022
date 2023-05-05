@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## New BMC Supply Chain Vulnerabilities Affect Servers from Dozens of Manufacturers
  - [https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html](https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html)
@@ -48,3 +48,4 @@ The Lazarus Group threat actor has been observed leveraging fake cryptocurrency 
 The maintainers of the FreeBSD operating system have released updates to remediate a security vulnerability impacting the ping module that could be potentially exploited to crash the program or trigger remote code execution.
 The issue, assigned the identifier CVE-2022-23093, impacts all supported versions of FreeBSD and concerns a stack-based buffer overflow vulnerability in the ping service.
 "
+

@@ -1,4 +1,18 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+# Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
+
+## Media: Pentagon rozważa przekazanie Ukrainie wozów bojowych Bradley
+ - [https://www.bankier.pl/wiadomosc/Media-Pentagon-rozwaza-przekazanie-Ukrainie-wozow-bojowych-Bradley-8464334.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Pentagon-rozwaza-przekazanie-Ukrainie-wozow-bojowych-Bradley-8464334.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-29 22:06:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/8/4/a642dea397c210-948-568-0-0-4500-2699.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Administracja USA rozważa przekazanie wozów bojowych Bradley w ramach kolejnego pakietu pomocy wojskowej dla Ukrainy - podał w czwartek Bloomberg. Według ekspertów włączenie tych pojazdów do służby mogłoby jednak zająć miesiące.</p>
+
+## Potajemne rozmowy Zełenskiego z liderem republikanów. Tak uchwalono nowe prawo wymierzone w oligarchów
+ - [https://www.bankier.pl/wiadomosc/Potajemne-rozmowy-Zelenskiego-z-liderem-republikanow-Tak-uchwalono-nowe-prawo-wymierzone-w-oligarchow-8464327.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Potajemne-rozmowy-Zelenskiego-z-liderem-republikanow-Tak-uchwalono-nowe-prawo-wymierzone-w-oligarchow-8464327.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-29 21:28:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/4/76a76072490dcf-948-568-0-33-1043-625.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Dzień przed wizytą w Waszyngtonie prezydent Ukrainy Wołodymyr Zełenski odbył potajemną rozmowę z liderem Republikanów w Senacie USA Mitchem McConnellem, prosząc go o przyjęcie prawa umożliwiającego wykorzystanie zajętych majątków rosyjskich oligarchów na wsparcie Ukrainy - podał w czwartek dziennik "Pittsburgh Post-Gazette".</p>
 
 ## Mocne wzrosty na Wall Street. Odbicie na akcjach Tesli
  - [https://www.bankier.pl/wiadomosc/Mocne-wzrosty-na-Wall-Street-Odbicie-na-akcjach-Tesli-8464321.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Mocne-wzrosty-na-Wall-Street-Odbicie-na-akcjach-Tesli-8464321.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -734,3 +748,4 @@ przyszłość, edukacyjne dylematy, a na koniec dnia również wybory na rynku p
  - date published: 2022-12-29 04:54:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/c/5/04633d0dd4c82a-948-568-0-181-4032-2419.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Liczba ofiar śmiertelnych zimowej burzy wzrosła do 37 w hrabstwie Erie w stanie Nowy Jork. Ratownicy nie byli w stanie pomóc wszystkim zagrożonym, na ratunek próbowali przyjść zwykli ludzie.</p>
+

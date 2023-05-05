@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
 ## 'Hoping and believing': England prepare for ultimate World Cup test against France
  - [https://news.sky.com/story/world-cup-2022-england-hoping-and-believing-as-they-prepare-for-ultimate-test-against-france-12765165](https://news.sky.com/story/world-cup-2022-england-hoping-and-believing-as-they-prepare-for-ultimate-test-against-france-12765165)
@@ -41,3 +41,4 @@ They call it the "cage" or the "jail". Tucked away in the small Bulgarian town o
  - date published: 2022-12-09 13:58:00+00:00
 
 A middle-aged woman with a bright yellow hat stepped out of a white van close to the frontline Ukrainian town of Bakhmut, one of the most dangerous places on the planet.
+

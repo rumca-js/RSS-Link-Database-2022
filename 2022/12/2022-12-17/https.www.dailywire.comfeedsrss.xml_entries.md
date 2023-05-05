@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
 ## Harvard-Harris Poll: Trump Leads Among GOP For 2024 Primaries
  - [https://www.dailywire.com/news/harvard-harris-poll-trump-leads-among-gop-for-2024-primaries](https://www.dailywire.com/news/harvard-harris-poll-trump-leads-among-gop-for-2024-primaries)
@@ -139,3 +139,4 @@ Legendary actor Harrison Ford said in a recent interview that at 80 years old he
  - date published: 2022-12-17 08:19:50+00:00
 
 Director James Cameron said in a recent interview that his upcoming movie, “Avatar: The Way of Water,” is the most empowering movie for women because one of the characters is a pregnant warrior. The movie, which debuted in theaters across the U.S. on Friday, continues where the first movie left off, and in this film ...
+

@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
+# Source:wiadomości.gazeta.pl, URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, language:pl-PL
 
 ## Bełchatów. Nie zatrzymał się do kontroli i zaczął uciekać. Auto dachowało po policyjnym pościgu
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29247538,belchatow-nie-zatrzymal-sie-do-kontroli-i-zaczal-uciekac-kierowca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29247538,belchatow-nie-zatrzymal-sie-do-kontroli-i-zaczal-uciekac-kierowca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -76,3 +76,4 @@
  - date published: 2022-12-10 07:43:00+00:00
 
 <img align="left" hspace="4" src="https://bi.im-g.pl/im/43/dc/1b/z29212739M,Woj--lubuskie--droga-S3--atak-zimy--19-listopada-2.jpg" vspace="2" />Nad Polskę napływa front atmosferyczny, który przyniesie intensywne opady śniegu, zawieje i zamiecie, a także opady marznące powodujące gołoledź. Synoptycy alarmują, że warunki na drogach będą bardzo trudne. W przyszłym tygodniu do Polski nadejdzie bardzo silny mróz, a termometry wskażą nawet -26 stopni.
+

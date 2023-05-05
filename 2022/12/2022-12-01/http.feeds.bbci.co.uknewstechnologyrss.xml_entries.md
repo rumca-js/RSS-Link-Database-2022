@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Russian mercenary videos 'top 1bn views' on TikTok
  - [https://www.bbc.co.uk/news/world-europe-63820437?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63820437?at_medium=RSS&at_campaign=KARANGA)
@@ -20,3 +20,4 @@ World’s richest man’s company is involved in a trial to get isolated areas o
  - date published: 2022-12-01 05:09:15+00:00
 
 Apple has warned shipments of the iPhone 14 would be delayed due to Covid-19 restrictions.
+

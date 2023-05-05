@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Anger as TikTok locums boast of £17,000 a month wage cheques as nurses prepare to strike over pay
  - [https://www.dailymail.co.uk/news/article-11552451/Anger-TikTok-locums-boast-17-000-month-wage-cheques-nurses-prepare-strike-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552451/Anger-TikTok-locums-boast-17-000-month-wage-cheques-nurses-prepare-strike-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -809,7 +809,6 @@ Australia lacks much of the infrastructure needed to support the widespread adop
  - [https://www.dailymail.co.uk/news/article-11550351/Why-did-FBI-not-flag-Antifa-Twitter-accounts-Elon-Musk-finally-removes-far-left-profiles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11550351/Why-did-FBI-not-flag-Antifa-Twitter-accounts-Elon-Musk-finally-removes-far-left-profiles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-18 04:42:51+00:00
- - tags: censorship,fbi,twitter,moderation
 
 Screenshots taken Saturday evening show that @COSAntiFascists, the Colorado Springs cell of the  domestic terror group, has, in fact, been nixed.
 
@@ -1071,3 +1070,4 @@ The comedian has reportedly always been paid at least twice the women's fee, and
  - date published: 2022-12-18 00:05:49+00:00
 
 Christopher Bevan, 44, was paranoid that his wife Kath was having an affair and hounded her with FaceTime calls to prove she was alone and even used her FitBit to keep tabs on her location.
+

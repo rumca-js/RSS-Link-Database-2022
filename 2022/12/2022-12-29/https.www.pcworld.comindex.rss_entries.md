@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
 
 ## The Full Nerd ep 241: 2023 tech predictions and eating our words
  - [https://www.pcworld.com/article/1442699/the-full-nerd-ep-241-2023-tech-predictions-and-eating-our-words.html](https://www.pcworld.com/article/1442699/the-full-nerd-ep-241-2023-tech-predictions-and-eating-our-words.html)
@@ -126,3 +126,4 @@ Windows</div>
 <p><em>Prices subject to change.</em></p>
 
 E-readers</div>
+

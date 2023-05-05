@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Ukraina: Liczba ataków rosyjskich słabnie. Rosja nie nadąża z produkcją Iskanderów
  - [https://forsal.pl/swiat/rosja/artykuly/8618040,ukraina-liczba-atakow-rosyjskich-slabnie-rosja-nie-nadaza-z-produkcja-iskanderow.html](https://forsal.pl/swiat/rosja/artykuly/8618040,ukraina-liczba-atakow-rosyjskich-slabnie-rosja-nie-nadaza-z-produkcja-iskanderow.html)
@@ -167,3 +167,4 @@
  - date published: 2022-12-26 07:10:16+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/4BektkuTURBXy83YWVkYzhlZC0wYThkLTQ1NWEtYmNkNy0zYTBmNmY2YmQ3Y2UuanBlZ5GTBc0BHcyg" />Produkcja chipów miała zapewniać Tajwanowi amerykański parasol bezpieczeństwa. Chiny mogą jednak dzięki tajwańskim fabrykom odzyskać kontrolę nad wyspą.
+

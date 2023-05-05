@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
 
 ## China COVID Deaths Soar as Estimated 250 Million Infected
  - [https://www.theepochtimes.com/whether-you-live-or-die-no-one-cares-chinese-left-helpless-amid-covid-crisis_4948225.html](https://www.theepochtimes.com/whether-you-live-or-die-no-one-cares-chinese-left-helpless-amid-covid-crisis_4948225.html)
@@ -216,3 +216,4 @@ Iran's former national soccer team coach Ali Daei before an Asian Cup 2011 quali
  - date published: 2022-12-27 03:41:56+00:00
 
 Ukrainian soldiers fire a French-made CAESAR self-propelled howitzer towards Russian positions near Avdiivka, Donetsk region, Ukraine, on Dec. 26, 2022. (Libkos/AP Photo)
+

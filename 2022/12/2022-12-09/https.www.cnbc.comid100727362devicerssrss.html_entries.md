@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
 ## Cramer’s week ahead: Don’t let the Fed’s meeting obscure investing opportunities
  - [https://www.cnbc.com/2022/12/09/cramers-week-ahead-dont-let-the-feds-meeting-obscure-investing-opportunities.html](https://www.cnbc.com/2022/12/09/cramers-week-ahead-dont-let-the-feds-meeting-obscure-investing-opportunities.html)
@@ -139,3 +139,4 @@ Under the new SEC guidance, companies will have to include crypto asset holdings
  - date published: 2022-12-09 00:07:24+00:00
 
 Foxconn founder Terry Gou reportedly said China's zero-Covid policy threatened its position in global supply chains.
+

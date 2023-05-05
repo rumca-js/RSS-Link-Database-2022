@@ -1,4 +1,4 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
+# Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
 ## .NET MAUI Framework and .NET MAUI Community Toolkit Updated for .NET 7
  - [https://www.infoq.com/news/2022/12/maui-net7-toolkit/](https://www.infoq.com/news/2022/12/maui-net7-toolkit/)
@@ -90,3 +90,4 @@ Apple’s Swift Playgrounds can help young and novice coders get started buildin
  - date published: 2022-12-29 05:00:00+00:00
 
 A frequent question when using KMM (Kotlin Multiplatform Mobile) is firstly whether to share the view model between the iOS and Android clients and, if doing so, how best to do it in a way that still stays true to each platform’s approach to lifecycle, concurrency and observability.
+

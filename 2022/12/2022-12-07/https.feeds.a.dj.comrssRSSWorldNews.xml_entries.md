@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
 ## High Oil Prices Lift Saudi Arabia, Bolster Prince's Economic Plans
  - [https://www.wsj.com/articles/high-oil-prices-lift-saudi-arabia-bolster-princes-economic-plans-11670446489](https://www.wsj.com/articles/high-oil-prices-lift-saudi-arabia-bolster-princes-economic-plans-11670446489)
@@ -90,3 +90,4 @@ The U.S. and Australia agreed to deepen defense cooperation amid growing concern
  - date published: 2022-12-07 01:39:00+00:00
 
 Mexican President Andrés Manuel López Obrador suffered a significant setback as opposition parties united against a proposal they said undermined the autonomy of the National Electoral Institute.
+

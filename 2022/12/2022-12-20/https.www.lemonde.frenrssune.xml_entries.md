@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
 ## Two dead after powerful quake hits California
  - [https://www.lemonde.fr/en/international/article/2022/12/20/two-dead-after-powerful-quake-hits-california_6008513_4.html](https://www.lemonde.fr/en/international/article/2022/12/20/two-dead-after-powerful-quake-hits-california_6008513_4.html)
@@ -209,3 +209,4 @@ In its third report since 2018, Crédoc's Vulnerability Observatory indicates th
  - date published: 2022-12-20 00:05:59+00:00
 
 He faces up to 24 years in prison when he is sentenced. The 70-year-old former movie mogul is also two years into a 23-year sentence for a rape and sexual assault conviction in New York.
+

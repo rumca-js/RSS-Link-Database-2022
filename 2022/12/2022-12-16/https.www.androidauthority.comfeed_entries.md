@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
 
 ## Galaxy Z Fold 2 getting Android 13 and December’s security update
  - [https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
@@ -69,3 +69,4 @@ Not a full-fledged superhero-themed phone.
  - date published: 2022-12-16 05:12:52+00:00
 
 One hell of a spec sheet for under $500!
+

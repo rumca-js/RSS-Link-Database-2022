@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
+# Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
 ## Fan extravaganza in Qatar as Argentina win 2022 World Cup
  - [https://www.aljazeera.com/gallery/2022/12/18/fan-extravaganza-in-qatar-as-argentina-wins-2022-world-cup](https://www.aljazeera.com/gallery/2022/12/18/fan-extravaganza-in-qatar-as-argentina-wins-2022-world-cup)
@@ -293,3 +293,4 @@ Almost 90,000 are expected to attend Sunday’s closing ceremony at Lusail Stadi
  - date published: 2022-12-18 01:51:44+00:00
 
 Millions in the South Asian country support Argentina, which will take on France in Sunday&#039;s championship game in Qatar.
+

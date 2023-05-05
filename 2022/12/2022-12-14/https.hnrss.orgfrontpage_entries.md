@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
 ## Twitter has re-suspended ElonJet account
  - [https://twitter.com/elonjet/](https://twitter.com/elonjet/)
@@ -664,3 +664,4 @@ It's a mixture of Roam Research, Obsidian, Emacs, VSCode(in the future), Figma e
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33978703">https://news.ycombinator.com/item?id=33978703</a></p>
 <p>Points: 12</p>
 <p># Comments: 4</p>
+

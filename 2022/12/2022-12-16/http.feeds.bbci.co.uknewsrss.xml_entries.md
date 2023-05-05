@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## ANC conference: SA President Ramaphosa struggles to stop hecklers in own party
  - [https://www.bbc.co.uk/news/world-africa-64009266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-64009266?at_medium=RSS&at_campaign=KARANGA)
@@ -552,3 +552,4 @@ Katie Razzall's seven takeaways from the Duke and Duchess of Sussex's Netflix do
  - date published: 2022-12-16 00:00:07+00:00
 
 The nurses' strike and the fallout from Prince Harry's Netflix docuseries feature in several of Friday's papers.
+

@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Elon Musk: Only blue tick users to vote in Twitter polls on policy
  - [https://www.bbc.co.uk/news/business-64034892?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64034892?at_medium=RSS&at_campaign=KARANGA)
@@ -27,3 +27,4 @@ The Argentine footballer has picked up more than 57 million likes for his collec
  - date published: 2022-12-20 00:04:17+00:00
 
 Rejecting deliveries to the doorstep, some drone makers are betting on bigger pilot-free aircraft.
+

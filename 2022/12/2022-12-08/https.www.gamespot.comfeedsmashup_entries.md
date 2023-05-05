@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
 ## Why Microsoft Is Being Sued | GameSpot News
  - [https://www.gamespot.com/videos/why-microsoft-is-being-sued-gamespot-news/2300-6460194/](https://www.gamespot.com/videos/why-microsoft-is-being-sued-gamespot-news/2300-6460194/)
@@ -307,3 +307,4 @@
  - date published: 2022-12-08 02:27:00+00:00
 
 <p> </p><p dir="ltr">James Gunn's graduation from director to executive was largely hailed as a great move by fans of comic book movies, but any time there's a change in the boardroom at a studio, there are always some casualties. Patty Jenkins' Wonder Woman 3 is apparently one of those casualties, according to <a href="https://www.hollywoodreporter.com/movies/movie-features/wonder-woman-3-not-moving-forward-dc-movies-1235276804/">The Hollywood Reporter</a>.</p><p dir="ltr">Multiple sources have confirmed to THR that Jenkins' Wonder Woman 3 is "not moving forward and is considered dead in its current incarnation."</p><a href="https://www.gamespot.com/articles/wonder-woman-3-not-moving-forward-in-current-incarnation-report/1100-6509818/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

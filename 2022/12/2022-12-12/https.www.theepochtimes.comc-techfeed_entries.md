@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Twitter’s New Head of Trust and Safety Reveals Plans After Previous Chief Departs
  - [https://www.theepochtimes.com/twitters-new-head-of-trust-and-safety-reveals-plans-after-previous-chief-departs_4918658.html](https://www.theepochtimes.com/twitters-new-head-of-trust-and-safety-reveals-plans-after-previous-chief-departs_4918658.html)
@@ -27,3 +27,4 @@ Fans cheer during the final of the Solo competition at the 2019 Fortnite World C
  - date published: 2022-12-12 11:15:47+00:00
 
 The download page for the TikTok app is displayed on an Apple iPhone in Washington, on Aug. 7, 2020. (Drew Angerer/Getty Images)
+

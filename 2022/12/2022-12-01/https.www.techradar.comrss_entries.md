@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Marvel's Guardians of the Galaxy 3 trailer teases Adam Warlock, a six-armed Groot, and baby Rocket
  - [https://www.techradar.com/news/marvels-guardians-of-the-galaxy-3-trailer-teases-adam-warlock-a-six-armed-groot-and-baby-rocket](https://www.techradar.com/news/marvels-guardians-of-the-galaxy-3-trailer-teases-adam-warlock-a-six-armed-groot-and-baby-rocket)
@@ -231,6 +231,41 @@ Microsoft has been resolving a whole bunch of major bugs with Windows 11 recentl
 
 Looking for a cheap GoPro action camera? We've rounded up all the finest GoPro deals and sales around.
 
+## The best Fitbit Versa sales, deals, and prices for April 2023
+ - [https://www.techradar.com/news/cheapest-fitbit-versa-prices-sales-deals](https://www.techradar.com/news/cheapest-fitbit-versa-prices-sales-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 09:43:03+00:00
+
+We're rounding up the best Fitbit Versa sales and deals that are available online.
+
+## The cheapest Sonos sales and deals for January 2023
+ - [https://www.techradar.com/news/cheap-sonos-deals](https://www.techradar.com/news/cheap-sonos-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 09:28:07+00:00
+
+Building a multi-room Sonos speaker setup? Check out these great Sonos deals on Play:1, Play:3, the Beam, and the Playbase.
+
+## The best cheap Apple Watch deals, sales and prices for January 2023
+ - [https://www.techradar.com/news/cheap-apple-watch-deals](https://www.techradar.com/news/cheap-apple-watch-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 08:54:20+00:00
+
+Your guide to the best Apple Watch deals and sales with the lowest prices available on Apple's best-selling smartwatch.
+
+## The cheapest Samsung Galaxy Buds prices, sales and deals for March 2023
+ - [https://www.techradar.com/news/cheapest-samsung-galaxy-buds-prices-deals-sales](https://www.techradar.com/news/cheapest-samsung-galaxy-buds-prices-deals-sales)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 08:48:41+00:00
+
+Check out the best online prices, discounts and deals for the comfortable and stylish Samsung Galaxy Buds.
+
+## The best cheap Fire Stick sales and deals for April 2023
+ - [https://www.techradar.com/news/best-amazon-fire-tv-deals](https://www.techradar.com/news/best-amazon-fire-tv-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 08:35:35+00:00
+
+Your guide to the best cheap Fire Stick sales, including deals on the Fire TV Stick Lite,  4K Fire TV Stick, and the Fire TV Cube.
+
 ## The best cheap Beats headphones sales and deals for December 2022
  - [https://www.techradar.com/news/audio/portable-audio/cheap-beats-by-dre-deals-1302753](https://www.techradar.com/news/audio/portable-audio/cheap-beats-by-dre-deals-1302753)
  - RSS feed: https://www.techradar.com/rss
@@ -238,12 +273,33 @@ Looking for a cheap GoPro action camera? We've rounded up all the finest GoPro d
 
 We're rounding up the best cheap Beats headphones sales and deals that are available online.
 
+## The best cheap headphone sales and deals for March 2023
+ - [https://www.techradar.com/news/headphone-deals](https://www.techradar.com/news/headphone-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 08:20:26+00:00
+
+Our roundup of the best cheap headphone sales and deals will get you sorted with a pair of great cans for less this week.
+
 ## Willow actor Ellie Bamber on the “pressure” of keeping the Disney Plus series’ big secret
  - [https://www.techradar.com/news/willow-actor-ellie-bamber-on-the-pressure-of-keeping-the-disney-plus-series-big-secret](https://www.techradar.com/news/willow-actor-ellie-bamber-on-the-pressure-of-keeping-the-disney-plus-series-big-secret)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-01 08:00:06+00:00
 
 Ellie Bamber, who plays Dove in Willow's Disney Plus show, explains all about the major reveal concerning her character.
+
+## The cheapest AirPods sales and deals in March 2023
+ - [https://www.techradar.com/news/cheapest-airpods-prices](https://www.techradar.com/news/cheapest-airpods-prices)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 07:52:59+00:00
+
+The best Airpods deals are right here in this guide with the best AirPods sales and prices that are available online.
+
+## The best cheap Amazon Echo deals and sales for March 2023
+ - [https://www.techradar.com/news/the-best-amazon-echo-and-amazon-echo-dot-deals](https://www.techradar.com/news/the-best-amazon-echo-and-amazon-echo-dot-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-01 07:22:39+00:00
+
+Amazon Echo deals for the smart speaker range are never far away. We're here to make sure you don't overpay for an Alexa speaker.
 
 ## I wish my Spotify Wrapped had this Apple Music Replay feature
  - [https://www.techradar.com/news/i-wish-my-spotify-wrapped-had-this-apple-music-replay-feature](https://www.techradar.com/news/i-wish-my-spotify-wrapped-had-this-apple-music-replay-feature)
@@ -258,3 +314,4 @@ Spotify Wrapped is here to pull back the curtain on our music habits, but I wish
  - date published: 2022-12-01 05:00:15+00:00
 
 The upcoming UltraGear display will house a 240Hz refresh rate and a 0.03ms response time for lightning fast gameplay.
+

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Enhance freedom to creativity with the Wondershare Filmora 12 update
  - [https://www.techradar.com/news/enhance-freedom-to-creativity-with-the-wondershare-filmora-12-update](https://www.techradar.com/news/enhance-freedom-to-creativity-with-the-wondershare-filmora-12-update)
@@ -174,3 +174,4 @@ Curious about the PSVR 2 controllers? Here's everything you need to know about t
  - date published: 2022-12-20 08:01:51+00:00
 
 Consumers are keen to make more Christmas purchases online, but poor website design could compromise this.
+

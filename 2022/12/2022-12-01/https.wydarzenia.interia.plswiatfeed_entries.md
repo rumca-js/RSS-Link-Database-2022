@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
+# Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
 ## USA. Joe Biden jest gotowy spotkać się z Putinem. Wskazał jeden warunek
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-usa-joe-biden-jest-gotowy-spotkac-sie-z-putinem-wskazal-jede,nId,6446742](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-usa-joe-biden-jest-gotowy-spotkac-sie-z-putinem-wskazal-jede,nId,6446742)
@@ -20,3 +20,4 @@
  - date published: 2022-12-01 05:20:58+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-zelenski-do-muska-przyjedz-na-ukraine-i-zobacz,nId,6445840"><img align="left" alt="Zełenski do Muska: Przyjedź na Ukrainę i zobacz" src="https://i.iplsc.com/zelenski-do-muska-przyjedz-na-ukraine-i-zobacz/000G77JZG1OEYL5U-C321.jpg" /></a>Prezydent Ukrainy skrytykował miliardera Elona Muska. Powodem jest zaproponowany przez szefa Tesli i Twittera plan pokojowy. Wołodymyr Zełenski zaproponował Muskowi, by ten przyjechał na Ukrainę i zobaczył, jakich zniszczeń dokonała tam Rosja.</p><br clear="all" />
+

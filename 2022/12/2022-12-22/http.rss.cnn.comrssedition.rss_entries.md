@@ -1,4 +1,46 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+# Source:CNN, URL:http://rss.cnn.com/rss/edition.rss, language:en-US
+
+## This Artificial Intelligence app can write as well as humans. See how it works
+ - [https://www.cnn.com/videos/business/2022/12/22/artificial-intelligence-chatgpt-foreman-dnt-the-lead-contd-vpx.cnn](https://www.cnn.com/videos/business/2022/12/22/artificial-intelligence-chatgpt-foreman-dnt-the-lead-contd-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 23:52:53+00:00
+
+An advanced artificial intelligence innovation, ChatGPT, is turning out "stunning" human-level writing, with the ability to write Jerry Seinfeld-style sonnets, compose essays, solve math problems and more. CNN's Tom Foreman reports.
+
+## 'We can't go to school? Why?': Afghan woman outraged over Taliban's university suspension for women
+ - [https://www.cnn.com/videos/world/2022/12/22/taliban-suspends-women-university-education-amanpour-pkg-lead-contd-vpx.cnn](https://www.cnn.com/videos/world/2022/12/22/taliban-suspends-women-university-education-amanpour-pkg-lead-contd-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 23:45:53+00:00
+
+The Taliban government has suspended university education for all female students in Afghanistan, the latest step in its brutal clampdown on the rights and freedoms of Afghan women. CNN's Christiane Amanpour reports.
+
+## 'Keep calm': Video shows Russian official reassuring soldiers on frontlines
+ - [https://www.cnn.com/videos/world/2022/12/22/russian-defense-minister-reassures-troops-ripley-dnt-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/12/22/russian-defense-minister-reassures-troops-ripley-dnt-lead-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 22:38:00+00:00
+
+Video released by the Russian Defense Ministry shows Minister Sergei Shoigu on the frontlines in Ukraine reassuring soldiers to "keep calm" because "everything is fine." CNN's Will Ripley reports.
+
+## 'Let's spread a little kindness': Biden delivers Christmas message to Americans
+ - [https://www.cnn.com/videos/politics/2022/12/22/biden-2022-christmas-address-entire-sot-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/22/biden-2022-christmas-address-entire-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 21:57:38+00:00
+
+President Joe Biden used his Christmas address to urge Americans to "spread a little kindness" and help those who are in need.
+
+## A German citizen, suspected of being a Russian spy, is arrested for alleged treason
+ - [https://www.cnn.com/2022/12/22/europe/germany-russian-spy-suspect-intl/index.html](https://www.cnn.com/2022/12/22/europe/germany-russian-spy-suspect-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 20:33:27+00:00
+
+A German citizen who worked for the country's foreign intelligence service was arrested Wednesday on charges of spying for Russia, according to the office of the German Federal Prosecutor General.
+
+## 'I'm excited!': Anchor Ana Cabrera bids farewell to CNN
+ - [https://www.cnn.com/videos/us/2022/12/22/ana-cabrera-final-show-goodbye-newsroom-nr-vpx.cnn](https://www.cnn.com/videos/us/2022/12/22/ana-cabrera-final-show-goodbye-newsroom-nr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 19:38:44+00:00
+
+After nearly a decade with CNN, anchor Ana Cabrera bids farewell to her CNN Newsroom audience on live TV.
 
 ## Why everyone's talking about 'nepo babies'
  - [https://www.cnn.com/2022/12/22/entertainment/nepo-baby-vulture-new-york-magazine-cec/index.html](https://www.cnn.com/2022/12/22/entertainment/nepo-baby-vulture-new-york-magazine-cec/index.html)
@@ -48,6 +90,20 @@ CNN meteorologist Derek Van Dam reports on dangerously low temperatures from the
  - date published: 2022-12-22 18:05:32+00:00
 
 Schoolchildren raise money for socks, mothers buy winter clothes and sleeping bags, community groups collect donations for body armor.
+
+## Dominatrix demanded $250,000 in public funding. Hear why
+ - [https://www.cnn.com/videos/us/2022/12/22/dominatrix-rules-public-meeting-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/us/2022/12/22/dominatrix-rules-public-meeting-moos-cprog-orig-bdk.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 17:27:34+00:00
+
+Dominatrix offers to spank commissioners at public meeting..."You may call me Mistress." CNN's Jeanne Moos reports.
+
+## 'I really had tears in my eyes': Ukrainians react to Zelensky's historic US visit
+ - [https://www.cnn.com/collections/int-1223-russia-ukraine-zelensky-us/](https://www.cnn.com/collections/int-1223-russia-ukraine-zelensky-us/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-22 17:24:57+00:00
+
+
 
 ## Cassidy Hutchinson told Jan. 6 committee she felt pressure from Trump allies not to talk
  - [https://www.cnn.com/2022/12/22/politics/cassidy-hutchinson-jan-6-testimony-trump-pressure/index.html](https://www.cnn.com/2022/12/22/politics/cassidy-hutchinson-jan-6-testimony-trump-pressure/index.html)
@@ -433,3 +489,4 @@ Ukrainian President Volodymyr Zelensky was greeted by loud applause from members
  - date published: 2022-12-22 00:43:24+00:00
 
 John Oliver and his team got permission to reprogram sexy trash cans in Sweden to help dispose of weird "demon" dolls they collected earlier this year.
+

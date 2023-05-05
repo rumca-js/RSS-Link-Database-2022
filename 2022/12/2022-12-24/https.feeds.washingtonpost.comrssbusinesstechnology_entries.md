@@ -1,4 +1,4 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+# Source:The Washington Post - Tech, URL:https://feeds.washingtonpost.com/rss/business/technology, language:en-US
 
 ## Twitter brings Elon Musk’s genius reputation crashing down to earth
  - [https://www.washingtonpost.com/technology/2022/12/24/elon-musk-twitter-meltdown-tesla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/24/elon-musk-twitter-meltdown-tesla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -13,3 +13,4 @@ Musk went down conspiracy rabbit holes and sank Tesla's stock with his behavior.
  - date published: 2022-12-24 06:00:05+00:00
 
 Elon Musk didn't buy Twitter on his own. From Qatar to Jack Dorsey and Binance, meet the people who helped fund the acquisition.
+

@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
 ## Here's a quirky little game with excellent sailing ships to explore and battle in
  - [https://www.pcgamer.com/heres-a-quirky-little-game-with-excellent-sailing-ships-to-explore-and-battle-in](https://www.pcgamer.com/heres-a-quirky-little-game-with-excellent-sailing-ships-to-explore-and-battle-in)
@@ -125,3 +125,4 @@ Cards starting at over $1k USD is not what we were hoping for.
  - date published: 2022-12-29 01:42:28+00:00
 
 It's an odd combo, let's see how it plays out.
+

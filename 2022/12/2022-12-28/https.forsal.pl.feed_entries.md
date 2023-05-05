@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Z Chin do USA? Od 5 stycznia z negatywnym wynikiem testu na COVID-19
  - [https://forsal.pl/swiat/usa/artykuly/8619976,usa-podroz-testy-covid-19-chiny.html](https://forsal.pl/swiat/usa/artykuly/8619976,usa-podroz-testy-covid-19-chiny.html)
@@ -468,3 +468,4 @@
  - date published: 2022-12-28 05:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/nL2ktkuTURBXy9kNmI4OTJhNC1jYjQ0LTQ5NzUtYWEyNC1mZjM4ODBjY2FjZTIuanBlZ5GTBc0BHcyg" />Już ok. 533 tys. ukraińskich dzieci jest objętych świadczeniem wychowawczym 500+. Do kieszeni uchodźców trafiło z tego tytułu ponad 1 mld 172 mln zł – wynika z najnowszych danych ZUS. Rząd uszczelnia przepisy, aby zapobiegać wyłudzaniu pieniędzy
+

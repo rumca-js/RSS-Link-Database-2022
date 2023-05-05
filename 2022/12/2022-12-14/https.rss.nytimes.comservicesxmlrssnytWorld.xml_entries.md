@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
 ## Zelensky Urges Barring Russian and Belarusian Athletes from 2024 Olympics
  - [https://www.nytimes.com/2022/12/14/world/europe/olympics-2024-russia-belarus-athletes.html](https://www.nytimes.com/2022/12/14/world/europe/olympics-2024-russia-belarus-athletes.html)
@@ -230,3 +230,4 @@ Morocco’s magical run has elated fans, but for some, the strain of the impendi
  - date published: 2022-12-14 00:13:22+00:00
 
 A French-led effort to involve dozens of countries aims to help Ukraine survive a harsh winter with quick repair of vital electrical, heating, water and health care systems.
+

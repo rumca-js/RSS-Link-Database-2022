@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Hackers Sign Android Malware Apps with Compromised Platform Certificates
  - [http://thehackernews.com/2022/12/hackers-sign-android-malware-apps-with.html](http://thehackernews.com/2022/12/hackers-sign-android-malware-apps-with.html)
@@ -129,3 +129,4 @@ In a new advisory shared by the U.S. Cybersecurity and Infrastructure Security A
 
 The threat actors behind Cuba (aka COLDDRAW) ransomware have received more than $60 million in ransom payments and compromised over 100 entities across the world as of August 2022.
 In a new advisory shared by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI), the agencies highlighted a "sharp increase in both the number of compromised
+

@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
+# Source:The Hacker News, URL:https://feeds.feedburner.com/TheHackersNews, language:en-US
 
 ## Google Accuses Spanish Spyware Vendor of Exploiting Chrome, Firefox, and Windows Zero-Days
  - [https://thehackernews.com/2022/12/google-accuses-spanish-spyware-vendor.html](https://thehackernews.com/2022/12/google-accuses-spanish-spyware-vendor.html)
@@ -119,3 +119,4 @@ GoTo, formerly called LogMeIn, acquired LastPass
 Popular password management service LastPass said it's investigating a second security incident that involved attackers accessing some of its customer information.
 "We recently detected unusual activity within a third-party cloud storage service, which is currently shared by both LastPass and its affiliate, GoTo," LastPass CEO Karim Toubba said.
 GoTo, formerly called LogMeIn, acquired LastPass
+

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+# Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
 ## Rookie NYPD cop, 27, sets pulses racing with saucy latex photoshoot
  - [https://www.dailymail.co.uk/news/article-11499047/Rookie-NYPD-cop-27-sets-pulses-racing-saucy-latex-photoshoot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11499047/Rookie-NYPD-cop-27-sets-pulses-racing-saucy-latex-photoshoot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -783,3 +783,4 @@ Mick Donovan was found cowering under his bed with little Shannon 24 days after 
  - date published: 2022-12-03 00:07:36+00:00
 
 Police Chief Mary O'Connor was spotted on body cam footage attempting to use her position to get out of a traffic stop with Deputy Larry Jacoby.
+

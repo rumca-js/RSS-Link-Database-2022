@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Microsoft bans cryptomining in Azure
  - [https://www.techradar.com/news/microsoft-bans-cryptomining-in-azure](https://www.techradar.com/news/microsoft-bans-cryptomining-in-azure)
@@ -146,3 +146,4 @@ The Oppo Find N2 and Oppo Find N2 Flip have both been unveiled, but only one is 
  - date published: 2022-12-15 05:00:07+00:00
 
 Apple Watch users can get loads of new features for free right now.
+

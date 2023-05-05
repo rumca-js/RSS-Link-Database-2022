@@ -1,4 +1,4 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
+# Source:Wired business, URL:https://www.wired.com/feed/category/business/latest/rss, language:en-US
 
 ## Elon Musk's Twitter Isn’t Ready for the Next Natural Disaster
  - [https://www.wired.com/story/elon-musks-twitter-isnt-ready-for-the-next-natural-disaster/](https://www.wired.com/story/elon-musks-twitter-isnt-ready-for-the-next-natural-disaster/)
@@ -20,3 +20,4 @@ In a fragmented online world, the professional social network is finding mass ap
  - date published: 2022-12-05 12:00:00+00:00
 
 The company’s staffing problems have been magnified in Germany, where it is unable to meet targets as more workers head for the exit.
+

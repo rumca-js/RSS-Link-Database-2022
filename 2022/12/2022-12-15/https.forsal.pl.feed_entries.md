@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
+# Source:Forsal.pl, URL:https://forsal.pl/.feed, language:pl-PL
 
 ## Pentagon ogłosił rozszerzenie szkolenia ukraińskich żołnierzy
  - [https://forsal.pl/swiat/ukraina/artykuly/8611389,pentagon-oglosil-rozszerzenie-szkolenia-ukrainskich-zolnierzy.html](https://forsal.pl/swiat/ukraina/artykuly/8611389,pentagon-oglosil-rozszerzenie-szkolenia-ukrainskich-zolnierzy.html)
@@ -566,3 +566,4 @@
  - date published: 2022-12-15 05:00:00+00:00
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/e32ktktTURBXy80Y2FlYzdmZC0xMzgzLTRmMGItOWI3Ni1jYjhkMjZmNTJmNDkucG5nkZMFzQEdzKA" />Zagrożenie ubóstwem lub wykluczeniem społecznym osób niepełnosprawnych jest w Unii Europejskiej znacznie większe niż ryzyko biedy wśród ludzi w pełni sprawnych fizycznie.
+

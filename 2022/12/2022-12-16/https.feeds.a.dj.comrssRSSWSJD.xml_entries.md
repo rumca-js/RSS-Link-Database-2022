@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
 
 ## Labor Department Issues Citations Against Amazon Over Warehouse Injuries
  - [https://www.wsj.com/articles/labor-department-issues-citations-against-amazon-over-warehouse-injuries-11671232094?mod=rss_Technology](https://www.wsj.com/articles/labor-department-issues-citations-against-amazon-over-warehouse-injuries-11671232094?mod=rss_Technology)
@@ -55,3 +55,4 @@ We polled six tech experts on the trends they’re excited for (and dreading)
  - date published: 2022-12-16 10:30:00+00:00
 
 The latest fusion experiment cleared the first hurdle, but there are two more before it starts delivering clean, affordable energy
+

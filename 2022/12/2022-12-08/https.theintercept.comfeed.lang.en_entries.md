@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
+# Source:The Intercept, URL:https://theintercept.com/feed/?lang=en, language:en-US
 
 ## How Purple Is Georgia?
  - [https://theintercept.com/2022/12/08/deconstructed-georgia-senate-raphael-warnock/](https://theintercept.com/2022/12/08/deconstructed-georgia-senate-raphael-warnock/)
@@ -23,3 +23,4 @@
 
 <p>The ex-president is finally fair game for an entire legion of lawyers. </p>
 <p>The post <a href="https://theintercept.com/2022/12/08/trump-legal-investigations/" rel="nofollow">Donald Trump Is Out of Power — and Out of Luck</a> appeared first on <a href="https://theintercept.com" rel="nofollow">The Intercept</a>.</p>
+

@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
 
 ## Elon Musk Announces New Twitter Policy to Follow and Question Science
  - [https://www.theepochtimes.com/elon-musk-announces-new-twitter-policy-to-follow-and-question-science_4950190.html](https://www.theepochtimes.com/elon-musk-announces-new-twitter-policy-to-follow-and-question-science_4950190.html)
@@ -27,3 +27,4 @@ The logo for social media app TikTok is displayed on the screen of an iPhone on 
  - date published: 2022-12-28 00:13:26+00:00
 
 The Twitter logo is displayed on a mobile device in London on Nov. 7, 2013. (Photo by Bethany Clarke/Getty Images)
+

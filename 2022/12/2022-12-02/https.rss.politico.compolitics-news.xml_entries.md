@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## What happened when Biden and the Royals came to Boston
  - [https://www.politico.com/news/2022/12/02/biden-royals-boston-00072014](https://www.politico.com/news/2022/12/02/biden-royals-boston-00072014)
@@ -27,3 +27,4 @@ Last month Sen. Michael Bennet [D-Colo.] won reelection over his Republican chal
  - date published: 2022-12-02 04:30:00+00:00
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.
+

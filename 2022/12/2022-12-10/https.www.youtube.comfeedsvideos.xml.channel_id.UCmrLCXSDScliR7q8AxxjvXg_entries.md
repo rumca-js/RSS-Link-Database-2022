@@ -1,4 +1,4 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
+# Source:Black Pidgeon Speaks, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, language:en-US
 
 ## COLLAPSE of MASCULINITY: Rise of the Nu-Male
  - [https://www.youtube.com/watch?v=XPEwCftoVGw](https://www.youtube.com/watch?v=XPEwCftoVGw)
@@ -62,3 +62,4 @@ http://www.digitaljuice.com/Intl
 -------------------------------
 
 #wordcup2022 #onelove #football
+

@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
 
 ## I watched McDonald's customers choose between a screen and a human. It was startling
  - [https://www.zdnet.com/article/i-watched-mcdonalds-customers-choose-between-a-screen-and-a-human-it-was-startling/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-watched-mcdonalds-customers-choose-between-a-screen-and-a-human-it-was-startling/#ftag=RSSbaffb68)
@@ -55,3 +55,4 @@ These awesome holiday TV deals make it more affordable than ever to add top bran
  - date published: 2022-12-10 00:04:00+00:00
 
 Want to gift a laptop this holiday season? We've included Windows laptops from Dell, Lenovo, and HP, as well as MacBooks, large-screen laptops, 2-in-1 touchscreen notebooks, and Chromebooks.
+

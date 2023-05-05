@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
+# Source:Wydarzenia Interia, URL:https://wydarzenia.interia.pl/feed, language:pl-PL
 
 ## Putin zapewnia, że Rosja nie chce wchłonąć żadnego kraju. Rzecznik Departamentu Stanu USA: Szczyt ironii
  - [https://wydarzenia.interia.pl/news-putin-zapewnia-ze-rosja-nie-chce-wchlonac-zadnego-kraju-rzec,nId,6483016](https://wydarzenia.interia.pl/news-putin-zapewnia-ze-rosja-nie-chce-wchlonac-zadnego-kraju-rzec,nId,6483016)
@@ -503,3 +503,4 @@
  - date published: 2022-12-19 04:32:20+00:00
 
 <p><a href="https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-299-dzien-inwazji-rosji-relacja-na-zywo,nzId,3524,akt,190828"><img align="left" alt="Wojna w Ukrainie. 299. dzień inwazji Rosji. Relacja na żywo" src="https://i.iplsc.com/wojna-w-ukrainie-299-dzien-inwazji-rosji-relacja-na-zywo/000GIBT5V3U1KSB8-C321.jpg" /></a>Najnowsze informacje dotyczące rosyjskiej inwazji na Ukrainę. Śledź naszą relację na żywo.</p><br clear="all" />
+

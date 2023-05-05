@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
+# Source:BBC tech, URL:http://feeds.bbci.co.uk/news/technology/rss.xml, language:en-US
 
 ## Royal Mail hit by post-Christmas online outage
  - [https://www.bbc.co.uk/news/technology-64110269?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-64110269?at_medium=RSS&at_campaign=KARANGA)
@@ -13,3 +13,4 @@ Problems emerge on the website and app on the first day of regular post followin
  - date published: 2022-12-28 07:10:58+00:00
 
 Both companies have suffered major losses over concerns about supply chain hiccups in China.
+

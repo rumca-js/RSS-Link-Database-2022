@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+# Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
 ## Gen.G Wins ‘Rocket League’ Championship Series Fall Major, Erases All Doubt Around Team
  - [https://www.forbes.com/sites/maxthielmeyer/2022/12/11/geng-wins-rocket-league-championship-series-fall-major-erases-all-doubt-around-team/](https://www.forbes.com/sites/maxthielmeyer/2022/12/11/geng-wins-rocket-league-championship-series-fall-major-erases-all-doubt-around-team/)
@@ -181,3 +181,4 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - date published: 2022-12-11 01:00:00+00:00
 
 The new space observatory has confirmed four early galaxies dating back to less than 400 million years after the Big Bang, three of which are the most distant confirmed to date.
+

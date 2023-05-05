@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
+# Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
 ## Huawei zamyka swoją jednostkę biznesową w Rosji
  - [https://ithardware.pl/aktualnosci/huawei_zamyka_swoja_jednostke_biznesowa_w_rosji-24971.html](https://ithardware.pl/aktualnosci/huawei_zamyka_swoja_jednostke_biznesowa_w_rosji-24971.html)
@@ -189,3 +189,4 @@ Front urządzenia niemal w...
 
 Nagroda - 3x Endorfy Thock...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_20-24817.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_20-24817.html</a></p>
+

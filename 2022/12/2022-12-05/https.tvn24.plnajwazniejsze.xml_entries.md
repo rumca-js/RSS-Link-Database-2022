@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
+# Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
 ## Zmiany w resorcie klimatu i środowiska. Wiceminister Jacek Ozdoba traci dotychczasowe kompetencje
  - [https://tvn24.pl/polska/wiceminister-jacek-ozdoba-traci-dotychczasowe-zadania-w-resorcie-klimatu-i-srodowiska-przejmie-je-wiceminister-edward-siarka-6388069?source=rss](https://tvn24.pl/polska/wiceminister-jacek-ozdoba-traci-dotychczasowe-zadania-w-resorcie-klimatu-i-srodowiska-przejmie-je-wiceminister-edward-siarka-6388069?source=rss)
@@ -230,6 +230,22 @@
  - date published: 2022-12-05 15:45:50+00:00
 
 <img alt="Bez Kitu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-vn18zs-kampania-bez-kitu-6382565/alternates/LANDSCAPE_1280" />
+    undefined
+
+## Bez Kitu
+ - [https://tvn24.pl/go/kampania-BezKitu,t?source=rss](https://tvn24.pl/go/kampania-BezKitu,t?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-05 15:45:50+00:00
+
+<img alt="Bez Kitu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-vn18zs-kampania-bez-kitu-6382565/alternates/LANDSCAPE_1280" />
+    undefined
+
+## Bez Kitu
+ - [https://tvn24.pl/go/programy,7/kampania-bezkitu-odcinki,920685?source=rss](https://tvn24.pl/go/programy,7/kampania-bezkitu-odcinki,920685?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-05 15:45:50+00:00
+
+<img alt="Bez Kitu" src="https://tvn24.pl/najnowsze/cdn-zdjecie-rklrtp-kampania-bez-kitu-6382565/alternates/LANDSCAPE_1280" />
     undefined
 
 ## Rydzyk chwalił biskupa ukaranego przez Watykan: Współczesny męczennik. Tak powstają święci
@@ -775,3 +791,4 @@
 
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-tc6xrr-ukrainscy-zolnierze-6375797/alternates/LANDSCAPE_1280" />
     W tvn24.pl relacjonujemy wydarzenia z i wokół Ukrainy.
+

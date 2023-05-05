@@ -1,4 +1,4 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
+# Source:Politico, URL:https://rss.politico.com/politics-news.xml, language:en-US
 
 ## Democracy for America on track to shut down
  - [https://www.politico.com/news/2022/12/13/democracy-for-america-howard-dean-00073770](https://www.politico.com/news/2022/12/13/democracy-for-america-howard-dean-00073770)
@@ -18,5 +18,6 @@ Brandon Phillips was arrested last month on a charge of animal cruelty. In 2016,
  - [https://www.politico.com/video/2022/12/13/la-city-council-member-apologizes-for-leaked-racist-comments-refuses-to-resign-795994](https://www.politico.com/video/2022/12/13/la-city-council-member-apologizes-for-leaked-racist-comments-refuses-to-resign-795994)
  - RSS feed: https://rss.politico.com/politics-news.xml
  - date published: 2022-12-13 13:45:58+00:00
+
 
 

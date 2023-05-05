@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
 ## Antivirus software can be hijacked to wipe data
  - [https://www.techradar.com/news/antivirus-software-can-be-hijacked-to-wipe-data](https://www.techradar.com/news/antivirus-software-can-be-hijacked-to-wipe-data)
@@ -132,3 +132,4 @@ Partnership with the London Stock Exchange group will bring various Microsoft pr
  - date published: 2022-12-12 10:44:12+00:00
 
 We might see other fan-favorite Kang variants appear in the MCU after Ant-Man and the Wasp: Quantumania.
+

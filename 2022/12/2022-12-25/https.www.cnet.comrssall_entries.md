@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
 
 ## 8 Foods That Will Make You Happier in 2023     - CNET
  - [https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CADf328eec](https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CADf328eec)
@@ -195,3 +195,4 @@ If you're looking to return or exchange a gift you don't want, there's a specifi
  - date published: 2022-12-25 01:00:03+00:00
 
 Protect your home from would-be porch pirates and intruders. Here's how.
+

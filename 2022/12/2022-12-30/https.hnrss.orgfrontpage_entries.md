@@ -1,4 +1,14 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## SouthwestAirlines' Meltdown Shows How Corporations Pit Consumers Against Workers
+ - [https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown](https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-30 23:58:41+00:00
+
+<p>Article URL: <a href="https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown">https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34191650">https://news.ycombinator.com/item?id=34191650</a></p>
+<p>Points: 141</p>
+<p># Comments: 99</p>
 
 ## Show HN: Self Hosted OpenStreetMap using only Sqlite3 and Python
  - [https://github.com/punnerud/rgcosm](https://github.com/punnerud/rgcosm)
@@ -9,6 +19,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34191028">https://news.ycombinator.com/item?id=34191028</a></p>
 <p>Points: 10</p>
 <p># Comments: 1</p>
+
+## Young adults are struggling with their mental health
+ - [https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-30 22:40:10+00:00
+
+<p>Article URL: <a href="https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer">https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34190975">https://news.ycombinator.com/item?id=34190975</a></p>
+<p>Points: 26</p>
+<p># Comments: 8</p>
 
 ## Fetish Tabooness vs. Popularity
  - [https://aella.substack.com/p/fetish-tabooness-vs-popularity](https://aella.substack.com/p/fetish-tabooness-vs-popularity)
@@ -89,6 +109,26 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34189422">https://news.ycombinator.com/item?id=34189422</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
+
+## Opt out of all the data sharing you wouldn't opt in to
+ - [https://simpleoptout.com](https://simpleoptout.com)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-30 19:44:11+00:00
+
+<p>Article URL: <a href="https://simpleoptout.com">https://simpleoptout.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34189110">https://news.ycombinator.com/item?id=34189110</a></p>
+<p>Points: 36</p>
+<p># Comments: 12</p>
+
+## The Surface State Job: 75th anniversary of the transistor
+ - [https://medium.com/chmcore/the-surface-state-job-7a3c4d9906f3](https://medium.com/chmcore/the-surface-state-job-7a3c4d9906f3)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-30 19:44:04+00:00
+
+<p>Article URL: <a href="https://medium.com/chmcore/the-surface-state-job-7a3c4d9906f3">https://medium.com/chmcore/the-surface-state-job-7a3c4d9906f3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34189106">https://news.ycombinator.com/item?id=34189106</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
 ## Show HN: Backup Scheduler
  - [https://github.com/divyenduz/backup-scheduler](https://github.com/divyenduz/backup-scheduler)
@@ -558,6 +598,16 @@
 <p>Points: 4</p>
 <p># Comments: 3</p>
 
+## A War of Endless Controversy: Governing from History
+ - [https://www.laphamsquarterly.org/roundtable/war-endless-controversy](https://www.laphamsquarterly.org/roundtable/war-endless-controversy)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-30 06:03:39+00:00
+
+<p>Article URL: <a href="https://www.laphamsquarterly.org/roundtable/war-endless-controversy">https://www.laphamsquarterly.org/roundtable/war-endless-controversy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34182331">https://news.ycombinator.com/item?id=34182331</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
 ## Christmas with the Tudors
  - [https://www.historytoday.com/archive/making-history/christmas-tudors](https://www.historytoday.com/archive/making-history/christmas-tudors)
  - RSS feed: https://hnrss.org/frontpage
@@ -619,6 +669,16 @@
 <p>Points: 20</p>
 <p># Comments: 30</p>
 
+## EndBASIC 0.10: Core language, evolved
+ - [https://jmmv.dev/2022/12/endbasic-0.10.html](https://jmmv.dev/2022/12/endbasic-0.10.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-30 01:17:24+00:00
+
+<p>Article URL: <a href="https://jmmv.dev/2022/12/endbasic-0.10.html">https://jmmv.dev/2022/12/endbasic-0.10.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34180436">https://news.ycombinator.com/item?id=34180436</a></p>
+<p>Points: 37</p>
+<p># Comments: 6</p>
+
 ## ChatGPT Political Compass
  - [https://www.gptoverflow.link/question/1519492600837443584/chatgpt-political-compass](https://www.gptoverflow.link/question/1519492600837443584/chatgpt-political-compass)
  - RSS feed: https://hnrss.org/frontpage
@@ -638,3 +698,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34179949">https://news.ycombinator.com/item?id=34179949</a></p>
 <p>Points: 26</p>
 <p># Comments: 4</p>
+

@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
 ## China Covid: Hospitals under strain in wave of infections
  - [https://www.bbc.co.uk/news/world-asia-china-63944861?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63944861?at_medium=RSS&at_campaign=KARANGA)
@@ -552,3 +552,4 @@ A decade ago, a gunman opened fire at Sandy Hook Elementary in Connecticut, kill
  - date published: 2022-12-13 00:14:51+00:00
 
 Many of the front pages carry the story of the deaths of three boys in Solihull, as well as plans to use taxis as ambulances during strikes.
+

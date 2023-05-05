@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
+# Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:en-US
 
 ## Największy wycieczkowiec na świecie został zwodowany
  - [https://businessinsider.com.pl/lifestyle/icon-of-the-seas-najwiekszy-wycieczkowiec-na-swiecie-zostal-zwodowany/djbl8r3](https://businessinsider.com.pl/lifestyle/icon-of-the-seas-najwiekszy-wycieczkowiec-na-swiecie-zostal-zwodowany/djbl8r3)
@@ -573,3 +573,4 @@ Prezes NBP Adam Glapiński otrzymał w niedzielę nagrodę za wybitne zarządzan
  - date published: 2022-12-12 05:10:09+00:00
 
 Tak jak młodzieżowym słowem w 2022 r. została "essa", tak najpopularniejszym wyrażeniem w świecie gospodarczym może w 2023 r. być "dezinflacja". Od razu tonujemy jednak nadmierny optymizm. Termin ten nie oznacza, że ceny będą spadały.
+

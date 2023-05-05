@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
 ## Twitter users voted to oust Elon Musk in his recent poll. How did we get here?
  - [https://www.nbcnews.com/tech/twitter-users-reach-breaking-point-elon-musk-rcna62403](https://www.nbcnews.com/tech/twitter-users-reach-breaking-point-elon-musk-rcna62403)
@@ -13,3 +13,4 @@ Elon Musk’s ban on link sharing and his subsequent poll asking whether he shou
  - date published: 2022-12-19 11:29:21+00:00
 
 Twitter users voted overnight for Elon Musk to step down as the head of the social media platform, in a poll the billionaire launched himself on Sunday.
+
