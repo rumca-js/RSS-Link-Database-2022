@@ -1,0 +1,98 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## 23 Best Steam Deck Games You Should Play
+ - [https://www.youtube.com/watch?v=ikJ2AHADJVo](https://www.youtube.com/watch?v=ikJ2AHADJVo)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-05-18 00:00:00+00:00
+
+If you just bought a Steam Deck and are wondering what to boot up first, we've rounded up a few of the best games to play on it, including major AAA hits like Elden Ring, under-the-radar indies such as Spiritfarer, and everything in between.
+
+0:00 - Intro
+0:38 - Elden Ring
+1:37 - Spiritfarer
+2:17 - Hitman 3
+2:45 - Disco Elysium
+3:19 - Final Fantasy Pixel Remasters
+4:00 - God of War (2018)
+4:36 - Left 4 Dead 2
+5:10 - Monster Train
+5:49 - Children of Morta
+6:14 - Rogue Legacy 2
+6:48 - Sable
+7:28 - Sea of Thieves
+8:13 - Unpacking
+8:38 - Valheim
+9:07 - Vampire Survivors
+9:41 - The Witcher 3
+10:14 - The Banner Saga Trilogy
+10:47 - Into the Breach
+11:20 - Ori and the Blind Forest
+11:57 - Rez Infinite
+12:39 - Totally Accurate Battle Simulator
+13:11 - Soma
+13:42 - Half-Life 2
+14:44 - Outro
+
+#SteamDeck #Gaming
+
+## Final Fantasy 7 & 16 Info Coming | GameSpot News
+ - [https://www.youtube.com/watch?v=u5x1-_tNqiE](https://www.youtube.com/watch?v=u5x1-_tNqiE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-05-18 00:00:00+00:00
+
+Final Fantasy VII Remake part 2 news coming in June, Battlefield 2042 Season 1 launch targeting early June and Call Of Duty: Vanguard starts a free week of multiplayer.
+#GamingNews #FinalFantasy #Battlefield2042
+
+During a stream for the Final Fantasy VII: The First Soldier mobile battle royale game, director Tetsuya Nomura said that there will be some announcements surrounding Final Fantasy VII in June. This could be a sign that Square Enix will release information about Part 2 of the Final Fantasy VII Remake, as it suggested that the game would be revealed sometime during its anniversary year.
+
+Developer DICE confirmed today that the first season is expected to launch in "early June." Season 1 will be the first of four seasons coming to the game in the span of 12 months. Players can expect four new Specialists, new maps, and "more completely new content" throughout the four seasons. DICE said it will share a "full overview" and the patch notes for Season 1 as its release draws closer.
+
+Battlefield 2042 4.1 Patch Notes: 
+https://www.gamespot.com/articles/battlefield-2042-4-1-update-patch-notes-breakthrough-128-is-being-removed/1100-6503587/
+
+Call of Duty: Vanguard’s multiplayer mode is having a free access week starting today, May 18 until May 24. The event will include all maps and modes, including Season 3's new Mayhem map, Vanguard's large-scale Arms Race objective mode, the popular Ship Haus playlist, and more.
+
+STAMPS
+00:00 - Intro
+00:08 - Final Fantasy 7 and Final Fantasy 16
+01:16 - Battlefield 2042
+02:25 - Call of Duty
+
+## Arma Reforger Early Access - The Good And Bad
+ - [https://www.youtube.com/watch?v=lYxuD7h2498](https://www.youtube.com/watch?v=lYxuD7h2498)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-05-17 00:00:00+00:00
+
+On the road to Arma 4, Arma Reforger is a standalone early access game looking to hook a new generation of Arma players as it goes into Early Access on PC and Xbox. 
+
+Arma Reforger by Bohemia Interactive is a standalone Arma game going into Early Access while Arma 4 is in development. Reforger is intended to get the mil-sim community involved in testing out the new Enfusion engine, modding the game, coming up with fun combat scenarios, and fighting player vs. player. Reforger has two main multiplayer modes: Conflict, which sees two teams fighting over capture points, and Game Master, which lets players engage in and edit scenarios in real-time. The game also includes a Workshop that allows players to expand and modify the game. Mods can be used on both PC and, for the first time Xbox. Keep in mind the Arma Mod Day Z eventually led to PUBG and the modern battle royale craze. 
+
+Arma Reforger takes place in a large open world on the island of Everon, set in the 1980s. The island’s design is inspired by the former state of Czechoslovakia. You’ll see a lot of classic ’80s guns in the game, like the M16A2, M21 SWS, and M72A3 Law. The game builds off the Arma series roots that started in 2001 with Arma: Cold War Assault and helped define the military simulation genre. 
+
+Arma Reforger is part of the road to Arma 4 and is out now in Early Access for PC and Xbox.
+
+#Arma4 #ArmaReforger #Gaming
+
+## Cyberpunk 2077 Fan Project In Unreal 5 Looks Amazing | GameSpot News
+ - [https://www.youtube.com/watch?v=PzrJg2CFEIY](https://www.youtube.com/watch?v=PzrJg2CFEIY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-05-17 00:00:00+00:00
+
+Cyberpunk 2077 is recreated in Unreal Engine 5, GTA+ is off to a great start and Elden Ring's Malenia battles all other bosses thanks to a new mod. 
+#GamingNews #Cyberpunk2077 #EldenRing
+
+Imagining the NEXT Cyberpunk 2077 - https://youtu.be/jOwNE60bbfU
+ELDEN RING: Malenia VS All Bosses - https://youtu.be/pz7Rpce2cRc 
+
+YouTuber and developer Enfant Terrible, alside a number of other artists, put together a reimaging of Cyberpunk 2077's Night City within Epic's software. The artists used environment megapacks from the Epic Marketplace to recreate Night City and populated it with characters from Epic's the MetaHumans Creator.
+
+Back in March 2022, Take-Two Interactive rolled out GTA+, an optional paid subscription service for GTA Online. The initial announcement was met with some mixed reactions from fans, but according to Take-Two, the service is apparently doing well. In a recent earnings call for the fiscal period that ended on March 31, CEO Strauss Zelnick said the company is "thrilled" with the number of players who've signed up for GTA+
+
+Soulsborne content creator Garden of Eyes has created a mod that pits the game's various bosses against one another, and it's clear in a new video from the creator that Malenia is a cut above the rest.
+
+STAMPS
+00:00 - Intro
+00:07 - Cyberpunk 2077
+01:00 - GTA Online
+01:59 - Elden Ring
+

@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## The Truth Behind The Most Impossible Survival Story Ever Told
  - [https://www.youtube.com/watch?v=8DGi-u2j5_w](https://www.youtube.com/watch?v=8DGi-u2j5_w)

@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## The Pooplesnüupes
  - [https://www.youtube.com/watch?v=Ln02arb2Dwg](https://www.youtube.com/watch?v=Ln02arb2Dwg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

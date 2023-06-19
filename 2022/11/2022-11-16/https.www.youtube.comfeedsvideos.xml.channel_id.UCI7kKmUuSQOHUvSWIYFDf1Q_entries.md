@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## Fergie Sounds Good Over Anything
  - [https://www.youtube.com/watch?v=agrqgwxjZoM](https://www.youtube.com/watch?v=agrqgwxjZoM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

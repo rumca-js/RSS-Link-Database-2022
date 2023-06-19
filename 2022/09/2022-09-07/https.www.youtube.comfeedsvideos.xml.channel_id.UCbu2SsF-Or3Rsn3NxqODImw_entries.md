@@ -1,0 +1,181 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## Call of Duty Warzone Mobile Revealed and the Future of COD Mobile | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=u-gE10oIK1U](https://www.youtube.com/watch?v=u-gE10oIK1U)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+During GameSpot's new mobile show, Swipe, Chris Plummer VP of Mobile unveils Call of Duty's new Warzone mobile game and revealed what's next for Call of Duty Mobile.
+#gaming #cod #gamespot #swipe 
+
+Call of Duty Warzone Mobile is the official name of the game formerly known as Project Aurora. It's a new game from Activision's Solid State Studios, and today Activision announced the official title and revealed the first teaser. We'll also learn more at Call of Duty's Next which is coming in just one weeks time. Here we'll learn about the future of Call of Duty Warzone Mobile, and more of the Call of Duty franchise.
+
+Call of Duty Warzone Mobile will be, as its name suggests, a mobile version of Call of Duty Warzone. The existing Call of Duty Mobile already has a battle royale element, in addition to standard multiplayer, but Call of Duty Warzone Mobile is exclusively a battle royale game.
+
+## GameSpot Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=o8BXWNUmZM4](https://www.youtube.com/watch?v=o8BXWNUmZM4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Swipe GameSpot's Mobile Showcase will be streaming live on September 8th at 10am PT/1pm ET. You can expect a ton of announcements and looks at newly revealed games for iOS and Android devices. We'll be featuring everything from Call of Duty to Lord of the Rings to what's next from Netflix and more. We've got a great show planned with host Greg Miller of Kinda Funny and cohosts Tamoor Hussain and Kurt Indovina.
+
+We're looking to pack a lot in for Swipe, and we're excited to tease some of what you can expect. We'll be revealing the winner of our ongoing reader poll to determine the best mobile game of all time. Here are some of the developers and publishers who will be getting the spotlight: exciting news from the Call of Duty team, plus updates on NBA 2K Mobile, Lord of the Rings: Heroes of Middle-earth, PUBG Mobile, Tower of Fantasy, Iron Marines Invasion, Dead Cells, Streets of Rage 4, Lucky Luna, Desta, The Division Resurgence, Railbound, and more.
+
+#gaming #swipe #mobile #gamespot
+
+## Little Nightmares Mobile Official Announcement Trailer | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=S4fbHZR7UVA](https://www.youtube.com/watch?v=S4fbHZR7UVA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Little Nightmares makes it way to mobile devices in the winter on the Apple App Store and the Google Play Store. This announcement was made during GameSpot's Swipe Mobile Showcase.
+
+#littlenightmares #swipe #gaming
+
+## Lord Of The Rings: Heroes Of Middle-Earth Gameplay Revealed | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=gnH2IZhwULQ](https://www.youtube.com/watch?v=gnH2IZhwULQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Take a look at EA's upcoming fantasy game for mobile with the game's art director, Chris Salazar.
+#gaming #lotr #gamespot 
+
+We got a chance to speak with EA to learn more details on its upcoming Lord of the Rings mobile game, Heroes of Middle-earth.
+
+You'll get to play as famous Middle-earth characters to battle in a fight between good and evil. A new ring has been discovered, and it grants you the power to rewrite history. Of course there will be a fight over this powerful ring, and players can use the ring for good or evil.
+
+Lord of the Rings: Heroes of Middle-earth is a turn-based strategy game, where you will command units on the battlefield, including Aragorn, Gandalf, Arwen, Sauron and more.
+
+The game is currently in testing, but will launch everywhere on iOS and Android soon. For more mobile gaming news, be sure to check out GameSpot's Mobile Show: Swipe, which highlights the latest and greatest games for iOS and Android devices.
+
+## Lucky Luna Official Gameplay Trailer | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=FDx4d5YF3ZA](https://www.youtube.com/watch?v=FDx4d5YF3ZA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Take a look at this new trailer for Lucky Luna which premiered at Gamespot's Swipe Mobile Showcase 2022! Lucky Luna is out today, so go and download the game to try it for yourself!
+
+#luckyluna #swipe #gaming
+
+## PUBG Mobile NUSA Official Reveal Trailer | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=J5yJ0sXNIB8](https://www.youtube.com/watch?v=J5yJ0sXNIB8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Check out the first official look at Nusa gameplay in PUBG Mobile. Nusa is a new map coming to PUBG Mobile's Version 2.2 update that will be available soon.
+
+The map includes Bulan Bay, Shipyard, Regal Resort, Pink Beach, Flame Village, Sunset Street, Crystal Bay, Telepak Town, Science Center, Love Island and much more!
+
+#pubgmobile #swipe #gaming
+
+## PlayStation Unhappy With Xbox's Call of Duty Offer | GameSpot News
+ - [https://www.youtube.com/watch?v=AW5NCZPboZY](https://www.youtube.com/watch?v=AW5NCZPboZY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Sony thinks Microsoft's commitment to COD on PlayStation is "inadequate," the Xbox is getting a UI overhaul, a new Battlefield game is in development, and the Witcher 3 will be coming to current gen this year.
+#GameSpot #CallOfDuty #PlayStation 
+
+PlayStation fires back at Microsoft’s claims regarding Call of Duty exclusivity, the Xbox UI is getting an overhaul, new Battlefield games, and more on today’s GameSpot news.
+
+Mom and Dad are fighting! PlayStation boss Jim Ryan has responded to Microsoft Gaming CEO Phil Spencer saying his company would go above and beyond industry standards and keep Call of Duty on PlayStation for years to come if the Xbox company's acquisition of Activision Blizzard goes through. 
+
+Ryan told GI.biz that Microsoft offered to keep Call of Duty on PlayStation for specifically three years after the existing deal between Activision and Sony finishes. Ryan said this was "inadequate on many levels."
+
+"Microsoft has only offered for Call of Duty to remain on PlayStation for three years after the current agreement between Activision and Sony ends," Ryan said. "After almost 20 years of Call of Duty on PlayStation, their proposal was inadequate on many levels and failed to take account of the impact on our gamers. We want to guarantee PlayStation gamers continue to have the highest quality Call of Duty experience, and Microsoft's proposal undermines this principle."
+
+We don't know, however, what the duration of the previously agreed-upon deal between Sony and Activision for Call of Duty was. But whatever that is, it'll be extended by three years, apparently, but what happens after that is unclear. Microsoft's deal to buy Activision Blizzard is currently being reviewed by regulatory bodies around the world. New Zealand will be among the next countries to weigh in, with a decision due by September 9.
+
+Speaking of Microsoft, the company is looking to give the Xbox UI a makeover, with a number of changes planned that will roll out as experiments for Xbox Insiders over the next few months.
+
+A key new feature is a planned "jump back in" row, which is designed to give players quick access to their most-recently-played games and apps. System apps like Settings, Store, Search and My Games & Apps will be easier to access as they will have their own tiles on Xbox Home. Microsoft notes that the rollout will be slow to start, and that Xbox will be iterating throughout the process, but a full launch of the new UI is planned for sometime in 2023. 
+
+While Xbox and PlayStation bicker over Call of Duty, Battlefield has been making some moves. Marcus Lehto, who designed Master Chief and co-created the Halo universe, is heading up a brand-new Battlefield studio in Seattle. Electronic Arts announced that the studio is called Ridgeline Games, and it will develop a "narrative campaign" for Battlefield. Very little is known right now, but EA said this campaign will "engage fans in new and exciting ways while remaining true to the classic elements of the series."
+
+Another big announcement was that Battlefield creative director Lars Gustavsson, who has worked on the Battlefield series since it started in 2002, is departing the team. 
+Despite hiccups at launch, the series’ latest entry Battlefield 2042 was the fifth best-selling game of 2021 in the US. With these announcements, EA reiterated that it wants fans to know that EA is "all-in on Battlefield." The company has DICE continuing to work on Battlefield's "multiplayer suite," EA said, while another studio Ripple Effect will create an "entirely new Battlefield experience that will complement and build upon the series' foundations."
+
+## The Division Resurgence: What’s Coming To The Mobile Game | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=ZzaJMXKnosU](https://www.youtube.com/watch?v=ZzaJMXKnosU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Tom Clancy's The Division Resurgence is a mobile MMO that brings open-world exploration and shooting to your pocket. 
+#gaming #thedivision #gamespot 
+
+We got a chance to speak to Fabrice Navrez, executive producer on The Division Resurgence, about how the game will bring the same Division experience to your mobile game.
+
+The Division Resurgence will open with a scene set before the events of the first game, but then transition to its main storyline, which sits between the first and second game on the timeline. Players will return to New York City and visit iconic locations like Liberty Island and Times Square. 
+
+The game recently completed its first closed alpha test, and there was positive feedback received thus far with the MMO aspects, including the ability to meet players out in the streets of New York as opposed to only in safe zones, resulting in what Navrez called interesting encounters.
+
+The video also details two of the six classes available in the closed alpha: the Demolitionist, who carries a heavy gun that inflicts explosive area-of-effect damage, and the Bulwark, which is a melee tank class designed to draw enemy fire and deal massive damage up-close. 
+
+The Division Resurgence will release on iOS and Android at launch, though a specific timeframe has not yet been announced. More information will be provided during the Ubisoft Forward on September 10 at 12 PM PT / 3 PM ET.
+
+## Tom Clancy's Rainbow Six Mobile Official Trailer | Swipe Mobile Showcase
+ - [https://www.youtube.com/watch?v=Sr7uL8bHnqA](https://www.youtube.com/watch?v=Sr7uL8bHnqA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-08 00:00:00+00:00
+
+Learn more about Rainbow Six Mobile in this latest trailer showcased during GameSpot's Swipe Mobile Showcase. Beta is soon approaching and Clubhouse is making its way to the game.
+
+Tom Clancy’s Rainbow Six is coming to mobile! Explore a diverse roster of Operators and destructible environments in classic maps like Bank and Border. Experience Rainbow Six Mobile: a competitive multiplayer, first-person tactical shooter. Play as an Attacker or Defender in PvP matches and face intense close-quarter combat while making timely tactical decisions.
+
+#rainbowsix #swipe #gaming
+
+## PS5 Gets New Hardware And Software Improvements | GameSpot News
+ - [https://www.youtube.com/watch?v=qWg5mqyinAU](https://www.youtube.com/watch?v=qWg5mqyinAU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-07 00:00:00+00:00
+
+New PlayStation 5 hardware and software, the new Xbox Elite Series 2 Core controller, new Pokémon Scarlet and Violet Details.
+#GameSpot #PokemonScarletViolet #PlayStation5 
+
+The PlayStation 5 is receiving welcomed software and hardware improvements, a new kind of Xbox controller, exciting Pokémon gen 9 details, and more, on today’s GameSpot News.
+
+Following an earlier beta test, the latest PlayStation 5 firmware update is out now, adding 1440 HDMI video output and gamelists (AKA folders), along with some new social features.
+
+Users can check if their HDMI device can reach 1440p by choosing "Test 1440p Output" in the "Screen and Video" option under system settings. For those playing a game with a higher native resolution, such as 4K, Sony said they "may benefit from improved anti-aliasing through supersampling down to 1440p output."
+
+As for game lists, players can now create these in their Game Library to help make organizing games easier. Game lists can support up to 100 games, and users can have up to 15 lists. Players can select any game to add to a list, whether it be on a disc, digital, or streaming.
+
+On the hardware side, YouTuber Austin Evans got his hands on the new PlayStation 5 model that was discovered in the wild last week. Upon opening it, he discovered that the motherboard is around two inches smaller and that the SSD enclosure no longer has a printed circuit board through the entire length of the device and has more exposed metal, which Evans believes will dissipate heat more efficiently.
+
+The cooling setup now has an additional heat pipe and a smaller heatsink, with the entire build now being around a pound lighter than the original PS5's hardware. As for tangible benefits, Evans theorized that this model will draw around 20-30 watts of power less during gaming sessions but heat and noise output will remain roughly the same.
+
+So for everyone that’s been struggling to find a PlayStation 5 over the last nearly two years, rest easy knowing that when you do eventually pick one up, it will likely be an improved model.
+
+If you ended up making the Xbox Series X or S your console of choice this generation, Microsoft has a great new accessory for you.  The Xbox Elite Series 2 "Core" model is a cheaper version of Xbox’s regular Elite Series 2 with fewer features.
+
+Priced at $130, the controller has adjustable-tension thumbsticks, a rubberized grip on the handles, and hair trigger locks. Button-mapping is available through the Xbox Accessories app, just like it is for the regular model.
+
+## Pokémon Scarlet & Pokémon Violet Seek Your Treasure Official Trailer
+ - [https://www.youtube.com/watch?v=NxFmr9X-WHI](https://www.youtube.com/watch?v=NxFmr9X-WHI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-07 00:00:00+00:00
+
+In Pokémon Scarlet and Pokémon Violet, the school you’ve enrolled in hosts a special independent study project. The theme of this assignment is A Treasure Hunt! 
+
+Learn more about Pokemon Scarlet and Pokemon Violet's trainers, new Pokemon and much more in this latest trailer.
+
+#pokemon #gaming
+
+## Pokémon Scarlet and Violet Edition Nintendo Switch OLED Official Trailer
+ - [https://www.youtube.com/watch?v=C7oLnu7i9vY](https://www.youtube.com/watch?v=C7oLnu7i9vY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-07 00:00:00+00:00
+
+A new adventure is about to unfold! Check out the Nintendo Switch – OLED Model: Pokémon Scarlet & Violet Edition system, featuring art inspired by the upcoming Pokémon Scarlet and Pokémon Violet games, when it arrives on Nov. 4th!
+
+#pokemon #nintendo #gaming
+
+## Splatoon 3 Review In Progress
+ - [https://www.youtube.com/watch?v=5jbispbcuDU](https://www.youtube.com/watch?v=5jbispbcuDU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-07 00:00:00+00:00
+
+Splatoon 3 isn't quite as novel the third time around, but a great campaign and tons of multiplayer options make it the most robust Splatoon yet.
+
+#splatoon3 #nintendo #gaming
+

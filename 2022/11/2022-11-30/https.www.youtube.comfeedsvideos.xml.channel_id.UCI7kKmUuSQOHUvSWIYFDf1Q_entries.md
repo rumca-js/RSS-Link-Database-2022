@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## The Ceiling Fan Incident
  - [https://www.youtube.com/watch?v=Yq61Rgi2ik8](https://www.youtube.com/watch?v=Yq61Rgi2ik8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## Remixing Moistcr1tikal (again)
  - [https://www.youtube.com/watch?v=DLPqHZ1nKhY](https://www.youtube.com/watch?v=DLPqHZ1nKhY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

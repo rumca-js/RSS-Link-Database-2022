@@ -1,0 +1,131 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## God of War Ragnarok Director Breaks Down Biggest Moments
+ - [https://www.youtube.com/watch?v=gmXln1nUN4E](https://www.youtube.com/watch?v=gmXln1nUN4E)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-11-21 00:00:00+00:00
+
+Listen to the full uncut interview on the GameSpot After Dark podcast
+Apple Podcasts: https://podcasts.apple.com/us/podcast/gamespot-after-dark/id1476085691
+Spotify: https://open.spotify.com/show/5qmuPYfpj7R7yHXEtKBocG
+
+This video contains heavy spoilers for God of War Ragnarok. 
+
+God of War Ragnarok had a daunting task ahead of it: not only did it have to wrap up a sprawling tale of fate, prophecy, and parenthood in a neat bow, but do it all under the looming presence of the end of the world, at least, in Norse mythology. But succeed it did, with many fans and critics (including GameSpot's own Tamoor Hussain, who awarded the game a 9/10) praising the ending, and the path Kratos and Atreus took to get there.
+
+God of War Ragnarok's director, Eric Williams, joins Tamoor Hussain and Lucy James to discuss the game's ending at length, and we're not kidding when we tell you that this video contains spoilers. We discuss Tyr's important role in the game, Odin's plans and his relationship with his family, and that all important ending: Ragnarok itself. 
+
+We touch upon many other topics, including the death of a beloved character, Freya's role in the whole saga, and the ups and downs of parenthood. 
+
+For more God of War Ragnarok, make sure to check out some of our other videos, including our review, best tips, and more.
+
+#godofwarragnarok #spoilers #gamespot
+
+## High on Life - 25 Minutes of Gameplay
+ - [https://www.youtube.com/watch?v=u5r7IeJcsT0](https://www.youtube.com/watch?v=u5r7IeJcsT0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-11-21 00:00:00+00:00
+
+Enjoy 25 Minutes of exploration and firefights with lots of foul-mouthed and zany characters in High On Life. A new game from the creators of Rick and Morty.
+#gaming #highonlife #gamespot
+
+Strap in for 25 minutes of bounty hunting in High On Life. New guns, hordes of enemies, and the occasional swear or two await. If you want to know if Dr. Joopy is reunited with his family, be sure to pick up High On Life when it launches on PC and Xbox on December 13th.
+
+Timestamps:
+00:00 The Out-Skirts
+01:33 Little Cutie Town
+03:23 Mac And Cheese Bros. Construction
+04:58 Old Town And Ole' Wet Grundy
+07:20 Entering Dreg Town
+10:18 Firefight In The Mothers For Violence Zone
+11:52 The Goop Guy
+13:31 G3 Orientation 
+17:22 Meet Dr. Joopy
+18:59 Final Rounds Of G3 Orientation
+22:57 The Fight To Douglas' HQ
+
+## Need for Speed Unbound Speed Race 4K Gameplay
+ - [https://www.youtube.com/watch?v=N8K-8ufqNvY](https://www.youtube.com/watch?v=N8K-8ufqNvY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-11-21 00:00:00+00:00
+
+Ready to see this custom Mercedes 190 E in action? If not now then when! The most in-depth look at Need for Speed Unbound gameplay is here with a first look at Speed Race events including Meetups and Side Bets. See you on the streets.
+
+Start at the bottom and race to the top in Need for Speed Unbound, coming to PlayStation 5, Xbox Series X|S and PC on December 2, 2022.
+
+Race against time, outsmart the cops, and take on weekly qualifiers to reach The Grand, Lakeshore's ultimate street racing challenge. Pack your garage with precision-tuned, custom rides and light up the streets with your style, exclusive fits, and a vibrant global soundtrack that bumps in every corner of the world.
+
+#needforspeed #ChangeYourLane #NFSUnbound
+
+## Two Glitches in Pokémon Scarlet & Violet You Need To Try | GameSpot News
+ - [https://www.youtube.com/watch?v=YZTqjImeYKg](https://www.youtube.com/watch?v=YZTqjImeYKg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-11-21 00:00:00+00:00
+
+A Pokemon Scarlet & Violet glitch lets you run faster, while another lets you climb tricky slopes.
+#GamingNews #PokemonScarlet #PokemonViolet
+
+As one popular tweet shows, yes, it is true that you can double your character's run speed in Pokemon Scarlet and Violet by pressing forward on two controllers at once. However, your Switch must be undocked, and you have to use a Joy-Con attached to the Switch, along with a wireless controller.
+
+Another exploration glitch making its way around the internet is one that allows you to get up slopes that are impeding your progress. 
+
+ZullieTheWitch on Twitter posted a clip of her Scarlet game. The video shows her attempting to jump up a slope and sliding down it. Then, she turns around and leaps up the hill backwards, successfully making it up. Our own attempts have gotten the trick to work. If you are interested in trying it yourself, the key is mashing the jump button as you descend, so that your jump starts before you begin to slide down.
+
+In other Nintendo related news, the Mario Kart 8 Deluxe Booster Course Pass will soon be halfway to the finish line, as the third of six eight-course waves has been confirmed for a December 7 launch date.
+
+Wave 3 of the Booster Course Pass will, like the previous waves, add eight more courses to the Mario Kart 8 roster, with all of them coming from previous games in the franchise. There's Wii Maple Treeway from Mario Kart Wii, DS Peach Gardens from Mario Kart DS and 3DS Rainbow Road from Mario Kart 7 just to name a few.
+
+## How Games Get Sniper Rifles Wrong - Loadout
+ - [https://www.youtube.com/watch?v=BxwttKn3fjc](https://www.youtube.com/watch?v=BxwttKn3fjc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-11-20 00:00:00+00:00
+
+Virtual sniping comes in such a spectrum of flavours, from Call of Duty quickscopes, and Counter-Strike: Global Offensive AWP picks, to measuring your range and bullet drop in games like ARMA 3 and Sniper Elite 5. But games don’t always get the humble sniper rifle quite right. With the help of Jonathan Ferguson, Keeper of Firearms & Artillery at the Royal Armouries Museum in the UK, we break down the differences between the virtual sniper rifle and its real counterparts.
+
+0:00 - Intro
+01:07 - History of Sniper Rifles
+04:37 - Range & Bullet Drop
+06:45 - Scope Glint
+08:23 - Quickscoping
+09:19 - Bolt Action vs. Semi-Auto Rifles
+10:26 - Anti-Materiel Rifles
+11:34 - Realistic Gaming Sniper Rifles
+12:48 - Variety of Virtual Sniping Playstyles
+15:10 - Ending
+
+In this episode of Loadout, Dave Jewitt visits the Royal Armouries to talk to Keeper of Firearms & Artillery Jonathan Ferguson to chat about gaming’s obsession with the humble Sniper Rifle, and how sniper rifles in video games measure up to reality.
+
+You can check out more episodes of Loadout right here. - https://www.youtube.com/watch?v=yzSrmGkpWKk&list=PLpg6WLs8kxGMzIemU1gyyLmg5VlKI2UvC
+You can check out our Firearms Expert Reacts series here. - https://www.youtube.com/watch?v=5FVzcoRjoN4&list=PLpg6WLs8kxGMgYb13XjPgOKbm5O-CDq7R
+If you're interested in seeing more of Jonathan's work, you can check out more from the Royal Armouries right here. - https://www.youtube.com/user/RoyalArmouries
+If you would like to support the Royal Armouries, you can make a charitable donation to the museum here. - https://royalarmouries.org/support-us/donations/
+
+## Wild West Expert Reacts to More Of Red Dead Redemption 2
+ - [https://www.youtube.com/watch?v=CRhxQpotdCM](https://www.youtube.com/watch?v=CRhxQpotdCM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-11-20 00:00:00+00:00
+
+Danny Michael, associate curator at the Buffalo Bill Center of the West museum, breaks down Rockstar's western epic.
+
+Red Dead Redemption 2 saw Rockstar return to the frontiers of the Wild West for a prequel to the seminal Red Dead Redemption. Rockstar went out of their way to make Red Dead Redemption 2 feel and look authentic. We brought Danny in to see if Rockstar delivered on that promise.
+
+In this video Danny breaks down old western towns and cities, hunting, train robberies, firearms, and architecture. Part 2 of this series is on the way so make sure to subscribe to GameSpot to see more in the future.
+
+00:00 - Intro
+00:51 - Train Robberies
+03:20 - Plague Town
+04:03 - Catalogues and Shopping
+05:57 - Hunting
+10:54 - The Mauser
+13:05 - House Building
+15:38 - Outro
+
+Center of the West: https://centerofthewest.org/
+Cody Firearms Museum: https://centerofthewest.org/our-museums/firearms/
+Cody Firearms Museum Twitter: https://twitter.com/codyfirearms
+Cody Firearms Museum Instagram: www.instagram.com/codyfirearmsmuseum
+ARMAX: https://www.armaxjournal.org/
+History Unloaded: https://historyunloaded.podbean.com/
+
+#reddead2 #reddeadredemption #gaming
+

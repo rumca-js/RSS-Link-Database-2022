@@ -1,0 +1,90 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## 23 MORE Things You STILL Didn't Know In Zelda Breath Of The Wild
+ - [https://www.youtube.com/watch?v=mSGErDhf88k](https://www.youtube.com/watch?v=mSGErDhf88k)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-30 00:00:00+00:00
+
+Its been a whole year since we first started, thank you all for sticking around! This time we'll be escaping the earthly borders of Hyrule, super swimming through water, and finding out the only way to break metal treasure chests.
+
+In the video above, we cover 23 facts, tips and tricks that aren’t quite as well known, ranging from secrets to glitches, some that are pretty simple and others that are fairly complex. The Legend of Zelda: Breath of the Wild has been out for four years at this point, and players have found some amazing things, intended or not, that keep the game and its sense of discovery feeling fresh.
+
+0:00 Intro
+0:16 Break Metal Chests
+0:38 Go to Space
+1:10 We Got The Impossible Shock Arrow
+1:23 Mysterious Mushrooms In Lost Woods
+1:56 Sneak Into Gerudo Town
+2:22 Large Barrels Can Float
+2:31 Walk Backwards On Large Barrels
+2:36 Escape Hyrule
+2:50 Gerudo Greeting Secret
+3:08 Gerudo Secret Club Interaction
+3:18 All Lynels Have a Plunge Attack
+3:33 Hyrule's Western Plateau
+3:53 Knockout Sidon
+4:13 Selmie's Shield Preferences
+4:39 Nintendo Used Old Characters During Testing
+5:01 Moblins Can Cut Trees With Spears
+5:21 Cute Horse Things We Never Got
+5:47 Zora Domain Cutscene Changes
+6:05 Stand On Korok Balloons
+6:11 What A Korok Flower Looks Like Underneath
+6:18 BOTW Super Swim
+6:50 Moza Can Fight... Sort Of
+7:05 Nintendo's Default Template For Items
+7:45 Outro
+
+## “Positively Shocking” - Firearms Expert Reacts To Ready Or Not’s Guns
+ - [https://www.youtube.com/watch?v=cQj1loCn7t0](https://www.youtube.com/watch?v=cQj1loCn7t0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-30 00:00:00+00:00
+
+Jonathan Ferguson, a weapons expert and Keeper of Firearms & Artillery at the Royal Armouries, breaks down the weaponry of Ready Or Not including a number of non-lethal firearms such as the Taser and a paintball gun that fires irritant, as well as more conventional weapons like the MP5 and the FN FAL.
+
+00:00 - Opening
+00:43 - MP5 A4
+03:45 - Mossberg 500 Breaching Shotgun
+05:29 - Taser
+07:42 - M4A1
+11:00 - Colt Python
+14:07 - Paintball Gun
+15:37 - FN FAL
+17:50 - Ending
+
+In the latest video in the Firearm Expert Reacts series, Jonathan Ferguson--a weapons expert and Keeper of Firearms & Artillery at the Royal Armouries--breaks down the guns of Ready Or Not and compares them to their potential real-life counterparts.
+
+Firearms Expert Reacts playlist - https://www.youtube.com/watch?v=y4T78VQoWUs&list=PLpg6WLs8kxGMgYb13XjPgOKbm5O-CDq7R
+
+If you're interested in seeing more of Jonathan's work, you can check out more from the Royal Armouries right here. - https://www.youtube.com/user/RoyalArmouries
+
+If you would like to support the Royal Armouries, you can make a charitable donation to the museum here. - https://royalarmouries.org/support-us/donations/
+
+And if you would like to become a member of the Royal Armouries, you can get a membership here. - https://royalarmouries.org/support-us/membership/
+
+You can either purchase Jonathan's book here. - https://www.headstamppublishing.com/bullpup-rifle-book
+
+Or at the Royal Armouries shop here. - https://shop.royalarmouries.org/collections/thorneycroft-to-sa80-british-bullpup-firearms-1901-2020
+
+You can subscribe to the Armax Journal that Jonathan Associate Edited here: https://www.armaxjournal.org/
+
+## Modern Warfare 2 Footage Shown to High Profile Fans | GameSpot News
+ - [https://www.youtube.com/watch?v=Cd8DjF_Thv0](https://www.youtube.com/watch?v=Cd8DjF_Thv0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-29 00:00:00+00:00
+
+Four Top 20 NFL Draft Picks Wore Custom Call Of Duty Clothing At The Event After MW2 Reveal, CoD: Warzone Season 3 Sniper Nerfs Leaves Some Players Unhappy and Xbox Games With Gold Free Games For May 2022 Revealed. 
+#GamingNews #CallofDuty #ModernWarfare2
+
+The reveal of Modern Warfare 2’s logo made a pretty big splash on social media yesterday. Later in the day, the game made another, more subtle appearance at the 2022 NFL Draft in the form of clothing. Players like Garret Wilson, Kyle Hamilton, Evan Neal and Ahmad Gardner promoted the game at the event. Gardner was also among the first to see the game. 
+
+The Season 3 update for Call of Duty: Warzone made some pretty significant changes to the battle royale, including a ton of weapon balancing. Unfortunately, some players are frustrated with the sniper nerfs that arrived within those weapon changes, specifically a nerf to completely remove the ability for one-shots to the head
+
+Microsoft has unveiled the Games with Gold lineup for May 2022. As usual, Game Pass Ultimate and Xbox Live Gold subscribers will be able to claim four games: Yoku's Island Express, The Inner World: The Last Wind Monk, Viva Pinata: Party Animals, and Hydro Thunder Hurricane. 
+
+STAMPS
+00:00 - Intro 
+00:07 - Modern Warfare 2
+01:34 - Warzone Season 3
+02:40 - Xbox Games With Gold
+

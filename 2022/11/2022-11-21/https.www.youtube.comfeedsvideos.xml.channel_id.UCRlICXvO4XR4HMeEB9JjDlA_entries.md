@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Meet The Most Mysterious Man In History
  - [https://www.youtube.com/watch?v=1wmhQ0XrFKo](https://www.youtube.com/watch?v=1wmhQ0XrFKo)

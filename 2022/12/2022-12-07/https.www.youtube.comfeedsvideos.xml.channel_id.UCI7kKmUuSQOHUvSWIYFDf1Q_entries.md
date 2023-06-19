@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## Multiband Concussion
  - [https://www.youtube.com/watch?v=35wIF3gRsLw](https://www.youtube.com/watch?v=35wIF3gRsLw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

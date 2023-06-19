@@ -1,5 +1,3 @@
-# Source:Instalki.pl, URL:https://www.instalki.pl, language:pl-PL
-
 ## Piszesz negatywne recenzje na Mapach Google? No to lepiej uważaj
  - [https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM](https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM)
  - RSS feed: https://www.instalki.pl

@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Why This Man Couldn't Leave This Bus Without Dying
  - [https://www.youtube.com/watch?v=-ycN6RloF1w](https://www.youtube.com/watch?v=-ycN6RloF1w)

@@ -1,0 +1,74 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## Halo Infinite Microtransactions & XP Are Changing - More Cat Ears? | GameSpot News
+ - [https://www.youtube.com/watch?v=J074W1myeUA](https://www.youtube.com/watch?v=J074W1myeUA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-08 00:00:00+00:00
+
+Halo Infinite microtransactions, progression and more are changing in the near future.
+#GamingNews #HaloInfinite
+
+343 has already begun to sell some items from bundles individually and it also attempted to "standardize" pricing with the overall goal of lowering prices across the board. The studio also said it understands players want a "career progression" system separate from the battle pass, and this is in the "design phase" now. Thankfully, the per-match XP feature is coming and is expected to launch sometime this year. And in general, 343 acknowledged that players want the Halo Infinite battle pass to feel as if it's offering a greater value to players.
+
+## Lego Star Wars: The Skywalker Saga Review
+ - [https://www.youtube.com/watch?v=TB8wWoRgdi0](https://www.youtube.com/watch?v=TB8wWoRgdi0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-08 00:00:00+00:00
+
+Lego Star Wars: The Skywalker Saga's refreshed mechanics and gorgeous worlds provide enough incentive to revisit the three trilogies again, despite some repetitive content. Check out the full written review here: https://www.gamespot.com/reviews/lego-star-wars-the-skywalker-saga-review-duel-of-the-bricks/1900-6417859/
+
+## The Quarry Official Prologue Gameplay
+ - [https://www.youtube.com/watch?v=1OI44FpBhjA](https://www.youtube.com/watch?v=1OI44FpBhjA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-08 00:00:00+00:00
+
+Check out the prologue of The Quarry, teenage camp counselors Laura and her boyfriend Max drive to Hackett’s Quarry Summer Camp one night earlier than they were scheduled to arrive and things do not go as planned. 
+
+Here's your first look at 30 minutes of gameplay that sets the stage for the harrowing events that follow, giving you just a taste of what’s in store. Unimaginable choices await you as the other counselors of Hackett’s Quarry Summer Camp struggle to survive an unpredictable night of horror.
+
+#THEQUARRY releases June 10 on PS4, PS5, Xbox One, Xbox Series X|S, and PC.
+
+## Get Revenge On Young Anakin & Fly In LEGO Star Wars | GameSpot News
+ - [https://www.youtube.com/watch?v=RmkmQYjoktA](https://www.youtube.com/watch?v=RmkmQYjoktA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-07 00:00:00+00:00
+
+LEGO Star Wars exploit allows players to fly, Epic Games partners with LEGO for a new family friendly metaverse, and Max Payne 1 and 2 are getting remakes.
+#GamingNews #LEGO #StarWars
+
+An exploit has been found in Lego Star Wars: The Skywalker Saga, allowing players to essentially fly across the map. In a video posted by Red Orb, the player tested this trick out on child Anakin, using an extended combo of attacks from Jedi character Qui-Gon Jinn.
+
+Epic Games and The Lego Group have announced a new "long-term" deal to help "shape the future of the metaverse" and specifically make it safe and fun for children and families. Epic's most popular game, Fortnite, was not mentioned in the company's press release, so it appears whatever Epic and The Lego Group are building together is separate from the battle royale title.
+
+A remake of Max Payne and Max Payne 2 is in the works. These remakes are coming from Remedy Entertainment, the studio behind the original Max Payne games. The studio has reached an agreement with Rockstar to remake both games for PC, PS5, and Xbox Series X|S.
+
+STAMPS
+00:00 - Intro
+00:08 - LEGO Star Wars
+01:31 - LEGO & Epic
+02:31 - Max Payne
+
+## How Hard Has BOTW Advanced Combat Become?
+ - [https://www.youtube.com/watch?v=lfmKB6DqR70](https://www.youtube.com/watch?v=lfmKB6DqR70)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-07 00:00:00+00:00
+
+Breath of the Wild combat has morphed into a complex monster of melding techniques that requires an insane amount of knowledge and frame perfect timing. How much as it changed over a span of 5 years?
+
+We breakdown two clips, from the first inception of more advanced combat in 2017, to the mind blowing tactics we use now in 2022. Basic skills such as Bomb Parries and Jump Cancels are still used today, but are overshadowed by frame-perfect techniques such as Daruk's Shield Block Resets, Quadruple Daruk's Perfect Parries, and Bomb Arrow Absolute Thunderclap Rushes. As the years go on, Breath of the Wild combat will continue to get more complex.
+
+0:00 Intro
+0:37 Old Advanced Combat
+2:25 New Advanced Combat
+9:07 Conclusion
+9:51 Outro
+
+#BOTW
+
+## MLB The Show 22 Video Review
+ - [https://www.youtube.com/watch?v=2G0PHrowOlE](https://www.youtube.com/watch?v=2G0PHrowOlE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-04-07 00:00:00+00:00
+
+MLB The Show 22 stills plays a phenomenal game of baseball, but incremental updates reveal a series that's lacking in ambition.
+

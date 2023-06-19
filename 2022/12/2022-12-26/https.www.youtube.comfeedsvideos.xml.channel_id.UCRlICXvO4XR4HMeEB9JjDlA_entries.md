@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Step Inside The Disturbing Experiments Of The Mad Doctor
  - [https://www.youtube.com/watch?v=rKshp3TGKWE](https://www.youtube.com/watch?v=rKshp3TGKWE)

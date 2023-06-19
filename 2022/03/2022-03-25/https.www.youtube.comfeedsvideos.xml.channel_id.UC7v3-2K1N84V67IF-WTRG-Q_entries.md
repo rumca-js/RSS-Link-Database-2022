@@ -1,0 +1,13 @@
+# Source:Jeremy Jahns, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q, language:en-US
+
+## The Lost City - Movie Review
+ - [https://www.youtube.com/watch?v=l8iIFfzR6i0](https://www.youtube.com/watch?v=l8iIFfzR6i0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q
+ - date published: 2022-03-26 00:00:00+00:00
+
+Thanks to Athletic Greens for sponsoring this video! Go to https://athleticgreens.com/jahns to subscribe and receive Vitamin D + 5 Travel Packs!
+
+We have Channing Tatum and Sandra Bullock teaming up for an "adventure in the forest, while trying to find an ancient lost city before the rich baddie" movie, which might just feel more "Uncharted" than the Uncharted movie. Here's my review for THE LOST CITY
+
+#LostCity
+

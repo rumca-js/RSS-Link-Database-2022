@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## The Most Unhinged Mariah Carey Mashups
  - [https://www.youtube.com/watch?v=RehSePvDVEk](https://www.youtube.com/watch?v=RehSePvDVEk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

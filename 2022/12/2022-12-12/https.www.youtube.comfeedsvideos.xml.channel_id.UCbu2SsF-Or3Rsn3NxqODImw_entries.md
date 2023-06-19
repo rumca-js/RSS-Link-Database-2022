@@ -1,0 +1,88 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## Fire Emblem Engage Goes Back To The Series' Roots
+ - [https://www.youtube.com/watch?v=CB4fQQB5xnk](https://www.youtube.com/watch?v=CB4fQQB5xnk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-12-13 00:00:00+00:00
+
+Fire Emblem Engage is shaping up to be a more focused entry in the long-running tactical JRPG series.
+
+Fire Emblem Engage is Nintendo's storied tactical role playing series. This entry features a handful of returning characters from the franchise including Marth, Lucina, Sigurd, and Ike. These classic characters can fight along side you with the help of Emblem Rings.
+
+Fire Emblem Engage hits the Nintendo Switch on January 20, 2023.
+
+#FireEmblemEngage #gaming #GameSpot
+
+## Why Elden Ring Is GameSpot's Game Of The Year 2022
+ - [https://www.youtube.com/watch?v=s39xj7eaJdY](https://www.youtube.com/watch?v=s39xj7eaJdY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-12-13 00:00:00+00:00
+
+2022 has been an incredible year for video games, but one title rose above the others and was awarded Game of the Year by GameSpot staff. In this video, Tamoor Hussain, Jake Dekker, and Lucy James discuss why FromSoftware’s Elden Ring won the coveted Game of the Year award for 2022.
+
+In the last 10 years of gaming, there have been few developers as influential as From Software. From the challenging gameplay of Demon's Souls, to the thoughtfully crafted worlds of Dark Souls, the captivating stories of Bloodborne, or the precise gameplay of Sekiro, each of its games has impacted us in deep and meaningful ways.
+
+Elden Ring is a game that builds upon all the previous games and surprises us with new jaw-dropping vistas and stunning architecture, presenting you with hardier challenges and rewarding you with brand new items and gear. Each subsequent playthrough of Elden Ring continues to give, allowing players to experience questlines and find characters that they might have missed, while developing a deeper understanding of the narrative driving the struggle in the Lands Between.
+
+In Tamoor Hussain’s review, he said Elden Ring was contrariant in almost every way, and its commitment to design by subtraction placed the responsibility of charting their journey in the hands of the player. All these months later, the impact of that has not lessened. He previously said Elden Ring stands head and shoulders above other open-world titles, and as bold as that statement is, he believes it even more strongly today. With Elden Ring, From Software has raised the bar for open-world games by redefining its design-philosophies and it showcases that the studio will continue to remain as influential in the years to come.
+
+#eldenring #gameoftheyear #gamespot
+
+## Xbox Will Allow Call of Duty on PS Plus To Push Activision Deal Through | GameSpot News
+ - [https://www.youtube.com/watch?v=GSxTgFR4wBI](https://www.youtube.com/watch?v=GSxTgFR4wBI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-12-13 00:00:00+00:00
+
+Microsoft is willing to allow CoD on PS Plus, PlayStation Wrap-Up 2022 is here, and several end of year game deals.
+#Gaming #CallOfDuty #PSPlus 
+
+Microsoft is trying to sweeten the deal with PlayStation to get its Activision-Blizzard Deal through by allowing its competitor to put Call of Duty on PlayStation Plus if the megablockbuster franchise were to fall under its purview.
+
+This news from Bloomberg comes after the acquisition has hit several major roadblocks, including a lawsuit against the Xbox manufacturer by the Federal Trade Commission itself. So far, Sony’s effort to make it appear that Microsoft would have a monopoly on video games if the deal were to happen seems to be working, telling anyone that will listen.
+
+Seriously, I heard Jim Ryan is just going door to door now in a grassroots campaign.
+
+*phone beeps*
+
+Hang on one second. Gotta respond to this,
+
+*receives text message from Devante as Jim Ryan trying to talk to me about Activision Deal*
+
+Nevermind. It was just spam. Anyway, Microsoft has made some unprecedented announcements and deals to make it clear that they don’t want Call of Duty to be an exclusive franchise, including offering both PlayStation and Nintendo 10 year deals to put the franchise on their consoles, with the cherry on top now revealed that PlayStation could put the series on its own subscription service.
+
+As of this recording, reports state that PlayStation has yet to take either offer in its negotiations with Microsoft.
+
+If you’re wondering how the fallout of this deal will affect you, it might help to know just how much Call of Duty you currently play on PlayStation, and thanks to an end of year stat tracker, you can!
+
+The PlayStation 2022 Wrap-Up lets anyone on PS4 or PS5 access their highlights from the past year, which includes number of games played, total hours played, number of trophies earned, and number of PlayStation Plus monthly games downloaded. These stats will continue to track through the end of 2022, so whatever figures you see today could change before the start of the new year.
+
+Users who complete all sections of the Wrap-Up will get a voucher code to redeem an Astro Bot avatar. There are six in all, and they will be themed around your personal stats. Codes can be redeemed by others, so Sony is encouraging users to share with friends. You see that code on your screen that I didn’t blur out? I didn’t have to, cus anyone commenting can use it to claim the Astro Bot x God of War avatar!
+
+So in total, I spent a grand total of 241 hours playing my PS5 this year, with a whopping 5 of those hours being spent online. And zero hours were spent playing Call of Duty there. Sorry Sony, your double XP incentives were enticing, but I can’t be caught playing CoD on a DualSense when I own an Xbox and an Elite Series 2 controller.
+
+## Armored Core 6 Will Not Have Soulsborne Gameplay | GameSpot News
+ - [https://www.youtube.com/watch?v=ArWZ3vwkpFY](https://www.youtube.com/watch?v=ArWZ3vwkpFY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-12-12 00:00:00+00:00
+
+A bunch of Armored Core 6 gameplay details, Returnal's PC port requires a beefy rig, and Mr. Beast is giving 1 million dollars away via fortnite.
+#Gaming #ArmoreCore6 #MrBeast #Fortnite 
+
+It’s only been a few days since Armored Core 6’s reveal at the Game Awards, but we already have a ton of new information about the game thanks to an interview with From Software’s Hidetaka Miyazaki at IGN.
+
+The core of the game (see what I did there) will be focused on single player, which is a departure from previous entries in the series that heavily featured multiplayer, all though multiplayer will be a part of the game.The highlight of the game will also be its boss battles, akin to every other From Software title of the last decade.
+
+The core (I did it again) gameplay, however, will decidedly not be like other, recent From Software games. “No, we've not been making a conscious effort to try to direct it towards more Soulsborne type gameplay. First of all, let me just make that clear,” Miyazaki says in the interview.
+
+Miyazaki then enforced how important customizing the mechs is going to be, stating that you will be able to change out individual parts, and that the system will be way more involved and detailed than simply swapping out armor sets like in Dark Souls or Elden Ring. The key to winning, he states, will be fine tuning your mech for whatever task at hand.
+
+The last major tidbits of the interview are that the game will be mission focused rather than an open world a la Elden Ring, and that from a story perspective, this entry will act as a reboot for the franchise, with, “no direct links with the previous games in terms of continuing story.”
+
+Armored Core 6 wasn’t the only announcement at this year’s Game Awards. We also learned that PlayStation Studios and Hoursemarque’s Returnal would also be coming to PC before the end of the year. If you planned on picking the game up, however, you’re going to need to check those PC specs, because its RAM requirements are head scratching.
+
+Typically, a modern game on PC with require a minimum for 8 gigs of RAM and a recommended 16GBs to play on more optimal settings. Returnal’s PC port doubles those numbers, with a minimum of 16GBs in order to run the game and a recommended 32GBs in for higher quality settings.
+
+While 32GBs isn’t a wild amount of ram (many recent, high end PCs house 64GBs or more), plenty of people purchase or build PCs with only 16GBs, especially if the rig is a little older, and most gaming laptops still hedge to 16GBs with only the most expensive offering upgrades to 32GBs or more. In short, it seems you’re going to need a pretty beefy rig if you want to play the game at higher resolutions or framerates.
+
+So no Switch port for Returnal anytime soon it seems. A game that does run on the Switch is Fortnite, which is adding YouTube’s most popular content creator, Mr. Beast, to the game via its Icons line of skins, and the guy will be bringing the giveaway antics that made him so popular in the first place to the battle royale.
+

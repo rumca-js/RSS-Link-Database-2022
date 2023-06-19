@@ -1,12 +1,5 @@
 # Source:CodeProject, URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, language:en-US
 
-## Elimination of programmers
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59633](https://www.codeproject.com/script/News/View.aspx?nwid=59633)
- - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
- - date published: 2022-11-28 05:00:00+00:00
-
-"Exterminate! EXTERMINATE! EX-TER-MIN-ATE!"
-
 ## Exclusive-EU antitrust regulators ramp up Microsoft scrutiny, probe likely - sources
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59639](https://www.codeproject.com/script/News/View.aspx?nwid=59639)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx

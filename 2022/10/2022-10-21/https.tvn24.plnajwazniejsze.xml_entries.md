@@ -96,6 +96,14 @@
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-lwlxqt-monika-olejnik-otwarcie-szpak-6173871/alternates/LANDSCAPE_1280" />
     Michał Szpak opowiada o muzycznych inspiracjach, potrzebie akceptacji i swoim udziale w Czarnych Protestach po zaostrzeniu ustawy aborcyjnej.
 
+## Jakie znaczenie ma zapora w Nowej Kachowce? Jej zniszczenie może wywołać ogromny kryzys
+ - [https://tvn24.pl/swiat/ukraina-zapora-w-nowej-kachowce-znaczenie-i-konsekwencje-jej-mozliwego-zniszczenia-6173430?source=rss](https://tvn24.pl/swiat/ukraina-zapora-w-nowej-kachowce-znaczenie-i-konsekwencje-jej-mozliwego-zniszczenia-6173430?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-10-21 10:26:39+00:00
+
+<img alt="Jakie znaczenie ma zapora w Nowej Kachowce? Jej zniszczenie może wywołać ogromny kryzys" src="https://tvn24.pl/najnowsze/cdn-zdjecie-2n3tdm-zapora-w-nowej-kachowce-6173529/alternates/LANDSCAPE_1280" />
+    Zapora w Nowej Kachowce jest jednym z najważniejszych tego typu obiektów w Ukrainie.
+
 ## Lewandowski wyważył drzwi do elitarnego klubu. Ten wyczyn to rzadkość
  - [https://eurosport.tvn24.pl/ponad-600-goli-lewandowskiego--ten-wyczyn-to-rzadko--,1122189.html?source=rss](https://eurosport.tvn24.pl/ponad-600-goli-lewandowskiego--ten-wyczyn-to-rzadko--,1122189.html?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml

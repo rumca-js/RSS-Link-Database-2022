@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## Fifteen Seconds Of Passion
  - [https://www.youtube.com/watch?v=PiA55www2Wk](https://www.youtube.com/watch?v=PiA55www2Wk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

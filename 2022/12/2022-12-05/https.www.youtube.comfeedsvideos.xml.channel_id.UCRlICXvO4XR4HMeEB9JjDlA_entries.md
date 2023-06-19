@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Why Nobody Could Catch The Deadliest Gunslinger In History
  - [https://www.youtube.com/watch?v=MxHPbEsVA-4](https://www.youtube.com/watch?v=MxHPbEsVA-4)

@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## Insane Man Can't Stop Remixing Door Hinges
  - [https://www.youtube.com/watch?v=oJNZtl26iqU](https://www.youtube.com/watch?v=oJNZtl26iqU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

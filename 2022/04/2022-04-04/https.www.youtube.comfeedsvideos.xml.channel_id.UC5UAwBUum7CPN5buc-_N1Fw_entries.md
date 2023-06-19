@@ -1,0 +1,77 @@
+# Source:The Linux Experiment, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw, language:en-US
+
+## Firefox DYING is TERRIBLE for the Web
+ - [https://www.youtube.com/watch?v=eA8O97U1Pbc](https://www.youtube.com/watch?v=eA8O97U1Pbc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw
+ - date published: 2022-04-05 00:00:00+00:00
+
+Get 100$ credit for your own Linux and gaming server: https://www.linode.com/linuxexperiment 
+
+Get your Linux desktop or laptop here: https://slimbook.es/en/
+
+
+👏 SUPPORT THE CHANNEL:
+Get access to an exclusive weekly podcast, vote on the next topics I cover, and get your name in the credits:
+
+YOUTUBE: https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw/join
+
+Patreon: https://www.patreon.com/thelinuxexperiment
+
+Or, you can donate whatever you want: https://paypal.me/thelinuxexp?locale.x=fr_FR
+
+You can also protect your privacy by using this extension from Startpage, each install helps the channel with a small commission: https://add.startpage.com/en/protection/?campaign=4&source=aff 
+
+🏆 FOLLOW ME ELSEWHERE:
+Linux news in Youtube Shorts format: https://www.youtube.com/channel/UCtZp0mK9IBrpS2-jNzMZmoA
+
+Join us on our Discord server: https://discord.gg/xK7ukavWmQ
+
+Twitter : http://twitter.com/thelinuxEXP
+
+My Gaming on Linux Channel: https://www.youtube.com/channel/UCaw_Lz7oifDb-PZCAcZ07kw
+
+📷 GEAR I USE:
+Sony Alpha A6600 Mirrorless Camera: https://amzn.to/30zKyn7
+Sigma 56mm Fixed Prime Lens: https://amzn.to/3aRvK5l
+Logitech MX Master 3 Mouse: https://amzn.to/3BVI0Od
+Bluetooth Space Grey Mac Keyboard: https://amzn.to/3jcJETZ
+Logitech Brio 4K Webcam: https://amzn.to/3jgeTh9
+LG Curved Ultrawide Monitor: https://amzn.to/3pcTVDH
+Logitech White Speakers: https://amzn.to/3n6wSb0
+Xbox Controller: https://amzn.to/3BWmIA3
+*Amazon Links are affiliate codes and generate small commissions to support the channel*
+
+
+00:00 Intro
+00:47 Sponsor: 100$ free credit off your Linux or Gaming server
+01:37 The decline of Firefox
+05:20 Why that's a problem
+08:13 Why is Firefox important?
+11:43 How can we solve this?
+13:23 Sponsor: Get your Linux laptop or desktop with Slimbook
+14:23 Support the channel
+
+There is no denying that Firefox has been progressively losing ground in the web browser race. It's highest peak was at the end of 2009, at almost 32% market share, when Internet Explorer has about 55%, and Chrome was barely edging out the 5% market share.
+
+Fast forward to 11 years later, and Chrome now has 62.7% of the market, where Firefox only has 4.2%. How did that happen? Why did the browser that basically started the work to take IE down, that introduced tabs to the masses, and that made sure web standards were respected, why did THAT browser fall so low?
+
+First, Mozilla completely missed the mobile market. There's also the fact that Google pushed CHROME very aggressively. Firefox also kinda rested on their laurels for a while, while Chrome worked tirelessly on their engine.
+
+Now you might think: that's a free market. People use what's best, and if Firefox gets better, people will flock back. And while that's a possibility, as it stands, it still creates an issue.
+
+The web relies on being open and on evolution. These evolutions, to be beneficial to everyone, need to be decided collectively, by independent organisms, supported by all browsers, and implemented freely.
+
+What I mean is that the browser engine shouldn't control how the web runs, looks, or what it can do. The browser engine is just there to ensure that websites and webapps just run like they should.
+
+The rise of Chrome and chromium based browsers, just like any other monopoly, turns that on its head. Developers, you see, can only implement features, if they know that their users will be able to make use of them. If everyone uses the same engine, and that engine decides to NOT implement a feature, then it's just not going to be used at all, because why make something that no user will ever be able to take advantage of?
+
+This is a problem. Not right now, but it might become one in the future. See,  Chromium is open source, as is Blink, the rendering engine used in Chromium and every browser using it. It's open source, but decisions are made by Google. In 2019, 92% of commits to the code base were made by Google employees. So let's not kid ourselves: Google has total control over what goes in and what they don't want to see in Chromium.
+
+You might say, someone would fork chromium or Blink and start their own browser, and that would solve it. Except no one would move to that browser.
+
+What's important isn't Firefox specifically, it's having rendering engine diversity. Having 2 or 3 engines that have almost equal market share is crucial to avoid that situation, because in that case, the one that doesn't implement a new technology doesn't hold back the whole web.
+
+So how can we solve this? How can we make sure that Chromium doesn't start deciding how the web should run? Well, as users, apart from not using chromium based browsers, and supporting other engines financially, there isn't much we can do.
+
+The other option would be to try and take governance of Chromium away from Google, but I don't see that happening any time soon.
+

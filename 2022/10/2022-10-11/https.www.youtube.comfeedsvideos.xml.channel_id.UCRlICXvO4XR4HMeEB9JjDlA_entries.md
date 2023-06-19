@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Meet the Real-Life James Bond
  - [https://www.youtube.com/watch?v=mG8E17S7PTA](https://www.youtube.com/watch?v=mG8E17S7PTA)

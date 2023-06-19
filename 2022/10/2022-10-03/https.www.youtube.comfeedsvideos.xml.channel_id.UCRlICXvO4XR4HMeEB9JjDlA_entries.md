@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Why This Tiny Shrimp Is Louder Than a Jet Engine
  - [https://www.youtube.com/watch?v=iP_9eb4RY4I](https://www.youtube.com/watch?v=iP_9eb4RY4I)

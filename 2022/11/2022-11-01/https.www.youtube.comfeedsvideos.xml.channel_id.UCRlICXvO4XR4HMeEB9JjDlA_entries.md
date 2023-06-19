@@ -1,4 +1,4 @@
-# Source:Thoughy2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
+# Source:Thoughty2, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA, language:en-US
 
 ## Why a Huge Chunk Of Earth's History Is Missing
  - [https://www.youtube.com/watch?v=5NjZ-WAmXEE](https://www.youtube.com/watch?v=5NjZ-WAmXEE)

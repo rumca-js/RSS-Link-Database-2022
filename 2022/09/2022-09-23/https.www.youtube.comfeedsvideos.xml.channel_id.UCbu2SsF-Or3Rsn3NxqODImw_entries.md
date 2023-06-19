@@ -1,0 +1,81 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## Firearms Expert Reacts To Wolfenstein Franchise Guns
+ - [https://www.youtube.com/watch?v=nw7n91pE2l0](https://www.youtube.com/watch?v=nw7n91pE2l0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-24 00:00:00+00:00
+
+Jonathan Ferguson, a weapons expert and Keeper of Firearms & Artillery at the Royal Armouries, breaks down the weaponry of the Wolfenstein franchise, including the STG 44, a variety of Luger pistols, and an assortment of alt timeline firearms.
+
+00:00 - Opening
+00:42 - Luger (New Order - 1940s)
+02:09 - Luger (New Order - 1960s)
+03:26 - Luger (New Colossus)
+04:14 - Thompson (New Order)
+05:14 - STG 44 (New Order - 1940s)
+08:21 - STG 44 (New Order - 1960s)
+09:43 - Bombenschuss (New Order)
+11:53 - Double barrel shotgun (Old Blood)
+13:12 - Maschinenpistole (New Colossus)
+14:40 - Automatic Shotgun (New Order)
+15:18 - Automatic Shotgun (New Colossus)
+16:57 - MG42 (New Order)
+19:25 - AR Marksman (New Order)
+20:53 - Ending
+
+In the latest video in the Firearm Expert Reacts series, Jonathan Ferguson--a weapons expert and Keeper of Firearms & Artillery at the Royal Armouries--breaks down the guns of the Wolfenstein franchise and compares them to their real-life counterparts.
+
+Firearms Expert Reacts playlist - https://www.youtube.com/watch?v=y4T78VQoWUs&list=PLpg6WLs8kxGMgYb13XjPgOKbm5O-CDq7R
+
+If you're interested in seeing more of Jonathan's work, you can check out more from the Royal Armouries right here. - https://www.youtube.com/user/RoyalArmouries
+
+If you would like to support the Royal Armouries, you can make a charitable donation to the museum here. - https://royalarmouries.org/support-us/donations/
+
+And if you would like to become a member of the Royal Armouries, you can get a membership here. - https://royalarmouries.org/support-us/membership/
+
+You can either purchase Jonathan's book here. - https://www.headstamppublishing.com/bullpup-rifle-book
+
+Or at the Royal Armouries shop here. - https://shop.royalarmouries.org/collections/thorneycroft-to-sa80-british-bullpup-firearms-1901-2020
+
+You can subscribe to the Armax Journal that Jonathan Associate Edited here: https://www.armaxjournal.org/
+
+## GTA 6 Gets Unofficial Map Following Leaks | GameSpot News
+ - [https://www.youtube.com/watch?v=xYd15Xa86sI](https://www.youtube.com/watch?v=xYd15Xa86sI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-23 00:00:00+00:00
+
+In this episode of GameSpot News, we talk about the unofficial GTA 6 map and the Modern Warfare 2 feature that beta players want back.
+#GamingNews #GTA6 #ModernWarfare2 
+
+While Rockstar has been busy sweeping the internet clean of any early gameplay, fans have been busy piecing together a map of GTA 6’s location based on clues from that leaked footage. The project is reminiscent of a fan-made GTA V map created by GTA Forum users, who used the game's promotional footage and screenshots to get an early view of Los Santos. This time, the bare-bones map is being created using in-game coordinates displayed in the leak to figure out where each location sits in relation to the rest of them. These cartographers have had to get creative in order to get around Rockstar's copyright restrictions, with much of the main GTA Forums discussion working out how to most accurately map the leaked content without including images that can't be posted in the community. Other projects hosted outside the forums have more complete maps in the works, including mini-map segments taken from the leaked footage. One map posted by Church of GTA includes some speculative roads and borders, as well as the more concrete details taken from the leaks.
+
+Switching gears to Call of Duty now. Modern Warfare II's beta is in full swing, and one of the hot topics players are discussing is the lack of nameplates above enemies, with many calling for the feature to return in the name of improving visibility. In previous Call of Duty titles, enemy players would have their name displayed in red above their heads, making it clear they were not teammates but hostiles. That's not the case in the Modern Warfare II beta, where players have reported regularly shooting at their own teammates due to it being unclear who is and isn't an enemy.
+
+## Hyper Demon is a Beautiful Nightmare Game | GameSpot After Dark Ep 163
+ - [https://www.youtube.com/watch?v=SZVy2G64lfk](https://www.youtube.com/watch?v=SZVy2G64lfk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2022-09-23 00:00:00+00:00
+
+This week the After Dark crew talks about a LOT of games such as Mario + Rabbids, Temtem, Return to Monkey Island, Trombone Champ, Hyper Demon, and the Modern Warfare II beta!
+
+Timestamps:
+0:00:00 - Intro
+0:01:12 - Mario + Rabbids Sparks of Hope
+0:07:22 - Halo 3
+0:09:19 - One Piece
+0:10:50 - Vampire Survivors 
+0:11:29 - Temtem 1.0
+0:18:43 - Palworld (Pokemon with Guns)
+0:20:53 - Mega Man Battle Network Legacy Collection
+0:25:15 - Return to Monkey Island
+0:34:41 - Cyberpunk Edgerunners + Future of Cyberpunk
+0:44:43 - Trombone Champ
+0:50:34 - Hyper Demon
+0:57:42 - Call of Duty Modern Warfare II beta
+1:10:59 - Did a game get us into another hobby?
+1:15:29 - Yakitate!! Japan
+1:22:50 - What video game vehicle would we own in real life?
+1:26:54 - Outro
+
+#gaming #podcast #hyperdemon
+

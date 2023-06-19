@@ -63,6 +63,13 @@ Followers of a small religion are being targeted for their sensitive information
 
 Here's everything you need to know about Severance season 2 on Apple TV Plus.
 
+## Severance season 2: everything we know so far
+ - [https://www.techradar.com/news/severance-season-2-everything-we-know-so-far](https://www.techradar.com/news/severance-season-2-everything-we-know-so-far)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-11-02 17:00:53+00:00
+
+Here's everything you need to know about Severance season 2 on Apple TV Plus.
+
 ## PSVR 2 preorders: how and where to register your interest now
  - [https://www.techradar.com/news/psvr-2-preorders/](https://www.techradar.com/news/psvr-2-preorders/)
  - RSS feed: https://www.techradar.com/rss

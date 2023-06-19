@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## This Cat Makes Dubstep
  - [https://www.youtube.com/watch?v=iNJWDAgIMYo](https://www.youtube.com/watch?v=iNJWDAgIMYo)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q

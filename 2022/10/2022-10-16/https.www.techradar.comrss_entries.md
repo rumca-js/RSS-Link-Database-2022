@@ -28,6 +28,13 @@ The actor who plays Celebrimbor in Amazon's Lord of the Rings wants to see a dee
 
 Windows 12 is the likely next incarnation of the OS. Here's what we know about it so far - and what we'd like to see from it.
 
+## Windows 12: new features we want to see
+ - [https://www.techradar.com/news/windows-12](https://www.techradar.com/news/windows-12)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-16 11:00:22+00:00
+
+Here's what we know about Windows 12 so far - and what we'd like to see from it.
+
 ## Microsoft’s tech to seriously speed up load times for Windows gamers is coming ‘soon’
  - [https://www.techradar.com/news/microsofts-tech-to-seriously-speed-up-load-times-for-windows-gamers-is-coming-soon/](https://www.techradar.com/news/microsofts-tech-to-seriously-speed-up-load-times-for-windows-gamers-is-coming-soon/)
  - RSS feed: https://www.techradar.com/rss

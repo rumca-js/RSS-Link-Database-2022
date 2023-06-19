@@ -1,0 +1,11 @@
+# Source:Jeremy Jahns, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q, language:en-US
+
+## Dexter: New Blood - FINALE (My Thoughts)
+ - [https://www.youtube.com/watch?v=PPklWvltW7w](https://www.youtube.com/watch?v=PPklWvltW7w)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q
+ - date published: 2022-01-11 00:00:00+00:00
+
+Dexter: New Blood saw the return of Dexter Morgan, giving fans hope for a series that could wash the taste of the Dexter season 8 finale out of their mouths. Here are my thoughts on the Finale of DEXTER: NEW BLOOD!
+
+#DexterNewBlood #Dexter #DexterNewBloodFinale
+

@@ -1,5 +1,3 @@
-# Source:Eliminate, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q, language:en-US
-
 ## 10 Dollar Tinnitus
  - [https://www.youtube.com/watch?v=BfLK4uVdH00](https://www.youtube.com/watch?v=BfLK4uVdH00)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI7kKmUuSQOHUvSWIYFDf1Q
