@@ -1,9 +1,0 @@
-# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
-
-## Everything We Know About Star Wars: Obi-Wan Kenobi
- - [https://gizmodo.com/star-wars-obi-wan-kenobi-disney-plus-release-date-plot-1848661066](https://gizmodo.com/star-wars-obi-wan-kenobi-disney-plus-release-date-plot-1848661066)
- - RSS feed: https://gizmodo.com/rss
- - date published: 2022-03-16 22:00:00+00:00
-
-<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--8bMl1MwV--/c_fit,fl_progressive,q_80,w_636/572c4983d79c46ed1a9320a5afa5adfa.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--Vg41Jb8h--/c_fit,fl_progressive,q_80,w_636/572c4983d79c46ed1a9320a5afa5adfa.mp4" type="video/mp4" /></video><ul><li><a href="https://gizmodo.com/huge-star-wars-updates-andor-teaser-obi-wan-timeline-1845854063">Set 10 years after</a> the events of<em> Star Wars Episode III: Revenge of the Sith</em>, <em>Star Wars: Obi-Wan Kenobi</em> tells the story of how Anakin Skywalker, now Darth Vader, tried to hunt down and kill <a href="https://gizmodo.com/attack-of-the-clones-geonosis-arena-jedi-ranked-1848923034">Obi-Wan Kenobi</a>, <a href="https://gizmodo.com/star-was-obi-wan-kenobi-love-story-anakin-skywalker-dis-1848936515">his old master</a>.</li></ul><p><a href="https://gizmodo.com/star-wars-obi-wan-kenobi-disney-plus-release-date-plot-1848661066">Read more...</a></p>
-

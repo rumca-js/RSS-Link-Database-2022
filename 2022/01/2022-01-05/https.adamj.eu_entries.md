@@ -1,7 +1,0 @@
-## Python Type Hints - How to Handle Optional Imports - Adam Johnson
- - [https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
- - RSS feed: https://adamj.eu
- - date published: 2022-01-05 15:12:23+00:00
-
-This post is not about importing typing.Optional, but instead imports that are themselves optional. Libraries often have optional dependencies, and the code should work whether or not the import is there. A common pattern to solve this to catch ImportError and replace the module with None:
-

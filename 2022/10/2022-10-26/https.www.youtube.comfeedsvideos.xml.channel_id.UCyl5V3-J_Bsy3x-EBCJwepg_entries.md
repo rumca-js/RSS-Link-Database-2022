@@ -1,9 +1,0 @@
-# Source:Babylon Bee, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg, language:en-US
-
-## Is Your Wife Addicted To True Crime? Know the Warning Signs
- - [https://www.youtube.com/watch?v=k6P_VAOGRjU](https://www.youtube.com/watch?v=k6P_VAOGRjU)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg
- - date published: 2022-10-27 00:00:00+00:00
-
-Brought to you by Hunt a Killer. Go to https://www.huntakiller.com/killerbee and use code KILLERBEE for $10 off your order today! - Many wives get addicted to true crime podcasts and documentaries, and it's a real problem. But there is a cure. Take a look at this video to see what the warning signs are.
-

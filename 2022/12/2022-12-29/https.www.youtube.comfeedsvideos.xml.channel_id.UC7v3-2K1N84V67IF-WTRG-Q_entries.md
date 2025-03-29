@@ -1,9 +1,0 @@
-# Source:Jeremy Jahns, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q, language:en-US
-
-## Top 10 WORST Movies 2022
- - [https://www.youtube.com/watch?v=XPoZYo7Ed0I](https://www.youtube.com/watch?v=XPoZYo7Ed0I)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q
- - date published: 2022-12-29 17:00:19+00:00
-
-I've tried to skip out on a number of bad movies, but they seem to find me none the less. Here are my picks of the TOP 10 WORST MOVIES of 2022!
-

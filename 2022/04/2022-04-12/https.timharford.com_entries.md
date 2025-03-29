@@ -1,7 +1,0 @@
-## What Le Corbusier got right about office space | Tim Harford
- - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
- - RSS feed: https://timharford.com
- - date published: 2022-04-12 11:56:55.257586+00:00
-
-A century ago, the father of modern architecture, Le Corbusier, was commissioned by a French industrialist to design some homes for factory workers near Bordeaux. The resulting development, Cité Fr…
-

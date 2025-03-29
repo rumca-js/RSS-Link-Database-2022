@@ -1,9 +1,0 @@
-# Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
-
-## UK parents: are you using informal childcare arrangements, and does this work for your family?
- - [https://www.theguardian.com/money/2022/nov/15/uk-parents-are-you-using-informal-childcare-arrangements-and-does-this-work-for-your-family](https://www.theguardian.com/money/2022/nov/15/uk-parents-are-you-using-informal-childcare-arrangements-and-does-this-work-for-your-family)
- - RSS feed: https://www.theguardian.com/rss
- - date published: 2022-11-15 09:48:11+00:00
-
-<p>We’re interested to hear about informal childcare arrangements parents in the UK are using, why they are doing it and what the implications are</p><p>We’re keen to hear from parents in the UK who have informal childcare arrangements instead of, or in addition to, formal, government-regulated childcare.</p><p>Whether you have friends, neighbours or relatives looking after your children, or use ad hoc babysitters or nannies that are not Ofsted-registered, we’d like to hear from you and how this arrangement works for your family.</p> <a href="https://www.theguardian.com/money/2022/nov/15/uk-parents-are-you-using-informal-childcare-arrangements-and-does-this-work-for-your-family">Continue reading...</a>
-

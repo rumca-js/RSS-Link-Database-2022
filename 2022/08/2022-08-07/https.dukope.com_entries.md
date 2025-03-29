@@ -1,7 +1,0 @@
-## Cramming 'Papers, Please' Onto Phones | Development Logs by Lucas Pope
- - [https://dukope.com/devlogs/papers-please/mobile/](https://dukope.com/devlogs/papers-please/mobile/)
- - RSS feed: https://dukope.com
- - date published: 2022-08-07 09:09:43.005362+00:00
-
-I created Papers, Please in 2013 specifically for desktop computers with mouse control. Now, here, in 2022, desktop computers no longer exist and all computing is done via handheld mobile telephone. Time to update this dinosaur. These thousands of words and megabytes of images will cover some bits of porting the game from big desktop to little phone. As a winking throwback to days past, this is a big dump of text and inline img tags instead of exciting splashes of quick-cut video.
-

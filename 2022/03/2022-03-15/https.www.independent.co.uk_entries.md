@@ -1,7 +1,0 @@
-## Medical student surgically implants Bluetooth device into own ear to cheat in final exam | The Independent
- - [https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html](https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html)
- - RSS feed: https://www.independent.co.uk
- - date published: 2022-03-15 06:47:32.011242+00:00
-
-It was the student’s final attempt to clear the exam after repeatedly failing it since getting admission into the college 11 years ago
-

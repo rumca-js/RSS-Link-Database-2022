@@ -1,7 +1,0 @@
-## Nobody Wants to Teach Anymore. Everyone should know why. | by Jessica Wildfire | Aug, 2022 | Medium
- - [https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11](https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11)
- - RSS feed: https://jessicalexicus.medium.com
- - date published: 2022-08-22 07:59:49.462089+00:00
-
-Everyone should know why.
-

@@ -1,7 +1,0 @@
-## The future of privacy rights in a post-Roe world
- - [https://www.axios.com/2022/06/29/privacy-right-roe-v-wade-dobbs-v-jackson-online-data](https://www.axios.com/2022/06/29/privacy-right-roe-v-wade-dobbs-v-jackson-online-data)
- - RSS feed: https://www.axios.com
- - date published: 2022-06-29 17:34:56.362739+00:00
-
-Abortion rights were rooted in privacy rights. Now that Roe is overturned, other kinds of privacy may be at risk.
-

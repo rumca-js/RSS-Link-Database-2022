@@ -1,7 +1,0 @@
-## Healthchecks.io Hosting Setup, 2022 Edition – Healthchecks.io
- - [https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
- - RSS feed: https://blog.healthchecks.io
- - date published: 2022-05-25 07:36:56.720608+00:00
-
-Here's the summary of the hardware and the software that powers Healthchecks.io.    Hardware    Since 2017, Healthchecks.io runs on dedicated servers at Hetzner. The current lineup is:    HAProxy servers: 4x AX41-NVMe servers (Ryzen 3600, 6 cores)Web servers: 3x AX41-NVMe servers (Ryzen 3600, 6 core
-

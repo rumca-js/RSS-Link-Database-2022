@@ -1,7 +1,0 @@
-## The case for a modern language
- - [https://jeang3nie.codeberg.page/case-for-modern-language-pt1/](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
- - RSS feed: https://jeang3nie.codeberg.page
- - date published: 2022-01-22 20:41:43.054514+00:00
-
-There is a difference of opinion among many programmers regarding the idea of replacing C, either in newly wrritten code or else altogether. I find myself coming down on the side that it makes little sense to try to replace a legacy codebase, and still find C useful in some contexts (particularly in the realm of microcontrollers). That said I think a strong case can be made for using one of the several more modern languages that have sprung up in the systems programming space, at least for newly written code.
-

@@ -1,9 +1,0 @@
-# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
-
-## These Copenhagen designers are dressing A-list celebrities, but you've probably never heard of them
- - [https://www.cnn.com/style/article/copenhagen-fashion-week-jade-cropper-han-kjobenhaven/index.html](https://www.cnn.com/style/article/copenhagen-fashion-week-jade-cropper-han-kjobenhaven/index.html)
- - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
- - date published: 2022-08-19 08:04:54+00:00
-
-In March 2022, celebrity fashion counterculturalist Julia Fox arrived at the Vanity Fair Oscar After-Party dressed in a head-turning black leather gown with a halter-neck-turned-hand wrapped around her neck.
-
